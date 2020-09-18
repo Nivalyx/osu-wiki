@@ -64,7 +64,7 @@ Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seber
 
 Gambar di atas merupakan contoh tampilan antarmuka yang akan kamu lihat ketika kamu memainkan sebuah beatmap. Pada pojok kiri atas layar, kamu akan menemui *health bar* yang akan senantiasa berkurang secara perlahan seiring waktu. Kamu dapat mengisi kembali health bar yang kamu miliki dengan mengenai objek-objek permainan yang telah dijelaskan di atas pada waktu yang tepat -- semakin akurat timing kamu, semakin banyak pula kamu dapat mengisi health bar milikmu. Sebaliknya, apabila kamu mendapatkan miss, maka health bar tersebut akan langsung berkurang dengan cukup signifikan.
 
-Pada pojok kanan atas layar, kamu dapat melihat skor dan akurasi yang telah kamu raih. Lingkaran yang berada di samping indikator akurasi menandakan durasi beatmap yang sedang kamu mainkan. Adapun angka yang tertera pada pojok kiri bawah layar menandakan jumlah kombo yang sedang kamu miliki.
+Pada pojok kanan atas layar, kamu dapat melihat skor dan akurasi yang telah kamu raih. Lingkaran yang berada di samping indikator akurasi menggambarkan durasi beatmap yang sedang kamu mainkan. Adapun angka yang tertera pada pojok kiri bawah layar menandakan jumlah kombo yang sedang kamu miliki.
 
 ## Alternatif Mode Permainan
 
