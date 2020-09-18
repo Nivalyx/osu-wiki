@@ -56,21 +56,13 @@ Spinner merupakan objek permainan yang mengharuskan kamu untuk menahan tombol pa
 
 Lingkaran berwarna putih yang berada pada sisi luar spinner mengindikasikan seberapa banyak sisa waktu yang kamu miliki untuk dapat menyelesaikan spinner yang bersangkutan. Lingkaran ini akan berubah warna menjadi merah apabila waktu yang kamu miliki hampir habis. Pada beatmap-beatmap tertentu yang menggunakan *skin versi 1.0*, alih-alih sebuah lingkaran kamu akan diberikan sebuah garis meteran pada sisi kanan layar sebagai indikator sisa waktu yang kamu miliki.
 
-Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seberapa cepat spinner tersebut berputar yang diukur dalam satuan perputaran per menit *(spins per minute/SPM)* yang memiliki rentang nilai dari 0 hingga 477 (yang merupakan kecepatan perputaran maksimum dari mod [Auto](/wiki/Game_modifier/Auto)). Adapun mod [SpunOut](/wiki/Game_modifier/Spun_Out) akan membuat spinner-spinner diselesaikan secara otomatis oleh komputer dengan kecepatan perputaran sebesar 287 SPM.
+Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seberapa cepat spinner tersebut berputar yang diukur dalam satuan perputaran per menit *(spins per minute/SPM)* yang memiliki rentang nilai dari 0 hingga 477 (yang merupakan kecepatan perputaran maksimum dari mod [Auto](/wiki/Game_modifier/Auto)). Adapun mod [SpunOut](/wiki/Game_modifier/Spun_Out) akan membuat spinner diselesaikan secara otomatis oleh komputer dengan kecepatan perputaran sebesar 287 SPM.
 
-#### Tampilan dalam Game
+#### Tampilan Antarmuka Permainan
 
-![](/wiki/shared/osu-gameplay.jpg)
+![Tampilan antarmuka permainan osu!](/wiki/shared/osu-gameplay.jpg "Tampilan antarmuka permainan osu!")
 
-- Ini adalah tampilan permainan dalam osu!.
-- Batang pada pojok kiri atas adalah *health*.
-  - Ini akan berkurang pada tingkat yang stabil \[tergantung pada tingkat kesulitan beatmap yang dipilih oleh pembuat beatmap (mapper)\], namun kamu dapat mengisinya kembali dengan menekan note yang ada pada waktu yang tepat.
-  - Hit pada waktu yang tepat (300 hit atau Geki Beat) akan meningkatkan *health* lebih daripada hit pada waktu yang kurang tepat (50 hit).
-  - Kelalaian dalam hit akan mengambil cukup banyak *health* yang kamu miliki.
-- Di sebelah batang *health* (di samping kanan) adalah total nilai yang kamu miliki.
-- Di bawah total nilai terdapat tingkat akurasimu.
-- Lingkaran di samping akurasimu dan di bawah total nilaimu adalah batang waktu, yang mana menunjukkan lama lagu yang ada.
-- Angka di pojok kiri bawah adalah total kombo yang tercapai/pengganda nilai yang di dapat.
+Gambar di atas merupakan contoh tampilan antarmuka yang akan kamu temui dalam permainan osu!.
 
 ## Alternatif Mode Permainan
 
