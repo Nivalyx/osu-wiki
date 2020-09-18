@@ -14,7 +14,7 @@ Terdapat dua layar *DS* yang aktif pada satu waktu, di mana layar *DS* bagian at
 
 *Penjelasan lebih lanjut: [osu!](/wiki/Game_mode/osu!)*
 
-Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! telah didesain sedemikian rupa untuk dapat dimainkan dengan menggunakan mouse ataupun peranti-peranti lainnya yang lebih umum. Jenis permainan yang berbeda dapat dilihat di halaman [Play Styles](/wiki/Play_Styles) . Ada beberapa lagu yang dapat melewati batas dari kemampuan mouse biasa (dan kamu), tapi semua (peringkat dan disetujui) beatmap telah di uji coba dan (hampir semua) dapat dilewati dengan mouse.
+Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! telah didesain sedemikian rupa untuk dapat dimainkan dengan menggunakan mouse ataupun peranti-peranti lainnya yang lebih umum. Terdapat banyak cara untuk dapat memainkan osu!, sebagaimana yang dapat dilihat pada laman [play style](/wiki/Play_Style). Ada beberapa lagu yang dapat melewati batas dari kemampuan mouse biasa (dan kamu), tapi semua (peringkat dan disetujui) beatmap telah di uji coba dan (hampir semua) dapat dilewati dengan mouse.
 
 ### Dasar-dasar permainan
 
