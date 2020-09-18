@@ -20,7 +20,7 @@ Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! didesain sedemi
 
 *Tutorial: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)*
 
-Dalam memainkan osu!, secara umum kamu dituntut untuk:
+Dalam bermain osu!, secara umum kamu dituntut untuk:
 
 - Adaptasi dan reaksi terhadap stimuli.
 - Mengerti ketukan lagu dan disain.
