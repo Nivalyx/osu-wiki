@@ -66,6 +66,20 @@ Gambar di atas merupakan contoh tampilan antarmuka yang akan kamu lihat ketika k
 
 Pada pojok kanan atas layar, kamu dapat melihat skor dan akurasi yang telah kamu raih. Lingkaran yang berada di samping indikator akurasi menggambarkan durasi beatmap yang sedang kamu mainkan. Adapun angka yang tertera pada pojok kiri bawah layar menandakan jumlah kombo yang sedang kamu miliki.
 
+#### Kontrol
+
+Secara *default*, osu! menerima input-input sebagai berikut: 
+
+| Mouse | Keyboard | Tablet/Touchscreen |
+| :-- | :-- | :-- |
+| Klik kiri(M1) / Klik kanan(M2) | `Z`(K1) / `X`(K2) | Sentuhan pada layar(M1) |
+
+Pada umumnya, osu! dapat menerima input dalam bentuk apapun dari peranti apapun selama kamu memberikan input yang bersangkutan pada waktu dan lokasi yang tepat.
+
+If [Relax](/wiki/Game_modifier/Relax) game modifer was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
+
+If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_modifier/Spun_Out) mod speed.
+
 ## Alternatif Mode Permainan
 
 ### Apa itu"Taiko"?
