@@ -4,7 +4,7 @@
 
 ### Saya tidak pernah bermain "Ouendan" - apakah itu?
 
-[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) merupakan sebuah permainan yang dirilis untuk *Nintendo DS*. Permainan tersebut hanya didasari pada tiga peraturan dasar: ketuk circle-circle yang muncul pada layar sentuh, ikuti slider-slider yang tergambar sesuai dengan alur yang ditentukan, dan putar spinner-spinner yang ada secepat mungkin. Semua elemen permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari (versi cover) lagu-lagu popular Jepang. Permainan tersebut terlihat seperti ini pada layar *DS*:
+[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) merupakan sebuah permainan yang dirilis untuk *Nintendo DS*. Permainan tersebut hanya didasari pada tiga peraturan dasar: ketuk circle-circle yang muncul pada layar sentuh, ikuti slider-slider yang tergambar sesuai dengan alur yang ditentukan, dan putar spinner-spinner yang ada secepat mungkin. Semua elemen permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari (versi cover) lagu-lagu popular Jepang. Permainan tersebut tampak seperti ini pada layar *DS*:
 
 ![](/wiki/shared/Ouendan.jpg)
 z
