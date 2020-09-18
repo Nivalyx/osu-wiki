@@ -52,9 +52,9 @@ Sebagaimana yang terlihat pada contoh di atas, beberapa slider terkadang juga me
 
 ![Ilustrasi spinner dalam permainan osu!](/wiki/shared/osu_spinner.jpg "Ilustrasi spinner dalam permainan osu!")
 
-Spinner merupakan objek permainan yang mengharuskan kamu untuk menahan tombol pada mouse/keyboard kamu sembari memutar kursor terhadap poros spinner. Kamu harus terus memutar kursor kamu hingga muncul tulisan *Clear* yang menandakan bahwa kamu telah berhasil menyelesaikan spinner tersebut. Apabila kamu berhasil menyelesaikan suatu spinner di saat durasi spinner yang bersangkutan belum sepenuhnya usai, kamu dapat terus memutar untuk mendapatkan poin tambahan.
+Spinner merupakan objek permainan yang mengharuskan kamu untuk menahan tombol pada mouse/keyboard kamu sembari memutar kursor kamu terhadap poros spinner. Kamu harus terus memutar kursor kamu hingga muncul tulisan *Clear* yang menandakan bahwa kamu telah berhasil menyelesaikan spinner tersebut. Apabila kamu berhasil menyelesaikan suatu spinner di saat durasi spinner yang bersangkutan belum sepenuhnya usai, kamu dapat terus memutar untuk mendapatkan poin tambahan.
 
-Lingkaran berwarna putih yang berada di sisi luar spinner merupakan indikator yang menunjukkan seberapa banyak waktu yang kamu miliki untuk dapat menyelesaikan spinner yang bersangkutan. Lingkaran ini akan berubah warna menjadi merah apabila waktu yang kamu miliki hampir habis. Pada beatmap-beatmap tertentu yang menggunakan *skin versi 1.0*, indikator ini tidak berupa lingkaran namun berupa suatu meteran.
+Lingkaran berwarna putih yang berada di sisi luar spinner merupakan indikator yang menunjukkan seberapa banyak waktu yang kamu miliki untuk dapat menyelesaikan spinner yang bersangkutan. Lingkaran ini akan berubah warna menjadi merah apabila waktu yang kamu miliki hampir habis. Pada beatmap-beatmap tertentu yang menggunakan *skin versi 1.0*, alih-alih sebuah lingkaran kamu dapat mengacu pada garis meteran yang ada pada sebelah kanan layar sebagai indikator sisa waktu yang kamu miliki.
 
 The small box below the spinner shows spins per minute. The number inside that box translates to the number of spins possible, if to continue to spin the spinner at that speed for one minute. If mouse/keyboard-button was released (or pen did not touch the tablet) early during the spin, the spinner will stop reading the spin.
 
