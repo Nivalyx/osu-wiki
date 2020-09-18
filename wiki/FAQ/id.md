@@ -8,7 +8,7 @@
 
 ![Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS](/wiki/shared/Ouendan.jpg "Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS")
 
-Terdapat dua layar *DS* yang aktif dalam satu waktu, di mana layar *DS* bagian atas menampilkan sebuah cerita dan layar *DS* bagian bawah menampilkan keseluruhan elemen permainan untuk dimainkan oleh pemain. Setiap level pada Ouendan memiliki ceritanya tersendiri yang pada umumnya berkisah tentang seseorang yang berada dalam kesulitan. Di tengah badai kesulitan inilah pasukan Ouendan kemudian hadir menolong -- dengan kekuatan magis yang mereka miliki, kamu harus membantu orang-orang tersebut untuk dapat keluar dari seluk-beluk masalah yang mereka hadapi.
+Terdapat dua layar *DS* yang aktif dalam satu waktu, di mana layar *DS* bagian atas menampilkan sebuah cerita dan layar *DS* bagian bawah menampilkan keseluruhan elemen permainan untuk dimainkan oleh pemain. Setiap level pada Ouendan memiliki ceritanya tersendiri yang pada umumnya berkisah tentang seseorang yang berada dalam kesulitan. Di tengah badai kesulitan inilah pasukan Ouendan kemudian hadir menolong -- dengan kekuatan magis yang mereka miliki, kamu harus membantu orang-orang tersebut untuk dapat keluar dari seluk-beluk permasalahan yang mereka hadapi.
 
 ### Bagaimana cara saya bermain?
 
@@ -34,7 +34,7 @@ Hal-hal di atas merupakan segelintir aspek krusial yang harus dimiliki oleh seor
 
 #### Circle
 
-![Ilustrasi circle](/wiki/shared/osu_hitcircles.jpg "Ilustrasi circle")
+![Ilustrasi circle dalam permainan osu!](/wiki/shared/osu_hitcircles.jpg "Ilustrasi circle dalam permainan osu!")
 
 Circle merupakan objek permainan yang tersusun atas dua bagian, yakni *hitcircle* utama dan *approach circle* yang mengelilinginya. Di sini, kamu dituntut untuk mengenai circle tepat di saat approach circle bertumpang tindih secara sempurna dengan tepian hitcircle utama. Sesaat setelah kamu mengenai circle tersebut, osu! akan menampilkan *score burst* di atas circle yang bersangkutan sebagai indikasi dari seberapa akurat timing kamu dalam mengenai circle tersebut.
 
@@ -42,11 +42,11 @@ Untuk dapat mengenai circle dengan baik, jangan hanya mengandalkan penglihatan s
 
 #### Slider
 
-![Ilustrasi slider](/wiki/shared/osu_slider.jpg "Ilustrasi slider")
+![Ilustrasi slider dalam permainan osu!](/wiki/shared/osu_slider.jpg "Ilustrasi slider dalam permainan osu!")
 
 Slider pada dasarnya merupakan sebuah circle yang harus kamu tahan. Pertama-tama, kamu harus mengenai awal slider *(slider head)* pada waktu yang tepat seperti layaknya pada sebuah circle. Sesaat setelah kamu mengenai awal slider tersebut, kamu harus menahan tombol mouse/keyboard yang telah kamu tekan sebelumnya sembari menggerakkan kursor kamu mengikuti arah pergerakan bola *(slider ball)* yang muncul. Meskipun demikian, kamu harus senantiasa berhati-hati agar kursor kamu tidak keluar dari lingkaran berwarna jingga *(follow circle)* yang mengelilingi pergerakan slider ball yang bersangkutan.
 
-S
+Sebagaimana yang terlihat pada contoh di atas, sebuah slider dapat memiliki *reverse arrow* yang mengharuskan kamu untuk menggerakkan kursor kembali ke awal slider dan sebaliknya. Selalu perhatikan kapan dan di mana reverse arrow ini muncul.
 
 #### Spinner
 
