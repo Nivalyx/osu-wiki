@@ -36,33 +36,23 @@ Hal-hal di atas merupakan segelintir aspek krusial yang harus dimiliki oleh seor
 
 ![Ilustrasi circle dalam permainan osu!](/wiki/shared/osu_hitcircles.jpg "Ilustrasi circle dalam permainan osu!")
 
-Circle merupakan objek permainan yang tersusun atas dua bagian, yakni *hitcircle* utama dan *approach circle* yang mengelilinginya. Kamu dapat mengenai sebuah circle dengan cara menekan tombol pada mouse/keyboard kamu tepat di saat approach circle bertumpang tindih secara sempurna dengan tepian hitcircle utama. Sesaat setelah kamu mengenai circle tersebut, osu! akan menampilkan *score burst* di atas circle yang bersangkutan sebagai indikasi dari seberapa akurat timing kamu dalam mengenai circle tersebut.
+Circle merupakan objek permainan yang tersusun atas dua bagian, yakni *hitcircle* utama dan *approach circle* yang mengelilinginya. Kamu dapat mengenai circle dengan cara menekan tombol pada mouse/keyboard kamu tepat di saat approach circle bertumpang tindih secara sempurna dengan tepian hitcircle utama. Sesaat setelah kamu mengenai circle tersebut, osu! akan menampilkan *score burst* di atas circle yang bersangkutan sebagai indikasi dari seberapa akurat timing kamu dalam mengenai circle tersebut.
 
-Untuk dapat mengenai sebuah circle dengan baik, jangan hanya mengandalkan penglihatan semata; kamu juga harus merasakan ritme dari lagu yang sedang kamu mainkan. Teknik ini akan sangat membantu kamu untuk dapat menguasai pattern-pattern circle kompleks yang akan kamu temui pada tingkatan-tingkatan kesulitan yang lebih tinggi.
+Untuk dapat mengenai circle dengan baik, jangan hanya mengandalkan penglihatan semata; kamu juga harus merasakan ritme dari lagu yang sedang kamu mainkan. Teknik ini akan sangat membantu kamu untuk dapat menguasai pattern-pattern circle kompleks yang akan kamu temui pada tingkatan-tingkatan kesulitan yang lebih tinggi.
 
 #### Slider
 
 ![Ilustrasi slider dalam permainan osu!](/wiki/shared/osu_slider.jpg "Ilustrasi slider dalam permainan osu!")
 
-Slider pada dasarnya merupakan sebuah circle yang harus kamu tahan. Pertama-tama, kamu harus mengenai awal slider *(slider head)* pada waktu yang tepat seperti layaknya pada sebuah circle. Sesaat setelah kamu mengenai awal slider tersebut, kamu harus menahan tombol mouse/keyboard yang telah kamu tekan sebelumnya sembari menggerakkan kursor kamu mengikuti arah pergerakan bola *(slider ball)* yang muncul. Meskipun demikian, kamu harus senantiasa berhati-hati agar kursor kamu tidak keluar dari lingkaran berwarna jingga *(follow circle)* yang mengelilingi pergerakan slider ball yang bersangkutan.
+Slider pada dasarnya merupakan circle yang harus kamu tahan. Pertama-tama, kamu harus mengenai awal slider *(slider head)* pada waktu yang tepat seperti layaknya pada sebuah circle. Sesaat setelah kamu mengenai awal slider tersebut, kamu harus menahan tombol mouse/keyboard yang telah kamu tekan sebelumnya sembari menggerakkan kursor kamu mengikuti arah pergerakan bola *(slider ball)* yang muncul. Meskipun demikian, kamu harus senantiasa berhati-hati agar kursor kamu tidak keluar dari lingkaran berwarna jingga *(follow circle)* yang mengelilingi pergerakan slider ball yang bersangkutan.
 
-Sebagaimana yang terlihat pada contoh di atas, sebuah slider dapat memiliki *reverse arrow* yang mengharuskan kamu untuk menggerakkan kursor kembali ke awal slider dan sebaliknya. Selalu perhatikan kapan dan di mana reverse arrow ini muncul.
+Sebagaimana yang terlihat pada contoh di atas, beberapa slider terkadang juga memiliki *reverse arrow* yang mengharuskan kamu untuk menggerakkan kursor kembali ke awal slider dan sebaliknya. Selalu perhatikan kapan dan di mana reverse arrow ini muncul.
 
 #### Spinner
 
-![](/wiki/shared/osu_spinner.jpg)
+![Ilustrasi spinner dalam permainan osu!](/wiki/shared/osu_spinner.jpg "Ilustrasi spinner dalam permainan osu!")
 
-- Ini adalah pemutar.
-  - Kamu harus menekan dan menahan 'hit-button', dan gunakan mouse untuk memutar (searah jarum jam atau sebaliknya) di dalam lingkaran seperti menggila sebelum waktunya (maksudnya, garis lingkaran biru tersebut) habis.
-    - Batang di samping pemutar mengindikasikan sebagaimana kamu dapat melewati pemutar tersebut.
-    - Batang kecil di bawah pemutar menunjukkan perputaran per menit, yang berarti jumlah perputaran yang dapat kamu buat jika kamu terus memutar seperti itu dalam satu menit.
-    - Jika kamu tidak menahan tombol mouse atau sejenisnya untuk memutar, maka pengukur di samping pemutar tidak akan mungkin terisi.
-- Di dalam DS, ada cara untuk memutar dengan kuku pada layar sentuh (atau pelindung layar), khususnya pada tingkat kesulitan yang lebih tinggi.
-- Di dalam osu!, pemutar sudah dipermudah dengan tujuan agar tidak terlalu sulit untuk diselesaikan.
-  - Putaran maksimal per menit dapat mencapai 477 putaran yang juga menjadi rata-rata Auto sebagai pembantu permainan namun pembantu permainan Spun Out berputar lebih lambat yaitu 287 putaran per menit.
-  - Belajar dan berlatihlah untuk memutar pemutar tersebut dengan membentuk lingkaran yang sangat kecil (Seperti yang Auto lakukan tetapi itu akan membuat tanganmu menjadi tegang jika kamu tidak menggunakannya.)
-- \[Mouse\]**Jika kursormu tidak dapat berputar tetapi bergerak tiba-tiba bergerak keluar meski kamu memutarnya dengan sangat kecapat, ketahuilah batas dari mouse yang kamu miliki dan miliki mouse/mousepad yang lebih baik**.
-  - Mouse biasa mungkin mengalami masalah seperti itu, dan cara terbaik yang ada adalah **'berputar lambat pada awal daripada tiba-tiba berputar dengan sangat cepat**' jadi mouse akan mengetahui apa yang kamu lakukan.
+Spinner merupakan objek permainan yang mengharuskan kamu untuk menahan tombol pada mouse/keyboard kamu sembari memutar kursor terhadap poros spinner. Kamu harus terus memutar kursor kamu hingga muncul tulisan *Clear* yang mengindikasikan bahwa *spinner circle* yang perlahan muncul dari tengah layar telah sepenuhnya hilang. Apabila tulisan Clear ini telah muncul di saat durasi spinner belum sepenuhnya usai, kamu dapat terus memutar untuk mendapatkan poin tambahan.
 
 #### Tampilan dalam Game
 
