@@ -26,7 +26,7 @@ Dalam bermain osu!, secara umum kamu dituntut untuk:
 - Dapat memahami ketukan-ketukan dan irama-irama pada lagu.
 - Dapat mengontrol peranti input yang digunakan dengan baik.
 - Dapat menakar timing objek-objek yang muncul di layar.
-- Dapat melakukan gerakan rotasi yang berkelanjutan dalam spinner.
+- Dapat melakukan gerakan rotasi yang berkelanjutan pada spinner.
 - Dapat menjaga kebugaran fisik dan mental ketika bermain.
 - Dapat mengkoordinasikan tangan dan mata dengan baik.
 
