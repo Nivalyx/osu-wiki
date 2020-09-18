@@ -36,9 +36,9 @@ Hal-hal di atas merupakan segelintir aspek krusial yang harus dimiliki oleh seor
 
 ![Ilustrasi circle dalam permainan osu!](/wiki/shared/osu_hitcircles.jpg "Ilustrasi circle dalam permainan osu!")
 
-Circle merupakan objek permainan yang tersusun atas dua bagian, yakni *hitcircle* utama dan *approach circle* yang mengelilinginya. Di sini, kamu dituntut untuk mengenai circle tepat di saat approach circle bertumpang tindih secara sempurna dengan tepian hitcircle utama. Sesaat setelah kamu mengenai circle tersebut, osu! akan menampilkan *score burst* di atas circle yang bersangkutan sebagai indikasi dari seberapa akurat timing kamu dalam mengenai circle tersebut.
+Circle merupakan objek permainan yang tersusun atas dua bagian, yakni *hitcircle* utama dan *approach circle* yang mengelilinginya. Kamu dapat mengenai sebuah circle dengan cara menekan tombol pada mouse/keyboard kamu tepat di saat approach circle bertumpang tindih secara sempurna dengan tepian hitcircle utama. Sesaat setelah kamu mengenai circle tersebut, osu! akan menampilkan *score burst* di atas circle yang bersangkutan sebagai indikasi dari seberapa akurat timing kamu dalam mengenai circle tersebut.
 
-Untuk dapat mengenai circle dengan baik, jangan hanya mengandalkan penglihatan semata; kamu juga harus merasakan ritme dari lagu yang sedang kamu mainkan. Teknik ini akan sangat membantu kamu untuk dapat menguasai pattern-pattern circle kompleks yang akan kamu temui pada tingkatan-tingkatan kesulitan yang lebih tinggi.
+Untuk dapat mengenai sebuah circle dengan baik, jangan hanya mengandalkan penglihatan semata; kamu juga harus merasakan ritme dari lagu yang sedang kamu mainkan. Teknik ini akan sangat membantu kamu untuk dapat menguasai pattern-pattern circle kompleks yang akan kamu temui pada tingkatan-tingkatan kesulitan yang lebih tinggi.
 
 #### Slider
 
