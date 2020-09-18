@@ -76,13 +76,11 @@ Secara *default*, osu! menerima input-input sebagai berikut:
 
 Pada umumnya, osu! dapat menerima input dalam bentuk apapun dari peranti apapun selama kamu memberikan input yang bersangkutan pada waktu dan lokasi yang tepat.
 
-If [Relax](/wiki/Game_modifier/Relax) game modifer was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
+Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu hanya perlu untuk menggerakkan kursormu tanpa harus memberikan input apapun ke dalam osu!. Sebaliknya, apabila kamu bermain dengan menggunakan mod [AutoPilot](/wiki/Game_modifier/Autopilot), kamu hanya perlu untuk memberikan input ke dalam osu! tanpa perlu menggerakkan kursormu. 
 
-If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_modifier/Spun_Out) mod speed.
+## Mode-Mode Permainan Lainnya
 
-## Alternatif Mode Permainan
-
-### Apa itu"Taiko"?
+### Apa itu "Taiko"?
 
 *Penjelasan lebih lengkap: [Taiko](/wiki/Game_mode/osu!taiko)*
 
