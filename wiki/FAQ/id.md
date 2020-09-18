@@ -23,12 +23,12 @@ Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! didesain sedemi
 Dalam bermain osu!, secara umum kamu dituntut untuk:
 
 - Dapat beradaptasi dan bereaksi dengan baik terhadap stimulus-stimulus visual.
-- Dapat memahami ketukan-ketukan dan irama-irama pada lagu.
+- Dapat memahami ketukan-ketukan dan irama-irama lagu.
 - Dapat mengontrol peranti input yang digunakan dengan baik.
-- Dapat menakar timing objek-objek yang muncul di layar.
+- Dapat menakar timing objek-objek yang muncul pada layar.
 - Dapat melakukan gerakan rotasi yang berkelanjutan pada spinner.
 - Dapat menjaga kebugaran fisik dan mental ketika bermain.
-- Dapat mengkoordinasikan tangan dan mata dengan baik.
+- Dapat memiliki koordinasi antara mata dan gerakan tangan yang prima.
 
 Ini adalah beberapa kemampuan vital yang akan kamu pelajari dalam perjalananmu menjadi Master permainan irama Osu!, sebelum kamu menjadi master dalam permainan ini, kamu harus mempelajari dasar-dasar (dan teori) tentang objek objek yang dapat di hit.
 
