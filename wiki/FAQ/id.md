@@ -22,25 +22,21 @@ Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! didesain sedemi
 
 Dalam bermain osu!, secara umum kamu dituntut untuk:
 
-- Dapat beradaptasi dan bereaksi dengan baik terhadap stimulus-stimulus visual.
+- Dapat beradaptasi dan bereaksi dengan sigap terhadap stimulus-stimulus visual.
 - Dapat memahami ketukan-ketukan dan irama-irama lagu.
-- Dapat mengontrol peranti input yang digunakan dengan baik.
+- Dapat mengontrol peranti input yang digunakan dengan seksama.
 - Dapat menakar timing objek-objek yang muncul pada layar.
 - Dapat melakukan gerakan rotasi yang berkelanjutan pada spinner.
 - Dapat menjaga kebugaran fisik dan mental selama bermain.
-- Dapat memiliki koordinasi yang prima antara mata dan gerakan tangan.
+- Dapat memiliki koordinasi yang baik antara penglihatan mata dan pergerakan kedua ruas tangan.
 
-Ini adalah beberapa kemampuan vital yang akan kamu pelajari dalam perjalananmu menjadi Master permainan irama Osu!, sebelum kamu menjadi master dalam permainan ini, kamu harus mempelajari dasar-dasar (dan teori) tentang objek objek yang dapat di hit.
-
-Ayo kita belajar tentang objek-objek yang dapat di hit, ok ?
+Hal-hal di atas merupakan beberapa aspek vital yang harus dimiliki oleh seorang *osu! rhythm master*. Sebelum kamu melangkah lebih jauh, ada baiknya bagi kamu untuk terlebih dahulu mempelajari dasar-dasar (dan teori) seputar objek-objek permainan yang ada di osu! sebagai berikut.
 
 #### Circle
 
-![](/wiki/shared/osu_hitcircles.jpg)
+![Circle dalam permainan osu!](/wiki/shared/osu_hitcircles.jpg "Circle dalam permainan osu!")
 
-- Kamu dapat melihat lingkaran yang harus kamu tekan.
-  - Lingkaran bewarna yang lebih kecil diluar mengecil dan mau harus meng-hit note pada saat yang ditentukan.
-- Untuk mengerti Lingkaran yang dapat di hit, kamu tidak boleh hanya mengandalkan penglihatan saja tapi juga irama dan pendengaranmu.
+Circle merupakan objek permainan yang tersusun atas dua bagian, yakni *hitcircle* dan *approach circle*.  
 
 #### Slider
 
