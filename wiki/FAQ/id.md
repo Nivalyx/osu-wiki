@@ -46,7 +46,7 @@ Untuk dapat mengenai circle dengan baik, jangan hanya mengandalkan penglihatan s
 
 Slider pada dasarnya merupakan circle yang harus kamu tahan. Pertama-tama, kamu harus mengenai awal slider *(slider head)* pada waktu yang tepat seperti layaknya pada sebuah circle. Setelah kamu mengenai awal slider tersebut, kamu harus tetap menahan tombol mouse/keyboard yang telah kamu tekan sebelumnya sembari menggerakkan kursor kamu mengikuti arah pergerakan bola *(slider ball)* yang muncul. Meskipun demikian, kamu harus senantiasa berhati-hati agar kursor kamu tidak keluar dari lingkaran berwarna jingga *(follow circle)* yang mengelilingi pergerakan slider ball yang bersangkutan.
 
-Sebagaimana yang terlihat pada contoh di atas, beberapa slider terkadang juga memiliki *reverse arrow* yang mengharuskan kamu untuk menggerakkan kursor kembali ke awal slider dan sebaliknya. Selalu perhatikan kapan dan di mana reverse arrow ini muncul.
+Sebagaimana yang terlihat pada contoh di atas, beberapa slider terkadang juga memiliki *reverse arrow* yang mengharuskan kamu untuk menggerakkan kursor kamu kembali ke awal slider dan sebaliknya. Selalu perhatikan kapan dan di mana reverse arrow ini muncul.
 
 #### Spinner
 
