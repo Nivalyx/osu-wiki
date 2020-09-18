@@ -1,22 +1,19 @@
----
-outdated: true
----
-
 # FAQ
 
 ## Pendahuluan
 
-### Saya tidak pernah bermain "Ouendan" - Apakah itu ?
+### Saya tidak pernah bermain "Ouendan" - apakah itu?
 
-[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) adalah permainan irama untuk Nintendo DS. Permainan tersebut hanya terdiri dari tiga elemen: menekan lingkaran di layah sentuh, membawa bola mengikuti alur yang ditentukan dan memutar sebuah pemutar dengan sangat cepat. Semua elemen ini didasari oleh lagu-lagu popular Jepang. Permainan tersebut terlihat seperti ini di DS:
+[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) merupakan sebuah permainan yang dirilis untuk *Nintendo DS*. Permainan tersebut hanya didasari pada tiga peraturan dasar: ketuk circle-circle yang muncul pada layar sentuh, ikuti slider-slider yang tergambar sesuai dengan alur yang ditentukan, dan putar spinner-spinner yang ada secepat mungkin. Semua elemen permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari (versi cover) lagu-lagu popular Jepang. Permainan tersebut terlihat seperti ini pada layar *DS*:
 
 ![](/wiki/shared/Ouendan.jpg)
+z
 
-Kamu dapat melihat lingkaran-lingkaran di layar bawah, dan di layar atas terdapat kisahnya. Setiap tahap memiliki sebuah kisah tentang seseorang dalam kesulitan. Itulah saat dimana Quendan (Tim Penyemangat) hadir. Melalui kekuatan magis sang penyemangat laki-laki, kamu harus menolong orang-orang dalam kesulitan.
+Terdapat dua layar permainan, dan di layar atas terdapat kisahnya. Setiap tahap memiliki sebuah kisah tentang seseorang dalam kesulitan. Itulah saat dimana Quendan (Tim Penyemangat) hadir. Melalui kekuatan magis sang penyemangat laki-laki, kamu harus menolong orang-orang dalam kesulitan.
 
 ### Bagaimana cara memainkannya ?
 
-*Penjelasan lebih lanjut: [osu! Standard](/wiki/Game_mode/osu!)*
+*Penjelasan lebih lanjut: [osu!](/wiki/Game_mode/osu!)*
 
 Ketika sebagian besar pengguna PC tidak menggunakan layar sentuh, permainan ini dibuat agar dapat dimainkan dengan menggunakan mouse biasa, begitu pula dengan alat-alat lainnya. Jenis permainan yang berbeda dapat dilihat di halaman [Play Styles](/wiki/Play_Styles) . Ada beberapa lagu yang dapat melewati batas dari kemampuan mouse biasa (dan kamu), tapi semua (peringkat dan disetujui) beatmap telah di uji coba dan (hampir semua) dapat dilewati dengan mouse.
 
