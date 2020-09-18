@@ -2,15 +2,15 @@
 
 ## Pendahuluan
 
-### Saya tidak pernah bermain "Ouendan" - apakah itu?
+### Saya tidak pernah bermain "Ouendan" sebelumnya - permainan apakah itu?
 
 [Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) merupakan sebuah permainan yang dirilis untuk *Nintendo DS*. Permainan tersebut hanya didasari pada tiga peraturan dasar: ketuk circle-circle yang muncul pada layar sentuh, ikuti slider-slider yang tergambar sesuai dengan alur yang ditentukan, dan putar spinner-spinner yang ada secepat mungkin. Ketiga elemen permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari (versi cover) lagu-lagu popular Jepang. Permainan tersebut tampak seperti ini pada layar *DS*:
 
 ![Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS](/wiki/shared/Ouendan.jpg "Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS")
 
-Terdapat dua layar *DS* yang aktif pada satu waktu, di mana layar *DS* bagian atas menampilkan sebuah cerita dan layar *DS* bagian bawah menampilkan keseluruhan circle, slider, dan spinner untuk dimainkan oleh pemain. Setiap level pada Ouendan memiliki ceritanya tersendiri yang pada umumnya berkisah tentang seseorang yang berada dalam kesulitan. Inilah saat dimana regu Ouendan hadir. Dengan dibantu oleh kekuatan magis yang mereka miliki, kamu harus menolong orang-orang tersebut untuk dapat keluar dari masalah-masalah yang mereka hadapi.
+Terdapat dua layar *DS* yang aktif pada satu waktu, di mana layar *DS* bagian atas menampilkan sebuah cerita dan layar *DS* bagian bawah menampilkan keseluruhan circle, slider, dan spinner untuk dimainkan oleh pemain. Setiap level pada Ouendan memiliki ceritanya tersendiri yang pada umumnya berkisah tentang seseorang yang berada dalam kesulitan. Di tengah badai kesulitan inilah pasukan Ouendan kemudian hadir menolong -- dengan kekuatan magis yang mereka miliki, kamu harus membantu orang-orang tersebut untuk dapat keluar dari masalah-masalah yang mereka hadapi.
 
-### Bagaimana cara memainkannya ?
+### Bagaimana cara saya bermain?
 
 *Penjelasan lebih lanjut: [osu!](/wiki/Game_mode/osu!)*
 
