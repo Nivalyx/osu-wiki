@@ -44,7 +44,7 @@ Untuk dapat mengenai circle dengan baik, jangan hanya mengandalkan penglihatan s
 
 ![Ilustrasi slider dalam permainan osu!](/wiki/shared/osu_slider.jpg "Ilustrasi slider dalam permainan osu!")
 
-Slider pada dasarnya merupakan circle yang harus kamu tahan. Pertama-tama, kamu harus mengenai awal slider *(slider head)* pada waktu yang tepat seperti layaknya pada sebuah circle. Sesaat setelah kamu mengenai awal slider tersebut, kamu harus menahan tombol mouse/keyboard yang telah kamu tekan sebelumnya sembari menggerakkan kursor kamu mengikuti arah pergerakan bola *(slider ball)* yang muncul. Meskipun demikian, kamu harus senantiasa berhati-hati agar kursor kamu tidak keluar dari lingkaran berwarna jingga *(follow circle)* yang mengelilingi pergerakan slider ball yang bersangkutan.
+Slider pada dasarnya merupakan circle yang harus kamu tahan. Pertama-tama, kamu harus mengenai awal slider *(slider head)* pada waktu yang tepat seperti layaknya pada sebuah circle. Setelah kamu mengenai awal slider tersebut, kamu harus tetap menahan tombol mouse/keyboard yang telah kamu tekan sebelumnya sembari menggerakkan kursor kamu mengikuti arah pergerakan bola *(slider ball)* yang muncul. Meskipun demikian, kamu harus senantiasa berhati-hati agar kursor kamu tidak keluar dari lingkaran berwarna jingga *(follow circle)* yang mengelilingi pergerakan slider ball yang bersangkutan.
 
 Sebagaimana yang terlihat pada contoh di atas, beberapa slider terkadang juga memiliki *reverse arrow* yang mengharuskan kamu untuk menggerakkan kursor kembali ke awal slider dan sebaliknya. Selalu perhatikan kapan dan di mana reverse arrow ini muncul.
 
@@ -54,11 +54,9 @@ Sebagaimana yang terlihat pada contoh di atas, beberapa slider terkadang juga me
 
 Spinner merupakan objek permainan yang mengharuskan kamu untuk menahan tombol pada mouse/keyboard kamu sembari memutar kursor kamu terhadap poros spinner. Kamu harus terus memutar kursor kamu hingga muncul tulisan *Clear* pada layar yang menandakan bahwa kamu telah berhasil menyelesaikan spinner tersebut. Apabila kamu berhasil menyelesaikan suatu spinner di saat durasi spinner yang bersangkutan belum sepenuhnya usai, kamu dapat terus memutar untuk mendapatkan poin tambahan.
 
-Lingkaran berwarna putih yang berada pada sisi luar spinner merupakan indikator yang menunjukkan seberapa banyak waktu yang kamu miliki untuk dapat menyelesaikan spinner yang bersangkutan. Lingkaran ini akan berubah warna menjadi merah apabila waktu yang kamu miliki hampir habis. Pada beatmap-beatmap tertentu yang menggunakan *skin versi 1.0*, alih-alih sebuah lingkaran kamu akan diberikan sebuah garis meteran pada sisi kanan layar sebagai indikator sisa waktu yang kamu miliki.
+Lingkaran berwarna putih yang berada pada sisi luar spinner mengindikasikan seberapa banyak sisa waktu yang kamu miliki untuk dapat menyelesaikan spinner yang bersangkutan. Lingkaran ini akan berubah warna menjadi merah apabila waktu yang kamu miliki hampir habis. Pada beatmap-beatmap tertentu yang menggunakan *skin versi 1.0*, alih-alih sebuah lingkaran kamu akan diberikan sebuah garis meteran pada sisi kanan layar sebagai indikator sisa waktu yang kamu miliki.
 
-The small box below the spinner shows spins per minute. The number inside that box translates to the number of spins possible, if to continue to spin the spinner at that speed for one minute. If mouse/keyboard-button was released (or pen did not touch the tablet) early during the spin, the spinner will stop reading the spin.
-
-On the *DS*, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Game_modifier/Auto) game modifier spins while the [Spun Out](/wiki/Game_modifier/Spun_Out) game modifier spins slower at 287 spins per minute.
+Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seberapa cepat spinner tersebut berputar yang diukur dalam satuan perputaran per menit *(spins per minute/SPM)* yang memiliki rentang nilai dari 0 hingga 477 (yang merupakan kecepatan perputaran maksimum dari mod [Auto](/wiki/Game_modifier/Auto)). Adapun mod [SpunOut](/wiki/Game_modifier/Spun_Out) akan membuat spinner-spinner diselesaikan secara otomatis oleh komputer dengan kecepatan perputaran sebesar 287 SPM.
 
 #### Tampilan dalam Game
 
