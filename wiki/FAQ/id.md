@@ -8,13 +8,13 @@
 
 ![Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS](/wiki/shared/Ouendan.jpg "Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS")
 
-Terdapat dua layar *DS* yang aktif pada satu waktu, di mana layar *DS* bagian atas menampilkan sebuah cerita dan layar *DS* bagian bawah menampilkan keseluruhan elemen permainan untuk dimainkan oleh pemain. Setiap level pada Ouendan memiliki ceritanya tersendiri yang pada umumnya berkisah tentang seseorang yang berada dalam kesulitan. Di tengah badai kesulitan inilah pasukan Ouendan kemudian hadir menolong -- dengan kekuatan magis yang mereka miliki, kamu harus membantu orang-orang tersebut untuk dapat keluar dari masalah-masalah yang mereka hadapi.
+Terdapat dua layar *DS* yang aktif pada satu waktu, di mana layar *DS* bagian atas menampilkan sebuah cerita dan layar *DS* bagian bawah menampilkan keseluruhan elemen permainan untuk dimainkan oleh pemain. Setiap level pada Ouendan memiliki ceritanya tersendiri yang pada umumnya berkisah tentang seseorang yang berada dalam kesulitan. Di tengah badai kesulitan inilah pasukan Ouendan kemudian hadir menolong -- dengan kekuatan magis yang mereka miliki, kamu harus membantu orang-orang tersebut untuk dapat keluar dari seluk-beluk masalah yang mereka hadapi.
 
 ### Bagaimana cara saya bermain?
 
 *Penjelasan lebih lanjut: [osu!](/wiki/Game_mode/osu!)*
 
-Ketika sebagian besar pengguna PC tidak menggunakan layar sentuh, permainan ini dibuat agar dapat dimainkan dengan menggunakan mouse biasa, begitu pula dengan alat-alat lainnya. Jenis permainan yang berbeda dapat dilihat di halaman [Play Styles](/wiki/Play_Styles) . Ada beberapa lagu yang dapat melewati batas dari kemampuan mouse biasa (dan kamu), tapi semua (peringkat dan disetujui) beatmap telah di uji coba dan (hampir semua) dapat dilewati dengan mouse.
+Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! telah didesain sedemikian rupa untuk dapat dimainkan dengan menggunakan mouse ataupun peranti-peranti lainnya yang lebih umum. Jenis permainan yang berbeda dapat dilihat di halaman [Play Styles](/wiki/Play_Styles) . Ada beberapa lagu yang dapat melewati batas dari kemampuan mouse biasa (dan kamu), tapi semua (peringkat dan disetujui) beatmap telah di uji coba dan (hampir semua) dapat dilewati dengan mouse.
 
 ### Dasar-dasar permainan
 
