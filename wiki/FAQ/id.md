@@ -62,7 +62,7 @@ Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seber
 
 ![Tampilan antarmuka permainan osu!](/wiki/shared/osu-gameplay.jpg "Tampilan antarmuka permainan osu!")
 
-Gambar di atas merupakan contoh tampilan antarmuka yang akan kamu temui dalam permainan osu!.
+Gambar di atas merupakan contoh tampilan antarmuka yang akan kamu lihat ketika kamu memainkan sebuah beatmap. Pada pojok kiri atas layar, terdapat *health bar* yang
 
 ## Alternatif Mode Permainan
 
