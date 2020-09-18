@@ -8,7 +8,7 @@
 
 ![Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS](/wiki/shared/Ouendan.jpg "Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS")
 
-Terdapat dua layar *DS* yang aktif dalam satu waktu, di mana layar *DS* bagian atas menampilkan sebuah cerita dan layar *DS* bagian bawah menampilkan keseluruhan elemen permainan untuk dimainkan oleh pemain. Setiap level pada Ouendan memiliki ceritanya tersendiri yang pada umumnya berkisah tentang seseorang yang berada dalam kesulitan. Di tengah badai kesulitan inilah pasukan Ouendan kemudian hadir menolong -- dengan kekuatan magis yang mereka miliki, kamu harus membantu orang-orang tersebut untuk dapat keluar dari seluk-beluk permasalahan yang mereka hadapi.
+Terdapat dua layar *DS* yang aktif dalam satu waktu, di mana layar *DS* bagian atas menampilkan sebuah kisah bergambar dan layar *DS* bagian bawah menampilkan keseluruhan elemen permainan untuk dimainkan oleh pemain. Setiap level pada Ouendan memiliki ceritanya tersendiri yang pada umumnya mengisahkan tentang seseorang yang berada dalam kesulitan. Di tengah badai kesulitan inilah pasukan Ouendan kemudian hadir menolong -- dengan kekuatan magis yang mereka miliki, kamu harus membantu orang-orang tersebut untuk dapat keluar dari seluk-beluk permasalahan yang mereka hadapi.
 
 ### Bagaimana cara saya bermain?
 
