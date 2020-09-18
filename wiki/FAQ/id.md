@@ -30,7 +30,7 @@ Dalam bermain osu!, secara umum kamu dituntut untuk:
 - Dapat menjaga kebugaran fisik dan mental selama bermain.
 - Dapat memiliki koordinasi yang baik antara penglihatan mata dan pergerakan kedua ruas tangan.
 
-Hal-hal di atas merupakan beberapa aspek vital yang harus dimiliki oleh seorang *osu! rhythm master*. Sebelum kamu melangkah lebih jauh, ada baiknya bagi kamu untuk terlebih dahulu mempelajari dasar-dasar (dan teori) seputar objek-objek permainan yang ada di osu! sebagai berikut.
+Hal-hal di atas merupakan segelintir aspek krusial yang harus dimiliki oleh seorang pemain osu! profesional. Sebelum kamu melangkah lebih jauh, ada baiknya bagi kamu untuk terlebih dahulu mempelajari dasar-dasar (dan teori) seputar objek-objek permainan yang ada di osu! sebagai berikut.
 
 #### Circle
 
