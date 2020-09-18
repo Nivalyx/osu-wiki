@@ -34,24 +34,17 @@ Hal-hal di atas merupakan segelintir aspek krusial yang harus dimiliki oleh seor
 
 #### Circle
 
-![Circle dalam permainan osu!](/wiki/shared/osu_hitcircles.jpg "Circle dalam permainan osu!")
+![Ilustrasi circle](/wiki/shared/osu_hitcircles.jpg "Ilustrasi circle")
 
 Circle merupakan objek permainan yang tersusun atas dua bagian, yakni *hitcircle* utama dan *approach circle* yang mengelilinginya. Di sini, kamu dituntut untuk mengenai circle tepat di saat approach circle bertumpang tindih secara sempurna dengan tepian hitcircle utama. Sesaat setelah kamu mengenai suatu circle, osu! akan menampilkan *score burst* di atas circle yang bersangkutan sebagai indikasi dari seberapa akurat timing kamu dalam mengenai circle tersebut.
 
-Untuk dapat
+Untuk dapat mengenai circle dengan baik, jangan hanya mengandalkan penglihatan semata; kamu juga harus merasakan ritme dari lagu yang sedang kamu mainkan. Hal ini akan sangat membantu kamu untuk dapat menguasai pattern-pattern circle kompleks yang akan kamu temui pada tingkatan-tingkatan kesulitan yang lebih tinggi.
 
 #### Slider
 
-![](/wiki/shared/osu_slider.jpg)
+![Ilustrasi slider](/wiki/shared/osu_slider.jpg "Ilustrasi slider")
 
-- Disini kita punya "slider"
-  - Pertama, kamu harus meng-hit note pada waktu yang tepat, tapi itu belum berakhir.
-  - Sebuah bola akan mulai bergerak melintasi jalan yang dapat kamu lihat.
-  - Kamu harus menahan tombol mouse/keyboard (atau jarimu/pen diatas tablet) dan pertahankan *pointer*mu terus di dalam *slider* sambil mengikuti bola yang terus berjalan di atas *slider* tersebut.
-    - Kamu tidak dapat mengubah arah *slider*nya, dan kamu harus mengikuti arah *slider* tersebut.
-    - Lingkaran oranye akan keluar saat kamu menahan bola itu dan akan menghilang saat kamu melepaskannya.
-  - Kadang-kadang, seperti *screenshot* diatas, kamu harus bergerak kembali menuju penghujung *slider*.
-  - Kamu dapat mengetahuinya dengan melihat simbol *pembalik* di penghujung *slider*.
+Untuk, pertama-tama kamu harus mengenai awal slider *(slider head)* pada waktu yang tepat.
 
 #### Spinner
 
