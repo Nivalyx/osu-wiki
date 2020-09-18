@@ -8,7 +8,7 @@
 
 ![Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS](/wiki/shared/Ouendan.jpg "Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS")
 
-Terdapat dua layar *DS* yang aktif dalam satu waktu, di mana layar *DS* bagian atas menampilkan sebuah kisah bergambar dan layar *DS* bagian bawah menampilkan keseluruhan elemen permainan untuk dimainkan oleh pemain. Setiap level pada Ouendan memiliki ceritanya tersendiri yang pada umumnya mengisahkan tentang seseorang yang berada dalam kesulitan. Di tengah badai persoalan inilah pasukan Ouendan kemudian hadir menolong -- dengan dukungan kekuatan ajaib yang mereka miliki, kamu harus membantu orang-orang tersebut untuk dapat keluar dari segala permasalahan yang mereka hadapi.
+Terdapat dua layar *DS* yang aktif dalam satu waktu, di mana layar *DS* bagian atas menampilkan sebuah kisah bergambar dan layar *DS* bagian bawah menampilkan keseluruhan elemen permainan untuk dimainkan oleh pemain. Setiap level pada Ouendan memiliki ceritanya tersendiri yang pada umumnya mengisahkan tentang seseorang yang berada dalam kesulitan. Di tengah badai permasalahan inilah pasukan Ouendan kemudian hadir menolong -- dengan dukungan kekuatan ajaib yang mereka miliki, kamu harus membantu orang-orang tersebut untuk dapat keluar dari segala persoalan yang mereka hadapi.
 
 ### Bagaimana cara saya bermain?
 
@@ -23,14 +23,14 @@ Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! didesain sedemi
 Dalam bermain osu!, secara umum kamu dituntut untuk:
 
 - Dapat beradaptasi dan bereaksi dengan sigap terhadap stimulus-stimulus visual.
-- Dapat memahami ketukan-ketukan dan irama-irama lagu.
+- Dapat memahami ketukan-ketukan dan irama-irama pada lagu.
 - Dapat mengontrol peranti input yang digunakan dengan seksama.
 - Dapat menakar timing objek-objek yang muncul pada layar.
 - Dapat melakukan gerakan rotasi yang berkelanjutan pada spinner.
-- Dapat menjaga kebugaran fisik dan mental selama bermain.
+- Dapat senantiasa menjaga fokus dan konsentrasi mental.
 - Dapat memiliki koordinasi yang baik antara penglihatan mata dan pergerakan kedua ruas tangan.
 
-Hal-hal di atas merupakan segelintir aspek krusial yang harus dimiliki oleh seorang pemain osu! profesional. Sebelum kamu melangkah lebih jauh, ada baiknya bagi kamu untuk terlebih dahulu mempelajari dasar-dasar teori seputar objek-objek permainan yang ada di osu! sebagai berikut.
+Hal-hal di atas merupakan segelintir aspek penting yang harus dimiliki oleh seorang pemain osu! profesional. Sebelum kamu melangkah lebih jauh, ada baiknya bagi kamu untuk terlebih dahulu mempelajari dasar-dasar teori seputar objek-objek permainan yang ada di osu! sebagai berikut.
 
 #### Circle
 
