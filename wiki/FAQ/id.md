@@ -14,13 +14,13 @@ Terdapat dua layar *DS* yang aktif dalam satu waktu, di mana layar *DS* bagian a
 
 *Penjelasan lebih lanjut: [osu!](/wiki/Game_mode/osu!)*
 
-Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! telah didesain sedemikian rupa untuk dapat dimainkan dengan menggunakan mouse ataupun peranti-peranti lainnya yang lebih umum. Terdapat banyak cara untuk dapat memainkan osu!, sebagaimana yang dapat dilihat pada laman [play style](/wiki/Play_Style). Walaupun beberapa beatmap mungkin pada awalnya terkesan mustahil, semua beatmap yang berstatus Ranked dan Approved terjamin oleh [Ranking Criteria](/wiki/Ranking_Criteria) untuk tetap dapat dimainkan dalam batas kemampuan manusia yang sewajarnya.
+Mengingat sebagian besar orang tidak memiliki layar sentuh, osu! didesain sedemikian rupa untuk dapat dimainkan dengan menggunakan mouse ataupun peranti-peranti lainnya yang lebih umum. Terdapat banyak cara untuk dapat memainkan osu!, sebagaimana yang dapat dilihat pada laman [Play Style](/wiki/Play_Style). Walaupun beberapa beatmap mungkin pada awalnya terkesan mustahil, semua beatmap yang berstatus Ranked dan Approved telah terjamin oleh [Ranking Criteria](/wiki/Ranking_Criteria) untuk tetap dapat dimainkan dalam batas kemampuan manusia yang sewajarnya.
 
 ### Dasar-dasar permainan
 
 *Tutorial: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)*
 
-Permainan ini menekankan kepada :
+Dalam memainkan osu!, secara umum kamu dituntut untuk:
 
 - Adaptasi dan reaksi terhadap stimuli.
 - Mengerti ketukan lagu dan disain.
@@ -30,11 +30,11 @@ Permainan ini menekankan kepada :
 - Stamina fisikmu.
 - Kemampuan perangkat kerasmu.
 
-Ini adalah beberapa kemampuan vital yan akan kamu pelajari dalam perjalananmu menjadi Master permainan irama Osu!, sebelum kamu menjadi master dalam permainan ini, kamu harus mempelajari dasar-dasar (dan teori) tentang objek objek yang dapat di hit.
+Ini adalah beberapa kemampuan vital yang akan kamu pelajari dalam perjalananmu menjadi Master permainan irama Osu!, sebelum kamu menjadi master dalam permainan ini, kamu harus mempelajari dasar-dasar (dan teori) tentang objek objek yang dapat di hit.
 
 Ayo kita belajar tentang objek-objek yang dapat di hit, ok ?
 
-#### Lingkaran yang dapat di hit
+#### Circle
 
 ![](/wiki/shared/osu_hitcircles.jpg)
 
@@ -42,7 +42,7 @@ Ayo kita belajar tentang objek-objek yang dapat di hit, ok ?
   - Lingkaran bewarna yang lebih kecil diluar mengecil dan mau harus meng-hit note pada saat yang ditentukan.
 - Untuk mengerti Lingkaran yang dapat di hit, kamu tidak boleh hanya mengandalkan penglihatan saja tapi juga irama dan pendengaranmu.
 
-#### Sliders
+#### Slider
 
 ![](/wiki/shared/osu_slider.jpg)
 
@@ -55,7 +55,7 @@ Ayo kita belajar tentang objek-objek yang dapat di hit, ok ?
   - Kadang-kadang, seperti *screenshot* diatas, kamu harus bergerak kembali menuju penghujung *slider*.
   - Kamu dapat mengetahuinya dengan melihat simbol *pembalik* di penghujung *slider*.
 
-#### Pemutar
+#### Spinner
 
 ![](/wiki/shared/osu_spinner.jpg)
 
