@@ -52,7 +52,7 @@ Sebagaimana yang terlihat pada contoh di atas, beberapa slider terkadang juga me
 
 ![Ilustrasi spinner dalam permainan osu!](/wiki/shared/osu_spinner.jpg "Ilustrasi spinner dalam permainan osu!")
 
-Spinner merupakan objek permainan yang mengharuskan kamu untuk menahan tombol pada mouse/keyboard kamu sembari memutar kursor kamu terhadap poros spinner. Kamu harus terus memutar kursor kamu hingga muncul tulisan *Clear* yang menandakan bahwa kamu telah berhasil menyelesaikan spinner tersebut. Apabila kamu berhasil menyelesaikan suatu spinner di saat durasi spinner yang bersangkutan belum sepenuhnya usai, kamu dapat terus memutar untuk mendapatkan poin tambahan.
+Spinner merupakan objek permainan yang mengharuskan kamu untuk menahan tombol pada mouse/keyboard kamu sembari memutar kursor kamu terhadap poros spinner. Kamu harus terus memutar kursor kamu hingga muncul tulisan *Clear* pada layar yang menandakan bahwa kamu telah berhasil menyelesaikan spinner tersebut. Apabila kamu berhasil menyelesaikan suatu spinner di saat durasi spinner yang bersangkutan belum sepenuhnya usai, kamu dapat terus memutar untuk mendapatkan poin tambahan.
 
 Lingkaran berwarna putih yang berada pada sisi luar spinner merupakan indikator yang menunjukkan seberapa banyak waktu yang kamu miliki untuk dapat menyelesaikan spinner yang bersangkutan. Lingkaran ini akan berubah warna menjadi merah apabila waktu yang kamu miliki hampir habis. Pada beatmap-beatmap tertentu yang menggunakan *skin versi 1.0*, alih-alih sebuah lingkaran kamu akan diberikan sebuah garis meteran pada sisi kanan layar sebagai indikator sisa waktu yang kamu miliki.
 
