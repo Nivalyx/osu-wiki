@@ -116,7 +116,7 @@ Pada osu!taiko, health bar yang kamu miliki akan bertambah atau berkurang tergan
 
 ![Not-not yang muncul dalam berbagai warna dan ukuran pada layar permainan osu!taiko](/wiki/shared/Taiko_hitcircles.jpg "Not-not yang muncul dalam berbagai warna dan ukuran pada layar permainan osu!taiko")
 
-Dalam permainan osu!taiko, kamu utamanya akan dihadapkan dengan not-not berbentuk lingkaran yang berwarna merah dan biru. Kedua jenis not ini pada umumnya disebut sebagai Don (not merah) dan Katu (not biru).
+Dalam permainan osu!taiko, kamu utamanya akan dihadapkan dengan not-not berbentuk lingkaran yang berwarna merah dan biru. Kedua jenis not ini pada umumnya lebih dikenal dengan sebutan Don (not merah) dan Katu (not biru).
 
 Tugas kamu adalah mengenai not-not tersebut sesuai dengan tombol-tombol input yang tertera pada bagian Kontrol di bawah. Apabila kamu melihat **not yang berukuran besar**, kamu disarankan untuk mengenai not tersebut dengan dua tombol input secara bersamaan -- apabila kamu hanya menekan satu tombol, kamu hanya akan mendapatkan setengah dari skor yang seharusnya dapat kamu peroleh untuk not tersebut.
 
