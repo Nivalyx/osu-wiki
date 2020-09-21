@@ -98,33 +98,22 @@ osu!taiko merupakan mode permainan osu! yang didasari pada permainan [Taiko no T
 
 ![Layar permainan osu!taiko](/wiki/shared/Taiko_playfield.jpg "Layar permainan osu!taiko")
 
-**Lingkaran yang dapat di hit:**
+For players with prior *Taiko no Tatsujin* experience:
 
-- Ini akan muncul sebagai lingkaran berwarna merah atau biru pucat. Mereka dinamai sebagai note merah (Don) dan note biru (Katu).
-  - Jika itu lingkaran merah kecil, kamu harus menekan tombol yang berada di dalam bagian drum Taiko atau memukul area besar (dalam) dari TaTaCon.
-  - Jika itu lingkaran biru kecil, kamu harus menekan tombol yang berada di luar drum Taiko atau memukul area samping dari TaTaCon.
-  - Jika note tersebut berupa lingkaran BESAR, makan kamu harus menekan atau memukul kedua bagian dalam atau luar drum tergantung warna note yang ada untuk nilai tambahan.
-    - Note harus ditekan atau dipukul ketika mereka mencapai lingkaran putih kecil di sebelah drum di bawah batang status di dalam area permainan.
+Bagi para pemain yang sebelumnya sudah familiar dengan *Taiko no Tatsujin*, osu!taiko secara umum memiliki mekanisme permainan yang serupa dengan *Taiko no Tatsujin* dengan beberapa perbedaan sebagai berikut:
 
-**Balon yang di hit:**
+- No chibi dancers at the bottom (must be storyboarded)
+- The health bar must be at least 50% full to pass the song (which is not really obvious using the default skin; please look in the [Skin Compendium](https://osu.ppy.sh/community/forums/topics/686664) for a decent osu!taiko skin)
+- *Kiai Time* triggers the *"Go-Go Time"*
+  - Gameplay gimmicks like the hit balloons or forked paths are not implemented (only the barebone basics)
+- Background display difference
+  - osu!taiko-specific beatmap usually has its own custom background, leaving upper section empty
+  - A video or static background image-only beatmap will take the lower portion only
+  - If there is an element of storyboard, it will take over all the available screen space except the gameplay-important parts
 
-- Mereka sama saja seperti note lingkaran kecil merah tetapi dengan sebelum balon di belakangnya.
-  - Kamu harus menekan bagian dalam drum secara terus menerus sampai angka yang ada menunjukkan angka 0.
-  - Kamu akan memperoleh poin setiap pukul dan bonus poin saat memecahkan balon.
+For newcomers of osu!taiko mode, the screen is split to two different sections; the upper section contains the gameplay elements while the lower section contains an image or video for the beatmap. At the upper section, there is the health bar, which unlike other game modes, starts off empty and must be filled up to at least 50% full or half-full to pass the difficulty. At the top-middle part below the health bar, a taiko drum is located at the left-side and a moving conveyor belt which carries the hit objects from right to left passing through a double white circles which serves as judgement circle near the taiko drum. Above the taiko drum is the animated taiko mascot which will react based on judgement received along with upper background colour changes. Lastly, there is the usual score, accuracy, and timer of the beatmap at the upper-right.
 
-**Drum yang menggelinding:**
-
-- Drum yang menggelinding nampak sebagai batang kuning di dalam area permainan.
-  - Kamu harus menekan bagian dalam (atau luar) drum secara terus menerus hingga selesai.
-    - pada note BESAR, kamu harus menekan kedua tombol dalam (atau luar) drum secara bersama dan terus menerus hingga selesai.
-  - Kamu akan memperoleh poin setiap hit yang berhasil di pukul.
-  - Kamu dapat memilih untuk mengabaikannya namun kamu tidak akan mendapatkan nilai tambahan dari hal tersebut.
-
-**Dendens:**
-
-- Mereka muncul seperti pemutar, dengan penghitung yang muncul sebagai waktu yang kamu miliki untuk menyelesaikannya.
-  - Kamu harus menekan bagian dalam dan luar drum dengan tujuan (seperti merah, merah biru,biru merah,merah, dan seterusnya) sampai pengukur Denden telah penuh.
-  - Bonus poin akan diberikan sebagai hit tambahan setelah menyelesaikan sebuat Denden.
+Please note that health drain is disabled in osu!taiko, so only the hit objects will affect the health bar. Combo will not break when playing on an empty field. Unlike osu!, the combo milestone celebration is every 50 consecutive hits. The base score will be boosted after obtaining a combo that is a multiple of 10, but stops at 100 (max combo limit for the boost). If the combo is broken, the boost resets back to the base score. During *Kiai Time*, every successful hit will give the player 20% more points over the current score amount. Score gained from a hit can be checked below the accuracy at the upper-right corner in red.
 
 #### Tombol permainan
 
