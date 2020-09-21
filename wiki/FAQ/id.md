@@ -133,7 +133,7 @@ Secara *default*, input-input yang terdaftar pada osu!taiko adalah sebagai berik
 
 Posisi kursormu tidak berpengaruh pada mode osu!taiko.
 
-Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu tidak lagi diharuskan untuk mengenai not-not yang muncul sesuai dengan warna mereka masing-masing (kamu dapat mengenai not-not berwarna merah dengan tombol input yang seharusnya dipergunakan untuk not-not berwarna biru dan sebaliknya).
+Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu tidak lagi diharuskan untuk mengenai not-not yang muncul sesuai dengan warna mereka masing-masing (kamu dapat mengenai not-not Don dengan tombol input yang seharusnya dipergunakan untuk not-not Kat dan sebaliknya).
 
 Di samping itu, osu!taiko juga menerima input dari controller *TaTaCon* yang kompatibel dengan permainan-permainan seperti *Taiko no Tatsujin* dan *Taiko: Drum Master*.
 
