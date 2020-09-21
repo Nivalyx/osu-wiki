@@ -112,15 +112,20 @@ Bagi para pemain yang sama sekali belum pernah menyentuh *Taiko no Tatsujin* seb
 
 Pada osu!taiko, health bar yang kamu miliki akan bertambah atau berkurang tergantung pada seberapa akurat kamu mengenai not-not yang muncul. Tidak seperti pada osu!, kamu akan mendapatkan bonus multiplier skor setiap 50 kombo. Apabila kamu mendapatkan miss, kombo kamu akan kembali ke 0 dan semua bonus multiplier yang kamu miliki juga akan hilang. Pada saat *Kiai Time*, skor yang kamu peroleh untuk setiap notnya akan dikalikan sebesar 120%. Adapun skor yang kamu dapatkan per notnya akan secara sekilas ditampilkan di bawah indikator skor pada pojok kanan atas layar.
 
-#### Tombol permainan
+#### Kontrol
 
-Terdapat tombol *default* dalam Taiko yaitu :
+Secara *default*, input-input yang terdaftar pada osu!taiko adalah sebagai berikut: 
 
-- Merah: \[Mouse\] Klik kiri, \[Keyboard\] \[X\] atau \[C\], \[TaTaCon\] Bagian datar dalam drum.
-- Biru: \[Mouse\] Klik kanan, \[Keyboard\] \[Z\] atau \[V\], \[TaTaCon\] Bagian luar dalam drum.
-- Arah kursor tidak berpengaruh selama permainan berlangsung.
+| Warna not | Mouse | Keyboard | TaTaCon |
+| :-- | :-- | :-- | :-- |
+| Merah | Klik kiri(L) | `X`(L) / `C`(R) | Bagian dalam drum |
+| Biru | Klik kanan(L) | `Z`(L) / `V`(R) | Bagian luar drum |
 
-Kamu dapat mengatur tombol keyboard yang kamu sukai, dalam *Input tab* di dalam menu pengaturan.
+Posisi kursormu tidak berpengaruh pada mode osu!taiko.
+
+Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu tidak lagi diharuskan untuk mengenai not-not yang muncul sesuai dengan warna mereka masing-masing (kamu dapat mengenai not-not berwarna merah dengan tombol input yang seharusnya dipergunakan untuk not-not berwarna biru dan sebaliknya).
+
+Di samping itu, osu!taiko juga menerima input dari controller *TaTaCon* yang kompatibel dengan permainan-permainan seperti *Taiko no Tatsujin* dan *Taiko: Drum Master*.
 
 ### Apa itu "Catch the Beat"?
 
