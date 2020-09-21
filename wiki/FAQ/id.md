@@ -114,7 +114,7 @@ Pada osu!taiko, health bar yang kamu miliki akan bertambah atau berkurang tergan
 
 ##### Not-not osu!taiko
 
-![Not-not osu!taiko](/wiki/shared/Taiko_hitcircles.jpg "Not-not yang muncul pada layar permainan osu!taiko dalam berbagai warna dan ukuran")
+![Not-not yang muncul dalam berbagai warna dan ukuran pada layar permainan osu!taiko](/wiki/shared/Taiko_hitcircles.jpg "Not-not yang muncul dalam berbagai warna dan ukuran pada layar permainan osu!taiko")
 
 Each taiko notes (or notes, for brevity) will appear as either a red or a pale-blue circle. Those coloured circles were named Don (red notes) and Katu (blue notes), respectively.
 
@@ -135,7 +135,7 @@ Posisi kursormu tidak berpengaruh pada mode osu!taiko.
 
 Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu tidak lagi diharuskan untuk mengenai not-not yang muncul sesuai dengan warna mereka masing-masing (kamu dapat mengenai not-not Don dengan tombol input yang seharusnya dipergunakan untuk not-not Kat dan sebaliknya).
 
-Di samping itu, osu!taiko juga menerima input dari controller *TaTaCon* yang kompatibel dengan *Taiko no Tatsujin* atau *Taiko: Drum Master*.
+Di samping itu, osu!taiko juga menerima input dari controller *TaTaCon* yang kompatibel dengan permainan *Taiko no Tatsujin* atau *Taiko: Drum Master*.
 
 ### Apa itu "Catch the Beat"?
 
