@@ -105,7 +105,7 @@ Bagi para pemain yang sebelumnya sudah familiar dengan *Taiko no Tatsujin*, osu!
 - *Go-Go Time* akan muncul pada setiap *Kiai Time*
   - Elemen-elemen permainan yang secara spesifik muncul pada *Go-Go Time* seperti *hit balloon* dan *forked path* tidak tersedia di osu!taiko
 - Beberapa perbedaan terkait gambar dan video latar:
-  - Gambar dan video latar hanya akan dimunculkan pada paruh bawah layar
+  - Gambar dan video latar hanya akan muncul pada paruh bawah layar
   - Apabila beatmap yang bersangkutan memiliki storyboard, elemen-elemen storyboard yang bertumpang tindih dengan paruh atas layar tidak akan dimunculkan
   
 Bagi para pemain yang sama sekali belum pernah menyentuh *Taiko no Tatsujin* sebelumnya, layar permainan osu!taiko terbagi ke dalam dua bagian utama yang terpisah tepat di tengah layar permainan; paruh atas layar menampilkan komponen-komponen permainan dan paruh bawah layar menampilkan gambar dan video latar yang ada pada beatmap. Pada pojok atas layar, kamu akan menemui health bar yang pada mulanya kosong -- kamu harus mengisi health bar ini hingga setidaknya 50% untuk dapat menyelesaikan beatmap yang bersangkutan. Di bawahnya, kamu akan dihadapkan dengan not-not yang bergerak perlahan dari bagian kanan layar menuju ke drum taiko yang ada di sebelah kiri. Terakhir, seperti biasa, pada pojok kanan atas layar kamu dapat melihat skor, akurasi, dan durasi beatmap yang sedang kamu mainkan.
