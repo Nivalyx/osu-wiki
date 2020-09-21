@@ -118,9 +118,25 @@ Pada osu!taiko, health bar yang kamu miliki akan bertambah atau berkurang tergan
 
 Dalam permainan osu!taiko, kamu akan dihadapkan dengan not-not berbentuk lingkaran yang berwarna merah dan biru. Kedua jenis not ini pada umumnya disebut sebagai Don (not merah) dan Katu (not biru).
 
-Tugas kamu adalah mengenai not-not tersebut sesuai dengan tombol-tombol input yang tertera pada bagian Kontrol di bawah. Apabila kamu melihat **not yang berukuran besar**, kamu disarankan untuk mengenai not tersebut dengan dua tombol imput secara bersamaan -- apabila kamu hanya menekan satu tombol, kamu tidak akan mendapatkan skor yang penuh walaupun kamu tidak dianggap miss.
+Tugas kamu adalah mengenai not-not tersebut sesuai dengan tombol-tombol input yang tertera pada bagian Kontrol di bawah. Apabila kamu melihat **not yang berukuran besar**, kamu disarankan untuk mengenai not tersebut dengan dua tombol imput secara bersamaan -- apabila kamu hanya menekan satu tombol, kamu hanya akan mendapatkan setengah dari skor yang seharusnya dapat kamu peroleh untuk not tersebut.
 
-Not-not tersebut harus dikenai tepat ketika not yang bersangkutan bertumpang tindih dengan *judgement circle* yang terletak di samping drum. Kamu akan dianggap miss apabila kamu menekan warna yang salah, menekan dua warna di saat yang bersamaan, atau tidak mengenai not yang datang sama sekali.
+Keseluruhan not yang datang harus dikenai tepat ketika not yang bersangkutan bertumpang tindih dengan *judgement circle* yang terletak di samping drum. Kamu akan dianggap  miss apabila kamu menekan warna yang salah, menekan dua warna di saat yang bersamaan, atau tidak mengenai not-not yang ada sama sekali.
+
+##### Drumroll
+
+![Drumroll pada osu!taiko](/wiki/shared/Taiko_drumroll.jpg "Drumroll pada osu!taiko")
+
+Hit the inner (or outer) drum continuously for points until the end of the drumroll. For **LARGE** note, hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done. Do note that drumrolls hits were hardcapped and only counted when hitting on the tiny hit circles, rather than drumrolling as fast as possible as in *Taiko no Tatsujin*.
+
+Drumrolls can be ignored with no health penalty, as it does not recover the health bar at all. However, it will cost possible points gained from the drumroll. Each successful hit on the tiny hit circle gives a static 300 score.
+
+##### Dendens
+
+![Spinner pada osu!taiko](/wiki/shared/Taiko_spinner.jpg "Spinner (denden) pada osu!taiko")
+
+Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
+
+It does not increment the combo counter, and does not recover the health bar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect(GREAT) large note score.
 
 #### Kontrol
 
