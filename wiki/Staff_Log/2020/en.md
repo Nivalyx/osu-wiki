@@ -362,6 +362,7 @@ Abbreviations for user groups are used throughout this log:
 
 - 2020-09-01: Moved [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) from **osu! Alumni** to **GMT**
 - 2020-09-12: Added [hypercyte](https://osu.ppy.sh/users/9155377) to **NAT**
+- 2020-09-16: Added [Irreversible](https://osu.ppy.sh/users/1287964) to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -375,6 +376,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-14: Added [StarCastler](https://osu.ppy.sh/users/12402453) to **Probationary BN**
 - 2020-09-14: Added [Beomsan](https://osu.ppy.sh/users/3626063) to **Probationary BN**
 - 2020-09-14: Added [newton-](https://osu.ppy.sh/users/5875419) to **Probationary BN**
+- 2020-09-19: Added [Nelly](https://osu.ppy.sh/users/4741164) to **Probationary BN**
 
 #### Moves
 
@@ -385,6 +387,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-10: Moved [incandescence](https://osu.ppy.sh/users/6256027) from **BN** to **Probationary BN**
 - 2020-09-11: Moved [C00L](https://osu.ppy.sh/users/4930630) from **Probationary BN** to **BN**
 - 2020-09-16: Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from **Probationary BN** to **BN**
+- 2020-09-17: Moved [Ayucchi](https://osu.ppy.sh/users/7823498) from **Probationary BN** to **BN**
+- 2020-09-20: Moved [Rocma](https://osu.ppy.sh/users/566276) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -392,5 +396,9 @@ Abbreviations for user groups are used throughout this log:
 - 2020-09-12: Removed [hypercyte](https://osu.ppy.sh/users/9155377) from **BN**
 - 2020-09-12: Removed [Keiga](https://osu.ppy.sh/users/6866022) from **BN**
 - 2020-09-14: Removed [Garalulu](https://osu.ppy.sh/users/757783) from **Probationary BN**
+- 2020-09-16: Removed [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) from **Probationary BN**
+- 2020-09-16: Removed [wonjae](https://osu.ppy.sh/users/5032045) from **BN**
+- 2020-09-18: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
+- 2020-09-20: Removed [Sinnoh](https://osu.ppy.sh/users/4236057) from **BN**
 
-<!-- last update: 2020-09-16 0 UTC moved hobbes2 to bn -->
+<!-- last update: 2020-09-20 19 UTC moved rocma to full bn -->

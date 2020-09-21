@@ -2,22 +2,23 @@
 tags:
   - BN
   - BNG
-outdated: true
 ---
 
 # Beatmap Aday Göstericiler
 
 *Ayrıca bakınız: [Beatmap Aday Gösterici Kuralları](Rules), [Beatmap Aday Göstericiler için Genel Bilgi](General_Information), ve [Beatmap Aday Gösterici Olma](Becoming_a_Beatmap_Nominator)*
 
-**Beatmap Aday Göstericiler** *(Beatmap Nominators)*, genellikle *BN* şeklinde kısaltılır, [beatmap aday gösterme](/wiki/Beatmap_ranking_procedure) ile ilgilenen bir gruptur. 2014-08-22 itibariyle, oyun-içi sohbet moderasyon yetkileri, oyunda ve forumlardaki kırmızı isimleri kaldırılarak, personel ekibin bir üyesi olmaktan çıkarıldı. 2015-02-01 tarihiyle birlikte, takımın eski ismi olan *Beatmap Değerlendirme Takımı (Beatmap Appreciation Team)* ismi *Beatmap Aday Göstericiler (Beatmap Nominators)* olarak değiştirildi.
+**Beatmap Aday Göstericiler** *(Beatmap Nominators, **BN**)* [beatmap aday gösterme](/wiki/Beatmap_ranking_procedure) ile ilgilenen bir gruptur. Beatmap tartışmalarında ve forumlarda mor isme sahiptirler.
 
 ## Roller ve sorumluluklar
 
-Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmapların](/wiki/Beatmaps) derecelendirme döngüsüne sokmak için gerekli olan [modlama *(modding)*](/wiki/Modding) işleminden sorumludur. Beatmap Aday Göstericiler *mapping* ve *modding* ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Beatmap Aday Göstericiler üyeleri deneme sürecindeki üyeler ve asil üyeler olmak üzere ikiye ayrılır. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini *(Ranking Criteria)* doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](Beatmap_Veto) oluşturabilir.
+Beatmap Aday Göstericiler üyeleri temel olarak [beklemedeki beatmaplerin](/wiki/Beatmaps#work-in-progress-and-pending) [modlanmasından](/wiki/Modding) ve onların derecelendirme sürecine dahil olması için gereken onay işleminden sorumludur. Beatmap Aday Göstericiler mapleme ve modlama ile ilgili her türlü konuda tavsiye isteyebileceğiniz ve istekte bulunabileceğiniz kişilerdir. Herhangi bir Beatmap Aday Gösterici eğer aday gösterilmiş bir beatmapin Derecelendirme Kriterlerini doğrudan çiğnemeyen ama düzeltilmesi gereken sorunları olduğunu düşünüyorsa bir [beatmap vetosu](Beatmap_Veto) oluşturabilir.
+
+Beatmap Aday Gösterici üyeleri iki gruba ayrılır: asil üyeler ve deneme sürecindeki üyeler.
 
 ### Asil Beatmap Aday Göstericiler
 
-Sıradan beatmap *modding* ve derecelendirme işlemine ek olarak, Beatmap Aday Göstericilerin asil üyeleri nitelikli *(qualified)* kısmındaki sorun bulunan beatmaplerin diskalifiye edilmesinden de sorumludur. Asil Beatmap Aday Göstericiler, eğer gelecekte Aday Gösterme Denetleme Takımına *(Nomination Assessment Team)* katılmayı düşünüyorlarsa, Beatmap Aday Gösterici Başvurularının değerlendirilmesinde de katkıda bulunabilirler.
+Sıradan beatmap modlama ve derecelendirme işlemine ek olarak, Beatmap Aday Göstericilerin asil üyeleri nitelikli kısmındaki sorun bulunan beatmaplerin diskalifiye edilmesinden de sorumludur. Asil Beatmap Aday Göstericiler, eğer gelecekte Aday Gösterme Denetleme Takımına *(Nomination Assessment Team)* katılmayı düşünüyorlarsa, Beatmap Aday Gösterici başvurularının değerlendirilmesinde de katkıda bulunabilirler.
 
 Yaklaşık olarak her üç ayda bir, asil Beatmap Aday Göstericilerin, Aday Gösterme Denetleme Takımı tarafından davranışları ve aday gösterme aktiviteleri/nitelikleri değerlendirilir. Eğer aday göstermeleri belirli sebeplerden ötürü sürekli sıfırlanıyorsa veya gösterdikleri davranış uygunsuzsa, deneme sürecindeki Beatmap Aday Göstericilere kaydırılabilirler.
 
@@ -48,6 +49,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Rusça |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | İtalyanca |
+| ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) | Çince |
 | ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Japonca |
 | ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Çince |
@@ -84,7 +86,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_BR] [pimp](https://osu.ppy.sh/users/328615) | Portekizce |
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | Fransızca |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | Korece |
-| ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
 | ![][flag_US] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Rusça |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | Almanca |
@@ -96,7 +97,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arapça |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | Fince |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Tay dili |
-| ![][flag_BR] [Trynna](https://osu.ppy.sh/users/2652951) | Portekizce |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | İspanyolca, Fransızca |
 | ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Çince, Japonca |
@@ -131,9 +131,8 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | İspanyolca |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Endonezce |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipince |
+| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korece |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Endonezce, biraz Çince |
 
 #### osu!mania
@@ -161,7 +160,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498) |  |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | Korece |
 | ![][flag_BE] [Een Persoon](https://osu.ppy.sh/users/10959501) | Flemenkçe |
 | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | Çince |
@@ -180,7 +178,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Türkçe |
-| ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196) | Korece, Japonca |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Biraz İspanyolca |
 | ![][flag_FI] [Jaltzu](https://osu.ppy.sh/users/2597417) | Fince, Japonca |
 | ![][flag_KR] [Ulqui](https://osu.ppy.sh/users/1263669) | İspanyolca |
@@ -192,7 +189,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | Çince, Kantonca |
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipince |
 | ![][flag_PH] [JierYagtama](https://osu.ppy.sh/users/7483452) | Filipince |
-| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | Korece |
+| ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | Rusça |
 
 #### osu!mania
 
@@ -202,6 +199,12 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_KR] [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
 | ![][flag_ID] [Stelar](https://osu.ppy.sh/users/15205070) | Endonezce |
 | ![][flag_ID] [RiP46](https://osu.ppy.sh/users/5222596) | Endonezce |
+
+## Tarihçe
+
+- Beatmap Aday Göstericiler eskiden *Beatmap Değerlendirme Takımı (Beatmap Appreciation Team)* (BAT) olarak adlandırılırdı.
+- 22 Ağustos 2014 tarihinde, BAT personel ekibinin bir parçası olmaktan çıkarıldı. Böylece oyun-içi sohbet moderasyon yetkileri, oyundaki ve forumdaki kırmızı isimleri kaldırılmış oldu.
+- 1 Şubat 2015 tarihinde, takımın ismi *Beatmap Değerlendirme Takımından (Beatmap Appreciation Team)* *Beatmap Aday Gösterme Grubu (Beatmap Nomination Group)* olarak değiştirildi, daha sonra ise günümüzde aşina olduğumuz Beatmap Aday Göstericiler olarak yeniden düzenlendi.
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"
 [flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
