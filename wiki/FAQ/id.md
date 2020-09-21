@@ -96,7 +96,7 @@ osu!taiko merupakan mode permainan osu! yang didasari pada permainan [Taiko no T
 
 #### Penjelasan dasar
 
-![Taiko playfield](/wiki/shared/Taiko_playfield.jpg "In-game playfield interface of osu!taiko")
+![Layar permainan osu!taiko](/wiki/shared/Taiko_playfield.jpg "Layar permainan osu!taiko")
 
 **Lingkaran yang dapat di hit:**
 
