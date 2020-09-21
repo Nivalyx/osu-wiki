@@ -116,11 +116,11 @@ Pada osu!taiko, health bar yang kamu miliki akan bertambah atau berkurang tergan
 
 ![Not-not yang muncul dalam berbagai warna dan ukuran pada layar permainan osu!taiko](/wiki/shared/Taiko_hitcircles.jpg "Not-not yang muncul dalam berbagai warna dan ukuran pada layar permainan osu!taiko")
 
-Each taiko notes (or notes, for brevity) will appear as either a red or a pale-blue circle. Those coloured circles were named Don (red notes) and Katu (blue notes), respectively.
+Dalam permainan osu!taiko, kamu akan dihadapkan dengan not-not berbentuk lingkaran yang berwarna merah dan biru. Kedua jenis not ini pada umumnya disebut sebagai Don (not merah) dan Katu (not biru).
 
-If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (center) of the *TaTaCon*. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the *TaTaCon*. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double point (a single correct hit will give single point instead).
+Tugas kamu adalah mengenai not-not tersebut sesuai dengan tombol-tombol input yang tertera pada bagian Kontrol di bawah. Apabila kamu melihat **not yang berukuran besar**, kamu disarankan untuk mengenai not tersebut dengan dua tombol imput secara bersamaan -- apabila kamu hanya menekan satu tombol, kamu tidak akan mendapatkan skor yang penuh walaupun kamu tidak dianggap miss.
 
-The notes must be pressed or hit in the small white judgement circle next to the drum. Hitting the wrong colour, or both red and blue colours at the same time, will be considered a miss.
+Not-not tersebut harus dikenai tepat ketika not yang bersangkutan bertumpang tindih dengan *judgement circle* yang terletak di samping drum. Kamu akan dianggap miss apabila kamu menekan warna yang salah, menekan dua warna di saat yang bersamaan, atau tidak mengenai not yang datang sama sekali.
 
 #### Kontrol
 
@@ -131,7 +131,7 @@ Secara *default*, input-input yang terdaftar pada osu!taiko adalah sebagai berik
 | Merah | Klik kiri(L) | `X`(L) / `C`(R) | Bagian dalam drum |
 | Biru | Klik kanan(L) | `Z`(L) / `V`(R) | Bagian luar drum |
 
-Posisi kursormu tidak berpengaruh pada mode osu!taiko.
+Posisi kursor tidak berpengaruh pada mode osu!taiko.
 
 Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu tidak lagi diharuskan untuk mengenai not-not yang muncul sesuai dengan warna mereka masing-masing (kamu dapat mengenai not-not Don dengan tombol input yang seharusnya dipergunakan untuk not-not Kat dan sebaliknya).
 
