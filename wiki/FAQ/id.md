@@ -106,11 +106,21 @@ Bagi para pemain yang sebelumnya sudah familiar dengan *Taiko no Tatsujin*, osu!
   - Elemen-elemen permainan yang secara spesifik muncul pada *Go-Go Time* seperti *hit balloon* dan *forked path* tidak tersedia di osu!taiko
 - Beberapa perbedaan terkait gambar dan video latar:
   - Gambar dan video latar hanya akan dimunculkan pada paruh bawah layar
-  - Apabila beatmap yang bersangkutan mengandung storyboard, elemen-elemen storyboard yang bertumpang tindih dengan paruh atas layar tidak akan dimunculkan
+  - Apabila beatmap yang bersangkutan memiliki storyboard, elemen-elemen storyboard yang bertumpang tindih dengan paruh atas layar tidak akan dimunculkan
   
 Bagi para pemain yang sama sekali belum pernah menyentuh *Taiko no Tatsujin* sebelumnya, layar permainan osu!taiko terbagi ke dalam dua bagian utama yang terpisah tepat di tengah layar permainan; paruh atas layar menampilkan komponen-komponen permainan dan paruh bawah layar menampilkan gambar dan video latar yang ada pada beatmap. Pada pojok atas layar, kamu akan menemui health bar yang pada mulanya kosong -- kamu harus mengisi health bar ini hingga setidaknya 50% untuk dapat menyelesaikan beatmap yang bersangkutan. Di bawahnya, kamu akan dihadapkan dengan not-not yang bergerak perlahan dari bagian kanan layar menuju ke drum taiko yang ada di sebelah kiri. Terakhir, seperti biasa, pada pojok kanan atas layar kamu dapat melihat skor, akurasi, dan durasi beatmap yang sedang kamu mainkan.
 
 Pada osu!taiko, health bar yang kamu miliki akan bertambah atau berkurang tergantung pada seberapa akurat kamu mengenai not-not yang muncul. Tidak seperti pada osu!, kamu akan mendapatkan bonus multiplier skor setiap 50 kombo. Apabila kamu mendapatkan miss, kombo kamu akan kembali ke 0 dan semua bonus multiplier yang kamu miliki juga akan hilang. Pada saat *Kiai Time*, skor yang kamu peroleh untuk setiap notnya akan dikalikan sebesar 120%. Adapun skor yang kamu dapatkan per notnya akan secara sekilas ditampilkan di bawah indikator skor pada pojok kanan atas layar.
+
+##### Not-not osu!taiko
+
+![Not-not osu!taiko](/wiki/shared/Taiko_hitcircles.jpg "Not-not yang muncul pada layar permainan osu!taiko dalam berbagai warna dan ukuran")
+
+Each taiko notes (or notes, for brevity) will appear as either a red or a pale-blue circle. Those coloured circles were named Don (red notes) and Katu (blue notes), respectively.
+
+If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (center) of the *TaTaCon*. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the *TaTaCon*. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double point (a single correct hit will give single point instead).
+
+The notes must be pressed or hit in the small white judgement circle next to the drum. Hitting the wrong colour, or both red and blue colours at the same time, will be considered a miss.
 
 #### Kontrol
 
