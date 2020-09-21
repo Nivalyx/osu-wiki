@@ -98,8 +98,6 @@ osu!taiko merupakan mode permainan osu! yang didasari pada permainan [Taiko no T
 
 ![Layar permainan osu!taiko](/wiki/shared/Taiko_playfield.jpg "Layar permainan osu!taiko")
 
-For players with prior *Taiko no Tatsujin* experience:
-
 Bagi para pemain yang sebelumnya sudah familiar dengan *Taiko no Tatsujin*, osu!taiko secara umum memiliki mekanisme permainan yang serupa dengan *Taiko no Tatsujin* dengan beberapa perbedaan sebagai berikut:
 
 - No chibi dancers at the bottom (must be storyboarded)
