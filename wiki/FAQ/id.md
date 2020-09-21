@@ -128,12 +128,11 @@ Keseluruhan not yang datang harus dikenai tepat ketika not yang bersangkutan ber
 
 Drumroll merupakan objek permainan osu!taiko yang mengharuskan kamu untuk secara terus-menerus menekan tombol input kamu hingga akhir drumroll. Apabila kamu menemui **drumroll yang berukuran besar**, alih-alih dengan satu tombol kamu harus mengenai drumroll tersebut secara terus-menerus dengan dua tombol input secara bersamaan. Kamu akan mendapatkan skor +300 untuk setiap drumroll tick yang kamu kenai.
 
-Drumroll pada osu!taiko dapat sepenuhnya diabaikan -- apabila kamu tidak mengenai drumroll tick yang ada pada drumroll (atau bahkan tidak mengenai drumroll yang bersangkutan sama sekali), kamu tidak akan mendapatkan miss. Meskipun demikian, kamu tidak disarankan untuk melepas drumroll-drumroll yang ada begitu saja mengingat skor yang kamu dapatkan dari drumroll pada umumnya cukup memiliki pengaruh yang signifikan.
-
+Drumroll pada osu!taiko dapat sepenuhnya diabaikan -- kamu tidak akan mendapatkan miss apabila kamu tidak mengenai satu atau lebih drumroll tick yang terdapat pada drumroll (atau bahkan tidak mengenai drumroll yang bersangkutan sama sekali). Meskipun demikian, kamu tidak disarankan untuk melepas drumroll-drumroll yang ada begitu saja mengingat skor yang kamu dapatkan dari drumroll pada umumnya cukup memiliki pengaruh yang signifikan.
 
 ##### Dendens
 
-![Spinner pada osu!taiko](/wiki/shared/Taiko_spinner.jpg "Spinner (denden) pada osu!taiko")
+![Denden (spinner) pada osu!taiko](/wiki/shared/Taiko_spinner.jpg "Denden (spinner) pada osu!taiko")
 
 Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
 
