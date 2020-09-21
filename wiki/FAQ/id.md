@@ -120,7 +120,7 @@ Dalam permainan osu!taiko, kamu akan dihadapkan dengan not-not berbentuk lingkar
 
 Tugas kamu adalah mengenai not-not tersebut sesuai dengan tombol-tombol input yang tertera pada bagian Kontrol di bawah. Apabila kamu melihat **not yang berukuran besar**, kamu disarankan untuk mengenai not tersebut dengan dua tombol input secara bersamaan -- apabila kamu hanya menekan satu tombol, kamu hanya akan mendapatkan setengah dari skor yang seharusnya dapat kamu peroleh untuk not tersebut.
 
-Keseluruhan not yang datang harus dikenai tepat ketika not yang bersangkutan bertumpang tindih dengan *judgement circle* yang terletak di samping drum. Kamu akan dianggap  miss apabila kamu menekan warna yang salah, menekan dua warna di saat yang bersamaan, atau tidak mengenai not-not yang ada sama sekali.
+Keseluruhan not yang datang harus dikenai tepat ketika not yang bersangkutan bertumpang tindih dengan *judgement circle* yang terletak di samping drum. Kamu akan mendapatkan  miss apabila kamu menekan warna yang salah, menekan dua warna di saat yang bersamaan, atau tidak mengenai not-not yang ada sama sekali.
 
 ##### Drumroll
 
