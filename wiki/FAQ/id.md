@@ -100,14 +100,15 @@ osu!taiko merupakan mode permainan osu! yang didasari pada permainan [Taiko no T
 
 Bagi para pemain yang sebelumnya sudah familiar dengan *Taiko no Tatsujin*, osu!taiko secara umum memiliki mekanisme permainan yang serupa dengan *Taiko no Tatsujin* dengan beberapa perbedaan sebagai berikut:
 
-- No chibi dancers at the bottom (must be storyboarded)
-- The health bar must be at least 50% full to pass the song (which is not really obvious using the default skin; please look in the [Skin Compendium](https://osu.ppy.sh/community/forums/topics/686664) for a decent osu!taiko skin)
-- *Kiai Time* triggers the *"Go-Go Time"*
-  - Gameplay gimmicks like the hit balloons or forked paths are not implemented (only the barebone basics)
-- Background display difference
-  - osu!taiko-specific beatmap usually has its own custom background, leaving upper section empty
-  - A video or static background image-only beatmap will take the lower portion only
-  - If there is an element of storyboard, it will take over all the available screen space except the gameplay-important parts
+- Tidak ada karakter chibi yang tampil menghiasi bagian bawah layar permainan
+- Untuk dapat menyelesaikan suatu beatmap, kamu harus mengisi health bar yang kamu miliki hingga setidaknya 50%
+- *Go-Go Time* akan muncul pada setiap *Kiai Time*
+  - Elemen-elemen permainan yang secara spesifik muncul pada *Go-Go Time* seperti *hit balloon* dan *forked path* tidak tersedia di osu!taiko
+- Beberapa perbedaan terkait gambar dan video latar:
+  - Gambar dan video latar hanya akan dimunculkan pada paruh bawah layar
+  - Apabila beatmap yang bersangkutan mengandung storyboard, elemen-elemen storyboard yang bertumpang tindih dengan paruh atas layar tidak akan dimunculkan
+  
+Bagi para pemain yang sama sekali belum pernah menyentuh *Taiko no Tatsujin* sebelumnya, layar permainan osu!taiko terbagi ke dalam dua bagian utama yang terpisah tepat di tengah layar permainan; paruh atas layar menampilkan komponen-komponen permainan dan paruh bawah layar menampilkan gambar dan video latar. Pada pojok atas layar kamu akan menemui health bar yang
 
 For newcomers of osu!taiko mode, the screen is split to two different sections; the upper section contains the gameplay elements while the lower section contains an image or video for the beatmap. At the upper section, there is the health bar, which unlike other game modes, starts off empty and must be filled up to at least 50% full or half-full to pass the difficulty. At the top-middle part below the health bar, a taiko drum is located at the left-side and a moving conveyor belt which carries the hit objects from right to left passing through a double white circles which serves as judgement circle near the taiko drum. Above the taiko drum is the animated taiko mascot which will react based on judgement received along with upper background colour changes. Lastly, there is the usual score, accuracy, and timer of the beatmap at the upper-right.
 
