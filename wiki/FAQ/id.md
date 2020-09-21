@@ -98,7 +98,7 @@ osu!taiko merupakan mode permainan osu! yang didasari pada permainan [Taiko no T
 
 ![Layar permainan osu!taiko](/wiki/shared/Taiko_playfield.jpg "Layar permainan osu!taiko")
 
-Bagi para pemain yang sebelumnya sudah familiar dengan *Taiko no Tatsujin*, osu!taiko secara umum memiliki mekanisme permainan yang serupa dengan *Taiko no Tatsujin* dengan beberapa perbedaan sebagai berikut:
+Bagi para pemain yang sebelumnya sudah familiar dengan permainan *Taiko no Tatsujin*, osu!taiko secara umum memiliki mekanisme permainan yang serupa dengan *Taiko no Tatsujin* dengan beberapa perbedaan sebagai berikut:
 
 - Tidak ada karakter chibi yang tampil menghiasi bagian bawah layar permainan
 - Untuk dapat menyelesaikan suatu beatmap, kamu harus mengisi health bar yang kamu miliki hingga setidaknya 50%
