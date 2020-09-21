@@ -118,7 +118,7 @@ Pada osu!taiko, health bar yang kamu miliki akan bertambah atau berkurang tergan
 
 Dalam permainan osu!taiko, kamu utamanya akan dihadapkan dengan not-not berbentuk lingkaran yang berwarna merah dan biru. Kedua jenis not ini pada umumnya lebih dikenal dengan sebutan Don (not merah) dan Katu (not biru).
 
-Tugas kamu adalah mengenai not-not tersebut sesuai dengan tombol-tombol input yang tertera pada bagian Kontrol di bawah. Apabila kamu melihat **not yang berukuran besar**, kamu disarankan untuk mengenai not tersebut dengan dua tombol input secara bersamaan -- apabila kamu hanya menekan satu tombol, kamu hanya akan mendapatkan setengah dari skor yang seharusnya dapat kamu peroleh untuk not tersebut.
+Tugas kamu adalah mengenai not-not tersebut sesuai dengan tombol-tombol input yang tertera pada bagian Kontrol di bawah. Apabila kamu menemui **not yang berukuran besar**, kamu disarankan untuk mengenai not tersebut dengan dua tombol input secara bersamaan -- apabila kamu hanya menekan satu tombol, kamu hanya akan mendapatkan setengah dari skor yang seharusnya dapat kamu peroleh untuk not tersebut.
 
 Keseluruhan not yang datang harus dikenai tepat ketika not yang bersangkutan bertumpang tindih dengan *judgement circle* yang terletak di samping drum. Kamu akan mendapatkan  miss apabila kamu menekan warna yang salah, menekan dua warna di saat yang bersamaan, atau tidak mengenai not-not yang ada sama sekali.
 
@@ -126,7 +126,9 @@ Keseluruhan not yang datang harus dikenai tepat ketika not yang bersangkutan ber
 
 ![Drumroll pada osu!taiko](/wiki/shared/Taiko_drumroll.jpg "Drumroll pada osu!taiko")
 
-Hit the inner (or outer) drum continuously for points until the end of the drumroll. For **LARGE** note, hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done. Do note that drumrolls hits were hardcapped and only counted when hitting on the tiny hit circles, rather than drumrolling as fast as possible as in *Taiko no Tatsujin*.
+Drumroll merupakan objek permainan osu!taiko yang mengharuskan kamu untuk secara terus-menerus menekan tombol input kamu hingga akhir drumroll. Apabila kamu menemui **drumroll yang berukuran besar**, alih-alih dengan satu tombol kamu harus mengenai drumroll tersebut secara terus-menerus dengan dua tombol input secara bersamaan. Kamu akan mendapatkan skor +300 untuk setiap drumroll tick yang kamu kenai.
+
+Drumroll pada osu!taiko sendiri dapa
 
 Drumrolls can be ignored with no health penalty, as it does not recover the health bar at all. However, it will cost possible points gained from the drumroll. Each successful hit on the tiny hit circle gives a static 300 score.
 
