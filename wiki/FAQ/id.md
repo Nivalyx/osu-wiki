@@ -128,9 +128,8 @@ Keseluruhan not yang datang harus dikenai tepat ketika not yang bersangkutan ber
 
 Drumroll merupakan objek permainan osu!taiko yang mengharuskan kamu untuk secara terus-menerus menekan tombol input kamu hingga akhir drumroll. Apabila kamu menemui **drumroll yang berukuran besar**, alih-alih dengan satu tombol kamu harus mengenai drumroll tersebut secara terus-menerus dengan dua tombol input secara bersamaan. Kamu akan mendapatkan skor +300 untuk setiap drumroll tick yang kamu kenai.
 
-Drumroll pada osu!taiko sendiri dapa
+Drumroll pada osu!taiko dapat sepenuhnya diabaikan -- apabila kamu tidak mengenai drumroll tick yang ada pada drumroll (atau bahkan tidak mengenai drumroll yang bersangkutan sama sekali), kamu tidak akan mendapatkan miss. Meskipun demikian, kamu tidak disarankan untuk melepas drumroll-drumroll yang ada begitu saja mengingat skor yang kamu dapatkan dari drumroll pada umumnya cukup memiliki pengaruh yang signifikan.
 
-Drumrolls can be ignored with no health penalty, as it does not recover the health bar at all. However, it will cost possible points gained from the drumroll. Each successful hit on the tiny hit circle gives a static 300 score.
 
 ##### Dendens
 
