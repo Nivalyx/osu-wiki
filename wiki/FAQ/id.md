@@ -82,9 +82,11 @@ Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), 
 
 ### Mengubah mode permainan
 
-![Mode change interface](/wiki/shared/Interface_mode.png "Mode toolbox in Song Selection (Solo)")
+![Mode-mode permainan yang dapat dipilih pada layar Song Selection](/wiki/shared/Interface_mode.png "Mode-mode permainan yang dapat dipilih pada layar Song Selection")
 
 Click on the `Mode` button to **open up a list of gameplay modes available on osu!**. Click on the desired gameplay mode, and osu! will switch to that gameplay mode style, along with relevant leaderboard change. Alternatively, press `Ctrl` key and `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) key on the keyboard to quickly switch to the desired gameplay mode.
+
+osu! memiliki beberapa mode permainan yang dapat kamu mainkan. Pada layar Song Selection, klik pada tombol `Mode` pada bagian bawah layar untuk memunculkan **daftar mode-mode permainan yang tersedia pada osu!**. Kamu dapat kemudian memilih mode permainan yang kamu inginkan pada daftar yang muncul tersebut. Selain itu, kamu juga dapat berpindah antar mode permainan dengan menggunakan kombinasi tombol `Ctrl` dan `1` (untuk mode ![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!)*), `Ctrl` dan `2` (untuk mode ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*), `Ctrl` dan `3` (untuk mode ![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*), serta `Ctrl` dan `4` (untuk mode ![][osu!mania icon] *[osu!catch](/wiki/Game_mode/osu!mania)*).
 
 ### Apa itu "Taiko"?
 
