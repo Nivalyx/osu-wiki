@@ -92,7 +92,7 @@ osu! memiliki beberapa mode permainan yang dapat kamu mainkan. Pada layar Song S
 
 ![Tampilan antarmuka permainan osu!taiko](/wiki/shared/taiko-gameplay.jpg "Tampilan antarmuka permainan osu!taiko")
 
-osu!taiko merupakan mode permainan osu! yang didasari pada permainan [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) yang dirilis oleh *Namco Bandai*. Pada mode permainan ini, kamu dapat menyimulasikan tabuhan-tabuhan drum Taiko mengikuti irama lagu.
+osu!taiko merupakan mode permainan osu! yang didasari pada permainan [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) yang dirilis oleh *Namco Bandai*. Mode permainan ini menuntut kamu untuk dapat menabuh not-not drum yang muncul pada layar mengikuti irama lagu selayaknya pemain drum taiko profesional.
 
 #### Penjelasan dasar
 
