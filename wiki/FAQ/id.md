@@ -68,7 +68,7 @@ Pada pojok kanan atas layar, kamu dapat melihat skor dan akurasi yang telah kamu
 
 #### Kontrol
 
-Secara *default*, osu! menerima input-input sebagai berikut: 
+Secara *default*, input-input yang terdaftar pada osu! adalah sebagai berikut: 
 
 | Mouse | Keyboard | Tablet/Touchscreen |
 | :-- | :-- | :-- |
@@ -88,15 +88,13 @@ Click on the `Mode` button to **open up a list of gameplay modes available on os
 
 osu! memiliki beberapa mode permainan yang dapat kamu mainkan. Pada layar Song Selection, klik pada tombol `Mode` pada bagian bawah layar untuk memunculkan **daftar mode-mode permainan yang tersedia pada osu!**. Kamu dapat kemudian memilih mode permainan yang kamu inginkan pada daftar yang muncul tersebut. Selain itu, kamu juga dapat berpindah antar mode permainan dengan menggunakan kombinasi tombol `Ctrl` dan `1` (untuk mode ![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!)*), `Ctrl` dan `2` (untuk mode ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*), `Ctrl` dan `3` (untuk mode ![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*), serta `Ctrl` dan `4` (untuk mode ![][osu!mania icon] *[osu!catch](/wiki/Game_mode/osu!mania)*).
 
-### Apa itu "Taiko"?
+### Apa itu osu!taiko?
 
-*Penjelasan lebih lengkap: [Taiko](/wiki/Game_mode/osu!taiko)*
+*Penjelasan lebih lanjut: [Taiko](/wiki/Game_mode/osu!taiko)*
 
-![](/wiki/shared/taiko-gameplay.jpg)
+![Tampilan antarmuka permainan osu!taiko](/wiki/shared/taiko-gameplay.jpg "Tampilan antarmuka permainan osu!taiko")
 
-[Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) adalah sebuah game ritme yang menggunakan Drum yang dibuat oleh Namco, yang melibatkan simulasi permainan drum berdasarkan beat dalam suatu musik. Di dalam osu!, beatmap dapat dimainkan dalam mode Taiko no Tatsujin melalui penggunaan mode permainan special Taiko.
-
-Seperti dasar-dasar pada osu!, terdapat 3 elemen penting pada permainan ini.
+osu!taiko merupakan mode permainan osu! yang didasari pada permainan [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) yang dirilis oleh *Namco Bandai*.  The game involves the simulation of playing the taiko drum to the beat of the music. 
 
 #### Penjelasan dasar
 
