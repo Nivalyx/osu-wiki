@@ -126,7 +126,7 @@ Keseluruhan not yang datang harus dikenai tepat ketika not yang bersangkutan ber
 
 ![Drumroll pada osu!taiko](/wiki/shared/Taiko_drumroll.jpg "Drumroll pada osu!taiko")
 
-Drumroll merupakan objek permainan osu!taiko yang mengharuskan kamu untuk secara terus-menerus menekan tombol input kamu hingga akhir drumroll. Apabila kamu menemui **drumroll yang berukuran besar**, alih-alih dengan satu tombol kamu harus mengenai drumroll tersebut secara terus-menerus dengan dua tombol input secara bersamaan. Kamu akan mendapatkan skor +300 untuk setiap drumroll tick yang kamu kenai.
+Drumroll merupakan objek permainan osu!taiko yang mengharuskan kamu untuk secara terus-menerus menekan tombol-tombol input kamu hingga akhir drumroll. Apabila kamu menemui **drumroll yang berukuran besar**, alih-alih dengan satu tombol kamu harus mengenai drumroll tersebut secara terus-menerus dengan dua tombol input secara bersamaan. Kamu akan mendapatkan skor +300 untuk setiap drumroll tick yang kamu kenai.
 
 Drumroll pada osu!taiko dapat sepenuhnya diabaikan -- kamu tidak akan mendapatkan miss apabila kamu tidak mengenai satu atau lebih drumroll tick yang terdapat pada drumroll (atau bahkan tidak mengenai drumroll yang bersangkutan sama sekali). Meskipun demikian, kamu tidak disarankan untuk melepas drumroll-drumroll yang ada begitu saja mengingat skor yang kamu dapatkan dari drumroll pada umumnya cukup memiliki pengaruh yang signifikan.
 
@@ -134,26 +134,26 @@ Drumroll pada osu!taiko dapat sepenuhnya diabaikan -- kamu tidak akan mendapatka
 
 ![Denden (spinner) pada osu!taiko](/wiki/shared/Taiko_spinner.jpg "Denden (spinner) pada osu!taiko")
 
-Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
+Denden (spinner) merupakan objek permainan yang mengharuskan kamu untuk menekan tombol-tombol input kamu **secara berselang-seling** (merah, biru, merah, biru, merah, biru, ...) secepat mungkin hingga *denden counter* yang muncul di layar menunjukkan angka 0. Denden counter ini sendiri tidak akan berkurang apabila kamu menekan warna yang sama secara berurutan.
 
-It does not increment the combo counter, and does not recover the health bar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect(GREAT) large note score.
+Kamu akan mendapatkan skor +300 untuk setiap berkurangnya satu hitungan pada denden counter. Apabila kamu berhasil menyelesaikan denden tersebut sepenuhnya, kamu akan mendapatkan skor tambahan sejumlah nilai not Don/Kat yang berukuran besar.
 
 #### Kontrol
 
-Secara *default*, input-input yang terdaftar pada osu!taiko adalah sebagai berikut: 
+Secara *default*, input-input yang terdaftar untuk osu!taiko adalah sebagai berikut: 
 
 | Warna not | Mouse | Keyboard | TaTaCon |
 | :-- | :-- | :-- | :-- |
 | Merah | Klik kiri(L) | `X`(L) / `C`(R) | Bagian dalam drum |
 | Biru | Klik kanan(L) | `Z`(L) / `V`(R) | Bagian luar drum |
 
-Posisi kursor tidak berpengaruh pada mode osu!taiko.
+Posisi kursormu tidak memiliki pengaruh apapun dalam permainan osu!taiko.
 
 Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu tidak lagi diharuskan untuk mengenai not-not yang muncul sesuai dengan warna mereka masing-masing (kamu dapat mengenai not-not Don dengan tombol input yang seharusnya dipergunakan untuk not-not Kat dan sebaliknya).
 
 Di samping itu, osu!taiko juga menerima input dari controller *TaTaCon* yang kompatibel dengan permainan *Taiko no Tatsujin* atau *Taiko: Drum Master*.
 
-### Apa itu "Catch the Beat"?
+### Apa itu osu!catch?
 
 ![](/wiki/shared/catch-gameplay.jpg)
 
