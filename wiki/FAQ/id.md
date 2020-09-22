@@ -151,7 +151,7 @@ Posisi kursormu tidak memiliki pengaruh apapun dalam permainan osu!taiko.
 
 Apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu tidak lagi diharuskan untuk mengenai not-not yang muncul sesuai dengan warna mereka masing-masing (kamu dapat mengenai not-not Don dengan tombol input yang seharusnya dipergunakan untuk not-not Kat dan sebaliknya).
 
-Di samping itu, osu!taiko juga menerima input dari controller *TaTaCon* yang kompatibel dengan permainan *Taiko no Tatsujin* atau *Taiko: Drum Master*.
+Di samping itu, kamu juga dapat menggunakan controller *TaTaCon* yang kompatibel dengan permainan *Taiko no Tatsujin* atau *Taiko: Drum Master* untuk bermain osu!taiko.
 
 ### Apa itu osu!catch?
 
