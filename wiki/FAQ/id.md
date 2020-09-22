@@ -130,7 +130,7 @@ Drumroll merupakan objek permainan osu!taiko yang mengharuskan kamu untuk secara
 
 Drumroll pada osu!taiko dapat sepenuhnya diabaikan -- kamu tidak akan mendapatkan miss apabila kamu tidak mengenai satu atau lebih drumroll tick yang terdapat pada drumroll (atau bahkan tidak mengenai drumroll yang bersangkutan sama sekali). Meskipun demikian, kamu tidak disarankan untuk melepas drumroll-drumroll yang ada begitu saja mengingat skor yang kamu dapatkan dari drumroll pada umumnya cukup memiliki pengaruh yang signifikan.
 
-##### Dendens
+##### Denden
 
 ![Denden (spinner) pada osu!taiko](/wiki/shared/Taiko_spinner.jpg "Denden (spinner) pada osu!taiko")
 
