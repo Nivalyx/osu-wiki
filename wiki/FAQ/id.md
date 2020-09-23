@@ -126,7 +126,7 @@ Keseluruhan not yang datang harus dikenai tepat ketika not yang bersangkutan ber
 
 ![Ilustrasi drumroll dalam permainan osu!taiko](/wiki/shared/Taiko_drumroll.jpg "Ilustrasi drumroll dalam permainan osu!taiko")
 
-Drumroll merupakan objek permainan osu!taiko yang mengharuskan kamu untuk secara terus-menerus menekan tombol-tombol input kamu hingga akhir drumroll. Apabila kamu menemui **drumroll yang berukuran besar**, alih-alih dengan satu tombol kamu harus mengenai drumroll tersebut secara terus-menerus dengan dua tombol input secara bersamaan. Kamu akan mendapatkan skor +300 untuk setiap drumroll tick yang kamu kenai.
+Drumroll merupakan elemen permainan osu!taiko yang mengharuskan kamu untuk secara terus-menerus menekan tombol-tombol input kamu hingga akhir drumroll. Apabila kamu menemui **drumroll yang berukuran besar**, alih-alih dengan satu tombol kamu harus mengenai drumroll tersebut secara terus-menerus dengan dua tombol input secara bersamaan. Kamu akan mendapatkan skor +300 untuk setiap drumroll tick yang kamu kenai.
 
 Drumroll pada osu!taiko dapat sepenuhnya diabaikan -- kamu tidak akan mendapatkan miss apabila kamu tidak mengenai satu atau lebih drumroll tick yang terdapat pada drumroll (atau bahkan tidak mengenai drumroll yang bersangkutan sama sekali). Meskipun demikian, kamu tidak disarankan untuk melepas drumroll-drumroll yang ada begitu saja mengingat skor yang kamu dapatkan dari drumroll pada umumnya cukup memiliki pengaruh yang signifikan.
 
@@ -134,7 +134,7 @@ Drumroll pada osu!taiko dapat sepenuhnya diabaikan -- kamu tidak akan mendapatka
 
 ![Ilustrasi denden (spinner) dalam permainan osu!taiko](/wiki/shared/Taiko_spinner.jpg "Ilustrasi denden (spinner) dalam permainan osu!taiko")
 
-Denden (spinner) merupakan objek permainan yang mengharuskan kamu untuk menekan tombol-tombol input kamu **secara berselang-seling** (merah, biru, merah, biru, merah, biru, ...) secepat mungkin hingga *denden counter* yang muncul di layar menunjukkan angka 0. Denden counter ini tidak akan berkurang apabila kamu menekan warna yang sama secara berurutan.
+Denden (spinner) merupakan elemen permainan osu!taiko yang mengharuskan kamu untuk menekan tombol-tombol input kamu **secara berselang-seling** (merah, biru, merah, biru, merah, biru, ...) secepat mungkin hingga *denden counter* yang muncul di layar menunjukkan angka 0. Denden counter ini tidak akan berkurang apabila kamu menekan warna yang sama secara berurutan.
 
 Kamu akan mendapatkan skor +300 untuk setiap berkurangnya satu hitungan pada denden counter. Apabila kamu berhasil menyelesaikan denden tersebut sepenuhnya, kamu akan mendapatkan skor tambahan sejumlah skor yang kamu dapatkan dari not Don/Kat yang berukuran besar.
 
@@ -177,7 +177,17 @@ Buah-buah yang telah kamu dapatkan akan tetap berada di dalam tangkapan catcher 
 
 ![Ilustrasi buah-buah yang jatuh dalam permainan osu!catch"](/wiki/shared/Catch_fruits.jpg "Ilustrasi buah-buah yang jatuh dalam permainan osu!catch")
 
-Elemen permainan utama dalam mode osu!catch adalah buah-buah *(fruit)* yang jatuh secara vertikal dari atas layar permainan. Kamu akan mendapatkan skor +300 dan satu kombo untuk setiap buah yang berhasil kamu tangkap.
+Elemen permainan utama dalam mode osu!catch adalah buah-buah *(fruit)* yang jatuh secara vertikal dari atas layar permainan. Kamu akan mendapatkan skor +300 untuk setiap buah yang berhasil kamu tangkap.
+
+##### Fruit trails
+
+![Ilustrasi fruit trail dalam permainan osu!catch](/wiki/shared/Catch_trails.jpg "Ilustrasi fruit trail dalam permainan osu!catch")
+
+Beberapa buah akan memiliki *fruit trail* yang pada utamanya tersusun atas 
+
+A typical fruit trail will contains two fruits (start and end), droplets (slider path), juice drop (slider ticks), and more fruits for each reverse arrow points along with a reversed slider path. Droplet gives 10 points each and treated as 50 in result screen. Juice drop gives 30 points each, increment combo by 1, and treated as 100 in result screen.
+
+Missing the juice drop will break the combo (as it is a slider tick), but missing the droplet will not break the combo. However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as *Miss Droplet*, which notably affects accuracy (missed out the droplet, which is a 50) and score (10 points for each droplet missed).
 
 #### Mengarahkan penangkap
 
