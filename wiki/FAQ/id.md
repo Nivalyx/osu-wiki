@@ -229,6 +229,8 @@ Secara *default*, not-not yang ada dalam permainan osu!mania akan secara perlaha
 
 Kamu akan menemui health bar pada tepi kanan rangkaian lajur not yang muncul di layar permainan. Tidak seperti pada osu!standard dan osu!catch, health bar pada osu!mania tidak akan berkurang secara perlahan seiring waktu -- health bar tersebut hanya akan berkurang di saat kamu mendapatkan miss. Di samping itu, menekan tombol input kamu pada lajur yang kosong juga tidak akan mengurangi health bar yang kamu miliki.
 
+Kamu dapat **mengatur kecepatan perguliran not-not pada layar** dengan menggunakan tombol `F3` atau kombinasi tombol `Ctrl`/`Shift` + `+` (untuk mempercepat) serta tombol `F4` atau kombinasi tombol `Ctrl`/`Shift` + `-` (untuk memperlambat).
+
 **Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower) or just `F3` (faster) / `F4` (slower).
 
 ![](/wiki/shared/Mania_key_layouts.jpg)
