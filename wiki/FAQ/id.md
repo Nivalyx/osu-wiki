@@ -191,7 +191,7 @@ Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap droplet, 
 
 ![Ilustrasi banana dalam permainan osu!catch](/wiki/shared/Catch_bananas.jpg "Ilustrasi banana dalam permainan osu!catch")
 
-Tidak seperti pada dua mode yang sudah dibahas sebelumnya, osu!catch tidak memiliki mekanisme spinner yang konvensional -- alih-alih spinner yang normal, semua spinner yang ada pada beatmap akan ditampilkan dalam bentuk buah-buah pisang *(banana)* yang akan menghujani layar permainan kamu. Tugas kamu di sini adalah untuk menangkap buah-buah pisang yang jatuh tersebut seefisien dan sebanyak mungkin. Kamu akan mendapatkan skor +1100 untuk setiap buah pisang yang berhasil kamu tangkap.
+Tidak seperti pada dua mode yang sudah dibahas sebelumnya, osu!catch tidak memiliki mekanisme spinner yang konvensional -- alih-alih spinner yang seperti pada umumnya, semua spinner yang ada pada beatmap akan ditampilkan dalam bentuk buah-buah pisang *(banana)* yang akan menghujani layar permainan kamu. Tugas kamu di sini adalah untuk menangkap buah-buah pisang yang jatuh tersebut seefisien dan sebanyak mungkin. Kamu akan mendapatkan skor +1100 untuk setiap buah pisang yang berhasil kamu tangkap.
 
 Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah pisang yang jatuh, kamu tidak disarankan untuk melepas pisang-pisang yang jatuh begitu saja mengingat setiap buah pisang yang berhasil kamu tangkap akan mengisi health bar yang kamu miliki. Di samping itu, apabila kamu menggunakan mod [Auto](/wiki/Game_modifier/Auto), kamu dapat melihat mod Auto menangkap *semua* buah-buah pisang yang ada tanpa ada yang luput satupun.
 
