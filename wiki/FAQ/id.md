@@ -193,7 +193,7 @@ Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap droplet, 
 
 Tidak seperti pada dua mode yang sudah dibahas sebelumnya, osu!catch tidak memiliki mekanisme spinner yang konvensional -- alih-alih spinner normal seperti yang pada umumnya dijumpai, semua spinner yang ada pada beatmap akan ditampilkan dalam bentuk buah-buah pisang *(banana)* yang akan menghujani layar permainan kamu. Tugas kamu di sini adalah untuk menangkap buah-buah pisang yang jatuh tersebut sebanyak dan seefisien mungkin. Kamu akan mendapatkan skor +1100 untuk setiap buah pisang yang berhasil kamu tangkap.
 
-Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah pisang yang jatuh, kamu tidak disarankan untuk melepas pisang-pisang yang jatuh begitu saja mengingat setiap buah pisang yang berhasil kamu tangkap akan mengisi health bar yang kamu miliki. Di samping itu, apabila kamu menggunakan mod [Auto](/wiki/Game_modifier/Auto), kamu dapat melihat mod Auto menangkap *semua* buah-buah pisang yang jatuh tanpa ada yang luput satupun.
+Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah pisang yang jatuh, kamu tidak disarankan untuk melepas pisang-pisang yang jatuh begitu saja mengingat setiap buah pisang yang berhasil kamu tangkap akan mengisi ulang health bar yang kamu miliki. Apabila kamu menggunakan mod [Auto](/wiki/Game_modifier/Auto), kamu dapat melihat mod Auto menangkap *semua* buah-buah pisang yang jatuh tanpa ada yang luput satupun.
 
 ##### Hyperfruit
 
