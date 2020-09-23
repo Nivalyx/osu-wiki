@@ -177,7 +177,7 @@ Buah-buah yang telah kamu dapatkan akan tetap berada di dalam tangkapan catcher 
 
 ![Ilustrasi buah-buah yang jatuh dalam permainan osu!catch"](/wiki/shared/Catch_fruits.jpg "Ilustrasi buah-buah yang jatuh dalam permainan osu!catch")
 
-Elemen permainan utama dalam mode osu!catch adalah buah-buah *(fruit)* yang akan jatuh secara vertikal dari atas layar permainan. Kamu akan mendapatkan skor +300 untuk setiap buah yang berhasil kamu tangkap.
+Elemen permainan utama dalam osu!catch adalah buah-buah *(fruit)* yang akan jatuh secara vertikal dari atas layar permainan. Kamu akan mendapatkan skor +300 untuk setiap buah yang berhasil kamu tangkap.
 
 ##### Fruit trails
 
