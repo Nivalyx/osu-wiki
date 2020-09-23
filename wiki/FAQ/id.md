@@ -199,7 +199,7 @@ Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah
 
 ![Ilustrasi hyperfruit dalam permainan osu!catch](/wiki/shared/Catch_hyperfruits.jpg "Ilustrasi hyperfruit dalam permainan osu!catch")
 
-*Hyperfruit* merupakan buah-buah khusus yang ditandai dengan pendaran berwarna merah di sekelilingnya. Buah-buah hyperfruit akan muncul pada saat terdapat dua buah yang secara matematis tidak dapat tertangkap dengan kecepatan catcher normal.
+*Hyperfruit* merupakan buah-buah yang secara khusus ditandai dengan pendaran berwarna merah di sekelilingnya. Buah-buah hyperfruit akan muncul pada saat terdapat dua buah yang secara matematis tidak dapat tertangkap dengan kecepatan catcher normal.
 
 Sesaat setelah kamu menangkap buah hyperfruit, kamu akan memasuki mode *hyperdash* yang memungkinkan kamu untuk menangkap buah yang sebelumnya tidak dapat tertangkap dengan kecepatan catcher normal tersebut. Mode hyperdash ini akan berakhir segera setelah kamu menangkap buah yang bersangkutan atau setelah kamu mendapatkan miss.
 
