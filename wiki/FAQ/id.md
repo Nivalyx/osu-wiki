@@ -227,7 +227,7 @@ Pada umumnya, beatmap-beatmap osu!mania memiliki 4 hingga 7 lajur not yang berko
 
 Secara *default*, not-not yang ada dalam permainan osu!mania akan secara perlahan bergulir dari atas ke bawah layar. Sebelum memulai permainan, kamu akan dihadapkan dengan sebuah anak panah yang akan menunjukkan arah perguliran not-not yang akan kamu hadapi. Kamu dapat mengubah arah perguliran not-not tersebut menjadi dari bawah ke atas melalui menu `Options`; cari dan pilih `osu!mania layout` dari daftar pilihan yang tersedia lalu centang `Vertically flip playfield (DDR style)` pada layar yang muncul.
 
-Kamu akan menemui health bar pada tepi kanan rangkaian lajur not yang muncul di layar permainan. Tidak seperti pada osu!standard dan osu!catch, health bar pada osu!mania tidak akan berkurang secara perlahan seiring waktu -- health bar yang kamu miliki hanya akan berkurang apabila kamu mendapatkan miss. Di samping itu, kamu juga tidak akan mendapatkan penalti apapun apabila kamu menekan tombol input kamu pada lajur yang kosong.
+Kamu akan menemui health bar pada tepi kanan rangkaian lajur not yang muncul di layar permainan. Tidak seperti pada osu!standard dan osu!catch, health bar pada osu!mania tidak akan berkurang secara perlahan seiring waktu -- health bar tersebut hanya akan berkurang di saat kamu mendapatkan miss. Di samping itu, menekan tombol input kamu pada lajur yang kosong juga tidak akan mengurangi health bar yang kamu miliki.
 
 **Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower) or just `F3` (faster) / `F4` (slower).
 
