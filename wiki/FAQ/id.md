@@ -171,9 +171,7 @@ Layar permainan osu!catch sangat bergantung pada CS (Circle Size) yang digunakan
 
 Untuk dapat menangkap buah-buah yang jatuh tersebut, kamu harus menggerakkan *catcher* (penangkap buah) yang ada di bagian bawah layar secara horizontal. Meskipun demikian, kamu tidak dapat menggerakkan catchermu melebihi batas layar permainan.
 
-Buah-buah yang telah kamu tangkap akan tetap berada di dalam tangkapan catcher hingga akhir kombo; setelah kombo berakhir, buah-buah yang bersangkutan akan secara otomatis menghilang dengan sendirinya. 
-
-All fruits will stay at the plate until its combo ends, which the fruits will bounce out of the plate. Timing and where it falls on the plate does not matter; either a full score for successful catch or miss.
+Buah-buah yang telah kamu dapatkan akan tetap berada di dalam tangkapan catcher hingga akhir kombo, di mana setelah kombo yang bersangkutan berakhir buah-buah yang berada di atas piring catcher akan secara otomatis menghilang dengan sendirinya. Kamu dapat menangkap buah-buah yang ada baik dengan bagian tengah maupun dengan bagian ujung catcher; selama kamu masih berhasil menangkap buah-buah yang jatuh, kamu tidak akan mendapatkan miss.
 
 #### Mengarahkan penangkap
 
