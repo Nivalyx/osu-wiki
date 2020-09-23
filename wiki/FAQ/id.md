@@ -183,7 +183,7 @@ Elemen permainan utama dalam mode osu!catch adalah buah-buah *(fruit)* yang akan
 
 ![Ilustrasi fruit trail dalam permainan osu!catch](/wiki/shared/Catch_trails.jpg "Ilustrasi fruit trail dalam permainan osu!catch")
 
-Beberapa buah yang muncul dapat tergabung ke dalam suatu *fruit trail* yang pada utamanya tersusun atas dan *droplet* (slider path), *juice drop* (slider tick), dan buah-buah yang bersangkutan.
+Dalam permainan osu!catch, kamu terkadang akan menemui beberapa buah yang tergabung ke dalam suatu *fruit trail* yang pada utamanya tersusun atas dan *droplet* (slider path), *juice drop* (slider tick), dan buah-buah yang bersangkutan.
 
 A typical fruit trail will contains two fruits (start and end), droplets (slider path), juice drop (slider ticks), and more fruits for each reverse arrow points along with a reversed slider path. Droplet gives 10 points each and treated as 50 in result screen. Juice drop gives 30 points each, increment combo by 1, and treated as 100 in result screen.
 
