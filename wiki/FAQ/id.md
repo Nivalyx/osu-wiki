@@ -205,14 +205,11 @@ Sesaat setelah kamu menangkap buah hyperfruit, kamu akan memasuki mode *hyperdas
 
 #### Kontrol
 
-Secara *default*
+Secara *default*, kamu dapat mengarahkan pergerakan catcher kamu dengan menggunakan arah panah kiri `<-`(L) dan kanan `->`(R) pada keyboard. Menekan `Shift` akan memungkinkan kamu untuk melakukan *dash* yang meningkatkan kecepatan pergerakan catcher hingga dua kali lipat.
 
-Jika mod [Relax](/wiki/Game_modifier/Relax) digunakan, maka kontrol dari penangkap dapat digerakkan menggunakan mouse yang kamu punya.
+Posisi kursormu tidak memiliki pengaruh apapun dalam permainan osu!catch kecuali apabila kamu bermain dengan menggunakan mod [Relax](/wiki/Game_modifier/Relax). Apabila kamu bermain dengan menggunakan mod tersebut, kamu dapat mengontrol pergerakan catcher dengan kursor mouse.
 
-- Secara *default*, arah panah kiri \[<-\] dan kanan \[->\] pada keyboard berguna untuk mengarahkan penangkap.
-- Dengan menekan tombol \[SHIFT\] kiri dengan salah satu arah panah maka akan membuat penangkap bergerak 1.5x lebih cepat daripada tanpa menggunakannya (diindikasikan dengan menyalanya sebuah cahaya di sekitar penangkap).
-
-### Apa itu "osu!mania"?
+### Apa itu osu!mania?
 
 ![](/wiki/shared/mania-gameplay.jpg)
 
