@@ -155,12 +155,25 @@ Di samping itu, kamu juga dapat menggunakan controller *TaTaCon* yang kompatibel
 
 ### Apa itu osu!catch?
 
-![](/wiki/shared/catch-gameplay.jpg)
+*Penjelasan lebih lanjut: [osu!catch](/wiki/Game_mode/osu!catch)*
 
-*Penjelasan lebih lengkap: [Catch the Beat](/wiki/Game_mode/osu!catch)*
+![Tampilan antarmuka permainan osu!catch](/wiki/shared/catch-gameplay.jpg "Tampilan antarmuka permainan osu!catch")
 
-- Catch the Beat (Tangkap Beat-nya) adalah mode permainan spesial kedua yang ditambahkan, setelah mode permainan Taiko.
-- Selain menekan lingkaran, kamu sekarang ditugaskan untuk mengarahkan penangkap dibawah layar sambil menangkap buah-buahan yang jatuh dari atas layar.
+osu!catch (sebelumnya dikenal dengan *Catch the Beat*) merupakan mode permainan osu! yang mengharuskan kamu untuk menangkap buah-buah yang jatuh dari atas layar mengikuti irama lagu.
+
+#### Penjelasan dasar
+
+##### Layar permainan
+
+![Tampilan layar permainan osu!catch pada dua nilai CS yang berbeda](/wiki/shared/Catch_Playfield_27.jpg "Tampilan layar permainan osu!catch pada dua nilai CS yang berbeda")
+
+Layar permainan osu!catch sangat bergantung pada CS (Circle Size) yang digunakan, di mana buah-buah yang ada akan semakin merenggang dengan semakin mengecilnya Circle Size dan sebaliknya.
+
+Untuk dapat menangkap buah-buah yang jatuh tersebut, kamu harus menggerakkan *catcher* (penangkap buah) yang ada di bagian bawah layar secara horizontal. Meskipun demikian, kamu tidak dapat menggerakkan catchermu melebihi batas layar permainan.
+
+Buah-buah yang telah kamu tangkap akan tetap berada di dalam tangkapan catcher hingga akhir kombo; setelah kombo berakhir, buah-buah yang bersangkutan akan secara otomatis menghilang dengan sendirinya. 
+
+All fruits will stay at the plate until its combo ends, which the fruits will bounce out of the plate. Timing and where it falls on the plate does not matter; either a full score for successful catch or miss.
 
 #### Mengarahkan penangkap
 
