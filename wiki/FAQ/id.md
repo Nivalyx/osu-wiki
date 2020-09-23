@@ -231,7 +231,11 @@ Kamu akan menemui health bar pada tepi kanan rangkaian lajur not yang muncul di 
 
 Kamu dapat **mengatur kecepatan perguliran not-not pada layar** dengan menggunakan tombol `F3` atau kombinasi tombol `Ctrl`/`Shift` + `+` (untuk mempercepat) serta tombol `F4` atau kombinasi tombol `Ctrl`/`Shift` + `-` (untuk memperlambat).
 
-**Scrolling speed of the beat notes** can be changed by pressing `Ctrl` (or `Shift`) with `+` (faster) / `-` (slower) or just `F3` (faster) / `F4` (slower).
+##### Notes
+
+![Ilustrasi not-not dalam permainan osu!mania](/wiki/shared/Mania_notes.jpg "Ilustrasi not-not dalam permainan osu!mania")
+
+Notes are the hit circles of osu!mania. The falling notes must be tapped on the judgement line, with correct key corresponding to each of the note it falls to. More keys corresponding to the falling notes must be tapped simultaneously if the notes fall simultaneously. A score burst will be given when tapped a correct key corresponding to the note in the judgement line.
 
 ![](/wiki/shared/Mania_key_layouts.jpg)
 
