@@ -217,7 +217,7 @@ Posisi kursormu tidak memiliki pengaruh apapun dalam permainan osu!catch kecuali
 
 osu!catch merupakan mode permainan osu! yang didasari pada permainan-permainan *vertical scrolling rhythm game* (VSRG) lainnya seperti *beatmania*, *Guitar Hero*, dan *Dance Dance Revoulution*. Tidak jauh berbeda dengan permainan-permainan tersebut, mode permainan osu!mania menuntut kamu untuk dapat menekan tombol input yang sesuai pada keyboard kamu pada waktu yang tepat sejalan dengan bergulirnya not-not yang ada pada layar permainan.
 
-Pada umumnya, beatmap-beatmap osu!mania memiliki 4 hingga 7 lajur not yang berkorespondensi dengan jumlah tombol input *(key)* yang dipergunakan dalam permainan. Pada beatmap-beatmap osu!mania yang di-*convert* dari osu!standard, kamu dapat menggunakan mod [xK](/wiki/Game_modifier/xK) untuk mengubah jumlah key tersebut dari rentang 1K hingga 9K. Di samping itu, kamu juga dapat bermain dengan menggunakan mod [Co-Op](/wiki/Game_modifier/Co-op) yang akan memecah layar permainan ke dalam dua bagian untuk dapat dimainkan oleh dua orang pemain (hingga maksimal 18K/9K+9K) secara bersamaan.
+Pada umumnya, beatmap-beatmap osu!mania memiliki 4 hingga 7 lajur not yang berkorespondensi dengan jumlah tombol input *(key)* yang dipergunakan dalam permainan. Pada beatmap-beatmap osu!mania yang di-*convert* dari osu!standard, kamu dapat menggunakan mod [xK](/wiki/Game_modifier/xK) untuk mengubah jumlah key tersebut dari rentang 1K hingga 9K. Di samping itu, kamu juga dapat bermain dengan menggunakan mod [Co-Op](/wiki/Game_modifier/Co-op) yang akan memecah layar permainan ke dalam dua bagian untuk dapat dimainkan oleh dua orang pemain (mulai dari 2K/1K+1K hingga maksimal 18K/9K+9K) secara bersamaan.
 
 #### Penjelasan dasar
 
