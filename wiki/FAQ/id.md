@@ -191,15 +191,17 @@ Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap droplet, 
 
 ![Ilustrasi banana dalam permainan osu!catch](/wiki/shared/Catch_bananas.jpg "Ilustrasi banana dalam permainan osu!catch")
 
-Tidak seperti pada dua mode yang sudah dibahas sebelumnya, osu!catch tidak memiliki mekanisme spinner yang konvensional -- alih-alih spinner yang seperti pada umumnya, semua spinner yang ada pada beatmap akan ditampilkan dalam bentuk buah-buah pisang *(banana)* yang akan menghujani layar permainan kamu. Tugas kamu di sini adalah untuk menangkap buah-buah pisang yang jatuh tersebut seefisien dan sebanyak mungkin. Kamu akan mendapatkan skor +1100 untuk setiap buah pisang yang berhasil kamu tangkap.
+Tidak seperti pada dua mode yang sudah dibahas sebelumnya, osu!catch tidak memiliki mekanisme spinner yang konvensional -- alih-alih spinner yang seperti pada umumnya, semua spinner yang ada pada beatmap akan ditampilkan dalam bentuk buah-buah pisang *(banana)* yang akan menghujani layar permainan kamu. Tugas kamu di sini adalah untuk menangkap buah-buah pisang yang jatuh tersebut sebanyak dan seefisien mungkin. Kamu akan mendapatkan skor +1100 untuk setiap buah pisang yang berhasil kamu tangkap.
 
-Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah pisang yang jatuh, kamu tidak disarankan untuk melepas pisang-pisang yang jatuh begitu saja mengingat setiap buah pisang yang berhasil kamu tangkap akan mengisi health bar yang kamu miliki. Di samping itu, apabila kamu menggunakan mod [Auto](/wiki/Game_modifier/Auto), kamu dapat melihat mod Auto menangkap *semua* buah-buah pisang yang ada tanpa ada yang luput satupun.
+Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah pisang yang jatuh, kamu tidak disarankan untuk melepas pisang-pisang yang jatuh begitu saja mengingat setiap buah pisang yang berhasil kamu tangkap akan mengisi health bar yang kamu miliki. Di samping itu, apabila kamu menggunakan mod [Auto](/wiki/Game_modifier/Auto), kamu dapat melihat mod Auto menangkap *semua* buah-buah pisang yang jatuh tanpa ada yang luput satupun.
 
 ##### Hyperfruits
 
 ![Ilustrasi hyperfruit dalam permainan osu!catch](/wiki/shared/Catch_hyperfruits.jpg "Ilustrasi hyperfruit dalam permainan osu!catch")
 
-Hyperfruits are special fruits that will appear to help the catcher to catch the next fruit when normal dash is considered impossible to catch it in a strict timespan allocated. All hyperfruits have a signature red colour surrounding the hyperfruit itself by default.
+*Hyperfruit* merupakan buah-buah khusus yang ditandai dengan pendaran berwarna merah di sekelilingnya. 
+
+are special fruits that will appear to help the catcher to catch the next fruit when normal dash is considered impossible to catch it in a strict timespan allocated. All hyperfruits have a signature red colour surrounding the hyperfruit itself by default.
 
 Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (just fast enough to catch the next fruit), glows red, and leaves a temporary red *afterimage* at the collection point, until the next one fruit was caught or dropped, which the catcher will then be back to normal.
 
