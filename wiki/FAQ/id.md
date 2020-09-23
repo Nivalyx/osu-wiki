@@ -159,7 +159,7 @@ Di samping itu, kamu juga dapat menggunakan controller *TaTaCon* yang kompatibel
 
 ![Tampilan antarmuka permainan osu!catch](/wiki/shared/catch-gameplay.jpg "Tampilan antarmuka permainan osu!catch")
 
-osu!catch (sebelumnya dikenal dengan *Catch the Beat*) merupakan mode permainan osu! yang mengharuskan kamu untuk menangkap buah-buah yang jatuh secara vertikal dari atas layar permainan mengikuti irama lagu.
+osu!catch (sebelumnya dikenal dengan nama *Catch the Beat*) merupakan mode permainan osu! yang mengharuskan kamu untuk menangkap buah-buah yang jatuh secara vertikal dari atas layar permainan mengikuti irama lagu.
 
 #### Penjelasan dasar
 
