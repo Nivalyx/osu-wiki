@@ -177,17 +177,23 @@ Buah-buah yang telah kamu dapatkan akan tetap berada di dalam tangkapan catcher 
 
 ![Ilustrasi buah-buah yang jatuh dalam permainan osu!catch"](/wiki/shared/Catch_fruits.jpg "Ilustrasi buah-buah yang jatuh dalam permainan osu!catch")
 
-Elemen permainan utama dalam osu!catch adalah buah-buah *(fruit)* yang akan jatuh secara vertikal dari atas layar permainan. Kamu akan mendapatkan skor +300 untuk setiap buah yang berhasil kamu tangkap.
+Elemen permainan utama dalam osu!catch adalah buah-buah *(fruit)* yang harus kamu tangkap seiring dengan jatuhnya buah-buah tersebut secara vertikal dari atas layar permainan. Kamu akan mendapatkan skor +300 untuk setiap buah yang berhasil kamu tangkap.
 
-##### Fruit trails
+##### Fruit trail
 
 ![Ilustrasi fruit trail dalam permainan osu!catch](/wiki/shared/Catch_trails.jpg "Ilustrasi fruit trail dalam permainan osu!catch")
 
-Dalam permainan osu!catch, kamu terkadang akan menemui beberapa buah yang tergabung ke dalam suatu *fruit trail* yang pada utamanya tersusun atas dan *droplet* (slider path), *juice drop* (slider tick), dan buah-buah yang bersangkutan.
+Dalam permainan osu!catch, kamu terkadang akan menemui beberapa buah yang tergabung ke dalam suatu *fruit trail* yang pada utamanya tersusun atas dan *droplet* (slider path), *juice drop* (slider tick), dan buah-buah yang bersangkutan. Kamu akan mendapatkan skor +10 untuk setiap droplet dan skor +100 untuk setiap juice drop yang berhasil kamu tangkap.
 
-A typical fruit trail will contains two fruits (start and end), droplets (slider path), juice drop (slider ticks), and more fruits for each reverse arrow points along with a reversed slider path. Droplet gives 10 points each and treated as 50 in result screen. Juice drop gives 30 points each, increment combo by 1, and treated as 100 in result screen.
+Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap droplet, kamu tidak disarankan untuk melepas droplet-droplet yang ada begitu saja mengingat droplet memiliki pengaruh terhadap akurasi dan skor akhir yang kamu peroleh. Di sisi lain, juice drop yang tidak tertangkap akan terhitung sebagai miss.
 
-Missing the juice drop will break the combo (as it is a slider tick), but missing the droplet will not break the combo. However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as *Miss Droplet*, which notably affects accuracy (missed out the droplet, which is a 50) and score (10 points for each droplet missed).
+##### Banana
+
+![Ilustrasi banana dalam permainan osu!catch](/wiki/shared/Catch_bananas.jpg "Ilustrasi banana dalam permainan osu!catch")
+
+Tidak seperti pada dua mode yang sudah dibahas sebelumnya, osu!catch tidak memiliki spinner yang ditampilkan secara konvensional. Alih-alih, semua spinner yang ada pada beatmap akan dikonversi sebagai buah-buah pisang *(banana)* berwarna kuning yang harus kamu tangkap seefisien dan sebanyak mungkin. Kamu akan mendapatkan skor +1100 untuk setiap buah pisang yang berhasil kamu tangkap.
+
+Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah pisang yang jatuh, kamu tidak disarankan untuk melepas pisang-pisang yang jatuh begitu saja mengingat setiap buah pisang yang berhasil kamu tangkap akan mengisi health bar yang kamu miliki. Di samping itu, apabila kamu menggunakan mod [Auto](/wiki/Game_modifier/Auto), kamu dapat melihat mod Auto menangkap *semua* buah-buah pisang yang ada tanpa ada yang luput satupun.
 
 #### Mengarahkan penangkap
 
