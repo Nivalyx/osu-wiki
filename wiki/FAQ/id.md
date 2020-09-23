@@ -231,7 +231,7 @@ Kamu akan menemui health bar pada tepi kanan rangkaian lajur not yang muncul di 
 
 Kamu dapat **mengatur kecepatan perguliran not-not pada layar** dengan menggunakan tombol `F3` atau kombinasi tombol `Ctrl`/`Shift` + `+` (untuk mempercepat) serta tombol `F4` atau kombinasi tombol `Ctrl`/`Shift` + `-` (untuk memperlambat).
 
-##### Notes
+##### Not-not osu!mania
 
 ![Ilustrasi not-not dalam permainan osu!mania](/wiki/shared/Mania_notes.jpg "Ilustrasi not-not dalam permainan osu!mania")
 
