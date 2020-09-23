@@ -167,7 +167,7 @@ osu!catch (sebelumnya dikenal dengan *Catch the Beat*) merupakan mode permainan 
 
 ![Tampilan layar permainan osu!catch pada dua nilai CS yang berbeda](/wiki/shared/Catch_Playfield_27.jpg "Tampilan layar permainan osu!catch pada dua nilai CS yang berbeda")
 
-Layar permainan osu!catch sangat bergantung pada CS (Circle Size) yang digunakan, di mana ukuran catcher yang kamu miliki akan semakin mungil dan buah-buah yang ada akan semakin merenggang dengan semakin mengecilnya Circle Size dan sebaliknya.
+Layar permainan osu!catch sangat bergantung pada CS (Circle Size) yang digunakan, di mana buah-buah yang ada akan semakin merenggang dengan semakin mengecilnya Circle Size dan sebaliknya.
 
 Untuk dapat menangkap buah-buah yang jatuh tersebut, kamu harus menggerakkan *catcher* (penangkap buah) yang ada di bagian bawah layar secara horizontal. Meskipun demikian, kamu tidak dapat menggerakkan catchermu melebihi batas layar permainan.
 
