@@ -124,7 +124,7 @@ Keseluruhan not yang datang harus dikenai tepat ketika not yang bersangkutan ber
 
 ##### Drumroll
 
-![Drumroll pada osu!taiko](/wiki/shared/Taiko_drumroll.jpg "Drumroll pada osu!taiko")
+![Ilustrasi drumroll dalam permainan osu!taiko](/wiki/shared/Taiko_drumroll.jpg "Ilustrasi drumroll dalam permainan osu!taiko")
 
 Drumroll merupakan objek permainan osu!taiko yang mengharuskan kamu untuk secara terus-menerus menekan tombol-tombol input kamu hingga akhir drumroll. Apabila kamu menemui **drumroll yang berukuran besar**, alih-alih dengan satu tombol kamu harus mengenai drumroll tersebut secara terus-menerus dengan dua tombol input secara bersamaan. Kamu akan mendapatkan skor +300 untuk setiap drumroll tick yang kamu kenai.
 
@@ -132,7 +132,7 @@ Drumroll pada osu!taiko dapat sepenuhnya diabaikan -- kamu tidak akan mendapatka
 
 ##### Denden
 
-![Denden (spinner) pada osu!taiko](/wiki/shared/Taiko_spinner.jpg "Denden (spinner) pada osu!taiko")
+![Ilustrasi denden (spinner) dalam permainan osu!taiko](/wiki/shared/Taiko_spinner.jpg "Ilustrasi denden (spinner) dalam permainan osu!taiko")
 
 Denden (spinner) merupakan objek permainan yang mengharuskan kamu untuk menekan tombol-tombol input kamu **secara berselang-seling** (merah, biru, merah, biru, merah, biru, ...) secepat mungkin hingga *denden counter* yang muncul di layar menunjukkan angka 0. Denden counter ini tidak akan berkurang apabila kamu menekan warna yang sama secara berurutan.
 
@@ -172,6 +172,12 @@ Layar permainan osu!catch sangat bergantung pada CS (Circle Size) yang digunakan
 Untuk dapat menangkap buah-buah yang jatuh tersebut, kamu harus menggerakkan *catcher* (penangkap buah) yang ada di bagian bawah layar secara horizontal. Meskipun demikian, kamu tidak dapat menggerakkan catchermu melebihi batas layar permainan.
 
 Buah-buah yang telah kamu dapatkan akan tetap berada di dalam tangkapan catcher hingga akhir kombo, di mana setelah kombo yang bersangkutan berakhir buah-buah yang berada di atas piring catcher akan secara otomatis menghilang dengan sendirinya. Kamu dapat menangkap buah-buah yang ada baik dengan bagian tengah maupun dengan bagian ujung catcher; selama kamu masih berhasil menangkap buah-buah yang jatuh, kamu tidak akan mendapatkan miss.
+
+##### Fruit
+
+![Ilustrasi buah-buah yang jatuh dalam permainan osu!catch"](/wiki/shared/Catch_fruits.jpg "Ilustrasi buah-buah yang jatuh dalam permainan osu!catch")
+
+Elemen permainan utama dalam mode osu!catch adalah buah-buah *(fruit)* yang jatuh secara vertikal dari atas layar permainan. Kamu akan mendapatkan skor +300 dan satu kombo untuk setiap buah yang berhasil kamu tangkap.
 
 #### Mengarahkan penangkap
 
