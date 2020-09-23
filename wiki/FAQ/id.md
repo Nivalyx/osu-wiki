@@ -215,17 +215,17 @@ Posisi kursormu tidak memiliki pengaruh apapun dalam permainan osu!catch kecuali
 
 ![Tampilan antarmuka permainan osu!mania](/wiki/shared/mania-gameplay.jpg "Tampilan antarmuka permainan osu!mania")
 
-osu!catch merupakan mode permainan osu! yang didasari pada permainan-permainan *vertical scrolling rhythm game* (VSRG) lainnya seperti *beatmania*, *Guitar Hero*, dan *Dance Dance Revoulution*. Tidak jauh berbeda dengan permainan-permainan tersebut, mode permainan osu!mania menuntut kamu untuk dapat menekan tombol input yang tepat pada keyboard kamu pada waktu yang tepat sesuai dengan not-not yang bergulir pada layar permainan.
+osu!catch merupakan mode permainan osu! yang didasari pada permainan-permainan *vertical scrolling rhythm game* (VSRG) lainnya seperti *beatmania*, *Guitar Hero*, dan *Dance Dance Revoulution*. Tidak jauh berbeda dengan permainan-permainan tersebut, mode permainan osu!mania menuntut kamu untuk dapat menekan tombol input yang sesuai pada keyboard kamu pada waktu yang tepat sejalan dengan bergulirnya not-not yang ada pada layar permainan.
 
-Pada umumnya, beatmap-beatmap osu!mania memiliki 4 hingga 7 lajur not yang berkorespondensi dengan jumlah tombol input *(key)* yang dipergunakan dalam permainan. Pada beatmap-beatmap yang dikonversi,
+Pada umumnya, beatmap-beatmap osu!mania memiliki 4 hingga 7 lajur not yang berkorespondensi dengan jumlah tombol input *(key)* yang dipergunakan dalam permainan. Pada beatmap-beatmap osu!mania yang di-*convert* dari osu!standard, kamu dapat menggunakan mod [xK](/wiki/Game_modifier/xK) untuk mengubah jumlah key tersebut dari rentang 1K hingga 9K. Di samping itu, kamu juga dapat bermain dengan menggunakan mod [Co-Op](/wiki/Game_modifier/Co-op) yang akan memecah layar permainan ke dalam dua bagian untuk dapat dimainkan oleh dua orang pemain (hingga maksimal 18K/9K+9K) secara bersamaan.
 
-When converting a non-specific beatmap, the default key range would be around 4 to 7 keys.
+#### Penjelasan dasar
 
-With the [xK](/wiki/Game_modifier/xK) game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction. However, the game modifier will not work with osu!mania-specific beatmaps.
+##### Layar permainan
 
-With the [Co-Op](/wiki/Game_modifier/Co-op) game modifier, the stage will be split in two, use Co-Op's control scheme, and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction. Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
+![Tampilan layar permainan osu!mania](/wiki/shared/Mania_playfield.jpg "Tampilan layar permainan osu!mania")
 
-#### Kontrol
+Secara *default*,
 
 ![](/wiki/shared/Mania_key_layouts.jpg)
 
