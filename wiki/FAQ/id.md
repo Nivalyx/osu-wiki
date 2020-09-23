@@ -199,12 +199,9 @@ Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah
 
 ![Ilustrasi hyperfruit dalam permainan osu!catch](/wiki/shared/Catch_hyperfruits.jpg "Ilustrasi hyperfruit dalam permainan osu!catch")
 
-*Hyperfruit* merupakan buah-buah khusus yang ditandai dengan pendaran berwarna merah di sekelilingnya. 
+*Hyperfruit* merupakan buah-buah khusus yang ditandai dengan pendaran berwarna merah di sekelilingnya. Buah-buah hyperfruit akan muncul pada saat terdapat dua buah yang secara matematis tidak dapat tertangkap dengan kecepatan catcher normal.
 
-are special fruits that will appear to help the catcher to catch the next fruit when normal dash is considered impossible to catch it in a strict timespan allocated. All hyperfruits have a signature red colour surrounding the hyperfruit itself by default.
-
-Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (just fast enough to catch the next fruit), glows red, and leaves a temporary red *afterimage* at the collection point, until the next one fruit was caught or dropped, which the catcher will then be back to normal.
-
+Sesaat setelah kamu menangkap buah hyperfruit, kamu akan memasuki mode *hyperdash* yang memungkinkan kamu untuk menangkap buah yang sebelumnya tidak dapat tertangkap dengan kecepatan catcher normal tersebut. Mode hyperdash ini akan berakhir segera setelah kamu menangkap buah yang bersangkutan atau setelah kamu mendapatkan miss.
 
 #### Mengarahkan penangkap
 
