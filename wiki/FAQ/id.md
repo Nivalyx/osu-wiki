@@ -195,7 +195,7 @@ Tidak seperti pada dua mode yang sudah dibahas sebelumnya, osu!catch tidak memil
 
 Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah pisang yang jatuh, kamu tidak disarankan untuk melepas pisang-pisang yang jatuh begitu saja mengingat setiap buah pisang yang berhasil kamu tangkap akan mengisi health bar yang kamu miliki. Di samping itu, apabila kamu menggunakan mod [Auto](/wiki/Game_modifier/Auto), kamu dapat melihat mod Auto menangkap *semua* buah-buah pisang yang jatuh tanpa ada yang luput satupun.
 
-##### Hyperfruits
+##### Hyperfruit
 
 ![Ilustrasi hyperfruit dalam permainan osu!catch](/wiki/shared/Catch_hyperfruits.jpg "Ilustrasi hyperfruit dalam permainan osu!catch")
 
@@ -203,7 +203,9 @@ Walaupun kamu tidak akan mendapatkan miss apabila kamu tidak menangkap buah-buah
 
 Sesaat setelah kamu menangkap buah hyperfruit, kamu akan memasuki mode *hyperdash* yang memungkinkan kamu untuk menangkap buah yang sebelumnya tidak dapat tertangkap dengan kecepatan catcher normal tersebut. Mode hyperdash ini akan berakhir segera setelah kamu menangkap buah yang bersangkutan atau setelah kamu mendapatkan miss.
 
-#### Mengarahkan penangkap
+#### Kontrol
+
+Secara *default*
 
 Jika mod [Relax](/wiki/Game_modifier/Relax) digunakan, maka kontrol dari penangkap dapat digerakkan menggunakan mouse yang kamu punya.
 
