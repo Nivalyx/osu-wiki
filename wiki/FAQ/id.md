@@ -243,16 +243,20 @@ Dalam permainan osu!mania, kamu harus mengenai not-not yang datang bergulir tepa
 
 Tidak jauh berbeda dengan not-not biasa, hold note yang ada dalam permainan osu!mania mengharuskan kamu untuk menekan tombol input kamu sesuai dengan lajur tempat munculnya hold note yang bersangkutan. Bedanya, pada hold note, kamu harus menahan tombol input yang telah kamu tekan tersebut hingga akhir hold note.
 
-Health bar yang kamu miliki akan bertambah perlahan ketika kamu sedang menahan suatu hold note. Pada umumnya, beatmap-beatmap dengan tingkatan kesulitan yang lebih lanjut, kamu pada waktu yang bersamaan.
+Health bar yang kamu miliki akan bertambah perlahan ketika kamu sedang menahan suatu hold note. Beatmap-beatmap dengan tingkatan-tingkatan kesulitan yang lebih tinggi pada umumnya akan memiliki pattern yang mengharuskan kamu untuk menahan lebih dari satu hold note dalam waktu yang bersamaan.
 
-Health bar regeneration occurs slowly while holding the hold note(s). Depending on the song and mapping quirks, it is possible that other notes or hold notes to appear while holding the previous hold note(s).
+#### Kontrol
 
-![](/wiki/shared/Mania_key_layouts.jpg)
+![Konfigurasi tombol input osu!mania default](/wiki/shared/Mania_key_layouts.jpg "Konfigurasi tombol input osu!mania default")
 
-Terdapat dua jenis gaya bermain, *Simetris* dan *Kiri ke Kanan*. (Dapat ditemukan di Pengaturan->Masukan).
+Terdapat dua jenis konfigurasi tombol yang lazim digunakan untuk bermain osu!mania, yakni *Symmetrical* dan *Left-to-Right*.
 
-- Gaya *Simetris* meniru gaya bermain permainan DJMAX, dimana tombol tengah adalah *spasi*, yang mana, membuat sebuah rasa seperti menginjak pedal seperti pada versi *arcade*. Tombol tengah berperan sebagai kolom tengah (Hanya 5K dan 7K) dan kolom lainnya menggunakan tombol yang cocok dengannya.
+- Konfigurasi tombol *Symmetrical* meniru gaya bermain permainan DJMAX, dimana tombol tengah adalah *spasi*, yang mana, membuat sebuah rasa seperti menginjak pedal seperti pada versi *arcade*. Tombol tengah berperan sebagai kolom tengah (Hanya 5K dan 7K) dan kolom lainnya menggunakan tombol yang cocok dengannya.
 - Gaya *Kiri ke kanan* meniru gaya bermain permainan Beatmania IIDX, dimana kolom pertama cocok dengan key 1, dan kolom kedua cocok dengan key 2, dan begitu seterusnya.
+
+- *Symmetrical* style mimics the button placement of *DJMAX*, in which the center key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version.
+  - Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
+- *Left to Right* style mimics the button placement of *Beatmania IIDX*, where the first column matches to the *key1*, then the second column matches the *key2* and so on.
 
 Gaya bermain *Simetris* (Untuk gaya DJMAX)
 
