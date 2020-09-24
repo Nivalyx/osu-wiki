@@ -284,7 +284,7 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 ---
 
-## Scoring
+## Sistem Scoring
 
 *Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Score)).*
 
