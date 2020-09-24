@@ -251,7 +251,7 @@ Health bar yang kamu miliki akan bertambah perlahan ketika kamu sedang menahan s
 
 Terdapat dua jenis konfigurasi tombol yang lazim digunakan untuk bermain osu!mania, yakni *Symmetrical* dan *Left-to-Right*.
 
-- Konfigurasi tombol *Symmetrical* merupakan konfigurasi dengan susunan tombol yang menyerupai susunan tombol pada permainan *DJMAX*. Konfigurasi ini ditandai dengan tombol `Spacebar` yang digunakan pada beatmap-beatmap dengan dengan jumlah key yang ganjil.
+- Konfigurasi tombol *Symmetrical* merupakan konfigurasi dengan susunan tombol yang menyerupai susunan tombol pada permainan *DJMAX*. Konfigurasi ini ditandai dengan terdapatnya tombol `Spacebar` yang digunakan pada beatmap-beatmap dengan dengan jumlah key yang ganjil.
 - Konfigurasi tombol *Left-to-Right* merupakan konfigurasi dengan susunan tombol yang menyerupai susunan tombol pada permainan *beatmania IIDX*, dimana lajur pertama berkorespondensi dengan tombol input *key1*, lajur kedua berkorespondensi dengan tombol input *key2*, dan seterusnya.
 
 Secara *default*, input-input yang terdaftar untuk konfigurasi tombol *symmetrical* adalah sebagai berikut:
@@ -282,15 +282,23 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 | 7K | K1, K2, K3, K4, K5, K6, K7 |
 | 8K | K1, K2, K3, K4, K5, K6, K7, K8 |
 
+---
+
+## Scoring
+
+*Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Score)).*
+
+*Detailed explanation of accuracy calculation can be found at the game style's own respective page or [the Accuracy page](/wiki/Accuracy).*
+
 ## Referensi
 
-- peppy's superseded web FAQ (`/p/faq/` which this page was based on; currently removed)
-- Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
-- OnosakiHito's TBT Project \[Training Manual For Taiko Beginner v2\] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
-- Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
-- Entozer's osu!mania maps, sorted by difficulty [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
-- Drace's \[GUIDE\] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
-- Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
+- Laman `/p/faq/` terdahulu, oleh peppy (saat ini laman yang bersangkutan telah dihapus)
+- Beginner's Training, oleh Pokebis [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
+- TBT Project \[Training Manual For Taiko Beginner v2\], oleh OnosakiHito [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
+- CBT Project, oleh Kingkevin30 [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
+- Entozer's osu!mania maps sorted by difficulty, oleh Entozer [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
+- \[GUIDE\] How to improve in osu!mania, oleh Drace [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
+- osu!search - Advanced beatmap searching, oleh Rivenation [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
 - Wikipedia [\[7\]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [\[8\]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 
 [osu! icon]: /wiki/shared/mode/osu.png
