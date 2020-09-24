@@ -235,7 +235,7 @@ Kamu dapat **mengatur kecepatan perguliran not-not pada layar** dengan menggunak
 
 ![Ilustrasi not-not dalam permainan osu!mania](/wiki/shared/Mania_notes.jpg "Ilustrasi not-not dalam permainan osu!mania")
 
-Notes are the hit circles of osu!mania. The falling notes must be tapped on the judgement line, with correct key corresponding to each of the note it falls to. More keys corresponding to the falling notes must be tapped simultaneously if the notes fall simultaneously. A score burst will be given when tapped a correct key corresponding to the note in the judgement line.
+Dalam permainan osu!mania, kamu harus mengenai not-not yang datang bergulir tepat di saat not yang bersangkutan bertumpang tindih dengan *judgment line* yang ada. Kamu harus menekan tombol input yang sesuai dengan tombol input yang berkorespondensi dengan lajur bergulirnya not -- apabila terdapat lebih dari satu not yang datang pada waktu yang sama, kamu harus turut menekan tombol-tombol input yang sesuai secara bersamaan. Sesaat setelah kamu mengenai not yang bersangkutan, kamu akan menjumpai *score burst* yang mengindikasikan seberapa akurat timing kamu.
 
 ![](/wiki/shared/Mania_key_layouts.jpg)
 
