@@ -284,11 +284,12 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 ---
 
-## Sistem Scoring
+## Mekanisme Perhitungan Skor
 
-*Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Score)).*
+*Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan skor yang berlaku pada masing-masing mode permainan, harap kunjungi laman [the Score page](/wiki/Score) atau laman masing-masing mode permainan.*
 
-*Detailed explanation of accuracy calculation can be found at the game style's own respective page or [the Accuracy page](/wiki/Accuracy).*
+
+*Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan akurasi yang berlaku pada masing-masing mode permainan, harap kunjungi laman [the Accuracy page](/wiki/Accuracy) atau laman masing-masing mode permainan.*
 
 ## Referensi
 
