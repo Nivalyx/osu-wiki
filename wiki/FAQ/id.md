@@ -261,7 +261,7 @@ Secara *default*, input-input yang terdaftar untuk konfigurasi tombol *symmetric
 - Tombol input *tengah (ibu jari)* — (K5)`Spacebar`. \[hanya pada beatmap-beatmap dengan jumlah key yang ganjil\]
 - Tombol *Special* — `leftShift` dan `leftCtrl`.
 
-| Key | L | C | R |
+| Key | Kiri | Tengah | Kanan |
 | :-: | :-- | :-: | --: |
 | 4K | K3, K4 | - | K6, K7 |
 | 5K | K3, K4 | K5 | K6, K7 |
@@ -271,31 +271,12 @@ Secara *default*, input-input yang terdaftar untuk konfigurasi tombol *symmetric
 
 Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tombol *left-to-right* adalah sebagai berikut:
 
-- From down to up then down to up again: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 is not used\]
-- The *Special* button — `leftShift` and `leftCtrl`.
+- Berselang-seling dari bawah ke atas: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 pada umumnya tidak digunakan\]
+- Tombol *Special* — `leftShift` dan `leftCtrl`.
 
-| Key | Bindings |
+| Key | Korespondensi Tombol Input |
 | :-: | :-- |
 | 4K | K1, K2, -, K4, K5 |
-| 5K | K1, K2, K3, K4, K5 |
-| 6K | K1, K2, K3, K4, K5, K6 |
-| 7K | K1, K2, K3, K4, K5, K6, K7 |
-| 8K | K1, K2, K3, K4, K5, K6, K7, K8 |
-
-- Dari bawah ke atas kemudian ke bawah lalu kembali ke atas: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9 tidak digunakan\]
-- Tombol *spesial* — **SHIFT kiri** dan **"Ctrl" kiri**.
-
-| Key | Kunci Simetris |
-| :-: | :-: |
-| 4K | K3, K4 |
-| 5K | K3, K4 |
-| 6K | K2, K3, K4 |
-| 7K | K2, K3, K4 |
-| 8K | K1, K2, K3, K4 |
-
-| Key | Kunci Kiri ke kanan |
-| :-: | :-: |
-| 4K | K1, K2 |
 | 5K | K1, K2, K3, K4, K5 |
 | 6K | K1, K2, K3, K4, K5, K6 |
 | 7K | K1, K2, K3, K4, K5, K6, K7 |
