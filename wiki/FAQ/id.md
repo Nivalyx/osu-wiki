@@ -256,9 +256,9 @@ Terdapat dua jenis konfigurasi tombol yang lazim digunakan untuk bermain osu!man
 
 Secara *default*, input-input yang terdaftar untuk konfigurasi tombol *symmetrical* adalah sebagai berikut:
 
-- Tombol-tombol input pada *sisi kiri* — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
-- Tombol-tombol input pada *sisi kanan* — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
-- Tombol input *tengah (ibu jari)* — (K5)`Spacebar`. \[hanya pada beatmap-beatmap dengan jumlah key yang ganjil\]
+- Tombol-tombol input *sisi kiri* — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
+- Tombol-tombol input *sisi kanan* — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
+- Tombol input *tengah* — (K5)`Spacebar`. \[hanya pada beatmap-beatmap dengan jumlah key yang ganjil\]
 - Tombol *Special* — `leftShift` dan `leftCtrl`.
 
 | Key | Kiri | Tengah | Kanan |
