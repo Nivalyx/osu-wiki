@@ -235,7 +235,17 @@ Kamu dapat **mengatur kecepatan perguliran not-not pada layar** dengan menggunak
 
 ![Ilustrasi not-not dalam permainan osu!mania](/wiki/shared/Mania_notes.jpg "Ilustrasi not-not dalam permainan osu!mania")
 
-Dalam permainan osu!mania, kamu harus mengenai not-not yang datang bergulir tepat di saat not yang bersangkutan bertumpang tindih dengan *judgment line* yang ada. Kamu harus menekan tombol input yang sesuai dengan tombol input yang berkorespondensi dengan lajur bergulirnya not -- apabila terdapat lebih dari satu not yang datang pada waktu yang sama, kamu harus turut menekan tombol-tombol input yang sesuai secara bersamaan. Sesaat setelah kamu mengenai not yang bersangkutan, kamu akan menjumpai *score burst* yang mengindikasikan seberapa akurat timing kamu.
+Dalam permainan osu!mania, kamu harus mengenai not-not yang datang bergulir tepat di saat not yang bersangkutan bertumpang tindih dengan *judgment line* yang ada. Kamu harus menekan tombol input yang sesuai dengan tombol input yang berkorespondensi dengan lajur bergulirnya not -- apabila terdapat lebih dari satu not yang datang pada waktu yang sama, kamu harus turut menekan tombol-tombol input yang sesuai secara bersamaan. Sesaat setelah kamu mengenai not yang bersangkutan, kamu akan menjumpai *score burst* yang mengindikasikan seberapa akurat timing penekanan tombol yang kamu buat tersebut.
+
+##### Hold note
+
+![Ilustrasi hold note dalam permainan osu!mania](/wiki/shared/Mania_holdnotes.jpg "Ilustrasi hold note dalam permainan osu!mania")
+
+Tidak jauh berbeda dengan not-not biasa, hold note yang ada dalam permainan osu!mania mengharuskan kamu untuk menekan tombol input kamu sesuai dengan lajur tempat munculnya hold note yang bersangkutan. Bedanya, pada hold note, kamu harus menahan tombol input yang telah kamu tekan tersebut hingga akhir hold note.
+
+Health bar yang kamu miliki akan bertambah perlahan ketika kamu sedang menahan suatu hold note. Pada umumnya, beatmap-beatmap dengan tingkatan kesulitan yang lebih lanjut, kamu pada waktu yang bersamaan.
+
+Health bar regeneration occurs slowly while holding the hold note(s). Depending on the song and mapping quirks, it is possible that other notes or hold notes to appear while holding the previous hold note(s).
 
 ![](/wiki/shared/Mania_key_layouts.jpg)
 
