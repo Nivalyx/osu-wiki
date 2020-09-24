@@ -251,21 +251,36 @@ Health bar yang kamu miliki akan bertambah perlahan ketika kamu sedang menahan s
 
 Terdapat dua jenis konfigurasi tombol yang lazim digunakan untuk bermain osu!mania, yakni *Symmetrical* dan *Left-to-Right*.
 
-- Konfigurasi tombol *Symmetrical* meniru gaya bermain permainan DJMAX, dimana tombol tengah adalah *spasi*, yang mana, membuat sebuah rasa seperti menginjak pedal seperti pada versi *arcade*. Tombol tengah berperan sebagai kolom tengah (Hanya 5K dan 7K) dan kolom lainnya menggunakan tombol yang cocok dengannya.
-- Gaya *Kiri ke kanan* meniru gaya bermain permainan Beatmania IIDX, dimana kolom pertama cocok dengan key 1, dan kolom kedua cocok dengan key 2, dan begitu seterusnya.
+- Konfigurasi tombol *Symmetrical* merupakan konfigurasi dengan susunan tombol yang menyerupai susunan tombol pada permainan *DJMAX*. Konfigurasi ini ditandai dengan tombol `Spacebar` yang digunakan pada beatmap-beatmap dengan dengan jumlah key yang ganjil.
+- Konfigurasi tombol *Left-to-Right* merupakan konfigurasi dengan susunan tombol yang menyerupai susunan tombol pada permainan *beatmania IIDX*, dimana lajur pertama berkorespondensi dengan tombol input *key1*, lajur kedua berkorespondensi dengan tombol input *key2*, dan seterusnya.
 
-- *Symmetrical* style mimics the button placement of *DJMAX*, in which the center key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version.
-  - Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
-- *Left to Right* style mimics the button placement of *Beatmania IIDX*, where the first column matches to the *key1*, then the second column matches the *key2* and so on.
+Secara *default*, input-input yang terdaftar untuk konfigurasi tombol *symmetrical* adalah sebagai berikut:
 
-Gaya bermain *Simetris* (Untuk gaya DJMAX)
+- Tombol-tombol input pada *sisi kiri* — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
+- Tombol-tombol input pada *sisi kanan* — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
+- Tombol input *tengah (ibu jari)* — (K5)`Spacebar`. \[hanya pada beatmap-beatmap dengan jumlah key yang ganjil\]
+- Tombol *Special* — `leftShift` dan `leftCtrl`.
 
-- Untuk pengguna tangan *kiri* — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
-- Untuk pengguna tangan *kanan* — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**semicolon ";"**.
-- Tombol *tengah* — (K5) **Spasi**. \[Hanya untuk 5K dan 7K\]
-- Tombol *spesial* — **SHIFT kiri** dan **"Ctrl" kiri**.
+| Key | L | C | R |
+| :-: | :-- | :-: | --: |
+| 4K | K3, K4 | - | K6, K7 |
+| 5K | K3, K4 | K5 | K6, K7 |
+| 6K | K2, K3, K4 | - | K6, K7, K8 |
+| 7K | K2, K3, K4 | K5 | K6, K7, K8 |
+| 8K | K1, K2, K3, K4 | - | K6, K7, K8, K9 |
 
-Gaya bermain *Kiri ke Kanan* (Untuk gaya Beatmania IIDX)
+Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tombol *left-to-right* adalah sebagai berikut:
+
+- From down to up then down to up again: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 is not used\]
+- The *Special* button — `leftShift` and `leftCtrl`.
+
+| Key | Bindings |
+| :-: | :-- |
+| 4K | K1, K2, -, K4, K5 |
+| 5K | K1, K2, K3, K4, K5 |
+| 6K | K1, K2, K3, K4, K5, K6 |
+| 7K | K1, K2, K3, K4, K5, K6, K7 |
+| 8K | K1, K2, K3, K4, K5, K6, K7, K8 |
 
 - Dari bawah ke atas kemudian ke bawah lalu kembali ke atas: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9 tidak digunakan\]
 - Tombol *spesial* — **SHIFT kiri** dan **"Ctrl" kiri**.
