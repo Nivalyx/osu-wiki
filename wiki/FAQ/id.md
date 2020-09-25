@@ -343,17 +343,17 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 **Lebih lanjut mengenai statistik torehan peringkat yang terdapat pada laman profil kamu:**
 
-- Kamu dapat melihat seberapa banyak peringkat Silver SS, SS, Silver S, S, dan A yang telah kamu torehkan pada laman profil kamu di bagian General->Ranks.
+- Kamu dapat melihat seberapa banyak jumlah skor dengan peringkat Silver SS, SS, Silver S, S, dan A yang kamu miliki pada laman profil kamu di bagian General->Ranks.
 - Statistik torehan peringkat pada laman profil kamu akan senantiasa diperbaharui seiring dengan skor-skor baru yang kamu peroleh di saat kamu terhubung secara online dengan server Bancho. **Skor-skor yang kamu peroleh ketika bermain offline tidak akan terhitung pada statistik tersebut**.
-- **Statistik torehan peringkat tersebut dihitung per tingkat kesulitan yang berstatus Ranked/Approved yang telah kamu mainkan, bukan per beatmap yang ada secara keseluruhan.**
-  - Sebagai contoh, apabila suatu beatmap memiliki 3 tingkat kesulitan yang berstatus Ranked dan kamu berhasil mendapatkan peringkat SS pada ketiganya, total peringkat SS yang kamu miliki juga akan bertambah sebanyak 3 buah.
-  - Meskipun demikian, apabila di kemudian waktu kamu berhasil mendapatkan skor yang lebih tinggi pada beatmap yang bersangkutan dengan peringkat S, SH, atau SSH, total peringkat SS yang kamu miliki akan berkurang dan peringkat S/SH/SSH yang kamu miliki akan bertambah.
+- **Jumlah masing-masing peringkat yang kamu miliki dihitung per tingkat kesulitan yang berstatus Ranked/Approved yang telah kamu mainkan, bukan per beatmap yang ada secara keseluruhan.**
+  - Sebagai contoh, apabila suatu beatmap memiliki 3 tingkat kesulitan yang berstatus Ranked dan kamu berhasil mendapatkan peringkat SS pada ketiganya, jumlah peringkat SS yang kamu miliki juga akan bertambah sebanyak 3 buah.
+  - Meskipun demikian, apabila di kemudian waktu kamu berhasil mendapatkan skor yang lebih tinggi pada beatmap yang bersangkutan dengan peringkat S, SH, atau SSH, jumlah peringkat SS yang kamu miliki akan berkurang dan jumlah peringkat S/SH/SSH yang kamu miliki akan bertambah.
 
 ## Performance Point
 
 *Penjelasan lebih lanjut: [Performance Point](/wiki/Performance_Points)*
 
-Performance point(pp) merupakan 
+Performance point(pp) merupakan suatu nilai yang digunakan untuk mengukur 
 
 Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of the scores will be rated and assigned a pp value. Performance rank is predominantly based on performance on individual maps. The easiest way to improve it is to score high on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!, osu!taiko, osu!catch, or osu!mania will raise the pp for the respective game mode.
 
