@@ -381,11 +381,11 @@ Untuk osu!taiko, **OnosakiHito** telah menyusun daftar beatmap-beatmap yang dapa
 
 Untuk osu!catch, **Kingkevin30** telah menyusun daftar beatmap-beatmap osu!catch tingkat pemula yang disertai dengan penjelasan dasar seputar osu!catch. Kamu dapat menemukannya [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/131067).
 
-Untuk osu!mania, **Entozer** telah menyusun daftar beatmap-beatmap yang sesuai untuk dimainkan pada berbagai tingkatan permainan (mulai dari tingkat pemula hingga tingkat lanjut). Di samping itu, **Drace** juga telah menulis suatu penjabaran yang komprehensif seputar hal-hal yang disarankan bagi para pemain pemula yang ingin mendalami permainan osu!mania. Keduanya dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide) dan [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide)
+Untuk osu!mania, **Entozer** telah menyusun daftar beatmap-beatmap yang sesuai untuk dimainkan pada berbagai tingkatan permainan (mulai dari tingkat pemula hingga tingkat lanjut). Di samping itu, **Drace** juga telah menjabarkan hal-hal apa saja yang disarankan bagi para pemain pemula untuk dapat menguasai permainan osu!mania secara mendalam. Keduanya dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide) dan [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide)
 
-Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). The easiest maps are at the top of the list.
+Di samping itu, kamu juga dapat [menyortir hasil pencarian beatmap pada situs web osu! berdasarkan tingkat kesulitan](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). Tautan tersebut akan secara otomatis menampilkan beatmap-beatmap yang paling mudah pada bagian atas laman pencarian.
 
-Lastly, **Rivenation** did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) named [osu!search](http://osusearch.com) which not only has the same features as the official beatmap searchbar but also has some neat features to define a specific beatmap requirement. The unofficial beatmap searchbar can be found at [this link](http://osusearch.com).
+Terakhir, **Rivenation** did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) named [osu!search](http://osusearch.com) which not only has the same features as the official beatmap searchbar but also has some neat features to define a specific beatmap requirement. The unofficial beatmap searchbar can be found at [this link](http://osusearch.com).
 
 #### What does Level in my profile actually do?
 
