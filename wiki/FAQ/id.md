@@ -136,7 +136,7 @@ Drumroll pada osu!taiko dapat sepenuhnya diabaikan -- kamu tidak akan mendapatka
 
 Denden (spinner) merupakan elemen permainan osu!taiko yang mengharuskan kamu untuk menekan tombol-tombol input kamu **secara berselang-seling** (merah, biru, merah, biru, merah, biru, ...) secepat mungkin hingga *denden counter* yang muncul di layar menunjukkan angka 0. Denden counter ini tidak akan berkurang apabila kamu menekan warna yang sama secara berurutan.
 
-Kamu akan mendapatkan skor +300 untuk setiap berkurangnya satu hitungan pada denden counter. Apabila kamu berhasil menyelesaikan denden tersebut sepenuhnya, kamu akan mendapatkan skor tambahan sejumlah nilai skor untuk satu not Don/Kat berukuran besar.
+Kamu akan mendapatkan skor +300 untuk setiap berkurangnya satu hitungan pada denden counter. Apabila kamu berhasil menyelesaikan denden tersebut sepenuhnya, kamu akan mendapatkan skor tambahan sejumlah skor satu not Don/Kat berukuran besar.
 
 #### Kontrol
 
