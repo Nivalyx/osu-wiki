@@ -294,7 +294,7 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 #### ![][osu! icon] osu!
 
-| Torehan Peringkat | Syarat |
+| Torehan Peringkat | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% |
 | S | Perolehan 300 di atas 90%, perolehan 50 di bawah 1%, dan tidak ada miss |
@@ -305,7 +305,7 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 #### ![][osu!taiko icon] osu!taiko
 
-| Torehan Peringkat | Syarat |
+| Torehan Peringkat | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% |
 | S | Akurasi di atas 95% (Perolehan GREAT di atas 90% atau kurang dari 1 GOOD setiap 10 not) |
@@ -314,27 +314,27 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 #### ![][osu!catch icon] osu!catch
 
-| Grade | Condition |
+| Torehan Peringkat | Persyaratan |
 | :-: | :-- |
-| SS | 100.00% Accuracy |
-| S | 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in osu!mania). |
-| A | 94.01% to 98.00% Accuracy |
-| B | 90.01% to 94.00% Accuracy |
-| C | 85.01% to 90.00% Accuracy |
-| D | Any other accuracy under 85.00%. |
+| SS | Akurasi 100% |
+| S | Akurasi di antara 98.01% hingga 99.99% (kamu dapat memperoleh peringkat 'S' pada osu!catch walaupun kamu mendapatkan beberapa miss) |
+| A | Akurasi di antara 94.01% hingga 98.00% |
+| B | Akurasi di antara 90.01% hingga 94.00% |
+| C | Akurasi di antara 85.01% hingga 90.00% |
+| D | Akurasi di bawah 85.00% |
 
 #### ![][osu!mania icon] osu!mania
 
-| Grade | Condition |
+| Torehan Peringkat | Persyaratan |
 | :-: | :-- |
-| SS | 100% Accuracy (only MAX and/or 300). |
-| S | Over 95% Accuracy (an 'S' rank is possible even with several misses, like in osu!catch). |
-| A | Over 90% Accuracy. |
-| B | Over 80% Accuracy. |
-| C | Over 70% Accuracy. |
-| D | Anything else. |
+| SS | Akurasi 100% (hanya MAX dan/atau 300) |
+| S | Akurasi di atas 95% (kamu dapat memperoleh peringkat 'S' pada osu!mania walaupun kamu mendapatkan beberapa miss) |
+| A | Akurasi di atas 90% |
+| B | Akurasi di atas 80% |
+| C | Akurasi di atas 70% |
+| D | Lainnya |
 
-#### All
+#### Semua mode permainan
 
 **Special grades:**
 
