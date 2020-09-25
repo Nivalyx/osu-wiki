@@ -399,7 +399,7 @@ Pastikan kamu tidak sedang berada pada mode permainan yang tidak kamu kehendaki.
 
 ![Tombol Mode Permainan](img/Profile_mode_buttons.gif "Tombol Mode Permainan")
 
-#### How do I change the default keyboard key input for my game mode of choice?
+#### Bagaimana cara saya mengubah tombol-tombol input yang digunakan di dalam permainan?
 
 *Full explanation: [Options](/wiki/Options)*
 
