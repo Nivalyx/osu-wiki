@@ -344,8 +344,8 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 **Lebih lanjut mengenai statistik torehan peringkat yang terdapat pada laman profil kamu:**
 
 - Kamu dapat melihat seberapa banyak jumlah skor dengan peringkat Silver SS, SS, Silver S, S, dan A yang kamu miliki pada laman profil kamu di bagian General->Ranks.
-- Statistik torehan peringkat pada laman profil kamu akan senantiasa diperbaharui seiring dengan skor-skor baru yang kamu peroleh di saat kamu terhubung secara online dengan server Bancho. **Skor-skor yang kamu peroleh ketika bermain offline tidak akan terhitung pada statistik tersebut**.
-- **Statistik torehan peringkat tersebut dihitung per tingkat kesulitan yang berstatus Ranked/Approved yang telah kamu mainkan, bukan per set beatmap yang ada secara keseluruhan.**
+- Statistik torehan peringkat yang tertera pada laman profil kamu akan senantiasa diperbaharui seiring dengan skor-skor baru yang kamu peroleh di saat kamu terhubung secara online dengan server Bancho. **Skor-skor yang kamu peroleh ketika bermain offline tidak akan ikut terhitung pada statistik tersebut**.
+- **Jumlah masing-masing peringkat yang kamu miliki dihitung per tingkat kesulitan yang berstatus Ranked/Approved yang telah kamu mainkan, bukan per set beatmap yang ada secara keseluruhan.**
   - Sebagai contoh, apabila suatu set beatmap memiliki 3 tingkat kesulitan yang berstatus Ranked dan kamu berhasil mendapatkan peringkat SS pada ketiganya, jumlah peringkat SS yang kamu miliki juga akan bertambah sebanyak 3 buah.
   - Meskipun demikian, apabila di kemudian waktu kamu berhasil mendapatkan skor yang lebih tinggi pada salah satu tingkat kesulitan yang bersangkutan dengan peringkat S, SH, atau SSH, jumlah peringkat SS yang kamu miliki akan berkurang dan jumlah peringkat S/SH/SSH yang kamu miliki akan bertambah.
 
