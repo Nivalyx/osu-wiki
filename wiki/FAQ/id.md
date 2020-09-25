@@ -317,7 +317,7 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 | Torehan Peringkat | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% |
-| S | Akurasi di antara 98.01% hingga 99.99% (kamu dapat mendapatkan peringkat 'S' pada osu!catch walaupun kamu mendapatkan beberapa miss) |
+| S | Akurasi di antara 98.01% hingga 99.99% (kamu dapat mendapatkan peringkat 'S' pada osu!catch walaupun kamu mendapatkan miss) |
 | A | Akurasi di antara 94.01% hingga 98.00% |
 | B | Akurasi di antara 90.01% hingga 94.00% |
 | C | Akurasi di antara 85.01% hingga 90.00% |
@@ -328,7 +328,7 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 | Torehan Peringkat | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% (hanya MAX dan/atau 300) |
-| S | Akurasi di atas 95% (kamu dapat mendapatkan peringkat 'S' pada osu!mania walaupun kamu mendapatkan beberapa miss) |
+| S | Akurasi di atas 95% (kamu dapat mendapatkan peringkat 'S' pada osu!mania walaupun kamu mendapatkan miss) |
 | A | Akurasi di atas 90% |
 | B | Akurasi di atas 80% |
 | C | Akurasi di atas 70% |
@@ -353,7 +353,9 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 *Penjelasan lebih lanjut: [Performance Point](/wiki/Performance_Points)*
 
-Performance point(pp) merupakan suatu nilai yang digunakan untuk mengukur 
+Performance point(pp) merupakan suatu nilai yang digunakan untuk mengukur kemampuan seorang pemain relatif terhadap rekam jejak permainan dari pemain yang bersangkutan. Masing-masing mode permainan memiliki mekanisme perhitungan pp-nya tersendiri, namun 
+
+Untuk informasi yang lebih mendalam seputar perhitungan pp, harap kunjungi laman [Performance Point](/wiki/Performance_Points).
 
 Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of the scores will be rated and assigned a pp value. Performance rank is predominantly based on performance on individual maps. The easiest way to improve it is to score high on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!, osu!taiko, osu!catch, or osu!mania will raise the pp for the respective game mode.
 
