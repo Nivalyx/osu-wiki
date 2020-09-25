@@ -243,7 +243,7 @@ Dalam permainan osu!mania, kamu harus mengenai not-not yang datang bergulir tepa
 
 Tidak jauh berbeda dengan not-not yang telah dibahas sebelumnya, hold note yang ada dalam permainan osu!mania mengharuskan kamu untuk menekan tombol input kamu sesuai dengan lajur tempat munculnya hold note yang bersangkutan. Bedanya, pada hold note, kamu harus menahan tombol input yang telah kamu tekan tersebut hingga akhir hold note.
 
-Health bar yang kamu miliki akan bertambah secara perlahan ketika kamu sedang menahan suatu hold note. Beatmap-beatmap dengan tingkatan-tingkatan kesulitan yang lebih tinggi pada umumnya akan memiliki pattern yang mengharuskan kamu untuk menahan lebih dari satu hold note dalam waktu yang bersamaan.
+Health bar yang kamu miliki akan bertambah secara perlahan ketika kamu sedang menahan suatu hold note. Beatmap-beatmap dengan tingkatan-tingkatan kesulitan yang lebih tinggi pada umumnya dapat memiliki pattern yang mengharuskan kamu untuk menahan lebih dari satu hold note dalam waktu yang bersamaan.
 
 #### Kontrol
 
