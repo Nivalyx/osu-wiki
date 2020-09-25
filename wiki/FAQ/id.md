@@ -486,20 +486,20 @@ When enabled, it will use the `taiko` folder's skin elements when playing in osu
 
 #### "This beatmap you're trying to submit isn't owned by you!"
 
-*For unranked beatmaps only.*
+*Khusus untuk beatmap-beatmap yang berstatus Unranked.*
 
-![Example of an .osu file content](/wiki/shared/Beatmap_not_owned.png "Example of an .osu file content")
+![Isi dari file .osu](/wiki/shared/Beatmap_not_owned.png "Isi dari file .osu")
 
-Please follow these steps:
+Apabila kamu menemui pesan error *"This beatmap you're trying to submit isn't owned by you!"* di saat kamu hendak mengunggah beatmap milikmu, cobalah untuk melakukan hal-hal sebagai berikut:
 
-1. Leave the editor (or close osu!) to make sure the changes apply properly
-2. Check the name of the beatmap's folder
-   - If it starts with numbers, remove them. Otherwise, osu! will treat it as BeatmapSetID
-3. Make sure that the `.mp3` does not start with numbers. Edit the filename in the `.osu` files if it does.
-4. Open all the `.osu` files with a text editor (*Notepad* will work)
-   - Set your name as creator (and replace it in the file name as well)
-   - Set the BeatmapID to 0
-   - Set the BeatmapSetID to -1
+1. Keluar dari editor dan tutup layar osu! milikmu.
+2. Periksa nama folder dari beatmap yang bersangkutan.
+   - Apabila nama folder tersebut dimulai dengan angka, hapus angka-angka tersebut.
+3. Pastikan nama file `.mp3` yang kamu gunakan tidak dimulai dengan angka.
+4. Buka file-file `.osu` yang ada di dalam folder dengan menggunakan Notepad atau text editor lainnya.
+   - Isi kolom `Creator:` dengan nama akun osu! milikmu.
+   - Isi kolom `BeatmapID:` dengan angka 0.
+   - Isi kolom `BeatmapSetID:` dengan angka -1.
 
 ## Referensi
 
