@@ -395,7 +395,7 @@ Level yang kamu miliki didasarkan pada total skor yang telah kamu kumpulkan dari
 
 #### Mengapa statistik yang tertera pada laman profil saya berbeda dengan statistik yang saya lihat di dalam osu!?
 
-Pastikan kamu tidak sedang berada pada mode permainan yang salah mengingat osu! memiliki empat mode permainan yang berbeda.
+Pastikan kamu tidak sedang berada pada mode permainan yang tidak kamu kehendaki.
 
 ![Tombol Mode Permainan](img/Profile_mode_buttons.gif "Tombol Mode Permainan")
 
