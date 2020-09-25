@@ -371,7 +371,7 @@ Kamu dapat mengunduh berbagai ragam beatmap pada laman *[Beatmaps](https://osu.p
 
 #### Apakah saya dapat menonaktifkan Kiai Time?
 
-**Tidak**, karena (tidak seperti video/storyboard yang hadir sebagai konten tambahan) Kiai Time merupakan bagian dari beatmap yang bersangkutan.
+**Tidak**, karena -- tidak seperti video/storyboard yang hadir sebagai konten tambahan -- Kiai Time merupakan bagian dari beatmap yang bersangkutan.
 
 #### Beatmap-beatmap yang saya miliki terlalu sulit! Di mana saya bisa mendapatkan beatmap-beatmap yang lebih mudah?
 
