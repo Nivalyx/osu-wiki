@@ -490,9 +490,9 @@ When enabled, it will use the `taiko` folder's skin elements when playing in osu
 
 ![Isi dari file .osu](/wiki/shared/Beatmap_not_owned.png "Isi dari file .osu")
 
-Apabila kamu menemui pesan error *"This beatmap you're trying to submit isn't owned by you!"* di saat kamu hendak mengunggah beatmap milikmu, cobalah untuk melakukan hal-hal sebagai berikut:
+Apabila kamu menemui pesan error *"This beatmap you're trying to submit isn't owned by you!"* di saat kamu hendak mengunggah beatmap yang kamu buat, cobalah untuk melakukan hal-hal sebagai berikut:
 
-1. Keluar dari editor dan tutup layar osu! milikmu.
+1. Pastikan aplikasi osu! sedang tidak berjalan.
 2. Periksa nama folder dari beatmap yang bersangkutan.
    - Apabila nama folder tersebut dimulai dengan angka, hapus angka-angka tersebut.
 3. Pastikan nama file `.mp3` yang kamu gunakan tidak dimulai dengan angka.
