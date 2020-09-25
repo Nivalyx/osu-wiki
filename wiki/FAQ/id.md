@@ -343,11 +343,11 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 **Lebih lanjut mengenai statistik torehan peringkat yang terdapat pada laman profil kamu:**
 
-- Grades obtained will be set at the profile page under General->Ranks provided the in-game osu!account was still connected online with Bancho server when receiving the grade.
-  - **Offline play**, even with osu!account logged-in, **will not be counted**.
-- **Grades given for profile depends on ranked/approved top score grade for a beatmap's difficulty in that game mode, not as whole.**
-  - If a beatmap has three(3) ranked difficulties, and SS'ed all three of them in osu!catch; three(3) SS will be given for osu!catch's Ranks section, not just one(1) SS given.
-  - However, if a new highscore (from better spinner bonus or game modifiers) was achieved from replaying an SS'ed ranked difficulty but was an S grade, then the SS counter will decrement by one(1) and S counter increment by one(1) instead.
+- Kamu dapat melihat seberapa banyak peringkat Silver SS, SS, Silver S, S, dan A yang telah kamu torehkan pada laman profil kamu di bagian General->Ranks.
+- Statistik torehan peringkat pada laman profil kamu akan senantiasa diperbaharui seiring dengan skor-skor baru yang kamu peroleh di saat kamu terhubung secara online dengan server Bancho. **Skor-skor yang kamu peroleh ketika bermain offline tidak akan terhitung pada statistik tersebut**.
+- **Statistik torehan peringkat tersebut dihitung per tingkat kesulitan dengan status Ranked/Approved yang telah kamu mainkan, bukan per beatmap yang ada secara keseluruhan.**
+  - Sebagai contoh, apabila suatu beatmap memiliki 3 tingkat kesulitan dengan status Ranked dan kamu berhasil mendapatkan peringkat SS pada ketiganya, kamu juga akan tercatat mendapatkan 3 peringkat SS.
+  - Meskipun demikian, apabila di kemudian waktu kamu berhasil mendapatkan skor yang lebih tinggi pada beatmap yang bersangkutan dengan peringkat SH, total peringkat SS yang kamu dapatkan akan berkurang dan peringkat S akan bertambah 1.
 
 ## Performance Points
 
