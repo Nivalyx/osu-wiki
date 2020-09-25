@@ -391,13 +391,13 @@ Terakhir, **Rivenation** juga telah merancang [osu!search](http://osusearch.com)
 
 **Sama sekali tidak ada**. Tidak ada perbedaan apapun antara seorang pemain Level 1 dan seorang pemain Level 100 kecuali pada jam terbang dan pengalaman bermain yang mereka miliki -- di dalam permainan, pemain dengan level yang lebih tinggi tidak akan mendapatkan keuntungan dari segi apapun terhadap pemain dengan level yang lebih rendah.
 
-Level yang kamu miliki didasarkan pada total skor yang telah kamu kumpulkan dari seluruh beatmap yang pernah kamu mainkan. [Kamu dapat melihat rumus yang digunakan untuk perhitungan level pada tautan berikut](/wiki/Score).
+Level yang kamu miliki didasarkan pada total skor yang telah kamu kumpulkan dari seluruh beatmap yang telah kamu mainkan. [Kamu dapat melihat rumus yang digunakan untuk perhitungan level pada tautan berikut](/wiki/Score).
 
-#### Why is my profile stats different ingame?
+#### Mengapa statistik yang tertera pada laman profil saya berbeda dengan statistik yang saya lihat di dalam osu!?
 
 Keep in mind that osu! has four game modes so you might be looking at the wrong game mode.
 
-![Profile_Mode_Buttons](img/Profile_mode_buttons.gif "Profile mode buttons")
+![Tombol Mode Permainan](img/Profile_mode_buttons.gif "Tombol Mode Permainan")
 
 #### How do I change the default keyboard key input for my game mode of choice?
 
