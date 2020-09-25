@@ -297,10 +297,10 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 | Torehan Peringkat | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% |
-| S | Perolehan 300 di atas 90%, perolehan 50 di bawah 1%, dan tidak ada miss |
-| A | Perolehan 300 di atas 80% dan tidak ada miss **ATAU** perolehan 300 di atas 90% |
-| B | Perolehan 300 di atas 70% dan tidak ada miss **ATAU** perolehan 300 di atas 80% |
-| C | Perolehan 300 di atas 60% |
+| S | Persentase perolehan 300 di atas 90%, persentase perolehan 50 di bawah 1%, dan tidak ada miss |
+| A | Persentase perolehan 300 di atas 80% dan tidak ada miss **ATAU** persentase perolehan 300 di atas 90% |
+| B | Persentase perolehan 300 di atas 70% dan tidak ada miss **ATAU** persentase perolehan 300 di atas 80% |
+| C | Persentase perolehan 300 di atas 60% |
 | D | Lainnya |
 
 #### ![][osu!taiko icon] osu!taiko
@@ -308,16 +308,16 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 | Torehan Peringkat | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% |
-| S | Akurasi di atas 95% (Perolehan GREAT di atas 90% atau kurang dari 1 GOOD setiap 10 not) |
-| A | Akurasi di atas 90% (Perolehan GREAT di atas 80% atau kurang dari 1 GOOD setiap 5 not) |
-| B | Akurasi di atas 80% (Perolehan GREAT di atas 70% atau kurang dari 1 GOOD setiap 3.33 not) |
+| S | Akurasi di atas 95% (Persentase perolehan GREAT di atas 90% atau kurang dari 1 GOOD setiap 10 not) |
+| A | Akurasi di atas 90% (Persentase perolehan GREAT di atas 80% atau kurang dari 1 GOOD setiap 5 not) |
+| B | Akurasi di atas 80% (Persentase perolehan GREAT di atas 70% atau kurang dari 1 GOOD setiap 3.33 not) |
 
 #### ![][osu!catch icon] osu!catch
 
 | Torehan Peringkat | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% |
-| S | Akurasi di antara 98.01% hingga 99.99% (kamu dapat memperoleh peringkat 'S' pada osu!catch walaupun kamu mendapatkan beberapa miss) |
+| S | Akurasi di antara 98.01% hingga 99.99% (kamu dapat mendapatkan peringkat 'S' pada osu!catch walaupun kamu mendapatkan beberapa miss) |
 | A | Akurasi di antara 94.01% hingga 98.00% |
 | B | Akurasi di antara 90.01% hingga 94.00% |
 | C | Akurasi di antara 85.01% hingga 90.00% |
@@ -328,7 +328,7 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 | Torehan Peringkat | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% (hanya MAX dan/atau 300) |
-| S | Akurasi di atas 95% (kamu dapat memperoleh peringkat 'S' pada osu!mania walaupun kamu mendapatkan beberapa miss) |
+| S | Akurasi di atas 95% (kamu dapat mendapatkan peringkat 'S' pada osu!mania walaupun kamu mendapatkan beberapa miss) |
 | A | Akurasi di atas 90% |
 | B | Akurasi di atas 80% |
 | C | Akurasi di atas 70% |
@@ -336,12 +336,12 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 #### Semua mode permainan
 
-**Special grades:**
+**Peringkat-peringkat lainnya:**
 
-- Silver SS (SSH) = Normal grade SS with *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
-- Silver S (SH) = Normal grade S with *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
+- Silver SS (SSH) = Peringkat SS dengan mod *[Hidden](/wiki/Game_modifier/Hidden)* dan/atau *[Flashlight](/wiki/Game_modifier/Flashlight)*.
+- Silver S (SH) = Peringkat S dengan *[Hidden](/wiki/Game_modifier/Hidden)* dan/atau *[Flashlight](/wiki/Game_modifier/Flashlight)*.
 
-**Regarding the *Ranks* in profile page:**
+**Lebih lanjut mengenai statistik torehan peringkat yang terdapat pada laman profil kamu:**
 
 - Grades obtained will be set at the profile page under General->Ranks provided the in-game osu!account was still connected online with Bancho server when receiving the grade.
   - **Offline play**, even with osu!account logged-in, **will not be counted**.
