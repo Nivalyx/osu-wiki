@@ -367,11 +367,11 @@ Untuk informasi yang lebih mendalam seputar pp, harap kunjungi laman [Performanc
 
 *Penjelasan lebih lanjut: [Beatmap](/wiki/Beatmaps)*
 
-Kamu dapat mengunduh berbagai ragam beatmap pada laman *[Beatmaps](https://osu.ppy.sh/beatmapsets)* yang ada pada situs web osu!. Jangan lupa untuk terlebih dahulu masuk dengan akun osu! yang kamu miliki agar kamu dapat mengunduh beatmap-beatmap yang ada.
+Kamu dapat mengunduh berbagai ragam beatmap pada laman *[Beatmaps](https://osu.ppy.sh/beatmapsets)* pada situs web osu!. Jangan lupa untuk terlebih dahulu masuk dengan akun osu! yang kamu miliki agar kamu dapat mengunduh beatmap-beatmap yang ada.
 
 #### Apakah saya dapat menonaktifkan Kiai Time?
 
-**No**, because unlike video, it is integrated to the game (as a part with the hit objects), thus cannot be disabled.
+**Tidak**, karena (tidak seperti video/storyboard yang hadir sebagai konten tambahan) Kiai Time merupakan bagian dari file beatmap yang bersangkutan.
 
 #### The maps are too hard! Where can I find some easier maps?
 
