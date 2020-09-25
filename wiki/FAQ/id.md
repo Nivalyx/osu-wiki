@@ -367,7 +367,7 @@ Untuk informasi yang lebih mendalam seputar pp, harap kunjungi laman [Performanc
 
 *Penjelasan lebih lanjut: [Beatmap](/wiki/Beatmaps)*
 
-Kamu dapat mengunduh berbagai ragam beatmap pada laman *[Beatmaps](https://osu.ppy.sh/beatmapsets)* yang ada di situs web osu!. Jangan lupa untuk terlebih dahulu masuk dengan akun osu! yang kamu miliki agar kamu dapat mengunduh beatmap-beatmap yang ada.
+Kamu dapat mengunduh beatmap pada laman *[Beatmaps](https://osu.ppy.sh/beatmapsets)* yang ada di situs web osu!. Jangan lupa untuk terlebih dahulu masuk dengan akun osu! yang kamu miliki agar kamu dapat mengunduh beatmap-beatmap yang ada.
 
 #### Apakah saya dapat menonaktifkan Kiai Time?
 
@@ -375,13 +375,13 @@ Kamu dapat mengunduh berbagai ragam beatmap pada laman *[Beatmaps](https://osu.p
 
 #### Beatmap-beatmap yang saya miliki terlalu sulit! Di mana saya bisa mendapatkan beatmap-beatmap yang lebih mudah?
 
-Untuk osu!, **Pokebis** telah menyusun daftar beatmap-beatmap yang bersahabat bagi para pemain pemula. Kamu dapat menemukannya [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/5456).
+Untuk osu!, **Pokebis** telah menyusun daftar beatmap-beatmap yang bersahabat untuk dimainkan bagi para pemain pemula. Kamu dapat menemukannya [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/5456).
 
 Untuk osu!taiko, **OnosakiHito** telah menyusun daftar beatmap-beatmap yang dapat kamu gunakan untuk mempelajari dasar-dasar permainan osu!taiko. Kamu dapat menemukannya [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/175867).
 
 Untuk osu!catch, **Kingkevin30** telah menyusun daftar beatmap-beatmap osu!catch tingkat pemula yang disertai dengan penjelasan dasar seputar osu!catch. Kamu dapat menemukannya [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/131067).
 
-Untuk osu!mania, **Entozer** telah menyusun daftar beatmap-beatmap yang sesuai untuk dimainkan pada berbagai tingkatan permainan (mulai dari tingkat pemula hingga tingkat lanjut). Di samping itu, **Drace** juga telah menjabarkan hal-hal apa saja yang disarankan bagi para pemain pemula untuk dapat menguasai permainan osu!mania secara mendalam. Keduanya dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide) dan [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide).
+Untuk osu!mania, **Entozer** telah menyusun daftar beatmap-beatmap yang sesuai untuk dimainkan pada berbagai tingkatan permainan (mulai dari tingkat pemula hingga tingkat lanjut). Di samping itu, **Drace** juga telah memberikan penjabaran seputar hal-hal apa saja yang disarankan bagi para pemain pemula untuk dapat menguasai permainan osu!mania secara mendalam. Keduanya dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide) dan [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide).
 
 Kamu juga dapat [menyortir hasil pencarian beatmap pada situs web osu! berdasarkan tingkat kesulitan](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). Tautan tersebut akan secara otomatis menampilkan beatmap-beatmap yang paling mudah pada bagian atas laman pencarian.
 
