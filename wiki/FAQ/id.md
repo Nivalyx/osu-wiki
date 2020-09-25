@@ -367,7 +367,7 @@ Untuk informasi yang lebih mendalam seputar pp, harap kunjungi laman [Performanc
 
 *Penjelasan lebih lanjut: [Beatmap](/wiki/Beatmaps)*
 
-Kamu dapat mengunduh berbagai ragam beatmap pada laman *[Beatmaps](https://osu.ppy.sh/beatmapsets)* yang tersedia pada situs web osu!. Jangan lupa untuk terlebih dahulu masuk dengan akun osu! yang kamu miliki agar kamu dapat mengunduh beatmap-beatmap yang ada.
+Kamu dapat mengunduh berbagai ragam beatmap pada laman *[Beatmaps](https://osu.ppy.sh/beatmapsets)* yang ada pada situs web osu!. Jangan lupa untuk terlebih dahulu masuk dengan akun osu! yang kamu miliki agar kamu dapat mengunduh beatmap-beatmap yang ada.
 
 #### Apakah saya dapat menonaktifkan Kiai Time?
 
