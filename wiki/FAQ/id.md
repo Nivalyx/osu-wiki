@@ -383,15 +383,15 @@ Untuk osu!catch, **Kingkevin30** telah menyusun daftar beatmap-beatmap osu!catch
 
 Untuk osu!mania, **Entozer** telah menyusun daftar beatmap-beatmap yang sesuai untuk dimainkan pada berbagai tingkatan permainan (mulai dari tingkat pemula hingga tingkat lanjut). Di samping itu, **Drace** juga telah menjabarkan hal-hal apa saja yang disarankan bagi para pemain pemula untuk dapat menguasai permainan osu!mania secara mendalam. Keduanya dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide) dan [pada tautan berikut](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide)
 
-Di samping itu, kamu juga dapat [menyortir hasil pencarian beatmap pada situs web osu! berdasarkan tingkat kesulitan](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). Tautan tersebut akan secara otomatis menampilkan beatmap-beatmap yang paling mudah pada bagian atas laman pencarian.
+Kamu juga dapat [menyortir hasil pencarian beatmap pada situs web osu! berdasarkan tingkat kesulitan](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). Tautan tersebut akan secara otomatis menampilkan beatmap-beatmap yang paling mudah pada bagian atas laman pencarian.
 
-Terakhir, **Rivenation** juga telah merancang [osu!search](http://osusearch.com) yang merupakan sebuah [situs web yang dikhususkan untuk mencari beatmap secara lebih spesifik](https://osu.ppy.sh/community/forums/topics/380485). Situs web ini memungkinkan kamu untuk mencari beatmap dengan parameter-parameter pencarian lanjutan yang tidak tersedia pada situs osu! seperti AR, OD, dan Star Rating.
+Terakhir, **Rivenation** juga telah merancang [osu!search](http://osusearch.com) yang merupakan sebuah [situs web yang dikhususkan untuk mencari beatmap secara lebih spesifik](https://osu.ppy.sh/community/forums/topics/380485). Situs web ini memungkinkan kamu untuk mencari beatmap dengan parameter-parameter pencarian lanjutan seperti AR, OD, dan Star Rating.
 
 #### Apa fungsi dari Level yang tertera pada laman profil saya?
 
-Level yang kamu miliki **sama sekali tidak berarti**. There is no difference in any way when comparing a Level 100 player against a Level 1 player except the player's own skills and experience of the game mode in question. There is no handicap for the lower level nor is there an advantage for the higher level (except personal experience and hardware used).
+**Sama sekali tidak ada**. Tidak ada perbedaan apapun antara seorang pemain Level 1 dan seorang pemain Level 100 kecuali pada jam terbang dan pengalaman bermain yang mereka miliki -- di dalam permainan, pemain dengan level yang lebih tinggi tidak akan mendapatkan keuntungan dari segi apapun terhadap pemain dengan level yang lebih rendah.
 
-Level will be based on total score accumulated when online with account regardless of pass or fail on the beatmap. [Formula given here](/wiki/Score).
+Level yang kamu miliki didasarkan pada total skor yang telah kamu kumpulkan dari seluruh beatmap yang pernah kamu mainkan. [Kamu dapat melihat rumus yang digunakan untuk perhitungan level pada tautan berikut](/wiki/Score).
 
 #### Why is my profile stats different ingame?
 
