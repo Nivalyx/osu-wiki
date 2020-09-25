@@ -290,6 +290,217 @@ Di sisi lain, secara *default*, input-input yang terdaftar untuk konfigurasi tom
 
 *Untuk penjelasan lebih lanjut mengenai mekanisme perhitungan akurasi yang berlaku pada masing-masing mode permainan, harap kunjungi laman [Accuracy](/wiki/Accuracy) atau laman masing-masing mode permainan.*
 
+### Peringkat
+
+#### ![][osu! icon] osu!
+
+| Torehan Peringkat | Syarat |
+| :-: | :-- |
+| SS | Akurasi 100% |
+| S | Perolehan 300 di atas 90%, perolehan 50 di bawah 1%, dan tidak ada miss |
+| A | Perolehan 300 di atas 80% dan tidak ada miss **ATAU** perolehan 300 di atas 90% |
+| B | Perolehan 300 di atas 70% dan tidak ada miss **ATAU** perolehan 300 di atas 80% |
+| C | Perolehan 300 di atas 60% |
+| D | Lainnya |
+
+#### ![][osu!taiko icon] osu!taiko
+
+| Torehan Peringkat | Syarat |
+| :-: | :-- |
+| SS | Akurasi 100% |
+| S | Akurasi di atas 95% (Perolehan GREAT di atas 90% atau kurang dari 1 GOOD setiap 10 not) |
+| A | Akurasi di atas 90% (Perolehan GREAT di atas 80% atau kurang dari 1 GOOD setiap 5 not) |
+| B | Akurasi di atas 80% (Perolehan GREAT di atas 70% atau kurang dari 1 GOOD setiap 3.33 not) |
+
+#### ![][osu!catch icon] osu!catch
+
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100.00% Accuracy |
+| S | 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in osu!mania). |
+| A | 94.01% to 98.00% Accuracy |
+| B | 90.01% to 94.00% Accuracy |
+| C | 85.01% to 90.00% Accuracy |
+| D | Any other accuracy under 85.00%. |
+
+#### ![][osu!mania icon] osu!mania
+
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100% Accuracy (only MAX and/or 300). |
+| S | Over 95% Accuracy (an 'S' rank is possible even with several misses, like in osu!catch). |
+| A | Over 90% Accuracy. |
+| B | Over 80% Accuracy. |
+| C | Over 70% Accuracy. |
+| D | Anything else. |
+
+#### All
+
+**Special grades:**
+
+- Silver SS (SSH) = Normal grade SS with *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
+- Silver S (SH) = Normal grade S with *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
+
+**Regarding the *Ranks* in profile page:**
+
+- Grades obtained will be set at the profile page under General->Ranks provided the in-game osu!account was still connected online with Bancho server when receiving the grade.
+  - **Offline play**, even with osu!account logged-in, **will not be counted**.
+- **Grades given for profile depends on ranked/approved top score grade for a beatmap's difficulty in that game mode, not as whole.**
+  - If a beatmap has three(3) ranked difficulties, and SS'ed all three of them in osu!catch; three(3) SS will be given for osu!catch's Ranks section, not just one(1) SS given.
+  - However, if a new highscore (from better spinner bonus or game modifiers) was achieved from replaying an SS'ed ranked difficulty but was an S grade, then the SS counter will decrement by one(1) and S counter increment by one(1) instead.
+
+## Performance Points
+
+*Full explanation: [Performance Points](/wiki/Performance_Points)*
+
+Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of the scores will be rated and assigned a pp value. Performance rank is predominantly based on performance on individual maps. The easiest way to improve it is to score high on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!, osu!taiko, osu!catch, or osu!mania will raise the pp for the respective game mode.
+
+For any questions regarding pp, please refer to the [wiki page for pp first](/wiki/Performance_Points).
+
+---
+
+## Common issues and questions
+
+### General
+
+#### Where to find and get the beatmaps?
+
+*Detailed explanation of the beatmaps: [Beatmaps](/wiki/Beatmaps)*
+
+The main page, under the name *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. Just remember to login to the website with an *osu!account* beforehand to allow download of beatmaps from the site.
+
+#### Can I disable Kiai Time?
+
+**No**, because unlike video, it is integrated to the game (as a part with the hit objects), thus cannot be disabled.
+
+#### The maps are too hard! Where can I find some easier maps?
+
+For osu!, **Pokebis** has compiled a set of beatmaps suitable for beginners to play. It can be found [here](https://osu.ppy.sh/community/forums/topics/5456).
+
+For osu!taiko, **OnosakiHito** has compiled a set of beatmaps for beginners to learn osu!taiko. It can be found [here](https://osu.ppy.sh/community/forums/topics/175867).
+
+For osu!catch, **Kingkevin30** has compiled a nice list of osu!catch beatmaps and basic explanation about osu!catch. It can be found [here](https://osu.ppy.sh/community/forums/topics/131067).
+
+For osu!mania, **Entozer** has compiled a decent list sorted by relative player's difficulties, with **Drace** providing an experienced gameplay insight for beginners starting out in osu!mania. Both of it can be found [here](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide), and [here](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide)
+
+Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). The easiest maps are at the top of the list.
+
+Lastly, **Rivenation** did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) named [osu!search](http://osusearch.com) which not only has the same features as the official beatmap searchbar but also has some neat features to define a specific beatmap requirement. The unofficial beatmap searchbar can be found at [this link](http://osusearch.com).
+
+#### What does Level in my profile actually do?
+
+**Absolutely nothing**. There is no difference in any way when comparing a Level 100 player against a Level 1 player except the player's own skills and experience of the game mode in question. There is no handicap for the lower level nor is there an advantage for the higher level (except personal experience and hardware used).
+
+Level will be based on total score accumulated when online with account regardless of pass or fail on the beatmap. [Formula given here](/wiki/Score).
+
+#### Why is my profile stats different ingame?
+
+Keep in mind that osu! has four game modes so you might be looking at the wrong game mode.
+
+![Profile_Mode_Buttons](img/Profile_mode_buttons.gif "Profile mode buttons")
+
+#### How do I change the default keyboard key input for my game mode of choice?
+
+*Full explanation: [Options](/wiki/Options)*
+
+![Options sidebar with quickicons](/wiki/shared/Options_quickicons.jpg "Options quickicons")
+
+From the *Input* icon in the *Options* sidebar as shown above, under **Keyboard** section as shown below.
+
+![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section")
+
+#### Game over? Where did I mess up?
+
+*Full explanation: [Replay](/wiki/Replay)*
+
+After failing a beatmap, press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (\`/~) key (can be changed in Options sidebar; inside *Change keyboard bindings* as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
+
+Due to the non-standard replay screen, use the `Esc` key to return to Song Selection. Retrying the play (as in, actual play) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. As of 24 August 2020, players can save failed replays by pressing the `F2` key while at the death screen.
+
+#### Does osu! has keyboard shortcuts?
+
+*Full list: [Shortcut key reference](/wiki/Shortcut_key_reference)*
+
+Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the *Windows* sidebar. Find the *osu!logo* in the *Windows* sidebar, and click on it to return osu! to the state before pressing the key. It is called the **Boss key**, and can be modified in `Change keyboard bindings` (in `Options`, under *Keyboard* section), located at the end of the *Universal* section.
+
+Another interesting shortcut is `Alt`+`Enter`. The shortcut toggles the fullscreen mode button in `Options`, but does not work during gameplay or in Multi.
+
+#### What should I backup when fresh installing osu! on a new device?
+
+The whole `osu!` folder, including hidden files, is the short answer. On the new device after running `osu!install.exe` and completing osu! installation successfully, copy the backup `osu!` folder and merge to the new device's `osu!` folder. If it ask for merging `.dll` or `.exe` files, ignore it. Allow merging for everything else, including `.cfg` and `.db` files.
+
+#### Can I use osu! on my mobile device?
+
+*Full list: [Game Modes under External Ports section](/wiki/Game_mode)*
+
+The current osu! does not support any mobile platform.
+
+However, there are other unofficial ports of osu! and a single official spin-off game for iOS which uses their own leaderboard and account system.
+
+A few of the notable ports are:
+
+- ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
+  Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
+- ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
+  osu!taiko mode ported by **low.moe (Guy-kun) team** with new daily ranked challenge and refined T-Aiko! leaderboard.
+- ![][osu! icon] osu!stream \[iOS\]:
+  Experience the new spin-off of the osu! game mode for the iOS developed by osu! team from grounds up.
+
+### osu!
+
+#### Why am I seeing random white lines on screen every time I play?
+
+Make sure that the smoke/skywriting key binding is not the same as the key binding used to tap with when playing.
+
+![osu! smoke effect](/wiki/shared/osu_smoke.jpg "Smoke Usage")
+
+![osu! smoke settings](/wiki/shared/osu_smoke_set.jpg "Smoke in key bindings")
+
+#### Why do I not have the max possible combo when I have no misses?
+
+![Image showing a slider with slider ticks, with top part during Edit and bottom part during play](/wiki/shared/Sliderticks.png "Image showing a slider with slider ticks, with top part during Edit and bottom part during play")
+
+**A slider was released early (meaning that the ball was released before it had finished the ending slider point).**
+
+A slider is composed of a starting circle point, spaced smaller circles known as slider ticks, reverse arrow points (if used, it will be treated as starting circle point instead; it is a proper slider in reverse), and an ending circle point. Each of those points on a slider will add one to the combo. Note that the starting circle point is worth 30 points, the slider ticks are worth 10 points each, the reverse arrow points are worth 30 points each, and the end circle point is worth 300 (or geki), 100 (or katu), or 50 points depending on how the slider was completed.
+
+Slider ticks only appears inside its own slider path; if the slider ticks are too close to the start or end circle as shown in the image above, it will be hidden inside the start or end circle. Hidden slider ticks still counts into combo and score, so it must be collected along with the visible slider ticks. If the slider has one or more reverse arrow points, then the slider ticks will reappear at the same place to be collected in reverse.
+
+If miss the timing to tap the starting circle point, miss the slider ticks, or miss the reverse arrow points, combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss. However, if miss the ending circle point, combo does not break and does not increment by one. It is also not considered a miss; instead, a 100 (or katu for end of the combo) will be given for the entire slider, assuming at least the slider starting circle point done properly, and completed all the slider ticks/reverse arrow points when given. Notably, [Sudden Death](/wiki/Game_modifier/Sudden_Death) game mod will not trigger its effect of immediate game over when missing the ending circle point (since the combo did not break, the Sudden Death effect was not triggered).
+
+These situations, caused by a slider, are collectively called **sliderbreak**. A max combo play can be known by checking the result screen for the *Perfect* notice on the performance graph; not having the *Perfect* notice, especially without any miss, usually means there is one or more sliderbreak occurred during play.
+
+[Answer source with test example in gaming section of stackexchange](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
+
+### osu!taiko
+
+#### What does "Use Taiko skin for Taiko mode" in Options under Skin section do?
+
+The button only works if a folder named `taiko` (capitalisation does not matter) inside the `Skins` folder of the `osu!` file directory existed.
+
+When enabled, it will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. If the `taiko` folder was not found, or disabled, it will use the current skin's taiko elements when available; default if all/certain taiko skin element was not found.
+
+**Ancient trivia note:** `taiko` folder used to hold *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under Skin tab. As the button does not check whether the folder contains elements from *LuigiHann's skin*, it was quickly noted by the community and used as a personal global osu!taiko skin folder.
+
+### Beatmapping
+
+#### "This beatmap you're trying to submit isn't owned by you!"
+
+*For unranked beatmaps only.*
+
+![Example of an .osu file content](/wiki/shared/Beatmap_not_owned.png "Example of an .osu file content")
+
+Please follow these steps:
+
+1. Leave the editor (or close osu!) to make sure the changes apply properly
+2. Check the name of the beatmap's folder
+   - If it starts with numbers, remove them. Otherwise, osu! will treat it as BeatmapSetID
+3. Make sure that the `.mp3` does not start with numbers. Edit the filename in the `.osu` files if it does.
+4. Open all the `.osu` files with a text editor (*Notepad* will work)
+   - Set your name as creator (and replace it in the file name as well)
+   - Set the BeatmapID to 0
+   - Set the BeatmapSetID to -1
+
 ## Referensi
 
 - Laman `/p/faq/` terdahulu, oleh peppy (saat ini laman yang bersangkutan telah dihapus)
