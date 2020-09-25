@@ -371,7 +371,7 @@ Kamu dapat mengunduh berbagai ragam beatmap pada laman *[Beatmaps](https://osu.p
 
 #### Apakah saya dapat menonaktifkan Kiai Time?
 
-**Tidak**, karena -- tidak seperti video/storyboard yang hadir sebagai konten tambahan -- Kiai Time merupakan bagian dari beatmap yang bersangkutan.
+**Tidak**, karena (tidak seperti video/storyboard yang hadir sebagai konten tambahan) Kiai Time merupakan bagian dari beatmap yang bersangkutan.
 
 #### Beatmap-beatmap yang saya miliki terlalu sulit! Di mana saya bisa mendapatkan beatmap-beatmap yang lebih mudah?
 
@@ -395,7 +395,7 @@ Level yang kamu miliki didasarkan pada total skor yang telah kamu kumpulkan dari
 
 #### Mengapa statistik yang tertera pada laman profil saya berbeda dengan statistik yang saya lihat di dalam osu!?
 
-Keep in mind that osu! has four game modes so you might be looking at the wrong game mode.
+Pastikan kamu tidak sedang berada pada mode permainan yang salah mengingat osu! memiliki empat mode permainan yang berbeda.
 
 ![Tombol Mode Permainan](img/Profile_mode_buttons.gif "Tombol Mode Permainan")
 
