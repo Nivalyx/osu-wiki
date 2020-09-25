@@ -385,11 +385,11 @@ Untuk osu!mania, **Entozer** telah menyusun daftar beatmap-beatmap yang sesuai u
 
 Di samping itu, kamu juga dapat [menyortir hasil pencarian beatmap pada situs web osu! berdasarkan tingkat kesulitan](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). Tautan tersebut akan secara otomatis menampilkan beatmap-beatmap yang paling mudah pada bagian atas laman pencarian.
 
-Terakhir, **Rivenation** did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) named [osu!search](http://osusearch.com) which not only has the same features as the official beatmap searchbar but also has some neat features to define a specific beatmap requirement. The unofficial beatmap searchbar can be found at [this link](http://osusearch.com).
+Terakhir, **Rivenation** juga telah merancang [osu!search](http://osusearch.com) yang merupakan sebuah [situs web yang dikhususkan untuk mencari beatmap secara lebih spesifik](https://osu.ppy.sh/community/forums/topics/380485). Situs web ini memungkinkan kamu untuk mencari beatmap dengan parameter-parameter pencarian lanjutan yang tidak tersedia pada situs osu! seperti AR, OD, dan Star Rating.
 
-#### What does Level in my profile actually do?
+#### Apa fungsi dari Level yang tertera pada laman profil saya?
 
-**Absolutely nothing**. There is no difference in any way when comparing a Level 100 player against a Level 1 player except the player's own skills and experience of the game mode in question. There is no handicap for the lower level nor is there an advantage for the higher level (except personal experience and hardware used).
+Level yang kamu miliki **sama sekali tidak berarti**. There is no difference in any way when comparing a Level 100 player against a Level 1 player except the player's own skills and experience of the game mode in question. There is no handicap for the lower level nor is there an advantage for the higher level (except personal experience and hardware used).
 
 Level will be based on total score accumulated when online with account regardless of pass or fail on the beatmap. [Formula given here](/wiki/Score).
 
