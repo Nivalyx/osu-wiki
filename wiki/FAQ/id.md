@@ -419,11 +419,13 @@ Apabila kamu gagal menyelesaikan sebuah beatmap, kamu dapat melihat tayangan ula
 
 *Full list: [Referensi tombol shortcut](/wiki/Shortcut_key_reference)*
 
-osu! memiliki beberapa tombol-tombol shortcut dengan beragam fungsi yang dapat kamu gunakan. Sebagai contoh, menekan tombol `Insert` (**Boss Key**) akan menyembunyikan osu! ke dalam sidebar Windows dalam sekejap; kamu dapat kembali memunculkan osu! seperti semula dengan mengeklik logo osu! yang ada pada sidebar Windows tersebut..
+osu! memiliki beberapa tombol-tombol shortcut dengan beragam fungsi yang dapat kamu gunakan. Sebagai contoh, menekan tombol `Insert` (**Boss Key**) akan menyembunyikan osu! ke dalam sidebar Windows dalam sekejap; kamu dapat kembali memunculkan osu! seperti semula dengan mengeklik logo osu! yang ada pada sidebar Windows tersebut.
 
 Tombol shortcut lainnya yang umum digunakan adalah `Alt`+`Enter` yang berguna untuk mengubah tampilan osu! ke dalam mode fullscreen dan sebaliknya.
 
-#### What should I backup when fresh installing osu! on a new device?
+#### Apa-apa saja yang harus saya backup ketika saya hendak memasang osu! pada perangkat yang baru?
+
+Backup seluruh isi folder `osu!` milikmu apabila memungkinkan. Pada perangkat yang baru, setelah kamu selesai menjalankan `osu!install.exe` dan merampungkan proses instalasi, salin seluruh isi folder `osu!` yang lama tersebut ke dalam folder `osu!` yang baru. Pastikan semua 
 
 The whole `osu!` folder, including hidden files, is the short answer. On the new device after running `osu!install.exe` and completing osu! installation successfully, copy the backup `osu!` folder and merge to the new device's `osu!` folder. If it ask for merging `.dll` or `.exe` files, ignore it. Allow merging for everything else, including `.cfg` and `.db` files.
 
