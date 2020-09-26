@@ -417,7 +417,7 @@ Apabila kamu gagal menyelesaikan sebuah beatmap, kamu dapat melihat tayangan ula
 
 #### Apakah osu! memiliki tombol-tombol shortcut?
 
-*Full list: [Referensi tombol shortcut](/wiki/Shortcut_key_reference)*
+*Penjelasan lebih lanjut: [Referensi tombol shortcut](/wiki/Shortcut_key_reference)*
 
 osu! memiliki beberapa tombol-tombol shortcut dengan beragam fungsi yang dapat kamu gunakan. Sebagai contoh, menekan tombol `Insert` (**Boss Key**) akan menyembunyikan osu! ke dalam sidebar Windows dalam sekejap; kamu dapat kembali memunculkan osu! seperti semula dengan mengeklik logo osu! yang ada pada sidebar Windows tersebut.
 
@@ -427,22 +427,20 @@ Tombol shortcut lainnya yang umum digunakan adalah `Alt`+`Enter` yang berguna un
 
 Backup seluruh isi folder `osu!` milikmu apabila memungkinkan. Pada perangkat yang baru, setelah kamu selesai menjalankan `osu!install.exe` dan merampungkan proses instalasi, salin seluruh isi folder `osu!` yang lama tersebut ke dalam folder `osu!` yang baru. Pastikan semua berkas yang ada telah tersalin sebagaimana mestinya, termasuk file-file dengan ekstensi `.cfg` dan `.db` yang termuat di dalamnya. 
 
-#### Can I use osu! on my mobile device?
+#### Dapatkah saya bermain osu! pada perangkat mobile yang saya miliki?
 
-*Full list: [Game Modes under External Ports section](/wiki/Game_mode)*
+*Penjelasan lebih lanjut: [Bagian "Port Eksternal" pada laman Mode Permainan](/wiki/Game_mode)*
 
-The current osu! does not support any mobile platform.
+Saat ini, kamu masih belum dapat memainkan osu! pada perangkat mobile yang kamu miliki.
 
-However, there are other unofficial ports of osu! and a single official spin-off game for iOS which uses their own leaderboard and account system.
-
-A few of the notable ports are:
+Meskipun demikian, terdapat beberapa aplikasi pada berbagai sistem operasi mobile yang dapat kamu gunakan sebagai alternatif dalam bermain osu! sebagai berikut: 
 
 - ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
-  Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
+  Port osu! berbasis Java hasil karya **itdelatrisu** dan **fluddokt** yang dapat dimainkan pada sistem operasi Android.
 - ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
-  osu!taiko mode ported by **low.moe (Guy-kun) team** with new daily ranked challenge and refined T-Aiko! leaderboard.
+  Port osu!taiko hasil karya **low.moe (Guy-kun)** untuk sistem operasi Android dan iOS yang telah dilengkapi dengan fitur *daily challenge* dan *leaderboard*.
 - ![][osu! icon] osu!stream \[iOS\]:
-  Experience the new spin-off of the osu! game mode for the iOS developed by osu! team from grounds up.
+  Permainan *spin-off* osu! resmi yang dikembangkan oleh tim osu! untuk sistem operasi iOS.
 
 ### osu!
 
