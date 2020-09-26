@@ -415,13 +415,13 @@ Buka menu *Options* dan pilih *Input* -> **Keyboard** dari pilihan-pilihan yang 
 
 Apabila kamu gagal menyelesaikan sebuah beatmap, kamu dapat melihat tayangan ulang dari permainan kamu dengan menekan tombol `F1` untuk kamu telaah lebih lanjut. Tayangan ulang tersebut dapat kamu tonton hingga pada titik di mana kamu menemukan kegagalan. Untuk dapat kembali menonton tayangan ulang tersebut setelahnya, kamu dapat menekan tombol tilde (`~`) atau dengan menekan `Ctrl`+`R` secara bersamaan pada keyboard kamu. Di samping itu, kamu juga dapat menekan tombol `Esc` untuk kembali ke menu Song Selection dan tombol `F2` untuk menyimpan tayangan ulang yang bersangkutan.
 
-#### Apakah osu! memiliki tombol shortcut?
+#### Apakah osu! memiliki tombol-tombol shortcut?
 
-*Full list: [Refe](/wiki/Shortcut_key_reference)*
+*Full list: [Referensi tombol shortcut](/wiki/Shortcut_key_reference)*
 
-Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the *Windows* sidebar. Find the *osu!logo* in the *Windows* sidebar, and click on it to return osu! to the state before pressing the key. It is called the **Boss key**, and can be modified in `Change keyboard bindings` (in `Options`, under *Keyboard* section), located at the end of the *Universal* section.
+osu! memiliki beberapa tombol-tombol shortcut dengan beragam fungsi yang dapat kamu gunakan. Sebagai contoh, menekan tombol `Insert` (**Boss Key**) akan menyembunyikan osu! ke dalam sidebar Windows dalam sekejap; kamu dapat kembali memunculkan osu! seperti semula dengan mengeklik logo osu! yang ada pada sidebar Windows tersebut..
 
-Another interesting shortcut is `Alt`+`Enter`. The shortcut toggles the fullscreen mode button in `Options`, but does not work during gameplay or in Multi.
+Tombol shortcut lainnya yang umum digunakan adalah `Alt`+`Enter` yang berguna untuk mengubah tampilan osu! ke dalam mode fullscreen dan sebaliknya.
 
 #### What should I backup when fresh installing osu! on a new device?
 
