@@ -466,17 +466,15 @@ If miss the timing to tap the starting circle point, miss the slider ticks, or m
 
 These situations, caused by a slider, are collectively called **sliderbreak**. A max combo play can be known by checking the result screen for the *Perfect* notice on the performance graph; not having the *Perfect* notice, especially without any miss, usually means there is one or more sliderbreak occurred during play.
 
-[Answer source with test example in gaming section of stackexchange](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
+[Kamu dapat melihat penjelasan lebih lanjut seputar masalah ini pada tautan Stack Exchange berikut.](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
 
 ### osu!taiko
 
-#### What does "Use Taiko skin for Taiko mode" in Options under Skin section do?
+#### Apa fungsi dari "Use Taiko skin for Taiko mode" yang ada pada bagian Skin di dalam menu Options?
 
-The button only works if a folder named `taiko` (capitalisation does not matter) inside the `Skins` folder of the `osu!` file directory existed.
+Pilihan ini hanya berpengaruh apabila kamu memiliki folder yang bernama `Taiko` di dalam folder skin yang kamu gunakan. Apabila pilihan ini diaktifkan, ke depannya setiap kamu akan memainkan beatmap osu!taiko kamu akan secara otomatis bermain dengan menggunakan elemen-elemen skin yang berada di dalam folder `Taiko` tersebut.
 
-When enabled, it will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. If the `taiko` folder was not found, or disabled, it will use the current skin's taiko elements when available; default if all/certain taiko skin element was not found.
-
-**Ancient trivia note:** `taiko` folder used to hold *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under Skin tab. As the button does not check whether the folder contains elements from *LuigiHann's skin*, it was quickly noted by the community and used as a personal global osu!taiko skin folder.
+Folder `Taiko` ini sendiri bermula dari skin *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*; seiring waktu, skin-skin lain perlahan mulai turut menempatkan elemen-elemen skin osu!taiko secara terpisah dalam folder `Taiko` sebagaimana yang dicontohkan pada skin LuigiHann tersebut.
 
 ### Beatmapping
 
