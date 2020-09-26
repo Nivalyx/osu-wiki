@@ -425,7 +425,7 @@ Tombol shortcut lainnya yang umum digunakan adalah `Alt`+`Enter` yang berguna un
 
 #### Apa-apa saja yang harus saya backup ketika saya hendak memasang osu! pada perangkat yang baru?
 
-Backup seluruh isi folder `osu!` milikmu apabila memungkinkan. Pada perangkat yang baru, setelah kamu selesai menjalankan `osu!install.exe` dan merampungkan proses instalasi, salin seluruh isi folder `osu!` yang lama tersebut ke dalam folder `osu!` yang baru. Pastikan semua berkas yang ada telah tersalin sebagaimana harusnya, termasuk file-file dengan ekstensi `.cfg` dan `.db` yang termuat di dalamnya. 
+Backup seluruh isi folder `osu!` milikmu apabila memungkinkan. Pada perangkat yang baru, setelah kamu selesai menjalankan `osu!install.exe` dan merampungkan proses instalasi, salin seluruh isi folder `osu!` yang lama tersebut ke dalam folder `osu!` yang baru. Pastikan semua berkas yang ada telah tersalin sebagaimana mestinya, termasuk file-file dengan ekstensi `.cfg` dan `.db` yang termuat di dalamnya. 
 
 #### Can I use osu! on my mobile device?
 
