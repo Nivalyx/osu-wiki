@@ -4,7 +4,7 @@
 
 ### Saya tidak pernah bermain "Ouendan" sebelumnya - permainan apakah itu?
 
-*[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* merupakan sebuah permainan pada konsol Nintendo DS yang mendasari dan menginspirasi awal terbentuknya osu!. Permainan tersebut pada hakikatnya hanya didasari oleh tiga peraturan yang harus kamu ikuti di dalamnya: ketuk circle-circle yang muncul pada layar sentuh, ikuti slider-slider yang tergambar sesuai dengan alur yang ditentukan, dan putar spinner-spinner yang ada secepat mungkin. Ketiga elemen permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari lagu yang sedang dimainkan. Permainan tersebut tampak seperti ini pada layar DS:
+*[Osu! Tatakae! Ouendan](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* merupakan sebuah permainan pada konsol Nintendo DS yang mendasari dan menginspirasi awal terbentuknya osu!. Permainan tersebut pada dasarnya hanya memiliki tiga peraturan yang harus kamu ikuti: ketuk circle-circle yang muncul pada layar sentuh, ikuti slider-slider yang tergambar sesuai dengan alur yang ditentukan, dan putar spinner-spinner yang ada secepat mungkin. Ketiga elemen permainan tersebut akan secara silih berganti muncul di dalam layar permainan sejalan dengan irama yang hadir dari lagu yang sedang dimainkan. Permainan tersebut tampak seperti ini pada layar DS:
 
 ![Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS](/wiki/shared/Ouendan.jpg "Contoh tampilan permainan Osu! Tatakae! ouendan pada layar Nintendo DS")
 
