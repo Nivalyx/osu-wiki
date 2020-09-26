@@ -407,9 +407,9 @@ Pastikan kamu tidak sedang berada pada mode permainan yang tidak kamu kehendaki.
 
 Buka menu *Options* dan pilih *Input* -> **Keyboard** dari pilihan-pilihan yang tersedia. 
 
-![Pengaturan tombol input pada menu Options](/wiki/shared/Options_keyboard.jpg "Pengaturan tombol input pada menu Options")
+![Pengaturan Keyboard pada menu Options](/wiki/shared/Options_keyboard.jpg "Pengaturan Keyboard pada menu Options")
 
-#### Game over? Where did I mess up?
+#### Saya gagal! Game over? Where did I mess up?
 
 *Full explanation: [Replay](/wiki/Replay)*
 
