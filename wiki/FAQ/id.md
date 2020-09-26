@@ -401,13 +401,13 @@ Pastikan kamu tidak sedang berada pada mode permainan yang tidak kamu kehendaki.
 
 #### Bagaimana cara saya mengubah tombol-tombol input yang digunakan di dalam permainan?
 
-*Full explanation: [Options](/wiki/Options)*
+*Penjelasan lebih lanjut: [Options](/wiki/Options)*
 
-![Options sidebar with quickicons](/wiki/shared/Options_quickicons.jpg "Options quickicons")
+![Tampilan menu Options](/wiki/shared/Options_quickicons.jpg "Tampilan menu Options")
 
-From the *Input* icon in the *Options* sidebar as shown above, under **Keyboard** section as shown below.
+Buka menu *Options* dan pilih *Input* -> **Keyboard** dari pilihan-pilihan yang tersedia. 
 
-![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section")
+![Pengaturan tombol input pada menu Options](/wiki/shared/Options_keyboard.jpg "Pengaturan tombol input pada menu Options")
 
 #### Game over? Where did I mess up?
 
