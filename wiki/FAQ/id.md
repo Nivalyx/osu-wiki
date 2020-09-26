@@ -460,7 +460,7 @@ Besar kemungkinan **terdapat satu atau lebih slider yang kamu lepas terlalu awal
 
 Sebagaimana yang telah dijelaskan sebelumnya, slider pada osu! memiliki beberapa komponen yang di antaranya adalah slider head, slider tick, reverse arrow, dan slider tail. Apabila kamu tidak mengenai slider head, slider tick, atau reverse arrow, kamu akan mendapatkan miss yang pada utamanya dikenal dengan istilah *sliderbreak*. Meskipun demikian, **apabila kamu tidak mengenai slider tail, kamu tidak akan dihitung miss** walaupun kombo yang kamu miliki juga tidak akan bertambah. Hal ini juga turut berlaku pada mod [Sudden Death](/wiki/Game_modifier/Sudden_Death), di mana kamu dapat terus bermain walaupun terdapat slider tail yang tidak kamu kenai.
 
-Apabila kamu berhasil menyelesaikan sebuah beatmap tanpa ada miss dan tanpa ada slider tail yang luput satupun, kamu akan melihat tulisan *Perfect* yang muncul pada layar hasil permainan.
+Apabila kamu berhasil menyelesaikan sebuah beatmap tanpa ada miss dan tanpa ada slider tail yang luput satupun, kamu akan melihat tulisan *Perfect* pada pojok kiri bawah Result Screen yang ada.
 
 [Kamu dapat melihat penjelasan lebih lanjut seputar perkara ini pada tautan Stack Exchange berikut.](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
 
