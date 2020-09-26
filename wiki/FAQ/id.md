@@ -474,7 +474,7 @@ These situations, caused by a slider, are collectively called **sliderbreak**. A
 
 Pilihan ini hanya berpengaruh apabila kamu memiliki folder yang bernama `Taiko` di dalam folder skin yang kamu gunakan. Apabila pilihan ini diaktifkan, ke depannya setiap kamu akan memainkan beatmap osu!taiko kamu akan secara otomatis bermain dengan menggunakan elemen-elemen skin yang berada di dalam folder `Taiko` tersebut.
 
-Folder `Taiko` ini sendiri bermula dari skin *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*; seiring waktu, skin-skin lain perlahan mulai turut menempatkan elemen-elemen skin osu!taiko secara terpisah dalam folder `Taiko` sebagaimana yang dicontohkan pada skin LuigiHann tersebut.
+Folder `Taiko` ini sendiri bermula dari skin *[Taiko by LuigiHann](https://osu.ppy.sh/community/forums/topics/41319)*; seiring waktu, skin-skin lain pun perlahan mulai turut menempatkan elemen-elemen skin osu!taiko secara terpisah dalam folder `Taiko` sebagaimana yang telah dicontohkan oleh skin LuigiHann tersebut sebelumnya.
 
 ### Beatmapping
 
