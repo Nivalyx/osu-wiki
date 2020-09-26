@@ -409,17 +409,15 @@ Buka menu *Options* dan pilih *Input* -> **Keyboard** dari pilihan-pilihan yang 
 
 ![Pengaturan Keyboard pada menu Options](/wiki/shared/Options_keyboard.jpg "Pengaturan Keyboard pada menu Options")
 
-#### Saya gagal! Game over? Where did I mess up?
+#### Saya gagal! Kesalahan-kesalahan apa sajakah yang telah saya lakukan selama saya bermain?
 
-*Full explanation: [Replay](/wiki/Replay)*
+*Penjelasan lebih lanjut: [Replay](/wiki/Replay)*
 
-After failing a beatmap, press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (\`/~) key (can be changed in Options sidebar; inside *Change keyboard bindings* as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
+Apabila kamu gagal menyelesaikan sebuah beatmap, kamu dapat melihat tayangan ulang dari permainan kamu dengan menekan tombol `F1` untuk kamu telaah lebih lanjut. Tayangan ulang tersebut dapat kamu tonton hingga pada titik di mana kamu menemukan kegagalan. Untuk dapat kembali menonton tayangan ulang tersebut setelahnya, kamu dapat menekan tombol tilde (`~`) atau dengan menekan `Ctrl`+`R` secara bersamaan pada keyboard kamu. Di samping itu, kamu juga dapat menekan tombol `Esc` untuk kembali ke menu Song Selection dan tombol `F2` untuk menyimpan tayangan ulang yang bersangkutan.
 
-Due to the non-standard replay screen, use the `Esc` key to return to Song Selection. Retrying the play (as in, actual play) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. As of 24 August 2020, players can save failed replays by pressing the `F2` key while at the death screen.
+#### Apakah osu! memiliki tombol shortcut?
 
-#### Does osu! has keyboard shortcuts?
-
-*Full list: [Shortcut key reference](/wiki/Shortcut_key_reference)*
+*Full list: [Refe](/wiki/Shortcut_key_reference)*
 
 Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the *Windows* sidebar. Find the *osu!logo* in the *Windows* sidebar, and click on it to return osu! to the state before pressing the key. It is called the **Boss key**, and can be modified in `Change keyboard bindings` (in `Options`, under *Keyboard* section), located at the end of the *Universal* section.
 
