@@ -462,7 +462,7 @@ Sebagaimana yang telah dijelaskan sebelumnya, slider pada osu! memiliki beberapa
 
 Di sisi lain, apabila kamu hanya mengenai sebagian dari komponen-komponen slider yang telah disebutkan di atas, kombo yang kamu miliki akan langsung kembali ke 0. Situasi ini pada umumnya dikenal dengan istilah **sliderbreak**. Apabila kamu berhasil menyelesaikan sebuah beatmap tanpa ada miss dan tanp ada slider tail yang luput satupun, kamu akan melihat tulisan *Perfect* yang muncul pada layar hasil permainan.
 
-[Kamu dapat melihat penjelasan lebih lanjut seputar masalah ini pada tautan Stack Exchange berikut.](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
+[Kamu dapat melihat penjelasan lebih lanjut seputar perkara ini pada tautan Stack Exchange berikut.](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
 
 ### osu!taiko
 
