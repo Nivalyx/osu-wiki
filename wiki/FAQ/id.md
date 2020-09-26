@@ -452,11 +452,11 @@ Pastikan kamu tidak sedang menekan tombol *smoke* ketika kamu sedang bermain.
 
 ![Tombol input yang digunakan untuk mengeluarkan *smoke*](/wiki/shared/osu_smoke_set.jpg "Tombol input yang digunakan untuk mengeluarkan smoke")
 
-#### Why do I not have the max possible combo when I have no misses?
+#### Mengapa saya tidak mendapatkan kombo maksimal walaupun saya tidak mendapatkan miss apapun?
 
-![Image showing a slider with slider ticks, with top part during Edit and bottom part during play](/wiki/shared/Sliderticks.png "Image showing a slider with slider ticks, with top part during Edit and bottom part during play")
+![Perbedaan antara tampilan slider tick pada editor (atas) dan di dalam permainan (bawah)](/wiki/shared/Sliderticks.png "Perbedaan antara tampilan slider tick pada editor (atas) dan di dalam permainan (bawah)")
 
-**A slider was released early (meaning that the ball was released before it had finished the ending slider point).**
+Besar kemungkinan **terdapat satu atau lebih slider yang kamu lepas terlalu awal (dalam artian kamu sudah melepas kursor kamu dari slider ketika slider ball yang bersangkutan belum menyentuh akhir slider).**
 
 A slider is composed of a starting circle point, spaced smaller circles known as slider ticks, reverse arrow points (if used, it will be treated as starting circle point instead; it is a proper slider in reverse), and an ending circle point. Each of those points on a slider will add one to the combo. Note that the starting circle point is worth 30 points, the slider ticks are worth 10 points each, the reverse arrow points are worth 30 points each, and the end circle point is worth 300 (or geki), 100 (or katu), or 50 points depending on how the slider was completed.
 
