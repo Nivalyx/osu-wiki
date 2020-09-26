@@ -438,19 +438,19 @@ Meskipun demikian, terdapat beberapa aplikasi pada berbagai sistem operasi mobil
 - ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
   Port osu! berbasis Java hasil karya **itdelatrisu** dan **fluddokt** yang dapat dimainkan pada sistem operasi Android.
 - ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
-  Port osu!taiko hasil karya **low.moe (Guy-kun)** untuk sistem operasi Android dan iOS yang telah dilengkapi dengan fitur *daily challenge* dan *leaderboard*.
+  Port osu!taiko hasil karya **low.moe (Guy-kun)** untuk sistem operasi Android dan iOS yang dilengkapi dengan fitur *daily challenge* dan *leaderboard*.
 - ![][osu! icon] osu!stream \[iOS\]:
   Permainan *spin-off* osu! resmi yang dikembangkan oleh tim osu! untuk sistem operasi iOS.
 
 ### osu!
 
-#### Why am I seeing random white lines on screen every time I play?
+#### Mengapa kursor saya membuat garis-garis putih di dalam layar permainan saya?
 
-Make sure that the smoke/skywriting key binding is not the same as the key binding used to tap with when playing.
+Pastikan kamu tidak sedang menekan tombol *smoke* ketika kamu sedang bermain.
 
-![osu! smoke effect](/wiki/shared/osu_smoke.jpg "Smoke Usage")
+![Ilustrasi *smoke* di dalam permainan osu!](/wiki/shared/osu_smoke.jpg "Ilustrasi smoke di dalam permainan osu!")
 
-![osu! smoke settings](/wiki/shared/osu_smoke_set.jpg "Smoke in key bindings")
+![Tombol input yang digunakan untuk mengeluarkan *smoke*](/wiki/shared/osu_smoke_set.jpg "Tombol input yang digunakan untuk mengeluarkan smoke")
 
 #### Why do I not have the max possible combo when I have no misses?
 
