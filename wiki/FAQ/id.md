@@ -452,7 +452,7 @@ Pastikan kamu tidak sedang menekan tombol *smoke* ketika kamu sedang bermain.
 
 ![Tombol input yang digunakan untuk mengeluarkan *smoke*](/wiki/shared/osu_smoke_set.jpg "Tombol input yang digunakan untuk mengeluarkan smoke")
 
-#### Mengapa saya tidak mendapatkan kombo maksimal walaupun saya tidak mendapatkan miss apapun?
+#### Mengapa saya tidak memiliki kombo yang utuh walaupun saya tidak mendapatkan miss apapun?
 
 ![Perbedaan antara tampilan slider tick pada editor (atas) dan di dalam permainan (bawah)](/wiki/shared/Sliderticks.png "Perbedaan antara tampilan slider tick pada editor (atas) dan di dalam permainan (bawah)")
 
