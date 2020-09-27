@@ -30,7 +30,7 @@ Beatmapping merupakan proses pembuatan suatu beatmap. Proses ini meliputi berbag
 
 *Laman utama: [Modding](/wiki/Modding)*
 
-Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstatus Pending atau Work-In-Progress/WIP, di mana pihak-pihak yang memberikan kajian tersebut pada umumnya disebut sebagai *modder*. Proses modding memiliki peran yang besar dalam menjaga kualitas sebuah beatmap karena utamanya dalam proses ini para mapper dapat mencanangkan ide-ide baru dan menyelesaikan masalah-masalah yang terdapat pada beatmap mereka berdasarkan tanggapan-tanggapan yang diterima.
+Modding merupakan proses pengkajian beatmap milik mapper lain yang masih berstatus Pending atau Work-In-Progress/WIP, di mana pihak-pihak yang memberikan kajian yang bersangkutan pada umumnya disebut sebagai *modder*. Proses modding memiliki peran yang besar dalam menjaga kualitas sebuah beatmap karena utamanya dalam proses ini para mapper dapat mencanangkan ide-ide baru dan menyelesaikan masalah-masalah yang terdapat pada beatmap mereka berdasarkan tanggapan-tanggapan yang diterima.
 
 ## Skinning
 
