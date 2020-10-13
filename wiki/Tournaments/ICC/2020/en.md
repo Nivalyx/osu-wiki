@@ -223,7 +223,7 @@ Friday, 9 October 2020:
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **A** | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (12 pts)** | ![][flag_ID] **[yogafm](https://osu.ppy.sh/users/3247173) (4 pts) **| ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (3 pt) | ![][flag_ID] [Rossi](https://osu.ppy.sh/users/5569341) (0 pts) | [#1](https://osu.ppy.sh/community/matches/68039823) |
+| **A** | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (12 pts)** | ![][flag_ID] **[yogafm](https://osu.ppy.sh/users/3247173) (4 pts)** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (3 pt) | ![][flag_ID] [Rossi](https://osu.ppy.sh/users/5569341) (0 pts) | [#1](https://osu.ppy.sh/community/matches/68039823) |
 | **D** | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) (6 pts) | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (8 pts)** | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) (5 pts) | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (13 pts)** | [#1](https://osu.ppy.sh/community/matches/64805048) |
 
 Saturday, 1 August 2020:
