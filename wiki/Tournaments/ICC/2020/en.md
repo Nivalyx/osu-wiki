@@ -58,7 +58,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ## Podium
 
-![Champion: Netamaru, 2nd place: dika312, 3rd place: Galaxi](img/podium.jpg)
+![Champion: TBD, 2nd place: TBD, 3rd place: TBD](img/podium.jpg)
 
 ## Participants
 
@@ -67,11 +67,11 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 | **A** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [Rossi](https://osu.ppy.sh/users/5569341) |
 | **B** | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [-Nana -](https://osu.ppy.sh/users/8738085) | ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336) |
 | **C** | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | *N/A* |
-| **D** | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | *N/A* |
-| **E** | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | *N/A* |
-| **F** | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | *N/A* |
-| **G** | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | *N/A* |
-| **H** | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | *N/A* |
+| **D** | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | *N/A* |
+| **E** | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | *N/A* |
+| **F** | ![][flag_ID] [Reen](https://osu.ppy.sh/users/3285139) | ![][flag_ID] [Yui\_](https://osu.ppy.sh/users/8264181) | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | *N/A* |
+| **G** | ![][flag_ID] [Valskiel](https://osu.ppy.sh/users/1254639) | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) | ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039) | *N/A* |
+| **H** | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422) | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) | *N/A* |
 
 ## Mappools
 
@@ -211,120 +211,19 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Finals
 
-Saturday, 29 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | [#1](https://osu.ppy.sh/community/matches/66164019) |
-
-Sunday, 30 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Galaxi](https://osu.ppy.sh/users/2552435) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | [#1](https://osu.ppy.sh/community/matches/66215069) |
-
-Saturday, 5 September 2020, Grand Final:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | [Netamaru](https://osu.ppy.sh/users/1830361) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | [#1](https://osu.ppy.sh/community/matches/66498873) |
-| Grand Final (Bracket Reset) | [dika312](https://osu.ppy.sh/users/741613) ![][flag_ID] | 6 | **7** | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/66503113) |
-
 ### Semifinals
-
-Thursday, 20 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Galaxi](https://osu.ppy.sh/users/2552435)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/65698649) |
-
-Friday, 21 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | [#1](https://osu.ppy.sh/community/matches/65742017) |
-
-Saturday, 22 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) | [#1](https://osu.ppy.sh/community/matches/65788117) |
-| Lower | **[LeWind](https://osu.ppy.sh/users/9718235)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Keiji Subarashi](https://osu.ppy.sh/users/3856673) | [#1](https://osu.ppy.sh/community/matches/65789453) |
-
-Sunday, 23 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/65846345) |
 
 ### Quarterfinals
 
-Thursday, 13 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [ilhamuharam](https://osu.ppy.sh/users/7657968) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | [#1](https://osu.ppy.sh/community/matches/65372890) |
-
-Friday, 14 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [-Man](https://osu.ppy.sh/users/2128050) | [#1](https://osu.ppy.sh/community/matches/65411706) |
-| Upper | [Sololiquy](https://osu.ppy.sh/users/4350087) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | [#1](https://osu.ppy.sh/community/matches/65413814) |
-| Upper | [ZYX_GAME](https://osu.ppy.sh/users/3770612) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435)** | [#1](https://osu.ppy.sh/community/matches/65415556) |
-
-Saturday, 15 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | [#1](https://osu.ppy.sh/community/matches/65457433) |
-| Lower | [ZYX_GAME](https://osu.ppy.sh/users/3770612) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Keiji Subarashi](https://osu.ppy.sh/users/3856673)** | [#1](https://osu.ppy.sh/community/matches/65460189) |
-| Lower | [ilhamuharam](https://osu.ppy.sh/users/7657968) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710)** | [#1](https://osu.ppy.sh/community/matches/65462377) |
-
-Sunday, 16 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Keiji Subarashi](https://osu.ppy.sh/users/3856673)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [El SolarBeam](https://osu.ppy.sh/users/1074710) | [#1](https://osu.ppy.sh/community/matches/65504686) |
-| Lower | [-Man](https://osu.ppy.sh/users/2128050) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Toka](https://osu.ppy.sh/users/1595221)** | [#1](https://osu.ppy.sh/community/matches/65505786) |
-| Lower | **[Toka](https://osu.ppy.sh/users/1595221)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | [#1](https://osu.ppy.sh/community/matches/65549071) |
-
 ### Round of 16
-
-Friday, 7 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Toka](https://osu.ppy.sh/users/1595221) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/65105523) |
-| Upper | **[-Man](https://osu.ppy.sh/users/2128050)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Nakasu](https://osu.ppy.sh/users/7752479) | [#1](https://osu.ppy.sh/community/matches/65107060) |
-| Upper | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Momochuuan21](https://osu.ppy.sh/users/7752479) | [#1](https://osu.ppy.sh/community/matches/65108825) |
-
-Saturday, 8 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [El SolarBeam](https://osu.ppy.sh/users/1074710) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | [#1](https://osu.ppy.sh/community/matches/65146689) |
-| Upper | [Keiji Subarashi](https://osu.ppy.sh/users/3856673) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435)** | [#1](https://osu.ppy.sh/community/matches/65148074) |
-| Upper | [Intention](https://osu.ppy.sh/users/3416858) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[Ilhamuharam](https://osu.ppy.sh/users/7657968)** | [#1](https://osu.ppy.sh/community/matches/65151098) |
-| Upper | **[ZYX_GAME](https://osu.ppy.sh/users/3770612)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | [#1](https://osu.ppy.sh/community/matches/65157169) |
-
-Sunday, 9 August 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | [#1](https://osu.ppy.sh/community/matches/65186136) |
-| Lower | [Momochuaan21](https://osu.ppy.sh/users/7752479) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883)** | [#1](https://osu.ppy.sh/community/matches/65190222) |
-| Lower | [Intention](https://osu.ppy.sh/users/3416858) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[El SolarBeam](https://osu.ppy.sh/users/1074710)** | [#1](https://osu.ppy.sh/community/matches/65196466) |
-| Lower | [Shurelia](https://osu.ppy.sh/users/3807986) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[Keiji Subarashi](https://osu.ppy.sh/users/3856673)** | [#1](https://osu.ppy.sh/community/matches/65196590) |
-| Lower | **[Toka](https://osu.ppy.sh/users/1595221)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Nakasu](https://osu.ppy.sh/users/7752479) | *win by default* |
 
 ### Group Stage
 
-Friday, 31 July 2020:
+Friday, 9 October 2020:
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **A** | ![][flag_ID] **[Keiji Subarashi](https://osu.ppy.sh/users/3856673) (12 pts)** | ![][flag_ID] [Santana WinSxS](https://osu.ppy.sh/users/10766352) (7 pts) | ![][flag_ID] [LNVO](https://osu.ppy.sh/users/9153772) (1 pt) | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613) (12 pts)** | [#1](https://osu.ppy.sh/community/matches/64801377) |
+| **A** | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (12 pts)** | ![][flag_ID] **[yogafm](https://osu.ppy.sh/users/3247173) (4 pts) **| ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (3 pt) | ![][flag_ID] [Rossi](https://osu.ppy.sh/users/5569341) (0 pts) | [#1](https://osu.ppy.sh/community/matches/68039823) |
 | **D** | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) (6 pts) | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (8 pts)** | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) (5 pts) | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (13 pts)** | [#1](https://osu.ppy.sh/community/matches/64805048) |
 
 Saturday, 1 August 2020:
