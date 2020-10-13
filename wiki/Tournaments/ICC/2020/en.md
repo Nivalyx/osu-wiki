@@ -189,23 +189,23 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 - NoMod
   - [Ichinose Shiki (CV: Aihara Kotomi) - Himitsu no Toilette (domSaur) \[MASTER+\]](https://osu.ppy.sh/beatmapsets/734093#fruits/1549043)  
-  - [Magnetude - Signals (Firebool) \[adioni's 100 MHz\]](https://osu.ppy.sh/beatmapsets/850972#fruits/1834172)  
-  - [Little Big - UNO (Gero) \[UNO, DOS, DOS, CUATRO\]](https://osu.ppy.sh/beatmapsets/1128448#fruits/2357612) 
-  - [Poppin'Party - Time Lapse (browiec) \[Time Lapse\]](https://osu.ppy.sh/beatmapsets/1018483#fruits/2131344)  
+  - [void - Sun Goes Down (BMS edit) (Frey) \[Insane\]](https://osu.ppy.sh/beatmapsets/382413#fruits/836269)  
+  - [HyuN - Infinity Heaven (Niva) \[Ad Infinitum\]](https://osu.ppy.sh/beatmapsets/891345#fruits/1863246) 
+  - [Yellow Zebra - Koi no Flame (m3gb3g) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/908831#fruits/2205008)  
 - Hidden
-  - [Sayaki Sasaka - Sakura, Reincarnation (Flower) \[Extra\]](https://osu.ppy.sh/beatmapsets/884081#fruits/1863992)  
-  - [Major Lazer - Lean On (feat. MO \& DJ Snake) (Beige) \[Expert\]](https://osu.ppy.sh/beatmapsets/487544#fruits/1067625)  
-  - [Kawada Mami - JOINT (Mariko Sakuragi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1051651#fruits/2197734)  
+  - [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#fruits/129875)
+  - [Rise Against - State of the Union (pishifat) \[Milan-'s Baby Insane\]](https://osu.ppy.sh/beatmapsets/387185#fruits/849438)  
+  - [An - Xhroria (Cherry Blossom) \[Another\]](https://osu.ppy.sh/beatmapsets/82258#fruits/227772)
 - HardRock
-  - [Daisy x Daisy - Aoi Tsuki (Asuka\_-) \[Insane\]](https://osu.ppy.sh/beatmapsets/968777#fruits/2027056)  
-  - [Eguchi Takahiro - silver temple (LKs) \[Insane\]](https://osu.ppy.sh/beatmapsets/59345#fruits/177916)  
-  - [KOTOKO - Agony (SOGASOGAMO) \[Miko\]](https://osu.ppy.sh/beatmapsets/13510#fruits/49952)  
+  - [yuzen - Ouka Ryouran (tsuka) \[Another\]](https://osu.ppy.sh/beatmapsets/37647#fruits/133383)  
+  - [Rita - Aka no Sora (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/17746#fruits/63188)  
+  - [KOTOKO - Shichiten Hakki, Shijou Shugi! (kiddly) \[Challenging\]](https://osu.ppy.sh/beatmapsets/13042#fruits/48498)  
 - DoubleTime
-  - [Rita - Alea jacta est! (DELiS) \[Insane\]](https://osu.ppy.sh/beatmapsets/112150#fruits/291402)  
-  - [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[\_todestrieb's Light Insane\]](https://osu.ppy.sh/beatmapsets/902425#fruits/1947616)  
-  - [Marika - quantum jump (Shurelia) \[Insane\]](https://osu.ppy.sh/beatmapsets/183467#fruits/1618565)  
+  - [Ray - lull ~Soshite Bokura wa~ (Delis) \[Insane\]](https://osu.ppy.sh/beatmapsets/172450#fruits/438061)  
+  - [07th Expansion - the executioner (Natteke) \[Hard\]](https://osu.ppy.sh/beatmapsets/27146#fruits/91198)  
+  - [yuikonnu - Shinkai Shoujo (Kibbleru) \[Insane\]](https://osu.ppy.sh/beatmapsets/165752#fruits/403180)  
 - Tiebreaker
-  - **[Nhato - Delay Order (Shizuku-) \[Time Manipulation\]](https://osu.ppy.sh/beatmapsets/580214#fruits/1228509)**
+  - **[HIELO - La Posesion Du Mimi - ILLUMINATEK Rmx - HIELO Refuck! (Euny) \[Natsu's Insane\]](https://osu.ppy.sh/beatmapsets/358353#fruits/806625)**
 
 ## Match results
 
