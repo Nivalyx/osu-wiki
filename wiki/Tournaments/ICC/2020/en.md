@@ -8,7 +8,7 @@ tags:
 
 ![ICC 2020 logo](img/logo.jpg)
 
-The **Indonesia Convert Cup 2020** (***ICC 2020***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in where the mappools are only consisting of converted osu!standard maps. The tournament was open to all osu!catch players from Indonesia with over 5,000 osu!catch playcounts regardless of rank. It is the first iteration of the tournament series.
+The **Indonesia Convert Cup 2020** (***ICC 2020***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in where all the maps played in the tournament are exclusively consisting of converted osu!standard maps. The tournament was open to all osu!catch players from Indonesia with over 5,000 osu!catch playcounts regardless of rank. It is the first iteration of the tournament series.
 
 ## Tournament schedule
 
