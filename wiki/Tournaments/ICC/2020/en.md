@@ -161,7 +161,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Round of 16
 
-**[Download the mappack here! (101 MB)](https://drive.google.com/file/d/1HPmKsNoh-UmweijjUyrqD_5UBV5OQY64/view?usp=sharing)**
+**[Download the mappack here! (161 MB)](https://drive.google.com/file/d/1jrKZkbuDOEAkgkAZ8NpGCYRV3psqlb-W/view)**
 
 - NoMod
   - [Pendulum - Witchcraft (Zarerion) \[Jenny\]](https://osu.ppy.sh/beatmapsets/55982#fruits/169993)  
@@ -185,7 +185,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Group Stage
 
-**[Download the mappack here! (111 MB)](https://drive.google.com/file/d/184os6Qkk7YKnSUVB_DP59PJ7mELzZo4N/view?usp=sharing)**
+**[Download the mappack here! (117 MB)](https://drive.google.com/file/d/1E8h7BBl3Bz-woN4Bw4rjUomWapceTeWU/view)**
 
 - NoMod
   - [Ichinose Shiki (CV: Aihara Kotomi) - Himitsu no Toilette (domSaur) \[MASTER+\]](https://osu.ppy.sh/beatmapsets/734093#fruits/1549043)  
@@ -201,7 +201,7 @@ CIC 2020 was run by various osu! community members predominantly hailing from In
   - [Rita - Aka no Sora (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/17746#fruits/63188)  
   - [KOTOKO - Shichiten Hakki, Shijou Shugi! (kiddly) \[Challenging\]](https://osu.ppy.sh/beatmapsets/13042#fruits/48498)  
 - DoubleTime
-  - [Ray - lull ~Soshite Bokura wa~ (Delis) \[Insane\]](https://osu.ppy.sh/beatmapsets/172450#fruits/438061)  
+  - [Ray - lull \~Soshite Bokura wa\~ (Delis) \[Insane\]](https://osu.ppy.sh/beatmapsets/172450#fruits/438061)  
   - [07th Expansion - the executioner (Natteke) \[Hard\]](https://osu.ppy.sh/beatmapsets/27146#fruits/91198)  
   - [yuikonnu - Shinkai Shoujo (Kibbleru) \[Insane\]](https://osu.ppy.sh/beatmapsets/165752#fruits/403180)  
 - Tiebreaker
