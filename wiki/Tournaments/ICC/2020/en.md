@@ -221,16 +221,17 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 Friday, 9 October 2020:
 
-| Group |  |  |  |  | Match link |
+| Group | Player 1 | Player 2 | Player 3 | Player 4 | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
 | **A** | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (12 pts)** | ![][flag_ID] **[yogafm](https://osu.ppy.sh/users/3247173) (4 pts)** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (3 pt) | ![][flag_ID] [Rossi](https://osu.ppy.sh/users/5569341) (0 pts) | [#1](https://osu.ppy.sh/community/matches/68039823) |
-| **D** | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) (6 pts) | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (8 pts)** | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898) (5 pts) | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (13 pts)** | [#1](https://osu.ppy.sh/community/matches/64805048) |
+| **B** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) (8 pts) | ![][flag_ID] [-Nana -](https://osu.ppy.sh/users/8738085) (0 pts) | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877) (15 pts)** | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336) (9 pts)** | [#1](https://osu.ppy.sh/community/matches/68042564) |
+| **E** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (8 pts)** | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) (0 pts) | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435) (8 pts)** | *N/A* | [#1](https://osu.ppy.sh/community/matches/68043608) |
 
-Saturday, 1 August 2020:
+| Group | Player 1 | Player 2 | Player 3 | Player 4 | Match link |
 
 | Group |  |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **G** | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) (8 pts) | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361) (9 pts)** | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) (4 pts) | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435) (13 pts)** | [#1](https://osu.ppy.sh/community/matches/64846524) |
+| **G** | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) (8 pts) | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361) (9 pts)** | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) (4 pts) | *N/A* | [#1](https://osu.ppy.sh/community/matches/64846524) |
 
 Sunday, 2 August 2020:
 
