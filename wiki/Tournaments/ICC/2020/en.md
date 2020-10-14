@@ -50,10 +50,9 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ## Links
 
-- **[Main spreadsheet](http://docs.google.com/spreadsheets/u/3/d/e/2PACX-1vRWcBzTJy5RnGqGIzRDc_Zv28lRo9Z3yz9yUVqF4eqoVi-cebrHDDEWk186ODj71mLf2x9mPARwaVlB/pubhtml?gid=2045538686&single=true)**
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1096883)
-- [Discord server](https://discord.gg/YwAYbPa)
-- [Challonge brackets](https://challonge.com/CIC2020)
+- **[Main spreadsheet](http://docs.google.com/spreadsheets/d/e/2PACX-1vTjldrvfwKxuc3x8QyhVAcccvGm6z2FDR-BZuxyX68GkQkdXoWwkcUlD0gaNA__aKJRlX3WSMfW5Pkj/pubhtml#)**
+- [Discussion thread](http://osu.ppy.sh/community/forums/topics/1141903)
+- [Discord server](http://discord.gg/7g6TAj2)
 - [Livestream](https://www.twitch.tv/osuIndonesia/)
 
 ## Podium
