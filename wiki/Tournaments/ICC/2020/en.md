@@ -222,7 +222,7 @@ Friday, 9 October 2020:
 
 | Group | Player 1 | Player 2 | Player 3 | Player 4 | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
-| **A** | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (12 pts)** | ![][flag_ID] **[yogafm](https://osu.ppy.sh/users/3247173) (4 pts)** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (3 pt) | ![][flag_ID] [Rossi](https://osu.ppy.sh/users/5569341) (0 pts) | [#1](https://osu.ppy.sh/community/matches/68039823) |
+| **A** | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (12 pts)** | ![][flag_ID] **[yogafm](https://osu.ppy.sh/users/3247173) (4 pts)** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (3 pts) | ![][flag_ID] [Rossi](https://osu.ppy.sh/users/5569341) (0 pts) | [#1](https://osu.ppy.sh/community/matches/68039823) |
 | **B** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) (8 pts) | ![][flag_ID] [-Nana -](https://osu.ppy.sh/users/8738085) (0 pts) | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877) (15 pts)** | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336) (9 pts)** | [#1](https://osu.ppy.sh/community/matches/68042564) |
 | **E** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (8 pts)** | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) (0 pts) | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435) (8 pts)** | *N/A* | [#1](https://osu.ppy.sh/community/matches/68043608) |
 
@@ -265,7 +265,7 @@ Sunday, 11 August 2020:
 ### Tournament registration
 
 1. All interested participants are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, a participant must have the Indonesian flag displayed on their profile and at least 3000 playcounts under their profile.
+   - In order to be eligible to play in the tournament, a participant must have the Indonesian flag displayed on their profile and at least 5000 playcounts under their profile.
 2. To ensure valid and serious registrations, every registered participant will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
 3. The list of participants who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
 4. The Tournament Management will only account for a maximum of 32 participants to take part in the tournament.
@@ -275,16 +275,11 @@ Sunday, 11 August 2020:
 ### Group Stage Rules
 
 1. In the Group Stage, all participants will be divided into 8 different groups.
-2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out two maps from the mappool to be played with the following turnout after each map:
-   - 1st place: **+2 points**
-   - 2nd place: **+1 point**
-   - 3rd place: **+1 point**
-   - 4th place: **0 point**
-3. If there is a tie at the end of the map, the points will instead be distributed as follows:
-   - **+2/+2/+1/0** in the case where the 1st place and the 2nd place players are tied.
-   - **+2/+1/+1/+1** in the case where the 2st place and the 3nd place players are tied.
-   - **+2/+2/+2/0** in the case where the 1st place, the 2st place, and the 3nd place players are tied.
-   - **+2/+2/+2/+2** in the case where all four players are tied.
+2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out maps from the mappool to be played with the following turnout after each map:
+   - **+2 points** (1st place) / **+1 point** (2nd place) / **+1 point** (3rd place) / **0 points** (4th place) on groups with 4 players.
+   - **+1 point** (1st place) / **+1 point** (2nd place) / **0 points** (3rd place) on groups with 3 players.
+3. There will be 8 maps to be played on each group in total, with each player picking out two maps from the pool.
+   - On groups with 3 players, the final two maps will be randomized by the referee.
 4. Participants are **not allowed** to ban maps in the Group Stage.
 5. There is no Lower Bracket in the Group Stage.
 6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
