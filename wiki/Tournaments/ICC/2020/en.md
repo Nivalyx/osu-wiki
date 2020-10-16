@@ -275,11 +275,11 @@ Sunday, 11 August 2020:
 ### Group Stage Rules
 
 1. In the Group Stage, all participants will be divided into 8 different groups.
-2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out maps from the mappool to be played with the following turnout after each map:
-   - **+2 points** (1st place) / **+1 point** (2nd place) / **+1 point** (3rd place) / **0 points** (4th place) on groups with 4 players.
-   - **+1 point** (1st place) / **+1 point** (2nd place) / **0 points** (3rd place) on groups with 3 players.
-3. There will be 8 maps to be played on each group in total, with each player picking out two maps from the pool.
-   - On groups with 3 players, the final two maps will be randomized by the referee.
+2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out maps from the mappool to be played with the following turnouts after each map:
+   - **+2 points** (1st place) / **+1 point** (2nd place) / **+1 point** (3rd place) / **0 points** (4th place) in groups with 4 players.
+   - **+1 point** (1st place) / **+1 point** (2nd place) / **0 points** (3rd place) in groups with 3 players.
+3. There will be a total of 8 maps to be played in each group stage match, with each player picking out two maps from the pool.
+   - In groups with 3 players, the final two maps will be randomized by the referee.
 4. Participants are **not allowed** to ban maps in the Group Stage.
 5. There is no Lower Bracket in the Group Stage.
 6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
@@ -298,7 +298,8 @@ Sunday, 11 August 2020:
    - Players who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
 4. Players who can compete in the next round are determined by:
-   - In the Round of 16 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
+   - In the Round of 16, each player needs to win 4 points in order to win a match. (Best-of-7)
+   - In the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
    - In the Semifinals onwards except for the Grand Final, each player needs to win 6 points in order to win a match. (Best-of-11)
    - In the Grand Final, each player needs to win 7 points in order to win the match. (Best-of-13)
    - Player(s) who Win By Default.
