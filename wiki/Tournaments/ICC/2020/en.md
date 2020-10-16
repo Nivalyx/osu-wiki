@@ -14,14 +14,14 @@ The **Indonesia Convert Cup 2020** (***ICC 2020***) is a double-elimination 1v1 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-07-10/2020-07-20 |
-| Screening phase | 2020-07-21/2020-07-27 |
-| Group Stage | 2020-07-28/2020-08-02 |
-| Round of 16 | 2020-08-03/2020-08-09 |
-| Quarterfinals | 2020-08-10/2020-08-16 |
-| Semifinals | 2020-08-17/2020-08-23 |
-| Finals - Week 1 | 2020-08-24/2020-08-30 |
-| Finals - Week 2 | 2020-08-31/2020-09-06 |
+| Registration phase | 2020-09-13/2020-09-23 |
+| Screening phase | 2020-09-24/2020-09-30 |
+| Group Stage | 2020-10-05/2020-10-11 |
+| Round of 16 | 2020-10-12/2020-10-18 |
+| Quarterfinals | 2020-10-19/2020-10-25 |
+| Semifinals | 2020-10-26/2020-11-01 |
+| Finals - Week 1 | 2020-11-02/2020-11-08 |
+| Finals - Week 2 | 2020-11-09/2020-11-15 |
 
 ## Prizes
 
@@ -258,9 +258,9 @@ Sunday, 11 August 2020:
 9. Lag is not a valid reason to nullify a map.
 10. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 11. It is expected to be polite and respectful to each other. Penalties will be given if participants violate.
-    - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future installment(s) of CIC.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment(s) of CIC.
-    - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next installment(s) of CIC.
+    - If there are participant(s) who are engaging in an offensive provocation towards other participant(s), the participant(s) who are deemed responsible for the provocation  will be reported to the Tournament Management and may be considered to be blacklisted in the future installment(s) of ICC.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment(s) of ICC.
+    - If there is anyone other than the said participant who is trying to play as a participant, both the participant and the helper will be blacklisted in the next installment(s) of ICC.
 
 ### Tournament registration
 
