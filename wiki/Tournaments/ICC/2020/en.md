@@ -139,7 +139,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 - NoMod
   - [CELLON. - Labyrinth of Darkness (Mir) \[Expert\]](https://osu.ppy.sh/beatmapsets/778383#fruits/1634887)  
   - [Mastermind(xi+nora2r) - Dreadnought (Cherry Blossom) \[Final Destination\]](https://osu.ppy.sh/beatmapsets/361306#fruits/793845)  
-  - [CloZee - Koto (galvenize) \Extra\]](https://osu.ppy.sh/beatmapsets/517055#fruits/1098833) 
+  - [CloZee - Koto (galvenize) \[Extra\]](https://osu.ppy.sh/beatmapsets/517055#fruits/1098833) 
   - [MISATO - Necro Fantasia (WORSTPOLACKEU) \[Sakura no Yume\]](https://osu.ppy.sh/beatmapsets/626406#fruits/1320292)  
 - Hidden
   - [Yousei Teikoku - Shinteki Souzou (-Keitaro) \[AncuL's Extra\]](https://osu.ppy.sh/beatmapsets/985170#fruits/2068168)  
