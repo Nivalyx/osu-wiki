@@ -41,11 +41,11 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 | :-- | :-- |
 | Host | ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
 | Map selector | ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Yuri-](https://osu.ppy.sh/users/4983719), ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221) |
-| Streamer | ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336), ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
-| Commentator | ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [THS](https://osu.ppy.sh/users/1218514), ![][flag_ID] [Snow_flower](https://osu.ppy.sh/users/618064), ![][flag_ID] [Juragan_Piscok1](https://osu.ppy.sh/users/15507280) |
+| Streamer | ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336), ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| Commentator | ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Toka](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Juragan_Piscok1](https://osu.ppy.sh/users/15507280) |
 | Referee | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Yuina Hotaru](https://osu.ppy.sh/users/1104256),  ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Intention](https://osu.ppy.sh/users/3416858) |
 | Graphic designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
-| Spreadsheet manager | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
+| Spreadsheet manager | ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
@@ -64,7 +64,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 | Group |  |  |  |  |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | ![][flag_ID] [Rossi](https://osu.ppy.sh/users/5569341) |
-| **B** | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [-Nana -](https://osu.ppy.sh/users/8738085) | ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336) |
+| **B** | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [-Nana -](https://osu.ppy.sh/users/8738085) | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) |
 | **C** | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | *N/A* |
 | **D** | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | *N/A* |
 | **E** | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | *N/A* |
@@ -134,29 +134,27 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Quarterfinals
 
-**[Download the mappack here! (140 MB)](https://drive.google.com/file/d/1F8KQhR3aCEcMuMOyq6AKX3E-95Bul51F/view?usp=sharing)**
+**[Download the mappack here! (136 MB)](https://drive.google.com/file/d/1Aj6QhmqhMUgBcrOcM90fztnf9BAibgVw/view)**
 
 - NoMod
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - [CELLON. - Labyrinth of Darkness (Mir) \[Expert\]](https://osu.ppy.sh/beatmapsets/778383#fruits/1634887)  
+  - [Mastermind(xi+nora2r) - Dreadnought (Cherry Blossom) \[Final Destination\]](https://osu.ppy.sh/beatmapsets/361306#fruits/793845)  
+  - [CloZee - Koto (galvenize) \Extra\]](https://osu.ppy.sh/beatmapsets/517055#fruits/1098833) 
+  - [MISATO - Necro Fantasia (WORSTPOLACKEU) \[Sakura no Yume\]](https://osu.ppy.sh/beatmapsets/626406#fruits/1320292)  
 - Hidden
-  - 
-  - 
-  - 
+  - [Yousei Teikoku - Shinteki Souzou (-Keitaro) \[AncuL's Extra\]](https://osu.ppy.sh/beatmapsets/985170#fruits/2068168)  
+  - [MAMI - Kaze no Uta (Garden) \[Extra\]](https://osu.ppy.sh/beatmapsets/624037#fruits/1315307)  
+  - [That Poppy - Altar (-NeBu-) \[Apollo's Old-Style Getaway Car\]](https://osu.ppy.sh/beatmapsets/685822#fruits/2200803)  
 - HardRock
-  - 
-  -
-  -
+  - [onoken - Amnolys (DreaM117er) \[Skystar x Crystal's Twin Star Extra\]](https://osu.ppy.sh/beatmapsets/1069791#fruits/2277760)  
+  - [ginkiha - EOS (11t) \[Another\]](https://osu.ppy.sh/beatmapsets/125079#fruits/318562)  
+  - [Leftymonster - START (HanzeR) \[Finish\]](https://osu.ppy.sh/beatmapsets/70102#osu/201700)  
 - DoubleTime
-  - 
-  -
-  -
+  - [fripSide - black bullet (Cyndere) \[insane: initiator\]](https://osu.ppy.sh/beatmapsets/905839#fruits/1894827)  
+  - [KOTOKO - Wing my Way (CXu) \[Endless Sky\]](https://osu.ppy.sh/beatmapsets/850548#fruits/1778268)  
+  - [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Mirash) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/685725#fruits/1469159)  
 - Tiebreaker
-  -
+  - **[USAO - Showdown (Hikaru Rose) \[Crisis\]](https://osu.ppy.sh/beatmapsets/446658#fruits/959194)**
 
 ### Round of 16
 
@@ -223,7 +221,7 @@ Friday, 9 October 2020:
 | Group | Player 1 | Player 2 | Player 3 | Player 4 | Match link |
 | :-: | :-: | :-: | :-: | :-: | :-- |
 | **A** | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986) (12 pts)** | ![][flag_ID] **[yogafm](https://osu.ppy.sh/users/3247173) (4 pts)** | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) (3 pts) | ![][flag_ID] [Rossi](https://osu.ppy.sh/users/5569341) (0 pts) | [#1](https://osu.ppy.sh/community/matches/68039823) |
-| **B** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) (8 pts) | ![][flag_ID] [-Nana -](https://osu.ppy.sh/users/8738085) (0 pts) | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877) (15 pts)** | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336) (9 pts)** | [#1](https://osu.ppy.sh/community/matches/68042564) |
+| **B** | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) (8 pts) | ![][flag_ID] [-Nana -](https://osu.ppy.sh/users/8738085) (0 pts) | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877) (15 pts)** | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336) (9 pts)** | [#1](https://osu.ppy.sh/community/matches/68042564) |
 | **E** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (8 pts)** | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) (0 pts) | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435) (8 pts)** | *N/A* | [#1](https://osu.ppy.sh/community/matches/68043608) |
 
 Saturday, 10 October 2020:
