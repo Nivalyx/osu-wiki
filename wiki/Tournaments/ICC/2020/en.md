@@ -214,6 +214,33 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Round of 16
 
+Friday, 16 October 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Intel21](https://osu.ppy.sh/users/1272422)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039) | [#1](https://osu.ppy.sh/community/matches/68343246) |
+| Upper | [yogafm](https://osu.ppy.sh/users/3247173) ![][flag_ID] | 0 | **4** | ![][flag_ID] **[Valskiel](https://osu.ppy.sh/users/1254639)** | [#1](https://osu.ppy.sh/community/matches/68345426) |
+| Upper | **[Galaxi](https://osu.ppy.sh/users/2552435)** ![][flag_ID] | **4** | 1 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/68345704) |
+| Upper | [Minalinsky-](https://osu.ppy.sh/users/2823883) ![][flag_ID] | 0 | **4** | ![][flag_ID] **[Shurelia](https://osu.ppy.sh/users/3807986)** | [#1](https://osu.ppy.sh/community/matches/68348324) |
+
+Saturday, 17 October 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [BitDust](https://osu.ppy.sh/users/9573836) ![][flag_ID] | 3 | **4** | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336)** | [#1](https://osu.ppy.sh/community/matches/68395720) |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **4** | 1 | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/68397642) |
+| Upper | **[Funtastic](https://osu.ppy.sh/users/3555626)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) | [#1](https://osu.ppy.sh/community/matches/68399499) |
+| Upper | **[Riria Rakira](https://osu.ppy.sh/users/6310025)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [Reen](https://osu.ppy.sh/users/3285139) | [#1](https://osu.ppy.sh/community/matches/68390045) |
+
+Sunday, 18 October 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[yogafm](https://osu.ppy.sh/users/3247173)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [Reen](https://osu.ppy.sh/users/3285139) | [#1](https://osu.ppy.sh/community/matches/68440371) |
+| Lower | **[LeWind](https://osu.ppy.sh/users/9718235)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | [#1](https://osu.ppy.sh/community/matches/68443374) |
+| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [INFormal](https://osu.ppy.sh/users/6525565) | [#1](https://osu.ppy.sh/community/matches/68445354) |
+| Lower | **[Koimeji](https://osu.ppy.sh/users/4137039)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | *win by default* |
+
 ### Group Stage
 
 Friday, 9 October 2020:
