@@ -235,7 +235,7 @@ Sunday, 25 October 2020:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[dika312](https://osu.ppy.sh/users/2823883)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | [#1](https://osu.ppy.sh/community/matches/68778988) |
-| Lower | **[LeWind](https://osu.ppy.sh/users/9718235)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/1272422) | [#1](https://osu.ppy.sh/community/matches/68780712) |
+| Lower | **[LeWind](https://osu.ppy.sh/users/9718235)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422) | [#1](https://osu.ppy.sh/community/matches/68780712) |
 
 ### Round of 16
 
