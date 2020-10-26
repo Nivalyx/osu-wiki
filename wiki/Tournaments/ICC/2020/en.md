@@ -212,6 +212,22 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Quarterfinals
 
+Friday, 23 October 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Galaxi](https://osu.ppy.sh/users/2552435)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/68673897) |
+| Upper | **[Shurelia](https://osu.ppy.sh/users/3807986)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422) | [#1](https://osu.ppy.sh/community/matches/68675865) |
+| Upper | **[Valskiel](https://osu.ppy.sh/users/1254639)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | *win by default* |
+| Upper | [dika312](https://osu.ppy.sh/users/2823883) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Funtastic](https://osu.ppy.sh/users/3555626)** | *win by default* |
+
+Saturday, 24 October 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[dika312](https://osu.ppy.sh/users/2823883)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039) | [#1](https://osu.ppy.sh/community/matches/68724162) |
+| Lower | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[yogafm](https://osu.ppy.sh/users/3247173)** | [#1](https://osu.ppy.sh/community/matches/68726334) |
+
 ### Round of 16
 
 Friday, 16 October 2020:
