@@ -227,6 +227,15 @@ Saturday, 24 October 2020:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[dika312](https://osu.ppy.sh/users/2823883)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039) | [#1](https://osu.ppy.sh/community/matches/68724162) |
 | Lower | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[yogafm](https://osu.ppy.sh/users/3247173)** | [#1](https://osu.ppy.sh/community/matches/68726334) |
+| Lower | [Riria Rakira](https://osu.ppy.sh/users/6310025) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235)** | [#1](https://osu.ppy.sh/community/matches/68728650) |
+| Lower | **[Intel21](https://osu.ppy.sh/users/1272422)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/68731357) |
+
+Sunday, 25 October 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[dika312](https://osu.ppy.sh/users/2823883)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/3247173) | [#1](https://osu.ppy.sh/community/matches/68778988) |
+| Lower | **[LeWind](https://osu.ppy.sh/users/9718235)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [yogafm](https://osu.ppy.sh/users/1272422) | [#1](https://osu.ppy.sh/community/matches/68780712) |
 
 ### Round of 16
 
