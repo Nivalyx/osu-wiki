@@ -105,32 +105,31 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Semifinals
 
-**[Download the mappack here! (195 MB)](https://drive.google.com/file/d/1AYXaifWvEWfC4G5mZJ1kNK-V90ATvY-I/view?usp=sharing)**
+**[Download the mappack here! (125 MB)](https://drive.google.com/file/d/1wo0pn8_Bmv342QbOjDTopaPOIqxD7VNK/view)**
 
 - NoMod
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - [Ayumi. - Hanagoyomi (Mimari) \[Spirit.\]](https://osu.ppy.sh/beatmapsets/1155366#fruits/2411125)  
+  - [MaxNRG - Hide Away My Heart (Silverboxer) \[Always\]](https://osu.ppy.sh/beatmapsets/904621#fruits/1888178)  
+  - [Britney Spears - Toxic (schoolboy) \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#fruits/2223745) 
+  - [Rolling Contact - Technical Master (Naidaaka) \[owo\]](https://osu.ppy.sh/beatmapsets/630818#fruits/1331610)  
+  - [reworu - Gigantic O.T.N (murasaki_sk) \[AR9\]](https://osu.ppy.sh/beatmapsets/80906#fruits/230398)  
 - Hidden
-  - 
-  - 
-  - 
-  - 
+  - [Getty vs. DJ DiA - Grayed Out -Antifront- (Arbane) \[Xtra\]](https://osu.ppy.sh/beatmapsets/598182#fruits/1264457)  
+  - [Hello, Happy World! - Goka! Gokai!? Phantom Thief! (Atalanta) \[Aqua's Another\]](https://osu.ppy.sh/beatmapsets/708445#fruits/1643246)  
+  - [x0o0x\_ - Big Brother (Luscent) \[Thoughtcrime\]](https://osu.ppy.sh/beatmapsets/1120687#fruits/2341682) 
+  - [ShinRa-Bansho - Marisa wa Taihen na Mono o Nusunde Ikimashita ShinRa-Bansho Ver (Len) \[Classic Extra\]](https://osu.ppy.sh/beatmapsets/1024028#fruits/2142037)   
 - HardRock
-  - 
-  -
-  -
-  -
+  - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Hivie) \[Neiro's Another\]](https://osu.ppy.sh/beatmapsets/1043808#fruits/2220124)  
+  - [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence (kiddly) \[Mythic\]](https://osu.ppy.sh/beatmapsets/84777#fruits/601731)  
+  - [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Paprika\]](https://osu.ppy.sh/beatmapsets/770240#osu/1619425) 
+  - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (Realazy) \[Alliance\]](https://osu.ppy.sh/beatmapsets/848977#fruits/1775315)   
 - DoubleTime
-  - 
-  -
-  -
-  -
+  - [Sakaue Nachi - Crazy Hot (Mythol) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/54289#fruits/173567)  
+  - [Shikata Akiko - Akatsuki (Linada) \[Expert\]](https://osu.ppy.sh/beatmapsets/861819#fruits/1802834)  
+  - [KOTOKO - jihad (Mariko Sakuragi) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1135541#fruits/2371574)  
+  - [Vira (CV: Imai Asami) - Another Sky (Meg) \[Devotes myself for you\]](https://osu.ppy.sh/beatmapsets/898041#fruits/1876081) 
 - Tiebreaker
-  -
+  - **[Yousei Teikoku - Kokou no Sousei (Kalibe) \[Despair\]](https://osu.ppy.sh/beatmapsets/744554#fruits/1569836)**
 
 ### Quarterfinals
 
