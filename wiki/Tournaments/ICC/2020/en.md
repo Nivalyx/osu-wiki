@@ -91,16 +91,16 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
   - [solfa feat.Shimotsuki Haruka - leap in your mind (Garden) \[Decay\]](https://osu.ppy.sh/beatmapsets/569071#fruits/1206489)   
 - HardRock
   - [a\_hisaxChicking - The Navigator's Hope (Rohit6) \[Endurance of the Seafarer\]](https://osu.ppy.sh/beatmapsets/439225#fruits/945304)  
-  - [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence (kiddly) \[Mythic\]](https://osu.ppy.sh/beatmapsets/84777#fruits/601731)  
-  - [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Paprika\]](https://osu.ppy.sh/beatmapsets/770240#osu/1619425) 
-  - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (Realazy) \[Alliance\]](https://osu.ppy.sh/beatmapsets/848977#fruits/1775315)   
+  - [nmk - sola (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/183267#fruits/439135)  
+  - [YURRY CANON - Nadeshiko color Heart (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/682996#fruits/1451733) 
+  - [Uinyasu, Occhoko Bunny - Tougen Roman (Epsilon Remix) (Sakura Airi) \[Odore\]](https://osu.ppy.sh/beatmapsets/1173379#fruits/2447252)   
 - DoubleTime
-  - [Sakaue Nachi - Crazy Hot (Mythol) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/54289#fruits/173567)  
-  - [Shikata Akiko - Akatsuki (Linada) \[Expert\]](https://osu.ppy.sh/beatmapsets/861819#fruits/1802834)  
-  - [KOTOKO - jihad (Mariko Sakuragi) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1135541#fruits/2371574)  
-  - [Vira (CV: Imai Asami) - Another Sky (Meg) \[Devotes myself for you\]](https://osu.ppy.sh/beatmapsets/898041#fruits/1876081) 
+  - [KOTOKO - Light My Fire (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/935912#fruits/1955207)  
+  - [Uehara Rena - Answer (Shad0w1and) \[Shinjitsu\]](https://osu.ppy.sh/beatmapsets/430141#fruits/927939)  
+  - [Shikata Akiko - Katayoku no Tori (IceKalt) \[Rio & Ice's Insane\]](https://osu.ppy.sh/beatmapsets/622500#fruits/1361543)  
+  - [Yuki Kajiura - Mezame (mercury2004) \[Mai\]](https://osu.ppy.sh/beatmapsets/22659#fruits/78049) 
 - Tiebreaker
-  - **[Yousei Teikoku - Kokou no Sousei (Kalibe) \[Despair\]](https://osu.ppy.sh/beatmapsets/744554#fruits/1569836)**
+  - **[Diao ye zong feat. Meramipop - Shinkirou (jonathanlfj) \[Collab Masquerade\]](https://osu.ppy.sh/beatmapsets/628765#fruits/1325510)**
 
 ### Semifinals
 
