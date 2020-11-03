@@ -76,32 +76,31 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Finals
 
-**[Download the mappack here! (180 MB)](https://drive.google.com/file/d/1mEUgYsLfoGQgrWgC32-f9JeRRZYhclwx/view?usp=sharing)**
+**[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1w426oYWbotWp80oQZriFgPsdUZ-DFwR4/view)**
 
 - NoMod
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - [Omoi - Snow Drive(01.23) (Kroytz) \[Arigatou\]](https://osu.ppy.sh/beatmapsets/478405#fruits/1083052)
+  - [Toromaru - Enigma (AtHeoN) \[MASTER\]](https://osu.ppy.sh/beatmapsets/527869#fruits/2290441)   
+  - [KOAN Sound & Asa - fuego (sakuraburst remix) (Shiirn) \[Dreaming of Embers\]](https://osu.ppy.sh/beatmapsets/611806#fruits/1291369) 
+  - [TRUE - Divine Spell (Atalanta) \[Awoke\]](https://osu.ppy.sh/beatmapsets/886712#fruits/1853779)  
+  - [DJ Okawari - Flower Dance (Short Ver.) (-Hanayuki-) \[Hus AR9\]](https://osu.ppy.sh/beatmapsets/252981#fruits/674285)  
 - Hidden
-  - 
-  - 
-  - 
-  - 
+  - [Jin feat. MARiA from GARNiDELiA - daze (\_kotachi\_) \[Let's "Excitement"\]](https://osu.ppy.sh/beatmapsets/620132#fruits/1307021)  
+  - [Memme - Sky of the Ocean (Syph) \[Hikaru's Extra.\]](https://osu.ppy.sh/beatmapsets/668888#fruits/1429744)  
+  - [SHK - Imagination (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1078340#fruits/2256378) 
+  - [solfa feat.Shimotsuki Haruka - leap in your mind (Garden) \[Decay\]](https://osu.ppy.sh/beatmapsets/569071#fruits/1206489)   
 - HardRock
-  - 
-  -
-  -
-  -
+  - [a\_hisaxChicking - The Navigator's Hope (Rohit6) \[Endurance of the Seafarer\]](https://osu.ppy.sh/beatmapsets/439225#fruits/945304)  
+  - [Kuroneko Dungeon - Ryuu to Shoujo to Decoherence (kiddly) \[Mythic\]](https://osu.ppy.sh/beatmapsets/84777#fruits/601731)  
+  - [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Paprika\]](https://osu.ppy.sh/beatmapsets/770240#osu/1619425) 
+  - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (Realazy) \[Alliance\]](https://osu.ppy.sh/beatmapsets/848977#fruits/1775315)   
 - DoubleTime
-  - 
-  -
-  -
-  -
+  - [Sakaue Nachi - Crazy Hot (Mythol) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/54289#fruits/173567)  
+  - [Shikata Akiko - Akatsuki (Linada) \[Expert\]](https://osu.ppy.sh/beatmapsets/861819#fruits/1802834)  
+  - [KOTOKO - jihad (Mariko Sakuragi) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1135541#fruits/2371574)  
+  - [Vira (CV: Imai Asami) - Another Sky (Meg) \[Devotes myself for you\]](https://osu.ppy.sh/beatmapsets/898041#fruits/1876081) 
 - Tiebreaker
-  -
+  - **[Yousei Teikoku - Kokou no Sousei (Kalibe) \[Despair\]](https://osu.ppy.sh/beatmapsets/744554#fruits/1569836)**
 
 ### Semifinals
 
