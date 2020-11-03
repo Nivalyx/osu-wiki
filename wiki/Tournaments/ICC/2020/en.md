@@ -209,6 +209,26 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ### Semifinals
 
+Friday, 30 October 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Galaxi](https://osu.ppy.sh/users/2552435)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | [#1](https://osu.ppy.sh/community/matches/69022506) |
+| Upper | **[Shurelia](https://osu.ppy.sh/users/3807986)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Valskiel](https://osu.ppy.sh/users/1254639) | [#1](https://osu.ppy.sh/community/matches/69026276) |
+
+Saturday, 1 November 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Funtastic](https://osu.ppy.sh/users/3555626)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | [#1](https://osu.ppy.sh/community/matches/69080526) |
+| Lower | [Valskiel](https://osu.ppy.sh/users/1254639) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | *win by default* |
+
+Sunday, 2 November 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Funtastic](https://osu.ppy.sh/users/3555626) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | [#1](https://osu.ppy.sh/community/matches/69130378) |
+
 ### Quarterfinals
 
 Friday, 23 October 2020:
