@@ -8,7 +8,7 @@ tags:
 
 ![ICC 2020 logo](img/logo.jpg)
 
-The **Indonesia Convert Cup 2020** (***ICC 2020***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in where all maps in the tournament are converted osu!standard maps. The tournament is open to all osu!catch players from Indonesia with over 5,000 osu!catch playcounts regardless of rank. It is the first iteration of the tournament series.
+The **Indonesia Convert Cup 2020** (***ICC 2020***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), and ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) in where all maps in the tournament were converted osu!standard maps. The tournament was open to all osu!catch players from Indonesia with over 5,000 osu!catch playcounts regardless of rank. It was the first iteration of the tournament series.
 
 ## Tournament schedule
 
@@ -20,8 +20,7 @@ The **Indonesia Convert Cup 2020** (***ICC 2020***) is a double-elimination 1v1 
 | Round of 16 | 2020-10-12/2020-10-18 |
 | Quarterfinals | 2020-10-19/2020-10-25 |
 | Semifinals | 2020-10-26/2020-11-01 |
-| Finals - Week 1 | 2020-11-02/2020-11-08 |
-| Finals - Week 2 | 2020-11-09/2020-11-15 |
+| Finals Week | 2020-11-02/2020-11-08 |
 
 ## Prizes
 
@@ -57,7 +56,7 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 
 ## Podium
 
-![Champion: TBD, 2nd place: TBD, 3rd place: TBD](img/podium.jpg)
+![Champion: dika312, 2nd place: Galaxi, 3rd place: Shurelia](img/podium.jpg)
 
 ## Participants
 
@@ -205,6 +204,25 @@ ICC 2020 was run by various osu! community members predominantly hailing from In
 ## Match results
 
 ### Finals
+
+Friday, 6 November 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Shurelia](https://osu.ppy.sh/users/3807986) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435)** | [#1](https://osu.ppy.sh/community/matches/69381788) |
+
+Saturday, 7 November 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Shurelia](https://osu.ppy.sh/users/3807986) ![][flag_ID] | 0 | **7** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | [#1](https://osu.ppy.sh/community/matches/69445742) |
+
+Sunday, 8 November 2020, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | [Galaxi](https://osu.ppy.sh/users/2552435) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | [#1](https://osu.ppy.sh/community/matches/69502037) |
+| Grand Final (Bracket Reset) | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **7** | 3 | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | [#1](https://osu.ppy.sh/community/matches/69505076) |
 
 ### Semifinals
 
@@ -368,8 +386,8 @@ Sunday, 11 August 2020:
 4. Players who can compete in the next round are determined by:
    - In the Round of 16, each player needs to win 4 points in order to win a match. (Best-of-7)
    - In the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Semifinals onwards except for the Grand Final, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Grand Final, each player needs to win 7 points in order to win the match. (Best-of-13)
+   - In the Semifinals, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Finals Week, each player needs to win 7 points in order to win the match. (Best-of-13)
    - Player(s) who Win By Default.
    - Whether there are player(s) who got disqualified during the match.
 
