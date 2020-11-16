@@ -23,23 +23,23 @@ Check out what we have planned for this season in detail:
 
 ### General aspects
 
-- **The best mappers of each season will be rewarded**. Players are not the only fundamental aspect of each season, maps and mappers are also very important to the whole system. With that in mind, we decided mappers will also get their own spotlight! The rewards are going to be explained below in more details. 
+- **The best mappers of each season will be rewarded**. Players are not the only fundamental aspect of each season, maps and mappers are also very important to the whole system. With that in mind, we decided mappers will also get their own spotlight! The rewards are going to be explained below in more details.
 
 ## Season schedule and leaderboards
 
 | Event | Time |
-| --: | :-- |
+| :-- | :-- |
 | Season Start | Oct 9th, 2020 |
 | Timeshift Lobby: Playlist A | Oct 9th - Oct 16th, 2020 |
-| Timeshift Lobby: Playlist B | Oct 16th - Oct 23th, 2020 |
+| Timeshift Lobby: Playlist B | Oct 16th - Oct 23rd, 2020 |
 | Timeshift Lobby: Playlist C | Oct 23rd - Oct 30th, 2020 |
 | Timeshift Lobby: Playlist D | Oct 30th - Nov 6th, 2020 |
-| INTERMISSION | Nov 6th - 13th, 2020 |
-| Timeshift Lobby: Playlist A | Nov 6th - Nov 13th, 2020 |
-| Timeshift Lobby: Playlist B | Nov 13th - Nov 20th, 2020 |
-| Timeshift Lobby: Playlist C | Nov 20rd - Nov 27rd, 2020 |
-| Timeshift Lobby: Playlist D | Nov 27th - Dec 4th, 2020 |
-| Season Conclusion | Dec 4th, 2020 |
+| INTERMISSION | Nov 6th - Nov 13th, 2020 |
+| Timeshift Lobby: Playlist A | Nov 13th - Nov 20th, 2020 |
+| Timeshift Lobby: Playlist B | Nov 20th - Nov 27th, 2020 |
+| Timeshift Lobby: Playlist C | Nov 27th - Dec 4th, 2020 |
+| Timeshift Lobby: Playlist D | Dec 4th - Dec 11th, 2020 |
+| Season Conclusion | Dec 11th, 2020 |
 
 You can check the finalized leaderboard for the previous season [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRF46ZtScaNWb5KLAF0-CwJhTySle5r3xVhg15x1nTOXYrMWNpRx8HbsRizaQ2AwJpKARJRTtyHbdxs/pubhtml).
 
@@ -47,14 +47,14 @@ You can check the finalized leaderboard for the previous season [here](https://d
 
 | Badges | Bracket Tier | Placement |
 | :--: | :--: | :--: |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/diamond_3.png) | Diamond | Top 51 - 3% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/platinum_3.png) | Platinum | 3% - 10% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/gold_3.png) | Gold | 10% - 25% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/silver_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/silver_3.png) | Silver | 25% - 50% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/bronze_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/bronze_3.png) | Bronze | 50% - 70% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/copper_3.png) | Copper | 70% - 95% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/iron_3.png) | Iron | 95% - 100% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
+| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/diamond_3.png) | Diamond | Top 51 - 3% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/platinum_3.png) | Platinum | 3% - 10% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/gold_3.png) | Gold | 10% - 25% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/silver_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/silver_3.png) | Silver | 25% - 50% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/bronze_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/bronze_3.png) | Bronze | 50% - 70% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/copper_3.png) | Copper | 70% - 95% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/autumn_2020/osu/iron_3.png) | Iron | 95% - 100% |
 
 ## Autumn Playlist A
 
@@ -98,7 +98,7 @@ Playlist B, C and D will be available in [Beatmap Spotlights](/wiki/Beatmap_Spot
 
 ## Mappers of the Season
 
-After each season has finalized, the curators will handpick a mapper featured in the Beatmap Spotlights map pool for each gamemode and declare them as the best mapper of the season, netting them a tidy **3 months of osu!supporter** for their efforts. 
+After each season has finalized, the curators will handpick a mapper featured in the Beatmap Spotlights map pool for each gamemode and declare them as the best mapper of the season, netting them a tidy **3 months of osu!supporter** for their efforts.
 
 To get things started, we're starting this new initiative off straight away with the participants of the Summer Beatmap Spotlights:
 

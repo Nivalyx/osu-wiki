@@ -101,6 +101,7 @@ tags:
 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | BAT |
 | ![][flag_CN] [ignorethis](https://osu.ppy.sh/users/27343) | BAT |
 | ![][flag_IT] [Inamaru](https://osu.ppy.sh/users/76382) | GMT |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发者 |
 | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | BAT，QAT |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | BAT |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | BAT |
@@ -120,6 +121,7 @@ tags:
 | ![][flag_KR] [KRZY](https://osu.ppy.sh/users/114017) | 聊天室管理员 |
 | ![][flag_JP] [KSHR](https://osu.ppy.sh/users/409957) | BAT，GMT，QAT |
 | ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) | QAT |
+| ![][flag_BR] [Kuron-kun](https://osu.ppy.sh/users/2697284) | GMT，QAT |
 | ![][flag_CL] [Kylecito](https://osu.ppy.sh/users/488) | BAT |
 | ![][flag_CA] [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
 | ![][flag_RU] [La Cataline](https://osu.ppy.sh/users/301279) | 聊天室管理员 |
@@ -138,7 +140,6 @@ tags:
 | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | BAT |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | BAT |
 | ![][flag_US] [machol30](https://osu.ppy.sh/users/5772) | BAT |
-| ![][flag_US] [Maeglwn](https://osu.ppy.sh/users/2440936) | GMT |
 | ![][flag_US] [Mafiamaster](https://osu.ppy.sh/users/17695) | BAT |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
@@ -155,7 +156,6 @@ tags:
 | ![][flag_US] [Mogsy](https://osu.ppy.sh/users/4018) | BAT |
 | ![][flag_US] [MOOMANiBE](https://osu.ppy.sh/users/8950) | BAT |
 | ![][flag_NL] [mrtn](https://osu.ppy.sh/users/7013) | BAT |
-| ![][flag_US] [mtmcl](https://osu.ppy.sh/users/5960) | BAT |
 | ![][flag_HU] [Mystyk](https://osu.ppy.sh/users/930165) | 聊天室管理员 |
 | ![][flag_DE] [Myxomatosis](https://osu.ppy.sh/users/2202645) | BAT，QAT |
 | ![][flag_UY] [narakucrimson](https://osu.ppy.sh/users/287468) | BAT |
