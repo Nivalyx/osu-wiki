@@ -4,7 +4,7 @@
 
 **Beatmap** merupakan istilah yang merujuk pada level-level permainan yang tersedia untuk dimainkan. Tiap-tiap berkas beatmap mengandung berbagai informasi yang terkait dengan aspek-aspek yang hadir di dalam permainan seperti [hit object](/wiki/Hit_Objects), [timing](/wiki/Beatmap_Editor/Timing), metadata, pengaturan tingkat kesulitan *(difficulty setting)*, efek-efek visual, dan lain sebagainya.
 
-Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](Beatmapsets)** utuh. Kamu dapat menjumpai beragam jenis beatmapset yang telah [di-submit](/wiki/Glossary#bss) pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets), di mana pada masing-masing beatmapset kamu akan dihadapkan dengan satu atau lebih [tingkat kesulitan](/wiki/Difficulties) yang dapat kamu mainkan di dalamnya.
+Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](Beatmapsets)** utuh. Kamu dapat menjumpai beragam jenis beatmapset yang telah [di-submit](/wiki/Glossary#bss) pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets), di mana pada masing-masing beatmapset tersebut kamu akan dihadapkan dengan satu atau lebih [tingkat kesulitan](/wiki/Difficulties) yang dapat kamu mainkan di dalamnya.
 
 ## Kategori beatmap
 
