@@ -8,7 +8,7 @@ Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan s
 
 ## Kategori beatmap
 
-Beatmaps submitted online are split into categories depending on their recent activity, nomination status, and popularity:
+Beatmap-beatmap yang di-submit secara online terbagi ke dalam beberapa kategori menurut aktivitas, status nominasi, dan popularitas dari beatmap-beatmap yang bersangkutan sebagai berikut:
 
 - [Graveyard](#graveyard)
 - [Work in Progress / Pending](#work-in-progress-and-pending)
@@ -16,9 +16,11 @@ Beatmaps submitted online are split into categories depending on their recent ac
 - [Ranked](#ranked)
 - [Loved](#loved)
 
-## Status Ranking
+### Graveyard
 
-Baik beatmap yang berstatus ranked maupun approved memerlukan persetujuan dari dua [Beatmap Nominators](/wiki/Beatmap_Nominators). Mereka dapat mengubah statistik pada profil seorang pemain yang membuat mereka berbeda dari beatmap [pending](#pending) atau [graveyarded](#graveyard).
+Graveyarded beatmaps are beatmaps that have been abandoned by their creator. Beatmaps are moved to the Graveyard category from the [Work in Progress and Pending](#work-in-progress-and-pending) categories automatically once they haven't been updated for 4 weeks. Graveyarded beatmaps do not have leaderboards and will not affect user statistics. However, they can still be downloaded and played like normal. They use the question mark icon (![](/wiki/shared/status/graveyard.png)) in the song selection screen<!-- TODO: link -->.
+
+Once a beatmap is graveyarded, it can be revived (i.e. brought back to [Pending](#work-in-progress-and-pending)). This can be done by updating the beatmap via the [beatmap submission system](/wiki/Glossary#bss).
 
 ### Ranked
 
