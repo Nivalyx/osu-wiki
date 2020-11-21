@@ -2,13 +2,9 @@
 
 *Artikel ini tidak mencakup seputar [Tingkat Kesulitan Beatmap](/wiki/Difficulties) secara mendalam.*
 
-**Beatmaps** are game levels created for songs. They contain [hit objects](/wiki/Hit_Objects), [timing](/wiki/Beatmap_Editor/Timing)<!-- TODO: this should not be referencing the editor --> information, difficulty settings, and visual effects<!-- TODO: more links here -->.
-
-Beatmaps are made as part of **[beatmapsets](Beatmapsets)**. Beatmapsets group beatmaps together so that they can be [submitted](/wiki/Glossary#bss) to the website and show up on the [beatmap listing](https://osu.ppy.sh/beatmapsets). They typically cover one song, where each beatmap of the set is a different [difficulty](/wiki/Difficulties).
-
 **Beatmap** merupakan istilah yang merujuk pada level-level permainan yang tersedia untuk dimainkan. Tiap-tiap berkas beatmap mengandung berbagai informasi yang terkait dengan aspek-aspek yang hadir di dalam permainan seperti [hit object](/wiki/Hit_Objects), [timing](/wiki/Beatmap_Editor/Timing), metadata, pengaturan tingkat kesulitan *(difficulty setting)*, efek-efek visual, dan lain sebagainya.
 
-Beatmap-beatmap yang berada di dalam satu folder yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](Beatmapsets)** utuh. Beatmapset-beatmapset yang telah di- [di-submit](/wiki/Glossary#bss) akan dapat dijumpai pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets).
+Beatmap-beatmap yang berada di dalam satu folder yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](Beatmapsets)** utuh. Kamu dapat menjumpai beragam jenis beatmapset yang telah [di-submit](/wiki/Glossary#bss) pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets), di mana pada umumnya masing-masing beatmapset tersebut akan memiliki berbagai [tingkat kesulitan](/wiki/Difficulties) di dalamnya.
 
 ## Status Ranking
 
