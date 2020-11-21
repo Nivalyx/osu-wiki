@@ -1,16 +1,14 @@
----
-outdated: true
----
+# Beatmap
 
-# Beatmaps
+*Artikel ini tidak mencakup seputar [Tingkat Kesulitan Beatmap](/wiki/Difficulties) secara mendalam.*
 
-*Tidak bingung dengan: [Kesulitan](/wiki/Difficulties).*
+**Beatmaps** are game levels created for songs. They contain [hit objects](/wiki/Hit_Objects), [timing](/wiki/Beatmap_Editor/Timing)<!-- TODO: this should not be referencing the editor --> information, difficulty settings, and visual effects<!-- TODO: more links here -->.
 
-Beatmap adalah tingkat kesulitan dalam [osu!](/wiki/osu!_glossary), sama seperti tahapan di [Permainan DS](/wiki/Glossary#ds-games). Dalam bentuk paling dasar mereka, beatmap memiliki lagu dan berbagai [hit objects](/wiki/hit_objects) yang ditempatkan sesuai dengan irama musik. Mereka juga dapat memiliki gambar latar belakang, video, bahkan [storyboard](/wiki/storyboard).
+Beatmaps are made as part of **[beatmapsets](Beatmapsets)**. Beatmapsets group beatmaps together so that they can be [submitted](/wiki/Glossary#bss) to the website and show up on the [beatmap listing](https://osu.ppy.sh/beatmapsets). They typically cover one song, where each beatmap of the set is a different [difficulty](/wiki/Difficulties).
 
-Beatmap diunggah menggunakan [BSS](/wiki/BSS) (Beatmap Submission System) dan kemudian melalui proses persetujuan yang disebut [modding](/wiki/modding) untuk mempertahankan standar.
+**Beatmap** merupakan istilah yang merujuk pada level-level permainan yang tersedia untuk dimainkan. Tiap-tiap berkas beatmap mengandung berbagai informasi yang terkait dengan aspek-aspek yang hadir di dalam permainan seperti [hit object](/wiki/Hit_Objects), [timing](/wiki/Beatmap_Editor/Timing), metadata, pengaturan tingkat kesulitan *(difficulty setting)*, efek-efek visual, dan lain sebagainya.
 
-Anda dapat menemukan beatmap pada laman [Beatmaps Listing](https://osu.ppy.sh/beatmapsets) osu! web.
+Beatmap-beatmap yang berada di dalam satu folder yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](Beatmapsets)** utuh. Beatmapset-beatmapset yang telah di- [di-submit](/wiki/Glossary#bss) akan dapat dijumpai pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets).
 
 ## Status Ranking
 
