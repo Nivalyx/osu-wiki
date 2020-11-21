@@ -8,7 +8,7 @@ Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan s
 
 ## Kategori beatmap
 
-Beatmaps submitted online are split into categories depending on their recent activity, nomination<!-- TODO: link --> status, and popularity:
+Beatmaps submitted online are split into categories depending on their recent activity, nomination status, and popularity:
 
 - [Graveyard](#graveyard)
 - [Work in Progress / Pending](#work-in-progress-and-pending)
