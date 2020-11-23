@@ -36,7 +36,7 @@ Beatmap yang berstatus Qualified memiliki *leaderboard* sementara yang akan diha
 
 ### Ranked
 
-Ranked merupakan status beatmap yang disematkan kepada beatmap-beatmap yang telah teruji memenuhi standar-standar kualitas sebagaimana yang dipersyaratkan oleh [Ranking Criteria](/wiki/Ranking_Criteria). Beatmap-beatmap Ranked memiliki *leaderboard* permanen dan [performance point](/wiki/Performance_Points) yang dapat diraih oleh masing-masing pemain. Sekalinya suatu beatmap mendapatkan status Ranked, beatmap yang bersangkutan akan berstatus Ranked hingga seterusnya kecuali pada kasus-kasus khusus. Adapun beatmap-beatmap ini ditandai dengan simbol pangkat ganda (![](/wiki/shared/status/ranked.png)) yang dapat dilihat pada pojok kiri atas layar Song Selection.
+Ranked merupakan status beatmap yang disematkan kepada beatmap-beatmap yang telah teruji memenuhi standar-standar kualitas sebagaimana yang dipersyaratkan oleh [Ranking Criteria](/wiki/Ranking_Criteria). Beatmap-beatmap Ranked memiliki *leaderboard* permanen dan [performance point](/wiki/Performance_Points) yang dapat diraih oleh masing-masing pemain. Sekalinya suatu beatmap mendapatkan status Ranked, beatmap yang bersangkutan akan berstatus Ranked hingga seterusnya kecuali pada beberapa kasus yang spesifik. Adapun beatmap-beatmap ini ditandai dengan simbol pangkat ganda (![](/wiki/shared/status/ranked.png)) yang dapat dilihat pada pojok kiri atas layar Song Selection.
 
 ### Loved
 
