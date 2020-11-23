@@ -11,7 +11,7 @@ Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan s
 Beatmap-beatmap yang di-submit secara online terbagi ke dalam beberapa kelompok status berdasarkan tingkat aktivitas, status nominasi, dan popularitas dari beatmap-beatmap yang bersangkutan sebagai berikut:
 
 - [Graveyard](#graveyard)
-- [Work in Progress / Pending](#work-in-progress-and-pending)
+- [Work in Progress / Pending](#work-in-progress-dan-pending)
 - [Qualified](#qualified)
 - [Ranked](#ranked)
 - [Loved](#loved)
@@ -20,7 +20,7 @@ Beatmap-beatmap yang di-submit secara online terbagi ke dalam beberapa kelompok 
 
 Graveyard merupakan status beatmap yang disematkan kepada beatmap-beatmap yang telah lama diabaikan oleh pembuatnya. Suatu beatmap yang berstatus [Work in Progress dan Pending](#work-in-progress-and-pending) akan secara otomatis dipindahkan ke dalam Graveyard apabila beatmap yang bersangkutan tidak diperbaharui selama 4 minggu. Beatmap-beatmap yang berstatus Graveyard tidak dilengkapi dengan *leaderboard* dan tidak berpengaruh terhadap statistik permainan yang muncul di halaman profil pemain, namun tetap dapat diunduh dan dimainkan seperti biasa. Adapun beatmap-beatmap ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) yang dapat dilihat pada pojok kiri atas layar Song Selection.
 
-Suatu beatmap yang telah jatuh ke dalam Graveyard akan secara otomatis kembali ke status Pending [Pending](#work-in-progress-and-pending) apabila beatmap tersebut diperbaharui melalui [beatmap submission system](/wiki/Glossary#bss).
+Suatu beatmap yang telah jatuh ke dalam Graveyard akan secara otomatis kembali ke status Pending [Pending](#work-in-progress-dan-pending) apabila beatmap tersebut diperbaharui melalui [beatmap submission system](/wiki/Glossary#bss).
 
 ### Work in Progress dan Pending
 
