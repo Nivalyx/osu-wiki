@@ -6,9 +6,9 @@
 
 Beatmap-beatmap yang dibuat untuk satu berkas lagu yang sama pada umumnya akan secara otomatis terkelompokkan ke dalam satu **[beatmapset](Beatmapsets)** utuh. Kamu dapat menjumpai beragam jenis beatmapset yang telah [di-submit](/wiki/Glossary#bss) pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets), di mana pada masing-masing beatmapset tersebut kamu akan dihadapkan dengan satu atau lebih [tingkat kesulitan](/wiki/Difficulties) di dalamnya.
 
-## Kategori beatmap
+## Status beatmap
 
-Beatmap-beatmap yang di-submit secara online terbagi ke dalam beberapa kategori berdasarkan tingkat aktivitas, status nominasi, dan popularitas dari beatmap-beatmap yang bersangkutan sebagai berikut:
+Beatmap-beatmap yang di-submit secara online terbagi ke dalam beberapa kelompok status berdasarkan tingkat aktivitas, status nominasi, dan popularitas dari beatmap-beatmap yang bersangkutan sebagai berikut:
 
 - [Graveyard](#graveyard)
 - [Work in Progress / Pending](#work-in-progress-and-pending)
@@ -22,63 +22,7 @@ Graveyarded beatmaps are beatmaps that have been abandoned by their creator. Bea
 
 Once a beatmap is graveyarded, it can be revived (i.e. brought back to [Pending](#work-in-progress-and-pending)). This can be done by updating the beatmap via the [beatmap submission system](/wiki/Glossary#bss).
 
-### Ranked
+Graveyard merupakan status beatmap yang disematkan kepada beatmap-beatmap yang telah lama diabaikan oleh pembuatnya. Suatu beatmap yang berstatus [Work in Progress dan Pending](#work-in-progress-and-pending) akan secara otomatis dipindahkan menuju Graveyard apabila beatmap yang bersangkutan tidak diperbaharui selama 4 minggu. Beatmap-beatmap yang berstatus Graveyard tidak dilengkapi dengan *leaderboard* dan tidak berpengaruh terhadap statistik permainan yang muncul di halaman profil pemain, namun tetap dapat diunduh dan dimainkan seperti biasa. Beatmap-beatmap ini ditandai dengan ikon tanda tanya (![](/wiki/shared/status/graveyard.png)) yang terlihat pada pojok kiri atas layar Song Selection.
 
-Beatmap berstatus ranked menggunakan ikon chevron ganda ke atas (![Double upwards chevron icon](/wiki/shared/status/ranked.png)) di halaman pemilihan lagu.
+Suatu beatmap yang telah jatuh ke dalam Graveyard akan secara otomatis kembali ke status Pending [Pending](#work-in-progress-and-pending) apabila diperbaharui melalui [beatmap submission system](/wiki/Glossary#bss).
 
-Beatmap ini idealnya memenuhi semua [kriteria ranking](/wiki/ranking_criteria). Hal ini untuk memastikan bahwa sebagian besar pemain dapat mengharapkan standar tertentu saat memainkannya.
-
-### Approved
-
-Beatmap berstatus Approved menggunakan ikon centang (![Check icon](/wiki/shared/status/approved.png)) di halaman pemilihan lagu.
-
-Status Approved biasanya dipakai untuk lagu yang berdurasi lebih dari lima menit (juga dikenal sebagai [marathon](/wiki/marathon)), diukur dari total [drain time](/wiki/drain_time) dari sebuah beatmap. Kebanyakan beatmap berstatus approved tidak memiliki tingkat kesulitan easy atau normal. Namun, beberapa pembuat konten dapat mengunggahnya sebagai beatmap yang terpisah dengan lagu-lagu yang identik sementara beberapa termasuk di dalam ranked, berisi beatmap-beatmap berstatus ranked.
-
-### Qualified
-
-Beatmap berstatus Qualified menggunakan ikon centang (![Check icon](/wiki/shared/status/qualified.png)) di halaman pemilihan lagu.
-
-Beatmap ini berada di tahap terakhir dari proses beatmapping dan modding. Sebelum beatmap mulai, dialog akan ditampilkan, memperlihatkan status dari beatmap akan menyebabkan:
-
-- Tidak ada [pp](/wiki/pp) yang akan diberikan.
-- Semua skor akan dihapus saat status beatmap berubah.
-  - Jika status beatmap berubah menjadi ranked, approved, atau kembali ke pending; semua skor akan dihapus!
-
-Ketika sebuah beatmap berstatus qualified, beatmap telah memenuhi [kriteria ranking](/wiki/ranking_criteria) dan telah diperiksa oleh dua [Beatmap Nominators](/wiki/Beatmap_Nominators). Beatmap yang berstatus qualified memasuki tahap terakhir pertahanan karena mereka harus berada dalam status ini selama satu minggu sebelum menjadi [ranked](#ranked) atau [approved](#approved) secara permanen.
-
-Namun, selama durasi satu minggu, [QATs](/wiki/QAT) diizinkan untuk mencari permasalahan pada beatmap ini. Jika hal ini terjadi, status beatmapset akan kembali ke pending dan prosesnya akan diulangi lagi.
-
-### Loved
-
-Beatmap berstatus Loved menggunakan ikon hati (![Heart icon](/wiki/shared/status/loved.png)) di halaman pemilihan lagu.
-
-Beatmap ini mungkin tidak memenuhi [kriteria ranking](/wiki/ranking_criteria) tetapi *dicintai* oleh komunitas dan secara teratur ditambahkan berdasarkan suara komunitas. Sebelum beatmap mulai, dialog akan ditampilkan, memperlihatkan status dari beatmap akan menyebabkan:
-
-- Tidak ada [pp](/wiki/pp) yang akan diberikan.
-- Semua skor akan dihapus saat pembuat memperbarui beatmapnya.
-
-Status ini akan memberikan leaderboard pada beatmap
-
-Untuk menjadikan sebuah beatmap berstatus loved, lihat kiriman forum: [Get your beatmap Loved!](https://osu.ppy.sh/community/forums/topics/549835).
-
-### Pending
-
-*Lihat juga: [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)*
-
-Beatmap berstatus Pending menggunakan ikon tanda tanya (![Question mark icon](/wiki/shared/status/pending.png)) di halaman pemilihan lagu.
-
-Sebuah beatmap dengan status pending biasanya menunggu untuk di [modded](/wiki/modded). [Pembuat](/wiki/Creators) harus mencari [modder](/wiki/modders) dari komunitas dan setidaknya dua [Beatmap Nominator](/wiki/Beatmap_Nominators) untuk mengeluarkan beatmapset mereka dari status ini.
-
-Beatmap tidak aktif yang telah berada pada kategori ini selama 4 minggu akan dipindahkan ke status [graveyard](#graveyard) secara otomatis.
-
-Semua beatmap pending tidak mempengaruhi statistik pengguna.
-
-### Graveyard
-
-Beatmap berstatus Graveyard menggunakan ikon tanda tanya (![Question mark icon](/wiki/shared/status/graveyard.png)) di halaman pemilihan lagu.
-
-Beatmap tersebut sebenarnya dalam status [pending](#pending), tetapi dipindahkan ke status ini karena belum diperbarui atau post nya tidak aktif selama 4 minggu. Beatmap ini tidak dapat diperbarui sampai [mapper](/wiki/mapper) menghidupkannya dengan mengklik tautan `Revive Beatmap` di profil mereka, di bawah kategori `Beatmap`.
-
-Semua beatmap yang berada di status graveyard tidak akan mempengaruhi statistik pengguna.
-
-Demi menghemat ruang penyimpanan untuk beatmap terbaru, osu! akan menyingkirkan beatmap ini jika mereka telah berada dalam status ini untuk jangka waktu yang lama.
