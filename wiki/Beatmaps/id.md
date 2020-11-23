@@ -18,10 +18,6 @@ Beatmap-beatmap yang di-submit secara online terbagi ke dalam beberapa kelompok 
 
 ### Graveyard
 
-Graveyarded beatmaps are beatmaps that have been abandoned by their creator. Beatmaps are moved to the Graveyard category from the [Work in Progress and Pending](#work-in-progress-and-pending) categories automatically once they haven't been updated for 4 weeks. Graveyarded beatmaps do not have leaderboards and will not affect user statistics. However, they can still be downloaded and played like normal. They use the question mark icon (![](/wiki/shared/status/graveyard.png)) in the song selection screen<!-- TODO: link -->.
-
-Once a beatmap is graveyarded, it can be revived (i.e. brought back to [Pending](#work-in-progress-and-pending)). This can be done by updating the beatmap via the [beatmap submission system](/wiki/Glossary#bss).
-
 Graveyard merupakan status beatmap yang disematkan kepada beatmap-beatmap yang telah lama diabaikan oleh pembuatnya. Suatu beatmap yang berstatus [Work in Progress dan Pending](#work-in-progress-and-pending) akan secara otomatis dipindahkan menuju Graveyard apabila beatmap yang bersangkutan tidak diperbaharui selama 4 minggu. Beatmap-beatmap yang berstatus Graveyard tidak dilengkapi dengan *leaderboard* dan tidak berpengaruh terhadap statistik permainan yang muncul di halaman profil pemain, namun tetap dapat diunduh dan dimainkan seperti biasa. Beatmap-beatmap ini ditandai dengan ikon tanda tanya (![](/wiki/shared/status/graveyard.png)) yang terlihat pada pojok kiri atas layar Song Selection.
 
 Suatu beatmap yang telah jatuh ke dalam Graveyard akan secara otomatis kembali ke status Pending [Pending](#work-in-progress-and-pending) apabila diperbaharui melalui [beatmap submission system](/wiki/Glossary#bss).
