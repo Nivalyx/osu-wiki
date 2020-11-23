@@ -40,6 +40,6 @@ Ranked merupakan status beatmap yang disematkan kepada beatmap-beatmap yang tela
 
 ### Loved
 
-*Untuk mengetahui lebih lanjut seputar sejarah status Loved, harap kunjungi: [History of Loved](/wiki/Beatmaps/History_of_Loved)*
+*Untuk mengetahui lebih lanjut seputar latar belakang status Loved, harap kunjungi: [Sejarah Loved](/wiki/Beatmaps/History_of_Loved)*
 
-Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes in [Project Loved](/wiki/Project_Loved). They have leaderboards, but no [performance points](/wiki/Performance_Points) will be awarded and all scores will be deleted if it moves out of Loved (this usually only happens on the creator's request). Loved beatmaps use the heart icon (![](/wiki/shared/status/loved.png)) in the song selection screen.
+Loved merupakan status beatmap yang disematkan kepada beatmap-beatmap yang *dicintai (loved)* oleh anggota-anggota komunitas berdasarkan hasil jajak pendapat yang diselenggarakan oleh tim [Project Loved](/wiki/Project_Loved) terlepas dari apakah beatmap-beatmap tersebut memenuhi standar [Ranking Criteria](/wiki/Ranking_Criteria) ataupun tidak. Beatmap-beatmap pada kategori ini tidak memberikan [performance point](/wiki/Performance_Points) apapun, namun memiliki *leaderboard* yang dapat sewaktu-waktu dihapus apabila beatmap-beatmap yang bersangkutan dicabut dari kategori Loved karena satu dan lain hal. Adapun beatmap-beatmap ini ditandai dengan simbol hati (![](/wiki/shared/status/loved.png)) yang dapat dilihat pada pojok kiri atas layar Song Selection.
