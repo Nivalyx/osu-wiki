@@ -11,11 +11,11 @@ Daftar Featured Artist selengkapnya beserta karyanya masing-masing dapat dilihat
 
 ## Seleksi
 
-osu! secara proaktif senantiasa mengontak para musisi dari seluruh belahan dunia untuk dapat turut serta dalam program Featured Artist berdasarkan minat komunitas osu! seiring waktu. Apabila seorang mapper membuat suatu beatmap yang berstatus Ranked dari satu atau lebih musisi yang belum terdaftar sebagai Featured Artist, osu! melalui [osu! team](/wiki/People/The_Team) dapat menghubungi musisi-musisi yang bersangkutan untuk kemudian ditawari bergabung ke dalam jajaran Featured Artist resmi osu!. Di samping itu, osu! juga menawarkan kontrak Featured Artist kepada musisi-musisi yang dianggap menarik dari waktu ke waktu terlepas dari apakah terdapat beatmap dari musisi tersebut yang berstatus Ranked atau tidak.
+osu! secara proaktif senantiasa mengajak para musisi dari seluruh belahan dunia untuk dapat turut serta dalam program Featured Artist berdasarkan minat komunitas osu! seiring waktu. Apabila seorang mapper membuat suatu beatmap yang berstatus Ranked dari satu atau lebih musisi yang belum terdaftar sebagai Featured Artist, osu! melalui [osu! team](/wiki/People/The_Team) dapat menghubungi musisi-musisi yang bersangkutan untuk kemudian ditawari bergabung ke dalam jajaran Featured Artist resmi osu!. Di samping itu, osu! juga menawarkan kontrak Featured Artist kepada musisi-musisi yang dianggap menarik dari waktu ke waktu terlepas dari apakah terdapat beatmap dari musisi tersebut yang berstatus Ranked atau tidak.
 
-Sebagian besar lagu-lagu yang tersedia dalam katalog Featured Artist osu! tidak dilisensikan secara eksklusif untuk osu!. Meskipun demikian, dalam beberapa kasus tertentu, beberapa musisi telah menggubah lagu-lagu yang secara khusus dibuat untuk osu! di mana lagu-lagu tersebut ditandai dengan label *osu! exclusive* pada laman Featured Artist musisi terkait.
+Sebagian besar lagu-lagu yang tersedia dalam katalog Featured Artist osu! tidak dilisensikan secara eksklusif untuk osu!. Meskipun demikian, dalam beberapa kasus tertentu, beberapa musisi telah menggubah lagu-lagu yang secara khusus dibuat untuk osu! yang ditandai dengan label *osu! exclusive* pada laman Featured Artist musisi terkait.
 
-Bagi para musisi yang tertarik untuk bergabung ke dalam Featured Artist kami, harap kunjungi laman [lisensi musik](/wiki/Legal/Music_Licensing).
+Bagi para musisi yang sekiranya tertarik untuk bergabung ke dalam Featured Artist kami, harap kunjungi laman [lisensi musik](/wiki/Legal/Music_Licensing).
 
 ## Jumlah Rilis
 
@@ -27,7 +27,7 @@ Berikut merupakan jumlah Featured Artist baru yang ditambahkan ke katalog Featur
 - **2019:** 31
 - **2020:** *belum ditentukan*
 
-Artis unggulan baru biasanya diumumkan setiap minggu di bagian [berita](https://osu.ppy.sh/home/news) pada situs web osu!. Sebagian besar pengumuman artis baru biasanya disertakan juga dengan daftar lagu yang sudah dilisensi dan tautan ke laman mereka, meskipun beberapa pengumuman hanya diumumkan bersamaan dengan kontes mapping atau beatmap yang dibuat oleh [Mappers' Guild](/wiki/Mappers_Guild).
+Featured Artist baru akan diumumkan setiap minggunya di kolom [berita](https://osu.ppy.sh/home/news) pada laman utama situs web osu!. Pada umumnya, pengumuman suatu Featured Artist baru akan mencakup cuplikan lagu-lagu dari musisi yang bersangkutan beserta dengan informasi seputar kontes mapping yang menggunakan lagu-lagu dari musisi tersebut atau beatmap-beatmap yang dibuat oleh anggota Mappers' Guild](/wiki/Mappers_Guild) apabila ada.
 
 ## Penggunaan dalam komunitas
 
