@@ -19,7 +19,7 @@ Bagi para musisi yang sekiranya tertarik untuk bergabung ke dalam Featured Artis
 
 ## Jumlah Rilis
 
-Berikut merupakan jumlah Featured Artist baru yang ditambahkan ke katalog Featured Artist setiap tahunnya:
+Berikut merupakan jumlah Featured Artist baru yang ditambahkan ke dalam katalog Featured Artist setiap tahunnya:
 
 - **2016:** 8
 - **2017:** 11
