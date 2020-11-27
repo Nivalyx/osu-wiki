@@ -31,15 +31,13 @@ Featured Artist baru akan diumumkan setiap minggunya pada kolom [berita](https:/
 
 ## Penggunaan dalam komunitas
 
-Beatmappers are encouraged to create maps for featured artist tracks. These tracks are provided with [timing](/wiki/Beatmap_Editor/Timing) data and are already cleared for use within osu!, allowing users to immediately jump into mapping without worry. The work-in-progress development build of osu!, dubbed [osu!lazer](https://github.com/ppy/osu/releases)<!-- TODO: wiki link -->, will mark these maps prominently in-game.
-
 All mapping contests published on the [community contest listing](https://osu.ppy.sh/community/contests), such as the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and the [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad), require participants to map featured artist songs. Some community-run contests utilise these songs as well.
 
 To promote mapping featured artist content, members of the community created the [Mappers' Guild](/wiki/Mappers_Guild), giving mappers an MMO-style quest system that they can participate in with other mappers. Prizes are rewarded for creating and ranking beatmaps, including three tiers of profile badges<!-- TODO: profile badges article -->. Mappers can join the guild by visiting the [Mappers' Guild website](https://mappersguild.com/).
 
 ---
 
-Para mapper dianjurkan untuk membuat map dari lagu yang disediakan artis unggulan. Lagu - lagu ini sudah dilengkapi dengan data [timing](/wiki/Beatmap_Editor/Timing) dan sudah siap digunakan untuk osu!, dengan ini memungkinkan mapper dapat langsung membuat map tanpa harus mengkhawatirkan hal lain. Pengembangan versi baru osu!, dinamakan [osu!lazer](https://github.com/ppy/osu/releases), akan melabeli map - map ini secara khusus dalam game.
+Para mapper sangat dianjurkan untuk membuat beatmap dengan menggunakan lagu-lagu yang tersedia pada katalog Featured Artist osu!. Lagu-lagu ini telah dilengkapi dengan pengaturan [timing](/wiki/Beatmap_Editor/Timing) timing dasar yang telah disediakan di dalamnya dan telah terjamin untuk dapat digunakan secara bebas dan legal untuk segala kepentingan dalam ruang-ruang lingkup yang tercakup di atas. Pada [osu!lazer](https://github.com/ppy/osu/releases) yang akan datang, beatmap-beatmap Featured Artist ini akan memiliki penandanya sendiri.
 
 Semua kontes mapping yang diterbitkan pada [daftar kontes komunitas](https://osu.ppy.sh/community/contests), seperti [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) dan [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad), mengharuskan peserta untuk membuat map berdasarkan lagu yang disediakan artis unggulan. Beberapa kontes yang dikelola oleh komunitas bahkan memanfaatkan lagu - lagu ini juga.
 
