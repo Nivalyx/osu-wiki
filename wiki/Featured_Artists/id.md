@@ -17,7 +17,7 @@ Sebagian besar lagu-lagu yang tersedia dalam katalog Featured Artist osu! tidak 
 
 Bagi para musisi yang sekiranya tertarik untuk bergabung ke dalam Featured Artist kami, harap kunjungi laman [lisensi musik](/wiki/Legal/Music_Licensing).
 
-## Jumlah Rilis
+## Jumlah rilis
 
 Berikut merupakan jumlah Featured Artist baru yang ditambahkan ke dalam katalog Featured Artist setiap tahunnya:
 
