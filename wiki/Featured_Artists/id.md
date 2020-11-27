@@ -1,14 +1,15 @@
 ---
 tags:
   - FA
-no_native_review: true
 ---
 
-# Artis unggulan
+# Featured Artist
 
-**Artis unggulan** adalah artis yang telah bekerja sama dengan osu! untuk menyediakan pilihan lagu mereka, siap digunakan untuk pembuatan [beatmap](/wiki/Beatmaps) dan musik pengiring di siaran langsung berbagai mode World Cup osu!.
+**Featured Artist** merupakan jajaran musisi yang telah bekerja sama dengan osu! untuk menyediakan lagu-lagu yang dapat secara bebas dipergunakan sebagai konten pada [beatmap](/wiki/Beatmaps) dan lagu pengiring pada siaran osu! World Cup. 
 
 Daftar artis unggulan yang terdaftar bisa dilihat karyanya [melewati laman situs web berikut](https://osu.ppy.sh/beatmaps/artists). Tiap artis memiliki laman tersendiri yang memuat informasi umum mengenai musik yang mereka buat beserta daftar lagu yang tersedia, lagu yang terdaftar sudah dilisensikan dan hanya untuk digunakan di osu! berikut dengan file `.osz` yang sudah di-timing sebelumnya untuk dijadikan beatmap.
+
+The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist. Each artist's page houses general information about their music and a list of their tracks licensed for use in osu! accompanied by pre-timed `.osz` files for beatmapping.
 
 ## Penyaringan
 
