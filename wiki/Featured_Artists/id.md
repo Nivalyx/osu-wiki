@@ -37,4 +37,4 @@ Semua kontes mapping yang diterbitkan pada [daftar kontes komunitas](https://osu
 
 Untuk mempromosikan pembuatan map dengan konten artis unggulan, anggota komunitas membuat [Mappers' Guild](/wiki/Mappers_Guild), memberikan mapper sistem *quest* dalam MMO yang dapat mereka ikuti dengan mapper lain. Hadiah yang diberikan untuk membuat map dan map tersebut ranked, termasuk lencana profil untuk tiga terbesar. Mapper dapat bergabung ke dalam *guild* dengan mengunjungi [situs web Mappers' Guild](https://mappersguild.com/).
 
-Jika `.osz` bawaan dari daftar lagu artis unggulan memiliki kesalahan dalam bentuk apa pun, kamu dapat membuat laporan di [utas forum berikut](https://osu.ppy.sh/community/forums/topics/783985).
+Apabila kamu menemukan suatu keganjilan dalam bentuk apapun pada berkas `.osz` yang kamu unduh dari katalog Featured Artist, harap laporkan keganjilan tersebut pada [utas forum berikut](https://osu.ppy.sh/community/forums/topics/783985).
