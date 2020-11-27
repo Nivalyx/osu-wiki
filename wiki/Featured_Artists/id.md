@@ -5,11 +5,9 @@ tags:
 
 # Featured Artist
 
-**Featured Artist** merupakan jajaran musisi yang telah bekerja sama dengan osu! untuk menyediakan lagu-lagu yang dapat secara bebas dipergunakan sebagai konten pada [beatmap](/wiki/Beatmaps) dan lagu pengiring pada siaran osu! World Cup. 
+**Featured Artist** merupakan jajaran musisi yang telah secara resmi dan terikat bekerja sama dengan osu! untuk menyediakan lagu-lagu yang dapat secara bebas dipergunakan sebagai konten pada [beatmap](/wiki/Beatmaps) dan sebagai lagu pengiring pada siaran osu! World Cup. 
 
-Daftar artis unggulan yang terdaftar bisa dilihat karyanya [melewati laman situs web berikut](https://osu.ppy.sh/beatmaps/artists). Tiap artis memiliki laman tersendiri yang memuat informasi umum mengenai musik yang mereka buat beserta daftar lagu yang tersedia, lagu yang terdaftar sudah dilisensikan dan hanya untuk digunakan di osu! berikut dengan file `.osz` yang sudah di-timing sebelumnya untuk dijadikan beatmap.
-
-The website's [featured artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist. Each artist's page houses general information about their music and a list of their tracks licensed for use in osu! accompanied by pre-timed `.osz` files for beatmapping.
+Daftar Featured Artist selengkapnya beserta karyanya masing-masing dapat dilihat pada [katalog berikut](https://osu.ppy.sh/beatmaps/artists). Tiap-tiap musisi memiliki lamannya tersendiri yang memuat informasi singkat seputar musik yang mereka usung beserta daftar lagu-lagu yang telah berlisensi lengkap dengan berkas-berkas `.osz`yang sudah di-timing sebelumnya.
 
 ## Penyaringan
 
