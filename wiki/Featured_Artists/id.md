@@ -31,14 +31,10 @@ Featured Artist baru akan diumumkan setiap minggunya pada kolom [berita](https:/
 
 ## Penggunaan dalam komunitas
 
-To promote mapping featured artist content, members of the community created the [Mappers' Guild](/wiki/Mappers_Guild), giving mappers an MMO-style quest system that they can participate in with other mappers. Prizes are rewarded for creating and ranking beatmaps, including three tiers of profile badges<!-- TODO: profile badges article -->. Mappers can join the guild by visiting the [Mappers' Guild website](https://mappersguild.com/).
-
----
-
 Para mapper sangat dianjurkan untuk mempergunakan lagu-lagu yang tersedia pada katalog Featured Artist osu! sebagai dasar beatmap mereka. Lagu-lagu ini telah dilengkapi dengan pengaturan [timing](/wiki/Beatmap_Editor/Timing) timing dasar yang telah disediakan di dalamnya dan telah terjamin untuk dapat digunakan secara bebas dan legal untuk segala kepentingan dalam ruang-ruang lingkup yang tercakup di atas. Ke depannya, beatmap-beatmap yang menggunakan lagu Featured Artist juga akan ditandai secara khusus pada [osu!lazer](https://github.com/ppy/osu/releases).
 
 Kontes-kontes mapping, baik yang berstatus resmi dan tercantum pada [daftar kontes komunitas](https://osu.ppy.sh/community/contests) seperti [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) dan [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad) ataupun yang tidak, pada umumnya turut mengharuskan para pesertanya untuk membuat beatmap dari satu atau lebih lagu yang sebelumnya telah tersedia pada katalog Featured Artist.
 
-Untuk mempromosikan pembuatan map dengan konten artis unggulan, anggota komunitas membuat [Mappers' Guild](/wiki/Mappers_Guild), memberikan mapper sistem *quest* dalam MMO yang dapat mereka ikuti dengan mapper lain. Hadiah yang diberikan untuk membuat map dan map tersebut ranked, termasuk lencana profil untuk tiga terbesar. Mapper dapat bergabung ke dalam *guild* dengan mengunjungi [situs web Mappers' Guild](https://mappersguild.com/).
+Untuk mendorong agar para mapper lebih giat dalam memanfaatkan konten-konten Featured Artist, beberapa anggota komunitas telah berinisiatif untuk membuat [Mappers' Guild](/wiki/Mappers_Guild) yang menerapkan sistem *quest* (selayaknya pada permainan MMO) untuk diselesaikan oleh para mapper baik secara individu ataupun dengan berkolaborasi bersama mapper-mapper lain. Ke depannya, para mapper yang telah berhasil membuat beatmap yang terdaftar di Mappers' Guild akan diberikan berbagai imbalan yang di antaranya meliputi sebuah *profile badge* khusus. Mapper-mapper yang tertarik dapat bergabung ke dalam Mappers' Guild dengan mengunjungi [situs web Mappers' Guild berikut](https://mappersguild.com/).
 
 Apabila kamu menemukan suatu keganjilan dalam bentuk apapun pada berkas `.osz` yang kamu unduh dari katalog Featured Artist, harap laporkan keganjilan tersebut pada [utas forum berikut](https://osu.ppy.sh/community/forums/topics/783985).
