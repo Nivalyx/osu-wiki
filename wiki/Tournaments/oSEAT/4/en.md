@@ -63,7 +63,7 @@ oSEAT4 was run by various osu! community members predominantly hailing from Sout
 
 ## Participants
 
-Listed below are players who qualified into the group stage (along with their respective seeding and group placement) out of 179 registered players in total.
+Listed below are players who qualified into the Group stage (along with their respective seeding and group placement) out of 179 registered players in total.
 
 | Group | Player 1 (Seed A) | Player 2 (Seed B) | Player 3 (Seed C) | Player 4 (Seed D) | Player 5 (Seed E) | Player 6 (Seed F) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -275,7 +275,7 @@ Sunday, 13 December 2020:
 2. In the lobby, all players will have to consecutively play all of the nine Qualifier maps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any maps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
-5. 96 players with the **highest amount of accumulated Qualifier points in total** will advance to the group stage.
+5. 96 players with the **highest amount of accumulated Qualifier points in total** will advance to the Group stage.
    - The Qualifier points for each individual map are being calculated by the following mechanism: The best performer on the map across all Qualifier lobbies combined gains +150 points added to their Qualifier points tally, the second best performer gains +149 points, the third best performer gains +148 points, and so on until the 150th best performer gains +1 point. Players who ranked 151th or lower on the corresponding map will receive no point.
    - Players who ranked #1 - #16 based on their accumulated Qualifier Points will be designated as Seed A players.
    - Players who ranked #17 - #32 based on their accumulated Qualifier Points will be designated as Seed B players.
@@ -288,52 +288,43 @@ Sunday, 13 December 2020:
 
 ### Group stage rules
 
-1. In the Group Stage, the 20 previously formed teams will be divided into 4 groups consisting of 5 different teams.
-2. All the teams from each group will face each other.
-3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-   - Most matches won.
-   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
-   - Most beatmaps won.
-   - Winner of the match played previously between the tied teams.
-   - In the event of a triple tie:
-     - Have higher `∑{(total score difference) / (maximum score)}`.
-     - Winner of the rematch.
+1. In the Group Stage, the 96 previously qualified players will be divided into 16 groups consisting of 6 different players each based on their seed.
+2. All the teams from each group will face each other over the period of two weeks based on the following bracket scheme:
+![Group stage bracket scheme](img/groupstagebracket.jpg)
+3. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players are eliminated from the tournament.
+4. All matches in Group stage is done in a Best-of-9 matchup format.
 
 ### Knock-out stage rules
 
-1. The 16 teams who managed to get through from the Group stage will be matched to each other based on their Group stage placement.
-   - Teams who were placed 1st or 2nd on their corresponding group will start the knock-out stage in the Upper Bracket.
-   - Teams who were placed 3rd or 4th on their corresponding group will start the knock-out stage in the Lower Bracket.
-2. Team will compete against each other using the Double Elimination system.
+1. The 64 players who managed to get through from the Group stage will be matched to each other based on their Group stage placement as described above.
+2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as following:
-   - Teams who lose in the Upper Bracket can still play again on the Lower Bracket.
-   - Teams who lose in the Lower Bracket will be eliminated from the tournament.
+   - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
+   - Players who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
-4. Teams who can compete in the next round are determined by:
-   - In the Quarterfinals and the Semifinals, each team needs to win 6 points in order to win a match. (Best-of-11)
-   - In both of the Finals Weeks, each team needs to win 7 points in order to to win a match. (Best-of-13)
+4. Players who can compete in the next round are determined by:
+   - In the Round of 32, Round of 16, and Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Semifinals and both of the Finals Weeks, each team needs to win 7 points in order to to win a match. (Best-of-13)
    - Teams who Win By Default.
-   - If there are teams who experience disqualification during the match.
+   - If there are players who is disqualified from the tournament.
 
 ### Match regulations
 
-1. A representative from each team must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
-   - The winner of the `!roll` gets to decide which team bans first.
-   - The loser of the `!roll` gets to decide which team picks first.
+1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+   - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
+   - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each team has to ban **one beatmap** (on Group Stage) and **two beatmaps** (on the knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any team during the entire match.
-   - Each team may ban multiple maps from the same mod pool. Either team, however, may *not* ban out a mod pool completely -- for example, in a match with 3 possible HardRock picks in where two HardRock picks have been banned prior, the team that bans next may not ban the remaining HardRock pick as it'll shut down the HardRock mod pool completely for the corresponding match.
+2. Each player has to ban **one beatmap** (on Group stage) and **two beatmaps** (on the Knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any team during the entire match.
+   - Each player may not ban two maps from the same modpool in a single match.
    - Banning does not apply in the Qualifier lobbies.
-3. Each team is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
+3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.
-4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
-   - Playing a FreeMod pick without any mods applied is not allowed.
-   - Players in the same team may not put out the same mod combination with each other in a FreeMod pick.
-   - Players who opt to play with EZ in a FreeMod pick will have their scores multiplied by an amount ranging from `x1.5` to `x3` based off certain weighting values that have been predetermined by the mappool selectors for each map. For more details on how much each map is valued, please refer to the [main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958).
-5. In case of a tiebreaker, each captain will ban 1 of the 3 available tiebreakers. This is done by sending an in-game PM with your ban to the match referee. The remaining map will be played.
-   - If both captains ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining tiebreakers will be played.
-6. The Seed C player from each team **has to play at least one map** in every match. If a match reaches a match point and either team's Seed C player has yet to play a map, the referee will not start the next map until the Seed C player from the said team participates.
-7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
+4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the three mods.
+   - Playing a FreeMod pick without any mods activated is not allowed.
+5. In case a map ends with a score tie, **the player that doesn't pick the map** gets the point.
+6. In case of a tiebreaker, each player will ban 1 of the 3 available maps remaining from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one map that ends up not being banned by both players will be played as the tiebreaker.
+   - If both players ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining tiebreakers will be played.
+8. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
 [flag_MM]: /wiki/shared/flag/MM.gif "Myanmar"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
