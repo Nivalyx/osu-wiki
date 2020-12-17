@@ -207,6 +207,25 @@ Saturday, 12 December 2020:
 
 Sunday, 13 December 2020:
 
+| Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| O | ![][flag_PH] **[Milkteaism](https://osu.ppy.sh/users/9642774)** | **5** | 4 | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | [#1](https://osu.ppy.sh/community/matches/71477430) |
+| P | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | **5** | 0 | ![][flag_SG] [fausion](https://osu.ppy.sh/users/12261210) | [#1](https://osu.ppy.sh/community/matches/71477272) |
+| J | ![][flag_SG] **[oneplusone](https://osu.ppy.sh/users/1843447)** | **5** | 3 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | [#1](https://osu.ppy.sh/community/matches/71470352) |
+| O | ![][flag_PH] [-Graigory-](https://osu.ppy.sh/users/14024170) | 2 | **5** | ![][flag_MY] **[Yaro](https://osu.ppy.sh/users/9196013)** | [#1](https://osu.ppy.sh/community/matches/71472275) 
+| P | ![][flag_SG] **[Demonical](https://osu.ppy.sh/users/5447609)** | **5** | 0 | ![][flag_PH] [ishokuP](https://osu.ppy.sh/users/7309033) | [#1](https://osu.ppy.sh/community/matches/71475877) |
+| F | ![][flag_TH] **[- Seen -](https://osu.ppy.sh/users/5082392)** | **5** | 3 | ![][flag_MY] [Ayameru](https://osu.ppy.sh/users/7373182) | [#1](https://osu.ppy.sh/community/matches/71475873) |
+| A | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **5** | 3 | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | [#1](https://osu.ppy.sh/community/matches/71475866) |
+| H | ![][flag_SG] **[Rtyzen](https://osu.ppy.sh/users/2439822)** | **5** | 3 | ![][flag_MY] [Agagak](https://osu.ppy.sh/users/3645490) | [#1](https://osu.ppy.sh/community/matches/71477403) |
+| K | ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) | 3 | **5** | ![][flag_US] (![][flag_PH]) **[\_Kolin](https://osu.ppy.sh/users/7249644)** | [#1](https://osu.ppy.sh/community/matches/71480763) 
+| O | ![][flag_SG] **[Milk Tee](https://osu.ppy.sh/users/6708955)** | **5** | 2 | ![][flag_MY] [Computer Badger](https://osu.ppy.sh/users/6893361) | [#1](https://osu.ppy.sh/community/matches/71467999) |
+| C | ![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)** | **5** | 2 | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | [#1](https://osu.ppy.sh/community/matches/71482803) |
+| B | ![][flag_SG] **[moosepi](https://osu.ppy.sh/users/1868745)** | **5** | 4 | ![][flag_MY] [ExImperia](https://osu.ppy.sh/users/10167542) | [#1](https://osu.ppy.sh/community/matches/71482715) |
+| F | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | 3 | **5** | ![][flag_TH] **[- Seen -](https://osu.ppy.sh/users/5082392)** | [#1](https://osu.ppy.sh/community/matches/71482814)
+| I | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336)** | **5** | 3 | ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213) | [#1](https://osu.ppy.sh/community/matches/71483312) |
+| C | ![][flag_PH] **[Rammu](https://osu.ppy.sh/users/10652837)** | **5** | 0 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/71485163) |
+| B | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **5** | 1 | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | [#1](https://osu.ppy.sh/community/matches/71487494) |
+
 ## Ruleset
 
 ### General rules
