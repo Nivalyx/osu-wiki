@@ -36,7 +36,7 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination
 | 4th place | 2 month of osu!supporter tag |
 | 5th place | 1 month of osu!supporter tag |
 
-![Profile badge](img/badge.png)
+![Profile badge](img/Badge.png)
 
 ## Organization
 
