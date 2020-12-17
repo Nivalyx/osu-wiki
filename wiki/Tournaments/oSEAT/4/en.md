@@ -8,7 +8,7 @@ tags:
 
 ![OSIM logo](img/logo.jpg)
 
-The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295). The tournament is open to all players from the all ten ASEAN countries (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![flag_ID] Indonesia, ![flag_LA] Laos,) regardless of rank. It is the fourth iteration of the tournament series.
+The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295). The tournament is open to all players from all the ten ASEAN countries (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![flag_ID] Indonesia, ![flag_LA] Laos, ![flag_MY] Malaysia, ![flag_MM] Myanmar, ![flag_PH] The Phillipines, ![flag_SG] Singapore, ![flag_TH] Thailand, and ![flag_VN] Vietnam) regardless of rank. It is the fourth iteration of the tournament series.
 
 ## Tournament schedule
 
