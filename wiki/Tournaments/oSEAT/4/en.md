@@ -221,7 +221,7 @@ Sunday, 13 December 2020:
 | K | ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) | 3 | **5** | ![][flag_US] (![][flag_PH]) **[\_Kolin](https://osu.ppy.sh/users/7249644)** | [#1](https://osu.ppy.sh/community/matches/71480763) 
 | O | ![][flag_SG] **[Milk Tee](https://osu.ppy.sh/users/6708955)** | **5** | 2 | ![][flag_MY] [Computer Badger](https://osu.ppy.sh/users/6893361) | [#1](https://osu.ppy.sh/community/matches/71467999) |
 | C | ![][flag_MY] **[DuoX](https://osu.ppy.sh/users/9560694)** | **5** | 2 | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | [#1](https://osu.ppy.sh/community/matches/71482803) |
-| B | ![][flag_SG] **[moosepi](https://osu.ppy.sh/users/1868745)** | **5** | 4 | ![][flag_MY] [ExImperia](https://osu.ppy.sh/users/10167542) | [#1](https://osu.ppy.sh/community/matches/71482715) |
+| B | ![][flag_SG] **[moosepi](https://osu.ppy.sh/users/1868745)** | **5** | 4 | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | [#1](https://osu.ppy.sh/community/matches/71482715) |
 | F | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | 3 | **5** | ![][flag_TH] **[- Seen -](https://osu.ppy.sh/users/5082392)** | [#1](https://osu.ppy.sh/community/matches/71482814)
 | I | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336)** | **5** | 3 | ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213) | [#1](https://osu.ppy.sh/community/matches/71483312) |
 | C | ![][flag_PH] **[Rammu](https://osu.ppy.sh/users/10652837)** | **5** | 0 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/71485163) |
@@ -235,6 +235,8 @@ Sunday, 13 December 2020:
 | D | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7246165)** | **5** | 0 | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/13067221) | [#1](https://osu.ppy.sh/community/matches/71490377) |
 | L | ![][flag_MY] **[Tzero](https://osu.ppy.sh/users/6088976)** | **5** | 3 | ![][flag_VN] [sindes19](https://osu.ppy.sh/users/11021073) | [#1](https://osu.ppy.sh/community/matches/71493498) |
 | B | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **5** | 1 | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | [#1](https://osu.ppy.sh/community/matches/71487494) |
+| E | ![][flag_MY] **[not\_aweeb](https://osu.ppy.sh/users/9375317)** | **5** | 0 | ![][flag_TH] [Chorus](https://osu.ppy.sh/users/3504692) | *win by default* |
+| G | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/9375317) | 0 | **5** | ![][flag_SG] [Deze](https://osu.ppy.sh/users/7638335) | *win by default* |
 
 ## Ruleset
 
