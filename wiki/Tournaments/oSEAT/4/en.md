@@ -46,7 +46,7 @@ oSEAT4 was run by various osu! community members predominantly hailing from vari
 | :-- | :-- |
 | Host | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
 | Map selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
-| Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_UK] [timberwolf](https://osu.ppy.sh/users/11042418) |
+| Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_GB] [timberwolf](https://osu.ppy.sh/users/11042418) |
 | Streamer | ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820), ![][flag_MY] [--Mirai--](https://osu.ppy.sh/users/8923407), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_SK] [PostScr1pt](https://osu.ppy.sh/users/3410997) |
 | Commentator | ![][flag_PH] [patsugoi](https://osu.ppy.sh/users/15748531), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
 | Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_ID] [Arvalon](https://osu.ppy.sh/users/14667308), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_SK] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321) |
@@ -56,20 +56,10 @@ oSEAT4 was run by various osu! community members predominantly hailing from vari
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1022888)
-- [Discord server](https://discord.gg/kFs2Kbp)
-- [Livestream channel](https://www.twitch.tv/oseatournament/)
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **somaymalaycapcay** (![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559), ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **adventure timers** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188), ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **we will 操你妈** (![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281), ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292), ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650)) |
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/16LDQYYDwd7obzSgLijTV1hBD7QOZE_2Ibe9ZLqTWQNw/edit#gid=1373445856)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1177376)
+- [Discord server](https://discord.gg/sVHndPU)
+- [Livestream channel](https://www.twitch.tv/oseatournament)
 
 ## Participants
 
@@ -609,6 +599,6 @@ Sunday, 19 April 2020:
 [flag_PH]: /wiki/shared/flag/PH.gif "The Philippines"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_SK]: /wiki/shared/flag/SK.gif "South Korea"
-[flag_UK]: /wiki/shared/flag/UK.gif "United Kingdom"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
