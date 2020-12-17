@@ -272,15 +272,18 @@ Sunday, 13 December 2020:
 ### Qualifier rules
 
 1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
-2. In the lobby, participants will have to consecutively play all of the nine Qualifier maps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
-3. Participants **are not allowed** to ban any maps in the Qualifiers.
-4. Participants **are not allowed** to join in (or register for) more than one Qualifier lobbies.
-5. 60 participants with the **highest amount of accumulated Qualifier points in total** will advance to the group stage.
-   - The Qualifier points are calculated by the following formula: `Σ(your achieved score/best score on the map from all lobbies)`.
-   - Players who are placed #1 - #20 will be designated as Seed A players. These players have the power to pick out in turns one player from Seed B and one player from Seed C that they'll be teaming up with in the team drafting phase.
-   - Players who are placed #21 - #40 will be designated as Seed B players.
-   - Players who are placed #41 - #60 will be designated as Seed C players.
-   - Players who are placed outside the top 60 will be immediately eliminated from the tournament.
+2. In the lobby, all players will have to consecutively play all of the nine Qualifier maps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+3. Players **are not allowed** to ban any maps in the Qualifiers.
+4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
+5. 96 players with the **highest amount of accumulated Qualifier points in total** will advance to the group stage.
+   - The Qualifier points for each individual map are being calculated by the following mechanism: The best performer on the map across all Qualifier lobbies combined gains +150 points added to their Qualifier points tally, the second best performer gains +149 points, the third best performer gains +148 points, and so on until the 150th best performer gains +1 point. Players who ranked 151th or lower on the corresponding map will receive no point.
+   - Players who ranked #1 - #16 based on their accumulated Qualifier Points will be designated as Seed A players.
+   - Players who ranked #17 - #32 based on their accumulated Qualifier Points will be designated as Seed B players.
+   - Players who ranked #33 - #48 based on their accumulated Qualifier Points will be designated as Seed C players.
+   - Players who ranked #49 - #64 based on their accumulated Qualifier Points will be designated as Seed D players.
+   - Players who ranked #65 - #80 based on their accumulated Qualifier Points will be designated as Seed E players.
+   - Players who ranked #81 - #96 based on their accumulated Qualifier Points will be designated as Seed F players.
+   - Players who ranked #97 or lower based on their accumulated Qualifier Points will be knocked out from the tournament.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 ### Group stage rules
