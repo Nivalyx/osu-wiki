@@ -256,7 +256,7 @@ Sunday, 13 December 2020:
 12. It is expected to be polite and respectful to each other. Penalties will be given if players violate.
     - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from oSEAT4 and/or blacklisted from the future installments of oSEAT.
     - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of oSEAT.
-    - If a player is found to be smurfing in another player's account, the corresponding accounts will be blacklisted in the next installments of oSEAT regardless of their past contributions and participation history.
+    - If a player is found to be smurfing in another player's account, the corresponding parties will be blacklisted in the next installments of oSEAT regardless of their past contributions and participation history.
     
 ### Tournament registration
 
