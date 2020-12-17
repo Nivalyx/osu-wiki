@@ -45,7 +45,7 @@ oSEAT4 was run by various osu! community members predominantly hailing from Sout
 | Position | Members |
 | :-- | :-- |
 | Host | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
-| Map selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
+| Map selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
 | Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_GB] [timberwolf](https://osu.ppy.sh/users/11042418) |
 | Streamer | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [--Mirai--](https://osu.ppy.sh/users/8923407), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_SK] [PostScr1pt](https://osu.ppy.sh/users/3410997) |
 | Commentator | ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PH] [patsugoi](https://osu.ppy.sh/users/15748531), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
