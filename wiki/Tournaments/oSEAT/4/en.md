@@ -88,36 +88,55 @@ Listed below are players who qualified into the group stage (along with their re
 
 ² *![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) initially qualified for this Group stage berth, but they decided to forfeit from the tournament during the running of the Group stage. Under the discretion of staff members and all other affected players, ![][flag_PH] [Revillica](https://osu.ppy.sh/users/9806095) was later admitted to the Group stage in their spot.*
 
-³ *Despite having the ![][flag_US] United States flag displayed on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in posession of a valid ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
+³ *Despite having the ![][flag_US] United States flag displayed on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
 
 ## Mappools
 
-### Group stage (week 1)
+### Group stage (week 2)
 
-**[Download the mappack here! (213 MB)](https://drive.google.com/file/d/1BOY3OpBsPNETwYZVUTM7OgB0wF2TkEzM/view)**
+**[Download the mappack here! (112 MB)](https://drive.google.com/uc?export=download&id=14PCz90yD5v4mtKWSiCmzgQpfiMJVIA_c)**
 
 - NoMod
-  - [OSTER project - Labradorite feat. Yu Tokiwa (thzz) \[Brilliance\]](https://osu.ppy.sh/beatmapsets/408776#osu/887556)
-  - [Ino - Kokeshineko Medore (\[ -Scarlet- \]) \[Leminine's Extra\]](https://osu.ppy.sh/beatmapsets/672227#osu/1423240)
-  - [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) (-Jordan-) \[Expert\]](https://osu.ppy.sh/beatmapsets/853867#osu/1784484)
-  - [SO SUS + KONKA - ACORN (squirrelpascals) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/412859#osu/902716)
+  - [T7 - Strike (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/679007#osu/1435677)
+  - [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs- (xLolicore-) \[Lince's Schizophrenia\]](https://osu.ppy.sh/beatmapsets/618645#osu/1306871)
+  - [VY1 - Cyber Thunder Cider (tutuhaha) \[Cider\]](https://osu.ppy.sh/beatmapsets/47146#osu/146610)
+  - [Function Phantom - Variable (Chaoslitz) \[Deluxe\]](https://osu.ppy.sh/beatmapsets/751774#osu/1582594)
+  - [Kabocha - EmbryO (Kawashiro) \[Garden's Expert\]](https://osu.ppy.sh/beatmapsets/947018#osu/1990062)
 - Hidden
-  - [Forte Escape - Ya! Party! (Pasonia) \[Waiter!!!\]](https://osu.ppy.sh/beatmapsets/3463#osu/21878)
-  - [Comedian Harmonists - Perpetuum Mobile (Bonsai) \[Expertum\]](https://osu.ppy.sh/beatmapsets/316390#osu/891079)
+  - [Natsuiro Matsuri - Marigold (Ayucchi) \[Bittersweet\]](https://osu.ppy.sh/beatmapsets/1167380#osu/2435698)
+  - [kors k - SigSig (Reiji-RJ) \[Another\]](https://osu.ppy.sh/beatmapsets/27677#osu/92684)
 - HardRock
-  - [BESTie - Excuse Me (Euny) \[ShadrEuny's Ex\]](https://osu.ppy.sh/beatmapsets/423925#osu/915925)
-  - [Itou Kanako - Hacking to the Gate (TV Size) (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/45659#osu/142449)
+  - [Grand Thaw - SOLROS (Lunala) \[Fantasia\]](https://osu.ppy.sh/beatmapsets/1136592#osu/2376019)
+  - [siromaru - Absurd Gaff (spro) \[Another\]](https://osu.ppy.sh/beatmapsets/17563#osu/66662)
 - DoubleTime
-  - [Train - 50 Ways to Say Goodbye (mancusojuanmattos) \[Insane\]](https://osu.ppy.sh/beatmapsets/92893#osu/250926)
-  - [fripSide - fortuna on the Sixteenth night (Nichiyouki) \[Insane\]](https://osu.ppy.sh/beatmapsets/132601#osu/333375)
-  - [Amatsuki - Hoshi no Komoriuta (Glaceon) \[Pleasant Lullaby\]](https://osu.ppy.sh/beatmapsets/919080#osu/1919109)
+  - [Shirakami Fubuki - Say! Fanfare! (Bokamin) \[Insane\]](https://osu.ppy.sh/beatmapsets/1277448#osu/2658704)
+  - [Giga-P - Electric Angel (koreapenguin) \[Sonnyc's Insane\]](https://osu.ppy.sh/beatmapsets/172900#osu/417898)
 - FreeMod
-  - [Yousei Teikoku - Zetsubou plantation (Saten) \[Insane\]](https://osu.ppy.sh/beatmapsets/86009#osu/235879)
-  - [Nelly ft. Fergie - Party People (YGOKid8) \[KIRBY'S BIRTHDAY PARTY!\]](https://osu.ppy.sh/beatmapsets/12721#osu/53493)
-- Tiebreaker
-  - **[Halozy - Kanshou no Matenrou (sodarose) \[The Great Magician\]](https://osu.ppy.sh/beatmapsets/339400#osu/750846)**
-  - **[yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmapsets/52221#osu/182001)**
-  - **[KikuoHana - Nobore! Susume! Takai Tou (Atalanta) \[Collapsed\]](https://osu.ppy.sh/beatmapsets/1022990#osu/2139992)**
+  - [M2U - A Bella! (feat. Lucy) (Okoratu) \[Battle's Extra\]](https://osu.ppy.sh/beatmapsets/1158767#osu/2418106)
+  - [M2U - Memory of Beach (milr\_) \[Mx\]](https://osu.ppy.sh/beatmapsets/1120861#osu/2342057)
+
+### Group stage (week 1)
+
+**[Download the mappack here! (136 MB)](https://drive.google.com/uc?export=download&id=1AgtwrukjKoTm4uyX8Exxv7xJ4YTluhB0)**
+
+- NoMod
+  - [MOB CHOIR - 99 (AirinCat) \[SALT SPLASH\]](https://osu.ppy.sh/beatmapsets/1221343#osu/2540648)
+  - [Memme - BSPower Explosion (yeahyeahyeahhh) \[Baka yyy\]](https://osu.ppy.sh/beatmapsets/45760#osu/142772)
+  - [KNOWER - Overtime (Mir) \[Ecstacy\]](https://osu.ppy.sh/beatmapsets/1170697#osu/2442178)
+  - [Getty vs. DJ DiA - Ops:Code -Rapture- (Realazy) \[Jean-Mi's Extra\]](https://osu.ppy.sh/beatmapsets/776328#osu/2415132)
+  - [GANO - Tanoshii Kaerimichi (newton-) \[Extra\]](https://osu.ppy.sh/beatmapsets/1221646#osu/2541192)
+- Hidden
+  - [sasakure.UK - Hisekai Harmonize feat. Kagamine Rin (Enon) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/934960#osu/1978834)
+  - [BUTAOTOME - Towa no Maigo (Icekalt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069288#osu/2239337)
+- HardRock
+  - [ALiCE'S EMOTiON - Foughten Field (Natsu) \[Last Spell\]](https://osu.ppy.sh/beatmapsets/366643#osu/804534)
+  - [Paramore - Looking Up (Lesjuh) \[Hard\]](https://osu.ppy.sh/beatmapsets/17563#osu/66662)
+- DoubleTime
+  - [Dreamcatcher - Wake up (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/645662#osu/1412353)
+  - [Comp - Touchuu Aika (Mao) \[KenTwin's Insane\]](https://osu.ppy.sh/beatmapsets/198700#osu/472087)
+- FreeMod
+  - [Jin - Children Record (tutuhaha) \[Record\]](https://osu.ppy.sh/beatmapsets/55775#osu/169004)
+  - [ARM x Komso feat. Nanahira - Onegai! Kon kon Oinarisama (Len) \[Classic Extra\]](https://osu.ppy.sh/beatmapsets/1302044#osu/2707852)
 
 ### Qualifiers
 
