@@ -88,7 +88,7 @@ Listed below are players who qualified into the group stage (along with their re
 
 ² *![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) initially qualified for this Group stage berth, but they decided to forfeit from the tournament during the running of the Group stage. Under the discretion of staff members and all other affected players, ![][flag_PH] [Revillica](https://osu.ppy.sh/users/9806095) was later admitted to the Group stage in their spot.*
 
-³ *Despite having the ![][flag_US] United States on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament due to their ownership of a ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
+³ *Despite having the ![][flag_US] United States on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in posession of a valid ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
 
 ## Mappools
 
