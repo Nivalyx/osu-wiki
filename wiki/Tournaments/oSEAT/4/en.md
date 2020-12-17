@@ -269,10 +269,10 @@ Sunday, 13 December 2020:
 ### Qualifier rules
 
 1. Each participant will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
-2. In the lobby, participants will have to consecutively play all of the ten Qualifier maps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+2. In the lobby, participants will have to consecutively play all of the ten Qualifier maps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Participants **are not allowed** to ban any maps in the Qualifiers.
 4. Participants **are not allowed** to join in (or register for) more than one Qualifier lobbies.
-5. 60 participants with the **highest amount of Qualifier points in total** will advance to the knock-out stages.
+5. 60 participants with the **highest amount of accumulated Qualifier points in total** will advance to the group stage.
    - The Qualifier points are calculated by the following formula: `Σ(your achieved score/best score on the map from all lobbies)`.
    - Players who are placed #1 - #20 will be designated as Seed A players. These players have the power to pick out in turns one player from Seed B and one player from Seed C that they'll be teaming up with in the team drafting phase.
    - Players who are placed #21 - #40 will be designated as Seed B players.
