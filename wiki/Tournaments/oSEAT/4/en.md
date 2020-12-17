@@ -70,6 +70,7 @@ Listed below are players who qualified into the group stage (along with their re
 | A | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) |
 | B | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | ![][flag_ID] [Sonic-](https://osu.ppy.sh/users/8691555) | ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773) |
 | C | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | ![][flag_MY] [CookieDASH](https://osu.ppy.sh/users/8249895) | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | ![][flag_PH] [Oooodriiin](https://osu.ppy.sh/users/7223737) |
+| D | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | ![][flag_MY] [CookieDASH](https://osu.ppy.sh/users/8249895) | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | ![][flag_PH] [Oooodriiin](https://osu.ppy.sh/users/7223737) |
 
 ## Mappools
 
