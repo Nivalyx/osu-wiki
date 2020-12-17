@@ -6,7 +6,7 @@ tags:
 
 # osu! South East Asia Tournament 4
 
-![OSIM logo](img/logo.jpg)
+![oSEAT4 logo](img/logo.jpg)
 
 The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295). The tournament is open to all players from all ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![flag_ID] Indonesia, ![flag_LA] Laos, ![flag_MY] Malaysia, ![flag_MM] Myanmar, ![flag_PH] The Phillipines, ![flag_SG] Singapore, ![flag_TH] Thailand, and ![flag_VN] Vietnam) regardless of rank. It is the fourth iteration of the tournament series.
 
@@ -289,7 +289,7 @@ Sunday, 13 December 2020:
 ### Group stage rules
 
 1. In the Group Stage, the 96 previously qualified players will be divided into 16 groups consisting of 6 different players each based on their seed.
-2. All the teams from each group will face each other over the period of two weeks based on the following bracket scheme:
+2. All the players from each group will face each other over the period of two weeks based on the following bracket scheme:
 ![Group stage bracket scheme](img/groupstagebracket.jpg)
 3. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players are eliminated from the tournament.
 4. All matches in Group stage is done in a Best-of-9 matchup format.
@@ -304,8 +304,8 @@ Sunday, 13 December 2020:
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
 4. Players who can compete in the next round are determined by:
    - In the Round of 32, Round of 16, and Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Semifinals and both of the Finals Weeks, each team needs to win 7 points in order to to win a match. (Best-of-13)
-   - Teams who Win By Default.
+   - In the Semifinals and both of the Finals Weeks, each player needs to win 7 points in order to to win a match. (Best-of-13)
+   - Players who Win By Default.
    - If there are players who is disqualified from the tournament.
 
 ### Match regulations
@@ -314,7 +314,7 @@ Sunday, 13 December 2020:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** (on Group stage) and **two beatmaps** (on the Knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any team during the entire match.
+2. Each player has to ban **one beatmap** (on Group stage) and **two beatmaps** (on the Knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
    - Each player may not ban two maps from the same modpool in a single match.
    - Banning does not apply in the Qualifier lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
