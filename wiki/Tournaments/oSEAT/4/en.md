@@ -14,29 +14,33 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-02-15/2020-03-08 |
-| Screening phase | 2020-03-09/2020-03-20 |
-| Qualifiers | 2020-03-21/2020-03-29 |
-| Team drafting | 2020-04-04 |
-| Group stage | 2020-04-05/2020-04-19 |
-| Quarterfinals | 2020-04/20/2020-04-26 |
-| Semifinals | 2020-04-27/2020-05-03 |
-| Finals week 1 | 2020-05-04/2020-05-11 |
-| Finals week 2 | 2020-05-12/2020-05-17 |
+| Registration phase | 2020-11-07/2020-11-22 |
+| Screening phase | 2020-11-23/2020-11-29 |
+| Qualifiers | 2020-11-30/2020-12-06 |
+| Group stage (week 1) | 2020-12-07/2020-12-13 |
+| Group stage (week 2) | 2020-12-14/2020-12-20 |
+| Round of 32 | 2020-12-21/2020-12-27 |
+| Round of 16 | 2020-12-28/2021-01-03 |
+| Quarterfinals | 2021-01-04/2021-01-10 |
+| Semifinals | 2021-01-11/2021-01-17 |
+| Finals (week 1) | 2021-01-18/2021-01-23 |
+| Finals (week 2) | 2021-01-24/2021-01-30 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter tag for each team member, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter tag, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter tag |
+| 4th place | 2 month of osu!supporter tag |
+| 5th place | 1 month of osu!supporter tag |
 
 ![Profile badge](img/badge.png)
 
 ## Organization
 
-OSIM was run by various osu! community members predominantly hailing from Singapore, Indonesia, and Malaysia.
+OSIM was run by various osu! community members predominantly hailing from South East Asian countries.
 
 | Position | Members |
 | :-- | :-- |
