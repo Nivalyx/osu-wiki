@@ -231,7 +231,9 @@ Sunday, 13 December 2020:
 | L | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | **5** | 1 | ![][flag_SG] [m0fum0fu](https://osu.ppy.sh/users/5143605) | [#1](https://osu.ppy.sh/community/matches/71490431) |
 | A | ![][flag_PH] **[zonelouise](https://osu.ppy.sh/users/1492995)** | **5** | 1 | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | [#1](https://osu.ppy.sh/community/matches/71489692) |
 | O | ![][flag_PH] **[konawiki](https://osu.ppy.sh/users/4003979)** | **5** | 0 | ![][flag_MY] [Yaro](https://osu.ppy.sh/users/9196013) | [#1](https://osu.ppy.sh/community/matches/71490433) |
-| F | ![][flag_PH] **[KagenoKami](https://osu.ppy.sh/users/7246165)** | **5** | 4 | ![][flag_PH] [Zyxus](https://osu.ppy.sh/users/9196013) | [#1](https://osu.ppy.sh/community/matches/8055861) |
+| F | ![][flag_PH] **[KagenoKami](https://osu.ppy.sh/users/7246165)** | **5** | 4 | ![][flag_PH] [Zyxus](https://osu.ppy.sh/users/9196013) | [#1](https://osu.ppy.sh/community/matches/71490425) |
+| D | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7246165)** | **5** | 0 | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/13067221) | [#1](https://osu.ppy.sh/community/matches/71490377) |
+| L | ![][flag_MY] **[Tzero](https://osu.ppy.sh/users/6088976)** | **5** | 3 | ![][flag_VN] [sindes19](https://osu.ppy.sh/users/11021073) | [#1](https://osu.ppy.sh/community/matches/71493498) |
 | B | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **5** | 1 | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | [#1](https://osu.ppy.sh/community/matches/71487494) |
 
 ## Ruleset
