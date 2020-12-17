@@ -324,7 +324,7 @@ Sunday, 13 December 2020:
 5. In case a map ends with a score tie, **the player that doesn't pick the map** gets the point.
 6. In case of a tiebreaker, each player will ban 1 of the 3 available maps remaining from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one map that ends up not being banned by both players will be played as the tiebreaker.
    - If both players ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining tiebreakers will be played.
-8. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
+7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
 [flag_MM]: /wiki/shared/flag/MM.gif "Myanmar"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
