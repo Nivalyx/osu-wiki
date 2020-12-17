@@ -256,12 +256,12 @@ Sunday, 13 December 2020:
 12. It is expected to be polite and respectful to each other. Penalties will be given if players violate.
     - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from oSEAT4 and/or blacklisted from the future installments of oSEAT.
     - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of oSEAT.
-    - If a player is found to be smurfing in another player's account, the corresponding accounts will be blacklisted in the next installments of oSEAT regardless of their participation history.
+    - If a player is found to be smurfing in another player's account, the corresponding accounts will be blacklisted in the next installments of oSEAT regardless of their past contributions and participation history.
     
 ### Tournament registration
 
 1. All interested participants are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, a player must have a flag of either one of the ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![flag_ID] Indonesia, ![flag_LA] Laos, ![flag_MY] Malaysia, ![flag_MM] Myanmar, ![flag_PH] The Phillipines, ![flag_SG] Singapore, ![flag_TH] Thailand, or ![flag_VN] Vietnam) displayed on their profile.
+   - In order to be eligible to play in the tournament, a player must have a flag of either one of the ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![flag_ID] Indonesia, ![flag_LA] Laos, ![flag_MY] Malaysia, ![flag_MM] Myanmar, ![flag_PH] The Phillipines, ![flag_SG] Singapore, ![flag_TH] Thailand, or ![flag_VN] Vietnam) displayed on their profile ***OR*** is in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
 2. To ensure valid and serious registrations, every registered participant will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
 3. The list of participants who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
 4. Referees and map selectors may not participate as players in this tournament.
