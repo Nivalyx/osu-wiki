@@ -4,7 +4,7 @@ tags:
   - oSEAT4
 ---
 
-# osu! Singapore-Indonesia-Malaysia Tournament
+# osu! South East Asia Tournament 4
 
 ![OSIM logo](img/logo.jpg)
 
