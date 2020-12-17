@@ -85,7 +85,9 @@ Listed below are players who qualified into the group stage (along with their re
 | P | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609) | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | ![][flag_PH] [ishokuP](https://osu.ppy.sh/users/7309033) | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) | ![][flag_SG] [fausion](https://osu.ppy.sh/users/12261210) |
 
 ¹ *![][flag_ID] [ngonk](https://osu.ppy.sh/users/12030070) initially qualified for this Group stage berth, but they decided to forfeit from the tournament during the running of the Group stage. Under the discretion of staff members and all other affected players, ![][flag_MY] [Heya](https://osu.ppy.sh/users/11379332) was later admitted to the Group stage in their spot.*
-¹ *![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) initially qualified for this Group stage berth, but they decided to forfeit from the tournament during the running of the Group stage. Under the discretion of staff members and all other affected players, ![][flag_PH] [Revillica](https://osu.ppy.sh/users/9806095) was later admitted to the Group stage in their spot.*
+
+² *![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) initially qualified for this Group stage berth, but they decided to forfeit from the tournament during the running of the Group stage. Under the discretion of staff members and all other affected players, ![][flag_PH] [Revillica](https://osu.ppy.sh/users/9806095) was later admitted to the Group stage in their spot.*
+
 ³ *a*
 
 ## Mappools
