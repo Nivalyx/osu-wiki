@@ -47,7 +47,7 @@ oSEAT4 was run by various osu! community members predominantly hailing from Sout
 | Host | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
 | Map selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
 | Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_GB] [timberwolf](https://osu.ppy.sh/users/11042418) |
-| Streamer | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [--Mirai--](https://osu.ppy.sh/users/8923407), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_SK] [PostScr1pt](https://osu.ppy.sh/users/3410997) |
+| Streamer | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [--Mirai--](https://osu.ppy.sh/users/8923407), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997) |
 | Commentator | ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PH] [patsugoi](https://osu.ppy.sh/users/15748531), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
 | Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_ID] [Arvalon](https://osu.ppy.sh/users/14667308), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_SK] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321) |
 | Graphic designer | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) |
@@ -496,7 +496,7 @@ Sunday, 19 April 2020:
 [flag_LA]: /wiki/shared/flag/LA.gif "Laos"
 [flag_PH]: /wiki/shared/flag/PH.gif "The Philippines"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_SK]: /wiki/shared/flag/SK.gif "South Korea"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
