@@ -158,148 +158,21 @@ Listed below are players who qualified into the group stage (along with their re
 
 ## Match results
 
-### Finals week 2
+### Group stage (week 1)
 
-Saturday, 16 May 2020:
+Friday, 11 December 2020:
 
-| Bracket | Team 1 |  |  | Team 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | we will 操你妈 | 4 | **7** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/61736572) |
+| C | ![][flag_MY] [CookieDASH](https://osu.ppy.sh/users/8249895) | 2 | **5** | ![][flag_ID] **[Bunan-](https://osu.ppy.sh/users/2763354)** | [#1](https://osu.ppy.sh/community/matches/71354815) 
+| D | ![][flag_SG] **[Auxuelus](https://osu.ppy.sh/users/5414124)** | **5** | 0 | ![][flag_PH] [Aryuii](https://osu.ppy.sh/users/11272208) | [#1](https://osu.ppy.sh/community/matches/71352781) |
+| H | ![][flag_SG] **[woahsia](https://osu.ppy.sh/users/195946)** | **5** | 4 | ![][flag_TH] [Faken](https://osu.ppy.sh/users/10249166) | [#1](https://osu.ppy.sh/community/matches/71337505) |
+| A | ![][flag_MY] **[Chizu-Kun](https://osu.ppy.sh/users/10288461)** | **5** | 2 | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/10288461) | [#1](https://osu.ppy.sh/community/matches/71345549) |
+| B | ![][flag_MY] **[vernonlim](https://osu.ppy.sh/users/10167542)** | **5** | 0 | ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773) | [#1](https://osu.ppy.sh/community/matches/71357848) |
+| G | ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512) | 1 | **5** | ![][flag_SG] **[Deze](https://osu.ppy.sh/users/7638335)** | [#1](https://osu.ppy.sh/community/matches/71357340)
+| H | ![][flag_VN] **[Tuon](https://osu.ppy.sh/users/6673790)** | **5** | 4 | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | [#1](https://osu.ppy.sh/community/matches/71357097) |
 
-Sunday, 17 May 2020, Grand Final:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | adventure timers | 2 | **7** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/61774613) |
-| Grand Final (Bracket Reset) | **somaymalaycapcay** | **7** | 6 | adventure timers | [#1](https://osu.ppy.sh/community/matches/62124107) |
-
-### Finals week 1
-
-Friday, 8 May 2020:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **tasty watermelon** | **7** | 2 | 1miss | [#1](https://osu.ppy.sh/community/matches/61406714) |
-| Lower | Where Love Lies | 2 | **7** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/61410358) |
-
-Saturday, 9 May 2020:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | tasty watermelon | 2 | **7** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/61456259) |
-
-Sunday, 10 May 2020:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **adventure timers** | **7** | 4 | we will 操你妈 | [#1](https://osu.ppy.sh/community/matches/61489561) |
-
-### Semifinals
-
-Saturday, 2 May 2020:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | :watamesleep: | 3 | **6** | **1miss** | [#1](https://osu.ppy.sh/community/matches/61161386) |
-| Lower | Nekopara Fanclub | 2 | **6** | **pussy goreng v3** | [#1](https://osu.ppy.sh/community/matches/61165635) |
-| Lower | **somaymalaycapcay** | **6** | 1 | Happy Ending | [#1](https://osu.ppy.sh/community/matches/61168401) |
-| Lower | asean NUTtersarus | 5 | **6** | **mofumofu lover** | [#1](https://osu.ppy.sh/community/matches/61167350) |
-| Upper | Where Love Lies | 2 | **6** | **adventure timers** | [#1](https://osu.ppy.sh/community/matches/61169444) |
-
-Sunday, 3 May 2020:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **we will 操你妈** | **6** | 3 | tasty watermelon | [#1](https://osu.ppy.sh/community/matches/61208791) |
-| Lower | **1miss** | **6** | 4 | pussy goreng v3 | [#1](https://osu.ppy.sh/community/matches/61207149) |
-| Lower | **somaymalaycapcay** | **6** | 3 | mofumofu lover | [#1](https://osu.ppy.sh/community/matches/61208930) |
-
-### Quarterfinals
-
-Saturday, 25 April 2020:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **Happy Ending** | **6** | 5 | pussy goreng | [#1](https://osu.ppy.sh/community/matches/60864862) |
-| Upper | **adventure timers** | **6** | 2 | Nekopara Fanclub | [#1](https://osu.ppy.sh/community/matches/60869212) |
-| Lower | **mofumofu lover** | **6** | 1 | emilia fanclub | [#1](https://osu.ppy.sh/community/matches/60870998) |
-| Upper | :watamesleep: | 3 | **6** | **Where Love Lies** | [#1](https://osu.ppy.sh/community/matches/60871242) |
-| Upper | **tasty watermelon** | **6** | 2 | asean NUTtersarus | [#1](https://osu.ppy.sh/community/matches/60873538) |
-
-Sunday, 26 April 2020:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | pussy fly | 0 | **6** | **1miss** | [#1](https://osu.ppy.sh/community/matches/60907296) |
-| Lower | ff15 | 0 | **6** | **pussy goreng v3** | [#1](https://osu.ppy.sh/community/matches/60913158) |
-| Upper | somaymalaycapcay | 3 | **6** | **we will 操你妈** | [#1](https://osu.ppy.sh/community/matches/60914894) |
-
-### Group stage
-
-Saturday, 11 April 2020:
-
-| Group | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| A | **:watamesleep:** | **5** | 0 | mofumofu lover | [#1](https://osu.ppy.sh/community/matches/60264526) |
-| B | gebratene Muschi | 2 | **5** | **pussy fly** | [#1](https://osu.ppy.sh/community/matches/60265762) |
-| C | 1miss | 4 | **5** | **asean NUTtersarus** | [#1](https://osu.ppy.sh/community/matches/60265738) |
-| B | **adventure timers** | **5** | 1 | Happy Ending | [#1](https://osu.ppy.sh/community/matches/60268611) |
-| D | emilia fanclub | 4 | **5** | **we will 操你妈** | [#1](https://osu.ppy.sh/community/matches/60270545) |
-| C | pussy goreng | 3 | **5** | **1miss** | [#1](https://osu.ppy.sh/community/matches/60270420) |
-| B | tasty watermelon | 3 | **5** | **adventure timers** | [#1](https://osu.ppy.sh/community/matches/60270486) |
-| C | **asean NUTtersarus** | **5** | 3 | sijori folks | [#1](https://osu.ppy.sh/community/matches/60270448) |
-| D | **we will 操你妈** | **5** | 2 | Where Love Lies | [#1](https://osu.ppy.sh/community/matches/60272510) |
-| C | **pussy goreng** | **5** | 3 | asean NUTtersarus | [#1](https://osu.ppy.sh/community/matches/60274919) |
-| A | **mofumofu lover** | **5** | 1 | DaFaK | [#1](https://osu.ppy.sh/community/matches/60274841) |
-
-Sunday, 12 April 2020:
-
-| Group | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| C | **Nekopara Fanclub** | **5** | 2 | pussy goreng | [#1](https://osu.ppy.sh/community/matches/60308164) |
-| B | **Happy Ending** | **5** | 1 | gebratene Muschi | [#1](https://osu.ppy.sh/community/matches/60309267) |
-| D | fryed pussy | 0 | **5** | **we will 操你妈** | [#1](https://osu.ppy.sh/community/matches/60315447) |
-| A | DaFaK | 4 | **5** | **ff15** | [#1](https://osu.ppy.sh/community/matches/60315455) |
-| C | sijori folks | 4 | **5** | **Nekopara Fanclub** | [#1](https://osu.ppy.sh/community/matches/60315692) |
-| D | **Where Love Lies** | **5** | 0 | emilia fanclub | [#1](https://osu.ppy.sh/community/matches/60317782) |
-| B | pussy fly | 0 | **5** | **tasty watermelon** | [#1](https://osu.ppy.sh/community/matches/60317771) |
-| A | ff15 | 2 | **5** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/60320074) |
-
-Friday, 17 April 2020:
-
-| Group | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| D | pussy goreng v3 | 2 | **5** | **Where Love Lies** | [#1](https://osu.ppy.sh/community/matches/60529340) |
-
-Saturday, 18 April 2020:
-
-| Group | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| D | fryed pussy | 2 | **5** | **pussy goreng v3** | [#1](https://osu.ppy.sh/community/matches/60561104) |
-| B | **tasty watermelon** | **5** | 3 | Happy Ending | [#1](https://osu.ppy.sh/community/matches/60563610) |
-| B | pussy fly | 0 | **5** | **adventure timers** | [#1](https://osu.ppy.sh/community/matches/60564975) |
-| A | DaFaK | 1 | **5** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/60564982) |
-| D | **emilia fanclub** | **5** | 2 | fryed pussy | [#1](https://osu.ppy.sh/community/matches/60567874) |
-| A | **mofumofu lover** | **5** | 1 | ff15 | [#1](https://osu.ppy.sh/community/matches/60568210) |
-| B | gebratene Muschi | 0 | **5** | **tasty watermelon** | [#1](https://osu.ppy.sh/community/matches/60570028) |
-| C | **Nekopara Fanclub** | **5** | 2 | 1miss | [#1](https://osu.ppy.sh/community/matches/60570282) |
-| D | **we will 操你妈** | **5** | 2 | pussy goreng v3 | [#1](https://osu.ppy.sh/community/matches/60571447) |
-| D | **pussy goreng v3** | **5** | 2 | emilia fanclub | [#1](https://osu.ppy.sh/community/matches/60573490) |
-| D | **Where Love Lies** | **5** | 1 | fryed pussy | [#1](https://osu.ppy.sh/community/matches/60572728) |
-| C | sijori folks | 3 | **5** | **pussy goreng** | [#1](https://osu.ppy.sh/community/matches/60572856) |
-
-Sunday, 19 April 2020:
-
-| Group | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| A | ff15 | 0 | **5** | **:watamesleep:** | [#1](https://osu.ppy.sh/community/matches/60606144), [#2](https://osu.ppy.sh/community/matches/60606838) |
-| B | **adventure timers** | **5** | 1 | gebratene Muschi | [#1](https://osu.ppy.sh/community/matches/60608704) |
-| B | **Happy Ending** | **5** | 2 | pussy fly | [#1](https://osu.ppy.sh/community/matches/60608782) |
-| A | **somaymalaycapcay** | **5** | 2 | mofumofu lover | [#1](https://osu.ppy.sh/community/matches/60611928) |
-| C | **asean NUTtersarus** | **5** | 2 | Nekopara Fanclub | [#1](https://osu.ppy.sh/community/matches/60611923) |
-| A | **:watamesleep:** | **5** | 0 | DaFaK | [#1](https://osu.ppy.sh/community/matches/60616002) |
-| C | **1miss** | **5** | 0 | sijori folks | [#1](https://osu.ppy.sh/community/matches/60615753) |
-| A | somaymalaycapcay | 4 | **5** | **:watamesleep:** | [#1](https://osu.ppy.sh/community/matches/60618229) |
+Saturday, 12 December 2020:
 
 ## Ruleset
 
