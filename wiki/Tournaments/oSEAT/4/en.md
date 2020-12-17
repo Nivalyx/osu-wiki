@@ -63,28 +63,12 @@ oSEAT4 was run by various osu! community members predominantly hailing from Sout
 
 ## Participants
 
-| Team name | Seed A player (captain) | Seed B player | Seed C player |
-| :-- | :-- | :-- | :-- |
-| **:watamesleep:** | ![][flag_MY] **[wuhua](https://osu.ppy.sh/users/2932510)** | ![][flag_MY] [TequilaWolf](https://osu.ppy.sh/users/3633477) | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) |
-| **1miss** | ![][flag_MY] **[ShaneLiang](https://osu.ppy.sh/users/6716499)** | ![][flag_MY] [Naz](https://osu.ppy.sh/users/3921010) | ![][flag_MY] [Reinaru](https://osu.ppy.sh/users/7353307) |
-| **adventure timers** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188) | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) |
-| **asean NUTtersarus** | ![][flag_MY] **[Rampax](https://osu.ppy.sh/users/3995630)** | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) | ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220) |
-| **DaFaK** | ![][flag_MY] **[FaithInOsu](https://osu.ppy.sh/users/10178187)** | ![][flag_MY] [Desumond](https://osu.ppy.sh/users/7399262) | ![][flag_MY] [KrispyKrep](https://osu.ppy.sh/users/10985924) |
-| **emilia fanclub** | ![][flag_MY] **[not\_aweeb](https://osu.ppy.sh/users/9375317)** | ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706) | ![][flag_MY] [Rexyne](https://osu.ppy.sh/users/9707834) |
-| **ff15** | ![][flag_ID] **[121Brian121](https://osu.ppy.sh/users/6192975)** | ![][flag_ID] [Clayweg](https://osu.ppy.sh/users/11374005) | ![][flag_SG] [JokThree](https://osu.ppy.sh/users/7713152) |
-| **fryed pussy** | ![][flag_ID] **[\[fry\]](https://osu.ppy.sh/users/4917604)** | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | ![][flag_MY] [PandaHung143](https://osu.ppy.sh/users/9637220) |
-| **gebratene Muschi** | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_MY] [TachibanaTaki12](https://osu.ppy.sh/users/9924719) |
-| **Happy Ending** | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | ![][flag_ID] [C4rm4](https://osu.ppy.sh/users/13187450) |
-| **mofumofu lover** | ![][flag_SG] **[Rtzer0](https://osu.ppy.sh/users/5407620)** | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) |
-| **Nekopara Fanclub** | ![][flag_MY] **[Sei Shaneagon](https://osu.ppy.sh/users/3677251)** | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | ![][flag_MY] [verdas123](https://osu.ppy.sh/users/11148851) |
-| **pussy fly** | ![][flag_MY] **[Monofly](https://osu.ppy.sh/users/11134301)** | ![][flag_SG] [moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_MY] [hilo123](https://osu.ppy.sh/users/9938586) |
-| **pussy goreng** | ![][flag_SG] **[phox](https://osu.ppy.sh/users/772295)** | ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160) | ![][flag_MY] [Fried Rice](https://osu.ppy.sh/users/11530643) |
-| **pussy goreng v3** | ![][flag_SG] **[SeeL](https://osu.ppy.sh/users/5104320)** | ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938) | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) |
-| **sijori folks** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | ![][flag_SG] [Shleepy](https://osu.ppy.sh/users/8486823) |
-| **somaymalaycapcay** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700) |
-| **tasty watermelon** | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336)** | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_MY] [AGhostyTSQ](https://osu.ppy.sh/users/13047324) |
-| **we will 操你妈** | ![][flag_SG] **[Soba Noodles](https://osu.ppy.sh/users/3010281)** | ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292) | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) |
-| **Where Love Lies** | ![][flag_SG] **[Fuma](https://osu.ppy.sh/users/1501956)** | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) |
+Listed below are players that qualified to the group stage (along with their respective seeding and group placements) out of 179 players who were registered into the tournament.
+
+| Group | Player 1 (Seed A) | Player 2 (Seed B) | Player 3 (Seed C) | Player 4 (Seed D) | Player 5 (Seed E) | Player 6 (Seed F) |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| A | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) |
+
 
 ## Mappools
 
