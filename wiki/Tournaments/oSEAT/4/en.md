@@ -40,7 +40,7 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination
 
 ## Organization
 
-OSIM was run by various osu! community members predominantly hailing from South East Asian countries.
+oSEAT4 was run by various osu! community members predominantly hailing from South East Asian countries.
 
 | Position | Members |
 | :-- | :-- |
