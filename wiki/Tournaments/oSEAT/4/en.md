@@ -256,9 +256,10 @@ Sunday, 13 December 2020:
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected to be polite and respectful to each other. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from oSEAT4 and/or blacklisted from the future installments of oSEAT.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of oSEAT.
-    - If a player is found to be smurfing in another player's account, the corresponding parties will be blacklisted in the next installments of oSEAT regardless of their past contributions and participation history.
+    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from oSEAT4 and/or blacklisted from the future installment(s) of oSEAT.
+    - Usage of any illegal programs is strictly prohibited and will be straight up reported to the osu!staff at will.
+    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of oSEAT regardless of their role in the smurfing accident.
+13. Failing to attend in more than two matches without a clear reason of absence will result in a blacklist for the next oSEAT installment (oSEAT5).
     
 ### Tournament registration
 
