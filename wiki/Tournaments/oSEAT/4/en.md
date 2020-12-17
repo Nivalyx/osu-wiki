@@ -193,7 +193,19 @@ Saturday, 12 December 2020:
 | K | ![][flag_SG] **[SeeL](https://osu.ppy.sh/users/5104320)** | **5** | 0 | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) | [#1](https://osu.ppy.sh/community/matches/71411352) |
 | E | ![][flag_TH] **[Chorus](https://osu.ppy.sh/users/3504692)** | **5** | 0 | ![][flag_TH] [Iambosszie](https://osu.ppy.sh/users/7286850) | [#1](https://osu.ppy.sh/community/matches/71425225) |
 | M | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | 2 | **5** | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/71428564) 
+| F | ![][flag_PH] **[Zyxus](https://osu.ppy.sh/users/8055861)** | **5** | 0 | ![][flag_MY] [Rawn](https://osu.ppy.sh/users/2621067) | [#1](https://osu.ppy.sh/community/matches/71428391) |
+| M | ![][flag_MY] **[Rampax](https://osu.ppy.sh/users/3995630)** | **5** | 0 | ![][flag_BN] [Daynem W](https://osu.ppy.sh/users/4699134) | [#1](https://osu.ppy.sh/community/matches/71428288) |
+| G | ![][flag_ID] **[ngonk](https://osu.ppy.sh/users/12030070)** | **5** | 2 | ![][flag_MY] [malaidan](https://osu.ppy.sh/users/14279913) | [#1](https://osu.ppy.sh/community/matches/71424988) |
+| I | ![][flag_MY] [verdas123](https://osu.ppy.sh/users/11148851) | 4 | **5** | ![][flag_MY] **[alphaplay](https://osu.ppy.sh/users/9304966)** | [#1](https://osu.ppy.sh/community/matches/71425280)
+| D | ![][flag_MY] **[heyimcrunchy](https://osu.ppy.sh/users/13067221)** | **5** | 4 | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/71428006) |
+| B | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | **5** | 2 | ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555) | [#1](https://osu.ppy.sh/community/matches/71429558) |
+| D | ![][flag_SG] **[Eagle5324](https://osu.ppy.sh/users/11987104)** | **5** | 4 | ![][flag_MY] [Auxuelus](https://osu.ppy.sh/users/5414124) | [#1](https://osu.ppy.sh/community/matches/71431267) |
+| J | ![][flag_PH] **[xidorn](https://osu.ppy.sh/users/7904667)** | **5** | 4 | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | [#1](https://osu.ppy.sh/community/matches/71431565) |
 | N | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | **5** | 2 | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | [#1](https://osu.ppy.sh/community/matches/71413017) |
+| E | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | **5** | 0 | ![][flag_SG] [DVDthe1st](https://osu.ppy.sh/users/2138989) | *win by default* |
+| N | ![][flag_SG] **[Rtzero](https://osu.ppy.sh/users/9262462)** | **5** | 0 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | *win by default* |
+
+Sunday, 13 December 2020:
 
 ## Ruleset
 
