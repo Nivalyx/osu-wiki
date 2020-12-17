@@ -32,25 +32,26 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter tag, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 month of osu!supporter tag |
-| 4th place | 2 month of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
+| 4th place | 2 months of osu!supporter tag |
 | 5th place | 1 month of osu!supporter tag |
 
 ![Profile badge](img/Badge.png)
 
 ## Organization
 
-oSEAT4 was run by various osu! community members predominantly hailing from South East Asian countries.
+oSEAT4 was run by various osu! community members predominantly hailing from various South East Asian countries.
 
 | Position | Members |
 | :-- | :-- |
-| Host | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
-| Map selector | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) |
-| Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
-| Commentator | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
-| Referee | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |
-| Graphic designer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
-| Spreadsheet manager | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
+| Host | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
+| Map selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
+| Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_UK] [timberwolf](https://osu.ppy.sh/users/11042418) |
+| Streamer | ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820), ![][flag_MY] [--Mirai--](https://osu.ppy.sh/users/8923407), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_SK] [PostScr1pt](https://osu.ppy.sh/users/3410997) |
+| Commentator | ![][flag_PH] [patsugoi](https://osu.ppy.sh/users/15748531), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
+| Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_ID] [Arvalon](https://osu.ppy.sh/users/14667308), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_SK] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321) |
+| Graphic designer | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) |
+| Spreadsheet manager | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
@@ -608,3 +609,6 @@ Sunday, 19 April 2020:
 [flag_PH]: /wiki/shared/flag/PH.gif "The Philippines"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_SK]: /wiki/shared/flag/SK.gif "South Korea"
+[flag_UK]: /wiki/shared/flag/UK.gif "United Kingdom"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
