@@ -242,26 +242,26 @@ Sunday, 13 December 2020:
 
 1. Map scoring is based on **Score V2.**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. Had there been any teams who were unable to attend the current schedule for any reason, affected teams may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. Had there been any teams who were unable to attend the current schedule for any reason, affected players may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-5. If a team does not show up within **10 minutes** of the start time, their opponent wins by default.
+5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all maps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the map regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they failed the map.
    - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
 9. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.
-   - In case the disconnected player failed to report back or to be replaced with another player after the maximum allowance of 15 minutes has passed, the opposing team may be declared to be winning the match by default.
+   - In case the disconnected player failed to report back after the maximum allowance of 15 minutes has passed, the opposing player may be declared to be winning the match by default.
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
-12. It is expected to be polite and respectful to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the OSIM staff and may be blacklisted in the future installments of OSIM.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of OSIM.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of OSIM for both participant and the helper.
-
+12. It is expected to be polite and respectful to each other. Penalties will be given if players violate.
+    - If a player is found to be engaging in an act of offensive provocation, the concerned parties may be either disqualified right away from oSEAT4 and/or blacklisted from the future installments of oSEAT.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of oSEAT.
+    - If a player is found to be smurfing in another player's account, the corresponding accounts will be blacklisted in the next installments of oSEAT regardless of their role.
+    
 ### Tournament registration
 
 1. All interested participants are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, a participant must have either the Singaporean, Indonesian, or Malaysian flag displayed on their profile.
+   - In order to be eligible to play in the tournament, a player must have a flag of either one of the ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![flag_ID] Indonesia, ![flag_LA] Laos, ![flag_MY] Malaysia, ![flag_MM] Myanmar, ![flag_PH] The Phillipines, ![flag_SG] Singapore, ![flag_TH] Thailand, or ![flag_VN] Vietnam) displayed on their profile.
 2. To ensure valid and serious registrations, every registered participant will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
 3. The list of participants who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
 4. Referees and map selectors may not participate as players in this tournament.
