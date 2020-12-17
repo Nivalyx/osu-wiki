@@ -244,7 +244,7 @@ Sunday, 13 December 2020:
 
 1. Map scoring is based on **Score V2.**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. Had there been any teams who were unable to attend the current schedule for any reason, affected players may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. Had there been any player(s) who were unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
@@ -252,7 +252,7 @@ Sunday, 13 December 2020:
 8. If a player disconnects, it will be treated as if they failed the map.
    - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
 9. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.
-   - In case the disconnected player failed to report back after the maximum allowance of 15 minutes has passed, the opposing player may be declared to be winning the match by default.
+   - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected to be polite and respectful to each other. Penalties will be given if players violate.
@@ -263,16 +263,16 @@ Sunday, 13 December 2020:
     
 ### Tournament registration
 
-1. All interested participants are required to register into the tournament individually.
+1. All interested players  are required to register into the tournament individually.
    - In order to be eligible to play in the tournament, a player must have a flag of either one of the ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![flag_ID] Indonesia, ![flag_LA] Laos, ![flag_MY] Malaysia, ![flag_MM] Myanmar, ![flag_PH] The Phillipines, ![flag_SG] Singapore, ![flag_TH] Thailand, or ![flag_VN] Vietnam) displayed on their profile ***OR*** is in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
-2. To ensure valid and serious registrations, every registered participant will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
-3. The list of participants who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
+2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
+3. The list of players who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
 4. Testplayers, referees, and map selectors may not participate as players in this tournament.
 
 ### Qualifier rules
 
-1. Each participant will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
-2. In the lobby, participants will have to consecutively play all of the ten Qualifier maps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
+2. In the lobby, participants will have to consecutively play all of the nine Qualifier maps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Participants **are not allowed** to ban any maps in the Qualifiers.
 4. Participants **are not allowed** to join in (or register for) more than one Qualifier lobbies.
 5. 60 participants with the **highest amount of accumulated Qualifier points in total** will advance to the group stage.
