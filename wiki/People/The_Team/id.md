@@ -65,7 +65,7 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang terdiri dari anggot
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, perekayasa layanan IRC yang terintegrasi dengan *in-game chat*, pengasuh umum situs. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Pembawa acara osu! Coffee Hour, penyiar World Cup, penyelenggara turnamen |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, perekayasa infrastruktur *backend* sistem osz2 dan p2p |
-| ![][flag_US] Jim | Perancang situs dan penyedia layanan *hosting* pada masa-masa awal mula osu! didirikan. [Brave New Games](http://www.bravegamer.com/) |
+| ![][flag_US] Jim | Perancang situs dan penyedia layanan *hosting* pada awal mula berdirinya osu!. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Pengurus dan penyelenggara World Cup, pemimpin QAT, manajer komunitas |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Perancang skin ulung, kontributor utama skin *default* dan set ikon bawaan osu! pada masanya. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, perekayasa algoritma mm slider |
@@ -74,11 +74,11 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang terdiri dari anggot
 | ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Perancang forum |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, sosok yang luar biasa menawan |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Pemimpin tim desain dan perancang konsep awal pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
-| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Early community manager and leader, meeting minutes and FAQ contributor |
+| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masanya, kontributor utama proyek *meeting minutes* dan artikel FAQ |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan sistem *performance point* (pp) |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Pengembang osu! dan mode osu!mania |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Manajer [osu!store](https://osu.ppy.sh/store/listing) |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/osu!academy), pengendali media dan karakter |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/osu!academy), pengendali media dan rupa karakter |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
