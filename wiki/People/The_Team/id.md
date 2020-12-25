@@ -32,7 +32,7 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!t
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Pengasuh umum, pemelihara osu!wiki |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Pengasuh umum |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, pecinta osu!mania, penumpas bug |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manager Project Loved, penasihat bidang pengembangan komunitas, penjangkau Featured Artist |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat bidang pengembangan komunitas, penjangkau Featured Artist |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, penyelenggara turnamen |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, penyelenggara turnamen, pemelihara osu!wiki |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
@@ -42,7 +42,7 @@ In addition to the above, the [account support team](Account_support_team) is th
 
 ## Gugus pengguna
 
-Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang membantu menjaga dan memelihara osu!. Sebagian besar kelompok pengguna ini dapat dikenali dari warna nama pengguna mereka di forum, warna obrolan dalam game, gelar pada profil, dan/atau lencana profil.
+Berikut ini adalah gugus-gugus pengguna (*user groups*) yang terdiri dari anggota komunitas osu! yang membantu menjaga dan memelihara osu!. Sebagian besar kelompok pengguna ini dapat dikenali dari warna nama pengguna mereka di forum, warna obrolan dalam game, gelar pada profil, dan/atau lencana profil.
 
 | Nama | Deskripsi |
 | :-- | :-- |
@@ -65,20 +65,20 @@ Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang m
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, perekayasa layanan IRC yang terintegrasi dengan *in-game chat*, pengasuh umum situs. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Pembawa acara osu! Coffee Hour, penyiar World Cup, penyelenggara turnamen |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, perekayasa infrastruktur *backend* sistem osz2 dan p2p |
-| ![][flag_US] Jim | Perancang situs dan penyedia layanan *hosting* di masa-masa awal mula osu! didirikan. [Brave New Games](http://www.bravegamer.com/) |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | World Cup organiser and administrator, QAT leader, community manager |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin designer, contributor to default skin and iconset. [DeviantArt](https://luigihann.deviantart.com/) |
+| ![][flag_US] Jim | Perancang situs dan penyedia layanan *hosting* pada masa-masa awal mula osu! didirikan. [Brave New Games](http://www.bravegamer.com/) |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Pengurus dan penyelenggara World Cup, pemimpin QAT, manajer komunitas |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Perancang skin ulung, kontributor utama skin *default* dan set ikon bawaan osu! pada masanya. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, perekayasa algoritma mm slider |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Pengembang osu! iPhone |
 | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, pengelola Mappers' Guild |
 | ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Perancang forum |
-| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, cool stuff maker-guy extraordinaire |
-| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original pippi concept and artwork designer. [DeviantArt](https://sarumaru.deviantart.com/) |
+| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, sosok yang luar biasa menawan |
+| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Pemimpin tim desain dan perancang konsep awal pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Early community manager and leader, meeting minutes and FAQ contributor |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan sistem *performance point* (pp) |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Pengembang osu! dan mode osu!mania |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Manajer [osu!store](https://osu.ppy.sh/store/listing) |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/osu!academy), media and character designer |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/osu!academy), pengendali media dan karakter |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
