@@ -42,17 +42,19 @@ In addition to the above, the [account support team](Account_support_team) is th
 
 ## Gugus pengguna
 
-Berikut ini adalah gugus-gugus pengguna (*user groups*) yang terdiri dari anggota komunitas osu! yang membantu menjaga dan memelihara osu!. Sebagian besar kelompok pengguna ini dapat dikenali dari warna nama pengguna mereka di forum, warna obrolan dalam game, gelar pada profil, dan/atau lencana profil.
+Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggota-anggota komunitas terpilih yang membantu memelihara osu!. Pada umumnya, anggota gugus-gugus pengguna ini dapat dikenali dari warna nama pengguna pada forum, warna pada kanal obrolan, serta gelar dan/atau lencana khusus yang tertera pada profil masing-masing anggota.
 
-| Nama | Deskripsi |
+| Name | Description |
 | :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | Membantu Anda dalam meningkatkan beatmap Anda agar memenuhi syarat |
-| [Developers](Developers) | Membuat permainan menjadi keren dengan menambahkan fitur baru dan memperbaiki kutu |
-| [Global Moderation Team](Global_Moderation_Team) | Mengawasi forum dan percakapan dalam permainan |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Tim yang mengelola grup *Beatmap Nominators* |
-| [osu! Alumni](osu!_Alumni) | Orang-orang yang dikenal atas kontribusi mereka setelah pindah/pensiun |
-| [Project Loved Team](Project_Loved_Team) | Mengenali beatmap yang paling disukai komunitas |
-| [Support Team](Support_Team) | Dukungan Teknis/Bantuan Permintaan Fitur |
+| [Beatmap Nominators](Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
+| [Developers](Developers) | Making the game awesome by adding new features and fixing the bugs |
+| [Global Moderation Team](Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
+| [Nomination Assessment Team](Nomination_Assessment_Team) | Managing the Beatmap Nominators |
+| [osu! Alumni](osu!_Alumni) | Those known for their contributions who have since moved on |
+| [Project Loved Team](Project_Loved_Team) | Recognising the beatmaps that the community loves most |
+| [Support Team](Support_Team) | Help / Feature Request assistance |
+
+The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized by their forum colours, in-game chat colours, profile titles, and/or profile badges.
 
 ## Anggota tim inti osu! yang kini sudah tidak lagi aktif
 
