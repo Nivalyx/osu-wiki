@@ -45,7 +45,7 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggo
 
 | Name | Description |
 | :-- | :-- |
-| [Beatmap Nominator](Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
+| [Beatmap Nominator](Beatmap_Nominators) | Menjaga standar kualitas beatmap dan mendorong beatmap-beatmap yang dianggap layak ke dalam kategori Qualified |
 | [Developer](Developers) | Membuat osu! senantiasa tampil menawan melalui implementasi berbagai fitur canggih dan penumpasan berbagai macam *bug* |
 | [Global Moderation Team](Global_Moderation_Team) | Mengawasi forum dan kanal obrolan |
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Mengevaluasi kinerja Beatmap Nominator |
