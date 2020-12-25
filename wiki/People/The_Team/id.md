@@ -51,7 +51,7 @@ Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang m
 | [Project Loved Team](Project_Loved_Team) | Mengenali beatmap yang paling disukai komunitas |
 | [Support Team](Support_Team) | Dukungan Teknis/Bantuan Permintaan Fitur |
 
-## Anggota tim inti yang kini sudah tidak aktif
+## Anggota tim inti osu! yang kini sudah tidak lagi aktif
 
 | Name | Role |
 | :-- | :-- |
