@@ -5,29 +5,27 @@ tags:
   - osu! team
   - staff
   - team osu!
-outdated: true
-outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 ---
 
 # Tim
 
-*Untuk daftar pengguna yang dipromosikan atau telah pensiun, lihat: [Staff Log](/wiki/Staff_Log)*
+*Untuk rekam jejak anggota yang dipromosikan ke dan dipensiunkan dari jajaran staff osu! seiring waktu, lihat: [Staff Log](/wiki/Staff_Log)*
 
-Para pengguna yang tercantum di bawah adalah **tim inti osu!** dan bertanggung jawab untuk membantu menjadikan permainan ini luar biasa bagi semua orang.
+Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!team) yang bertanggung jawab untuk menjadikan permainan ini luar biasa bagi semua orang.
 
 | Nama | Peran |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Pemimpin proyek** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Penasihat adegan *modding* dan *mapping* |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Penasihat moderasi dan komunitas |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Pemelihara proyek dan komunitas, Penjangkau Artis Unggulan |
-| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin desain, Pengamat Creative Cloud pengguna |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Pemelihara proyek dan komunitas, Penjangkau Featured Artist |
+| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin desain, pengamat Creative Cloud |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Penasihat adegan *modding* dan *mapping* |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Penyelenggara dan administrator Piala Dunia osu! |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Penasihat adegan *modding* dan *mapping* |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Pengembang osu!web |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | ART umum, Penasihat moderasi |
-| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Pengembang osu!web, [*official* Artis Unggulan osu!](https://osu.ppy.sh/beatmaps/artists/1) |
+| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Pengembang osu!web, [Featured Artist resmi osu!](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang osu!web |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Penasihat adegan *modding* dan *mapping* |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Penasihat adegan *modding* dan *mapping*, Penyelenggara Serikat Pembuat Map (Mappers' Guild), Penjangkau Artis Unggulan |
@@ -81,17 +79,18 @@ Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang m
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
-[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
-[flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
-[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_FR]: /wiki/shared/flag/FR.gif "Perancis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
 [flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
 [flag_MX]: /wiki/shared/flag/MX.gif "Meksiko"
-[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
+[flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norwegia"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Selandia Baru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
