@@ -37,7 +37,7 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!t
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, penyelenggara turnamen, pemelihara osu!wiki |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
-## Grup pengguna
+## Gugus pengguna
 
 Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang membantu menjaga dan memelihara osu!. Sebagian besar kelompok pengguna ini dapat dikenali dari warna nama pengguna mereka di forum, warna obrolan dalam game, gelar pada profil, dan/atau lencana profil.
 
