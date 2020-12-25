@@ -11,7 +11,7 @@ tags:
 
 *Untuk rekam jejak anggota yang dipromosikan ke dan dipensiunkan dari jajaran staf osu! seiring waktu, harap lihat: [Staff Log](/wiki/Staff_Log)*
 
-Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!team) yang memiliki tanggung jawab utama untuk menjadikan osu! sebagai sebuah permainan yang dapat senantiasa dinikmati oleh semua.
+Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!team) yang memiliki tanggung jawab utama untuk menjadikan osu! sebagai sebuah permainan yang dapat selalu dinikmati oleh semua.
 
 | Name | Role <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
 | :-- | :-- |
@@ -60,7 +60,7 @@ Berikut ini adalah grup pengguna yang terdiri dari anggota komunitas osu! yang m
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Pengurus dan penyelenggara World Cup |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Pengasuh umum, manajer komunitas |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! developer, provider of IRC integration for in-game chat, site maintainer. [Blog](http://blog.echo.sh/) |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streamer, tournament organiser |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Pembawa acara osu! Coffee Hour, penyiar World Cup, penyelenggara turnamen |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! developer, provider of osz2 and p2p backend |
 | ![][flag_US] Jim | Original site designer, hosting provider in the early days. [Brave New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | World Cup organiser and administrator, QAT leader, community manager |
