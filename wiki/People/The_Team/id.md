@@ -37,12 +37,11 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!t
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, penyelenggara turnamen, pemelihara osu!wiki |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
-Di samping nama-nama di atas, osu! juga memiliki [account support team](Account_support_team)
-In addition to the above, the [account support team](Account_support_team) is there to help with what is beyond the reach.
+Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_support_team) (*account support team*) yang bergerak secara terpisah untuk membantu menangani berbagai permasalahan yang terkait dengan akun pribadi.
 
 ## Gugus pengguna
 
-Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggota-anggota komunitas terpilih yang membantu memelihara osu!. Pada umumnya, anggota gugus-gugus pengguna ini dapat dikenali dari warna nama pengguna pada forum, warna pada kanal obrolan, serta gelar dan/atau lencana khusus yang tertera pada profil masing-masing anggota.
+Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggota-anggota komunitas terpilih beserta dengan tanggung jawab dan kontribusinya masing-masing terhadap ekosistem osu!. Pada umumnya, anggota gugus-gugus pengguna di bawah ini dapat dikenali dari warna khusus pada forum, warna khusus pada kanal obrolan, serta gelar dan/atau lencana khusus yang tertera pada laman profil masing-masing anggota.
 
 | Name | Description |
 | :-- | :-- |
@@ -53,8 +52,6 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggo
 | [osu! Alumni](osu!_Alumni) | Those known for their contributions who have since moved on |
 | [Project Loved Team](Project_Loved_Team) | Recognising the beatmaps that the community loves most |
 | [Support Team](Support_Team) | Help / Feature Request assistance |
-
-The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognized by their forum colours, in-game chat colours, profile titles, and/or profile badges.
 
 ## Anggota tim inti osu! yang kini sudah tidak lagi aktif
 
