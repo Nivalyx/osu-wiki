@@ -41,12 +41,12 @@ Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_sup
 
 ## Gugus pengguna
 
-Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggota-anggota komunitas terpilih beserta dengan tanggung jawab dan kontribusinya masing-masing terhadap ekosistem osu!. Pada umumnya, anggota gugus-gugus pengguna di bawah ini dapat dikenali dari warna khusus pada forum, warna khusus pada kanal obrolan, serta gelar dan/atau lencana khusus yang tertera pada laman profil masing-masing anggota.
+Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggota-anggota komunitas terpilih beserta dengan tanggung jawab dan kontribusinya masing-masing terhadap ekosistem osu!. Pada umumnya, anggota gugus-gugus pengguna di bawah ini dapat dikenali dari warna khusus pada forum, warna khusus pada kanal obrolan, serta gelar dan/atau lencana khusus yang disematkan kepada masing-masing anggota.
 
 | Name | Description |
 | :-- | :-- |
 | [Beatmap Nominator](Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
-| [Developer](Developers) | Membuat osu! senantiasa istimewa melalui implementasi berbagai fitur canggih dan penumpasan berbagai macam *bug* |
+| [Developer](Developers) | Membuat osu! senantiasa tampil menawan melalui implementasi berbagai fitur canggih dan penumpasan berbagai macam *bug* |
 | [Global Moderation Team](Global_Moderation_Team) | Mengawasi forum dan kanal obrolan |
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Mengevaluasi kinerja Beatmap Nominator |
 | [osu! Alumni](osu!_Alumni) | Para pendahulu yang telah banyak berjasa pada masanya |
