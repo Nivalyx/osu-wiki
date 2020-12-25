@@ -31,13 +31,13 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!t
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Penasihat bidang *mapping* dan *modding*, pengelola Mappers' Guild, penjangkau Featured Artist |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Pengasuh umum, pemelihara osu!wiki |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Pengasuh umum |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, pecinta osu!mania, penumpas bug |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, pecinta osu!mania, penumpas *bug* |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat bidang pengembangan komunitas, penjangkau Featured Artist |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, penyelenggara turnamen |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, penyelenggara turnamen, pemelihara osu!wiki |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
-Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_support_team) (*account support team*) yang bergerak secara terpisah untuk membantu menangani berbagai permasalahan yang terkait dengan akun pribadi.
+Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_support_team) (*account support team*) yang bergerak secara terpisah untuk membantu menangani berbagai permasalahan yang bersifat pribadi.
 
 ## Gugus pengguna
 
@@ -45,13 +45,13 @@ Berikut ini adalah gugus-gugus pengguna (*user groups*) yang tersusun atas anggo
 
 | Name | Description |
 | :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
-| [Developers](Developers) | Making the game awesome by adding new features and fixing the bugs |
-| [Global Moderation Team](Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Managing the Beatmap Nominators |
-| [osu! Alumni](osu!_Alumni) | Those known for their contributions who have since moved on |
-| [Project Loved Team](Project_Loved_Team) | Recognising the beatmaps that the community loves most |
-| [Support Team](Support_Team) | Help / Feature Request assistance |
+| [Beatmap Nominator](Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
+| [Developer](Developers) | Membuat osu! senantiasa istimewa melalui implementasi berbagai fitur canggih dan penumpasan berbagai macam *bug* |
+| [Global Moderation Team](Global_Moderation_Team) | Mengawasi forum dan kanal obrolan |
+| [Nomination Assessment Team](Nomination_Assessment_Team) | Mengevaluasi kinerja Beatmap Nominator |
+| [osu! Alumni](osu!_Alumni) | Para pendahulu yang telah banyak berjasa pada masanya |
+| [Project Loved Team](Project_Loved_Team) | Mengukuhkan beatmap-beatmap yang dicintai oleh komunitas |
+| [Support Team](Support_Team) | Menjawab berbagai pertanyaan yang terlontar pada sub-forum Help dan Feature Request |
 
 ## Anggota tim inti osu! yang kini sudah tidak lagi aktif
 
