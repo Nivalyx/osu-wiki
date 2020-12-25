@@ -9,7 +9,7 @@ tags:
 
 # Tim
 
-*Untuk rekam jejak anggota yang dipromosikan ke dan dipensiunkan dari jajaran staff osu! seiring waktu, harap lihat: [Staff Log](/wiki/Staff_Log)*
+*Untuk rekam jejak anggota yang dipromosikan ke dan dipensiunkan dari jajaran staf osu! seiring waktu, harap lihat: [Staff Log](/wiki/Staff_Log)*
 
 Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!team) yang memiliki tanggung jawab utama untuk menjadikan osu! sebagai sebuah permainan yang dapat senantiasa dinikmati oleh semua.
 
@@ -18,23 +18,23 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** (osu!t
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Pemimpin proyek** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Penasihat bidang *mapping* dan *modding* |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Penasihat bidang pengembangan dan moderasi komunitas |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Koordinator proyek, Featured Artist Project and community maintainer, Featured Artist outreach |
-| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Design lead, resident Creative Cloud watcher |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Koordinator umum, pengelola Featured Artist Project dan proyek-proyek komunitas lainnya, Featured Artist outreach |
+| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin tim desain, pengamat Creative Cloud |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Penasihat bidang *mapping* dan *modding* |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Pengurus dan penyelenggara World Cup |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Penasihat bidang *mapping* dan *modding* |
 | ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Pengembang situs web osu! (osu!web) |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeper, penasihat bidang moderasi komunitas |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Pengasuh umum, penasihat bidang moderasi komunitas |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Pengembang situs web osu! (osu!web), [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang situs web osu! |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Modding and mapping scene advisor |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organiser, Featured Artist outreach |
-| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | General housekeeper, wiki maintainer |
-| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | General housekeeper |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Penasihat bidang *mapping* dan *modding* |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Penasihat bidang *mapping* dan *modding*, pengelola Mappers' Guild, Featured Artist outreach |
+| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Pengasuh umum, pemelihara osu!wiki |
+| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Pengasuh umum |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved manager, community advisor, Featured Artist outreach |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament assistant |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, tournament assistant, pengurus wiki |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Manager Project Loved, community advisor, Featured Artist outreach |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, tournament assistant |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, tournament assistant, pengurus wiki |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
 ## Grup pengguna
