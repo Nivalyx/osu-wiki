@@ -76,8 +76,10 @@ Based on each contestant's Group Stage performance, pairs were formed as listed 
 
 | Team Name | Player 1 | Player 2 | 
 | :-- | :-- | :-- |
+| **L Hunter** | ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) (*Group D / 1st Place*) | ![][flag_ID] [Bapakkao](https://osu.ppy.sh/users/14833319) (*Group B / 2nd Place*) |
 | **SCP Indonesia** | ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990) (*Group H / 1st Place*) | ![][flag_ID] [HiranoUtami](https://osu.ppy.sh/users/13942350) (*Group F / 2nd Place*) |
 | **Team 1** | ![][flag_ID] [LoliCopz](https://osu.ppy.sh/users/11427185) (*Group A / 1st Place*) | ![][flag_ID] [Shiro\_Neko](https://osu.ppy.sh/users/11065963) (*Group C / 2nd Place*) |
+| **UwU Team** | ![][flag_ID] [juww](https://osu.ppy.sh/users/11019862) (*Group E / 1st Place*) | ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808) (*Group G / 2nd Place*) |
 
 ## Mappools
 
