@@ -59,7 +59,7 @@ CMC 2020 was run by various Indonesian osu! community members.
 
 ## Participants
 
-Listed below are players who qualified into the Group Stage (along with their respective seeding and group placement) out of 179 registered players in total.
+Listed below are players who qualified into the Group Stage (along with their respective seeding and group placement) out of 53 registered players in total.
 
 | Group | Seed A | Seed B | Seed C | Seed D | Seed E | Seed F |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
