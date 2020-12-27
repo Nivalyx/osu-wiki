@@ -72,7 +72,7 @@ Listed below are players who qualified into the Group Stage (along with their re
 | G | ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808) | ![][flag_ID] [AchsanLovers](https://osu.ppy.sh/users/6368737) | ![][flag_ID] [2ndlegend](https://osu.ppy.sh/users/7621604) | ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304) |
 | H |![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869) | ![][flag_ID] [aghil jayadi](https://osu.ppy.sh/users/8405046) | ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990) | ![][flag_ID] [LNP-](https://osu.ppy.sh/users/4402842) |
 
-After the conclusion of the Group Stage, players were then teamed up into pairs of two based on their Group Stage finishing position as listed below.
+After the conclusion of the Group Stage, players were then teamed up into pairs of two based on their Group Stage finishing position as follows.
 
 | Team Name | Player 1 | Player 2 | 
 | :-- | :-- | :-- |
