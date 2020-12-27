@@ -156,29 +156,36 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
   - [Lime - Stargazer (Kamikaze) \[Astral \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/946116#mania/1975564)    
   - [Helblinde - Grief & Malice (Fullerene-) \[Kriemhild // 4K\]](https://osu.ppy.sh/beatmapsets/239943#mania/554655)
   - [LV.4 - Spriggan (LovelySerenade) \[Valkyrie Dimension\]](https://osu.ppy.sh/beatmapsets/796372#mania/1672289)   
-  - [Lon - Yuru Fuwa Jukai Girl (Wh1teh) \[k\]](https://osu.ppy.sh/beatmapsets/478782#mania/1022471)
-  - [Stellabee - Overflowing love and music (Swan) \[Yes\]](https://osu.ppy.sh/beatmapsets/858728#mania/1794632)     
-  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[long ver.\] (Gekido-) \[\o\ DAB /o/\]](https://osu.ppy.sh/beatmapsets/942612#mania/1968373)
+  - [ITO KASHITARO - Yuudachi no Ribbon (Abraxos) \[sleet\]](https://osu.ppy.sh/beatmapsets/729005#mania/1538938)
+  - [N.M.S.T - Snowflakes (-Rem-) \[memory (183.75bpm)\]](https://osu.ppy.sh/beatmapsets/998597#mania/2088657)     
+  - [Frums - 24eev0-$ (\[Crz\]Crysarlene) \[Bliss\]](https://osu.ppy.sh/beatmapsets/1120940#mania/2342177)
+  - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[LeiN-'s MASTER\]](https://osu.ppy.sh/beatmapsets/860089#mania/1948492)
+  - [Tenkitsune & Trifect - Fallen World (feat. Jasper In The Company Of Others) (Kamuy) \[surge (edit)\]](https://osu.ppy.sh/beatmapsets/922984#mania/2343060)     
+  - [Camellia - KillerBeast (RuleBlazing) \[Beast Warriors\]](https://osu.ppy.sh/beatmapsets/1048494#mania/2191557)  
 - Tiebreaker
-  - **[EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](https://osu.ppy.sh/beatmapsets/805341#mania/1690577)**  
+  - **[Dempagumi.inc - Chururi Chururira (JztCallMeRon) \[Ikuzo!\]](https://osu.ppy.sh/beatmapsets/688773#mania/1457922)**  
 
-### Qualifiers
+### Quarterfinals
 
-**[Download the mappack here! (52 MB)](https://drive.google.com/uc?export=download&id=1MjH9DYH4XODeh1Z0jHrZhYJeKd6hozn4)**
+**[Download the mappack here! (90 MB)](https://mega.nz/file/LZg0gaqR#uNT_PFapDqmxh9E1kyCYx0zUSqz4pMIfyPo2HbPPan4)**
 
-- NoMod
-  - [MY FIRST STORY - Mukoku (AirinCat) \[Extra\]](https://osu.ppy.sh/beatmapsets/1047546#osu/21896537)
-  - [Tyrfing - Verflucht (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/965125#osu/2045906)
-  - [Zutto Mayonaka de Ii no ni. - Byoushin o Kamu (Irohas) \[moph's Extra\]](https://osu.ppy.sh/beatmapsets/833772#osu/1746520)
-- Hidden
-  - [USAO - Knight Rider (RLC) \[Extra\]](https://osu.ppy.sh/beatmapsets/1156969#osu/2414318)
-  - [Chata - len (Cami) \[Nightmare Descends\]](https://osu.ppy.sh/beatmapsets/857816#osu/1792255)
-- HardRock
-  - [Linkin Park - Session (h4d0uk3n1) \[Katherine\]](https://osu.ppy.sh/beatmapsets/669536#osu/1488047)
-  - [Dance Gavin Dance - Tree Village (Dilectus) \[Extra\]](https://osu.ppy.sh/beatmapsets/703666#osu/1488698)
-- DoubleTime
-  - [Buono! - Winter Story (Nakagawa-Kanon) \[Insane\]](https://osu.ppy.sh/beatmapsets/40425#osu/128303)
-  - [dj TAKA - Colors -sasakure.UK Futurelogic Remix- (\_wa) \[Hyper\]](https://osu.ppy.sh/beatmapsets/317439#osu/1319822)
+- FreeMod
+  - [Spektrem - Mountkid - Dino \[NCS Release\] (NO 1 Jinramyeon) \[SV\]](https://osu.ppy.sh/beatmapsets/968290#mania/2026157)
+  - [Tokyo Machine - FIGHT (MapleSyrup-) \[HD\]](https://osu.ppy.sh/beatmapsets/731083#mania/1580345)
+  - [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/873621#mania/1826057)
+  - [Kita Khyber - Acerbic Relationship (riunosk) \[Noodle Love\]](https://osu.ppy.sh/beatmapsets/992301#mania/2075185)
+  - [Zekk - Libertas (Kamuy) \[manumissio vindicta\]](https://osu.ppy.sh/beatmapsets/1089211#mania/2277328)
+  - [Lime - Stargazer (Kamikaze) \[Astral \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/946116#mania/1975564)    
+  - [Helblinde - Grief & Malice (Fullerene-) \[Kriemhild // 4K\]](https://osu.ppy.sh/beatmapsets/239943#mania/554655)
+  - [LV.4 - Spriggan (LovelySerenade) \[Valkyrie Dimension\]](https://osu.ppy.sh/beatmapsets/796372#mania/1672289)   
+  - [ITO KASHITARO - Yuudachi no Ribbon (Abraxos) \[sleet\]](https://osu.ppy.sh/beatmapsets/729005#mania/1538938)
+  - [N.M.S.T - Snowflakes (-Rem-) \[memory (183.75bpm)\]](https://osu.ppy.sh/beatmapsets/998597#mania/2088657)     
+  - [Frums - 24eev0-$ (\[Crz\]Crysarlene) \[Bliss\]](https://osu.ppy.sh/beatmapsets/1120940#mania/2342177)
+  - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[LeiN-'s MASTER\]](https://osu.ppy.sh/beatmapsets/860089#mania/1948492)
+  - [Tenkitsune & Trifect - Fallen World (feat. Jasper In The Company Of Others) (Kamuy) \[surge (edit)\]](https://osu.ppy.sh/beatmapsets/922984#mania/2343060)     
+  - [Camellia - KillerBeast (RuleBlazing) \[Beast Warriors\]](https://osu.ppy.sh/beatmapsets/1048494#mania/2191557)  
+- Tiebreaker
+  - **[Dempagumi.inc - Chururi Chururira (JztCallMeRon) \[Ikuzo!\]](https://osu.ppy.sh/beatmapsets/688773#mania/1457922)** 
 
 ## Match results
 
