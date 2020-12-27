@@ -52,10 +52,10 @@ CMC 2020 was run by various Indonesian osu! community members.
 ## Links
 
 - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1177376)
-- [Discord server](https://discord.gg/sVHndPU)
-- [Livestream channel](https://www.twitch.tv/oseatournament)
-- [Challonge bracket](https://challonge.com/SEAT4)
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1157755)
+- [Discord server](https://discord.gg/5a2dy53)
+- [Livestream channel](https://www.twitch.tv/osuIndonesia)
+- [Challonge bracket](https://challonge.com/CMC_1)
 
 ## Participants
 
@@ -95,55 +95,53 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ## Mappools
 
-### Round of 32
+### Finals week 2
 
-**[Download the mappack here! (173 MB)](https://drive.google.com/uc?export=download&id=1UvKY5SZPaRleicj9Pw29bFVa1GJ4cVFs)**
+**[Download the mappack here! (145 MB)](https://mega.nz/file/jBZVDKTK#R_SaMh108Uh8HTLVqd_LRzAx2cMU33NEBUdAIv0uVnI)**
 
-- NoMod
-  - [YOASOBI - Ano Yume o Nazotte (Flask) \[Summer Night, You, Two Silhouettes Side-by-side\]](https://osu.ppy.sh/beatmapsets/1120850#osu/2342037)
-  - [Seiryu - Critical Crystal (BD MIX) (yaspo) \[Dragon\]](https://osu.ppy.sh/beatmapsets/1257558#osu/2613136)
-  - [Poppin'Party x Aya (CV: Maeshima Ami) x Kokoro (CV: Itou Miku) - Geki! Teikoku Kagekidan (Left) \[Left x Karen x bbj0920's Expert\]](https://osu.ppy.sh/beatmapsets/948049#osu/1983241)
-  - [Saiph - Hydrangea (thiev) \[nul\]](https://osu.ppy.sh/beatmapsets/1284350#osu/2666993)
-  - [UNDEAD CORPORATION - Everything will freeze  (sjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/336471#osu/744672)
-- Hidden
-  - [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (Meg) \[Bitch\]](https://osu.ppy.sh/beatmapsets/357487#osu/786379)
-  - [Megpoid GUMI - For my soul  (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/22509#osu/80102)
-  - [REDALiCE vs. USAO - SAIKYO STRONGER (Otosaka-Yu) \[OtosaKana's STRENGTHENING FUTURE\]](https://osu.ppy.sh/beatmapsets/1098586#osu/2296800)
-- HardRock
-  - [TWICE - Fanfare (\[Im Nayeon\]) \[Fragmented's Extra\]](https://osu.ppy.sh/beatmapsets/1195633#osu/2496243)
-  - [L.E.D.-G - EMPEROR OF THE AVALON (Acylica) \[Another\]](https://osu.ppy.sh/beatmapsets/1190926#osu/2481302)
-  - [Given - Fuyu no Hanashi (- ascended -) \[Tragic Love Story\]](https://osu.ppy.sh/beatmapsets/1188198#osu/2476072)  
-- DoubleTime
-  - [yak\_won - Lucid (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/15898#osu/85591)
-  - [HIMEHINA - Hitogata (TV Size) (Ryuusei Aika) \[Nasmoeb's Insane\]](https://osu.ppy.sh/beatmapsets/942714#osu/1970539)
-  - [chano & 40mP - Natsukoi Hanabi (Xayah) \[Insane\]](https://osu.ppy.sh/beatmapsets/963553#osu/2019793)  
 - FreeMod
-  - [Yorushika - Ai Nijou (Shiny Braixen) \[Extra\]](https://osu.ppy.sh/beatmapsets/1035354#osu/2178023)
-  - [PUP - Anaphylaxis (Hobbes2) \[Extra\]](https://osu.ppy.sh/beatmapsets/1169856#osu/2464094)
-  - [Denkishiki Karen Ongaku Shuudan - Never Forget (LMT) \[Loss of a Loved One\]](https://osu.ppy.sh/beatmapsets/1187196#osu/2474203)  
+  - [sakuzyo - Hodie (Tidek) \[Vivace\]](https://osu.ppy.sh/beatmapsets/924601#mania/1931227)
+  - [sakuraburst - dragonlands (Toaph Daddy) \[myth\]](https://osu.ppy.sh/beatmapsets/808881#mania/1697375)
+  - [K/DA ft. Madison Beer, (G)I-DLE, Jaira Burns - POP/STARS (Benzopirene) \[MP4K3 Edit\]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
+  - [kemu feat.GUMI - Life Reset Button (Kamikaze) \[New Game Plus /w Raveille (MP4K4 Edit)\]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
+  - [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/885179#mania/1850115)
+  - [naotyu- - Her Majesty (Elementaires) \[Another\]](https://osu.ppy.sh/beatmapsets/607365#mania/1282858)    
+  - [Omoi - Teo (Luin) \[d x1.1\]](https://osu.ppy.sh/beatmapsets/762268#mania/1602726)
+  - [xi - Freedom Dive (tpz Overcute Remix) (Shoegazer) \[Ayumu\]](https://osu.ppy.sh/beatmapsets/370816#mania/812585)   
+  - [Omoi - Snow Drive (frollica) \[Felicity \[11\]\]](https://osu.ppy.sh/beatmapsets/480013#mania/1024856)
+  - [Fightstar - Floods (\[Crz\]Crysarlene) \[Uprising\]](https://osu.ppy.sh/beatmapsets/1130088#mania/2360664)     
+  - [YZYX - Dysnomia (Chrubble) \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/2595611)
+  - [Xanopticon - Psicicite (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/659977#mania/13975841)     
+  - [Rotten Blood - that schoolgirl (Abraxos) \[the worst\]](https://osu.ppy.sh/beatmapsets/707565#mania/2183960)    
+  - [t+pazolite - Chrome Vox (Raveille) \[SHADE EXPRESSIONZ!\]](https://osu.ppy.sh/beatmapsets/707565#mania/2183960)   
+  - [Camellia - This Future (we didn't expect) (Evening) \[btoa\]](https://osu.ppy.sh/beatmapsets/1086076#mania/2271109)
+  - [Chroma - I (Guilhermeziat) \[You\]](https://osu.ppy.sh/beatmapsets/756806#mania/1592359)
+- Tiebreaker
+  - **[YUC'e - Future Cider (gemboyong) \[Icy Lolypop\]](https://osu.ppy.sh/beatmapsets/754793#mania/1588989)**
 
-### Group Stage week 2
+### Finals week 1
 
-**[Download the mappack here! (112 MB)](https://drive.google.com/uc?export=download&id=14PCz90yD5v4mtKWSiCmzgQpfiMJVIA_c)**
+**[Download the mappack here! (152 MB)](https://mega.nz/file/eJ4gyLDB#KmS0gCt2ESk1wgQ3xppwrD8MBjTlk2u66H01TY7sWdg)**
 
-- NoMod
-  - [T7 - Strike (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/679007#osu/1435677)
-  - [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs- (xLolicore-) \[Lince's Schizophrenia\]](https://osu.ppy.sh/beatmapsets/618645#osu/1306871)
-  - [VY1 - Cyber Thunder Cider (tutuhaha) \[Cider\]](https://osu.ppy.sh/beatmapsets/47146#osu/146610)
-  - [Function Phantom - Variable (Chaoslitz) \[Deluxe\]](https://osu.ppy.sh/beatmapsets/751774#osu/1582594)
-  - [Kabocha - EmbryO (Kawashiro) \[Garden's Expert\]](https://osu.ppy.sh/beatmapsets/947018#osu/1990062)
-- Hidden
-  - [Natsuiro Matsuri - Marigold (Ayucchi) \[Bittersweet\]](https://osu.ppy.sh/beatmapsets/1167380#osu/2435698)
-  - [kors k - SigSig (Reiji-RJ) \[Another\]](https://osu.ppy.sh/beatmapsets/27677#osu/92684)
-- HardRock
-  - [Grand Thaw - SOLROS (Lunala) \[Fantasia\]](https://osu.ppy.sh/beatmapsets/1136592#osu/2376019)
-  - [siromaru - Absurd Gaff (spro) \[Another\]](https://osu.ppy.sh/beatmapsets/278213#osu/630291)
-- DoubleTime
-  - [Shirakami Fubuki - Say! Fanfare! (Bokamin) \[Insane\]](https://osu.ppy.sh/beatmapsets/1277448#osu/2658704)
-  - [Giga-P - Electric Angel (koreapenguin) \[Sonnyc's Insane\]](https://osu.ppy.sh/beatmapsets/172900#osu/417898)
 - FreeMod
-  - [M2U - A Bella! (feat. Lucy) (Okoratu) \[Battle's Extra\]](https://osu.ppy.sh/beatmapsets/1158767#osu/2418106)
-  - [M2U - Memory of Beach (milr\_) \[Mx\]](https://osu.ppy.sh/beatmapsets/1120861#osu/2342057)
+  - [sakuzyo - Hodie (Tidek) \[Vivace\]](https://osu.ppy.sh/beatmapsets/924601#mania/1931227)
+  - [sakuraburst - dragonlands (Toaph Daddy) \[myth\]](https://osu.ppy.sh/beatmapsets/808881#mania/1697375)
+  - [K/DA ft. Madison Beer, (G)I-DLE, Jaira Burns - POP/STARS (Benzopirene) \[MP4K3 Edit\]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
+  - [kemu feat.GUMI - Life Reset Button (Kamikaze) \[New Game Plus /w Raveille (MP4K4 Edit)\]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
+  - [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/885179#mania/1850115)
+  - [naotyu- - Her Majesty (Elementaires) \[Another\]](https://osu.ppy.sh/beatmapsets/607365#mania/1282858)    
+  - [Omoi - Teo (Luin) \[d x1.1\]](https://osu.ppy.sh/beatmapsets/762268#mania/1602726)
+  - [xi - Freedom Dive (tpz Overcute Remix) (Shoegazer) \[Ayumu\]](https://osu.ppy.sh/beatmapsets/370816#mania/812585)   
+  - [Omoi - Snow Drive (frollica) \[Felicity \[11\]\]](https://osu.ppy.sh/beatmapsets/480013#mania/1024856)
+  - [Fightstar - Floods (\[Crz\]Crysarlene) \[Uprising\]](https://osu.ppy.sh/beatmapsets/1130088#mania/2360664)     
+  - [YZYX - Dysnomia (Chrubble) \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/2595611)
+  - [Xanopticon - Psicicite (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/659977#mania/13975841)     
+  - [Rotten Blood - that schoolgirl (Abraxos) \[the worst\]](https://osu.ppy.sh/beatmapsets/707565#mania/2183960)    
+  - [t+pazolite - Chrome Vox (Raveille) \[SHADE EXPRESSIONZ!\]](https://osu.ppy.sh/beatmapsets/707565#mania/2183960)   
+  - [Camellia - This Future (we didn't expect) (Evening) \[btoa\]](https://osu.ppy.sh/beatmapsets/1086076#mania/2271109)
+  - [Chroma - I (Guilhermeziat) \[You\]](https://osu.ppy.sh/beatmapsets/756806#mania/1592359)
+- Tiebreaker
+  - **[YUC'e - Future Cider (gemboyong) \[Icy Lolypop\]](https://osu.ppy.sh/beatmapsets/754793#mania/1588989)**
 
 ### Group Stage week 1
 
