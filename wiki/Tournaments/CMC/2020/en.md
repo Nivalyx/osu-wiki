@@ -59,7 +59,7 @@ CMC 2020 was run by various Indonesian osu! community members.
 
 ## Participants
 
-Listed below are players who qualified into the Group Stage (along with their respective seeding and group placement) out of 53 registered players in total.
+The following are players who qualified into the Group Stage (along with their respective seeding and group placement) out of 53 registered players in total.
 
 | Group | Seed A | Seed B | Seed C | Seed D |
 | :-- | :-- | :-- | :-- | :-- |
@@ -184,6 +184,29 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
   - [seafoxy - Hisame (FelixSpade) \[New Season\]](https://osu.ppy.sh/beatmapsets/1091518#mania/2281898)
 - Tiebreaker
   - **[Magnetude - Broken (SaltyMermaid) \[Shattered\]](https://osu.ppy.sh/beatmapsets/842099#mania/1762138)** 
+  
+### Group Stage
+
+**[Download the mappack here! (29 MB)](https://mega.nz/file/WJYlVAyB#VaveHrRewqSkukDhdYajrhvWeS7CY-iZ38j4Pc7s0ok)**
+
+- FreeMod
+  - [Getter Jaani - Rockefeller Street (\[GS\]Logan) \[ProSVperity\]](https://mega.nz/file/jdAwXRIB#tFUChm5qXEYcnhds5ShZu_y4qd06aYjjbn7MOHOuJDM)
+  - [An - Saigo (juankristal) \[Inspiration\]](https://osu.ppy.sh/beatmapsets/609463#mania/1287086)
+  - [Jakub Zytecki - Letters (Cokiiplay) \[Voyage\]](https://osu.ppy.sh/beatmapsets/1282382#mania/2663564)
+  - [LV.4 - Angel dust (Fontes) \[4k leqek's Hard\]](https://osu.ppy.sh/beatmapsets/970810#mania/2039046)
+  - [Ben Briggs - Fearless Living (RuleBlazing) \[Coward\]](https://osu.ppy.sh/beatmapsets/1283930#mania/2666220)
+  - [Thaehan - Final Boss (Theresa May) \[Stage 4 : Credits\]](https://osu.ppy.sh/beatmapsets/980090#mania/2051097)   
+  
+### Qualifiers
+
+**[Download the mappack here! (22 MB)](https://mega.nz/file/3ZJBzQ6Y#_zFdkYDEkMnSckC9bx_Sl_0358CHZU_ZWOEPtfz2yvI)**
+
+- FreeMod
+  - [Shawn Wasabi + YDG - Burnt Rice (HowToPlayLN) \[Overcooked\]](https://osu.ppy.sh/beatmapsets/995871#mania/2083163)
+  - [Yuzuki - Dear You (Vocal Version) (RemFangirl) \[Distant\]](https://osu.ppy.sh/beatmapsets/763326#mania/1605032)
+  - [USAO - Knight Rider (Spy) \[Mashiro's NORMAL\]](https://osu.ppy.sh/beatmapsets/1007938#mania/2138728)
+  - [xi - Titania (Murumoo) \[Lirai's EXPERT\]](https://osu.ppy.sh/beatmapsets/1174746#mania/2487983)
+  - [DETRO - volcanic (\[Crz\]Crysarlene) \[wrong one\]](https://osu.ppy.sh/beatmapsets/984123#mania/2059102)  
 
 ## Match results
 
