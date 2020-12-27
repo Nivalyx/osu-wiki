@@ -8,7 +8,7 @@ tags:
 
 ![CMC 2020 logo](img/logo.jpg)
 
-The **Cemara Mania Cup #1 (2020)** (***CMC 2020***) was a double-elimination 2v2 4K osu!mania tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia ranked #4000 or lower. It was the 1st iteration of the Cemara Mania Cup.
+The **Cemara Mania Cup #1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania (4K) tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia ranked #4000 or lower. It was the 1st iteration of the Cemara Mania Cup.
 
 ## Tournament schedule
 
