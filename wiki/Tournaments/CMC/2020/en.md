@@ -72,15 +72,25 @@ Listed below are players who qualified into the Group Stage (along with their re
 | G | ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808) | ![][flag_ID] [AchsanLovers](https://osu.ppy.sh/users/6368737) | ![][flag_ID] [2ndlegend](https://osu.ppy.sh/users/7621604) | ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304) |
 | H |![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869) | ![][flag_ID] [aghil jayadi](https://osu.ppy.sh/users/8405046) | ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990) | ![][flag_ID] [LNP-](https://osu.ppy.sh/users/4402842) |
 
-Based on the Group Stage outcome, each player were then teamed up into pairs as listed below.
+After the conclusion of the Group Stage, players were then teamed up into pairs of two based on their Group Stage finishing position as listed below.
 
 | Team Name | Player 1 | Player 2 | 
 | :-- | :-- | :-- |
+| **Anti LN Club** | ![][flag_ID] [Ainer](https://osu.ppy.sh/users/13371424) (*Group C / 3rd Place*) | ![][flag_ID] [Kurami\_San](https://osu.ppy.sh/users/8867495) (*Group A / 4th Place*) |
+| **Do'a Ibu** | ![][flag_ID] [Kougyokuu](https://osu.ppy.sh/users/14678051) (*Group D / 3rd Place*) | ![][flag_ID] [Xccelerator202](https://osu.ppy.sh/users/14855101) (*Group B / 4th Place*) |
+| **GWS** | ![][flag_ID] [Afterglowylene](https://osu.ppy.sh/users/15355691) (*Group E / 1st Place*) | ![][flag_ID] [2ndlegend](https://osu.ppy.sh/users/7621604) (*Group G / 2nd Place*) |
 | **L Hunter** | ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) (*Group D / 1st Place*) | ![][flag_ID] [Bapakkao](https://osu.ppy.sh/users/14833319) (*Group B / 2nd Place*) |
 | **Leviathan** | ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933) (*Group C / 1st Place*) | ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623) (*Group A / 2nd Place*) |
+| **Mak Lo Gamink** | ![][flag_ID] [AchsanLovers](https://osu.ppy.sh/users/6368737) (*Group G / 3rd Place*) | ![][flag_ID] [Schwvy](https://osu.ppy.sh/users/14719011) (*Group E / 4th Place*) |
 | **Neppu-Neppu** | ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122) (*Group F / 1st Place*) | ![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869) (*Group H / 2nd Place*) |
+| **Pecel Lele Ujang** | ![][flag_ID] [Yuiazu-](https://osu.ppy.sh/users/12471868) (*Group F / 3rd Place*) | ![][flag_ID] [LNP-](https://osu.ppy.sh/users/4402842) (*Group H / 4th Place*) |
 | **SCP Indonesia** | ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990) (*Group H / 1st Place*) | ![][flag_ID] [HiranoUtami](https://osu.ppy.sh/users/13942350) (*Group F / 2nd Place*) |
+| **Soundtoloyo** | ![][flag_ID] [FerdiXIA-](https://osu.ppy.sh/users/9030389) (*Group A / 3rd Place*) | ![][flag_ID] [denzeljr](https://osu.ppy.sh/users/14335907) (*Group C / 4th Place*) |
+| **Sumber Rejeki** | ![][flag_ID] [Yukari\_Sama](https://osu.ppy.sh/users/6316524) (*Group E / 3rd Place*) | ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304) (*Group G / 4th Place*) |
 | **Team 1** | ![][flag_ID] [LoliCopz](https://osu.ppy.sh/users/11427185) (*Group A / 1st Place*) | ![][flag_ID] [Shiro\_Neko](https://osu.ppy.sh/users/11065963) (*Group C / 2nd Place*) |
+| **Team 11** | ![][flag_ID] [N i k o L](https://osu.ppy.sh/users/12971540) (*Group B / 3rd Place*) | ![][flag_ID] [ladycello](https://osu.ppy.sh/users/15412010) (*Group D / 4th Place*) |
+| **Team 16** | ![][flag_ID] [aghil jayadi](https://osu.ppy.sh/users/8405046) (*Group H / 3rd Place*) | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) (*Group F / 4th Place*) |
+| **Team 3** | ![][flag_ID] [\[ID\]Rachel-](https://osu.ppy.sh/users/13848924) (*Group B / 1st Place*) | ![][flag_ID] [SanjayaIH](https://osu.ppy.sh/users/12202728) (*Group D / 2nd Place*) |
 | **UwU Team** | ![][flag_ID] [juww](https://osu.ppy.sh/users/11019862) (*Group E / 1st Place*) | ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808) (*Group G / 2nd Place*) |
 
 ## Mappools
