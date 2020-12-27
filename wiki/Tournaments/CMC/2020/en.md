@@ -51,7 +51,7 @@ CMC 2020 was run by various Indonesian osu! community members.
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=73605600)**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1177376)
 - [Discord server](https://discord.gg/sVHndPU)
 - [Livestream channel](https://www.twitch.tv/oseatournament)
@@ -68,15 +68,16 @@ Listed below are players who qualified into the Group Stage (along with their re
 | C | ![][flag_ID] [Ainer](https://osu.ppy.sh/users/13371424) | ![][flag_ID] [denzeljr](https://osu.ppy.sh/users/14335907) | ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933) | ![][flag_ID] [Shiro\_Neko](https://osu.ppy.sh/users/11065963) |
 | D | ![][flag_ID] [Mirea](https://osu.ppy.sh/users/8404646) | ![][flag_ID] [SanjayaIH](https://osu.ppy.sh/users/12202728) | ![][flag_ID] [Kougyokuu](https://osu.ppy.sh/users/14678051) | ![][flag_ID] [ladycello](https://osu.ppy.sh/users/15412010) |
 | E | ![][flag_ID] [Afterglowylene](https://osu.ppy.sh/users/15355691) | ![][flag_ID] [Schwvy](https://osu.ppy.sh/users/14719011) | ![][flag_ID] [juww](https://osu.ppy.sh/users/11019862) | ![][flag_ID] [Yukari\_Sama](https://osu.ppy.sh/users/6316524) |
-| F | ![][flag_ID] [FerdiXIA-](https://osu.ppy.sh/users/9030389) | ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623) | ![][flag_ID] [LoliCopz](https://osu.ppy.sh/users/11427185) | ![][flag_ID] [Kurami\_San](https://osu.ppy.sh/users/8867495) |
-| G | ![][flag_ID] [FerdiXIA-](https://osu.ppy.sh/users/9030389) | ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623) | ![][flag_ID] [LoliCopz](https://osu.ppy.sh/users/11427185) | ![][flag_ID] [Kurami\_San](https://osu.ppy.sh/users/8867495) |
-| H |![][flag_ID] [FerdiXIA-](https://osu.ppy.sh/users/9030389) | ![][flag_ID] [ragemaster14](https://osu.ppy.sh/users/11829623) | ![][flag_ID] [LoliCopz](https://osu.ppy.sh/users/11427185) | ![][flag_ID] [Kurami\_San](https://osu.ppy.sh/users/8867495) |
+| F | ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122) | ![][flag_ID] [HiranoUtami](https://osu.ppy.sh/users/13942350) | ![][flag_ID] [Yuiazu-](https://osu.ppy.sh/users/12471868) | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) |
+| G | ![][flag_ID] [Meiden](https://osu.ppy.sh/users/4334808) | ![][flag_ID] [AchsanLovers](https://osu.ppy.sh/users/6368737) | ![][flag_ID] [2ndlegend](https://osu.ppy.sh/users/7621604) | ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304) |
+| H |![][flag_ID] [GoGoN-](https://osu.ppy.sh/users/14274869) | ![][flag_ID] [aghil jayadi](https://osu.ppy.sh/users/8405046) | ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990) | ![][flag_ID] [LNP-](https://osu.ppy.sh/users/4402842) |
 
-¹ ![][flag_ID] *[ngonk](https://osu.ppy.sh/users/12030070) initially qualified for this Group Stage berth, but they decided to forfeit from the tournament during the running of the Group Stage. Under the discretion of staff members and all other affected players, ![][flag_MY] [Heya](https://osu.ppy.sh/users/11379332) was later admitted to the Group Stage in their spot.*
+Based on each contestant's Group Stage performance, pairs were formed as listed below.
 
-² ![][flag_ID] *[cfood](https://osu.ppy.sh/users/8626190) initially qualified for this Group Stage berth, but they decided to forfeit from the tournament during the running of the Group Stage. Under the discretion of staff members and all other affected players, ![][flag_PH] [Revillica](https://osu.ppy.sh/users/9806095) was later admitted to the Group Stage in their spot.*
-
-³ *Despite having the ![][flag_US] United States flag displayed on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
+| Team Name | Player 1 | Player 2 | 
+| :-- | :-- | :-- |
+| **SCP Indonesia** | ![][flag_ID] [Haqzen](https://osu.ppy.sh/users/6616990) (*Group H / 1st Place*) | ![][flag_ID] [HiranoUtami](https://osu.ppy.sh/users/13942350) (*Group F / 2nd Place*) |
+| **Team 1** | ![][flag_ID] [LoliCopz](https://osu.ppy.sh/users/11427185) (*Group A / 1st Place*) | ![][flag_ID] [Shiro\_Neko](https://osu.ppy.sh/users/11065963) (*Group C / 2nd Place*) |
 
 ## Mappools
 
