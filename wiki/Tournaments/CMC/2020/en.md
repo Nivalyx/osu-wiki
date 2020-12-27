@@ -153,7 +153,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
   - [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/873621#mania/1826057)
   - [Kita Khyber - Acerbic Relationship (riunosk) \[Noodle Love\]](https://osu.ppy.sh/beatmapsets/992301#mania/2075185)
   - [Zekk - Libertas (Kamuy) \[manumissio vindicta\]](https://osu.ppy.sh/beatmapsets/1089211#mania/2277328)
-  - [Lime - Stargazer (Kamikaze) \[Astral \[1,1x Rate\]\]]https://osu.ppy.sh/beatmapsets/946116#mania/1975564)    
+  - [Lime - Stargazer (Kamikaze) \[Astral \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/946116#mania/1975564)    
   - [Helblinde - Grief & Malice (Fullerene-) \[Kriemhild // 4K\]](https://osu.ppy.sh/beatmapsets/239943#mania/554655)
   - [LV.4 - Spriggan (LovelySerenade) \[Valkyrie Dimension\]](https://osu.ppy.sh/beatmapsets/796372#mania/1672289)   
   - [Lon - Yuru Fuwa Jukai Girl (Wh1teh) \[k\]](https://osu.ppy.sh/beatmapsets/478782#mania/1022471)
