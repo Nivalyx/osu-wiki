@@ -170,13 +170,13 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 **[Download the mappack here! (90 MB)](https://mega.nz/file/LZg0gaqR#uNT_PFapDqmxh9E1kyCYx0zUSqz4pMIfyPo2HbPPan4)**
 
 - FreeMod
-  - [Spektrem - Mountkid - Dino \[NCS Release\] (NO 1 Jinramyeon) \[SV\]](https://osu.ppy.sh/beatmapsets/968290#mania/2026157)
-  - [Tokyo Machine - FIGHT (MapleSyrup-) \[HD\]](https://osu.ppy.sh/beatmapsets/731083#mania/1580345)
-  - [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/873621#mania/1826057)
-  - [Kita Khyber - Acerbic Relationship (riunosk) \[Noodle Love\]](https://osu.ppy.sh/beatmapsets/992301#mania/2075185)
-  - [Zekk - Libertas (Kamuy) \[manumissio vindicta\]](https://osu.ppy.sh/beatmapsets/1089211#mania/2277328)
-  - [Lime - Stargazer (Kamikaze) \[Astral \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/946116#mania/1975564)    
-  - [Helblinde - Grief & Malice (Fullerene-) \[Kriemhild // 4K\]](https://osu.ppy.sh/beatmapsets/239943#mania/554655)
+  - [The Tech Thieves - Fake (Erkfir) \[Faked It (Edit)\]](https://osu.ppy.sh/beatmapsets/1048516#mania/2259015)
+  - [Hayashi Yuki - Chimu no Jiriki (tailsdk) \[NYATY Stage 1: Lag\]](https://osu.ppy.sh/beatmapsets/731083#mania/1580345)
+  - [M2U - H.O.W.Ling (Toaph Daddy) \[Insane\]](https://osu.ppy.sh/beatmapsets/972698#mania/2096223)
+  - [senya - Kimi to Dareka no Yasashisa ni (Virtue-) \[Stage 3 : Great Harmony\]](https://osu.ppy.sh/beatmapsets/981019#mania/2053009)
+  - [Dormir - Une mage blanche (cjunh4972) \[Priere de guerison\]](https://osu.ppy.sh/beatmapsets/856084#mania/1788654)
+  - [An - artcore JINJA (Abraxos) \[Quiescence\_Lv.21]\]](https://osu.ppy.sh/beatmapsets/409503#mania/888942)    
+  - [The Black Dahlia Murder - Deathmask Divine (Valedict) \[Necromance\]](https://osu.ppy.sh/beatmapsets/563020#mania/1190604)
   - [LV.4 - Spriggan (LovelySerenade) \[Valkyrie Dimension\]](https://osu.ppy.sh/beatmapsets/796372#mania/1672289)   
   - [ITO KASHITARO - Yuudachi no Ribbon (Abraxos) \[sleet\]](https://osu.ppy.sh/beatmapsets/729005#mania/1538938)
   - [N.M.S.T - Snowflakes (-Rem-) \[memory (183.75bpm)\]](https://osu.ppy.sh/beatmapsets/998597#mania/2088657)     
