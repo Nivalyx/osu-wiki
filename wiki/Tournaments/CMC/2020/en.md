@@ -8,47 +8,45 @@ tags:
 
 ![CMC 2020 logo](img/logo.jpg)
 
-The **Cemara Mania Cup #1 (2020)** (***CMC 2020***) was a double-elimination 2v2 osu!mania tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all players from Indonesia ranked #4000 or lower. It was the 1st iteration of the Cemara Mania Cup.
+The **Cemara Mania Cup #1 (2020)** (***CMC 2020***) was a double-elimination 2v2 4K osu!mania tournament hosted by ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) and co-hosted by ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653). The tournament was open to all osu!mania players from Indonesia ranked #4000 or lower. It was the 1st iteration of the Cemara Mania Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-11-07/2020-11-22 |
-| Screening phase | 2020-11-23/2020-11-29 |
-| Qualifiers | 2020-11-30/2020-12-06 |
-| Group Stage week 1 | 2020-12-07/2020-12-13 |
-| Group Stage week 2 | 2020-12-14/2020-12-20 |
-| Round of 32 | 2020-12-21/2020-12-27 |
-| Round of 16 | 2020-12-28/2021-01-03 |
-| Quarterfinals | 2021-01-04/2021-01-10 |
-| Semifinals | 2021-01-11/2021-01-17 |
-| Finals week 1 | 2021-01-18/2021-01-23 |
-| Finals week 2 | 2021-01-24/2021-01-30 |
+| Registration phase | 2020-10-06/2020-11-01 |
+| Screening phase | 2020-11-02/2020-11-08 |
+| Qualifiers | 2020-11-09/2020-11-15 |
+| Group Stage | 2020-11-16/2020-11-22 |
+| Quarterfinals | 2020-11-23/2020-11-29 |
+| Semifinals | 2020-11-30/2020-12-06 |
+| Finals week 1 | 2020-12-07/2020-12-13 |
+| Finals week 2 | 2020-12-14/2020-12-20 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag for each team member, IDR 30.000,- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag for each team member + 100% of the raised prize pool |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
 | *4th place* | Steam Wallet voucher worth approx. IDR 50.000,- for each team member |
 
 ## Organization
 
-oSEAT4 is run by various osu! community members predominantly hailing from South East Asian countries.
+CMC 2020 was run by various Indonesian osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
-| Mappool selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
-| Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_GB] [timberwolf](https://osu.ppy.sh/users/11042418), ![][flag_FI] [HENKSELI](https://osu.ppy.sh/users/7005392), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
-| Streamer | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [--Mirai--](https://osu.ppy.sh/users/8923407), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997)  |
-| Commentator | ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PH] [patsugoi](https://osu.ppy.sh/users/15748531), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
-| Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [Arvalon](https://osu.ppy.sh/users/14667308), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321) |
-| Graphic designer | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) |
-| Spreadsheet manager | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
+| Host | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) |
+| Co-host | ![][flag_ID] [LLENN-](https://osu.ppy.sh/users/7428653) |
+| Mappool selector | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [xChose](https://osu.ppy.sh/users/10213428), ![][flag_ID] [Kurami](https://osu.ppy.sh/users/10184990) |
+| Playtester | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [xChose](https://osu.ppy.sh/users/10213428), ![][flag_ID] [Kurami](https://osu.ppy.sh/users/10184990) |
+| Streamer | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949) |
+| Commentator | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991), ![][flag_ID] [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224), ![][flag_ID] [piesachan](https://osu.ppy.sh/users/3356184), ![][flag_ID] [Hwarry](https://osu.ppy.sh/users/2318309), ![][flag_ID] [-\[ ZeroTwo \]-](https://osu.ppy.sh/users/15052487), ![][flag_ID] [RizalRhmn](https://osu.ppy.sh/users/12532297) |
+| Referee | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [xChose](https://osu.ppy.sh/users/8738085), ![][flag_ID] [Kurami](https://osu.ppy.sh/users/10184990), ![][flag_ID] [-Nana-](https://osu.ppy.sh/users/8738085), ![][flag_ID] [LyfLin](https://osu.ppy.sh/users/5198950) |
+| Graphic designer | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949), ![][flag_ID] [-Nana-](https://osu.ppy.sh/users/8738085) |
+| Spreadsheet manager | ![][flag_ID] [-AMIYA-](https://osu.ppy.sh/users/7219949), ![][flag_ID] [Sies](https://osu.ppy.sh/users/6491991), ![][flag_ID] [Ririya-](https://osu.ppy.sh/users/15590443) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
