@@ -124,47 +124,43 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 **[Download the mappack here! (152 MB)](https://mega.nz/file/eJ4gyLDB#KmS0gCt2ESk1wgQ3xppwrD8MBjTlk2u66H01TY7sWdg)**
 
 - FreeMod
-  - [sakuzyo - Hodie (Tidek) \[Vivace\]](https://osu.ppy.sh/beatmapsets/924601#mania/1931227)
-  - [sakuraburst - dragonlands (Toaph Daddy) \[myth\]](https://osu.ppy.sh/beatmapsets/808881#mania/1697375)
-  - [K/DA ft. Madison Beer, (G)I-DLE, Jaira Burns - POP/STARS (Benzopirene) \[MP4K3 Edit\]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
-  - [kemu feat.GUMI - Life Reset Button (Kamikaze) \[New Game Plus /w Raveille (MP4K4 Edit)\]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
-  - [Mayumi Morinaga - dreamin' feat. Ryu\* (+VOX Mix) (\_underjoy) \[UJCHAN!!\]](https://osu.ppy.sh/beatmapsets/885179#mania/1850115)
-  - [naotyu- - Her Majesty (Elementaires) \[Another\]](https://osu.ppy.sh/beatmapsets/607365#mania/1282858)    
-  - [Omoi - Teo (Luin) \[d x1.1\]](https://osu.ppy.sh/beatmapsets/762268#mania/1602726)
-  - [xi - Freedom Dive (tpz Overcute Remix) (Shoegazer) \[Ayumu\]](https://osu.ppy.sh/beatmapsets/370816#mania/812585)   
-  - [Omoi - Snow Drive (frollica) \[Felicity \[11\]\]](https://osu.ppy.sh/beatmapsets/480013#mania/1024856)
-  - [Fightstar - Floods (\[Crz\]Crysarlene) \[Uprising\]](https://osu.ppy.sh/beatmapsets/1130088#mania/2360664)     
-  - [YZYX - Dysnomia (Chrubble) \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/2595611)
-  - [Xanopticon - Psicicite (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/659977#mania/13975841)     
-  - [Rotten Blood - that schoolgirl (Abraxos) \[the worst\]](https://osu.ppy.sh/beatmapsets/707565#mania/2183960)    
-  - [t+pazolite - Chrome Vox (Raveille) \[SHADE EXPRESSIONZ!\]](https://osu.ppy.sh/beatmapsets/707565#mania/2183960)   
-  - [Camellia - This Future (we didn't expect) (Evening) \[btoa\]](https://osu.ppy.sh/beatmapsets/1086076#mania/2271109)
-  - [Chroma - I (Guilhermeziat) \[You\]](https://osu.ppy.sh/beatmapsets/756806#mania/1592359)
+  - [Jameson Hodge - pn sqnc 518\[6\] \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmapsets/973377#mania/2037752)
+  - [THE SxPLAY & KIVA - Hyou Ryuu \[Stage 1: Drifted\]](https://osu.ppy.sh/beatmapsets/980182#mania/2051288)
+  - [Freezer feat. Kiichigo - Chocolate Planet (Syadow-) \[LNfried's HEAVENLY\]](https://osu.ppy.sh/beatmapsets/734969#mania/1579836)
+  - [Nauts - Second Run (Core Mix) (Zyph) \[4K LN\]](https://osu.ppy.sh/beatmapsets/594821#mania/1258021)
+  - [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224999)
+  - [DJ Okawari - Flower Dance (hievery2) \[Inflorescence\]](https://osu.ppy.sh/beatmapsets/813270#mania/1705690)    
+  - [Sharkey & Arkitech - Quadraphinix (Xay) \[Challenge\]](https://osu.ppy.sh/beatmapsets/828129#mania/1735169)
+  - [DJ Sharpnel - Gate Openerz (Night Bunny 7) \[IcyWorld's Lv.15\]](https://osu.ppy.sh/beatmapsets/686692#mania/1453300)   
+  - [Lon - Yuru Fuwa Jukai Girl (Wh1teh) \[k\]](https://osu.ppy.sh/beatmapsets/478782#mania/1022471)
+  - [Stellabee - Overflowing love and music (Swan) \[Yes\]](https://osu.ppy.sh/beatmapsets/858728#mania/1794632)     
+  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[long ver.\] (Gekido-) \[\o\ DAB /o/\]](https://osu.ppy.sh/beatmapsets/942612#mania/1968373)
+  - [Terminal 11 - Counter Clockwise Chant Pattern (Phil) \[Xaywise\]](https://osu.ppy.sh/beatmapsets/659039#mania/1395854)     
+  - [YUC'e - Night Club Junkie (gemboyong) \[Junk\]](https://osu.ppy.sh/beatmapsets/736941#mania/1555269)    
+  - [Camellia - Lunatic Rough Party!! (Long Ver.) (Ichigaki) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/286262#mania/646319)   
+  - [Camellia - Bring Our Ignition Back (Evening) \[light\]](https://osu.ppy.sh/beatmapsets/1188926#mania/2477443)
+  - [penoreri - Sailing Force (Chrubble) \[Voyage\]](https://osu.ppy.sh/beatmapsets/947636#mania/1979200) 
 - Tiebreaker
-  - **[YUC'e - Future Cider (gemboyong) \[Icy Lolypop\]](https://osu.ppy.sh/beatmapsets/754793#mania/1588989)**
+  - **[EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](https://osu.ppy.sh/beatmapsets/805341#mania/1690577)**
 
-### Group Stage week 1
+### Semifinals
 
-**[Download the mappack here! (136 MB)](https://drive.google.com/uc?export=download&id=1AgtwrukjKoTm4uyX8Exxv7xJ4YTluhB0)**
+**[Download the mappack here! (115 MB)](https://mega.nz/file/SYh2WRJT#VLADStY3zDWzzc34s2P00-9SJLRaAWeWhOH_bNxF5Rs)**
 
-- NoMod
-  - [MOB CHOIR - 99 (AirinCat) \[SALT SPLASH\]](https://osu.ppy.sh/beatmapsets/1221343#osu/2540648)
-  - [Memme - BSPower Explosion (yeahyeahyeahhh) \[Baka yyy\]](https://osu.ppy.sh/beatmapsets/45760#osu/142772)
-  - [KNOWER - Overtime (Mir) \[Ecstacy\]](https://osu.ppy.sh/beatmapsets/1170697#osu/2442178)
-  - [Getty vs. DJ DiA - Ops:Code -Rapture- (Realazy) \[Jean-Mi's Extra\]](https://osu.ppy.sh/beatmapsets/776328#osu/2415132)
-  - [GANO - Tanoshii Kaerimichi (newton-) \[Extra\]](https://osu.ppy.sh/beatmapsets/1221646#osu/2541192)
-- Hidden
-  - [sasakure.UK - Hisekai Harmonize feat. Kagamine Rin (Enon) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/934960#osu/1978834)
-  - [BUTAOTOME - Towa no Maigo (Icekalt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069288#osu/2239337)
-- HardRock
-  - [ALiCE'S EMOTiON - Foughten Field (Natsu) \[Last Spell\]](https://osu.ppy.sh/beatmapsets/366643#osu/804534)
-  - [Paramore - Looking Up (Lesjuh) \[Hard\]](https://osu.ppy.sh/beatmapsets/17563#osu/66662)
-- DoubleTime
-  - [Dreamcatcher - Wake up (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/645662#osu/1412353)
-  - [Comp - Touchuu Aika (Mao) \[KenTwin's Insane\]](https://osu.ppy.sh/beatmapsets/198700#osu/472087)
 - FreeMod
-  - [Jin - Children Record (tutuhaha) \[Record\]](https://osu.ppy.sh/beatmapsets/55775#osu/169004)
-  - [ARM x Komso feat. Nanahira - Onegai! Kon kon Oinarisama (Len) \[Classic Extra\]](https://osu.ppy.sh/beatmapsets/1302044#osu/2707852)
+  - [Jameson Hodge - pn sqnc 518\[6\] \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmapsets/973377#mania/2037752)
+  - [THE SxPLAY & KIVA - Hyou Ryuu \[Stage 1: Drifted\]](https://osu.ppy.sh/beatmapsets/980182#mania/2051288)
+  - [Freezer feat. Kiichigo - Chocolate Planet (Syadow-) \[LNfried's HEAVENLY\]](https://osu.ppy.sh/beatmapsets/734969#mania/1579836)
+  - [Nauts - Second Run (Core Mix) (Zyph) \[4K LN\]](https://osu.ppy.sh/beatmapsets/594821#mania/1258021)
+  - [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224999)
+  - [DJ Okawari - Flower Dance (hievery2) \[Inflorescence\]](https://osu.ppy.sh/beatmapsets/813270#mania/1705690)    
+  - [Sharkey & Arkitech - Quadraphinix (Xay) \[Challenge\]](https://osu.ppy.sh/beatmapsets/828129#mania/1735169)
+  - [DJ Sharpnel - Gate Openerz (Night Bunny 7) \[IcyWorld's Lv.15\]](https://osu.ppy.sh/beatmapsets/686692#mania/1453300)   
+  - [Lon - Yuru Fuwa Jukai Girl (Wh1teh) \[k\]](https://osu.ppy.sh/beatmapsets/478782#mania/1022471)
+  - [Stellabee - Overflowing love and music (Swan) \[Yes\]](https://osu.ppy.sh/beatmapsets/858728#mania/1794632)     
+  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) \[long ver.\] (Gekido-) \[\o\ DAB /o/\]](https://osu.ppy.sh/beatmapsets/942612#mania/1968373)
+- Tiebreaker
+  - **[EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](https://osu.ppy.sh/beatmapsets/805341#mania/1690577)**  
 
 ### Qualifiers
 
