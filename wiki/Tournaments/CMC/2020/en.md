@@ -348,7 +348,7 @@ Sunday, 29 November 2020:
 
 ### Group Stage rules
 
-1. In the Group Stage, the 32 previously qualified players will be divided into 8 groups consisting of 4 different players each based on their seed.
+1. In the Group Stage, the 32 previously qualified players will be randomly spread out into 8 groups consisting of 4 different players each based on their seed.
 2. All the players from each group will face each other in a single multiplayer lobby under the "Battle Royale" matchup system as follows:
     - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
     - After the conclusion of each map, the two players that performs the best will receive +2 points while the other two players will receive +1 point.
