@@ -59,7 +59,7 @@ Cemara Mania Cup #1 (2020) was run by various Indonesian osu! community members.
 
 ## Podium
 
-Cemara Mania Cup #1 (2020) has officially been concluded with the following podium finishers:
+Cemara Mania Cup #1 (2020) has officially been concluded with the following podium:
 
 | Placing | Team |
 | :-: | :-- |
