@@ -354,7 +354,7 @@ Sunday, 29 November 2020:
     - After the conclusion of each map, the two players that performs the best will receive +2 points while the other two players will receive +1 point.
 3. Players **are not allowed** to ban any maps in the Group Stage.
 4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room. 
-    - In case of a points tie, affected players will be ordered by their Group Stage seed.
+    - In case of a points tie, all affected players will be ordered by their Group Stage seed.
 
 ### Knock-out stage rules
 
