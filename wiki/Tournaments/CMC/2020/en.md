@@ -310,12 +310,12 @@ Sunday, 29 November 2020:
 3. Match schedules will be predetermined by the Tournament Management. Had there been any team(s) who were unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If both members of a team does not show up within **10 minutes** of the start time, their opponent wins by default.
-    - If a team can only institute one team member (out of the required two) for the match, the referee can either continue the match in a 2v1 setting (at the opposing team's discretion) or prerogatively award their opponent a win by default.
+    - If a team can only institute one team member (out of the required two) for the match, the referee can either continue the match in a 2v1 setting (at the opposing team's discretion) or prerogatively award their opponent a Win By Default.
 6. If no staff or referee is available, the match will be postponed.
 7. If a player disconnects, it will be treated as if they failed the map.
    - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
 8. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.
-   - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the referee can either continue the match in a 2v1 setting (at the opposing team's discretion) or prerogatively award their opponent a win by default.
+   - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the referee can either continue the match in a 2v1 setting (at the opposing team's discretion) or prerogatively award their opponent a Win By Default.
 9. Lag is not a valid reason to nullify a map.
 10. If there are any unforseen problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 11. It is expected to be polite and respectful to each other. Penalties will be given if players violate.
@@ -368,9 +368,9 @@ Sunday, 29 November 2020:
    - In the Quarterfinals, each team needs to win 5 points in order to win a match. (Best-of-9)
    - In the Semifinals, each team needs to win 6 points in order to win a match. (Best-of-11)
    - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best-of-13)   
-   - Teams who Win By Default.
-   - If there are Teams who is disqualified from the tournament.
-
+   - Team(s) who Win By Default.
+   - Whether there are team(s) who got disqualified during the match.
+   
 ### Match regulations
 
 1. A representative of each team must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
