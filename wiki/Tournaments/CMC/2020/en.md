@@ -335,26 +335,25 @@ Sunday, 29 November 2020:
 
 1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
 2. In the lobby, all players will have to consecutively play all of the five Qualifier maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
+   - All maps are due to be played twice in each lobby; on each map, only the best score from the two attempts that will be taken into consideration.
 3. Players **are not allowed** to ban any maps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
-5. 32 players with the **highest amount of accumulated Qualifier points in total** will advance to the Group Stage.
-   - The Qualifier points for each individual map are being calculated by the following mechanism: The best performer on the map across all Qualifier lobbies combined gains +150 points added to their Qualifier points tally, the second best performer gains +149 points, the third best performer gains +148 points, and so on until the 150th best performer gains +1 point. Players who ranked 151th or lower on the corresponding map will receive no point.
-   - Players who ranked #1 - #8 based on their accumulated Qualifier Points will be designated as Seed A players.
-   - Players who ranked #9 - #16 based on their accumulated Qualifier Points will be designated as Seed B players.
-   - Players who ranked #17 - #24 based on their accumulated Qualifier Points will be designated as Seed C players.
-   - Players who ranked #18 - #32 based on their accumulated Qualifier Points will be designated as Seed D players.
-   - Players who ranked #33 or lower based on their accumulated Qualifier Points will be knocked out from the tournament.
+5. 32 players with the **highest amount of accumulated Qualifier score in total** will advance to the Group Stage.
+   - Players who ranked #1 - #8 based on their accumulated Qualifier score will be designated as Seed A players.
+   - Players who ranked #9 - #16 based on their accumulated Qualifier score will be designated as Seed B players.
+   - Players who ranked #17 - #24 based on their accumulated Qualifier score will be designated as Seed C players.
+   - Players who ranked #18 - #32 based on their accumulated Qualifier score will be designated as Seed D players.
+   - Players who ranked #33 or lower based on their accumulated Qualifier score will be knocked out from the tournament.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 ### Group Stage rules
 
-1. In the Group Stage, the 96 previously qualified players will be divided into 16 groups consisting of 6 different players each based on their seed.
-2. All the players from each group will face each other over the period of two weeks based on the following bracket scheme:
-
-![Group Stage bracket scheme](img/group-stage-bracket.jpg)
-
-3. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players will be eliminated from the tournament.
-4. All matches in Group Stage will be done in a Best-of-9 matchup format.
+1. In the Group Stage, the 32 previously qualified players will be divided into 8 groups consisting of 4 different players each based on their seed.
+2. All the players from each group will face each other in a single multiplayer room under the "Royal Rumble" matchup system as follows:
+    - 
+3. Players **are not allowed** to ban any maps in the Group Stage.
+4. Each player's Group Stage finishing position is determined by the amount of points they accumulate in the room. 
+    - In case of a points tie, affected players will be ordered by their Group Stage seed.
 
 ### Knock-out stage rules
 
