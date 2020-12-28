@@ -34,7 +34,7 @@ The **Cemara Mania Cup #1 (2020)** (***CMC 2020***) was a double-elimination 2v2
 
 ## Organization
 
-CMC 2020 was run by various Indonesian osu! community members.
+Cemara Mania Cup #1 (2020) was run by various Indonesian osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -59,7 +59,7 @@ CMC 2020 was run by various Indonesian osu! community members.
 
 ## Podium
 
-This competition has officially been concluded with the following podium finishers:
+Cemara Mania Cup #1 (2020) has officially been concluded with the following podium finishers:
 
 | Placing | Team |
 | :-: | :-- |
