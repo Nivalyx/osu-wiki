@@ -373,20 +373,16 @@ Sunday, 29 November 2020:
 
 ### Match regulations
 
-1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+1. A representative of each team must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier and Group Stage lobbies.
-2. Each player has to ban **one beatmap** (on Group Stage) and **two beatmaps** (on the Knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
-   - Each player may not ban two maps from the same modpool in a single match.
-   - Banning does not apply in the Qualifier lobbies.
-3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
-   - Warm-ups do not apply in the Qualifier lobbies.
-4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
-   - Playing a FreeMod pick without any mods activated is not allowed.
-5. In case a map ends with a score tie, **the player that doesn't pick the map** gets the point.
-6. In case of a tiebreaker, each player will discreetly ban 1 of the 3 remaining available maps from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one map that ends up not being banned by both players will be played as the tiebreaker.
-   - If both players ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
-7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
+2. Each team has to ban **two beatmaps** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
+   - Banning does not apply in the Qualifier and Group Stage lobbies.
+3. Each team is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
+   - Warm-ups do not apply in the Qualifier and Group Stage lobbies.
+4. All maps (including the Tiebreaker) will be played with the FreeMod option enabled. Each player *may* opt to play a map with either Hidden, FadeIn, Mirror, Flashlight, or any possible combinations of the four mods.
+   - Playing a map without any mods activated whatsoever is allowed, however playing a map with a mod that is not mentioned above (i.e. Random) is not allowed.
+5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
