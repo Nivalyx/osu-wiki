@@ -349,32 +349,34 @@ Sunday, 29 November 2020:
 ### Group Stage rules
 
 1. In the Group Stage, the 32 previously qualified players will be divided into 8 groups consisting of 4 different players each based on their seed.
-2. All the players from each group will face each other in a single multiplayer room under the "Royal Rumble" matchup system as follows:
-    - 
+2. All the players from each group will face each other in a single multiplayer lobby under the "Battle Royale" matchup system as follows:
+    - All players will have to consecutively play all of the six Group Stage maps in the order that it is being written on the [main spreadsheet](https://docs.google.com/spreadsheets/d/1VttS6M8GdWINmMBuHws6AcND0yh3mNGzUiVQwleLP4Q/edit#gid=1467418977).
+    - After the conclusion of each map, the two players that performs the best will receive +2 points while the other two players will receive +1 point.
 3. Players **are not allowed** to ban any maps in the Group Stage.
-4. Each player's Group Stage finishing position is determined by the amount of points they accumulate in the room. 
+4. Players will subsequently be ranked in their respective groups based from the amount of points they accumulate in the room. 
     - In case of a points tie, affected players will be ordered by their Group Stage seed.
 
 ### Knock-out stage rules
 
-1. The 64 players who managed to get through from the Group Stage will be matched to each other based on their Group Stage placement as described above.
-2. Players will compete against each other using the Double Elimination system.
+1. Based on each player's Group Stage finishing position, players will then be teamed up into pairs of two where the group winners are set to be matched with the group runners-up and the 3rd place finishers are set to be matched with the 4th place finishers at random.
+2. Teams will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as following:
-   - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
-   - Players who lose in the Lower Bracket will be eliminated from the tournament.
+   - Teams who lose in the Upper Bracket can still play again on the Lower Bracket.
+   - Teams who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
-4. Players who can compete in the next round are determined by:
-   - In the Round of 32, Round of 16, and Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Semifinals and both of the Finals Weeks, each player needs to win 7 points in order to to win a match. (Best-of-13)
-   - Players who Win By Default.
-   - If there are players who is disqualified from the tournament.
+4. Teams who can compete in the next round are determined by:
+   - In the Quarterfinals, each team needs to win 5 points in order to win a match. (Best-of-9)
+   - In the Semifinals, each team needs to win 6 points in order to win a match. (Best-of-11)
+   - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best-of-13)   
+   - Teams who Win By Default.
+   - If there are Teams who is disqualified from the tournament.
 
 ### Match regulations
 
 1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
-   - This rule does not apply in the Qualifier lobbies.
+   - This rule does not apply in the Qualifier and Group Stage lobbies.
 2. Each player has to ban **one beatmap** (on Group Stage) and **two beatmaps** (on the Knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
    - Each player may not ban two maps from the same modpool in a single match.
    - Banning does not apply in the Qualifier lobbies.
