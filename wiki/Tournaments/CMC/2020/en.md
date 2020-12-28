@@ -59,7 +59,7 @@ CMC 2020 was run by various Indonesian osu! community members.
 
 ## Podium
 
-This competition has come to an end and resulted in the following podium:
+This competition has officially been concluded which resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
