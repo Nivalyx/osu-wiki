@@ -124,7 +124,7 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 **[Download the mappack here! (152 MB)](https://mega.nz/file/eJ4gyLDB#KmS0gCt2ESk1wgQ3xppwrD8MBjTlk2u66H01TY7sWdg)**
 
 - FreeMod
-  - [Jameson Hodge - pn sqnc 518\[6\] \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmapsets/973377#mania/2037752)
+  - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmapsets/973377#mania/2037752)
   - [THE SxPLAY & KIVA - Hyou Ryuu (zero2snow) \[Stage 1: Drifted\]](https://osu.ppy.sh/beatmapsets/980182#mania/2051288)
   - [Freezer feat. Kiichigo - Chocolate Planet (Syadow-) \[LNfried's HEAVENLY\]](https://osu.ppy.sh/beatmapsets/734969#mania/1579836)
   - [Nauts - Second Run (Core Mix) (Zyph) \[4K LN\]](https://osu.ppy.sh/beatmapsets/594821#mania/1258021)
@@ -210,13 +210,56 @@ After the conclusion of the Group Stage, players were then teamed up into pairs 
 
 ## Match results
 
-### Semifinals
+### Finals week 2
 
-Friday, 27 November 2020:
+Saturday, 19 December 2020:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **Sumber Rejeki** | **5** | 0 | Do'a Ibu | [#1](https://osu.ppy.sh/community/matches/70548959) |
+| Lower | UwU Team | 2 | **7** | **Leviathan** | [#1](https://osu.ppy.sh/community/matches/71838770) |
+
+Sunday, 13 December 2020, Grand Final:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **Neppu-Neppu** | **7** | 2 | Leviathan | [#1](https://osu.ppy.sh/community/matches/71903519) |
+
+### Finals week 1
+
+Saturday, 12 December 2020:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | UwU Team | 0 | **7** | **Neppu-Neppu** | [#1](https://osu.ppy.sh/community/matches/71412828) |
+
+Sunday, 13 December 2020:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **Leviathan** | **7** | 3 | Team 11 | [#1](https://osu.ppy.sh/community/matches/71475447) |
+
+### Semifinals
+
+Friday, 4 December 2020:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Team 3 | 2 | **6** | Leviathan | [#1](https://osu.ppy.sh/community/matches/70941169) |
+
+Saturday, 5 December 2020:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | L Hunter | 2 | **6** | **Team 11** | [#1](https://osu.ppy.sh/community/matches/70998868) |
+| Upper | SCP Indonesia | 2 | **6** | **UwU Team** | [#1](https://osu.ppy.sh/community/matches/71003960) |
+| Upper | **Neppu-Neppu** | **6** | 3 | GWS | [#1](https://osu.ppy.sh/community/matches/71008403) |
+
+Sunday, 6 December 2020:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | GWS | 2 | **6** | Team 11 | [#1](https://osu.ppy.sh/community/matches/71071493) |
+| Upper | SCP Indonesia | 0 | **6** | **Leviathan** | *win by default* |
 
 ### Quarterfinals
 
@@ -232,7 +275,7 @@ Saturday, 28 November 2020:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | Mak Lo Gamink | 0 | **5** | **Team 11** | [#1](https://osu.ppy.sh/community/matches/70605058) |
 | Lower | Team 16 | 0 | **5** | **Soundtoloyo** | [#1](https://osu.ppy.sh/community/matches/70600889) |
-| Upper | Leviathan | 2 | **5** | **Neppu-neppu** | [#1](https://osu.ppy.sh/community/matches/70605490) |
+| Upper | Leviathan | 2 | **5** | **Neppu-Neppu** | [#1](https://osu.ppy.sh/community/matches/70605490) |
 | Upper | Team 1 | 0 | **5** | **SCP Indonesia** | [#1](https://osu.ppy.sh/community/matches/70598560) |
 | Lower | **Pecel Lele Ujang** | **5** | 1 | Anti LN Club | [#1](https://osu.ppy.sh/community/matches/70601346) |
 | Upper | L Hunter | 4 | **5** | **UwU Team** | [#1](https://osu.ppy.sh/community/matches/70611342) |
