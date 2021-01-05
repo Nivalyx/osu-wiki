@@ -10,7 +10,7 @@ tags:
 
 ![OWC #1 logo](img/logo.png)
 
-The **osu! World Cup #1** (***OWC #1***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the first installment of the osu! World Cup.
+The **osu! World Cup #1** (***OWC #1***) was a country-based osu! tournament hosted by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the first installment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -21,10 +21,10 @@ The **osu! World Cup #1** (***OWC #1***) was a country-based osu! tournament hos
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
-| *Special* | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag for each team member, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| *Special* | 1 month of osu!supporter tag for each team member |
 
 ![](img/badge.jpg "OWC #1 winner badge")
 
@@ -95,6 +95,20 @@ This competition has come to an end and resulted in the following podium:
 ## Mappools
 
 ### Finals
+
+- NoMod (played in order)
+  - [Minibosses - Castlevania (m980) \[owc Finals\]](http://www.mediafire.com/file/twuti02311dk6ip/Minibosses+-+Castlevania.osz/file)
+  - [Various Artists - osu! Stream Compilation (Natteke) \[EXE\]](https://osu.ppy.sh/beatmapsets/25403#osu/86044)
+  - [Shiki mixed by Djsmalls - Air (MegaManEXE) \[Best map ever created\]](https://osu.ppy.sh/beatmapsets/13008#osu/48386)
+  - [Nico Nico Douga - U.N. Owen Was Her? (Reikin) \[Ronald Mix\]](https://osu.ppy.sh/beatmapsets/1785#osu/21010)
+  - [07th Expansion - rog-limitation (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/14994#osu/54581)
+  - [Amuro vs Killer - Mei (v2b) \[Another\]](https://osu.ppy.sh/beatmapsets/8965#osu/36290)
+  - [m-flo loves CHEMISTRY - Astrosexy (mtmcl) \[Sexy\]](https://osu.ppy.sh/beatmapsets/13244#osu/49101)
+  - [Renard - Banned Forever (Blue Dragon) \[Lesjuh\]](https://osu.ppy.sh/beatmapsets/16349#osu/64266)    
+- Tiebreaker
+  - **[IOSYS - Usatei (Card N'FoRcE) \[RUN!!\]](https://osu.ppy.sh/beatmapsets/3959#osu/22993)**
+
+### 3rd Place Playoff
 
 - NoMod (played in order)
   - [Glasslake - Driving Lazy Bee (darrihuka) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/3861#osu/22759)
