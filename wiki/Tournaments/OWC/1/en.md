@@ -350,7 +350,7 @@ Saturday, 27 February 2010:
 #### Winning conditions
 
 - The Round of 32 and Round of 16 will be played in a Best-of-3 matchup configuration (first team to 2 points wins).
-- The Quarterfinalswill be played in a Best-of-5 matchup configuration (first team to 3 points wins).
+- The Quarterfinals will be played in a Best-of-5 matchup configuration (first team to 3 points wins).
 - The Semifinals and the Finals will be played in a Best-of-7 matchup configuration (first team to 4 points wins).   
    
 ### Mappool instructions
