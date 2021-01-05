@@ -19,9 +19,9 @@ The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based 
 | Registration Phase | 2010-01-31/2010-02-21 |
 | Round of 32 | 2010-02-22/2010-02-28 |
 | Round of 16 | 2010-03-01/2010-03-07 |
-| Quarterfinals | 2010-03-08/2010-03-14 |
-| Semifinals | 2010-03-15/2010-03-21 |
-| 3rd Place Playoff & Finals | 2010-03-22/2010-03-28 |
+| Quarterfinals | 2010-03-08/2010-03-22 |
+| Semifinals | 2010-03-23/2010-03-29 |
+| 3rd Place Playoff & Finals | 2010-03-30/2010-04-11 |
 
 ## Prizes
 
@@ -204,13 +204,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-Friday, 9 April 2020 (Grand Final) :
+Friday, 9 April 2020 (Grand Final):
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ![][flag_NL] Netherlands | 1 | **4** | ![][flag_CL] **Taiwan** | [#1](https://osu.ppy.sh/mp/494834) |
 
-Friday, 9 April 2020 (3rd Place Playoff) :
+Friday, 9 April 2020 (3rd Place Playoff):
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
