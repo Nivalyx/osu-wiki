@@ -214,7 +214,7 @@ Friday, 9 April 2020 (3rd Place Playoff):
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ![][flag_CL] Chile | 0 | **4** | ![][flag_KO] **South Korea** | [#1](https://osu.ppy.sh/mp/498398) |
+| ![][flag_CL] Chile | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/mp/498398) |
 
 ### Semifinals
 
