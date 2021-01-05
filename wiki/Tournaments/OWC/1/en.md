@@ -222,7 +222,7 @@ Saturday, 27 March 2010:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ![][flag_TW] **Taiwan** | **4** | 3 | ![][flag_KO] South Korea | [#1](https://osu.ppy.sh/mp/403908) |
+| ![][flag_TW] **Taiwan** | **4** | 3 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/mp/403908) |
 | ![][flag_NL] **Netherlands** | **4** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/mp/415277) |
 
 ### Quarterfinals
@@ -237,7 +237,7 @@ Saturday, 20 March 2010:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ![][flag_KO] **South Korea** | **3** | 0 | ![][flag_JP] Japan | *win by default* |
+| ![][flag_KR] **South Korea** | **3** | 0 | ![][flag_JP] Japan | *win by default* |
 
 Sunday, 21 March 2010:
 
