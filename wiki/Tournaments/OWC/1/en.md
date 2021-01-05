@@ -334,17 +334,17 @@ Saturday, 27 February 2010:
    - **A team should have at least 4 players registered in order to be eligible to participate.**
 4. Staff members are not eligible to participate as players in this tournament.
 
-#### Winning conditions
-
-- The Round of 32 and Round of 16 will be played in a Best-of-3 matchup configuration (first team to 2 points wins).
-- The Quarterfinalswill be played in a Best-of-5 matchup configuration (first team to 3 points wins).
-- The Semifinals and the Finals will be played in a Best-of-7 matchup configuration (first team to 4 points wins).
-
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC2020: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+   
+#### Winning conditions
+
+- The Round of 32 and Round of 16 will be played in a Best-of-3 matchup configuration (first team to 2 points wins).
+- The Quarterfinalswill be played in a Best-of-5 matchup configuration (first team to 3 points wins).
+- The Semifinals and the Finals will be played in a Best-of-7 matchup configuration (first team to 4 points wins).   
    
 ### Mappool instructions
 
