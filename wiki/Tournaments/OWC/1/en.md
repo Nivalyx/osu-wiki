@@ -40,6 +40,7 @@ Aside from the three podium finishers listed above, the Tournament Management al
 The osu! World Cup #1 was run by various community members.
 
 | Position | Member(s) |
+| :-: | :-- |
 | Host/Coordinator | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377) |
 | Staff Member | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_ES] [Beuchi-chan](https://osu.ppy.sh/users/67192), ![][flag_AU] [m980](https://osu.ppy.sh/users/3288), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) |
 
