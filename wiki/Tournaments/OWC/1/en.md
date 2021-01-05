@@ -41,10 +41,10 @@ The osu! World Cup #1 was run by various community members.
 
 | Position | Member(s) |
 | :-: | :-- |
-| Host/Coordinator | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377) |
+| Host/Manager | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359) |
-| Referee | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341), ![][flag_ES] [Beuchi-chan](https://osu.ppy.sh/users/67192) |
-| Misc. Staff Member | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) |
+| Map Selector | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377), ![][flag_AU] [m980](https://osu.ppy.sh/users/3288), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) |
+| Referee | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377), ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341), ![][flag_ES] [Beuchi-chan](https://osu.ppy.sh/users/67192) |
 
 ## Links
 
@@ -299,29 +299,57 @@ Saturday, 27 February 2010:
 
 ### Tournament rules
 
-1. One of two captains must post the link of the multiplayer history after the match, you can find it when you join the room into the chat.
-2. If a team not present during the match, that team will be disqualified. Opposing team is obliged to wait for at least 15 minutes for the team to show up.
-3. Any form of cheating will be punished with the disqualification of the team and ban of the cheating player.
+1. The osu! World Cup is a 4v4, country-based team tournament played on the osu! game mode.
+2. Beatmap scoring is based on **[ScoreV1](https://osu.ppy.sh/wiki/en/Score/ScoreV1)**.
+3. Teams will compete against each other following [this bracket set by the Tournament Management](img/bracket.jpg) using the Single Elimination system.
+4. The beatmaps for each round will be announced by the tournament host on the discussion thread in advance on the Sunday before the actual matches take place. Only these beatmaps will be used during the respective matches. 
+   - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie.
+5. The match schedule will be settled by the Tournament Management (see the [scheduling instructions](#scheduling-instructions)).
+6. If no staff or referee is available, the match will be postponed.
+7. If the beatmap ends in a draw, the map will be nullified.
+8. If a player disconnects, their scores will not be counted towards their team's total.
+9. Beatmaps cannot be reused in the same match unless the map was nullified.
+10. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
+11. Exchanging players during a match is allowed without limitations.
+    - **If a map rematch is required, exchanging players is not allowed. With the referee's discretion, an exception can be made if the previous roster is unavailable to play.**
+12. Lag is not a valid reason to nullify a beatmap.
+13. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
+14. If a player disconnects between maps and the team cannot provide a replacement, the match can be delayed 10 minutes at maximum.
+15. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
+16. Disrupting the match by foul play, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
+17. Unexpected incidents are handled by the Tournament Management. Referees may allow higher tolerance depending on the circumstances. This is up to their discretion.
+18. Penalties for violating the tournament rules may include:
+    - Exclusion of specific players for one beatmap
+    - Exclusion of specific players for an entire match
+    - Declaring the match as Lost by Default
+    - Disqualification from the entire tournament
+    - Disqualification from the current and future official tournaments until appealed
+    - Any modification of these rules will be announced.
 
-### Instructions
+### Tournament registration
 
-1. The first stage of the cup is divided depending on continent.
-   - Example: Europe country vs Europe country (Poland vs Portugal).
-2. All matches follow knockout tournament rule.
-3. 32 countries. If not enough countries, cup's stages will be modeled based on the number reached.
-4. Each country's decision will be represented by a "captain" who will choose the members of the team and will inform players about the timetables.
-5. Captains will be chosen by language specific topics or discussions in IRC specific language channels made by trusted players/staffs.
-6. Teams should made up of 4 players and 2 backups in case one or more players are not available to play.
+1. In order to be registered for the tournament, a representative of each country will have to propose a team roster comprising of 4-8 players in the discussion thread.
+2. To ensure valid and serious registrations, every proposed team roster will be checked by the Tournament Management.
+3. All accepted teams will be announced in the discussion thread after the Registration Phase.
+   - **A team should have at least 4 players registered in order to be eligible to participate.**
+4. Staff members are not eligible to participate as players in this tournament.
+
+#### Winning conditions
+
+- The Round of 32 and Round of 16 will be played in a Best-of-3 matchup configuration (first team to 2 points wins).
+- The Quarterfinalswill be played in a Best-of-5 matchup configuration (first team to 3 points wins).
+- The Semifinals and the Finals will be played in a Best-of-7 matchup configuration (first team to 4 points wins).
 
 ### Match instructions
 
-1. For each round, a list of 15 Beatmaps will be given chosen by a staff member of the tournament(a non-player). Countries can choose one of these beatmaps to play for a match (I recommend you prepare another choice in case your opponent chooses the same map) of the round. Beatmap packs containing the 15 beatmaps for every round will be created for convenience.
-2. The matches will be played in a private room created by one of the two competing captains.
-3. Settings will be osu! standard, 4 vs 4 players, "Team VS" mode and Win condition: "Score".
-4. The country with highest team total score (total score of all players) will win the map.
-5. The only mod accepted is No Video.
-6. In the case of a 1-1 draw, there will be a default tiebreaker map that decided by the cup staff.
-7. When a team fails, the other team automatically wins the match.
+1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
+   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC2020: (TeamRed) vs (TeamBlue)".
+   - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+   
+### Mappool instructions
+
+1. All the maps in the mappool will be played without any modifications enabled (NoMod).
+2. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
