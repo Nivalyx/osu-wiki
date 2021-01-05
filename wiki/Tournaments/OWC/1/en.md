@@ -33,7 +33,7 @@ The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based 
 
 ![](img/badge.jpg "OWC #1 winner badge")
 
-Aside from the three podium finishers listed above, the Tournament Management also decided to separately award all members of the ![][flag_JP] Japanese team 1 month of osu!supporter tag each in the wake of [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) incident.
+Aside from the three podium finishers listed above, the Tournament Management also decided to separately award all members of the ![][flag_JP] Japanese team 1 month of osu!supporter tag each in the wake of the [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) incident.
 
 ## Organization
 
@@ -203,6 +203,14 @@ This competition has come to an end and resulted in the following podium:
 ## Match results
 
 ### Round of 16
+
+Friday, 5 March 2010 :
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_JP] **Japan** | **2** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/mp/275730) [#2](https://osu.ppy.sh/mp/275932) |
+| ![][flag_NL] **Netherlands** | **2** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/mp/278742) |
+| ![][flag_TW] **Taiwan** | **2** | 0 | ![][flag_AT]/![][flag_DE] Austria - Germany | [#1](https://osu.ppy.sh/mp/277597) |
 
 ### Round of 32
 
