@@ -24,9 +24,10 @@ The **osu! World Cup #1** (***OWC #1***) was a country-based osu! tournament hos
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag for each team member, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
-| *Special* | 1 month of osu!supporter tag for each team member |
 
 ![](img/badge.jpg "OWC #1 winner badge")
+
+Aside from the winners listed above, the Tournament Management also decided to award all members of the ![][flag_JP] Japanese team 1 month of osu!supporter tag each in the wake of [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) incident.
 
 ## Organisation
 
@@ -88,7 +89,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TW] **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [0222101916](https://osu.ppy.sh/users/122650), [FuNnY--](https://osu.ppy.sh/users/398097), [NanaDesu](https://osu.ppy.sh/users/163474), [Rucker](https://osu.ppy.sh/users/147515), [Tomoka Rin](https://osu.ppy.sh/users/125308)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NL] **Netherlands** (**[GladiOol](https://osu.ppy.sh/users/23326)**, [Awoken](https://osu.ppy.sh/users/256802), [eddieee](https://osu.ppy.sh/users/260284), [happy30](https://osu.ppy.sh/users/27767), [Henkie](https://osu.ppy.sh/users/16944), [Lesjuh](https://osu.ppy.sh/users/44308)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [Binjip](https://osu.ppy.sh/users/261694), [Cookiezi](https://osu.ppy.sh/users/124493), [ehRh](https://osu.ppy.sh/users/272117), [M A I D](https://osu.ppy.sh/users/216472), [Reisen Udongein](https://osu.ppy.sh/users/232942)) |
-| *Special* | ![][flag_JP] **Japan** (**[MeRcYyy](https://osu.ppy.sh/users/75595)**, [Ozouni](https://osu.ppy.sh/users/69600), [Rigeru](https://osu.ppy.sh/users/61154), [Rorry](https://osu.ppy.sh/users/198574), [SiLviA](https://osu.ppy.sh/users/409747), [taNa](https://osu.ppy.sh/users/61101)) |
 
 ![OWC #1 bracket](img/bracket.jpg)
 
