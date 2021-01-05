@@ -202,6 +202,8 @@ This competition has come to an end and resulted in the following podium:
   
 ## Match results
 
+### Round of 16
+
 ### Round of 32
 
 Thursday, 25 February 2010 :
@@ -219,6 +221,17 @@ Friday, 26 February 2010 :
 | ![][flag_SK] **South Korea** | **2** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/mp/236416) |
 | ![][flag_DE] **Germany** | **2** | 0 | ![][flag_RU] Russia | [#1](https://osu.ppy.sh/mp/237905) |
 | ![][flag_PT] Portugal | 0 | **2** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/mp/238693) |
+
+Saturday, 27 February 2010 :
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_AR] Argentina | 1 | **2** | ![][flag_DO] **Dominican Republic** | [#1](https://osu.ppy.sh/mp/247903) |
+| ![][flag_UA] **Ukraine** | **2** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/mp/246481) |
+| ![][flag_ES] Spain | 0 | **2** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/mp/246819) |
+| ![][flag_BR] Brazil | 0 | **2** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/mp/247409) |
+| ![][flag_CL] **Chile** | **2** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/mp/247736) |
+| ![][flag_NL] **Netherlands** | **2** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/mp/246577) |
 
 ## Ruleset
 
