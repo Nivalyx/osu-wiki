@@ -42,12 +42,14 @@ The osu! World Cup #1 was run by various community members.
 | Position | Member(s) |
 | :-: | :-- |
 | Host/Coordinator | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377) |
-| Staff Member | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_ES] [Beuchi-chan](https://osu.ppy.sh/users/67192), ![][flag_AU] [m980](https://osu.ppy.sh/users/3288), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) |
+| Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359) |
+| Referee | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341), ![][flag_ES] [Beuchi-chan](https://osu.ppy.sh/users/67192) |
+| Misc. Staff Member | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/45412)
-- [Match recaps](https://osu.ppy.sh/community/forums/topics/45412?n=803)
+- [Livestream channel](https://livestream.com/osuworldcup)
 - [Finals recap](https://www.mediafire.com/file/ab6j6k4ihtp25o2) - provided by ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359)
 
 ## Podium
@@ -66,7 +68,7 @@ This competition has come to an end and resulted in the following podium:
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AT]/![][flag_DE]| **Austria - Germany** | **[TouhouNerd](https://osu.ppy.sh/users/396056)**, [Hanyuu](https://osu.ppy.sh/users/73480), [Nharox](https://osu.ppy.sh/users/6794), [Snowball](https://osu.ppy.sh/users/152238), unbelievable <!-- missing --> |
+| ![][flag_AT]/![][flag_DE] | **Austria - Germany** | **[TouhouNerd](https://osu.ppy.sh/users/396056)**, [Hanyuu](https://osu.ppy.sh/users/73480), [Nharox](https://osu.ppy.sh/users/6794), [Snowball](https://osu.ppy.sh/users/152238), unbelievable <!-- missing --> |
 | ![][flag_AR] | **Argentina** | **[Wishy22](https://osu.ppy.sh/users/495477)**, [Grisuh](https://osu.ppy.sh/users/221500), [lota78](https://osu.ppy.sh/users/50727), [RocknRolla](https://osu.ppy.sh/users/135622), [Vivere](https://osu.ppy.sh/users/101521), [violentt](https://osu.ppy.sh/users/87231) |
 | ![][flag_BR] | **Brazil** | **[fabriciorby](https://osu.ppy.sh/users/209664)**, [Antsu](https://osu.ppy.sh/users/92953), [Blue Dragon](https://osu.ppy.sh/users/19048), [Coy](https://osu.ppy.sh/users/150434), [Guerra](https://osu.ppy.sh/users/271144), [Poisonchan](https://osu.ppy.sh/users/227881) |
 | ![][flag_CA] | **Canada** | **[FurukawaPan](https://osu.ppy.sh/users/32067)**, [Ever 14](https://osu.ppy.sh/users/507051), [Hiyorin](https://osu.ppy.sh/users/493961), [Soulclenz](https://osu.ppy.sh/users/190109), [timotmcc](https://osu.ppy.sh/users/41809), [yanggaog](https://osu.ppy.sh/users/129119) |
@@ -202,8 +204,21 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-| Team 1 |  |  | Team 2 |
-| --: | :-: | :-: | :-- |
+Thursday, 25 February 2010 :
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_AT]/![][flag_DE] **Austria - Germany** | **2** | 0 | ![][flag_MO] Macau | [#1](https://osu.ppy.sh/mp/230254) |
+| ![][flag_ID] Indonesia | 1 | **2** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/mp/229277) |
+| ![][flag_PH] Philippines | 0 | **2** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/mp/228885) |
+
+Friday, 26 February 2010 :
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_SK] **South Korea** | **2** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/mp/236416) |
+| ![][flag_DE] **Germany** | **2** | 0 | ![][flag_RU] Russia | [#1](https://osu.ppy.sh/mp/237905) |
+| ![][flag_PT] Portugal | 0 | **2** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/mp/238693) |
 
 ## Ruleset
 
