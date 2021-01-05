@@ -337,8 +337,14 @@ Saturday, 27 February 2010:
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "OWC2020: (TeamRed) vs (TeamBlue)".
+   - Room settings are osu!, Team-Vs., Win Condition: 'Score'. Room name must be "OWC: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+2. Map banning **does not apply** in the entirety of the tournament.
+3. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
+4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
+5. Each captain must use "!roll" once in #multiplayer.
+   - The captain with the higher roll decides which team **picks** first.
+6. The results of eatch match will be posted on the discussion thread after the match has been concluded by the responsible referees.
    
 #### Winning conditions
 
@@ -348,8 +354,9 @@ Saturday, 27 February 2010:
    
 ### Mappool instructions
 
-1. All the maps in the mappool will be played without any modifications enabled (NoMod).
-2. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
+1. There will be a different mappool for every stage.
+2. All the maps in the mappool will be played without any modifications enabled (NoMod).
+3. Each mappool has a specific size depending on the stage.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
