@@ -14,8 +14,14 @@ The **osu! World Cup #1** (***OWC #1***) was a country-based osu! tournament hos
 
 ## Tournament schedule
 
-- The OWC started at 2011-02-21.
-- All matches were played from 15:00 to 22:00 (UTC+0), from Thursday to Sunday.
+| Event | Timestamp |
+| --: | :-- |
+| Registration Phase | 2010-01-31/2010-02-21 |
+| Round of 32 | 2010-02-22/2010-02-28 |
+| Round of 16 | 2010-03-01/2010-03-07 |
+| Quarterfinals | 2010-03-08/2010-03-14 |
+| Semifinals | 2010-03-15/2010-03-21 |
+| 3rd Place Playoff & Finals | 2010-03-22/2010-03-28 |
 
 ## Prizes
 
@@ -27,31 +33,27 @@ The **osu! World Cup #1** (***OWC #1***) was a country-based osu! tournament hos
 
 ![](img/badge.jpg "OWC #1 winner badge")
 
-Aside from the winners listed above, the Tournament Management also decided to award all members of the ![][flag_JP] Japanese team 1 month of osu!supporter tag each in the wake of [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) incident.
+Aside from the three podium finishers listed above, the Tournament Management also decided to separately award all members of the ![][flag_JP] Japanese team 1 month of osu!supporter tag each in the wake of [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) incident.
 
 ## Organisation
 
 The osu! World Cup #1 was run by various community members.
 
-- ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993)
-- ![][flag_ES] [Beuchi-chan](https://osu.ppy.sh/users/67192)
-- ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341)
-- ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359)
-- ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328)
-- ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377)
-- ![][flag_AU] [m980](https://osu.ppy.sh/users/3288)
+| Position | Member(s) |
+| Host/Coordinator | ![][flag_IT] [Lunah](https://osu.ppy.sh/users/1227377) |
+| Staff Member | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_ES] [Beuchi-chan](https://osu.ppy.sh/users/67192), ![][flag_AU] [m980](https://osu.ppy.sh/users/3288), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/45412)
 - [Match recaps](https://osu.ppy.sh/community/forums/topics/45412?n=803)
-- [Finals recap](https://www.mediafire.com/file/ab6j6k4ihtp25o2) - provided by [dvorak](https://osu.ppy.sh/users/271359)
+- [Finals recap](https://www.mediafire.com/file/ab6j6k4ihtp25o2) - provided by ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359)
 
 ## Participants
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AT] | **Austria** | **[TouhouNerd](https://osu.ppy.sh/users/396056)**, [Hanyuu](https://osu.ppy.sh/users/73480), [Nharox](https://osu.ppy.sh/users/6794), [Snowball](https://osu.ppy.sh/users/152238), unbelievable <!-- missing --> |
+| ![][flag_AT]/![][flag_DE]| **Austria - Germany** | **[TouhouNerd](https://osu.ppy.sh/users/396056)**, [Hanyuu](https://osu.ppy.sh/users/73480), [Nharox](https://osu.ppy.sh/users/6794), [Snowball](https://osu.ppy.sh/users/152238), unbelievable <!-- missing --> |
 | ![][flag_AR] | **Argentina** | **[Wishy22](https://osu.ppy.sh/users/495477)**, [Grisuh](https://osu.ppy.sh/users/221500), [lota78](https://osu.ppy.sh/users/50727), [RocknRolla](https://osu.ppy.sh/users/135622), [Vivere](https://osu.ppy.sh/users/101521), [violentt](https://osu.ppy.sh/users/87231) |
 | ![][flag_BR] | **Brazil** | **[fabriciorby](https://osu.ppy.sh/users/209664)**, [Antsu](https://osu.ppy.sh/users/92953), [Blue Dragon](https://osu.ppy.sh/users/19048), [Coy](https://osu.ppy.sh/users/150434), [Guerra](https://osu.ppy.sh/users/271144), [Poisonchan](https://osu.ppy.sh/users/227881) |
 | ![][flag_CA] | **Canada** | **[FurukawaPan](https://osu.ppy.sh/users/32067)**, [Ever 14](https://osu.ppy.sh/users/507051), [Hiyorin](https://osu.ppy.sh/users/493961), [Soulclenz](https://osu.ppy.sh/users/190109), [timotmcc](https://osu.ppy.sh/users/41809), [yanggaog](https://osu.ppy.sh/users/129119) |
