@@ -10,7 +10,7 @@ tags:
 
 ![OWC #1 logo](img/logo.png)
 
-The **osu! World Cup #1** (***OWC #1***) was a country-based osu! tournament hosted by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the first installment of the osu! World Cup.
+The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based osu! tournament hosted by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the first installment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -35,7 +35,7 @@ The **osu! World Cup #1** (***OWC #1***) was a country-based osu! tournament hos
 
 Aside from the three podium finishers listed above, the Tournament Management also decided to separately award all members of the ![][flag_JP] Japanese team 1 month of osu!supporter tag each in the wake of [2011 Tōhoku earthquake](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami) incident.
 
-## Organisation
+## Organization
 
 The osu! World Cup #1 was run by various community members.
 
@@ -49,6 +49,18 @@ The osu! World Cup #1 was run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/45412)
 - [Match recaps](https://osu.ppy.sh/community/forums/topics/45412?n=803)
 - [Finals recap](https://www.mediafire.com/file/ab6j6k4ihtp25o2) - provided by ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359)
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TW] **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [0222101916](https://osu.ppy.sh/users/122650), [FuNnY--](https://osu.ppy.sh/users/398097), [NanaDesu](https://osu.ppy.sh/users/163474), [Rucker](https://osu.ppy.sh/users/147515), [Tomoka Rin](https://osu.ppy.sh/users/125308)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NL] **Netherlands** (**[GladiOol](https://osu.ppy.sh/users/23326)**, [Awoken](https://osu.ppy.sh/users/256802), [eddieee](https://osu.ppy.sh/users/260284), [happy30](https://osu.ppy.sh/users/27767), [Henkie](https://osu.ppy.sh/users/16944), [Lesjuh](https://osu.ppy.sh/users/44308)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [Binjip](https://osu.ppy.sh/users/261694), [Cookiezi](https://osu.ppy.sh/users/124493), [ehRh](https://osu.ppy.sh/users/272117), [M A I D](https://osu.ppy.sh/users/216472), [Reisen Udongein](https://osu.ppy.sh/users/232942)) |
+
+![OWC #1 bracket](img/bracket.jpg)
 
 ## Participants
 
@@ -83,23 +95,11 @@ The osu! World Cup #1 was run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[Doomsday](https://osu.ppy.sh/users/18983)**, aevv <!-- missing -->, [DiamondCrash](https://osu.ppy.sh/users/123790), [jericho2442](https://osu.ppy.sh/users/88904), [Natteke](https://osu.ppy.sh/users/157177) |
 | ![][flag_US] | **United States** | **[Lybydose](https://osu.ppy.sh/users/64501)**, [Cyclone](https://osu.ppy.sh/users/18589), [ebacho](https://osu.ppy.sh/users/129932), [Mafiamaster](https://osu.ppy.sh/users/17695), [naptime](http://osu.ppy.sh/users/277682) |
 
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TW] **Taiwan** (**[Uan](https://osu.ppy.sh/users/147623)**, [0222101916](https://osu.ppy.sh/users/122650), [FuNnY--](https://osu.ppy.sh/users/398097), [NanaDesu](https://osu.ppy.sh/users/163474), [Rucker](https://osu.ppy.sh/users/147515), [Tomoka Rin](https://osu.ppy.sh/users/125308)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_NL] **Netherlands** (**[GladiOol](https://osu.ppy.sh/users/23326)**, [Awoken](https://osu.ppy.sh/users/256802), [eddieee](https://osu.ppy.sh/users/260284), [happy30](https://osu.ppy.sh/users/27767), [Henkie](https://osu.ppy.sh/users/16944), [Lesjuh](https://osu.ppy.sh/users/44308)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [Binjip](https://osu.ppy.sh/users/261694), [Cookiezi](https://osu.ppy.sh/users/124493), [ehRh](https://osu.ppy.sh/users/272117), [M A I D](https://osu.ppy.sh/users/216472), [Reisen Udongein](https://osu.ppy.sh/users/232942)) |
-
-![OWC #1 bracket](img/bracket.jpg)
-
 ## Mappools
 
 ### Finals
 
-- NoMod (played in order)
+- NoMod (*to be played in order*)
   - [Minibosses - Castlevania (m980) \[owc Finals\]](http://www.mediafire.com/file/twuti02311dk6ip/Minibosses+-+Castlevania.osz/file)
   - [Various Artists - osu! Stream Compilation (Natteke) \[EXE\]](https://osu.ppy.sh/beatmapsets/25403#osu/86044)
   - [Shiki mixed by Djsmalls - Air (MegaManEXE) \[Best map ever created\]](https://osu.ppy.sh/beatmapsets/13008#osu/48386)
@@ -113,7 +113,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### 3rd Place Playoff
 
-- NoMod (played in order)
+- NoMod (*to be played in order*)
   - [Glasslake - Driving Lazy Bee (darrihuka) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/3861#osu/22759)
   - [YUI - Sea (VanMoNky) \[Senior\]](https://osu.ppy.sh/beatmapsets/13021#osu/48422)
   - [Suzaku - Anisakis -somatic mutation type "Forza" (tsukamaete) \[Another\]](https://osu.ppy.sh/beatmapsets/15579#osu/56347)
@@ -125,7 +125,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-- NoMod (played in order)
+- NoMod (*to be played in order*)
   - [COOL&CREATE - Rapid Ensemble (Doomsday93) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13235#osu/49067)
   - [Suzaku VS Genbu - Himiko (Mystearica) \[Another\]](https://osu.ppy.sh/beatmapsets/12710#osu/47462)
   - [Susumu Hirasawa - Big Brother (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10714#osu/42244)
@@ -197,6 +197,13 @@ This competition has come to an end and resulted in the following podium:
   - [Weird Al Yankovic - Hardware Store (kingcobra52) \[Impossible\]](https://osu.ppy.sh/beatmapsets/2042#osu/18682)
 - Tiebreaker
   - **[Hyadain - Battle with the Four Fiends (mtmcl) \[Sinistro\]](https://osu.ppy.sh/beatmapsets/2619#osu/20019)**
+  
+## Match results
+
+### Round of 32
+
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
 
 ## Ruleset
 
