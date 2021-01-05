@@ -315,7 +315,7 @@ Saturday, 27 February 2010:
 12. Lag is not a valid reason to nullify a beatmap.
 13. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
 14. If a player disconnects between maps and the team cannot provide a replacement, the match can be delayed 10 minutes at maximum.
-15. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
+15. All players and referees must be treated with respect. Instructions of the referees and Tournament Management are to be followed. Decisions labeled as final are not to be objected.
 16. Disrupting the match by foul play, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 17. Unexpected incidents are handled by the Tournament Management. Referees may allow higher tolerance depending on the circumstances. This is up to their discretion.
 18. Penalties for violating the tournament rules may include:
