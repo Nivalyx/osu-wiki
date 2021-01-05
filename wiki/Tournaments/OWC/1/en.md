@@ -329,7 +329,7 @@ Saturday, 27 February 2010:
 ### Tournament registration
 
 1. In order to be registered for the tournament, a representative of each country will have to propose a team roster comprising of 4-8 players in the discussion thread.
-    - It is possible
+    - Registering a team that represents multiple countries are allowed under a discretion of the Tournament Management.
 2. To ensure valid and serious registrations, every proposed team roster will be checked by the Tournament Management.
 3. All accepted teams will be announced in the discussion thread after the Registration Phase.
    - **A team should have at least 4 players registered in order to be eligible to participate.**
@@ -365,6 +365,11 @@ Saturday, 27 February 2010:
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.   
+2. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage.
+3. **Reschedules will only be considered if both teams agree to a time. This needs to be done and notified to the Tournament Management before the particular match takes place.**
+4. **Reschedules may only be requested by a team captain.**
+   - **Do not ask for a reschedule unless it is absolutely necessary. The Tournament Management has the right to decline the request.**
+5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
