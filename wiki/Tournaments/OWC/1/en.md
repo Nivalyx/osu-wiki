@@ -113,7 +113,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[IOSYS - Usatei (Card N'FoRcE) \[RUN!!\]](https://osu.ppy.sh/beatmapsets/3959#osu/22993)**
 
-### 3rd Place Playoff
+### 3rd Place Playoffs
 
 - NoMod (*to be played in order*)
   - [Glasslake - Driving Lazy Bee (darrihuka) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/3861#osu/22759)
@@ -179,7 +179,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Seiryu - Time to Air (Alace) \[DaRRi MIx\]](https://osu.ppy.sh/beatmapsets/4597#osu/24594)**
 
-### Group Stage
+### Round of 32
 
 - NoMod
   - [BeForU - Love Shine (James) \[Hard\]](https://osu.ppy.sh/beatmapsets/1300#osu/11091)
@@ -329,6 +329,7 @@ Saturday, 27 February 2010:
 ### Tournament registration
 
 1. In order to be registered for the tournament, a representative of each country will have to propose a team roster comprising of 4-8 players in the discussion thread.
+    - It is possible
 2. To ensure valid and serious registrations, every proposed team roster will be checked by the Tournament Management.
 3. All accepted teams will be announced in the discussion thread after the Registration Phase.
    - **A team should have at least 4 players registered in order to be eligible to participate.**
@@ -355,8 +356,15 @@ Saturday, 27 February 2010:
 ### Mappool instructions
 
 1. There will be a different mappool for every stage.
-2. All the maps in the mappool will be played without any modifications enabled (NoMod).
+2. All the maps in the mappool (including the TieBreaker) will be played without any modifications enabled (NoMod).
 3. Each mappool has a specific size depending on the stage.
+   - The Round of 32, Round of 16, and the Quarterfinals will all have 15 NoMod maps (to be picked in any order) + 1 Tiebreaker map.
+   - The Semifinals and the 3rd Place Playoffs will both have 6 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.
+   - The Finals will have 8 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.
+   
+### Scheduling instructions
+
+1. Each stage will be held on **a single weekend**.   
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
