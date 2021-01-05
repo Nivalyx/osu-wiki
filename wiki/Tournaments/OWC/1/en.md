@@ -79,7 +79,7 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_FR] | **France** | **[maestro delphine](https://osu.ppy.sh/users/472848)**, [\_LRJ\_](https://osu.ppy.sh/users/284905), [galvenize](https://osu.ppy.sh/users/381444), [JesusYamato](https://osu.ppy.sh/users/482442), [Shiro](https://osu.ppy.sh/users/113005), Yomi <!-- missing --> |
 | ![][flag_DE] | **Germany** | **[Shael](https://osu.ppy.sh/users/132308)**, [eMJaReL](https://osu.ppy.sh/users/65761), [Jalatiphra](https://osu.ppy.sh/users/94386), [LuniaFreak](https://osu.ppy.sh/users/473895), [Neruell](https://osu.ppy.sh/users/112257), [Shinespark](https://osu.ppy.sh/users/126293) |
 | ![][flag_ID] | **Indonesia** | **[Hakeru Prismriver](https://osu.ppy.sh/users/345422)**, [awell](https://osu.ppy.sh/users/341298), [awesomewithin](https://osu.ppy.sh/users/81652), [dNextGen](http://osu.ppy.sh/users/346320), [intermu](https://osu.ppy.sh/users/193198), [Rasyad95](https://osu.ppy.sh/users/157956) |
-| ![][flag_IT] | **Italy** | **[Card N'FoRcE](https://osu.ppy.sh/users/3936)**, [\[Takuya\]](https://osu.ppy.sh/users/342372), Kr4t0ss88 <!-- missing -->, [Lunah](https://osu.ppy.sh/users/1227377), [osuplayer111](https://osu.ppy.sh/users/33599), [Valde](https://osu.ppy.sh/users/208531) |
+| ![][flag_IT] | **Italy** | **[Card N'FoRcE](https://osu.ppy.sh/users/3936)**, [\[Takuya\]](https://osu.ppy.sh/users/342372), kr4t0s88 <!-- missing -->, [Lunah](https://osu.ppy.sh/users/1227377), [osuplayer111](https://osu.ppy.sh/users/33599), [Valde](https://osu.ppy.sh/users/208531) |
 | ![][flag_JP] | **Japan** | **[MeRcYyy](https://osu.ppy.sh/users/75595)**, [Ozouni](https://osu.ppy.sh/users/69600), [Rigeru](https://osu.ppy.sh/users/61154), [Rorry](https://osu.ppy.sh/users/198574), [SiLviA](https://osu.ppy.sh/users/409747), [taNa](https://osu.ppy.sh/users/61101) |
 | ![][flag_MO] | **Macau** | **[Ballance](https://osu.ppy.sh/users/165946)**, [\_\_\_\_\_B](https://osu.ppy.sh/users/247901), [starpun1](https://osu.ppy.sh/users/144523), [wl01939929](https://osu.ppy.sh/users/456163), [xinhe](https://osu.ppy.sh/users/252936) |
 | ![][flag_MY] | **Malaysia** | **[The 08 team\_Bourdon](https://osu.ppy.sh/users/275686)**, [akupp](https://osu.ppy.sh/users/249825), [DragonSparta](https://osu.ppy.sh/users/216909), [Crimson\_SoulZ](https://osu.ppy.sh/users/91320), mekadon <!-- missing -->, [mycyber](https://osu.ppy.sh/users/187910) |
@@ -202,9 +202,53 @@ This competition has come to an end and resulted in the following podium:
   
 ## Match results
 
+### Finals
+
+Friday, 9 April 2020 (Grand Final) :
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_NL] Netherlands | 1 | **4** | ![][flag_CL] **Taiwan** | [#1](https://osu.ppy.sh/mp/494834) |
+
+Friday, 9 April 2020 (3rd Place Playoff) :
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_CL] Chile | 0 | **4** | ![][flag_KO] **South Korea** | [#1](https://osu.ppy.sh/mp/498398) |
+
+### Semifinals
+
+Saturday, 27 March 2010:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_TW] **Taiwan** | **4** | 3 | ![][flag_KO] South Korea | [#1](https://osu.ppy.sh/mp/403908) |
+| ![][flag_NL] **Netherlands** | **4** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/mp/415277) |
+
+### Quarterfinals
+
+Friday, 19 March 2010:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_PL] Poland | 0 | **3** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/mp/354944) |
+
+Saturday, 20 March 2010:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_KO] **South Korea** | **3** | 0 | ![][flag_JP] Japan | *win by default* |
+
+Sunday, 21 March 2010:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_IT] Italy | 0 | **3** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/mp/368813) |
+| ![][flag_US] United States | 0 | **3** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/mp/372799) |
+
 ### Round of 16
 
-Friday, 5 March 2010 :
+Friday, 5 March 2010:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -212,9 +256,19 @@ Friday, 5 March 2010 :
 | ![][flag_NL] **Netherlands** | **2** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/mp/278742) |
 | ![][flag_TW] **Taiwan** | **2** | 0 | ![][flag_AT]/![][flag_DE] Austria - Germany | [#1](https://osu.ppy.sh/mp/277597) |
 
+Saturday, 6 March 2010:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_CL] **Chile** | **2** | 0 | ![][flag_DO] Dominican Republic | [#1](https://osu.ppy.sh/mp/287746) |
+| ![][flag_KR] **South Korea** | **2** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/mp/284533) |
+| ![][flag_GB] United Kingdom | 0 | **2** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/mp/287601) |
+| ![][flag_PL] **Poland** | **2** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/mp/285669) |
+| ![][flag_IT] **Italy** | **2** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/mp/287090) |
+
 ### Round of 32
 
-Thursday, 25 February 2010 :
+Thursday, 25 February 2010:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -222,7 +276,7 @@ Thursday, 25 February 2010 :
 | ![][flag_ID] Indonesia | 1 | **2** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/mp/229277) |
 | ![][flag_PH] Philippines | 0 | **2** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/mp/228885) |
 
-Friday, 26 February 2010 :
+Friday, 26 February 2010:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -230,7 +284,7 @@ Friday, 26 February 2010 :
 | ![][flag_DE] **Germany** | **2** | 0 | ![][flag_RU] Russia | [#1](https://osu.ppy.sh/mp/237905) |
 | ![][flag_PT] Portugal | 0 | **2** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/mp/238693) |
 
-Saturday, 27 February 2010 :
+Saturday, 27 February 2010:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
