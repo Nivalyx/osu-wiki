@@ -328,7 +328,7 @@ Saturday, 27 February 2010:
 
 ### Tournament registration
 
-1. In order to be registered for the tournament, a representative of each country will have to propose a team roster comprising of 4-8 players in the discussion thread.
+1. In order to be registered for the tournament, a representative of each country will have to propose a team roster comprising of 4-6 players in the discussion thread.
     - Registering a team that represents multiple countries are allowed under a discretion of the Tournament Management.
 2. To ensure valid and serious registrations, every proposed team roster will be checked by the Tournament Management.
 3. All accepted teams will be announced in the discussion thread after the Registration Phase.
@@ -343,7 +343,7 @@ Saturday, 27 February 2010:
 2. Map banning **does not apply** in the entirety of the tournament.
 3. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
-5. Each captain must use "!roll" once in #multiplayer.
+5. Each captain must use the "!roll" command once in #multiplayer.
    - The captain with the higher roll decides which team **picks** first.
 6. The results of eatch match will be posted on the discussion thread after the match has been concluded by the responsible referees.
    
