@@ -226,7 +226,7 @@ Friday, 26 February 2010 :
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ![][flag_SK] **South Korea** | **2** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/mp/236416) |
+| ![][flag_KR] **South Korea** | **2** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/mp/236416) |
 | ![][flag_DE] **Germany** | **2** | 0 | ![][flag_RU] Russia | [#1](https://osu.ppy.sh/mp/237905) |
 | ![][flag_PT] Portugal | 0 | **2** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/mp/238693) |
 
