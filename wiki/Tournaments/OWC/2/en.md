@@ -33,7 +33,6 @@ The osu! World Cup #2 was run by various community members.
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |
 | Mappool selector | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_GB] [Natteke](https://osu.ppy.sh/users/157177), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602), ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) |
-| Referee | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_GB] [Natteke](https://osu.ppy.sh/users/157177) |
 
 ## Links
 
@@ -114,7 +113,15 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
+*In addition of nine other maps, all of the six previously featured Tiebreaker maps are returning as a NoMod pick for the Finals.*
+
 - NoMod
+  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021) *(Group Stage (Week 1) Tiebreaker)*
+  - [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947) *(Group Stage (Week 2) Tiebreaker)*
+  - [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342) *(Group Stage (Week 3) Tiebreaker)*
+  - [Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635) *(Round of 16 Tiebreaker)*
+  - [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmapsets/36569#osu/118226) *(Quarterfinals Tiebreaker)*
+  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842) *(Semifinals Tiebreaker)*
   - [44teru-k - F.I (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/25828#osu/106033)
   - [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/16792#osu/60089)
   - [Yousei Teikoku - Mischievous of Alice (Furawa) \[Alice\]](https://osu.ppy.sh/beatmapsets/35546#osu/142356)
@@ -124,12 +131,6 @@ This competition has come to an end and resulted in the following podium:
   - [Eoin O' Broin - Deep Space (galvenize) \[Another\]](https://osu.ppy.sh/beatmapsets/25098#osu/85550)
   - [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh! '11\]](https://osu.ppy.sh/beatmapsets/6997#osu/129875)
   - [Seiryu X Donald - Time to Donald (James) \[Another\]](https://osu.ppy.sh/beatmapsets/6950#osu/30613)
-  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021)
-  - [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)
-  - [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342)
-  - [Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)
-  - [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmapsets/36569#osu/118226)
-  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842)
 - Tiebreaker
   - **[Fear, and Loathing in Las Vegas - Just Awake (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/44527#osu/139446)**
 
@@ -255,7 +256,32 @@ This competition has come to an end and resulted in the following podium:
   
 # Match Results
 
+## Quarterfinals
+
 ## Round of 16
+
+Saturday, 7 January 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_JP] **Japan** | **3** | 0 | ![][flag_HU] Hungary | [#1](https://osu.ppy.sh/community/matches/2347178) |
+| ![][flag_KR] **South Korea** | **3** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/2347528) |
+| ![][flag_AR] Argentina | 0 | **3** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/2348743) |
+
+Sunday, 8 January 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_NL] **Netherlands** | **3** | 1 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/2350372) |
+| ![][flag_PL] **Poland** | **3** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/2350703) |
+| ![][flag_FR] **France** | **3** | 1 | ![][flag_ML] Malaysia | [#1](https://osu.ppy.sh/community/matches/2356557) |
+| ![][flag_RU] **Russian Federation** | **3** | 0 | ![][flag_CL] Chile | *win by default* |
+
+Friday, 13 January 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_BR] **Brazil** | **3** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/2385313) |
 
 ## Group Stage (Week 3)
 
