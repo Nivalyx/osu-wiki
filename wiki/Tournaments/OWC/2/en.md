@@ -113,7 +113,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-*In addition of nine other new maps, the Finals mappool also saw all of the six previously featured Tiebreaker maps from earlier rounds returning as NoMod picks.*
+*In addition of nine other new maps, the Finals mappool also saw the return of all of the six previously featured Tiebreaker maps from earlier rounds as NoMod picks.*
 
 - NoMod
   - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021) -- *(Group Stage (Week 1) Tiebreaker)*
