@@ -335,7 +335,7 @@ Sunday, 8 January 2012:
 | --: | :-: | :-: | :-- | :-- |
 | ![][flag_NL] **Netherlands** | **3** | 1 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/2350372) |
 | ![][flag_PL] **Poland** | **3** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/2350703) |
-| ![][flag_FR] **France** | **3** | 1 | ![][flag_ML] Malaysia | [#1](https://osu.ppy.sh/community/matches/2356557) |
+| ![][flag_FR] **France** | **3** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/2356557) |
 | ![][flag_RU] **Russian Federation** | **3** | 0 | ![][flag_CL] Chile | *win by default* |
 
 Friday, 13 January 2012:
