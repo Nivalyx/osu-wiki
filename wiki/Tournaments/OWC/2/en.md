@@ -89,7 +89,7 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_UY] | **Uruguay** | **[maay](https://osu.ppy.sh/users/160970)**, [AlrdyExists](https://osu.ppy.sh/users/407022), [GonixZ](https://osu.ppy.sh/users/612622), [H1ko](https://osu.ppy.sh/users/58710), [Snepif](https://osu.ppy.sh/users/408088), [Z e o n](https://osu.ppy.sh/users/539876) |
 | ![][flag_VN] | **Vietnam** | **[Misuzu-san](https://osu.ppy.sh/users/358563)**, [BridgetteLSatellizer](https://osu.ppy.sh/users/854083), [JerryC](https://osu.ppy.sh/users/279278), [kira\_lacus1995](https://osu.ppy.sh/users/996435), [Shin1801](https://osu.ppy.sh/users/604492), [xLightningx](https://osu.ppy.sh/users/1007806) |
 
-¹ *Despite having the ![][flag_CH] Switzerland flag on their profile, [Blacky](https://osu.ppy.sh/users/268788) is given a special discretion by the Tournament Management to represent ![][flag_DE] Germany in the tournament.
+¹ *Despite having the ![][flag_CH] Switzerland flag on their profile, [Blacky](https://osu.ppy.sh/users/268788) is given a special discretion by the Tournament Management to represent ![][flag_DE] Germany in the tournament.*
 
 ## Groups
 
@@ -310,6 +310,7 @@ Changes in the rules aside from [OWC #1](/wiki/Tournaments/OWC/1).
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
