@@ -17,9 +17,9 @@ The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cu
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2011-10-29/2011-11-20 |
-| Group Stage (Week 1) | 2011-11-21/2011-11-27 |
-| Group Stage (Week 2) | 2011-11-28/2011-12-04 |
-| Group Stage (Week 3) | 2011-12-05/2011-12-11 |
+| Group Stage week 1 | 2011-11-21/2011-11-27 |
+| Group Stage week 2 | 2011-11-28/2011-12-04 |
+| Group Stage week 3 | 2011-12-05/2011-12-11 |
 | *Winter break* | 2011-12-12/2012-01-01 |
 | Round of 16 | 2012-01-02/2012-01-08 |
 | Quarterfinals | 2012-01-09/2012-02-05 |
@@ -131,9 +131,9 @@ This competition has come to an end and resulted in the following podium:
 *In addition of nine other new maps, the Finals mappool also saw all of the six previously featured Tiebreaker maps from earlier rounds returning as NoMod picks.*
 
 - NoMod
-  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021) -- *(Group Stage (Week 1) Tiebreaker)*
-  - [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947) -- *(Group Stage (Week 2) Tiebreaker)*
-  - [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342) -- *(Group Stage (Week 3) Tiebreaker)*
+  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021) -- *(Group Stage week 1 Tiebreaker)*
+  - [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947) -- *(Group Stage week 2 Tiebreaker)*
+  - [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342) -- *(Group Stage week 3 Tiebreaker)*
   - [Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635) -- *(Round of 16 Tiebreaker)*
   - [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmapsets/36569#osu/118226) -- *(Quarterfinals Tiebreaker)*
   - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842) -- *(Semifinals Tiebreaker)*
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635)**
 
-### Group Stage (Week 3)
+### Group Stage week 3
 
 - NoMod
   - [Ruru Ichinose - Hinarin's Relation of Misfortune (Mafiamaster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/12344#osu/46486)
@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342)**
 
-### Group Stage (Week 2)
+### Group Stage week 2
 
 - NoMod
   - [Jun.A - The Refrain of the Lovely Great War (KanbeKotori) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/24325#osu/82734)
@@ -249,7 +249,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947)**
 
-### Group Stage (Week 1)
+### Group Stage week 1
 
 - NoMod
   - [Hatsune Miku - BadBye (goodbye) \[GoodBye\]](https://osu.ppy.sh/beatmapsets/30939#osu/101916)
