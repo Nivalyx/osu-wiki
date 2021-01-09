@@ -113,15 +113,15 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-*In addition of nine other maps, all of the six previously featured Tiebreaker maps are returning as a NoMod pick for the Finals.*
+*In addition of nine other new maps, the Finals mappool also features all of the six previously featured Tiebreaker maps from earlier rounds as NoMod picks.*
 
 - NoMod
-  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021) *(Group Stage (Week 1) Tiebreaker)*
-  - [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947) *(Group Stage (Week 2) Tiebreaker)*
-  - [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342) *(Group Stage (Week 3) Tiebreaker)*
-  - [Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635) *(Round of 16 Tiebreaker)*
-  - [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmapsets/36569#osu/118226) *(Quarterfinals Tiebreaker)*
-  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842) *(Semifinals Tiebreaker)*
+  - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#osu/93021) -- *(Group Stage (Week 1) Tiebreaker)*
+  - [Okui Masami - God Speed (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/28140#osu/93947) -- *(Group Stage (Week 2) Tiebreaker)*
+  - [Hommarju feat. R.Cena - Chousai Kenbo Sengen (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/30012#osu/99342) -- *(Group Stage (Week 3) Tiebreaker)*
+  - [Hatsune Miku - Rubik's Cube (rui) \[7x7x7\]](https://osu.ppy.sh/beatmapsets/33651#osu/114635) -- (Round of 16 Tiebreaker)*
+  - [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Yuri\]](https://osu.ppy.sh/beatmapsets/36569#osu/118226) -- *(Quarterfinals Tiebreaker)*
+  - [DJ Fresh - Gold Dust (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/28107#osu/93842) -- *(Semifinals Tiebreaker)*
   - [44teru-k - F.I (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/25828#osu/106033)
   - [Sound Horizon - Raijin no Hidariude (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/16792#osu/60089)
   - [Yousei Teikoku - Mischievous of Alice (Furawa) \[Alice\]](https://osu.ppy.sh/beatmapsets/35546#osu/142356)
