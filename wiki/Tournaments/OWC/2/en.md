@@ -38,7 +38,6 @@ The osu! World Cup #2 was run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/65535)
-- [round 1 spreadsheet](https://docs.google.com/document/d/1XGOZE349nOtaYHIIvof993u5qxdJnX9eCQs04ADU7GI/edit?hl=pl#heading=h.5w1owfitdqik)
 - [Livestream link (livestream.com)](https://livestream.com/osuworldcup)
 - [Livestream link (Own3d.tv)](https://www.own3d.tv/MetroAR)
 - [Pre-tournament interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
