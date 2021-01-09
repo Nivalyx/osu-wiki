@@ -33,7 +33,7 @@ The osu! World Cup #2 was run by various community members.
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |
 | Mappool selector | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_GB] [Natteke](https://osu.ppy.sh/users/157177), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602), ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) |
-| Referee | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_GB] [Natteke](https://osu.ppy.sh/users/157177) |
+| Referee | ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_GB] [Natteke](https://osu.ppy.sh/users/157177) |
 
 ## Links
 
