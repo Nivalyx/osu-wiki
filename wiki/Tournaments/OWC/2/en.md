@@ -33,6 +33,7 @@ The osu! World Cup #2 was run by various community members.
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |
 | Mappool selector | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_GB] [Natteke](https://osu.ppy.sh/users/157177), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602), ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) |
+| Graphic designer | ![][flag_CN] [Anticloud](https://osu.ppy.sh/users/411137) |
 
 ## Links
 
@@ -49,7 +50,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [CheEZ](https://osu.ppy.sh/users/272117), [K i R i K a R u](https://osu.ppy.sh/users/139670), mnto <!-- missing -->, [Reisen Udongein](https://osu.ppy.sh/users/232942), [Remilia-Scarlet](https://osu.ppy.sh/users/602783)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [tobaku2784](https://osu.ppy.sh/users/113855), [val0108](https://osu.ppy.sh/users/243917), *[Sinch](https://osu.ppy.sh/users/360552)¹*) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *Gaba²<!-- missing -->* )|
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *[gabaeba](https://osu.ppy.sh/users/867902)²* )|
 
 ¹ *Denotes players that are being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
 
@@ -64,7 +65,7 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_AR] | **Argentina** | **[Wishy22](https://osu.ppy.sh/users/495477)**, [Ever17](https://osu.ppy.sh/users/173114), [Darksonic](https://osu.ppy.sh/users/570042), [Glazbom](https://osu.ppy.sh/users/608277), [Metro](https://osu.ppy.sh/users/306737), [Salvage](https://osu.ppy.sh/users/242119), *[Hernan](https://osu.ppy.sh/users/516680)²* |
 | ![][flag_AU] | **Australia** | **Mizorex<!-- missing -->**, [damiaanzx](https://osu.ppy.sh/users/635030), [Frankcons](https://osu.ppy.sh/users/594006), [Hark](https://osu.ppy.sh/users/43265), [Mikey](https://osu.ppy.sh/users/979780), [Neko\_Lover](https://osu.ppy.sh/users/596535) |
 | ![][flag_AT] | **Austria** | **[-Lennox-](https://osu.ppy.sh/users/489103)**, [Hakkero](https://osu.ppy.sh/users/177913), [Hanyuu](https://osu.ppy.sh/users/73480), [M A R I O](https://osu.ppy.sh/users/594424), [novaaa](https://osu.ppy.sh/users/953405), [Snowball](https://osu.ppy.sh/users/152238) |
-| ![][flag_BR] | **Brazil** | **[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *Gaba²<!-- missing -->* |
+| ![][flag_BR] | **Brazil** | **[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *[gabaeba](https://osu.ppy.sh/users/867902)²* |
 | ![][flag_BG] | **Bulgaria** | **[Lolicore Flandre](https://osu.ppy.sh/users/447818)**, [ColdChester](https://osu.ppy.sh/users/483663), [las7h0p3](https://osu.ppy.sh/users/113972), [Orihara Izaya](https://osu.ppy.sh/users/513842), [r-Beatz](https://osu.ppy.sh/users/472311), [werewolf0girl](https://osu.ppy.sh/users/213292) |
 | ![][flag_CA] | **Canada** | **[FurukawaPan](https://osu.ppy.sh/users/32067)**, [Glass](https://osu.ppy.sh/users/228532), [Satonaka](https://osu.ppy.sh/users/767009), [shaNk](https://osu.ppy.sh/users/905124), [SilentWings](https://osu.ppy.sh/users/118992), [YodaSnipe](https://osu.ppy.sh/users/673746), *[RB\_Oliver](https://osu.ppy.sh/users/229206)²*, *[those](https://osu.ppy.sh/users/557166)²* |
 | ![][flag_CL] | **Chile** | **[nVidi4x](https://osu.ppy.sh/users/203181)**, [Art-FzTT](https://osu.ppy.sh/users/248453), [b1choO](https://osu.ppy.sh/users/461132), [b4ss\_](https://osu.ppy.sh/users/493712), [Ignacio](https://osu.ppy.sh/users/2881294), [Mesita](https://osu.ppy.sh/users/201459) |
@@ -256,7 +257,53 @@ This competition has come to an end and resulted in the following podium:
   
 # Match Results
 
+## Finals
+
+Sunday, 11 March 2012 (Grand Final):
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_JP] Japan | 1 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/2845562) |
+
+Saturday, 24 March 2012 (3rd Place Playoff):
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_BR] **Brazil** | **4** | 2 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/2947666) |
+
+## Semifinals
+
+Thursday, 16 February 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_RU] Russian Federation | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/2649676) |
+
+Tuesday, 28 February 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_JP] **Japan** | **4** | 0 | ![][flag_BR] Brazil | *win by default* |
+
 ## Quarterfinals
+
+Saturday, 14 January 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_TW] Taiwan | 0 | **3** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/2398122) |
+
+Sunday, 15 January 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_JP] **Japan** | **3** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/2406540) |
+
+Sunday, 29 January 2012:
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ![][flag_KR] **South Korea** | **3** | 1 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/2513557) |
+| ![][flag_FR] France | 2 | **3** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/2516621) |
 
 ## Round of 16
 
