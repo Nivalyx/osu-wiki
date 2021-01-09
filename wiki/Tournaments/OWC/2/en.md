@@ -314,26 +314,33 @@ Sunday, 20 November 2011:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | E | ![][flag_CL] Chile | 1 | **3** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/2027339) |
 | H | ![][flag_TH] Thailand | 0 | **3** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/2028163) |
-| B | ![][flag_HU] **Hungary** | 3 | 1 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/2030888) |
-| D | ![][flag_HK] **Hong Kong** | 3 | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/2031284) |
+| B | ![][flag_HU] **Hungary** | **3** | 1 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/2030888) |
+| D | ![][flag_HK] **Hong Kong** | **3** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/2031284) |
 | F | ![][flag_UY] Uruguay | 2 | **3** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/2033451) |
 
 Monday, 21 November 2011:
+
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | B | ![][flag_AR] **Argentina** | **3** | 2 | ![][flag_AU] Austria | [#1](https://osu.ppy.sh/community/matches/2034560) |
 
 Friday, 25 November 2011:
+
 | Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | C | ![][flag_NO] Norway | 2 | **3** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/2056490) |
 
 Saturday, 26 November 2011:
+
 | Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | G | ![][flag_SE] Sweden | 0 | **3** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/2067611) |
 | E | ![][flag_LV] Latvia | 0 | **3** | ![][flag_PT] **Portugal** | [#1](https://osu.ppy.sh/community/matches/2070120) |
 
 Sunday, 27 November 2011:
+
 | Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | D | ![][flag_CA] Canada | 1 | **3** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/2072809) |
 
 ## Ruleset
