@@ -52,7 +52,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [tobaku2784](https://osu.ppy.sh/users/113855), [val0108](https://osu.ppy.sh/users/243917), *[Sinch](https://osu.ppy.sh/users/360552)¹*) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *Gaba²<!-- missing -->* )|
 
-¹ *Denotes players that are being brought in either as an extra player or as an emergency reserve player during the running of the Group Stage.*
+¹ *Denotes players that are being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
 
 ² *Denotes players that are being brought in as a substitute player prior to the beginning of the knock-out stages.*
 
@@ -95,7 +95,7 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_UY] | **Uruguay** | **[maay](https://osu.ppy.sh/users/160970)**, [AlrdyExists](https://osu.ppy.sh/users/407022), [GonixZ](https://osu.ppy.sh/users/612622), [H1ko](https://osu.ppy.sh/users/58710), [Snepif](https://osu.ppy.sh/users/408088), [Z e o n](https://osu.ppy.sh/users/539876) |
 | ![][flag_VN] | **Vietnam** | **[Misuzu-san](https://osu.ppy.sh/users/358563)**, [BridgetteLSatellizer](https://osu.ppy.sh/users/854083), [JerryC](https://osu.ppy.sh/users/279278), [kira\_lacus1995](https://osu.ppy.sh/users/996435), [xLightningx](https://osu.ppy.sh/users/1007806), *[Shin1801](https://osu.ppy.sh/users/604492)¹* |
 
-¹ *Denotes players that are being brought in either as an extra player or as an emergency reserve player during the running of the Group Stage.*
+¹ *Denotes players that are being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
 
 ² *Denotes players that are being brought in as a substitute player prior to the beginning of the knock-out stages.*
 
