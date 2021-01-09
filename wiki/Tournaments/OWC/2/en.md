@@ -20,7 +20,7 @@ The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cu
 | Group Stage (Week 1) | 2011-11-21/2011-11-27 |
 | Group Stage (Week 2) | 2011-11-28/2011-12-04 |
 | Group Stage (Week 3) | 2011-12-05/2011-12-11 |
-| *Winter break* | *2011-12-12/2011-01-01* |
+| *Winter break* | 2011-12-12/2011-01-01 |
 | Round of 16 | 2012-01-02/2012-01-08 |
 | Quarterfinals | 2012-01-09/2012-02-05 |
 | Semifinals | 2012-02-06/2012-03-04 |
