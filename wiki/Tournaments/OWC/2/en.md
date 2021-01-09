@@ -10,7 +10,9 @@ tags:
 
 ![OWC #2 logo](img/logo.png)
 
-The **osu! World Cup #2** (***OWC #2***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second installment of the osu! World Cup.
+The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cup 2011** (***OWC 2011***), was a country-based osu! tournament run by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the second installment of the osu! World Cup.
+
+## Tournament schedule
 
 ## Prizes
 
@@ -22,20 +24,33 @@ The **osu! World Cup #2** (***OWC #2***) was a country-based osu! tournament hos
 
 ![](img/badge.jpg "OWC #2 winner badge")
 
-## Organisation
+## Organization
 
 The osu! World Cup #2 was run by various community members.
 
 | Position | Members |
 | :-- | :-- |
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
-| Mappool selector | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) |
 | Streamer | ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |
+| Mappool selector | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_GB] [fartownik](https://osu.ppy.sh/users/157177), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) |
+| Referee |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/65535)
 - [Pre-tournament interviews](https://docs.google.com/document/d/1xgR7cfCf1yZD1j90_ObGKccS_9OMA6rDHhYJy8uRxNE/edit)
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [CheEZ](https://osu.ppy.sh/users/272117), [K i R i K a R u](https://osu.ppy.sh/users/139670), mnto <!-- missing -->, [Reisen Udongein](https://osu.ppy.sh/users/232942), [Remilia-Scarlet](https://osu.ppy.sh/users/602783)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [Sinch](https://osu.ppy.sh/users/360552), [val0108](https://osu.ppy.sh/users/243917)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834), [Katsuri](https://osu.ppy.sh/users/701726)) |
+
+![OWC #2 bracket](img/bracket.jpg)
 
 ## Participants
 
@@ -51,7 +66,7 @@ The osu! World Cup #2 was run by various community members.
 | ![][flag_DK] | **Denmark** | **Emaal <!-- missing -->**, [BongHat](https://osu.ppy.sh/users/369746), [Circlemuncher](https://osu.ppy.sh/users/873335), [m4w11](https://osu.ppy.sh/users/509620), [PlasticSmoothie](https://osu.ppy.sh/users/296565) |
 | ![][flag_FI] | **Finland** | **[ragelewa](https://osu.ppy.sh/users/475021)**, [ethox](https://osu.ppy.sh/users/441380), [heintsi](https://osu.ppy.sh/users/63185), [Orkel](https://osu.ppy.sh/users/39385), [Sutsuka](https://osu.ppy.sh/users/29089), [Zapy](https://osu.ppy.sh/users/251395) |
 | ![][flag_FR] | **France** | **[Odaril](https://osu.ppy.sh/users/113005)**, [\_LRJ\_](https://osu.ppy.sh/users/284905), [galvenize](https://osu.ppy.sh/users/381444), [Kanna](https://osu.ppy.sh/users/366059), [Mustaash](https://osu.ppy.sh/users/1669213), [XPJ38](https://osu.ppy.sh/users/273531) |
-| ![][flag_DE] | **Germany** | **[DoKoLP](https://osu.ppy.sh/users/537084)**, Asozial <!-- missing -->, [Blacky](https://osu.ppy.sh/users/268788), [Scanlatione](https://osu.ppy.sh/users/393337), [ShadowSoul](https://osu.ppy.sh/users/494970), [SuperCracker](https://osu.ppy.sh/users/145639) |
+| ![][flag_DE] | **Germany** | **[DoKoLP](https://osu.ppy.sh/users/537084)**, [Shael](https://osu.ppy.sh/users/132308), [Blacky](https://osu.ppy.sh/users/268788)¹, [Scanlatione](https://osu.ppy.sh/users/393337), [ShadowSoul](https://osu.ppy.sh/users/494970), [SuperCracker](https://osu.ppy.sh/users/145639) |
 | ![][flag_HK] | **Hong Kong** | **[KanaRin](https://osu.ppy.sh/users/310747)**, [henry04213](https://osu.ppy.sh/users/793536), [HineX](https://osu.ppy.sh/users/13854), Kirito470 <!-- missing -->, [Miu Matsuoka](https://osu.ppy.sh/users/10641), [Pokie](https://osu.ppy.sh/users/207340) |
 | ![][flag_HU] | **Hungary** | **[Kuroi Mato](https://osu.ppy.sh/users/584921)**, [higurush](https://osu.ppy.sh/users/602159), [Kozuki Kallen](https://osu.ppy.sh/users/816305), [TaylorXIII](https://osu.ppy.sh/users/351814), [tasli](https://osu.ppy.sh/users/59650), [TsukishimaKirari x\]](https://osu.ppy.sh/users/816358) |
 | ![][flag_ID] | **Indonesia** | **[Hakeru Prismriver](https://osu.ppy.sh/users/345422)**, [awell](https://osu.ppy.sh/users/341298), [awesomewithin](https://osu.ppy.sh/users/81652), [dNextGen](https://osu.ppy.sh/users/346320), [gatitoneku](https://osu.ppy.sh/users/363377), [xeqta](https://osu.ppy.sh/users/524530) |
@@ -74,6 +89,8 @@ The osu! World Cup #2 was run by various community members.
 | ![][flag_UY] | **Uruguay** | **[maay](https://osu.ppy.sh/users/160970)**, [AlrdyExists](https://osu.ppy.sh/users/407022), [GonixZ](https://osu.ppy.sh/users/612622), [H1ko](https://osu.ppy.sh/users/58710), [Snepif](https://osu.ppy.sh/users/408088), [Z e o n](https://osu.ppy.sh/users/539876) |
 | ![][flag_VN] | **Vietnam** | **[Misuzu-san](https://osu.ppy.sh/users/358563)**, [BridgetteLSatellizer](https://osu.ppy.sh/users/854083), [JerryC](https://osu.ppy.sh/users/279278), [kira\_lacus1995](https://osu.ppy.sh/users/996435), [Shin1801](https://osu.ppy.sh/users/604492), [xLightningx](https://osu.ppy.sh/users/1007806) |
 
+¹ *Despite having the ![][flag_CH] Switzerland flag on their profile, [Blacky](https://osu.ppy.sh/users/268788) is given a special discretion by the Tournament Management to represent ![][flag_DE] Germany in the tournament.
+
 ## Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
@@ -82,18 +99,6 @@ The osu! World Cup #2 was run by various community members.
 | ![][flag_DK] Denmark | ![][flag_NO] Netherlands | ![][flag_NO] Norway | ![][flag_HK] Hong Kong | ![][flag_FR] France | ![][flag_MY] Malaysia | ![][flag_BG] Bulgaria | ![][flag_AT] Austria |
 | ![][flag_DE] Germany | ![][flag_NZ] New Zealand | ![][flag_PL] Poland | ![][flag_KR] South Korea | ![][flag_LV] Latvia | ![][flag_RU] Russian Federation | ![][flag_SE] Sweden | ![][flag_TH] Thailand |
 | ![][flag_JP] Japan | ![][flag_PH] Philippines | ![][flag_UA] Ukraine | ![][flag_VN] Vietnam | ![][flag_PT] Portugal | ![][flag_UY] Uruguay | ![][flag_TW] Taiwan | ![][flag_US] United States |
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [CheEZ](https://osu.ppy.sh/users/272117), [K i R i K a R u](https://osu.ppy.sh/users/139670), mnto <!-- missing -->, [Reisen Udongein](https://osu.ppy.sh/users/232942), [Remilia-Scarlet](https://osu.ppy.sh/users/602783)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [Sinch](https://osu.ppy.sh/users/360552), [val0108](https://osu.ppy.sh/users/243917)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834), [Katsuri](https://osu.ppy.sh/users/701726)) |
-
-![OWC #2 bracket](img/bracket.jpg)
 
 ## Mappools
 
