@@ -248,6 +248,8 @@ This competition has come to an end and resulted in the following podium:
   
 # Match Results
 
+## Round of 16
+
 ## Group Stage (Week 3)
 
 Saturday, 10 December 2011:
@@ -268,6 +270,7 @@ Sunday, 11 December 2011:
 | D | ![][flag_HK] Hong Kong | 0 | **3** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/2164241) |
 | H | ![][flag_AT] Austria | 1 | **3** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/2165511) |
 | E | ![][flag_CL] **Chile** | **3** | 1 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/2167760) |
+| A | ![][flag_CA] Australia | 0 | **3** | ![][flag_DK] **Denmark** | *win by default* |
 | F | ![][flag_RU] **Russian Federation** | **3** | 0 | ![][flag_UY] Uruguay | *win by default* |
 | D | ![][flag_CA] **Canada** | **3** | 0 | ![][flag_VN] Vietnam | *win by default* |
 
