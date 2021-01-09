@@ -32,7 +32,7 @@ The osu! World Cup #2 was run by various community members.
 | :-- | :-- |
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
 | Streamer | ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |
-| Mappool selector | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_GB] [fartownik](https://osu.ppy.sh/users/157177), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) |
+| Mappool selector | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) |
 | Referee |
 
 ## Links
@@ -317,7 +317,7 @@ Changes in the rules aside from [OWC #1](/wiki/Tournaments/OWC/1).
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/UA.gif "United Kingdom"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
