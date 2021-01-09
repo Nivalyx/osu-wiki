@@ -282,18 +282,14 @@ Tuesday, 6 December 2011:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| F | ![][flag_FI] **Finland** | **3** | 0 | ![][flag_UY] **Uruguay** | [#1](https://osu.ppy.sh/community/matches/2129293) |
+| F | ![][flag_FI] **Finland** | **3** | 0 | ![][flag_UY] Uruguay | [#1](https://osu.ppy.sh/community/matches/2129293) |
 
 Saturday, 10 December 2011:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| D | ![][flag_CA] **Canada** | **3** | 1 | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/2159276) |
+| D | ![][flag_CA] **Canada** | **3** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/2159276) |
 | H | ![][flag_AT] Austria | 1 | **3** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/2161204) |
-
-us austria
-
-missing: kor vn, tw bg
 
 ## Group Stage (Week 1)
 
