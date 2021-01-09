@@ -44,8 +44,10 @@ The osu! World Cup #2 was run by various community members.
 | :-- | :-- |
 | Manager | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) |
 | Streamer | ![][flag_JP] [dvorak](https://osu.ppy.sh/users/271359), ![][flag_NL] [dlovan](https://osu.ppy.sh/users/190684), ![][flag_AR] [Metro](https://osu.ppy.sh/users/306737), ![][flag_CA] [YodaSnipe](https://osu.ppy.sh/users/673746) |
-| Mappool selector | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917), ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_GB] [Natteke](https://osu.ppy.sh/users/157177), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602), ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) |
+| Mappool selector | ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)¹, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679), ![][flag_GB] [Natteke](https://osu.ppy.sh/users/157177), ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993), ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488), ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602), ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) |
 | Graphic designer | ![][flag_CN] [Anticloud](https://osu.ppy.sh/users/411137) |
+
+¹ *![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917) (who prior to his mappool selector duties was also participating as a player for ![][flag_PL] Poland in the tournament) was admitted to the mappool selectors from the Semifinals onwards after Poland's elimination from the tournament.*
 
 ## Links
 
@@ -111,7 +113,7 @@ This competition has come to an end and resulted in the following podium:
 
 ² *Denotes players that are being brought in as a substitute player prior to the beginning of the knock-out stages.*
 
-³ *Despite having the ![][flag_CH] Switzerland flag on their profile, [Blacky](https://osu.ppy.sh/users/268788) is given a special discretion by the Tournament Management to represent ![][flag_DE] Germany in the tournament.*
+³ *Despite having the ![][flag_CH] Switzerland flag on their profile, [Blacky](https://osu.ppy.sh/users/268788) was given a special discretion by the Tournament Management to represent ![][flag_DE] Germany in the tournament.*
 
 ## Groups
 
