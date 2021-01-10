@@ -571,8 +571,8 @@ Time Zone: (...)
 ### Mappool instructions
 
 1. There will be a different mappool for every stage.
-2. All the maps in the mappool (including the TieBreaker) will be played without any modifications enabled (NoMod).
-3. Each mappool will all consist of 15 NoMod maps + 1 Tiebrekaer map.
+2. All the maps in the mappool (including the Tiebreaker) will be played without any modifications enabled (NoMod).
+3. Each mappool will all consist of 15 NoMod maps + 1 Tiebreaker map.
 
 ### Scheduling instructions
 
