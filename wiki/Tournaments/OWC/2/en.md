@@ -529,8 +529,8 @@ Time Zone: (...)
 4. All accepted teams will be announced in the discussion thread after the Registration Phase.
    - **A team should have at least 4 players registered in order to be eligible to participate.**
 5. Once a team roster has been accepted, it remains locked for the rest of the tournament. No further changes may be made to it whatsoever except on the following occasions:
-   - In the Group Stage, **prior to either 21 a team with less than 6 members may and bring in a substitute player freely
-
+   - In the Group Stage, **prior to either a team's first match or 2011-11-21 GMT +0** (whichever comes first), teams may freely substitute players in and out from the initially accepted roster. Teams who are still short from the 6 players allowance are also able to bring in extra players within this time period. After either of both has passed, teams may no longer change their roster for the rest of the Group Stage unless there's an extraordinary circumstance which requires teams to bring in an emergency reserve player.
+   - Prior to the beginning of the Knock-out stages,
 brought in either as an extra player, a substitute player
 ¹ *Denotes players that were being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
 6. Mappool selectors are not eligible to participate as players in this tournament.
