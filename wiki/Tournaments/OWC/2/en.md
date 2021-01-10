@@ -477,6 +477,102 @@ Sunday, 27 November 2011:
 
 ### Tournament rules
 
+1. The osu! World Cup is a 4v4, country-based team tournament played on the osu! game mode.
+2. Beatmap scoring is based on **[ScoreV1](/wiki/Score#scorev1)**.
+3. The beatmaps for each round will be announced by the tournament host on the discussion thread in advance one before the actual matches take place. Only these beatmaps will be used during the respective matches. 
+   - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie.
+4. The match schedule will be settled by the Tournament Management (see the [scheduling instructions](#scheduling-instructions)).
+5. If no staff is available, the match will be postponed.
+6. If the beatmap ends in a draw, the map will be nullified.
+7. If a player disconnects, their scores will not be counted towards their team's total.
+8. Beatmaps cannot be reused in the same match unless the map was nullified.
+9. If a team fails to bring in than the required minimum of 4 players to a match, the corresponding match can either be:
+     - Postponed by a maximum time of 10 minutes under the opposing team and the Tournament Management's discretion.
+     - Continued in either a 2v2 or 3v3 setting under the opposing team and the Tournament Management's discretion.
+     - Declared as a forfeited match where the opposing team gets automatically awarded a Win by Default.     
+10. Exchanging players during a match is allowed without limitations.
+    - **If a map rematch is required, exchanging players is not allowed. With the referee's discretion, an exception can be made if the previous roster is unavailable to play.**
+11. Lag is not a valid reason to nullify a beatmap.
+12. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
+13. If a player disconnects between maps and the team cannot provide a replacement, the match can be delayed 10 minutes at maximum.
+14. All players and staffs must be treated with respect. Instructions of the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
+15. Disrupting the match by foul play, insulting and provoking other players or staffs, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
+16. Unexpected incidents are to be handled by the Tournament Management. Referees may allow higher tolerance depending on the circumstances. This is up to their discretion.
+17. Penalties for violating the tournament rules may include:
+    - Exclusion of specific players for one beatmap
+    - Exclusion of specific players for an entire match
+    - Declaring the match as Lost by Default
+    - Disqualification from the entire tournament
+    - Disqualification from the current and future official tournaments until appealed
+    - Any modification of these rules will be announced.
+
+### Tournament registration
+
+1. In order to be registered for the tournament, a representative of each country will have to propose a team roster comprising of 4-6 players in the discussion thread following a template set by the Tournament Management as follows:
+
+```
+Country name: (...)
+Captain: Nickname1
+Player1: Nickname2
+Player2: Nickname3
+Player3: Nickname4
+--------------------------
+Back-up Player1: Nickname5
+Back-up Player2: Nickname6
+
+Time Zone: (...)
+```
+
+2. Registering a team that represents multiple countries are allowed under a discretion of the Tournament Management.
+3. To ensure valid and serious registrations, every proposed team roster will be checked by the Tournament Management.
+4. All accepted teams will be announced in the discussion thread after the Registration Phase.
+   - **A team should have at least 4 players registered in order to be eligible to participate.**
+5. Staff members are not eligible to participate as players in this tournament.
+
+### Match instructions
+
+1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
+   - Room settings are osu!, Team-Vs., Win Condition: 'Score'. Room name must be "OWC: (TeamRed) vs (TeamBlue)".
+   - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+2. Map banning **does not apply** in the entirety of the tournament.
+3. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
+4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
+5. Each captain must use the "!roll" command once in #multiplayer.
+   - The captain with the higher roll decides which team **picks** first.
+6. The results of eatch match will be posted on the discussion thread after the match has been concluded by the responsible referees.
+
+#### Winning conditions
+
+- The Round of 32 and Round of 16 will be played in a Best-of-3 matchup configuration (first team to 2 points wins).
+- The Quarterfinals will be played in a Best-of-5 matchup configuration (first team to 3 points wins).
+- The Semifinals and the Finals will be played in a Best-of-7 matchup configuration (first team to 4 points wins).
+
+### Mappool instructions
+
+1. There will be a different mappool for every stage.
+2. All the maps in the mappool (including the TieBreaker) will be played without any modifications enabled (NoMod).
+3. Each mappool has a specific size depending on the stage.
+   - The Round of 32, Round of 16, and the Quarterfinals will all have 15 NoMod maps (to be picked in any order) + 1 Tiebreaker map.
+   - The Semifinals and the 3rd Place Playoffs will both have 6 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.
+   - The Finals will have 8 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.
+
+### Scheduling instructions
+
+1. Each stage will be held on **a single weekend**.   
+2. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage.
+3. **Reschedules will only be considered if both teams agree to a time. This needs to be done and notified to the Tournament Management before the particular match takes place.**
+4. **Reschedules may only be requested by a team captain.**
+   - **Do not ask for a reschedule unless it is absolutely necessary. The Tournament Management has the right to decline the request.**
+5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+
+========================
+========================
+========================
+
+## Ruleset
+
+### Tournament rules
+
 1. No more team than 1 from 1 country can sign-up to the tournament.
 2. All of the team players' flag in the profile must be the same as their country's. However, it can be got around in special cases.
 3. Any form of unfair behaviour (such as cheating, insulting other players, racism) will be punished with an immediate banishment of the player/the team from the tournament.
