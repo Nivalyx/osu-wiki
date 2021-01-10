@@ -528,7 +528,11 @@ Time Zone: (...)
 3. To ensure valid and serious registrations, every proposed team roster will be checked by the Tournament Management.
 4. All accepted teams will be announced in the discussion thread after the Registration Phase.
    - **A team should have at least 4 players registered in order to be eligible to participate.**
-5. Once a team roster has been accepted, it remains locked 
+5. Once a team roster has been accepted, it remains locked for the rest of the tournament. No further changes may be made to it whatsoever except on the following occasions:
+   - In the Group Stage, **prior to either 21 a team with less than 6 members may and bring in a substitute player freely
+
+brought in either as an extra player, a substitute player
+¹ *Denotes players that were being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
 6. Mappool selectors are not eligible to participate as players in this tournament.
 
 ### Match instructions
