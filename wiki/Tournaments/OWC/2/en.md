@@ -491,7 +491,7 @@ Sunday, 27 November 2011:
      - Continued in either a 2v2 or 3v3 setting under the opposing team and the Tournament Management's discretion.
      - Declared as a forfeited match where the opposing team gets automatically awarded a Win by Default.     
 10. Exchanging players during a match is allowed without limitations.
-    - **If a map rematch is required, exchanging players is not allowed. With the referee's discretion, an exception can be made if the previous roster is unavailable to play.**
+    - **If a map rematch is required, exchanging players is not allowed. With the Tournament Management's discretion, an exception can be made if the previous roster is unavailable to play.**
 11. Lag is not a valid reason to nullify a beatmap.
 12. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
 13. If a player disconnects between maps and the team cannot provide a replacement, the match can be delayed 10 minutes at maximum.
@@ -528,13 +528,13 @@ Time Zone: (...)
 3. To ensure valid and serious registrations, every proposed team roster will be checked by the Tournament Management.
 4. All accepted teams will be announced in the discussion thread after the Registration Phase.
    - **A team should have at least 4 players registered in order to be eligible to participate.**
-5. Once 
+5. Once a team roster has been accepted, it remains locked 
 6. Mappool selectors are not eligible to participate as players in this tournament.
 
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!, Team-Vs., Win Condition: 'Score'. Room name must be "OWC: (TeamRed) vs (TeamBlue)".
+   - Room settings are osu!, Team-Vs., Win Condition: 'Score'. Room name must be "OWC2: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Map banning **does not apply** in the entirety of the tournament.
 3. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
