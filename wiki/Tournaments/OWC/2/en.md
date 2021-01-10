@@ -553,95 +553,35 @@ Time Zone: (...)
    - To ensure fairness, the drawing process will be [publicly livestreamed](http://www.livestream.com/natteke).
 2. All the teams from each group will face each other over the course of three weeks.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+   - Most matches won.
+   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
+   - Most beatmaps won.
+   - **Winner of the match played previously between the tied teams.**
+   - In the event of a triple tie:
+     - Have higher `∑{(total score difference) / (maximum score)}`.
+     - Winner of the rematch.
+4. The top two teams of each group will move on to the knock-out stages following [this matchup bracket set by the Tournament Management](img/bracket.jpg).   
+   - The knock-out stages are played under the Single Elimination system.
 
 #### Winning conditions
 
-- The Round of 32 and Round of 16 will be played in a Best-of-3 matchup configuration (first team to 2 points wins).
-- The Quarterfinals will be played in a Best-of-5 matchup configuration (first team to 3 points wins).
-- The Semifinals and the Finals will be played in a Best-of-7 matchup configuration (first team to 4 points wins).
+- The Group Stage, Round of 16, and Quartefinals matches will be played in a Best-of-5 matchup configuration (first team to 3 points wins).
+- The Semifinals and the Finals matches will be played in a Best-of-7 matchup configuration (first team to 4 points wins).
 
 ### Mappool instructions
 
 1. There will be a different mappool for every stage.
 2. All the maps in the mappool (including the TieBreaker) will be played without any modifications enabled (NoMod).
-3. Each mappool has a specific size depending on the stage.
-   - The Round of 32, Round of 16, and the Quarterfinals will all have 15 NoMod maps (to be picked in any order) + 1 Tiebreaker map.
-   - The Semifinals and the 3rd Place Playoffs will both have 6 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.
-   - The Finals will have 8 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.
+3. Each mappool will all consist of 15 NoMod maps + 1 Tiebrekaer map.
 
 ### Scheduling instructions
 
-1. Each stage will be held on **a single weekend**.   
+1. Each stage will be held on its respective timeframe set by the Tournament Management.
 2. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage.
 3. **Reschedules will only be considered if both teams agree to a time. This needs to be done and notified to the Tournament Management before the particular match takes place.**
 4. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely necessary. The Tournament Management has the right to decline the request.**
 5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
-
-========================
-========================
-========================
-
-## Ruleset
-
-### Tournament rules
-
-1. No more team than 1 from 1 country can sign-up to the tournament.
-2. All of the team players' flag in the profile must be the same as their country's. However, it can be got around in special cases.
-3. Any form of unfair behaviour (such as cheating, insulting other players, racism) will be punished with an immediate banishment of the player/the team from the tournament.
-
-### Tournament registration
-
-1. The country will be represented by the captain, which will choose its players. The captain will be chosen in the forum national thread/IRC talk by the trusted members. Basic English language knowledge is required from the person of captain.
-2. To sign up, you need AT LEAST 4 players in the team. You can though sign-up with additional 2 players as the back-up in case of first players' absence. To sign-up simply post the team outline in this thread.
-3. The sign-up time lasts from the day of 28th October to 21st November, 23:59 GMT+0 (3 weeks + 3 days).
-4. The sign-ups automatically stop after reaching 32 participants.
-5. If there's more attention to the tournament than we expect, the number of participants might be raised.
-
-An example of sign-up post:
-
-```
-Country name:
-Captain: Nickname1
-Player1: Nickname2
-Player2: Nickname3
-Player3: Nickname4
---------------------------
-Back-up Player1: Nickname5
-Back-up Player2: Nickname6
-```
-
-Time zone: GMT+0 (if you don't know your time zone, visit [this site](https://www.timeanddate.com/worldclock/))
-
-### Stage instructions
-
-1. We are looking for 32 teams from 32 countries. If there are less participants than we want, the tournament will be modeled according to the reached number.
-2. In the first stage, the teams will be divided into 8 groups of 4 team in each one.
-3. All the teams from each group will face each other.
-4. 2 teams with the largest amount of points are being promoted to the 1/16 Cup Stage.
-
-### Match instructions
-
-1. 15 minutes before the match, the captains must contact each other and confirm the ready to play and the amount of players.
-2. During the match, there must be 8 players on the server hosted by one of the captains, 4 players from each team.
-3. One of the players (captain would be preferred) must capture screenshots of all of the map results.
-4. Each round, the staff will announce the list of 15 beatmaps, from which the captains will be able to choose. 1 team chooses 2 beatmaps to play, however, we'd prefer if you prepare the third and fourth choice in case the opposed team chooses same maps. That means you play to 3 maps won.
-5. In the case of a draw, an extra choosen map is played.
-6. The settings of the server will be: osu! standard mode, "Team vs" mode and win condition: score.
-7. The only allowed mod in-game is No Video.
-8. The country with best total score on the map wins.
-9. After the match, a captain of one of the teams must send a PM to fartownik or NatsumeRin with link to the Multiplayer History of the game and screenshots from all of the maps. If any of the captains won't do it, the match will be cancelled and a re-match will be needed.
-10. The players can freely change themselves between the maps.
-
-### Ruleset changes
-
-Changes in the rules aside from [OWC #1](/wiki/Tournaments/OWC/1).
-
-1. 3 maps won by one of the teams gives them a match win. Not 2 maps like it was in the 1st edition.
-2. The final maps will be chosen more carefully this time.
-3. The teams will be divided into 8 groups of 4 teams each. 2 teams with the largest amount of points passes into the next stage.
-4. The additional back-up players are not necessary, but we still prefer if you have at least 1 if there's a possibility.
-5. Timezone needed in the post of team sign-up.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
