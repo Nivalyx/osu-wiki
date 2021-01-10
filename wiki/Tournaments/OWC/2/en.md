@@ -63,7 +63,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Team |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** (**[KRZY](https://osu.ppy.sh/users/114017)**, [CheEZ](https://osu.ppy.sh/users/272117), [K i R i K a R u](https://osu.ppy.sh/users/139670), [moneto](https://osu.ppy.sh/users/242788), [Reisen Udongein](https://osu.ppy.sh/users/232942), [Remilia-Scarlet](https://osu.ppy.sh/users/602783)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [tobaku2784](https://osu.ppy.sh/users/113855), [val0108](https://osu.ppy.sh/users/243917), *[Sinch](https://osu.ppy.sh/users/360552)¹*) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] **Japan** (**[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [Sinch](https://osu.ppy.sh/users/360552), [tobaku2784](https://osu.ppy.sh/users/113855), *[val0108](https://osu.ppy.sh/users/243917)¹*) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] **Brazil** (**[Blue Dragon](https://osu.ppy.sh/users/19048)**, [antsu](https://osu.ppy.sh/users/92953), [Caco](https://osu.ppy.sh/users/635173), [fabriciorby](https://osu.ppy.sh/users/209664), [Fumi-chan](https://osu.ppy.sh/users/181432), [Katsuri](https://osu.ppy.sh/users/701726), *[K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834)¹*, *[Asterio](https://osu.ppy.sh/users/803906)²*, *[gabaeba](https://osu.ppy.sh/users/867902)²* )|
 
 ¹ *Denotes players that were being brought in either as an extra player, a substitute player, an emergency reserve player during the running of the Group Stage.*
@@ -90,7 +90,7 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_HK] | **Hong Kong** | **[KanaRin](https://osu.ppy.sh/users/310747)**, [henry04213](https://osu.ppy.sh/users/793536), [HineX](https://osu.ppy.sh/users/13854), [Kirito47](http://osu.ppy.sh/u/545514), [Miu Matsuoka](https://osu.ppy.sh/users/10641), [Pokie](https://osu.ppy.sh/users/207340), *[-\[L\]ightz](https://osu.ppy.sh/users/707840)¹*  |
 | ![][flag_HU] | **Hungary** | **[Kuroi Mato](https://osu.ppy.sh/users/584921)**, [higurush](https://osu.ppy.sh/users/602159), [Kozuki Kallen](https://osu.ppy.sh/users/816305), [TaylorXIII](https://osu.ppy.sh/users/351814), [tasli](https://osu.ppy.sh/users/59650), [TsukishimaKirari x\]](https://osu.ppy.sh/users/816358) |
 | ![][flag_ID] | **Indonesia** | **[Hakeru Prismriver](https://osu.ppy.sh/users/345422)**, [awell](https://osu.ppy.sh/users/341298), [awesomewithin](https://osu.ppy.sh/users/81652), [dNextGen](https://osu.ppy.sh/users/346320), [gatitoneku](https://osu.ppy.sh/users/363377), [xeqta](https://osu.ppy.sh/users/524530) |
-| ![][flag_JP] | **Japan** | **[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [tobaku2784](https://osu.ppy.sh/users/113855), [val0108](https://osu.ppy.sh/users/243917), *[Sinch](https://osu.ppy.sh/users/360552)¹* |
+| ![][flag_JP] | **Japan** | **[SiLviA](https://osu.ppy.sh/users/409747)**, [Apricot](https://osu.ppy.sh/users/438547), [Flute](https://osu.ppy.sh/users/211278), [Iris](https://osu.ppy.sh/users/758181), [Sinch](https://osu.ppy.sh/users/360552), [tobaku2784](https://osu.ppy.sh/users/113855), *[val0108](https://osu.ppy.sh/users/243917)¹* |
 | ![][flag_LV] | **Latvia** | **[\_Angel](https://osu.ppy.sh/users/341851)**, [GummyChan](https://osu.ppy.sh/users/757683), [LoGo](https://osu.ppy.sh/users/750382), [Vmx](https://osu.ppy.sh/users/967501) |
 | ![][flag_MY] | **Malaysia** | **[akupp](https://osu.ppy.sh/users/249825)**, [Gon](https://osu.ppy.sh/users/583765), [RhaiizoN](https://osu.ppy.sh/users/758295), [The 08 team\_Bourdon](https://osu.ppy.sh/users/275686), [xsrsbsns](https://osu.ppy.sh/users/414427), [zenki0013](https://osu.ppy.sh/users/89646) |
 | ![][flag_NL] | **Netherlands** | **[GladiOol](https://osu.ppy.sh/users/23326)**, [Awoken](https://osu.ppy.sh/users/256802), [eddieee](https://osu.ppy.sh/users/260284), [Henkie](https://osu.ppy.sh/users/16944), [Lesjuh](https://osu.ppy.sh/users/44308), [zozozofun](https://osu.ppy.sh/users/58727) |
@@ -99,7 +99,7 @@ This competition has come to an end and resulted in the following podium:
 | ![][flag_PH] | **Philippines** | **[Mystgun](https://osu.ppy.sh/users/720029)**, [jannnnnn](https://osu.ppy.sh/users/818399), [dayun10](https://osu.ppy.sh/users/570310), [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), [Pizzicatto](http://osu.ppy.sh/users/692610), [usagijirosan](https://osu.ppy.sh/users/714230) |
 | ![][flag_PL] | **Poland** | **[fartownik](https://osu.ppy.sh/users/56917)**, [Kubu](https://osu.ppy.sh/users/29130), [Piotrekol](https://osu.ppy.sh/users/304520), [rEdo](https://osu.ppy.sh/users/49329), [White Wolf](https://osu.ppy.sh/users/39828), *[Niko-](https://osu.ppy.sh/users/175141)²* |
 | ![][flag_PT] | **Portugal** | **[creativ](http://osu.ppy.sh/u/280158)**, cococococo<!-- missing -->, [JonnyThatJonny](https://osu.ppy.sh/users/201290), [makkura](https://osu.ppy.sh/users/344086), [Maraiga](https://osu.ppy.sh/users/213335), [Pereira006](https://osu.ppy.sh/users/537344) |
-| ![][flag_RU] | **Russian Federation** | **[Akai-](https://osu.ppy.sh/users/649471)**, 646kapeh640<!-- missing -->, [cr1m](https://osu.ppy.sh/users/803766), [Kert](https://osu.ppy.sh/users/119933), [Rost94](https://osu.ppy.sh/users/490568), [Vpalach](https://osu.ppy.sh/users/232729), *[BinGOSU3](https://osu.ppy.sh/users/610462)²* |
+| ![][flag_RU] | **Russian Federation** | **[Akai-](https://osu.ppy.sh/users/649471)**, [kapehh](https://osu.ppy.sh/users/360958), [cr1m](https://osu.ppy.sh/users/803766), [Kert](https://osu.ppy.sh/users/119933), [Rost94](https://osu.ppy.sh/users/490568), [Vpalach](https://osu.ppy.sh/users/232729), *[BinGOSU3](https://osu.ppy.sh/users/610462)²* |
 | ![][flag_KR] | **South Korea** | **[KRZY](https://osu.ppy.sh/users/114017)**, [CheEZ](https://osu.ppy.sh/users/272117), [K i R i K a R u](https://osu.ppy.sh/users/139670), [moneto](https://osu.ppy.sh/users/242788), [Reisen Udongein](https://osu.ppy.sh/users/232942), [Remilia-Scarlet](https://osu.ppy.sh/users/602783) |
 | ![][flag_SE] | **Sweden** | **[theowest](https://osu.ppy.sh/users/60604)**, [failboat](https://osu.ppy.sh/users/276074), [Gyuunyu](https://osu.ppy.sh/users/799102), [Hanyuu-chan](https://osu.ppy.sh/users/881369), [Holmir](https://osu.ppy.sh/users/453435), [Nidert](https://osu.ppy.sh/users/817211), *[m4w11](https://osu.ppy.sh/users/509620)¹* |
 | ![][flag_TW] | **Taiwan** | **[Saya-Honmei](https://osu.ppy.sh/users/2865291)**, [SnowWhite](https://osu.ppy.sh/users/50265), [Tomoka Rin](https://osu.ppy.sh/users/125308), [wizoza83098](https://osu.ppy.sh/users/164156), [YuyuKo sama](https://osu.ppy.sh/users/234788), [ZRush](https://osu.ppy.sh/users/398097) |
@@ -531,20 +531,28 @@ Time Zone: (...)
    - **A team should have at least 4 players registered in order to be eligible to participate.**
 5. Once a team roster has been accepted, it remains locked for the rest of the tournament. No further changes may be made to it whatsoever except on the following occasions:
    - In the Group Stage, **prior to either a team's first match or 2011-11-21 GMT +0** (whichever comes first), teams may freely substitute players in and out from the initially accepted roster. Teams who are still short from the 6 players allowance are also able to bring in extra players within this time period. After either one of both has passed, teams may no longer change their roster for the rest of the Group Stage unless there's an extraordinary circumstance which requires teams to bring in an emergency reserve player.
-   - Prior to the beginning of the Knock-out stages, teams who are still active in the tournament are allowed to introduce a maximum of two new players to substitute in for two other prior members of the team with Tournament Management's approval.
+   - **Prior to the beginning of the knock-out stages**, teams who are still active in the tournament are allowed to introduce a maximum of two new players to substitute in for two other prior members of the team with the Tournament Management's approval.
 6. Mappool selectors are not eligible to participate as players in this tournament.
 
 ### Match instructions
 
-1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
+1. A member of the Tournament Management will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!, Team-Vs., Win Condition: 'Score'. Room name must be "OWC2: (TeamRed) vs (TeamBlue)".
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+2. As osu! World Cup #2 features no formal referee, **both team captains are expected to referee the match by themselves from inside the multiplayer lobby**. If there are any suspected irregularities during the run of the match, the concerned team captain may file a report in the discussion thread which will be investigated by the Tournament Management in due time.
 2. Map banning **does not apply** in the entirety of the tournament.
 3. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 5. Each captain must use the "!roll" command once in #multiplayer.
    - The captain with the higher roll decides which team **picks** first.
-6. The results of eatch match will be posted on the discussion thread after the match has been concluded by the responsible referees.
+6. The results of eatch match will be posted on the discussion thread after the match has been concluded by either of the team captains.
+
+### Stage instructions
+
+1. In the Group Stage, the teams will be divided into 8 groups of 4 teams at random.
+   - To ensure fairness, the drawing process will be [publicly livestreamed](http://www.livestream.com/natteke).
+2. All the teams from each group will face each other over the course of three weeks.
+3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
 
 #### Winning conditions
 
