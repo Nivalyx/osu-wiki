@@ -486,7 +486,7 @@ Sunday, 27 November 2011:
 6. If the beatmap ends in a draw, the map will be nullified.
 7. If a player disconnects, their scores will not be counted towards their team's total.
 8. Beatmaps cannot be reused in the same match unless the map was nullified.
-9. If a team fails to bring in than the required minimum of 4 players to a match, the corresponding match can either be:
+9. If a team fails to bring in the required minimum of 4 players to a match, the corresponding match can either be:
      - Postponed by a maximum time of 10 minutes under the opposing team and the Tournament Management's discretion.
      - Continued in either a 2v2 or 3v3 setting under the opposing team and the Tournament Management's discretion.
      - Declared as a forfeited match where the opposing team gets automatically awarded a Win by Default.     
@@ -523,11 +523,13 @@ Back-up Player2: Nickname6
 Time Zone: (...)
 ```
 
-2. Registering a team that represents multiple countries are allowed under a discretion of the Tournament Management.
+2. Each team may only consist of players who share the same national flag.
+   - Special exceptions may be made under the discretion of the Tournament Management.
 3. To ensure valid and serious registrations, every proposed team roster will be checked by the Tournament Management.
 4. All accepted teams will be announced in the discussion thread after the Registration Phase.
    - **A team should have at least 4 players registered in order to be eligible to participate.**
-5. Staff members are not eligible to participate as players in this tournament.
+5. Once 
+6. Mappool selectors are not eligible to participate as players in this tournament.
 
 ### Match instructions
 
