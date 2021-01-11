@@ -44,7 +44,7 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 
 ## Participants
 
-Note: Team names written in *italic* were not participating as an official delegation of their respective countries.
+Note: Teams written in *italic* were participating as a free team instead of as an official representative of their respective countries.
 
 | Team name | Region | Members |
 | :-- | :-- | :-- |
@@ -61,12 +61,12 @@ Note: Team names written in *italic* were not participating as an official deleg
 | ![][flag_ID] **Indonesia** | South East Asia | ![][flag_ID] **[Lady Vamps](https://osu.ppy.sh/users/611642)**, ![][flag_ID] [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ![][flag_ID] [-Newbie-](https://osu.ppy.sh/users/434914), ![][flag_ID] [r3yn41d0](https://osu.ppy.sh/users/500032) |
 | ![][flag_ID] **Indonesia II** | South East Asia | ![][flag_ID] **[Yumi14](https://osu.ppy.sh/users/844165)**, ![][flag_ID] [AeroRange](https://osu.ppy.sh/users/405659), ![][flag_ID] [Devil\_Cosmo](https://osu.ppy.sh/users/689079), ![][flag_ID] [Varri Naufalb](https://osu.ppy.sh/users/1174508) |
 | ![][flag_KR] **Korea** | East Asia | ![][flag_KR] **[Spectator](https://osu.ppy.sh/users/702598)**, ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253), ![][flag_KR] [CTB user](https://osu.ppy.sh/users/462488), ![][flag_KR] [Speedy Cat](https://osu.ppy.sh/users/351634) |
-| ![][flag_US] ***Lone wolfs*** | North America | ![][flag_US] **[sk8terpoke](https://osu.ppy.sh/users/1039632)**, ![][flag_US] [Bolio](https://osu.ppy.sh/users/14670458), ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516), ![][flag_US] [Gfbrd](https://osu.ppy.sh/users/107857) |
+| ![][flag_US] **Lone wolfs** | North America | ![][flag_US] **[sk8terpoke](https://osu.ppy.sh/users/1039632)**, ![][flag_US] [Bolio](https://osu.ppy.sh/users/14670458), ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516), ![][flag_US] [Gfbrd](https://osu.ppy.sh/users/107857) |
 | ![][flag_ES]/![][flag_DK]/![][flag_BE]/![][flag_MX] **Old School** | Western Europe/Central Europe/North America | ![][flag_ES] **[CriticalDex](https://osu.ppy.sh/users/130466)**, ![][flag_DK] [Emaal](https://osu.ppy.sh/users/85070), ![][flag_BE] [joseph](https://osu.ppy.sh/users/212579), ![][flag_MX] [Salwinjack](https://osu.ppy.sh/users/219084) |
-| **Red Fury** | Europe | ![][flag_ES] **[Deif](https://osu.ppy.sh/users/318565)**, ![][flag_PE] [AleZer0](https://osu.ppy.sh/users/214574), ![][flag_ES] [mikhe](https://osu.ppy.sh/users/47842), ![][flag_ES] [raimoncortese](https://osu.ppy.sh/users/609627) |
-| **State(s) of the Art** | North/South America | ![][flag_US] **[Senyo](https://osu.ppy.sh/users/207928)**, ![][flag_US] [AroundTheManhole](https://osu.ppy.sh/users/307626), ![][flag_CO] [k4mm3r](https://osu.ppy.sh/users/286570), ![][flag_US] [pieguyn](https://osu.ppy.sh/users/107485) |
-| ![][flag_CA] **Team Nub** | Canada | ![][flag_CA] **[Sumaki](https://osu.ppy.sh/users/207916)**, ![][flag_CA] [jonnypui](https://osu.ppy.sh/users/182084), ![][flag_CA] [Kitsunemimi](https://osu.ppy.sh/users/100037), ![][flag_CA] [Weezy](https://osu.ppy.sh/users/67211) |
-| **The Hidden Ones** | Central Europe/Eastern Europe | ![][flag_CZ] **[katsek](https://osu.ppy.sh/users/522623)**, ![][flag_BY] [jekasa](https://osu.ppy.sh/users/792196), ![][flag_IT] [NeoRainier](https://osu.ppy.sh/users/326049) |
+| ![][flag_ES]/![][flag_PE] ***Red Fury*** | Western Europe/South America | ![][flag_ES] **[Deif](https://osu.ppy.sh/users/318565)**, ![][flag_PE] [AleZer0](https://osu.ppy.sh/users/214574), ![][flag_ES] [mikhe](https://osu.ppy.sh/users/47842), ![][flag_ES] [raimoncortese](https://osu.ppy.sh/users/609627) |
+| ![][flag_US]/![][flag_CO] ***State(s) of the Art*** | North America/South America | ![][flag_US] **[Senyo](https://osu.ppy.sh/users/207928)**, ![][flag_US] [AroundTheManhole](https://osu.ppy.sh/users/307626), ![][flag_CO] [k4mm3r](https://osu.ppy.sh/users/286570), ![][flag_US] [pieguyn](https://osu.ppy.sh/users/107485) |
+| ![][flag_CA] **Team Nub** | North America | ![][flag_CA] **[Sumaki](https://osu.ppy.sh/users/207916)**, ![][flag_CA] [jonnypui](https://osu.ppy.sh/users/182084), ![][flag_CA] [Kitsunemimi](https://osu.ppy.sh/users/100037), ![][flag_CA] [Weezy](https://osu.ppy.sh/users/67211) |
+| ![][flag_CZ]/![][flag_BY]/![][flag_IT] ***The Hidden Ones*** | Central Europe/Eastern Europe | ![][flag_CZ] **[katsek](https://osu.ppy.sh/users/522623)**, ![][flag_BY] [jekasa](https://osu.ppy.sh/users/792196), ![][flag_IT] [NeoRainier](https://osu.ppy.sh/users/326049) |
 | **Viciados em Crack** | South America | **[Artificial Children](https://osu.ppy.sh/users/588199)**, ![][flag_BR] [Kakarotto](https://osu.ppy.sh/users/259383), ![][flag_BR] [Kazuo](https://osu.ppy.sh/users/516093), Takamura |
 
 ¹ *Despite having the* ![][flag_ES] *Spanish flag on their profile, [Daxmaster](https://osu.ppy.sh/users/264914) was given a special discretion by the Tournament Management to represent* ![][flag_CL] *Chile in the tournament.*
