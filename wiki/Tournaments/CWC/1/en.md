@@ -5,18 +5,18 @@ tags:
 
 # Catch the Beat World Cup
 
-The **Catch the Beat World Cup** (***CWC***) was a team-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the first installment of the osu!catch World Cup.
+The **Catch the Beat World Cup** (***CWC***) was a single elimination team-based osu!catch tournament organized by various osu! community members. Despite not being hosted by (or being run under the direct provision of) the [osu! team](/wiki/People/The_Team), it was formally considered as the first installment of the osu!catch World Cup tournament series.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2011-09-30/2011-11-01 |
-| Round 1 | 2011-11-04/2011-11-06 |
-| Round 2 | 2011-11-11/2011-11-13 |
-| Round 3 | 2011-11-18/2011-11-20 |
-| Round 4 | 2011-11-25/2011-11-27 |
-| Round 5 | 2011-12-02/2011-12-04 |
+| Group Stage week 1 | 2011-11-04/2011-11-06 |
+| Group Stage week 2 | 2011-11-11/2011-11-13 |
+| Group Stage week 3 | 2011-11-18/2011-11-20 |
+| Group Stage week 4 | 2011-11-25/2011-11-27 |
+| Group Stage week 5 | 2011-12-02/2011-12-04 |
 | Quarterfinals | 2012-01-07/2011-01-08 |
 | Semifinals | 2012-01-14/2011-01-15 |
 | Finals | 2012-02-05 |
@@ -25,23 +25,18 @@ The **Catch the Beat World Cup** (***CWC***) was a team-based osu!catch tourname
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
 
-*Note: 1 month of osu!supporter tag was also given to the backup member of the winning team.*
-
-## Organisation
+## Organization
 
 The Catch the Beat World Cup was run by various osu!catch community members.
 
-- ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253)
-- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
-- ![][flag_RU] [Louis Cyphre](https://osu.ppy.sh/users/186243)
-- ![][flag_IT] [NeoRainier](https://osu.ppy.sh/users/326049)
-- ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676)
-- ![][flag_CA] [weezy47](https://osu.ppy.sh/users/67211)
-- ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413)
+| Position | Member(s) |
+| :-: | :-- |
+| Host/Manager | ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253), ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676) |
+| Helper | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_IT] [NeoRainier](https://osu.ppy.sh/users/326049), ![][flag_CA] [Weezy](https://osu.ppy.sh/users/67211), ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413), ![][flag_RU] [Louis Cyphre](https://osu.ppy.sh/users/186243) |
 
 ## Links
 
