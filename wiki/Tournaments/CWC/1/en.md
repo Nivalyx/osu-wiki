@@ -44,7 +44,7 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 
 ## Participants
 
-Note: Teams written in *italic* were either participating as a mixed-country team or a team that is independent from their respective countries' official representative of their respective countries.
+Note: Teams written in *italic* were either participating as a mixed-country team or independently from their respective countries' official representative.
 
 | Team name | Region | Members |
 | :-- | :-- | :-- |
@@ -67,7 +67,7 @@ Note: Teams written in *italic* were either participating as a mixed-country tea
 | ![][flag_US]/![][flag_CO] ***State(s) of the Art*** | North America/South America | ![][flag_US] **[Senyo](https://osu.ppy.sh/users/207928)**, ![][flag_US] [AroundTheManhole](https://osu.ppy.sh/users/307626), ![][flag_CO] [k4mm3r](https://osu.ppy.sh/users/286570), ![][flag_US] [pieguyn](https://osu.ppy.sh/users/107485) |
 | ![][flag_CA] **Team Nub** | North America | ![][flag_CA] **[Sumaki](https://osu.ppy.sh/users/207916)**, ![][flag_CA] [jonnypui](https://osu.ppy.sh/users/182084), ![][flag_CA] [Kitsunemimi](https://osu.ppy.sh/users/100037), ![][flag_CA] [Weezy](https://osu.ppy.sh/users/67211) |
 | ![][flag_CZ]/![][flag_BY]/![][flag_IT] ***The Hidden Ones*** | Central Europe/Eastern Europe | ![][flag_CZ] **[katsek](https://osu.ppy.sh/users/522623)**, ![][flag_BY] [jekasa](https://osu.ppy.sh/users/792196), ![][flag_IT] [NeoRainier](https://osu.ppy.sh/users/326049) |
-| ![][flag_BR] **Viciados em Crack** | South America | ![][flag_BR] **[Artificial Children](https://osu.ppy.sh/users/588199)**, ![][flag_BR] [Kakarotto](https://osu.ppy.sh/users/259383), ![][flag_BR] [Kazuo](https://osu.ppy.sh/users/516093), Takamura |
+| ![][flag_BR] **Viciados em Crack** | South America | ![][flag_BR] **[Artificial Children](https://osu.ppy.sh/users/588199)**, ![][flag_BR] [Kakarotto](https://osu.ppy.sh/users/259383), ![][flag_BR] [Kazuo](https://osu.ppy.sh/users/516093), ![][flag_BR] [Takamura](https://osu.ppy.sh/users/1041213) |
 
 ¹ *Despite having the* ![][flag_ES] *Spanish flag on their profile, [Daxmaster](https://osu.ppy.sh/users/264914) was given a special discretion by the Tournament Management to represent* ![][flag_CL] *Chile in the tournament.*
 
