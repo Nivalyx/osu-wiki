@@ -44,7 +44,7 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 
 ## Participants
 
-Note: *Italicized* team names indicate teams that either were participating as a mixed-country team or were not registered as an official team of the respective countries.
+Note: *Italicized* team names indicate teams that either were participating as a mixed-country team or were not registered as an official team of the country their team members were from.
 
 | Team name | Region | Members |
 | :-- | :-- | :-- |
