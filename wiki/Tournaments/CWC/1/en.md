@@ -210,7 +210,7 @@ Saturday, 3 December 2011:
 | --: | --: | :-: | :-: | :-- | :-- |
 | A | **Viciados em Crack** | **2** | 0 | Indonesia | [#1](https://osu.ppy.sh/community/matches/2114282) |
 | B | **CFC** | **2** | 0 | Old School | *win by default* |
-| D | **French fruit overdose club** | 2 | 0 | *win by default* |
+| D | **French fruit overdose club** | 2 | 0 | Korea | *win by default* |
 
 Sunday, 4 December 2011:
 
@@ -220,7 +220,7 @@ Sunday, 4 December 2011:
 | B | **State(s) of the Art** | **2** | 1 | CFC | [#1](https://osu.ppy.sh/community/matches/2117966) |
 | C | **Red Fury** | **2** | 0 | German Hentai's | [#1](https://osu.ppy.sh/community/matches/2124209) |
 | B | **#filipino** | **2** | 0 | Old School | *win by default* |
-| D | **Catch The Hungarians** | 2 | 0 | *win by default* |
+| D | **Catch The Hungarians** | 2 | 0 | Korea | *win by default* |
 
 Monday, 5 December 2011:
 
