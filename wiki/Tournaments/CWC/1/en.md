@@ -68,7 +68,7 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 
 ## Groups
 
-| Group 1 | Group 2 | Group 3 | Group 4 |
+| Group A | Group B | Group C | Group D |
 | :-- | :-- | :-- | :-- |
 | The Hidden Ones | State(s) of the Art | Team Nub | Chile |
 | Viciados em Crack | CFC | half manual player team | China |
@@ -99,7 +99,8 @@ This competition has come to an end and resulted in the following podium:
   - [Shoichiro Sakamoto - Eye of Aeon (KanaRin) \[Kana's CTB\]](https://puu.sh/1g0e)
   - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Extra CtB Stage\]](https://puu.sh/HiC)
   - [Yousei Teikoku - Kokou no Sousei (Verdisphaena) \[Verdi's TAG2\]](https://puu.sh/f6oX)
-  - [Ryu\* - I'm so Happy (\[JPSNS\]Shana) \[Shana's Madness CTB\]](https://osu.ppy.sh/beatmapsets/30006#fruits/99319)
+- Tiebreaker  
+  - **[Ryu\* - I'm so Happy (\[JPSNS\]Shana) \[Shana's Madness CTB\]](https://osu.ppy.sh/beatmapsets/30006#fruits/99319)**
 
 ### Semifinals
 
@@ -110,38 +111,40 @@ This competition has come to an end and resulted in the following podium:
   - [DCX - Flying High (DJ Splash Remix) (yeahyeahyeahhh) \[InoSane\]](https://osu.ppy.sh/beatmapsets/22194#fruits/76663)
   - [t+pazolite - Against Gilgamesh (Louis Cyphre) \[Ultimate Illusion\]](https://osu.ppy.sh/beatmapsets/39816#fruits/126671)
   - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/16457#fruits/58970)
-  - [DystopiaGround - AugoEidEs (happy30) \[Aphotic\]](https://osu.ppy.sh/beatmapsets/24611#fruits/97416)
+- Tiebreaker  
+  - **[DystopiaGround - AugoEidEs (happy30) \[Aphotic\]](https://osu.ppy.sh/beatmapsets/24611#fruits/97416)**
 
 ### Quarterfinals
 
 - NoMod (*to be played in order*)
   - [IOSYS - Accept Bloody Fate (Louis Cyphre) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/37305#fruits/120066)
-  - [goreshit - MATZcore (Ekoro) \[Lolicore\]](https://osu.ppy.sh/beatmapsets/24388#fruits/83975)
-  - [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Saten-San) \[Saten's SELAMAT PAGI!!\]](https://osu.ppy.sh/beatmapsets/32775#fruits/112586)
+  - [goreshit - MATZcore (\_LRJ\_) \[Lolicore\]](https://osu.ppy.sh/beatmapsets/24388#fruits/83975)
+  - [Hyadain - Hyadain no Joujou Yuujou (TV Size) (Weezy) \[Saten's SELAMAT PAGI!!\]](https://osu.ppy.sh/beatmapsets/32775#fruits/112586)
   - [DJ Sharpnel - Exciting Hyper Highspeed Star (xBubu) \[Highspeed\]](https://osu.ppy.sh/beatmapsets/16619#fruits/62589)
-  - [Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlock) \[Northrend\]](https://osu.ppy.sh/beatmapsets/12030#fruits/45433)
+- Tiebreaker  
+  - **[Level 70 Elite Tauren Chieftain - I Am Murloc (CheeseWarlock) \[Northrend\]](https://osu.ppy.sh/beatmapsets/12030#fruits/45433)**
 
-### Round 5
+### Group Stage week 5
 
 - NoMod
   - [Hatsune Miku - Reversible Doll (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/22773#fruits/78913)
   - [Megpoid GUMI - Poker Face (NatsumeRin) \[Spade\]](https://osu.ppy.sh/beatmapsets/24782#fruits/84801)
   - [Sound Horizon - Shiseru Eiyuutachi no Tatakai (zerosyn) \[Thanatos\]](https://osu.ppy.sh/beatmapsets/8809#fruits/39298)
-  - [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/24177#fruits/87223)
+  - [Hatsune Miku - Hidari Migi -migihidari- (ouranhshc) \[Rin\]](https://osu.ppy.sh/beatmapsets/24177#fruits/87223)
   - [Tatsh feat. Sariyajin - FOUR SEASONS OF LONELINESS (gowww) \[gow's Lunatic\]](https://osu.ppy.sh/beatmapsets/28342#fruits/112158)
   - [Yousei Teikoku - Asgard (Lybydose) \[Valhalla\]](https://osu.ppy.sh/beatmapsets/27712#fruits/92780)
   - [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#fruits/73699)
   - [Demetori - Emotional Skyscraper \~ World's End (Lybydose) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13204#fruits/48985)
-  - [FamilyMart Jingle (deepsea, ignorethis, Alace, SOGASOGAMO) \[Family Mart is your home\]](https://osu.ppy.sh/beatmapsets/9400#fruits/37658)
+  - [FamilyMart Jingle (deepsea) \[Family Mart is your home\]](https://osu.ppy.sh/beatmapsets/9400#fruits/37658)
 - Tiebreaker
-  - **[Yousei Teikoku - Dare so Ka no Gekka (TV Size) (uranuss8600) \[Uran's CTB\]](https://osu.ppy.sh/beatmapsets/13676#fruits/51945)**
+  - **[Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin) \[Uran's CTB\]](https://osu.ppy.sh/beatmapsets/13676#fruits/51945)**
 
-### Round 4
+### Group Stage week 4
 
 - NoMod
   - [sasakure.UK - Jack-the-Ripper (rustbell) \[JackHasCome!\]](https://osu.ppy.sh/beatmapsets/23907#fruits/81560)
   - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Snow Note) \[Insane\]](https://osu.ppy.sh/beatmapsets/30485#fruits/100627)
-  - [IOSYS - Okuu's Nuclear Fusion Dojo (v2b) \[v2b's Insane\]](https://osu.ppy.sh/beatmapsets/8442#fruits/37166)
+  - [IOSYS - Okuu's Nuclear Fusion Dojo (Mafiamaster) \[v2b's Insane\]](https://osu.ppy.sh/beatmapsets/8442#fruits/37166)
   - [Shiraishi - Shinsekai (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/24634#fruits/83674)
   - [Flobots - Handlebars (-Xero-) \[Holocaust\]](https://osu.ppy.sh/beatmapsets/16091#fruits/58143)
   - [Comp - Gensou no Satellite (Shinxyn) \[Extra\]](https://osu.ppy.sh/beatmapsets/4404#fruits/63875)
@@ -151,37 +154,37 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[07th Expansion - Final Answer (Shiirn) \[Question\]](https://osu.ppy.sh/beatmapsets/36272#fruits/117232)**
 
-### Round 3
+### Group Stage week 3
 
 - NoMod
-  - [Yousei Teikoku - Torikago (furawa) \[yami\]](https://osu.ppy.sh/beatmapsets/11781#fruits/44746)
-  - [Nekomata Master - Goodbye Heaven (gdeath) \[Another\]](https://osu.ppy.sh/beatmapsets/12688#fruits/48926)
-  - [Ryu* Vs. Sota - Go Beyond! (Sprosive) \[Sp's Darkness\]](https://osu.ppy.sh/beatmapsets/19705#fruits/84398)
-  - [Susumu Hirasawa - Big Brother (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10714#fruits/42244)
+  - [IOSYS - Taihen na Mono no Shoushitsu (DJPop) \[Kana's CTB\]](https://osu.ppy.sh/beatmapsets/17819#fruits/67504)
+  - [Yousei Teikoku - Torikago (Furawa) \[yami\]](https://osu.ppy.sh/beatmapsets/11781#fruits/44746)
+  - [Nekomata Master - Goodbye Heaven (alvisto) \[Another\]](https://osu.ppy.sh/beatmapsets/12688#fruits/48926)
+  - [Ryu* Vs. Sota - Go Beyond! (yongtw123) \[Sp's Darkness\]](https://osu.ppy.sh/beatmapsets/19705#fruits/84398)
+  - [Susumu Hirasawa - Big Brother (Gens) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10714#fruits/42244)
   - [Hatsune Miku - Kusaregedou to Chocolate (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/25248#fruits/85494)
   - [Megurine Luka - Leia (gowww) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#fruits/96587)
   - [Hommarju feat. Latte - masterpiece (simplistiC) \[Insane\]](https://osu.ppy.sh/beatmapsets/12483#fruits/47152)
-  - [IOSYS - Taihen na Mono no Shoushitsu (KanaRin) \[Kana's CTB\]](https://osu.ppy.sh/beatmapsets/17819#fruits/67504)
   - [Hyadain - Chocobo (mtmcl) \[Gold\]](https://osu.ppy.sh/beatmapsets/4392#fruits/24023)
 - Tiebreaker
   - **[Eoin O' Broin - Deep Space (galvenize) \[Another\]](https://osu.ppy.sh/beatmapsets/25098#fruits/85550)**
 
-### Round 2
+### Group Stage week 2
 
 - NoMod
-  - [Sakakibara Yui - Koi no Honoo (ignorethis) \[ignore's Slider Madness\]](https://osu.ppy.sh/beatmapsets/8511#fruits/35010)
+  - [Sakakibara Yui - Koi no Honoo (quintitem) \[ignore's Slider Madness\]](https://osu.ppy.sh/beatmapsets/8511#fruits/35010)
   - [DJ YOSHITAKA - ALBIDA (Nakagawa-Kanon) \[Extreme\]](https://osu.ppy.sh/beatmapsets/19561#fruits/77810)
   - [TAKA respect for J.S.B - Ubertreffen (kiddly) \[Another\]](https://osu.ppy.sh/beatmapsets/15740#fruits/56830)
   - [LEAF XCEED Music Division - Fur Elise (Louis Cyphre) \[Champion\]](https://osu.ppy.sh/beatmapsets/23916#fruits/81594)
   - [Hatsune Miku - Unhappy Refrain (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/30128#fruits/105534)
   - [Furries in a Blender - Ridorii (-Lennox-) \[Insane\]](https://osu.ppy.sh/beatmapsets/29727#fruits/98496)
   - [supercell - Rock 'n' Roll Nan Desu no (Garven) \[Insane\]](https://osu.ppy.sh/beatmapsets/27807#fruits/93021)
-  - [Rhapsody - Emerald Sword (Duoprism) \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#fruits/25580)
+  - [Rhapsody - Emerald Sword (Reikin) \[Extreme\]](https://osu.ppy.sh/beatmapsets/3198#fruits/25580)
   - [IOSYS - Border of Death (Nakagawa-Kanon) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/14107#fruits/53380)
 - Tiebreaker
   - **[wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/28984#fruits/96358)**
 
-### Round 1
+### Group Stage week 1
 
 - NoMod
   - [DJ YOSHITAKA - FLOWER (TKiller) \[Intense\]](https://osu.ppy.sh/beatmapsets/29996#fruits/104635)
@@ -189,12 +192,59 @@ This competition has come to an end and resulted in the following podium:
   - [Syrsa - Mad Machine (Louis Cyphre) \[Champion\]](https://osu.ppy.sh/beatmapsets/33052#fruits/107875)
   - [yak\_won - Lucid (soulfear) \[Extra\]](https://osu.ppy.sh/beatmapsets/15898#fruits/85852)
   - [TuTuWan - Wo Ge Zai Guang Dian (v2b) \[Qi Shi Ma\]](https://osu.ppy.sh/beatmapsets/12034#fruits/52940)
-  - [SHK - Weep Irish (fartownik) \[Another\]](https://osu.ppy.sh/beatmapsets/28545#fruits/95360)
-  - [NH22 - Corrosion (Cecilia) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/17044#fruits/60941)
+  - [SHK - Weep Irish (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/28545#fruits/95360)
+  - [NH22 - Corrosion (Lena) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/17044#fruits/60941)
   - [HTT - Girls in Wonderland (wcx19911123) \[Insane\]](https://osu.ppy.sh/beatmapsets/34427#fruits/111902)
   - [Len - U.N. Owen was her? (Louis Cyphre) \[Insane\]](https://osu.ppy.sh/beatmapsets/22699#fruits/78171)
 - Tiebreaker
-  - **[chum - Genesis of Aquarion (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/16782#fruits/60858)**
+  - **[chum - Genesis of Aquarion (Lena) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/16782#fruits/60858)**
+  
+## Match Results
+
+### Group Stage week 4
+
+### Group Stage week 3
+
+a) indonesia vs lone wolfs --> autowin
+a) champion the beat vs hidden ones
+
+b) old school vs hungary ctb
+b) state of art vs filipino
+
+c) half manual vs indonesia ii
+c) german hentai vs nub
+
+d) china vs french fruit
+d) chile vs korea
+d) chile vs catch the hungarians
+
+### Group Stage week 2
+
+a) champion the beat vs indonesia
+a) viciados vs lone wolfs --> autowin
+
+b) state of art vs old school
+b) cfc vs filipino
+
+c) indonesia ii vs german hentai
+c) red fury vs half manual
+
+d) catchthehungarians vs china
+d) chile vs korea (?) --> resched week 3
+
+### Group Stage week 1
+
+a) hidden ones vs viciados
+a) champion the beat vs indonesia (?) --> resched week 2
+
+b) cfc vs hungary ctb
+b) state of art vs old school (?) --> resched week 2
+
+c) german hentai vs half manual 
+c) nub vs red fury
+
+d) french fruit vs catchthehungarians
+d) chile vs korea (?) --> resched week 3
 
 ## Ruleset
 
