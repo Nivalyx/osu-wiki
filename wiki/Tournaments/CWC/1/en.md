@@ -37,10 +37,12 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 | :-: | :-- |
 | Host/Manager | ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253), ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676) |
 | Helper | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_IT] [NeoRainier](https://osu.ppy.sh/users/326049), ![][flag_CA] [Weezy](https://osu.ppy.sh/users/67211), ![][flag_SG] [ZHSteven](https://osu.ppy.sh/users/142413), ![][flag_RU] [Louis Cyphre](https://osu.ppy.sh/users/186243) |
+| Streamer | ![][flag_CA] [Sumaki](https://osu.ppy.sh/users/207916) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/63296)
+- [Livestream link](https://de.justin.tv/inoodle)
 
 ## Participants
 | Team name | Region | Members |
@@ -200,7 +202,44 @@ This competition has come to an end and resulted in the following podium:
   
 ## Match Results
 
+## Finals
+
+Saturday, 4 February 2012 (3rd Place Playoff):
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Team Nub | 4 | **5** | **Chile** | [#1](https://osu.ppy.sh/community/matches/2563701) |
+
+Sunday, 5 February 2012 (Grand Final):
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| half manual player team | 2 | **5** | **China** | [#1](https://osu.ppy.sh/community/matches/2568176) |
+
+## Semifinals
+
+Sunday, 15 January 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **half manual player team** | **4** | 2 | Chile | [#1](https://osu.ppy.sh/community/matches/2407118) |
+| Team Nub | 3 | **4** | **China** | [#1](https://osu.ppy.sh/community/matches/2457722) |
+
 ### Quarterfinals
+
+Saturday, 7 January 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| The Hidden Ones | 2 | **3** | **half manual player team** | [#1](https://osu.ppy.sh/community/matches/2347251) |
+
+Sunday, 8 January 2012:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Team Nub** | **3** | 0 | Viciados em Crack | [#1](https://osu.ppy.sh/community/matches/2359587) |
+| CFC | 1 | **3** | **China** | [#1](https://osu.ppy.sh/community/matches/2354049) |
+| **Chile** | **3** | 0 | State(s) of the Art | *win by default* |
 
 ### Group Stage week 5
 
