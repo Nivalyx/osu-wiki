@@ -229,7 +229,7 @@ Monday, 5 December 2011:
 | B | **State(s) of the Art** | **2** | 1 | Hungary CTB | [#1](https://osu.ppy.sh/community/matches/2123665) |
 | D | Chile | *N/A* | *N/A* | China | *not played¹* |
 
-¹ *As per the Tournament Management's decision ([\[1\]](https://osu.ppy.sh/community/forums/posts/1206142) [\[2\]](https://osu.ppy.sh/community/forums/posts/1184327) [\[3\]](https://osu.ppy.sh/community/forums/posts/1187916)), the Chile vs. China match was not played.*
+¹ *As per the Tournament Management's decision ([\[1\]](https://osu.ppy.sh/community/forums/posts/11843271206142) [\[2\]](https://osu.ppy.sh/community/forums/posts/1206142) [\[3\]](https://osu.ppy.sh/community/forums/posts/1187916)), the Chile vs. China match was not played.*
 
 ### Group Stage week 4
 
