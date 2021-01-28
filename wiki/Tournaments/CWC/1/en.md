@@ -68,13 +68,12 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 
 ## Groups
 
-| Group A | Group B | Group C | Group D |
-| :-- | :-- | :-- | :-- |
-| The Hidden Ones | State(s) of the Art | Team Nub | Chile |
-| Viciados em Crack | CFC | half manual player team | China |
-| Champion The Beat | Hungary CTB | Red Fury | French fruit overdose club |
-| Indonesia | #filipino | German Hentai's | CatchTheHungarians |
-| Lone wolf | Old School | Indonesia II | Korea |
+| Group | Seed 1 | Seed 2 | Seed 3 | Seed 4 | Seed 5 |
+| :--  | :--  | :-- | :-- | :-- | :-- |
+| A | The Hidden Ones | Viciados em Crack | Champion The Beat | Indonesia | Lone wolfs |
+| B | State(s) of the Art | CFC | Hungary CTB | #filipino | Old School |
+| C | Team Nub | half manual player team | Red Fury | German Hentai's | Indonesia II |
+| D | Chile | China | French fruit overdose club | CatchTheHungarians | Korea |
 
 ## Podium
 
@@ -201,49 +200,158 @@ This competition has come to an end and resulted in the following podium:
   
 ## Match Results
 
+### Group Stage week 5
+
+a) viciados vs indonesia
+
+b) cfc vs state of art
+b) cfc vs old school --> cfc autowin
+b) filipino vs old school --> filipino autowin
+b) hungary ctb vs state of art
+
+c) german hentai vs red fury
+c) nub vs indonesia ii
+
+d) korea vs french fruit
+d) chile vs china
+d) korea vs catch the hungarians
+
 ### Group Stage week 4
+
+Friday, 26 November 2011:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| --: | --: | :-: | :-: | :-- | :-- |
+| C | **Red Fury** | **2** | 0 | Indonesia II | [#1](https://osu.ppy.sh/community/matches/2067433) |
+| B | **Hungary CTB** | **2** | 0 | #filipino | [#1](https://osu.ppy.sh/community/matches/2067417) |
+| C | **Team Nub** | **2** | 1 | half manual player team | [#1](https://osu.ppy.sh/community/matches/2069308) |
+
+Saturday, 27 November 2011:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| --: | --: | :-: | :-: | :-- | :-- |
+| C | **China** | **2** | 0 | Korea | [#1](https://osu.ppy.sh/community/matches/2073501) |
+| A | **The Hidden Ones** | **2** | 0 | Indonesia | [#1](https://osu.ppy.sh/community/matches/2076184) |
+| A | **Viciados em Crack** | **2** | 0 | Champion The Beat | [#1](https://osu.ppy.sh/community/matches/2076779) |
+
+Sunday, 28 November 2011:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| --: | --: | :-: | :-: | :-- | :-- |
+| D | **Chile** | **2** | 0 | French fruit overdose club | [#1](https://osu.ppy.sh/community/matches/2078343) |
+
+a) hidden ones vs indonesia (v)
+a) viciados vs champion the beat (v)
+
+b) cfc vs state of art (?) --> resched week 5
+b) hungary ctb vs filipino (v)
+
+c) red fury vs indonesia ii (v)
+c) nub vs half manual (v)
+
+d) korea vs china (v)
+d) chile vs french fruit overdose (v)
 
 ### Group Stage week 3
 
-a) indonesia vs lone wolfs --> autowin
-a) champion the beat vs hidden ones
+Friday, 19 November 2011:
 
-b) old school vs hungary ctb
-b) state of art vs filipino
+| Group | Team 1 |  |  | Team 2 | Match link |
+| --: | --: | :-: | :-: | :-- | :-- |
+| D | **China** | **2** | 0 | French fruit overdose club | [#1](https://osu.ppy.sh/community/matches/2025204) |
+| D | **Chile** | **2** | 0 | Korea | [#1](https://osu.ppy.sh/community/matches/2019448) |
 
-c) half manual vs indonesia ii
-c) german hentai vs nub
+Saturday, 20 November 2011:
 
-d) china vs french fruit
-d) chile vs korea
-d) chile vs catch the hungarians
+| Group | Team 1 |  |  | Team 2 | Match link |
+| --: | --: | :-: | :-: | :-- | :-- |
+| B | **State(s) of the Art** | **2** | 0 | #filipino | [#1](https://osu.ppy.sh/community/matches/2028008) |
+| C | **half manual player team** | **2** | 1 | Indonesia II | [#1](https://osu.ppy.sh/community/matches/2031700) |
+| A | **The Hidden Ones** | **2** | 0 | Champion The Beat | [#1](https://osu.ppy.sh/community/matches/2031866) |
+| B | **Hungary CTB** | **2** | 1 | Old School | [#1](https://osu.ppy.sh/community/matches/2033446) |
+
+Sunday, 21 November 2011:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| --: | --: | :-: | :-: | :-- | :-- |
+| D | **Chile** | **2** | 0 | CatchTheHungarians | [#1](https://osu.ppy.sh/community/matches/2034591) |
+| C | **Team Nub** | **2** | 0 | German Hentai's | [#1](https://osu.ppy.sh/community/matches/2034819) |
+| A | **Indonesia** | **2** | 0 | Lone wolfs | *win by default* |
+
+a) indonesia vs lone wolfs --> autowin (v)
+a) champion the beat vs hidden ones (v)
+
+b) old school vs hungary ctb (v)
+b) state of art vs filipino (v)
+
+c) half manual vs indonesia ii (v)
+c) german hentai vs nub (v)
+
+d) china vs french fruit (v)
+d) chile vs korea (v) 
+d) chile vs catch the hungarians (v)
 
 ### Group Stage week 2
 
-a) champion the beat vs indonesia
+Friday, 12 November 2011:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| --: | --: | :-: | :-: | :-- | :-- |
+| C | **half manual player team** | **2** | 1 | Red Fury | [#1](https://osu.ppy.sh/community/matches/1977802) |
+| D | **China** | **2** | 0 | CatchTheHungarians | [#1](https://osu.ppy.sh/community/matches/1979479) |
+| C | **German Hentai's** | **2** | 0 | Indonesia II | [#1](https://osu.ppy.sh/community/matches/1978912) |
+| A | **Champion The Beat** | **2** | 0 | Indonesia | [#1](https://osu.ppy.sh/community/matches/1978350) |
+
+Saturday, 13 November 2011:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| --: | --: | :-: | :-: | :-- | :-- |
+| A | **Viciados em Crack** | **2** | 0 | Lone wolfs | *win by default* |
+
+Sunday, 14 November 2011:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| --: | --: | :-: | :-: | :-- | :-- |
+| B | **State(s) of the Art** | **2** | 0 | Old School | [#1](https://osu.ppy.sh/community/matches/1990265) |
+
+a) champion the beat vs indonesia (v)
 a) viciados vs lone wolfs --> autowin
 
-b) state of art vs old school
+b) state of art vs old school (v)
 b) cfc vs filipino
 
-c) indonesia ii vs german hentai
-c) red fury vs half manual
+c) indonesia ii vs german hentai (v)
+c) red fury vs half manual (v)
 
-d) catchthehungarians vs china
+d) catchthehungarians vs china (v)
 d) chile vs korea (?) --> resched week 3
 
 ### Group Stage week 1
 
-a) hidden ones vs viciados
+Friday, 5 November 2011:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| --: | --: | :-: | :-: | :-- | :-- |
+| A | **The Hidden Ones** | **2** | 0 | Viciados em Crack | [#1](https://osu.ppy.sh/community/matches/1934186) |
+
+Saturday, 6 November 2011:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| --: | --: | :-: | :-: | :-- | :-- |
+| B | **CFC** | **2** | 0 | Hungary CTB | [#1](https://osu.ppy.sh/community/matches/1930895) |
+| D | **French fruit overdose club** | **2** | 0 | CatchTheHungarians | [#1](https://osu.ppy.sh/community/matches/1942894) |
+| C | **Team Nub** | **2** | 1 | Red Fury | [#1](https://osu.ppy.sh/community/matches/1950105) |
+
+a) hidden ones vs viciados (v)
 a) champion the beat vs indonesia (?) --> resched week 2
 
-b) cfc vs hungary ctb
+b) cfc vs hungary ctb (v)
 b) state of art vs old school (?) --> resched week 2
 
 c) german hentai vs half manual 
-c) nub vs red fury
+c) nub vs red fury (v)
 
-d) french fruit vs catchthehungarians
+d) french fruit vs catchthehungarians (v)
 d) chile vs korea (?) --> resched week 3
 
 ## Ruleset
