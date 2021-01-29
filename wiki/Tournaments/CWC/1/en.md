@@ -407,10 +407,10 @@ Player 4: (...)
 Time Zone: (...)
 ```
 
-2. To ensure valid and serious registrations, every proposed team roster will be checked by the Tournament Management.
+2. To ensure valid and serious registrations, all proposed team rosters will be checked by the Tournament Management.
 3. All accepted teams will be announced in the discussion thread after the Registration Phase.
    - **A team should have at least 3 players registered in order to be eligible to participate.**
-4. Once a team roster has been accepted, it remains locked for the rest of the tournament. No further changes may be made to it except on extraordinary circumstances under Tournament Management's approval.
+4. Once a team roster has been accepted, it remains locked for the rest of the tournament. No further changes may be made to it except on extraordinary circumstances under the Tournament Management's approval.
 
 ### Match instructions
 
@@ -429,8 +429,12 @@ Time Zone: (...)
 
 1. In the Group Stage, the teams will be divided into 4 groups of 5 teams.
 2. All the teams from each group will face each other over the course of five weeks.
-   - Teams are **not playing every week**. Team captains are expected to be aware of scheduling.
-3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+   - Teams are **not playing every week**. Team captains are expected to be aware of the schedules posted by the Tournament Management.
+3. Depending on the outcome of a Group Stage match, each team will be awarded points as follows:
+   - Winning a match gives the team +3 points.
+   - Losing a match gives the team +1 point.
+   - Forfeiting a match, either by disqualification or by a Lost by Default, penalizes the team by -3 points.
+4. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most points accumulated.
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
@@ -439,7 +443,7 @@ Time Zone: (...)
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
-4. The top two teams of each group will move on to the knock-out stages following the matchup bracket set by the Tournament Management.   
+5. The top two teams of each group will move on to the knock-out stages following the matchup bracket set by the Tournament Management.   
    - The knock-out stages are played under the Single Elimination system.
 
 #### Winning conditions
@@ -467,47 +471,6 @@ Time Zone: (...)
 4. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely necessary. The Tournament Management has the right to decline the request.**
 5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide 3 players for a match, the match will be considered forfeited.
-
-## Ruleset
-
-### General rules
-
-1. It is a 3 vs 3 Team tournament.
-2. Team size is 3 member and 1 backup member in case someone from the team is missing (if the teams want one).
-3. Teams should be builded with people from the same country. When people missing, the team can team up with another country from the same continent (there are exceptions).
-4. Minimum team number is 16, maximum 32.
-5. No cheating.
-6. If anyone wants to join the staff write me a forum PM.
-7. Maps can be choosed like in Weezy's tournament. Maps will be given on Monday.
-
-### Game specific rules
-
-1. A game will be a 3 vs 3 match.
-2. Games will be hold on weekends.
-3. When two of a team are missing the game will still hold (rematches in special cases or when both teams accept it).
-4. When participants know that they cannot attend to the game, please tell it the teamleader or the staff.
-5. Participants will play without mods (NoVideo is allowed).
-6. The maps will be only ranked/approved (there are exceptions!).
-7. A staff member or me will create the game. When nobody of the staff is online, participants have to open the game by themselves.
-8. The leader of a team makes a screen and gives it to a staff member or me. Same with the multiplayerpage.
-
-### Tournament stages
-
-#### Group phase
-
-1. The first 5 rounds are hold in groups up to 5 teams.
-2. Victory gives 3 points and defeat 1 point.
-3. When really nobody of a team appears the team will gain -3 points.
-4. The first and second in a group are coming into the Quarterfinals.
-5. In the group phase participants' play always 3 map max.
-6. Participants can choose the date of the match by themselves until wednesday, otherwise Tournament Management will choose one.
-7. Automatic rematch when someone disconnects before the first 5 notes of a song (this means participants will replay the map).
-8. A team chooses only **1** map, in case there is a tie, participants must play the Tiebreak map.
-
-#### Knockout phase
-
-1. Map order is already given.
-2. Participants will play at 5 maps (maximum) in Quarterfinals, 7 in Semifinals, and 9 in Finals.
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
