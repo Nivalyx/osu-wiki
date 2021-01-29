@@ -6,13 +6,13 @@ tags:
 
 # Project Loved Team
 
-**Project Loved Team** merupakan gugus pengguna (*usergroup*) yang bertugas untuk mengelola keberlangsungan [Project Loved](/wiki/Project_Loved). Adapun Project Loved sendiri merupakan sistem untuk mempromosikan [beatmaps](/wiki/Beatmap) ke dalam kategori [Loved](/wiki/Beatmap/Category#loved) berdasarkan jajak pendapat.
+**Project Loved Team** merupakan gugus pengguna (*usergroup*) yang bertugas untuk mengelola keberlangsungan [Project Loved](/wiki/Project_Loved). Adapun Project Loved sendiri merupakan sistem untuk mempromosikan [beatmap](/wiki/Beatmap) ke dalam kategori [Loved](/wiki/Beatmap/Category#loved) berdasarkan hasil jajak pendapat publik.
 
 ## Peran dan Tanggung Jawab
 
-Project Loved Team tersusun atas anggota-anggota komunitas terpilih yang bertindak sebagai *kapten* pada [mode permainannya masing-masing](/wiki/Game_mode). Tiap-tiap kapten bertanggung jawab untuk menominasikan beatmap ke dalam kategori Loved dan bertindak sebagai perwakilan dari komunitas untuk mengetahui beatmap mana yang harus dipilih. Mereka juga menulis deskripsi singkat tentang beatmap yang dinominasi untuk membantu pembaca dapat merasakan setiap beatmap jika sebelumnya mereka belum pernah melihat atau memainkanya.
+Anggota Project Loved Team pada umumnya tersusun atas tokoh-tokoh komunitas terpilih yang bertindak salaku *kapten* (*captain*) pada [mode permainannya masing-masing](/wiki/Game_mode). Tiap-tiap kapten memiliki tanggung jawab untuk menominasikan beatmap-beatmap yang dianggap mewakili aspirasi komunitas secara luas ke dalam kategori Loved. Mereka juga menulis deskripsi singkat tentang beatmap-beatmap yang dinominasikan untuk membantu pembaca dapat merasakan setiap beatmap jika sebelumnya mereka belum pernah melihat atau memainkanya.
 
-Anggota tim lainnya membantu mengontrol kualitas, pemeliharaan, dan pengorganisasian.
+Di samping para kapten, Project Loved Team juga dibantu oleh beberapa anggota komunitas lainnya dalam hal *quality control*, pemeliharaan, dan pengorganisasian.
 
 ## Anggota Tim
 
