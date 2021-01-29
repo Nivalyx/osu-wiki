@@ -379,7 +379,7 @@ Sunday, 6 November 2011:
     - **If a map rematch is required, exchanging players is not allowed. With the Tournament Management's discretion, an exception can be made if the previous roster is unavailable to play.**
 11. Lag is not a valid reason to nullify a beatmap.
 12. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
-13. If a player disconnects between maps and the team cannot provide a replacement, the match can be delayed 10 minutes at maximum.
+13. If a player disconnects between maps and the team cannot provide a replacement, the match can be delayed by 10 minutes at most.
 14. All players and the staff must be treated with respect. Instructions of the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
 15. Disrupting the match by foul play, insulting and provoking other players or the staff, delaying the match, or other deliberate inappropriate misbehavior is strictly prohibited.
 16. Unexpected incidents are to be handled by the Tournament Management.
@@ -466,7 +466,7 @@ Time Zone: (...)
 3. **Reschedules will only be considered if both teams agree to a time. This needs to be done and communicated to the Tournament Management before the particular match takes place.**
 4. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely necessary. The Tournament Management has the right to decline the request.**
-5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide 3 players for a match, the match will be considered forfeited.
 
 ## Ruleset
 
