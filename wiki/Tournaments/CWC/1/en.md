@@ -363,6 +363,109 @@ Sunday, 6 November 2011:
 
 ## Ruleset
 
+### Tournament rules
+
+1. The Catch the Beat World Cup is a 3v3, country-based team tournament played on the osu!catch game mode.
+2. Beatmap scoring is based on **[ScoreV1](/wiki/Score#scorev1)**.
+3. The beatmaps for each round will be announced by the tournament host on the discussion thread in advance before the actual matches take place. Only these beatmaps will be used during the respective matches. 
+   - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie.
+4. The match schedule will be settled by the Tournament Management (see the [scheduling instructions](#scheduling-instructions)).
+5. If no staff is available, the match will be postponed.
+6. If a beatmap ends in a draw, the map will be nullified.
+7. If a player disconnects, their scores will not be counted towards their team's total.
+8. Beatmaps cannot be reused in the same match unless the map was nullified.
+9. If a team fails to bring in the required minimum of 3 players to a match, the corresponding match can either be declared as a forfeited match where the opposing team gets automatically awarded with a Win by Default.     
+10. Exchanging players during a match is allowed without limitations.
+    - **If a map rematch is required, exchanging players is not allowed. With the Tournament Management's discretion, an exception can be made if the previous roster is unavailable to play.**
+11. Lag is not a valid reason to nullify a beatmap.
+12. All players are supposed to keep the match running fluently and without delays. Penalties can be issued to the players if they cause excessive match delays.
+13. If a player disconnects between maps and the team cannot provide a replacement, the match can be delayed 10 minutes at maximum.
+14. All players and the staff must be treated with respect. Instructions of the Tournament Management are to be followed. Decisions labeled as final are not to be objected.
+15. Disrupting the match by foul play, insulting and provoking other players or the staff, delaying the match, or other deliberate inappropriate misbehavior is strictly prohibited.
+16. Unexpected incidents are to be handled by the Tournament Management.
+17. Penalties for violating the tournament rules may include:
+    - Exclusion of specific players for one beatmap
+    - Exclusion of specific players for an entire match
+    - Declaring the match as Lost by Default
+    - Disqualification from the entire tournament
+    - Disqualification from the current and future official tournaments until appealed
+    - Any modification of these rules will be announced.
+
+### Tournament registration
+
+1. In order to be registered for the tournament, a representative of each team will have to propose a team roster comprising of 3-4 players in the discussion thread following a template set by the Tournament Management as follows:
+
+```
+Team Name: (...)
+Region: (...)
+
+Player 1 (Captain): (...)
+Player 2: (...)
+Player 3: (...)
+Player 4: (...)
+
+Time Zone: (...)
+```
+
+2. To ensure valid and serious registrations, every proposed team roster will be checked by the Tournament Management.
+3. All accepted teams will be announced in the discussion thread after the Registration Phase.
+   - **A team should have at least 3 players registered in order to be eligible to participate.**
+4. Once a team roster has been accepted, it remains locked for the rest of the tournament. No further changes may be made to it except on extraordinary circumstances under Tournament Management's approval.
+
+### Match instructions
+
+1. A member of the Tournament Management will create a multiplayer room 15 minutes in advance. Players must gather during this period.
+   - Room settings are osu!catch, Team-Vs., Win Condition: 'Score'. Room name must be "CWC: (TeamRed) vs (TeamBlue)".
+   - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+2. As the Catch the Beat World Cup features no formal referee, **both team captains are expected to referee the match by themselves from inside the multiplayer lobby**. If there are any suspected irregularities during the run of the match, the concerned team captain may file a report in the discussion thread which will be investigated by the Tournament Management in due time.
+3. Map banning **does not apply** in the entirety of the tournament.
+4. Each team must have 3 players for each map. They can be exchanged freely after a map is concluded.
+5. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
+6. Each captain must use the `!roll` command once in `#multiplayer`.
+   - The captain with the higher roll decides which team **picks** first.
+7. The results of each match will be posted on the discussion thread after the match has been concluded by either of the team captains.
+
+### Stage instructions
+
+1. In the Group Stage, the teams will be divided into 4 groups of 5 teams.
+2. All the teams from each group will face each other over the course of five weeks.
+   - Teams are **not playing every week**. Team captains are expected to be aware of scheduling.
+3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+   - Most points accumulated.
+   - Most matches won.
+   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
+   - Most beatmaps won.
+   - **Winner of the match played previously between the tied teams.**
+   - In the event of a triple tie:
+     - Have higher `∑{(total score difference) / (maximum score)}`.
+     - Winner of the rematch.
+4. The top two teams of each group will move on to the knock-out stages following the matchup bracket set by the Tournament Management.   
+   - The knock-out stages are played under the Single Elimination system.
+
+#### Winning conditions
+
+- The Group Stage matches will be played in a Best-of-3 matchup configuration (first team to reach 2 points wins).
+- The Quarterfinals matches will be played in a Best-of-5 matchup configuration (first team to reach 3 points wins).
+- The Semifinals matches will be played in a Best-of-7 matchup configuration (first team to reach 4 points wins).
+- The Finals matches will be played in a Best-of-9 matchup configuration (first team to reach 5 points wins).
+
+### Mappool instructions
+
+1. There will be a different mappool for every stage.
+2. All the maps in the mappool (including the Tiebreaker) will be played without any modifications enabled (NoMod).
+3. Each mappool will all consist of 15 NoMod maps + 1 Tiebreaker map.
+
+### Scheduling instructions
+
+1. Each stage will be held on its respective timeframe set by the Tournament Management.
+2. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the stage.
+3. **Reschedules will only be considered if both teams agree to a time. This needs to be done and communicated to the Tournament Management before the particular match takes place.**
+4. **Reschedules may only be requested by a team captain.**
+   - **Do not ask for a reschedule unless it is absolutely necessary. The Tournament Management has the right to decline the request.**
+5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
+
+## Ruleset
+
 ### General rules
 
 1. It is a 3 vs 3 Team tournament.
