@@ -6,7 +6,7 @@ tags:
 
 # Project Loved Team
 
-**Project Loved Team** merupakan gugus pengguna (*usergroup*) yang bertugas untuk mengelola keberlangsungan [Project Loved](/wiki/Project_Loved). Adapun Project Loved sendiri merupakan sistem untuk mempromosikan [beatmap](/wiki/Beatmap) ke dalam kategori [Loved](/wiki/Beatmap/Category#loved) berdasarkan hasil jajak pendapat publik.
+**Project Loved Team** merupakan gugus pengguna (*usergroup*) yang bertugas untuk mengelola keberlangsungan [Project Loved](/wiki/Project_Loved). Adapun Project Loved sendiri merupakan suatu sistem yang bertujuan untuk mempromosikan [beatmap-beatmap](/wiki/Beatmap) ke dalam kategori [Loved](/wiki/Beatmap/Category#loved) berdasarkan hasil jajak pendapat publik.
 
 ## Peran dan Tanggung Jawab
 
