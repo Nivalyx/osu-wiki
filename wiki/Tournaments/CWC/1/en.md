@@ -453,7 +453,11 @@ Time Zone: (...)
 
 1. There will be a different mappool for every stage.
 2. All the maps in the mappool (including the Tiebreaker) will be played without any modifications enabled (NoMod).
-3. Each mappool will all consist of 15 NoMod maps + 1 Tiebreaker map.
+3. Each mappool has a specific size depending on the stage.
+   - The Group Stage weeks will all feature 9 NoMod maps (to be picked in any order) + 1 Tiebreaker map.
+   - The Quarterfinals will feature 4 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.
+   - The Semifinals will feature 6 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.
+   - The Finals will feature 8 NoMod maps (**to be played in the order determined by the Tournament Management**) + 1 Tiebreaker map.   
 
 ### Scheduling instructions
 
