@@ -375,7 +375,7 @@ Sunday, 6 November 2011:
 6. If a beatmap ends in a draw, the map will be nullified.
 7. If a player disconnects, their scores will not be counted towards their team's total.
 8. Beatmaps cannot be reused in the same match unless the map was nullified.
-9. If a team fails to bring in the required minimum of 3 players to a match, the corresponding match can either be declared as a forfeited match where the opposing team gets automatically awarded with a Win by Default.     
+9. If a team fails to bring in the required minimum of three players to a match, the corresponding match can either be declared as a forfeited match where the opposing team gets automatically awarded with a Win by Default.     
 10. Exchanging players during a match is allowed without limitations.
     - **If a map rematch is required, exchanging players is not allowed. With the Tournament Management's discretion, an exception can be made if the previous roster is unavailable to play.**
 11. Lag is not a valid reason to nullify a beatmap.
@@ -410,7 +410,7 @@ Time Zone: (...)
 
 2. To ensure valid and serious registrations, all proposed team rosters will be checked by the Tournament Management.
 3. All accepted teams will be announced in the discussion thread after the Registration Phase.
-   - **A team should have at least 3 players registered in order to be eligible to participate.**
+   - **A team should have at least three players registered in order to be eligible to participate.**
 4. Once a team roster has been accepted, it remains locked for the rest of the tournament. No further changes may be made to it except on extraordinary circumstances under the Tournament Management's approval.
 
 ### Match instructions
@@ -420,7 +420,7 @@ Time Zone: (...)
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. As the Catch the Beat World Cup features no formal referee, **both team captains are expected to referee the match by themselves from inside the multiplayer lobby**. If there are any suspected irregularities during the run of the match, the concerned team captain may file a report in the discussion thread which will be investigated by the Tournament Management in due time.
 3. Map banning **does not apply** in the entirety of the tournament.
-4. Each team must have 3 players for each map. They can be exchanged freely after a map is concluded.
+4. Each team must have three players for each map. They can be exchanged freely after a map is concluded.
 5. Beatmap selection will alternate between each captain selecting a beatmap out of the mappool.
 6. Each captain must use the `!roll` command once in `#multiplayer`.
    - The captain with the higher roll decides which team **picks** first.
@@ -428,15 +428,15 @@ Time Zone: (...)
 
 ### Stage instructions
 
-1. In the Group Stage, the teams will be divided into 4 groups of 5 teams.
+1. In the Group Stage, the teams will be divided into four groups of five teams each.
 2. All the teams from each group will face each other over the course of five weeks.
-   - Teams are **not playing every week**. Team captains are expected to be aware of the schedules posted by the Tournament Management.
-3. Depending on the outcome of a Group Stage match, each team will be awarded points as follows:
-   - Winning a match gives the team +3 points.
-   - Losing a match gives the team +1 point.
-   - Forfeiting a match, either by disqualification or by a Lost by Default, penalizes the team by -3 points.
+   - Due to the odd number of teams in each group, all teams **will only be playing on four matchweeks** instead of on all five by default. Team captains are expected to be aware of the schedules posted by the Tournament Management.
+3. Depending on the outcome of a Group Stage match, each team will be alloted Group Stage points to their name as follows:
+   - Winning a match gives the team +3 Group Stage points.
+   - Losing a match gives the team +1 Group Stage point.
+   - Forfeiting a match, either by disqualification or by a Lost by Default, penalizes the team by -3 Group Stage points.
 4. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-   - Most points accumulated.
+   - Most Group Stage points accumulated.
    - Most matches won.
    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
    - Most beatmaps won.
@@ -471,7 +471,7 @@ Time Zone: (...)
 3. **Reschedules will only be considered if both teams agree to a time. This needs to be done and communicated to the Tournament Management before the particular match takes place.**
 4. **Reschedules may only be requested by a team captain.**
    - **Do not ask for a reschedule unless it is absolutely necessary. The Tournament Management has the right to decline the request.**
-5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide 3 players for a match, the match will be considered forfeited.
+5. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least three players for each match. If a team is unable to provide three players for a match, the match will be considered forfeited.
 
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
