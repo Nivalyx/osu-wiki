@@ -12,14 +12,15 @@ The **Catch the Beat World Cup** (***CWC***) was a single elimination team-based
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2011-09-30/2011-11-01 |
-| Group Stage week 1 | 2011-11-04/2011-11-06 |
-| Group Stage week 2 | 2011-11-11/2011-11-13 |
-| Group Stage week 3 | 2011-11-18/2011-11-20 |
-| Group Stage week 4 | 2011-11-25/2011-11-27 |
-| Group Stage week 5 | 2011-12-02/2011-12-04 |
-| Quarterfinals | 2012-01-07/2011-01-08 |
-| Semifinals | 2012-01-14/2011-01-15 |
-| Finals | 2012-02-05 |
+| Group Stage week 1 | 2011-11-02/2011-11-06 |
+| Group Stage week 2 | 2011-11-07/2011-11-13 |
+| Group Stage week 3 | 2011-11-14/2011-11-20 |
+| Group Stage week 4 | 2011-11-21/2011-11-27 |
+| Group Stage week 5 | 2011-11-28/2011-12-04 |
+| *Winter break* | 2011-12-05/2011-12-31 |
+| Quarterfinals | 2012-01-01/2011-01-08 |
+| Semifinals | 2012-01-09/2011-01-15 |
+| Finals | 2011-01-16/2012-02-05 |
 
 ## Prizes
 
