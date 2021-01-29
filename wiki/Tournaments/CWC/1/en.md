@@ -366,7 +366,7 @@ Sunday, 6 November 2011:
 
 ### Tournament rules
 
-1. The Catch the Beat World Cup is a 3v3, country-based team tournament played on the osu!catch game mode.
+1. The Catch the Beat World Cup is a 3v3, team-based tournament played on the osu!catch game mode.
 2. Beatmap scoring is based on **[ScoreV1](/wiki/Score#scorev1)**.
 3. The beatmaps for each round will be announced by the tournament host on the discussion thread in advance before the actual matches take place. Only these beatmaps will be used during the respective matches. 
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie.
