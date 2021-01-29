@@ -18,27 +18,27 @@ Di samping para kapten, Project Loved Team juga tersusun atas anggota-anggota ya
 
 ![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** dan ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) merupakan pengelola utama Project Loved yang bertugas untuk menulis berita, membuat topik forum, mengelola *spreadsheet* Project Loved, dan mengawal opini publik seputar Project Loved secara umum. ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) dan ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) bertugas untuk memeriksa metadata dari beatmap-beatmap yang dinominasikan oleh masing-masing kapten. Anggota-anggota lainnya adalah kapten:
 
-### Kapten osu!standard
+### Kapten-kapten osu!standard
 
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453)
 
-### Kapten osu!taiko
+### Kapten-kapten osu!taiko
 
 - ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
 - ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685)
 - ![][flag_TW] [X a v y](https://osu.ppy.sh/users/3738344)
 
-### Kapten osu!catch
+### Kapten-kapten osu!catch
 
 - ![][flag_NL] [Sartan](https://osu.ppy.sh/users/4100941)
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_DE] [Tenshichan](https://osu.ppy.sh/users/1101600)
 - ![][flag_NL] [Wesley](https://osu.ppy.sh/users/2407265)
 
-### kapten osu!mania
+### Kapten-kapten osu!mania
 
 - ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
 - ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
