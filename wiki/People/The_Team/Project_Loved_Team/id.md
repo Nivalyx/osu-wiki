@@ -16,7 +16,7 @@ Di samping para kapten, Project Loved Team juga tersusun atas anggota-anggota ya
 
 ## Anggota Tim
 
-![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** dan ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) merupakan pengelola utama Project Loved yang bertugas untuk menulis berita, membuat topik forum, mengelola *spreadsheet* Project Loved, dan mengawal opini publik seputar Project Loved secara umum. ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) dan ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) bertugas untuk memeriksa metadata dari beatmap-beatmap yang dinominasikan oleh masing-masing kapten. Adapun anggota tim lainnya adalah kapten sebagai berikut:
+![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** dan ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) merupakan pengelola utama Project Loved yang bertugas untuk menulis berita, membuat topik forum, mengelola *spreadsheet* Project Loved, dan mengawal opini publik seputar Project Loved secara umum. ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) dan ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) bertugas untuk memeriksa metadata dari beatmap-beatmap yang dinominasikan oleh masing-masing kapten. Adapun anggota-anggota tim lainnya adalah kapten sebagai berikut:
 
 ### Kapten osu!standard
 
