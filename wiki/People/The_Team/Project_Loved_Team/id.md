@@ -47,7 +47,7 @@ Di samping para kapten, Project Loved Team juga tersusun atas anggota-anggota ya
 
 ## Trivia
 
-- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) membuat tim kapten pada bulan September 2017 bersamaan dengan sistem [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-dan-project-loved-(sep-2017-–-hingga-sekarang)) yang selanjutnya diubah namanya menjadi Project Loved. Hingga akhir 2019, dia mengawasi dan mengelola proyek secara keseluruhan.
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) merupakan orang pertama yang ditugaskan untuk menyusun daftar kapten pada awal mula berdirinya Project Loved yang kala itu masih bernama [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-dan-project-loved-(sep-2017-–-hingga-sekarang)). Ia menjabat sebagai ketua dan pengelola utama Project Loved hingga hingga akhir 2019.
 - Terdapat grup pengguna Project Loved di situs web dengan ID grup 31, tetapi daftar tersebut tidak bersifat publik. Hal ini digunakan sebagai izin untuk memoderasi [forum Project Loved](https://osu.ppy.sh/community/forums/120) dan mempromosikan beatmap ke kategori Loved, dan anggota tersebut adalah ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), dan ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
