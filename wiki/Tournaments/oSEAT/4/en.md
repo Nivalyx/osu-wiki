@@ -802,8 +802,7 @@ Sunday, 13 December 2020:
 2. Each player has to ban **one beatmap** (on Group Stage) and **two beatmaps** (on the Knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
    - Each player may not ban two maps from the same modpool in a single match.
    - Banning does not apply in the Qualifier lobbies.
-3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
-   - Warm-ups do not apply in the Qualifier lobbies.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own outside the multiplayer lobby.
 4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
    - Playing a FreeMod pick without any mods activated is not allowed.
 5. In case a map ends with a score tie, **the player that doesn't pick the map** gets the point.
