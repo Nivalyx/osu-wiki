@@ -327,6 +327,20 @@ Listed below are players who qualified into the Group Stage (along with their re
 
 ## Match results
 
+### Finals week 2
+
+Saturday, 30 January 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[megumic](https://osu.ppy.sh/users/7537133)** ![][flag_SG] | **7** | 0 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | [#1](https://osu.ppy.sh/community/matches/74553279) |
+
+Sunday, 31 January 2021 (Grand Final):
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **[Skydiver](https://osu.ppy.sh/users/4750008)**  ![][flag_SG] | **7** | 3 | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | [#1](https://osu.ppy.sh/community/matches/74637070) |
+
 ### Finals week 1
 
 Saturday, 23 January 2021:
