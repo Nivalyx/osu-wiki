@@ -516,33 +516,33 @@ Sunday, 27 December 2020:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) | 0 | **6** | ![][flag_VN] **[sindes19](https://osu.ppy.sh/users/11021073)** | [#1](https://osu.ppy.sh/community/matches/72308015) |
-| Lower | ![][flag_MY] **[Auxuelus](https://osu.ppy.sh/users/5414124)** | **6** | 5 | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | [#1](https://osu.ppy.sh/community/matches/72313266) |
-| Lower | ![][flag_SG] **[Milk Tee](https://osu.ppy.sh/users/6708955)** | **6** | 0 | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) | [#1](https://osu.ppy.sh/community/matches/72293942) |
-| Upper | ![][flag_US] (![][flag_PH]) [\_Kolin](https://osu.ppy.sh/users/7249644) | 1 | **6** | ![][flag_SG] **[Tzero](https://osu.ppy.sh/users/6088976)** | [#1](https://osu.ppy.sh/community/matches/72304186) |
-| Upper | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | **6** | 5 | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) | [#1](https://osu.ppy.sh/community/matches/72295747) |
-| Upper | ![][flag_SG] **[oneplusone](https://osu.ppy.sh/users/1843447)** | **6** | 2 | ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213) | [#1](https://osu.ppy.sh/community/matches/72306030) |
-| Upper | ![][flag_SG] **[k\_1tty](https://osu.ppy.sh/users/5407620)** | **6** | 1 | ![][flag_PH] [xidorn](https://osu.ppy.sh/users/7904667) | [#1](https://osu.ppy.sh/community/matches/72306051) |
-| Upper | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **6** | 5 | ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) | [#1](https://osu.ppy.sh/community/matches/72313709) |
-| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **6** | 2 | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/72310462) |
-| Lower | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | 0 | **6** | ![][flag_SG] **[moltenfury](https://osu.ppy.sh/users/3395820)** | [#1](https://osu.ppy.sh/community/matches/72311955) |
-| Lower | ![][flag_ID] **[Bunan-](https://osu.ppy.sh/users/2763354)** | **6** | 3 | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/13067221) |
-| Lower | ![][flag_SG] [m0fum0fu](https://osu.ppy.sh/users/5143605) | 5 | **6** | ![][flag_SG] **[\_gt](https://osu.ppy.sh/users/8301957)** | [#1](https://osu.ppy.sh/community/matches/72313362) |
-| Upper | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | **6** | 1 | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/72310597) |
-| Lower | ![][flag_TH] [- Seen -](https://osu.ppy.sh/users/4699134) | 0 | **6** | ![][flag_TH] **[Chorus](https://osu.ppy.sh/users/3504692)** | *win by default* |
-| Lower | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | 0 | **6** | ![][flag_VN] **[Hoaq](https://osu.ppy.sh/users/7696512)** | *win by default* |
+| Lower | [Lunarsol](https://osu.ppy.sh/users/6622650) ![][flag_SG] | 0 | **6** | ![][flag_VN] **[sindes19](https://osu.ppy.sh/users/11021073)** | [#1](https://osu.ppy.sh/community/matches/72308015) |
+| Lower | **[Auxuelus](https://osu.ppy.sh/users/5414124)** ![][flag_MY] | **6** | 5 | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | [#1](https://osu.ppy.sh/community/matches/72313266) |
+| Lower | **[Milk Tee](https://osu.ppy.sh/users/6708955)** ![][flag_SG] | **6** | 0 | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) | [#1](https://osu.ppy.sh/community/matches/72293942) |
+| Upper | [\_Kolin](https://osu.ppy.sh/users/7249644) ![][flag_US] (![][flag_PH]) | 1 | **6** | ![][flag_SG] **[Tzero](https://osu.ppy.sh/users/6088976)** | [#1](https://osu.ppy.sh/community/matches/72304186) |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **6** | 5 | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) | [#1](https://osu.ppy.sh/community/matches/72295747) |
+| Upper | **[oneplusone](https://osu.ppy.sh/users/1843447)** ![][flag_SG] | **6** | 2 | ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213) | [#1](https://osu.ppy.sh/community/matches/72306030) |
+| Upper |  **[k\_1tty](https://osu.ppy.sh/users/5407620)** ![][flag_SG] | **6** | 1 | ![][flag_PH] [xidorn](https://osu.ppy.sh/users/7904667) | [#1](https://osu.ppy.sh/community/matches/72306051) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **6** | 5 | ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) | [#1](https://osu.ppy.sh/community/matches/72313709) |
+| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 2 | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/72310462) |
+| Lower | [vernonlim](https://osu.ppy.sh/users/10167542) ![][flag_MY] | 0 | **6** | ![][flag_SG] **[moltenfury](https://osu.ppy.sh/users/3395820)** | [#1](https://osu.ppy.sh/community/matches/72311955) |
+| Lower | **[Bunan-](https://osu.ppy.sh/users/2763354)** ![][flag_ID] | **6** | 3 | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/13067221) |
+| Lower | [m0fum0fu](https://osu.ppy.sh/users/5143605) ![][flag_SG] | 5 | **6** | ![][flag_SG] **[\_gt](https://osu.ppy.sh/users/8301957)** | [#1](https://osu.ppy.sh/community/matches/72313362) |
+| Upper | **[megumic](https://osu.ppy.sh/users/7537133)** ![][flag_SG] | **6** | 1 | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/72310597) |
+| Lower | [- Seen -](https://osu.ppy.sh/users/4699134) ![][flag_TH] | 0 | **6** | ![][flag_TH] **[Chorus](https://osu.ppy.sh/users/3504692)** | *win by default* |
+| Lower | [woahsia](https://osu.ppy.sh/users/195946) ![][flag_SG] | 0 | **6** | ![][flag_VN] **[Hoaq](https://osu.ppy.sh/users/7696512)** | *win by default* |
 
 Monday, 28 December 2020:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_MY] [Chizu-kun](https://osu.ppy.sh/users/10288461) | 0 | **6** | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | [#1](https://osu.ppy.sh/community/matches/72361772) |
+| Lower | [Chizu-kun](https://osu.ppy.sh/users/10288461) ![][flag_MY] | 0 | **6** | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | [#1](https://osu.ppy.sh/community/matches/72361772) |
 
 Wednesday, 30 December 2020:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609) | 0 | **6** | ![][flag_PH] **[Milkteaism](https://osu.ppy.sh/users/9642774)** | *win by default* |
+| Upper | [Demonical](https://osu.ppy.sh/users/5447609) ![][flag_SG] | 0 | **6** | ![][flag_PH] **[Milkteaism](https://osu.ppy.sh/users/9642774)** | *win by default* |
 
 ### Group Stage week 2
 
@@ -550,29 +550,29 @@ Friday, 18 December 2020:
 
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| G | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | **5** | 0 | ![][flag_MY] [Heya](https://osu.ppy.sh/users/11379332) | [#1](https://osu.ppy.sh/community/matches/71786110) |
-| I | ![][flag_MY] [alphaplay](https://osu.ppy.sh/users/9304966) | 0 | **5** | ![][flag_TH] **[Deppyforce](https://osu.ppy.sh/users/5286213)** | [#1](https://osu.ppy.sh/community/matches/71782839) |
-| K | ![][flag_SG] [RePeaTT](https://osu.ppy.sh/users/11132323) | 4 | **5** | ![][flag_SG] **[\_gt](https://osu.ppy.sh/users/8301957)** | [#1](https://osu.ppy.sh/community/matches/71776736) |
-| C | ![][flag_MY] [CookieDASH](https://osu.ppy.sh/users/8249895) | 3 | **5** | ![][flag_PH] **[Oooodriiin](https://osu.ppy.sh/users/7223737)** | [#1](https://osu.ppy.sh/community/matches/71776736) |
-| I | ![][flag_SG] **[k\_1tty](https://osu.ppy.sh/users/5407620)** | **5** | 1 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/71776576) |
-| A | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | 2 | **5** | ![][flag_SG] **[kirkirs](https://osu.ppy.sh/users/9902622)** | [#1](https://osu.ppy.sh/community/matches/71779488) |
-| H | ![][flag_SG] **[Rtyzen](https://osu.ppy.sh/users/2439822)** | **5** | 0 | ![][flag_VN] [Tuon](https://osu.ppy.sh/users/6673790) | [#1](https://osu.ppy.sh/community/matches/71779990) |
-| P | ![][flag_PH] [ishokuP](https://osu.ppy.sh/users/7309033) | 1 | **5** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | [#1](https://osu.ppy.sh/community/matches/71779846) |
-| L | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | **5** | 1 | ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) | [#1](https://osu.ppy.sh/community/matches/71779753) |
-| E | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | **5** | 2 | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | [#1](https://osu.ppy.sh/community/matches/71779566) |
-| M | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) | 2 | **5** | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/71779824) |
-| F | ![][flag_TH] [- Seen -](https://osu.ppy.sh/users/5082392) | 1 | **5** | ![][flag_PH] **[KagenoKami](https://osu.ppy.sh/users/7246165)** | [#1](https://osu.ppy.sh/community/matches/71783318) |
-| D | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | **5** | 4 | ![][flag_SG] [Eagle5324](https://osu.ppy.sh/users/11987104) | [#1](https://osu.ppy.sh/community/matches/71785974) |
-| B | ![][flag_MY] **[Sonic-](https://osu.ppy.sh/users/8691555)** | **5** | 4 | ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773) | [#1](https://osu.ppy.sh/community/matches/71783048) |
-| D | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/13067221) | 4 | **5** | ![][flag_MY] **[Auxuelus](https://osu.ppy.sh/users/5414124)** | [#1](https://osu.ppy.sh/community/matches/71783318) |
-| E | ![][flag_SG] **[DVDthe1st](https://osu.ppy.sh/users/2138989)** | **5** | 4 | ![][flag_TH] [Chorus](https://osu.ppy.sh/users/3504692) | [#1](https://osu.ppy.sh/community/matches/71783061) |
-| G | ![][flag_VN] **[Hoaq](https://osu.ppy.sh/users/7696512)** | **5** | 4 | ![][flag_MY] [malaidan](https://osu.ppy.sh/users/14279913) | [#1](https://osu.ppy.sh/community/matches/71783078) |
-| L | ![][flag_MY] **[Tzero](https://osu.ppy.sh/users/6088976)** | **5** | 2 | ![][flag_SG] [m0fum0fu](https://osu.ppy.sh/users/5143605) | [#1](https://osu.ppy.sh/community/matches/71786446) |
-| O | ![][flag_PH] **[konawiki](https://osu.ppy.sh/users/4003979)** | **5** | 2 | ![][flag_PH] [Milkteaism](https://osu.ppy.sh/users/9642774) | [#1](https://osu.ppy.sh/community/matches/71786349) |
-| F | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | **5** | 3 | ![][flag_PH] [Zyxus](https://osu.ppy.sh/users/8055861) | [#1](https://osu.ppy.sh/community/matches/71829083) |
-| H | ![][flag_PH] [tiny snek](https://osu.ppy.sh/users/10619389) | 0 | **5** | ![][flag_TH] **[Faken](https://osu.ppy.sh/users/10249166)** | *win by default* |
-| P | ![][flag_SG] **[Demonical](https://osu.ppy.sh/users/5447609)** | **5** | 0 | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | *win by default* |
-| L | ![][flag_SG] **[m0fum0fu](https://osu.ppy.sh/users/5143605)** | **5** | 0 | ![][flag_VN] [sindes19](https://osu.ppy.sh/users/11021073) | *win by default* |
+| G | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 0 | ![][flag_MY] [Heya](https://osu.ppy.sh/users/11379332) | [#1](https://osu.ppy.sh/community/matches/71786110) |
+| I | [alphaplay](https://osu.ppy.sh/users/9304966) ![][flag_MY] | 0 | **5** | ![][flag_TH] **[Deppyforce](https://osu.ppy.sh/users/5286213)** | [#1](https://osu.ppy.sh/community/matches/71782839) |
+| K | [RePeaTT](https://osu.ppy.sh/users/11132323) ![][flag_SG] | 4 | **5** | ![][flag_SG] **[\_gt](https://osu.ppy.sh/users/8301957)** | [#1](https://osu.ppy.sh/community/matches/71776736) |
+| C | [CookieDASH](https://osu.ppy.sh/users/8249895) ![][flag_MY] | 3 | **5** | ![][flag_PH] **[Oooodriiin](https://osu.ppy.sh/users/7223737)** | [#1](https://osu.ppy.sh/community/matches/71776736) |
+| I | **[k\_1tty](https://osu.ppy.sh/users/5407620)** ![][flag_SG] | **5** | 1 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/71776576) |
+| A | [fnayR](https://osu.ppy.sh/users/2800253) ![][flag_ID] | 2 | **5** | ![][flag_SG] **[kirkirs](https://osu.ppy.sh/users/9902622)** | [#1](https://osu.ppy.sh/community/matches/71779488) |
+| H | **[Rtyzen](https://osu.ppy.sh/users/2439822)** ![][flag_SG] | **5** | 0 | ![][flag_VN] [Tuon](https://osu.ppy.sh/users/6673790) | [#1](https://osu.ppy.sh/community/matches/71779990) |
+| P | [ishokuP](https://osu.ppy.sh/users/7309033) ![][flag_PH] | 1 | **5** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | [#1](https://osu.ppy.sh/community/matches/71779846) |
+| L | **[MioMilo](https://osu.ppy.sh/users/2199427)** ![][flag_PH] | **5** | 1 | ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) | [#1](https://osu.ppy.sh/community/matches/71779753) |
+| E | **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** ![][flag_SG] | **5** | 2 | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | [#1](https://osu.ppy.sh/community/matches/71779566) |
+| M | [Rampax](https://osu.ppy.sh/users/3995630) ![][flag_MY] | 2 | **5** | ![][flag_MY] **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/71779824) |
+| F | [- Seen -](https://osu.ppy.sh/users/5082392) ![][flag_TH] | 1 | **5** | ![][flag_PH] **[KagenoKami](https://osu.ppy.sh/users/7246165)** | [#1](https://osu.ppy.sh/community/matches/71783318) |
+| D | **[megumic](https://osu.ppy.sh/users/7537133)** ![][flag_SG] | **5** | 4 | ![][flag_SG] [Eagle5324](https://osu.ppy.sh/users/11987104) | [#1](https://osu.ppy.sh/community/matches/71785974) |
+| B | **[Sonic-](https://osu.ppy.sh/users/8691555)** ![][flag_MY] | **5** | 4 | ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773) | [#1](https://osu.ppy.sh/community/matches/71783048) |
+| D | [heyimcrunchy](https://osu.ppy.sh/users/13067221) ![][flag_MY] | 4 | **5** | ![][flag_MY] **[Auxuelus](https://osu.ppy.sh/users/5414124)** | [#1](https://osu.ppy.sh/community/matches/71783318) |
+| E | **[DVDthe1st](https://osu.ppy.sh/users/2138989)** ![][flag_SG] | **5** | 4 | ![][flag_TH] [Chorus](https://osu.ppy.sh/users/3504692) | [#1](https://osu.ppy.sh/community/matches/71783061) |
+| G | **[Hoaq](https://osu.ppy.sh/users/7696512)** ![][flag_VN] | **5** | 4 | ![][flag_MY] [malaidan](https://osu.ppy.sh/users/14279913) | [#1](https://osu.ppy.sh/community/matches/71783078) |
+| L | **[Tzero](https://osu.ppy.sh/users/6088976)** ![][flag_MY] | **5** | 2 | ![][flag_SG] [m0fum0fu](https://osu.ppy.sh/users/5143605) | [#1](https://osu.ppy.sh/community/matches/71786446) |
+| O | **[konawiki](https://osu.ppy.sh/users/4003979)** ![][flag_PH] | **5** | 2 | ![][flag_PH] [Milkteaism](https://osu.ppy.sh/users/9642774) | [#1](https://osu.ppy.sh/community/matches/71786349) |
+| F | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **5** | 3 | ![][flag_PH] [Zyxus](https://osu.ppy.sh/users/8055861) | [#1](https://osu.ppy.sh/community/matches/71829083) |
+| H | [tiny snek](https://osu.ppy.sh/users/10619389) ![][flag_PH] | 0 | **5** | ![][flag_TH] **[Faken](https://osu.ppy.sh/users/10249166)** | *win by default* |
+| P | **[Demonical](https://osu.ppy.sh/users/5447609)** ![][flag_SG] | **5** | 0 | ![][flag_PH] [Xyloz](https://osu.ppy.sh/users/12040280) | *win by default* |
+| L | **[m0fum0fu](https://osu.ppy.sh/users/5143605)** ![][flag_SG] | **5** | 0 | ![][flag_VN] [sindes19](https://osu.ppy.sh/users/11021073) | *win by default* |
 
 Saturday, 19 December 2020:
 
