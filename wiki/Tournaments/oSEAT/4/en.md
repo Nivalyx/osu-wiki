@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT4 logo](img/logo.jpg)
 
-The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination 1v1 osu! tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295). The tournament is open to all players from all ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It is the 4th installment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 4** (***oSEAT4***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295). The tournament was open to all players from all ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It was the 4th installment of the osu! South East Asia Tournament.
 
 ## Tournament schedule
 
@@ -40,7 +40,7 @@ The **osu! South East Asia Tournament 4** (***oSEAT4***) is a double-elimination
 
 ## Organization
 
-oSEAT4 is run by various osu! community members predominantly hailing from South East Asian countries.
+oSEAT4 was run by various osu! community members predominantly hailing from South East Asian countries.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -349,7 +349,7 @@ Sunday, 31 January 2021 (Grand Final):
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[Skydiver](https://osu.ppy.sh/users/4750008)**  ![][flag_SG] | **7** | 3 | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | [#1](https://osu.ppy.sh/community/matches/74637070) |
+| Grand Final | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **7** | 3 | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | [#1](https://osu.ppy.sh/community/matches/74637070) |
 
 ### Finals week 1
 
@@ -357,21 +357,21 @@ Saturday, 23 January 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620) | 5 | **7** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/74035356) |
-| Lower | ![][flag_PH] **[MioMilo](https://osu.ppy.sh/users/2199427)** | **7** | 5 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/74040505) |
+| Lower | [k\_1tty](https://osu.ppy.sh/users/5407620) ![][flag_SG] | 5 | **7** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/74035356) |
+| Lower | **[MioMilo](https://osu.ppy.sh/users/2199427)** ![][flag_PH] | **7** | 5 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/74040505) |
 
 Sunday, 24 January 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | **7** | 5 | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427) | [#1](https://osu.ppy.sh/community/matches/74101173) |
-| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **7** | 4 | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | [#1](https://osu.ppy.sh/community/matches/74118203) |
+| Lower | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **7** | 5 | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427) | [#1](https://osu.ppy.sh/community/matches/74101173) |
+| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **7** | 4 | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | [#1](https://osu.ppy.sh/community/matches/74118203) |
 
 Monday, 25 January 2021 (5th Place Playoff):
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 5th Place Playoff | ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620) | 4 | **7** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/74121020) |
+| 5th Place Playoff | [k\_1tty](https://osu.ppy.sh/users/5407620) ![][flag_SG] | 4 | **7** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/74121020) |
 
 ### Semifinals
 
