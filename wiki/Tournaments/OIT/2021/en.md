@@ -86,7 +86,7 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all maps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the map regardless of their remaining health at the end.
+7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they failed the beatmap.
    - Disconnects that occur within a few seconds after the beatmap is started by the referee can be rematched.
 9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
@@ -102,7 +102,7 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 
 1. Each participant will have to sign up to one of the twenty Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
 2. In the lobby, participants will have to consecutively play all of the ten Qualifier maps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
-3. Participants **are not allowed** to ban any maps in the Qualifiers.
+3. Participants **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Participants **are not allowed** to join in (or register for) more than one Qualifier lobbies.
 5. 32 participants with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages.
    - If there are two (or more) participants who share the same average rank, the participant that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
