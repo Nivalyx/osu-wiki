@@ -112,7 +112,7 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 
 1. The 32 participants who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
 2. Participants will compete against each other using the Double Elimination system.
-3. The Double Elimination System works as following:
+3. The Double Elimination System works as follows:
    - Participants who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Participants who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
