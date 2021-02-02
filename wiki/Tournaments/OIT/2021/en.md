@@ -105,7 +105,7 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
 5. 32 players with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages.
-   - If there are two (or more) participants who share the same average rank, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
+   - If there are two (or more) players who share the same average rank, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 6. Failure to attend in any of the twenty Qualifier lobbies will result in an instant elimination from the tournament.
 
 ### Knock-out stage rules
@@ -113,8 +113,8 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 1. The 32 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
 2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as follows:
-   - Participants who lose in the Upper Bracket can still play again on the Lower Bracket.
-   - Participants who lose in the Lower Bracket will be eliminated from the tournament.
+   - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
+   - Players who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
 4. Players who can compete in the next round are determined by:
    - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best-of-9)
