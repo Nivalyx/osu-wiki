@@ -22,7 +22,7 @@ The **osu! Indonesia Tournament #11 (2021)** (***OIT 2021***) is an Indonesian d
 | Quarterfinals | 2021-03-01/2021-03-07 |
 | Semifinals | 2021-03-08/2021-03-14 |
 | Finals week 1 | 2021-03-15/2021-03-21 |
-| Finals week 2 | 2020-03-22/2020-03-28 |
+| Finals week 2 | 2021-03-22/2021-03-28 |
 
 ## Prizes
 
@@ -80,33 +80,33 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 
 ### General rules
 
-1. Map scoring is based on **Score V2.**
+1. Beatmap scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. Had there been any participants who were unable to attend the current schedule for any reason, the said participants may apply and settle for a reschedule at the #scheduling channel in the tournament's Discord server.
-4. A referee will create a multiplayer room 10 minutes in advance and will start to invite participants.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the #scheduling channel in the tournament's Discord server.
+4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all maps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the map regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they failed the map.
-   - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
-9. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.
-   - In case the disconnected player failed to report back after the maximum allowance 15 minutes has passed, the enemy may be declared to be winning the match by default.
+8. If a player disconnects, it will be treated as if they failed the beatmap.
+   - Disconnects that occur within a few seconds after the beatmap is started by the referee can be rematched.
+9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes max.
+   - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
-12. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the OIT staff and may be blacklisted in the future installments of OIT.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of OIT.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of OIT for both participant and the helper.
+12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
+    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from OIT 2021 and/or blacklisted from the future installment(s) of OIT.
+    - Usage of any illegal programs is strictly prohibited and will be straight up reported to the osu!staff at will.
+    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of OIT regardless of their role in the smurfing accident.
 
 ### Qualifier rules
 
-1. Each participant will have to sign up to one of the eight Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
+1. Each participant will have to sign up to one of the twenty Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
 2. In the lobby, participants will have to consecutively play all of the ten Qualifier maps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Participants **are not allowed** to ban any maps in the Qualifiers.
 4. Participants **are not allowed** to join in (or register for) more than one Qualifier lobbies.
 5. 32 participants with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages.
    - If there are two (or more) participants who share the same average rank, the participant that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
-6. Failure to attend in any of the eight Qualifier lobbies will result in an instant elimination from the tournament.
+6. Failure to attend in any of the twenty Qualifier lobbies will result in an instant elimination from the tournament.
 
 ### Knock-out stage rules
 
@@ -121,15 +121,15 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
    - In the Quarterfinals and the Semifinals, each participant needs to win 6 points in order to win a match. (Best-of-11)
    - In both of the Finals Weeks, each participant needs to win 7 points in order to to win a match. (Best-of-13)
    - Participants who Win By Default.
-   - If there are participants who experience disqualification during the match.
+   - Whether there are participants who are disqualified from the tournament.
 
 ### Match regulations
 
-1. Each player must use `!roll` once in #multiplayer in order to determine the banning and picking order.
-   - The winner of the `!roll` gets to decide the second and third ban as well as the first pick of the match.
-   - The loser of the `!roll` gets to decide the first and fourth pick of the match.
+1. Each player must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
+   - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
+   - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **two beatmaps** to be selected from the pool. These beatmaps are not allowed to be picked by any player during the entire match.
+2. Each player has to ban **two beatmaps** from the corresponding mappool. These beatmaps are not allowed to be picked by any player during the entire match.
    - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed; banning NM1 and HD1 is allowed; banning HD1 and HD2, however, is *not* allowed.
    - Banning does not apply in the Qualifier lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
