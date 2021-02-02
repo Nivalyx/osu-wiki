@@ -129,7 +129,7 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **two beatmaps** from the corresponding mappool. These beatmaps are not allowed to be picked by any player during the entire match.
+2. Each player has to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed; banning NM1 and HD1 is allowed; banning HD1 and HD2, however, is *not* allowed.
    - Banning does not apply in the Qualifier lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
