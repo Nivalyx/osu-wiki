@@ -100,28 +100,28 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 
 ### Qualifier rules
 
-1. Each participant will have to sign up to one of the twenty Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
-2. In the lobby, participants will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
-3. Participants **are not allowed** to ban any beatmaps in the Qualifiers.
-4. Participants **are not allowed** to join in (or register for) more than one Qualifier lobbies.
-5. 32 participants with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages.
-   - If there are two (or more) participants who share the same average rank, the participant that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
+1. Each player will have to sign up to one of the twenty Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
+2. In the lobby, players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
+4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
+5. 32 players with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages.
+   - If there are two (or more) participants who share the same average rank, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 6. Failure to attend in any of the twenty Qualifier lobbies will result in an instant elimination from the tournament.
 
 ### Knock-out stage rules
 
-1. The 32 participants who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
-2. Participants will compete against each other using the Double Elimination system.
+1. The 32 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
+2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as follows:
    - Participants who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Participants who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
-4. Participants who can compete in the next round are determined by:
-   - In the Round of 32 and the Round of 16, each participant needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Quarterfinals and the Semifinals, each participant needs to win 6 points in order to win a match. (Best-of-11)
-   - In both of the Finals Weeks, each participant needs to win 7 points in order to to win a match. (Best-of-13)
-   - Participants who Win By Default.
-   - Whether there are participants who are disqualified from the tournament.
+4. Players who can compete in the next round are determined by:
+   - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best-of-9)
+   - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In both of the Finals Weeks, each player needs to win 7 points in order to to win a match. (Best-of-13)
+   - Players who Win By Default.
+   - Whether there are players who are disqualified from the tournament.
 
 ### Match regulations
 
