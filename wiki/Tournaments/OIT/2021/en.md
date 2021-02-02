@@ -115,7 +115,7 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 3. The Double Elimination System works as following:
    - Participants who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Participants who lose in the Lower Bracket will be eliminated from the tournament.
-   - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
+   - In the Grand Finals, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
 4. Participants who can compete in the next round are determined by:
    - In the Round of 32 and the Round of 16, each participant needs to win 5 points in order to win a match. (Best-of-9)
    - In the Quarterfinals and the Semifinals, each participant needs to win 6 points in order to win a match. (Best-of-11)
