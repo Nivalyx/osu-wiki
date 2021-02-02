@@ -89,9 +89,9 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 7. **NoFail will be enforced in all maps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the map regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they failed the beatmap.
    - Disconnects that occur within a few seconds after the beatmap is started by the referee can be rematched.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes max.
+9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
    - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
-10. Lag is not a valid reason to nullify a map.
+10. Lag is not a valid reason to nullify a beatmap.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
     - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from OIT 2021 and/or blacklisted from the future installment(s) of OIT.
