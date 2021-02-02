@@ -14,15 +14,15 @@ The **osu! Indonesia Tournament #11 (2021)** (***OIT 2021***) is an Indonesian d
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-02-03/2020-02-16 |
-| Screening phase | 2020-02-17/2020-02-23 |
-| Qualifiers | 2020-02-24/2020-03-01 |
-| Round of 32 | 2020-03-02/2020-03-08 |
-| Round of 16 | 2020-03-09/2020-03-15 |
-| Quarterfinals | 2020-03-16/2020-03-22 |
-| Semifinals | 2020-03-23/2020-03-29 |
-| Finals week 1 | 2020-03-30/2020-04-05 |
-| Finals week 2 | 2020-04-06/2020-04-12 |
+| Registration phase | 2021-01-04/2021-01-24 |
+| Screening phase | 2021-01-25/2021-01-31 |
+| Qualifiers | 2021-02-01/2021-02-14 |
+| Round of 32 | 2021-02-15/2021-02-21 |
+| Round of 16 | 2021-02-22/2021-02-28 |
+| Quarterfinals | 2021-03-01/2021-03-07 |
+| Semifinals | 2021-03-08/2021-03-14 |
+| Finals week 1 | 2021-03-15/2021-03-21 |
+| Finals week 2 | 2020-03-22/2020-03-28 |
 
 ## Prizes
 
