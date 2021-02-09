@@ -28,7 +28,7 @@ Dari sudut pandang visual, suatu berkas tingkat kesulitan turut meliputi [berbag
 
 *Lihat juga: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu beatmap. Definisi dan persyaratan khusus dari masing-masing tingkat kesulitan dapat dilihat pada laman [Ranking Criteria](/wiki/Ranking_Criteria) masing-masing mode permainan.
+Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu beatmap. Definisi dan persyaratan khusus untuk masing-masing nama tingkat kesulitan dapat dilihat pada laman [Ranking Criteria](/wiki/Ranking_Criteria) masing-masing mode permainan.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
