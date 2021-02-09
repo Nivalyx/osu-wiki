@@ -22,7 +22,7 @@ Di samping itu, suatu berkas tingkat kesulitan juga mengandung data-data terkait
   - a very small paragraph on every key component, including those from Beatmap#overview;
 -->
 
-Dari sudut pandang visual, suatu berkas tingkat kesulitan turut meliputi [berbagai komponen visual](/wiki/Beatmap) seperti [storyboard](/wiki/Storyboards) dan [skin](/wiki/Skinning) yang kemunculannya dapat diatur melalui menu [Visual Settings](/wiki/Visual_Settings). Di samping itu, terdapat pula berbagai informasi pendukung lainnya seperti waktu kemunculan [kiai time](/wiki/Kiai_time) dan [warna kombo](/wiki/Glossary/Combo_colour) yang ada.
+Dari sudut pandang visual, suatu berkas tingkat kesulitan turut meliputi [berbagai komponen visual](/wiki/Beatmap) seperti [storyboard](/wiki/Storyboards) dan [skin](/wiki/Skinning) yang kemunculannya dapat diatur melalui menu [Visual Settings](/wiki/Visual_Settings). Di samping itu, terdapat pula berbagai informasi pendukung lainnya seperti waktu kemunculan [kiai time](/wiki/Kiai_time) dan [warna kombo](/wiki/Glossary/Combo_colour) yang ditampilkan.
 
 ## Nama-nama tingkat kesulitan
 
