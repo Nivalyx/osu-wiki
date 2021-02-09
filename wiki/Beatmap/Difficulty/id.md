@@ -11,9 +11,9 @@ tags:
 
 *Artikel ini tidak membahas seputar [Beatmap](/wiki/Beatmap) secara umum.*
 
-**Tingkat kesulitan** dari suatu beatmap (*beatmap difficulty*) merupakan bentuk manifestasi level-level permainan dalam berkas-berkas [dengan ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Berkas-berkas ini mengandung antara lain informasi seputar [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) yang terkait serta [timing](/wiki/Glossary#timing-section) dari lagu yang dipergunakan. Pada umumnya, seberapa menantang suatu tingkat kesulitan dapat dilihat dari nama dan [star rating](/wiki/Beatmapping/Star_rating) dari tingkat kesulitan tersebut.
+**Tingkat kesulitan** dari suatu beatmap (*beatmap difficulty*) merupakan bentuk manifestasi suatu level permainan dalam rupa berkas-berkas [berekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Berkas-berkas ini mengandung antara lain informasi seputar [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) yang terkait serta [timing](/wiki/Glossary#timing-section) dari lagu yang dipergunakan. Pada umumnya, seberapa menantang suatu tingkat kesulitan dapat dilihat dari nama dan [star rating](/wiki/Beatmapping/Star_rating) dari tingkat kesulitan tersebut.
 
-Rangkaian hit object dalam suatu tingkat kesulitan pada umumnya terjalin ke dalam berbagai [pattern](/wiki/Beatmap/Pattern). 
+Rangkaian hit object dalam suatu tingkat kesulitan pada umumnya terjalin ke dalam berbagai [pattern](/wiki/Beatmap/Pattern). [pengaturan tingkat kesulitan (*difficulty setting*)](/wiki/Beatmap_Editor/Song_Setup#difficulty)
 
 The hit objects of a difficulty compose [patterns](/wiki/Beatmap/Pattern), which also vary per game mode and set the tone for overall look and feel of how a difficulty should be played. The gameplay of beatmap difficutlies can also be altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) set by the beatmap's author or toggled by [game modifiers](/wiki/Game_modifier).
 
