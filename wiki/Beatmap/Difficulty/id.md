@@ -15,7 +15,7 @@ tags:
 
 Dalam ruang lingkup yang lebih spesifik, seberapa sukar suatu tingkat kesulitan turut dipengaruhi oleh hal-hal teknis seperti kompleksitas [pattern-pattern](/wiki/Beatmap/Pattern) yang ada dan [pengaturan tingkat kesulitan (*difficulty setting*)](/wiki/Beatmap_Editor/Song_Setup#difficulty) yang dipergunakan. Para pemain dapat bermain dengan memakai [modifier](/wiki/Game_modifier) untuk membuat suatu tingkat kesulitan menjadi lebih mudah atau lebih sukar untuk dimainkan.
 
-Di samping itu, suatu berkas tingkat kesulitan juga mengandung data terkait sampel-sampel [hitsound](/wiki/Beatmapping/Hitsound) yang dapat didengar di dalam permainan.
+Di samping itu, suatu berkas tingkat kesulitan juga mengandung berbagai data yang terkait sampel-sampel [hitsound](/wiki/Beatmapping/Hitsound) yang dapat didengar di dalam permainan.
 
 <!-- TODO: this description of visuals needs to be improved:
   - a separate section;
