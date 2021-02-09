@@ -22,9 +22,7 @@ Di samping itu, suatu berkas tingkat kesulitan juga mengandung data-data terkait
   - a very small paragraph on every key component, including those from Beatmap#overview;
 -->
 
-Dari sudut pandang visual, suatu berkas tingkat kesulitan juga meliput [berbagai komponen visual](/wiki/Beatmap) seperti [storyboard](/wiki/Storyboards) dan [skin](/wiki/Skinning) yang kemunculannya dapat diatur melalui menu [Visual Settings](/wiki/Visual_Settings). Di samping itu, seperti [kiai time](/wiki/Kiai_time) dan [warna kombo (*combo colour*)](/wiki/Glossary/Combo_colour).
-
-[Visual components](/wiki/Beatmap) of a difficulty, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the menu [Visual Settings](/wiki/Visual_Settings) overlay for the most part. While some of them, such as [storyboards](/wiki/Storyboards) or [custom skins](/wiki/Skinning), belong to the beatmap as a whole, most of the visual components may vary per difficulty (e.g., [kiai time](/wiki/Kiai_time) sections and [combo colours](/wiki/Glossary/Combo_colour)).
+Dari sudut pandang visual, suatu berkas tingkat kesulitan turut meliput [berbagai komponen visual](/wiki/Beatmap) seperti [storyboard](/wiki/Storyboards) dan [skin](/wiki/Skinning) yang kemunculannya dapat diatur melalui menu [Visual Settings](/wiki/Visual_Settings). Di samping itu, terdapat pula berbagai data lainnya seperti waktu kemunculan [kiai time](/wiki/Kiai_time) dan [warna kombo (*combo colour*)](/wiki/Glossary/Combo_colour) yang ada.
 
 ## Nama-nama tingkat kesulitan
 
