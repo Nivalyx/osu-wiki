@@ -15,9 +15,7 @@ tags:
 
 Dalam ruang lingkup yang lebih spesifik, seberapa sukar suatu tingkat kesulitan turut dipengaruhi oleh hal-hal seperti kompleksitas [pattern-pattern](/wiki/Beatmap/Pattern) yang ada dan [pengaturan tingkat kesulitan (*difficulty setting*)](/wiki/Beatmap_Editor/Song_Setup#difficulty) yang dipergunakan. Para pemain dapat bermain dengan memakai [modifier](/wiki/Game_modifier) untuk membuat suatu tingkat kesulitan menjadi lebih mudah atau lebih sukar untuk dimainkan.
 
-Di samping itu, berka data [hitsound](/wiki/Beatmapping/Hitsound).
-
-From the auditory perspective, a difficulty can augment the song by providing one or multiple sets of audio samples, or [hitsounds](/wiki/Beatmapping/Hitsound), that serve as an additional layer of feedback.
+Di samping itu, suatu berkas tingkat kesulitan juga mengandung data sampel-sampel audio berupa [hitsound](/wiki/Beatmapping/Hitsound) yang akan didengar oleh pemain di dalam permainan.
 
 <!-- TODO: this description of visuals needs to be improved:
   - a separate section;
