@@ -70,7 +70,7 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 
 ![Jangkauan star rating](img/SR-range.png)
 
-Di situs web, beatmap secara otomatis diberikan ikon kesulitan berdasarkan rentang *star rating* ini:
+Di situs web, beatmap secara otomatis diberikan ikon kesulitan berdasarkan rentang *star rating* berikut:
 
 - ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
