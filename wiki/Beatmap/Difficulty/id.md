@@ -13,7 +13,9 @@ tags:
 
 **Tingkat kesulitan beatmap** (*beatmap difficulty*) merupakan bentuk manifestasi dari suatu level permainan dalam rupa berkas-berkas [berekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Berkas-berkas ini mengandung antara lain informasi seputar [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) yang terkait serta [timing](/wiki/Glossary#timing-section) dari lagu yang dipergunakan. Pada umumnya, seberapa sukar suatu tingkat kesulitan dapat dilihat dari nama dan [star rating](/wiki/Beatmapping/Star_rating) dari tingkat kesulitan tersebut.
 
-Dalam ruang lingkup yang lebih spesifik, seberapa sukar suatu tingkat kesulitan juga dipengaruhi oleh hal-hal seperti kompleksitas [pattern-pattern](/wiki/Beatmap/Pattern) yang ada dan [pengaturan tingkat kesulitan (*difficulty setting*)](/wiki/Beatmap_Editor/Song_Setup#difficulty) yang dipergunakan. Para pemain dapat bermain dengan memakai [modifier](/wiki/Game_modifier) untuk membuat suatu tingkat kesulitan menjadi lebih mudah atau lebih sukar untuk dimainkan.
+Dalam ruang lingkup yang lebih spesifik, seberapa sukar suatu tingkat kesulitan turut dipengaruhi oleh hal-hal seperti kompleksitas [pattern-pattern](/wiki/Beatmap/Pattern) yang ada dan [pengaturan tingkat kesulitan (*difficulty setting*)](/wiki/Beatmap_Editor/Song_Setup#difficulty) yang dipergunakan. Para pemain dapat bermain dengan memakai [modifier](/wiki/Game_modifier) untuk membuat suatu tingkat kesulitan menjadi lebih mudah atau lebih sukar untuk dimainkan.
+
+Di samping itu, berka data [hitsound](/wiki/Beatmapping/Hitsound).
 
 From the auditory perspective, a difficulty can augment the song by providing one or multiple sets of audio samples, or [hitsounds](/wiki/Beatmapping/Hitsound), that serve as an additional layer of feedback.
 
