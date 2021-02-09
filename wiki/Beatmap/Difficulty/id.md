@@ -11,7 +11,7 @@ tags:
 
 *Artikel ini tidak membahas seputar [Beatmap](/wiki/Beatmap) secara umum.*
 
-Istilah **tingkat kesulitan beatmap** (*beatmap difficulty*) secara umum merujuk pada berkas-berkas [dengan ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang tersimpan di dalam folder masing-masing beatmap. Berkas-berkas ini merupakan suatu bentuk manifestasi dari level-level permainan dan berisikan antara lain informasi seputar [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) yang terkait serta [timing](/wiki/Glossary#timing-section) dari lagu yang dipergunakan. Pada umumnya, seberapa sukar suatu tingkat kesulitan dapat dilihat dari nama dan [star rating](/wiki/Beatmapping/Star_rating) dari tingkat kesulitan tersebut.
+Istilah **tingkat kesulitan beatmap** (*beatmap difficulty*) secara umum merujuk pada berkas-berkas [dengan ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang tersimpan di dalam folder masing-masing beatmap. Berkas-berkas ini merupakan bentuk manifestasi dari level-level permainan yang ada dan berisikan antara lain informasi seputar [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) yang terkait serta [timing](/wiki/Glossary#timing-section) dari lagu yang dipergunakan. Pada umumnya, seberapa sukar suatu tingkat kesulitan dapat dilihat dari nama dan [star rating](/wiki/Beatmapping/Star_rating) dari tingkat kesulitan tersebut.
 
 Dalam ruang lingkup yang lebih spesifik, seberapa sukar suatu tingkat kesulitan turut dipengaruhi oleh hal-hal teknis seperti kompleksitas [pattern-pattern](/wiki/Beatmap/Pattern) yang ada dan [pengaturan tingkat kesulitan (*difficulty setting*)](/wiki/Beatmap_Editor/Song_Setup#difficulty) yang dipergunakan. Para pemain dapat bermain dengan memakai [modifier](/wiki/Game_modifier) untuk membuat suatu tingkat kesulitan menjadi lebih mudah atau lebih sukar untuk dimainkan.
 
@@ -28,7 +28,7 @@ Dari sudut pandang visual, suatu berkas tingkat kesulitan turut meliputi [berbag
 
 *Lihat juga: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu beatmap. Definisi tiap-tiap tingkat kesulitan beserta panduan tata cara pemakaiannya masing-masing yang tepat guna dapat dilihat pada laman [Ranking Criteria](/wiki/Ranking_Criteria) mode permainannya masing-masing.
+Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu beatmap. Definisi tiap-tiap tingkat kesulitan beserta panduan tata cara pemakaiannya masing-masing yang tepat guna dapat dilihat pada laman [Ranking Criteria](/wiki/Ranking_Criteria) masing-masing mode permainan.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -79,4 +79,6 @@ Situs web osu! secara otomatis mengelompokkan beatmap-beatmap yang diunggah ke d
 - ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ atau lebih
 
-Tingkat kesulitan yang dimiliki dan diberikan pada sebagian besar beatmap cocok dengan ikon yang diberikan, tetapi beberapa menyimpang bahkan secara signifikan. Inilah sebabnya mengapa [kriteria beatmap Ranked](/wiki/Ranking_Criteria) mendefinisikan aturan yang lebih akurat untuk menentukan kesulitan dan mengavaluasi semua set yang ada dalam beatmap.
+The intended difficulty levels of most beatmaps match the icons they are given, but some deviate significantly. This is why the ranking criteria define more precise rules for determining difficulty and evaluating beatmaps spreads.
+
+Star rating suatu beatmap pada umumnya cukup menggambarkan seberapa sukar beatmap yang bersangkutan, namum pada berbagai kasus terdapat beatmap-beatmap yang kenyataannya jauh lebih mudah ataupun lebih sukar dibanding star rating. Inilah sebabnya mengapa [Ranking Criteria](/wiki/Ranking_Criteria) mendefinisikan aturan yang lebih akurat untuk menentukan kesulitan dan mengavaluasi semua set yang ada dalam beatmap.
