@@ -5,21 +5,32 @@ tags:
   - SR
   - star rating
   - stars
-outdated: true
-outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 ---
 
-# Kesulitan beatmap
+# Tingkat kesulitan
 
-*Tidak sama dengan [Beatmaps](/wiki/Beatmap).*
+*Artikel ini tidak membahas seputar [Beatmap](/wiki/Beatmap) secara umum.*
 
-**Kesulitan** beatmap menggambarkan tingkat keterampilan yang diperlukan untuk menyelesaikannya. Nama tiap tingkat dan *star rating* dari sebuah beatmap biasanya memberikan informasi yang cukup untuk mengetahui seberapa sulit sebuah beatmap.
+**Tingkat kesulitan beatmap** (*beatmap difficulty*) merupakan istilah yang mengacu pada tiap-tiap level permainan yang tersimpan dalam berkas teks dengan [ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Berkas mengandung antara lain data [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) beatmap yang terkait,
 
-## Tingkat kesulitan
+A beatmap's **difficulty** is a game level, which is stored as a text file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). It consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Glossary#timing-section) tailored to a specific song. Difficulties have different aspects, which directly affect user experience. The difficulty name and [star rating](/wiki/Beatmapping/Star_rating) usually give enough information to tell how challenging it is.
+
+The hit objects of a difficulty compose [patterns](/wiki/Beatmap/Pattern), which also vary per game mode and set the tone for overall look and feel of how a difficulty should be played. The gameplay of beatmap difficutlies can also be altered by various [difficulty settings](/wiki/Beatmap_Editor/Song_Setup#difficulty) set by the beatmap's author or toggled by [game modifiers](/wiki/Game_modifier).
+
+From the auditory perspective, a difficulty can augment the song by providing one or multiple sets of audio samples, or [hitsounds](/wiki/Beatmapping/Hitsound), that serve as an additional layer of feedback.
+
+<!-- TODO: this description of visuals needs to be improved:
+  - a separate section;
+  - a very small paragraph on every key component, including those from Beatmap#overview;
+-->
+
+[Visual components](/wiki/Beatmap) of a difficulty, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Visual_Settings) overlay for the most part. While some of them, such as [storyboards](/wiki/Storyboards) or [custom skins](/wiki/Skinning), belong to the beatmap as a whole, most of the visual components may vary per difficulty (e.g., [kiai time](/wiki/Kiai_time) sections and [combo colours](/wiki/Glossary/Combo_colour)).
+
+## Nama-nama tingkat kesulitan
 
 *Lihat juga: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-Berikut adalah nama tingkat kesulitan yang biasa dimiliki dalam beatmap. Definisi dan persyaratan khusus dari masing - masing tingkat dapat ditemukan dalam [kriteria beatmap Ranked](/wiki/Ranking_Criteria) untuk masing - masing mode.
+Berikut adalah nama-nama tingkat kesulitan yang umum digunakan dalam suatu beatmap. Definisi dan persyaratan khusus dari masing-masing tingkat dapat dilihat pada [Ranking Criteria](/wiki/Ranking_Criteria) masing-masing mode permainan.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -57,7 +68,7 @@ Berikut adalah nama tingkat kesulitan yang biasa dimiliki dalam beatmap. Definis
 - ![](/wiki/shared/diff/expert-m.png) Expert
 - ![](/wiki/shared/diff/expertplus-m.png) Expert+
 
-## Star rating (tingkat kesulitan dalam skala bintang)
+## Star rating
 
 ![Jangkauan star rating](img/SR-range.png)
 
