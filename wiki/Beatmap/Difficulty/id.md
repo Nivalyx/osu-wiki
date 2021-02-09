@@ -11,7 +11,7 @@ tags:
 
 *Artikel ini tidak membahas seputar [Beatmap](/wiki/Beatmap) secara umum.*
 
-**Tingkat kesulitan beatmap** (*beatmap difficulty*) merupakan bentuk manifestasi dari suatu level permainan dalam rupa berkas-berkas [berekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Berkas-berkas ini mengandung antara lain informasi seputar [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) yang terkait serta [timing](/wiki/Glossary#timing-section) dari lagu yang dipergunakan. Pada umumnya, seberapa sukar suatu tingkat kesulitan dapat dilihat dari nama dan [star rating](/wiki/Beatmapping/Star_rating) dari tingkat kesulitan tersebut.
+**Tingkat kesulitan beatmap** (*beatmap difficulty*) merupakan bentuk manifestasi dari suatu level permainan dalam rupa berkas-berkas [berekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang tersimpan di dalam folder masing-masing beatmap. Berkas-berkas ini mengandung antara lain informasi seputar [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) yang terkait serta [timing](/wiki/Glossary#timing-section) dari lagu yang dipergunakan. Pada umumnya, seberapa sukar suatu tingkat kesulitan dapat dilihat dari nama dan [star rating](/wiki/Beatmapping/Star_rating) dari tingkat kesulitan tersebut.
 
 Dalam ruang lingkup yang lebih spesifik, seberapa sukar suatu tingkat kesulitan turut dipengaruhi oleh hal-hal teknis seperti kompleksitas [pattern-pattern](/wiki/Beatmap/Pattern) yang ada dan [pengaturan tingkat kesulitan (*difficulty setting*)](/wiki/Beatmap_Editor/Song_Setup#difficulty) yang dipergunakan. Para pemain dapat bermain dengan memakai [modifier](/wiki/Game_modifier) untuk membuat suatu tingkat kesulitan menjadi lebih mudah atau lebih sukar untuk dimainkan.
 
@@ -22,13 +22,15 @@ Di samping itu, suatu berkas tingkat kesulitan juga mengandung data sampel-sampe
   - a very small paragraph on every key component, including those from Beatmap#overview;
 -->
 
-[Visual components](/wiki/Beatmap) of a difficulty, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the [visual settings](/wiki/Visual_Settings) overlay for the most part. While some of them, such as [storyboards](/wiki/Storyboards) or [custom skins](/wiki/Skinning), belong to the beatmap as a whole, most of the visual components may vary per difficulty (e.g., [kiai time](/wiki/Kiai_time) sections and [combo colours](/wiki/Glossary/Combo_colour)).
+Masing-masing tingkat kesulitan pada umumnya didukung oleh [komponen-komponen visual](/wiki/Beatmap) seperti [storyboard](/wiki/Storyboards) dan [skin](/wiki/Skinning) yang kemunculannya dapat diatur melalui menu [Visual Settings](/wiki/Visual_Settings). 
+
+[Visual components](/wiki/Beatmap) of a difficulty, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the menu [Visual Settings](/wiki/Visual_Settings) overlay for the most part. While some of them, such as [storyboards](/wiki/Storyboards) or [custom skins](/wiki/Skinning), belong to the beatmap as a whole, most of the visual components may vary per difficulty (e.g., [kiai time](/wiki/Kiai_time) sections and [combo colours](/wiki/Glossary/Combo_colour)).
 
 ## Nama-nama tingkat kesulitan
 
 *Lihat juga: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-Berikut adalah nama-nama tingkat kesulitan yang pada umumnya dipergunakan dalam suatu beatmap. Definisi dan persyaratan khusus dari masing-masing tingkat kesulitan dapat dilihat pada laman [Ranking Criteria](/wiki/Ranking_Criteria) masing-masing mode permainan.
+Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu beatmap. Definisi dan persyaratan khusus dari masing-masing tingkat kesulitan dapat dilihat pada laman [Ranking Criteria](/wiki/Ranking_Criteria) masing-masing mode permainan.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
