@@ -15,14 +15,14 @@ tags:
 
 Dalam ruang lingkup yang lebih spesifik, seberapa sukar suatu tingkat kesulitan turut dipengaruhi oleh hal-hal teknis seperti kompleksitas [pattern-pattern](/wiki/Beatmap/Pattern) yang ada dan [pengaturan tingkat kesulitan (*difficulty setting*)](/wiki/Beatmap_Editor/Song_Setup#difficulty) yang dipergunakan. Para pemain dapat bermain dengan memakai [modifier](/wiki/Game_modifier) untuk membuat suatu tingkat kesulitan menjadi lebih mudah atau lebih sukar untuk dimainkan.
 
-Di samping itu, suatu berkas tingkat kesulitan juga mengandung data sampel-sampel audio berupa [hitsound](/wiki/Beatmapping/Hitsound) yang akan didengar oleh pemain di dalam permainan.
+Di samping itu, suatu berkas tingkat kesulitan juga mengandung data sampel-sampel audio ([hitsound](/wiki/Beatmapping/Hitsound)) yang akan didengar oleh pemain di dalam permainan.
 
 <!-- TODO: this description of visuals needs to be improved:
   - a separate section;
   - a very small paragraph on every key component, including those from Beatmap#overview;
 -->
 
-Masing-masing tingkat kesulitan pada umumnya didukung oleh [komponen-komponen visual](/wiki/Beatmap) seperti [storyboard](/wiki/Storyboards) dan [skin](/wiki/Skinning) yang kemunculannya dapat diatur melalui menu [Visual Settings](/wiki/Visual_Settings). 
+Masing-masing tingkat kesulitan pada umumnya turut didukung oleh [berbagai komponen visual](/wiki/Beatmap) seperti [storyboard](/wiki/Storyboards) dan [skin](/wiki/Skinning) yang kemunculannya dapat diatur melalui menu [Visual Settings](/wiki/Visual_Settings). seperti [kiai time](/wiki/Kiai_time) dan [combo colours](/wiki/Glossary/Combo_colour).
 
 [Visual components](/wiki/Beatmap) of a difficulty, contrary to its patterns, provide auxiliary experience during gameplay and can be disabled in the menu [Visual Settings](/wiki/Visual_Settings) overlay for the most part. While some of them, such as [storyboards](/wiki/Storyboards) or [custom skins](/wiki/Skinning), belong to the beatmap as a whole, most of the visual components may vary per difficulty (e.g., [kiai time](/wiki/Kiai_time) sections and [combo colours](/wiki/Glossary/Combo_colour)).
 
