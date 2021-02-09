@@ -11,7 +11,7 @@ tags:
 
 *Artikel ini tidak membahas seputar [Beatmap](/wiki/Beatmap) secara umum.*
 
-**Tingkat kesulitan beatmap** (*beatmap difficulty*) merupakan istilah yang mengacu pada tiap-tiap level permainan yang tersimpan dalam berkas teks dengan [ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Berkas mengandung antara lain data [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) beatmap yang terkait,
+**Tingkat kesulitan beatmap** (*beatmap difficulty*) merupakan istilah yang mengacu pada tiap-tiap level permainan yang dapat dimainkan. Masing-masing tingkat kesulitan tersimpan dalam berkas [ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang mengandung antara lain data-data [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) yang terkait dan [timing](/wiki/Glossary#timing-section) dari lagu.
 
 A beatmap's **difficulty** is a game level, which is stored as a text file with [the `.osu` extension](/wiki/osu!_File_Formats/Osu_(file_format)). It consists of [hit objects](/wiki/Hit_object) of a certain [game mode](/wiki/Game_mode), which are set up accordingly to the [timing](/wiki/Glossary#timing-section) tailored to a specific song. Difficulties have different aspects, which directly affect user experience. The difficulty name and [star rating](/wiki/Beatmapping/Star_rating) usually give enough information to tell how challenging it is.
 
