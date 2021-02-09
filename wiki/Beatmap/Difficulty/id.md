@@ -70,7 +70,7 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 
 ![Jangkauan star rating](img/SR-range.png)
 
-Situs web osu! secara otomatis mengelompokkan beatmap-beatmap yang diunggah ke dalam enam rentang tingkat kesulitan berdasarkan *star rating* dari beatmap yang bersangkutan sebagai berikut:
+Situs web osu! secara otomatis mengelompokkan beatmap-beatmap yang diunggah ke dalam enam rentang tingkat kesulitan berdasarkan star rating dari beatmap yang bersangkutan sebagai berikut:
 
 - ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
@@ -79,6 +79,4 @@ Situs web osu! secara otomatis mengelompokkan beatmap-beatmap yang diunggah ke d
 - ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ atau lebih
 
-The intended difficulty levels of most beatmaps match the icons they are given, but some deviate significantly. This is why the ranking criteria define more precise rules for determining difficulty and evaluating beatmaps spreads.
-
-Star rating suatu beatmap pada umumnya cukup menggambarkan seberapa sukar beatmap yang bersangkutan, namum pada berbagai kasus terdapat beatmap-beatmap yang kenyataannya jauh lebih mudah ataupun lebih sukar dibanding star rating. Inilah sebabnya mengapa [Ranking Criteria](/wiki/Ranking_Criteria) mendefinisikan aturan yang lebih akurat untuk menentukan kesulitan dan mengavaluasi semua set yang ada dalam beatmap.
+Star rating suatu beatmap pada umumnya cukup menggambarkan seberapa sukar beatmap yang bersangkutan, namum pada berbagai kasus terdapat beatmap-beatmap yang kenyataannya jauh lebih mudah ataupun lebih sukar dibanding star rating yang tertera. Inilah sebabnya mengapa [Ranking Criteria](/wiki/Ranking_Criteria) mendefinisikan aturan yang lebih akurat untuk menentukan kesulitan.
