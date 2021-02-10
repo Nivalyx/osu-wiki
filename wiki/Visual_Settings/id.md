@@ -4,9 +4,9 @@
 
 **Visual Settings** merupakan menu tersembunyi yang dapat diakses dengan mengarahkan kursor ke bawah layar permainan sebelum memulai beatmap atau ketika permainan sedang dihentikan. Pada saat menu Visual Settings muncul di layar, beatmap tidak akan berjalan hingga kursor diarahkan keluar dari menu Visual Settings.
 
-*Catatan: osu! menyimpan pengaturan Visual Settings per beatmap. Untuk mengatur , gunakan [options](/wiki/Options) sidebar.*
+*Catatan: osu! menyimpan nilai-nilai Visual Settings secara terpisah untuk masing-masing beatmap. Untuk mengatur nilai-nilai Visual Settings secara global, gunakan opsi pengaturan yang tersedia pada menu [options](/wiki/Options).*
 
-*Notice: Visual settings changes are saved per beatmap but some of them will be lost after closing osu!. To set these globally (and forever) use the [options](/wiki/Options) sidebar.*
+
 
 Alternatively, it is possible to access visual settings overlay by pausing the game. However, this method does not work in [Multi](/wiki/Multi) matches as it will be treated as attempting to quit the match and leave the room instead.
 
