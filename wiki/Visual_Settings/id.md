@@ -1,10 +1,6 @@
----
-outdated: true
----
+# Visual Settings
 
-# Pengaturan Visual
-
-![](img/visual-settings.jpg "Contoh Pengaturan Visual")
+![](img/visual-settings-id.jpg "Tampilan menu Visual Settings")
 
 **Pengaturan Visual** adalah hamparan kustomisasi tersembunyi yang terletak di bagian bawah playfield. Pengaturan ini dapat diakses saat beatmap sedang dimuat. Ketika tampilan Pengaturan Visual ditampilkan, beatmap akan ditunda sampai kursor keluar dari tampilan Pengaturan Visual.
 
