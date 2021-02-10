@@ -13,7 +13,7 @@ Pada pertandingan [multiplayer](/wiki/Multi), terdapat pengecualian di mana menu
 | Nama | Efek | Catatan |
 | :-- | :-- | :-- |
 | Keredupan Latar Belakang | Meredupkan latar belakang dan elemen-elemen visual lainnya pada layar permainan (termasuk storyboard dan/atau video). |  |
-| Nonaktifkan storyboard | Menonaktifkan seluruh elemen storyboard. Opsi ini tidak menonaktifkan [Kiai Time](/wiki/Kiai_time) dan video. | Disarankan bagi pemain yang mengidap epilepsi pada beatmap-beatmap yang berpotensi memicu epilepsi. Opsi ini tidak tersedia apabila beatmap yang bersangkutan tidak memiliki storyboard. |
+| Nonaktifkan storyboard | Menonaktifkan seluruh elemen storyboard. Opsi ini tidak menonaktifkan [Kiai Time](/wiki/Kiai_time) dan video. | Disarankan bagi pemain yang rawan terhadap gejala-gejala epilepsi/ayan pada beatmap-beatmap yang memiliki peringatan epilepsi (*epilepsy warning*). Opsi ini tidak tersedia apabila beatmap yang bersangkutan tidak memiliki storyboard. |
 | Abaikan skin bawaan beatmap | | Perubahan baru akan terlihat setelah beatmap dimuat ulang. |
 | Abaikan hitsound bawaan beatmap | | Perubahan baru akan terlihat setelah beatmap dimuat ulang. |
 | Nonaktifkan video | Menonaktifkan video. Opsi ini tidak menonaktifkan storyboard. | Perubahan baru akan terlihat setelah beatmap dimuat ulang. Opsi ini tidak tersedia apabila beatmap yang bersangkutan tidak memiliki video. |
