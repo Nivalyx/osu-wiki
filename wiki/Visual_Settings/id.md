@@ -4,7 +4,7 @@
 
 **Visual Settings** merupakan menu tersembunyi yang dapat diakses dengan mengarahkan kursor ke bawah layar permainan sebelum memulai beatmap atau ketika permainan sedang dihentikan. Pada saat menu Visual Settings muncul di layar, beatmap tidak akan berjalan hingga kursor diarahkan keluar dari menu Visual Settings.
 
-*Catatan: osu! menyimpan nilai-nilai Visual Settings secara terpisah untuk masing-masing beatmap. Untuk mengatur nilai-nilai Visual Settings secara global, gunakan opsi pengaturan yang tersedia pada menu [options](/wiki/Options).*
+*Catatan: osu! menyimpan nilai-nilai Visual Settings secara terpisah untuk masing-masing beatmap. Untuk mengatur nilai-nilai Visual Settings secara global, gunakan opsi pengaturan yang tersedia pada menu [Options](/wiki/Options).*
 
 
 
