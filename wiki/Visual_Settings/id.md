@@ -6,7 +6,7 @@
 
 *Catatan: osu! menyimpan nilai-nilai pengaturan Visual Settings secara terpisah untuk masing-masing beatmap. Untuk mengatur nilai-nilai pengaturan Visual Settings secara global, gunakan opsi pengaturan yang tersedia pada menu [Options](/wiki/Options).*
 
-Pada pertandingan [multiplayer](/wiki/Multi), patut diingat bahwa menu Visual Settings hanya dapat diakses sebelum beatmap dimulai karena sekalinya suatu beatmap telah mulai berjalan beatmap tersebut tidak akan berhenti hingga seluruh pemain selesai bermain.
+Pada pertandingan [multiplayer](/wiki/Multi), menu Visual Settings hanya dapat diakses selama beberapa detik sebelum beatmap dimulai. Hal ini  sekalinya suatu beatmap telah mulai berjalan pada, beatmap tersebut tidak akan berhenti hingga seluruh pemain selesai bermain.
 
 ## Opsi-opsi pengaturan yang tersedia
 
