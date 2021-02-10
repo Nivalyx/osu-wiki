@@ -2,15 +2,17 @@
 
 ![](img/visual-settings-ID.jpg "Tampilan menu Visual Settings")
 
-**Visual Settings** merupakan menu hamparan kustomisasi tersembunyi yang terletak di bagian bawah playfield. Pengaturan ini dapat diakses saat beatmap sedang dimuat. Ketika tampilan Pengaturan Visual ditampilkan, beatmap akan ditunda sampai kursor keluar dari tampilan Pengaturan Visual.
+**Visual Settings** merupakan menu tersembunyi yang dapat diakses dengan mengarahkan kursor ke bawah layar permainan sebelum memulai suatu beatmap atau . Pengaturan ini dapat diakses saat beatmap sedang dimuat. Ketika tampilan Pengaturan Visual ditampilkan, beatmap akan ditunda sampai kursor keluar dari tampilan Pengaturan Visual.
 
-Alternatif lainnya, anda dapat mengakses tampilan Pengaturan Visual dengan menunda permainan anda sementara. Namun, metode ini tidak berfungsi dalam pertandingan [multi](/wiki/Multi "multi") karena hal ini dianggap sebagai upaya untuk berhenti dari pertandingan dan akibatnya anda akan meninggalkan ruangan.
+**Visual settings** is a hidden customisation overlay located at the bottom of the playfield. It can be accessed while the beatmap is loading or when gameplay is paused. When the visual settings overlay is shown, the beatmap will be delayed until the cursor leaves the visual settings overlay.
 
-*Catatan:* Perubahan pengaturan yang terjadi di Pengaturan Visual disimpan berdasarkan beatmap dan akan hilang setelah menutup osu!. Pengaturan global dapat diatur di *Sidebar* [pengaturan.](/wiki/Options "pengaturan")
+*Notice: Visual settings changes are saved per beatmap but some of them will be lost after closing osu!. To set these globally (and forever) use the [options](/wiki/Options) sidebar.*
 
-## Pilihan yang tersedia
+Alternatively, it is possible to access visual settings overlay by pausing the game. However, this method does not work in [Multi](/wiki/Multi) matches as it will be treated as attempting to quit the match and leave the room instead.
 
-| Nama | Pengaruh | Catatan |
+## Opsi-opsi pengaturan yang tersedia
+
+| Nama | Efek | Catatan |
 | :-- | :-- | :-- |
 | Keredupan Latar Belakang | Membuat playfield lebih gelap. | Selama istirahat, nilai redup adalah 30% dari nilai yang ditetapkan atau 0%. Tidak ada pengaruh khusus jika keredupan disetel menjadi 100%. Fungsi ini juga membuat elemen storyboard lebih gelap jika keredupan disetel 100%. |
 | Nonaktifkan storyboard | Menghapus semua elemen storyboard. Tidak berpengaruh pada [Kiai Time](/wiki/Kiai_time) dan video latar belakang. | Dalam maps yang memiliki peringatan epilepsi, fungsi ini direkomendasikan untuk pemain yang memiliki masalah dengan epilepsi. Opsi ini dinonaktifkan jika tidak ada storyboard untuk dimainkan. |
