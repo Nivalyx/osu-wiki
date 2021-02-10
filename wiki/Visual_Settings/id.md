@@ -2,9 +2,9 @@
 
 ![](img/visual-settings-ID.jpg "Tampilan menu Visual Settings")
 
-**Visual Settings** merupakan menu tersembunyi yang dapat diakses dengan mengarahkan kursor ke bawah layar permainan sebelum memulai beatmap atau ketika beatmap sedang diberhentikan. Pada saat menu Visual Settings muncul di layar, beatmap tidak akan berjalan hingga kursor diarahkan keluar dari menu Visual Settings.
+**Visual Settings** merupakan menu tersembunyi yang dapat diakses dengan mengarahkan kursor ke bawah layar permainan sebelum memulai beatmap atau ketika permainan sedang dihentikan. Pada saat menu Visual Settings muncul di layar, beatmap tidak akan berjalan hingga kursor diarahkan keluar dari menu Visual Settings.
 
-**Visual settings** is a hidden customisation overlay located at the bottom of the playfield. It can be accessed while the beatmap is loading or when gameplay is paused. When the visual settings overlay is shown, the beatmap will be delayed until the cursor leaves the visual settings overlay.
+*Catatan: osu! menyimpan pengaturan Visual Settings per beatmap. Untuk mengatur , gunakan [options](/wiki/Options) sidebar.*
 
 *Notice: Visual settings changes are saved per beatmap but some of them will be lost after closing osu!. To set these globally (and forever) use the [options](/wiki/Options) sidebar.*
 
