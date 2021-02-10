@@ -2,7 +2,7 @@
 
 ![](img/visual-settings-ID.jpg "Tampilan menu Visual Settings")
 
-**Visual Settings** merupakan menu tersembunyi yang dapat diakses dengan mengarahkan kursor ke bawah layar permainan sebelum memulai suatu beatmap atau . Pengaturan ini dapat diakses saat beatmap sedang dimuat. Ketika tampilan Pengaturan Visual ditampilkan, beatmap akan ditunda sampai kursor keluar dari tampilan Pengaturan Visual.
+**Visual Settings** merupakan menu tersembunyi yang dapat diakses dengan mengarahkan kursor ke bawah layar permainan sebelum memulai beatmap atau ketika beatmap sedang diberhentikan. Pada saat menu Visual Settings dimunculkan, beatmap akan ditunda sampai kursor keluar dari tampilan Pengaturan Visual.
 
 **Visual settings** is a hidden customisation overlay located at the bottom of the playfield. It can be accessed while the beatmap is loading or when gameplay is paused. When the visual settings overlay is shown, the beatmap will be delayed until the cursor leaves the visual settings overlay.
 
