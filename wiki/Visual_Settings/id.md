@@ -6,7 +6,7 @@
 
 *Catatan: osu! menyimpan nilai-nilai pengaturan Visual Settings secara terpisah untuk masing-masing beatmap. Untuk mengatur nilai-nilai pengaturan Visual Settings secara global, gunakan opsi pengaturan yang tersedia pada menu [Options](/wiki/Options).*
 
-Pada pertandingan [multiplayer](/wiki/Multi) di tengah keberjalanan beatmap karena 
+Pada pertandingan [multiplayer](/wiki/Multi), menu Visual Settings hanya dapat diakses sebelum beatmap mulai berjalan mengingat  di tengah keberjalanan beatmap karena 
 
 Alternatively, it is possible to access visual settings overlay by pausing the game. However, this method does not work in [Multi](/wiki/Multi) matches as it will be treated as attempting to quit the match and leave the room instead.
 
