@@ -12,8 +12,8 @@ Pada pertandingan [multiplayer](/wiki/Multi), terdapat pengecualian di mana menu
 
 | Nama | Efek | Catatan |
 | :-- | :-- | :-- |
-| Keredupan Latar Belakang | Meredupkan latar belakang dan elemen-elemen visual lainnya pada layar permainan (termasuk storyboard dan/atau video). | Selama istirahat, nilai redup adalah 30% dari nilai yang ditetapkan atau 0%. Tidak ada pengaruh khusus jika keredupan disetel menjadi 100%. Fungsi ini juga membuat elemen storyboard lebih gelap jika keredupan disetel 100%. |
-| Nonaktifkan storyboard | Menonaktifkan seluruh elemen storyboard. Opsi ini tidak menonaktifkan [Kiai Time](/wiki/Kiai_time) dan video. | Disarankan bagi pemain yang mengidap epilepsi. Opsi ini tidak tersedia apabila beatmap yang bersangkutan tidak memiliki storyboard. |
-| Abaikan skin bawaan beatmap | Tidak akan menggunakan skin kustom dari beatmap, jika ada. Tetapi akan menggunakan skin yang dipilih pemain sebagai gantinya. | Perlu memulai ulang untuk menerapkannya. |
-| Abaikan hitsound bawaan beatmap | Tidak akan menggunakan hitsounds dari beatmap, jika ada. Tetapi akan menggunakan hitsounds dari skin yang dipilih pemain sebagai gantinya. | Perlu memulai ulang untuk menerapkannya. |
-| Nonaktifkan video | Menonaktifkan video. Opsi ini tidak menonaktifkan storyboard. | Perlu memulai ulang jika pilihan diaktifkan setelah lagu dimulai. Opsi ini dinonaktifkan jika tidak ada video untuk dimainkan. Opsi ini tidak tersedia apabila beatmap yang bersangkutan tidak memiliki video. |
+| Keredupan Latar Belakang | Meredupkan latar belakang dan elemen-elemen visual lainnya pada layar permainan (termasuk storyboard dan/atau video). |  |
+| Nonaktifkan storyboard | Menonaktifkan seluruh elemen storyboard. Opsi ini tidak menonaktifkan [Kiai Time](/wiki/Kiai_time) dan video. | Disarankan bagi pemain yang mengidap epilepsi pada beatmap-beatmap yang berpotensi memicu epilepsi. Opsi ini tidak tersedia apabila beatmap yang bersangkutan tidak memiliki storyboard. |
+| Abaikan skin bawaan beatmap | | Perubahan baru akan terlihat setelah beatmap dimuat ulang. |
+| Abaikan hitsound bawaan beatmap | | Perubahan baru akan terlihat setelah beatmap dimuat ulang. |
+| Nonaktifkan video | Menonaktifkan video. Opsi ini tidak menonaktifkan storyboard. | Perubahan baru akan terlihat setelah beatmap dimuat ulang. Opsi ini tidak tersedia apabila beatmap yang bersangkutan tidak memiliki video. |
