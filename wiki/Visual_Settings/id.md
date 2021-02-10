@@ -14,6 +14,6 @@ Pada pertandingan [multiplayer](/wiki/Multi), terdapat pengecualian di mana menu
 | :-- | :-- | :-- |
 | Keredupan Latar Belakang | Meredupkan latar belakang dan elemen-elemen visual lainnya pada layar permainan (termasuk storyboard dan/atau video). | Pada rentang waktu istirahat (*break time*), secara *default* latar belakang akan terlihat 30% lebih terang dari nilai keredupan yang ditetapkan sebelumnya (hingga nilai keredupan maks. 0%). *Catatan: osu! menyimpan nilai pengaturan Keredupan Latar Belakang secara terpisah untuk masing-masing beatmap.* |
 | Nonaktifkan storyboard | Menonaktifkan seluruh elemen storyboard. Opsi ini tidak menonaktifkan [Kiai Time](/wiki/Kiai_time) dan video. | Disarankan bagi pemain yang rawan terhadap gejala-gejala epilepsi/ayan pada beatmap-beatmap yang memiliki peringatan epilepsi (*epilepsy warning*). Opsi ini tidak tersedia apabila beatmap yang bersangkutan tidak memiliki storyboard. |
-| Abaikan skin bawaan beatmap | | Perubahan baru akan terlihat setelah beatmap dimuat ulang. |
-| Abaikan hitsound bawaan beatmap | | Perubahan baru akan terlihat setelah beatmap dimuat ulang. |
+| Abaikan skin bawaan beatmap | Mengesampingkan skin bawaan beatmap dan memasang skin yang sedang dipakai oleh pemain. | Perubahan baru akan terlihat setelah beatmap dimuat ulang. |
+| Abaikan hitsound bawaan beatmap | Mengesampingkan hitsound bawaan beatmap dan memasang hitsound dari skin yang sedang dipakai oleh pemain. | Perubahan baru akan terlihat setelah beatmap dimuat ulang. |
 | Nonaktifkan video | Menonaktifkan video. Opsi ini tidak menonaktifkan storyboard. | Perubahan baru akan terlihat setelah beatmap dimuat ulang. Opsi ini tidak tersedia apabila beatmap yang bersangkutan tidak memiliki video. |
