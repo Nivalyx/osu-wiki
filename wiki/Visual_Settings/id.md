@@ -1,8 +1,8 @@
 # Visual Settings
 
-![](img/visual-settings-id.jpg "Tampilan menu Visual Settings")
+![](img/visual-settings-ID.jpg "Tampilan menu Visual Settings")
 
-**Pengaturan Visual** adalah hamparan kustomisasi tersembunyi yang terletak di bagian bawah playfield. Pengaturan ini dapat diakses saat beatmap sedang dimuat. Ketika tampilan Pengaturan Visual ditampilkan, beatmap akan ditunda sampai kursor keluar dari tampilan Pengaturan Visual.
+**Visual Settings** merupakan menu hamparan kustomisasi tersembunyi yang terletak di bagian bawah playfield. Pengaturan ini dapat diakses saat beatmap sedang dimuat. Ketika tampilan Pengaturan Visual ditampilkan, beatmap akan ditunda sampai kursor keluar dari tampilan Pengaturan Visual.
 
 Alternatif lainnya, anda dapat mengakses tampilan Pengaturan Visual dengan menunda permainan anda sementara. Namun, metode ini tidak berfungsi dalam pertandingan [multi](/wiki/Multi "multi") karena hal ini dianggap sebagai upaya untuk berhenti dari pertandingan dan akibatnya anda akan meninggalkan ruangan.
 
