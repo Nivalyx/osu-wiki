@@ -75,13 +75,13 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 ### Juli
 
 - **2010-07-24:** Siklus pertama [Community Mentorship Program](/wiki/Community_Mentorship_Program#earlier-mentoring-programs) resmi diluncurkan.
-    - Users could apply to learn about mapping and modding directly from volunteer MAT and BAT members.
-    - The program was discontinued in 2013.<!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
+    - Para pengguna yang tertarik untuk memperdalam ilmu mapping masing-masing dapat mendaftarkan diri mereka untuk mengikuti sesi bimbingan dari anggota-anggota MAT dan BAT yang berpartisipasi.
+    - Program ini diberhentikan pada tahun 2013. <!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
 
 ### Agustus
 
 - **2010-08-27:** ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) ditunjuk selaku MAT Leader setelah ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) mengundurkan diri. <!-- https://osu.ppy.sh/community/forums/topics/36208 -->
-    - Proses transisi kekuasaan antar keduanya berlangsung dengan cukup runyam, di mana selama beberapa waktu kepemimpinan atas MAT terus-menerus berpindah tangan hingga ztrot mengambil alih peran MAT Leader secara permanen pada bulan Februari 2011. <!-- https://osu.ppy.sh/community/forums/topics/47118 -->
+    - Proses transisi kekuasaan antar keduanya berlangsung dengan cukup pelik, di mana selama beberapa waktu kepemimpinan atas MAT terus-menerus berpindah tangan hingga ztrot mengambil alih peran MAT Leader secara permanen pada bulan Februari 2011. <!-- https://osu.ppy.sh/community/forums/topics/47118 -->
 
 ### Oktober
 
