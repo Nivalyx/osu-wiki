@@ -107,11 +107,11 @@ Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
     - Pada beatmap Approved, hanya salah satu dari dua bubble yang boleh berasal dari anggota MAT.
     - Perubahan ini utamanya dipicu oleh jumlah beatmap Approved yang semakin bertambah seiring waktu. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
 - **2011-08-23:** "Beatmap Approval Team" berganti nama menjadi "Beatmap Appreciation Team".
-    - The purpose of the new name was to unite users involved in beatmap approval and users involved general moderation (essentially the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)) under the same name, which "Beatmap Approval Team" did not effectively represent.
+    - Pergantian nama ini didorong untuk menggabungkan peran antar The purpose of the new name was to unite users involved in beatmap approval and users involved general moderation (essentially the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)) under the same name, which "Beatmap Approval Team" did not effectively represent.
 
 ### Oktober
 
-- **2011-10-08:** [Sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87) dibuka secara publik sebagai wadah bagi para anggota komunitas untuk dapat berdiskusi seputar hal-hal yang berhubungan dengan [Ranking Criteria](/wiki/Ranking_Criteria).
+- **2011-10-08:** [Sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87) dibuka secara publik sebagai wadah bagi para anggota komunitas untuk dapat berdiskusi seputar hal-hal yang berhubungan dengan [Ranking Criteria](/wiki/Ranking_Criteria) secara luas.
     - Diskusi-diskusi yang menyangkut Ranking Criteria sebelumnya hanya dibatasi kepada anggota-anggota BAT pada sub-forum yang bersifat rahasia. <!-- date is not exact. the earliest thread in the subforum was posted on 2011-10-08 -->
 
 Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011. Tahun ini merupakan tahun pertama dalam sejarah osu! di mana jumlah beatmap Ranked per tahunnya mengalami penurunan setelah pada 4 tahun sebelumnya angka ini selalu bertambah dari tahun ke tahun.
