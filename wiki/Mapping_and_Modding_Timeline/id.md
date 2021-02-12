@@ -47,7 +47,7 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 ### Februari
 
 - **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) resmi dititahkan sebagai [BAT manager](/wiki/Modding/Bat_Managers) yang pertama. <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
-    - Ia diberikan tanggung jawab utama untuk mengorganisir alur kerja pelantikan BAT-BAT baru serta mengawasi kecakapan dan tingkat aktivitas anggota-anggota BAT yang ada secara umum.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
+    - Ia diberikan tanggung jawab utama untuk mengorganisir alur kerja pelantikan BAT-BAT baru serta mengawasi kecakapan dan tingkat aktivitas anggota-anggota BAT yang bertugas secara umum.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
 
 ### March
 
