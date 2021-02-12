@@ -25,12 +25,12 @@ Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Maret
 
-- **2008-03-11:** Kategori [Graveyard](/wiki/Beatmap/Category#graveyard) resmi diperkenalkan sebagai suatu tempat peristirahatan bagi beatmap-beatmap yang terbengkalai.
-    - Pada masa itu, semua beatmap Pending memiliki ekspet Ranked. namun dengan semakin banyaknya beatmap yang The community expected every pending map to be ranked, but maps were being frequently abandoned and needed to be separated. <!-- https://osu.ppy.sh/community/forums/posts/15290 -->
+- **2008-03-11:** Kategori [Graveyard](/wiki/Beatmap/Category#graveyard) resmi diperkenalkan sebagai suatu tempat peristirahatan bagi beatmap-beatmap yang telah terbengkalai.
+    - Pada masa itu, semua beatmap Pending memiliki ekspektasi Ranked. Namun, dengan semakin banyaknya beatmap yang tidak terurus seiring waktu, para anggota komunitas osu! merasa perlu untuk memisahkan beatmap-beatmap yang masih aktif diperbaharui dan yang telah sepenuhnya terbengkalai. <!-- https://osu.ppy.sh/community/forums/posts/15290 -->
 
 ### July
 
-- **2008-07-31:** Kategori [Approved](/wiki/Beatmap/Category#approved) resmi diperkenalkan untuk memfasilitasi beatmap-beatmap yang secara teknis tidak memenuhi Ranking Criteria namun dirasa oleh banyak pihak layak untuk memiliki *leaderboard*-nya tersendiri.
+- **2008-07-31:** Kategori [Approved](/wiki/Beatmap/Category#approved) resmi diperkenalkan untuk memfasilitasi beatmap-beatmap yang secara teknis tidak memenuhi Ranking Criteria namun tetap dirasa layak untuk memiliki *leaderboard*-nya tersendiri.
     - Common reasons for approval initially included length above 5 minutes and scores above 20 million, neither of which were allowed for ranked content. <!-- https://osu.ppy.sh/community/forums/topics/4936 -->
     - A `flame` (![flame icon](/wiki/shared/icon/flame.gif)) icon marked approved beatmaps after two bubbles.
 
