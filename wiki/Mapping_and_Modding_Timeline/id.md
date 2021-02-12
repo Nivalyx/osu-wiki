@@ -107,7 +107,7 @@ Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
     - Pada beatmap Approved, hanya salah satu dari dua bubble yang boleh berasal dari anggota MAT.
     - Perubahan ini utamanya dipicu oleh jumlah beatmap Approved yang semakin bertambah seiring waktu. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
 - **2011-08-23:** "Beatmap Approval Team" berganti nama menjadi "Beatmap Appreciation Team".
-    - Pergantian nama ini dilangsungkan dalam rangka dileburkannya BAT dan GMT ([Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)) ke dalam satu gugus pengguna (*usergroup*) yang terpusat.
+    - Pergantian nama ini bertujuan untuk meleburkan BAT dan GMT ([Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)) ke dalam satu gugus pengguna (*usergroup*) yang terpusat.
 
 ### Oktober
 
@@ -120,7 +120,7 @@ Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011.
 
 ### July
 
-- **2012-07-22:** The first iteration of [Performance Points](/wiki/Performance_Points) known as [ppv1](/wiki/Performance_Points/ppv1) was established, replacing total ranked score leaderboards.
+- **2012-07-22:** Versi awal dari sistem [Performance Point](/wiki/Performance_Points) yang lebih dikenal dengan nama [ppv1](/wiki/Performance_Points/ppv1) resmi diperkenalkan untuk menggantikan sistem *ranked score* terdahulu.
 
 ### August
 
