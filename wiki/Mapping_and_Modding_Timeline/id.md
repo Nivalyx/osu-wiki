@@ -94,7 +94,7 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 
 ### Desember
 
-- **2010-12-31:** ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) diangkat sebagai pemimpin BAT setelah ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) mengundurkan diri.
+- **2010-12-31:** ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) ditunjuk sebagai BAT manager setelah ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) mengundurkan diri.
     - Ia melanjutkan tugas BAT manager sebelumnya dalam melantik BAT-BAT baru dan mengelola kinerja BAT. <!-- source is ephemeral -->
 
 Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
