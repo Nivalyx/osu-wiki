@@ -1,6 +1,6 @@
 # Sejarah mapping dan modding
 
-Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berubah seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk dokumentasi atas perubahan-perubahan yang terjadi dari tahun ke tahun dan sebagai referensi bagi mereka yang ingin mencetuskan ide-ide perubahan baru.
+Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berubah seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk dokumentasi mengenai berbagai perubahan yang terjadi dari tahun ke tahun dan sebagai berkas referensi bagi mereka yang ingin mencetuskan ide-ide perubahan baru.
 
 ## 2007
 
