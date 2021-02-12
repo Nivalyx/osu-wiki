@@ -80,8 +80,8 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 
 ### Agustus
 
-- **2010-08-27:** ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) ditunjuk selaku MAT leader setelah ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) mengundurkan diri. <!-- https://osu.ppy.sh/community/forums/topics/36208 -->
-    - Leadership was tentatively passed between the two users until ztrot held control in February 2011. <!-- https://osu.ppy.sh/community/forums/topics/47118 -->
+- **2010-08-27:** ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) ditunjuk selaku MAT Leader setelah ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) mengundurkan diri. <!-- https://osu.ppy.sh/community/forums/topics/36208 -->
+    - Proses transisi kekuasaan antar keduanya berlangsung dengan cukup runyam, di mana kepemimpinan atas MAT terus-menerus silih berganti antar keduanya selama beberapa waktu hingga ztrot mengambil alih peran MAT Leader secara permanen pada bulan Februari 2011. <!-- https://osu.ppy.sh/community/forums/topics/47118 -->
 
 ### Oktober
 
