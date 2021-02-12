@@ -107,7 +107,7 @@ Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
     - Pada beatmap Approved, hanya salah satu dari dua bubble yang boleh berasal dari anggota MAT.
     - Perubahan ini utamanya dipicu oleh jumlah beatmap Approved yang semakin bertambah seiring waktu. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
 - **2011-08-23:** "Beatmap Approval Team" berganti nama menjadi "Beatmap Appreciation Team".
-    - Pergantian nama ini ditujukan untuk membuat peran BAT dalam memoderasi beatmap dan peran [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (GMT) dalam memoderasi komunitas lebih melebur antar satu sama lain.
+    - Pergantian nama ini diluncurkan bersamaan dengan dileburkannya BAT dan GMT ([Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)) ke dalam satu gugus pengguna (*usergroup*) besar.
 
 ### Oktober
 
@@ -139,8 +139,8 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 ### April
 
-- **2013-04-23:** The MAT was dismantled.
-    - All MAT members were added to the BAT.
+- **2013-04-23:** MAT sepenuhnya dibubarkan.
+    - Seluruh anggota MAT diangkat menjadi BAT.
     - This change was made because the line between MAT and BAT had become too thin. A MAT member was effectively a BAT member who couldn't rank beatmaps, which did not align with the initial goals of the MAT as a new user group.
     - The BAT was also fairly inactive at this time, so a large influx of new members solved this problem. <!-- https://osu.ppy.sh/community/forums/topics/129165 + https://osu.ppy.sh/community/forums/topics/129176 -->
 
