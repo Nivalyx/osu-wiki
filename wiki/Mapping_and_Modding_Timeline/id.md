@@ -72,18 +72,18 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 
 ## 2010
 
-### July
+### Juli
 
-- **2010-07-24:** The first iteration of the [Community Mentorship Program](/wiki/Community_Mentorship_Program#earlier-mentoring-programs) was launched.
+- **2010-07-24:** Siklus pertama [Community Mentorship Program](/wiki/Community_Mentorship_Program#earlier-mentoring-programs) resmi diluncurkan.
     - Users could apply to learn about mapping and modding directly from volunteer MAT and BAT members.
     - The program was discontinued in 2013.<!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
 
-### August
+### Agustus
 
-- **2010-08-27:** ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) was appointed as MAT leader after ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) stepped down. <!-- https://osu.ppy.sh/community/forums/topics/36208 -->
+- **2010-08-27:** ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) ditunjuk selaku MAT leader setelah ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) mengundurkan diri. <!-- https://osu.ppy.sh/community/forums/topics/36208 -->
     - Leadership was tentatively passed between the two users until ztrot held control in February 2011. <!-- https://osu.ppy.sh/community/forums/topics/47118 -->
 
-### October
+### Oktober
 
 - **2010-10-03:** MAT were granted permission to nominate beatmaps for ranking with normal `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icons, as opposed to proto-bubbles.
     - Proto-bubbles were ignored by most BAT members, so the MAT had no purpose without this change.
