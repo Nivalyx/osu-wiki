@@ -8,11 +8,11 @@ Sistematika mapping dan modding dalam lingkungan osu! senantiasa berubah seiring
 
 ### September
 
-- **2007-09-17:** osu! was publicly released.
+- **2007-09-17:** osu! dirilis secara publik.
 
-### October
+### Oktober
 
-- **2007-10-21:** [Ranking Criteria](/wiki/Ranking_Criteria) launched. <!-- https://osu.ppy.sh/community/forums/topics/439 -->
+- **2007-10-21:** [Ranking Criteria](/wiki/Ranking_Criteria) resmi diberlakukan. <!-- https://osu.ppy.sh/community/forums/topics/439 -->
 - **2007-10-29:**: Forum thread icons were standardized for the ranking process.
     - A `star` (![star icon](/wiki/shared/icon/star.gif)) icon marked good maps that need more work.
     - A `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icon marked beatmaps considered for ranking.
