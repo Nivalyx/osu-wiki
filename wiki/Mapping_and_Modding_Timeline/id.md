@@ -34,25 +34,25 @@ Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
     - Kategori ini pada umumnya berisikan beatmap-beatmap yang melebihi batas durasi (5 menit) dan/atau total skor (20 juta) yang diperbolehkan oleh Ranking Criteria di kala itu. <!-- https://osu.ppy.sh/community/forums/topics/4936 -->
     - Ikon`flame` (![flame icon](/wiki/shared/icon/flame.gif)) mulai diperkenalkan untuk menandai beatmap-beatmap yang berada dalam kategori Approved setelah mendapatkan 3 nominasi.
 
-### December
+### Desember
 
 - **2008-12-20:** Syarat-syarat untuk bergabung ke dalam [Beatmap Approval Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*) resmi diumumkan.
-    - Anggota-anggota BAT direkrut secara khusus berdasarkan kriteria-kriteria yang ditekankan pada [utas pengumuman berikut](https://osu.ppy.sh/community/forums/topics/8416).
+    - Anggota-anggota BAT direkrut secara khusus berdasarkan kriteria-kriteria yang tertera pada [utas pengumuman berikut](https://osu.ppy.sh/community/forums/topics/8416).
     - Anggota-anggota BAT ditandai dengan nama pengguna yang berwarna merah pada forum. 
 
 Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 
 ## 2009
 
-### February
+### Februari
 
 - **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) resmi dititahkan sebagai [BAT manager](/wiki/Modding/Bat_Managers) yang pertama. <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
-    - Ia diberikan tanggung jawab utama untuk mengorganisir alur kerja pelantikan BAT-BAT baru serta meningkatkan kemahiran dan tingkat aktivitas anggota-anggota BAT secara umum.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
+    - Ia diberikan tanggung jawab utama untuk mengorganisir alur kerja pelantikan BAT-BAT baru serta meningkatkan kemahiran anggota-anggota BAT terkait modding dan mapping.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
 
 ### March
 
-- **2009-03-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) launched the first [Delegation of the Beatmap Approval Deciding Authorities; Submission Squad](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*). <!-- https://osu.ppy.sh/community/forums/topics/10638 -->
-    - This change was launched because prior BAT were added based on an informal vote from osu!'s `#bat` [IRC](/wiki/Internet_Relay_Chat) channel, which wasn't visible to enough users.
+- **2009-03-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) meluncurkan [Delegation of the Beatmap Approval Deciding Authorities; Submission Squad](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*). <!-- https://osu.ppy.sh/community/forums/topics/10638 -->
+    - This change was launched because prior BAT were added based on an informal vote from osu!'s `#bat` [IRC](/wiki/Internet_Relay_Chat) channel, yang dirasa kurang transparan.
 
 ### November
 
