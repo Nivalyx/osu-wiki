@@ -11,7 +11,7 @@ Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berk
 ### Oktober
 
 - **2007-10-21:** [Ranking Criteria](/wiki/Ranking_Criteria) resmi diberlakukan. <!-- https://osu.ppy.sh/community/forums/topics/439 -->
-- **2007-10-29:** Forum thread icons were standardized for the ranking process.
+- **2007-10-29:** Ikon-ikon forum tertentu mulai digunakan untuk menandai status suatu beatmap.
     - Ikon `star` (![star icon](/wiki/shared/icon/star.gif)) digunakan untuk menandai beatmap-beatmap yang dinilai masih perlu untuk dibenahi.
     - Ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) digunakan untuk menandai beatmap-beatmap yang dinilai telah siap untuk di-rank.
     - Ikon `heart` (![heart icon](/wiki/shared/icon/heart.gif)) digunakan untuk menandai beatmap-beatmap yang telah di-rank. Ikon ini hanya dapat disematkan pada beatmap-beatmap yang telah ditandai dengan ikon bubble sebelumnya, yang secara tidak langsung mempersyaratkan 2 nominasi bagi setiap beatmap untuk dapat sepenuhnya di-rank.
@@ -28,11 +28,11 @@ Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 - **2008-03-11:** Kategori [Graveyard](/wiki/Beatmap/Category#graveyard) resmi diperkenalkan sebagai suatu tempat peristirahatan bagi beatmap-beatmap yang telah terbengkalai.
     - Dengan semakin meningkatnya jumlah beatmap yang tidak terurus seiring waktu, para anggota komunitas osu! di kala itu merasa perlu untuk memisahkan beatmap-beatmap Pending yang masih aktif diperbaharui dan yang telah sepenuhnya terbengkalai ke dalam dua kategori yang terpisah. <!-- https://osu.ppy.sh/community/forums/posts/15290 -->
 
-### July
+### Juli
 
 - **2008-07-31:** Kategori [Approved](/wiki/Beatmap/Category#approved) resmi diperkenalkan untuk memfasilitasi beatmap-beatmap yang secara teknis tidak memenuhi Ranking Criteria namun tetap dirasa layak untuk memiliki *leaderboard*-nya tersendiri.
-    - Common reasons for approval initially included length above 5 minutes and scores above 20 million, neither of which were allowed for ranked content. <!-- https://osu.ppy.sh/community/forums/topics/4936 -->
-    - A `flame` (![flame icon](/wiki/shared/icon/flame.gif)) icon marked approved beatmaps after two bubbles.
+    - yang kala itu tidak dibenarkan oleh Ranking Criteria. Common reasons for approval initially included length above 5 minutes and scores above 20 million, neither of which were allowed for ranked content. <!-- https://osu.ppy.sh/community/forums/topics/4936 -->
+    - Ikon`flame` (![flame icon](/wiki/shared/icon/flame.gif)) mulai diperkenalkan untuk menandai beatmap-beatmap yang berada dalam kategori Approved setelah 3 nominasi.
 
 ### December
 
