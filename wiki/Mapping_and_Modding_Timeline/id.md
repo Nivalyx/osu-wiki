@@ -38,7 +38,7 @@ Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 
 - **2008-12-20:** Syarat-syarat untuk bergabung ke dalam [Beatmap Approval Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*) resmi diumumkan.
     - Members were hand-picked based on criteria outlined in the [announcement's forum post](https://osu.ppy.sh/community/forums/topics/8416).
-    - BAT members had a red title on the forums.
+    - Para anggota BAT ditandai dengan nama pengguna yang berwarna merah pada forum. 
 
 Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 
