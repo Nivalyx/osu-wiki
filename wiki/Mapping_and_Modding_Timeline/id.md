@@ -86,7 +86,7 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 ### Oktober
 
 - **2010-10-03:** Anggota-anggota MAT diberikan kuasa untuk menyematkan ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) pada beatmap.
-    - Perubahan ini utamanya dipicu oleh fakta di lapangan yang mengindikasikan bahwa sistem proto-bubble yang ada tidak terlalu dianggap penting oleh anggota-anggota BAT.
+    - Perubahan ini utamanya dipicu oleh fakta di lapangan yang mengindikasikan bahwa sistem proto-bubble yang diberlakukan sebelumnya tidak dianggap penting oleh anggota-anggota BAT.
     - Secara tidak langsung, anggota-anggota MAT diberikan peran dan tanggung jawab yang lebih besar dalam hal moderasi beatmap. <!-- https://osu.ppy.sh/community/forums/topics/38403 -->
 - **2011-10-10:** Anggota-anggota MAT tidak lagi dapat mencalonkan atau menyatakan suara terhadap nama-nama baru untuk bergabung ke dalam MAT.
     - Peraturan ini diberlakukan untuk mencegah praktek kolusi internal yang dikhawatirkan dapat terjadi setelah MAT diberikan kuasa untuk menyematkan ikon bubble.
@@ -103,7 +103,7 @@ Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
 
 ### Maret
 
-- **2011-03-09:** MAT members were granted permission to bubble [Approval](/wiki/Beatmap/Category#approved) beatmaps.
+- **2011-03-09:** Anggota-anggota MAT diberikan kuasa untuk menyematkan ikon `bubble` pada beatmap-beatmap [Approved](/wiki/Beatmap/Category#approved).
     - Only one of an approved map's two bubbles could be placed by a MAT member.
     - This change was implemented because approved beatmaps were becoming more common. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
 - **2011-08-23:** "Beatmap Approval Team" was renamed to "Beatmap Appreciation Team".
