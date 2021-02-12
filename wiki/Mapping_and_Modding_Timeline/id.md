@@ -103,7 +103,7 @@ Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
 
 ### Maret
 
-- **2011-03-09:** Anggota-anggota MAT diberikan kuasa untuk menyematkan ikon `bubble` pada beatmap-beatmap [Approved](/wiki/Beatmap/Category#approved).
+- **2011-03-09:** Anggota-anggota MAT diberikan kuasa untuk menyematkan ikon `bubble` pada beatmap yang dikhususkan untuk [Approval](/wiki/Beatmap/Category#approved).
     - Only one of an approved map's two bubbles could be placed by a MAT member.
     - This change was implemented because approved beatmaps were becoming more common. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
 - **2011-08-23:** "Beatmap Approval Team" was renamed to "Beatmap Appreciation Team".
