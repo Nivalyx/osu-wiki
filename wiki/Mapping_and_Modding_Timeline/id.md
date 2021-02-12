@@ -25,8 +25,8 @@ Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Maret
 
-- **2008-03-11:** Kategori [Graveyard](/wiki/Beatmap/Category#graveyard) diciptakan sebagai tempat peristirahatan bagi beatmap-beatmap yang terbengkalai.
-    - Pada masa itu, The community expected every pending map to be ranked, but maps were being frequently abandoned and needed to be separated. <!-- https://osu.ppy.sh/community/forums/posts/15290 -->
+- **2008-03-11:** Kategori [Graveyard](/wiki/Beatmap/Category#graveyard) diciptakan sebagai suatu tempat peristirahatan bagi beatmap-beatmap yang terbengkalai.
+    - Pada masa itu, semua beatmap Pending memiliki ekspet Ranked. namun dengan semakin banyaknya beatmap yang The community expected every pending map to be ranked, but maps were being frequently abandoned and needed to be separated. <!-- https://osu.ppy.sh/community/forums/posts/15290 -->
 
 ### July
 
