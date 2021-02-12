@@ -66,7 +66,7 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
     - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) merupakan [MAT Leader](/wiki/Modding/MAT_Leaders) pertama. <!-- https://osu.ppy.sh/community/forums/topics/21854 -->
     - Anggota-anggota MAT ditandai dengan nama pengguna yang berwarna ungu pada forum. 
     - Fungsi utama MAT adalah sebagai suatu "regu penengah" yang berlaku sebagai penghubung antara BAT dan komunitas mapping yang dimiliki oleh osu! secara luas.
-    - Keberadaan MAT di kala itu diharapkan dapat menyelesaikan berbagai masalah yang telah cukup banyak dikeluhkan seperti beban kerja BAT yang terlalu berat, me, dan menjamin mutu beatmap. Meskipun demikian, dalam kenyataannya, poin-poin tersebut tidak sepenuhnya tercapai. The MAT's goals were to reduce BAT workload, identify maps that were slipping between the cracks in the ranking cycle, and increase quality control, both of which were pressing issues at the time. In hindsight, none of its goals were fully realized. <!-- https://osu.ppy.sh/community/forums/topics/21682 -->
+    - Keberadaan MAT di kala itu diharapkan dapat menyelesaikan berbagai masalah yang telah cukup banyak dikeluhkan seperti beban kerja BAT yang terlalu berat, semakin banyaknya beatmap yang luput dari pengecekan BAT, serta kualitas beatmap yang secara keseluruhan dinilai mulai menurun. Meskipun demikian, dalam kenyataannya, poin-poin tersebut tidak sepenuhnya tercapai. <!-- https://osu.ppy.sh/community/forums/topics/21682 -->
     
 Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 
