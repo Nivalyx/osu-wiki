@@ -124,8 +124,8 @@ Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011.
 
 ### August
 
-- **2012-08-21:** Skor yang diperoleh dari beatmap-beatmap [Approved](/wiki/Beatmap/Category#approved) turut dihitung ke dalam Skor Ranked masing-masing pengguna.
-    - Karena peringkat pengguna tidak lagi ditentukan berdasarkan jumlah Skor Ranked.<!-- changelog -->
+- **2012-08-21:** Skor yang diperoleh dari beatmap-beatmap [Approved](/wiki/Beatmap/Category#approved) mulai dihitung ke dalam jumlah Skor Ranked masing-masing pengguna.
+    - Mengingat peringkat pengguna tidak lagi ditentukan berdasarkan jumlah Skor Ranked masing-masing, beatmap-beatmap Approved yang memiliki total skor di atas 20 juta tidak lagi dapat disalahgunakan untuk menuai peringkat. <!-- changelog -->
 
 Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
