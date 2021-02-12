@@ -36,11 +36,11 @@ Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### December
 
-- **2008-12-20:** Requirements for joining the [Beatmap Approval Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*) were published.
+- **2008-12-20:** Syarat-syarat untuk bergabung ke dalam [Beatmap Approval Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*) diumumkan.
     - Members were hand-picked based on criteria outlined in the [announcement's forum post](https://osu.ppy.sh/community/forums/topics/8416).
     - BAT members had a red title on the forums.
 
-**690 beatmaps** were ranked in 2008.
+Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2018.
 
 ## 2009
 
