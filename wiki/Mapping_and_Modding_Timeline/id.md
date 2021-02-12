@@ -36,11 +36,11 @@ Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### December
 
-- **2008-12-20:** Syarat-syarat untuk bergabung ke dalam [Beatmap Approval Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*) diumumkan.
+- **2008-12-20:** Syarat-syarat untuk bergabung ke dalam [Beatmap Approval Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*) resmi diumumkan.
     - Members were hand-picked based on criteria outlined in the [announcement's forum post](https://osu.ppy.sh/community/forums/topics/8416).
     - BAT members had a red title on the forums.
 
-Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2018.
+Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 
 ## 2009
 
@@ -67,8 +67,8 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2018.
     - MAT members had a purple title on the forums.
     - The MAT was initially titled the "intermediate modding team" consisting of established modders who weren't ready to enter the BAT yet.
     - The MAT's goals were to reduce BAT workload, identify maps that were slipping between the cracks in the ranking cycle, and increase quality control, both of which were pressing issues at the time. In hindsight, none of its goals were fully realized. <!-- https://osu.ppy.sh/community/forums/topics/21682 -->
-
-**1400 beatmaps** were ranked in 2009.
+    
+Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 
 ## 2010
 
@@ -94,10 +94,10 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2018.
 
 ### December
 
-- **2010-12-31:** ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) was appointed as BAT leader after ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) stepped down.
+- **2010-12-31:** ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) diangkat sebagai pemimpin BAT setelah ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) mengundurkan diri.
     - Like his predecessors, he continued handling new BAT promotion and maintaining the current BAT. <!-- source is ephemeral -->
 
-**1864 beatmaps** were ranked in 2010.
+Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
 
 ## 2011
 
@@ -114,7 +114,7 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2018.
 - **2011-10-08:** [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) opened for public discussion on [Ranking Criteria](/wiki/Ranking_Criteria) proposals.
     - These discussions were previously held by BAT members in a private subforum. <!-- date is not exact. the earliest thread in the subforum was posted on 2011-10-08 -->
 
-**1368 beatmaps** were ranked in 2011. This was the first decline after 4 years of consecutive growth.
+Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011. **1368 beatmaps** were ranked in 2011. Tahun ini merupakan pertama kalinya jumlah beatmap Ranked per tahunnya mengalami penurunan setelah 4 tahun pertumbuhan.
 
 ## 2012
 
