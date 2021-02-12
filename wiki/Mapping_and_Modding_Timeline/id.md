@@ -120,12 +120,12 @@ Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011.
 
 ### July
 
-- **2012-07-22:** Versi awal dari sistem [Performance Point](/wiki/Performance_Points) yang lebih dikenal dengan nama [ppv1](/wiki/Performance_Points/ppv1) resmi diperkenalkan untuk menggantikan sistem *ranked score* terdahulu.
+- **2012-07-22:** Versi awal dari sistem [Performance Point](/wiki/Performance_Points) yang lebih dikenal dengan nama [ppv1](/wiki/Performance_Points/ppv1) resmi diperkenalkan untuk menggantikan sistem *ranked score*.
 
 ### August
 
-- **2012-08-21:** [Approved](/wiki/Beatmap/Category#approved) beatmaps began rewarding Ranked score.
-    - Ranked score was no longer used as the primary scoring metric, so Approval beatmaps could no longer be abused for player rankings.<!-- changelog -->
+- **2012-08-21:** Skor yang diperoleh dari beatmap-beatmap [Approved](/wiki/Beatmap/Category#approved) turut dihitung ke dalam Skor Ranked masing-masing pengguna.
+    - Karena peringkat pengguna tidak lagi ditentukan berdasarkan jumlah Skor Ranked.<!-- changelog -->
 
 Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
