@@ -62,11 +62,11 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 ### Desember
 
 - **2009-12-27:** [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) resmi dibentuk.
-    - Anggota-anggota MAT memiliki kuasa untuk menempatkan beatmap-beatmap pada status [proto-bubble](/wiki/Modding/Proto-bubble) yang menandakan bahwa beatmap tersebut layak untuk diproritaskan ke depannya. <!-- https://osu.ppy.sh/community/forums/topics/21836 -->
+    - Anggota-anggota MAT memiliki kuasa untuk menempatkan beatmap pada status [proto-bubble](/wiki/Modding/Proto-bubble) yang menandakan bahwa beatmap tersebut layak untuk diproritaskan ke depannya. <!-- https://osu.ppy.sh/community/forums/topics/21836 -->
     - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) merupakan [MAT Leader](/wiki/Modding/MAT_Leaders) pertama. <!-- https://osu.ppy.sh/community/forums/topics/21854 -->
     - Anggota-anggota MAT ditandai dengan nama pengguna yang berwarna ungu pada forum. 
-    - Tujuan pembentukan MAT adalah agar osu! memiliki "regu penengah" yang dapat berfungsi sebagai penghubung antara BAT dan komunitas mapping secara luas.
-    - The MAT's goals were to reduce BAT workload, identify maps that were slipping between the cracks in the ranking cycle, and increase quality control, both of which were pressing issues at the time. In hindsight, none of its goals were fully realized. <!-- https://osu.ppy.sh/community/forums/topics/21682 -->
+    - Tujuan pembentukan MAT adalah agar osu! memiliki "regu penengah" yang dapat berfungsi sebagai penghubung antara BAT dan komunitas mapping yang dimiliki oleh osu! secara luas.
+    - Keberadaan MAT diharapkan dapat mengurangi beban kerja BAT, me Meskipun demikian, dalam kenyataan poin-poin tersebut tidak sepenuhnya tercapai. The MAT's goals were to reduce BAT workload, identify maps that were slipping between the cracks in the ranking cycle, and increase quality control, both of which were pressing issues at the time. In hindsight, none of its goals were fully realized. <!-- https://osu.ppy.sh/community/forums/topics/21682 -->
     
 Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 
