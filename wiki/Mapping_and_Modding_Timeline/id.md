@@ -1,8 +1,8 @@
 # Sejarah mapping dan modding
 
-# Mapping and modding timeline
-
 Mapping and modding systems are constantly improving. The **Mapping and modding timeline** aims to document the biggest system changes and to serve as a reference tool when users are incorporating new changes.
+
+Sistematika mapping dan modding dalam lingkungan osu! senantiasa berubah seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini mendokumentasikan perubahan-perubahan yang terjadi dari tahun ke tahun.
 
 ## 2007
 
