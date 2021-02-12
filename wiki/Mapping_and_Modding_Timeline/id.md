@@ -235,7 +235,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 - **2015-12-27:** [BN tests](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) were implemented for BN applications.
     - These tests required users to answer a multiple choice form and mod a problem-filled beatmap. <!-- date used is when the "BN Examinations - Answer Keys" document was created. first test was published a month or so later -->
 
-Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015. Jumlah beatmap Ranked pada tahun ini meningkat pesat setelah pada 4 tahun sebelumnya angka ini cenderung stagnan dari tahun ke tahun.
+Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015. Jumlah beatmap Ranked pada tahun ini kembali meningkat pesat setelah pada 4 tahun sebelumnya angka ini cenderung stagnan dari tahun ke tahun.
 
 ## 2016
 
@@ -295,7 +295,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - These files included modding/nomination activity, disqualifications, and behavior issues.
     - Members of the BN with 3 or more "strikes" logged in these files would be removed from the group. <!-- QAT folder archives -->
 
-**1720 beatmaps** were ranked in 2016.
+Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 
 ## 2017
 
@@ -342,7 +342,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 - **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) stepped down from involvement in the osu!team, including his heavy participation in the QAT. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
 
-**1847 beatmaps** were ranked in 2017.
+Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ## 2018
 
@@ -399,7 +399,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
         - Limited accessibility for new users to enter the team, causing stagnation.
         - The role of the QAT in the mapping community was unclear.<!-- https://osu.ppy.sh/community/forums/topics/842601 -->
 
-**2749 beatmaps** were ranked in 2018. This year's impressive growth can be largely attributed to the QAT's discontinued Quality Assurance role and higher initiative from Beatmap Nominators.
+Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018. Lonjakan jumlah beatmap Ranked pada tahun ini utamanya diakibatkan oleh sistem pengendalian mutu QAT yang lebih lengang dan inisiatif yang tinggi dari para Beatmap Nominator.
 
 ## 2019
 
@@ -439,7 +439,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 - **2019-10-22:** ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) became a NAT leader after ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) stepped down.
     - Because NAT leaders had often been passive towards negative decision making, Ascendance took an active controlling role and delivered bad news regarding NAT removals. <!-- source is discord logs -->
 
-**3217 beatmaps** were ranked in 2019.
+Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 ## 2020
 
