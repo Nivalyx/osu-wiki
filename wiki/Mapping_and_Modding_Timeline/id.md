@@ -92,16 +92,16 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
     - Peraturan ini diberlakukan untuk mencegah praktek kolusi internal yang dikhawatirkan dapat terjadi setelah MAT diberikan kuasa untuk menyematkan ikon bubble.
     - Anggota-anggota BAT diberikan tanggung jawab penuh untuk menentukan siapa-siapa saja yang diangkat ke dalam dan diberhentikan dari MAT seiring waktu.<!-- https://osu.ppy.sh/community/forums/topics/38806 -->
 
-### December
+### Desember
 
 - **2010-12-31:** ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) diangkat sebagai pemimpin BAT setelah ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) mengundurkan diri.
-    - Like his predecessors, he continued handling new BAT promotion and maintaining the current BAT. <!-- source is ephemeral -->
+    - Ia melanjutkan tugas BAT manager sebelumnya dalam melantik BAT-BAT baru dan mengelola kinerja BAT. <!-- source is ephemeral -->
 
 Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
 
 ## 2011
 
-### March
+### Maret
 
 - **2011-03-09:** MAT members were granted permission to bubble [Approval](/wiki/Beatmap/Category#approved) beatmaps.
     - Only one of an approved map's two bubbles could be placed by a MAT member.
