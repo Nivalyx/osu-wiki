@@ -32,7 +32,7 @@ Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 
 - **2008-07-31:** Kategori [Approved](/wiki/Beatmap/Category#approved) resmi diperkenalkan untuk memfasilitasi beatmap-beatmap yang secara teknis tidak memenuhi Ranking Criteria namun tetap dirasa layak untuk memiliki *leaderboard*-nya tersendiri.
     - Kategori ini pada umumnya berisikan beatmap-beatmap yang melebihi batas durasi (5 menit) dan/atau total skor (20 juta) yang diperbolehkan oleh Ranking Criteria di kala itu. <!-- https://osu.ppy.sh/community/forums/topics/4936 -->
-    - Ikon`flame` (![flame icon](/wiki/shared/icon/flame.gif)) mulai digunakan untuk menandai beatmap-beatmap yang berada dalam kategori Approved setelah mendapatkan 3 nominasi.
+    - Ikon`flame` (![flame icon](/wiki/shared/icon/flame.gif)) mulai digunakan untuk menandai beatmap-beatmap yang telah mendapatkan 3 nominasi dan ditempatkan dalam kategori Approved.
 
 ### Desember
 
