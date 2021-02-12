@@ -399,7 +399,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
         - Limited accessibility for new users to enter the team, causing stagnation.
         - The role of the QAT in the mapping community was unclear.<!-- https://osu.ppy.sh/community/forums/topics/842601 -->
 
-Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018. Lonjakan jumlah beatmap Ranked pada tahun ini utamanya diakibatkan oleh sistem pengendalian mutu QAT yang lebih lengang dan inisiatif yang tinggi dari para Beatmap Nominator.
+Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018. Lonjakan jumlah beatmap Ranked pada tahun ini utamanya diakibatkan oleh sistem pengendalian mutu QAT yang lebih lengang dan inisiatif modding yang tinggi dari para Beatmap Nominator secara umum.
 
 ## 2019
 
