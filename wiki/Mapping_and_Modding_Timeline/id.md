@@ -75,7 +75,7 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 ### Juli
 
 - **2010-07-24:** Siklus pertama [Community Mentorship Program](/wiki/Community_Mentorship_Program#earlier-mentoring-programs) resmi diluncurkan.
-    - Para pengguna yang tertarik untuk belajar lebih jauh seputar mapping dan modding dapat mendaftarkan diri mereka masing-masing untuk mengikuti sesi bimbingan dari anggota-anggota MAT dan BAT yang berpartisipasi.
+    - Para pengguna yang tertarik untuk memperdalam ilmu lebih jauh seputar mapping dan modding dapat mendaftarkan diri mereka masing-masing untuk mengikuti sesi bimbingan dari anggota-anggota MAT dan BAT yang berpartisipasi.
     - Program ini diberhentikan pada tahun 2013. <!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
 
 ### Agustus
@@ -85,7 +85,7 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 
 ### Oktober
 
-- **2010-10-03:** MAT were granted permission to nominate beatmaps for ranking with normal `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icons, as opposed to proto-bubbles.
+- **2010-10-03:** Anggota-anggota MAT diberikan kuasa untuk menyematkan ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) pada beatmap..
     - Proto-bubbles were ignored by most BAT members, so the MAT had no purpose without this change.
     - This gave MAT considerably more influence in the ranking process.<!-- https://osu.ppy.sh/community/forums/topics/38403 -->
 - **2011-10-10:** MAT members were no longer allowed to nominate or vote on new additions to their team.
