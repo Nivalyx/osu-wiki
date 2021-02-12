@@ -11,11 +11,11 @@ Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berk
 ### Oktober
 
 - **2007-10-21:** [Ranking Criteria](/wiki/Ranking_Criteria) resmi diberlakukan. <!-- https://osu.ppy.sh/community/forums/topics/439 -->
-- **2007-10-29:**: Forum thread icons were standardized for the ranking process.
+- **2007-10-29:** Forum thread icons were standardized for the ranking process.
     - Ikon `star` (![star icon](/wiki/shared/icon/star.gif)) digunakan untuk menandai beatmap-beatmap yang dirasa masih perlu untuk dibenahi.
-    - A `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icon marked beatmaps considered for ranking.
-    - A `heart` (![heart icon](/wiki/shared/icon/heart.gif)) icon marked ranked beatmaps. These could only be placed after a beatmap was bubbled, ensuring two nominations per beatmap.
-    - A `nuke` (![nuke icon](/wiki/shared/icon/nuke.gif)) icon marked beatmaps that could not be ranked under any circumstances. <!-- https://osu.ppy.sh/forum/t/619 + missing info on flame/nuke -->
+    - Ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) digunakan untuk menandai beatmap-beatmap yang dirasa telah siap untuk di-rank.
+    - Ikon `heart` (![heart icon](/wiki/shared/icon/heart.gif)) digunakan untuk menandai beatmap-beatmap yang telah di-rank. Ikon ini hanya dapat disematkan pada beatmap-beatmap yang telah diberikan bubble sebelumnya. ensuring two nominations per beatmap.
+    - Ikon `nuke` (![nuke icon](/wiki/shared/icon/nuke.gif)) digunakan untuk menandai beatmap-beatmap yang tidak dapat di-rank atas alasan apapun. <!-- https://osu.ppy.sh/forum/t/619 + missing info on flame/nuke -->
 
 Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 
