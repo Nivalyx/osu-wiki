@@ -26,7 +26,7 @@ Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 ### Maret
 
 - **2008-03-11:** Kategori [Graveyard](/wiki/Beatmap/Category#graveyard) resmi diperkenalkan sebagai suatu tempat peristirahatan bagi beatmap-beatmap yang telah terbengkalai.
-    - Dengan semakin meningkatnya jumlah beatmap yang tidak terurus seiring waktu, para anggota komunitas osu! di kala itu merasa perlu untuk memisahkan beatmap-beatmap yang masih aktif diperbaharui dan yang telah sepenuhnya terbengkalai ke dalam dua kategori yang terpisah. <!-- https://osu.ppy.sh/community/forums/posts/15290 -->
+    - Dengan semakin meningkatnya jumlah beatmap yang tidak terurus seiring waktu, para anggota komunitas osu! di kala itu merasa perlu untuk memisahkan beatmap-beatmap Pending yang masih aktif diperbaharui dan yang telah sepenuhnya terbengkalai ke dalam dua kategori yang terpisah. <!-- https://osu.ppy.sh/community/forums/posts/15290 -->
 
 ### July
 
