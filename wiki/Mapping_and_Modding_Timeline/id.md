@@ -107,7 +107,7 @@ Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
     - Pada beatmap Approved, hanya salah satu dari dua bubble yang boleh berasal dari anggota MAT.
     - Perubahan ini utamanya dipicu oleh jumlah beatmap Approved yang semakin bertambah seiring waktu. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
 - **2011-08-23:** "Beatmap Approval Team" berganti nama menjadi "Beatmap Appreciation Team".
-    - Pergantian nama ini didorong untuk menggabungkan peran antar The purpose of the new name was to unite users involved in beatmap approval and users involved general moderation (essentially the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)) under the same name, which "Beatmap Approval Team" did not effectively represent.
+    - Pergantian nama ini ditujukan untuk melebur peran BAT dalam memoderasi beatmap dan GMT ([Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)) dalam memoderasi komunitas.
 
 ### Oktober
 
