@@ -14,7 +14,7 @@ Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berk
 - **2007-10-29:** Forum thread icons were standardized for the ranking process.
     - Ikon `star` (![star icon](/wiki/shared/icon/star.gif)) digunakan untuk menandai beatmap-beatmap yang dinilai masih perlu untuk dibenahi.
     - Ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) digunakan untuk menandai beatmap-beatmap yang dinilai telah siap untuk di-rank.
-    - Ikon `heart` (![heart icon](/wiki/shared/icon/heart.gif)) digunakan untuk menandai beatmap-beatmap yang telah di-rank. Ikon ini hanya dapat disematkan pada beatmap-beatmap yang telah ditandai dengan ikon bubble sebelumnya, yang secara tidak langsung mempersyaratkan setiap beatmap untuk memiliki 2 nominasi sebelum dapat berstatus Ranked.
+    - Ikon `heart` (![heart icon](/wiki/shared/icon/heart.gif)) digunakan untuk menandai beatmap-beatmap yang telah di-rank. Ikon ini hanya dapat disematkan pada beatmap-beatmap yang telah ditandai dengan ikon bubble sebelumnya, yang secara tidak langsung mempersyaratkan 2 nominasi bagi setiap beatmap untuk dapat sepenuhnya di-rank.
     - Ikon `nuke` (![nuke icon](/wiki/shared/icon/nuke.gif)) digunakan untuk menandai beatmap-beatmap yang telah dinyatakan tidak dapat di-rank dalam kondisi apapun karena satu dan lain hal. <!-- https://osu.ppy.sh/forum/t/619 + missing info on flame/nuke -->
 
 Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
