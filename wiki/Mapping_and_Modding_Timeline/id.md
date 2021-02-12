@@ -114,7 +114,7 @@ Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
 - **2011-10-08:** [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) opened for public discussion on [Ranking Criteria](/wiki/Ranking_Criteria) proposals.
     - These discussions were previously held by BAT members in a private subforum. <!-- date is not exact. the earliest thread in the subforum was posted on 2011-10-08 -->
 
-Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011. Tahun ini merupakan pertama kalinya jumlah beatmap Ranked per tahunnya mengalami penurunan setelah pada 4 tahun sebelumnya angka ini selalu bertambah dari tahun ke tahun.
+Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011. Tahun ini merupakan tahun pertama dalam sejarah osu! di mana jumlah beatmap Ranked per tahunnya mengalami penurunan setelah pada 4 tahun sebelumnya angka ini selalu bertambah dari tahun ke tahun.
 
 ## 2012
 
