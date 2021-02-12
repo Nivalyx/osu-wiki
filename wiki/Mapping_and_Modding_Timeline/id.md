@@ -2,7 +2,7 @@
 
 Mapping and modding systems are constantly improving. The **Mapping and modding timeline** aims to document the biggest system changes and to serve as a reference tool when users are incorporating new changes.
 
-Sistematika mapping dan modding dalam lingkungan osu! senantiasa berubah seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini mendokumentasikan perubahan-perubahan yang terjadi dari tahun ke tahun.
+Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berubah seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini mendokumentasikan perubahan-perubahan yang terjadi dari tahun ke tahun yang diharapkan dapat menjadi referensi bagi yang ingin perubahan-perubahan baru
 
 ## 2007
 
