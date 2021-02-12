@@ -75,7 +75,7 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 ### Juli
 
 - **2010-07-24:** Siklus pertama [Community Mentorship Program](/wiki/Community_Mentorship_Program#earlier-mentoring-programs) resmi diluncurkan.
-    - Para pengguna yang tertarik untuk memperdalam ilmu mapping masing-masing dapat mendaftarkan diri mereka untuk mengikuti sesi bimbingan dari anggota-anggota MAT dan BAT yang berpartisipasi.
+    - Para pengguna yang tertarik untuk belajar lebih jauh seputar mapping dan modding dapat mendaftarkan diri mereka masing-masing untuk mengikuti sesi bimbingan dari anggota-anggota MAT dan BAT yang berpartisipasi.
     - Program ini diberhentikan pada tahun 2013. <!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
 
 ### Agustus
