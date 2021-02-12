@@ -19,7 +19,7 @@ Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa beru
     - A `heart` (![heart icon](/wiki/shared/icon/heart.gif)) icon marked ranked beatmaps. These could only be placed after a beatmap was bubbled, ensuring two nominations per beatmap.
     - A `nuke` (![nuke icon](/wiki/shared/icon/nuke.gif)) icon marked beatmaps that could not be ranked under any circumstances. <!-- https://osu.ppy.sh/forum/t/619 + missing info on flame/nuke -->
 
-**200 beatmaps** were ranked in 2007.
+Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 
 <!-- missing formation of the BAT -->
 
