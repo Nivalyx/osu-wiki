@@ -49,20 +49,20 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 - **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) resmi dititahkan sebagai [BAT manager](/wiki/Modding/Bat_Managers) yang pertama. <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
     - Ia diberikan tanggung jawab utama untuk mengorganisir alur kerja pelantikan BAT-BAT baru serta mengawasi kecakapan dan tingkat aktivitas anggota-anggota BAT yang bertugas secara umum.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
 
-### March
+### Maret
 
 - **2009-03-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) meluncurkan [Delegation of the Beatmap Approval Deciding Authorities; Submission Squad](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*). <!-- https://osu.ppy.sh/community/forums/topics/10638 -->
-    - Grup ini dibentuk sebagai suatu upaya untuk membuat proses pelantikan BAT (yang sebelumnya terbatas hanya pengguna-pengguna tertentu yang memiliki akses ke kanal [IRC](/wiki/Internet_Relay_Chat) `#bat`) menjadi lebih transparan dan terbuka bagi khalayak umum.
+    - Grup ini dibentuk sebagai suatu upaya untuk membuat proses pelantikan BAT (yang sebelumnya hanya melibatkan pengguna-pengguna tertentu yang memiliki akses ke kanal [IRC](/wiki/Internet_Relay_Chat) `#bat`) menjadi lebih transparan dan terbuka bagi khalayak umum.
 
 ### November
 
-- **2009-11-10:** ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) was appointed as BAT manager after ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) stepped down.
-    - He continued promoting new BAT and maintaining the current BAT.<!-- https://osu.ppy.sh/community/forums/topics/19833 -->
+- **2009-11-10:** ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) ditunjuk selaku BAT manager setelah ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) mengundurkan diri.
+    - Ia melanjutkan tugas BAT manager sebelumnya dalam melantik BAT-BAT baru dan mengelola kinerja BAT. <!-- https://osu.ppy.sh/community/forums/topics/19833 -->
 
-### December
+### Desember
 
-- **2009-12-27:** The [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) launched.
-    - MAT members could mark beatmaps with [proto-bubbles](/wiki/Modding/Proto-bubble) which indicated quality beatmaps that BAT members should review. <!-- https://osu.ppy.sh/community/forums/topics/21836 -->
+- **2009-12-27:** [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) resmi dibentuk.
+    - Anggota-anggota MAT memiliki kuasa untuk beatmap dengan ikon [proto-bubble](/wiki/Modding/Proto-bubble) kepada beatmap-beatmap yang dianggap layak untuk dicek oleh BAT. <!-- https://osu.ppy.sh/community/forums/topics/21836 -->
     - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) was the group's first [MAT Leader](/wiki/Modding/MAT_Leaders). <!-- https://osu.ppy.sh/community/forums/topics/21854 -->
     - MAT members had a purple title on the forums.
     - The MAT was initially titled the "intermediate modding team" consisting of established modders who weren't ready to enter the BAT yet.
