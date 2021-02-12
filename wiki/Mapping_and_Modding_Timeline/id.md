@@ -454,7 +454,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 ### April
 
-- **2020-04-11:** Mappers' Report <!-- TODO: stub --> yang diorganisir oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) mulai dipublikasikan secara rutin setiap bulannya untuk me informasi-informasi was created to summarize mapping community events via front page news posts.
+- **2020-04-11:** Mappers' Report <!-- TODO: stub --> yang diprakarsai oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) mulai dipublikasikan secara rutin pada laman berita osu! setiap bulannya untuk merangkum berbagai informasi seputar dunia mapping.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
