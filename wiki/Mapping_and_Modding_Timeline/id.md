@@ -114,7 +114,7 @@ Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
 - **2011-10-08:** [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) opened for public discussion on [Ranking Criteria](/wiki/Ranking_Criteria) proposals.
     - These discussions were previously held by BAT members in a private subforum. <!-- date is not exact. the earliest thread in the subforum was posted on 2011-10-08 -->
 
-Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011. **1368 beatmaps** were ranked in 2011. Tahun ini merupakan pertama kalinya jumlah beatmap Ranked per tahunnya mengalami penurunan setelah 4 tahun pertumbuhan.
+Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011. Tahun ini merupakan pertama kalinya jumlah beatmap Ranked per tahunnya mengalami penurunan setelah pada 4 tahun sebelumnya angka ini selalu bertambah dari tahun ke tahun.
 
 ## 2012
 
@@ -127,7 +127,7 @@ Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011.
 - **2012-08-21:** [Approved](/wiki/Beatmap/Category#approved) beatmaps began rewarding Ranked score.
     - Ranked score was no longer used as the primary scoring metric, so Approval beatmaps could no longer be abused for player rankings.<!-- changelog -->
 
-**1460 beatmaps** were ranked in 2012.
+Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 ## 2013
 
@@ -165,7 +165,7 @@ Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011.
 - **2013-12-22:** The [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) cycled its regional leaders to avoid burnout.
     - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) represented North America, ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) represented Asia, and ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) represented Europe. <!-- https://osu.ppy.sh/community/forums/topics/172289 -->
 
-**1327 beatmaps** were ranked in 2013.
+Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 ## 2014
 
@@ -198,7 +198,7 @@ Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011.
     - Users with 15 or more votes and automatically calculated modding activity would be promoted to the group intermittently.
     - This was handled on Trello in the past. <!-- https://osu.ppy.sh/community/forums/topics/258555 -->
 
-**1381 beatmaps** were ranked in 2014.
+Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
 ## 2015
 
@@ -235,7 +235,7 @@ Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011.
 - **2015-12-27:** [BN tests](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) were implemented for BN applications.
     - These tests required users to answer a multiple choice form and mod a problem-filled beatmap. <!-- date used is when the "BN Examinations - Answer Keys" document was created. first test was published a month or so later -->
 
-**1934 beatmaps** were ranked in 2015. This was the first year of growth after 4 years of consecutive stagnation.
+Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015. Jumlah beatmap Ranked pada tahun ini meningkat pesat setelah pada 4 tahun sebelumnya angka ini cenderung stagnan dari tahun ke tahun.
 
 ## 2016
 
