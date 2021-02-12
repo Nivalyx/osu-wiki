@@ -106,13 +106,13 @@ Secara keseluruhan, terdapat **1864 beatmap** yang di-rank sepanjang tahun 2010.
 - **2011-03-09:** Anggota-anggota MAT diberikan kuasa untuk menyematkan ikon `bubble` pada beatmap yang dikhususkan untuk [Approval](/wiki/Beatmap/Category#approved).
     - Only one of an approved map's two bubbles could be placed by a MAT member.
     - This change was implemented because approved beatmaps were becoming more common. <!-- https://osu.ppy.sh/community/forums/topics/48108 -->
-- **2011-08-23:** "Beatmap Approval Team" was renamed to "Beatmap Appreciation Team".
+- **2011-08-23:** "Beatmap Approval Team" berganti nama menjadi "Beatmap Appreciation Team".
     - The purpose of the new name was to unite users involved in beatmap approval and users involved general moderation (essentially the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)) under the same name, which "Beatmap Approval Team" did not effectively represent.
 
-### October
+### Oktober
 
-- **2011-10-08:** [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) opened for public discussion on [Ranking Criteria](/wiki/Ranking_Criteria) proposals.
-    - These discussions were previously held by BAT members in a private subforum. <!-- date is not exact. the earliest thread in the subforum was posted on 2011-10-08 -->
+- **2011-10-08:** [Sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87) resmi dibuka kepada publik untuk berdiskusi seputar hal-hal yang berhubungan dengan [Ranking Criteria](/wiki/Ranking_Criteria).
+    - Diskusi-diskusi ini sebelumnya dibuka secara terbatas hanya kepada anggota-anggota BAT pada sub-forum yang bersifat rahasia. <!-- date is not exact. the earliest thread in the subforum was posted on 2011-10-08 -->
 
 Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011. Tahun ini merupakan tahun pertama dalam sejarah osu! di mana jumlah beatmap Ranked per tahunnya mengalami penurunan setelah pada 4 tahun sebelumnya angka ini selalu bertambah dari tahun ke tahun.
 
