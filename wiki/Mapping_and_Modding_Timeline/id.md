@@ -118,11 +118,11 @@ Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011.
 
 ## 2012
 
-### July
+### Juli
 
 - **2012-07-22:** Versi awal dari sistem [Performance Point](/wiki/Performance_Points) yang lebih dikenal dengan nama [ppv1](/wiki/Performance_Points/ppv1) resmi diperkenalkan untuk menggantikan sistem *ranked score*.
 
-### August
+### Agustus
 
 - **2012-08-21:** Skor yang diperoleh dari beatmap-beatmap [Approved](/wiki/Beatmap/Category#approved) mulai dihitung ke dalam nilai Skor Ranked masing-masing pengguna.
     - Mengingat peringkat pengguna tidak lagi ditentukan berdasarkan nilai Skor Ranked masing-masing, beatmap-beatmap Approved yang memiliki skor maksimal di atas 20 juta tidak lagi dapat disalahgunakan untuk menuai peringkat. <!-- changelog -->
@@ -131,7 +131,7 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 ## 2013
 
-### March
+### Maret
 
 - **2013-03-20:** The BAT was split into the BAT and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*).
     - Many members of the BAT were on board solely for moderation duties, so this clarified the roles of modding and moderating members.
@@ -144,21 +144,21 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
     - This change was made because the line between MAT and BAT had become too thin. A MAT member was effectively a BAT member who couldn't rank beatmaps, which did not align with the initial goals of the MAT as a new user group.
     - The BAT was also fairly inactive at this time, so a large influx of new members solved this problem. <!-- https://osu.ppy.sh/community/forums/topics/129165 + https://osu.ppy.sh/community/forums/topics/129176 -->
 
-### May
+### Mei
 
 - **2013-05-15:** The [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) was formed. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
     - The role of BAT manager was split between 3 users from different regions in an attempt to promote equal input among mapping subgroups. ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) represented North America, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) represented Asia, and ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) represented Europe.
     - Prior to this, Asian subgroups were often neglected because they communicated mainly outside of osu!'s IRC/forums.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
     - When the 3 members did not agree on a decision, it needed to be decided by a higher-up (most often ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)).
 
-### August
+### Agustus
 
 - **2013-08-01:** Beatmap unranking policy was implemented, allowing BAT members to unrank a beatmap within 1 week of ranking. <!-- https://osu.ppy.sh/community/forums/topics/146533 -->
     - This change was a test for the later implemented [Qualified](/wiki/Beatmap/Category#qualified) category.
 - **2013-08-02:** The first osu!taiko BAT were added, signifying a separation of game mode permissions in the group. <!-- https://osu.ppy.sh/community/forums/topics/83704?start=2474091 -->
     - Any BAT could theoretically nominate beatmaps of any mode before this time, however the growth of different game modes made the distinction necessary.
 
-### December
+### Desember
 
 - **2013-12-12:** Beatmaps with two nominations began being promoted to the [Qualified](/wiki/Beatmap/Category#qualified) category instead of Ranked.
     - Qualified beatmaps could be disqualified within 1 week, replacing the option of unranking a beatmap within 1 week. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
@@ -169,7 +169,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 ## 2014
 
-### February
+### Februari
 
 - **2014-02-10:** To improve organization, mapping and modding system internal management shifted from the forums to Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
 - **2014-02-18:** [Approved](/wiki/Beatmap/Category#approved) beatmap category was retired.
@@ -177,7 +177,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 <!-- sometime around here p3n becomes the equivalent of BATmanager but there is no documentation. probably on Trello -->
 
-### August
+### Agustus
 
 - **2014-08-21:** The [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) splits off from the current BAT.
     - The BAT (often called newBAT at this time) nominated beatmaps for rank.
@@ -186,7 +186,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
     - The split was implemented as part of a manual trial for [modding v2](/wiki/Beatmap_Discussion) attempting to automate BAT promotion and retirement. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
     - Despite attempts at framing disqualifications as a positive change for mapping quality, the community viewed them negatively. This was especially apparent in cases of controversial beatmaps like the [disqualification on *Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479)
 
-### October
+### Oktober
 
 - **2014-10-15:** The [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115) replaced Trello.
     - Public accessibility to the BAT increased, which was the goal of modding v2.
@@ -202,7 +202,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
 ## 2015
 
-### February
+### Februari
 
 - **2015-02-01:** Red usernames were removed from BAT and BAT was renamed to [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*).
     - These changes intended to make the BN more closely associated with the average user, which was the goal of moddingv2's community-driven design.
@@ -212,7 +212,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
     - This was done to promote moddingv2's community-driven design and to avoid the nepotism that was involved in public voting.
     - The only criteria was an applicant's automatically calculated modding activity.
 
-### June
+### Juni
 
 - **2015-06-04:** Realtime Beatmap Nominator Ranking was introduced to automatically assess BN nomination quality/activity. <!-- https://osu.ppy.sh/community/forums/topics/334994 -->
     - The system was dropped soon after its announcement due to implementation concerns by osu!'s developers. <!-- ephemeral is source(?) -->
@@ -222,7 +222,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
     - The community referred to the anonymous QAT account as the "QAT bot".
     - This change encouraged the growing opinion that the QAT was trying to hide from the consequences of their actions, hurting the reputation of disqualifications and the QAT in general.<!-- https://osu.ppy.sh/forum/search.php?author_id=6616586&sr=posts -->
 
-### August
+### Agustus
 
 - **2015-08-25:** Qualified beatmaps no longer rewarded players with [Performance Points](/wiki/Performance_Points).
     - This was done in response to widespread complaints about Performance Points losses on qualified beatmaps.
@@ -230,7 +230,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 - **2015-08-26:** Anonymous QAT disqualifications were discontinued.
     - With less tension between players and the QAT, anonymization was deemed unnecessary. <!-- https://osu.ppy.sh/forum/search.php?author_id=6616586&sr=posts -->
 
-### December
+### Desember
 
 - **2015-12-27:** [BN tests](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) were implemented for BN applications.
     - These tests required users to answer a multiple choice form and mod a problem-filled beatmap. <!-- date used is when the "BN Examinations - Answer Keys" document was created. first test was published a month or so later -->
@@ -239,7 +239,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 ## 2016
 
-### February
+### Februari
 
 - **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_Criteria/Ranking_Criteria_Council) was created to reform the [Ranking Criteria](/wiki/Ranking_Criteria).
     - Public proposals on the Ranking Criteria subforum were no longer considered.
@@ -257,7 +257,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - This change was made in response to the consistently negative view of disqualifications by the QAT. The QAT mostly distanced itself from Quality Assurance related tasks at this point.
     - Metadata checks were still done proactively by the QAT, headed by ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463). <!-- https://osu.ppy.sh/community/forums/topics/447417 + https://osu.ppy.sh/community/forums/topics/447428-->
 
-### July
+### Juli
 
 - **2016-07-20:** The [United Beat-Knights of Ranking Criteria](/wiki/Ranking_Criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) was created to replace the Ranking Criteria Council.
     - The UBKRC's goals were the same as the Ranking Criteria Council, but it was more widely accepted because it was open to community influence.
@@ -265,7 +265,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - The group was managed by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
     - The UBKRC's name was chosen because it was ridiculously stupid. Its aim was to appear less authoritative than the Ranking Criteria Council. <!-- https://osu.ppy.sh/community/forums/topics/480331 -->
 
-### August
+### Agustus
 
 - **2016-08-05:** The [Quality Assurance Team blog](/wiki/Quality_Assurance_Team_Blog) was created.
     - The QAT was receiving criticism about being too closed-off from the rest of the mapping community, so this blog was created to increase transparency for QAT decision making and community activity. <!-- https://osu.ppy.sh/community/forums/topics/578437 -->
@@ -278,7 +278,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - Its new structure was centered around [Discord](https://discord.com/new) communication and seasonal cycles.
     - The program was led by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
-### October
+### Oktober
 
 - **2016-10-17:** [Loved](/wiki/Beatmap/Category#loved) beatmap category was created.
     - The category provided leaderboards for popular maps that could not be ranked for various reasons.
@@ -310,7 +310,7 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
     - Contrary to its goals, this system lowered motivation for all tier 1 nominators and overworked the few motivated tier 2 nominators. Mappers had fewer BN resources and the total maps ranked during the tiers period diminished.
     - No Beatmap Nominators were added to the 2nd tier for the 5 months this system was active, which hugely bottlenecked ranking speeds. <!-- https://osu.ppy.sh/community/forums/topics/578413 -->
 
-### May
+### Mei
 
 - **2017-05-22:** Beatmap Nominator Discord server was created for BN subdivisions.
     - Subdivisions were designed as focus groups of randomly selected nominators from both tiers led by a member of the QAT.
@@ -318,7 +318,7 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 - **2017-05-23:** Discord bot [Aiess](/wiki/Projects#miscellaneous) was created by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
     - This provided a feed of mapping related events in osu! Discord servers, starting with nomination and disqualification feeds.
 
-### June
+### Juni
 
 - **2017-06-02:** Marathon beatmaps began to require 2 nominations instead of 3.
     - They previously required 3 nominations because it was expected that marathons had more content to check than a normal mapset, but this was no longer true.
@@ -333,12 +333,12 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
     - Tenure based Beatmap Nominator and Quality Assurance Team profile badges were created. This and other Beatmap Nominator rewards were planned to re-motivate the currently dissatisfied team. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
     - With less authoritative leadership and more users capable of nominating beatmaps after these changes, mapping standards stopped being strictly controlled. Controversial beatmaps that would have likely not been ranked under the previous system (e.g. *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)*) reached ranked status.
 
-### October
+### Oktober
 
 - **2017-10-01:** [BN tests](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) were replaced with the QAT reviewing each BN applicant's anonymized mods.
     - This change was made because BN test cheating had become unrealistic to avoid. <!-- date not exact, based on discord logs -->
 
-### December
+### Desember
 
 - **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) stepped down from involvement in the osu!team, including his heavy participation in the QAT. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
 
@@ -346,11 +346,11 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ## 2018
 
-### February
+### Februari
 
 - **2018-02-08:** The [Mappers' Guild](/wiki/Mappers_Guild) was opened to public applications for widespread [Featured Artist](/wiki/Featured_Artists) beatmap creation. <!-- https://osu.ppy.sh/community/forums/topics/700654 -->
 
-### March
+### Maret
 
 - **2018-03-01:** QAT separated its tasks into branches: BN evaluation, disqualifications, metadata, spotlights, blog, Ranking Criteria, and general leadership.
     - QAT members could be involved in multiple branches.
@@ -368,25 +368,25 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 - **2018-04-22:** The QAT held its first meeting on the osu!dev server in an attempt to increase transparency of QAT affairs and migrate internal discussions away from the BN Discord server.
     - Despite this attempt, most internal discussion was still handled on the BN Discord server. <!-- https://osu.ppy.sh/community/forums/topics/735472 -->
 
-### May
+### Mei
 
 - **2018-05-22:** ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) became a [QAT leader](/wiki/Modding/QAT_Leaders) after ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) stepped down.
     - Like his predecessor, he continued working with the osu!team to manage the mapping/modding scenes. <!-- source is discord logs -->
 
-### June
+### Juni
 
 - **2018-06-21:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) initiative was created.
     - This was designed to ensure that all qualified beatmaps were reviewed by at least 2 BN or QAT members before rank.
     - The program was managed via Trello and automated by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) through Aiess.
     - This change was one of the primary reasons that the QAT was later renamed. <!-- https://osu.ppy.sh/community/forums/topics/764134 + https://trello.com/b/iEsda45d/quality-assurance-helpers -->
 
-### July
+### Juli
 
 - **2018-07-29:** New beatmap spread rules were implemented, completely reshaping how many difficulties were created in ranked mapsets going forward.
     - Prior to this change, any map with a drain time shorter than 5 minutes required a full difficulty spread. After the change, difficulty spread requirements were more lenient for longer beatmaps below 5 minutes of drain time.
     - *For more details on this change, read its [forum thread](https://osu.ppy.sh/community/forums/topics/726474).*<!-- https://osu.ppy.sh/community/forums/topics/726474 -->
 
-### December
+### Desember
 
 - **2018-12-12:** The osu!team took a [negative stance on beatmap commissions](https://osu.ppy.sh/community/forums/topics/840838).
     - The team acknowledged that commissions will happen, but pledged to take no action unless members of the BN or QAT were involved.
@@ -403,12 +403,12 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 ## 2019
 
-### January
+### Januari
 
 - **2019-01-29:** A proposal for QAT reform was created as a conglomeration of other users' proposals.
     - The [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) was introduced through this proposal, and was implemented later this year. <!-- https://osu.ppy.sh/community/forums/topics/862002 -->
 
-### March
+### Maret
 
 - **2019-03-01:** The [Mappers' Guild](/wiki/Mappers_Guild) transitioned from application-based entry to automatic entry for anyone with 3 ranked maps.
     - [Featured Artist](/wiki/Featured_Artists) beatmaps became more frequently created and ranked.
@@ -417,7 +417,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
     - This rule was a major complaint from mappers and Beatmap Nominators because it felt like it was unnecessarily wasting everyone's time. If an issue was found after the first nomination, the second nominator would often avoid pointing it out to avoid an extra 24 hour wait.
     - Along with this change, Beatmap Nominators could veto qualified beatmaps. The rule originally existed because Beatmap Nominators needed 24 hours to potentially apply vetoes to maps with one nomination.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
 
-### May
+### Mei
 
 - **2019-05-05:** The BN/QAT restructure was finalized.
     - The Quality Assurance Team was renamed to the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
@@ -427,14 +427,14 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
         - Reports for inappropriate beatmaps and BN/NAT misconduct were shifted from a Google Form to the BN website.
         - Statistics and evaluations for BN modding/nomination activity and proficiency shifted from painfully inefficient Google Spreadsheets to the BN website, hugely increasing productivity for Beatmap Nominator management. <!-- https://osu.ppy.sh/home/news/2019-05-05-bn-and-qat-restructure -->
 
-### August
+### Agustus
 
 - **2019-08-05:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) released the [Mapset Verifier](/wiki/Projects#modding) tool, automating a significant portion of beatmap checking processes for Beatmap Nominators.
 - **2019-08-06:** Beatmap Nominators became able to participate in BN application evaluations.
     - BN input is visible to the NAT when trying to reach a consensus, though they are rarely used to sway a vote.
     - The NAT often use BN input to help determine future NAT members. <!-- https://github.com/pishifat/qat/commit/a8245a4c6fefcfe9368ffc1eee7e13ad6f8bb6af -->
 
-### October
+### Oktober
 
 - **2019-10-22:** ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) became a NAT leader after ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) stepped down.
     - Because NAT leaders had often been passive towards negative decision making, Ascendance took an active controlling role and delivered bad news regarding NAT removals. <!-- source is discord logs -->
@@ -443,7 +443,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 ## 2020
 
-### February
+### Februari
 
 - **2020-02-07:** The first Elite Nominator profile badges were awarded to recognize continued exceptional performance from members of the BN team.
     - These were originally planned in the QAT Upheaval two years prior. <!-- https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019 -->
@@ -454,7 +454,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 ### April
 
-- **2020-04-11:** The Mappers' Report <!-- TODO: stub --> led by ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) was created to summarize mapping community events via front page news posts.
+- **2020-04-11:** Mappers' Report <!-- TODO: stub --> yang diorganisir oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) mulai dipublikasikan secara rutin setiap bulannya untuk me informasi-informasi was created to summarize mapping community events via front page news posts.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
