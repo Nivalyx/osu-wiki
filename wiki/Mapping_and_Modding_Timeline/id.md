@@ -85,9 +85,9 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 
 ### Oktober
 
-- **2010-10-03:** Anggota-anggota MAT diberikan kuasa untuk menyematkan ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) pada beatmap..
-    - Proto-bubbles were ignored by most BAT members, so the MAT had no purpose without this change.
-    - This gave MAT considerably more influence in the ranking process.<!-- https://osu.ppy.sh/community/forums/topics/38403 -->
+- **2010-10-03:** Anggota-anggota MAT diberikan kuasa untuk menyematkan ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) pada beatmap.
+    - Perubahan ini utamanya dipicu oleh fakta di lapangan yang mengindikasikan bahwa proto-bubble tidak terlalu dianggap penting oleh anggota-anggota BAT.
+    - Secara tidak langsung, anggota MAT kini memiliki peran dan tanggung jawab yang lebih besar dalam prosedur ranking beatmap. <!-- https://osu.ppy.sh/community/forums/topics/38403 -->
 - **2011-10-10:** MAT members were no longer allowed to nominate or vote on new additions to their team.
     - Having gained bubbling permissions, it was assumed that the MAT would vote for personal gain, so this was prevented before damage could be done.
     - The BAT gained full responsibility for MAT additions.<!-- https://osu.ppy.sh/community/forums/topics/38806 -->
