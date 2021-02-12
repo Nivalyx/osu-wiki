@@ -63,7 +63,7 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 
 - **2009-12-27:** [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) resmi dibentuk.
     - Anggota-anggota MAT memiliki kuasa untuk menempatkan beatmap pada status [proto-bubble](/wiki/Modding/Proto-bubble) yang menandakan bahwa beatmap tersebut layak untuk diproritaskan ke depannya. <!-- https://osu.ppy.sh/community/forums/topics/21836 -->
-    - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) merupakan [MAT Leader](/wiki/Modding/MAT_Leaders) pertama. <!-- https://osu.ppy.sh/community/forums/topics/21854 -->
+    - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) merupakan [MAT Leader](/wiki/Modding/MAT_Leaders) pada awal pembentukan MAT. <!-- https://osu.ppy.sh/community/forums/topics/21854 -->
     - Anggota-anggota MAT ditandai dengan nama pengguna yang berwarna ungu pada forum. 
     - Fungsi utama MAT adalah sebagai suatu "regu penengah" yang berlaku sebagai penghubung antara BAT dan komunitas mapping yang ada secara luas.
     - Kehadiran MAT di kala itu diharapkan dapat menyelesaikan berbagai masalah yang telah cukup banyak dikeluhkan seperti beban kerja BAT yang terlalu berat, semakin banyaknya beatmap yang luput dari pengecekan BAT, serta semakin menurunnya kualitas beatmap yang ada secara keseluruhan. Meskipun demikian, dalam kenyataannya kehadiran MAT tidak serta-merta menyelesaikan perkara-perkara yang ada tersebut secara belaka. <!-- https://osu.ppy.sh/community/forums/topics/21682 -->
