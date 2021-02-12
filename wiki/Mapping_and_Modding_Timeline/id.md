@@ -12,7 +12,7 @@ Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berk
 
 - **2007-10-21:** [Ranking Criteria](/wiki/Ranking_Criteria) resmi diberlakukan. <!-- https://osu.ppy.sh/community/forums/topics/439 -->
 - **2007-10-29:**: Forum thread icons were standardized for the ranking process.
-    - A `star` (![star icon](/wiki/shared/icon/star.gif)) icon marked good maps that need more work.
+    - Ikon `star` (![star icon](/wiki/shared/icon/star.gif)) digunakan untuk menandai beatmap-beatmap yang dirasa masih perlu untuk dibenahi.
     - A `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icon marked beatmaps considered for ranking.
     - A `heart` (![heart icon](/wiki/shared/icon/heart.gif)) icon marked ranked beatmaps. These could only be placed after a beatmap was bubbled, ensuring two nominations per beatmap.
     - A `nuke` (![nuke icon](/wiki/shared/icon/nuke.gif)) icon marked beatmaps that could not be ranked under any circumstances. <!-- https://osu.ppy.sh/forum/t/619 + missing info on flame/nuke -->
