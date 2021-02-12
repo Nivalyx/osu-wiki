@@ -52,7 +52,7 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 ### Maret
 
 - **2009-03-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) meluncurkan [Delegation of the Beatmap Approval Deciding Authorities; Submission Squad](/wiki/Modding/Delegation_of_the_Beatmap_Approval_Deciding_Authorities_Submission_Squad) (*BADASS*). <!-- https://osu.ppy.sh/community/forums/topics/10638 -->
-    - Grup ini dibentuk sebagai suatu upaya untuk membuat proses pelantikan BAT (yang sebelumnya hanya melibatkan pengguna-pengguna tertentu yang memiliki akses ke kanal [IRC](/wiki/Internet_Relay_Chat) `#bat`) menjadi lebih transparan dan terbuka bagi khalayak umum.
+    - Grup ini dibentuk sebagai suatu upaya untuk membuat proses pelantikan BAT (yang sebelumnya terbatas hanya pada pengguna-pengguna tertentu yang memiliki akses ke kanal [IRC](/wiki/Internet_Relay_Chat) `#bat`) menjadi lebih transparan dan terbuka bagi khalayak umum.
 
 ### November
 
