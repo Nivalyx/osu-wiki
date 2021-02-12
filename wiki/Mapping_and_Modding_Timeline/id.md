@@ -31,7 +31,7 @@ Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 ### Juli
 
 - **2008-07-31:** Kategori [Approved](/wiki/Beatmap/Category#approved) resmi diperkenalkan untuk memfasilitasi beatmap-beatmap yang secara teknis tidak memenuhi Ranking Criteria namun tetap dirasa layak untuk memiliki *leaderboard*-nya tersendiri.
-    - Kategori ini pada umumnya berisikan beatmap-beatmap yang melebihi batas durasi (5 menit) dan/atau total skor (20 juta) yang diperbolehkan oleh Ranking Criteria di kala itu. <!-- https://osu.ppy.sh/community/forums/topics/4936 -->
+    - Kategori ini pada umumnya berisikan beatmap-beatmap yang melebihi batas durasi (5 menit) dan/atau skor maksimal (20 juta) yang diperbolehkan oleh Ranking Criteria di kala itu. <!-- https://osu.ppy.sh/community/forums/topics/4936 -->
     - Ikon`flame` (![flame icon](/wiki/shared/icon/flame.gif)) mulai digunakan untuk menandai beatmap-beatmap yang telah mendapatkan 3 nominasi dan ditempatkan dalam kategori Approved.
 
 ### Desember
@@ -47,7 +47,7 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 ### Februari
 
 - **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) resmi dititahkan sebagai [BAT manager](/wiki/Modding/Bat_Managers) yang pertama. <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
-    - Ia diberikan tanggung jawab utama untuk mengorganisir alur kerja pelantikan BAT-BAT baru serta mengawasi kecakapan dan tingkat aktivitas anggota-anggota BAT yang bertugas secara umum.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
+    - Ia diberikan tanggung jawab utama untuk mengorganisir alur pelantikan BAT-BAT baru serta mengawasi kecakapan dan tingkat aktivitas anggota-anggota BAT yang bertugas secara umum.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
 
 ### Maret
 
@@ -124,8 +124,8 @@ Secara keseluruhan, terdapat **1368 beatmap** yang di-rank sepanjang tahun 2011.
 
 ### August
 
-- **2012-08-21:** Skor yang diperoleh dari beatmap-beatmap [Approved](/wiki/Beatmap/Category#approved) mulai dihitung ke dalam jumlah Skor Ranked masing-masing pengguna.
-    - Mengingat peringkat pengguna tidak lagi ditentukan berdasarkan jumlah Skor Ranked masing-masing, beatmap-beatmap Approved yang memiliki total skor di atas 20 juta tidak lagi dapat disalahgunakan untuk menuai peringkat. <!-- changelog -->
+- **2012-08-21:** Skor yang diperoleh dari beatmap-beatmap [Approved](/wiki/Beatmap/Category#approved) mulai dihitung ke dalam nilai Skor Ranked masing-masing pengguna.
+    - Mengingat peringkat pengguna tidak lagi ditentukan berdasarkan nilai Skor Ranked masing-masing, beatmap-beatmap Approved yang memiliki skor maksimal di atas 20 juta tidak lagi dapat disalahgunakan untuk menuai peringkat. <!-- changelog -->
 
 Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
