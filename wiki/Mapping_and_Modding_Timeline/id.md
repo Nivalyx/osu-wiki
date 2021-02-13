@@ -160,10 +160,10 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 ### Desember
 
-- **2013-12-12:** Beatmaps with two nominations began being promoted to the [Qualified](/wiki/Beatmap/Category#qualified) category instead of Ranked.
+- **2013-12-12:** Kategori [Qualified](/wiki/Beatmap/Category#qualified) resmi diperkenalkan. Beatmap-beatmap yang telah memperoleh dua nominasi akan terlebih dahulu ditempatkan di kategori Qualified selama satu minggu sebelum dapat sepenuhnya berstatus Ranked.
     - Qualified beatmaps could be disqualified within 1 week, replacing the option of unranking a beatmap within 1 week. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
-- **2013-12-22:** The [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) cycled its regional leaders to avoid burnout.
-    - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) represented North America, ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) represented Asia, and ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) represented Europe. <!-- https://osu.ppy.sh/community/forums/topics/172289 -->
+- **2013-12-22:** Ketiga anggota [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) untuk memberikan angin segar.
+    - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) ditunjuk sebagai perwakilan Amerika Utara, ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) ditunjuk sebagai perwakilan Asia, dan ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) ditunjuk sebagai perwakilan Eropa yang baru. <!-- https://osu.ppy.sh/community/forums/topics/172289 -->
 
 Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
@@ -274,7 +274,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 ### September
 
-- **2016-09-30:** The [Community Mentorship Program](/wiki/Community_Mentorship_Program) re-launched after a long hiatus.
+- **2016-09-30:** Program [Community Mentorship](/wiki/Community_Mentorship_Program) resmi diluncurkan ulang.
     - Its new structure was centered around [Discord](https://discord.com/new) communication and seasonal cycles.
     - The program was led by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
