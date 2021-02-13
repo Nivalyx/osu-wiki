@@ -147,8 +147,8 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 ### Mei
 
 - **2013-05-15:** [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) resmi dibentuk. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
-    - Peran BAT manager yang sebelumnya hanya dijabat oleh satu orang kini dijabat oleh 3 orang secara paralel yang mewakili masing-masing wilayah geografis. ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika Utara, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) mewakili Asia, dan ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa.
-    - Prior to this, Asian subgroups were often neglected because they communicated mainly outside of osu!'s IRC/forums.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
+    - Peran BAT manager yang sebelumnya hanya dijabat oleh satu orang kini dipangku oleh tiga orang secara paralel yang masing-masing bertindak selaku perwakilan dari belahan dunia yang berbeda. ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika Utara, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) mewakili Asia, dan ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa.
+    - Perubahan ini diberlakukan agar aspirasi para mapper di seluruh belahan dunia dapat lebih terdengar secara merata. Sebelumnya, mapper-mapper yang berasal dari Asia cenderung Prior to this, Asian subgroups were often neglected because they communicated mainly outside of osu!'s IRC/forums.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
     - When the 3 members did not agree on a decision, it needed to be decided by a higher-up (most often ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)).
 
 ### Agustus
