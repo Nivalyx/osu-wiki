@@ -156,7 +156,7 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 - **2013-08-01:** Proposal yang memungkinkan BAT untuk meng-unrank beatmap resmi disahkan. Anggota-anggota BAT diberikan kuasa untuk meng-unrank beatmap dalam rentang waktu 1 minggu setelah beatmap yang bersangkutan di-rank.  <!-- https://osu.ppy.sh/community/forums/topics/146533 -->
     - Proposal ini merupakan cikal bakal kategori [Qualified](/wiki/Beatmap/Category#qualified) yang ada saat ini.
 - **2013-08-02:** osu! resmi melantik anggota-anggota BAT khusus mode osu!taiko untuk pertama kalinya. <!-- https://osu.ppy.sh/community/forums/topics/83704?start=2474091 -->
-    - Sebelumnya, anggota-anggota BAT dapat menominasikan seluruh beatmap yang ada terlepas dari mode permainan beatmap yang bersangkutan. Any BAT could theoretically nominate beatmaps of any mode before this time, however the growth of different game modes made the distinction necessary.
+    - Sebelumnya, anggota-anggota BAT dapat menominasikan seluruh beatmap yang ada terlepas dari mode permainan beatmap yang bersangkutan. Namun, dengan semakin banyaknya beatmap-beatmap yang dibuat spesifik untuk suatu mode permainan, urgensi untuk memiliki BAT yang khusus memoderasi suatu mode permainan terus menguat seiring waktu.
 
 ### Desember
 
