@@ -190,7 +190,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 - **2014-10-15:** [Sub-forum Beatmap Management](https://osu.ppy.sh/community/forums/115) dibuat untuk menggantikan fungsi situs Trello.
     - Sub-forum Beatmap Management utamanya menampung berbagai topik diskusi yang mencakup seputar beatmap-beatmap yang telah dinominasikan/telah berstatus Qualified serta berbagai pengumuman yang terkait dengan sistem mapping/modding yang berlaku pada saat itu.
-    - Keberadaan sub-forum Beatmap Management secara tidak langsung meningkatkan pemahaman publik terhadap sistem BAT dan modding v2 secara umum. <!-- https://osu.ppy.sh/community/forums/topics/258489 -->
+    - Keberadaan sub-forum Beatmap Management secara tidak langsung meningkatkan pemahaman publik terhadap sistem BAT dan moddingv2 secara umum. <!-- https://osu.ppy.sh/community/forums/topics/258489 -->
 
 ### November
 
@@ -204,13 +204,13 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
 ### Februari
 
-- **2015-02-01:** BAT resmi berganti nama menjadi [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*). Anggota-anggota BAT tidak lagi memiliki warna pengguna khusus pada forum osu!.
-    - These changes intended to make the BN more closely associated with the average user, which was the goal of moddingv2's community-driven design.
-    - The team was initially renamed to Beatmap Appreciators, however it was quickly renamed to Beatmap Nominators by community suggestion.
-    - Beatmap Nominators generally disagreed with this change and heavily argued against it in [this forum thread](https://osu.ppy.sh/community/forums/topics/292443).<!-- https://osu.ppy.sh/community/forums/topics/292443 -->
-- **2015-02-24:** New BN applications replace BN voting.
-    - This was done to promote moddingv2's community-driven design and to avoid the nepotism that was involved in public voting.
-    - The only criteria was an applicant's automatically calculated modding activity.
+- **2015-02-01:** BAT resmi berganti nama menjadi [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*). Anggota-anggotanya tidak lagi memiliki warna pengguna khusus pada forum osu!.
+    - Perubahan ini diberlakukan untuk membuat BN terkesan lebih merakyat dan menyatu dengan anggota-anggota komunitas lainnya.
+    - Tim ini pada awalnya bernama Beatmap Appreciator, namun setelah melalui berbagai pertimbangan nama tim ini diubah menjadi Beatmap Nominator.
+    - Sebagian besar anggota Beatmap Nominator tidak setuju dengan adanya perubahan ini, sebagaimana yang dapat dilihat pada [utas forum berikut](https://osu.ppy.sh/community/forums/topics/292443).<!-- https://osu.ppy.sh/community/forums/topics/292443 -->
+- **2015-02-24:** BN mulai membuka pendaftaran anggota-anggota baru melalui sistem lamaran terbuka (*BN application*).
+    - Sistem ini dibentuk untuk mendorong partisipasi komunitas secara lebih luas dan mencegah praktek nepotisme sebagaimana yang terdapat pada pemungutan suara terdahulu.
+    - Pendaftaran BN terbuka sepanjang waktu bagi yang para pengguna yang memiliki aktivitas modding yang memadai.
 
 ### Juni
 
