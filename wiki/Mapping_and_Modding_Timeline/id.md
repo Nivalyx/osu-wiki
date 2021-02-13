@@ -141,8 +141,8 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 - **2013-04-23:** MAT sepenuhnya dibubarkan.
     - Seluruh anggota MAT diangkat menjadi BAT.
-    - Perubahan ini diberlakukan karena peran MAT dan BAT yang semakin menyatu antar satu sama lain. Walaupun dalam teori MAT ditujukan sebagai penengah antara BAT dan komunitas mapping, dalam prakteknya pada titik ini MAT telah menyeru menjadi BAT yang tidak memiliki kuasa untuk dapat me-rank beatmap secara langsung.
-    - The BAT was also fairly inactive at this time, so a large influx of new members solved this problem. <!-- https://osu.ppy.sh/community/forums/topics/129165 + https://osu.ppy.sh/community/forums/topics/129176 -->
+    - Perubahan ini diberlakukan karena peran MAT dan BAT yang semakin menyatu antar satu sama lain. Walaupun dalam teori MAT ditujukan sebagai penengah antara BAT dan komunitas mapping yang ada, dalam prakteknya pada titik ini MAT telah menyeru menjadi "BAT kedua" yang dalam berbagai hal serupa dengan BAT namun tanpa kuasa untuk dapat me-rank beatmap secara langsung.
+    - Lebih dari itu, terdapat banyak anggota BAT di kala itu sedang tidak aktif. <!-- https://osu.ppy.sh/community/forums/topics/129165 + https://osu.ppy.sh/community/forums/topics/129176 -->
 
 ### Mei
 
