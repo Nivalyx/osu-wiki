@@ -161,8 +161,8 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 ### Desember
 
 - **2013-12-12:** Kategori [Qualified](/wiki/Beatmap/Category#qualified) resmi diperkenalkan. Beatmap yang telah memperoleh dua nominasi akan terlebih dahulu ditempatkan di kategori Qualified selama satu minggu sebelum dapat sepenuhnya berstatus Ranked.
-    - Beatmap yang berada pada kategori Qualified dapat sewaktu-waktu didiskualifikasi apabila ditemukan suatu masalah pada beatmap yang bersangkutan. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
-- **2013-12-22:** osu! menunjuk tiga orang anggota [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) yang baru untuk memberikan angin segar di dalam lingkungan internal BAT.
+    - Beatmap yang berada pada kategori Qualified dapat sewaktu-waktu didiskualifikasi apabila terdapat suatu masalah yang ditemukan pada beatmap yang bersangkutan. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
+- **2013-12-22:** Jabatan [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) dipindahtangankan ke tiga nama baru demi memberikan angin segar bagi anggota-anggota BAT yang bertugas.
     - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) ditunjuk sebagai perwakilan Amerika Utara, ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) ditunjuk sebagai perwakilan Asia, dan ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) ditunjuk sebagai perwakilan Eropa yang baru. <!-- https://osu.ppy.sh/community/forums/topics/172289 -->
 
 Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
@@ -171,7 +171,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 ### Februari
 
-- **2014-02-10:** To improve organization, mapping and modding system internal management shifted from the forums to Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
+- **2014-02-10:** Untuk meningkatkan efisiensi dan produktivitas, sistem pengelolaan mapping dan modding dipindahkan dari forum osu! ke situs Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
 - **2014-02-18:** Kategori [Approved](/wiki/Beatmap/Category#approved) sepenuhnya diberhentikan.
     - Marathon beatmaps were promoted to Ranked with 3 BAT nominations (2 `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icons + 1 `flame` (![flame icon](/wiki/shared/icon/flame.gif)) icon). <!-- date is not accurate. this is date of last approved map's approval -->
 
