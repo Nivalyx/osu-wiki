@@ -147,9 +147,9 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 ### Mei
 
 - **2013-05-15:** [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) resmi dibentuk. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
-    - Peran BAT manager yang sebelumnya hanya dijabat oleh satu orang kini dipangku oleh tiga orang secara paralel yang masing-masing bertindak selaku perwakilan dari belahan dunia yang berbeda. ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika Utara, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) mewakili Asia, dan ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa.
-    - Perubahan ini diberlakukan agar aspirasi para mapper di seluruh dunia dapat lebih terdengar secara merata. Sebelumnya, suara mapper-mapper yang berasal dari Asia cenderung terisolir karena mapper-mapper Asia cenderung lebih banyak berkomunikasi antar satu sama lain pada media-media sosial di luar osu!.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
-    - Di kala ketiga anggota Triumvir When the 3 members did not agree on a decision, it needed to be decided by a higher-up (most often ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335)).
+    - Peran BAT manager yang sebelumnya hanya dijabat oleh satu orang kini dipangku oleh tiga orang secara paralel. Setiap anggota Triumvir Conglomerate merupakan perwakilan dari wilayah geografisnya masing-masing, di mana ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika Utara, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) mewakili Asia, dan ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa.
+    - Perubahan ini diberlakukan agar aspirasi para mapper di seluruh dunia dapat lebih terdengar secara merata. Sebelumnya, suara mapper-mapper yang berasal dari Asia cenderung terisolir karena mapper-mapper Asia dalam prateknya lebih banyak berkomunikasi antar satu sama lain pada media-media sosial di luar osu!.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
+    - Di kala ketiga anggota Triumvir Conglomerate tidak dapat mengambil keputusan yang mutlak, ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) a.
 
 ### Agustus
 
