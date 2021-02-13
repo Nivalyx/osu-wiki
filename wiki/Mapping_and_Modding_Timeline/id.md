@@ -214,10 +214,10 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
 ### Juni
 
-- **2015-06-04:** Realtime Beatmap Nominator Ranking was introduced to automatically assess BN nomination quality/activity. <!-- https://osu.ppy.sh/community/forums/topics/334994 -->
-    - The system was dropped soon after its announcement due to implementation concerns by osu!'s developers. <!-- ephemeral is source(?) -->
-- **2015-06-06:** QAT disqualifications were anonymized on the forums.
-    - All posts were written under a user named "[Quality Assurance Team](https://osu.ppy.sh/users/6616586)".
+- **2015-06-04:** Papan peringkat Beatmap Nominator yang bersifat *real time* diluncurkan sebagai alat untuk memonitor kinerja dan tingkat aktivitas anggota-anggota BN secara otomatis. <!-- https://osu.ppy.sh/community/forums/topics/334994 -->
+    - Sistem ini hanya diberlakukan selama beberapa hari setelah para developer osu! merasa khawatir bahwa papan peringkat tersebut akan terlalu membebani infrastruktur yang ada secara keseluruhan. <!-- ephemeral is source(?) -->
+- **2015-06-06:** Diskualifikasi oleh anggota-anggota QAT pada forum osu! sepenuhnya dianonimkan.
+    - Seluruh post yang dibuat atas nama QAT ditulis oleh akun "[Quality Assurance Team](https://osu.ppy.sh/users/6616586)".
     - This was set up in response to frequent attacks on the QAT's disqualifications, often relating to removing high performance points scores (e.g. the [disqualification on *Dragonforce - The Last Journey Home*](https://osu.ppy.sh/community/forums/posts/4009572)) or relating to forced opinions (e.g. the [disqualification on *Reol - Asymmetry*](https://osu.ppy.sh/community/forums/posts/4206479)).
     - The community referred to the anonymous QAT account as the "QAT bot".
     - This change encouraged the growing opinion that the QAT was trying to hide from the consequences of their actions, hurting the reputation of disqualifications and the QAT in general.<!-- https://osu.ppy.sh/forum/search.php?author_id=6616586&sr=posts -->
