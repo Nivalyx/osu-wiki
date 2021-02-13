@@ -220,11 +220,11 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
     - Seluruh post yang dibuat atas nama QAT ditulis oleh akun "[Quality Assurance Team](https://osu.ppy.sh/users/6616586)".
     - Penganoniman ini merupakan dampak dari reaksi komunitas yang sangat negatif terhadap berbagai diskualifikasi yang terjadi, terutama pada kasus-kasus yang melibatkan hilangnya *performance point* dalam jumlah yang signifikan (cth: [diskualifikasi *Dragonforce - The Last Journey Home*](https://osu.ppy.sh/community/forums/posts/4009572)) atau pada kasus-kasus di mana QAT dinilai terlalu memaksakan opini mereka pada isu-isu yang bersifat subjektif (cth: [diskualifikasi *Reol - Asymmetry*](https://osu.ppy.sh/community/forums/posts/4206479)).
     - Akun QAT anonim ini dikenal juga dengan nama "QAT bot".
-    - Secara tidak langsung, penganoniman ini memperburuk citra QAT di mata publik karena banyak pihak yang memandang anggota-anggota QAT tidak This change encouraged the growing opinion that the QAT was trying to hide from the consequences of their actions, hurting the reputation of disqualifications and the QAT in general.<!-- https://osu.ppy.sh/forum/search.php?author_id=6616586&sr=posts -->
+    - Secara tidak langsung, penganoniman ini memperburuk citra QAT di mata publik karena banyak pihak yang memandang anggota-anggota QAT hanya ingin bersembunyi di balik akun anonim tanpa ingin bertanggung jawab terhadap tindakan-tindakan yang mereka ambil. <!-- https://osu.ppy.sh/forum/search.php?author_id=6616586&sr=posts -->
 
 ### Agustus
 
-- **2015-08-25:** Qualified beatmaps no longer rewarded players with [Performance Points](/wiki/Performance_Points).
+- **2015-08-25:** Beatmap-beatmap berstatus Qualified tidak lagi memberikan [Performance Point](/wiki/Performance_Points).
     - This was done in response to widespread complaints about Performance Points losses on qualified beatmaps.
     - Tension between players and the QAT was relieved after this change. <!-- https://osu.ppy.sh/community/forums/topics/352460 -->
 - **2015-08-26:** Anonymous QAT disqualifications were discontinued.
