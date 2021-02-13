@@ -25,12 +25,12 @@ Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Maret
 
-- **2008-03-11:** Kategori [Graveyard](/wiki/Beatmap/Category#graveyard) resmi diperkenalkan sebagai suatu tempat peristirahatan bagi beatmap-beatmap yang telah terbengkalai.
+- **2008-03-11:** Kategori [Graveyard](/wiki/Beatmap/Category#graveyard) diperkenalkan sebagai suatu tempat peristirahatan bagi beatmap-beatmap yang telah terbengkalai.
     - Dengan semakin meningkatnya jumlah beatmap yang tidak terurus seiring waktu, para anggota komunitas osu! di kala itu merasa perlu untuk memisahkan beatmap-beatmap Pending yang masih aktif diperbaharui dan yang telah sepenuhnya terbengkalai ke dalam dua kategori yang terpisah. <!-- https://osu.ppy.sh/community/forums/posts/15290 -->
 
 ### Juli
 
-- **2008-07-31:** Kategori [Approved](/wiki/Beatmap/Category#approved) resmi diperkenalkan untuk memfasilitasi beatmap-beatmap yang secara teknis tidak memenuhi Ranking Criteria namun tetap dirasa layak untuk memiliki *leaderboard*-nya tersendiri.
+- **2008-07-31:** Kategori [Approved](/wiki/Beatmap/Category#approved) diperkenalkan untuk memfasilitasi beatmap-beatmap yang secara teknis tidak memenuhi Ranking Criteria namun tetap dirasa layak untuk memiliki *leaderboard*-nya tersendiri.
     - Kategori ini pada umumnya berisikan beatmap-beatmap yang melebihi batas durasi (5 menit) dan/atau skor maksimal (20 juta) yang diperbolehkan oleh Ranking Criteria di kala itu. <!-- https://osu.ppy.sh/community/forums/topics/4936 -->
     - Ikon`flame` (![flame icon](/wiki/shared/icon/flame.gif)) mulai digunakan untuk menandai beatmap-beatmap yang telah mendapatkan 3 nominasi dan ditempatkan dalam kategori Approved.
 
@@ -46,7 +46,7 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 
 ### Februari
 
-- **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) resmi dititahkan sebagai [BAT manager](/wiki/Modding/Bat_Managers) yang pertama. <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
+- **2009-02-04:** ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) dititahkan sebagai [BAT manager](/wiki/Modding/Bat_Managers) yang pertama. <!-- https://osu.ppy.sh/community/forums/topics/36869?start=81784 -->
     - Ia diberikan tanggung jawab utama untuk mengorganisir alur pelantikan BAT-BAT baru serta mengawasi kecakapan dan tingkat aktivitas anggota-anggota BAT yang bertugas secara umum.<!-- https://osu.ppy.sh/community/forums/topics/9639 -->
 
 ### Maret
@@ -61,7 +61,7 @@ Secara keseluruhan, terdapat **690 beatmap** yang di-rank sepanjang tahun 2008.
 
 ### Desember
 
-- **2009-12-27:** [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) resmi dibentuk.
+- **2009-12-27:** [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) dibentuk.
     - Anggota-anggota MAT memiliki kuasa untuk menempatkan beatmap pada status [proto-bubble](/wiki/Modding/Proto-bubble) yang menandakan bahwa beatmap tersebut layak untuk diproritaskan ke depannya. <!-- https://osu.ppy.sh/community/forums/topics/21836 -->
     - ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) merupakan [MAT Leader](/wiki/Modding/MAT_Leaders) pada awal pembentukan MAT. <!-- https://osu.ppy.sh/community/forums/topics/21854 -->
     - Anggota-anggota MAT ditandai dengan nama pengguna yang berwarna ungu pada forum. 
@@ -74,7 +74,7 @@ Secara keseluruhan, terdapat **1400 beatmap** yang di-rank sepanjang tahun 2009.
 
 ### Juli
 
-- **2010-07-24:** Siklus pertama [Community Mentorship Program](/wiki/Community_Mentorship_Program#earlier-mentoring-programs) resmi diluncurkan.
+- **2010-07-24:** Siklus pertama [Community Mentorship Program](/wiki/Community_Mentorship_Program#earlier-mentoring-programs) diluncurkan.
     - Para pengguna yang tertarik untuk memperdalam ilmu lebih jauh seputar mapping dan modding dapat mendaftarkan diri mereka masing-masing untuk mengikuti sesi bimbingan dari anggota-anggota MAT dan BAT yang berpartisipasi.
     - Program ini diberhentikan pada tahun 2013. <!-- https://osu.ppy.sh/community/forums/topics/34111 + https://osu.ppy.sh/community/forums/topics/34194 -->
 
@@ -146,7 +146,7 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 ### Mei
 
-- **2013-05-15:** Jabatan [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) resmi dibentuk. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
+- **2013-05-15:** Jabatan [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) dibentuk. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
     - Peran BAT manager yang sebelumnya hanya dijabat oleh satu orang kini dipangku oleh tiga orang secara paralel. Setiap anggota Triumvir Conglomerate merupakan perwakilan dari wilayah geografisnya masing-masing, di mana ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika Utara, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) mewakili Asia, dan ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa.
     - Perubahan ini diberlakukan agar aspirasi para mapper di seluruh dunia dapat lebih terdengar secara merata. Sebelumnya, suara mapper-mapper yang berasal dari Asia cenderung terisolir karena mapper-mapper Asia secara umum lebih banyak berkomunikasi antar satu sama lain melalui media-media sosial di luar osu!.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
     - Di kala ketiga anggota Triumvir Conglomerate tidak dapat mengambil keputusan yang mutlak atas suatu permasalahan yang ada, ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) dan para petinggi osu! lainnya berhak untuk mengambil tindakan atas nama Triumvir Conglomerate dan anggota-anggota BAT lainnya.
@@ -204,7 +204,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
 ### Februari
 
-- **2015-02-01:** BAT resmi berganti nama menjadi [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*). Anggota-anggotanya tidak lagi memiliki warna pengguna khusus pada forum osu!.
+- **2015-02-01:** BAT berganti nama menjadi [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*). Anggota-anggotanya tidak lagi memiliki warna pengguna khusus pada forum osu!.
     - Perubahan ini diberlakukan untuk membuat BN terkesan lebih merakyat dan menyatu dengan anggota-anggota komunitas lainnya.
     - Tim ini pada awalnya bernama Beatmap Appreciator, namun setelah melalui berbagai pertimbangan nama tim ini diubah menjadi Beatmap Nominator.
     - Sebagian besar anggota Beatmap Nominator tidak setuju dengan adanya perubahan ini, sebagaimana yang dapat dilihat pada [utas forum berikut](https://osu.ppy.sh/community/forums/topics/292443).<!-- https://osu.ppy.sh/community/forums/topics/292443 -->
@@ -232,7 +232,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
 ### Desember
 
-- **2015-12-27:** [BN tests](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) were implemented for BN applications.
+- **2015-12-27:** Sistem pengujian BN ([*BN test*](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test)) were implemented for BN applications.
     - These tests required users to answer a multiple choice form and mod a problem-filled beatmap. <!-- date used is when the "BN Examinations - Answer Keys" document was created. first test was published a month or so later -->
 
 Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015. Jumlah beatmap Ranked pada tahun ini kembali meningkat pesat setelah pada 4 tahun sebelumnya angka ini cenderung stagnan dari tahun ke tahun.
