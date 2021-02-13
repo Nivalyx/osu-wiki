@@ -179,7 +179,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 ### Agustus
 
-- **2014-08-21:** [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) berpisah dari BAT.
+- **2014-08-21:** [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) memecahkan diri dari BAT.
     - The BAT (often called newBAT at this time) nominated beatmaps for rank.
     - The QAT ensured qualified beatmaps were of sufficient quality. Beatmaps that did not meet quality standards were disqualified.
     - This essentially reversed the merging of the BAT and MAT last year.
