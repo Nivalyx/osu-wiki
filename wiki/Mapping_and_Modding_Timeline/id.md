@@ -172,7 +172,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 ### Februari
 
 - **2014-02-10:** Untuk meningkatkan efisiensi dan produktivitas, sistem pengelolaan mapping dan modding dipindahkan dari forum osu! ke situs Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
-- **2014-02-18:** Kategori [Approved](/wiki/Beatmap/Category#approved) sepenuhnya diberhentikan.
+- **2014-02-18:** Kategori [Approved](/wiki/Beatmap/Category#approved) sepenuhnya dinonaktifkan.
     - Beatmap yang memiliki durasi di atas 5 menit (*marathon beatmap*) dapat di-rank setelah memperoleh 3 nominasi (2 ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) + 1 ikon `flame` (![flame icon](/wiki/shared/icon/flame.gif))). <!-- date is not accurate. this is date of last approved map's approval -->
 
 <!-- sometime around here p3n becomes the equivalent of BATmanager but there is no documentation. probably on Trello -->
