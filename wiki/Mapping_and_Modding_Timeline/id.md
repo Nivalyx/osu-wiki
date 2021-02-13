@@ -134,15 +134,15 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 ### Maret
 
 - **2013-03-20:** BAT kembali dipisah menjadi BAT dan [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*).
-    - Many members of the BAT were on board solely for moderation duties, so this clarified the roles of modding and moderating members.
-    - Members of the new GMT were previously known as "Green BAT". <!-- https://osu.ppy.sh/community/forums/topics/123465 -->
+    - Hal ini dipicu oleh banyaknya anggota BAT yang hanya berfokus pada hal moderasi komunitas tanpa ikut turun tangan dalam hal moderasi beatmap.
+    - Anggota-anggota BAT yang berpindah jabatan menjadi GMT dikenal dengan nama "Green BAT". <!-- https://osu.ppy.sh/community/forums/topics/123465 -->
 
 ### April
 
 - **2013-04-23:** MAT sepenuhnya dibubarkan.
     - Seluruh anggota MAT diangkat menjadi BAT.
-    - Perubahan ini diberlakukan karena peran MAT dan BAT yang semakin menyatu antar satu sama lain. Walaupun dalam teori MAT ditujukan sebagai penengah antara BAT dan komunitas mapping yang ada, dalam prakteknya pada titik ini MAT telah menyeru menjadi "BAT kedua" yang dalam berbagai hal serupa dengan BAT namun tanpa kuasa untuk dapat me-rank beatmap secara langsung.
-    - Lebih dari itu, terdapat banyak anggota BAT di kala itu sedang tidak aktif. <!-- https://osu.ppy.sh/community/forums/topics/129165 + https://osu.ppy.sh/community/forums/topics/129176 -->
+    - Perubahan ini diberlakukan karena peran MAT dan BAT yang semakin menyatu antar satu sama lain. Walaupun dalam teori MAT ditujukan sebagai penengah antara BAT dan komunitas mapping yang ada, dalam prakteknya pada titik ini MAT telah menyeru menjadi "BAT kedua" yang tidak memiliki kuasa untuk memberikan ikon heart.
+    - Lebih dari itu, terdapat banyak anggota BAT di kala itu yang sedang tidak aktif karena satu dan lain hal. <!-- https://osu.ppy.sh/community/forums/topics/129165 + https://osu.ppy.sh/community/forums/topics/129176 -->
 
 ### Mei
 
@@ -454,7 +454,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 ### April
 
-- **2020-04-11:** Buletin Mappers' Report <!-- TODO: stub --> yang diprakarsai oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) mulai dipublikasikan secara rutin pada laman berita osu! sebagai suatu bentuk rangkuman atas hal-hal terkini yang terjadi di seputar dunia mapping setiap bulannya.
+- **2020-04-11:** Buletin Mappers' Report <!-- TODO: stub --> yang diprakarsai oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) mulai dipublikasikan secara rutin pada laman berita osu! sebagai suatu bentuk rangkuman atas hal-hal terkini yang terjadi di seputar dunia mapping di setiap edisinya.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
