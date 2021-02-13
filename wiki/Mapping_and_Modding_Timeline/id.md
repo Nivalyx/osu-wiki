@@ -224,10 +224,10 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
 ### Agustus
 
-- **2015-08-25:** Beatmap-beatmap berstatus Qualified tidak lagi memberikan [Performance Point](/wiki/Performance_Points).
-    - This was done in response to widespread complaints about Performance Points losses on qualified beatmaps.
-    - Tension between players and the QAT was relieved after this change. <!-- https://osu.ppy.sh/community/forums/topics/352460 -->
-- **2015-08-26:** Anonymous QAT disqualifications were discontinued.
+- **2015-08-25:** Beatmap-beatmap yang berstatus Qualified tidak lagi memberikan [Performance Point](/wiki/Performance_Points).
+    - Hal ini dipicu oleh banyaknya keluhan yang masuk seputar hilangnya *performance point* ketika suatu beatmap didiskualifikasi.
+    - Perubahan ini secara garis besar disambut dengan baik dan dinilai berhasil meredakan ketegangan antar para pemain dan anggota-anggota QAT di kala itu. <!-- https://osu.ppy.sh/community/forums/topics/352460 -->
+- **2015-08-26:** Akun QAT anonim sepenuhnya diberhentikan.
     - With less tension between players and the QAT, anonymization was deemed unnecessary. <!-- https://osu.ppy.sh/forum/search.php?author_id=6616586&sr=posts -->
 
 ### Desember
