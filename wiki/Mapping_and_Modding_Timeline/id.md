@@ -204,7 +204,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
 ### Februari
 
-- **2015-02-01:** Red usernames were removed from BAT and BAT was renamed to [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*).
+- **2015-02-01:** BAT resmi berganti nama menjadi [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*). Anggota-anggota BAT tidak lagi memiliki warna pengguna khusus pada forum osu!.
     - These changes intended to make the BN more closely associated with the average user, which was the goal of moddingv2's community-driven design.
     - The team was initially renamed to Beatmap Appreciators, however it was quickly renamed to Beatmap Nominators by community suggestion.
     - Beatmap Nominators generally disagreed with this change and heavily argued against it in [this forum thread](https://osu.ppy.sh/community/forums/topics/292443).<!-- https://osu.ppy.sh/community/forums/topics/292443 -->
