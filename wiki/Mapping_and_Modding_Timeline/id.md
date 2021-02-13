@@ -14,7 +14,7 @@ Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berk
 - **2007-10-29:** Ikon-ikon forum tertentu mulai digunakan untuk menandai status suatu beatmap.
     - Ikon `star` (![star icon](/wiki/shared/icon/star.gif)) digunakan untuk menandai beatmap-beatmap yang dinilai masih perlu untuk dibenahi.
     - Ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) digunakan untuk menandai beatmap-beatmap yang dinilai telah siap untuk di-rank.
-    - Ikon `heart` (![heart icon](/wiki/shared/icon/heart.gif)) digunakan untuk menandai beatmap-beatmap yang telah di-rank. Ikon ini hanya dapat disematkan pada beatmap-beatmap yang telah ditandai dengan ikon bubble sebelumnya, yang secara tidak langsung mempersyaratkan 2 nominasi bagi setiap beatmap untuk dapat sepenuhnya di-rank.
+    - Ikon `heart` (![heart icon](/wiki/shared/icon/heart.gif)) digunakan untuk menandai beatmap-beatmap yang telah sepenuhnya di-rank. Ikon ini hanya dapat disematkan pada beatmap-beatmap yang telah ditandai dengan ikon bubble sebelumnya, yang secara tidak langsung mempersyaratkan 2 nominasi bagi setiap beatmap untuk dapat sepenuhnya di-rank.
     - Ikon `nuke` (![nuke icon](/wiki/shared/icon/nuke.gif)) digunakan untuk menandai beatmap-beatmap yang telah dinyatakan tidak dapat di-rank dalam kondisi apapun karena satu dan lain hal. <!-- https://osu.ppy.sh/forum/t/619 + missing info on flame/nuke -->
 
 Secara keseluruhan, terdapat **200 beatmap** yang di-rank sepanjang tahun 2017.
@@ -133,7 +133,7 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 ### Maret
 
-- **2013-03-20:** The BAT was split into the BAT and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*).
+- **2013-03-20:** BAT kembali dipisah menjadi BAT dan [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*).
     - Many members of the BAT were on board solely for moderation duties, so this clarified the roles of modding and moderating members.
     - Members of the new GMT were previously known as "Green BAT". <!-- https://osu.ppy.sh/community/forums/topics/123465 -->
 
@@ -454,7 +454,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 ### April
 
-- **2020-04-11:** Mappers' Report <!-- TODO: stub --> yang diprakarsai oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) mulai dipublikasikan secara rutin pada laman berita osu! sebagai suatu bentuk rangkuman atas hal-hal terkini yang terjadi di seputar dunia mapping setiap bulannya.
+- **2020-04-11:** Buletin Mappers' Report <!-- TODO: stub --> yang diprakarsai oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) mulai dipublikasikan secara rutin pada laman berita osu! sebagai suatu bentuk rangkuman atas hal-hal terkini yang terjadi di seputar dunia mapping setiap bulannya.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
