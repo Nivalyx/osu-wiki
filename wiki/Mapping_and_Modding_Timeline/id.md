@@ -149,11 +149,11 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 - **2013-05-15:** [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) resmi dibentuk. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
     - Peran BAT manager yang sebelumnya hanya dijabat oleh satu orang kini dipangku oleh tiga orang secara paralel. Setiap anggota Triumvir Conglomerate merupakan perwakilan dari wilayah geografisnya masing-masing, di mana ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika Utara, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) mewakili Asia, dan ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa.
     - Perubahan ini diberlakukan agar aspirasi para mapper di seluruh dunia dapat lebih terdengar secara merata. Sebelumnya, suara mapper-mapper yang berasal dari Asia cenderung terisolir karena mapper-mapper Asia dalam prateknya lebih banyak berkomunikasi antar satu sama lain pada media-media sosial di luar osu!.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
-    - Di kala ketiga anggota Triumvir Conglomerate tidak dapat mengambil keputusan yang mutlak, ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) a.
+    - Di kala ketiga anggota Triumvir Conglomerate tidak dapat mengambil keputusan yang mutlak atas suatu permasalahan yang ada, ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) dan para petinggi osu! lainnya berhak untuk mengambil tindakan atas nama BAT dan Triumvir Conglomerate.
 
 ### Agustus
 
-- **2013-08-01:** Beatmap unranking policy was implemented, allowing BAT members to unrank a beatmap within 1 week of ranking. <!-- https://osu.ppy.sh/community/forums/topics/146533 -->
+- **2013-08-01:** Prosedur formal untuk meng-unrank beatmap resmi diberlakukan. Anggota-anggota BAT diberikan kuasa untuk meng-unrank beatmap dalam rentang waktu 1 minggu setelah beatmap yang bersangkutan di-rank.  <!-- https://osu.ppy.sh/community/forums/topics/146533 -->
     - This change was a test for the later implemented [Qualified](/wiki/Beatmap/Category#qualified) category.
 - **2013-08-02:** The first osu!taiko BAT were added, signifying a separation of game mode permissions in the group. <!-- https://osu.ppy.sh/community/forums/topics/83704?start=2474091 -->
     - Any BAT could theoretically nominate beatmaps of any mode before this time, however the growth of different game modes made the distinction necessary.
