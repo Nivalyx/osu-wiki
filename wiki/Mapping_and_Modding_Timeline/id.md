@@ -183,7 +183,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
     - Anggota-anggota BAT (yang di kala itu disebut juga dengan newBAT) bertugas untuk menminasikan beatmap.
     - Anggota-anggota QAT bertugas untuk mengecek beatmap-beatmap yang dinominasikan oleh anggota-anggota BAT. Apabila QAT menemui suatu beatmap yang dinilai tidak memenuhi standar jaminan mutu, QAT memiliki kuasa untuk mendiskualifikasi beatmap yang bersangkutan dari kategori Qualified.
     - Pemecahan peran ini menandakan untuk pertama kalinya osu! memiliki dua badan moderasi beatmap yang terpisah sejak penggabungan BAT dan MAT di tahun sebelumnya.
-    - Pemecahan peran ini utamanya ditujukan untuk menguji sistem [modding v2](/wiki/Beatmap_Discussion) yang di kala itu attempting to automate BAT promotion and retirement. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
+    - Pemecahan peran ini utamanya ditujukan untuk menguji sistem [modding v2](/wiki/Beatmap_Discussion) yang di kala itu diklaim dapat melantik dan memberhentikan anggota-anggota BAT secara otomatis berdasarkan parameter-parameter tertentu. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
     - Despite attempts at framing disqualifications as a positive change for mapping quality, the community viewed them negatively. This was especially apparent in cases of controversial beatmaps like the [disqualification on *Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479)
 
 ### Oktober
