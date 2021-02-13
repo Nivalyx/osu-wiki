@@ -171,7 +171,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 ### Februari
 
-- **2014-02-10:** Untuk meningkatkan efisiensi dan produktivitas, sistem pengelolaan mapping dan modding dipindahkan dari forum osu! ke situs Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
+- **2014-02-10:** Untuk meningkatkan efisiensi dan produktivitas BAT, sistem pengelolaan mapping dan modding dipindahkan dari forum osu! ke situs Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
 - **2014-02-18:** Kategori [Approved](/wiki/Beatmap/Category#approved) sepenuhnya dinonaktifkan.
     - Beatmap yang memiliki durasi di atas 5 menit (*marathon beatmap*) dapat di-rank setelah memperoleh 3 nominasi (2 ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) + 1 ikon `flame` (![flame icon](/wiki/shared/icon/flame.gif))). <!-- date is not accurate. this is date of last approved map's approval -->
 
@@ -179,11 +179,11 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 ### Agustus
 
-- **2014-08-21:** [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) memecahkan diri dari BAT.
-    - The BAT (often called newBAT at this time) nominated beatmaps for rank.
-    - The QAT ensured qualified beatmaps were of sufficient quality. Beatmaps that did not meet quality standards were disqualified.
-    - This essentially reversed the merging of the BAT and MAT last year.
-    - The split was implemented as part of a manual trial for [modding v2](/wiki/Beatmap_Discussion) attempting to automate BAT promotion and retirement. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
+- **2014-08-21:** [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) memisahkan diri dari BAT.
+    - Anggota-anggota BAT (yang di kala itu disebut juga dengan newBAT) bertugas untuk menminasikan beatmap.
+    - Anggota-anggota QAT bertugas untuk mengecek beatmap-beatmap yang dinominasikan oleh anggota-anggota BAT. Apabila QAT menemui suatu beatmap yang dinilai tidak memenuhi standar jaminan mutu, QAT memiliki kuasa untuk mendiskualifikasi beatmap yang bersangkutan dari kategori Qualified.
+    - Pemecahan peran ini menandakan untuk pertama kalinya osu! memiliki dua badan moderasi beatmap yang terpisah sejak penggabungan BAT dan MAT di tahun sebelumnya.
+    - Pemecahan peran ini utamanya ditujukan untuk menguji sistem [modding v2](/wiki/Beatmap_Discussion) yang di kala itu attempting to automate BAT promotion and retirement. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
     - Despite attempts at framing disqualifications as a positive change for mapping quality, the community viewed them negatively. This was especially apparent in cases of controversial beatmaps like the [disqualification on *Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479)
 
 ### Oktober
