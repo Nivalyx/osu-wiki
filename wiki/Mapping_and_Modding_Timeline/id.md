@@ -171,7 +171,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 ### Februari
 
-- **2014-02-10:** Untuk meningkatkan efisiensi dan produktivitas BAT, sistem pengelolaan mapping dan modding dipindahkan dari forum osu! ke situs Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
+- **2014-02-10:** Untuk meningkatkan efisiensi dan produktivitas BAT, pengelolaan mapping dan modding dipindahkan dari forum osu! ke situs Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
 - **2014-02-18:** Kategori [Approved](/wiki/Beatmap/Category#approved) sepenuhnya dinonaktifkan.
     - Beatmap yang memiliki durasi di atas 5 menit (*marathon beatmap*) dapat di-rank setelah memperoleh 3 nominasi (2 ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) + 1 ikon `flame` (![flame icon](/wiki/shared/icon/flame.gif))). <!-- date is not accurate. this is date of last approved map's approval -->
 
@@ -188,9 +188,9 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 ### Oktober
 
-- **2014-10-15:** The [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115) replaced Trello.
-    - Public accessibility to the BAT increased, which was the goal of modding v2.
-    - Issues related to nominated/qualified beatmaps were posted here, along with any announcements related to mapping/modding systems. <!-- https://osu.ppy.sh/community/forums/topics/258489 -->
+- **2014-10-15:** [Sub-forum Beatmap Management](https://osu.ppy.sh/community/forums/115) dibuat untuk menggantikan fungsi situs Trello.
+    - Sub-forum Beatmap Management utamanya menampung berbagai topik diskusi yang mencakup seputar beatmap-beatmap yang telah dinominasikan/telah berstatus Qualified serta berbagai pengumuman yang terkait dengan sistem mapping/modding yang berlaku pada saat itu.
+    - Keberadaan sub-forum Beatmap Management secara tidak langsung meningkatkan pemahaman publik terhadap sistem BAT dan modding v2 secara umum. <!-- https://osu.ppy.sh/community/forums/topics/258489 -->
 
 ### November
 
