@@ -194,9 +194,9 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 ### November
 
-- **2014-11-14:** New BAT promotion was held via public votes among current BAT/QAT.
-    - Users with 15 or more votes and automatically calculated modding activity would be promoted to the group intermittently.
-    - This was handled on Trello in the past. <!-- https://osu.ppy.sh/community/forums/topics/258555 -->
+- **2014-11-14:** Anggota-anggota BAT baru mulai dilantik berdasarkan hasil pemungutan suara terbuka yang diikuti oleh seluruh anggota BAT/QAT.
+    - Para calon anggota yang memperoleh 15 suara atau lebih akan diangkat sebagai BAT.
+    - Sistem pemungutan suara yang serupa sebelumnya juga pernah diujicobakan pada situs Trello. <!-- https://osu.ppy.sh/community/forums/topics/258555 -->
 
 Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
