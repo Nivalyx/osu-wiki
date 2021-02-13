@@ -155,12 +155,12 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 - **2013-08-01:** Proposal yang memungkinkan BAT untuk meng-unrank beatmap resmi disahkan. Anggota-anggota BAT diberikan kuasa untuk meng-unrank beatmap dalam rentang waktu 1 minggu setelah beatmap yang bersangkutan di-rank.  <!-- https://osu.ppy.sh/community/forums/topics/146533 -->
     - Proposal ini merupakan cikal bakal kategori [Qualified](/wiki/Beatmap/Category#qualified) yang ada saat ini.
-- **2013-08-02:** osu! resmi melantik anggota-anggota BAT khusus mode osu!taiko untuk pertama kalinya. <!-- https://osu.ppy.sh/community/forums/topics/83704?start=2474091 -->
+- **2013-08-02:** osu! melantik anggota-anggota BAT khusus mode osu!taiko untuk pertama kalinya. <!-- https://osu.ppy.sh/community/forums/topics/83704?start=2474091 -->
     - Sebelumnya, anggota-anggota BAT dapat menominasikan seluruh beatmap yang ada terlepas dari mode permainan beatmap yang bersangkutan. Namun, dengan semakin banyaknya beatmap yang dibuat khusus untuk untuk mode-mode permainan di luar osu!, urgensi untuk memiliki anggota-anggota BAT yang secara spesifik memoderasi mode-mode permainan tersebut terus menguat seiring waktu.
 
 ### Desember
 
-- **2013-12-12:** Kategori [Qualified](/wiki/Beatmap/Category#qualified) resmi diperkenalkan. Beatmap yang telah memperoleh dua nominasi akan terlebih dahulu ditempatkan di kategori Qualified selama satu minggu sebelum dapat sepenuhnya berstatus Ranked.
+- **2013-12-12:** Kategori [Qualified](/wiki/Beatmap/Category#qualified) resmi diperkenalkan kepada publik. Beatmap yang telah memperoleh dua nominasi akan terlebih dahulu ditempatkan di kategori Qualified selama satu minggu sebelum dapat sepenuhnya berstatus Ranked.
     - Beatmap yang berada pada kategori Qualified dapat sewaktu-waktu didiskualifikasi apabila terdapat suatu masalah yang ditemukan pada beatmap yang bersangkutan. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
 - **2013-12-22:** Jabatan [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) dipindahtangankan ke tiga nama baru untuk memberikan angin segar bagi anggota-anggota BAT yang bertugas.
     - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) ditunjuk sebagai perwakilan Amerika Utara, ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) ditunjuk sebagai perwakilan Asia, dan ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) ditunjuk sebagai perwakilan Eropa yang baru. <!-- https://osu.ppy.sh/community/forums/topics/172289 -->
