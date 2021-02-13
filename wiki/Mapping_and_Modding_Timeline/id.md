@@ -173,13 +173,13 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 
 - **2014-02-10:** Untuk meningkatkan efisiensi dan produktivitas, sistem pengelolaan mapping dan modding dipindahkan dari forum osu! ke situs Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
 - **2014-02-18:** Kategori [Approved](/wiki/Beatmap/Category#approved) sepenuhnya diberhentikan.
-    - Marathon beatmaps were promoted to Ranked with 3 BAT nominations (2 `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icons + 1 `flame` (![flame icon](/wiki/shared/icon/flame.gif)) icon). <!-- date is not accurate. this is date of last approved map's approval -->
+    - Beatmap yang memiliki durasi di atas 5 menit (*marathon beatmap*) dapat di-rank setelah memperoleh 3 nominasi (2 ikon `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) + 1 ikon `flame` (![flame icon](/wiki/shared/icon/flame.gif))). <!-- date is not accurate. this is date of last approved map's approval -->
 
 <!-- sometime around here p3n becomes the equivalent of BATmanager but there is no documentation. probably on Trello -->
 
 ### Agustus
 
-- **2014-08-21:** The [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) splits off from the current BAT.
+- **2014-08-21:** [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) berpisah dari BAT.
     - The BAT (often called newBAT at this time) nominated beatmaps for rank.
     - The QAT ensured qualified beatmaps were of sufficient quality. Beatmaps that did not meet quality standards were disqualified.
     - This essentially reversed the merging of the BAT and MAT last year.
