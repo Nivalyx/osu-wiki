@@ -149,7 +149,7 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 - **2013-05-15:** [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) resmi dibentuk. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
     - Peran BAT manager yang sebelumnya hanya dijabat oleh satu orang kini dipangku oleh tiga orang secara paralel. Setiap anggota Triumvir Conglomerate merupakan perwakilan dari wilayah geografisnya masing-masing, di mana ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika Utara, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) mewakili Asia, dan ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa.
     - Perubahan ini diberlakukan agar aspirasi para mapper di seluruh dunia dapat lebih terdengar secara merata. Sebelumnya, suara mapper-mapper yang berasal dari Asia cenderung terisolir karena mapper-mapper Asia dalam prateknya lebih banyak berkomunikasi antar satu sama lain pada media-media sosial di luar osu!.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
-    - Di kala ketiga anggota Triumvir Conglomerate tidak dapat mengambil keputusan yang mutlak atas suatu permasalahan yang ada, ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) dan para petinggi osu! lainnya berhak untuk mengambil tindakan atas nama BAT dan Triumvir Conglomerate.
+    - Di kala ketiga anggota Triumvir Conglomerate tidak dapat mengambil keputusan yang mutlak atas suatu permasalahan yang ada, ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) dan para petinggi osu! lainnya berhak untuk mengambil tindakan atas nama Triumvir Conglomerate dan anggota-anggota BAT lainnya.
 
 ### Agustus
 
@@ -160,9 +160,9 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 ### Desember
 
-- **2013-12-12:** Kategori [Qualified](/wiki/Beatmap/Category#qualified) resmi diperkenalkan. Beatmap-beatmap yang telah memperoleh dua nominasi akan terlebih dahulu ditempatkan di kategori Qualified selama satu minggu sebelum dapat sepenuhnya berstatus Ranked.
-    - Qualified beatmaps could be disqualified within 1 week, replacing the option of unranking a beatmap within 1 week. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
-- **2013-12-22:** Ketiga anggota [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) untuk memberikan angin segar.
+- **2013-12-12:** Kategori [Qualified](/wiki/Beatmap/Category#qualified) resmi diperkenalkan. Beatmap yang telah memperoleh dua nominasi akan terlebih dahulu ditempatkan di kategori Qualified selama satu minggu sebelum dapat sepenuhnya berstatus Ranked.
+    - Beatmap yang berada pada kategori Qualified dapat sewaktu-waktu didiskualifikasi apabila ditemukan suatu masalah pada beatmap yang bersangkutan. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
+- **2013-12-22:** osu! menunjuk tiga orang anggota [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) yang baru untuk memberikan angin segar di dalam lingkungan internal BAT.
     - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) ditunjuk sebagai perwakilan Amerika Utara, ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) ditunjuk sebagai perwakilan Asia, dan ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) ditunjuk sebagai perwakilan Eropa yang baru. <!-- https://osu.ppy.sh/community/forums/topics/172289 -->
 
 Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
@@ -172,7 +172,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
 ### Februari
 
 - **2014-02-10:** To improve organization, mapping and modding system internal management shifted from the forums to Trello. <!-- https://osu.ppy.sh/community/forums/topics/185379 -->
-- **2014-02-18:** [Approved](/wiki/Beatmap/Category#approved) beatmap category was retired.
+- **2014-02-18:** Kategori [Approved](/wiki/Beatmap/Category#approved) sepenuhnya diberhentikan.
     - Marathon beatmaps were promoted to Ranked with 3 BAT nominations (2 `bubble` (![bubble icon](/wiki/shared/icon/bubble.gif)) icons + 1 `flame` (![flame icon](/wiki/shared/icon/flame.gif)) icon). <!-- date is not accurate. this is date of last approved map's approval -->
 
 <!-- sometime around here p3n becomes the equivalent of BATmanager but there is no documentation. probably on Trello -->
