@@ -254,8 +254,8 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 - **2016-04-25:** Anggota-anggota QAT mulai mengecek beatmap-beatmap Qualified *secara reaktif* alih-alih secara proaktif.
     - QAT membuat utas forum khusus bagi para pengguna untuk dapat melaporkan suatu masalah yang mereka temui pada beatmap-beatmap Qualified. Anggota-anggota QAT kemudian akan memeriksa apakah masalah yang dilaporkan tersebut valid adanya.
-    - Perubahan ini diberlakukan karena persepsi publik yang kembali menilai buruk proses diskualifikasi yang dilakukan oleh QAT.
-    - Terdapat pengecualian pada hal pemeriksaan metadata, di mana QAT (di bawah kepemimpinan ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463)) tetap menelaah keabsahan metadata pada beatmap-beatmap yang ada secara proaktif. <!-- https://osu.ppy.sh/community/forums/topics/447417 + https://osu.ppy.sh/community/forums/topics/447428-->
+    - Perubahan ini diberlakukan karena persepsi publik yang kembali menilai proses diskualifikasi yang dilakukan oleh QAT sebagai sesuatu yang buruk.
+    - Terdapat pengecualian pada hal pemeriksaan metadata, di mana QAT (di bawah kepemimpinan ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463)) tetap menelaah keabsahan metadata pada beatmap-beatmap Qualified yang ada secara proaktif. <!-- https://osu.ppy.sh/community/forums/topics/447417 + https://osu.ppy.sh/community/forums/topics/447428-->
 
 ### Juli
 
