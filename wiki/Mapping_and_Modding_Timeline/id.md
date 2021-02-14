@@ -214,7 +214,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
 ### Juni
 
-- **2015-06-04:** Papan peringkat Beatmap Nominator yang bersifat *real time* diluncurkan sebagai alat untuk memonitor kinerja dan tingkat aktivitas anggota-anggota BN secara otomatis. <!-- https://osu.ppy.sh/community/forums/topics/334994 -->
+- **2015-06-04:** Beatmap Nominator Leaderboard yang bersifat *real time* diluncurkan sebagai alat untuk memonitor kinerja dan tingkat aktivitas anggota-anggota BN secara otomatis. <!-- https://osu.ppy.sh/community/forums/topics/334994 -->
     - Sistem ini hanya diberlakukan selama beberapa hari setelah para developer osu! merasa khawatir bahwa papan peringkat tersebut akan terlalu membebani infrastruktur yang ada secara keseluruhan. <!-- ephemeral is source(?) -->
 - **2015-06-06:** Diskualifikasi oleh anggota-anggota QAT pada forum osu! sepenuhnya dianonimkan.
     - Seluruh post yang dibuat atas nama QAT ditulis oleh akun "[Quality Assurance Team](https://osu.ppy.sh/users/6616586)".
@@ -281,12 +281,12 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 ### Oktober
 
 - **2016-10-17:** Kategori [Loved](/wiki/Beatmap/Category#loved) diperkenalkan kepada publik.
-    - The category provided leaderboards for popular maps that could not be ranked for various reasons.
-    - *See [History of Loved](/wiki/Beatmap/History_of_Loved) for a detailed timeline of Loved system changes.*
+    - Kategori ini memberikan *leaderboard* kepada beatmap-beatmap yang tidak dapat di-rank karena satu dan lain hal.
+    - *Harap kunjungi laman [History of Loved](/wiki/Beatmap/History_of_Loved) untuk sejarah kategori Loved selengkapnya*
 
 ### November
 
-- **2016-11-01:** The [Beatmap Veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) system was implemented.
+- **2016-11-01:** Sistem [Beatmap Veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) diperkenalkan.
     - Beatmap Nominators could halt a beatmap in the ranking process for subjective reasons by resetting a nomination. This was done with a `bubble pop` (![bubble pop icon](/wiki/shared/icon/bubble-pop.gif)) icon.
     - Vetoes could be overwritten by the nominations of Beatmap Nominators previously uninvolved with the beatmap.
     - To allow adequate time to veto, consecutive nominations could not be set within 24 hours of each other.
