@@ -242,7 +242,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 ### Februari
 
 - **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_Criteria/Ranking_Criteria_Council) dibentuk untuk merombak ulang [Ranking Criteria](/wiki/Ranking_Criteria).
-    - Anggota-anggota Ranking Criteria Council menyusun ulang Ranking Criteria dari awal tanpa mempertimbangkan proposal-proposal yang sebelumnya telah dicetuskan pada sub-forum Ranking Criteria.
+    - Anggota-anggota Ranking Criteria Council bertugas untuk menyusun ulang Ranking Criteria dari awal tanpa mempertimbangkan proposal-proposal yang sebelumnya telah dicetuskan pada sub-forum Ranking Criteria.
     - Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terdahulu, anggota-anggota Ranking Criteria Council sengaja dipilih untuk dapat mewakili suara-suara yang ada dari berbagai belahan dunia secara merata. Masing-masing mode permainan memiliki 1 mapper dan 1 pemain yang berasal dari benua Amerika, Eropa, dan Asia serta 2 anggota QAT.
     - Secara lebih spesifik, Ranking Criteria Council memiliki tugas untuk dapat membuat Ranking Criteria yang terpisah untuk masing-masing mode permainan yang ada (osu!, osu!taiko, osu!catch, dan osu!mania). Dalam kenyataannya, pada akhir masa bakti Ranking Criteria Council hanya mode osu!catch yang memiliki Ranking Criteria-nya tersendiri.
     - Di samping itu, Ranking Criteria Council juga ditugaskan untuk merapikan dokumen Ranking Criteria secara umum. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
