@@ -287,7 +287,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 ### November
 
 - **2016-11-01:** Sistem [Beatmap Veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) diperkenalkan.
-    - Beatmap Nominators could halt a beatmap in the ranking process for subjective reasons by resetting a nomination. This was done with a `bubble pop` (![bubble pop icon](/wiki/shared/icon/bubble-pop.gif)) icon.
+    - Anggota-anggota Beatmap Nominator dapat menempatkan veto pada suatu beatmap yang telah dinominasikan sebelumnya namun secara subjektif dianggap memiliki permasalahan yang mendasar dengan menyematkan ikon `bubble pop` (![bubble pop icon](/wiki/shared/icon/bubble-pop.gif)) icon pada beatmap yang bersangkutan.
     - Vetoes could be overwritten by the nominations of Beatmap Nominators previously uninvolved with the beatmap.
     - To allow adequate time to veto, consecutive nominations could not be set within 24 hours of each other.
     - Inconclusive vetoes were mediated by the QAT shortly after this system's implementation. <!-- date is not exact at all, but logs are from deleted discord chat -->
