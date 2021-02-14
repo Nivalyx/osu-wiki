@@ -290,10 +290,10 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - Anggota-anggota Beatmap Nominator dapat menempatkan veto pada beatmap yang telah dinominasikan sebelumnya namun secara subjektif dianggap memiliki permasalahan yang mendasar dengan menyematkan ikon `bubble pop` (![bubble pop icon](/wiki/shared/icon/bubble-pop.gif)) icon pada beatmap yang bersangkutan.
     - Suatu veto dapat dianulir apabila terdapat Beatmap Nominator lain yang menominasikan ulang beatmap yang bersangkutan.
     - Agar veto-veto yang ada dapat diproses secara memadai, selang waktu antar nominasi pertama dan nominasi kedua dalam suatu beatmap harus lebih dari 24 jam.
-    - Inconclusive vetoes were mediated by the QAT shortly after this system's implementation. <!-- date is not exact at all, but logs are from deleted discord chat -->
-- **2016-11-02:** Beatmap Nominator files were created to keep tabs on all individual BN members.
-    - These files included modding/nomination activity, disqualifications, and behavior issues.
-    - Members of the BN with 3 or more "strikes" logged in these files would be removed from the group. <!-- QAT folder archives -->
+    - Veto-veto yang tidak menghasilkan kesimpulan yang mutlak akan ditinjau secara khusus oleh anggota-anggota QAT. <!-- date is not exact at all, but logs are from deleted discord chat -->
+- **2016-11-02:** Berkas rekam jejak Beatmap Nominator dibuat untuk melacak aktivitas anggota-anggota Beatmap Nominator seiring waktu.
+    - Berkas-berkas ini meliputi berbagai informasi seperti rekam jejak modding, nominasi, diskualifikasi, and perilaku masing-masing anggota.
+    - Anggota-anggota ya "strikes" akan diberhentikan dari BN. <!-- QAT folder archives -->
 
 Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 
