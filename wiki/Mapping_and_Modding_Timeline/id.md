@@ -146,7 +146,7 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 ### Mei
 
-- **2013-05-15:** Jabatan [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) dibentuk. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
+- **2013-05-15:** Posisi [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) diperkenalkan kepada publik. <!-- https://osu.ppy.sh/community/forums/topics/132665 -->
     - Peran BAT manager yang sebelumnya hanya dijabat oleh satu orang kini dipangku oleh tiga orang secara paralel. Setiap anggota Triumvir Conglomerate merupakan perwakilan dari wilayah geografisnya masing-masing, di mana ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika Utara, ![][flag_CN] [NatsumeRin](https://osu.ppy.sh/users/151679) mewakili Asia, dan ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa.
     - Perubahan ini diberlakukan agar aspirasi para mapper di seluruh dunia dapat lebih terdengar secara merata. Sebelumnya, suara mapper-mapper yang berasal dari Asia cenderung terisolir karena mapper-mapper Asia secara umum lebih banyak berkomunikasi antar satu sama lain melalui media-media sosial di luar osu!.<!-- https://osu.ppy.sh/community/forums/topics/117187 -->
     - Di kala ketiga anggota Triumvir Conglomerate tidak dapat mengambil keputusan yang mutlak atas suatu permasalahan yang ada, ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) dan para petinggi osu! lainnya berhak untuk mengambil tindakan atas nama Triumvir Conglomerate dan anggota-anggota BAT lainnya.
@@ -232,8 +232,8 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 
 ### Desember
 
-- **2015-12-27:** Sistem pengujian BN ([*BN test*](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test)) were implemented for BN applications.
-    - These tests required users to answer a multiple choice form and mod a problem-filled beatmap. <!-- date used is when the "BN Examinations - Answer Keys" document was created. first test was published a month or so later -->
+- **2015-12-27:** Sistem [*BN test*](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) diperkenalkan bagi para anggota yang hendak melamar sebagai BN.
+    - Ujian ini berisikan soal-soal pilihan ganda yang menguji pemahaman masing-masing pelamar. <!-- date used is when the "BN Examinations - Answer Keys" document was created. first test was published a month or so later -->
 
 Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015. Jumlah beatmap Ranked pada tahun ini kembali meningkat pesat setelah pada 4 tahun sebelumnya angka ini cenderung stagnan dari tahun ke tahun.
 
@@ -241,7 +241,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 ### Februari
 
-- **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_Criteria/Ranking_Criteria_Council) was created to reform the [Ranking Criteria](/wiki/Ranking_Criteria).
+- **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_Criteria/Ranking_Criteria_Council) dibentuk untuk merombak ulang [Ranking Criteria](/wiki/Ranking_Criteria).
     - Public proposals on the Ranking Criteria subforum were no longer considered.
     - Taking a stance similar to the [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate), the Ranking Criteria Council involved members to represent major mapping subgroups by region. Each game mode had 1 mapper and 1 player from the Americas, Europe, and Asia, along with 2 members of the QAT.
     - Each game mode's goal was to create a general/difficulty-specific Ranking Criteria for their respective mode. osu!catch was the only game mode that achieved this goal under this system.
