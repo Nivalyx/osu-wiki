@@ -282,14 +282,14 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 - **2016-10-17:** Kategori [Loved](/wiki/Beatmap/Category#loved) diperkenalkan kepada publik.
     - Kategori ini memberikan *leaderboard* kepada beatmap-beatmap yang tidak dapat di-rank karena satu dan lain hal.
-    - *Harap kunjungi laman [History of Loved](/wiki/Beatmap/History_of_Loved) untuk sejarah kategori Loved selengkapnya*
+    - *Harap kunjungi laman [History of Loved](/wiki/Beatmap/History_of_Loved) untuk sejarah kategori Loved selengkapnya.*
 
 ### November
 
 - **2016-11-01:** Sistem [Beatmap Veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) diperkenalkan.
-    - Anggota-anggota Beatmap Nominator dapat menempatkan veto pada suatu beatmap yang telah dinominasikan sebelumnya namun secara subjektif dianggap memiliki permasalahan yang mendasar dengan menyematkan ikon `bubble pop` (![bubble pop icon](/wiki/shared/icon/bubble-pop.gif)) icon pada beatmap yang bersangkutan.
-    - Vetoes could be overwritten by the nominations of Beatmap Nominators previously uninvolved with the beatmap.
-    - To allow adequate time to veto, consecutive nominations could not be set within 24 hours of each other.
+    - Anggota-anggota Beatmap Nominator dapat menempatkan veto pada beatmap yang telah dinominasikan sebelumnya namun secara subjektif dianggap memiliki permasalahan yang mendasar dengan menyematkan ikon `bubble pop` (![bubble pop icon](/wiki/shared/icon/bubble-pop.gif)) icon pada beatmap yang bersangkutan.
+    - Suatu veto dapat dianulir apabila terdapat Beatmap Nominator lain yang menominasikan ulang beatmap yang bersangkutan.
+    - Agar veto-veto yang ada dapat diproses secara memadai, selang waktu antar nominasi pertama dan nominasi kedua dalam suatu beatmap harus lebih dari 24 jam.
     - Inconclusive vetoes were mediated by the QAT shortly after this system's implementation. <!-- date is not exact at all, but logs are from deleted discord chat -->
 - **2016-11-02:** Beatmap Nominator files were created to keep tabs on all individual BN members.
     - These files included modding/nomination activity, disqualifications, and behavior issues.
