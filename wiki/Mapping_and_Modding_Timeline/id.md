@@ -233,7 +233,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 ### Desember
 
 - **2015-12-27:** Sistem [*BN test*](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) diperkenalkan bagi para anggota yang hendak melamar sebagai BN.
-    - Ujian ini berisikan soal-soal pilihan ganda yang menguji pemahaman masing-masing pelamar. <!-- date used is when the "BN Examinations - Answer Keys" document was created. first test was published a month or so later -->
+    - Ujian ini berisikan soal-soal pilihan ganda yang menguji pemahaman masing-masing pelamar seputar mapping dan modding. <!-- date used is when the "BN Examinations - Answer Keys" document was created. first test was published a month or so later -->
 
 Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015. Jumlah beatmap Ranked pada tahun ini kembali meningkat pesat setelah pada 4 tahun sebelumnya angka ini cenderung stagnan dari tahun ke tahun.
 
@@ -242,9 +242,9 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 ### Februari
 
 - **2016-02-13:** [Ranking Criteria Council](/wiki/Ranking_Criteria/Ranking_Criteria_Council) dibentuk untuk merombak ulang [Ranking Criteria](/wiki/Ranking_Criteria).
-    - Public proposals on the Ranking Criteria subforum were no longer considered.
-    - Taking a stance similar to the [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate), the Ranking Criteria Council involved members to represent major mapping subgroups by region. Each game mode had 1 mapper and 1 player from the Americas, Europe, and Asia, along with 2 members of the QAT.
-    - Each game mode's goal was to create a general/difficulty-specific Ranking Criteria for their respective mode. osu!catch was the only game mode that achieved this goal under this system.
+    - Anggota-anggota Ranking Criteria Council menyusun ulang Ranking Criteria dari awal tanpa mempertimbangkan proposal-proposal yang sebelumnya telah dicetuskan pada sub-forum Ranking Criteria.
+    - Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terdahulu, anggota-anggota Ranking Criteria Council sengaja dipilih untuk dapat mewakili suara-suara yang ada dari berbagai belahan dunia secara merata. Masing-masing mode permainan memiliki 1 mapper dan 1 pemain yang berasal dari benua Amerika, Eropa, dan Asia serta 2 anggota QAT.
+    - Ranking Criteria Council di kala itu diharapkan untuk dapat menyusun Ranking Criteria yang berlaku khusus untuk masing-masing mode permainan. Pada kenyataannya, hanya osu!catch.
     - The collective goal of this group was to rewrite all sections of the general Ranking Criteria. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
 - **2016-02-24:** Mapset and spread restructure was introduced to limit the number of difficulties in each difficulty tier per beatmap set.
     - Negative public reception caused this to be rolled back immediately and its [forum thread](https://osu.ppy.sh/community/forums/topics/420223) accumulated 614 responses in 24 hours, making it osu!'s fastest moving thread.
