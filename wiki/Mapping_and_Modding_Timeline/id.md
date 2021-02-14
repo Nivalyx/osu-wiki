@@ -248,7 +248,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - Di samping itu, Ranking Criteria Council juga ditugaskan untuk merapikan dokumen Ranking Criteria secara umum. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
 - **2016-02-24:** Ranking Criteria Council memberlakukan peraturan *mapset spread* baru yang membatasi jumlah tingkat kesulitan pada suatu beatmap.
     - Peraturan ini hanya diberlakukan selama beberapa jam setelah berbagai pihak merespon perubahan yang ada dengan sangat negatif. Anggota-anggota komunitas yang marah dan kecewa membanjiri [utas pengumuman yang dibuat oleh Ranking Criteria Council](https://osu.ppy.sh/community/forums/topics/420223) dengan total 614 balasan dalam rentang waktu 24 jam.
-    - This attempt at undemocratic change caused the Ranking Criteria Council to immediately have a negative reputation. <!-- https://osu.ppy.sh/community/forums/topics/420223 -->
+    - Upaya Ranking Criteria Council untuk membuat suatu perubahan yang drastis tanpa memandang dampak baik dan buruknya dari berbagai sudut pandang ini merusak reputasi Ranking Criteria Council secara menyeluruh. <!-- https://osu.ppy.sh/community/forums/topics/420223 -->
 
 ### April
 
