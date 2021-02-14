@@ -246,8 +246,8 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terdahulu, anggota-anggota Ranking Criteria Council sengaja dipilih untuk dapat mewakili suara-suara yang ada dari berbagai belahan dunia secara merata. Masing-masing mode permainan memiliki 1 mapper dan 1 pemain yang berasal dari benua Amerika, Eropa, dan Asia serta 2 anggota QAT.
     - Secara lebih spesifik, Ranking Criteria Council memiliki tugas untuk dapat membuat Ranking Criteria yang terpisah untuk masing-masing mode permainan yang ada (osu!, osu!taiko, osu!catch, dan osu!mania). Dalam kenyataannya, pada akhir masa bakti Ranking Criteria Council hanya mode osu!catch yang memiliki Ranking Criteria-nya tersendiri.
     - Di samping itu, Ranking Criteria Council juga ditugaskan untuk merapikan dokumen Ranking Criteria secara umum. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
-- **2016-02-24:** Ranking Criteria Council memberlakukan aturan *mapset spread* baru yang membatasi jumlah tingkat kesulitan pada suatu beatmap.
-    - Negative public reception caused this to be rolled back immediately and its [forum thread](https://osu.ppy.sh/community/forums/topics/420223) accumulated 614 responses in 24 hours, making it osu!'s fastest moving thread.
+- **2016-02-24:** Ranking Criteria Council memberlakukan peraturan *mapset spread* baru yang membatasi jumlah tingkat kesulitan pada suatu beatmap.
+    - Peraturan ini hanya diberlakukan selama beberapa jam setelah berbagai pihak merespon dengan sangat negatif. Anggota-anggota komunitas yang marah dan kecewa membanjiri [utas forum pengumuman](https://osu.ppy.sh/community/forums/topics/420223) accumulated 614 responses in 24 hours, making it osu!'s fastest moving thread.
     - This attempt at undemocratic change caused the Ranking Criteria Council to immediately have a negative reputation. <!-- https://osu.ppy.sh/community/forums/topics/420223 -->
 
 ### April
