@@ -160,7 +160,7 @@ Secara keseluruhan, terdapat **1460 beatmap** yang di-rank sepanjang tahun 2012.
 
 ### Desember
 
-- **2013-12-12:** Kategori [Qualified](/wiki/Beatmap/Category#qualified) resmi diperkenalkan kepada publik. Beatmap yang telah memperoleh dua nominasi akan terlebih dahulu ditempatkan di kategori Qualified selama satu minggu sebelum dapat sepenuhnya berstatus Ranked.
+- **2013-12-12:** Kategori [Qualified](/wiki/Beatmap/Category#qualified) diperkenalkan kepada publik. Beatmap yang telah memperoleh dua nominasi akan terlebih dahulu ditempatkan di kategori Qualified selama satu minggu sebelum dapat sepenuhnya berstatus Ranked.
     - Beatmap yang berada pada kategori Qualified dapat sewaktu-waktu didiskualifikasi apabila terdapat suatu masalah yang ditemukan pada beatmap yang bersangkutan. <!-- https://osu.ppy.sh/community/forums/topics/171257 -->
 - **2013-12-22:** Jabatan [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) dipindahtangankan ke tiga nama baru untuk memberikan angin segar bagi anggota-anggota BAT yang bertugas.
     - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) ditunjuk sebagai perwakilan Amerika Utara, ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) ditunjuk sebagai perwakilan Asia, dan ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) ditunjuk sebagai perwakilan Eropa yang baru. <!-- https://osu.ppy.sh/community/forums/topics/172289 -->
@@ -253,7 +253,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 ### April
 
 - **2016-04-25:** Anggota-anggota QAT mulai mengecek beatmap-beatmap Qualified *secara reaktif* alih-alih secara proaktif.
-    - QAT membuat utas forum khusus bagi para pengguna untuk dapat melaporkan suatu masalah yang mereka temui pada beatmap-beatmap Qualified. Anggota-anggota QAT kemudian akan memeriksa apakah masalah yang dilaporkan tersebut valid adanya.
+    - QAT membuka utas forum khusus bagi para pengguna untuk dapat melaporkan suatu masalah yang mereka temui pada beatmap-beatmap Qualified. Anggota-anggota QAT kemudian akan memeriksa apakah masalah yang dilaporkan tersebut valid adanya.
     - Perubahan ini diberlakukan karena persepsi publik yang kembali menilai proses diskualifikasi yang dilakukan oleh QAT sebagai sesuatu yang buruk.
     - Terdapat pengecualian pada hal pemeriksaan metadata, di mana QAT (di bawah kepemimpinan ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463)) tetap menelaah keabsahan metadata pada beatmap-beatmap Qualified yang ada secara proaktif. <!-- https://osu.ppy.sh/community/forums/topics/447417 + https://osu.ppy.sh/community/forums/topics/447428-->
 
@@ -268,19 +268,19 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 ### Agustus
 
 - **2016-08-05:** [Blog Quality Assurance Team](/wiki/Quality_Assurance_Team_Blog) diluncurkan.
-    - The QAT was receiving criticism about being too closed-off from the rest of the mapping community, so this blog was created to increase transparency for QAT decision making and community activity. <!-- https://osu.ppy.sh/community/forums/topics/578437 -->
-- **2016-08-26:** The [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) was implemented to establish modding behavior expectations.
-    - These rules and guidelines were treated as common sense up until this point. By documenting them, moderation could be made more consistent.<!-- https://osu.ppy.sh/community/forums/topics/447557 -->
+    - Blog ini diluncurkan karena QAT pada saat itu ingin lebih membuka diri kepada anggota-anggota komunitas lainnya. <!-- https://osu.ppy.sh/community/forums/topics/578437 -->
+- **2016-08-26:** [Kode etik mapping dan modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) diperkenalkan untuk membuat lingkungan mapping dan modding lebih inklusif dan lebih bertata krama bagi semua.
+    - Peraturan-peraturan yang tertera pada dokumen tersebut menjadi dasar bagi para moderator untuk mengambil tindakan terhadap para pelanggar ke depannya. <!-- https://osu.ppy.sh/community/forums/topics/447557 -->
 
 ### September
 
 - **2016-09-30:** Program [Community Mentorship](/wiki/Community_Mentorship_Program) diluncurkan ulang.
-    - Its new structure was centered around [Discord](https://discord.com/new) communication and seasonal cycles.
-    - The program was led by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
+    - Tidak seperti program Community Mentorship terdahulu, program Community Mentorship kali ini menggunakan [Discord](https://discord.com/new) sebagai sarana komunikasi utama antar para mentor dan *mentee*-nya masing-masing.
+    - Program ini diketuai oleh ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
 ### Oktober
 
-- **2016-10-17:** [Loved](/wiki/Beatmap/Category#loved) beatmap category was created.
+- **2016-10-17:** Kategori [Loved](/wiki/Beatmap/Category#loved) diperkenalkan kepada publik.
     - The category provided leaderboards for popular maps that could not be ranked for various reasons.
     - *See [History of Loved](/wiki/Beatmap/History_of_Loved) for a detailed timeline of Loved system changes.*
 
