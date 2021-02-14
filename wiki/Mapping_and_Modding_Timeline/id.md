@@ -245,14 +245,14 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - Anggota-anggota Ranking Criteria Council menyusun ulang Ranking Criteria dari awal tanpa mempertimbangkan proposal-proposal yang sebelumnya telah dicetuskan pada sub-forum Ranking Criteria.
     - Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terdahulu, anggota-anggota Ranking Criteria Council sengaja dipilih untuk dapat mewakili suara-suara yang ada dari berbagai belahan dunia secara merata. Masing-masing mode permainan memiliki 1 mapper dan 1 pemain yang berasal dari benua Amerika, Eropa, dan Asia serta 2 anggota QAT.
     - Secara lebih spesifik, Ranking Criteria Council memiliki tugas untuk dapat membuat Ranking Criteria yang terpisah untuk masing-masing mode permainan yang ada (osu!, osu!taiko, osu!catch, dan osu!mania). Dalam kenyataannya, pada akhir masa bakti Ranking Criteria Council hanya mode osu!catch yang memiliki Ranking Criteria-nya tersendiri.
-    - Di samping itu, Ranking Criteria Council juga ditugaskan untuk dapat merapikan dokumen Ranking Criteria secara umum. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
-- **2016-02-24:** Mapset and spread restructure was introduced to limit the number of difficulties in each difficulty tier per beatmap set.
+    - Di samping itu, Ranking Criteria Council juga ditugaskan untuk merapikan dokumen Ranking Criteria secara umum. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
+- **2016-02-24:** Ranking Criteria Council memberlakukan aturan *mapset spread* baru yang membatasi jumlah tingkat kesulitan pada suatu beatmap.
     - Negative public reception caused this to be rolled back immediately and its [forum thread](https://osu.ppy.sh/community/forums/topics/420223) accumulated 614 responses in 24 hours, making it osu!'s fastest moving thread.
     - This attempt at undemocratic change caused the Ranking Criteria Council to immediately have a negative reputation. <!-- https://osu.ppy.sh/community/forums/topics/420223 -->
 
 ### April
 
-- **2016-04-25:** The QAT began checking qualified maps for issues *reactively* rather than proactively.
+- **2016-04-25:** Anggota-anggota QAT mulai mengecek beatmap-beatmap Qualified *secara reaktif* alih-alih secara proaktif.
     - Users reported qualified beatmaps to the QAT for disqualification. The QAT checked confirmed or denied reported issues in their respective beatmap forum threads.
     - This change was made in response to the consistently negative view of disqualifications by the QAT. The QAT mostly distanced itself from Quality Assurance related tasks at this point.
     - Metadata checks were still done proactively by the QAT, headed by ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463). <!-- https://osu.ppy.sh/community/forums/topics/447417 + https://osu.ppy.sh/community/forums/topics/447428-->
