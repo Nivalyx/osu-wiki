@@ -247,7 +247,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - Secara lebih spesifik, Ranking Criteria Council memiliki tugas untuk dapat membuat Ranking Criteria yang terpisah untuk masing-masing mode permainan yang ada (osu!, osu!taiko, osu!catch, dan osu!mania). Dalam kenyataannya, pada akhir masa bakti Ranking Criteria Council hanya mode osu!catch yang memiliki Ranking Criteria-nya tersendiri.
     - Di samping itu, Ranking Criteria Council juga ditugaskan untuk merapikan dokumen Ranking Criteria secara umum. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
 - **2016-02-24:** Ranking Criteria Council memberlakukan peraturan *mapset spread* baru yang membatasi jumlah tingkat kesulitan pada suatu beatmap.
-    - Peraturan ini hanya diberlakukan selama beberapa jam setelah berbagai pihak merespon perubahan yang ada dengan sangat negatif. Anggota-anggota komunitas yang marah dan kecewa membanjiri [utas pengumuman yang dibuat oleh Ranking Criteria Council](https://osu.ppy.sh/community/forums/topics/420223) dengan total 614 balasan dalam rentang waktu 24 jam.
+    - Peraturan ini hanya diberlakukan selama beberapa jam setelah berbagai pihak merespon perubahan yang ada dengan sangat negatif. Anggota-anggota komunitas yang marah dan kecewa membanjiri [utas pengumuman yang dibuat oleh Ranking Criteria Council berikut](https://osu.ppy.sh/community/forums/topics/420223) dengan total 614 balasan dalam rentang waktu 24 jam.
     - Upaya Ranking Criteria Council untuk membuat suatu perubahan yang drastis tanpa memandang dampak baik dan buruknya dari berbagai sudut pandang lebih dahulu merusak reputasi Ranking Criteria Council secara menyeluruh. <!-- https://osu.ppy.sh/community/forums/topics/420223 -->
 
 ### April
