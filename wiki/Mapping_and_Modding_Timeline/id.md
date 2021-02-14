@@ -248,18 +248,18 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - Di samping itu, Ranking Criteria Council juga ditugaskan untuk merapikan dokumen Ranking Criteria secara umum. <!-- https://osu.ppy.sh/community/forums/topics/420229 -->
 - **2016-02-24:** Ranking Criteria Council memberlakukan peraturan *mapset spread* baru yang membatasi jumlah tingkat kesulitan pada suatu beatmap.
     - Peraturan ini hanya diberlakukan selama beberapa jam setelah berbagai pihak merespon perubahan yang ada dengan sangat negatif. Anggota-anggota komunitas yang marah dan kecewa membanjiri [utas pengumuman yang dibuat oleh Ranking Criteria Council](https://osu.ppy.sh/community/forums/topics/420223) dengan total 614 balasan dalam rentang waktu 24 jam.
-    - Upaya Ranking Criteria Council untuk membuat suatu perubahan yang drastis tanpa memandang dampak baik dan buruknya dari berbagai sudut pandang ini merusak reputasi Ranking Criteria Council secara menyeluruh. <!-- https://osu.ppy.sh/community/forums/topics/420223 -->
+    - Upaya Ranking Criteria Council untuk membuat suatu perubahan yang drastis tanpa memandang dampak baik dan buruknya dari berbagai sudut pandang lebih dahulu merusak reputasi Ranking Criteria Council secara menyeluruh. <!-- https://osu.ppy.sh/community/forums/topics/420223 -->
 
 ### April
 
 - **2016-04-25:** Anggota-anggota QAT mulai mengecek beatmap-beatmap Qualified *secara reaktif* alih-alih secara proaktif.
-    - Users reported qualified beatmaps to the QAT for disqualification. The QAT checked confirmed or denied reported issues in their respective beatmap forum threads.
-    - This change was made in response to the consistently negative view of disqualifications by the QAT. The QAT mostly distanced itself from Quality Assurance related tasks at this point.
-    - Metadata checks were still done proactively by the QAT, headed by ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463). <!-- https://osu.ppy.sh/community/forums/topics/447417 + https://osu.ppy.sh/community/forums/topics/447428-->
+    - QAT membuat utas forum khusus bagi para pengguna untuk dapat melaporkan suatu masalah yang mereka temui pada beatmap-beatmap Qualified. Anggota-anggota QAT kemudian akan memeriksa apakah masalah yang dilaporkan tersebut valid adanya.
+    - Perubahan ini diberlakukan karena persepsi publik yang kembali menilai buruk proses diskualifikasi yang dilakukan oleh QAT.
+    - Terdapat pengecualian pada hal pemeriksaan metadata, di mana QAT (di bawah kepemimpinan ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463)) tetap menelaah keabsahan metadata pada beatmap-beatmap yang ada secara proaktif. <!-- https://osu.ppy.sh/community/forums/topics/447417 + https://osu.ppy.sh/community/forums/topics/447428-->
 
 ### Juli
 
-- **2016-07-20:** The [United Beat-Knights of Ranking Criteria](/wiki/Ranking_Criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) was created to replace the Ranking Criteria Council.
+- **2016-07-20:** [United Beat-Knights of Ranking Criteria](/wiki/Ranking_Criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) dibentuk untuk menggantikan Ranking Criteria Council.
     - The UBKRC's goals were the same as the Ranking Criteria Council, but it was more widely accepted because it was open to community influence.
     - Teams of experts were chosen for each subsection of the Ranking Criteria (e.g. one team of storyboarding experts, another team of skinning experts, etc.).
     - The group was managed by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
