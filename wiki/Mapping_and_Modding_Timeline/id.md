@@ -291,9 +291,9 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
     - Suatu veto dapat dianulir apabila terdapat Beatmap Nominator lain yang menominasikan ulang beatmap yang bersangkutan.
     - Agar veto-veto yang ada dapat diproses secara memadai, selang waktu antar nominasi pertama dan nominasi kedua dalam suatu beatmap harus lebih dari 24 jam.
     - Veto-veto yang tidak menghasilkan kesimpulan yang mutlak akan ditinjau secara khusus oleh anggota-anggota QAT. <!-- date is not exact at all, but logs are from deleted discord chat -->
-- **2016-11-02:** Berkas rekam jejak Beatmap Nominator dibuat untuk melacak aktivitas anggota-anggota Beatmap Nominator seiring waktu.
+- **2016-11-02:** Berkas rekam jejak Beatmap Nominator dibuat untuk melacak aktivitas masing-masing anggota Beatmap Nominator seiring waktu.
     - Berkas-berkas ini meliputi berbagai informasi seperti rekam jejak modding, nominasi, diskualifikasi, and perilaku masing-masing anggota.
-    - Anggota-anggota ya "strikes" akan diberhentikan dari BN. <!-- QAT folder archives -->
+    - Anggota-anggota yang tercatat melakukan pelanggaran sebanyak tiga kali berdasarkan data-data yang ada akan diberhentikan dari BN. <!-- QAT folder archives -->
 
 Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 
@@ -301,7 +301,7 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 
 ### April
 
-- **2017-04-06:** [Beatmap Nominator Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) were implemented, splitting the BN into two subgroups called "tiers".
+- **2017-04-06:** Sistem [Beatmap Nominator Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) yang membagi anggota-anggota Beatmap Nominator ke dalam dua tingkatan ("*tier*") diperkenalkan.
     - Because the QAT was no longer acting as a quality control gate, this system was implemented to improve the quality of beatmaps entering Ranked.
     - This system mimicked the later stage of the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team).
         - Tier 1 nominators could bubble maps.
