@@ -301,7 +301,7 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 
 ### April
 
-- **2017-04-06:** Sistem [Beatmap Nominator Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) yang membagi anggota-anggota Beatmap Nominator ke dalam dua tingkatan ("*tier*") diperkenalkan.
+- **2017-04-06:** Sistem [Beatmap Nominator Tier](/wiki/Modding/Beatmap_Nominator_Tiers) yang membagi anggota-anggota Beatmap Nominator ke dalam dua tingkatan ("*tier*") diperkenalkan.
     - Because the QAT was no longer acting as a quality control gate, this system was implemented to improve the quality of beatmaps entering Ranked.
     - This system mimicked the later stage of the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team).
         - Tier 1 nominators could bubble maps.
