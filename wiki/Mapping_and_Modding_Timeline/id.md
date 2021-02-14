@@ -260,21 +260,21 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 ### Juli
 
 - **2016-07-20:** [United Beat-Knights of Ranking Criteria](/wiki/Ranking_Criteria/Ranking_Criteria_Council#united-beat-knights-of-ranking-criteria) (*UBKRC*) dibentuk untuk menggantikan Ranking Criteria Council.
-    - The UBKRC's goals were the same as the Ranking Criteria Council, but it was more widely accepted because it was open to community influence.
-    - Teams of experts were chosen for each subsection of the Ranking Criteria (e.g. one team of storyboarding experts, another team of skinning experts, etc.).
-    - The group was managed by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
-    - The UBKRC's name was chosen because it was ridiculously stupid. Its aim was to appear less authoritative than the Ranking Criteria Council. <!-- https://osu.ppy.sh/community/forums/topics/480331 -->
+    - UBKRC memiliki tujuan yang sama dengan Ranking Criteria Council, namun secara garis besar UBKRC menempatkan dirinya pada posisi yang lebih independen dan lebih terbuka terhadap masukan-masukan yang diberikan oleh anggota-anggota komunitas.
+    - Anggota-anggota UBKRC terdiri dari para ahli pada bidangnya masing-masing (e.g. pakar-pakar storyboard, pakar-pakar skinning, dsb.).
+    - Grup ini diketuai oleh ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
+    - Nama UBKRC sengaja dipilih karena nama tersebut terkesan konyol dan mengada-ada. Hal ini ditujukan agar UBKRC tidak terkesan kaku seperti Ranking Criteria Council terdahulu. <!-- https://osu.ppy.sh/community/forums/topics/480331 -->
 
 ### Agustus
 
-- **2016-08-05:** The [Quality Assurance Team blog](/wiki/Quality_Assurance_Team_Blog) was created.
+- **2016-08-05:** [Blog Quality Assurance Team](/wiki/Quality_Assurance_Team_Blog) diluncurkan.
     - The QAT was receiving criticism about being too closed-off from the rest of the mapping community, so this blog was created to increase transparency for QAT decision making and community activity. <!-- https://osu.ppy.sh/community/forums/topics/578437 -->
 - **2016-08-26:** The [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) was implemented to establish modding behavior expectations.
     - These rules and guidelines were treated as common sense up until this point. By documenting them, moderation could be made more consistent.<!-- https://osu.ppy.sh/community/forums/topics/447557 -->
 
 ### September
 
-- **2016-09-30:** Program [Community Mentorship](/wiki/Community_Mentorship_Program) resmi diluncurkan ulang.
+- **2016-09-30:** Program [Community Mentorship](/wiki/Community_Mentorship_Program) diluncurkan ulang.
     - Its new structure was centered around [Discord](https://discord.com/new) communication and seasonal cycles.
     - The program was led by ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_AR] [Yuii-](https://osu.ppy.sh/users/2935923) <!-- https://osu.ppy.sh/community/forums/topics/506906 -->
 
