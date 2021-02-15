@@ -321,12 +321,12 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 ### Juni
 
 - **2017-06-02:** Jumlah nominasi yang dibutuhkan untuk me-rank beatmap yang memiliki durasi di atas 5 menit (*marathon beatmap*) dikurangi dari 3 nominasi menjadi 2 nominasi.
-    - They previously required 3 nominations because it was expected that marathons had more content to check than a normal mapset, but this was no longer true.
+    - Perubahan ini diberlakukan karena beatmap-beatmap tersebut tidak lagi dianggap berbeda dengan beatmap-beatmap lain pada umumnya.
     - Penggunaan ikon `flame` (![flame icon](/wiki/shared/icon/flame.gif)) sepenuhnya diberhentikan. <!-- https://osu.ppy.sh/community/forums/topics/631077?start=6050796 -->
 
 ### September
 
-- **2017-09-10:** The "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" was implemented. This was a series of changes in response to dissatisfaction from the mapping community under leadership by [osu!team](/wiki/People/The_Team) higher-ups. Following this change, the QAT began self-leadership without higher-up intervention.
+- **2017-09-10:** Proposal "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)" resmi disahkan dan diberlakukan. Proposal ini merupakan suatu bentuk aspirasi dari berbagai anggota komunitas yang merasa kurang puas dengan campur tangan [osu!team](/wiki/People/The_Team) di lingkungan mapping dan modding. QAT mulai bergerak secara lebih independen tanpa adanya dari atas.
     - [BN Tiers](/wiki/Modding/Beatmap_Nominator_Tiers) were replaced with [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominators). Two probationary BN members could not nominate the same beatmap and users could not be in Probation for more than two months at a time.
     - Beatmap Nominators were given purple titles on the forums.
     - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) and ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) were appointed as [QAT leaders](/wiki/Modding/QAT_Leaders) by a vote of BN/QAT members. Their responsibility was to work with the osu!team to maintain the mapping and modding communities.
