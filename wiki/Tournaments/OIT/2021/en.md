@@ -54,6 +54,7 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1215072)
 - [Discord server](https://discordapp.com/invite/CHRFffH "Discord")
 - [Livestream channel](https://www.twitch.tv/osuindonesia "Twitch")
+- [Challonge brackets](https://challonge.com/OIT2021 "Challonge")
 
 ## Participants
 
@@ -87,12 +88,12 @@ Listed below are players who qualified into the Round of 32 (along with their re
 | 24 | ![][flag_ID] [Eliz](https://osu.ppy.sh/users/11759284) | 27.2 |
 | 25 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | 27.3 |
 | 26 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | 27.6 |
-| 27 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 28 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 29 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 30 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 31 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 32 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 27 | ![][flag_ID] [Clayweg](https://osu.ppy.sh/users/11374005) | 28.2 |
+| 28 | ![][flag_ID] [ngonk](https://osu.ppy.sh/users/4750008) | 28.7 |
+| 29 | ![][flag_ID] [Contra](https://osu.ppy.sh/users/12011863) | 29.4 |
+| 30 | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | 29.5 |
+| 31 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | 31.5 |
+| 32 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | 31.7 |
 
 ## Mappools
 
