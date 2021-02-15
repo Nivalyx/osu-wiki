@@ -55,6 +55,45 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 - [Discord server](https://discordapp.com/invite/CHRFffH "Discord")
 - [Livestream channel](https://www.twitch.tv/osuindonesia "Twitch")
 
+## Participants
+
+Listed below are players who qualified into the Round of 32 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 106 registered players in total.
+
+| Seed No. | Player | Avg. Map Rank |
+| :-- | :-- | :-- |
+| 1 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 2 | ![][flag_ID] [rho](https://osu.ppy.sh/users/1629553) | 8.5 |
+| 3 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 4 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 5 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 6 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 7 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 8 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 9 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 10 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 11 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 12 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 13 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 14 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 15 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 16 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 17 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 18 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 19 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 20 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 21 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 22 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 23 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 24 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 25 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 26 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 27 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 28 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 29 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 30 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 31 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 32 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+
 ## Mappools
 
 ### Round of 32
