@@ -306,9 +306,9 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
     - Sistem ini serupa dengan sistem yang berlaku pada masa [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team).
         - Anggota-anggota BN yang berada pada tier 1 hanya dapat menyematkan ikon bubble tanpa dapat me-rank beatmap secara langsung.
         - Anggota-anggota BN yang berada pada tier 2 dapat menyematkan ikon bubble dan me-rank beatmap sepenuhnya.
-    - Anggota-anggota BN dipisahkan ke dalam dua tingkatan berdasarkan hasil (*BN Test*) Tiers were decided by a BN test designed around identifying overarching issues in beatmaps. Test results were terrible, revealing that the test's design was flawed.
-    - Contrary to its goals, this system lowered motivation for all tier 1 nominators and overworked the few motivated tier 2 nominators. Mappers had fewer BN resources and the total maps ranked during the tiers period diminished.
-    - No Beatmap Nominators were added to the 2nd tier for the 5 months this system was active, which hugely bottlenecked ranking speeds. <!-- https://osu.ppy.sh/community/forums/topics/578413 -->
+    - Anggota-anggota BN dipisahkan ke dalam dua tingkatan berdasarkan hasil BN Test masing-masing.
+    - Walaupun sistem ini dibuat untuk membawa lingkungan modding dan mapping yang ada ke arah yang lebih baik, dalam kenyataannya sistem ini tidak berlaku secara efektif di mana anggota-anggota BN yang berada pada tier 1 menjadi tidak termotivasi dan anggota-anhgota BN yang berada pada tier 2 menjadi terlalu terbebani.
+    - Akibatnya, jumlah beatmap yang di-rank pada masa itu sempat menurun tajam. Hal ini diperparah dengan tidak selama 5 bulan. No Beatmap Nominators were added to the 2nd tier for the 5 months this system was active, which hugely bottlenecked ranking speeds. <!-- https://osu.ppy.sh/community/forums/topics/578413 -->
 
 ### Mei
 
