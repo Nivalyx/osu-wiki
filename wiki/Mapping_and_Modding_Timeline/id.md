@@ -316,7 +316,7 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
     - Pada server tersebut, anggota-anggota BN yang ada terbagi secara acak ke dalam berbagai sub-divisi. Setiap sub-divisi dipimpin oleh satu orang perwakilan dari QAT dan dibebaskan untuk menentukan arah geraknya masing-masing.
     - Hal-hal yang berkaitan dengan organisasi internal QAT berpindah dari forum osu! ke server ini.
 - **2017-05-23:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) meluncurkan bot Discord [Aiess](/wiki/Projects#miscellaneous).
-    - Bot ini menampilkan pesan (*feed*) secara *real time* setiap terdapat nominasi dan diskualifikasi baru pada server-server Discord.
+    - Bot ini berfungsi untuk menampilkan pesan (*feed*) secara *real-time* setiap terdapat nominasi dan diskualifikasi baru pada server-server Discord.
 
 ### Juni
 
