@@ -320,9 +320,9 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 
 ### Juni
 
-- **2017-06-02:** Marathon beatmaps began to require 2 nominations instead of 3.
+- **2017-06-02:** Jumlah nominasi yang dibutuhkan untuk me-rank beatmap yang memiliki durasi di atas 5 menit (*marathon beatmap*) dikurangi dari 3 nominasi menjadi 2 nominasi.
     - They previously required 3 nominations because it was expected that marathons had more content to check than a normal mapset, but this was no longer true.
-    - The `flame` (![flame icon](/wiki/shared/icon/flame.gif)) icon discontinued use. <!-- https://osu.ppy.sh/community/forums/topics/631077?start=6050796 -->
+    - Penggunaan ikon `flame` (![flame icon](/wiki/shared/icon/flame.gif)) sepenuhnya diberhentikan. <!-- https://osu.ppy.sh/community/forums/topics/631077?start=6050796 -->
 
 ### September
 
