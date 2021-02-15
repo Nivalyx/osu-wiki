@@ -302,20 +302,20 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 ### April
 
 - **2017-04-06:** Sistem [Beatmap Nominator Tier](/wiki/Modding/Beatmap_Nominator_Tiers) yang membagi anggota-anggota Beatmap Nominator ke dalam dua tingkatan ("*tier*") diperkenalkan.
-    - Perubahan ini diberlakukan untuk memperketat proses penjaminan mutu terhadap beatmap-beatmap yang ada.
+    - Perubahan ini diberlakukan untuk meningkatkan standar proses penjaminan mutu pada beatmap-beatmap yang ada.
     - Sistem ini serupa dengan sistem yang berlaku pada masa [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team).
         - Anggota-anggota BN yang berada pada tier 1 hanya dapat menyematkan ikon bubble tanpa dapat me-rank beatmap secara langsung.
         - Anggota-anggota BN yang berada pada tier 2 dapat menyematkan ikon bubble dan me-rank beatmap sepenuhnya.
     - Anggota-anggota BN dipisahkan ke dalam dua tingkatan berdasarkan hasil BN Test masing-masing.
-    - Walaupun sistem ini dibuat untuk membawa lingkungan modding dan mapping yang ada ke arah yang lebih baik, dalam kenyataannya sistem ini tidak berlaku secara efektif di mana anggota-anggota BN yang berada pada tier 1 menjadi tidak termotivasi dan anggota-anhgota BN yang berada pada tier 2 menjadi terlalu terbebani.
-    - Akibatnya, jumlah beatmap yang di-rank pada masa itu sempat menurun tajam. Hal ini diperparah dengan tidak selama 5 bulan. No Beatmap Nominators were added to the 2nd tier for the 5 months this system was active, which hugely bottlenecked ranking speeds. <!-- https://osu.ppy.sh/community/forums/topics/578413 -->
+    - Walaupun sistem ini ditujukan untuk membawa lingkungan modding dan mapping yang ada ke arah yang lebih baik, dalam penerapannya sistem ini malah membuat anggota-anggota BN yang berada pada tier 1 menjadi tidak termotivasi dan anggota-anhgota BN yang berada pada tier 2 menjadi terlalu terbebani.
+    - Akibatnya, jumlah beatmap yang di-rank pada masa itu sempat menurun tajam. Hal ini diperparah dengan tidak adanya nama baru yang dipromosikan ke dalam tier 2 selama 5 bulan. <!-- https://osu.ppy.sh/community/forums/topics/578413 -->
 
 ### Mei
 
-- **2017-05-22:** Beatmap Nominator Discord server was created for BN subdivisions.
-    - Subdivisions were designed as focus groups of randomly selected nominators from both tiers led by a member of the QAT.
-    - Most QAT management shifted to this server despite resistance from osu! higher-ups.
-- **2017-05-23:** Discord bot [Aiess](/wiki/Projects#miscellaneous) was created by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
+- **2017-05-22:** Server Discord khusus Beatmap Nominator resmi dibuka.
+    - Pada server tersebut, anggota-anggota BN yang ada terbagi secara acak ke dalam berbagai sub-divisi. Setiap sub-divisi dipimpin oleh satu orang perwakilan dari QAT dan dibebaskan untuk menentukan arah geraknya masing-masing.
+    - Hal-hal yang berkaitan dengan organisasi QAT berpindah ke server ini.
+- **2017-05-23:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) meluncurkan bot Discord [Aiess](/wiki/Projects#miscellaneous).
     - This provided a feed of mapping related events in osu! Discord servers, starting with nomination and disqualification feeds.
 
 ### Juni
