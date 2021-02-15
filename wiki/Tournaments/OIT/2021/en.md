@@ -57,6 +57,34 @@ OIT 2021 is run by various osu! community members predominantly hailing from Ind
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bpPhDewj_pXvKkB45Iwzu8JXvcqCJKpT/view)**
+
+- NoMod
+  - [Natsume Itsuki - Beginning (Garden) \[Prologue\]](https://osu.ppy.sh/beatmapsets/1173059#osu/2446555)
+  - [cosMo@BousouP - Hyper LATiON (-Tynamo) \[Astronic's Extra\]](https://osu.ppy.sh/beatmapsets/1281410#osu/2680501)
+  - [Cilvery - Kamisama Nejimaki (sukiNathan) \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/374900#osu/821238)
+  - [Krewella - Killin' It (Sped Up Ver.) (tatemae) \[Syntagmatic\]](https://osu.ppy.sh/beatmapsets/1231408#osu/2559899)
+  - [MAX MAXIMIZER vs. DJ TOTTO - Rebellio (Realazy) \[NINO'S EXTRA\]](https://osu.ppy.sh/beatmapsets/744636#osu/1593690)  
+- Hidden
+  - [LiSA - ADAMAS (VINXIS) \[winber1 x Sing's Extra\]](https://osu.ppy.sh/beatmapsets/867789#osu/1819540)
+  - [ririco - Kawaiku Naritai (feat. Sana) (Moecho) \[Kawaiku Natta\]](https://osu.ppy.sh/beatmapsets/1342061#osu/2779993)
+  - [Green Day - Basket Case (h3ct1c) \[xbopost's Insane\]](https://osu.ppy.sh/beatmapsets/1142364#osu/2407774)  
+- HardRock
+  - [Nanahoshi Kangengakudan - ITYNITED IDENTITY (sammish) \[Unidentifiable\]](https://osu.ppy.sh/beatmapsets/744955#osu/1570573)
+  - [Nekomata Master - Izanami's wail (Uberzolik) \[Insane\]](https://osu.ppy.sh/beatmapsets/792367#osu/1662038)
+  - [Rabpit - Sacred (Matrix) \[Insane\]](https://osu.ppy.sh/beatmapsets/1044692#osu/2185350)  
+- DoubleTime
+  - [SHK - SO HOT (Remix by SHK) (AngelHoney) \[Hard\]](https://osu.ppy.sh/beatmapsets/40086#osu/127409)
+  - [zts - worldenddominator (deetz) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/897884#osu/1946272)
+  - [Chata - Engage (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/875962#osu/1832015)
+- FreeMod
+  - [Glasslake - Separated Union (DaRRi MIx) \[Hard\]](https://osu.ppy.sh/beatmapsets/17935#osu/63787)
+  - [ARForest - Lantinid (Nozhomi) \[Niva's Extra\]](https://osu.ppy.sh/beatmapsets/1250431#osu/2668675)  
+- Tiebreaker
+  - **[wavforme x Annabel - own phrases (captin1) \[Abyss\]](https://osu.ppy.sh/beatmapsets/894919#osu/1870002)**
+
 ### Qualifiers
 
 **[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1V68Jl6ddSMMXsWiBhA0ZWXoS4aWeLRaA/view)**
