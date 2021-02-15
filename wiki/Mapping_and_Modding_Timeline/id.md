@@ -302,8 +302,8 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 ### April
 
 - **2017-04-06:** Sistem [Beatmap Nominator Tier](/wiki/Modding/Beatmap_Nominator_Tiers) yang membagi anggota-anggota Beatmap Nominator ke dalam dua tingkatan ("*tier*") diperkenalkan.
-    - Because the QAT was no longer acting as a quality control gate, this system was implemented to improve the quality of beatmaps entering Ranked.
-    - This system mimicked the later stage of the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team).
+    - Perubahan ini diberlakukan untuk memperketat proses penjaminan mutu terhadap beatmap-beatmap yang ada.
+    - Sistem ini serupa dengan sistem yang berlaku pada masa [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team).
         - Tier 1 nominators could bubble maps.
         - Tier 2 nominators could bubble and qualify maps.
     - Tiers were decided by a BN test designed around identifying overarching issues in beatmaps. Test results were terrible, revealing that the test's design was flawed.
@@ -429,7 +429,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 ### Agustus
 
-- **2019-08-05:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) released the [Mapset Verifier](/wiki/Projects#modding) tool, automating a significant portion of beatmap checking processes for Beatmap Nominators.
+- **2019-08-05:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) merilis program [Mapset Verifier](/wiki/Projects#modding) yang ditujukan untuk membantu anggota-anggota Beatmap Nominator dalam menangani berbagai isu yang terdapat pada suatu beatmap.
 - **2019-08-06:** Beatmap Nominators became able to participate in BN application evaluations.
     - BN input is visible to the NAT when trying to reach a consensus, though they are rarely used to sway a vote.
     - The NAT often use BN input to help determine future NAT members. <!-- https://github.com/pishifat/qat/commit/a8245a4c6fefcfe9368ffc1eee7e13ad6f8bb6af -->
