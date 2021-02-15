@@ -63,21 +63,21 @@ Listed below are players who qualified into the Round of 32 (along with their re
 | :-- | :-- | :-- |
 | 1 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
 | 2 | ![][flag_ID] [rho](https://osu.ppy.sh/users/1629553) | 8.5 |
-| 3 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 4 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 5 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 6 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 7 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 8 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 9 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 10 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 11 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 12 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 13 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 14 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 15 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 16 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 17 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
+| 3 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | 8.6 |
+| 4 | ![][flag_ID] [Deeto](https://osu.ppy.sh/users/10069909) | 9.0 |
+| 5 | ![][flag_ID] [MineFrostID](https://osu.ppy.sh/users/12159899) | 9.1 |
+| 6 | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | 10.4 |
+| 7 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | 10.6 |
+| 8 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | 11.1 |
+| 9 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | 12.2 |
+| 10 | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | 14.0 |
+| 11 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 15.2 |
+| 12 | ![][flag_ID] [- Rosemary -](https://osu.ppy.sh/users/2526649) | 17.7 |
+| 13 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 18.4 |
+| 14 | ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314) | 18.5 |
+| 15 | ![][flag_ID] [Herbayse](https://osu.ppy.sh/users/4924094) | 18.9 |
+| 16 | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | 21.1 |
+| 17 | ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) | 21.3 |
 | 18 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
 | 19 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
 | 20 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
