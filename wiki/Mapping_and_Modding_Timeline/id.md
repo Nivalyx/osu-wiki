@@ -331,11 +331,11 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
     - Anggota-anggota BN ditandai dengan nama pengguna yang berwarna ungu pada forum. 
     - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) berdasarkan hasil pemungutan suara yang diikuti oleh seluruh anggota BN dan QAT. Mereka bekerja sama dengan osu!team untuk memoderasi lingkungan mapping dan modding secara keseluruhan.
     - Anggota-anggota BN dan QAT yang telah menjabat dalam kurun-kurun waktu tertentu diberikan penghargaan berupa *profile badge* sesuai dengan besar kontribusinya masing-masing. Pengakuan balas jasa ini diberikan untuk meningkatkan motivasi BN dan QAT yang di kala itu sedang berada pada titik yang cukup rendah. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
-    - Dengan sistem pemeriksaan yang jauh lebih lengang dan terbuka, beatmap-beatmap yang sebelumnya dipandang kontroversial seperti *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)*) dan lain sebagainya mulai lebih dapat diterima oleh berbagai pihak.
+    - Perubahan ini membuat lingkungan mapping dan modding yang ada menjadi jauh lebih mengayomi dan terbuka antar satu sama lain. Beatmap-beatmap yang sebelumnya dipandang kontroversial seperti *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)*) dan lain sebagainya mulai lebih dapat diterima oleh berbagai pihak.
 
 ### Oktober
 
-- **2017-10-01:** Sistem [BN test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) dihapus. Para pelamar yang mengajukan diri untuk menjadi BN kini ditinjau berdasarkan kualitas *mod post* yang diajukan oleh masing-masing pelamar.
+- **2017-10-01:** Sistem [BN test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) dihapus. Kelayakan para pelamar yang mengajukan diri untuk menjadi BN kini ditinjau berdasarkan kualitas *mod post* yang diajukan oleh masing-masing pelamar.
     - Perubahan ini diberlakukan karena sistem BN test rawan untuk dicurangi. <!-- date not exact, based on discord logs -->
 
 ### Desember
@@ -352,10 +352,10 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Maret
 
-- **2018-03-01:** QAT separated its tasks into branches: BN evaluation, disqualifications, metadata, spotlights, blog, Ranking Criteria, and general leadership.
-    - QAT members could be involved in multiple branches.
-    - This aimed to give purpose to some QAT members who felt that they had no specific roles in the mapping/modding community. This feeling was largely relevant because the QAT had little involvement with Quality Assurance anymore. <!-- source is discord logs -->
-- **2018-03-03:** `#modding` channel was created in the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
+- **2018-03-01:** QAT memperkenalkan sistem divisi tugas bagi anggota-anggotanya: evaluasi BN, diskualifikasi, metadata, spotlights, blog, Ranking Criteria, dan kepemimpinan umum.
+    - Anggota-anggota QAT dapat berada pada beberapa divisi tugas yang berbeda.
+    - Perubahan ini diberlakukan agar anggota-anggota QAT lebih memiliki tujuan dan alur kerja yang jelas. Sebelumnya, banyak anggota QAT yang mengeluhkan  <!-- source is discord logs -->
+- **2018-03-03:** Kanal `#modding` pada [server Discord osu!dev](/wiki/osu!dev_Discord_server) mulai dibuka.
     - While its goal was to shift mapping discussion away from the BN Discord server, this discussion center was rarely used apart from scheduled QAT meetings. <!-- source is discord logs -->
 - **2018-03-24:** Ranking Criteria subforum was re-opened for public proposal discussions and the UBKRC was discontinued.
     - The UBKRC was discontinued at this time because all subsections of the general and game mode Ranking Criteria were finalized. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
