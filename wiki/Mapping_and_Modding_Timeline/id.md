@@ -420,7 +420,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 ### Mei
 
 - **2019-05-05:** Proposal perombakan ulang BN/QAT resmi disahkan dan diberlakukan.
-    - Quality Assurance Team berubah nama menjadi [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
+    - Quality Assurance Team berganti nama menjadi [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
     - Anggota-anggota Beatmap Nominator mulai sepenuhnya bertanggung jawab untuk menangani proses diskualifikasi dan mediasi veto. Apabila terdapat suatu beatmap yang diveto oleh seorang Beatmap Nominator, anggota-anggota Beatmap Nominator lainnya dapat mengkaji dan memberikan suara terhadap veto yang bersangkutan secara terpisah tanpa campur tangan satu sama lain (*blind vote*). 
     - [Situs web Beatmap Nominator](https://bn.mappersguild.com/) diluncurkan untuk memudahkan anggota-anggota BN/NAT dalam melaksanakan tugasnya masing-masing.
         - Melalui situs web Beatmap Nominator tersebut, para pengguna dapat melamar untuk bergabung ke dalam BN kapanpun tanpa terikat oleh batasan waktu. Sistem siklus yang sebelumnya berlaku tidak lagi dilanjutkan.
