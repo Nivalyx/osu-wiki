@@ -382,9 +382,9 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Juli
 
-- **2018-07-29:** New beatmap spread rules were implemented, completely reshaping how many difficulties were created in ranked mapsets going forward.
-    - Prior to this change, any map with a drain time shorter than 5 minutes required a full difficulty spread. After the change, difficulty spread requirements were more lenient for longer beatmaps below 5 minutes of drain time.
-    - *For more details on this change, read its [forum thread](https://osu.ppy.sh/community/forums/topics/726474).*<!-- https://osu.ppy.sh/community/forums/topics/726474 -->
+- **2018-07-29:** Peraturan *mapset spread* yang baru mulai diberlakukan.
+    - Sebelumnya, beatmap-beatmap dengan durasi di aPrior to this change, any map with a drain time shorter than 5 minutes required a full difficulty spread. After the change, difficulty spread requirements were more lenient for longer beatmaps below 5 minutes of drain time.
+    - *Untuk informasi lebih lanjut mengenai perubahan ini, lihat [utas forum](https://osu.ppy.sh/community/forums/topics/726474) berikut.*<!-- https://osu.ppy.sh/community/forums/topics/726474 -->
 
 ### Desember
 
