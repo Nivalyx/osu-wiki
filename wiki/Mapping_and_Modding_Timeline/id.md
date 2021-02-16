@@ -423,9 +423,9 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
     - Quality Assurance Team berubah nama menjadi [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
     - Anggota-anggota Beatmap Nominator mulai sepenuhnya bertanggung jawab untuk menangani proses diskualifikasi dan mediasi veto. Apabila terdapat suatu beatmap yang diveto oleh seorang Beatmap Nominator, anggota-anggota Beatmap Nominator lainnya dapat mengkaji dan memberikan suara terhadap veto yang bersangkutan secara terpisah tanpa campur tangan satu sama lain (*blind vote*). 
     - [Situs web Beatmap Nominator](https://bn.mappersguild.com/) diluncurkan untuk memudahkan anggota-anggota BN/NAT dalam melaksanakan tugasnya masing-masing.
-        - Melalui situs web tersebut, para pengguna dapat melamar untuk bergabung ke dalam BN kapanpun tanpa terikat oleh batasan waktu. Hal ini mengggantikan sistem siklus yang sebelumnya diterapkan.
-        - Reports for inappropriate beatmaps and BN/NAT misconduct were shifted from a Google Form to the BN website.
-        - Statistics and evaluations for BN modding/nomination activity and proficiency shifted from painfully inefficient Google Spreadsheets to the BN website, hugely increasing productivity for Beatmap Nominator management. <!-- https://osu.ppy.sh/home/news/2019-05-05-bn-and-qat-restructure -->
+        - Melalui situs web Beatmap Nominator tersebut, para pengguna dapat melamar untuk bergabung ke dalam BN kapanpun tanpa terikat oleh batasan waktu. Sistem siklus yang sebelumnya berlaku tidak lagi dilanjutkan.
+        - Para pengguna juga dapat melaporkan beatmap-beatmap yang melanggar peraturan dam perilaku anggota-anggota BN/NAT yang dinilai menyimpang melalui situs web Beatmap Nominator.
+        - Di samping itu, rekam jejak nominasi dan hasil evaluasi masing-masing anggota BN (yang sebelumnya dicatat secara manual di Google Spreadsheets) mulai tercatat secara otomatis pada situs web Beatmap Nominator. Hal ini meningkatkan efisiensi NAT dalam mengelola BN secara signifikan. <!-- https://osu.ppy.sh/home/news/2019-05-05-bn-and-qat-restructure -->
 
 ### Agustus
 
@@ -455,6 +455,32 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 ### April
 
 - **2020-04-11:** Buletin Mappers' Report <!-- TODO: stub --> yang diprakarsai oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) mulai dipublikasikan secara rutin pada laman berita osu! setiap bulannya. Buletin ini merangkum hal-hal terkini terkait mapping dan modding di dalam lingkungan osu! dari waktu ke waktu.
+
+### October
+
+- **2020-10-02:** [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) were established to combat behavior concerns within the group. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
+    - Concerns included low approachability, uncivil actions in community settings, and questionable ranking quality standards.
+    - This resulted in the immediate removal of 5 Beatmap Nominators.
+- **2020-10-29:** Beatmap Nominator game mode proficiency became visible on osu! web. <!-- https://github.com/ppy/osu-web/pull/6747 -->
+
+### November
+
+- **2020-11-30:** Hybrid beatmapsets were reworked to require 2 nominations per game mode. <!-- https://github.com/ppy/osu-web/pull/6832 -->
+    - Nominators proficient in multiple game modes could select one or more game modes to nominate on applicable mapsets.
+
+### December
+
+- **2020-12-17:** Inappropriate content review submission and evaluation were moved from Discord discussions to blind votes via the [Beatmap Nominator website](https://bn.mappersguild.com/).
+
+**3580 beatmaps** were ranked in 2020.
+
+## 2021
+
+### January
+
+- **2021-01-05:** `Explicit` label for beatmaps was implemented to clean up inappropriate old ranked content and permit previously unacceptable song content. <!-- https://github.com/ppy/osu-web/pull/6575 -->
+    - This change did not apply to visual content in pending beatmaps. These continue to follow [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations).
+- **2021-01-30:** In-game chat channel `#modhelp` was replaced by `#mapping` because the original channel was primarily used for mapping discussion.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
