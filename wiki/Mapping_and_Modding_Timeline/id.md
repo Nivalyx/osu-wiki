@@ -348,7 +348,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Februari
 
-- **2018-02-08:** [Mappers' Guild](/wiki/Mappers_Guild) dibuka secara publik bagi para mapper yang ingin membuat beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists). <!-- https://osu.ppy.sh/community/forums/topics/700654 -->
+- **2018-02-08:** [Mappers' Guild](/wiki/Mappers_Guild) dibentuk bagi para mapper yang ingin membuat beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists). <!-- https://osu.ppy.sh/community/forums/topics/700654 -->
 
 ### Maret
 
@@ -410,8 +410,8 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 ### Maret
 
-- **2019-03-01:** [Mappers' Guild](/wiki/Mappers_Guild) bertransisi dari sistem aplikasi yang memiliki setidaknya 3 beatmap Ranked.
-    - [Featured Artist](/wiki/Featured_Artists) beatmaps became more frequently created and ranked.
+- **2019-03-01:** [Mappers' Guild](/wiki/Mappers_Guild) mulai menerima siapapun yang memiliki setidaknya 3 beatmap Ranked untuk menjadi anggota tanpa terkecuali.
+    - Beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists) .
     - `#mappers-guild` channel was created in the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
 - **2019-03-13:** Rule requiring consecutive nominations to be set at least 24 hours apart from each other was removed.
     - This rule was a major complaint from mappers and Beatmap Nominators because it felt like it was unnecessarily wasting everyone's time. If an issue was found after the first nomination, the second nominator would often avoid pointing it out to avoid an extra 24 hour wait.
