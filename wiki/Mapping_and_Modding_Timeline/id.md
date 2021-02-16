@@ -377,18 +377,18 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 - **2018-06-21:** Regu [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) dibentuk.
     - Regu ini dibentuk untuk memastikan setiap beatmap yang di-rank telah dikaji oleh minimal 2 orang BN/QAT.
-    - The program was managed via Trello and automated by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) through Aiess.
-    - This change was one of the primary reasons that the QAT was later renamed. <!-- https://osu.ppy.sh/community/forums/topics/764134 + https://trello.com/b/iEsda45d/quality-assurance-helpers -->
+    - Regu ini bekerja melalui situs Trello dengan dibantu oleh bot Aiess yang dibuat oleh ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817).
+    - Keberadaan regu ini merupakan salah satu alasan di balik perubahan nama QAT menjadi NAT pada bulan Mei 2019 kelak. <!-- https://osu.ppy.sh/community/forums/topics/764134 + https://trello.com/b/iEsda45d/quality-assurance-helpers -->
 
 ### Juli
 
 - **2018-07-29:** Peraturan *mapset spread* yang baru mulai diberlakukan.
-    - Sebelumnya, beatmap-beatmap dengan durasi di aPrior to this change, any map with a drain time shorter than 5 minutes required a full difficulty spread. After the change, difficulty spread requirements were more lenient for longer beatmaps below 5 minutes of drain time.
+    - Sebelumnya, beatmap yang memiliki durasi permainan di bawah 5 menit wajib memiliki jenjang tingkat kesulitan yang lengkap dari Normal ke atas. Perubahan ini dibuat agar beatmap yang memiliki durasi permainan di bawah 5 menit dapat di-rank tanpa harus memiliki jenjang tingkat kesulitan yang lengkap dengan syarat-syarat tertentu.
     - *Untuk informasi lebih lanjut mengenai perubahan ini, lihat [utas forum](https://osu.ppy.sh/community/forums/topics/726474) berikut.*<!-- https://osu.ppy.sh/community/forums/topics/726474 -->
 
 ### Desember
 
-- **2018-12-12:** The osu!team took a [negative stance on beatmap commissions](https://osu.ppy.sh/community/forums/topics/840838).
+- **2018-12-12:** osu!team secara resmi [menyatakan sikap yang menolak praktek komisi beatmap (*beatmap commission*) yang tidak sesuai etika](https://osu.ppy.sh/community/forums/topics/840838).
     - The team acknowledged that commissions will happen, but pledged to take no action unless members of the BN or QAT were involved.
 - **2018-12-17:** ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) became a [QAT leader](/wiki/Modding/QAT_Leaders) after ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) stepped down.
     - Like his predecessor, he continued working with the osu!team to manage the mapping/modding scenes. <!-- source is discord logs -->
