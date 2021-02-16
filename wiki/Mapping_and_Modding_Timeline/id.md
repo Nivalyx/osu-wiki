@@ -356,7 +356,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
     - Anggota-anggota QAT dapat berada pada beberapa divisi tugas yang berbeda.
     - Perubahan ini diberlakukan agar anggota-anggota QAT lebih memiliki tujuan dan alur kerja yang nyata. Sebelumnya, banyak anggota QAT yang mengeluhkan kurang jelasnya arahan yang mereka terima. <!-- source is discord logs -->
 - **2018-03-03:** Kanal `#modding` pada [server Discord osu!dev](/wiki/osu!dev_Discord_server) mulai dibuka.
-    - Kanal ini dibentuk sebagai suatu ruang diskusi yang terbuka bagi seluruh kalangan untuk membahas berbagai hal yang berkaitan dengan mapping dan modding serta sebagai tempat untuk menggelar rapat internal QAT. <!-- source is discord logs -->
+    - Kanal ini dibentuk sebagai suatu ruang diskusi yang terbuka bagi seluruh kalangan untuk membahas berbagai hal yang berkaitan dengan mapping dan modding serta sebagai tempat untuk menggelar rapat publik QAT. <!-- source is discord logs -->
 - **2018-03-24:** Sub-forum Ranking Criteria kembali dibuka untuk umum setelah UBKRC dibubarkan.
     - Pembubaran UBKRC berkaitan dengan telah disahkannya Ranking Criteria versi baru yang diusung oleh UBKRC. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
 
