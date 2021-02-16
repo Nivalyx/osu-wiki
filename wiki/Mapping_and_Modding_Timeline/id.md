@@ -375,8 +375,8 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Juni
 
-- **2018-06-21:** Kelompok [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) diperkenalkan.
-    - This was designed to ensure that all qualified beatmaps were reviewed by at least 2 BN or QAT members before rank.
+- **2018-06-21:** Regu [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) dibentuk.
+    - Regu ini dibentuk untuk memastikan setiap beatmap yang di-rank telah dikaji oleh minimal 2 orang BN/QAT.
     - The program was managed via Trello and automated by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) through Aiess.
     - This change was one of the primary reasons that the QAT was later renamed. <!-- https://osu.ppy.sh/community/forums/topics/764134 + https://trello.com/b/iEsda45d/quality-assurance-helpers -->
 
