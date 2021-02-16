@@ -405,22 +405,22 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 ### Januari
 
-- **2019-01-29:** Proposal untuk merombak ulang QAT mulai digarap berdasarkan saran-saran yang ditampung masuk dari berbagai anggota komunitas.
+- **2019-01-29:** Proposal perombakan ulang QAT mulai digarap berdasarkan saran-saran yang ditampung masuk dari berbagai anggota komunitas.
     - Salah satu ide yang disetujui di kala itu adalah penggantian nama QAT menjadi [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*). <!-- https://osu.ppy.sh/community/forums/topics/862002 -->
 
 ### Maret
 
 - **2019-03-01:** [Mappers' Guild](/wiki/Mappers_Guild) mulai menerima siapapun yang memiliki setidaknya 3 beatmap Ranked untuk menjadi anggota tanpa terkecuali.
-    - Beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists) .
-    - `#mappers-guild` channel was created in the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
-- **2019-03-13:** Rule requiring consecutive nominations to be set at least 24 hours apart from each other was removed.
+    - Sistem penerimaan anggota Mappers' Guild yang lebih terbuka ini mengakibatkan jumlah beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists) yang ada meningkat tajam.
+    - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!dev](/wiki/osu!dev_Discord_server) untuk mendukung perubahan ini.
+- **2019-03-13:** Peraturan yang mengharuskan nominasi untuk 24 jam dihapus. Rule requiring consecutive nominations to be set at least 24 hours apart from each other was removed.
     - This rule was a major complaint from mappers and Beatmap Nominators because it felt like it was unnecessarily wasting everyone's time. If an issue was found after the first nomination, the second nominator would often avoid pointing it out to avoid an extra 24 hour wait.
     - Along with this change, Beatmap Nominators could veto qualified beatmaps. The rule originally existed because Beatmap Nominators needed 24 hours to potentially apply vetoes to maps with one nomination.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
 
 ### Mei
 
-- **2019-05-05:** The BN/QAT restructure was finalized.
-    - The Quality Assurance Team was renamed to the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
+- **2019-05-05:** Proposal perombakan ulang BN/QAT resmi disahkan dan diberlakukan.
+    - Quality Assurance Team berubah nama menjadi [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
     - Beatmap Nominators became responsible for disqualifications and veto mediation. Veto mediation was handled through a blind vote rather than a discussion.
     - The [Beatmap Nominator website](https://bn.mappersguild.com/) was published to automate many BN/NAT tasks.
         - Through the website, users could apply to the BN at any time as opposed to the previous cycle-based application system. This resulted in Beatmap Nominators being added at irregular times instead of in large waves.
