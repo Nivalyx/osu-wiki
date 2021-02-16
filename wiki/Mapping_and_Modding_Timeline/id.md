@@ -392,12 +392,12 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
     - Dalam pengumumannya, osu!team turut menambahkan bahwa walaupun praktek komisi beatmap yang demikian tidak dapat sepenuhnya diberantas, osu!team akan secara proaktif turun tangan untuk menindak anggota-anggota BN/QAT yang terlibat dalam praktek terkait.
 - **2018-12-17:** ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) setelah ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) mengundurkan diri.
     - Ia melanjutkan tugas QAT leader sebelumnya dalam bekerja sama dengan osu!team untuk memoderasi lingkungan mapping dan modding secara keseluruhan. <!-- source is discord logs -->
-- **2018-12-17:** The QAT was declared as having no future in its current state and ideas for reform were encouraged.
-    - This decision was made because the QAT had not been involved in anything Quality Assurance related for years, however a system needed to exist to maintain the Beatmap Nominators and mapping community in general.
-    - Some concerns at the time about the QAT included:
-        - Little QAT engagement in controversial maps.
-        - Limited accessibility for new users to enter the team, causing stagnation.
-        - The role of the QAT in the mapping community was unclear.<!-- https://osu.ppy.sh/community/forums/topics/842601 -->
+- **2018-12-17:** Seruan untuk merombak ulang QAT mulai didengungkan setelah banyak pihak menilai QAT sudah tidak lagi memiliki fungsi yang nyata.
+    - Pada titik ini, anggota-anggota QAT sudah hampir sepenuhnya lepas tangan dari hal-hal yang terkait dengan penjaminan mutu (*quality assurance*). Hal ini bertolak belakang dengan tujuan pembentukan QAT pada awalnya.
+    - Di samping itu, QAT pada masa itu juga dirundung berbagai masalah yang meliputi antara lain:
+        - Minimnya partisipasi QAT dalam memoderasi beatmap-beatmap yang kontroversial.
+        - Sangat sedikitnya nama-nama yang dipromosikan ke dalam QAT seiring waktu.
+        - Tidak jelasnya arah gerak QAT selaku sebuah kesatuan.<!-- https://osu.ppy.sh/community/forums/topics/842601 -->
 
 Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018. Lonjakan jumlah beatmap Ranked pada tahun ini utamanya diakibatkan oleh sistem pengendalian mutu QAT yang lebih lengang dan inisiatif modding yang tinggi dari para Beatmap Nominator secara umum.
 
@@ -405,12 +405,12 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 ### Januari
 
-- **2019-01-29:** A proposal for QAT reform was created as a conglomeration of other users' proposals.
-    - The [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) was introduced through this proposal, and was implemented later this year. <!-- https://osu.ppy.sh/community/forums/topics/862002 -->
+- **2019-01-29:** Proposal untuk merombak ulang QAT mulai digarap berdasarkan saran-saran yang ditampung masuk dari berbagai anggota komunitas.
+    - Salah satu ide yang disetujui di kala itu adalah penggantian nama QAT menjadi [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*). <!-- https://osu.ppy.sh/community/forums/topics/862002 -->
 
 ### Maret
 
-- **2019-03-01:** The [Mappers' Guild](/wiki/Mappers_Guild) transitioned from application-based entry to automatic entry for anyone with 3 ranked maps.
+- **2019-03-01:** [Mappers' Guild](/wiki/Mappers_Guild) bertransisi dari sistem aplikasi yang memiliki setidaknya 3 beatmap Ranked.
     - [Featured Artist](/wiki/Featured_Artists) beatmaps became more frequently created and ranked.
     - `#mappers-guild` channel was created in the [osu!dev Discord server](/wiki/osu!dev_Discord_server).
 - **2019-03-13:** Rule requiring consecutive nominations to be set at least 24 hours apart from each other was removed.
