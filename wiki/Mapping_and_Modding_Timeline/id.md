@@ -289,7 +289,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 - **2016-11-01:** Sistem [Beatmap Veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) diperkenalkan.
     - Anggota-anggota Beatmap Nominator dapat menempatkan veto pada beatmap yang telah dinominasikan sebelumnya namun secara subjektif dianggap memiliki permasalahan yang mendasar dengan menyematkan ikon `bubble pop` (![bubble pop icon](/wiki/shared/icon/bubble-pop.gif)) icon pada beatmap yang bersangkutan.
     - Suatu veto dapat dianulir apabila terdapat Beatmap Nominator lain yang menominasikan ulang beatmap yang bersangkutan.
-    - Agar veto-veto yang ada dapat diproses secara memadai, selang waktu antar nominasi pertama dan nominasi kedua dalam suatu beatmap harus lebih dari 24 jam.
+    - Agar veto-veto yang ada dapat diproses secara memadai, selang waktu antar nominasi pertama dan nominasi kedua pada suatu beatmap harus lebih dari 24 jam.
     - Veto-veto yang tidak menghasilkan kesimpulan yang mutlak akan ditinjau secara khusus oleh anggota-anggota QAT. <!-- date is not exact at all, but logs are from deleted discord chat -->
 - **2016-11-02:** Berkas rekam jejak Beatmap Nominator dibuat untuk melacak aktivitas masing-masing anggota Beatmap Nominator seiring waktu.
     - Berkas-berkas ini meliputi berbagai informasi seperti rekam jejak modding, nominasi, diskualifikasi, and perilaku masing-masing anggota.
@@ -413,8 +413,8 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 - **2019-03-01:** [Mappers' Guild](/wiki/Mappers_Guild) mulai menerima siapapun yang memiliki setidaknya 3 beatmap Ranked untuk menjadi anggota tanpa terkecuali.
     - Sistem penerimaan anggota Mappers' Guild yang lebih terbuka ini mengakibatkan jumlah beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists) yang ada meningkat tajam.
     - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!dev](/wiki/osu!dev_Discord_server) untuk mendukung perubahan ini.
-- **2019-03-13:** Peraturan yang mengharuskan nominasi untuk 24 jam dihapus. Rule requiring consecutive nominations to be set at least 24 hours apart from each other was removed.
-    - This rule was a major complaint from mappers and Beatmap Nominators because it felt like it was unnecessarily wasting everyone's time. If an issue was found after the first nomination, the second nominator would often avoid pointing it out to avoid an extra 24 hour wait.
+- **2019-03-13:** Peraturan yang mempersyaratkan selang waktu antar nominasi pertama dan nominasi kedua pada suatu beatmap harus lebih dari 24 jam dihapus.
+    - Penghapusan peraturan ini disebabkan oleh This rule was a major complaint from mappers and Beatmap Nominators because it felt like it was unnecessarily wasting everyone's time. If an issue was found after the first nomination, the second nominator would often avoid pointing it out to avoid an extra 24 hour wait.
     - Along with this change, Beatmap Nominators could veto qualified beatmaps. The rule originally existed because Beatmap Nominators needed 24 hours to potentially apply vetoes to maps with one nomination.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
 
 ### Mei
