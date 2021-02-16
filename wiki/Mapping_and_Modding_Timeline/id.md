@@ -389,7 +389,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 ### Desember
 
 - **2018-12-12:** osu!team secara resmi [menjauhkan diri dari praktek komisi beatmap (*beatmap commission*)](https://osu.ppy.sh/community/forums/topics/840838) yang tidak sesuai dengan norma-norma dan etika-etika yang berlaku di masyarakat terkait hak cipta.
-    - Dalam pengumumannya, osu!team turut menambahkan bahwa walaupun praktek komisi beatmap yang demikian tidak dapat sepenuhnya diberantas, osu!team akan secara proaktif turun tangan untuk menindak para anggota BN/QAT yang terlibat dalam praktek terkait.
+    - Dalam pengumumannya, osu!team turut menambahkan bahwa walaupun praktek komisi beatmap yang demikian tidak dapat sepenuhnya diberantas, osu!team akan secara proaktif turun tangan untuk menindak anggota-anggota BN/QAT yang terlibat dalam praktek terkait.
 - **2018-12-17:** ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) setelah ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) mengundurkan diri.
     - Ia melanjutkan tugas QAT leader sebelumnya dalam bekerja sama dengan osu!team untuk memoderasi lingkungan mapping dan modding secara keseluruhan. <!-- source is discord logs -->
 - **2018-12-17:** The QAT was declared as having no future in its current state and ideas for reform were encouraged.
