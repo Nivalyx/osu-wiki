@@ -340,7 +340,7 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
 
 ### Desember
 
-- **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) sepenuhnya mengundurkan diri dari osu!team dan melepas segala bentuk tanggung jawab yang dibebankan kepadanya di kala itu, termasuk selaku pemimpin QAT. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
+- **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) sepenuhnya mengundurkan diri dari osu!team dan melepas segala bentuk tanggung jawab yang dibebankan kepadanya di kala itu, termasuk selaku QAT leader. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
 
 Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
@@ -362,20 +362,20 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### April
 
-- **2018-04-01:** The QAT began evaluating BN applications by reviewing non-anonymous mods, as opposed to previously anonymous mods.
-    - This change was made because the QAT believed out of context anonymous mods could not effectively determine a modder's capabilities.
-    - Through this change, the QAT determined that bias could not be avoided when evaluating Beatmap Nominators. <!-- source is discord logs -->
+- **2018-04-01:** *Mod post* yang diajukan oleh masing-masing pelamar pada proses penerimaan BN tidak lagi dianonimkan.
+    - Perubahan ini diberlakukan karena pihak QAT merasa penganoniman *mod post* yang ada tidak membantu para anggotanya untuk dapat menilai kemampuan masing-masing pelamar secara objektif.
+    - Secara tidak langsung, anggota-anggota QAT mengakui bahwa bahwa bias opini dalam proses perekrutan kandidatat tidak dapat sepenuhnya dielakkan. <!-- source is discord logs -->
 - **2018-04-22:** The QAT held its first meeting on the osu!dev server in an attempt to increase transparency of QAT affairs and migrate internal discussions away from the BN Discord server.
     - Despite this attempt, most internal discussion was still handled on the BN Discord server. <!-- https://osu.ppy.sh/community/forums/topics/735472 -->
 
 ### Mei
 
-- **2018-05-22:** ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) became a [QAT leader](/wiki/Modding/QAT_Leaders) after ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) stepped down.
-    - Like his predecessor, he continued working with the osu!team to manage the mapping/modding scenes. <!-- source is discord logs -->
+- **2018-05-22:** ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) setelah ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) mengundurkan diri.
+    - Ia melanjutkan tugas QAT leader sebelumnya dalam bekerja sama dengan osu!team untuk memoderasi lingkungan mapping dan modding secara keseluruhan.. <!-- source is discord logs -->
 
 ### Juni
 
-- **2018-06-21:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) initiative was created.
+- **2018-06-21:** Kelompok [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) diperkenalkan.
     - This was designed to ensure that all qualified beatmaps were reviewed by at least 2 BN or QAT members before rank.
     - The program was managed via Trello and automated by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) through Aiess.
     - This change was one of the primary reasons that the QAT was later renamed. <!-- https://osu.ppy.sh/community/forums/topics/764134 + https://trello.com/b/iEsda45d/quality-assurance-helpers -->
