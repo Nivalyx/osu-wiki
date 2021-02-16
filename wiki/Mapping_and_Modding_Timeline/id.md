@@ -414,7 +414,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
     - Sistem penerimaan anggota Mappers' Guild yang lebih terbuka ini mengakibatkan jumlah beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists) yang ada meningkat tajam.
     - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!dev](/wiki/osu!dev_Discord_server) untuk mendukung perubahan ini.
 - **2019-03-13:** Peraturan yang mempersyaratkan selang waktu antar nominasi pertama dan nominasi kedua pada suatu beatmap harus lebih dari 24 jam dihapus.
-    - Penghapusan peraturan ini disebabkan oleh This rule was a major complaint from mappers and Beatmap Nominators because it felt like it was unnecessarily wasting everyone's time. If an issue was found after the first nomination, the second nominator would often avoid pointing it out to avoid an extra 24 hour wait.
+    - Peraturan tersebut dihapus karena para mapper merasa bahwa dalam prakteknya peraturan ini tidak efektif dan hanya membuang-buang waktu. Lebih dari itu, beatmap yang berstatus Qualified dapat didiskualifikasi sewaktu-waktu apabila ditemukan suatu masalah pada beatmap yang bersangkutan.
     - Along with this change, Beatmap Nominators could veto qualified beatmaps. The rule originally existed because Beatmap Nominators needed 24 hours to potentially apply vetoes to maps with one nomination.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
 
 ### Mei
