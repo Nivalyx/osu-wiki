@@ -414,15 +414,15 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
     - Sistem penerimaan anggota Mappers' Guild yang lebih terbuka ini mengakibatkan jumlah beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists) yang ada meningkat tajam.
     - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!dev](/wiki/osu!dev_Discord_server) untuk mendukung perubahan ini.
 - **2019-03-13:** Peraturan yang mempersyaratkan selang waktu antar nominasi pertama dan nominasi kedua pada suatu beatmap harus lebih dari 24 jam dihapus.
-    - Peraturan tersebut dihapus karena para mapper merasa bahwa dalam prakteknya peraturan ini tidak efektif dan hanya membuang-buang waktu. Lebih dari itu, beatmap yang berstatus Qualified dapat didiskualifikasi sewaktu-waktu apabila ditemukan suatu masalah pada beatmap yang bersangkutan.
-    - Along with this change, Beatmap Nominators could veto qualified beatmaps. The rule originally existed because Beatmap Nominators needed 24 hours to potentially apply vetoes to maps with one nomination.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
+    - Peraturan tersebut dihapus karena para mapper merasa bahwa dalam prakteknya peraturan ini tidak efektif dan hanya membuang-buang waktu.
+    - Anggota-anggota Beatmap Nominator diberikan kuasa untuk menempatkan veto pada beatmap yang berstatus Qualified. Sebelumnya, veto hanya bisa ditempatkan pada beatmap yang telah dinominasikan namun belum mencapai status Qualified.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
 
 ### Mei
 
 - **2019-05-05:** Proposal perombakan ulang BN/QAT resmi disahkan dan diberlakukan.
     - Quality Assurance Team berubah nama menjadi [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
-    - Beatmap Nominators became responsible for disqualifications and veto mediation. Veto mediation was handled through a blind vote rather than a discussion.
-    - The [Beatmap Nominator website](https://bn.mappersguild.com/) was published to automate many BN/NAT tasks.
+    - Anggota-anggota Beatmap Nominator mulai sepenuhnya bertanggung jawab untuk menangani proses diskualifikasi dan mediasi veto. Apabila terdapat suatu beatmap yang diveto oleh seorang Beatmap Nominator, anggota-anggota Beatmap Nominator lainnya akan mengkaji dan memberikan suara terhadap veto yang bersangkutan secara terpisah tanpa campur tangan satu sama lain (*blind vote*). 
+    - [Situs web Beatmap Nominator](https://bn.mappersguild.com/) diluncurkan untuk memudahkan tugas BN/NAT.
         - Through the website, users could apply to the BN at any time as opposed to the previous cycle-based application system. This resulted in Beatmap Nominators being added at irregular times instead of in large waves.
         - Reports for inappropriate beatmaps and BN/NAT misconduct were shifted from a Google Form to the BN website.
         - Statistics and evaluations for BN modding/nomination activity and proficiency shifted from painfully inefficient Google Spreadsheets to the BN website, hugely increasing productivity for Beatmap Nominator management. <!-- https://osu.ppy.sh/home/news/2019-05-05-bn-and-qat-restructure -->
