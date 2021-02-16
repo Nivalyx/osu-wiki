@@ -331,16 +331,16 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
     - Anggota-anggota BN ditandai dengan nama pengguna yang berwarna ungu pada forum. 
     - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) berdasarkan hasil pemungutan suara yang diikuti oleh seluruh anggota BN dan QAT. Mereka bekerja sama dengan osu!team untuk memoderasi lingkungan mapping dan modding secara keseluruhan.
     - Anggota-anggota BN dan QAT yang telah menjabat dalam kurun-kurun waktu tertentu diberikan penghargaan berupa *profile badge* sesuai dengan besar kontribusinya masing-masing. Pengakuan balas jasa ini diberikan untuk meningkatkan motivasi BN dan QAT yang di kala itu sedang berada pada titik yang cukup rendah. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
-    - With less authoritative leadership and more users capable of nominating beatmaps after these changes, mapping standards stopped being strictly controlled. Controversial beatmaps that would have likely not been ranked under the previous system (e.g. *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)*) reached ranked status.
+    - Dengan sistem pemeriksaan yang jauh lebih lengang dan terbuka, beatmap-beatmap yang sebelumnya dipandang kontroversial seperti *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)*) dan lain sebagainya mulai lebih dapat diterima oleh berbagai pihak.
 
 ### Oktober
 
-- **2017-10-01:** [BN tests](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) were replaced with the QAT reviewing each BN applicant's anonymized mods.
-    - This change was made because BN test cheating had become unrealistic to avoid. <!-- date not exact, based on discord logs -->
+- **2017-10-01:** Sistem [BN test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) dihapus. Para pelamar yang mengajukan diri untuk menjadi BN kini ditinjau berdasarkan kualitas *mod post* yang diajukan oleh masing-masing pelamar.
+    - Perubahan ini diberlakukan karena sistem BN test rawan untuk dicurangi. <!-- date not exact, based on discord logs -->
 
 ### Desember
 
-- **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) stepped down from involvement in the osu!team, including his heavy participation in the QAT. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
+- **2017-12-17:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) sepenuhnya mengundurkan diri dari osu!team dan melepas segala bentuk tanggung jawab yang dibebankan kepadanya di kala itu, termasuk selaku pemimpin QAT. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
 
 Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
@@ -348,7 +348,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Februari
 
-- **2018-02-08:** The [Mappers' Guild](/wiki/Mappers_Guild) was opened to public applications for widespread [Featured Artist](/wiki/Featured_Artists) beatmap creation. <!-- https://osu.ppy.sh/community/forums/topics/700654 -->
+- **2018-02-08:** [Mappers' Guild](/wiki/Mappers_Guild) dibuka secara publik bagi para mapper yang ingin membuat beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists). <!-- https://osu.ppy.sh/community/forums/topics/700654 -->
 
 ### Maret
 
