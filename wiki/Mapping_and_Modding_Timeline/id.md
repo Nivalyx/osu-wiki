@@ -363,10 +363,10 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 ### April
 
 - **2018-04-01:** *Mod post* yang diajukan oleh masing-masing pelamar pada proses penerimaan BN tidak lagi dianonimkan.
-    - Perubahan ini diberlakukan karena pihak QAT merasa penganoniman *mod post* yang ada tidak membantu para anggotanya untuk dapat menilai kemampuan masing-masing pelamar secara objektif.
-    - Secara tidak langsung, anggota-anggota QAT mengakui bahwa bahwa bias opini dalam proses perekrutan kandidatat tidak dapat sepenuhnya dielakkan. <!-- source is discord logs -->
+    - Perubahan ini diberlakukan karena pihak QAT merasa penganoniman *mod post* yang ada tidak membantu para anggotanya untuk dapat menilai kemampuan masing-masing pelamar yang ada secara objektif.
+    - Secara tidak langsung, anggota-anggota QAT mengakui bahwa bias opini dalam proses perekrutan kandidatat tidak dapat sepenuhnya dielakkan. <!-- source is discord logs -->
 - **2018-04-22:** Anggota-anggota QAT menggelar rapat publik pertamanya di server Discord osu!dev. Rapat ini digelar dalam rangka meningkatkan transparansi QAT dalam mengambil keputusan setelah rapat-rapat QAT sebelumnya selalu diselenggarakan secara tertutup pada server Discord BN.
-    - Di samping rapat-rapat publik yang ada, anggota-anggota QAT masih sesekali menggelar rapat tertutup untuk membahas isu-isu yang lebih sensitif. <!-- https://osu.ppy.sh/community/forums/topics/735472 -->
+    - Terlepas dari rapat-rapat publik yang ada, anggota-anggota QAT tetap sesekali menggelar rapat tertutup untuk membahas isu-isu yang lebih sensitif. <!-- https://osu.ppy.sh/community/forums/topics/735472 -->
 
 ### Mei
 
