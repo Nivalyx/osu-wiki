@@ -479,16 +479,16 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 ### January
 
 - **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap yang mengusung lagu-lagu eksplisit.<!-- https://github.com/ppy/osu-web/pull/6575 -->
-    - Label ini tidak berlaku untuk konten-konten visual yang terdapat pada beatmap. Seluruh konten visual yang ada tetap harus patuh terhadap peraturan-peraturan yang tertera pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations).
+    - Label ini tidak berlaku untuk konten-konten visual yang terdapat pada beatmap. Konten-konten visual yang ada tetap harus tunduk terhadap peraturan-peraturan yang tertera pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations) dalam pemakaiannya.
 - **2021-01-30:** Kanal obrolan `#modhelp` berganti nama menjadi `#mapping` untuk lebih mencerminkan topik diskusi yang dikehendaki di dalamnya.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
+[flag_FR]: /wiki/shared/flag/FR.gif "Perancis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_SE]: /wiki/shared/flag/SE.gif "Swedia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
