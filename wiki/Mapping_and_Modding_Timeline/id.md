@@ -406,7 +406,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 ### Januari
 
 - **2019-01-29:** Proposal perombakan ulang QAT mulai digarap berdasarkan saran-saran yang ditampung masuk dari berbagai anggota komunitas.
-    - Salah satu ide yang disetujui di kala itu adalah penggantian nama QAT menjadi [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*). <!-- https://osu.ppy.sh/community/forums/topics/862002 -->
+    - Salah satu wacana yang dibahas secara mendalam di kala itu adalah penggantian nama QAT menjadi [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*). <!-- https://osu.ppy.sh/community/forums/topics/862002 -->
 
 ### Maret
 
