@@ -436,7 +436,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 ### Oktober
 
-- **2019-10-22:** ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)ditunjuk sebagai NAT leader setelah ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) mengundurkan diri.
+- **2019-10-22:** ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) ditunjuk sebagai NAT leader setelah ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) mengundurkan diri.
     - Ia ditugaskan untuk membuat NAT menjadi lebih aktif dan berinisiatif dalam menangani berbagai permasalahan yang ada. <!-- source is discord logs -->
 
 Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
