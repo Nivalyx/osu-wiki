@@ -1,6 +1,6 @@
 # Sejarah mapping dan modding
 
-Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berkembang seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk dokumentasi terhadap berbagai perubahan yang terjadi dari masa ke masa dan sebagai suatu berkas acuan bagi mereka yang ingin mencetuskan ide-ide baru terkait mapping dan modding ke depannya.
+Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berkembang seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk dokumentasi terhadap berbagai perubahan yang terjadi dari masa ke masa dan sebagai berkas acuan bagi mereka yang ingin mencetuskan ide-ide baru terkait mapping dan modding ke depannya.
 
 ## 2007
 
@@ -470,7 +470,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 ### December
 
-- **2020-12-17:** [Situs web Beatmap Nominator](https://bn.mappersguild.com/) mulai membuka layanan untuk meninjau beatmap-beatmap yang ditenggarai mengandung konten yang tidak sepantasnya. dengan menggunakan sistem *blind voting*.
+- **2020-12-17:** [Situs web Beatmap Nominator](https://bn.mappersguild.com/) mulai membuka layanan untuk meninjau beatmap-beatmap yang ditenggarai mengandung konten yang tidak pantas. Beatmap-beatmap yang dilaporkan akan ditunjau oleh panel independen dengan menggunakan sistem *blind voting*.
 
 Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
@@ -478,7 +478,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ### January
 
-- **2021-01-05:** `Explicit` label for beatmaps was implemented to clean up inappropriate old ranked content and permit previously unacceptable song content. <!-- https://github.com/ppy/osu-web/pull/6575 -->
+- **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap-beatmap yang mengandung lagu yang berkonten eksplisit. <!-- https://github.com/ppy/osu-web/pull/6575 -->
     - This change did not apply to visual content in pending beatmaps. These continue to follow [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations).
 - **2021-01-30:** In-game chat channel `#modhelp` was replaced by `#mapping` because the original channel was primarily used for mapping discussion.
 
