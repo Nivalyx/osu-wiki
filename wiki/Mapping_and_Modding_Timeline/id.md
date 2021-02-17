@@ -430,14 +430,14 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 ### Agustus
 
 - **2019-08-05:** ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) merilis program [Mapset Verifier](/wiki/Projects#modding) yang ditujukan untuk membantu anggota-anggota Beatmap Nominator dalam menangani berbagai isu yang terdapat pada suatu beatmap.
-- **2019-08-06:** Beatmap Nominators became able to participate in BN application evaluations.
-    - BN input is visible to the NAT when trying to reach a consensus, though they are rarely used to sway a vote.
-    - The NAT often use BN input to help determine future NAT members. <!-- https://github.com/pishifat/qat/commit/a8245a4c6fefcfe9368ffc1eee7e13ad6f8bb6af -->
+- **2019-08-06:** Anggota-anggota Beatmap Nominator mulai diperlibatkan dalam proses penerimaan anggota BN baru.
+    - Anggota-anggota BN dapat memberikan masukan seputar kandidat-kandidat BN yang ada.
+    - Walaupun anggota-anggota BN tidak memilki hak suara, masukan-masukan yang diterima akan dijadikan bahan pertimbangan oleh NAT. <!-- https://github.com/pishifat/qat/commit/a8245a4c6fefcfe9368ffc1eee7e13ad6f8bb6af -->
 
 ### Oktober
 
-- **2019-10-22:** ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) became a NAT leader after ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) stepped down.
-    - Because NAT leaders had often been passive towards negative decision making, Ascendance took an active controlling role and delivered bad news regarding NAT removals. <!-- source is discord logs -->
+- **2019-10-22:** ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)ditunjuk sebagai NAT leader setelah ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) mengundurkan diri.
+    - Ia ditugaskan untuk membuat NAT menjadi lebih aktif dan berinisiatif dalam menangani berbagai permasalahan yang ada. <!-- source is discord logs -->
 
 Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
@@ -445,12 +445,13 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 ### Februari
 
-- **2020-02-07:** The first Elite Nominator profile badges were awarded to recognize continued exceptional performance from members of the BN team.
-    - These were originally planned in the QAT Upheaval two years prior. <!-- https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019 -->
-- **2020-02-21:**  NAT leadership as a concept was discontinued as ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) stepped down as NAT leader.
-    - Tasks specific to NAT leaders were delegated to the whole team.
-- **2020-02-24:** The [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) system was transferred from Trello to the [Beatmap Nominator website](https://bn.mappersguild.com/).
-    - This change was made to account for Quality Assurance activity in Beatmap Nominator evaluations.
+- **2020-02-07:** Gelar dan *profile badge* Elite Nominator mulai dibagikan bagi anggota-anggota BN yang dinilai telah sangat berkontribusi dalam ruang lingkup mapping dan modding.
+    - Hal ini merupakan salah satu poin yang diajukan pada proposal QAT Upheaval terdahulu.
+ <!-- https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019 -->
+- **2020-02-21:**  NAT tidak lagi dipimpin secara terpusat setelah ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) mengundurkan diri sebagai NAT leader.
+    - Hal-hal yang sebelumnya merupakan tanggung jawab NAT leader dibebankan secara merata kepada anggota-anggota NAT yang ada.
+- **2020-02-24:** Sistem [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) dipindahkan dari Trello ke [situs web Beatmap Nominator](https://bn.mappersguild.com/).
+    - Pemindahan ini ditujukan agar aktivitas-aktivitas yang terkait dengan sistem Quality Assurance Helper yang ada dapat dijadikan bahan pertimbangan dalam proses evaluasi masing-masing anggota Beatmap Nominator ke depannya.
 
 ### April
 
@@ -458,7 +459,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 ### October
 
-- **2020-10-02:** [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) were established to combat behavior concerns within the group. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
+- **2020-10-02:** Dokumen [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) dicanangkan untuk menanggapi kekhawatiran publik seputar anggota-anggota BN yang dianggap tidak optimal kala itu. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
     - Concerns included low approachability, uncivil actions in community settings, and questionable ranking quality standards.
     - This resulted in the immediate removal of 5 Beatmap Nominators.
 - **2020-10-29:** Beatmap Nominator game mode proficiency became visible on osu! web. <!-- https://github.com/ppy/osu-web/pull/6747 -->
