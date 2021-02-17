@@ -365,8 +365,8 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 - **2018-04-01:** *Mod post* yang diajukan oleh masing-masing pelamar pada proses penerimaan BN tidak lagi dianonimkan.
     - Perubahan ini diberlakukan karena pihak QAT merasa penganoniman *mod post* yang ada tidak membantu para anggotanya untuk dapat menilai kemampuan masing-masing pelamar secara objektif.
     - Secara tidak langsung, anggota-anggota QAT mengakui bahwa bahwa bias opini dalam proses perekrutan kandidatat tidak dapat sepenuhnya dielakkan. <!-- source is discord logs -->
-- **2018-04-22:** The QAT held its first meeting on the osu!dev server in an attempt to increase transparency of QAT affairs and migrate internal discussions away from the BN Discord server.
-    - Despite this attempt, most internal discussion was still handled on the BN Discord server. <!-- https://osu.ppy.sh/community/forums/topics/735472 -->
+- **2018-04-22:** Anggota-anggota QAT menggelar rapat publik pertamanya di server Discord osu!dev. Rapat ini digelar dalam rangka meningkatkan transparansi QAT dalam mengambil keputusan setelah rapat-rapat QAT sebelumnya selalu diselenggarakan secara tertutup pada server Discord BN.
+    - Di samping rapat-rapat publik yang ada, anggota-anggota QAT masih sesekali menggelar rapat tertutup untuk membahas isu-isu yang lebih sensitif. <!-- https://osu.ppy.sh/community/forums/topics/735472 -->
 
 ### Mei
 
@@ -478,8 +478,8 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ### January
 
-- **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap yang mengusung lagu-lagu eksplisit.<!-- https://github.com/ppy/osu-web/pull/6575 -->
-    - Label ini tidak berlaku untuk konten-konten visual yang terdapat pada beatmap. Tata penggunaan konten-konten visual yang ada diatur pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations).
+- **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap yang mengusung lagu-lagu eksplisit. Label ini tidak berlaku untuk konten-konten visual yang terdapat pada beatmap. <!-- https://github.com/ppy/osu-web/pull/6575 -->
+    - Tata penggunaan konten-konten visual yang ada diatur pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations).
 - **2021-01-30:** Kanal obrolan `#modhelp` berganti nama menjadi `#mapping` untuk lebih mencerminkan topik diskusi yang dikehendaki di dalamnya.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
