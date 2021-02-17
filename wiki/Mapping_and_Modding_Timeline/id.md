@@ -478,7 +478,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ### January
 
-- **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap yang mengusung lagu-lagu yang vulgar.<!-- https://github.com/ppy/osu-web/pull/6575 -->
+- **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap yang mengusung lagu-lagu yang berkonten eksplisit.<!-- https://github.com/ppy/osu-web/pull/6575 -->
     - Label ini tidak berlaku untuk konten-konten visual yang ada. Konten-konten visual yang ada tetap tunduk pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations).
 - **2021-01-30:** Kanal obrolan `#modhelp` berganti nama menjadi `#mapping` untuk lebih mencerminkan topik diskusi yang dikehendaki di dalamnya.
 
