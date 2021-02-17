@@ -465,12 +465,12 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 ### November
 
-- **2020-11-30:** Persyaratan untuk dapat membawa beatmap-beatmap yang mengandung lebih dari satu mode permainan (*hybrid*) ke dalam kategori Qualified diubah dari 2 nominasi utuh menjadi 2 nominasi per mode permainan yang ada. <!-- https://github.com/ppy/osu-web/pull/6832 -->
+- **2020-11-30:** Persyaratan untuk dapat membawa beatmap-beatmap yang memiliki lebih dari satu mode permainan (*hybrid*) ke dalam kategori Qualified diubah dari 2 nominasi utuh menjadi 2 nominasi per mode permainan yang ada. <!-- https://github.com/ppy/osu-web/pull/6832 -->
     - Masing-masing anggota Beatmap Nominator hanya dapat memberikan nominasi pada satu mode permainan per beatmapnya.
 
 ### December
 
-- **2020-12-17:** Beatmap-beatmap yang ditenggarai mengandung konten-konten yang kurang pantas mulai ditinjau dengan menggunakan sistem *blind voting* pada [situs web Beatmap Nominator](https://bn.mappersguild.com/).
+- **2020-12-17:** [Situs web Beatmap Nominator](https://bn.mappersguild.com/) mulai membuka layanan untuk meninjau beatmap-beatmap yang ditenggarai mengandung konten yang tidak sepantasnya. dengan menggunakan sistem *blind voting*.
 
 Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
