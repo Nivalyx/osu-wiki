@@ -460,14 +460,14 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 ### October
 
 - **2020-10-02:** Dokumen [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) dicanangkan untuk menanggapi kekhawatiran publik seputar perilaku dan etos kerja sebagian anggota BN yang dinilai buruk di kala itu. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
-    - Concerns included low approachability, uncivil actions in community settings, and questionable ranking quality standards.
-    - This resulted in the immediate removal of 5 Beatmap Nominators.
-- **2020-10-29:** Beatmap Nominator game mode proficiency became visible on osu! web. <!-- https://github.com/ppy/osu-web/pull/6747 -->
+    - Banyak pihak yang memandang bahwa terdapat anggota-anggota BN di kala itu yang secara umum bermasalah. Mereka dinilai sulit untuk didekati, berperilaku tidak sepantasnya, dan memiliki standar ranking yang dipertanyakan.
+    - Perubahan ini membuat 5 orang dikeluarkan dari Beatmap Nominator.
+- **2020-10-29:** Mode permainan masing-masing Beatmap Nominator mulai diperlihatkan pada situs web osu!. <!-- https://github.com/ppy/osu-web/pull/6747 -->
 
 ### November
 
-- **2020-11-30:** Hybrid beatmapsets were reworked to require 2 nominations per game mode. <!-- https://github.com/ppy/osu-web/pull/6832 -->
-    - Nominators proficient in multiple game modes could select one or more game modes to nominate on applicable mapsets.
+- **2020-11-30:** Persyaratan untuk dapat membawa beatmap-beatmap yang mengandung lebih dari satu mode permainan (*hybrid*) ke dalam kategori Qualified diubah dari 2 nominasi utuh menjadi 2 nominasi per mode permainan yang ada. <!-- https://github.com/ppy/osu-web/pull/6832 -->
+    - Anggota-anggota Beatmap Nominator yang menjabat pada lebih dari satu mode permainan hanya dapat menominasikan satu mode permainan yang dikehendaki pada setiap beatmapnya.
 
 ### December
 
