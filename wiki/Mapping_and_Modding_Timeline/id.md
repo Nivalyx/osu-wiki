@@ -184,7 +184,7 @@ Secara keseluruhan, terdapat **1327 beatmap** yang di-rank sepanjang tahun 2013.
     - Anggota-anggota QAT bertugas untuk mengecek beatmap-beatmap yang dinominasikan oleh anggota-anggota BAT. Apabila QAT menemui suatu beatmap yang dinilai tidak memenuhi standar jaminan mutu, QAT memiliki kuasa untuk mendiskualifikasi beatmap yang bersangkutan dari kategori Qualified.
     - Pemecahan peran ini menandakan untuk pertama kalinya osu! memiliki dua badan moderasi beatmap yang terpisah sejak penggabungan BAT dan MAT di tahun sebelumnya.
     - Pemecahan peran ini utamanya ditujukan untuk menguji sistem [modding v2](/wiki/Beatmap_Discussion) yang di kala itu diklaim dapat melantik dan memberhentikan anggota-anggota BAT secara otomatis berdasarkan parameter-parameter tertentu. <!-- https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat -->
-    - Walaupun perubahan-perubahan ini diberlakukan dengan tujuan dan itikad yang baik, publik tidak menyambut kehadiran QAT dengan hangat. Hal ini sangat tercermin pada reaksi para anggota komunitas terhadap sikap yang ditunjukkan oleh QAT pada beatmap-beatmap kontroversial seperti [*Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479).
+    - Walaupun perubahan-perubahan ini diberlakukan dengan tujuan dan itikad yang baik, publik tidak menyambut kehadiran QAT dengan hangat. Hal ini sangat tercermin pada reaksi anggota-anggota komunitas yang sangat kecewa terhadap sikap QAT dalam memoderasi beatmap-beatmap yang kontroversial seperti [*Halozy - Genryuu Kaiko*](https://osu.ppy.sh/community/forums/posts/3591479).
 
 ### Oktober
 
@@ -478,7 +478,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ### January
 
-- **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap yang mengusung lagu-lagu yang berkonten eksplisit.<!-- https://github.com/ppy/osu-web/pull/6575 -->
+- **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap yang mengusung lagu-lagu eksplisit.<!-- https://github.com/ppy/osu-web/pull/6575 -->
     - Label ini tidak berlaku untuk konten-konten visual yang ada. Konten-konten visual yang ada tetap tunduk pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations).
 - **2021-01-30:** Kanal obrolan `#modhelp` berganti nama menjadi `#mapping` untuk lebih mencerminkan topik diskusi yang dikehendaki di dalamnya.
 
