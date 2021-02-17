@@ -215,7 +215,7 @@ Secara keseluruhan, terdapat **1381 beatmap** yang di-rank sepanjang tahun 2014.
 ### Juni
 
 - **2015-06-04:** Beatmap Nominator Leaderboard diluncurkan sebagai alat untuk memonitor kinerja dan tingkat aktivitas anggota-anggota BN secara *real-time*. <!-- https://osu.ppy.sh/community/forums/topics/334994 -->
-    - Sistem ini hanya diberlakukan selama beberapa hari setelah para developer osu! merasa khawatir bahwa papan peringkat tersebut akan terlalu membebani infrastruktur yang ada secara keseluruhan. <!-- ephemeral is source(?) -->
+    - Sistem ini hanya diberlakukan selama beberapa hari setelah para developer osu! merasa khawatir bahwa *leaderboard* tersebut akan terlalu membebani infrastruktur yang ada secara keseluruhan. <!-- ephemeral is source(?) -->
 - **2015-06-06:** Diskualifikasi oleh anggota-anggota QAT pada forum osu! sepenuhnya dianonimkan.
     - Seluruh post yang dibuat atas nama QAT ditulis oleh akun "[Quality Assurance Team](https://osu.ppy.sh/users/6616586)".
     - Penganoniman ini merupakan dampak dari reaksi komunitas yang sangat negatif terhadap berbagai diskualifikasi yang terjadi, terutama pada kasus-kasus yang melibatkan hilangnya *performance point* dalam jumlah yang signifikan (cth: [diskualifikasi *Dragonforce - The Last Journey Home*](https://osu.ppy.sh/community/forums/posts/4009572)) dan pada kasus-kasus di mana QAT dinilai terlalu memaksakan opini mereka pada isu-isu yang bersifat subjektif (cth: [diskualifikasi *Reol - Asymmetry*](https://osu.ppy.sh/community/forums/posts/4206479)).
