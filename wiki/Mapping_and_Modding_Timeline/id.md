@@ -282,7 +282,7 @@ Secara keseluruhan, terdapat **1394 beatmap** yang di-rank sepanjang tahun 2015.
 
 - **2016-10-17:** Kategori [Loved](/wiki/Beatmap/Category#loved) diperkenalkan kepada publik.
     - Kategori ini memberikan *leaderboard* kepada beatmap-beatmap yang tidak dapat di-rank karena satu dan lain hal.
-    - *Harap kunjungi laman [History of Loved](/wiki/Beatmap/History_of_Loved) untuk sejarah kategori Loved selengkapnya.*
+    - *Harap kunjungi laman [Sejarah Loved](/wiki/Beatmap/History_of_Loved) untuk sejarah kategori Loved selengkapnya.*
 
 ### November
 
@@ -348,7 +348,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Februari
 
-- **2018-02-08:** [Mappers' Guild](/wiki/Mappers_Guild) dibentuk bagi para mapper yang ingin membuat beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists). <!-- https://osu.ppy.sh/community/forums/topics/700654 -->
+- **2018-02-08:** [Mappers' Guild](/wiki/Mappers_Guild) didirikan untuk menaungi para mapper yang ingin membuat beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists). <!-- https://osu.ppy.sh/community/forums/topics/700654 -->
 
 ### Maret
 
@@ -460,17 +460,17 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 - **2020-10-02:** Dokumen [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) dicanangkan untuk menanggapi kekhawatiran publik seputar perilaku dan etos kerja sebagian anggota BN yang dinilai buruk di kala itu. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
     - Banyak pihak yang memandang bahwa terdapat anggota-anggota BN di kala itu yang secara umum bermasalah. Mereka dinilai sulit untuk didekati, berperilaku tidak sepantasnya, dan memiliki standar ranking yang dipertanyakan.
-    - Perubahan ini membuat 5 orang dikeluarkan dari Beatmap Nominator.
+    - Peraturan baru ini membuat 5 orang dikeluarkan dari Beatmap Nominator.
 - **2020-10-29:** Mode permainan masing-masing Beatmap Nominator mulai diperlihatkan pada situs web osu!. <!-- https://github.com/ppy/osu-web/pull/6747 -->
 
 ### November
 
-- **2020-11-30:** Persyaratan untuk dapat membawa beatmap-beatmap yang memiliki lebih dari satu mode permainan (*hybrid*) ke dalam kategori Qualified diubah dari 2 nominasi utuh menjadi 2 nominasi per mode permainan yang ada. <!-- https://github.com/ppy/osu-web/pull/6832 -->
+- **2020-11-30:** Persyaratan untuk dapat mengusung beatmap yang memiliki lebih dari satu mode permainan (*hybrid*) ke dalam kategori Qualified diubah dari 2 nominasi utuh menjadi 2 nominasi per mode permainan yang ada. <!-- https://github.com/ppy/osu-web/pull/6832 -->
     - Masing-masing anggota Beatmap Nominator hanya dapat memberikan nominasi pada satu mode permainan per beatmapnya.
 
 ### December
 
-- **2020-12-17:** [Situs web Beatmap Nominator](https://bn.mappersguild.com/) mulai membuka layanan untuk meninjau beatmap-beatmap yang ditenggarai mengandung konten yang tidak pantas. Beatmap-beatmap yang dilaporkan akan ditunjau oleh panel independen dengan menggunakan sistem *blind voting*.
+- **2020-12-17:** [Situs web Beatmap Nominator](https://bn.mappersguild.com/) mulai membuka layanan untuk meninjau kelayakan konten pada beatmap-beatmap yang ditenggarai mengandung konten-konten yang tidak pantas.
 
 Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
@@ -478,9 +478,9 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ### January
 
-- **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap-beatmap yang mengandung lagu yang berkonten eksplisit. <!-- https://github.com/ppy/osu-web/pull/6575 -->
-    - This change did not apply to visual content in pending beatmaps. These continue to follow [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations).
-- **2021-01-30:** In-game chat channel `#modhelp` was replaced by `#mapping` because the original channel was primarily used for mapping discussion.
+- **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap yang mengusung lagu-lagu yang vulgar.<!-- https://github.com/ppy/osu-web/pull/6575 -->
+    - Label ini tidak berlaku untuk konten-konten visual yang ada. Konten-konten visual yang ada tetap tunduk pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations).
+- **2021-01-30:** Kanal obrolan `#modhelp` berganti nama menjadi `#mapping` untuk lebih mencerminkan topik diskusi yang dikehendaki di dalamnya.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
