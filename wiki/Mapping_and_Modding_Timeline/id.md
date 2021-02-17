@@ -1,6 +1,6 @@
 # Sejarah mapping dan modding
 
-Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berkembang seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk dokumentasi terhadap berbagai perubahan yang terjadi dari tahun ke tahun dan sebagai suatu dokumen acuan bagi mereka yang ingin mencetuskan ide-ide baru terkait mapping dan modding.
+Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berkembang seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk dokumentasi terhadap berbagai perubahan yang terjadi dari tahun ke tahun dan sebagai suatu dokumen acuan bagi mereka yang ingin mencetuskan ide-ide baru terkait mapping dan modding ke depannya.
 
 ## 2007
 
@@ -467,11 +467,11 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 ### November
 
 - **2020-11-30:** Persyaratan untuk dapat membawa beatmap-beatmap yang mengandung lebih dari satu mode permainan (*hybrid*) ke dalam kategori Qualified diubah dari 2 nominasi utuh menjadi 2 nominasi per mode permainan yang ada. <!-- https://github.com/ppy/osu-web/pull/6832 -->
-    - Anggota-anggota Beatmap Nominator yang menjabat pada lebih dari satu mode permainan hanya dapat menominasikan satu mode permainan yang dikehendaki pada setiap beatmapnya.
+    - Masing-masing anggota Beatmap Nominator hanya dapat memberikan nominasi pada satu mode permainan per beatmapnya.
 
 ### December
 
-- **2020-12-17:** Inappropriate content review submission and evaluation were moved from Discord discussions to blind votes via the [Beatmap Nominator website](https://bn.mappersguild.com/).
+- **2020-12-17:** Inappropriate content review submission and evaluation were moved from Discord discussions dengan menggunakan sistem *blind voting* pada [situs web Beatmap Nominator](https://bn.mappersguild.com/).
 
 **3580 beatmaps** were ranked in 2020.
 
