@@ -473,7 +473,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 - **2020-12-17:** Inappropriate content review submission and evaluation were moved from Discord discussions dengan menggunakan sistem *blind voting* pada [situs web Beatmap Nominator](https://bn.mappersguild.com/).
 
-**3580 beatmaps** were ranked in 2020.
+Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ## 2021
 
