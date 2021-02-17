@@ -446,8 +446,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 ### Februari
 
 - **2020-02-07:** Gelar dan *profile badge* Elite Nominator mulai dibagikan bagi anggota-anggota BN yang dinilai telah sangat berkontribusi dalam ruang lingkup mapping dan modding.
-    - Hal ini merupakan salah satu poin yang diajukan pada proposal QAT Upheaval terdahulu.
- <!-- https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019 -->
+    - Hal ini merupakan salah satu poin yang diajukan pada proposal QAT Upheaval terdahulu. <!-- https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019 -->
 - **2020-02-21:**  NAT tidak lagi dipimpin secara terpusat setelah ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) mengundurkan diri sebagai NAT leader.
     - Hal-hal yang sebelumnya merupakan tanggung jawab NAT leader dibebankan secara merata kepada anggota-anggota NAT yang ada.
 - **2020-02-24:** Sistem [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) dipindahkan dari Trello ke [situs web Beatmap Nominator](https://bn.mappersguild.com/).
