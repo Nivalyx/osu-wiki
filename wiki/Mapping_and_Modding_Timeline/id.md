@@ -479,7 +479,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 ### January
 
 - **2021-01-05:** Label `Eksplisit` mulai diberlakukan bagi beatmap yang mengusung lagu-lagu eksplisit.<!-- https://github.com/ppy/osu-web/pull/6575 -->
-    - Label ini tidak berlaku untuk konten-konten visual yang ada. Konten-konten visual yang ada tetap tunduk pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations).
+    - Label ini tidak berlaku untuk konten-konten visual yang terdapat pada beatmap. Seluruh konten visual yang ada tetap harus patuh terhadap peraturan-peraturan yang tertera pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations).
 - **2021-01-30:** Kanal obrolan `#modhelp` berganti nama menjadi `#mapping` untuk lebih mencerminkan topik diskusi yang dikehendaki di dalamnya.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
