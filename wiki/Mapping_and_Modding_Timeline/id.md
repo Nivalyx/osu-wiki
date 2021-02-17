@@ -331,7 +331,7 @@ Secara keseluruhan, terdapat **1720 beatmap** yang di-rank sepanjang tahun 2016.
     - Anggota-anggota BN ditandai dengan nama pengguna yang berwarna ungu pada forum. 
     - ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) berdasarkan hasil pemungutan suara yang diikuti oleh seluruh anggota BN dan QAT. Mereka bekerja sama dengan osu!team untuk memoderasi lingkungan mapping dan modding secara keseluruhan.
     - Anggota-anggota BN dan QAT yang telah menjabat dalam kurun-kurun waktu tertentu diberikan penghargaan berupa *profile badge* sesuai dengan besar kontribusinya masing-masing. Pengakuan balas jasa ini diberikan untuk meningkatkan motivasi BN dan QAT yang di kala itu sedang berada pada titik yang cukup rendah. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
-    - Perubahan ini membuat lingkungan mapping dan modding yang ada menjadi jauh lebih mengayomi dan terbuka antar satu sama lain. Beatmap-beatmap yang sebelumnya dipandang kontroversial seperti *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)*) dan lain sebagainya mulai lebih dapat diterima oleh berbagai pihak.
+    - Perubahan ini membuat lingkungan mapping dan modding yang ada menjadi jauh lebih mengayomi dan terbuka antar satu sama lain. Beatmap-beatmap yang sebelumnya dipandang kontroversial seperti *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)* dan lain sebagainya mulai lebih dapat diterima oleh berbagai pihak.
 
 ### Oktober
 
