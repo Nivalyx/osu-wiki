@@ -459,7 +459,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 ### October
 
-- **2020-10-02:** Dokumen [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) dicanangkan untuk menanggapi kekhawatiran publik seputar perilaku dan etos kerja anggota-anggota BN yang dinilai buruk di kala itu. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
+- **2020-10-02:** Dokumen [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) dicanangkan untuk menanggapi kekhawatiran publik seputar perilaku dan etos kerja sebagian anggota BN yang dinilai buruk di kala itu. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
     - Concerns included low approachability, uncivil actions in community settings, and questionable ranking quality standards.
     - This resulted in the immediate removal of 5 Beatmap Nominators.
 - **2020-10-29:** Beatmap Nominator game mode proficiency became visible on osu! web. <!-- https://github.com/ppy/osu-web/pull/6747 -->
