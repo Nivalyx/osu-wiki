@@ -449,8 +449,8 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
     - Hal ini merupakan salah satu poin yang diajukan pada proposal QAT Upheaval terdahulu. <!-- https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019 -->
 - **2020-02-21:**  NAT tidak lagi dipimpin secara terpusat setelah ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) mengundurkan diri sebagai NAT leader.
     - Hal-hal yang sebelumnya merupakan tanggung jawab NAT leader dibebankan secara merata kepada anggota-anggota NAT yang ada.
-- **2020-02-24:** Sistem [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) dipindahkan dari Trello ke [situs web Beatmap Nominator](https://bn.mappersguild.com/).
-    - Pemindahan ini ditujukan agar aktivitas-aktivitas yang terkait dengan sistem Quality Assurance Helper yang ada dapat dijadikan bahan pertimbangan dalam proses evaluasi masing-masing anggota Beatmap Nominator ke depannya.
+- **2020-02-24:** Ruang kerja regu [Quality Assurance Helper](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance-helpers) dipindahkan dari Trello ke [situs web Beatmap Nominator](https://bn.mappersguild.com/).
+    - Pemindahan ini ditujukan agar aktivitas-aktivitas para BN yang terkait dengan regu Quality Assurance Helper dapat dijadikan bahan pertimbangan dalam proses evaluasi masing-masing anggota Beatmap Nominator ke depannya.
 
 ### April
 
