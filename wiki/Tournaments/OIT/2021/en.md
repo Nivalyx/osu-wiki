@@ -114,7 +114,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 - HardRock
   - [BUTAOTOME - Kyouen (Leader) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1336424#osu/2768610)
   - [Kozato Snow - 45nen no Yukizakura (Gust) \[SAKASAKA\]](https://osu.ppy.sh/beatmapsets/1128204#osu/2357044)
-  - [Memme - Pandemonium (sdfasf) \[[Lasse's Extra: #8]\]](https://osu.ppy.sh/beatmapsets/734190#osu/1550984)  
+  - [Memme - Pandemonium (sdfasf) \[Lasse's Extra: #8\]](https://osu.ppy.sh/beatmapsets/734190#osu/1550984)  
 - DoubleTime
   - [TrySail - azure (VINXIS) \[Mirror\]](https://osu.ppy.sh/beatmapsets/879262#osu/1838785)
   - [ALiCE'S EMOTION - Selfish (Tsukasa Remix) (Mixagji) \[Lunatic old\]](https://osu.ppy.sh/beatmapsets/55214#osu/2822364)
