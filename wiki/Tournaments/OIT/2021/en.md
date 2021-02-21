@@ -102,28 +102,28 @@ Listed below are players who qualified into the Round of 32 (along with their re
 **[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bpPhDewj_pXvKkB45Iwzu8JXvcqCJKpT/view)**
 
 - NoMod
-  - [Denkishiki Karen Ongaku Shuudan (Star Stream) \[Extra\]](https://osu.ppy.sh/beatmapsets/1173059#osu/438187)
-  - [F-777 - Unsafe Speeds (Nozhomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1281410#osu/2717662)
-  - [Hoshimachi Suisei - NEXT COLOR PLANET (Lortus) \[Shiny\]](https://osu.ppy.sh/beatmapsets/374900#osu/2371242)
-  - [nora2r - ULTRA B+K (Shirasaka Koume) \[ULTRA Collab\]](https://osu.ppy.sh/beatmapsets/1231408#osu/1846365)
-  - [Laur - Nostalgic Blood of the Strife (Zelq) \[Expert\]](https://osu.ppy.sh/beatmapsets/744636#osu/2613076)  
+  - [Denkishiki Karen Ongaku Shuudan (Star Stream) \[Extra\]](https://osu.ppy.sh/beatmapsets/182815#osu/438187)
+  - [F-777 - Unsafe Speeds (Nozhomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1311130#osu/2717662)
+  - [Hoshimachi Suisei - NEXT COLOR PLANET (Lortus) \[Shiny\]](https://osu.ppy.sh/beatmapsets/1135387#osu/2371242)
+  - [nora2r - ULTRA B+K (Shirasaka Koume) \[ULTRA Collab\]](https://osu.ppy.sh/beatmapsets/883219#osu/1846365)
+  - [Laur - Nostalgic Blood of the Strife (Zelq) \[Expert\]](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)  
 - Hidden
-  - [ovEnola - Noose (Cut Ver.) (BOUYAAA) \[Death\]](https://osu.ppy.sh/beatmapsets/867789#osu/2791506)
-  - [ICE - Majestic Phoenix (Zetera) \[N/A's Burning Insane\]](https://osu.ppy.sh/beatmapsets/1342061#osu/1775716)
-  - [Nekomata Master+ - chaos eater (pocket-) \[Hunger\]](https://osu.ppy.sh/beatmapsets/1142364#osu/2595779)  
+  - [ovEnola - Noose (Cut Ver.) (BOUYAAA) \[Death\]](https://osu.ppy.sh/beatmapsets/1348020#osu/2791506)
+  - [ICE - Majestic Phoenix (Zetera) \[N/A's Burning Insane\]](https://osu.ppy.sh/beatmapsets/845094#osu/1775716)
+  - [Nekomata Master+ - chaos eater (pocket-) \[Hunger\]](https://osu.ppy.sh/beatmapsets/1248923#osu/2595779)  
 - HardRock
-  - [Nanahoshi Kangengakudan - ITYNITED IDENTITY (sammish) \[Unidentifiable\]](https://osu.ppy.sh/beatmapsets/744955#osu/1570573)
-  - [Nekomata Master - Izanami's wail (Uberzolik) \[Insane\]](https://osu.ppy.sh/beatmapsets/792367#osu/1662038)
-  - [Rabpit - Sacred (Matrix) \[Insane\]](https://osu.ppy.sh/beatmapsets/1044692#osu/2185350)  
+  - [BUTAOTOME - Kyouen (Leader) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1336424#osu/2768610)
+  - [Kozato Snow - 45nen no Yukizakura (Gust) \[SAKASAKA\]](https://osu.ppy.sh/beatmapsets/1128204#osu/2357044)
+  - [Memme - Pandemonium (sdfasf) \[[Lasse's Extra: #8]\]](https://osu.ppy.sh/beatmapsets/734190#osu/1550984)  
 - DoubleTime
-  - [SHK - SO HOT (Remix by SHK) (AngelHoney) \[Hard\]](https://osu.ppy.sh/beatmapsets/40086#osu/127409)
-  - [zts - worldenddominator (deetz) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/897884#osu/1946272)
-  - [Chata - Engage (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/875962#osu/1832015)
+  - [TrySail - azure (VINXIS) \[Mirror\]](https://osu.ppy.sh/beatmapsets/879262#osu/1838785)
+  - [ALiCE'S EMOTION - Selfish (Tsukasa Remix) (Mixagji) \[Lunatic old\]](https://osu.ppy.sh/beatmapsets/55214#osu/2822364)
+  - [Nhato - Gekka (Short Ver.) (Cubby) \[Niva's Insane (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/875962#osu/1832015)
 - FreeMod
-  - [Glasslake - Separated Union (DaRRi MIx) \[Hard\]](https://osu.ppy.sh/beatmapsets/17935#osu/63787)
-  - [ARForest - Lantinid (Nozhomi) \[Niva's Extra\]](https://osu.ppy.sh/beatmapsets/1250431#osu/2668675)  
+  - [SHK - Identity Part II (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/309807#osu/692495)
+  - [Ryokuoushoku Shakai - Mela! (Battle) \[Hero!\]](https://osu.ppy.sh/beatmapsets/1209920#osu/2519013)  
 - Tiebreaker
-  - **[wavforme x Annabel - own phrases (captin1) \[Abyss\]](https://osu.ppy.sh/beatmapsets/894919#osu/1870002)**
+  - **[Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (\_Kobii) \[Peter's Petal\]](https://osu.ppy.sh/beatmapsets/1300204#osu/2697174)**
 
 ### Round of 32
 
