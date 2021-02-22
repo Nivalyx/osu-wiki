@@ -118,7 +118,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 - DoubleTime
   - [TrySail - azure (VINXIS) \[Mirror\]](https://osu.ppy.sh/beatmapsets/879262#osu/1838785)
   - [ALiCE'S EMOTION - Selfish (Tsukasa Remix) (Mixagji) \[Lunatic old\]](https://osu.ppy.sh/beatmapsets/55214#osu/2822364)
-  - [Nhato - Gekka (Short Ver.) (Cubby) \[Niva's Insane (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/875962#osu/1832015)
+  - [Nhato - Gekka (Short Ver.) (Cubby) \[Niva's Insane (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/1382026#osu/2855475)
 - FreeMod
   - [SHK - Identity Part II (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/309807#osu/692495)
   - [Ryokuoushoku Shakai - Mela! (Battle) \[Hero!\]](https://osu.ppy.sh/beatmapsets/1209920#osu/2519013)  
@@ -203,6 +203,13 @@ Sunday, 21 February 2020:
 | Upper | [Takaichi](https://osu.ppy.sh/users/909745) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[cfood](https://osu.ppy.sh/users/8626190)** | [#1](https://osu.ppy.sh/community/matches/76332074) |
 | Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | [#1](https://osu.ppy.sh/community/matches/76325491) |
 | Upper | [- Rosemary -](https://osu.ppy.sh/users/2526649) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | *win by default* |
+
+Monday, 22 February 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | [#1](https://osu.ppy.sh/community/matches/76407719) |
+| Upper | **[Skitzor](https://osu.ppy.sh/users/3353314)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) | [#1](https://osu.ppy.sh/community/matches/76396612) |
 
 ## Ruleset
 
