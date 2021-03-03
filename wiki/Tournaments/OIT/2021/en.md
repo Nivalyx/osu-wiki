@@ -95,7 +95,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 | 31 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | 31.5 |
 | 32 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | 31.7 |
 
-¹ *a*
+¹ ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) decided to withdrew from the competition entirely during the course of the Round of 32. Under the unanimous discretion of all staff members and other participating players, the* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) vs* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) match was awarded to* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) by default and* ![][flag_ID] *[Splacten](https://osu.ppy.sh/users/10018405), the 33rd-placed player according to the Qualifier results, was later admitted in* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649)'s place from the beginning of the Lower Bracket onwards.*
 
 ## Mappools
 
@@ -242,6 +242,9 @@ Monday, 1 March 2020:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | [Skydiver](https://osu.ppy.sh/users/4750008) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[cfood](https://osu.ppy.sh/users/8626190)** | [#1](https://osu.ppy.sh/community/matches/76898577) |
 | Upper | **[Deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/76954986) |
+| Upper | [Rexeez](https://osu.ppy.sh/users/1987591) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[LoidKun](https://osu.ppy.sh/users/6437601)** | [#1](https://osu.ppy.sh/community/matches/76964797) |
+| Upper | **[Somay 287](https://osu.ppy.sh/users/4314559)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314) | [#1](https://osu.ppy.sh/community/matches/76960778) |
+| Upper | [Walfrid](https://osu.ppy.sh/users/6600809) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/76974828) |
 
 ### Round of 32
 
