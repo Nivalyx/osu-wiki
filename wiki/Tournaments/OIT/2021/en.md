@@ -95,7 +95,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 | 31 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | 31.5 |
 | 32 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | 31.7 |
 
-¹ ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) decided to withdrew from the competition entirely during the course of the Round of 32. Under the unanimous discretion of all staff members and other participating players, the* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) vs* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) match was awarded to* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) by default and* ![][flag_ID] *[Splacten](https://osu.ppy.sh/users/10018405), the 33rd-ranked player according to the Qualifier results, was later admitted in* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649)'s place from the start of the Lower Bracket onwards.*
+¹ ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) decided to withdrew from the competition entirely during the course of the Round of 32. Under the unanimous discretion of all staff members and other participating players, the* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) vs* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) match was awarded to* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) by default and* ![][flag_ID] *[Splacten](https://osu.ppy.sh/users/10018405), the 33rd-seeded player based on the Qualifier results, was later admitted in* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649)'s place from the start of the Lower Bracket onwards.*
 
 ## Mappools
 
