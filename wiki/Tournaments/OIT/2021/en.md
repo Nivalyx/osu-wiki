@@ -73,7 +73,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 | 9 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | 12.2 |
 | 10 | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | 14.0 |
 | 11 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 15.2 |
-| 12 | ![][flag_ID] [- Rosemary -](https://osu.ppy.sh/users/2526649) | 17.7 |
+| 12 | ![][flag_ID] [- Rosemary -](https://osu.ppy.sh/users/2526649) | 17.7¹ |
 | 13 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 18.4 |
 | 14 | ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314) | 18.5 |
 | 15 | ![][flag_ID] [Herbayse](https://osu.ppy.sh/users/4924094) | 18.9 |
@@ -95,7 +95,41 @@ Listed below are players who qualified into the Round of 32 (along with their re
 | 31 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | 31.5 |
 | 32 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | 31.7 |
 
+¹ *a*
+
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (163 MB)](https://drive.google.com/file/d/1cWKli8nWJv5Biw6XMEU_hml1PjsYgHBN/view)**
+
+- NoMod
+  - [Kurosaki Maon - Setsuna no Kajitsu (jonathanlfj) \[captin lfj's Paradise\]](https://osu.ppy.sh/beatmapsets/332112#osu/1900365)
+  - [Ryu\* - Sakura Mirage (STARLiGHT Mix) (Jean-Michel Jr) \[Illusion\]](https://osu.ppy.sh/beatmapsets/765795#osu/1918015)
+  - [fripSide - only my railgun (Petal) \[Extraordinary\]](https://osu.ppy.sh/beatmapsets/1358802#osu/2811763)
+  - [Getty vs. DJ DiA - Engage-Rex (Realazy) \[Leadcore's Extra\]](https://osu.ppy.sh/beatmapsets/1336197#osu/2768158)
+  - [Gram (DJ Genki) - Nibelungen (Sakura Blossom) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1040056#osu/2557524) 
+  - [Gekidan Record feat. Nekomata Master - Houkou Orpheus (DeviousPanda) \[Mystery\]](https://osu.ppy.sh/beatmapsets/1257522#osu/2613064)
+- Hidden
+  - [Nor + YUC'e - Mint Comet (JrSzZ) \[Chromatic\]](https://osu.ppy.sh/beatmapsets/1000076#osu/2092293)
+  - [Amuro vs Killer - Mei (Acylica) \[Muya's Another\]](https://osu.ppy.sh/beatmapsets/1148799#osu/2411485)
+  - [Feryquitous - Quon-Extend- (captin1) \[hi niva\]](https://osu.ppy.sh/beatmapsets/1362537#osu/2858703)
+  - [Hana - Kuukirikigaku Shoujo to Shounen no Uta (Luscent) \[Garden & ak74's Jabberwocky Extra\]](https://osu.ppy.sh/beatmapsets/1164291#osu/2744129)
+- HardRock
+  - [fhana - Comet Lucifer \~The Seed and the Sower\~ (Nao Tomori) \[Nathan's Extra\]](https://osu.ppy.sh/beatmapsets/890244#osu/1861814)
+  - [UNDEAD CORPORATION - Through Your Optic (Sparhten) \[xChippy's Extra\]](https://osu.ppy.sh/beatmapsets/1022770#osu/2238838)
+  - [ak+q - Axium Crisis (MrSergio) \[Collapse\]](https://osu.ppy.sh/beatmapsets/812551#osu/1704329)
+  - [Shimotsuki Haruke - un secret (ImpurePug) \[rose\]](https://osu.ppy.sh/beatmapsets/1014611#osu/2125846)
+- DoubleTime
+  - [P4koo - 8th:Planet \~Re:search\~ (Niva) \[Chapter 1 : We Are Beyond Human\]](https://osu.ppy.sh/beatmapsets/1295410#osu/2687876)
+  - [nmk - sola (sjoy) \[cwR's Insane\]](https://osu.ppy.sh/beatmapsets/183267#osu/440413)
+  - [zts - goldenslaughterer (Dada) \[The First Twilight\]](https://osu.ppy.sh/beatmapsets/931948#osu/2367515)
+  - [frederic - ONLYWONDER (Faito) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1177496#osu/2466867)
+- FreeMod
+  - [nana(Sevencolors) - chameleon (RVMathew) \[Ojou\]](https://osu.ppy.sh/beatmapsets/1046876#osu/2202224)
+  - [Umeboshi Chazuke - Galaxy in Toybox (DC Update Ver.) (Star Stream) \[Mirash's Extra\]](https://osu.ppy.sh/beatmapsets/1155525#osu/2485087)  
+- Tiebreaker
+  - **[Receptor - Redstar (Raikozen) \[REALITY ECLIPSE\]](https://osu.ppy.sh/beatmapsets/996649#osu/2084661)**
 
 ### Round of 16
 
