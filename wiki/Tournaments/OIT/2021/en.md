@@ -116,20 +116,20 @@ Listed below are players who qualified into the Round of 32 (along with their re
   - [Myrath - Dance (Axarious) \[Collab\]](https://osu.ppy.sh/beatmapsets/1142634#osu/2386204)
   - [Yorushika - Thoughtcrime (Skydiver) \[Thought Criminal\]](https://osu.ppy.sh/beatmapsets/1268323#osu/2635938)
 - HardRock
-  - [fhana - Comet Lucifer \~The Seed and the Sower\~ (Nao Tomori) \[Nathan's Extra\]](https://osu.ppy.sh/beatmapsets/890244#osu/1861814)
-  - [UNDEAD CORPORATION - Through Your Optic (Sparhten) \[xChippy's Extra\]](https://osu.ppy.sh/beatmapsets/1022770#osu/2238838)
-  - [ak+q - Axium Crisis (MrSergio) \[Collapse\]](https://osu.ppy.sh/beatmapsets/812551#osu/1704329)
-  - [Shimotsuki Haruka - un secret (ImpurePug) \[rose\]](https://osu.ppy.sh/beatmapsets/1014611#osu/2125846)
+  - [ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita. (UberFazz) \[bongo's Extra Stage.\]](https://osu.ppy.sh/beatmapsets/1180982#osu/2485186)
+  - [L.E.D. - THE LAST STRIKER (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/1085929#osu/2270810)
+  - [t+pazolite - Pee-Kan Breaks (Urushi38) \[yaaa\]](https://osu.ppy.sh/beatmapsets/179725#osu/432028)
+  - [toby fox vs. Ferdk - Battle Against a True Hero (Hobbes2) \[Genocide\]](https://osu.ppy.sh/beatmapsets/576030#osu/1457925)
 - DoubleTime
-  - [P4koo - 8th:Planet \~Re:search\~ (Niva) \[Chapter 1 : We Are Beyond Human\]](https://osu.ppy.sh/beatmapsets/1295410#osu/2687876)
-  - [nmk - sola (sjoy) \[cwR's Insane\]](https://osu.ppy.sh/beatmapsets/183267#osu/440413)
-  - [zts - goldenslaughterer (Dada) \[The First Twilight\]](https://osu.ppy.sh/beatmapsets/931948#osu/2367515)
-  - [frederic - ONLYWONDER (Faito) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1177496#osu/2466867)
+  - [Zekk - SUMMER (\_Everlasting) \[Insane\]](https://osu.ppy.sh/beatmapsets/972446#osu/2052273)
+  - [Atogoru - Itoshi Kimi wo Mitsuke Ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523)
+  - [zts - miragecoordinator (tricolor) \[nanairo\]](https://osu.ppy.sh/beatmapsets/1283092#osu/2664727)
+  - [Ceui - Hoshi Ori Yume Mirai (-Nanaka-) \[Silky's Insane\]](https://osu.ppy.sh/beatmapsets/268509#osu/1079089)
 - FreeMod
-  - [nana(Sevencolors) - chameleon (RVMathew) \[Ojou\]](https://osu.ppy.sh/beatmapsets/1046876#osu/2202224)
-  - [Umeboshi Chazuke - Galaxy in Toybox (DC Update Ver.) (Star Stream) \[Mirash's Extra\]](https://osu.ppy.sh/beatmapsets/1155525#osu/2485087)  
+  - [Isekai Joucho - Kyoukankaku Obake (Calvaria) \[melloe's Desperation\]](https://osu.ppy.sh/beatmapsets/1141909#osu/2385598)
+  - [DUSTCELL - CULT (anna apple) \[Love, Assault, and Worship\]](https://osu.ppy.sh/beatmapsets/1271997#osu/2643204)  
 - Tiebreaker
-  - **[Receptor - Redstar (Raikozen) \[REALITY ECLIPSE\]](https://osu.ppy.sh/beatmapsets/996649#osu/2084661)**
+  - **[RELFENSJoN - Akayake no Majo (Hey lululu) \[Scarlet World\]](https://osu.ppy.sh/beatmapsets/996649#osu/2084661)**
 
 ### Quarterfinals
 
