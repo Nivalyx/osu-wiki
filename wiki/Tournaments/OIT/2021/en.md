@@ -259,6 +259,7 @@ Saturday, 6 March 2021:
 | Lower | [Daffy](https://osu.ppy.sh/users/5968633) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Caruma](https://osu.ppy.sh/users/13187450)** | [#1](https://osu.ppy.sh/community/matches/77346023) |
 | Upper | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | [#1](https://osu.ppy.sh/community/matches/77353978) |
 | Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | [#1](https://osu.ppy.sh/community/matches/77362941) |
+| Lower | **[Walfrid](https://osu.ppy.sh/users/6600809)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | *win by default* |
 
 Sunday, 7 March 2021:
 
