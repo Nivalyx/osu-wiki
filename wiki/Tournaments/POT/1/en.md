@@ -8,7 +8,7 @@ tags:
 
 ![PERAK osu! Tournament logo](img/logo.jpg)
 
-The **PERAK osu! Tournament** (***OIT 2021***) is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) and co-hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), and ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825). It was the eleventh iteration of the osu! Indonesia Tournament.
+The **PERAK osu! Tournament** (***OIT 2021***) is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670). The tournament is open to all players who are registered as a student in (or an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It is the first iteration of PERAK osu! Tournament.
 
 ## Tournament schedule
 
