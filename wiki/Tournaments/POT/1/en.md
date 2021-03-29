@@ -8,9 +8,7 @@ tags:
 
 ![PERAK osu! Tournament logo](img/logo.jpg)
 
-The **PERAK osu! Tournament** is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670). The tournament is open to all players who are registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It is the first iteration of the PERAK osu! Tournament.
-
-PERAK osu! Tournament is being held as a part of the [PERAK Games League](https://perak.cs.ui.ac.id/) festival.
+The **PERAK osu! Tournament** is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) which is being held as a part of the [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament is open to all players who are registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It is the first iteration of the PERAK osu! Tournament.
 
 ## Tournament schedule
 
