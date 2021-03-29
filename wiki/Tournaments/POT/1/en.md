@@ -8,35 +8,30 @@ tags:
 
 ![PERAK osu! Tournament logo](img/logo.jpg)
 
-The **PERAK osu! Tournament** (***OIT 2021***) is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670). The tournament is open to all players who are registered as a student in (or an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It is the first iteration of PERAK osu! Tournament.
+The **PERAK osu! Tournament** (***OIT 2021***) is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670). The tournament is open to all players who are registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It is the first iteration of the PERAK osu! Tournament.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-01-04/2021-01-24 |
-| Screening phase | 2021-01-25/2021-01-31 |
-| Qualifiers | 2021-02-01/2021-02-14 |
-| Round of 32 | 2021-02-15/2021-02-21 |
-| Round of 16 | 2021-02-22/2021-02-28 |
+| Registration phase | 2021-01-17/2021-02-05 |
+| Technical meeting | 2021-02-12 |
+| Qualifiers | 2021-02-14/2021-02-21 |
+| Round of 12 | 2021-02-22/2021-02-28 |
 | Quarterfinals | 2021-03-01/2021-03-07 |
 | Semifinals | 2021-03-08/2021-03-14 |
 | Finals week 1 | 2021-03-15/2021-03-21 |
-| Finals week 2 | 2021-03-22/2021-03-28 |
+| Finals week 2 | 2021-03-22/2021-04-04 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, 6 months of osu!supporter, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 4 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 2 months of osu!supporter |
-
-![Profile badge](img/badge.jpg)
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter tag, commemorative trophy |
 
 ## Organization
 
-OIT 2021 was run by various osu! community members predominantly hailing from Indonesia.
+The PERAK osu! Tournament is run by various Indonesian osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
