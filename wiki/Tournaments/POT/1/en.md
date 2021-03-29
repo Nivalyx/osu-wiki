@@ -8,7 +8,7 @@ tags:
 
 ![PERAK osu! Tournament logo](img/logo.jpg)
 
-The **PERAK osu! Tournament** (***OIT 2021***) is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670). The tournament is open to all players who are registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It is the first iteration of the PERAK osu! Tournament.
+The **PERAK osu! Tournament** is a double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) and ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670). The tournament is open to all players who are registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It is the first iteration of the PERAK osu! Tournament.
 
 ## Tournament schedule
 
@@ -35,14 +35,13 @@ The PERAK osu! Tournament is run by various Indonesian osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
-| Co-host | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825) |
-| Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
-| Playtester | ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545), ![][flag_ID] [Ganjo](https://osu.ppy.sh/users/9512538), ![][flag_ID] [Calliope Mori](https://osu.ppy.sh/users/2429128) |
-| Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [PanTsuArmy](https://osu.ppy.sh/users/9083094) |
-| Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [Velstadt](https://osu.ppy.sh/users/6209095), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Reyuza](https://osu.ppy.sh/users/2454767), ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) |
-| Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467), ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [CookieSan](https://osu.ppy.sh/users/5634959), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [Ceress](https://osu.ppy.sh/users/11062015), ![][flag_ID] [Astrale](https://osu.ppy.sh/users/14667308), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966) |
-| Graphic designer | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899) |
+| Host | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405), ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) |
+| Mappool selector | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405), ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) |
+| Playtester | ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) |
+| Streamer | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
+| Commentator | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) |
+| Referee | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Romizzz](https://osu.ppy.sh/users/6154769) |
+| Graphic designer | ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
