@@ -91,41 +91,34 @@ Listed below are players who qualified into the Round of 12 (along with their re
   - [Feryquitous - Strahv (Rumia-) \[Another\]](https://osu.ppy.sh/beatmapsets/634143#osu/1345661)
 - DoubleTime
   - [Ito Kanako - Skyclad no Kansokusha (Linada) \[-Tochi's Insane\]](https://osu.ppy.sh/beatmapsets/416129#osu/972844)
-  - [S.S.H. - Sorcerian \~ Major Demon (Elcheer) \[oldrhythm\]](https://osu.ppy.sh/beatmapsets/1272001#osu/2651733)
-  - [Virtual Riot - Rampage (C00L) \[Zizou's Insane\]](https://osu.ppy.sh/beatmapsets/810556#osu/2301162)
-  - [KOTOKO - Wing my Way (CXu) \[Endless Sky\]](https://osu.ppy.sh/beatmapsets/850548#osu/1778268) 
+  - [capitaro - Yoiduki Maiuta (Amamiya Yuko) \[Hard\]](https://osu.ppy.sh/beatmapsets/70057#osu/205455)
+  - [Yooh - snow storm -euphoria- (-Chata-) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/156235#osu/382886)
+  - [TWICE - YES or YES (Toumei Dragon) \[Taeyang's Insane\]](https://osu.ppy.sh/beatmapsets/927769#osu/1950687) 
 - Tiebreaker
-  - **[Imperial Circus Dead Decadence - Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau (IsomirDiAngelo) \[Blindness and Tragedy\]](https://osu.ppy.sh/beatmapsets/1201605#osu/2502643)**
+  - **[FELT - Lies in Reality (captin1) \[Deception\]](https://osu.ppy.sh/beatmapsets/412270#osu/894409)**
 
 ### Finals week 1
 
 - NoMod
-  - [ABSOLUTE CASTAWAY - SPiNEL (Celine) \[Feline Collab #OITEdit\]](https://osu.ppy.sh/beatmapsets/1401813#osu/2891998)
-  - [xi - Longinus (Regou) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/1396101#osu/2881524)
-  - [Hatsuki Yura - The Clockwork Rose -Tokei Shikake no Bara Shoujo- (My Angel Watame) \[Corruption\]](https://osu.ppy.sh/beatmapsets/849824#osu/1776939)
-  - [Raphlesia & BilliumMoto - My Love (Mao) \[Our Love\]](https://osu.ppy.sh/beatmapsets/1388906#osu/2868388)
-  - [goreshit - xenobeat (fergas) \[DeathleSS\]](https://osu.ppy.sh/beatmapsets/1306568#osu/2708952) 
-  - [Hagane - Event Horizon (yaspo) \[Beyond Corsace\]](https://osu.ppy.sh/beatmapsets/1276324#osu/2651787)
+  - [GARNiDELiA - Yakusoku -Promise code- (Yasaija 714) \[kotachi's Extra\]](https://osu.ppy.sh/beatmapsets/727714#osu/1536489)
+  - [yuikonnu & ayaponzu\* - Super Nuko World (AllStar12) \[Guy's Extra\]](https://osu.ppy.sh/beatmapsets/153776#osu/386728)
+  - [Nanahoshi Kangengakudan - Andromeda (Nattu) \[Alpheratz\]](https://osu.ppy.sh/beatmapsets/549919#osu/1164369)
+  - [Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix (CallieCube) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1197597#osu/2494513)
+  - [t+pazolite - Tempestissimo (Shrukaghn) \[Extra\]](https://osu.ppy.sh/beatmapsets/1185696#osu/2473039) 
 - Hidden
-  - [inabakumori - NON-USE (kuyusu) \[Expert\]](https://osu.ppy.sh/beatmapsets/1317045#osu/2728951)
-  - [P4koo - Forbidden Light (Gibune) \[ak74 & Garden's Ultra\]](https://osu.ppy.sh/beatmapsets/1279878#osu/2658705)
-  - [Dimrain47 - Infernoplex (AncuL) \[Planetary Collision 2021 but AR8.3\]](https://osu.ppy.sh/beatmapsets/780203#osu/2845272)
-  - [LeaF - Poison AND/OR Affection (Flask) \[Arithmetic Love\]](https://osu.ppy.sh/beatmapsets/1130436#osu/2361362)
+  - [yuikonnu - Souzou Forest (IOException) \[deetz' Extra\]](https://osu.ppy.sh/beatmapsets/1208022#osu/2600667)
+  - [sasakure.UK - Chimera feat. Annabel (PandaHero) \[SMM's Extra\]](https://osu.ppy.sh/beatmapsets/1103928#osu/2445425)
+  - [DECO\*27 feat. marina - Aimai Elegy (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/43248#osu/135804)
 - HardRock
-  - [Feryquitous feat. Aitsuki Nakuru - Fake (captin1) \[Irregular\]](https://osu.ppy.sh/beatmapsets/1146723#osu/2394332)
-  - [Negentropy (a.k.a. Team Grimoire) - ouroVoros (Suzuki\_1112) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/707164#osu/1495322)
-  - [ABSOLUTE CASTAWAY - Dokoku no Mori (Celine) \[#OITedit feat. awan\]](https://osu.ppy.sh/beatmapsets/1337376#osu/2891992)
-  - [DUSTCELL - Anemone (Sparhten) \[Irrational\]](https://osu.ppy.sh/beatmapsets/1247651#osu/2593243)
+  - [Ogura Yui - Honey Come!! (Rizia) \[Neria's Insane\]](https://osu.ppy.sh/beatmapsets/374144#osu/858483)
+  - [REDALiCE - taboo tears you up (DJPop) \[Insane\]](https://osu.ppy.sh/beatmapsets/7224#osu/31334)
+  - [Gentle Stick X M2U - Ineffabilis (buhei) \[-kevincela-'s Insane\]](https://osu.ppy.sh/beatmapsets/340903#osu/766504)
 - DoubleTime
-  - [Mitchie M feat. Hatsune Miku with KAITO - Ohedo Julia-Night (Natsu) \[Dance Floor\]](https://osu.ppy.sh/beatmapsets/664099#osu/1405572)
-  - [MuryokuP - Mephisto (Niva) \[captin1's Insane (OIT Edit) (hi captin)\]](https://osu.ppy.sh/beatmapsets/1402174#osu/2892700)
-  - [Minase Inori, Hanazawa Kana, Iguchi Yuka, Hayami Saori - Koko kara, Koko kara (Asuka\_-) \[Sora\]](https://osu.ppy.sh/beatmapsets/840217#osu/1758793)
-  - [Juno Reactor - Magnetic (PandaHero) \[Insane (right version)\]](https://osu.ppy.sh/beatmapsets/1346647#osu/2890576)
-- FreeMod
-  - [Feryquitous - Ordirehv (ScubDomino) \[Abscibus\]](https://osu.ppy.sh/beatmapsets/1272110#osu/2643413)
-  - [Kurosawa Daisuke x Masahiro "Godspeed" Aoki - Dairokutenmaou (pw384) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1120841#osu/2371971)  
+  - [Nishino Kana - Darling (Giralda) \[Insane\]](https://osu.ppy.sh/beatmapsets/209810#osu/493755)
+  - [Cranky - Hanaarashi (Mirash) \[Hard\]](https://osu.ppy.sh/beatmapsets/751771#osu/1582581)
+  - [Itowokashi - Kanadeai (Flask) \[Hard\]](https://osu.ppy.sh/beatmapsets/1089616#osu/2636970)
 - Tiebreaker
-  - **[Ariabl'eyeS - Senkou no Flare (Lyruke) \[Litmuss55\]](https://osu.ppy.sh/beatmapsets/1264419#osu/2695955)**
+  - **[Halozy - Kanshou no Matenrou (captin1) \[Eternal\]](https://osu.ppy.sh/beatmapsets/179699#osu/431957)**
 
 ### Semifinals
 
