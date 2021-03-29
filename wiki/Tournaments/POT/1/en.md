@@ -47,7 +47,8 @@ The PERAK osu! Tournament is run by various Indonesian osu! community members.
 ## Links
 
 - **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1QLDMAL1lbfSey2tOd7zoVE6dtvI3qPD8PRBFJQpJxYY/edit#gid=563925167 "Google Sheets")**
-- [Discord server](https://discordapp.com/invite/CHRFffH "Discord")
+- [Official website](https://perak.cs.ui.ac.id/skor/osu "PERAK Games League website")
+- [Discord server](https://discordapp.com/invite/8vGTedxKmD "Discord")
 - [Livestream channel](https://www.twitch.tv/perakgamesleague "Twitch")
 - [Challonge brackets](https://challonge.com/jon1xcd6 "Challonge")
 
