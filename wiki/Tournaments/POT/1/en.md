@@ -20,8 +20,8 @@ The **PERAK osu! Tournament** is a double-elimination 1v1 osu!standard tournamen
 | Round of 12 | 2021-02-22/2021-02-28 |
 | Quarterfinals | 2021-03-01/2021-03-07 |
 | Semifinals | 2021-03-08/2021-03-14 |
-| Finals week 1 | 2021-03-15/2021-03-21 |
-| Finals week 2 | 2021-03-22/2021-04-04 |
+| Finals (week 1) | 2021-03-15/2021-03-21 |
+| Finals (week 2) | 2021-03-22/2021-04-04 |
 
 ## Prizes
 
@@ -72,7 +72,7 @@ Listed below are players who qualified into the Round of 12 (along with their re
 
 ## Mappools
 
-### Finals week 2
+### Finals (week 2)
 
 - NoMod
   - [Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/720294#osu/1520788)
@@ -97,7 +97,7 @@ Listed below are players who qualified into the Round of 12 (along with their re
 - Tiebreaker
   - **[FELT - Lies in Reality (captin1) \[Deception\]](https://osu.ppy.sh/beatmapsets/412270#osu/894409)**
 
-### Finals week 1
+### Finals (week 1)
 
 - NoMod
   - [GARNiDELiA - Yakusoku -Promise code- (Yasaija 714) \[kotachi's Extra\]](https://osu.ppy.sh/beatmapsets/727714#osu/1536489)
@@ -165,19 +165,19 @@ Listed below are players who qualified into the Round of 12 (along with their re
 ### Qualifiers
 
 - NoMod
-  - [Mary - Vivid (BarkingMadDog) \[Henceforth\]](https://osu.ppy.sh/beatmapsets/1230253#osu/2557665)
-  - [xi - Ascension to Heaven (-Tynamo) \[Boshyman's Extra\]](https://osu.ppy.sh/beatmapsets/968656#osu/2547374)
-  - [KaratoPanchiiShounen feat. Haruno - A Wandering Melody of Love (papple104) \[Mind's Extra\]](https://osu.ppy.sh/beatmapsets/1106189#osu/2407780)
-  - [UiNA, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix 2018) (Petal) \[Extra (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/1363389#osu/2820648)
+  - [scop - Keppekishou (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmapsets/70115#osu/202008)
+  - [Ryu\* vs. Sota - Go Beyond!! (Anto) \[Hard!!\]](https://osu.ppy.sh/beatmapsets/934522#osu/1953939)
+  - [THE ORAL CIGARETTES - Kyouran Hey Kids!! (Monstrata) \[Milan's Hard\]](https://osu.ppy.sh/beatmapsets/372510#osu/832611)
+  - [jioyi - Platinum (Plaudible) \[Hard\]](https://osu.ppy.sh/beatmapsets/553237#osu/1176330)
 - Hidden
-  - [Rin - Moriya set 08 ReEdit \~ Youkai no Yama (jonathanlfj) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/751866#osu/1582806)
-  - [Emily Osment - Hero in Me (AJT) \[Save The Day\]](https://osu.ppy.sh/beatmapsets/1229079#osu/2555552)
+  - [KyoKa - Kirameki\*Chocolaterie (Left) \[Insane\]](https://osu.ppy.sh/beatmapsets/1106356#osu/2314715)
+  - [beatMARIO - Night of Knights (alacat) \[Hard\]](https://osu.ppy.sh/beatmapsets/352570#osu/830082)
 - HardRock
-  - [UNDEAD CORPORATION - Adore Your Pain (jomnhnk) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/76745#osu/217083)
-  - [Kairiki bear feat. Hatsune Miku - Telesto Teles (Ryuusei Aika) \[wafer's Expert\]](https://osu.ppy.sh/beatmapsets/1196329#osu/2500705)
+  - [fhana - Genzaichi (Sotarks) \[Hard\]](https://osu.ppy.sh/beatmapsets/590023#osu/1249152)
+  - [THE ORAL CIGARETTES - ReI (Sotarks) \[Shunao's Hard\]](https://osu.ppy.sh/beatmapsets/785858#osu/1655441)
 - DoubleTime
-  - [Hanatan - Kokoro (sodarose) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1005463#osu/2104338)
-  - [Sunpon - Skyscraper Grief (Natteke) \[Happy's Lunatic\]](https://osu.ppy.sh/beatmapsets/15200#osu/69390)
+  - [Kano - Sukisuki Zecchoushou (Loreley) \[Advanced\]](https://osu.ppy.sh/beatmapsets/484532#osu/1233124)
+  - [qfeileadh - breathe (ktgster) \[Advanced\]](https://osu.ppy.sh/beatmapsets/1181778#osu/2543827)
 
 ## Match results
 
