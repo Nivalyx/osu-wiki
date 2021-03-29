@@ -38,60 +38,37 @@ The PERAK osu! Tournament is run by various Indonesian osu! community members.
 | Host | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405), ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) |
 | Mappool selector | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405), ![][flag_ID] [Larzz](https://osu.ppy.sh/users/10483670) |
 | Playtester | ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) |
-| Streamer | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
-| Commentator | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) |
+| Streamer | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| Commentator | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) |
 | Referee | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Romizzz](https://osu.ppy.sh/users/6154769) |
-| Graphic designer | ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
+| Graphic designer | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1R7y585_PIb5XrFvDQk-rlI0vSlr2FyGkhCmPzorNhuU/edit#gid=1680086225 "Google Sheets")**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1215072)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1QLDMAL1lbfSey2tOd7zoVE6dtvI3qPD8PRBFJQpJxYY/edit#gid=563925167 "Google Sheets")**
 - [Discord server](https://discordapp.com/invite/CHRFffH "Discord")
-- [Livestream channel](https://www.twitch.tv/osuindonesia "Twitch")
-- [Challonge brackets](https://challonge.com/OIT2021 "Challonge")
+- [Livestream channel](https://www.twitch.tv/perakgamesleague "Twitch")
+- [Challonge brackets](https://challonge.com/jon1xcd6 "Challonge")
 
 ## Participants
 
-Listed below are players who qualified into the Round of 32 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 106 registered players in total.
+Listed below are players who qualified into the Round of 12 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 19 registered players in total.
 
 | Seed No. | Player | Avg. Map Rank |
 | :-- | :-- | :-- |
-| 1 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 2 | ![][flag_ID] [rho](https://osu.ppy.sh/users/1629553) | 8.5 |
-| 3 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | 8.6 |
-| 4 | ![][flag_ID] [Deeto](https://osu.ppy.sh/users/10069909) | 9.0 |
-| 5 | ![][flag_ID] [MineFrostID](https://osu.ppy.sh/users/12159899) | 9.1 |
-| 6 | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | 10.4 |
-| 7 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | 10.6 |
-| 8 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | 11.1 |
-| 9 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | 12.2 |
-| 10 | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | 14.0 |
-| 11 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 15.2 |
-| 12 | ![][flag_ID] [- Rosemary -](https://osu.ppy.sh/users/2526649) | 17.7¹ |
-| 13 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 18.4 |
-| 14 | ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314) | 18.5 |
-| 15 | ![][flag_ID] [Herbayse](https://osu.ppy.sh/users/4924094) | 18.9 |
-| 16 | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | 21.2 |
-| 17 | ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) | 21.3 |
-| 18 | ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677) | 22.4 |
-| 19 | ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) | 22.7 |
-| 20 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | 24.0 |
-| 21 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | 24.6 |
-| 22 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | 26.9 |
-| 23 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | 27.0 |
-| 24 | ![][flag_ID] [Eliz](https://osu.ppy.sh/users/11759284) | 27.2 |
-| 25 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | 27.3 |
-| 26 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | 27.6 |
-| 27 | ![][flag_ID] [Clayweg](https://osu.ppy.sh/users/11374005) | 28.2 |
-| 28 | ![][flag_ID] [ngonk](https://osu.ppy.sh/users/4750008) | 28.7 |
-| 29 | ![][flag_ID] [Contra](https://osu.ppy.sh/users/12011863) | 29.4 |
-| 30 | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | 29.5 |
-| 31 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | 31.5 |
-| 32 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | 31.7 |
-
-¹ ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) decided to withdrew from the competition entirely during the course of the Round of 32. Under the unanimous discretion of all staff members and other participating players, the* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649) vs* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) match was awarded to* ![][flag_ID] *[Venta](https://osu.ppy.sh/users/11320627) by default and* ![][flag_ID] *[Splacten](https://osu.ppy.sh/users/10018405), the 33rd-seeded player based on the Qualifier results, was later admitted in* ![][flag_ID] *[- Rosemary -](https://osu.ppy.sh/users/2526649)'s place from the start of the Lower Bracket onwards.*
+| 1 | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | 1.6 |
+| 2 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | 2.8 |
+| 3 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | 4.1 |
+| 4 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | 5.7 |
+| 5 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | 5.9 |
+| 6 | ![][flag_ID] [cuna](https://osu.ppy.sh/users/14505580) | 7.3 |
+| 7 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | 7.6 |
+| 8 | ![][flag_ID] [naruto-sasuke](https://osu.ppy.sh/users/4072413) | 7.9 |
+| 9 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | 8.0 |
+| 10 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 9.1 |
+| 11 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | 10.2 |
+| 12 | ![][flag_ID] [ana\_kunn](https://osu.ppy.sh/users/2868409) | 10.3 |
 
 ## Podium
 
