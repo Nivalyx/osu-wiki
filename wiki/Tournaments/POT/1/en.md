@@ -340,7 +340,7 @@ Sunday, 28 February 2021:
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own before the match commences.
 4. In case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Playing the tiebreaker map with a mod in hand however is *not* mandatory as going with NoMod is also permitted.
-   - Had a player choose to play the tiebreaker map with mods enabled, allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
+   - Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
