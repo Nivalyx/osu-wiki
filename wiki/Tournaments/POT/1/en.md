@@ -293,7 +293,7 @@ Sunday, 28 February 2021:
 10. Lag is not a valid reason to nullify a beatmap.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from the tournament and/or blacklisted from PERAK Games League altogether.
+    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from the tournament and/or blacklisted from the PERAK Games League altogether.
     - Usage of any tools and programs that are against [osu!'s community rules](/wiki/en/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu!team at will.
 
 ### Tournament registration
@@ -335,12 +335,12 @@ Sunday, 28 February 2021:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+2. Each player has to ban **one beatmap** (in the Round of 12 and the Quarterfinals) or **two beatmaps** (in the Semifinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed; banning NM1 and HD1 is allowed; banning HD1 and HD2, however, is *not* allowed.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own before the match commences.
-4. The Tiebreaker map will be played with the FreeMod option enabled. Playing the Tiebreaker map with a mod enabled however is *not* mandatory.
-   - Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
+4. In case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Playing the tiebreaker map with a mod in hand however is *not* mandatory as going with NoMod is also permitted.
+   - Had a player choose to play the tiebreaker map with mods enabled, allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
