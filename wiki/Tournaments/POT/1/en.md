@@ -184,68 +184,30 @@ Listed below are players who qualified into the Round of 12 (along with their re
 
 ### Finals (week 2)
 
-Friday, 26 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Crezz](https://osu.ppy.sh/users/7108275) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/79111217) |
-
-Saturday, 27 March 2021, Grand Final:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **7** | 4 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/79206937) |
-
 ### Finals (week 1)
 
-Friday, 19 March 2021:
+### Quarterfinals
+
+Friday, 5 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Crezz](https://osu.ppy.sh/users/7108275) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[rho](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/78462490) |
+| Upper | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [cuna](https://osu.ppy.sh/users/14505580) | [#1](https://osu.ppy.sh/community/matches/77278333) |
 
-Saturday, 20 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Fuma](https://osu.ppy.sh/users/1501956) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/78552464) |
-| Lower | [Deeto](https://osu.ppy.sh/users/10069909) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/78537165) |
-
-Sunday, 21 March 2021:
+Saturday, 6 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Rexeez](https://osu.ppy.sh/users/1987591) ![][flag_ID] | 3 | **7** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/78642911) |
+| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/77368933) |
 
-### Semifinals
-
-Friday, 12 March 2021:
+Sunday, 7 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/77867003) |
-| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | *win by default* |
+| Upper | [DigiM](https://osu.ppy.sh/users/2659328) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[StingRay](https://osu.ppy.sh/users/2215822)** | [#1](https://osu.ppy.sh/community/matches/77455381) |
+| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/77451609) |
 
-Saturday, 13 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Venta](https://osu.ppy.sh/users/11320627) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/78048476) |
-| Lower | [cfood](https://osu.ppy.sh/users/8626190) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/77969671) |
-| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | [#1](https://osu.ppy.sh/community/matches/78052798) |
-
-Sunday, 14 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Skitzor](https://osu.ppy.sh/users/3353314) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/78055159) |
-| Lower | [MineFrostID](https://osu.ppy.sh/users/12159899) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/78060403) |
-
-Monday, 15 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Deeto](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/78129428) |
+Wednesday, 10 March 2021:
 
 ### Round of 12
 
@@ -253,8 +215,8 @@ Friday, 26 February 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[cuna](https://osu.ppy.sh/users/14505580)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | [#1](https://osu.ppy.sh/community/matches/77270247) |
 | Upper | [naruto-sasuke](https://osu.ppy.sh/users/4072413) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/77245889) |
+| Upper | **[cuna](https://osu.ppy.sh/users/14505580)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | [#1](https://osu.ppy.sh/community/matches/77270247) |
 
 Saturday, 27 February 2021:
 
