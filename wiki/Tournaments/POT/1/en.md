@@ -186,6 +186,26 @@ Listed below are players who qualified into the Round of 12 (along with their re
 
 ### Finals (week 1)
 
+Friday, 19 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [StingRay](https://osu.ppy.sh/users/2215822) ![][flag_ID] | 2 | **6** | ![][flag_ID] **[cuna](https://osu.ppy.sh/users/78462242)** | [#1](https://osu.ppy.sh/community/matches/78462242) |
+| Lower | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/78458122) |
+
+Saturday, 20 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [cuna](https://osu.ppy.sh/users/78462242) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/78462242) |
+
+Sunday, 21 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Victim\_Crasher](https://osu.ppy.sh/users/2084869) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Lindaine](https://osu.ppy.sh/users/4572717)** | [#1](https://osu.ppy.sh/community/matches/78646519) |
+
+
 ### Semifinals
 
 Sunday, 14 March 2021:
