@@ -209,6 +209,18 @@ Sunday, 7 March 2021:
 
 Wednesday, 10 March 2021:
 
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[DigiM](https://osu.ppy.sh/users/2659328)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/77683525) |
+| Lower | **[cuna](https://osu.ppy.sh/users/14505580)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [naruto-sasuke](https://osu.ppy.sh/users/4072413) | [#1](https://osu.ppy.sh/community/matches/77686417) |
+
+Thursday, 11 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[larrypult](https://osu.ppy.sh/users/12255948)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [ana\_kunn](https://osu.ppy.sh/users/2868409) | [#1](https://osu.ppy.sh/community/matches/77764333) |
+| Lower | **[nasje](https://osu.ppy.sh/users/7579498)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | [#1](https://osu.ppy.sh/community/matches/77753957) |
+
 ### Round of 12
 
 Friday, 26 February 2021:
