@@ -182,8 +182,6 @@ Listed below are players who qualified into the Round of 12 (along with their re
 
 ## Match results
 
-### Finals (week 2)
-
 ### Finals (week 1)
 
 Friday, 19 March 2021:
@@ -297,6 +295,14 @@ Sunday, 28 February 2021:
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
     - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from the tournament and/or blacklisted from PERAK Games League altogether.
     - Usage of any tools and programs that are against [osu!'s community rules](/wiki/en/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu!team at will.
+
+### Tournament registration
+
+1. All interested players are required to register into the tournament individually.
+    - In order to be eligible to play in the tournament, a player must be registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id). A proof of [EMAS UI credential](http://emas.ui.ac.id)
+2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration Phase has ended.
+4. Testplayers, referees, and map selectors may not participate as players in this tournament.
 
 ### Qualifier rules
 
