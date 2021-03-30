@@ -283,7 +283,7 @@ Sunday, 28 February 2021:
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#ganti-jadwal` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
@@ -295,7 +295,7 @@ Sunday, 28 February 2021:
 10. Lag is not a valid reason to nullify a beatmap.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from OIT 2021 and/or blacklisted from the future installment(s) of OIT.
+    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from the tournament and/or blacklisted from the future installment(s) of the PERAK Games League altogether.
     - Usage of any tools and programs that are against [osu!'s community rules](/wiki/en/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu!team at will.
     - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next installment(s) of OIT regardless of their role in the smurfing accident.
 
