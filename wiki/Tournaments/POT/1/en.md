@@ -203,8 +203,7 @@ Sunday, 21 March 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Victim\_Crasher](https://osu.ppy.sh/users/2084869) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Lindaine](https://osu.ppy.sh/users/4572717)** | [#1](https://osu.ppy.sh/community/matches/78646519) |
-
+| Lower | [Victim\_Crasher](https://osu.ppy.sh/users/2084869) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[Lindaine](https://osu.ppy.sh/users/4572717)** | [#1](https://osu.ppy.sh/community/matches/78646519) |
 
 ### Semifinals
 
@@ -312,16 +311,16 @@ Sunday, 28 February 2021:
 
 ### Knock-out stage rules
 
-1. The 32 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
+1. The 12 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
 2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as follows:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Players who lose in the Lower Bracket will be eliminated from the tournament.
-   - In the Grand Finals, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
+   - In the Grand Final match, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
 4. Players who can compete in the next round are determined by:
-   - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In both of the Finals Weeks, each player needs to win 7 points in order to to win a match. (Best-of-13)
+   - In the Round of 12 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
+   - In the Semifinals and the Finals (week 1), each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Finals (week 2), each player needs to win 7 points in order to to win a match. (Best-of-13)
    - Players who win by default.
    - Whether there are players who are disqualified from the tournament.
 
@@ -334,8 +333,7 @@ Sunday, 28 February 2021:
 2. Each player has to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed; banning NM1 and HD1 is allowed; banning HD1 and HD2, however, is *not* allowed.
    - Banning does not apply in the Qualifier lobbies.
-3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
-   - Warm-ups do not apply in the Qualifier lobbies.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own before the match commences.
 4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
    - Playing a FreeMod pick without any mods applied is not allowed.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
