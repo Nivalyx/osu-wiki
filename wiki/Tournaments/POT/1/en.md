@@ -186,6 +186,20 @@ Listed below are players who qualified into the Round of 12 (along with their re
 
 ### Finals (week 1)
 
+### Semifinals
+
+Sunday, 14 March 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | [#1](https://osu.ppy.sh/community/matches/78055535) |
+| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | [#1](https://osu.ppy.sh/community/matches/78047446) |
+| Lower | **[cuna](https://osu.ppy.sh/users/14505580)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/78059749) |
+
+Monday, 15 March 2021:
+
+| Lower | **[DigiM](https://osu.ppy.sh/users/2659328)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/78050310) |
+
 ### Quarterfinals
 
 Friday, 5 March 2021:
