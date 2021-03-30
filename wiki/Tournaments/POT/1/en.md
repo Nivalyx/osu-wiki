@@ -247,124 +247,26 @@ Monday, 15 March 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Deeto](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/78129428) |
 
-### Quarterfinals
-
-Friday, 5 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Splacten](https://osu.ppy.sh/users/10018405) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Vvn](https://osu.ppy.sh/users/3204677)** | [#1](https://osu.ppy.sh/community/matches/77256653) |
-| Lower | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/77271481) |
-| Lower | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | [#1](https://osu.ppy.sh/community/matches/77259794) |
-
-Saturday, 6 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | [#1](https://osu.ppy.sh/community/matches/77367126) |
-| Upper | **[Deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | [#1](https://osu.ppy.sh/community/matches/77358899) |
-| Lower | [Daffy](https://osu.ppy.sh/users/5968633) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Caruma](https://osu.ppy.sh/users/13187450)** | [#1](https://osu.ppy.sh/community/matches/77346023) |
-| Upper | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | [#1](https://osu.ppy.sh/community/matches/77353978) |
-| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | [#1](https://osu.ppy.sh/community/matches/77362941) |
-| Lower | **[Walfrid](https://osu.ppy.sh/users/6600809)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | *win by default* |
-
-Sunday, 7 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [cfood](https://osu.ppy.sh/users/8626190) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/77454568) |
-| Upper | [Somay 287](https://osu.ppy.sh/users/4314559) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/77447312) |
-| Lower | **[Skitzor](https://osu.ppy.sh/users/3353314)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | [#1](https://osu.ppy.sh/community/matches/77445956) |
-| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | [#1](https://osu.ppy.sh/community/matches/77449082) |
-| Lower | [Caruma](https://osu.ppy.sh/users/13187450) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/77449175) |
-| Lower | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677) | *win by default* |
-
-Wednesday, 10 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Walfrid](https://osu.ppy.sh/users/6600809) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/77674562) |
-
-### Round of 16
+### Round of 12
 
 Friday, 26 February 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Clayweg](https://osu.ppy.sh/users/11374005) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[Fayn](https://osu.ppy.sh/users/5390495)** | [#1](https://osu.ppy.sh/community/matches/76716454) |
-| Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) | [#1](https://osu.ppy.sh/community/matches/76709741) |
+| Upper | **[cuna](https://osu.ppy.sh/users/14505580)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | [#1](https://osu.ppy.sh/community/matches/77270247) |
+| Upper | [naruto-sasuke](https://osu.ppy.sh/users/4072413) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/77245889) |
 
 Saturday, 27 February 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Lifeline](https://osu.ppy.sh/users/11367222) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/76808576) |
-| Upper | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677) | [#1](https://osu.ppy.sh/community/matches/76812531) |
-| Lower | [ngonk](https://osu.ppy.sh/users/12030070) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[Splacten](https://osu.ppy.sh/users/10018405)** | [#1](https://osu.ppy.sh/community/matches/76812408) |
-| Lower | [Xicyte](https://osu.ppy.sh/users/10212581) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[Takaichi](https://osu.ppy.sh/users/909745)** | [#1](https://osu.ppy.sh/community/matches/76812367) |
-| Lower | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Contra](https://osu.ppy.sh/users/12011863) | *win by default* |
+| Upper | **[larrypult](https://osu.ppy.sh/users/12255948)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/77363288) |
 
 Sunday, 28 February 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Herbayse](https://osu.ppy.sh/users/4924094) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[xHirayuki](https://osu.ppy.sh/users/3245206)** | [#1](https://osu.ppy.sh/community/matches/76884463) |
-| Upper | [MineFrostID](https://osu.ppy.sh/users/12159899) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | [#1](https://osu.ppy.sh/community/matches/76881981) |
-| Lower | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[Caruma](https://osu.ppy.sh/users/13187450)** | [#1](https://osu.ppy.sh/community/matches/76890847) |
-| Lower | **[Firia](https://osu.ppy.sh/users/9730262)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Eliz](https://osu.ppy.sh/users/11759284) | *win by default* |
-
-Monday, 1 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Skydiver](https://osu.ppy.sh/users/4750008) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[cfood](https://osu.ppy.sh/users/8626190)** | [#1](https://osu.ppy.sh/community/matches/76898577) |
-| Upper | **[Deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/76954986) |
-| Upper | [Rexeez](https://osu.ppy.sh/users/1987591) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[LoidKun](https://osu.ppy.sh/users/6437601)** | [#1](https://osu.ppy.sh/community/matches/76964797) |
-| Upper | **[Somay 287](https://osu.ppy.sh/users/4314559)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314) | [#1](https://osu.ppy.sh/community/matches/76960778) |
-| Upper | [Walfrid](https://osu.ppy.sh/users/6600809) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/76974828) |
-
-### Round of 32
-
-Friday, 19 February 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Eliz](https://osu.ppy.sh/users/11759284) | [#1](https://osu.ppy.sh/community/matches/76158374) |
-
-Saturday, 20 February 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Contra](https://osu.ppy.sh/users/12011863) | [#1](https://osu.ppy.sh/community/matches/76215256) |
-| Upper | **[rho](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | [#1](https://osu.ppy.sh/community/matches/76235077) |
-| Upper | [Herbayse](https://osu.ppy.sh/users/4924094) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[Vvn](https://osu.ppy.sh/users/3204677)** | [#1](https://osu.ppy.sh/community/matches/76239726) |
-| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/3245206) | *win by default* |
-
-Sunday, 21 February 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Vinno](https://osu.ppy.sh/users/4314559) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[Somay 287](https://osu.ppy.sh/users/4314559)** | [#1](https://osu.ppy.sh/community/matches/76315157) |
-| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [ngonk](https://osu.ppy.sh/users/12030070) | [#1](https://osu.ppy.sh/community/matches/76317494) |
-| Upper | **[Walfrid](https://osu.ppy.sh/users/6600809)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Clayweg](https://osu.ppy.sh/users/11374005) | [#1](https://osu.ppy.sh/community/matches/76323948) |
-| Upper | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Daffy](https://osu.ppy.sh/users/5968633)** | [#1](https://osu.ppy.sh/community/matches/76324930) |
-| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/76322458) |
-| Upper | [Takaichi](https://osu.ppy.sh/users/909745) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[cfood](https://osu.ppy.sh/users/8626190)** | [#1](https://osu.ppy.sh/community/matches/76332074) |
-| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | [#1](https://osu.ppy.sh/community/matches/76325491) |
-| Upper | [- Rosemary -](https://osu.ppy.sh/users/2526649) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | *win by default* |
-
-Monday, 22 February 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | [#1](https://osu.ppy.sh/community/matches/76407719) |
-| Upper | **[Skitzor](https://osu.ppy.sh/users/3353314)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) | [#1](https://osu.ppy.sh/community/matches/76396612) |
-
-Wednesday, 24 February 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[LoidKun](https://osu.ppy.sh/users/6437601)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/76636383) |
+| Upper | **[StingRay](https://osu.ppy.sh/users/2215822)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [ana\_kunn](https://osu.ppy.sh/users/2868409) | [#1](https://osu.ppy.sh/community/matches/77448647) |
 
 ## Ruleset
 
