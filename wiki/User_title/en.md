@@ -10,6 +10,8 @@ tags:
 
 # User title
 
+*For the list of people who have attained special user titles, see [Users with unique titles](/wiki/People/Users_with_unique_titles).*
+
 ![Screenshot of Tom94's profile information](img/dev.png "The \"osu!dev\" title can be seen near the top of Tom94's profile.")
 
 A **user title** is a short label on a user's profile page set by the [osu!team](/wiki/People/The_Team). Most titles indicate membership of a [user group](/wiki/People/The_Team#user-groups), but some users have earned [more unique titles](/wiki/People/Users_with_unique_titles) for specific achievements or contributions.
@@ -39,7 +41,7 @@ On the forum sections of the [old osu! website](https://old.ppy.sh)<!-- TODO: wi
 | Combo Commander | 260-499 |
 | Rhythm Incarnate | 500+ |
 
-These titles were only shown on the sidebars of forum posts (not the users' profiles) and were not shown if another custom title was already set to the corresponding users.
+These titles were only visible on the sidebars of forum posts (not on the users' profiles) and were not shown if another custom title was already set prior.
 
 ## Trivia
 
