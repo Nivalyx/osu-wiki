@@ -24,9 +24,22 @@ The colour of a user title is the same as the user's colour, which is also usual
 
 <!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
 
-On the forum sections of the [old osu! website](https://old.ppy.sh)<!-- TODO: wiki page -->, users could obtain titles by reaching certain post count milestones. These were only shown on the sidebars of forum posts, not the users' profiles, and were not shown if a custom title was already set.
+On the forum sections of the [old osu! website](https://old.ppy.sh)<!-- TODO: wiki page -->, users could obtain titles by reaching certain post count milestones as follows: <!-- https://osu.ppy.sh/community/forums/posts/2306316 -->
 
-<!-- TODO: list all of the titles and their requirements -->
+| Forum title | Total post count |
+| :-: | :-- |
+| Rhythm Rookie | 0-4 |
+| Tempo Trainee | 5-14 |
+| Whistle Blower | 15-29 |
+| Cymbal Sounder | 30-49 |
+| Beat Clicker | 50-79 |
+| Slider Savant | 80-119 |
+| Spinner Sage | 120-179 |
+| Star Shooter | 180-259 |
+| Combo Commander | 260-499 |
+| Rhythm Incarnate | 500+ |
+
+These titles were only shown on the sidebars of forum posts (not the users' profiles) and were not shown if another custom title was already set to the corresponding users.
 
 ## Trivia
 
