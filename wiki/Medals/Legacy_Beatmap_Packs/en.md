@@ -136,7 +136,7 @@ This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.s
 
 Download:
 
-- None
+- *N/A*
 
 Maps:
 
@@ -160,7 +160,7 @@ This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.s
 
 Download:
 
-- None
+- *N/A*
 
 Maps:
 
@@ -184,7 +184,7 @@ This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https:/
 
 Download:
 
-- None
+- *N/A*
 
 Maps:
 
@@ -234,7 +234,7 @@ This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.s
 
 Download:
 
-- [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
+- [MediaFire](https://www.mediafire.com/?axvxrnx637767ls "Mediafire")
 
 Maps:
 
@@ -308,7 +308,7 @@ This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.p
 
 Download:
 
-- None
+- *N/A*
 
 Maps:
 
@@ -332,7 +332,7 @@ This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.p
 
 Download:
 
-- None
+- *N/A*
 
 Maps:
 
@@ -356,7 +356,7 @@ This beatmap pack was first introduced by ![][flag_US] [Seibei4211](https://osu.
 
 Download:
 
-- None
+- *N/A*
 
 Maps:
 
@@ -380,7 +380,7 @@ This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https:/
 
 Download:
 
-- None
+- *N/A*
 
 Maps:
 
@@ -400,12 +400,7 @@ Maps:
 
 ## Trivia
 
-- There are 16 packs (4 themes x 4 volumes).
-  - The estimated time required to complete one beatmap pack is 1 hour (20 minutes per 1 pack).
-- There are 211 beatmapsets (206 + [3](https://osu.ppy.sh/beatmapsets/2490) ![heart icon](/wiki/shared/icon/heart.gif) ranked + 1 ![fire icon](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) + 1 [pending](https://osu.ppy.sh/beatmaps/19630))
-- There are 662 difficulties (660 ![heart icon](/wiki/shared/icon/heart.gif) ranked + 1 ![fire icon](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) + 1 [pending](https://osu.ppy.sh/beatmaps/19630))
-- Total pack size: 1.39GB zipped or 1.47GB extracted and imported
-- The estimated import time for all 16 packs is about 3 minutes and 33 seconds
+- The map [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) which was included in the Internet Pack (Volume 1) 
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
