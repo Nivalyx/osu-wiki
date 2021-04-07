@@ -2,13 +2,13 @@
 
 Beatmap packs have been an integral part to the osu! community since its first introduction in 2009, in which some of the packs have even been made to be tied to certain [medals and achievements](/wiki/Medals) out there. However, as the mapping meta progresses forward, the composition of the said beatmap packs have been tinkered to adjust to the change and [on 16 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) a major overhaul was made to some of the packs.
 
-This article lists the contents of the beatmap packs that [had been subjected to a complete overhaul on 16 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) in its legacy/original state.
+This article lists the contents of the beatmap packs that had been subjected to the said overhaul in its legacy/original state.
 
 ## Anime Pack
 
 ### Volume 1
 
-> First introduced by LuigiHann and DeathxShinigami in 2011.
+This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
 Download:
 
@@ -32,7 +32,7 @@ Maps:
 
 ### Volume 2
 
-> LuigiHann/DeathxShinigami (2011)
+This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
 Download:
 
@@ -406,3 +406,5 @@ Maps:
 - There are 662 difficulties (660 ![heart icon](/wiki/shared/icon/heart.gif) ranked + 1 ![fire icon](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) + 1 [pending](https://osu.ppy.sh/beatmaps/19630))
 - Total pack size: 1.39GB zipped or 1.47GB extracted and imported
 - The estimated import time for all 16 packs is about 3 minutes and 33 seconds
+
+[flag_US]: /wiki/shared/flag/US.gif "United States"
