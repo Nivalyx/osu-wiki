@@ -12,7 +12,7 @@ This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.p
 
 Download:
 
-- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
+- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn "MediaFire")
 
 Maps:
 
