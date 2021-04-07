@@ -400,7 +400,7 @@ Maps:
 
 ## Trivia
 
-- The map [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463) which was included in the Internet Pack (Volume 1) 
+- The map [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/2463), which was included in the Internet Pack (Volume 1), was notorious for being pushed to the [Approved](wiki/Beatmap/Category#approved) section despite only consisting of one single spinner. [de-approved](https://osu.ppy.sh/community/forums/posts/149328)
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
