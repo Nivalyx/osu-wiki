@@ -1,6 +1,6 @@
 # Legacy beatmap packs
 
-Beatmap packs have been an integral part to the osu! environment since its first introduction in 2009, where it have been tied to certain [medals and achievements](wiki/Medals).
+Beatmap packs have been an integral part to the osu! environment since its first introduction in 2009, where it have been tied to certain [medals and achievements](/wiki/Medals).
 
 These are the legacy/original themed packs packed during osu! infancy years (2009) before being updated by [Stefan on 16 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 Hence why the `0916` part is in the title.
