@@ -10,11 +10,11 @@ This article lists the contents of the beatmap packs that had been subjected to 
 
 This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn "MediaFire")
 
-Maps:
+Beatmaps:
 
 - [Beat Crusaders - Hit in the USA](https://osu.ppy.sh/beatmapsets/35)
 - [Chieco Kawabe - Sakura Kiss](https://osu.ppy.sh/beatmapsets/147)
@@ -34,11 +34,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - [MediaFire](https://www.mediafire.com/?722os55j52ikylq "Mediafire")
 
-Maps:
+Beatmaps:
 
 - [Kana Ueda - Pumpkin Ondo](https://osu.ppy.sh/beatmapsets/86)
 - [Porno Graffitti - Mellisa (TV Size)](https://osu.ppy.sh/beatmapsets/150)
@@ -58,11 +58,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b "Mediafire")
 
-Maps:
+Beatmaps:
 
 - [Kageyama Hironobu - Ore wa Tokoton Tomaranai](https://osu.ppy.sh/beatmapsets/2618)
 - [Lucky Star - Motteke! Sailor Fuku (REDALiCE Remix)](https://osu.ppy.sh/beatmapsets/3030)
@@ -82,11 +82,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv "Mediafire")
 
-Maps:
+Beatmaps:
 
 - [Chata - Dango Daikazoku](https://osu.ppy.sh/beatmapsets/516)
 - [AKINO - Sousei no Aquarion (TV Size)](https://osu.ppy.sh/beatmapsets/5438)
@@ -108,11 +108,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - *N/A*
 
-Maps:
+Beatmaps:
 
 - [Dudelstudios - Angry Video Game Nerd Theme](https://osu.ppy.sh/beatmapsets/66)
 - [Trans-Siberian Orchestra - Wizards In Winter](https://osu.ppy.sh/beatmapsets/132)
@@ -134,11 +134,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - *N/A*
 
-Maps:
+Beatmaps:
 
 - [The INTERNET - At The Playground](https://osu.ppy.sh/beatmapsets/203)
 - [Jakazid - Cillit Bang (Hardcore Mix)](https://osu.ppy.sh/beatmapsets/917)
@@ -158,11 +158,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - *N/A*
 
-Maps:
+Beatmaps:
 
 - [NicoNicoDouga - Nice Boat.](https://osu.ppy.sh/beatmapsets/1839)
 - [Verix - Drop the Dodongo](https://osu.ppy.sh/beatmapsets/3337)
@@ -182,11 +182,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - *N/A*
 
-Maps:
+Beatmaps:
 
 - [TuTuWan - Wo Yao Jin Ke La](https://osu.ppy.sh/beatmapsets/11443)
 - [Parry Gripp - Do You Like Waffles](https://osu.ppy.sh/beatmapsets/12033)
@@ -208,11 +208,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob "MediaFire")
 
-Maps:
+Beatmaps:
 
 - [Beautiful Day - Bride in Dream](https://osu.ppy.sh/beatmapsets/74)
 - [Speed Over Beethoven](https://osu.ppy.sh/beatmapsets/96)
@@ -232,11 +232,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - [MediaFire](https://www.mediafire.com/?axvxrnx637767ls "Mediafire")
 
-Maps:
+Beatmaps:
 
 - [Tatsh feat. K.Nayuki - Sphere](https://osu.ppy.sh/beatmapsets/1207)
 - [Taiko no Tatsujin - Kita Saitama2000](https://osu.ppy.sh/beatmapsets/1567)
@@ -256,11 +256,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
 
-Maps:
+Beatmaps:
 
 - [BanYa - Csikos Post](https://osu.ppy.sh/beatmapsets/1206)
 - [Mutsuhiko Izumi - Jet World](https://osu.ppy.sh/beatmapsets/4357)
@@ -280,11 +280,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
 
-Maps:
+Beatmaps:
 
 - [Beautiful Day - Bang! Bang! Bang!](https://osu.ppy.sh/beatmapsets/10842)
 - [Yamajet - Over The Ocean](https://osu.ppy.sh/beatmapsets/11135)
@@ -306,11 +306,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - *N/A*
 
-Maps:
+Beatmaps:
 
 - [Team Nekokan - Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/25)
 - [Portal - Still Alive](https://osu.ppy.sh/beatmapsets/92)
@@ -330,11 +330,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - *N/A*
 
-Maps:
+Beatmaps:
 
 - [IOSYS - Marisa wa Taihen na Mono wo Nusunde Ikimashita](https://osu.ppy.sh/beatmapsets/243)
 - [Nintendo - Super Mario Bros. (TECHNO remix)](https://osu.ppy.sh/beatmapsets/628)
@@ -354,11 +354,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_US] [Seibei4211](https://osu.ppy.sh/users/31537) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - *N/A*
 
-Maps:
+Beatmaps:
 
 - [Victims of Science - The Device Has Been Modified](https://osu.ppy.sh/beatmapsets/1890)
 - [Phoenix Wright - Sugimori Masakazu - Compilation](https://osu.ppy.sh/beatmapsets/2085)
@@ -378,11 +378,11 @@ Maps:
 
 This beatmap pack was first introduced by ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516).
 
-Download:
+Download Link:
 
 - *N/A*
 
-Maps:
+Beatmaps:
 
 - [Megadeth - Grabbag](https://osu.ppy.sh/beatmapsets/7077)
 - [David J. Franco - Scribblenauts Theme](https://osu.ppy.sh/beatmapsets/9580)
