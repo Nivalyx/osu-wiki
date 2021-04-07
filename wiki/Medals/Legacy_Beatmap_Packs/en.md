@@ -1,6 +1,6 @@
 # Legacy beatmap packs
 
-Beatmap packs have been an integral part to the osu! environment since its first introduction in 2009, where it have been tied to certain [medals and achievements](/wiki/Medals).
+Beatmap packs have been an integral part to the osu! environment since its first introduction in 2009, where it have been tied to certain [medals and achievements](/wiki/Medals). As time goes by however the composition of the beatmap packs change as either [due to some beatmaps no longer being downloadable](/legal/en/Copyright), general quality concerns, or some other reason.
 
 These are the legacy/original themed packs packed during osu! infancy years (2009) before being updated by [Stefan on 16 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 
@@ -8,7 +8,7 @@ These are the legacy/original themed packs packed during osu! infancy years (200
 
 ### Volume 1
 
-> LuigiHann/DeathxShinigami (2011)
+> First introduced by LuigiHann and DeathxShinigami in 2011.
 
 Download:
 
