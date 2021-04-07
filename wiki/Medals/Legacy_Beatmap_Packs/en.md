@@ -16,7 +16,7 @@ Download:
 
 Maps:
 
-- [Beat Crusaders - Hit in the USA](https://osu.ppy.sh/beatmapsets/35)
+- [Beat Crusaders - Hit in the USA (mapped by Shin)](https://osu.ppy.sh/beatmapsets/35)
 - [Chieco Kawabe - Sakura Kiss](https://osu.ppy.sh/beatmapsets/147)
 - [Hirano Aya - Hare Hare Yukai](https://osu.ppy.sh/beatmapsets/301)
 - [Access - Doubt & Trust](https://osu.ppy.sh/beatmapsets/442)
@@ -36,7 +36,7 @@ This beatmap pack was first introduced by ![][flag_US] [LuigiHann](https://osu.p
 
 Download:
 
-- [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
+- [MediaFire](https://www.mediafire.com/?722os55j52ikylq "Mediafire")
 
 Maps:
 
@@ -56,11 +56,11 @@ Maps:
 
 ### Volume 3
 
-> Larto/DeathxShinigami (2011)
+This beatmap pack was first introduced by ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) and ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
 Download:
 
-- [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
+- [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b "Mediafire")
 
 Maps:
 
@@ -84,7 +84,7 @@ Maps:
 
 Download:
 
-- [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
+- [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv "Mediafire")
 
 Maps:
 
@@ -407,4 +407,5 @@ Maps:
 - Total pack size: 1.39GB zipped or 1.47GB extracted and imported
 - The estimated import time for all 16 packs is about 3 minutes and 33 seconds
 
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
