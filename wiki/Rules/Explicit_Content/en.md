@@ -1,6 +1,6 @@
 # Explicit content
 
-![Screenshot of a beatmap tagged as explicit](img/explicit-tag.jpg "An example of a beatmap that is being marked with the 'explicit' tag.")
+![Screenshot of a beatmap that contains explicit content](img/explicit-tag.jpg "An example of a beatmap that is being marked with the 'explicit' tag.")
 
 When creating a beatmap, mappers are able to declare whether the content of their beatmap is 'explicit' by using a check box in the language/genre popup on the website.
 
