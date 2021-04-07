@@ -3,7 +3,6 @@
 Beatmap packs have been an integral part to the osu! environment since its first introduction in 2009, where it have been tied to certain [medals and achievements](/wiki/Medals).
 
 These are the legacy/original themed packs packed during osu! infancy years (2009) before being updated by [Stefan on 16 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
-Hence why the `0916` part is in the title.
 
 ## Anime Pack
 
@@ -407,7 +406,3 @@ Maps:
 - There are 662 difficulties (660 ![heart icon](/wiki/shared/icon/heart.gif) ranked + 1 ![fire icon](/wiki/shared/icon/flame.gif) [approved](https://osu.ppy.sh/beatmaps/21010) + 1 [pending](https://osu.ppy.sh/beatmaps/19630))
 - Total pack size: 1.39GB zipped or 1.47GB extracted and imported
 - The estimated import time for all 16 packs is about 3 minutes and 33 seconds
-
-### Special thanks
-
-- [Wayback Machine](https://archive.org/web/)
