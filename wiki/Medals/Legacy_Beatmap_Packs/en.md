@@ -16,7 +16,7 @@ Download:
 
 Maps:
 
-- [Beat Crusaders - Hit in the USA (mapped by Shin)](https://osu.ppy.sh/beatmapsets/35)
+- [Beat Crusaders - Hit in the USA](https://osu.ppy.sh/beatmapsets/35)
 - [Chieco Kawabe - Sakura Kiss](https://osu.ppy.sh/beatmapsets/147)
 - [Hirano Aya - Hare Hare Yukai](https://osu.ppy.sh/beatmapsets/301)
 - [Access - Doubt & Trust](https://osu.ppy.sh/beatmapsets/442)
