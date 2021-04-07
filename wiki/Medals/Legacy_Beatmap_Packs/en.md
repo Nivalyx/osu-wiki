@@ -1,6 +1,6 @@
 # Legacy beatmap packs
 
-Beatmap packs have been an integral part to the osu! environment since its first introduction in 2009, where it have been tied to certain [medals and achievements](/wiki/Medals). As time goes by however the composition of the beatmap packs change as either [due to some beatmaps no longer being downloadable](/wiki/Legal/Copyright), general quality concerns, or some other reason [update Stefan on 16 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
+Beatmap packs have been an integral part to the osu! environment since its first introduction in 2009, where it have been tied to certain [medals and achievements](/wiki/Medals). As time goes by however the composition of the beatmap packs change as either [due to some beatmaps no longer being downloadable](/wiki/Legal/Copyright), general quality concerns, or some other reason.
 
 Listed below are the legacy/original beatmap packs that was being provided prior to the [update that was commenced on 16 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 
