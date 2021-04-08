@@ -43,7 +43,32 @@ All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) 
 | Fractal Dreamers | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
 | LukHash | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
 | \*namirin | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
-| Onumi | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| onumi | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| The Flashbulb | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Undead Corporation | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Wisp X | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Camellia I | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Celldweller | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Cranky II | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Cute Anime Girls | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| ELFENSJoN | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Hyper Potions | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Kola Kid | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| LeaF | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Panda Eyes | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| PUP | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Ricky Montgomery | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Rin | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| S3RL | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Sound Souler | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Teminite | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| VINXIS | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Mappers' Guild Pack I | Clear all the beatmaps bundled in the [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365) beatmap pack. |
+| Mappers' Guild Pack II | Clear all the beatmaps bundled in the [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450) beatmap pack. |
+| Mappers' Guild Pack III | Clear all the beatmaps bundled in the [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689) beatmap pack. |
+| Mappers' Guild Pack IV | Clear all the beatmaps bundled in the [Mappers' Guild Pack IV](https://osu.ppy.sh/beatmaps/packs/1757) beatmap pack. |
+| Mappers' Guild Pack V | Clear all the beatmaps bundled in the [Mappers' Guild Pack V](https://osu.ppy.sh/beatmaps/packs/2032) beatmap pack. |
+| Mappers' Guild Pack VI | Clear all the beatmaps bundled in the [Mappers' Guild Pack VI](https://osu.ppy.sh/beatmaps/packs/2033) beatmap pack. |
 
 It is worth noting however that the contents of all the Theme Beatmap Packs have been dramatically altered over time since [their first introduction in 2008](https://osu.ppy.sh/community/forums/topics/1853). For the list of all the beatmaps that was being listed in the Theme Beatmap Packs in their legacy/original state, see [Legacy Beatmap Packs](/wiki/Medals/Legacy_Beatmap_Packs).
 
