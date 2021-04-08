@@ -132,14 +132,14 @@ Although the Monthly Beatmap Spotlights have been discontinued as of April 2018 
 
 The **Seasonal Spotlights medals** are medals that are being awarded upon the completion of certain beatmap packs that are being released as a part of the [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four gamemode packs* that is being contested on the corresponding Seasonal Spotlights ranking chart. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
 
-Although the Seasonal Spotlights have been discontinued as of early 2020 in favor of the current [Beatmap Spotlights system](wiki/Beatmap_Spotlights), all of medals pertinant to it are still able to be obtained to this day.
+Although the Seasonal Spotlights have been discontinued as of early 2020 in favor of the [current Beatmap Spotlights system](wiki/Beatmap_Spotlights), all of medals pertinant to it are still able to be obtained to this day.
 
 ### List of obtainable Seasonal Spotlights medals
 
 | Medal name | Requirement(s) |
 | :-- | :-- |
 | Summer 2018 Beammap Spotlights | Clear all the beatmaps bundled in any of the Beatmap Spotlights: Summer 2018 beatmap packs ([osu!](https://osu.ppy.sh/beatmaps/packs/1508)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1509)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1510)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1511)). |
-| Fall 2018 Beatmap Spotlights | Clear all the beatmaps bundled in any of the Spotlights March 2017 beatmap packs ([osu!](https://osu.ppy.sh/beatmaps/packs/1201)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1202)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1203)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1204)). |
+| Fall 2018 Beatmap Spotlights | Clear all the beatmaps bundled in any of the Beatmap Spotlights: Fall 2018 beatmap packs ([osu!](https://osu.ppy.sh/beatmaps/packs/1548)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1549)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1550)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1551)). |
 | Winter 2019 Beatmap Spotlights | Clear all the beatmaps bundled in any of the Spotlights April 2017 beatmap packs ([osu!](https://osu.ppy.sh/beatmaps/packs/1219)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1220)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1221)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1222)). |
 | Spring 2019 Beatmap Spotlights | Clear all the beatmaps bundled in any of the Spotlights May 2017 beatmap packs ([osu!](https://osu.ppy.sh/beatmaps/packs/1228)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1229)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1230)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1232)). |
 | Summer 2019 Beatmap Spotlights | Clear all the beatmaps bundled in any of the Spotlights June 2017 beatmap packs ([osu!](https://osu.ppy.sh/beatmaps/packs/1244)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1245)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1246)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1247)). |
