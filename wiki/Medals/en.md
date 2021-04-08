@@ -6,16 +6,22 @@ Medals, previously known as *achievements*, are badges on a user's profile which
 
 The **Beatmap Packs** medals can be obtained by **clearing every beatmap all the way through at least once in any difficulty** within the corresponding [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=artist). 
 
-All beatmaps have to be cleared in the [osu!standard](/wiki/osu!standard) game mode in order to qualify for the badge unless otherwise specified. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
+All beatmaps in the pack have to be cleared in the [osu!standard](/wiki/osu!standard) game mode in order to qualify for the badge unless otherwise specified. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
+
+It is worth noting that 
 
 ### List of obtainable Beatmap Packs medals
 
 | Medal name | Requirement(s) |
 | :-- | :-- |
-| Video Game Pack vol.1 | Clear all the beatmaps included in the [Video Game Pack, Volume 1](https://osu.ppy.sh/beatmaps/packs/40) beatmap pack. |
-| Video Game Pack vol.2 | Clear all the beatmaps included in the [Video Game Pack, Volume 2](https://osu.ppy.sh/beatmaps/packs/48) beatmap pack. |
-| Video Game Pack vol.3 | Clear all the beatmaps included in the [Video Game Pack, Volume 3](https://osu.ppy.sh/beatmaps/packs/70) beatmap pack. |
-| Video Game Pack vol.4 | Clear all the beatmaps included in the [Video Game Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/364) beatmap pack. |
+| Video Game Pack vol.1 | Clear all the beatmaps bundled in the [Video Game Pack, Volume 1](https://osu.ppy.sh/beatmaps/packs/40) beatmap pack. |
+| Video Game Pack vol.2 | Clear all the beatmaps bundled in the [Video Game Pack, Volume 2](https://osu.ppy.sh/beatmaps/packs/48) beatmap pack. |
+| Video Game Pack vol.3 | Clear all the beatmaps bundled in the [Video Game Pack, Volume 3](https://osu.ppy.sh/beatmaps/packs/70) beatmap pack. |
+| Video Game Pack vol.4 | Clear all the beatmaps bundled in the [Video Game Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/364) beatmap pack. |
+| Anime Pack vol.1 | Clear all the beatmaps bundled in the [Anime Pack, Volume 1](https://osu.ppy.sh/beatmaps/packs/43) beatmap pack. |
+| Anime Pack vol.2 | Clear all the beatmaps bundled in the [Anime Pack, Volume 2](https://osu.ppy.sh/beatmaps/packs/49) beatmap pack. |
+| Anime Pack vol.3 | Clear all the beatmaps bundled in the [Anime Pack, Volume 3](https://osu.ppy.sh/beatmaps/packs/207) beatmap pack. |
+| Anime Pack vol.4 | Clear all the beatmaps bundled in the [Anime Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/363) beatmap pack. |
 
 ## Skill
 
