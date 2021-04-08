@@ -21,7 +21,7 @@ All beatmaps in the pack have to be cleared in the [osu!standard](/wiki/osu!stan
 | Anime Pack vol.3 | Clear all the beatmaps bundled in the [Anime Pack, Volume 3](https://osu.ppy.sh/beatmaps/packs/207) beatmap pack. |
 | Anime Pack vol.4 | Clear all the beatmaps bundled in the [Anime Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/363) beatmap pack. |
 
-It is worth noting however that the contents of all the [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) have been dramatically altered over time since [their first introduction in 2008](https://osu.ppy.sh/community/forums/topics/1853). For the list of all the beatmaps included in the [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) in their legacy/original state, see [Legacy Beatmap Packs](/wiki/Medals/Legacy_Beatmap_Packs).
+It is worth noting however that the contents of all the [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) have been dramatically altered over time since [their first introduction in 2008](https://osu.ppy.sh/community/forums/topics/1853). For the list of all the beatmaps that was being listed in the [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) in their legacy/original state, see [Legacy Beatmap Packs](/wiki/Medals/Legacy_Beatmap_Packs).
 
 ## Skill
 
