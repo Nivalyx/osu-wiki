@@ -108,7 +108,7 @@ Medals of this kind have no obvious way to get them. The player must find out wh
 
 ## Beatmap Challenge Packs
 
-The **Beatmap Challenge Packs medals**, or alternatively referred to as [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), are medals that are being awarded upon the clearance of *the hardest diffs* present on all the beatmaps that are being included in certain [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *without any [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) enabled*. These beatmap packs have been specifically tailored to test each player's mastery of various gameplay aspects around their intended skill level, i.e. within a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) or difficulty cap range.
+The **Beatmap Challenge Packs medals**, or alternatively referred to as [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), are medals that are being awarded upon the clearance of *the hardest difficulties* present on all the beatmaps that are being included in certain [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *without any [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) enabled*. These beatmap packs have been specifically tailored to test each player's mastery of various gameplay aspects around their intended skill level, i.e. within a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) or difficulty cap range.
 
 All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the badge unless otherwise specified.
 
@@ -116,7 +116,7 @@ All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) 
 
 | Medal name | Requirement(s) |
 | :-- | :-- |
-| Mappers' Guild Pack VII | Clear the hardest diffs on all of the beatmaps bundled in the [Mappers' Guild Pack VII](https://osu.ppy.sh/beatmaps/packs/2034) beatmap pack. All beatmaps in this pack have a hardest diff that is being situated within the 5.00★–5.99★ star rating range. |
-| Mappers' Guild Pack VIII | Clear all the beatmaps bundled in the [Video Game Pack, Volume 2](https://osu.ppy.sh/beatmaps/packs/48) beatmap pack. |
-| Mappers' Guild Pack IX | Clear all the beatmaps bundled in the [Video Game Pack, Volume 3](https://osu.ppy.sh/beatmaps/packs/70) beatmap pack. |
-| Camellia II | Clear all the beatmaps bundled in the [Video Game Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/364) beatmap pack. |
+| Mappers' Guild Pack VII | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack VII](https://osu.ppy.sh/beatmaps/packs/2034) beatmap pack. All beatmaps in this pack have a hardest difficulty that is of around the 5.00★–5.99★ star rating range. |
+| Mappers' Guild Pack VIII | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack VIII](https://osu.ppy.sh/beatmaps/packs/2035) beatmap pack. All beatmaps in this pack have a hardest difficulty that is of around the 6.00★–6.99★ star rating range. |
+| Mappers' Guild Pack IX | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack IX](https://osu.ppy.sh/beatmaps/packs/2036) beatmap pack. All beatmaps in this pack have a hardest difficulty that is of around the 7.00★–7.99★ star rating range. |
+| Camellia II | Clear all the beatmaps bundled in the [Camellia Challenges Pack](https://osu.ppy.sh/beatmaps/packs/2053) beatmap pack. All beatmaps in this pack have a hardest difficulty that is being classified as an \[Expert\] or above. |
