@@ -104,9 +104,25 @@ Medals of this kind have no obvious way to get them. The player must find out wh
 
 ### List of obtainable Hush-Hush medals
 
-| Medal name | Hint(s) |
+| Medal name | Description/Flair text |
 | :-- | :-- |
-| Summer 2018 Beammap Spotlights | Clear all the beatmaps bundled in any of the Beatmap Spotlights: Summer 2018 beatmap packs ([osu!](https://osu.ppy.sh/beatmaps/packs/1508)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1509)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1510)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1511)). |
+| Don't let the bunny distract you! | The order was indeed, not a rabbit. |
+| S-Ranker | Accuracy is really underrated. |
+| Most Improved | Now THAT is improvement. |
+| Non-stop Dancer | Can you still feel your feet after that? |
+| Consolation Prize | Well, it could be worse. |
+| Challenge Accepted | Oh, you're ON. |
+| Stumbler | No regrets. |
+| Jackpot | Lucky sevens is a mild understatement. |
+| Quick Draw | It's high noon. |
+| Obsessed | COMPLETION AT ALL COSTS. |
+| Nonstop | Breaks? What are those? |
+| Jack of All Trades | Good at everything. |
+| Nonstop | Breaks? What are those? |
+| Perserverance | Endure. *(Endurance is the key.)* |
+| Feel The Burn | It isn't all about how fast you manage. *(Endurance **and** precision is essential.)* |
+| Time Dilation | Longer is shorter when all is said and done. *(Time often flies when one is having fun, though rarely does it last forever.)* |
+| Just One Second | And suddenly.. gone. *(Blink and you'll miss it.)* |
 
 ## Beatmap Spotlights
 
