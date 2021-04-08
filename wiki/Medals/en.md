@@ -123,6 +123,14 @@ Medals of this kind have no obvious way to get them. The player must find out wh
 | Feel The Burn | It isn't all about how fast you manage. *(Endurance **and** precision is essential.)* |
 | Time Dilation | Longer is shorter when all is said and done. *(Time often flies when one is having fun, though rarely does it last forever.)* |
 | Just One Second | And suddenly.. gone. *(Blink and you'll miss it.)* |
+| Afterimage | But a glimpse of its true self. *(Always coming behind the original image.)* |
+| To The Core | In for a penny, in for a pound. Pounding bass, that is. *(Double negatives sometimes **do** make a positive.)* |
+| Prepared | Do it for real next time. *(Preparation is key for all successful endeavours.)* |
+| Eclipse | Something new born from absence. *(Do it just because you can, even if the stakes are high.)* |
+| Reckless Abandon | Throw it all to the wind. *(Do it just because you can, even if the stakes are high.)* |
+| Tunnel Vision | But it was right there.. *(Afraid of the dark?)* |
+| Behold No Deception | That wasn't easy at all! *(Sometimes the hard way is in fact, easier.)* |
+| Up For The Challenge | Turn it up to eleven. *(Everything's better at eleven.)* |
 
 ## Beatmap Spotlights
 
