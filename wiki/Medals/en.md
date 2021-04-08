@@ -4,9 +4,7 @@ Medals, previously known as *achievements*, are badges on a user's profile which
 
 ## Beatmap Packs
 
-The **Beatmap Packs** medals can be obtained by **clearing every beatmap all the way through at least once in any difficulty** within the corresponding [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=artist). 
-
-All beatmaps in the pack have to be cleared in the [osu!standard](/wiki/osu!standard) game mode in order to qualify for the badge unless otherwise specified. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
+The **Beatmap Packs** medals can be obtained by **clearing every beatmap all the way through at least once in any difficulty** within the corresponding [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=artist). All beatmaps in the pack have to be cleared in the [osu!standard](/wiki/osu!standard) game mode in order to qualify for the badge unless otherwise specified. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
 
 It is worth noting that . For the list of all the [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) in their legacy/original state, see [Legacy Beatmap Packs](/wiki/Medals/Legacy_Beatmap_Packs).
 
