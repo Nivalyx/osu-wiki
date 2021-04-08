@@ -11,8 +11,11 @@ All beatmaps have to be cleared in the [osu!standard](/wiki/osu!standard) game m
 ### List of obtainable Beatmap Packs medals
 
 | Medal name | Requirement(s) |
-| :-: | :-- |
-| Video Game Pack vol.1 | Unique profile badge |
+| :-- | :-- |
+| Video Game Pack vol.1 | Clear all the beatmaps included in the [Video Game Pack, Volume 1](https://osu.ppy.sh/beatmaps/packs/40) beatmap pack. |
+| Video Game Pack vol.2 | Clear all the beatmaps included in the [Video Game Pack, Volume 2](https://osu.ppy.sh/beatmaps/packs/48) beatmap pack. |
+| Video Game Pack vol.3 | Clear all the beatmaps included in the [Video Game Pack, Volume 3](https://osu.ppy.sh/beatmaps/packs/70) beatmap pack. |
+| Video Game Pack vol.4 | Clear all the beatmaps included in the [Video Game Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/364) beatmap pack. |
 
 ## Skill
 
