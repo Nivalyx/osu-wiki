@@ -1,12 +1,6 @@
----
-needs_cleanup: true
-outdated: true
----
-<!-- TODO: new types of medals have been added but aren't listed here yet -->
-
 # Medals
 
-Medals, previously known as *achievements*, are badges on a user's profile which indicate that the user has accomplished an exceptional goal. Currently, they are divided into 7 groups: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), Beatmap Spotlights, and Seasonal Spotlights.
+Medals, previously known as *achievements*, are badges on a user's profile which indicate that the user has accomplished an exceptional goal. Currently, they are divided into 8 groups: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), and [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -57,3 +51,9 @@ The **Mod Introduction** medals can be obtained by clearing maps with the specif
 ## Hush-Hush
 
 Medals of this kind have no obvious way to get them. The player must find out what needs to be done in order to unlock the medal. The title itself is a clue.
+
+## Beatmap Spotlights
+
+## Seasonal Spotlights
+
+## Beatmap Challenge Packs
