@@ -4,7 +4,7 @@ Medals, previously known as *achievements*, are badges on a user's profile which
 
 ## Beatmap Packs
 
-The **Beatmap Packs** medals can be obtained by **clearing every beatmap all the way through at least once in any difficulty** within the corresponding [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=artist). 
+The **Beatmap Packs** medals are medals that are being associated with [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=artist). They can be obtained by clearing every beatmap all the way through at least once in any difficulty within the corresponding beatmap pack.
 
 All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the badge unless otherwise specified. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
 
@@ -28,6 +28,22 @@ All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) 
 | Rhythm Game Pack vol.2 | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 2](https://osu.ppy.sh/beatmaps/packs/94) beatmap pack. |
 | Rhythm Game Pack vol.3 | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 3](https://osu.ppy.sh/beatmaps/packs/208) beatmap pack. |
 | Rhythm Game Pack vol.4 | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| MOtOLOiD | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Cranky | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| High Tea Music | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Culprate | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| HyuN | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Imperial Circus Dead Decadence | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| tieff | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Afterparty | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Ben Briggs | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Carpool Tunnel | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Creo | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| cYsmix | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Fractal Dreamers | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| LukHash | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| \*namirin | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
+| Onumi | Clear all the beatmaps bundled in the [Rhythm Game Music Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/365) beatmap pack. |
 
 It is worth noting however that the contents of all the Theme Beatmap Packs have been dramatically altered over time since [their first introduction in 2008](https://osu.ppy.sh/community/forums/topics/1853). For the list of all the beatmaps that was being listed in the Theme Beatmap Packs in their legacy/original state, see [Legacy Beatmap Packs](/wiki/Medals/Legacy_Beatmap_Packs).
 
