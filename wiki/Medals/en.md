@@ -8,21 +8,11 @@ The **Beatmap Packs** medals can be obtained by **clearing every beatmap all the
 
 All beatmaps have to be cleared in the [osu!standard](/wiki/osu!standard) game mode in order to qualify for the badge unless otherwise specified.
 
-### Requirements
+### List of obtainable Beatmap Packs medals
 
-- The player must finish every beatmap once in any difficulty of the pack downloaded from [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme).
-- The played game mode must be osu!standard.
-- Extract the theme pack from the `.zip` file and place the contents into the `Songs` folder.
-  - From here, open the osu! client and let the client parse the files before playing the beatmaps.
-  - Alternatively, the player can download the songs inside manually one by one and it would still count.
-- Any variations (like different creator) of the song is not counted.
-  It **must** be that specific song and that specific creator at that specific beatmap.
-- The player's account in question must be signed in to the osu! client (not the website).
-
-### Notes
-
-- Mods can be used except for mods that can cause unranked play (e.g. [Auto Pilot](/wiki/AP)).
-- The beatmap can be deleted safely once the **`CLEARED`** status was noted in the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme).
+| Medal name | Requirement(s) |
+| :-: | :-- |
+| Video Game Pack vol.1 | Unique profile badge |
 
 ## Skill
 
