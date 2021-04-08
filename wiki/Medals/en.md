@@ -107,3 +107,16 @@ Medals of this kind have no obvious way to get them. The player must find out wh
 ## Seasonal Spotlights
 
 ## Beatmap Challenge Packs
+
+The **Beatmap Challenge Packs medals** are medals that are being awarded upon the completion of certain [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *without any [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) enabled*. They can be obtained by clearing every beatmap all the way through at least once in any difficulty within the corresponding beatmap pack.
+
+All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the badge unless otherwise specified.
+
+### List of obtainable Beatmap Challenge Packs medals
+
+| Medal name | Requirement(s) |
+| :-- | :-- |
+| Video Game Pack vol.1 | Clear all the beatmaps bundled in the [Video Game Pack, Volume 1](https://osu.ppy.sh/beatmaps/packs/40) beatmap pack. |
+| Video Game Pack vol.2 | Clear all the beatmaps bundled in the [Video Game Pack, Volume 2](https://osu.ppy.sh/beatmaps/packs/48) beatmap pack. |
+| Video Game Pack vol.3 | Clear all the beatmaps bundled in the [Video Game Pack, Volume 3](https://osu.ppy.sh/beatmaps/packs/70) beatmap pack. |
+| Video Game Pack vol.4 | Clear all the beatmaps bundled in the [Video Game Pack, Volume 4](https://osu.ppy.sh/beatmaps/packs/364) beatmap pack. |
