@@ -94,7 +94,7 @@ The **Dedication** medals can be obtained by playing a lot of osu!standard, coll
 
 ## Mod Introduction
 
-*See also: [Game Modifiers](/wiki/Game_modifier)*
+*See also: [Game modifier](/wiki/Game_modifier)*
 
 The **Mod Introduction** medals can be obtained by clearing maps with the specified game modifier. They are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
 
@@ -104,9 +104,18 @@ Medals of this kind have no obvious way to get them. The player must find out wh
 
 ## Beatmap Spotlights
 
-The **Beatmap Spotlights medals** are medals that are being awarded upon the completion of certain beatmap packs that are being released as a part of the now-discontinued [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four gamemode packs* that is being contested on the corresponding Beatmap Spotlights ranking chart. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
+The **Beatmap Spotlights medals** are medals that are being awarded upon the completion of certain beatmap packs that are being released as a part of the [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four gamemode packs* that is being contested on the corresponding Beatmap Spotlights ranking chart. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
 
-Although the Monthly Beatmap Spotlights having been discontinued since April 2018, the medals are still able to be un
+Although the Monthly Beatmap Spotlights have been discontinued since April 2018, all of medals pertinant to it are still able to be obtained to this day.
+
+### List of obtainable Beatmap Spotlights medals
+
+| Medal name | Requirement(s) |
+| :-- | :-- |
+| Mappers' Guild Pack VII | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack VII](https://osu.ppy.sh/beatmaps/packs/2034) beatmap pack. All beatmaps in this pack have a hardest difficulty that is of around the 5.00★–5.99★ star rating range. |
+| Mappers' Guild Pack VIII | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack VIII](https://osu.ppy.sh/beatmaps/packs/2035) beatmap pack. All beatmaps in this pack have a hardest difficulty that is of around the 6.00★–6.99★ star rating range. |
+| Mappers' Guild Pack IX | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack IX](https://osu.ppy.sh/beatmaps/packs/2036) beatmap pack. All beatmaps in this pack have a hardest difficulty that is of around the 7.00★–7.99★ star rating range. |
+| Camellia II | Clear all the beatmaps bundled in the [Camellia Challenges Pack](https://osu.ppy.sh/beatmaps/packs/2053) beatmap pack. All beatmaps in this pack have a hardest difficulty that is being classified as an \[Expert\] difficulty or above. |
 
 ## Seasonal Spotlights
 
