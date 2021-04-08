@@ -6,7 +6,7 @@ Medals, previously known as *achievements*, are badges on a user's profile which
 
 The **Beatmap Packs** medals can be obtained by **clearing every beatmap all the way through at least once in any difficulty** within one [Theme Beatmap Pack](https://osu.ppy.sh/beatmaps/packs?type=theme). 
 
-All beatmaps in a beatmap pack have to be cleared in the [osu!standard](/wiki/osu!standard) game mode to qualify a **`CLEARED`** status at the [Beatmap Pack Listing](https://osu.ppy.sh/beatmaps/packs?type=theme) and the badge unless otherwise noted.
+All beatmaps have to be cleared in the [osu!standard](/wiki/osu!standard) game mode in order to qualify for the badge unless otherwise specified.
 
 ### Requirements
 
