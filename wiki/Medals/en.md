@@ -148,7 +148,11 @@ All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki
 
 ## Hush-Hush
 
-The **Beatmap Packs medals** are "secret" medals that are being awarded upon achieving specific feats, such as playing a certain beatmap on some peculiar circumstances or setting down a score with a particular mod combination. 
+The **Beatmap Packs medals** are "secret" medals that are being awarded upon pulling up certain specific feats, such as clearing a particular beatmap under some peculiar circumstances or setting down a score with an unusual mod combination. Although at first it may appear that there are no clear-cut instructions as to how the Hush-Hush medals should be unlocked, there are some hints that have been left around to guide the curious as follows:
+
+- The name of the medals themselves,
+- The medals' brief description, and
+- The *flair text* <!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> of the medals (if any), viewable by hovering over the corresponding medals' card.
 
 ### List of obtainable Hush-Hush medals
 
