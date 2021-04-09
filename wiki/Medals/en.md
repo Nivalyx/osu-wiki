@@ -74,7 +74,7 @@ It is worth noting however that the contents of all the Video Game Packs, Anime 
 
 ## Skill
 
-The **Skill medals** are medals that are being awarded upon rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/en/Glossary/Combo_%28score_multiplier%29) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/FC) on beatmaps within a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) ranges.
+The **Skill medals** are medals that are being awarded by rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/en/Glossary/Combo_%28score_multiplier%29) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/FC) on beatmaps within a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) ranges.
 
 ### List of obtainable Skill medals
 
@@ -103,7 +103,7 @@ The **Dedication medals** are medals that are being awarded upon reaching certai
 
 *See also: [Game modifier](/wiki/Game_modifier)*
 
-The **Mod Introduction medals** are medals that are being awarded upon clearing any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap with the corresponding game modifier. These medals are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that however if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
+The **Mod Introduction medals** are medals that are being awarded by clearing any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap with the corresponding game modifier. These medals are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that however if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
 
 All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki/Game_mode) unless otherwise specified.
 
@@ -252,7 +252,7 @@ Although the Seasonal Spotlights have been discontinued as of early 2020 in favo
 
 ## Beatmap Challenge Packs
 
-The **Beatmap Challenge Packs medals**, or alternatively referred to as [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), are medals that are being awarded upon the clearance of *the hardest difficulties* present on all the beatmaps that are being included in certain [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *without any [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) enabled*. These beatmap packs have been specifically tailored to test each player's mastery of various gameplay aspects around a specific skill level, e.g. within a particular [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) or difficulty cap range.
+The **Beatmap Challenge Packs medals**, or alternatively referred to as [*Skill Packs medals*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates), are medals that are being awarded by clearing *the hardest difficulties* present on all the beatmaps that are being included in certain [Theme Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=theme) or [Artist/Album Beatmap Packs](https://osu.ppy.sh/beatmaps/packs?type=artist) *without any [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) enabled*. These beatmap packs have been specifically tailored to test each player's mastery of various gameplay aspects around a specific skill level, e.g. within a particular [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) or difficulty cap range.
 
 All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) game mode in order to qualify for the badge unless otherwise specified.
 
