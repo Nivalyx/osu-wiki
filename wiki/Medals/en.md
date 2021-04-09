@@ -80,7 +80,15 @@ The **Skill medals** are medals that are being awarded by rounding off various s
 
 | Medal name | Requirement(s) |
 | :-- | :-- |
-| Video Game Pack vol.1 | Clear all the beatmaps bundled in the [Video Game Pack, Volume 1](https://osu.ppy.sh/beatmaps/packs/40) beatmap pack. |
+| 500 Combo | Achieve 500 combo in any beatmap, in any game mode. |
+| 750 Combo | Achieve 750 combo in any beatmap, in any game mode. |
+| 1000 Combo | Achieve 1000 combo in any beatmap, in any game mode. |
+| 2000 Combo | Achieve 2000 combo in any beatmap, in any game mode. |
+| I can see the top | Achieve a Global Ranking of #50,000 or higher in any game mode. |
+| The gradual rise | Achieve a Global Ranking of #10,000 or higher in any game mode. |
+| Scaling up | Achieve a Global Ranking of #5,000 or higher in any game mode. |
+| Approaching the summit | Achieve a Global Ranking of #1,000 or higher in any game mode. |
+| Rising Star | Clear any beatmap that lies in the 1.00★–1.99★ star rating range (after all the [difficulty increase mods](/wiki/Game_modifier#difficulty-increase), if any, have been factored in) in the [osu!](/wiki/Game_mode/osu!) game mode. The usage of [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) is not permitted. |
 
 ---
 
@@ -260,7 +268,7 @@ All beatmaps in the pack have to be cleared in the [osu!](/wiki/Game_mode/osu!) 
 
 | Medal name | Requirement(s) |
 | :-- | :-- |
-| Mappers' Guild Pack VII | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack VII](https://osu.ppy.sh/beatmaps/packs/2034) beatmap pack. All beatmaps in this pack have a hardest difficulty that is of around the 5.00★–5.99★ star rating range. |
-| Mappers' Guild Pack VIII | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack VIII](https://osu.ppy.sh/beatmaps/packs/2035) beatmap pack. All beatmaps in this pack have a hardest difficulty that is of around the 6.00★–6.99★ star rating range. |
-| Mappers' Guild Pack IX | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack IX](https://osu.ppy.sh/beatmaps/packs/2036) beatmap pack. All beatmaps in this pack have a hardest difficulty that is of around the 7.00★–7.99★ star rating range. |
+| Mappers' Guild Pack VII | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack VII](https://osu.ppy.sh/beatmaps/packs/2034) beatmap pack. All beatmaps in this pack have a hardest difficulty that lies around the 5.00★–5.99★ star rating range. |
+| Mappers' Guild Pack VIII | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack VIII](https://osu.ppy.sh/beatmaps/packs/2035) beatmap pack. All beatmaps in this pack have a hardest difficulty that lies around the 6.00★–6.99★ star rating range. |
+| Mappers' Guild Pack IX | Clear the hardest difficulties of all of the beatmaps bundled in the [Mappers' Guild Pack IX](https://osu.ppy.sh/beatmaps/packs/2036) beatmap pack. All beatmaps in this pack have a hardest difficulty that lies around the 7.00★–7.99★ star rating range. |
 | Camellia II | Clear all the beatmaps bundled in the [Camellia Challenges Pack](https://osu.ppy.sh/beatmaps/packs/2053) beatmap pack. All beatmaps in this pack have a hardest difficulty that is being classified as an \[Expert\] difficulty or above. |
