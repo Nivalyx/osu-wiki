@@ -74,7 +74,7 @@ It is worth noting however that the contents of all the Video Game Packs, Anime 
 
 ## Skill
 
-The **Skill medals** are medals that are being awarded by rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/en/Glossary/Combo_%28score_multiplier%29) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/FC) on beatmaps within a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) ranges.
+The **Skill medals** are medals that are being awarded by rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/en/Glossary/Combo_%28score_multiplier%29) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/FC) on any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap within a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) ranges.
 
 ### List of obtainable Skill medals
 
@@ -88,7 +88,12 @@ The **Skill medals** are medals that are being awarded by rounding off various s
 | The gradual rise | Achieve a Global Ranking of #10,000 or higher in any game mode. |
 | Scaling up | Achieve a Global Ranking of #5,000 or higher in any game mode. |
 | Approaching the summit | Achieve a Global Ranking of #1,000 or higher in any game mode. |
-| Rising Star | Clear any beatmap that lies in the 1.00★–1.99★ star rating range (after all the [difficulty increase mods](/wiki/Game_modifier#difficulty-increase), if any, have been factored in) in the [osu!](/wiki/Game_mode/osu!) game mode. The usage of [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) is not permitted. |
+| Rising Star | Clear any Qualified, Ranked, or Approved beatmap that lies in the 1.00★–1.99★ star rating range (after all the [difficulty increase mods](/wiki/Game_modifier#difficulty-increase), if any, have been factored in) in the [osu!](/wiki/Game_mode/osu!) game mode. Any usage of [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) is not permitted. |
+| Constellation Prize | Clear any Qualified, Ranked, or Approved beatmap that lies in the 2.00★–2.99★ star rating range (after all the [difficulty increase mods](/wiki/Game_modifier#difficulty-increase), if any, have been factored in) in the [osu!](/wiki/Game_mode/osu!) game mode. Any usage of [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) is not permitted. |
+| Building Confidence | Clear any Qualified, Ranked, or Approved beatmap that lies in the 3.00★–3.99★ star rating range (after all the [difficulty increase mods](/wiki/Game_modifier#difficulty-increase), if any, have been factored in) in the [osu!](/wiki/Game_mode/osu!) game mode. Any usage of [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) is not permitted. |
+| Insanity Approaches | Clear any Qualified, Ranked, or Approved beatmap that lies in the 4.00★–4.99★ star rating range (after all the [difficulty increase mods](/wiki/Game_modifier#difficulty-increase), if any, have been factored in) in the [osu!](/wiki/Game_mode/osu!) game mode. Any usage of [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) is not permitted. |
+| These Clarion Skies | Clear any Qualified, Ranked, or Approved beatmap that lies in the 5.00★–5.99★ star rating range (after all the [difficulty increase mods](/wiki/Game_modifier#difficulty-increase), if any, have been factored in) in the [osu!](/wiki/Game_mode/osu!) game mode. Any usage of [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) is not permitted. |
+| Above And Beyond | Clear any Qualified, Ranked, or Approved beatmap that lies in the 6.00★–6.99★ star rating range (after all the [difficulty increase mods](/wiki/Game_modifier#difficulty-increase), if any, have been factored in) in the [osu!](/wiki/Game_mode/osu!) game mode. Any usage of [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) is not permitted. |
 
 ---
 
