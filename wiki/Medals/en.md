@@ -123,7 +123,7 @@ All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki
 | Dial It Right Back | Clear a map with the [Easy](/wiki/en/Game_modifier/Easy) mod enabled. |
 | Risk Averse | Clear a map with the [NoFail](/wiki/en/Game_modifier/No_Fail) mod enabled. |
 | Slowboat | Clear a map with the [HalfTime](/wiki/en/Game_modifier/Half_Time) mod enabled. |
-| Burned Out | Clear a map with the [SpunOut](/wiki/en/Game_modifier/Spun_Out) mod enabled. This achievement can only be achieved in the [osu!](/wiki/Game_mode/osu!) game mode as this mod is not present in other game modes. |
+| Burned Out | Clear a map with the [SpunOut](/wiki/en/Game_modifier/Spun_Out) mod enabled. This medal can only be achieved in the [osu!](/wiki/Game_mode/osu!) game mode as the SpunOut mod is not present in other game modes. |
 
 ## Hush-Hush
 
