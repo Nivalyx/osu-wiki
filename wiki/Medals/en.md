@@ -90,7 +90,7 @@ The star-based medals are split into two groups, *Pass* and *S*. The *Pass* meda
 
 ## Dedication
 
-The **Dedication medals** are medals that are being awarded upon reaching certain playcount milestones in any game mode.
+The **Dedication medals** are medals that are being awarded upon reaching certain playcount milestones in a single game mode.
 
 ### List of obtainable Dedication medals
 
@@ -105,7 +105,25 @@ The **Dedication medals** are medals that are being awarded upon reaching certai
 
 *See also: [Game modifier](/wiki/Game_modifier)*
 
-The **Mod Introduction** medals can be obtained by clearing maps with the specified game modifier. They are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
+The **Mod Introduction medals** are medals that are being awarded upon clearing a map with the corresponding game modifier. These medals are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note that however if the player plays with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
+
+All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki/Game_mode) unless otherwise specified.
+
+### List of obtainable Mod Introduction medals
+
+| Medal name | Requirement(s) |
+| :-- | :-- |
+| Finality | Clear a map with the [SuddenDeath](/wiki/en/Game_modifier/Sudden_Death) mod enabled. |
+| Perfectionist | Clear a map with the [Perfect]/(wiki/en/Game_modifier/Perfect) mod enabled. |
+| Rock Around The Clock | Clear a map with the [HardRock](/wiki/en/Game_modifier/Hard_Rock) mod enabled. |
+| Time And A Half | Clear a map with the [DoubleTime](/wiki/en/Game_modifier/Double_Time) mod enabled. |
+| Sweet Rave Party | Clear a map with the [Nightcore](/wiki/en/Game_modifier/Nightcore) mod enabled. |
+| Blindsight | Clear a map with the [Hidden](/wiki/en/Game_modifier/Hidden) mod enabled. |
+| Are You Afraid Of The Dark? | Clear a map with the [Flashlight](/wiki/en/Game_modifier/Flashlight) mod enabled. |
+| Dial It Right Back | Clear a map with the [Easy](/wiki/en/Game_modifier/Easy) mod enabled. |
+| Risk Averse | Clear a map with the [NoFail](/wiki/en/Game_modifier/No_Fail) mod enabled. |
+| Slowboat | Clear a map with the [HalfTime](/wiki/en/Game_modifier/Half_Time) mod enabled. |
+| Burned Out | Clear a map with the [SpunOut](/wiki/en/Game_modifier/Spun_Out) mod enabled. This achievement can only be achieved in the [osu!](/wiki/Game_mode/osu!) game mode as this mod is not present in other game modes. |
 
 ## Hush-Hush
 
