@@ -154,7 +154,7 @@ The **Beatmap Packs medals** are "secret" medals that are being awarded upon pul
 - The medals' brief description, and
 - The *flair text* <!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> of the medals (if any), viewable by hovering over the corresponding medals' card.
 
-As the Hush-Hush medals aren't meant to be, the list below will note out the *description and flair text* instead of the exact method on getting the medals. However, players are [welcomed to work together to figure out how to obtain all the medals below](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+As the Hush-Hush medals are meant to be a secret achievement of some sort, the list below will note out the *description and flair text* of the medals instead of the exact method on getting them. However, players are [welcomed to work together in order to figure out how to obtain all the Hush-Hush medals out there](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 
 ### List of obtainable Hush-Hush medals
 
