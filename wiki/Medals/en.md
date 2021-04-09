@@ -212,7 +212,7 @@ Medals of this kind have no obvious way to get them. The player must find out wh
 
 The **Beatmap Spotlights medals** are medals that are being awarded upon the completion of certain beatmap packs that are being released as a part of the [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four gamemode packs* that is being contested on the corresponding Beatmap Spotlights ranking chart. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
 
-Although the Monthly Beatmap Spotlights have been discontinued as of April 2018 in favor of the [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), all of medals pertinant to it are still able to be obtained to this day.
+Although the Monthly Beatmap Spotlights have been discontinued as of April 2018 in favor of the [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), all of the medals pertinant to it are still able to be obtained to this day.
 
 ### List of obtainable Beatmap Spotlights medals
 
@@ -238,7 +238,7 @@ Although the Monthly Beatmap Spotlights have been discontinued as of April 2018 
 
 The **Seasonal Spotlights medals** are medals that are being awarded upon the completion of certain beatmap packs that are being released as a part of the [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In order to unlock the medals in this category, a player needs to play through all the maps *in any of the four gamemode packs* that is being contested on the corresponding Seasonal Spotlights ranking chart. The usage of either [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) or [difficulty increase mods](/wiki/Game_modifier#difficulty-increase) is permitted.
 
-Although the Seasonal Spotlights have been discontinued as of early 2020 in favor of the [current Beatmap Spotlights system](wiki/Beatmap_Spotlights), all of medals pertinant to it are still able to be obtained to this day.
+Although the Seasonal Spotlights have been discontinued as of early 2020 in favor of the [current Beatmap Spotlights system](wiki/Beatmap_Spotlights), all of the medals pertinant to it are still able to be obtained to this day.
 
 ### List of obtainable Seasonal Spotlights medals
 
