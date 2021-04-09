@@ -148,13 +148,13 @@ All Mod Introduction medals are eligible to be unlocked in any [game mode](/wiki
 
 ## Hush-Hush
 
-The **Beatmap Packs medals** are "secret" medals that are being awarded upon pulling up certain specific feats, such as clearing a particular beatmap under some peculiar circumstances or setting down a score with an unusual mod combination. Although at first it may appear that there are no clear-cut instructions as to how the Hush-Hush medals should be unlocked, there are some hints that are being put around to help all the curious medal hunters in their sleuth as follows:
+The **Beatmap Packs medals** are "secret" medals that are being awarded upon pulling up certain specific feats, such as clearing a particular beatmap under some peculiar circumstances or setting down a score with an unusual mod combination. Although at first it may appear that there are no clear-cut instructions as to how the Hush-Hush medals could be unlocked, there are some hints that are being put around to guide all the curious medal hunters in their sleuth as follows:
 
 - The name of the medals themselves,
 - The medals' brief description, and
 - The *flair text* <!-- https://twitter.com/ephemeralis/status/1068054191602638850 --> of the medals (if any), viewable by hovering over the corresponding medals' card.
 
-As the Hush-Hush medals are meant to be a secret achievement of some sort, the list below will note out the *description and flair text* of the medals instead of the exact method on getting them. However, players are [welcomed to work together in order to figure out how to obtain all the Hush-Hush medals out there](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+As the Hush-Hush medals are meant to be a secret achievement of some sort, the list below will note out the *description and flair text* of the medals instead of the exact method of getting them. However, players are [welcomed to work together in order to figure out how to obtain all the Hush-Hush medals out there](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 
 ### List of obtainable Hush-Hush medals
 
