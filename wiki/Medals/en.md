@@ -1,6 +1,6 @@
 # Medals
 
-Medals, previously known as *achievements*, are badges on a user's profile which indicate certain goals that have been achieved by the user. Currently, there are **247** medals that can be unlocked throughout 8 different categories as follows: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), and [Beatmap Challenge Packs](#beatmap-challenge-packs).
+Medals, previously known as *achievements*, are badges on a user's profile which indicate certain goals that have been achieved by the user. Currently, there are **247** medals available in total which are divided into 8 groups: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), and [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
