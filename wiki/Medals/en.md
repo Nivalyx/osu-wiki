@@ -96,7 +96,10 @@ The **Dedication medals** are medals that are being awarded upon reaching certai
 
 | Medal name | Requirement(s) |
 | :-- | :-- |
-| January/February 2017 Spotlight | Clear all the beatmaps bundled in any of the Spotlights January/February 2017 beatmap packs ([osu!](https://osu.ppy.sh/beatmaps/packs/1186)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1187)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1188)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1189)). |
+| 5,000 Plays | Achieve a total of 5,000 playcounts in any game mode. |
+| 15,000 Plays | Achieve a total of 15,000 playcounts in any game mode. |
+| 25,000 Plays | Achieve a total of 25,000 playcounts in any game mode. |
+| 50,000 Plays | Achieve a total of 50,000 playcounts in any game mode. |
 
 ## Mod Introduction
 
