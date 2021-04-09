@@ -109,10 +109,6 @@ The **Skill medals** are medals that are being awarded by rounding off various s
 | Chosen | Full combo any Qualified, Ranked, or Approved beatmap that lies in the 9.00★–9.99★ star rating range (after all the [difficulty increase mods](/wiki/Game_modifier#difficulty-increase), if any, have been factored in) in the osu! game mode. Any usage of [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) is not permitted. |
 | Unfathomable | Full combo any Qualified, Ranked, or Approved beatmap that lies in the 10.00★–10.99★ star rating range (after all the [difficulty increase mods](/wiki/Game_modifier#difficulty-increase), if any, have been factored in) in the osu! game mode. Any usage of [difficulty reduction mods](/wiki/Game_modifier#difficulty-reduction) is not permitted. |
 
----
-
-The star-based medals are split into two groups, *Pass* and *S*. The *Pass* medals can be obtained by passing a beatmap of a certain star difficulty (excluding EZ/NF/HT). The *S* medals will be granted if you meet the conditions of the *Pass* medal with a *S* ranking whilst also having an [FC](/wiki/FC). The difficulty of the beatmap will be rounded to the nearest star difficulty and will grant the medal for what it is rounded to. For example, if you have not earned the 6/7 star medals but cleared 7.8 stars difficulty, you will only receive a 7 star medal. You can also use difficulty increasing mods, such as HR/DT (based on increased stars). The beatmap must also be in the Ranked state to grant a medal.
-
 ## Dedication
 
 The **Dedication medals** are medals that are being awarded upon reaching certain playcount milestones in a single game mode.
