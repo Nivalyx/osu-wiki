@@ -74,7 +74,7 @@ It is worth noting however that the contents of all the Video Game Packs, Anime 
 
 ## Skill
 
-The **Skill medals** are medals that are being awarded upon rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/en/Glossary/Combo_%28score_multiplier%29) milestones, by attaining certain ranks in the [global performance point leaderboard], or by achieving either a clear or a [full combo](/wiki/FC) on beatmaps within a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) ranges.
+The **Skill medals** are medals that are being awarded upon rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/en/Glossary/Combo_%28score_multiplier%29) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/FC) on beatmaps within a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) ranges.
 
 ### List of obtainable Skill medals
 
