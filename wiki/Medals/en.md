@@ -90,7 +90,7 @@ The star-based medals are split into two groups, *Pass* and *S*. The *Pass* meda
 
 ## Dedication
 
-The **Dedication medals** are medals that are being awarded upon hitting certain playcount milestones in any game mode.
+The **Dedication medals** are medals that are being awarded upon reaching certain playcount milestones in any game mode.
 
 ### List of obtainable Dedication medals
 
