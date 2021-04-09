@@ -74,15 +74,13 @@ It is worth noting however that the contents of all the Video Game Packs, Anime 
 
 ## Skill
 
-The **Skill** medals are currently divided into three groups: Combo, High Ranker, and Star-based.
+The **Skill medals** are medals that are being awarded upon achieving various skill-based flairs, be it by getting into certain [combo](/wiki/en/Glossary/Combo_%28score_multiplier%29) milestones, by attaining certain global rank in the [performance point leaderboard], or by clearing/full combo-ing maps in a certain [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Difficulty#star-rating) range.
 
-The Combo medals can be obtained by gaining a specific [combo](/wiki/combo) in osu!standard and can be completed with any one song. Achieving the same combo count in [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), or [osu!mania](/wiki/osu!mania) mode will not result in getting the medal.
+### List of obtainable Skill medals
 
-For the 1,000 and 2,000 combo medals, you should look for sufficiently long beatmaps. **If the beatmap is not in the Ranked or Approved state, the medals will not be granted.**
-
----
-
-The High Ranker medals can be obtained by reaching a certain global ranking position in **any** game mode.
+| Medal name | Requirement(s) |
+| :-- | :-- |
+| Video Game Pack vol.1 | Clear all the beatmaps bundled in the [Video Game Pack, Volume 1](https://osu.ppy.sh/beatmaps/packs/40) beatmap pack. |
 
 ---
 
