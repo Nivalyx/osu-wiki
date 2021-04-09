@@ -160,6 +160,35 @@ Medals of this kind have no obvious way to get them. The player must find out wh
 | Elite | Dangerous beat agents. *(A challenge for status, prestige and fame is not always the smartest thing to do in the middle of something.)* |
 | 50/50 | Half full or half empty, that's a whole lot of fifty. *(Strong opinions about this, one way or another.)* |
 | Thrill Of The Chase | My heart's beating, my hands are shaking, and I'm STILL clicking. *(Is there anything better than the hunt? Such a classic pursuit.)* |
+| The Girl in The Forest | Not even the Elite Four can stop you now. *(Think back to where it all began, in shades of red and blue..)* |
+| You Can't Hide | I will find you, and I will click you. All of you. *(Don't even try to hide.)* |
+| True Torment | It lasts forever. *(Note the ghosts.)* |
+| The Firmament Moves | Number fourteen? More like number one. *(Three times does it move, but most only know one. What you seek is something different yet again, warped three times over.)* |
+| Too Fast, Too Furious | A march if you have eight feet, maybe! *(Something you don't do when you're afraid.)* |
+| Feelin' It | Got with the times. *(DBeats multiplied. A lot of them.)* |
+| Overconfident | Try again later, maybe? *(The 's' in progress stands for hubris.)* |
+| Spooked | Something moved. It wasn't your cursor! *(Don't look behind you.)* |
+| Skylord | Never miss a wingbeat. *(Flight among the sky requires nothing but perfection.)* |
+| B-Rave | It takes courage to stand before the master. *(Ill-tempered bosses make for excellent final battles.)* |
+| Any\% | A speedrunner's best friend. *(Sometimes you have to break the rules to work with speed.)* |
+| Mirage | The horizon goes forever, and ever, and ever.. *(The light is far harder than it seems.)* |
+| Under The Stars | Onwards, to where the darkness can never stop us. *(Walk beneath the stars on a journey to elsewhere.)* |
+| Senseless | I see nothing. I hear nothing. *(A song that is, and something that is not.)* |
+| Aeon | In the mire of thawing time, memory shall be your guide. *(When time runs slow and sight fails you, how will you succeed?)* |
+| Upon The Wind | And in that gale, no eye could hope to follow. *(In the heart of a storm of flowers, a world unseen.)* |
+| Vantage | There we stood, where the spires pierced the sky, and dreamed of the future to come. *(Where ground was broken to critical acclaim.)* |
+| Quick Maths | Beats per minute over.. this isn't quick at all! *(Where x equals beats per minute, and a variable unknown..)* |
+| Efflorescence | A lament for the past, and a glimpse into tomorrow. *(The horizon thunders with a portentous bloom.)* |
+| Inundate | Swept away. *(Across and beyond the tides.)* |
+| Not Bluffing | Did that with my eyes closed. *(It's not arrogance if you can live up to it.)* |
+| Eureka | By Jove, you got it! *(When inspiration strikes..)* |
+| Regicide | A king no more. *(No throne lasts forever.)* |
+| Permadeath | One life, one shot. *(Better make it count! Ware well the example of the white cat.)* |
+| The Future Is Now | The stars showed you all that was to come. *(Withstand the primordial.)* |
+| Natural 20 | Rolled it. *(Not just a chance of the dice, this one is all skill.)* |
+| Kaleidoscope | So many pretty colors. Most of them red. *(See the tiny colours up through the tube up close and personal, and slow right down.)* |
+| AHAHAHAHA | Together forever. *(Who am I? Where am I? What the hell IS this place?)* |
+| Valediction | One last time. *(Time stood still as we waved farewell.)* |
 
 ## Beatmap Spotlights
 
