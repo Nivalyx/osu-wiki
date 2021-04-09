@@ -140,6 +140,26 @@ Medals of this kind have no obvious way to get them. The player must find out wh
 | Tunnel Vision | But it was right there.. *(Afraid of the dark?)* |
 | Behold No Deception | That wasn't easy at all! *(Sometimes the hard way is in fact, easier.)* |
 | Up For The Challenge | Turn it up to eleven. *(Everything's better at eleven.)* |
+| Lights Out | The party's just getting started. *(Set the mood.)* |
+| Unstoppable | Holy. *(Reaching the limits of mortal skill.)* |
+| Is This Real Life? | You did NOT just pull that off. *(The absolute height of perfection.)* |
+| Camera Shy | Stop being cute. *(Uguu.)* |
+| The Sum Of All Fears | Unfortunate. *(The end comes when you least expect it.)* |
+| Dekasight | So big, yet so hard to see. *(Size isn't everything.)* |
+| Hour Before The Dawn | Eleven skies of everlasting sunrise. *(The night where we belong.)* |
+| Slow And Steady | Win the race, or start again. *(Take your time.)* |
+| No Time To Spare | Places to be, things to do. *(Think fast, click fast, be fast.)* |
+| Sognare | A dream in stop-motion, soon forever gone. *("I saw three spires all around, and a world in halted time..")* |
+| Realtor Extraordinaire | An acre-wide strike. *(The wrong kind of house.)* |
+| Realität | A moonlight butterfly, and beacons of three. *(Dream of greater heights.)* |
+| Our Mechanical Benefactors | Human, please explain directive "GREED". *(Close, yet so far.)* |
+| Meticulous | The circle goes here, and then here, and then here.. *(This is the way it's SUPPOSED to be.)* |
+| Infinitesimal | Big name for something so very, very small. *(Tiny in scope, big in meaning.)* |
+| Equilbirium | Balance in all things. *(Seek the middle ground.)* |
+| Impeccable | Speed matters not to the exemplary. *(Simply superb.)* |
+| Elite | Dangerous beat agents. *(A challenge for status, prestige and fame is not always the smartest thing to do in the middle of something.)* |
+| 50/50 | Half full or half empty, that's a whole lot of fifty. *(Strong opinions about this, one way or another.)* |
+| Thrill Of The Chase | My heart's beating, my hands are shaking, and I'm STILL clicking. *(Is there anything better than the hunt? Such a classic pursuit.)* |
 
 ## Beatmap Spotlights
 
