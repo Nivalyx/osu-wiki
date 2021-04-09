@@ -90,7 +90,13 @@ The star-based medals are split into two groups, *Pass* and *S*. The *Pass* meda
 
 ## Dedication
 
-The **Dedication** medals can be obtained by playing a lot of osu!standard, collecting many fruits in osu!catch, hitting getting a lot of drum hits in osu!taiko, by pressing a lot of keys in osu!mania.
+The **Dedication medals** are medals that are being awarded upon hitting certain playcount milestones in any game mode.
+
+### List of obtainable Dedication medals
+
+| Medal name | Requirement(s) |
+| :-- | :-- |
+| January/February 2017 Spotlight | Clear all the beatmaps bundled in any of the Spotlights January/February 2017 beatmap packs ([osu!](https://osu.ppy.sh/beatmaps/packs/1186)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1187)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1188)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1189)). |
 
 ## Mod Introduction
 
