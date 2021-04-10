@@ -81,6 +81,22 @@ sample text
   - ![][o!s] [HyuN feat. Yu-A - My life is for you](https://osu.ppy.sh/beatmapsets/891417#osu/1863412) hosted by ![][flag_RU] [NeilPerry](https://osu.ppy.sh/users/841391)
   - ![][o!s] [HyuN feat. YURI - Disorder](https://osu.ppy.sh/beatmapsets/891632#osu/1864007) hosted by ![][flag_GR] [lcfc](https://osu.ppy.sh/users/7322726)
 
+### May 2019
+
+- **[James Landino](https://osu.ppy.sh/home/news/2019-05-31-new-featured-artist-james-landino)** (2019-05-31)
+  - ![][o!s] [James Landino - Hide And Seek](https://osu.ppy.sh/beatmapsets/972932#osu/2036903) hosted by ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
+  - ![][o!s] [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmapsets/972816#osu/2036666) hosted by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
+  - ![][o!s] [James Landino & Kabuki - Birdsong](https://osu.ppy.sh/beatmapsets/972810#osu/2036650) hosted by ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+
+### December 2019
+
+- **[MYLK](https://osu.ppy.sh/home/news/2019-12-31-new-featured-artist-mylk)** (2019-12-31)
+  - ![][o!t] [MYLK - Bubblegum](https://osu.ppy.sh/beatmapsets/1055143#taiko/2204737) hosted by ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/2204735)
+  - ![][o!t] [MYLK - Let You Go (Original Mix)](https://osu.ppy.sh/beatmapsets/1053583#taiko/2201615) hosted by ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817)
+  - ![][o!t] [MYLK - Prism](https://osu.ppy.sh/beatmapsets/1051590#taiko/2197618) hosted by ![][flag_NO] [salchow](https://osu.ppy.sh/users/9738159)
+  - ![][o!t] [MYLK - SOAP (Original Mix)](https://osu.ppy.sh/beatmapsets/1055618#taiko/2205809) hosted by ![][flag_JP] [tasuke712](https://osu.ppy.sh/users/2774767)
+  - ![][o!t] [MYLK - Smile (Original Mix)](https://osu.ppy.sh/beatmapsets/1065517#taiko/2231210) hosted by ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
@@ -98,6 +114,7 @@ sample text
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
