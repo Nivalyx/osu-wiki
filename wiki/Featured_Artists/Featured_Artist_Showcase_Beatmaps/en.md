@@ -132,6 +132,26 @@ sample text
   - (![][o!s]) [ginkiha - Paved Garden](https://osu.ppy.sh/beatmapsets/1110961#osu/2321257) hosted by ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530)
   - (![][o!s]) [ginkiha, TEA - Haruka (Short Ver.)](https://osu.ppy.sh/beatmapsets/1110461#osu/2320392) hosted by ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
 
+### April 2020
+
+- **[meganeko](https://osu.ppy.sh/home/news/2020-04-03-new-featured-artist-meganeko)** (2020-04-03)
+  - (![][o!c]) [chopin - Etude Op. 25, No. 12 (meganeko Remix)](https://osu.ppy.sh/beatmapsets/1115500#fruits/2330397) hosted by ![][flag_GB] [WildOne94](https://osu.ppy.sh/users/3482692)
+  - (![][o!c]) [meganeko - 2k9 battle jam](https://osu.ppy.sh/beatmapsets/1108349#fruits/2316323) hosted by ![][flag_GB] [MBomb](https://osu.ppy.sh/users/3071175)
+  - (![][o!c]) [meganeko - Nova](https://osu.ppy.sh/beatmapsets/1102115#fruits/2302405) hosted by ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
+
+- **[Zekk](https://osu.ppy.sh/home/news/2020-04-08-new-featured-artist-zekk)** (2020-04-08)
+  - (![][o!s]) [Zekk - Duplication](https://osu.ppy.sh/beatmapsets/1132727#osu/2365948) hosted by ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
+  - (![][o!s]) [Zekk - MEJIRUSHI](https://osu.ppy.sh/beatmapsets/1116742#osu/2332941) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
+
+- **[CircusP](https://osu.ppy.sh/home/news/2020-04-22-new-featured-artist-circusp)** (2020-04-22)
+  - (![][o!s]) [CircusP & Eyeris - Karma](https://osu.ppy.sh/beatmapsets/1143814#osu/2389372) hosted by ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+
+- **[PUP](https://osu.ppy.sh/home/news/2020-04-29-new-featured-artist-pup)** (2020-04-29)
+  - (![][o!s]) [PUP - Free At Last](https://osu.ppy.sh/beatmapsets/1133317#osu/2366967) hosted by ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645)
+  - (![][o!s]) [PUP - Sleep In The Heat](https://osu.ppy.sh/beatmapsets/1141879#osu/2384823) hosted by ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)
+
+### May 2020
+
 
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
