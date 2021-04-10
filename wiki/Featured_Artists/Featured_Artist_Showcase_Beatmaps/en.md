@@ -103,7 +103,6 @@ sample text
 
 - **[Teminite](https://osu.ppy.sh/home/news/2020-01-15-new-featured-artist-teminite)** (2020-01-15)
   - (![][o!s]) [Teminite - Step Into The Light (feat. Jonah Hitchens)](https://osu.ppy.sh/beatmapsets/1089017#osu/2276963) hosted by ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
-
 - **[Blue Stahli](https://osu.ppy.sh/home/news/2020-01-22-new-featured-artist-blue-stahli)** (2019-01-22)
   - (![][o!s]) [Blue Stahli - Throw Away](https://osu.ppy.sh/beatmapsets/1061411#osu/2222638) hosted by ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
   - (![][o!c]) [Blue Stahli - Suit Up](https://osu.ppy.sh/beatmapsets/1061425#fruits/2222665) hosted by ![][flag_GB] [MBomb](https://osu.ppy.sh/users/3071175)
@@ -114,14 +113,11 @@ sample text
 - **[Kola Kid](https://osu.ppy.sh/home/news/2020-02-05-new-featured-artist-kola-kid)** (2020-02-05)
   - (![][o!s]) [Kola Kid - can't hide your love](https://osu.ppy.sh/beatmapsets/1099325#osu/2296606) hosted by ![][flag_JP] [ShirohaMyMommy](https://osu.ppy.sh/users/1603923)
   - (![][o!s]) [Kola Kid - timer](https://osu.ppy.sh/beatmapsets/1089084#osu/2277126) hosted by ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
-
 - **[Frums](https://osu.ppy.sh/home/news/2020-02-12-new-featured-artist-frums)** (2020-02-12)
   - (![][o!s]) [Frums - 24eev0-$](https://osu.ppy.sh/beatmapsets/1086289#osu/2271666) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
-
 - **[ELFENSJoN](https://osu.ppy.sh/home/news/2020-02-19-new-featured-artist-elfensjon)** (2020-02-19)
   - (![][o!s]) [ELFENSJoN - Akayake no Majo](https://osu.ppy.sh/beatmapsets/1100484#osu/2299178) hosted by ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645)
   - (![][o!s]) [ELFENSJoN - Shiroki Yume wa Madara ni](https://osu.ppy.sh/beatmapsets/1083468#osu/2266069) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
-
 - **[Sound Souler](https://osu.ppy.sh/home/news/2020-02-26-new-featured-artist-sound-souler)** (2020-02-26)
   - (![][o!s]) [Sound Souler - Absent Color](https://osu.ppy.sh/beatmapsets/1093465#osu/2285424) hosted by ![][flag_KR] [Icekalt](https://osu.ppy.sh/users/11771)
   - (![][o!s]) [Sound Souler - Aqua Stars](https://osu.ppy.sh/beatmapsets/1085144#osu/2269224) hosted by ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628)
@@ -138,14 +134,11 @@ sample text
   - (![][o!c]) [chopin - Etude Op. 25, No. 12 (meganeko Remix)](https://osu.ppy.sh/beatmapsets/1115500#fruits/2330397) hosted by ![][flag_GB] [WildOne94](https://osu.ppy.sh/users/3482692)
   - (![][o!c]) [meganeko - 2k9 battle jam](https://osu.ppy.sh/beatmapsets/1108349#fruits/2316323) hosted by ![][flag_GB] [MBomb](https://osu.ppy.sh/users/3071175)
   - (![][o!c]) [meganeko - Nova](https://osu.ppy.sh/beatmapsets/1102115#fruits/2302405) hosted by ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
-
 - **[Zekk](https://osu.ppy.sh/home/news/2020-04-08-new-featured-artist-zekk)** (2020-04-08)
   - (![][o!s]) [Zekk - Duplication](https://osu.ppy.sh/beatmapsets/1132727#osu/2365948) hosted by ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
   - (![][o!s]) [Zekk - MEJIRUSHI](https://osu.ppy.sh/beatmapsets/1116742#osu/2332941) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
-
 - **[CircusP](https://osu.ppy.sh/home/news/2020-04-22-new-featured-artist-circusp)** (2020-04-22)
   - (![][o!s]) [CircusP & Eyeris - Karma](https://osu.ppy.sh/beatmapsets/1143814#osu/2389372) hosted by ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
-
 - **[PUP](https://osu.ppy.sh/home/news/2020-04-29-new-featured-artist-pup)** (2020-04-29)
   - (![][o!s]) [PUP - Free At Last](https://osu.ppy.sh/beatmapsets/1133317#osu/2366967) hosted by ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645)
   - (![][o!s]) [PUP - Sleep In The Heat](https://osu.ppy.sh/beatmapsets/1141879#osu/2384823) hosted by ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)
