@@ -53,6 +53,25 @@ sample text
   - ![][o!s] [Culprate & Joe Ford - Gaucho](https://osu.ppy.sh/beatmapsets/847776#osu/1772923) hosted by ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308)
   - ![][o!s] [Culprate & Skorpion - Jester](https://osu.ppy.sh/beatmapsets/848259#osu/1773876) hosted by ![][flag_RU] [NeilPerry](https://osu.ppy.sh/users/841391)
 
+### December 2018
+
+- **[Camellia](https://osu.ppy.sh/home/news/2018-12-24-new-featured-artist-camellia)** (2018-12-24)
+  - ![][o!s] [Camellia - First Town Of This Journey](https://osu.ppy.sh/beatmapsets/888513#osu/1857147) hosted by ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308)
+  - ![][o!s] [Camellia - Quantum Entanglement](https://osu.ppy.sh/beatmapsets/584991#osu/1238045) hosted by ![][flag_CA] [Sing](https://osu.ppy.sh/users/3795679)
+  - ![][o!s] [Camellia - The King Of Lions](https://osu.ppy.sh/beatmapsets/885923#osu/1852786) hosted by ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954)
+  - ![][o!s] [Camellia - Welcome To The Cyphisonia](https://osu.ppy.sh/beatmapsets/887008#osu/1854283) hosted by ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+  - ![][o!s] [Camellia feat. Nanahira - Hakuraku](https://osu.ppy.sh/beatmapsets/894415#osu/1869048) hosted by ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935)
+  - ![][o!s] [Camellia feat. Nanahira - Touhiron](https://osu.ppy.sh/beatmapsets/884977#osu/1863342) hosted by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
+
+## 2019
+
+### February 2019
+
+- **[HyuN](https://osu.ppy.sh/home/news/2019-02-05-new-featured-artist-hyun)** (2019-02-05)
+  - ![][o!s] [HyuN - Guitian](https://osu.ppy.sh/beatmapsets/891348#osu/1863256) hosted by ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308)
+  - ![][o!s] [HyuN - Illusion of Inflict](https://osu.ppy.sh/beatmapsets/891366#osu/1863289 hosted by ![][flag_EE] [schoolboy](https://osu.ppy.sh/users/8722791)
+  - ![][o!s] [HyuN - Infinity Heaven](https://osu.ppy.sh/beatmapsets/891345#osu/1863246) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
+
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
@@ -61,6 +80,7 @@ sample text
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
