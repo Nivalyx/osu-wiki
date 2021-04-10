@@ -97,6 +97,42 @@ sample text
   - (![][o!t]) [MYLK - SOAP (Original Mix)](https://osu.ppy.sh/beatmapsets/1055618#taiko/2205809) hosted by ![][flag_JP] [tasuke712](https://osu.ppy.sh/users/2774767)
   - (![][o!t]) [MYLK - Smile (Original Mix)](https://osu.ppy.sh/beatmapsets/1065517#taiko/2231210) hosted by ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
 
+## 2020
+
+### January 2020
+
+- **[Teminite](https://osu.ppy.sh/home/news/2020-01-15-new-featured-artist-teminite)** (2020-01-15)
+  - (![][o!s]) [Teminite - Step Into The Light (feat. Jonah Hitchens)](https://osu.ppy.sh/beatmapsets/1089017#osu/2276963) hosted by ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
+
+- **[Blue Stahli](https://osu.ppy.sh/home/news/2020-01-22-new-featured-artist-blue-stahli)** (2019-01-22)
+  - (![][o!s]) [Blue Stahli - Throw Away](https://osu.ppy.sh/beatmapsets/1061411#osu/2222638) hosted by ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
+  - (![][o!c]) [Blue Stahli - Suit Up](https://osu.ppy.sh/beatmapsets/1061425#fruits/2222665) hosted by ![][flag_GB] [MBomb](https://osu.ppy.sh/users/3071175)
+  - (![][o!c]) [Blue Stahli & Nyyzy Nyce - Run The Track](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242234) hosted by ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
+
+### February 2020
+
+- **[Kola Kid](https://osu.ppy.sh/home/news/2020-02-05-new-featured-artist-kola-kid)** (2020-02-05)
+  - (![][o!s]) [Kola Kid - can't hide your love](https://osu.ppy.sh/beatmapsets/1099325#osu/2296606) hosted by ![][flag_JP] [ShirohaMyMommy](https://osu.ppy.sh/users/1603923)
+  - (![][o!s]) [Kola Kid - timer](https://osu.ppy.sh/beatmapsets/1089084#osu/2277126) hosted by ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
+
+- **[Frums](https://osu.ppy.sh/home/news/2020-02-12-new-featured-artist-frums)** (2020-02-12)
+  - (![][o!s]) [Frums - 24eev0-$](https://osu.ppy.sh/beatmapsets/1086289#osu/2271666) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
+
+- **[ELFENSJoN](https://osu.ppy.sh/home/news/2020-02-19-new-featured-artist-elfensjon)** (2020-02-19)
+  - (![][o!s]) [ELFENSJoN - Akayake no Majo](https://osu.ppy.sh/beatmapsets/1100484#osu/2299178) hosted by ![][flag_DE] [Icekalt](https://osu.ppy.sh/users/5410645)
+  - (![][o!s]) [ELFENSJoN - Shiroki Yume wa Madara ni](https://osu.ppy.sh/beatmapsets/1083468#osu/2266069) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
+
+- **[Sound Souler](https://osu.ppy.sh/home/news/2020-02-26-new-featured-artist-sound-souler)** (2020-02-26)
+  - (![][o!s]) [Sound Souler - Absent Color](https://osu.ppy.sh/beatmapsets/1093465#osu/2285424) hosted by ![][flag_KR] [Icekalt](https://osu.ppy.sh/users/11771)
+  - (![][o!s]) [Sound Souler - Aqua Stars](https://osu.ppy.sh/beatmapsets/1085144#osu/2269224) hosted by ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628)
+
+### March 2020
+
+- **[ginkiha](https://osu.ppy.sh/home/news/2020-03-11-new-featured-artist-ginkiha)** (2020-03-11)
+  - (![][o!s]) [ginkiha - Paved Garden](https://osu.ppy.sh/beatmapsets/1110961#osu/2321257) hosted by ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530)
+  - (![][o!s]) [ginkiha, TEA - Haruka (Short Ver.)](https://osu.ppy.sh/beatmapsets/1110461#osu/2320392) hosted by ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323)
+
+
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
@@ -107,9 +143,11 @@ sample text
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_GR]: /wiki/shared/flag/GR.gif "Greece"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
