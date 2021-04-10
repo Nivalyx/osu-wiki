@@ -63,7 +63,7 @@ sample text
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_ID]: /wiki/shared/flag/HK.gif "Indonesia"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
