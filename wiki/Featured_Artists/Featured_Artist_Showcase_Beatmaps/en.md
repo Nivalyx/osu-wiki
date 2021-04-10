@@ -69,7 +69,7 @@ sample text
 
 - **[HyuN](https://osu.ppy.sh/home/news/2019-02-05-new-featured-artist-hyun)** (2019-02-05)
   - ![][o!s] [HyuN - Guitian](https://osu.ppy.sh/beatmapsets/891348#osu/1863256) hosted by ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308)
-  - ![][o!s] [HyuN - Illusion of Inflict](https://osu.ppy.sh/beatmapsets/891366#osu/1863289 hosted by ![][flag_EE] [schoolboy](https://osu.ppy.sh/users/8722791)
+  - ![][o!s] [HyuN - Illusion of Inflict](https://osu.ppy.sh/beatmapsets/891366#osu/1863289) hosted by ![][flag_EE] [schoolboy](https://osu.ppy.sh/users/8722791)
   - ![][o!s] [HyuN - Infinity Heaven](https://osu.ppy.sh/beatmapsets/891345#osu/1863246) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
 
 [o!s]: /wiki/shared/mode/osu.png "osu!"
