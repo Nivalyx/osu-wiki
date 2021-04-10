@@ -30,7 +30,7 @@ sample text
   - ![][o!s] [Cranky - Hanaarashi](https://osu.ppy.sh/beatmapsets/751771#osu/1582579) hosted by ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
   - ![][o!s] [Cranky - La fuite des jours](https://osu.ppy.sh/beatmapsets/751932#osu/1582988) hosted by ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)
   - ![][o!s] [Cranky - Ran](https://osu.ppy.sh/beatmapsets/751772#osu/1582585) hosted by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
-  - ![][o!s] [Cranky - Rave 2 Rave](https://osu.ppy.sh/beatmapsets/751896#osu/1582902) hosted by ![][flag_KO] [Sonnyc](https://osu.ppy.sh/users/11771)
+  - ![][o!s] [Cranky - Rave 2 Rave](https://osu.ppy.sh/beatmapsets/751896#osu/1582902) hosted by ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771)
   - ![][o!s] [Cranky - T&J](https://osu.ppy.sh/beatmapsets/752022#osu/1583147) hosted by ![][flag_SG] [handsome](https://osu.ppy.sh/users/2123087)
 
 ### August 2018
