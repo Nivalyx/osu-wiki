@@ -71,6 +71,15 @@ sample text
   - ![][o!s] [HyuN - Guitian](https://osu.ppy.sh/beatmapsets/891348#osu/1863256) hosted by ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308)
   - ![][o!s] [HyuN - Illusion of Inflict](https://osu.ppy.sh/beatmapsets/891366#osu/1863289) hosted by ![][flag_EE] [schoolboy](https://osu.ppy.sh/users/8722791)
   - ![][o!s] [HyuN - Infinity Heaven](https://osu.ppy.sh/beatmapsets/891345#osu/1863246) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
+  - ![][o!s] [HyuN - Legend of Genesis](https://osu.ppy.sh/beatmapsets/891356#osu/1863270) hosted by ![][flag_EE] [schoolboy](https://osu.ppy.sh/users/8722791)
+  - ![][o!s] [HyuN - White Aura](https://osu.ppy.sh/beatmapsets/891333#osu/1863201) hosted by ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
+  - ![][o!s] [HyuN - Wild Card](https://osu.ppy.sh/beatmapsets/891334#osu/1863205) hosted by ![][flag_CA] [cococolaco](https://osu.ppy.sh/users/9579526)
+  - ![][o!s] [HyuN - You'Re aRleAdY dEAd](https://osu.ppy.sh/beatmapsets/891441#osu/1863462) hosted by ![][flag_CA] [J1\_](https://osu.ppy.sh/users/5918561)
+  - ![][o!s] [HyuN & Ritoru - Apocalypse in Love](https://osu.ppy.sh/beatmapsets/891338#osu/1863228) hosted by ![][flag_RU] [PandaHero](https://osu.ppy.sh/users/1233255)
+  - ![][o!s] [HyuN feat. Ato - Asu wa Ame ga Yamukara](https://osu.ppy.sh/beatmapsets/891339#osu/1863235) hosted by ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777)
+  - ![][o!s] [HyuN feat. JeeE - Fallen Angel](https://osu.ppy.sh/beatmapsets/891335#osu/1863209) hosted by ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+  - ![][o!s] [HyuN feat. Yu-A - My life is for you](https://osu.ppy.sh/beatmapsets/891417#osu/1863412) hosted by ![][flag_RU] [NeilPerry](https://osu.ppy.sh/users/841391)
+  - ![][o!s] [HyuN feat. YURI - Disorder](https://osu.ppy.sh/beatmapsets/891632#osu/1864007) hosted by ![][flag_GR] [lcfc](https://osu.ppy.sh/users/7322726)
 
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
@@ -82,10 +91,12 @@ sample text
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
