@@ -1,6 +1,6 @@
 # Featured artist showcase beatmaps
 
-Prior to the announcement of certain [featured artists](wiki/Featured_Artists), from time to time the [Mappers' Guild](/wiki/Mappers_Guild) (through ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)) has been expeditiously offering members of the Guild who have reached Tier 1 (or higher) or have previously taken part in some particular [quests](wiki/Mappers_Guild#quests) a chance to to create exclusive "showcase beatmaps" using songs and other materials available in osu!'s backlog library. These beatmaps are due to be given a special spotlight in the corresponding announcement posts and be promoted in the [@osugame Twitter](https://twitter.com/osugame) among others, ultimately giving a wide publicity to all the beatmaps and mappers involved in the process.
+Prior to the announcement of certain [featured artists](wiki/Featured_Artists), from time to time the [Mappers' Guild](/wiki/Mappers_Guild) (through ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)) has been expeditiously offering members of the Guild who have reached Tier 1 (or higher) or have previously taken part in some particular [quests](wiki/Mappers_Guild#quests) a chance to to create exclusive "showcase beatmaps" using songs and other materials available in the artists' backlog library. These beatmaps are due to be given a special spotlight in the corresponding announcement posts and be promoted in the [@osugame Twitter](https://twitter.com/osugame) among others, ultimately giving a wide publicity to all the beatmaps and mappers involved in the process.
 
 This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
 
@@ -254,6 +254,12 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][o!t]) [kanone - CO5M1C R4ILR0AD](https://osu.ppy.sh/beatmapsets/1278500#taiko/2656061) hosted by ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 - **[Jun Kuroda](https://osu.ppy.sh/home/news/2020-12-16-new-featured-artist-jun-kuroda)** (2020-12-16)
   - (![][o!s]) [Jun Kuroda - Anokumene](https://osu.ppy.sh/beatmapsets/1324579#osu/2743594) hosted by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
+
+## History
+
+Even from its earliest days, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were created for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
+
+As the Guild began to take a [shift from closed, application-based entry to open automatic entry](wiki/Mapping_and_Modding_Timeline#march.5) however,
 
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
