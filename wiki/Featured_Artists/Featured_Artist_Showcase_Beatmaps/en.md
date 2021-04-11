@@ -180,6 +180,13 @@ sample text
 
 ### August 2020
 
+- **[ARForest](https://osu.ppy.sh/home/news/2020-08-19-new-featured-artist-arforest)** (2020-08-19)
+  - (![][o!s]) [ARForest - Aoba](https://osu.ppy.sh/beatmapsets/1131726#osu/2363943) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
+  - (![][o!s]) [ARForest - Infection](https://osu.ppy.sh/beatmapsets/1225001#osu/2559136) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
+  - (![][o!t]) [ARForest - Regret](https://osu.ppy.sh/beatmapsets/1184228#taiko/2468709) hosted by ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817)
+
+### September 2020
+
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
