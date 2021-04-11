@@ -284,7 +284,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[ovEnola](https://osu.ppy.sh/home/news/2021-02-13-new-featured-artist-ovenola)** (2021-02-13)
   - (![][o!s]) [ovEnola - Noose (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1348020#osu/2791506) hosted by ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
 - **[nora2r](https://osu.ppy.sh/home/news/2021-02-20-new-featured-artist-nora2r)** (2021-02-20)
-- (![][o!s]) [nora2r - B.B.K.K.B.K.K.](https://osu.ppy.sh/beatmapsets/1372554#osu/2837528) hosted by ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981)
+  - (![][o!s]) [nora2r - B.B.K.K.B.K.K.](https://osu.ppy.sh/beatmapsets/1372554#osu/2837528) hosted by ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981)
 
 ### March 2021
 
