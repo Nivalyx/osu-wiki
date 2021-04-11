@@ -279,14 +279,26 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][o!s]) [SECONDWALL - Beautiful Lie](https://osu.ppy.sh/beatmapsets/1337432#osu/2770501) hosted by ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280)
   - (![][o!s]) [SECONDWALL - Boku wa Boku de shika Nakute](https://osu.ppy.sh/beatmapsets/1356447#osu/2807261) hosted by ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
   - (![][o!s]) [SECONDWALL - Natsu no Owari (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1365122#osu/2823954) hosted by ![][flag_RS] [Seolv](https://osu.ppy.sh/users/8067876)
+  - (![][o!t]) [SECONDWALL - Light](https://osu.ppy.sh/beatmapsets/1318825#taiko/2732076) hosted by ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071)
+  - (![][o!c]) [SECONDWALL - Boku wa Boku de shika Nakute](https://osu.ppy.sh/beatmapsets/1334097#fruits/2763892) hosted by ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164)
+- **[ovEnola](https://osu.ppy.sh/home/news/2021-02-13-new-featured-artist-ovenola)** (2021-02-13)
+  - (![][o!s]) [ovEnola - Noose (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1348020#osu/2791506) hosted by ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)
+- **[nora2r](https://osu.ppy.sh/home/news/2021-02-20-new-featured-artist-nora2r)** (2021-02-20)
+- (![][o!s]) [nora2r - B.B.K.K.B.K.K.](https://osu.ppy.sh/beatmapsets/1372554#osu/2837528) hosted by ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981)
+
+### March 2021
+
+- **[Tanchiky](https://osu.ppy.sh/home/news/2021-03-03-new-featured-artist-tanchiky)** (2021-03-03)
+  - (![][o!s]) [Tanchiky - Bridge](https://osu.ppy.sh/beatmapsets/1378720#osu/2848898) hosted by ![][flag_CZ] [NyarkoO](https://osu.ppy.sh/users/6622567)
+  - (![][o!s]) [Tanchiky & Street - Empty flow](https://osu.ppy.sh/beatmapsets/1364215#osu/2822239) hosted by ![][flag_CZ] [NyarkoO](https://osu.ppy.sh/users/6622567)
 
 ## History
 
 Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
 
-As the Guild itself was running on a closed, application-based entry in its early days, access to upcoming featured artist contents were only restricted a handful of mappers who are predominantly of the [osu!](wiki/Game_mode/osu!) game mode for a while. However, [the Guild's shift to an open and automated entry system in early 2019](wiki/Mapping_and_Modding_Timeline#march.5) has gradually allowed more and more mappers to be able to create showcase beatmaps for future featured artists regardless of their game mode given that they have either reached Tier 1 (or higher) in [guild rank](/wiki/Mappers_Guild#rewards) or have previously taken part in some certain [guild quests](wiki/Mappers_Guild#quests).
+As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming featured artist contents were only restricted a handful of mappers who were predominantly of the [osu!](wiki/Game_mode/osu!) game mode for a while. However, [the Guild's shift to an open and automated entry system in early 2019](wiki/Mapping_and_Modding_Timeline#march.5) has gradually allowed more and more mappers to be able to create showcase beatmaps for future featured artists regardless of their game mode given that they have either reached Tier 1 (or higher) in [guild rank](/wiki/Mappers_Guild#rewards) or have previously taken part in some certain [guild quests](wiki/Mappers_Guild#quests).
 
-Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) in December 2020 onwards, new featured artist announcement posts also began to often feature a short preview video with these showcase beatmaps as their headline.
+Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) in December 2020 onwards, new featured artist announcement posts have also began to feature a short preview video with these showcase beatmaps as their headline every now and then.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
@@ -298,6 +310,7 @@ Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/n
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
