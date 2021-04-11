@@ -1,6 +1,6 @@
 # Featured artist showcase beatmaps
 
-Prior to the announcement of upcoming [featured artists](wiki/Featured_Artists), members of the [Mappers' Guild](/wiki/Mappers_Guild) who either have reached Tier 1 (or higher) in [guild rank](/wiki/Mappers_Guild#rewards) or have previously taken part in some certain [guild quests](wiki/Mappers_Guild#quests) are every so often invited to create exclusive "showcase beatmaps" using songs and other materials from osu!'s featured artist backlog that are yet to be released. When the time comes, these beatmaps will then be given a special spotlight in the corresponding featured artists' announcement posts and occasionally be promoted in the [@osugame Twitter](https://twitter.com/osugame) as well.
+Prior to the announcement of upcoming [featured artists](wiki/Featured_Artists), members of the [Mappers' Guild](/wiki/Mappers_Guild) who gave either reached Tier 1 (or higher) in [guild rank](/wiki/Mappers_Guild#rewards) or previously taken part in some certain [guild quests](wiki/Mappers_Guild#quests) are every so often invited to create exclusive "showcase beatmaps" using songs and other materials from osu!'s featured artist backlog that are yet to be released. When the time comes, these beatmaps will then be given a special spotlight in the corresponding featured artists' announcement posts and occasionally be promoted in the [@osugame Twitter](https://twitter.com/osugame) as well.
 
 This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
 
