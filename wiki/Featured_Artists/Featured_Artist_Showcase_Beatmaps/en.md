@@ -1,6 +1,6 @@
 # Featured artist showcase beatmaps
 
-Prior to the announcement of certain [featured artists](wiki/Featured_Artists), from time to time the [Mappers' Guild](/wiki/Mappers_Guild) (through ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)) has been expeditiously offering members of the Guild who have reached Tier 1 (or higher) or have previously taken part in some particular [quests](wiki/Mappers_Guild#quests) a chance to to create exclusive "showcase beatmaps" using songs and other materials available in the artists' backlog library. These beatmaps are due to be given a special spotlight in the corresponding artists' announcement posts and be promoted in the [@osugame Twitter](https://twitter.com/osugame) among others, ultimately rewarding all the beatmaps and mappers involved in the process with a wide publicity.
+Prior to the announcement of upcoming [featured artists](wiki/Featured_Artists), members of the [Mappers' Guild](/wiki/Mappers_Guild) who either have reached Tier 1 (or higher) in [rank](/wiki/Mappers_Guild#rewards) or have previously taken part in some certain [quests](wiki/Mappers_Guild#quests) are invited to create exclusive "showcase beatmaps" using songs and other materials available in the backlog library every so often. When the time comes, these beatmaps will be given a special spotlight in the corresponding featured artists' announcement posts and be promoted in the [@osugame Twitter](https://twitter.com/osugame) which will ultimately reward all the beatmaps and mappers involved in the process with a wide publicity.
 
 This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
 
@@ -259,7 +259,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
 
-As the guild was running on a closed, application-based entry in its early days, access to upcoming featured artist contents were only restricted a handful of mappers for a while . However, [shift from closed, application-based entry to open automatic entry](wiki/Mapping_and_Modding_Timeline#march.5) however,
+As the Gild itself was running on a closed, application-based entry in its early days, access to upcoming featured artist contents were only restricted a handful of mappers (many of which are of [osu!](wiki/Game_mode/osu!) game mode) for a while. However, [the Guild's shift from closed, application-based entry to open automatic entry](wiki/Mapping_and_Modding_Timeline#march.5) however,
 
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
