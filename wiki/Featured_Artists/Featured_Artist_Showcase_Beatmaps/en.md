@@ -220,8 +220,36 @@ sample text
   - (![][o!t]) [ALEPH - The Evil Spirit](https://osu.ppy.sh/beatmapsets/1034358#taiko/2162595) hosted by ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767)
 - **[Sennzai](https://osu.ppy.sh/home/news/2020-10-28-new-featured-artist-sennzai)** (2020-10-28)
   - (![][o!s]) [Blacklolita feat. Sennzai - Tears of Warrior](https://osu.ppy.sh/beatmapsets/1242059#osu/2582250) hosted by ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+- **[DUAL ALTER WORLD](https://osu.ppy.sh/home/news/2020-10-31-new-featured-artist-dual-alter-world)** (2020-10-31)
+  - (![][o!s]) [DUAL ALTER WORLD - CONSOLE1 (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1267302#osu/2633906) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
   
 ### November 2020
+
+- **[Se-U-Ra](https://osu.ppy.sh/home/news/2020-11-03-new-featured-artist-se-u-ra)** (2020-11-03)
+  - (![][o!s]) [Se-U-Ra - Qlifact -another-](https://osu.ppy.sh/beatmapsets/1224699#osu/2547134) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
+- **[glass beach](https://osu.ppy.sh/home/news/2020-11-07-new-featured-artist-glass-beach)** (2020-11-07)
+  - (![][o!s]) [glass beach - bedroom community](https://osu.ppy.sh/beatmapsets/1080104#osu/2259739) hosted by ![][flag_US] [Dashyy-](https://osu.ppy.sh/users/6513356)
+  - (![][o!s]) [glass beach - cold weather](https://osu.ppy.sh/beatmapsets/1280001#osu/2658939) hosted by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
+- **[Fuki](https://osu.ppy.sh/home/news/2020-11-11-new-featured-artist-fuki)** (2020-11-11)
+  - (![][o!s]) [Fuki - Bloody Rain](https://osu.ppy.sh/beatmapsets/1273120#osu/2645524) hosted by ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836)
+  - (![][o!s]) [Fuki - Kodomo no Youni](https://osu.ppy.sh/beatmapsets/1263862#osu/2626985) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
+- **[BLOOD CODE](https://osu.ppy.sh/home/news/2020-11-14-new-featured-artist-blood-code)** (2020-11-14)
+  - (![][o!s]) [BLOOD CODE - POP SHOVE-IT FEAT. TOFUKU](https://osu.ppy.sh/beatmapsets/1294825#osu/2686709) hosted by ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492)
+- **[Lime / Kankitsu](https://osu.ppy.sh/home/news/2020-11-18-new-featured-artist-lime-kankitsu)** (2020-11-18)
+  - (![][o!s]) [Lime - 8bit Voyager](https://osu.ppy.sh/beatmapsets/1225869#osu/2549327) hosted by ![][flag_CL] [Hazu-](https://osu.ppy.sh/users/4668230)
+  - (![][o!s]) [Lime - Renai Syndrome](https://osu.ppy.sh/beatmapsets/1295855#osu/2688677) hosted by ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970)
+  - (![][o!t]) [Lime - 8bit Adventurer](https://osu.ppy.sh/beatmapsets/1225007#taiko/2547755) hosted by ![][flag_JP] [komasy](https://osu.ppy.sh/users/1980256)
+  - (![][o!c]) [Lime - Harmony](https://osu.ppy.sh/beatmapsets/1231601#fruits/2560262) hosted by ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
+- **[I love you orchestra](https://osu.ppy.sh/home/news/2020-11-21-new-featured-artist-i-love-you-orchestra)** (2020-11-21)
+  - (![][o!s]) [I love you orchestra - Tenshin -Trigger ver.-](https://osu.ppy.sh/beatmapsets/1285271#osu/2668591) hosted by ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009)
+
+### December 2020
+
+- **[MYUKKE.](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke)** (2020-12-05)
+  - (![][o!s]) [MYUKKE. - BUNA☆SYNERGY!!!](https://osu.ppy.sh/beatmapsets/1294640#osu/2686391) hosted by ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
+- **[kanone](https://osu.ppy.sh/home/news/2020-12-12-new-featured-artist-kanone)** (2020-12-12)
+  - (![][o!s]) [kanone - Ground Z.E.R.O.](https://osu.ppy.sh/beatmapsets/1281379#osu/2661537) hosted by ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+  - (![][o!t]) [kanone - CO5M1C R4ILR0AD](https://osu.ppy.sh/beatmapsets/1278500#taiko/2656061) hosted by ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
 
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
@@ -252,4 +280,5 @@ sample text
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
