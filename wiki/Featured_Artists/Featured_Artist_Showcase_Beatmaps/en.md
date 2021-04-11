@@ -250,6 +250,8 @@ sample text
 - **[kanone](https://osu.ppy.sh/home/news/2020-12-12-new-featured-artist-kanone)** (2020-12-12)
   - (![][o!s]) [kanone - Ground Z.E.R.O.](https://osu.ppy.sh/beatmapsets/1281379#osu/2661537) hosted by ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
   - (![][o!t]) [kanone - CO5M1C R4ILR0AD](https://osu.ppy.sh/beatmapsets/1278500#taiko/2656061) hosted by ![][flag_TN] [Hivie](https://osu.ppy.sh/users/14102976)
+- **[Jun Kuroda](https://osu.ppy.sh/home/news/2020-12-16-new-featured-artist-jun-kuroda)** (2020-12-16)
+  - (![][o!s]) [Jun Kuroda - Anokumene](https://osu.ppy.sh/beatmapsets/1324579#osu/2743594) hosted by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
 
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
