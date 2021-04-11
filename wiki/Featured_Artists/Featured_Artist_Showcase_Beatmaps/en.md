@@ -59,7 +59,7 @@ sample text
   - (![][o!s]) [Camellia - First Town Of This Journey](https://osu.ppy.sh/beatmapsets/888513#osu/1857147) hosted by ![][flag_ID] [ScubDomino](https://osu.ppy.sh/users/8972308)
   - (![][o!s]) [Camellia - Quantum Entanglement](https://osu.ppy.sh/beatmapsets/584991#osu/1238045) hosted by ![][flag_CA] [Sing](https://osu.ppy.sh/users/3795679)
   - (![][o!s]) [Camellia - The King Of Lions](https://osu.ppy.sh/beatmapsets/885923#osu/1852786) hosted by ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954)
-  - !(![][o!s]) [Camellia - Welcome To The Cyphisonia](https://osu.ppy.sh/beatmapsets/887008#osu/1854283) hosted by ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+  - (![][o!s]) [Camellia - Welcome To The Cyphisonia](https://osu.ppy.sh/beatmapsets/887008#osu/1854283) hosted by ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
   - (![][o!s]) [Camellia feat. Nanahira - Hakuraku](https://osu.ppy.sh/beatmapsets/894415#osu/1869048) hosted by ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935)
   - (![][o!s]) [Camellia feat. Nanahira - Touhiron](https://osu.ppy.sh/beatmapsets/884977#osu/1863342) hosted by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
 
