@@ -1,6 +1,6 @@
 # Featured artist showcase beatmaps
 
-Ahead of certain featured artist announcement, mappers in the [Mappers' Guild](wiki/Mappers_Guild) who have attained  may be invited to create a showcase beatmap using one of the licensed songs from the artist.
+Ahead of certain featured artist announcement, mappers in the [Mappers' Guild](wiki/Mappers_Guild) who have attained Tier 1 status (or higher) may be invited to create a showcase beatmap using one of the licensed songs from the artist in advance.
 
 This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
 
