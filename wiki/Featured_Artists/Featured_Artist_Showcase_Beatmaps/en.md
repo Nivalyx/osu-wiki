@@ -1,8 +1,3 @@
----
-tags:
-  - FA
----
-
 # Featured artist showcase beatmaps
 
 sample text
@@ -187,16 +182,60 @@ sample text
 
 ### September 2020
 
+- **[Task Horizon](https://osu.ppy.sh/home/news/2020-09-02-new-featured-artist-task-horizon)** (2020-09-02)
+  - (![][o!t]) [Task Horizon - Phase Prism](https://osu.ppy.sh/beatmapsets/1195463#taiko/2490341) hosted by ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480)
+  - (![][o!t]) [Task Horizon - Weave The Strands](https://osu.ppy.sh/beatmapsets/1219062#taiko/2536306) hosted by ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817)
+  - (![][o!t]) [Task Horizon & Neonlight - Enigma Machine](https://osu.ppy.sh/beatmapsets/1165587#taiko/2443596) hosted by ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015)
+- **[Imy](https://osu.ppy.sh/home/news/2020-09-16-new-featured-artist-imy)** (2020-09-16)
+  - (![][o!s]) [Imy - Countdown](https://osu.ppy.sh/beatmapsets/1246683#osu/2591255) hosted by ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377)
+  - (![][o!s]) [Imy - Just believe](https://osu.ppy.sh/beatmapsets/1237988#osu/2573909) hosted by ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
+  - (![][o!s]) [Imy - Ray of hope](https://osu.ppy.sh/beatmapsets/1227702#osu/2552935) hosted by ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
+  - (![][o!s]) [Imy - Sylphia](https://osu.ppy.sh/beatmapsets/282291#osu/638383) hosted by ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935)
+- **[EPICA](https://osu.ppy.sh/home/news/2020-09-23-new-featured-artist-epica)** (2020-09-23)
+  - (![][o!s]) [EPICA - Beyond the Matrix](https://osu.ppy.sh/beatmapsets/1247240#osu/2592438) hosted by ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836)
+  - (![][o!s]) [EPICA - The Solace System](https://osu.ppy.sh/beatmapsets/1224868#osu/2547475) hosted by ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280)
+  - (![][o!s]) [EPICA - Universal Death Squad](https://osu.ppy.sh/beatmapsets/1262302#osu/2623756) hosted by ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+- **[kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)** (2020-09-26)
+  - (![][o!t]) [kiraku - connection](https://osu.ppy.sh/beatmapsets/1183142#taiko/2466540) hosted by ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/2204735)
+  - (![][o!t]) [kiraku - mango sago](https://osu.ppy.sh/beatmapsets/1191159#taiko/2481868) hosted by ![][flag_JP] [komasy](https://osu.ppy.sh/users/1980256)
+- **[siqlo](https://osu.ppy.sh/home/news/2020-09-30-new-featured-artist-siqlo)** (2020-09-30)
+  - (![][o!s]) [siqlo - Dirigeant Decision](https://osu.ppy.sh/beatmapsets/1240362#osu/2578746) hosted by ![][flag_RU] [PandaHero](https://osu.ppy.sh/users/1233255)
+  - (![][o!t]) [siqlo - YInMn Blue](https://osu.ppy.sh/beatmapsets/1233593#taiko/2564430) hosted by ![][flag_AR] [gaston\_2199](https://osu.ppy.sh/users/5938161)
+  - (![][o!c]) [siqlo - Me & U](https://osu.ppy.sh/beatmapsets/1225300#fruits/2548347) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+  - (![][o!c]) [siqlo - Midnight, Sunrise Sign](https://osu.ppy.sh/beatmapsets/1224186#fruits/2546205) hosted by ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276)
+
+### October 2020
+
+- **[Sable Hills](https://osu.ppy.sh/home/news/2020-10-03-new-featured-artist-sable-hills)** (2020-10-03)
+  - (![][o!t]) [Sable Hills - Juggernaut](https://osu.ppy.sh/beatmapsets/1244973#taiko/2587820) hosted by ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480)
+- **[cute girls doing cute things](https://osu.ppy.sh/home/news/2020-10-10-new-featured-artist-cute-girls-doing-cute-things)** (2020-10-10)
+  - (![][o!s]) [cute girls doing cute things - Ideal (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1248714#osu/2595382) hosted by ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)
+- **[P4koo](https://osu.ppy.sh/home/news/2020-10-14-new-featured-artist-p4koo)** (2020-10-14)
+  - (![][o!s]) [P4koo - Nick of Time](https://osu.ppy.sh/beatmapsets/1262594#osu/2624340) hosted by ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771)
+  - (![][o!s]) [P4koo - SKY HIGH (feat. rerone)](https://osu.ppy.sh/beatmapsets/1254502#osu/2607087) hosted by ![][flag_MX] [Gero](https://osu.ppy.sh/users/1467715)
+  - (![][o!c]) [P4koo - Hyperlight. (feat. Tsuyuri Karin)](https://osu.ppy.sh/beatmapsets/1255500#fruits/2609229) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+- **[ALEPH](https://osu.ppy.sh/home/news/2020-10-17-new-featured-artist-aleph)** (2020-10-17)
+  - (![][o!s]) [ALEPH - The Evil Spirit](https://osu.ppy.sh/beatmapsets/1233230#osu/2619225) hosted by ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834)
+  - (![][o!t]) [ALEPH - Scintillations](https://osu.ppy.sh/beatmapsets/1037567#taiko/2169169) hosted by ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+  - (![][o!t]) [ALEPH - The Evil Spirit](https://osu.ppy.sh/beatmapsets/1034358#taiko/2162595) hosted by ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767)
+- **[Sennzai](https://osu.ppy.sh/home/news/2020-10-28-new-featured-artist-sennzai)** (2020-10-28)
+  - (![][o!s]) [Blacklolita feat. Sennzai - Tears of Warrior](https://osu.ppy.sh/beatmapsets/1242059#osu/2582250) hosted by ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+  
+### November 2020
+
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
@@ -206,10 +245,11 @@ sample text
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
