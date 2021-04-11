@@ -1,6 +1,6 @@
 # Featured artist showcase beatmaps
 
-Prior to the announcement of certain [featured artists](wiki/Featured_Artists), the [Mappers' Guild](/wiki/Mappers_Guild) (through ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)) occassionally offers its members who are in Tier 1 or higher or are partaking in certain [quests](/wiki/Mappers_Guild#quests) a chance to create a showcase beatmap using one of the licensed songs from the corresponding unannounced [featured artists](wiki/Featured_Artists).
+Prior to the announcement of certain [featured artists](wiki/Featured_Artists), from time to time the [Mappers' Guild](/wiki/Mappers_Guild) (through ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)) offers its Tier 1 (or higher) members a chance to create a showcase beatmap using any songs that have been licensed from the corresponding unannounced [featured artists](wiki/Featured_Artists). These showcase beatmaps are due to be promoted in the , giving publicity to both the artist and the mapper themselves.
 
 This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
 
