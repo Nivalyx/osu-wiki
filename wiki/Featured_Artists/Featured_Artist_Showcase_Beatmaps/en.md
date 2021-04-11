@@ -1,6 +1,6 @@
 # Featured artist showcase beatmaps
 
-Prior to the announcement of upcoming [featured artists](wiki/Featured_Artists), members of the [Mappers' Guild](/wiki/Mappers_Guild) who either have reached Tier 1 (or higher) in [guild rank](/wiki/Mappers_Guild#rewards) or have previously taken part in some certain [guild quests](wiki/Mappers_Guild#quests) are every so often invited to create exclusive "showcase beatmaps" using songs and other materials from osu!'s featured artist backlog that are yet to be released. When the time comes, these beatmaps will then be given a special spotlight in the corresponding featured artists' announcement posts and will occasionally be promoted in the [@osugame Twitter](https://twitter.com/osugame) as well.
+Prior to the announcement of upcoming [featured artists](wiki/Featured_Artists), members of the [Mappers' Guild](/wiki/Mappers_Guild) who either have reached Tier 1 (or higher) in [guild rank](/wiki/Mappers_Guild#rewards) or have previously taken part in some certain [guild quests](wiki/Mappers_Guild#quests) are every so often invited to create exclusive "showcase beatmaps" using songs and other materials from osu!'s featured artist backlog that are yet to be released. When the time comes, these beatmaps will then be given a special spotlight in the corresponding featured artists' announcement posts and occasionally be promoted in the [@osugame Twitter](https://twitter.com/osugame) as well.
 
 This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
 
@@ -255,6 +255,31 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Jun Kuroda](https://osu.ppy.sh/home/news/2020-12-16-new-featured-artist-jun-kuroda)** (2020-12-16)
   - (![][o!s]) [Jun Kuroda - Anokumene](https://osu.ppy.sh/beatmapsets/1324579#osu/2743594) hosted by ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418)
 
+## 2021
+
+### January 2021
+
+- **[Getty](https://osu.ppy.sh/home/news/2021-01-06-new-featured-artist-getty)** (2021-01-06)
+  - (![][o!s]) [Getty vs. DJ DiA - Engage-Rex](https://osu.ppy.sh/beatmapsets/1336197#osu/2768155) hosted by ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)
+  - (![][o!c]) [Getty vs. DJ DiA - Antifront Gears](https://osu.ppy.sh/beatmapsets/1321736#fruits/2737761) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+- **[Symholic](https://osu.ppy.sh/home/news/2021-01-13-new-featured-artist-symholic)** (2021-01-13)
+  - (![][o!s]) [Symholic - Maisery](https://osu.ppy.sh/beatmapsets/1322631#osu/2739658) hosted by ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
+- **[Tiny Waves](https://osu.ppy.sh/home/news/2021-01-17-new-featured-artist-tiny-waves)** (2021-01-17)
+  - (![][o!s]) [Kabuki, MYLK - Talk 2 Me](https://osu.ppy.sh/beatmapsets/1293770#osu/2684766) hosted by ![][flag_MX] [Gero](https://osu.ppy.sh/users/1467715)
+- **[Geoxor](https://osu.ppy.sh/home/news/2021-01-23-new-featured-artist-geoxor)** (2021-01-23)
+  - (![][o!s]) [Geoxor - Stardust (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1349715#osu/2794531) hosted by ![][flag_SE] [Zer0-](https://osu.ppy.sh/users/4260033)
+- **[Dimrain47](https://osu.ppy.sh/home/news/2021-01-27-new-featured-artist-dimrain47)** (2021-01-27)
+  - (![][o!s]) [Dimrain47 - At the Speed of Light](https://osu.ppy.sh/beatmapsets/1335517#osu/2883905) hosted by ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
+
+### February 2021
+
+- **[Masahiro "Godspeed" Aoki](https://osu.ppy.sh/home/news/2021-02-03-new-featured-artist-masahiro-godspeed-aoki)** (2021-02-03)
+  - (![][o!s]) [Masahiro "Godspeed" Aoki - Blaze](https://osu.ppy.sh/beatmapsets/1323877#osu/2742170) hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805)
+- **[SECONDWALL](https://osu.ppy.sh/home/news/2021-02-06-new-featured-artist-secondwall)** (2021-02-06)
+  - (![][o!s]) [SECONDWALL - Beautiful Lie](https://osu.ppy.sh/beatmapsets/1337432#osu/2770501) hosted by ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280)
+  - (![][o!s]) [SECONDWALL - Boku wa Boku de shika Nakute](https://osu.ppy.sh/beatmapsets/1356447#osu/2807261) hosted by ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015)
+  - (![][o!s]) [SECONDWALL - Natsu no Owari (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1365122#osu/2823954) hosted by ![][flag_RS] [Seolv](https://osu.ppy.sh/users/8067876)
+
 ## History
 
 Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
@@ -291,6 +316,8 @@ Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/n
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russia"
+[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
