@@ -145,16 +145,52 @@ sample text
 
 ### May 2020
 
+- **[BLANKFIELD](https://osu.ppy.sh/home/news/2020-05-06-new-featured-artist-blankfield)** (2020-05-06)
+  - (![][o!s]) [BLANKFIELD - Falling Falls](https://osu.ppy.sh/beatmapsets/1133317#osu/2366967) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
+  - (![][o!s]) [BLANKFIELD - Retrospective City](https://osu.ppy.sh/beatmapsets/1120645#osu/2341602) hosted by ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
+- **[Disasterpeace](https://osu.ppy.sh/home/news/2020-05-13-new-featured-artist-disasterpeace)** (2020-05-13)
+  - (![][o!s]) [Disasterpeace - Wagering Lights (feat. Derris-Kharlan)](https://osu.ppy.sh/beatmapsets/1163910#osu/2440219) hosted by ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+- **[Thank You Scientist](https://osu.ppy.sh/home/news/2020-05-27-new-featured-artist-thank-you-scientist)** (2020-05-27)
+  - (![][o!s]) [Thank You Scientist - Mr. Invisible](https://osu.ppy.sh/beatmapsets/1130581#osu/2361608) hosted by ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+
+### June 2020
+
+- **[Noisia](https://osu.ppy.sh/home/news/2020-06-03-new-featured-artist-noisia)** (2020-06-03)
+  - (![][o!s]) [Noisia - Vigilantes](https://osu.ppy.sh/beatmapsets/1126238#osu/2353241) hosted by ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628)
+  - (![][o!m]) [Noisia - Running Blind](https://osu.ppy.sh/beatmapsets/1125991#mania/2352638) hosted by ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[Hyper Potions](https://osu.ppy.sh/home/news/2020-06-10-new-featured-artist-hyper-potions)** (2020-06-10)
+  - (![][o!s]) [Hyper Potions - Jungle Cruise](https://osu.ppy.sh/beatmapsets/1171007#osu/2442755) hosted by ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377)
+  - (![][o!s]) [Hyper Potions, Synthion & MYLK - Maboroshi](https://osu.ppy.sh/beatmapsets/1175718#osu/2452216) hosted by ![][flag_PL] [Peter](https://osu.ppy.sh/users/8623835)
+- **[Ne Obliviscaris](https://osu.ppy.sh/home/news/2020-06-17-new-featured-artist-ne-obliviscaris)** (2020-06-17)
+  - (![][o!s]) [Ne Obliviscaris - Eyrie](https://osu.ppy.sh/beatmapsets/1177346#osu/2455505) hosted by ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314)
+
+### July 2020
+
+- **[LEAF XCEED Music Division](https://osu.ppy.sh/home/news/2020-07-01-new-featured-artist-leaf-xceed)** (2020-07-01)
+  - (![][o!s]) [LEAF XCEED Music Division - Fur Elisa](https://osu.ppy.sh/beatmapsets/1131805#osu/2488047) hosted by ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)
+  - (![][o!s]) [LEAF XCEED Music Division - Guitar vs. Piano \[ver. XCEED\]](https://osu.ppy.sh/beatmapsets/1195288#osu/2514972) hosted by ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
+- **[Street](https://osu.ppy.sh/home/news/2020-07-08-new-featured-artist-street)** (2020-07-08)
+  - (![][o!s]) [Street - Sakura Fubuki](https://osu.ppy.sh/beatmapsets/1202610#osu/2504503) hosted by ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
+  - (![][o!c]) [Street - Sakura Fubuki](https://osu.ppy.sh/beatmapsets/1143608#fruits/2387893) hosted by ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
+- **[Numtack05](https://osu.ppy.sh/home/news/2020-07-15-new-featured-artist-numtack05)** (2020-07-15)
+  - (![][o!s]) [Numtack05 - Oshimai da ze!](https://osu.ppy.sh/beatmapsets/1001813#osu/2097099) hosted by ![][flag_US] [Arphimigon](https://osu.ppy.sh/users/5392762)
+- **[Silentroom](https://osu.ppy.sh/home/news/2020-07-29-new-featured-artist-silentroom)** (2020-07-29)
+  - (![][o!c]) [Silentroom - LASTMORN](https://osu.ppy.sh/beatmapsets/1168675#fruits/2438351) hosted by ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+  - (![][o!m]) [Silentroom - Nhelv](https://osu.ppy.sh/beatmapsets/1140163#mania/2381505) hosted by ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602)
+
+### August 2020
 
 [o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
 
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_GR]: /wiki/shared/flag/GR.gif "Greece"
@@ -163,6 +199,7 @@ sample text
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
