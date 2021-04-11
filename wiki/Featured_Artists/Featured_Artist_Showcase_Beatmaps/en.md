@@ -1,6 +1,6 @@
 # Featured artist showcase beatmaps
 
-Prior to the announcement of upcoming [featured artists](wiki/Featured_Artists), members of the [Mappers' Guild](/wiki/Mappers_Guild) who have either reached Tier 1 (or higher) in [guild rank](/wiki/Mappers_Guild#rewards) or accepted certain [limited-time mystery quests](wiki/Mappers_Guild#quests) set by the Guild are every so often invited to create exclusive "showcase beatmaps" using songs and other materials from osu!'s featured artist backlog that are yet to be released. When the time comes, these beatmaps will then be given a special spotlight in the corresponding featured artists' announcement posts and occasionally be promoted in the [@osugame Twitter](https://twitter.com/osugame) as well.
+Prior to the announcement of upcoming [featured artists](wiki/Featured_Artists), members of the [Mappers' Guild](/wiki/Mappers_Guild) who have either achieved Tier 1 (or higher) in [guild rank](/wiki/Mappers_Guild#rewards) or accepted certain [limited-time mystery quests](wiki/Mappers_Guild#quests) set by the Guild are every so often invited to create exclusive "showcase beatmaps" using songs and other materials from osu!'s featured artist backlog that are yet to be released. When the time comes, these beatmaps will be given a particular highlight in the corresponding featured artists' announcement posts and occasionally be promoted in the [@osugame Twitter](https://twitter.com/osugame) as well.
 
 This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
 
@@ -291,12 +291,34 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Tanchiky](https://osu.ppy.sh/home/news/2021-03-03-new-featured-artist-tanchiky)** (2021-03-03)
   - (![][o!s]) [Tanchiky - Bridge](https://osu.ppy.sh/beatmapsets/1378720#osu/2848898) hosted by ![][flag_CZ] [NyarkoO](https://osu.ppy.sh/users/6622567)
   - (![][o!s]) [Tanchiky & Street - Empty flow](https://osu.ppy.sh/beatmapsets/1364215#osu/2822239) hosted by ![][flag_CZ] [NyarkoO](https://osu.ppy.sh/users/6622567)
+- **[Empty Peperoncino](https://osu.ppy.sh/home/news/2021-03-06-new-featured-artist-empty-peperoncino)** (2021-03-06)
+  - (![][o!s]) [Empty Peperoncino - Ame ni Utaeba](https://osu.ppy.sh/beatmapsets/1385670#osu/2862491) hosted by ![][flag_CA] [cococolaco](https://osu.ppy.sh/users/9579526)
+  - (![][o!s]) [Empty Peperoncino - End Roll Empty Peperoncino ver. (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1361717#osu/2817599) hosted by ![][flag_CL] [Hazu-](https://osu.ppy.sh/users/4668230)
+- **[polysha](https://osu.ppy.sh/home/news/2021-03-10-new-featured-artist-polysha)** (2021-03-10)
+  - (![][o!c]) [polysha - Hypnos Metropolis](https://osu.ppy.sh/beatmapsets/1339895#fruits/2775957) hosted by ![][flag_PL] [Jemzuu](https://osu.ppy.sh/users/7890134)
+  - (![][o!s]) [polysha - TAKEMIKADUCHI](https://osu.ppy.sh/beatmapsets/1357994#mania/2810330) hosted by ![][flag_ID] [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[URBANGARDE](https://osu.ppy.sh/home/news/2021-03-20-new-featured-artist-urbangarde)** (2021-03-20)
+  - (![][o!s]) [URBANGARDE - BAERUNA](https://osu.ppy.sh/beatmapsets/1330252#osu/2756144) hosted by ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
+  - (![][o!t]) [URBANGARDE - BAERUNA](https://osu.ppy.sh/beatmapsets/1323774#taiko/2741966) hosted by ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][o!c]) [URBANGARDE - BAERUNA](https://osu.ppy.sh/beatmapsets/1340766#fruits/2777490) hosted by ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114)
+- **[Amidst](https://osu.ppy.sh/home/news/2021-03-27-new-featured-artist-amidst)** (2021-03-27)
+  - (![][o!s]) [Amidst - Digital](https://osu.ppy.sh/beatmapsets/1320499#osu/27355601) hosted by ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)
+  - (![][o!s]) [Amidst - Fate](https://osu.ppy.sh/beatmapsets/1359944#osu/2814151) hosted by ![][flag_US] [Aeril](https://osu.ppy.sh/users/4334976)
+  - (![][o!s]) [Amidst - Treat (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1345615#osu/2786730) hosted by ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)
+  - (![][o!s]) [Amidst & OHEY - Need U (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1319384#osu/2733104) hosted by ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231)
+- **[Xanthochroid](https://osu.ppy.sh/home/news/2021-03-27-new-featured-artist-amidst)** (2021-03-27)
+  - (![][o!s]) [Xanthochroid - The Sound of Hunger Rises](https://osu.ppy.sh/beatmapsets/1335143#osu/2766094) hosted by ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
+
+### April 2021
+
+- **[YUZUKINGDOM](https://osu.ppy.sh/home/news/2021-04-10-new-featured-artist-yuzukingdom)** (2021-04-10)
+  - (![][o!s]) [YUZUKINGDOM - Roskill Lavender](https://osu.ppy.sh/beatmapsets/1410727#osu/2908440) hosted by ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763)
 
 ## History
 
 Even from its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming featured artists" <!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals; in fact, the six beatmaps that were made for the [MOtOLOiD featured artist announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) were also the Guild's first ever creations. 
 
-As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming featured artist contents were only restricted a handful of mappers who were predominantly of the [osu!](wiki/Game_mode/osu!) game mode for a while. However, [the Guild's shift to an open and automated entry system in early 2019](wiki/Mapping_and_Modding_Timeline#march.5) has gradually allowed more and more mappers to be able to create showcase beatmaps for future featured artists regardless of their game mode given that they either have reached Tier 1 (or higher) in [guild rank](/wiki/Mappers_Guild#rewards) or accepted certain [limited-time mystery quests](wiki/Mappers_Guild#quests) set by the Guild prior.
+As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming featured artist contents were only restricted a handful of mappers who were predominantly of the [osu!](wiki/Game_mode/osu!) game mode for a while. However, [the Guild's shift to an open and automated entry system in early 2019](wiki/Mapping_and_Modding_Timeline#march.5) has gradually allowed more and more mappers to be able to create showcase beatmaps for future featured artists regardless of their game mode given that they either have achieved Tier 1 (or higher) in [guild rank](/wiki/Mappers_Guild#rewards) or accepted certain [limited-time mystery quests](wiki/Mappers_Guild#quests) set by the Guild prior.
 
 Starting from [MYUKKE.'s featured artist announcement](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) in December 2020 onwards, new featured artist announcement posts have also began to feature short preview videos — often with these showcase beatmaps as their main headline — every now and then.
 
