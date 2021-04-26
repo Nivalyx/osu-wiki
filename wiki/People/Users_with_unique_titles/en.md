@@ -84,7 +84,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
-¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) is currently holding the **Elite Mapper II** title for winning [/A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) and achieving the 6-points threshold in the [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest).
+¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) is currently holding the **Elite Mapper II** title for having attained the Elite Mapper title on two different occasions: winning [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) and achieving the 6-points threshold in the [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest).
 
 ### Elite Nominators
 
