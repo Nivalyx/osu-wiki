@@ -100,16 +100,17 @@ Since 2020, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)' and 
 
 The Aspire mapping contests feature a special variation of the Elite Mapper title called **Elite Mapper: Aspirant** as a prize.
 
-- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
+- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)¹
 - ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
 - ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619)
 - ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792)
 - ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267)
-- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)²
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) received this title after already having an Elite Mapper title, so it was "upgraded" to **Elite Mapper II: Aspirant**. ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) is currently using the **osu!catch Champion** title instead.
+¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) is currently using the  **Elite Mapper II: Aspirant** title for.
+² ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) is currently using the **osu!catch Champion** title instead.
 
 ### osu!remix contest winners
 
