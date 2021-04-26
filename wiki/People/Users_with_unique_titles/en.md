@@ -109,8 +109,7 @@ The Aspire mapping contests feature a special variation of the Elite Mapper titl
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)²
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) is currently using the  **Elite Mapper II: Aspirant** title for.
-
+¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) is currently using the  **Elite Mapper II: Aspirant** title for having winning both the aiodfjsiojfas and adjioasdjoa.
 ² ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) is currently using the **osu!catch Champion** title instead.
 
 ### osu!remix contest winners
