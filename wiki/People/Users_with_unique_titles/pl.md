@@ -1,4 +1,5 @@
 ---
+outdated: true
 no_native_review: true
 ---
 
@@ -277,7 +278,7 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
 | ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824) | osu!mania Champion |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Mapper II |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Nominator II |
 | ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
 | ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
 | ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | Elite Mapper |
