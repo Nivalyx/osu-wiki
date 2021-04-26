@@ -84,7 +84,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
-¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) is currently holding the **Elite Mapper II** title for having attained the Elite Mapper title on two different occasions: winning [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) and achieving the 6-points threshold in the [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest).
+¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) is currently holding the **Elite Mapper II** title for attaining the Elite Mapper title by two different means: Winning the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest and surpassing the 6-points threshold in the [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest).
 
 ### Elite Nominators
 
@@ -111,7 +111,7 @@ The Aspire mapping contests feature a special variation of the Elite Mapper titl
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)²
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) is currently holding the  **Elite Mapper II: Aspirant** title for having won both the aiodfjsiojfas and adjioasdjoa.
+¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) is currently holding the **Elite Mapper II : Aspirant** title for attaining the Elite Mapper title by two different means: for having won both the aiodfjsiojfas and adjioasdjoa.
 ² ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) is currently holding the **osu!catch Champion** title instead.
 
 ### osu!remix contest winners
