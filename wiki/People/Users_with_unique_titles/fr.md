@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Utilisateurs ayant des titres uniques
 
 Les titres utilisateurs sont généralement associés avec des [groupes d'utilisateurs](/wiki/People/The_Team#user-groups), mais les utilisateurs listés ci-dessous ont reçu leurs titres pour d'autres raisons. La plupart de ces titres sont des récompenses pour des contributions remarquables ou l'accomplissement de succès uniques, le reste étant des preuves de l'histoire iconique d'osu!.
@@ -280,7 +284,7 @@ Ces joueurs ont gagnés leurs titres à travers des prouesses exceptionnelles, o
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
 | ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824) | osu!mania Champion |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Mapper II |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Nominator II |
 | ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
 | ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
 | ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | Elite Mapper |
