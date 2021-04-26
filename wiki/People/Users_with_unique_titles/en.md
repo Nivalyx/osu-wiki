@@ -112,6 +112,7 @@ The Aspire mapping contests feature a special variation of the Elite Mapper titl
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
 ¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) is currently holding the **Elite Mapper II : Aspirant** title for winning both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [2016 Aspire Beatmapping Contest](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
+
 ² Although eligible for the Elite Mapper : Aspirant title, ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) opted to use the **osu!catch Champion** title instead.
 
 ### osu!remix contest winners
