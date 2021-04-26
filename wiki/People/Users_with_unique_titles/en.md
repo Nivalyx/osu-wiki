@@ -91,12 +91,13 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 Since 2020, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)' and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members' activity in supporting the ranking system has been rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and is removed upon the user leaving the team.
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
-- ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
-- ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
-- ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
-- ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)
-- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
+- ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
+- ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)¹
+- ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)¹
+- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)¹
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
+
+¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) were all awarded with the **Elite Nominator II** title instead for having 
 
 ### Aspire mapping contest winners
 
@@ -122,7 +123,7 @@ The osu!remix contests award the **osu!mixer** title as a first-place prize.
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
 
-¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471 was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest.
+¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest.
 
 ### Featured Artists
 
@@ -295,7 +296,6 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | Elite Mapper |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Elite Mapper II |
-| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Elite Nominator |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
