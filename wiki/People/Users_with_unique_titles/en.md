@@ -84,7 +84,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
-¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) was awarded with the **Elite Mapper II** title for having successfully earned the Elite Mapper title through two different means: Winning the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest and surpassing the required 6-points threshold in the new [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest) system.
+¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) was awarded with the **Elite Mapper II** title instead for having successfully earned the Elite Mapper title through two different means: Winning the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest and surpassing the required 6-points threshold in the new [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest) system.
 
 ### Elite Nominators
 
@@ -97,7 +97,7 @@ Since 2020, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)' and 
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)¹
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
 
-¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) were all awarded with the **Elite Nominator II** title for having 
+¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) were all awarded with the **Elite Nominator II** title instead for having been selected as Elite Nominator two years in a row.
 
 ### Aspire mapping contest winners
 
@@ -112,7 +112,7 @@ The Aspire mapping contests feature a special variation of the Elite Mapper titl
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)²
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) was awarded with the **Elite Mapper II : Aspirant** title for having won both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [2016 Aspire Beatmapping Contest](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
+¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) was awarded with the **Elite Mapper II : Aspirant** title instead for having won both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [2016 Aspire Beatmapping Contest](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
 
 ² ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) is currently using the **osu!catch Champion** title instead at his request.
 
@@ -123,7 +123,7 @@ The osu!remix contests award the **osu!mixer** title as a first-place prize.
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
 
-¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) was awarded with the **osu!mixer II** title for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest.
+¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest.
 
 ### Featured Artists
 
