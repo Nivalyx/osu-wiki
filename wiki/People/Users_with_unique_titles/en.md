@@ -122,7 +122,7 @@ The osu!remix contests award the **osu!mixer** title as a first-place prize.
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
 
-¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) is currently holding the **Elite Mapper II : Aspirant** title for winning both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest.
+¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) is currently holding the **Elite Mapper II : Aspirant** title for winning both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) contest.
 
 ### Featured Artists
 
