@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Usuários com títulos únicos
 
 Títulos de usuário são tipicalmente associados com [grupos de usuário](/wiki/People/The_Team#grupos-de-usuário), mas os usuários listados abaixo receberam os seus títulos por outras razões. A maior parte dos títulos foram recompensas por contribuições ou conquistas, com o restante sendo tokens de momentos icônicos ou esgraçados da história do osu!
@@ -279,7 +283,7 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
 | ![][flag_BR] [Kyut](https://osu.ppy.sh/users/9328824) | osu!mania Champion |
-| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Mapper II |
+| ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Elite Nominator II |
 | ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | Elite Mapper |
 | ![][flag_TW] [Licnect](https://osu.ppy.sh/users/352804) | Elite Mapper |
 | ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197) | Elite Mapper |
