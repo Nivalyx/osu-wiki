@@ -40,7 +40,9 @@ Due to its versatility, this snap divisor is extremely popular among mappers and
 
 ## 1/5 snap divisor
 
-The 1/4 snap divisor allows for hit objects to be placed on every fifth fraction of a beat and its multiples (e.g. 1/5, 2/5, 3/5, and 4/5). It is being represented by the blue-coloured ticks in the editor timeline.
+The 1/5 snap divisor allows for hit objects to be placed on every fifth fraction of a beat and its multiples (e.g. 1/5, 2/5, 3/5, and 4/5). It is being represented by the yellow-coloured ticks in the editor timeline.
+
+This snap divisor is extremely uncommon and should be used with extreme care; in case you find yourself using 1/5 snap divisor and you're being unsure of it, it is recommended to seek advice from experienced mappers.
 
 ### Divisor 1/6
 
