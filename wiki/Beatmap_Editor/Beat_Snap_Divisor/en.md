@@ -62,7 +62,7 @@ Although relatively rare, there are some songs and music genres out there (e.g. 
 
 ## 1/7 snap divisor
 
-![1/7 snap divisor in the osu!/osu!taiko/osu!catch editor](/wiki/shared/BSD_1_7.jpg "1/7 snap divisor in the osu!/osu!taiko/osu!catch editor")
+![1/7 snap divisor in the osu!/osu!taiko/osu!catch editor](img/1_7_snap_divisor.png "1/7 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
 ![1/7 snap divisor in the osu!mania editor](/wiki/shared/1_7_m.jpg "1/7 snap divisor in the osu!mania editor")
 
