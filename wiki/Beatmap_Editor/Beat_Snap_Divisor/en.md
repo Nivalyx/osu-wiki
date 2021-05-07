@@ -1,5 +1,7 @@
 # Beat snap divisor
 
+![1/1 snap divisor in the osu!/osu!taiko/osu!catch editor](/img/beat_snap_divisor.png "1/1 snap divisor in the osu!/osu!taiko/osu!catch editor")
+
 The **Beat Snap Divisor** is a built-in editor functionality that ensures every [hit objects](/wiki/Hit_Object) are placed proportionally to the song's beats. It can be found in the upper-right portion of the editor screen, where it corresponds to the granularity of the objects on the [editor timeline](/wiki/Beatmap_Editor/Timelines); that is, a denser Beat Snap Divisor setting allows for more notes can be placed in the same measure and vice versa. 
 
 The osu! editor supports eleven different Beat Snap Divisor settings as follows:
@@ -10,11 +12,11 @@ The osu! editor supports eleven different Beat Snap Divisor settings as follows:
 
 ![1/1 snap divisor in the osu!mania editor](/wiki/shared/1_1_m.jpg "1/1 snap divisor in the osu!mania editor")
 
-- Full Beats
-- White ticks only
-- Best used for Easy difficulty
+The 1/1 snap divisor allows for hit objects to be placed on every song's *full beats*. It is being represented by the white-coloured ticks in the editor timeline.
 
-### Divisor 1/2
+Due to its simplicity, this snap divisor is most commonly used while mapping Easy difficulties.
+
+## Divisor 1/2
 
 ![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
 
