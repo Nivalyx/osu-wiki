@@ -1,8 +1,6 @@
 # Beat snap divisor
 
-The **Beat Snap Divisor** is a built-in editor functionality that ensures every [hit objects](/wiki/Hit_Object) are placed proportionally to the song's beats. It can be found in the upper-right portion of the editor screen, where corresponds the granularity of the objects; that is, a denser Beat Snap Divisor setting allows for more notes can be placed in the same measure and vice versa.
-
-Each of the settings put different colours of ticks on the [editor timeline](/wiki/Beatmap_Editor/Timelines). 
+The **Beat Snap Divisor** is a built-in editor functionality that ensures every [hit objects](/wiki/Hit_Object) are placed proportionally to the song's beats. It can be found in the upper-right portion of the editor screen, where it corresponds to the granularity of the objects on the [editor timeline](/wiki/Beatmap_Editor/Timelines); that is, a denser Beat Snap Divisor setting allows for more notes can be placed in the same measure and vice versa. 
 
 The ticks are as follows (for [Standard](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), and [osu!catch](/wiki/Game_mode/osu!catch)):
 
