@@ -46,6 +46,10 @@ Due to its versatility, this snap divisor is extremely popular among mappers and
 
 ## 1/5 snap divisor
 
+![1/5 snap divisor in the osu!/osu!taiko/osu!catch editor](img/1_5_snap_divisor.png "1/5 snap divisor in the osu!/osu!taiko/osu!catch editor")
+
+![1/5 snap divisor in the osu!mania editor](img/1_5_snap_divisor_m.png "1/5 snap divisor in the osu!mania editor")
+
 The 1/5 snap divisor allows for hit objects to be placed on the fifth fraction of a beat and its multiples (e.g. 1/5, 2/5, 3/5, and 4/5). It is being represented by the yellow-coloured ticks on the editor timeline.
 
 This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/5 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
@@ -80,13 +84,17 @@ The 1/8 snap divisor allows for hit objects to be placed on the eighth fraction 
 
 ## 1/9 snap divisor
 
+![1/9 snap divisor in the osu!/osu!taiko/osu!catch editor](img/1_9_snap_divisor.png "1/9 snap divisor in the osu!/osu!taiko/osu!catch editor")
+
+![1/9 snap divisor in the osu!mania editor](/wiki/shared/1_9_m.jpg "1/9 snap divisor in the osu!mania editor")
+
 The 1/9 snap divisor allows for hit objects to be placed on the ninth fraction of a beat and its multiples (e.g. 1/9, 2/9, 3/9, and so on). It is being represented by the yellow-coloured ticks on the editor timeline.
 
 This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/9 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
 
 ## 1/12 snap divisor
 
-![Divisor 1/12](/wiki/shared/1_12.jpg "Divisor 1/12")
+![1/12 snap divisor in the osu!/osu!taiko/osu!catch editor](img/1_12_snap_divisor.png "1/12 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
 ![1/12 snap divisor in the osu!mania editor](/wiki/shared/1_12_m.jpg "1/12 snap divisor in the osu!mania editor")
 
@@ -95,6 +103,8 @@ The 1/12 snap divisor allows for hit objects to be placed on the twelfth fractio
 This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/12 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
 
 ## 1/16 snap divisor
+
+![1/16 snap divisor in the osu!/osu!taiko/osu!catch editor](img/1_16_snap_divisor.png "1/16 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
 ![1/16 snap divisor in the osu!mania editor](/wiki/shared/1_16_m.jpg "1/16 snap divisor in the osu!mania editor")
 
