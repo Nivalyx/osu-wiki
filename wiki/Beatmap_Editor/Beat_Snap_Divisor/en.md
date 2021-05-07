@@ -42,7 +42,7 @@ Due to its versatility, this snap divisor is extremely popular among mappers and
 
 The 1/5 snap divisor allows for hit objects to be placed on every fifth fraction of a beat and its multiples (e.g. 1/5, 2/5, 3/5, and 4/5). It is being represented by the yellow-coloured ticks in the editor timeline.
 
-This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/5 snap divisor on your map while being uncertain about whether its usage is proper or not, it is recommended for you to seek further advice from experienced mappers.
+This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/5 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
 
 ### Divisor 1/6
 
