@@ -16,27 +16,27 @@ The 1/1 snap divisor allows for hit objects to be placed on every *full beats*. 
 
 Due to its simplicity and ease of use, this snap divisor is most commonly used while mapping Easy difficulties.
 
-## Divisor 1/2
+## 1/2 snap divisor
 
 ![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
 
 The 1/2 snap divisor allows for hit objects to be placed on every *half beats* and its multiples (e.g. 1/2). It is being represented by the red-coloured ticks in the editor timeline.
 
-### Divisor 1/3
+## 1/3 snap divisor
 
 ![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
 
-The 1/3 snap divisor allows for hit objects to be placed in *triplets*, which is the third fraction of a beat and its multiples (e.g. 1/3 and 2/3). It is being represented by the purple-coloured ticks in the editor timeline.
+The 1/3 snap divisor allows for hit objects to be placed on *triplets*, which is the third fraction of a beat and its multiples (e.g. 1/3 and 2/3). It is being represented by the purple-coloured ticks in the editor timeline.
 
 Although not common, some music genres (e.g. swing jazz) often exhibits a heavy use of 1/3 snap divisor.
 
-### Divisor 1/4
+## 1/4 snap divisor
 
 ![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
 
-- Quarter Beats
-- Adds blue ticks, in addition to the red ticks
-- Useful for general mapping
+The 1/4 snap divisor allows for hit objects to be placed on every *quarter beats*, which is the fourth fraction of a beat and its multiples (e.g. 1/4 and 3/4). It is being represented by the blue-coloured ticks in the editor timeline.
+
+This snap divisor is the one that is most commonly used for general mapping and is the default setting upon importing a new song to the editor.
 
 ### Divisor 1/6
 
