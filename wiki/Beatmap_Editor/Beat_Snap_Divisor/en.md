@@ -52,7 +52,7 @@ Due to its versatility, this snap divisor is extremely popular among mappers and
 
 The 1/5 snap divisor allows for hit objects to be placed on the fifth fraction of a beat and its multiples (e.g. 1/5, 2/5, 3/5, and 4/5). It is being represented by the yellow-coloured ticks on the editor timeline.
 
-This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/5 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
+This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/5 snap divisor out of the blue, it is recommended for you to seek further advice from experienced mappers.
 
 ## 1/6 snap divisor
 
@@ -72,7 +72,7 @@ Although relatively rare, there are some songs and music genres out there (e.g. 
 
 The 1/7 snap divisor allows for hit objects to be placed on the seventh fraction of a beat and its multiples (e.g. 1/7, 2/7, 3/7, and so on). It is being represented by the yellow-coloured ticks on the editor timeline.
 
-This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/7 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
+This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/7 snap divisor out of the blue, it is recommended for you to seek further advice from experienced mappers.
 
 ## 1/8 snap divisor
 
@@ -90,7 +90,7 @@ The 1/8 snap divisor allows for hit objects to be placed on the eighth fraction 
 
 The 1/9 snap divisor allows for hit objects to be placed on the ninth fraction of a beat and its multiples (e.g. 1/9, 2/9, 3/9, and so on). It is being represented by the yellow-coloured ticks on the editor timeline.
 
-This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/9 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
+This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/9 snap divisor out of the blue, it is recommended for you to seek further advice from experienced mappers.
 
 ## 1/12 snap divisor
 
@@ -100,7 +100,7 @@ This snap divisor is extremely uncommon out there and should be used with extrem
 
 The 1/12 snap divisor allows for hit objects to be placed on the twelfth fraction of a beat and its multiples (e.g. 1/12, 5/12, 7/12, and so on). It is being represented by the grey-coloured ticks on the editor timeline.
 
-This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/12 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
+This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/12 snap divisor out of the blue, it is recommended for you to seek further advice from experienced mappers.
 
 ## 1/16 snap divisor
 
@@ -110,4 +110,4 @@ This snap divisor is extremely uncommon out there and should be used with extrem
 
 The 1/16 snap divisor allows for hit objects to be placed on the sixteenth fraction of a beat and its multiples (e.g. 1/16, 3/16, 5/16m and so on). It is being represented by the grey-coloured ticks on the editor timeline.
 
-This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/16 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
+This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/16 snap divisor out of the blue, it is recommended for you to seek further advice from experienced mappers.
