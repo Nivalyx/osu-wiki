@@ -8,7 +8,7 @@ The osu! editor supports eleven different Beat Snap Divisor settings as follows:
 
 ## 1/1 snap divisor
 
-![1/1 snap divisor in the osu!/osu!taiko/osu!catch editor](/wiki/shared/BSD_1_1b.jpg "1/1 snap divisor in the osu!/osu!taiko/osu!catch editor)
+![1/1 snap divisor in the osu!/osu!taiko/osu!catch editor](/wiki/shared/BSD_1_1b.jpg "1/1 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
 ![1/1 snap divisor in the osu!mania editor](/wiki/shared/1_1_m.jpg "1/1 snap divisor in the osu!mania editor")
 
@@ -26,7 +26,9 @@ The 1/2 snap divisor allows for hit objects to be placed on every *half beats* a
 
 ## 1/3 snap divisor
 
-![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
+![1/3 snap divisor in the osu!/osu!taiko/osu!catch editor](/wiki/shared/BSD_1_3.jpg "1/3 snap divisor in the osu!/osu!taiko/osu!catch editor")
+
+![1/3 snap divisor in the osu!mania editor](/wiki/shared/1_3_m.jpg "1/3 snap divisor in the osu!mania editor")
 
 The 1/3 snap divisor allows for hit objects to be placed on *triplets*, which is the third fraction of a beat and its multiples (e.g. 1/3 and 2/3). It is being represented by the purple-coloured ticks on the editor timeline.
 
@@ -34,11 +36,13 @@ Although relatively rare, there are some songs and music genres out there (e.g. 
 
 ## 1/4 snap divisor
 
-![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
+![1/4 snap divisor in the osu!/osu!taiko/osu!catch editor](/wiki/shared/BSD_1_4.jpg "1/4 snap divisor in the osu!/osu!taiko/osu!catch editor")
+
+![1/4 snap divisor in the osu!mania editor](/wiki/shared/1_4_m.jpg "1/4 snap divisor in the osu!mania editor")
 
 The 1/4 snap divisor allows for hit objects to be placed on every *quarter beats*, which is the fourth fraction of a beat and its multiples (e.g. 1/4 and 3/4). It is being represented by the blue-coloured ticks on the editor timeline.
 
-Due to its versatility, this snap divisor is extremely popular among mappers and is frequently used in all sorts of maps in general. It is also the default setting given by the editor upon importing a new audio file.
+Due to its versatility, this snap divisor is extremely popular among mappers and is frequently used in all sorts of maps in general. It is also the default setting that is being designated by the editor upon importing a new audio file.
 
 ## 1/5 snap divisor
 
@@ -48,15 +52,29 @@ This snap divisor is extremely uncommon out there and should be used with extrem
 
 ## 1/6 snap divisor
 
-![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
+![1/6 snap divisor in the osu!/osu!taiko/osu!catch editor](/wiki/shared/BSD_1_6.jpg "1/6 snap divisor in the osu!/osu!taiko/osu!catch editor")
+
+![1/6 snap divisor in the osu!mania editor](/wiki/shared/1_6_m.jpg "1/6 snap divisor in the osu!mania editor")
 
 The 1/6 snap divisor allows for hit objects to be placed on *double triplets*, which is the sixth fraction of a beat and its multiples (e.g. 1/6 and 5/6). It is being represented by the purple-coloured ticks on the editor timeline.
 
-Although relatively rare, there are some songs and music genres out there (e.g. swing jazz) that are being built assembled on the 1/3 snap divisor.
+Although relatively rare, there are some songs and music genres out there (e.g. swing jazz) that are being assembled primarily on the 1/3 snap divisor.
+
+## 1/7 snap divisor
+
+![1/6 snap divisor in the osu!/osu!taiko/osu!catch editor](/wiki/shared/BSD_1_7.jpg "1/6 snap divisor in the osu!/osu!taiko/osu!catch editor")
+
+![1/6 snap divisor in the osu!mania editor](/wiki/shared/1_7_m.jpg "1/6 snap divisor in the osu!mania editor")
+
+The 1/7 snap divisor allows for hit objects to be placed on the seventh fraction of a beat and its multiples (e.g. 1/7, 2/7, 3/7, and so on). It is being represented by the yellow-coloured ticks on the editor timeline.
+
+This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/7 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
 
 ## 1/8 snap divisor
 
 ![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
+
+![Divisor 1/8](/wiki/shared/1_8_m.jpg "Divisor 1/8")
 
 The 1/8 snap divisor allows for hit objects to be placed on the eighth fraction of a beat and its multiples (e.g. 1/8, 3/8, 5/8, and 7/8). It is being represented by the yellow-coloured ticks on the editor timeline.
 
@@ -68,62 +86,18 @@ This snap divisor is extremely uncommon out there and should be used with extrem
 
 ## 1/12 snap divisor
 
+![Divisor 1/12](/wiki/shared/1_12.jpg "Divisor 1/12")
+
+![Divisor 1/12](/wiki/shared/1_12_m.jpg "Divisor 1/12")
+
 The 1/12 snap divisor allows for hit objects to be placed on the twelfth fraction of a beat and its multiples (e.g. 1/12, 5/12, 7/12, and so on). It is being represented by the grey-coloured ticks on the editor timeline.
 
 This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/12 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
 
 ## 1/16 snap divisor
 
+![Divisor 1/16](/wiki/shared/1_16_m.jpg "Divisor 1/16")
+
 The 1/16 snap divisor allows for hit objects to be placed on the sixteenth fraction of a beat and its multiples (e.g. 1/16, 3/16, 5/16m and so on). It is being represented by the grey-coloured ticks on the editor timeline.
 
 This snap divisor is extremely uncommon out there and should be used with extreme care; in case you find yourself resorting to 1/16 snap divisor on your map out of the blue, it is recommended for you to seek further advice from experienced mappers.
-
-### Divisor 1/2
-
-
-
-- Half Beats
-- Adds red ticks
-
-### Divisor 1/3
-
-![Divisor 1/3](/wiki/shared/1_3_m.jpg "Divisor 1/3")
-
-- Triplets
-- Has two purple ticks between each white tick
-- Compound Timing
-
-### Divisor 1/4
-
-![Divisor 1/4](/wiki/shared/1_4_m.jpg "Divisor 1/4")
-
-- Quarter Beats
-- Adds blue ticks, in addition to the red ticks
-- Useful for general mapping
-
-### Divisor 1/6
-
-![Divisor 1/6](/wiki/shared/1_6_m.jpg "Divisor 1/6")
-
-- Double Triplets
-- Has two purple ticks between each red tick
-- Compound timing
-
-### Divisor 1/8
-
-![Divisor 1/8](/wiki/shared/1_8_m.jpg "Divisor 1/8")
-
-- Eighth Beats
-- Adds yellow ticks, in addition to the red and blue
-
-### Divisor 1/12
-
-![Divisor 1/12](/wiki/shared/1_12_m.jpg "Divisor 1/12")
-
-- Twelveth Beats
-
-### Divisor 1/16
-
-![Divisor 1/16](/wiki/shared/1_16_m.jpg "Divisor 1/16")
-
-- Sixteenth Beats
