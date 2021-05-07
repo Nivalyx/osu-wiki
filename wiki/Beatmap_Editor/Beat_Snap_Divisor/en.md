@@ -8,28 +8,27 @@ The osu! editor supports eleven different Beat Snap Divisor settings as follows:
 
 ## 1/1 snap divisor
 
-![1/1 snap divisor in the osu!/osu!taiko/osu!catch editor](/wiki/shared/BSD_1_1b.jpg "1/1 snap divisor in the osu!/osu!taiko/osu!catch editor")
+![1/1 snap divisor in the osu!/osu!taiko/osu!catch editor's timeline](/wiki/shared/BSD_1_1b.jpg "1/1 snap divisor in the osu!/osu!taiko/osu!catch editor's timeline")
 
-![1/1 snap divisor in the osu!mania editor](/wiki/shared/1_1_m.jpg "1/1 snap divisor in the osu!mania editor")
+![1/1 snap divisor in the osu!mania editor's timeline](/wiki/shared/1_1_m.jpg "1/1 snap divisor in the osu!mania editor's timeline")
 
-The 1/1 snap divisor allows for hit objects to be placed on every song's *full beats*. It is being represented by the white-coloured ticks in the editor timeline.
+The 1/1 snap divisor allows for hit objects to be placed on every *full beats*. It is being represented by the white-coloured ticks in the editor timeline.
 
-Due to its simplicity, this snap divisor is most commonly used while mapping Easy difficulties.
+Due to its simplicity and ease of use, this snap divisor is most commonly used while mapping Easy difficulties.
 
 ## Divisor 1/2
 
 ![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
 
-- Half Beats
-- Adds red ticks
+The 1/2 snap divisor allows for hit objects to be placed on every *half beats* (1/2) and its multiples. It is being represented by the red-coloured ticks in the editor timeline.
 
 ### Divisor 1/3
 
 ![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
 
-- Triplets*
-- Has two purple ticks between each white tick
-- Compound timing
+The 1/2 snap divisor allows for hit objects to be placed on every *triplets*, which is the third fractions of a beat and its multiples (e.g. 1/3 and 2/3). It is being represented by the purple-coloured ticks in the editor timeline.
+
+
 
 ### Divisor 1/4
 
