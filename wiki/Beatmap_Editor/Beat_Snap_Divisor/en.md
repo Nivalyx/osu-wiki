@@ -62,9 +62,9 @@ Although relatively rare, there are some songs and music genres out there (e.g. 
 
 ## 1/7 snap divisor
 
-![1/6 snap divisor in the osu!/osu!taiko/osu!catch editor](/wiki/shared/BSD_1_7.jpg "1/6 snap divisor in the osu!/osu!taiko/osu!catch editor")
+![1/7 snap divisor in the osu!/osu!taiko/osu!catch editor](/wiki/shared/BSD_1_7.jpg "1/7 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-![1/6 snap divisor in the osu!mania editor](/wiki/shared/1_7_m.jpg "1/6 snap divisor in the osu!mania editor")
+![1/7 snap divisor in the osu!mania editor](/wiki/shared/1_7_m.jpg "1/7 snap divisor in the osu!mania editor")
 
 The 1/7 snap divisor allows for hit objects to be placed on the seventh fraction of a beat and its multiples (e.g. 1/7, 2/7, 3/7, and so on). It is being represented by the yellow-coloured ticks on the editor timeline.
 
@@ -72,9 +72,9 @@ This snap divisor is extremely uncommon out there and should be used with extrem
 
 ## 1/8 snap divisor
 
-![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
+![1/8 snap divisor in the osu!/osu!taiko/osu!catch editor](/wiki/shared/BSD_1_8.jpg "1/8 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-![Divisor 1/8](/wiki/shared/1_8_m.jpg "Divisor 1/8")
+![1/8 snap divisor in the osu!mania editor](/wiki/shared/1_8_m.jpg "1/8 snap divisor in the osu!mania editor")
 
 The 1/8 snap divisor allows for hit objects to be placed on the eighth fraction of a beat and its multiples (e.g. 1/8, 3/8, 5/8, and 7/8). It is being represented by the yellow-coloured ticks on the editor timeline.
 
@@ -88,7 +88,7 @@ This snap divisor is extremely uncommon out there and should be used with extrem
 
 ![Divisor 1/12](/wiki/shared/1_12.jpg "Divisor 1/12")
 
-![Divisor 1/12](/wiki/shared/1_12_m.jpg "Divisor 1/12")
+![1/12 snap divisor in the osu!mania editor](/wiki/shared/1_12_m.jpg "1/12 snap divisor in the osu!mania editor")
 
 The 1/12 snap divisor allows for hit objects to be placed on the twelfth fraction of a beat and its multiples (e.g. 1/12, 5/12, 7/12, and so on). It is being represented by the grey-coloured ticks on the editor timeline.
 
@@ -96,7 +96,7 @@ This snap divisor is extremely uncommon out there and should be used with extrem
 
 ## 1/16 snap divisor
 
-![Divisor 1/16](/wiki/shared/1_16_m.jpg "Divisor 1/16")
+![1/16 snap divisor in the osu!mania editor](/wiki/shared/1_16_m.jpg "1/16 snap divisor in the osu!mania editor")
 
 The 1/16 snap divisor allows for hit objects to be placed on the sixteenth fraction of a beat and its multiples (e.g. 1/16, 3/16, 5/16m and so on). It is being represented by the grey-coloured ticks on the editor timeline.
 
