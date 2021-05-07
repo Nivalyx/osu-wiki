@@ -1,4 +1,4 @@
-# Beat snap divisor
+# Beat Snap Divisor
 
 ![Beat Snap Divisor in the editor](img/beat_snap_divisor.png)
 
