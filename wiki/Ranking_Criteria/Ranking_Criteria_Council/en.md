@@ -12,7 +12,7 @@ Members of the Ranking Criteria Council were hand-picked to represent different 
 
 ### osu! members
 
-- [Charles445](https://osu.ppy.sh/users/85000) (American mappers)
+- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) (American mappers)
 - *(vacant)* (American players)
 - [Cherry Blossom](https://osu.ppy.sh/users/1156742) (European mappers)
 - [Doomsday](https://osu.ppy.sh/users/18983) (European players)
@@ -160,3 +160,5 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 - [Haskorion](https://osu.ppy.sh/users/3252321)
 - [Noffy](https://osu.ppy.sh/users/1541323)
 - [Wafu](https://osu.ppy.sh/users/888955)
+
+[flag_US]: /wiki/shared/flag/US.gif "United States"
