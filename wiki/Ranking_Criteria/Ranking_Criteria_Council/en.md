@@ -14,12 +14,12 @@ Members of the Ranking Criteria Council were hand-picked to represent different 
 
 - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) (American mappers)
 - *(vacant)* (American players)
-- [Cherry Blossom](https://osu.ppy.sh/users/1156742) (European mappers)
-- [Doomsday](https://osu.ppy.sh/users/18983) (European players)
+- ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) (European mappers)
+- ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) (European players)
 - *(vacant)* (Asian mappers)
-- [Frostmourne](https://osu.ppy.sh/users/199669) (Asian players)
-- [Garven](https://osu.ppy.sh/users/244216) (QAT)
-- [Mao](https://osu.ppy.sh/users/2204515) (QAT)
+- ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) (Asian players)
+- ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) (QAT)
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) (QAT)
 
 ### osu!taiko members
 
@@ -161,5 +161,8 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 - [Noffy](https://osu.ppy.sh/users/1541323)
 - [Wafu](https://osu.ppy.sh/users/888955)
 
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
