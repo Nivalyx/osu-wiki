@@ -66,113 +66,121 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### osu! members
 
-- [pishifat](https://osu.ppy.sh/users/3178418) (Organizer)
-- [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
-- [Monstrata](https://osu.ppy.sh/users/2706438)
-- [Zexous](https://osu.ppy.sh/users/1715876)
-- [hehe](https://osu.ppy.sh/users/2123087)
-- [Doyak](https://osu.ppy.sh/users/2046893)
-- [Myxo](https://osu.ppy.sh/users/2202645)
-- [Wafu](https://osu.ppy.sh/users/888955)
-- [Mir](https://osu.ppy.sh/users/8688812)
-- [-Mo-](https://osu.ppy.sh/users/2202163)
-- [Naxess](https://osu.ppy.sh/users/8129817)
-- [Plaudible](https://osu.ppy.sh/users/7149815)
-- [Shiirn](https://osu.ppy.sh/users/465126)
+- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Organizer)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
+- ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
+- ![][flag_US] [Zexous](https://osu.ppy.sh/users/1715876)
+- ![][flag_SG] [hehe](https://osu.ppy.sh/users/2123087)
+- ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893)
+- ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645)
+- ![][flag_CZ] [Wafu](https://osu.ppy.sh/users/888955)
+- ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812)
+- ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163)
+- ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817)
+- ![][flag_US] [Plaudible](https://osu.ppy.sh/users/7149815)
+- ![][flag_US] [Shiirn](https://osu.ppy.sh/users/465126)
 
 ### osu!taiko members
 
-- [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
-- [Raiden](https://osu.ppy.sh/users/2239480) (Organizer)
-- [Aldwych](https://osu.ppy.sh/users/1416484)
-- [Arrival](https://osu.ppy.sh/users/1694000)
-- [hikikochan](https://osu.ppy.sh/users/6512678)
-- [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
-- [Nwolf](https://osu.ppy.sh/users/1910766)
-- [qoot8123](https://osu.ppy.sh/users/766371)
-- [OnosakiHito](https://osu.ppy.sh/users/290128)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
+- ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) (Organizer)
+- ![][flag_FR] [Aldwych](https://osu.ppy.sh/users/1416484)
+- ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
+- ![][flag_US] [hikikochan](https://osu.ppy.sh/users/6512678)
+- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766)
+- ![][flag_TW] [qoot8123](https://osu.ppy.sh/users/766371)
+- ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)
 
 ### osu!catch members
 
-- [JBHyperion](https://osu.ppy.sh/users/4879508) (Organizer)
-- [Deif](https://osu.ppy.sh/users/318565) (Organizer)
-- [He Ang CTB](https://osu.ppy.sh/users/2451381)
-- [Kurokami](https://osu.ppy.sh/users/260933)
-- [Zak](https://osu.ppy.sh/users/1375955)
-- [ZiRoX](https://osu.ppy.sh/users/200768)
+- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) (Organizer)
+- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) (Organizer)
+- ![][flag_SG] [He Ang CTB](https://osu.ppy.sh/users/2451381)
+- ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933)
+- ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955)
+- ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
 ### osu!mania members
 
 *Note: The original osu!mania UBKRC members were unable to complete a Ranking Criteria draft and were replaced by the users below*
 
-- [Feerum](https://osu.ppy.sh/users/4815717) (Organizer)
-- [Maxus](https://osu.ppy.sh/users/4335785) (Organizer)
-- [MEGAtive](https://osu.ppy.sh/users/3094101)
-- [-MysticEyes](https://osu.ppy.sh/users/6253266)
-- [Kawawa](https://osu.ppy.sh/users/4647754)
+- ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) (Organizer)
+- ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) (Organizer)
+- ![][flag_ID] [MEGAtive](https://osu.ppy.sh/users/3094101)
+- ![][flag_US] [-MysticEyes](https://osu.ppy.sh/users/6253266)
+- ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754)
 
 ### Metadata members
 
-- [IamKwaN](https://osu.ppy.sh/users/1856463) (Organizer)
-- [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
-- [Lanturn](https://osu.ppy.sh/users/1446665)
-- [alacat](https://osu.ppy.sh/users/869782)
-- [Fycho](https://osu.ppy.sh/users/1876867)
-- [neonat](https://osu.ppy.sh/users/1561995)
-- [Wafu](https://osu.ppy.sh/users/888955)
+- ![][flag_HK] [IamKwaN](https://osu.ppy.sh/users/1856463) (Organizer)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
+- ![][flag_US] [Lanturn](https://osu.ppy.sh/users/1446665)
+- ![][flag_JP] [alacat](https://osu.ppy.sh/users/869782)
+- ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867)
+- ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995)
+- ![][flag_CZ] [Wafu](https://osu.ppy.sh/users/888955)
 
 ### Storyboarding members
 
-- [Naxess](https://osu.ppy.sh/users/8129817) (Organizer)
-- [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
-- [Damnae](https://osu.ppy.sh/users/989377)
-- [Sidetail](https://osu.ppy.sh/users/2036217)
-- [Starrodkirby86](https://osu.ppy.sh/users/410)
-- [Wafu](https://osu.ppy.sh/users/888955)
-- [yf_bmp](https://osu.ppy.sh/users/1243669)
+- ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) (Organizer)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
+- ![][flag_DE] [Damnae](https://osu.ppy.sh/users/989377)
+- ![][flag_CA] [Sidetail](https://osu.ppy.sh/users/2036217)
+- ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410)
+- ![][flag_CZ] [Wafu](https://osu.ppy.sh/users/888955)
+- ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669)
 
 ### Timing members
 
-- [pishifat](https://osu.ppy.sh/users/3178418) (Organizer)
-- [Shiro](https://osu.ppy.sh/users/113005)
-- [Bonsai](https://osu.ppy.sh/users/987334)
-- [JBHyperion](https://osu.ppy.sh/users/4879508)
-- [Okoratu](https://osu.ppy.sh/users/1623405)
-- [Raiden](https://osu.ppy.sh/users/2239480)
-- [frukoyurdakul](https://osu.ppy.sh/users/7612550)
+- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Organizer)
+- ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005)
+- ![][flag_AT] [Bonsai](https://osu.ppy.sh/users/987334)
+- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405)
+- ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480)
+- ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550)
 
 ### Spread members
 
-- [pishifat](https://osu.ppy.sh/users/3178418) (Organizer)
-- [Blocko](https://osu.ppy.sh/users/4075092)
-- [Doyak](https://osu.ppy.sh/users/2046893)
-- [Myxo](https://osu.ppy.sh/users/2202645)
-- [JBHyperion](https://osu.ppy.sh/users/4879508)
-- [Monstrata](https://osu.ppy.sh/users/2706438)
-- [Zexous](https://osu.ppy.sh/users/1715876)
-- [Okoratu](https://osu.ppy.sh/users/1623405)
-- [Raiden](https://osu.ppy.sh/users/2239480)
+- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Organizer)
+- ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092)
+- ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893)
+- ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645)
+- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
+- ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
+- ![][flag_US] [Zexous](https://osu.ppy.sh/users/1715876)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405)
+- ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480)
 
 ### Skinning members
 
-- [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
-- [Chaoslitz](https://osu.ppy.sh/users/3621552)
-- [Haskorion](https://osu.ppy.sh/users/3252321)
-- [Noffy](https://osu.ppy.sh/users/1541323)
-- [Wafu](https://osu.ppy.sh/users/888955)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
+- ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552)
+- ![][flag_DE] [Haskorion](https://osu.ppy.sh/users/3252321)
+- ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
+- ![][flag_CZ] [Wafu](https://osu.ppy.sh/users/888955)
 
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CZ]: /wiki/shared/flag/CL.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
