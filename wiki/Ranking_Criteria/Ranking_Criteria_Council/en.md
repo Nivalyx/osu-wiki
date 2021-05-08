@@ -23,30 +23,30 @@ Members of the Ranking Criteria Council were hand-picked to represent different 
 
 ### osu!taiko members
 
-- [OzzyOzrock](https://osu.ppy.sh/users/465153) (American mappers)
-- [Shyguy](https://osu.ppy.sh/users/178038) (American players)
-- [Nwolf](https://osu.ppy.sh/users/1910766) (European mappers)
+- ![][flag_US] [OzzyOzrock](https://osu.ppy.sh/users/465153) (American mappers)
+- ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038) (American players)
+- ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) (European mappers)
 - *(vacant)* (European players)
-- [qoot8123](https://osu.ppy.sh/users/766371) (Asian mappers)
-- [bbj0920](https://osu.ppy.sh/users/87546) (Asian players)
-- [MMzz](https://osu.ppy.sh/users/128993) (QAT)
-- [DakeDekaane](https://osu.ppy.sh/users/1425253) (QAT)
+- ![][flag_TW] [qoot8123](https://osu.ppy.sh/users/766371) (Asian mappers)
+- ![][flag_KR] [bbj0920](https://osu.ppy.sh/users/87546) (Asian players)
+- ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) (QAT)
+- ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) (QAT)
 
 ### osu!catch members
 
-- [ZiRox](https://osu.ppy.sh/users/200768) (American mappers)
-- [Zak](https://osu.ppy.sh/users/1375955) (American players)
-- [JBHyperion](https://osu.ppy.sh/users/4879508) (European mappers)
+- ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) (American mappers)
+- ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) (American players)
+- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) (European mappers)
 - *(vacant)* (European players)
-- [Spectator](https://osu.ppy.sh/users/702598) (Asian mappers)
-- [He Ang Erika](https://osu.ppy.sh/users/2451381) (Asian players)
-- [Deif](https://osu.ppy.sh/users/318565) (QAT)
-- [Kurokami](https://osu.ppy.sh/users/260933) (QAT)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) (Asian mappers)
+- ![][flag_SG] [He Ang Erika](https://osu.ppy.sh/users/2451381) (Asian players)
+- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) (QAT)
+- ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) (QAT)
 
 ### osu!mania members
 
 - [Fullerene-](https://osu.ppy.sh/users/2531335) (American mappers)
-- [Halogen-](https://osu.ppy.sh/users/169992) (American players)
+- ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) (American players)
 - [-Kamikaze-](https://osu.ppy.sh/users/2124783) (European mappers)
 - [Hayabusa](https://osu.ppy.sh/users/3104108) (European players)
 - [iJinjin](https://osu.ppy.sh/users/2141612) (Asian mappers)
@@ -161,8 +161,16 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 - [Noffy](https://osu.ppy.sh/users/1541323)
 - [Wafu](https://osu.ppy.sh/users/888955)
 
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
