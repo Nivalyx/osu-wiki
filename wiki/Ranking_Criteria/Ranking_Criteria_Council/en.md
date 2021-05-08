@@ -49,10 +49,10 @@ Members of the Ranking Criteria Council were hand-picked to represent different 
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) (American players)
 - ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783) (European mappers)
 - ![][flag_UK] [Hayabusa](https://osu.ppy.sh/users/3104108) (European players)
-- ![][flag_KR] [iJinjin](https://osu.ppy.sh/users/2141612) (Asian mappers)
-- [Cryolien](https://osu.ppy.sh/users/1626983) (Asian players)
-- [Starry-](https://osu.ppy.sh/users/2166199) (QAT)
-- [Blocko](https://osu.ppy.sh/users/4075092) (QAT)
+- ![][flag_US] (![][flag_KR]) [Jinjin](https://osu.ppy.sh/users/3360737) (Asian mappers)
+- ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983) (Asian players)
+- ![][flag_UK] [Starry-](https://osu.ppy.sh/users/2166199) (QAT)
+- ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092) (QAT)
 
 The Ranking Criteria Council was ultimately unsuccessful. Only members involved in osu!catch promoted new proposals, while the other game modes did not make progress until the Ranking Criteira Council was disbanded and replaced with the United Beat-knights of Ranking Criteria.
 
@@ -170,6 +170,7 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
