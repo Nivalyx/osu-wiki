@@ -48,7 +48,7 @@ Members of the Ranking Criteria Council were hand-picked to represent different 
 - ![][flag_CA] [Fullerene-](https://osu.ppy.sh/users/2531335) (American mappers)
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) (American players)
 - ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783) (European mappers)
-- ![][flag_UK] [Hayabusa](https://osu.ppy.sh/users/3104108) (European players)
+- ![][flag_GB] [Hayabusa](https://osu.ppy.sh/users/3104108) (European players)
 - ![][flag_US] (![][flag_KR]) [Jinjin](https://osu.ppy.sh/users/3360737) (Asian mappers)
 - ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983) (Asian players)
 - ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) (QAT)
