@@ -161,4 +161,5 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 - [Noffy](https://osu.ppy.sh/users/1541323)
 - [Wafu](https://osu.ppy.sh/users/888955)
 
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
