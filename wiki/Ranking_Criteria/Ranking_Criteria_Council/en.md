@@ -51,7 +51,7 @@ Members of the Ranking Criteria Council were hand-picked to represent different 
 - ![][flag_UK] [Hayabusa](https://osu.ppy.sh/users/3104108) (European players)
 - ![][flag_US] (![][flag_KR]) [Jinjin](https://osu.ppy.sh/users/3360737) (Asian mappers)
 - ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983) (Asian players)
-- ![][flag_UK] [Starry-](https://osu.ppy.sh/users/2166199) (QAT)
+- ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) (QAT)
 - ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092) (QAT)
 
 The Ranking Criteria Council was ultimately unsuccessful. Only members involved in osu!catch promoted new proposals, while the other game modes did not make progress until the Ranking Criteira Council was disbanded and replaced with the United Beat-knights of Ranking Criteria.
