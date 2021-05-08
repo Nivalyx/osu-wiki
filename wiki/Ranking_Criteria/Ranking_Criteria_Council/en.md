@@ -45,11 +45,11 @@ Members of the Ranking Criteria Council were hand-picked to represent different 
 
 ### osu!mania members
 
-- [Fullerene-](https://osu.ppy.sh/users/2531335) (American mappers)
+- ![][flag_CA] [Fullerene-](https://osu.ppy.sh/users/2531335) (American mappers)
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) (American players)
-- [-Kamikaze-](https://osu.ppy.sh/users/2124783) (European mappers)
-- [Hayabusa](https://osu.ppy.sh/users/3104108) (European players)
-- [iJinjin](https://osu.ppy.sh/users/2141612) (Asian mappers)
+- ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783) (European mappers)
+- ![][flag_UK] [Hayabusa](https://osu.ppy.sh/users/3104108) (European players)
+- ![][flag_KR] [iJinjin](https://osu.ppy.sh/users/2141612) (Asian mappers)
 - [Cryolien](https://osu.ppy.sh/users/1626983) (Asian players)
 - [Starry-](https://osu.ppy.sh/users/2166199) (QAT)
 - [Blocko](https://osu.ppy.sh/users/4075092) (QAT)
@@ -170,6 +170,7 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 [flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
