@@ -8,22 +8,22 @@ This project discontinued use of the [Ranking Criteria subforum](https://osu.ppy
 
 ## Keanggotaan Ranking Criteria Council
 
-Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terdahulu, Ranking Criteria Council tersusun atas anggota-anggota ahli dari seluruh belahan dunia yang secara khusus ditunjuk untuk dapat mewakili aspirasi para mapper dari wilayahnya masing-masing.
+Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terdahulu, anggota-anggota Ranking Criteria Council merupakan nama-nama ahli dari seluruh belahan dunia yang secara khusus ditunjuk untuk dapat mewakili dan menyuarakan aspirasi yang ada dari wilayahnya masing-masing.
 
 ### Anggota-anggota divisi osu!
 
-- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) (American mappers)
-- *(vacant)* (American players)
-- ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) (European mappers)
-- ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) (European players)
-- *(vacant)* (Asian mappers)
-- ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) (Asian players)
-- ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) (QAT)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) (QAT)
+- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) (perwakilan mapper Amerika)
+- *(vacant)* (perwakilan pemain Amerika)
+- ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) (perwakilan mapper Eropa)
+- ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) (perwakilan pemain Eropa)
+- *(vacant)* (perwakilan mapper Asia)
+- ![][flag_TH] [Frostmourne](https://osu.ppy.sh/users/199669) (perwakilan pemain Asia)
+- ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) (perwakilan QAT)
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) (perwakilan QAT)
 
 ### Anggota-anggota divisi osu!taiko
 
-- ![][flag_US] [OzzyOzrock](https://osu.ppy.sh/users/465153) (American mappers)
+- ![][flag_US] [OzzyOzrock](https://osu.ppy.sh/users/465153) (perwakilan mapper Amerika)
 - ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038) (American players)
 - ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) (European mappers)
 - *(vacant)* (European players)
@@ -34,7 +34,7 @@ Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terda
 
 ### Anggota-anggota divisi osu!catch
 
-- ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) (American mappers)
+- ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) (perwakilan mapper Amerika)
 - ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) (American players)
 - ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) (European mappers)
 - *(vacant)* (European players)
@@ -45,7 +45,7 @@ Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terda
 
 ### Anggota-anggota divisi osu!mania
 
-- ![][flag_CA] [Fullerene-](https://osu.ppy.sh/users/2531335) (American mappers)
+- ![][flag_CA] [Fullerene-](https://osu.ppy.sh/users/2531335) (perwakilan mapper Amerika)
 - ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) (American players)
 - ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783) (European mappers)
 - ![][flag_GB] [Hayabusa](https://osu.ppy.sh/users/3104108) (European players)
