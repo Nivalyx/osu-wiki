@@ -6,9 +6,9 @@ Many of the rules that the [Quality Assurance Team](/wiki/Modding/Quality_Assura
 
 This project discontinued use of the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) from the public, only allowing posts from members of the council. Members of the council planned on discussing all aspects of mapping and forming their own Ranking Criteira proposals accordingly.
 
-## Initial members
+## Keanggotaan Ranking Criteria Council
 
-Members of the Ranking Criteria Council were hand-picked to represent different regions of players and mappers, mimicking membership of the [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate).
+Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terdahulu, Ranking Criteria Council tersusun atas anggota-anggota ahli dari seluruh belahan dunia yang secara khusus ditunjuk untuk dapat mewakili aspirasi para mapper dari wilayahnya masing-masing.
 
 ### Anggota-anggota divisi osu!
 
