@@ -8,7 +8,7 @@ This project discontinued use of the [Ranking Criteria subforum](https://osu.ppy
 
 ## Keanggotaan Ranking Criteria Council
 
-Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terdahulu, anggota-anggota Ranking Criteria Council merupakan nama-nama ahli dari seluruh belahan dunia yang secara khusus ditunjuk untuk dapat mewakili dan menyuarakan aspirasi yang ada dari wilayahnya masing-masing.
+Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terdahulu, panel Ranking Criteria Council berisikan nama-nama ahli dari seluruh belahan dunia yang secara khusus ditunjuk untuk dapat mewakili dan menyuarakan aspirasi-aspirasi yang ada dari wilayahnya masing-masing.
 
 ### Anggota-anggota divisi osu!
 
