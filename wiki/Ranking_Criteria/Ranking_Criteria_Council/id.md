@@ -123,8 +123,8 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### Anggota-anggota divisi Storyboarding
 
-- ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) (Organizer)
-- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
+- ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) (Koordinator)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Koordinator)
 - ![][flag_DE] [Damnae](https://osu.ppy.sh/users/989377)
 - ![][flag_CA] [Sidetail](https://osu.ppy.sh/users/2036217)
 - ![][flag_US] [Starrodkirby86](https://osu.ppy.sh/users/410)
@@ -133,7 +133,7 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### Anggota-anggota divisi Timing
 
-- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Organizer)
+- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Koordinator)
 - ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005)
 - ![][flag_AT] [Bonsai](https://osu.ppy.sh/users/987334)
 - ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
@@ -143,7 +143,7 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### Anggota-anggota divisi Beatmap Spread
 
-- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Organizer)
+- ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) (Koordinator)
 - ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092)
 - ![][flag_KR] [Doyak](https://osu.ppy.sh/users/2046893)
 - ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645)
@@ -155,8 +155,32 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### Anggota-anggota divisi Skinning
 
-- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
+- ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) (Koordinator)
 - ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ![][flag_DE] [Haskorion](https://osu.ppy.sh/users/3252321)
 - ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323)
 - ![][flag_CZ] [Wafu](https://osu.ppy.sh/users/888955)
+
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
+[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
+[flag_CZ]: /wiki/shared/flag/CL.gif "Republik Ceska"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
+[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
