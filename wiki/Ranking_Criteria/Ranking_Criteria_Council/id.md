@@ -54,7 +54,7 @@ Members of the Ranking Criteria Council were hand-picked to represent different 
 - ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) (QAT)
 - ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092) (QAT)
 
-Dalam prakteknya, Ranking Criteria Council dinilai gagal dalam melaksanakan tugasnya. Dari empat divisi yang ada, hanya divisi osu!catch yang berhasil mengajukan proposal dan merombak Ranking Criteria walaupun hasilnya belum maksimal. Ranking Criteria Council pun dibubarkan untuk kemudian digantikan oleh United Beat-Knights of Ranking Criteria.
+Dalam prakteknya, Ranking Criteria Council dinilai gagal dalam melaksanakan tugasnya. Dari empat divisi yang ada, hanya divisi osu!catch yang berhasil merombak Ranking Criteria walaupun hasilnya belum maksimal. Ranking Criteria Council pun dibubarkan untuk kemudian digantikan oleh United Beat-Knights of Ranking Criteria.
 
 ## United Beat-Knights of Ranking Criteria
 
