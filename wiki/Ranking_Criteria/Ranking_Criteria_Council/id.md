@@ -60,7 +60,9 @@ Dalam prakteknya, Ranking Criteria Council dinilai gagal dalam melaksanakan tuga
 
 **United Beat-Knights of Ranking Criteria** (*UBKRC*) merupakan kelompok pengguna yang dibentuk dengan tujuan yang sama dengan Ranking Criteria Council, namun dengan sistem pengelolaan yang lebih terbuka. Agar tidak terkesan kaku seperti halnya Ranking Criteria Council terdahulu, nama UBKRC sengaja dipilih sedemikian rupa karena nama tersebut terkesan konyol dan mengada-ada. Kelompok ini sendiri diketuai oleh ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) dan ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
 
-Within the UBKRC, teams of experts were chosen to handle each area of the general Ranking Criteria and game-mode specific sections. Users could join if they showed an active interest in any group.
+UBKRC tersusun atas nama-nama ahli pada bidangnya masing-masing yang ditugaskan untuk merombak segala aspek yang dicakup oleh Ranking Criteria baik yang bersifat umum ataupun spesifik. Anggota-anggota komunitas lainnya yang tertarik untuk ikut berkontribusi dapat bergabung ke dalam UBKRC sewaktu-waktu apabila dibutuhkan.
+
+Antara tahun 2016 dan 2018, UBKRC 
 
 Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria to fit modern standards. Following its completion, the Ranking Criteria subforum was re-opened for community-submitted proposals.
 
