@@ -24,35 +24,35 @@ Layaknya [Triumvir Conglomerate](/wiki/BAT_Managers#triumvir-conglomerate) terda
 ### Anggota-anggota divisi osu!taiko
 
 - ![][flag_US] [OzzyOzrock](https://osu.ppy.sh/users/465153) (perwakilan mapper Amerika)
-- ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038) (American players)
-- ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) (European mappers)
-- *(lowong)* (European players)
-- ![][flag_TW] [qoot8123](https://osu.ppy.sh/users/766371) (Asian mappers)
-- ![][flag_KR] [bbj0920](https://osu.ppy.sh/users/87546) (Asian players)
-- ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) (QAT)
-- ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) (QAT)
+- ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038) (perwakilan pemain Amerika)
+- ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) (perwakilan mapper Eropa)
+- *(lowong)* (perwakilan pemain Eropa)
+- ![][flag_TW] [qoot8123](https://osu.ppy.sh/users/766371) (perwakilan mapper Asia)
+- ![][flag_KR] [bbj0920](https://osu.ppy.sh/users/87546) (perwakilan pemain Asia)
+- ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) (perwakilan QAT)
+- ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) (perwakilan QAT)
 
 ### Anggota-anggota divisi osu!catch
 
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) (perwakilan mapper Amerika)
-- ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) (American players)
-- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) (European mappers)
-- *(lowong)* (European players)
-- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) (Asian mappers)
-- ![][flag_SG] [He Ang Erika](https://osu.ppy.sh/users/2451381) (Asian players)
-- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) (QAT)
-- ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) (QAT)
+- ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) (perwakilan pemain Amerika)
+- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) (perwakilan mapper Eropa)
+- *(lowong)* (perwakilan pemain Eropa)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) (perwakilan mapper Asia)
+- ![][flag_SG] [He Ang Erika](https://osu.ppy.sh/users/2451381) (perwakilan pemain Asia)
+- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) (perwakilan QAT)
+- ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) (perwakilan QAT)
 
 ### Anggota-anggota divisi osu!mania
 
 - ![][flag_CA] [Fullerene-](https://osu.ppy.sh/users/2531335) (perwakilan mapper Amerika)
-- ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) (American players)
-- ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783) (European mappers)
-- ![][flag_GB] [Hayabusa](https://osu.ppy.sh/users/3104108) (European players)
-- ![][flag_US] (![][flag_KR]) [Jinjin](https://osu.ppy.sh/users/3360737) (Asian mappers)
-- ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983) (Asian players)
-- ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) (QAT)
-- ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092) (QAT)
+- ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992) (perwakilan pemain Amerika)
+- ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783) (perwakilan mapper Eropa)
+- ![][flag_GB] [Hayabusa](https://osu.ppy.sh/users/3104108) (perwakilan pemain Eropa)
+- ![][flag_US] (![][flag_KR]) [Jinjin](https://osu.ppy.sh/users/3360737) (perwakilan mapper Asia)
+- ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983) (perwakilan pemain Asia)
+- ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) (perwakilan QAT)
+- ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092) (perwakilan QAT)
 
 Dalam prakteknya, Ranking Criteria Council dinilai gagal dalam melaksanakan tugasnya. Dari empat divisi yang ada, hanya divisi osu!catch yang berhasil merombak Ranking Criteria walaupun hasilnya belum maksimal. Ranking Criteria Council pun dibubarkan untuk kemudian digantikan oleh United Beat-Knights of Ranking Criteria.
 
