@@ -62,9 +62,7 @@ Dalam prakteknya, Ranking Criteria Council dinilai gagal dalam melaksanakan tuga
 
 UBKRC tersusun atas nama-nama ahli pada bidangnya masing-masing yang ditugaskan untuk merombak segala aspek yang dicakup oleh Ranking Criteria baik yang bersifat umum ataupun spesifik. Anggota-anggota komunitas lainnya yang tertarik untuk ikut berkontribusi dapat bergabung ke dalam UBKRC sewaktu-waktu apabila dibutuhkan.
 
-Antara tahun 2016 dan 2018, UBKRC 
-
-Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria to fit modern standards. Following its completion, the Ranking Criteria subforum was re-opened for community-submitted proposals.
+Setelah melewati proses kajian selama kurang lebih dua tahun, pada tahun 2018 UBKRC akhirnya berhasil menyusun Ranking Criteria baru yang sesuai dengan kebutuhan beatmap-beatmap modern. UBKRC pun lantas dibubarkan dan sub-forum Ranking Criteria kembali dibuka untuk umum setelahnya.
 
 ### Anggota-anggota divisi osu!
 
@@ -105,7 +103,7 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### Anggota-anggota divisi osu!mania
 
-*Catatan: Divisi osu!mania UBKRC telah beberapa kali berganti personil seiring waktu. Nama-nama yang tertera di bawah ini adalah nama-nama yang berhasil menyelesaikan perombakan Ranking Criteria pada akhir masa bakti UBKRC.*
+*Catatan: Divisi osu!mania UBKRC telah beberapa kali berganti personil seiring waktu. Nama-nama yang tertera di bawah ini adalah nama-nama yang berhasil menyelesaikan perombakan Ranking Criteria osu!mania pada akhir masa bakti UBKRC.*
 
 - ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) (Koordinator)
 - ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) (Koordinator)
