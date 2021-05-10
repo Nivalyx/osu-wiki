@@ -4,7 +4,7 @@
 
 Dahulu kala, terdapat banyak hal pada Ranking Criteria yang tidak terperinci dengan jelas. Para anggota [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) sering kali terpaksa menilai sesuatu hanya berdasarkan pengalaman dan sudut pandang mereka masing-masing. Hal ini memicu banyaknya beatmap yang didiskualifikasi atas alasan yang saling tidak konsisten antar satu sama lain, yang pada akhirnya mendorong pembentukan Ranking Criteria Council agar ke depannya osu! dapat memiliki Ranking Criteria yang terikat pada suatu standar yang jelas.
 
-Pembentukan Ranking Criteria Council [sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87)
+Para anggota Ranking Criteria Council saling berdiskusi pada [sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87) secara tertutup.
 
 This project discontinued use of the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) from the public, only allowing posts from members of the council. Members of the council planned on discussing all aspects of mapping and forming their own Ranking Criteira proposals accordingly.
 
