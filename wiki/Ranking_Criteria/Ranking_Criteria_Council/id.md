@@ -2,7 +2,7 @@
 
 **Ranking Criteria Council** merupakan kelompok pengguna yang secara khusus dibentuk pada tahun 2016 untuk merombak ulang [Ranking Criteria](/wiki/Ranking_Criteria).
 
-Dahulu kala, terdapat banyak hal pada Ranking Criteria yang tidak terperinci dengan jelas. Para anggota [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) sering kali terpaksa menilai sesuatu hanya berdasarkan pengalaman dan sudut pandang mereka masing-masing. Hal ini memicu banyaknya beatmap yang didiskualifikasi atas alasan yang saling tidak konsisten antar satu sama lain, yang pada akhirnya memicu pembentukan Ranking Criteria Council agar ke depannya osu! dapat memiliki Ranking Criteria yang terikat pada suatu standar yang jelas.
+Dahulu kala, terdapat banyak hal pada Ranking Criteria yang tidak terperinci dengan jelas. Para anggota [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) sering kali terpaksa menilai sesuatu hanya berdasarkan pengalaman dan sudut pandang mereka masing-masing. Hal ini memicu banyaknya beatmap yang didiskualifikasi atas alasan yang saling tidak konsisten antar satu sama lain, yang pada akhirnya mendorong pembentukan Ranking Criteria Council agar ke depannya osu! dapat memiliki Ranking Criteria yang terikat pada suatu standar yang jelas.
 
 Pembentukan Ranking Criteria Council [sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87)
 
