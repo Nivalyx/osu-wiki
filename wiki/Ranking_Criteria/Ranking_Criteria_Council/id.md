@@ -103,7 +103,7 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### Anggota-anggota divisi osu!mania
 
-*Catatan: Divisi osu!mania UBKRC tercatat telah beberapa kali berganti personil seiring waktu. Nama-nama yang tertera di bawah ini adalah nama-nama yang berhasil menyelesaikan perombakan Ranking Criteria pada akhir masa bakti UBKRC.*
+*Catatan: Divisi osu!mania UBKRC telah beberapa kali berganti personil seiring waktu. Nama-nama yang tertera di bawah ini adalah nama-nama yang berhasil menyelesaikan perombakan Ranking Criteria pada akhir masa bakti UBKRC.*
 
 - ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) (Koordinator)
 - ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) (Koordinator)
