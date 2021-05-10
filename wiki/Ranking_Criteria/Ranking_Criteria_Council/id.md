@@ -4,7 +4,7 @@
 
 Dahulu kala, terdapat banyak hal pada Ranking Criteria yang tidak terperinci dengan jelas. Para anggota [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) sering kali terpaksa menilai sesuatu hanya berdasarkan pengalaman dan sudut pandang mereka masing-masing. Hal ini memicu banyaknya beatmap yang didiskualifikasi atas alasan yang saling tidak konsisten antar satu sama lain, yang pada akhirnya mendorong pembentukan Ranking Criteria Council agar ke depannya osu! dapat memiliki Ranking Criteria yang terikat pada suatu standar yang jelas.
 
-Para anggota Ranking Criteria Council saling berdiskusi dan pada [sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87) secara tertutup. Anggota-anggota komunitas lainnya dapat melihat hal-hal apa saja yang mereka diskusikan namun tidak dapat berpartisipasi di dalamnya.
+Para anggota Ranking Criteria Council saling berdiskusi pada [sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87) secara tertutup. Anggota-anggota komunitas lainnya dapat melihat hal-hal apa saja yang mereka diskusikan namun tidak dapat berpartisipasi di dalamnya.
 
 ## Keanggotaan Ranking Criteria Council
 
@@ -103,7 +103,7 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 ### Anggota-anggota divisi osu!mania
 
-*Note: The original osu!mania UBKRC members were unable to complete a Ranking Criteria draft and were replaced by the users below*
+*Catatan: Divisi osu!mania UBKRC tercatat telah beberapa kali berganti personil seiring waktu. Nama-nama yang tertera di bawah ini adalah nama-nama yang berhasil menyelesaikan perombakan Ranking Criteria pada akhir masa bakti UBKRC.*
 
 - ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) (Koordinator)
 - ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) (Koordinator)
