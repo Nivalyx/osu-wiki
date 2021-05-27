@@ -130,11 +130,9 @@ CIC 2021 is run by various Indonesian osu! community members.
    - After a player has reached 3 points (in the Round of 16, the Quarterfinals, and the Semifinals) or 4 points (in the Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that hasn't either been picked or banned up until that point as a comeback mechanic.
    - All banned beatmaps are not allowed to be picked by any player in the remainder of the match.
    - This rule does not apply in the Group Stage lobbies.
-4. has to ban **one beatmap** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
-   - This rule does not apply in the Group Stage lobbies.
-5. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
+3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Group Stage lobbies.
-6. In case of a tiebreaker, **the tiebreaker beatmap will be played without any mods enabled** (NoMod).
-7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
+4. In case of a tiebreaker, **the tiebreaker beatmap will be played without any mods enabled** (NoMod).
+5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
