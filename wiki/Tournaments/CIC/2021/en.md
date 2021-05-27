@@ -14,33 +14,29 @@ The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-eliminati
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-07-10/2020-07-20 |
-| Screening phase | 2020-07-21/2020-07-27 |
-| Group Stage | 2020-07-28/2020-08-02 |
-| Round of 16 | 2020-08-03/2020-08-09 |
-| Quarterfinals | 2020-08-10/2020-08-16 |
-| Semifinals | 2020-08-17/2020-08-23 |
-| Finals - Week 1 | 2020-08-24/2020-08-30 |
-| Finals - Week 2 | 2020-08-31/2020-09-06 |
+| Registration phase | 2021-06-01/2021-06-10 |
+| Screening phase | 2021-06-10/2021-06-20 |
+| Group stage | 2021-06-21/2021-06-27 |
+| Round of 16 | 2021-06-28/2021-07-04 |
+| Quarterfinals | 2021-07-05/2021-07-11 |
+| Semifinals | 2021-07-12/2021-07-18 |
+| Finals | 2021-07-19/2021-07-25 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | IDR 1.000.000,- + 50% of the raised prize pool, 3 months of osu!supporter tag, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | IDR 600.000,- + 30% of the raised prize pool, 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | IDR 400.000,- + 20% of the raised prize pool, 1 month of osu!supporter tag |
-| 4th place | 1 month of osu!supporter tag |
-
-![Profile badge](img/badge.png)
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, 3 months of osu!supporter tag, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 1 month of osu!supporter tag |
 
 ## Organization
 
-CIC 2020 was run by various osu! community members predominantly hailing from Indonesia.
+CIC 2021 is run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
+| Host | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751) |
 | Map selector | ![][flag_ID] [mirza\_rachman18](https://osu.ppy.sh/users/2985335), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
 | Streamer | ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
 | Commentator | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Shiviaren](https://osu.ppy.sh/users/3429259), ![][flag_ID] [Swirfly](https://osu.ppy.sh/users/5164134), ![][flag_ID] [Feeqzo](https://osu.ppy.sh/users/16779488),  ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Yuri-](https://osu.ppy.sh/users/4983719), ![][flag_ID] [Juragan_Piscok1](https://osu.ppy.sh/users/15507280) |
