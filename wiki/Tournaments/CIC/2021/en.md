@@ -134,6 +134,7 @@ CIC 2021 is run by various Indonesian osu! community members.
    - This rule does not apply in the Group Stage lobbies.
 5. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Group Stage lobbies.
-6. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
+6. In case of a tiebreaker, **the tiebreaker beatmap will be played without any mods enabled** (NoMod).
+7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
