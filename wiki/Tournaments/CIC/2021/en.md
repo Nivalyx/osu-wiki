@@ -76,8 +76,8 @@ CIC 2021 is run by various Indonesian osu! community members.
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, a participant must have the Indonesian flag displayed on their profile and at least 3000 playcounts under their profile.
-2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management.
+   - In order to be eligible to play in the tournament, players must have the Indonesian flag displayed on their profile and at least 3000 osu!catch playcounts.
+2. To ensure valid and serious registrations, every registered player will be checked in detail by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. The Tournament Management will only account for a maximum of 32 participants to take part in the tournament.
    - In the case where the number of registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp to participate in the tournament.
@@ -85,8 +85,8 @@ CIC 2021 is run by various Indonesian osu! community members.
 
 ### Group Stage Rules
 
-1. In the Group Stage, all participants will be divided into 8 different groups.
-2. All participants in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all participants will each in turn pick out two maps from the mappool to be played with the following turnout after each map:
+1. In the Group Stage, all players will be divided into 8 different groups.
+2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnout after each map:
    - 1st place: **+2 points**
    - 2nd place: **+1 point**
    - 3rd place: **+1 point**
@@ -96,7 +96,7 @@ CIC 2021 is run by various Indonesian osu! community members.
    - **+2/+1/+1/+1** in the case where the 2st place and the 3nd place players are tied.
    - **+2/+2/+2/0** in the case where the 1st place, the 2st place, and the 3nd place players are tied.
    - **+2/+2/+2/+2** in the case where all four players are tied.
-4. Participants are **not allowed** to ban maps in the Group Stage.
+4. Players are **not allowed** to ban maps in the Group Stage.
 5. There is no Lower Bracket in the Group Stage.
 6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
    - Most points obtained.
