@@ -58,7 +58,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 
 1. Map scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#ganti-jadwal` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
@@ -71,12 +71,12 @@ CIC 2021 is run by various Indonesian osu! community members.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
     - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from the tournament and/or blacklisted from the tournament altogether.
-    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/en/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu!team at will.
+    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu!team at will.
 
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, players must have the Indonesian flag displayed on their profile and at least 3000 osu!catch playcounts.
+   - In order to be eligible to play in the tournament, each player is required to have the Indonesian flag displayed on their profile and at least 3000 osu!catch playcounts to their name.
 2. To ensure valid and serious registrations, every registered player will be checked in detail by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. The Tournament Management will only account for a maximum of 32 players to take part in the tournament.
@@ -102,7 +102,7 @@ CIC 2021 is run by various Indonesian osu! community members.
    - Most points obtained.
    - Winner of the Tiebreaker.
    - Player(s) who Win By Default.
-   - Whether there are player(s) who got disqualified during the match.
+   - Whether there are players who are disqualified from the tournament.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
 ### Knock-Out Stage Rules 
@@ -114,21 +114,26 @@ CIC 2021 is run by various Indonesian osu! community members.
    - Players who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
 4. Players who can compete in the next round are determined by:
-   - In the Round of 16 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Semifinals onwards except for the Grand Final, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Grand Final, each player needs to win 7 points in order to win the match. (Best-of-13)
+   - In the Round of 16, each player needs to win 5 points in order to win a match. (Best-of-9)
+   - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Finals, each player needs to win 7 points in order to win the match. (Best-of-13)
    - Player(s) who Win By Default.
-   - Whether there are player(s) who got disqualified during the match.
+   - Whether there are players who are disqualified from the tournament.
 
 ### Match Regulations
 
 1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group Stage lobbies.
-2. Each player has to ban **one beatmap** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
+2. Each player may ban up to two beatmaps from the mappool following the "comeback mechanic" system (similar to [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019)) as follows:
+   - At the start of the match, each player has to ban **one beatmap** from the mappool.
+   - After a player reaches 3 points (in the Round of 16, the Quarterfinals, and the Semifinals) or 4 points (in the Finals), the opposing player is given the chance to **ban another map** that hasn't been picked or banned up until that point as a comeback mechanic.
+   - All banned beatmaps are not allowed to be picked by any player in the remainder of the match.
    - This rule does not apply in the Group Stage lobbies.
-3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
+4. has to ban **one beatmap** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
+   - This rule does not apply in the Group Stage lobbies.
+5. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Group Stage lobbies.
-4. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
+6. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
