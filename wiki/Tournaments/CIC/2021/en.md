@@ -103,7 +103,7 @@ CIC 2021 is run by various Indonesian osu! community members.
    - Winner of the Tiebreaker.
    - Player(s) who Win By Default.
    - Whether there are players who are disqualified from the tournament.
-7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
+7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the Knock-out stage.
 
 ### Knock-out stage rules 
 
