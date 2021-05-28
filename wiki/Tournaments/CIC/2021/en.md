@@ -50,7 +50,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 - **[Main spreadsheet](link tba "Google Sheets")**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1324864)
 - [Discord server](https://discord.gg/YwAYbPa "Discord")
-- [Livestream](https://www.twitch.tv/osuIndonesia/ "Twitch")
+- [Livestream channel](https://www.twitch.tv/osuIndonesia/ "Twitch")
 
 ## Ruleset
 
