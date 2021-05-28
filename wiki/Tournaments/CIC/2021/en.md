@@ -85,7 +85,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 
 ### Group stage rules
 
-1. In the Group stage, all players will be divided into eight groups at random.
+1. In the Group stage, all players will be divided into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnout after each map:
    - 1st place: **+2 points**
    - 2nd place: **+1 point**
