@@ -83,9 +83,9 @@ CIC 2021 is run by various Indonesian osu! community members.
    - In the case where the number of registrants exceeds 32, the Tournament Management will only enlist 32 registrants with the highest osu!catch pp to participate in the tournament.
 5. Testplayers, referees, and map selectors may not participate as players in this tournament.
 
-### Group Stage Rules
+### Group stage rules
 
-1. In the Group Stage, all players will be divided into 8 different groups.
+1. In the Group stage, all players will be divided into eight different groups.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnout after each map:
    - 1st place: **+2 points**
    - 2nd place: **+1 point**
@@ -96,8 +96,8 @@ CIC 2021 is run by various Indonesian osu! community members.
    - **+2/+1/+1/+1** in the case where the 2st place and the 3nd place players are tied.
    - **+2/+2/+2/0** in the case where the 1st place, the 2st place, and the 3nd place players are tied.
    - **+2/+2/+2/+2** in the case where all four players are tied.
-4. Players are **not allowed** to ban maps in the Group Stage.
-5. There is no Lower Bracket in the Group Stage.
+4. Players are **not allowed** to ban maps in the Group stage.
+5. There is no Lower Bracket in the Group stage.
 6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
    - Most points obtained.
    - Winner of the Tiebreaker.
@@ -105,9 +105,9 @@ CIC 2021 is run by various Indonesian osu! community members.
    - Whether there are players who are disqualified from the tournament.
 7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the knock-out stage.
 
-### Knock-Out Stage Rules 
+### Knock-out stage rules 
 
-1. The 16 players who managed to get through from the Group Stage will be matched to each other based on a randomized result.
+1. The eight Group stage winners will be matched to the eight Group stage runners-up at random; that is, instead of following a predetermined match-up format (A1 vs H2, B1 vs G2, etc.), 
 2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as following:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
@@ -120,7 +120,7 @@ CIC 2021 is run by various Indonesian osu! community members.
    - Player(s) who Win By Default.
    - Whether there are players who are disqualified from the tournament.
 
-### Match Regulations
+### Match regulations
 
 1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
@@ -129,9 +129,9 @@ CIC 2021 is run by various Indonesian osu! community members.
    - At the start of the match, each player has to ban **one beatmap** from the mappool.
    - After a player reaches 3 points (in the Round of 16, the Quarterfinals, and the Semifinals) or 4 points (in the Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that hasn't either been picked or banned up until that point as a comeback mechanic.
    - All banned beatmaps are not allowed to be picked by any player in the remainder of the match.
-   - This rule does not apply in the Group Stage lobbies.
+   - This rule does not apply in the Group stage lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
-   - Warm-ups do not apply in the Group Stage lobbies.
+   - Warm-ups do not apply in the Group stage lobbies.
 4. In case of a tiebreaker, **the tiebreaker beatmap will be played without any mods enabled** (NoMod).
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
