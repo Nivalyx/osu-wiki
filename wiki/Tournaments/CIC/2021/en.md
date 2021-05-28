@@ -85,7 +85,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 
 ### Group stage rules
 
-1. In the Group stage, all players will be divided into eight different groups.
+1. In the Group stage, all players will be divided into eight groups at random.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnout after each map:
    - 1st place: **+2 points**
    - 2nd place: **+1 point**
@@ -107,12 +107,12 @@ CIC 2021 is run by various Indonesian osu! community members.
 
 ### Knock-out stage rules 
 
-1. The eight Group stage winners will be matched to the eight Group stage runners-up at random; that is, instead of following a predetermined match-up format (A1 vs H2, B1 vs G2, etc.), 
+1. The eight Group stage winners will be matched to the eight Group stage runners-up at random; that is, instead of following a predetermined match-up format (A1 vs H2, B1 vs G2, and so on), all the match-ups will be based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
 2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as following:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Players who lose in the Lower Bracket will be eliminated from the tournament.
-   - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
+   - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to clinch the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to clinch the championship title.
 4. Players who can compete in the next round are determined by:
    - In the Round of 16, each player needs to win 5 points in order to win a match. (Best-of-9)
    - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best-of-11)
@@ -124,7 +124,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 
 1. Each player must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
-   - This rule does not apply in the Group Stage lobbies.
+   - This rule does not apply in the Group stage lobbies.
 2. Each player may ban up to two beatmaps from the mappool following a modified "comeback mechanic" system that is adapted from the [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019). The system works as follows:
    - At the start of the match, each player has to ban **one beatmap** from the mappool.
    - After a player reaches 3 points (in the Round of 16, the Quarterfinals, and the Semifinals) or 4 points (in the Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that hasn't either been picked or banned up until that point as a comeback mechanic.
