@@ -42,7 +42,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 | Commentator | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) |
 | Referee | *to be announced* |
 | Graphic designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
-| Spreadsheet manager | ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751) |
+| Spreadsheet manager | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
