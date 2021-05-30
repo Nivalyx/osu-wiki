@@ -85,7 +85,7 @@ osu! pada umumnya menganugerahkan para pemenang kontes-kontes mapping yang berst
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
-¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam memboyong gelar Elite Mapper pada dua kontes mapping yang berbeda: [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest).
+¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam memboyong gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest).
 
 ### Elite Nominator
 
