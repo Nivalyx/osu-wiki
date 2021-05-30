@@ -168,7 +168,7 @@ Dari waktu ke waktu, osu! telah beberapa kali mengadakan kontes desain maskot ya
 
 ### Hall of Famer
 
-Tiga pengguna ini dianugerahi gelar **osu! Hall of Famer** atas kontribusinya telah memainkan game ini di level tertinggi dan juga berkontribusi ketika komunitas osu! masih baru.
+osu! menganugerahkan gelar **osu! Hall of Famer** kepada tiga nama di bawah ini atas kontribusinya masing-masing dalam menjunjung tinggi standar permainan pada masa-masa awal berdirinya osu!.
 
 <!-- TODO: reasons -->
 
@@ -176,9 +176,9 @@ Tiga pengguna ini dianugerahi gelar **osu! Hall of Famer** atas kontribusinya te
 - ![][flag_PH] [James](https://osu.ppy.sh/users/5728)
 - ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781)
 
-### Pembuat Storyboard Elit
+### Elite Storyboarder
 
-Storyboard yang menunjukkan bakat disertakan juga cerita yang luar biasa dan mengesankan komunitas osu! secara luas akan diberi gelar **Elite Storyboarder**.
+osu! menganugerahkan gelar **Elite Storyboarder** kepada para pembuat storyboard (*storyboarder*) yang telah menciptakan banyak karya yang dikagumi oleh khalayak luas.
 
 - ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366)
 - ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
@@ -187,17 +187,17 @@ Storyboard yang menunjukkan bakat disertakan juga cerita yang luar biasa dan men
 - ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231)
 - ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669)
 
-### Terkait dengan gameplay
+### Terkait dengan permainan
 
-Para pemain ini mendapatkan gelar mereka melalui pencapaian tergila dalam game ini atau telah menyelesaikan tantangan tertentu.
+Pemain-pemain berikut memperoleh gelarnya masing-masing atas keberhasilan mereka dalam menorehkan rekor-rekor yang luar biasa atau menyelesaikan tantangan-tantangan tertentu yang terkait dengan permainan.
 
 | Pengguna | Gelar | Pencapaian |
 | :-- | :-- | :-- |
-| ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Mencetak NoMod FC pertama di [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
-| ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Mencetak FC pada semua beatmap berstatus Ranked pada game mode osu!taiko hingga 3 November 2019 |
+| ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Menorehkan FC NoMod pertama pada beatmap [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Menorehkan FC pada semua beatmap osu!taiko yang berstatus Ranked per tanggal 3 November 2019 |
 | ![][flag_NL] [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Tidak terdokumentasi* <!-- TODO: a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further --> |
-| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Memainkan semua beatmap osu! hingga 27 April 2019 |
-| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Memenangkan [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
+| ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Memainkan semua beatmap osu! yang berstatus Ranked per tanggal 27 April 2019 |
+| ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Memenangkan perlombaan [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ### Kontributor
 
