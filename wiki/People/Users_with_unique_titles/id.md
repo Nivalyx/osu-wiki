@@ -1,18 +1,14 @@
----
-outdated: true
----
+# Daftar pengguna dengan gelar khusus
 
-# Pengguna dengan gelar unik
+Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [gugus pengguna (*user group*)](/wiki/People/The_Team#user-groups). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen-momen unik yang telah mereka torehkan.
 
-Gelar pengguna biasanya untuk mereka yang berada dalam [kelompok pengguna](/wiki/People/The_Team#user-groups), namun khusus untuk pengguna yang tercantum di bawah ini, mereka memiliki gelar karena alasan lain. Sebagian besar gelar ini merupakan bentuk penghargaan terhadap kontribusi atau prestasi yang telah dicapai, selain itu sebagai sebuah ikon atau salah satu momen bersejarah lucu di osu!
-
-## Berdasarkan kategori, dengan alasannya
+## Berdasarkan kategori, beserta alasannya
 
 ### Pemenang World Cup
 
-Salah satu hadiah yang diberikan kepada pemenang [World Cup resmi](/wiki/Tournaments#official-world-cups) adalah gelar pengguna yang berlaku selama satu tahun semenjak mereka memenangkan turnamen itu.
+Setiap tahunnya, osu! menganugerahkan para pemenang turnamen [World Cup](/wiki/Tournaments#official-world-cups) dengan gelar khusus yang berhak untuk mereka sandang selama kurang lebih satu tahun hingga penyelenggaraan turnamen World Cup berikutnya.
 
-Pemenang [OWC 2020](/wiki/Tournaments/OWC/2020) dengan gelar **osu! Champion**:
+Berikut merupakan para pemenang [OWC 2020](/wiki/Tournaments/OWC/2020) yang saat ini menyandang gelar **osu! Champion**:
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
@@ -23,7 +19,7 @@ Pemenang [OWC 2020](/wiki/Tournaments/OWC/2020) dengan gelar **osu! Champion**:
 - ![][flag_US] [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
-Pemenang [TWC 2021](/wiki/Tournaments/TWC/2021) dengan gelar **osu!taiko Champion**:
+Berikut merupakan para pemenang [TWC 2021](/wiki/Tournaments/TWC/2021) yang saat ini menyandang gelar **osu!taiko Champion**:
 
 - ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ![][flag_JP] [Grape\_Tea](https://osu.ppy.sh/users/9540073)
@@ -31,7 +27,7 @@ Pemenang [TWC 2021](/wiki/Tournaments/TWC/2021) dengan gelar **osu!taiko Champio
 - ![][flag_JP] [syaron105](https://osu.ppy.sh/users/8741695)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
-Pemenang [CWC 2020](/wiki/Tournaments/CWC/2020) dengan gelar **osu!catch Champion**:
+Berikut merupakan para pemenang [CWC 2020](/wiki/Tournaments/CWC/2020) yang saat ini menyandang gelar **osu!catch Champion**:
 
 - ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626)
 - ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506)
@@ -40,7 +36,7 @@ Pemenang [CWC 2020](/wiki/Tournaments/CWC/2020) dengan gelar **osu!catch Champio
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520)
 
-Pemenang [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) dengan gelar **osu!mania Champion**:
+Berikut merupakan para pemenang [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) yang saat ini menyandang gelar **osu!mania Champion**:
 
 - ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061)
 - ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387)
@@ -49,9 +45,9 @@ Pemenang [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) dengan gelar **osu!mania C
 - ![][flag_BR] [Remu](https://osu.ppy.sh/users/8700468)
 - ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363)
 
-### Pemenang kontes General Mapping
+### Pemenang kontes-kontes mapping resmi
 
-Sebagian besar kontes mapping resmi menawarkan gelar **Elite Mapper** sebagai hadiah pertama.
+osu! pada umumnya menganugerahkan para pemenang kontes-kontes mapping yang berstatus resmi (*official mapping contests*) dengan gelar **Elite Mapper**.
 
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
 - ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309)
@@ -73,7 +69,7 @@ Sebagian besar kontes mapping resmi menawarkan gelar **Elite Mapper** sebagai ha
 - ![][flag_AU] [Lilac](https://osu.ppy.sh/users/58197)
 - ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023)
 - ![][flag_AU] [m980](https://osu.ppy.sh/users/3288)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
+- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)¹
 - ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993)
 - ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593)
 - ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)
@@ -89,9 +85,11 @@ Sebagian besar kontes mapping resmi menawarkan gelar **Elite Mapper** sebagai ha
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
-### Nominator Elit
+¹ Mao saat ini menyandang gelar Elite Mapper II atas keberhasilannya dalam memboyong gelar Elite Mapper pada dua kontes mapping yang berbeda: A Labour of Love dan Monthly Beatmapping Contest.
 
-Sejak 2020, dalam mendukung sistem pemeringkatan terhadap aktivitas anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), mereka telah dianugerahi dengan gelar **Elite Nominator**. Gelar ini diberikan pada awal setiap tahun terhadap kontribusi yang dibuat dan berlaku sekali saja ketika berada dalam tim, dan akan dihapus pada saat pengguna tersebut meninggalkan tim.
+### Elite Nominator
+
+Sejak tahun 2020, setiap tahunnya osu! menganugerahkan gelar **Elite Nominator** kepada para anggota [Beatmap Nominator (BN)](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) yang dinilai telah memberikan kontribusi yang lebih selama setahun ke belakang. Adapun gelar Elite Nominator tersebut akan hilang apabila pengguna yang bersangkutan dikeluarkan dan/atau mengundurkan diri dari BN atau NAT.
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
@@ -101,9 +99,9 @@ Sejak 2020, dalam mendukung sistem pemeringkatan terhadap aktivitas anggota [Bea
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
 
-### Pemenang kontes mapping Aspire
+### Pemenang kontes-kontes mapping Aspire
 
-Kontes mapping Aspire menawarkan variasi khusus dari gelar Elite Mapper, gelar ini dinamakan **Elite Mapper: Aspirant** sebagai bentuk pencapaian.
+osu! menganugerahkan gelar **Elite Mapper: Aspirant** kepada para pemenang kontes-kontes mapping Aspire.
 
 - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
 - ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
