@@ -85,47 +85,52 @@ osu! pada umumnya menganugerahkan para pemenang kontes-kontes mapping yang berst
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
-¹ Mao saat ini menyandang gelar Elite Mapper II atas keberhasilannya dalam memboyong gelar Elite Mapper pada dua kontes mapping yang berbeda: A Labour of Love dan Monthly Beatmapping Contest.
+¹ ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam memboyong gelar Elite Mapper pada dua kontes mapping yang berbeda: [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/en/Contests/Monthly_Beatmapping_Contest).
 
 ### Elite Nominator
 
 Sejak tahun 2020, setiap tahunnya osu! menganugerahkan gelar **Elite Nominator** kepada para anggota [Beatmap Nominator (BN)](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) yang dinilai telah memberikan kontribusi yang lebih selama setahun ke belakang. Adapun gelar Elite Nominator tersebut akan hilang apabila pengguna yang bersangkutan dikeluarkan dan/atau mengundurkan diri dari BN atau NAT.
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
-- ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
-- ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
-- ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
-- ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)
-- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
+- ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
+- ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)¹
+- ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)¹
+- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)¹
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
+
+¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), dan ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) saat ini menyandang gelar **Elite Nominator II** atas keberhasilan mereka dalam mempertahankan status Elite Nominator selama dua tahun berturut-turut.
 
 ### Pemenang kontes-kontes mapping Aspire
 
 osu! menganugerahkan gelar **Elite Mapper: Aspirant** kepada para pemenang kontes-kontes mapping Aspire.
 
-- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
+- ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)¹
 - ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
 - ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619)
 - ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792)
 - ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267)
-- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)²
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) menerima gelar ini setelah sebelumnya memiliki gelar Elite Mapper, jadi tim osu! meningkatkan levelnya menjadi **Elite Mapper II: Aspirant**. ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) saat ini lebih memilih untuk menggunakan gelar **osu!catch Champion**.
+¹ ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) saat ini menyandang gelar **Elite Mapper II: Aspirant** atas keberhasilannya dalam menjuarai [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) dan [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) secara bersamaan.
 
-### Pemenang kontes osu!remix
+² Atas permintaan dari pihak yang bersangkutan, ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) saat ini menyandang gelar **osu!catch Champion**.
 
-Kontes osu!remix menghadiahkan gelar **osu!mixer** sebagai hadiah utama dari kontes tersebut.
+### Pemenang kontes-kontes osu!remix
 
-- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)
+osu! menganugerahkan gelar **osu!mixer** kepada para pemenang kontes-kontes osu!remix.
+
+- ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)¹
 - ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574)
 
-### Artis unggulan
+¹ ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) saat ini menyandang gelar **osu!mixer II** atas keberhasilannya dalam menjuarai dua kontes osu!remix yang berbeda, yakni [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) dan [A Labour of Love](wiki/en/Contests/A_Labour_of_Love_Contest).
 
-[Artis unggulan](/wiki/Featured_Artists) yang memiliki akun osu! memiliki gelar **Featured Artist** untuk menunjukkan keterlibatan mereka dalam game ini.
+### Featured Artist
 
-![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) dan ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) memiliki gelar **osu!musician** atas kontribusinya di masa awal osu! dan merancang konsep musik dan tema resmi osu!, dan ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) memilih untuk menampilkan gelar **osu!mixer** miliknya ketika ia menjadi Artis Unggulan.
+osu! menganugerahkan gelar **Featured Artist** kepada para [Featured Artist](/wiki/Featured_Artists) yang memiliki akun osu! sebagai salah satu bentuk balas jasa atas lagu-lagu yang telah mereka sediakan.
+
+![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) dan ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) saat ini menyandang gelar **osu!musician** atas kontribusi mereka dalam menata efek-efek suara dan menggubah lagu tema resmi yang dimiliki oleh osu!. Di sisi lain, ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) lebih memilih untuk mempertahankan gelar **osu!mixer** yang dimilikinya di saat ia diangkat menjadi Featured Artist.
 
 | Pengguna | Artis |
 | :-- | :-- |
@@ -152,14 +157,14 @@ Kontes osu!remix menghadiahkan gelar **osu!mixer** sebagai hadiah utama dari kon
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 
-### Pemenang kontes perancangan maskot
+### Pemenang kontes-kontes desain maskot
 
-osu!team mengadakan kontes seni grafis yang terbuka untuk komunitas osu! dan menawarkan juga kesempatan untuk merancang atau merancang ulang beberapa maskot mode game yang dimiliki osu!. Pemenang kontes ini, serta orang - orang yang rancangannya digunakan sebagai maskot resmi osu!, telah dianugerahi gelar pengguna **osu!artist**.
+Dari waktu ke waktu, osu! telah beberapa kali mengadakan kontes desain maskot yang terbuka bagi seluruh ilustrator yang tertarik untuk mendesain atau merombak tampilan maskot-maskot yang ada. osu! menganugerahkan gelar **osu!artist** kepada para ilustrator yang karyanya berhasil terpilih sebagai pemenang.
 
-- ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) merancang **Mocha** dan membantu menghasilkan banyak karya seni grafis osu! lainnya.
-- ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) memenangkan [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2).
-- ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) merancang ulang **Yuzu**.
-- ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) merancang **Mani and Mari**.
+- ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) mendesain **Mocha** dan berbagai aset grafis lainnya yang ada di osu!.
+- ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) memenangkan kontes [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2).
+- ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672)  merombak ulang desain **Yuzu**.
+- ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) mendesain **Mani and Mari**.
 
 ### Hall of Famer
 
