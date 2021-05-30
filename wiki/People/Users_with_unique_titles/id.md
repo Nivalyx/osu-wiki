@@ -98,7 +98,7 @@ Sejak tahun 2020, setiap tahunnya osu! menganugerahkan gelar **Elite Nominator**
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)¹
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
 
-¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), dan ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) saat ini menyandang gelar **Elite Nominator II** atas keberhasilan mereka dalam mempertahankan status Elite Nominator selama dua tahun berturut-turut.
+¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), dan ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) saat ini menyandang gelar **Elite Nominator II** atas keberhasilan mereka dalam mempertahankan status Elite Nominator yang mereka miliki selama dua tahun berturut-turut.
 
 ### Pemenang kontes-kontes mapping Aspire
 
