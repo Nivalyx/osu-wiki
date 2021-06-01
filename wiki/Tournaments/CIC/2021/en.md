@@ -39,15 +39,15 @@ CIC 2021 is run by various Indonesian osu! community members.
 | Host | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751) |
 | Map selector | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Intel21](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
 | Streamer | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1830361) |
-| Commentator | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) |
-| Referee | *to be announced* |
+| Commentator | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869),  ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988) |
+| Referee | ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ![][flag_ID] [Asqed](https://osu.ppy.sh/users/6525565), ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) |
 | Graphic designer | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692), ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
 | Spreadsheet manager | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
-- **[Main spreadsheet](link tba "Google Sheets")**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDtfjCSGk1QtJRtCHHKaUD4uC3RwMC-aKJ8g3xDcQjomjmtKk_p8ARkd-TjJz5PXleqq8ukPHNPiYV/pubhtml "Google Sheets")**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1324864)
 - [Discord server](https://discord.gg/YwAYbPa "Discord")
 - [Livestream channel](https://www.twitch.tv/osuIndonesia/ "Twitch")
