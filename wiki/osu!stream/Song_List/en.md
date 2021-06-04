@@ -68,12 +68,6 @@ Packlist:
 | Bomb Boy - Ignition, Set, GO! | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![8/10](img/dif8.png "8/10") |
 | daniwellP - Nekomimi Switch | Team STREAM (![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) and ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269)) | ![7/10](img/dif7.png "7/10") |
 
-- Bomb Boy - Ignition, Set, GO! - [D33d](https://osu.ppy.sh/users/D33d) - ![4](img/dif8.png "4")
-  - [@BomuBoi](https://twitter.com/BomuBoi)
-- [daniwellP - Nekomimi Switch](https://osu.ppy.sh/beatmapsets/12892) - Team STREAM - ![3.5](img/dif7.png "3.5")
-  - [daniwellP's niconico profile](https://dic.nicovideo.jp/a/daniwellp/)
-  - [@daniwell_aidn](https://twitter.com/daniwell_aidn)
-
 See also:
   - [Bomb Boy's Twitter account](https://twitter.com/BomuBoi)
   - [daniwellP's website](https://aidn.jp/)
