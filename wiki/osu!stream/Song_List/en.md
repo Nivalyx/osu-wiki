@@ -55,6 +55,22 @@ See also:
   - [haru☆'s website](https://haru.ocv.me/)
   - [Garbled Waves' Bandcamp page](https://garbledwaves.bandcamp.com)
 
+## Free Pack 1.5
+
+This song pack features the song Want You Gone by Jonathan Coulton (under the Aperture Science alias) which was made famous by the video game [Portal 2](http://thinkwithportals.com/).
+
+Price: **Free**
+
+Packlist:
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Aperture Science - Want You Gone | ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328) | ![7/10](img/dif7.png "7/10") |
+
+See also:
+
+  - [Jonathan Coulton's website](https://www.jonathancoulton.com/)
+
 ## Free Pack 2
 
 This song pack features two songs of different variety by Bomb Boy and daniwellP respectively.
@@ -152,17 +168,6 @@ Price: **USD$0.99**
 
 - [Odyssey's Bandicamp](https://odysseymusic.bandcamp.com/)
 
-## Free Pack 1.5
-
-Price: **Free**
-
-**Packlist:*
-
-- [Aperture Science - Want You Gone](https://osu.ppy.sh/beatmapsets/29296) - [Larto](https://osu.ppy.sh/users/12328) - ![3.5](img/dif7.png "3.5")
-  - [Portal 2's website](http://thinkwithportals.com/)
-  - [Portal 2's soundtrack](http://www.thinkwithportals.com/music.php) (Volume 3)
-  - [@portal2news](https://twitter.com/portal2news)
-
 ## VVVVVV Pack Vol. 1
 
 Price: **USD$0.99**
@@ -225,6 +230,7 @@ Price: **USD$1.99**
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
