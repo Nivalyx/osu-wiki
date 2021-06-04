@@ -40,7 +40,7 @@ See also:
 
 ## Free Pack 1
 
-This song pack features two songs of different variety composed respectively by haru☆ and Garbled Waves.
+This song pack features two songs of different variety composed by haru☆ and Garbled Waves respectively.
 
 Price: **Free**
 
@@ -50,6 +50,29 @@ Packlist:
 | :-- | :-- | :-- |
 | haru☆ - March Handyman | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | ![4/10](img/dif4.png "4/10") |
 | Garbled Waves - Apatisk | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![6/10](img/dif6.png "6/10") |
+
+See also:
+  - [haru☆'s website](https://haru.ocv.me/)
+  - [Garbled Waves' Bandcamp page](https://garbledwaves.bandcamp.com)
+
+## Free Pack 2
+
+This song pack features two songs of different variety composed by Bomb Boy and daniwellP respectively.
+
+Price: **Free**
+
+Packlist:
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Bomb Boy - Ignition, Set, GO! | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![8/10](img/dif8.png "8/10") |
+| daniwellP - Nekomimi Switch | Team STREAM (![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) and ![][flag_CL] [Krisom](https://osu.ppy.sh/users/99269)) | ![7/10](img/dif7.png "7/10") |
+
+- Bomb Boy - Ignition, Set, GO! - [D33d](https://osu.ppy.sh/users/D33d) - ![4](img/dif8.png "4")
+  - [@BomuBoi](https://twitter.com/BomuBoi)
+- [daniwellP - Nekomimi Switch](https://osu.ppy.sh/beatmapsets/12892) - Team STREAM - ![3.5](img/dif7.png "3.5")
+  - [daniwellP's niconico profile](https://dic.nicovideo.jp/a/daniwellp/)
+  - [@daniwell_aidn](https://twitter.com/daniwell_aidn)
 
 See also:
   - [haru☆'s website](https://haru.ocv.me/)
@@ -102,18 +125,6 @@ Price: **USD$2.99**
 - [Koizumi's Bandicamp](https://tsundererecordings.bandcamp.com/)
 - [Koizumi's website](http://koizumi.teknolust.org/)
 - [@sosayaze](https://twitter.com/sosayaze)
-
-## Free Pack 2
-
-Price: **Free**
-
-**Packlist:*
-
-- Bomb Boy - Ignition, Set, GO! - [D33d](https://osu.ppy.sh/users/D33d) - ![4](img/dif8.png "4")
-  - [@BomuBoi](https://twitter.com/BomuBoi)
-- [daniwellP - Nekomimi Switch](https://osu.ppy.sh/beatmapsets/12892) - Team STREAM - ![3.5](img/dif7.png "3.5")
-  - [daniwellP's niconico profile](https://dic.nicovideo.jp/a/daniwellp/)
-  - [@daniwell_aidn](https://twitter.com/daniwell_aidn)
 
 ## Electronic Pack Vol. 1
 
@@ -217,6 +228,7 @@ Price: **USD$1.99**
 ![Preview of Expert play](img/Os-Demo.jpg "Preview of Expert play")
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
