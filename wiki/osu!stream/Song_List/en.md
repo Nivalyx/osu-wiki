@@ -25,19 +25,18 @@ Packlist:
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
 | nekodex - Liquid Future | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![7/10](img/dif7.png "7/10") |
-| tieff & Natteke - Endless Tower | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![2/10](img/dif2.png "2/10" |
-| tieff & Natteke - Sunrise | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![4/10](img/dif4.png "4") |
-| SkyMarshall - Hitchhikers | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | ![3/10](img/dif3.png "3" |
-
-- nekodex - Liquid Future - [mm201](https://osu.ppy.sh/users/mm201) - ![3.5](img/dif7.png "3.5")
-  - [nekodex's Soundcloud](https://soundcloud.com/nekodex/)
-  - [@nekodex](https://twitter.com/nekodex)
-- [tieff & Natteke - Endless Tower](https://osu.ppy.sh/beatmapsets/17076) - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![1](img/dif2.png "1")
-  - [natteke's osu! profile](https://osu.ppy.sh/users/natteke)
-  - [tieff's osu! profile](https://osu.ppy.sh/users/tieff)
-  - [@Nattekee](https://twitter.com/Nattekee)
+| tieff & Natteke - Endless Tower | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![2/10](img/dif2.png "2/10") |
+| tieff & Natteke - Sunrise | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![4/10](img/dif4.png "4/10") |
+| SkyMarshall - Hitchhikers | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | ![3/10](img/dif3.png "3/10") |
 
 See also:
+
+- [**nekodex's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/1)
+- [**tieff's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/34)
+- [nekodex's osu! profile](https://osu.ppy.sh/users/102)
+- [tieff's osu! profile](https://osu.ppy.sh/users/89619)
+- [Natteke's osu! profile](https://osu.ppy.sh/users/157177)
+- [SkyMarshall's website](https://hafskjold.net/skymarshallarts/)
 
 ## Free Pack 1
 
@@ -51,19 +50,6 @@ Price: **Free**
 - Garbled Waves - Apatisk - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![3](img/dif6.png "3")
   - [Garbled Waves' Soundcloud](https://soundcloud.com/garbled-waves/)
   - [@GarbledWaves](https://twitter.com/GarbledWaves)
-
-## Bundled Songs
-
-Price: **Free**
-
-**Packlist:*
-
-- SkyMarshall - Hitchhikers - [Gens](https://osu.ppy.sh/users/Gens) - ![1.5](img/dif3.png "1.5")
-  - [SkyMarshall's website](https://hafskjold.net/skymarshallarts/)
-- [tieff & Natteke - Sunrise](https://osu.ppy.sh/beatmapsets/34430) - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![2](img/dif4.png "2")
-  - [natteke's osu! profile](https://osu.ppy.sh/users/natteke)
-  - [tieff's osu! profile](https://osu.ppy.sh/users/tieff)
-  - [@Nattekee](https://twitter.com/Nattekee)
 
 ## Cranky Pack Vol. 1
 
