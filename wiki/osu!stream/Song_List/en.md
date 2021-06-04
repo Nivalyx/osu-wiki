@@ -57,7 +57,7 @@ See also:
 
 ## Free Pack 1.5
 
-This song pack features the song Want You Gone by Jonathan Coulton (under the Aperture Science alias) which was made famous by the video game [Portal 2](http://thinkwithportals.com/).
+This song pack features the song Want You Gone by Jonathan Coulton (under the Aperture Science alias) as made famous by the video game [Portal 2](http://thinkwithportals.com/).
 
 Price: **Free**
 
