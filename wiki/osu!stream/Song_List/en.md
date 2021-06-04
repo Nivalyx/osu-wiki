@@ -6,7 +6,7 @@ osu!stream features up to 45 playable songs spread across various bundles and so
 
 At the Store menu, you can scroll through the list of all available song packs and preview the beatmaps inside before downloading. Upon selecting the `PREVIEW` button,
 
-As with the [Featured Artist](wiki/en/Featured_Artists) that osu! has nowadays, all contents included in the game are licensed ahead of their releasee. It is worth noting however that osu!stream beatmaps are running on the `.osf2` file format (instead of [`.osz`](/wiki/osu%21_File_Formats/Osz_%28file_format%29)) and therefore not compatible with the regular osu! cilent.
+Just like the [Featured Artists](wiki/en/Featured_Artists) that osu! have nowadays, all contents in the game are licensed ahead of their release. It is worth noting however that osu!stream beatmaps are running on the `.osf2` file format (instead of [`.osz`](/wiki/osu%21_File_Formats/Osz_%28file_format%29)) and therefore not compatible with the regular osu! cilent.
 
 - Most of the songs are original.
 - At the Store page, click on the bundle and preview the beatmaps inside before buying the pack. Song preview will be played.
@@ -218,4 +218,5 @@ Price: **USD$1.99**
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
