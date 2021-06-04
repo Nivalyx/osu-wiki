@@ -40,7 +40,7 @@ See also:
 
 ## Free Pack 1
 
-This song pack features two songs of different variety composed by haru☆ and Garbled Waves respectively.
+This song pack features two songs of different variety by haru☆ and Garbled Waves respectively.
 
 Price: **Free**
 
@@ -57,7 +57,7 @@ See also:
 
 ## Free Pack 2
 
-This song pack features two songs of different variety composed by Bomb Boy and daniwellP respectively.
+This song pack features two songs of different variety by Bomb Boy and daniwellP respectively.
 
 Price: **Free**
 
@@ -75,12 +75,14 @@ Packlist:
   - [@daniwell_aidn](https://twitter.com/daniwell_aidn)
 
 See also:
-  - [haru☆'s website](https://haru.ocv.me/)
-  - [Garbled Waves' Bandcamp page](https://garbledwaves.bandcamp.com)
+  - [Bomb Boy's Twitter account](https://twitter.com/BomuBoi)
+  - [daniwellP's website](https://aidn.jp/)
 
 ## Cranky Pack Vol. 1
 
-Price: **USD$1.99**
+This song pack features four songs by Cranky.
+
+Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
 **Packlist:*
 
