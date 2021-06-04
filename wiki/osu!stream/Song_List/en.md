@@ -24,7 +24,10 @@ Packlist:
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
-| nekodex - Liquid Future | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![7/10](img/dif7.png "7/10")
+| nekodex - Liquid Future | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![7/10](img/dif7.png "7/10") |
+| tieff & Natteke - Endless Tower | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![2/10](img/dif2.png "2/10" |
+| tieff & Natteke - Sunrise | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | ![4/10](img/dif4.png "4") |
+| SkyMarshall - Hitchhikers | ![][flag_MX] [Gens](https://osu.ppy.sh/users/23062) | ![3/10](img/dif3.png "3" |
 
 - nekodex - Liquid Future - [mm201](https://osu.ppy.sh/users/mm201) - ![3.5](img/dif7.png "3.5")
   - [nekodex's Soundcloud](https://soundcloud.com/nekodex/)
@@ -224,3 +227,5 @@ Price: **USD$1.99**
 ![Preview of Expert play](img/Os-Demo.jpg "Preview of Expert play")
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
