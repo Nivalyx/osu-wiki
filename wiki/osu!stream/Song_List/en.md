@@ -16,7 +16,7 @@ If a song has been mapped in osu!, links to the corresponding beatmaps can be fo
 
 ## Bundled songs
 
-Songs featured on this bundle are default songs that come preloaded with a fresh osu!stream install.
+This bundle features four default songs that come preloaded with a fresh osu!stream install.
 
 Price: **Free**
 
@@ -24,7 +24,7 @@ Packlist:
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
-| 
+| nekodex - Liquid Future | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![7/10](img/dif7.png "7/10")
 
 - nekodex - Liquid Future - [mm201](https://osu.ppy.sh/users/mm201) - ![3.5](img/dif7.png "3.5")
   - [nekodex's Soundcloud](https://soundcloud.com/nekodex/)
@@ -193,7 +193,7 @@ Price: **USD$1.99**
 
 - [SHIKI's website](http://shiki2.sakura.ne.jp/)
 
-## Images
+## Screenshots
 
 ---
 
@@ -222,3 +222,5 @@ Price: **USD$1.99**
 ---
 
 ![Preview of Expert play](img/Os-Demo.jpg "Preview of Expert play")
+
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
