@@ -2,28 +2,17 @@
 
 *For information on the base game, see: [osu!stream](/wiki/osu!stream)*
 
-As of [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release), osu!stream features up to 45 playable songs spread across various bundles and song packs.
+osu!stream features up to 45 playable songs spread across various bundles and song packs. As of [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release), all songs are available to be downloaded free of charge.
 
-If a song has been mapped in osu!, links to the corresponding beatmaps can be found in the in-game beatmap listing page. It is worth noting however that osu!stream beatmaps utilize the `.osz2` file format (instead of [`.osz`](/wiki/osu%21_File_Formats/Osz_%28file_format%29)) and are therefore not compatible with the regular osu! cilent.
+At the Store menu, you can preview the beatmaps inside before downloading a song pack.
+
+If a song has been mapped in osu!, links to the corresponding beatmaps can be found in the in-game beatmap listing page. It is worth noting however that osu!stream beatmaps are running on the `.osz2` file format (instead of [`.osz`](/wiki/osu%21_File_Formats/Osz_%28file_format%29)) and therefore not compatible with the regular osu! cilent.
 
 - Most of the songs are original.
 - At the Store page, click on the bundle and preview the beatmaps inside before buying the pack. Song preview will be played.
   - Preview demo have _four_ difficulty spreads that is triggered automatically based on song progression. It will start at Easy and slowly "Stream Up" to Expert difficulty. Please note that this will not occur in the actual gameplay.
 - If the song can be found on osu!, it will be linked.
   - osu! beatmap =/= osu! stream beatmap because most players have only one pointing cursor on their PC.
-
-## Free Pack 1
-
-Price: **Free**
-
-**Packlist:*
-
-- [Haru☆ - March Handyman](https://osu.ppy.sh/beatmapsets/7850) - [Sushi](https://osu.ppy.sh/users/Sushi) - ![2](img/dif4.png "2")
-  - [Haru☆'s website](http://viotex.matrix.jp/)
-  - [Haru☆'s blog](http://skatepunkscafe.blog117.fc2.com/)
-- Garbled Waves - Apatisk - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![3](img/dif6.png "3")
-  - [Garbled Waves' Soundcloud](https://soundcloud.com/garbled-waves/)
-  - [@GarbledWaves](https://twitter.com/GarbledWaves)
 
 ## Bundled Songs (currently bundled)
 
@@ -38,6 +27,19 @@ Price: **Free**
   - [natteke's osu! profile](https://osu.ppy.sh/users/natteke)
   - [tieff's osu! profile](https://osu.ppy.sh/users/tieff)
   - [@Nattekee](https://twitter.com/Nattekee)
+
+## Free Pack 1
+
+Price: **Free**
+
+**Packlist:*
+
+- [Haru☆ - March Handyman](https://osu.ppy.sh/beatmapsets/7850) - [Sushi](https://osu.ppy.sh/users/Sushi) - ![2](img/dif4.png "2")
+  - [Haru☆'s website](http://viotex.matrix.jp/)
+  - [Haru☆'s blog](http://skatepunkscafe.blog117.fc2.com/)
+- Garbled Waves - Apatisk - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![3](img/dif6.png "3")
+  - [Garbled Waves' Soundcloud](https://soundcloud.com/garbled-waves/)
+  - [@GarbledWaves](https://twitter.com/GarbledWaves)
 
 ## Bundled Songs
 
