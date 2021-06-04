@@ -74,7 +74,7 @@ See also:
 
 ## Cranky Pack Vol. 1
 
-This song pack features four songs by Cranky.
+This song pack features four songs by rave music extraordinaire Cranky.
 
 Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
