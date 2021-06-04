@@ -4,7 +4,7 @@
 
 As of [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release), osu!stream features up to 45 playable songs spread across various bundles and song packs.
 
-If the song has been mapped in osu!, links to corresponding beatmaps can be found in each of the song's page. It is worth noting however that osu!stream beatmaps `.osz2` instead of `.osz`
+If a song has been mapped in osu!, links to the corresponding beatmaps can be found in the in-game beatmap listing page. It is worth noting however that osu!stream beatmaps utilize the `.osz2` file format (instead of [`.osz`](/wiki/osu%21_File_Formats/Osz_%28file_format%29)) and are therefore not compatible with the regular osu! cilent.
 
 - Most of the songs are original.
 - At the Store page, click on the bundle and preview the beatmaps inside before buying the pack. Song preview will be played.
