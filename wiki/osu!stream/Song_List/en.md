@@ -14,11 +14,17 @@ If a song has been mapped in osu!, links to the corresponding beatmaps can be fo
 - If the song can be found on osu!, it will be linked.
   - osu! beatmap =/= osu! stream beatmap because most players have only one pointing cursor on their PC.
 
-## Bundled Songs (currently bundled)
+## Bundled songs
+
+Songs featured on this bundle are default songs that come preloaded with a fresh osu!stream install.
 
 Price: **Free**
 
-**Packlist:*
+Packlist:
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| 
 
 - nekodex - Liquid Future - [mm201](https://osu.ppy.sh/users/mm201) - ![3.5](img/dif7.png "3.5")
   - [nekodex's Soundcloud](https://soundcloud.com/nekodex/)
@@ -27,6 +33,8 @@ Price: **Free**
   - [natteke's osu! profile](https://osu.ppy.sh/users/natteke)
   - [tieff's osu! profile](https://osu.ppy.sh/users/tieff)
   - [@Nattekee](https://twitter.com/Nattekee)
+
+See also:
 
 ## Free Pack 1
 
