@@ -6,7 +6,7 @@ osu!stream features up to 45 playable songs spread across various bundles and so
 
 At the Store menu, you can scroll through the list of all available song packs and preview the beatmaps inside before downloading. Upon selecting the `PREVIEW` button,
 
-If a song has also been mapped in osu!, links to the corresponding beatmaps of the song can be found in the in-game beatmap listing page. It is worth noting however that osu!stream beatmaps are running on the `.osf2` file format (instead of [`.osz`](/wiki/osu%21_File_Formats/Osz_%28file_format%29)) and therefore not compatible with the regular osu! cilent.
+As with the [Featured Artist](wiki/en/Featured_Artists) that osu! has nowadays, all contents included in the game are licensed ahead of their releasee. It is worth noting however that osu!stream beatmaps are running on the `.osf2` file format (instead of [`.osz`](/wiki/osu%21_File_Formats/Osz_%28file_format%29)) and therefore not compatible with the regular osu! cilent.
 
 - Most of the songs are original.
 - At the Store page, click on the bundle and preview the beatmaps inside before buying the pack. Song preview will be played.
@@ -22,7 +22,7 @@ Price: **Free**
 
 Packlist:
 
-| Song | Mapper | Difficulty Rating |
+| Song | Mapper | Difficulty rating |
 | :-- | :-- | :-- |
 | nekodex - Liquid Future | ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | ![7/10](img/dif7.png "7/10") |
 | tieff & Natteke - Endless Tower | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![2/10](img/dif2.png "2/10") |
@@ -40,16 +40,20 @@ See also:
 
 ## Free Pack 1
 
+This song pack features two songs of different variety composed respectively by haru☆ and Garbled Waves.
+
 Price: **Free**
 
-**Packlist:*
+Packlist:
 
-- [Haru☆ - March Handyman](https://osu.ppy.sh/beatmapsets/7850) - [Sushi](https://osu.ppy.sh/users/Sushi) - ![2](img/dif4.png "2")
-  - [Haru☆'s website](http://viotex.matrix.jp/)
-  - [Haru☆'s blog](http://skatepunkscafe.blog117.fc2.com/)
-- Garbled Waves - Apatisk - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![3](img/dif6.png "3")
-  - [Garbled Waves' Soundcloud](https://soundcloud.com/garbled-waves/)
-  - [@GarbledWaves](https://twitter.com/GarbledWaves)
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| haru☆ - March Handyman | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | ![4/10](img/dif4.png "4/10") |
+| Garbled Waves - Apatisk | ![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) | ![6/10](img/dif6.png "6/10") |
+
+See also:
+  - [haru☆'s website](https://haru.ocv.me/)
+  - [Garbled Waves' Bandcamp page](https://garbledwaves.bandcamp.com)
 
 ## Cranky Pack Vol. 1
 
