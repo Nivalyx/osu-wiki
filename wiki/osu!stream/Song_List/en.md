@@ -4,6 +4,8 @@
 
 As of [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release), osu!stream features up to 45 playable songs spread across various bundles and song packs.
 
+If the song has been mapped in osu!, links to corresponding beatmaps can be found in each of the song's page. It is worth noting however that osu!stream beatmaps `.osz2` instead of `.osz`
+
 - Most of the songs are original.
 - At the Store page, click on the bundle and preview the beatmaps inside before buying the pack. Song preview will be played.
   - Preview demo have _four_ difficulty spreads that is triggered automatically based on song progression. It will start at Easy and slowly "Stream Up" to Expert difficulty. Please note that this will not occur in the actual gameplay.
