@@ -250,3 +250,4 @@ Initially, this song pack was included in the base game's launch with a price ta
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
