@@ -189,7 +189,7 @@ See also:
 
 Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-This song pack features four songs by veteran BMS music producer SHIKI.
+This song pack features four songs by renowned BMS music producer SHIKI.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
