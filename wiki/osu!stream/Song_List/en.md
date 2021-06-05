@@ -212,10 +212,37 @@ Initially, this song pack was included in the base game's launch with a price ta
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
-| Amane - Eternal Fullmoon | Team STREAM (![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) and ![][flag_FR] [Kurai](https://osu.ppy.sh/users/98661)) | *unknown* |
+| Amane - Eternal Fullmoon | *unknown* | *unknown* |
 | Amane - Snow, White, Echo | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | *unknown* |
-| SOU1 - The Maid's Blood and the Pocket Watch | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) | *unknown* |
+| sou1 - The Maid's Blood and the Pocket Watch | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) | *unknown* |
 | Lix - Phantom Ensemble -Ark Trance mix- | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | *unknown* |
+
+See also:
+
+- [Amane/Rolling Contact's website](https://youzyo.net/)
+- [sou1's YouTube channel](https://www.youtube.com/channel/UCDOnl9xBMM-SZtCKKu178NA)
+- [Lix's website](https://levolution.info)
+
+## Unreleased Tracks Vol. 2
+
+Price: **Free** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release))
+
+This song pack features four songs/arrangements of original Touhou Project compositions by various musicians from across the world. 
+
+Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as a paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). This song pack has consequently been re-released as a free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Lix - Electro Magnetic Pulse | *unknown* | *unknown* |
+| haru☆ - Septette for the Dead Princess | ![][flag_US] [Lybydose](https://osu.ppy.sh/users/64501) | *unknown* |
+| Amane - BOOZEHOUND (DJ mix) | ![][flag_FR] [Sushi](https://osu.ppy.sh/users/43108) | *unknown* |
+| Amane - Being Proof | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | *unknown* |
+
+See also:
+
+- [Lix's website](https://levolution.info)
+- [haru☆'s website](https://haru.ocv.me/)
+- [Amane/Rolling Contact's website](https://youzyo.net/)
 
 ## Screenshots
 
