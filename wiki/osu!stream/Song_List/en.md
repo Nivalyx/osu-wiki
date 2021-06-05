@@ -206,9 +206,16 @@ See also:
 
 Price: **Free** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release))
 
-This song pack features four songs/arrangements of original Touhou Project compositions from various musicians. 
+This song pack features four songs/arrangements of original Touhou Project compositions by various musicians from across the world. 
 
 Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as a paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). This song pack has consequently been re-released as a free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Amane - Eternal Fullmoon | Team STREAM (![][flag_GB] [RandomJibberish](https://osu.ppy.sh/users/157879) and ![][flag_FR] [Kurai](https://osu.ppy.sh/users/98661)) | *unknown* |
+| Amane - Snow, White, Echo | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | *unknown* |
+| SOU1 - The Maid's Blood and the Pocket Watch | ![][flag_TW] [Alace](https://osu.ppy.sh/users/25993) | *unknown* |
+| Lix - Phantom Ensemble -Ark Trance mix- | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | *unknown* |
 
 ## Screenshots
 
@@ -247,7 +254,10 @@ Initially, this song pack was included in the base game's launch with a price ta
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_TW]: /wiki/shared/flag/TW.gif "Alace"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
