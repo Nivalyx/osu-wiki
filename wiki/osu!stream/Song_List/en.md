@@ -208,7 +208,7 @@ Price: **Free** / **USD$1.99** (pre-[v1.1 update](https://news.osustream.com/pos
 
 This song pack features four songs/arrangements of original Touhou Project compositions from various musicians. 
 
-Initially, this song pack was included in the base game's launch. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as a paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). Since then, this song pack has consequently been re-released as a free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
+Initially, this song pack was included in the base game's launch with a price tag of USD$1.99. However, due to legal concerns over the distribution of assets related to Touhou Project in the App Store as a paid content, this song pack was later pulled in the [v1.1 update](https://news.osustream.com/post/10624373514/osustream-v11-release). Since then, this song pack has consequently been re-released as a free content in [the 2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release).
 
 ## Screenshots
 
