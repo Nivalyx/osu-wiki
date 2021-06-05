@@ -242,31 +242,31 @@ See also:
 
 ---
 
-![Song List](/wiki/osu!stream/img/Os-SL.jpg "Song List")
+![The song selection (\"Select your track!\") screen](/wiki/osu!stream/img/Os-SL.jpg "The song selection (\"Select your track!\") screen")
 
 ---
 
-![Song Information](/wiki/osu!stream/img/Os-SI.png "Song Information")
+![The Song Info screen](/wiki/osu!stream/img/Os-SI.png "The Song Info screen")
 
 ---
 
-![Store screen](/wiki/osu!stream/img/Os-Store.jpg "Store screen")
+![The Store (\"Download more tracks!\") screen](/wiki/osu!stream/img/Os-Store.jpg "The Store (\"Download more tracks!\") screen")
 
 ---
 
-![Loading Preview](img/Os-Demo_Load.jpg "Loading Preview")
+![The preview loading screen](img/Os-Demo_Load.jpg "The preview loading screen")
 
 ---
 
-![Preview Song Information](img/Os-Demo_Song.jpg "Preview Song Information")
+![The song information preview screen](img/Os-Demo_Song.jpg "The song information preview screen")
 
 ---
 
-![Preview Stream Up to Expert (Note: Does not occur in actual gameplay)](img/Os-Demo_SU.jpg "Preview Stream Up to Expert \(Note: Does not occur in actual gameplay\)")
+![Preview of Stream mode gameplay](img/Os-Demo_SU.jpg "Preview of Stream mode gameplay")
 
 ---
 
-![Preview of Expert play](img/Os-Demo.jpg "Preview of Expert play")
+![Preview of Expert mode gameplay](img/Os-Demo.jpg "Preview of Expert mode gameplay")
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
