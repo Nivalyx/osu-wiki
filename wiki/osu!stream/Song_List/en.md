@@ -20,7 +20,7 @@ This bundle features four default songs that come preloaded with a fresh osu!str
 
 Price: **Free**
 
-Packlist:
+Track list:
 
 | Song | Mapper | Difficulty rating |
 | :-- | :-- | :-- |
@@ -44,7 +44,7 @@ This song pack features two songs of different variety by haru☆ and Garbled Wa
 
 Price: **Free**
 
-Packlist:
+Track list:
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -61,7 +61,7 @@ This song pack features the song Want You Gone by Jonathan Coulton (under the Ap
 
 Price: **Free**
 
-Packlist:
+Track list:
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -77,7 +77,7 @@ This song pack features two songs of different variety by Bomb Boy and daniwellP
 
 Price: **Free**
 
-Packlist:
+Track list:
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -94,22 +94,29 @@ This song pack features four songs by rave music extraordinaire Cranky.
 
 Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-**Packlist:*
+Track list:
 
-- Cranky - 1970 - [IceBeam](https://osu.ppy.sh/users/IceBeam) - ![2](img/dif4.png "2")
-- Cranky - Crocus - [Xgor](https://osu.ppy.sh/users/Xgor) - ![2](img/dif4.png "2")
-- Cranky - Into the Unknown - [Samah](https://osu.ppy.sh/users/Samah) - ![4](img/dif8.png "4")
-- Cranky - Dee Dee Cee - [D33d](https://osu.ppy.sh/users/D33d) - ![4.5](img/dif9.png "4.5")
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
+| Cranky - 1970 | ![][flag_RU] [IceBeam](https://osu.ppy.sh/users/208440) | ![4/10](img/dif4.png "4/10") |
+| Cranky - Crocus | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | ![4/10](img/dif4.png "4/10") |
+| Cranky - Into the Unknown | ![][flag_AU] [Samah](https://osu.ppy.sh/users/343490) | ![8/10](img/dif8.png "8/10") |
+| Cranky - Dee Dee Cee | ![][flag_GB] [D33d](https://osu.ppy.sh/users/791387) | ![9/10](img/dif9.png "9/10") |
 
-**Source:*
-
+See also:
+- [**Cranky's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/23)
 - [Cranky's website](https://www.feline-groove.com/)
 
 ## OK Go Vol. 1
 
-Price: **USD$1.99**
+This song pack features four songs by American rock band OK GO.
 
-**Packlist:*
+Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
+
+Track list:
+
+| Song | Mapper | Difficulty Rating |
+| :-- | :-- | :-- |
 
 - OK Go - All Is Not Lost - [mm201](https://osu.ppy.sh/users/mm201) - ![2.5](img/dif5.png "2.5")
 - OK Go - End Love - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![1.5](img/dif3.png "1.5")
@@ -228,9 +235,12 @@ Price: **USD$1.99**
 
 ![Preview of Expert play](img/Os-Demo.jpg "Preview of Expert play")
 
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
