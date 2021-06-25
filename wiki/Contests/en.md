@@ -185,18 +185,11 @@ Unofficial contests are contests that are being hosted by members of the communi
 
 #### Pending Cup
 
-The Pending Cup is a free-for-all mapping contest that is being held yearly by prominent members of the Chinese mapping community. Although Pending Cup was only intended for Chinese-speaking members of the community at first, the contest has since becoming more and more global in the recent iterations.
+The Pending Cup is a free-for-all mapping contest that is being held yearly by prominent members of the Chinese mapping community. Although Pending Cup was specifically intended for Chinese-speaking members of the community at first, the contest has since been expanded to incorporate entries from other mappers from around the world as well due to growing interest.
 
-##### Pending Cup \#1 (2013)
-
-| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
-| :-- | :-- | :-- | :-- | :-- |
-| 1 | TERRA - 華爛漫 -Flowers- | [buhei](https://osu.ppy.sh/users/1371514) | [Flask](https://osu.ppy.sh/users/959763) | [Nyquill](https://osu.ppy.sh/users/682935) |
-| 2 | 葉月ゆら - 宵闇花火 | [Lan Wings](https://osu.ppy.sh/users/467860) | [Kotone](https://osu.ppy.sh/users/26507) | [Regou](https://osu.ppy.sh/users/419954) |
-| 3 | An - アートコア神社 | [Flower](https://osu.ppy.sh/users/1033017) | [Amamiya Yuko](https://osu.ppy.sh/users/873961) | [Regou](https://osu.ppy.sh/users/419954) |
-
-- [Contest thread](https://osu.ppy.sh/community/forums/topics/135492)
-- [Results post](https://osu.ppy.sh/community/forums/topics/152966)
+| Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
+| :-- | :-- | :-- | :-- |
+| [\#1 (2013)](https://osu.ppy.sh/community/forums/topics/135492) | ![][flag_CN] [buhei](https://osu.ppy.sh/users/1371514) (*TERRA - 華爛漫 -Flowers-*), ![][flag_CN] [Lan Wings](https://osu.ppy.sh/users/467860) (*葉月ゆら - 宵闇花火*), ![][flag_AU] [Flower](https://osu.ppy.sh/users/1033017) (*An - アートコア神社*) | ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) (*TERRA - 華爛漫 -Flowers-*), ![][flag_HK] [Kotone](https://osu.ppy.sh/users/26507) (*葉月ゆら - 宵闇花火*), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) (*An - アートコア神社*) | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) (*TERRA - 華爛漫 -Flowers-*), ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) (*葉月ゆら - 宵闇花火* and *An - アートコア神社*) |
 
 #### Pending Cup \#2 (2014)
 
@@ -295,6 +288,12 @@ Newspaper Cup is an annual mapping contest which aims at attracting normal playe
 
 - [Contest thread](https://osu.ppy.sh/community/forums/topics/690824)
 - [Results post](https://osu.ppy.sh/community/forums/topics/721264)
+
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 
 [osu!]: /wiki/shared/mode/osu.png
 [osu!taiko]: /wiki/shared/mode/taiko.png
