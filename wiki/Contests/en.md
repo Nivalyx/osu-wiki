@@ -2,9 +2,15 @@
 
 # Contests
 
-A list of contests that are not mentioned on the [Community Contests page](https://osu.ppy.sh/community/contests) (mostly before late-2016 and other [community-ran contests](#community-contests)).
+Section dedicated for contests held throughout the osu! community.
 
-## Monthly Beatmapping Contest
+## Official Contests
+
+Official contests are contests that are being hosted (or recognized as official) by the [osu!team](https://osu.ppy.sh/wiki/en/People/The_Team). Most official contests have their own listing in the [contests page](https://osu.ppy.sh/community/contests) dedicated to them.
+
+### Official Beatmapping Contests
+
+#### Monthly Beatmapping Contest
 
 *Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
@@ -173,11 +179,13 @@ osu!remix was a contest where musicians were tasked with remixing nekodex's "cir
 
 ## Community Contests
 
-Unofficial contests hosted by the communities.
+Unofficial contests are contests that are being hosted by members of the community. Contest organizers who are looking to add their contest to the list below are welcome to do so by opening a GitHub pull request in the [osu-wiki repository](https://github.com/ppy/osu-wiki) following the [osu! wiki contribution guide](/wiki/osu!_wiki_Contribution_Guide).
 
-### Pending Cup
+### Community Mapping Contests
 
-The Pending Cup is a mapping contest where the main participants are usually Chinese. The Pending Cup encourages creativity and major mapping principles, throughout all skill levels - especially novice mappers.
+#### Pending Cup
+
+The Pending Cup is a free-for-all mapping contest that is being held yearly by prominent members of the Chinese mapping community. Although Pending Cup was only intended for Chinese-speaking members of the community at first, the contest has since becoming more and more global in the recent iterations.
 
 #### Pending Cup \#1 (2013)
 
