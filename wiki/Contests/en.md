@@ -187,7 +187,7 @@ Unofficial contests are contests that are being hosted by members of the communi
 
 The Pending Cup is a free-for-all mapping contest that is being held yearly by prominent members of the Chinese mapping community. Although Pending Cup was only intended for Chinese-speaking members of the community at first, the contest has since becoming more and more global in the recent iterations.
 
-#### Pending Cup \#1 (2013)
+##### Pending Cup \#1 (2013)
 
 | Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- |
