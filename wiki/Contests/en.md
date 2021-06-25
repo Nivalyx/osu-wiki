@@ -191,7 +191,7 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [\#1 (2013).1](https://osu.ppy.sh/community/forums/topics/135492) | TERRA - 華爛漫 -Flowers- | ![osu!][osu!] | ![][flag_CN] [buhei](https://osu.ppy.sh/users/1371514)  (*葉月ゆら - 宵闇花火*),  (*An - アートコア神社*) | ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) |
+| [\#1 (2013).1](https://osu.ppy.sh/community/forums/topics/135492) | TERRA - 華爛漫 -Flowers- | ![osu!][osu!] | ![][flag_CN] [buhei](https://osu.ppy.sh/users/1371514) | ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763) | ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) |
 | [\#1 (2013).2](https://osu.ppy.sh/community/forums/topics/135492) | 葉月ゆら - 宵闇花火 | ![osu!][osu!] | ![][flag_CN] [Lan Wings](https://osu.ppy.sh/users/467860) | ![][flag_HK] [Kotone](https://osu.ppy.sh/users/26507) | ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) |
 | [\#1 (2013).3](https://osu.ppy.sh/community/forums/topics/135492) | An - アートコア神社 | ![osu!][osu!] | ![][flag_AU] [Flower](https://osu.ppy.sh/users/1033017) | ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) | ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) |
 | [\#2 (2014).1](https://osu.ppy.sh/community/forums/topics/229019) | Sharlo & Sabbo - 桜の花が舞い落ちるとき | ![osu!][osu!] | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | ![][flag_CN] [eveless](https://osu.ppy.sh/users/102976) |
