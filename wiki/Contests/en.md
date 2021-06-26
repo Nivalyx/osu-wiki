@@ -94,8 +94,14 @@ The Fan Art Contest is a drawing contest open to all artists across the osu! com
 | [4](https://osu.ppy.sh/community/forums/topics/247101) | Halloween | ![][flag_MY] [DumplingYumYum](https://osu.ppy.sh/users/1715930) | ![][flag_US] [cosmictea](https://osu.ppy.sh/users/16106572) | ![][flag_ID] [RedViolet](https://osu.ppy.sh/users/2221040) | [Results](https://osu.ppy.sh/home/news/2014-11-12-fourth-official-osu-fanart-contest-results) |
 | [5](https://osu.ppy.sh/community/forums/topics/262187) | Christmas | ![][flag_CA] [phibonnachee](https://osu.ppy.sh/users/778995) | ![][flag_ID] [NotKPKevin](https://osu.ppy.sh/users/2835619) | ![][flag_FR] [Riversouls](https://osu.ppy.sh/users/3163257) | [Results](https://osu.ppy.sh/home/news/2015-01-08-fifth-official-osu-fanart-contest-results) |
 | [6](https://osu.ppy.sh/home/news/2016-07-18-osu-mascot-design-contest) | osu!taiko Mascot Design | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | ![][flag_AE] [\[ Glitch \]](https://osu.ppy.sh/users/2835619) | ![][flag_HK] [crystalsuicune](https://osu.ppy.sh/users/9974) | [Results](https://osu.ppy.sh/home/news/2016-09-21-osutaiko-mascot-community-vote-results) |
+| [7](https://osu.ppy.sh/home/news/2016-10-19-flash-fanart-contest-7-halloween) | Halloween | ![][flag_AU] [56567878ae](https://osu.ppy.sh/users/2842278) | ![][flag_CZ] [Eilion](https://osu.ppy.sh/users/8258719) | ![][flag_ID] [xiemon](https://osu.ppy.sh/users/5203667) | [Results](https://osu.ppy.sh/home/news/2016-10-29-halloween-cometh) |
+| [8](https://osu.ppy.sh/home/news/2016-11-28-fanart-contest-8-christmas) | Christmas | ![][flag_US] [rerulili-](https://osu.ppy.sh/users/4457608) | ![][flag_US] [pyun](https://osu.ppy.sh/users/981534) | ![][flag_PH] [euree](https://osu.ppy.sh/users/7980243) | [Results](https://osu.ppy.sh/home/news/2016-12-26-christmas-fan-art-contest-results) |
+| [9](https://osu.ppy.sh/home/news/2017-03-21-fanart-contest-9-spring) | Spring | ![][flag_DE] [Evaine](https://osu.ppy.sh/users/7295733) | ![][flag_JP] [suiseki](https://osu.ppy.sh/users/4792023) | ![][flag_ID] [Karkovb152](https://osu.ppy.sh/users/5828215) | [Results](https://osu.ppy.sh/home/news/2017-04-27-spring-fanart-contest-results) |
+| [10](https://osu.ppy.sh/home/news/2017-06-15-mocha-fanart-contest-now-open) | Mocha in Summer | ![][flag_FR] [Sylux6](https://osu.ppy.sh/users/2607507) | ![][flag_PL] [sh00p](https://osu.ppy.sh/users/5272918) | ![][flag_US] [Lilina](https://osu.ppy.sh/users/2920755) | [Results](https://osu.ppy.sh/home/news/2017-07-31-mocha-in-summer-fanart-contest-results) |
+| [11 (Halloween 2017)](https://osu.ppy.sh/home/news/2017-10-09-halloween-fanart-contest) | Halloween | ![][flag_RU] [Leissss](https://osu.ppy.sh/users/4750716) | ![][flag_GB] [snowyani2000](https://osu.ppy.sh/users/2691590) | ![][flag_BY] [Hikerumin](https://osu.ppy.sh/users/7554335) | [Results](https://osu.ppy.sh/home/news/2017-10-31-halloween-descends) |
+| [12 (Winter 2017)](https://osu.ppy.sh/home/news/2017-11-26-winter-2017-fanart-contest) | Halloween | ![][flag_RU] [Leissss](https://osu.ppy.sh/users/4750716) | ![][flag_DE] [Evaine](https://osu.ppy.sh/users/7295733) | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | [Results](https://osu.ppy.sh/home/news/2017-12-14-winter-is-here) |
 
-## Best of
+#### Best of
 
 "Best of" was a yearly voting contest out to select the best beatmaps in the given year. It was succeeded by [Community Choice](#community-choice) in 2017.
 
@@ -324,12 +330,16 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 
 [flag_AE]: /wiki/shared/flag/AE.gif "United Arab Emirates"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
