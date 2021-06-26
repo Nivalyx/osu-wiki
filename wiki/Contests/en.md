@@ -80,9 +80,20 @@ Notes:
 
 osu! Mapping Olympiad is a contest with similar formatting to Monthly Beatmapping Contests #1 to #12. Each iteration of it can be found on the [Community Contests page](https://osu.ppy.sh/community/contests).
 
-## Fan Art Contest
+### Other Official Contests
 
-A gallery for the first through fifth fan art contests can be found on the [Facebook page](https://www.facebook.com/44332903281/photos/?tab=albums). All fan art contests after those can be found on the [Community Contests listing](https://osu.ppy.sh/community/contests).
+#### Fan Art Contest
+
+The Fan Art Contest is a drawing contest open to all artists across the osu! community. In each iteration of the contest, participating artists are being challenged to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) under varying themes and principal subjects.
+
+| Contest No. | Theme | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [1](https://osu.ppy.sh/community/forums/topics/198551) | Pippi | ![][flag_PH] [kunny](https://osu.ppy.sh/users/3931585) | ![][flag_MY] [DumplingYumYum](https://osu.ppy.sh/users/1715930) | ![][flag_HK] [Pokie](https://osu.ppy.sh/users/207340) | [Results](https://osu.ppy.sh/community/forums/topics/210503) |
+| [2](https://osu.ppy.sh/community/forums/topics/206852) | osu! Across The World | ![][flag_ID] [TapponNANA](https://osu.ppy.sh/users/2496203) | ![][flag_PH] [hews](https://osu.ppy.sh/users/1715930) | ![][flag_US] [gendo0032](https://osu.ppy.sh/users/3191089) | [Results](https://osu.ppy.sh/home/news/2014-07-04-second-official-osu-fanart-contest-results) |
+| [3](https://osu.ppy.sh/community/forums/topics/230225) | Stickers | ![][flag_CA] [kakifly](https://osu.ppy.sh/users/4219034) | ![][flag_PA] [Brian OA](https://osu.ppy.sh/users/1930365) | ![][flag_US] [yeongji](https://osu.ppy.sh/users/1472508) | [Results](https://osu.ppy.sh/home/news/2014-10-10-third-official-osu-fanart-contest-results) |
+| [4](https://osu.ppy.sh/community/forums/topics/247101) | Halloween | ![][flag_MY] [DumplingYumYum](https://osu.ppy.sh/users/1715930) | ![][flag_US] [cosmictea](https://osu.ppy.sh/users/16106572) | ![][flag_ID] [RedViolet](https://osu.ppy.sh/users/2221040) | [Results](https://osu.ppy.sh/home/news/2014-11-12-fourth-official-osu-fanart-contest-results) |
+| [5](https://osu.ppy.sh/community/forums/topics/262187) | Christmas | ![][flag_CA] [phibonnachee](https://osu.ppy.sh/users/778995) | ![][flag_ID] [NotKPKevin](https://osu.ppy.sh/users/2835619) | ![][flag_FR] [Riversouls](https://osu.ppy.sh/users/3163257) | [Results](https://osu.ppy.sh/home/news/2015-01-08-fifth-official-osu-fanart-contest-results) |
+| [6](https://osu.ppy.sh/home/news/2016-07-18-osu-mascot-design-contest) | osu!taiko Mascot Design | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | ![][flag_AE] [\[ Glitch \]](https://osu.ppy.sh/users/2835619) | ![][flag_HK] [Crystal Suicune](https://osu.ppy.sh/users/9974) | [Results](https://osu.ppy.sh/home/news/2016-09-21-osutaiko-mascot-community-vote-results) |
 
 ## Best of
 
@@ -311,6 +322,7 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 
 ² The Instrumental category provides mappers with a choice of five different songs to be mapped: 梅干茶漬け - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, 中川幸太郎 - 博多豚骨ラーメンズ, and roop - Chatblanc.
 
+[flag_AE]: /wiki/shared/flag/AE.gif "United Arab Emirates"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
@@ -322,7 +334,10 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PA]: /wiki/shared/flag/PA.gif "Panama"
+[flag_PH]: /wiki/shared/flag/PH.gif "Phillipines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
