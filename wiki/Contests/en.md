@@ -187,7 +187,7 @@ The Pending Cup is an open-for-all mapping contest that is being held yearly by 
 
 Although Pending Cup was particularly intended for Chinese-speaking members of the community at first, the contest has since been expanded to incorporate entries from other mappers from around the world as well due to growing interest.
 
-#### [Pending Cup #1 (2013)](https://osu.ppy.sh/community/forums/topics/135492)
+#### [Pending Cup \#1 (2013)](https://osu.ppy.sh/community/forums/topics/135492)
 
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -195,14 +195,14 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 | 葉月ゆら - 宵闇花火 | ![osu!][osu!] | ![][flag_CN] [Lan Wings](https://osu.ppy.sh/users/467860) | ![][flag_HK] [Kotone](https://osu.ppy.sh/users/26507) | ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) | [Results](https://osu.ppy.sh/community/forums/topics/152966) |
 | An - アートコア神社 | ![osu!][osu!] | ![][flag_AU] [Flower](https://osu.ppy.sh/users/1033017) | ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) | ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) | [Results](https://osu.ppy.sh/community/forums/topics/152966) |
 
-#### [Pending Cup #2 (2014)](https://osu.ppy.sh/community/forums/topics/229019)
+#### [Pending Cup \#2 (2014)](https://osu.ppy.sh/community/forums/topics/229019)
 
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Sharlo & Sabbo - 桜の花が舞い落ちるとき | ![osu!][osu!] | ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131) | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | ![][flag_CN] [eveless](https://osu.ppy.sh/users/102976) | [Results](https://osu.ppy.sh/community/forums/topics/243930) |
 | 木製みゅーと - 七つ一旋桜 | ![osu!][osu!] | ![][flag_CN] [RL_Tibbar](https://osu.ppy.sh/users/847182) | ![][flag_CN] [bo0O0od](https://osu.ppy.sh/users/530547) | ![][flag_HK] [Rizia](https://osu.ppy.sh/users/1367570) | [Results](https://osu.ppy.sh/community/forums/topics/243930) |
 
-#### [Pending Cup #3 (2015)](https://osu.ppy.sh/community/forums/topics/345263)
+#### [Pending Cup \#3 (2015)](https://osu.ppy.sh/community/forums/topics/345263)
 
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -210,7 +210,7 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 | 削除 - Imprinting | ![osu!][osu!] | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | ![][flag_CN] [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | ![][flag_AU] [Flower](https://osu.ppy.sh/users/1033017) | [Results](https://osu.ppy.sh/community/forums/topics/373843) |
 | P\*Light - YELLOW SPLASH!! | ![osu!][osu!] | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | ![][flag_CN] [Koiyuki](https://osu.ppy.sh/users/2433507) | [Results](https://osu.ppy.sh/community/forums/topics/373843) |
 
-#### [Pending Cup #4 (2016)](https://osu.ppy.sh/community/forums/topics/482629)
+#### [Pending Cup \#4 (2016)](https://osu.ppy.sh/community/forums/topics/482629)
 
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -218,7 +218,7 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | ![osu!][osu!] | ![][flag_CA] [FreeSongs](https://osu.ppy.sh/users/2116792) | ![][flag_JP] [rui](https://osu.ppy.sh/users/74313) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [Results](https://osu.ppy.sh/community/forums/topics/504645) |
 | Dollscythe - Flashes (Extended) | ![osu!][osu!] | ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) | ![][flag_CN] [Lv9](https://osu.ppy.sh/users/7232130) | ![][flag_CA] [Frostings](https://osu.ppy.sh/users/2652543) | [Results](https://osu.ppy.sh/community/forums/topics/504645) |
 
-#### [Pending Cup #5 (2017)](https://osu.ppy.sh/community/forums/topics/620182)
+#### [Pending Cup \#5 (2017)](https://osu.ppy.sh/community/forums/topics/620182)
 
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -226,7 +226,7 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 | 猫叉劇団 - AsiaN distractive | ![osu!][osu!] | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | ![][flag_CN] [Ellyu](https://osu.ppy.sh/users/4438154) | [Results](https://osu.ppy.sh/community/forums/topics/640906) |
 | かめりあ - Chirality | ![osu!][osu!] | ![][flag_HK] [Suzuki\_1112](https://osu.ppy.sh/users/3170678) | ![][flag_PT] [Miura](https://osu.ppy.sh/users/4990362) | ![][flag_HK] [\[ Drop \]](https://osu.ppy.sh/users/2391299) | [Results](https://osu.ppy.sh/community/forums/topics/640906) |
 
-#### [Pending Cup #6 (2018)](https://osu.ppy.sh/community/forums/topics/775847)
+#### [Pending Cup \#6 (2018)](https://osu.ppy.sh/community/forums/topics/775847)
 
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -234,7 +234,7 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 | DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | ![osu!][osu!] | ![][flag_CA] [J1\_](https://osu.ppy.sh/users/5918561) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/4477199) | ![][flag_CN] [Lv9](https://osu.ppy.sh/users/7232130) | [Results](https://osu.ppy.sh/community/forums/topics/806794) |
 | Sota Fujimori - ACCELERATE | ![osu!][osu!] | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | ![][flag_CN] [Koiyuki](https://osu.ppy.sh/users/2433507) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [Results](https://osu.ppy.sh/community/forums/topics/806794) |
 
-#### [Pending Cup #7 (2019)](https://osu.ppy.sh/community/forums/topics/953416)
+#### [Pending Cup \#7 (2019)](https://osu.ppy.sh/community/forums/topics/953416)
 
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -242,7 +242,7 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 | EmoCo. - This Club is not 4 U | ![osu!][osu!] | ![][flag_CN] [Ellyu](https://osu.ppy.sh/users/4438154) | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | ![][flag_RS] [Seolv](https://osu.ppy.sh/users/8067876) | [Results](https://osu.ppy.sh/community/forums/topics/982516) |
 | BEMANI Sound Team "猫叉Master" - The last of world music  | ![osu!][osu!] | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777) | ![][flag_CA] [J1\_](https://osu.ppy.sh/users/5918561) | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | [Results](https://osu.ppy.sh/community/forums/topics/982516) |
 
-#### [Pending Cup #8 (2020)](https://osu.ppy.sh/community/forums/topics/1145075)
+#### [Pending Cup \#8 (2020)](https://osu.ppy.sh/community/forums/topics/1145075)
 
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -258,37 +258,32 @@ The Newspaper Cup is an open-for-all mapping contest similar to Pending Cup with
 
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| wa.vs ETIA. - Akasagarbha | ![osu!][osu!] | [tm1209](https://osu.ppy.sh/users/2775906) | [Philosophy2](https://osu.ppy.sh/users/372256) | [bread129988](https://osu.ppy.sh/users/2010665) | [Results](https://osu.ppy.sh/community/forums/topics/312154) |
-| 猫叉Master - Far east nightbird | ![osu!][osu!] | [Narcissu](https://osu.ppy.sh/users/1826598) | [JJburstOwO](https://osu.ppy.sh/users/1776055) | [Kamio Misuzu](https://osu.ppy.sh/users/2041350) | [Results](https://osu.ppy.sh/community/forums/topics/312154) |
+| wa.vs ETIA. - Akasagarbha | ![osu!][osu!] | ![][flag_CN] [tm1209](https://osu.ppy.sh/users/2775906) | ![][flag_CN] [Philosophy2](https://osu.ppy.sh/users/372256) | ![][flag_CN] [bread129988](https://osu.ppy.sh/users/2010665) | [Results](https://osu.ppy.sh/community/forums/topics/312154) |
+| 猫叉Master - Far east nightbird | ![osu!][osu!] | ![][flag_CN] [Narcissu](https://osu.ppy.sh/users/1826598) | ![][flag_AU] [JJburstOwO](https://osu.ppy.sh/users/1776055) | ![][flag_CN] [Kamio Misuzu](https://osu.ppy.sh/users/2041350) | [Results](https://osu.ppy.sh/community/forums/topics/312154) |
 
-#### Newspaper Cup \#2 (2016)
+#### [Newspaper Cup \#2 (2016)](https://osu.ppy.sh/community/forums/topics/415669)
 
-| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
-| :-- | :-- | :-- | :-- | :-- |
-| 1 | 葉月ゆら - Eclipse Parade | [LunaSaika](https://osu.ppy.sh/users/4018820) | [FreeSongs](https://osu.ppy.sh/users/2116792) | [Vert](https://osu.ppy.sh/users/3420746) |
-| 2 | Sakuzyo - Laplace | [Hakurei Yoru](https://osu.ppy.sh/users/3280555) | [liaoxingyao](https://osu.ppy.sh/users/3620963) | [Kencho](https://osu.ppy.sh/users/3178411) |
+| Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 1 | 葉月ゆら - Eclipse Parade | ![osu!][osu!] | [LunaSaika](https://osu.ppy.sh/users/4018820) | [FreeSongs](https://osu.ppy.sh/users/2116792) | [Vert](https://osu.ppy.sh/users/3420746) | [Results](https://osu.ppy.sh/community/forums/topics/432070) |
+| 2 | 削除 - Laplace | ![osu!][osu!] | [Hakurei Yoru](https://osu.ppy.sh/users/3280555) | [liaoxingyao](https://osu.ppy.sh/users/3620963) | [Kencho](https://osu.ppy.sh/users/3178411) | [Results](https://osu.ppy.sh/community/forums/topics/432070) |
 
-- [Contest thread](https://osu.ppy.sh/community/forums/topics/415669)
-- [Results post](https://osu.ppy.sh/community/forums/topics/432070)
-
-#### Newspaper Cup \#3 (2017)
+#### [Newspaper Cup \#3 (2017)](https://osu.ppy.sh/community/forums/topics/546038)
 
 | Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] |
 | :-- | :-- | :-- | :-- |
-| 1 | 影翔鼓舞 - Oriental Blossom | [yf_bmp](https://osu.ppy.sh/users/1243669), [EmingK](https://osu.ppy.sh/users/2021118) | [Gaia](https://osu.ppy.sh/users/2683648), [Doj](https://osu.ppy.sh/users/4121612) |
-| 2 | ESQUARIA - 寒椿 ～ Kantsubaki | [Regou](https://osu.ppy.sh/users/419954), [fish39](https://osu.ppy.sh/users/3522390) | [Bluekrait](https://osu.ppy.sh/users/4205741), [Rose Pacifica](https://osu.ppy.sh/users/1393255) |
+| 1 | 影翔鼓舞 - Oriental Blossom | [yf_bmp](https://osu.ppy.sh/users/1243669) and [EmingK](https://osu.ppy.sh/users/2021118) | [Gaia](https://osu.ppy.sh/users/2683648) and [Doj](https://osu.ppy.sh/users/4121612) | [Results](https://osu.ppy.sh/community/forums/topics/570350) |
+| 2 | ESQUARIA - 寒椿 ～ Kantsubaki | [Regou](https://osu.ppy.sh/users/419954) and [fish39](https://osu.ppy.sh/users/3522390) | [Bluekrait](https://osu.ppy.sh/users/4205741) and [Rose Pacifica](https://osu.ppy.sh/users/1393255) | [Results](https://osu.ppy.sh/community/forums/topics/570350) |
 
-- [Contest thread](https://osu.ppy.sh/community/forums/topics/546038)
 - [Results post](https://osu.ppy.sh/community/forums/topics/570350)
 
-#### Newspaper Cup \#4 (2017)
+#### [Newspaper Cup \#4 (2018)](https://osu.ppy.sh/community/forums/topics/690824)
 
 | Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] |
 | :-- | :-- | :-- | :-- |
 | 1 | 葉月ゆら - サラマンドラの踊り子 | [Yugu](https://osu.ppy.sh/users/Yugu) | [nika mika](https://osu.ppy.sh/users/nika%20mika) |
 | 2 | P＊Light - SAY BAY | [Firika](https://osu.ppy.sh/users/Firika) | [Yugu](https://osu.ppy.sh/users/Yugu) |
 
-- [Contest thread](https://osu.ppy.sh/community/forums/topics/690824)
 - [Results post](https://osu.ppy.sh/community/forums/topics/721264)
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
