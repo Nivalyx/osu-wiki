@@ -87,7 +87,7 @@ osu! Mapping Olympiad is a contest with similar formatting to Monthly Beatmappin
 The Fan Art Contest is a drawing contest open to all artists across the osu! community. In each iteration of the contest, participating artists are being challenged to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) under varying themes and principal subjects.
 
 | Contest No. | Theme | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
-| :-- | :-- | :-- | :-- | :-- | :-- |
+| :-: | :-- | :-- | :-- | :-- | :-- |
 | [1](https://osu.ppy.sh/community/forums/topics/198551) | Pippi | ![][flag_PH] [kunny](https://osu.ppy.sh/users/3931585) | ![][flag_MY] [DumplingYumYum](https://osu.ppy.sh/users/1715930) | ![][flag_HK] [Pokie](https://osu.ppy.sh/users/207340) | [Results](https://osu.ppy.sh/community/forums/topics/210503) |
 | [2](https://osu.ppy.sh/community/forums/topics/206852) | osu! Across The World | ![][flag_ID] [TapponNANA](https://osu.ppy.sh/users/2496203) | ![][flag_PH] [hews](https://osu.ppy.sh/users/1715930) | ![][flag_US] [gendo0032](https://osu.ppy.sh/users/3191089) | [Results](https://osu.ppy.sh/home/news/2014-07-04-second-official-osu-fanart-contest-results) |
 | [3](https://osu.ppy.sh/community/forums/topics/230225) | Stickers | ![][flag_CA] [kakifly](https://osu.ppy.sh/users/4219034) | ![][flag_PA] [Brian OA](https://osu.ppy.sh/users/1930365) | ![][flag_US] [yeongji](https://osu.ppy.sh/users/1472508) | [Results](https://osu.ppy.sh/home/news/2014-10-10-third-official-osu-fanart-contest-results) |
