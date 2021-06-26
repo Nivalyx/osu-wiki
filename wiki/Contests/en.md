@@ -234,6 +234,14 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 | DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | ![osu!][osu!] | ![][flag_CA] [J1\_]((https://osu.ppy.sh/users/5918561) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/4477199) | ![][flag_CN] [Lv9](https://osu.ppy.sh/users/7232130) | [Results](https://osu.ppy.sh/community/forums/topics/806794) |
 | Sota Fujimori - ACCELERATE | ![osu!][osu!] | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | ![][flag_CN] [Koiyuki](https://osu.ppy.sh/users/2433507) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [Results](https://osu.ppy.sh/community/forums/topics/806794) |
 
+#### [Pending Cup #8 (2020)](https://osu.ppy.sh/community/forums/topics/1145075)
+
+| Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Zekk - Re\_Construct | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_ID] [AncuL](https://osu.ppy.sh/users/2449200) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [Results](https://osu.ppy.sh/community/forums/topics/1198663) |
+| DUSTCELL - DERO | ![osu!][osu!] | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | ![][flag_DE] [jamesjan3](https://osu.ppy.sh/users/6260705) | ![][flag_CN] [Garden](https://osu.ppy.sh/users/2849992) | [Results](https://osu.ppy.sh/community/forums/topics/1198663) |
+| onoken - felys final remix | ![osu!][osu!] | ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421) | ![][flag_ID] [\[Keqing\]](https://osu.ppy.sh/users/8972308) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | [Results](https://osu.ppy.sh/community/forums/topics/1198663) |
+
 ### Newspaper Cup
 
 Newspaper Cup is an annual mapping contest which aims at attracting normal players to join the mapping community, shows and improves mapping skills of Chinese novice mappers.
@@ -281,12 +289,16 @@ Newspaper Cup is an annual mapping contest which aims at attracting normal playe
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_SG]: /wiki/shared/flag/TW.gif "Singapore"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 
 [osu!]: /wiki/shared/mode/osu.png
 [osu!taiko]: /wiki/shared/mode/taiko.png
