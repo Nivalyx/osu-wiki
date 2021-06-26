@@ -265,26 +265,33 @@ The Newspaper Cup is an open-for-all mapping contest similar to Pending Cup with
 
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 1 | 葉月ゆら - Eclipse Parade | ![osu!][osu!] | [LunaSaika](https://osu.ppy.sh/users/4018820) | [FreeSongs](https://osu.ppy.sh/users/2116792) | [Vert](https://osu.ppy.sh/users/3420746) | [Results](https://osu.ppy.sh/community/forums/topics/432070) |
-| 2 | 削除 - Laplace | ![osu!][osu!] | [Hakurei Yoru](https://osu.ppy.sh/users/3280555) | [liaoxingyao](https://osu.ppy.sh/users/3620963) | [Kencho](https://osu.ppy.sh/users/3178411) | [Results](https://osu.ppy.sh/community/forums/topics/432070) |
+葉月ゆら - Eclipse Parade | ![osu!][osu!] | ![][flag_CN] [LunaSaika](https://osu.ppy.sh/users/4018820) | ![][flag_CA] [FreeSongs](https://osu.ppy.sh/users/2116792) | ![][flag_CN] [Vert](https://osu.ppy.sh/users/3420746) | [Results](https://osu.ppy.sh/community/forums/topics/432070) |
+削除 - Laplace | ![osu!][osu!] | ![][flag_CN] [Hakurei Yoru](https://osu.ppy.sh/users/3280555) | ![][flag_CN] [liaoxingyao](https://osu.ppy.sh/users/3620963) | ![][flag_HK] [Kencho](https://osu.ppy.sh/users/3178411) | [Results](https://osu.ppy.sh/community/forums/topics/432070) |
 
 #### [Newspaper Cup \#3 (2017)](https://osu.ppy.sh/community/forums/topics/546038)
 
-| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] |
-| :-- | :-- | :-- | :-- |
-| 1 | 影翔鼓舞 - Oriental Blossom | [yf_bmp](https://osu.ppy.sh/users/1243669) and [EmingK](https://osu.ppy.sh/users/2021118) | [Gaia](https://osu.ppy.sh/users/2683648) and [Doj](https://osu.ppy.sh/users/4121612) | [Results](https://osu.ppy.sh/community/forums/topics/570350) |
-| 2 | ESQUARIA - 寒椿 ～ Kantsubaki | [Regou](https://osu.ppy.sh/users/419954) and [fish39](https://osu.ppy.sh/users/3522390) | [Bluekrait](https://osu.ppy.sh/users/4205741) and [Rose Pacifica](https://osu.ppy.sh/users/1393255) | [Results](https://osu.ppy.sh/community/forums/topics/570350) |
-
-- [Results post](https://osu.ppy.sh/community/forums/topics/570350)
+| Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+影翔鼓舞 - Oriental Blossom | ![osu!][osu!] | ![][flag_CN] [yf_bmp](https://osu.ppy.sh/users/1243669) and ![][flag_CN] [EmingK](https://osu.ppy.sh/users/2021118) | ![][flag_CA] [Gaia](https://osu.ppy.sh/users/2683648) and ![][flag_US] [Doj](https://osu.ppy.sh/users/4121612) | ![][flag_CN] [Karen](https://osu.ppy.sh/users/3143784) and ![][flag_CN] [Kashima](https://osu.ppy.sh/users/4370368) | [Results](https://osu.ppy.sh/community/forums/topics/570350) |
+ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) and ![][flag_TW] [fish39](https://osu.ppy.sh/users/3522390) | ![][flag_US] [Bluekrait](https://osu.ppy.sh/users/4205741) and ![][flag_KR] [Rose Pacifica](https://osu.ppy.sh/users/1393255) | *N/A* | [Results](https://osu.ppy.sh/community/forums/topics/570350) |
 
 #### [Newspaper Cup \#4 (2018)](https://osu.ppy.sh/community/forums/topics/690824)
 
-| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] |
-| :-- | :-- | :-- | :-- |
-| 1 | 葉月ゆら - サラマンドラの踊り子 | [Yugu](https://osu.ppy.sh/users/Yugu) | [nika mika](https://osu.ppy.sh/users/nika%20mika) |
-| 2 | P＊Light - SAY BAY | [Firika](https://osu.ppy.sh/users/Firika) | [Yugu](https://osu.ppy.sh/users/Yugu) |
+| Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 葉月ゆら - サラマンドラの踊り子 | ![osu!][osu!] | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | ![][flag_NZ] [nika mika](https://osu.ppy.sh/users/3878832) | ![][flag_CN] [SparkNights](https://osu.ppy.sh/users/9641731) | [Results](https://osu.ppy.sh/community/forums/topics/721264) |
+| P\*Light - SAY BAY | ![osu!][osu!] | ![][flag_CN] [Firika](https://osu.ppy.sh/users/Firika) | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/Yugu) | ![][flag_US] [Ceo of Osu](https://osu.ppy.sh/users/2688103) | [Results](https://osu.ppy.sh/community/forums/topics/721264) |
 
-- [Results post](https://osu.ppy.sh/community/forums/topics/721264)
+#### [Newspaper Cup \#6 (2020)](https://osu.ppy.sh/community/forums/topics/1023671)
+
+| Category | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Vocal¹ | ![osu!][osu!] | ![][flag_CN] [Firika](https://osu.ppy.sh/users/Firika) | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/Yugu) | ![][flag_US] [Ceo of Osu](https://osu.ppy.sh/users/2688103) | [Results](https://osu.ppy.sh/community/forums/topics/1047836) |
+| Instrumental² | ![osu!][osu!] | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | ![][flag_NZ] [nika mika](https://osu.ppy.sh/users/3878832) | ![][flag_CN] [SparkNights](https://osu.ppy.sh/users/9641731) | [Results](https://osu.ppy.sh/community/forums/topics/1047836) |
+
+¹ The Vocal category offers a choice of two different songs to be mapped: ヰ世界情緒 - 共感覚おばけ and 米津玄師 - 春雷.
+
+² The Instrumental category offers a choice of two different songs to be mapped: モリモリあつし - 粉骨砕身カジノゥ and Fractal Dreamers - Celestial Horizon)
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
@@ -295,6 +302,7 @@ The Newspaper Cup is an open-for-all mapping contest similar to Pending Cup with
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
