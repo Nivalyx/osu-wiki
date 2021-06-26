@@ -213,7 +213,7 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 #### [Pending Cup #4 (2016)](https://osu.ppy.sh/community/forums/topics/482629)
 
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
-| :-- | :-- | :-- | :-- | :-- |
+| :-- | :-- | :-- | :-- | :-- | :-- |
 | ClariS - SECRET | ![osu!][osu!] | ![][flag_CA] [FreeSongs](https://osu.ppy.sh/users/2116792) | ![][flag_SG] [handsome](https://osu.ppy.sh/users/2123087) | ![][flag_CN] [Snowy Wings](https://osu.ppy.sh/users/2234810) | [Results](https://osu.ppy.sh/community/forums/topics/504645) |
 | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | ![osu!][osu!] | ![][flag_CA] [FreeSongs](https://osu.ppy.sh/users/2116792) | ![][flag_JP] [rui](https://osu.ppy.sh/users/74313) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [Results](https://osu.ppy.sh/community/forums/topics/504645) |
 | Dollscythe - Flashes (Extended) | ![osu!][osu!] | ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) | ![][flag_CN] [Lv9](https://osu.ppy.sh/users/7232130) | ![][flag_CA] [Frostings](https://osu.ppy.sh/users/2652543) | [Results](https://osu.ppy.sh/community/forums/topics/504645) |
