@@ -231,8 +231,16 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 米津玄师 - LOSER | ![osu!][osu!] | ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) | ![][flag_HK] [how2miss](https://osu.ppy.sh/users/4477199) | ![][flag_CN] [AIR](https://osu.ppy.sh/users/2070688) | [Results](https://osu.ppy.sh/community/forums/topics/806794) |
-| DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | ![osu!][osu!] | ![][flag_CA] [J1\_]((https://osu.ppy.sh/users/5918561) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/4477199) | ![][flag_CN] [Lv9](https://osu.ppy.sh/users/7232130) | [Results](https://osu.ppy.sh/community/forums/topics/806794) |
+| DJ TOTTO - 少女アリスと箱庭幻想コンチェルト | ![osu!][osu!] | ![][flag_CA] [J1\_](https://osu.ppy.sh/users/5918561) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/4477199) | ![][flag_CN] [Lv9](https://osu.ppy.sh/users/7232130) | [Results](https://osu.ppy.sh/community/forums/topics/806794) |
 | Sota Fujimori - ACCELERATE | ![osu!][osu!] | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | ![][flag_CN] [Koiyuki](https://osu.ppy.sh/users/2433507) | ![][flag_CN] [yf\_bmp](https://osu.ppy.sh/users/1243669) | [Results](https://osu.ppy.sh/community/forums/topics/806794) |
+
+#### [Pending Cup #7 (2019)](https://osu.ppy.sh/community/forums/topics/953416)
+
+| Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| kamome sano - archive::zip | ![osu!][osu!] | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/873961) | ![][flag_RU] [Senseabel](https://osu.ppy.sh/users/6184386) | ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511) | [Results](https://osu.ppy.sh/community/forums/topics/982516) |
+| EmoCo. - This Club is not 4 U | ![osu!][osu!] | ![][flag_CN] [Ellyu](https://osu.ppy.sh/users/4438154) | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | ![][flag_RS] [Seolv](https://osu.ppy.sh/users/8067876) | [Results](https://osu.ppy.sh/community/forums/topics/982516) |
+| BEMANI Sound Team "猫叉Master" - The last of world music  | ![osu!][osu!] | ![][flag_PL] [Kalibe](https://osu.ppy.sh/users/3376777) | ![][flag_CA] [J1\_](https://osu.ppy.sh/users/5918561) | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | [Results](https://osu.ppy.sh/community/forums/topics/982516) |
 
 #### [Pending Cup #8 (2020)](https://osu.ppy.sh/community/forums/topics/1145075)
 
@@ -244,17 +252,14 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 
 ### Newspaper Cup
 
-Newspaper Cup is an annual mapping contest which aims at attracting normal players to join the mapping community, shows and improves mapping skills of Chinese novice mappers.
+The Newspaper Cup is an open-for-all mapping contest similar to Pending Cup with a greater emphasis on novice mappers. As with Pending Cup, the contest is also being held yearly by prominent members of the Chinese mapping community and has since been developed from a contest that was particularly intended for Chinese-speaking members of the community to a global-scale contest.
 
-#### Newspaper Cup \#1 (2015)
+#### [Newspaper Cup \#1 (2015)](https://osu.ppy.sh/community/forums/topics/272739)
 
-| Songs No. | Songs | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] |
-| :-- | :-- | :-- | :-- | :-- |
-| 1 | wa.vs ETIA. - Akasagarbha | [tm1209](https://osu.ppy.sh/users/2775906) | [Philosophy2](https://osu.ppy.sh/users/372256) | [bread129988](https://osu.ppy.sh/users/2010665) |
-| 2 | 猫叉Master - Far east nightbird | [Narcissu](https://osu.ppy.sh/users/1826598) | [JJburstOwO](https://osu.ppy.sh/users/1776055) | [Kamio Misuzu](https://osu.ppy.sh/users/2041350) |
-
-- [Contest thread](https://osu.ppy.sh/community/forums/topics/272739)
-- [Results post](https://osu.ppy.sh/community/forums/topics/312154)
+| Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| wa.vs ETIA. - Akasagarbha | ![osu!][osu!] | [tm1209](https://osu.ppy.sh/users/2775906) | [Philosophy2](https://osu.ppy.sh/users/372256) | [bread129988](https://osu.ppy.sh/users/2010665) | [Results](https://osu.ppy.sh/community/forums/topics/312154) |
+| 猫叉Master - Far east nightbird | ![osu!][osu!] | [Narcissu](https://osu.ppy.sh/users/1826598) | [JJburstOwO](https://osu.ppy.sh/users/1776055) | [Kamio Misuzu](https://osu.ppy.sh/users/2041350) | [Results](https://osu.ppy.sh/community/forums/topics/312154) |
 
 #### Newspaper Cup \#2 (2016)
 
@@ -295,10 +300,13 @@ Newspaper Cup is an annual mapping contest which aims at attracting normal playe
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
 
 [osu!]: /wiki/shared/mode/osu.png
 [osu!taiko]: /wiki/shared/mode/taiko.png
