@@ -2,7 +2,7 @@
 
 # Contests
 
-Section dedicated for contests held throughout the osu! community.
+Section dedicated for contests throughout the osu! community.
 
 ## Official Contests
 
