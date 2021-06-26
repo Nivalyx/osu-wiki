@@ -280,23 +280,43 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 葉月ゆら - サラマンドラの踊り子 | ![osu!][osu!] | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | ![][flag_NZ] [nika mika](https://osu.ppy.sh/users/3878832) | ![][flag_CN] [SparkNights](https://osu.ppy.sh/users/9641731) | [Results](https://osu.ppy.sh/community/forums/topics/721264) |
-| P\*Light - SAY BAY | ![osu!][osu!] | ![][flag_CN] [Firika](https://osu.ppy.sh/users/Firika) | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/Yugu) | ![][flag_US] [Ceo of Osu](https://osu.ppy.sh/users/2688103) | [Results](https://osu.ppy.sh/community/forums/topics/721264) |
+| P\*Light - SAY BAY | ![osu!][osu!] | ![][flag_CN] [Firika](https://osu.ppy.sh/users/9590557) | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | ![][flag_US] [Ceo of Osu](https://osu.ppy.sh/users/2688103) | [Results](https://osu.ppy.sh/community/forums/topics/721264) |
+
+#### [Newspaper Cup \#5 (2019)](https://osu.ppy.sh/community/forums/topics/863274)
+
+| Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| ぽんきち - 百花魁と白徳利 | ![osu!][osu!] | ![][flag_CN] [taeyeon\_nn](https://osu.ppy.sh/users/10483270) | ![][flag_CN] [-Nanako-](https://osu.ppy.sh/users/7483636) | ![][flag_CN] [Byakuya](https://osu.ppy.sh/users/8430550) | [Results](https://osu.ppy.sh/community/forums/topics/891628) |
+| 日向美ビタースイーツ♪ - 凛として咲く花の如く～ひなビタ♪ edition～  | ![osu!][osu!] | ![][flag_CN] [-Nanako-](https://osu.ppy.sh/users/7483636) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_CA] [Rage Quit](https://osu.ppy.sh/users/9562068) | [Results](https://osu.ppy.sh/community/forums/topics/891628) |
 
 #### [Newspaper Cup \#6 (2020)](https://osu.ppy.sh/community/forums/topics/1023671)
 
 | Category | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Vocal¹ | ![osu!][osu!] | ![][flag_CN] [Firika](https://osu.ppy.sh/users/Firika) | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/Yugu) | ![][flag_US] [Ceo of Osu](https://osu.ppy.sh/users/2688103) | [Results](https://osu.ppy.sh/community/forums/topics/1047836) |
-| Instrumental² | ![osu!][osu!] | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | ![][flag_NZ] [nika mika](https://osu.ppy.sh/users/3878832) | ![][flag_CN] [SparkNights](https://osu.ppy.sh/users/9641731) | [Results](https://osu.ppy.sh/community/forums/topics/1047836) |
+| Vocal¹ | ![osu!][osu!] | ![][flag_CN] [Quantum Rosta](https://osu.ppy.sh/users/4814169) | ![][flag_CA] [Elayue](https://osu.ppy.sh/users/6400861) | ![][flag_CN] [Calvaria](https://osu.ppy.sh/users/12381096) | [Results](https://osu.ppy.sh/community/forums/topics/1047836) |
+| Instrumental² | ![osu!][osu!] | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_CN] [lililing](https://osu.ppy.sh/users/11025355) | ![][flag_CN] [SuperBox](https://osu.ppy.sh/users/4783121) | [Results](https://osu.ppy.sh/community/forums/topics/1047836) |
 
 ¹ The Vocal category provides mappers with a choice of two different songs to be mapped: ヰ世界情緒 - 共感覚おばけ and 米津玄師 - 春雷.
 
 ² The Instrumental category provides mappers with a choice of two different songs to be mapped: モリモリあつし - 粉骨砕身カジノゥ and Fractal Dreamers - Celestial Horizon.
 
+#### [Newspaper Cup \#7 (2021)](https://osu.ppy.sh/community/forums/topics/1203301)
+
+| Category | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Vocal¹ | ![osu!][osu!] | ![][flag_EE] [Keqing](https://osu.ppy.sh/users/8501291) | ![][flag_US] [Cubby](https://osu.ppy.sh/users/10914582) | ![][flag_TW] [Hey lululu](https://osu.ppy.sh/users/4086497) | [Results](https://osu.ppy.sh/community/forums/topics/1274667) |
+| Instrumental² | ![osu!][osu!] | ![][flag_CA] [Kyumo](https://osu.ppy.sh/users/14689984) | ![][flag_US] [- ascended -](https://osu.ppy.sh/users/4564285) | ![][flag_CL] [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [Results](https://osu.ppy.sh/community/forums/topics/1274667) |
+
+¹ The Vocal category provides mappers with a choice of five different songs to be mapped: Ariabl'eyeS - 運命の歯車, Yunomi - 曖昧トリップ, きくおはな - デザート・シアター, 花譜 - 戸惑いテレパシー, and まふまふ - SNOBBISM.
+
+² The Instrumental category provides mappers with a choice of five different songs to be mapped: 梅干茶漬け - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, 中川幸太郎 - 博多豚骨ラーメンズ, and roop - Chatblanc.
+
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
