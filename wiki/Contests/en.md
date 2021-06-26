@@ -100,6 +100,8 @@ The Fan Art Contest is a drawing contest open to all artists across the osu! com
 | [10](https://osu.ppy.sh/home/news/2017-06-15-mocha-fanart-contest-now-open) | Mocha in Summer | ![][flag_FR] [Sylux6](https://osu.ppy.sh/users/2607507) | ![][flag_PL] [sh00p](https://osu.ppy.sh/users/5272918) | ![][flag_US] [Lilina](https://osu.ppy.sh/users/2920755) | [Results](https://osu.ppy.sh/home/news/2017-07-31-mocha-in-summer-fanart-contest-results) |
 | [11 (Halloween 2017)](https://osu.ppy.sh/home/news/2017-10-09-halloween-fanart-contest) | Halloween | ![][flag_RU] [Leissss](https://osu.ppy.sh/users/4750716) | ![][flag_GB] [snowyani2000](https://osu.ppy.sh/users/2691590) | ![][flag_BY] [Hikerumin](https://osu.ppy.sh/users/7554335) | [Results](https://osu.ppy.sh/home/news/2017-10-31-halloween-descends) |
 | [12 (Winter 2017)](https://osu.ppy.sh/home/news/2017-11-26-winter-2017-fanart-contest) | Halloween | ![][flag_RU] [Leissss](https://osu.ppy.sh/users/4750716) | ![][flag_DE] [Evaine](https://osu.ppy.sh/users/7295733) | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | [Results](https://osu.ppy.sh/home/news/2017-12-14-winter-is-here) |
+| [13 (Spring 2018)](https://osu.ppy.sh/home/news/2018-04-03-spring-2018-fanart-contest) | Spring | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_JP] [In those days](https://osu.ppy.sh/users/7295733) | ![][flag_RU] [Leissss](https://osu.ppy.sh/users/4750716) | [Results](https://osu.ppy.sh/home/news/2018-05-02-spring-2018-fanart-contest-results) |
+| [14 (Summer 2018)](https://osu.ppy.sh/home/news/2018-07-18-summer-2018-fanart-contest) | Summer | ![][flag_DE] [Evaine](https://osu.ppy.sh/users/7295733) | ![][flag_AT] [Alba](https://osu.ppy.sh/users/12164832) | ![][flag_FR] [Sylux6](https://osu.ppy.sh/users/2607507) | [Results](https://osu.ppy.sh/home/news/2018-08-09-summer-2018-fanart-contest-results) |
 
 #### Best of
 
@@ -329,6 +331,7 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 ² The Instrumental category provides mappers with a choice of five different songs to be mapped: 梅干茶漬け - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, 中川幸太郎 - 博多豚骨ラーメンズ, and roop - Chatblanc.
 
 [flag_AE]: /wiki/shared/flag/AE.gif "United Arab Emirates"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
