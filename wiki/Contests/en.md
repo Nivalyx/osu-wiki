@@ -289,9 +289,9 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 | Vocal¹ | ![osu!][osu!] | ![][flag_CN] [Firika](https://osu.ppy.sh/users/Firika) | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/Yugu) | ![][flag_US] [Ceo of Osu](https://osu.ppy.sh/users/2688103) | [Results](https://osu.ppy.sh/community/forums/topics/1047836) |
 | Instrumental² | ![osu!][osu!] | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | ![][flag_NZ] [nika mika](https://osu.ppy.sh/users/3878832) | ![][flag_CN] [SparkNights](https://osu.ppy.sh/users/9641731) | [Results](https://osu.ppy.sh/community/forums/topics/1047836) |
 
-¹ The Vocal category offers a choice of two different songs to be mapped: ヰ世界情緒 - 共感覚おばけ or 米津玄師 - 春雷.
+¹ The Vocal category offers a choice of two different songs to be mapped: ヰ世界情緒 - 共感覚おばけ and 米津玄師 - 春雷.
 
-² The Instrumental category offers a choice of two different songs to be mapped: モリモリあつし - 粉骨砕身カジノゥ or Fractal Dreamers - Celestial Horizon)
+² The Instrumental category offers a choice of two different songs to be mapped: モリモリあつし - 粉骨砕身カジノゥ and Fractal Dreamers - Celestial Horizon.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
