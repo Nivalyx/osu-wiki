@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2021 banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament is open to all osu!catch players from Indonesia with over 3,000 osu!catch playcount regardless of rank. It is the ninth iteration of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament is open to all osu!catch players from Indonesia with a playcount of 3,000 or more in the osu!catch game mode regardless of rank. It is the ninth iteration of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -61,6 +61,30 @@ Listed below are players who qualified into the Group Stage (along with their re
 | A | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | 1.6 |
 | B | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | 2.8 |
 | C | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | 4.1 |
+
+### Group Stage
+
+**[Download the mappack here! (87 MB)](https://drive.google.com/file/d/1cwjsNciDalNJmdqz6t1FQLbDY2sM2-vo/view)**
+
+- NoMod
+  - [CHiCO with HoneyWorks - Pride Kakumei (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/1394916#fruits/2879325)
+  - [Kicco - Akari no Arika (-Joakh) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/1404258#fruits/2924231)
+  - [Ayaponzu\* - Catch You Catch Me (Yumeno Himiko) \[Magic\]](https://osu.ppy.sh/beatmapsets/1478834#fruits/3033888)
+  - [Camellia feat. Nanahira - POLKAMANIA (Mir) \[ANOTHER\]](https://osu.ppy.sh/beatmapsets/1409478#fruits/2906707)
+- Hidden
+  - [Yamazaki Moe - Kataomoi no Melody o short ver. (AJamez) \[Light Rain\]](https://osu.ppy.sh/beatmapsets/769584#fruits/1618186)
+  - [xi - Titania (Jemzuu) \[Rain\]](https://osu.ppy.sh/beatmapsets/1278046#fruits/2669851)
+  - [Junk - Yellow Smile(bms edit) (rui) \[wring's Another\]](https://osu.ppy.sh/beatmapsets/226133#fruits/554864)
+- HardRock
+  - [chelmico - Easy Breezy feat. Zenpaku \[ dj-Jo Trap Remix \] TV Size (Ascendance) \[Chatie's Salad\]](https://osu.ppy.sh/beatmapsets/1284565#fruits/2943796)
+  - [Nekomata Master - Scars of FAUNA (Madoka2574) \[Platter\]](https://osu.ppy.sh/beatmapsets/1302763#fruits/2701842)
+  - [Nakiri Ayame - Deep Indigo (Bokamin) \[Hard\]](https://osu.ppy.sh/beatmapsets/1189193#fruits/2522847)
+- DoubleTime
+  - [Duck Duck Pony - Shinsetsu (wonjae) \[wonJemZero's Salad\]](https://osu.ppy.sh/beatmapsets/951270#fruits/2009915)
+  - [Three Days Grace - Animal I Have Become (Secre) \[Platter\]](https://osu.ppy.sh/beatmapsets/1371694#fruits/2842835)
+  - [IOSYS - Miracle-Hinacle (vincerio) \[Miracle-Lolicle\]](https://osu.ppy.sh/beatmapsets/20210#fruits/71842)
+- Tiebreaker
+  - **[Official HIGE DANdism - Pretender (Crowley) \[My Final Farewell\]](https://osu.ppy.sh/beatmapsets/1272888#fruits/2645056)**
 
 ## Ruleset
 
