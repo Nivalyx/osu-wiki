@@ -84,7 +84,7 @@ osu! Mapping Olympiad is a contest with similar formatting to Monthly Beatmappin
 
 #### Fan Art Contest
 
-The Fan Art Contest is a drawing contest open to all artists across the osu! community. In each iteration of the contest, participating artists are being challenged to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) under varying themes and principal subjects.
+The Fan Art Contest is a drawing contest open to all artists across the osu! community. In each iteration of the contest, participating artists are being challenged to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) across varying themes and art concepts.
 
 | Contest No. | Theme | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -102,6 +102,16 @@ The Fan Art Contest is a drawing contest open to all artists across the osu! com
 | [12 (Winter 2017)](https://osu.ppy.sh/home/news/2017-11-26-winter-2017-fanart-contest) | Halloween | ![][flag_RU] [Leissss](https://osu.ppy.sh/users/4750716) | ![][flag_DE] [Evaine](https://osu.ppy.sh/users/7295733) | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | [Results](https://osu.ppy.sh/home/news/2017-12-14-winter-is-here) |
 | [13 (Spring 2018)](https://osu.ppy.sh/home/news/2018-04-03-spring-2018-fanart-contest) | Spring | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_JP] [In those days](https://osu.ppy.sh/users/7295733) | ![][flag_RU] [Leissss](https://osu.ppy.sh/users/4750716) | [Results](https://osu.ppy.sh/home/news/2018-05-02-spring-2018-fanart-contest-results) |
 | [14 (Summer 2018)](https://osu.ppy.sh/home/news/2018-07-18-summer-2018-fanart-contest) | Summer | ![][flag_DE] [Evaine](https://osu.ppy.sh/users/7295733) | ![][flag_AT] [Alba](https://osu.ppy.sh/users/12164832) | ![][flag_FR] [Sylux6](https://osu.ppy.sh/users/2607507) | [Results](https://osu.ppy.sh/home/news/2018-08-09-summer-2018-fanart-contest-results) |
+| [15 (Halloween 2018)](https://osu.ppy.sh/home/news/2018-10-03-halloween-2018-fanart-contest) | Halloween | ![][flag_US] [2Su](https://osu.ppy.sh/users/6598966) | ![][flag_FI] [Sunako](https://osu.ppy.sh/users/2801166) | ![][flag_TW] [h-alice0430](https://osu.ppy.sh/users/12764300) | [Results](https://osu.ppy.sh/home/news/2018-10-23-halloween-2018-descends) |
+| [16 (Winter 2018)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | Halloween | ![][flag_PL] [Chiruuu](https://osu.ppy.sh/users/8911572) | ![][flag_VN] [PlsRyder](https://osu.ppy.sh/users/3457622) | ![][flag_US] [Shuuzo](https://osu.ppy.sh/users/3661521) | [Results](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
+
+#### Skinning Contest
+
+The Skinning Contest is a free-for-all osu! skinning contest open to skinners from all across the osu! community. 
+
+| Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [1](wiki/Contests/Skinning_Contest/) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) by ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) by ![][flag_EE] [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) by ![][flag_RU] [NikStrim](https://osu.ppy.sh/users/10577559) | [Results](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
 
 #### Best of
 
@@ -202,7 +212,7 @@ Unofficial contests are contests that are being hosted by members of the communi
 
 ### Pending Cup
 
-The Pending Cup is an open-for-all mapping contest that is being held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs of varying genres and mapping difficulties that mappers are free to compete and submit their entries in.
+The Pending Cup is a free-for-all mapping contest that is being held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs of varying genres and mapping difficulties that mappers are free to compete and submit their entries in.
 
 Although Pending Cup was particularly intended for Chinese-speaking members of the community at first, the contest has since been expanded to incorporate entries from other mappers from around the world as well due to growing interest.
 
@@ -271,7 +281,7 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 
 ### Newspaper Cup
 
-The Newspaper Cup is an open-for-all mapping contest similar to Pending Cup with a greater emphasis on novice mappers. As with Pending Cup, the contest is also being held yearly by prominent members of the Chinese mapping community and has since been developed from a contest that was particularly intended for Chinese-speaking members of the community to a global-scale contest.
+The Newspaper Cup is a mapping contest similar to Pending Cup in concept but with a greater emphasis on novice mappers. As with Pending Cup, the contest is also being held yearly by prominent members of the Chinese mapping community and has since been developed from a contest that was particularly intended for Chinese-speaking members of the community to a global-scale contest.
 
 #### [Newspaper Cup \#1 (2015)](https://osu.ppy.sh/community/forums/topics/272739)
 
@@ -358,6 +368,7 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
 
 [osu!]: /wiki/shared/mode/osu.png
 [osu!taiko]: /wiki/shared/mode/taiko.png
