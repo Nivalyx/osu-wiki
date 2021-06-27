@@ -15,12 +15,12 @@ The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-eliminati
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2021-06-01/2021-06-10 |
-| Screening phase | 2021-06-10/2021-06-20 |
-| Group stage | 2021-06-21/2021-06-27 |
-| Round of 16 | 2021-06-28/2021-07-04 |
-| Quarterfinals | 2021-07-05/2021-07-11 |
-| Semifinals | 2021-07-12/2021-07-18 |
-| Finals | 2021-07-19/2021-07-25 |
+| Screening phase | 2021-06-10/2021-06-27 |
+| Group stage | 2021-06-28/2021-07-04 |
+| Round of 16 | 2021-07-05/2021-07-11 |
+| Quarterfinals | 2021-07-12/2021-07-18 |
+| Semifinals | 2021-07-19/2021-07-25 |
+| Finals | 2021-07-26/2021-08-01 |
 
 ## Prizes
 
@@ -51,6 +51,16 @@ CIC 2021 is run by various Indonesian osu! community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1324864)
 - [Discord server](https://discord.gg/YwAYbPa "Discord")
 - [Livestream channel](https://www.twitch.tv/osuIndonesia/ "Twitch")
+
+## Participants
+
+Listed below are players who qualified into the Group Stage (along with their respective seeding and group placement) out of 35 registered players in total.
+
+| Group | Seed A | Seed B | Seed C | Seed D |
+| :-- | :-- | :-- | :-- | :-- |
+| A | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | 1.6 |
+| B | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | 2.8 |
+| C | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | 4.1 |
 
 ## Ruleset
 
@@ -85,7 +95,7 @@ CIC 2021 is run by various Indonesian osu! community members.
 
 ### Group stage rules
 
-1. In the Group stage, all players will be divided into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
+1. In the Group stage, all qualified players will be situated into four different seeds (Seed A, Seed B, Seed C, and Seed D) based on their osu!catch pp. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnouts after each map:
    - 1st place: **+2 points**
    - 2nd place: **+1 point**
@@ -93,8 +103,8 @@ CIC 2021 is run by various Indonesian osu! community members.
    - 4th place: **0 point**
 3. If there is a tie at the end of the map, the points will instead be distributed as follows:
    - **+2/+2/+1/0** in the case where the 1st place and the 2nd place players are tied.
-   - **+2/+1/+1/+1** in the case where the 2st place and the 3nd place players are tied.
-   - **+2/+2/+2/0** in the case where the 1st place, the 2st place, and the 3nd place players are tied.
+   - **+2/+1/+1/+1** in the case where the 2nd place and the 3rd place players are tied.
+   - **+2/+2/+2/0** in the case where the 1st place, the 2nd place, and the 3rd place players are tied.
    - **+2/+2/+2/+2** in the case where all four players are tied.
 4. Players are **not allowed** to ban maps in the Group stage.
 5. There is no Lower Bracket in the Group stage.
