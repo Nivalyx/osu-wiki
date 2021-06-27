@@ -111,8 +111,8 @@ The Fan Art Contest is a drawing contest open to all artists across the osu! com
 | [21 (Spring 2020)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | Indoor Activities | ![][flag_PL] [Chiruuu](https://osu.ppy.sh/users/8911572) | ![][flag_VN] [PlsRyder](https://osu.ppy.sh/users/3457622) | ![][flag_US] [Shuuzo](https://osu.ppy.sh/users/3661521) | [Results](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
 | [22 (Summer 2020)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | Theme Park | ![][flag_PL] [Chiruuu](https://osu.ppy.sh/users/8911572) | ![][flag_VN] [PlsRyder](https://osu.ppy.sh/users/3457622) | ![][flag_US] [Shuuzo](https://osu.ppy.sh/users/3661521) | [Results](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
 | [23 (Halloween 2020)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | Halloween | ![][flag_PL] [Chiruuu](https://osu.ppy.sh/users/8911572) | ![][flag_VN] [PlsRyder](https://osu.ppy.sh/users/3457622) | ![][flag_US] [Shuuzo](https://osu.ppy.sh/users/3661521) | [Results](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
-| [24 (Winter 2020)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | Winter Sports | ![][flag_PL] [Chiruuu](https://osu.ppy.sh/users/8911572) | ![][flag_VN] [PlsRyder](https://osu.ppy.sh/users/3457622) | ![][flag_US] [Shuuzo](https://osu.ppy.sh/users/3661521) | [Results](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
-| [25 (Spring 2021)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | A Day In The Park | ![][flag_PL] [Chiruuu](https://osu.ppy.sh/users/8911572) | ![][flag_VN] [PlsRyder](https://osu.ppy.sh/users/3457622) | ![][flag_US] [Shuuzo](https://osu.ppy.sh/users/3661521) | [Results](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
+| [24 (Winter 2020)](https://osu.ppy.sh/home/news/2020-09-11-winter-sports-2020-fanart-contest) | Winter Sports | ![][flag_US] [Tofumang](https://osu.ppy.sh/users/4817223) | ![][flag_ID] [CheekyIfa](https://osu.ppy.sh/users/14406940) | ![][flag_RU] [Dem4eg-](https://osu.ppy.sh/users/7206818) | [Results](https://osu.ppy.sh/home/news/2020-12-02-winter-2020-arrives) |
+| [25 (Spring 2021)](https://osu.ppy.sh/home/news/2021-04-23-spring-2021-fanart-contest) | A Day In The Park | ![][flag_US] [Tofumang](https://osu.ppy.sh/users/4817223) | ![][flag_MY] [Kyvrin](https://osu.ppy.sh/users/11589256) | ![][flag_BG] [risuuna](https://osu.ppy.sh/users/7266506) | [Results](https://osu.ppy.sh/home/news/2021-05-20-spring-fanart-contest-results) |
 
 #### Skinning Contest
 
@@ -352,6 +352,7 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 [flag_AE]: /wiki/shared/flag/AE.gif "United Arab Emirates"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
