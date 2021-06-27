@@ -122,9 +122,13 @@ The Skinning Contest is a free-for-all osu! skinning contest open to skinners fr
 | :-: | :-- | :-- | :-- | :-- |
 | [1](wiki/Contests/Skinning_Contest/) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) by ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) by ![][flag_EE] [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) by ![][flag_RU] [NikStrim](https://osu.ppy.sh/users/10577559) | [Results](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
 
-#### Best of
+#### Best of/Community Choice
 
 "Best of" was a yearly voting contest out to select the best beatmaps in the given year. It was succeeded by [Community Choice](#community-choice) in 2017.
+
+| Year | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-- | :-: | :-- | :-- | :-- | :-- |
+| [2009](https://osu.ppy.sh/community/forums/topics/21059) | ![osu!][osu!] | [Queen - Don't Stop Me Now](https://osu.ppy.sh/beatmapsets/5381) hosted by ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | [Yoko Hikasa - Don't Say "Lazy"](https://osu.ppy.sh/beatmapsets/6257) hosted by ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488) | [Toyosaki Aki - Cagayake! GIRLS (TV Size)](https://osu.ppy.sh/beatmapsets/6358) hosted by ![][flag_TH] [DJPop](https://osu.ppy.sh/users/2363) | [Results](https://osu.ppy.sh/community/forums/topics/22162) |
 
 ### 2009
 
@@ -379,6 +383,7 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
