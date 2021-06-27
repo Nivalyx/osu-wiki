@@ -290,7 +290,7 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 
 ### Newspaper Cup
 
-The Newspaper Cup is a mapping contest similar to Pending Cup in concept but with a greater emphasis on novice mappers. As with Pending Cup, the contest is also being held yearly by prominent members of the Chinese mapping community and has since been developed from a contest that was particularly intended for Chinese-speaking members of the community to a global-scale contest.
+The Newspaper Cup is a mapping contest that is similar to Pending Cup in concept but with a greater emphasis on novice mappers. As with Pending Cup, the contest is also being held yearly by prominent members of the Chinese mapping community and has since been developed from a contest that was particularly intended for Chinese-speaking members of the community to a global-scale contest.
 
 #### [Newspaper Cup \#1 (2015)](https://osu.ppy.sh/community/forums/topics/272739)
 
