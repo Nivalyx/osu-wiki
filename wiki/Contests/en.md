@@ -124,7 +124,9 @@ The Skinning Contest is a free-for-all osu! skinning contest open to skinners fr
 
 #### Best of/Community Choice
 
-"Best of" was a yearly voting contest out to select the best beatmaps in the given year. It was succeeded by [Community Choice](#community-choice) in 2017.
+The Best of/Community Choice is a yearly voting contest that is being held to sort out the beatmaps that are being deemed most popular by the community <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the given calendar year. 
+
+It was succeeded by [Community Choice](#community-choice) in 2017.
 
 | Year | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -175,11 +177,6 @@ The Skinning Contest is a free-for-all osu! skinning contest open to skinners fr
 - [Results (News)](https://osu.ppy.sh/home/news/2016-02-06-best-of-2015-results)
 - [Results (Google Docs)](https://docs.google.com/spreadsheets/d/1l_8ur1YkaboLx_7bQb70Tgkjg8c7ObyAjmJyWDBM1C0/pubhtml#)
 
-## Community Choice
-
-*For the Community Choice contests, see: [Community Contests](https://osu.ppy.sh/community/contests)*
-
-Community Choice is the successor to the "Best of" contests.
 
 ## Community Mapping Contest
 
