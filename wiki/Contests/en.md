@@ -126,36 +126,14 @@ The Skinning Contest is a free-for-all osu! skinning contest open to skinners fr
 
 The Best of/Community Choice is a yearly voting contest that is being held yearly to sort out the most popular beatmaps <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the eyes of the osu! community at large on the given calendar year.
 
-At first, the contest was named "Best of" at its launch as the initial premise of the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year". However, as the osu! playerbase grew up over time, the contest inevitably waded into a popularity contest and after a huge call for change the contest was then renamed to "Community Choice" in 2017 to make it more reflective of what it is.
+At first, the contest was named "Best of" at its launch as the initial premise of the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year". However, as the osu! playerbase grew up over time, the contest was inevitably shifting into a popularity contest more and more each year which prompted the contest to then be renamed as "Community Choice" in 2017 to make it more reflective of what it is.
 
 | Year | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | [2009](https://osu.ppy.sh/community/forums/topics/21059) | ![osu!][osu!] | [Queen - Don't Stop Me Now](https://osu.ppy.sh/beatmapsets/5381) hosted by ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | [Yoko Hikasa - Don't Say "Lazy"](https://osu.ppy.sh/beatmapsets/6257) hosted by ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488) | [Toyosaki Aki - Cagayake! GIRLS (TV Size)](https://osu.ppy.sh/beatmapsets/6358) hosted by ![][flag_TH] [DJPop](https://osu.ppy.sh/users/2363) | [Results](https://osu.ppy.sh/community/forums/topics/22162) |
-
-### 2009
-
-- [Results](https://osu.ppy.sh/community/forums/topics/22162)
-- [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=8)
-- Download (Mediafire):
-  - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
-  - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
-
-### 2010
-
-- [Results (table text file)](https://puu.sh/Fju)
-  - [Forum](https://osu.ppy.sh/community/forums/topics/43834)
-- [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=20)
-- Download (Mediafire):
-  - [Part 1](https://www.mediafire.com/?0hekhu37h5bbeok)
-  - [Part 2](https://www.mediafire.com/?rfpzf1c1detavfz)
-
-### 2011
-
-- [Results (Google Docs)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdFpEcjlfWklxem8xVVJ2ZW1sY2JfcWc&amp;hl=en_US#gid=0)
-- [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts?spotlight=45)
-- Download (Mediafire):
-  - [Part 1](https://www.mediafire.com/?n3a2vppcquz1aja)
-  - [Part 2](https://www.mediafire.com/?otkkoo4iuhyrtx9)
+| [2010](https://osu.ppy.sh/community/forums/topics/42889) | ![osu!][osu!] | [Hatsune Miku & Megpoid Gumi - MATRYOSHKA](https://osu.ppy.sh/beatmapsets/19789) hosted by ![][flag_JP] [gowww](https://osu.ppy.sh/users/119404) | [07th Expansion - rog-limitation](https://osu.ppy.sh/beatmapsets/14994) hosted by ![][flag_CN] [AngelHoney](https://osu.ppy.sh/users/14994) | [Baracuda - La Di Da (Nightcore Mix)](https://osu.ppy.sh/beatmapsets/17852) hosted by ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [Results](https://osu.ppy.sh/community/forums/topics/43834) |
+| [2011](https://osu.ppy.sh/community/forums/topics/69388) | ![osu!][osu!] | [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) hosted by ![][flag_FR] [galvenize](https://osu.ppy.sh/users/119404) | [Bomfunk MC's - Freestyler](https://osu.ppy.sh/beatmapsets/35629) hosted by ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | [07th Expansion - Final Answer](https://osu.ppy.sh/beatmapsets/26226) hosted by ![][flag_JP] [gowww](https://osu.ppy.sh/users/119404) | [Results](https://osu.ppy.sh/community/forums/topics/71477) |
+| [2012](https://osu.ppy.sh/community/forums/topics/110066) | ![osu!][osu!] | [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) hosted by ![][flag_FR] [galvenize](https://osu.ppy.sh/users/119404) | [Bomfunk MC's - Freestyler](https://osu.ppy.sh/beatmapsets/35629) hosted by ![][flag_NL] [Lesjuh](https://osu.ppy.sh/users/44308) | [07th Expansion - Final Answer](https://osu.ppy.sh/beatmapsets/26226) hosted by ![][flag_JP] [gowww](https://osu.ppy.sh/users/119404) | [Results](https://osu.ppy.sh/community/forums/topics/113613) |
 
 ### 2012
 
