@@ -343,6 +343,7 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
