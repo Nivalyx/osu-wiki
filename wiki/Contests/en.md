@@ -88,7 +88,7 @@ The Community Mapping Contest allowed users to submit an entry for any difficult
 
 #### A Labour of Love
 
-A Labour of Love is a team-based spanning over multiple artistic disciplines where participating teams have to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/video to go with the said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modelled after [THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) and other similar competitions.
+A Labour of Love is a team-based spanning over multiple artistic disciplines where participating teams are being tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/video to go with the said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modelled after [THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) and other similar competitions.
 
 | Contest No. | ![Gold Crown][GCrown] (Overall Winner) | ![Silver Crown][SCrown] (Overall Runner-Up) | Community Vote Winner | Results |
 | :-: | :-- | :-- | :-- | :-- |
@@ -117,7 +117,7 @@ At its launch, the contest was named "Best of" as the initial premise and expect
 
 #### Fan Art Contest
 
-The Fan Art Contest is a drawing contest where participating artists from all across the community have to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) across varying themes and art concepts.
+The Fan Art Contest is a drawing contest where participating artists from all across the community are being challenged to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) across varying themes and art concepts.
 
 | Contest No. | Theme | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -149,7 +149,7 @@ The Fan Art Contest is a drawing contest where participating artists from all ac
 
 #### osu!idol
 
-osu!idol is a singing/song cover contest where participating singers from all across the community have to sing their way out either as a solo or a duet act across multiple judging and community voting stages. The contest is named the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is modelled after various commercial singing competition shows.
+osu!idol is a singing/song cover contest where participating singers from all across the community are singing their way out either as a solo or a duet act across multiple judging and community voting stages. The contest is named the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is modelled after various commercial singing competition shows.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -163,7 +163,7 @@ osu!idol is a singing/song cover contest where participating singers from all ac
 
 ## osu!remix
 
-osu!remix is a song remix contest where participating musicians from all across the community have to create the best remix of a song that has been widely known throughout the osu! community in one way or another. It is the first ever contest to be handled via the [Community Contests listing](https://osu.ppy.sh/community/contests) page.
+osu!remix is a song remix contest where participating musicians from all across the community are being tasked to the best remix of a song that has been widely known throughout the osu! community in one way or another. It is the first ever contest to be handled via the [Community Contests listing](https://osu.ppy.sh/community/contests) page.
 
 | Contest No. | Remixed Song | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -180,6 +180,14 @@ The Skinning Contest is a skinning contest open to skin creators from all across
 ## Community Contests
 
 Unofficial contests are contests that are being hosted by members of the community. Contest organizers who are looking to add their contest to the list below are welcome to do so by opening a GitHub pull request in the [osu-wiki repository](https://github.com/ppy/osu-wiki) following the [osu! wiki contribution guide](/wiki/osu!_wiki_Contribution_Guide).
+
+### osu! Beatmapping World Championship <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
+
+osu! Beatmapping World Championship is a team-based mapping contest where participating teams of mappers from the same country, region, or even continent (to some extent) are battling their mapping skills out across multiple stages. The contest is known for entirely making use of songs available in the [Featured Artist](wiki/Featured_Artists) library during its runs.
+
+| Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [1](/wiki/Contests/oBWC/1/) | ![][flag_FR] France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), and ![][flag_CH] [Xenok](https://osu.ppy.sh/users/3256600)) | ![][flag_SE] Sweden | | |
 
 ### Pending Cup
 
@@ -350,6 +358,7 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
 
