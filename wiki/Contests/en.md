@@ -153,8 +153,8 @@ osu!idol is a free-for-all singing/song cover contest open to all aspiring singe
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
-| [#1 (2014)](https://osu.ppy.sh/home/news/2014-08-24-osuidol-sign-ups-now-open) | ![][flag_CN] [yealina](https://osu.ppy.sh/users/139551) | ![][flag_CN] [Sharlo](https://osu.ppy.sh/users/1622450) | ![][flag_RS] [MissTitannia](https://osu.ppy.sh/users/4490361) | [FictionJunction - Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [Results](https://osu.ppy.sh/home/news/2015-01-02-osuidol-2014-results) |
-| [#2 (2015)](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live) | ![][flag_ID] [Sagi](https://osu.ppy.sh/users/491799) | ![][flag_US] [CptHampton]https://osu.ppy.sh/users/3200587) | ![][flag_CN] [yealina](https://osu.ppy.sh/users/139551) | [Camellia feat. Hatsune Miku - Systematic Love](https://soundcloud.com/sagisapon/czsexzj5tm7b) | [Results](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-result) |
+| [#1 (2014)](https://osu.ppy.sh/home/news/2014-08-24-osuidol-sign-ups-now-open) | ![][flag_CN] [yealina](https://osu.ppy.sh/users/139551) | ![][flag_CN] [Sharlo](https://osu.ppy.sh/users/1622450) | ![][flag_RS] [MissTitannia](https://osu.ppy.sh/users/4490361) | [yealina - Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [Results](https://osu.ppy.sh/home/news/2015-01-02-osuidol-2014-results) |
+| [#2 (2015)](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live) | ![][flag_ID] [Sagi](https://osu.ppy.sh/users/491799) | ![][flag_US] [CptHampton](https://osu.ppy.sh/users/3200587) | ![][flag_CN] [yealina](https://osu.ppy.sh/users/139551) | [Sagi - Systematic Love](https://soundcloud.com/sagisapon/czsexzj5tm7b) | [Results](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-result) |
 
 ## osu!remix
 
