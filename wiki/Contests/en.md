@@ -18,7 +18,7 @@ The Monthly Beatmaping Contest was a mapping contest where participating mappers
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
-| 1 | Rostik - Liquid (Paul Rosenthal Remix) | ![osu!][osu!] | ![][flag_US][Charles445](https://osu.ppy.sh/users/85000) | ![][flag_AT][Alumetorz](https://osu.ppy.sh/users/1145984) | ![][flag_JP][Guy](https://osu.ppy.sh/users/91738) | [Results](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) |
+| 1 | Rostik - Liquid (Paul Rosenthal Remix) | ![osu!][osu!] | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | ![][flag_AT] [Alumetorz](https://osu.ppy.sh/users/1145984) | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | [Results](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) |
 
 | 2 | [cYsmix feat. Emmy - Tear Rain](https://osu.ppy.sh/beatmapsets/140662) | ![osu!][osu!] | [jonathanlfj](https://osu.ppy.sh/users/270377) | [Results](https://osu.ppy.sh/home/news/2014-01-06-monthly-beatmapping-contest-2-results) | [Score #2](https://osu.ppy.sh/p/contestresults?c=8) |
 | 3 | [Chasers - Lost](https://osu.ppy.sh/beatmapsets/151878) | ![osu!][osu!] | [ktgster](https://osu.ppy.sh/users/53378) | [Results](https://osu.ppy.sh/home/news/2014-02-19-monthly-beatmapping-contest-3-results) | [Score #3](https://osu.ppy.sh/p/contestresults?c=9) |
