@@ -14,11 +14,12 @@ Official contests are contests that are being hosted (or otherwise recognized as
 
 *Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
-The Monthly Beatmmping Contest
+The Monthly Beatmaping Contest was a mapping contest where participating mappers were being tasked to create the most excellent mapset with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards of a given song in a month's time. All songs featured in the contest were either being released under a licensing term that allows for the song to be used in osu! (e.g. [CC-BY](https://creativecommons.org/licenses/)) or had been cleared for use in osu! preemptively by the [osu!team](https://osu.ppy.sh/wiki/en/People/The_Team).
 
-| Contest No. | Beatmap | Mode | Mapper | Results | Scores |
-| :-: | :-- | :-: | :-- | :-- | :-- |
-| 1 | [Rostik - Liquid (Paul Rosenthal Remix)](https://osu.ppy.sh/beatmapsets/123593) | ![osu!][osu!] | [Charles445](https://osu.ppy.sh/users/85000) | [Results](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) | [Score #1](https://osu.ppy.sh/p/contestresults?c=7) |
+| Contest No. | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- |
+| 1 | Rostik - Liquid (Paul Rosenthal Remix) | ![osu!][osu!] | ![][flag_US][Charles445](https://osu.ppy.sh/users/85000) | ![][flag_AT][Alumetorz](https://osu.ppy.sh/users/1145984) | ![][flag_JP][Guy](https://osu.ppy.sh/users/91738) | [Results](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) |
+
 | 2 | [cYsmix feat. Emmy - Tear Rain](https://osu.ppy.sh/beatmapsets/140662) | ![osu!][osu!] | [jonathanlfj](https://osu.ppy.sh/users/270377) | [Results](https://osu.ppy.sh/home/news/2014-01-06-monthly-beatmapping-contest-2-results) | [Score #2](https://osu.ppy.sh/p/contestresults?c=8) |
 | 3 | [Chasers - Lost](https://osu.ppy.sh/beatmapsets/151878) | ![osu!][osu!] | [ktgster](https://osu.ppy.sh/users/53378) | [Results](https://osu.ppy.sh/home/news/2014-02-19-monthly-beatmapping-contest-3-results) | [Score #3](https://osu.ppy.sh/p/contestresults?c=9) |
 | 4 | [Kuba Oms - My Love](https://osu.ppy.sh/beatmapsets/163112) | ![osu!][osu!] | [W h i t e](https://osu.ppy.sh/users/685229) | [Results](https://osu.ppy.sh/home/news/2017-05-11-osuweekly-103) | [Score #4](https://osu.ppy.sh/p/contestresults?c=10) |
