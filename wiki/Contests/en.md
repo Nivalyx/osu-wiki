@@ -88,7 +88,7 @@ The Community Mapping Contest allowed users to submit an entry for any difficult
 
 #### Fan Art Contest
 
-The Fan Art Contest is a free-for-all drawing contest open to all artists across the osu! community. In each iteration of the contest, participating artists have to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) across varying themes and art concepts.
+The Fan Art Contest is a drawing contest where participating artists from all across the community have to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) across varying themes and art concepts.
 
 | Contest No. | Theme | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -120,7 +120,7 @@ The Fan Art Contest is a free-for-all drawing contest open to all artists across
 
 #### Skinning Contest
 
-The Skinning Contest is a free-for-all osu! skinning contest open to skinners from all across the osu! community. 
+The Skinning Contest is a skinning contest open to skin creators from all across the community. 
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
@@ -130,7 +130,7 @@ The Skinning Contest is a free-for-all osu! skinning contest open to skinners fr
 
 The Best of/Community Choice is a voting contest that is being held annually to determine the most popular beatmaps <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the eyes of the osu! community at each given year.
 
-At first, the contest was named "Best of" at its launch as the initial premise of the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year". However, as the game's playerbase continue to grew up in number over time, the contest was inevitably shifting more and more towards a popularity contest each year which prompted the contest to be relaunched as "Community Choice" in 2017.
+At its launch, the contest was named "Best of" as the initial premise and expectation for the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year". However, as the game's playerbase continue to grew up in number over time, the contest was inevitably shifting more and more towards a popularity contest each year which prompted the contest to be relaunched as "Community Choice" in 2017.
 
 | Year | Mode | ![Gold Crown][GCrown] (osu!) | ![Gold Crown][GCrown] (osu!taiko) | ![Gold Crown][GCrown] (osu!catch) | ![Gold Crown][GCrown] (osu!mania) | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -149,16 +149,23 @@ At first, the contest was named "Best of" at its launch as the initial premise o
 
 #### osu!idol
 
-osu!idol is a free-for-all singing/song cover contest open to all aspiring singers across the osu! community. In each iteration of the contest, participating singers have to sing their way out across multiple stages either as a solo or a duet act in which the judges and the community will then take over and vote to determine the winner.
+osu!idol is a singing/song cover contest where participating singers from all across the community have to sing their way out either as a solo or a duet act across multiple judging and community voting stages. The contest is named the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is modelled after commercial singing competition formats.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [#1 (2014)](https://osu.ppy.sh/home/news/2014-08-24-osuidol-sign-ups-now-open) | ![][flag_CN] [yealina](https://osu.ppy.sh/users/139551) | ![][flag_CN] [Sharlo](https://osu.ppy.sh/users/1622450) | ![][flag_RS] [MissTitannia](https://osu.ppy.sh/users/4490361) | [yealina - Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [Results](https://osu.ppy.sh/home/news/2015-01-02-osuidol-2014-results) |
 | [#2 (2015)](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live) | ![][flag_ID] [Sagi](https://osu.ppy.sh/users/491799) | ![][flag_US] [CptHampton](https://osu.ppy.sh/users/3200587) | ![][flag_CN] [yealina](https://osu.ppy.sh/users/139551) | [Sagi - Systematic Love](https://soundcloud.com/sagisapon/czsexzj5tm7b) | [Results](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-result) |
+| [#3 (2016)](https://osu.ppy.sh/home/news/2016-06-03-osuidol-2016-registrations-open) | ![][flag_US] [Slyleaf](https://osu.ppy.sh/users/3322032) | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832) | ![][flag_RS] [MissTitannia](https://osu.ppy.sh/users/4490361) | [Slyleaf - Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Results](https://osu.ppy.sh/home/news/2016-11-08-osuidol-2016-final-results) |
+| [#4 (2017)](https://osu.ppy.sh/home/news/2017-08-14-osu-idol-2017-auditions-now-open) | ![][flag_AU] [Renril](https://osu.ppy.sh/users/4955122) | ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | [Renril - Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3) | [Results](https://osu.ppy.sh/home/news/2017-12-03-osu-idol-2017-finals-community-voting-results) |
+| [#5 (2018)](https://osu.ppy.sh/home/news/2018-07-01-osu-idol-2018-auditions-now-open) | ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) | ![][flag_ID] [Zeva\[FL\]](https://osu.ppy.sh/users/2805170) | ![][flag_US] [MjIsMaster](https://osu.ppy.sh/users/9922896) | [Will Stetson - Snow Drive](https://assets.ppy.sh/contests/71/entries/Snow%20Drive.mp3) | [Results](https://osu.ppy.sh/home/news/2018-11-05-osu-idol-2018-finals-community-voting-results) |
+| [#6 (2019)](https://osu.ppy.sh/home/news/2019-07-02-osu-idol-2019-auditions-now-open) | ![][flag_PH] [iamALieee](https://osu.ppy.sh/users/10093980) | ![][flag_US] [aceredshirt13](https://osu.ppy.sh/users/13736238) | ![][flag_US] [moof](https://osu.ppy.sh/users/8457202) | [iamALieee - White First Love](https://assets.ppy.sh/contests/83/entries/osu!idol%202019%20-%20iamALieee%20-%20White%20First%20Love.mp3) | [Results](https://osu.ppy.sh/home/news/2019-12-21-osu-idol-2019-finals-community-voting-results) |
+| [#7 (2020)](https://osu.ppy.sh/home/news/2020-09-01-osu-idol-2020-auditions-now-open) | *N/A* | *N/A* | *N/A* | *N/A* | *N/A* |
 
 ## osu!remix
 
-osu!remix was a contest where musicians were tasked with remixing nekodex's "circles" track, which was osu!'s main menu theme song at the time. It was the first contest to be handled via the [Community Contests listing](https://osu.ppy.sh/community/contests) and has only been run once. Its results can be found [here](https://osu.ppy.sh/community/contests/1).
+osu!remix is a song remix contest where participating musicians from all across the community have to create the best remix of a song that has been widely known throughout the osu! community in one way or another. It is the first ever contest to be handled via the [Community Contests listing](https://osu.ppy.sh/community/contests) page.
+
+nekodex's "circles" track, which was osu!'s main menu theme song at the time. It was the first contest to be handled via the [Community Contests listing](https://osu.ppy.sh/community/contests) and has only been run once. Its results can be found [here](https://osu.ppy.sh/community/contests/1).
 
 ## Community Contests
 
@@ -166,7 +173,7 @@ Unofficial contests are contests that are being hosted by members of the communi
 
 ### Pending Cup
 
-The Pending Cup is a free-for-all mapping contest that is being held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs across varying genres and mapping difficulties that mappers are free to compete and submit their entries in.
+The Pending Cup is a mapping contest that is being held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs across varying genres and mapping difficulties that mappers from all across the community are free to compete and submit their entries in.
 
 Although Pending Cup was particularly intended for Chinese-speaking members of the community at first, the contest has since been expanded to incorporate entries from other mappers from around the world as well due to growing interest.
 
