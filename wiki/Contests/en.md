@@ -149,7 +149,7 @@ At first, the contest was named "Best of" at its launch as the initial premise o
 
 #### osu!idol
 
-The osu!idol is a free-for-all singing/song cover contest open to all aspiring singers across the osu! community. In each iteration of the contest, participating singers have to sing their way out across multiple stages either as a solo or a duet act in which the judges and the community will then take over and vote to determine the winner.
+osu!idol is a free-for-all singing/song cover contest open to all aspiring singers across the osu! community. In each iteration of the contest, participating singers have to sing their way out across multiple stages either as a solo or a duet act in which the judges and the community will then take over and vote to determine the winner.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
