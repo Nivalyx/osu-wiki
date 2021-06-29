@@ -178,7 +178,7 @@ Unofficial contests are contests that are being hosted by members of the communi
 
 ### Pending Cup
 
-The Pending Cup is a free-for-all mapping contest that is being held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs of varying genres and mapping difficulties that mappers are free to compete and submit their entries in.
+The Pending Cup is a free-for-all mapping contest that is being held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs across varying genres and mapping difficulties that mappers are free to compete and submit their entries in.
 
 Although Pending Cup was particularly intended for Chinese-speaking members of the community at first, the contest has since been expanded to incorporate entries from other mappers from around the world as well due to growing interest.
 
