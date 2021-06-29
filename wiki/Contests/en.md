@@ -95,9 +95,9 @@ The Community Mapping Contest allowed users to submit an entry for any difficult
 
 A Labour of Love is a team-based spanning over multiple artistic disciplines where participating teams are being tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/video to go with the said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modelled after [THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) and other similar competitions.
 
-| Contest No. | ![Gold Crown][GCrown] (Overall Winner) | ![Silver Crown][SCrown] (Overall Runner-Up) | Community Vote Winner | Results |
-| :-: | :-- | :-- | :-- | :-- |
-| [1](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) | extremely valid (![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471), ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574), ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515), ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297), and ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)) | schoolboy fans (![][flag_RU] [Shadren](https://osu.ppy.sh/users/745494), ![][flag_UA] [wajinshu](https://osu.ppy.sh/users/6339790), ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231), and ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)) | Team Red but Blue (![][flag_CA] [Redside](https://osu.ppy.sh/users/16039046), ![][flag_US] [Tofumang](https://osu.ppy.sh/users/4817223), ![][flag_CA] [Chompy](https://osu.ppy.sh/users/7427035), ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), and ![][flag_CA] [Zer0-G](https://osu.ppy.sh/users/12577911)) | [Results](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love) |
+| Contest No. | Remixed Song | ![Gold Crown][GCrown] (Overall Winner) | ![Silver Crown][SCrown] (Overall Runner-Up) | Community Vote Winner | Results |
+| :-: | :-- | :-- | :-- | :-- | :-- |
+| [1](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) | [Kuba Oms - My Love](https://osu.ppy.sh/beatmaps/artists/13) | extremely valid (![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471), ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574), ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515), ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297), and ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)) | schoolboy fans (![][flag_RU] [Shadren](https://osu.ppy.sh/users/745494), ![][flag_UA] [wajinshu](https://osu.ppy.sh/users/6339790), ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231), and ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)) | Team Red but Blue (![][flag_CA] [Redside](https://osu.ppy.sh/users/16039046), ![][flag_US] [Tofumang](https://osu.ppy.sh/users/4817223), ![][flag_CA] [Chompy](https://osu.ppy.sh/users/7427035), ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), and ![][flag_CA] [Zer0-G](https://osu.ppy.sh/users/12577911)) | [Results](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love) |
 
 #### Best of/Community Choice
 
@@ -166,7 +166,7 @@ osu!idol is a singing/song cover contest where participating singers from all ac
 | [#6 (2019)](https://osu.ppy.sh/home/news/2019-07-02-osu-idol-2019-auditions-now-open) | ![][flag_PH] [iamALieee](https://osu.ppy.sh/users/10093980) | ![][flag_US] [aceredshirt13](https://osu.ppy.sh/users/13736238) | ![][flag_US] [moof](https://osu.ppy.sh/users/8457202) | [iamALieee - White First Love](https://assets.ppy.sh/contests/83/entries/osu!idol%202019%20-%20iamALieee%20-%20White%20First%20Love.mp3) | [Results](https://osu.ppy.sh/home/news/2019-12-21-osu-idol-2019-finals-community-voting-results) |
 | [#7 (2020)](https://osu.ppy.sh/home/news/2020-09-01-osu-idol-2020-auditions-now-open) | *N/A* | *N/A* | *N/A* | *N/A* | *N/A* |
 
-## osu!remix
+#### osu!remix
 
 osu!remix is a song remix contest where participating musicians from all across the community are being tasked to the best remix of a song that has been widely known throughout the osu! community in one way or another. It is the first ever contest to be handled via the [Community Contests listing](https://osu.ppy.sh/community/contests) page.
 
