@@ -128,6 +128,10 @@ The Best of/Community Choice is an annual voting contest that is being held to f
 
 At first, the contest was named "Best of" at its launch as the initial premise of the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year". However, as game's playerbase continue to grew up in number over time, the contest was inevitably shifting into a popularity contest more and more each year which prompted the content to be relaunched as "Community Choice" in 2017.
 
+| Year | Mode | ![Gold Crown][GCrown] (osu!) | ![Silver Crown][SCrown] (osu!taiko) | ![Gold Crown][GCrown] (osu!catch) | ![Gold Crown][GCrown] (osu!mania) | Results |
+| :-- | :-: | :-- | :-- | :-- | :-- | :-- |
+| [2009](https://osu.ppy.sh/community/forums/topics/21059) | ![osu!][osu!] | [Queen - Don't Stop Me Now](https://osu.ppy.sh/beatmapsets/5381) hosted by ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | *N/A* | *N/A* | *N/A* | [Results](https://osu.ppy.sh/community/forums/topics/22162) |
+
 | Year | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | [2009](https://osu.ppy.sh/community/forums/topics/21059) | ![osu!][osu!] | [Queen - Don't Stop Me Now](https://osu.ppy.sh/beatmapsets/5381) hosted by ![][flag_AU] [m980](https://osu.ppy.sh/users/3288) | [Yoko Hikasa - Don't Say "Lazy"](https://osu.ppy.sh/beatmapsets/6257) hosted by ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488) | [Toyosaki Aki - Cagayake! GIRLS (TV Size)](https://osu.ppy.sh/beatmapsets/6358) hosted by ![][flag_TH] [DJPop](https://osu.ppy.sh/users/2363) | [Results](https://osu.ppy.sh/community/forums/topics/22162) |
