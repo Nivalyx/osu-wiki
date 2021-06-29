@@ -17,7 +17,7 @@ Official contests are contests that are being hosted (or otherwise recognized as
 The Monthly Beatmaping Contest was a mapping contest where participating mappers were being tasked to create the most excellent mapset with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards of a given song in a month's time. All songs featured in the contest were either being released under a licensing term that allows for the song to be used in osu! (e.g. [CC-BY](https://creativecommons.org/licenses/)) or had been cleared for use in osu! preemptively by the [osu!team](https://osu.ppy.sh/wiki/en/People/The_Team).
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
-| :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- |
+| :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | 1 | Rostik - Liquid (Paul Rosenthal Remix) | ![osu!][osu!] | ![][flag_US][Charles445](https://osu.ppy.sh/users/85000) | ![][flag_AT][Alumetorz](https://osu.ppy.sh/users/1145984) | ![][flag_JP][Guy](https://osu.ppy.sh/users/91738) | [Results](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) |
 
 | 2 | [cYsmix feat. Emmy - Tear Rain](https://osu.ppy.sh/beatmapsets/140662) | ![osu!][osu!] | [jonathanlfj](https://osu.ppy.sh/users/270377) | [Results](https://osu.ppy.sh/home/news/2014-01-06-monthly-beatmapping-contest-2-results) | [Score #2](https://osu.ppy.sh/p/contestresults?c=8) |
