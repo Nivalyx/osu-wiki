@@ -88,7 +88,11 @@ The Community Mapping Contest allowed users to submit an entry for any difficult
 
 #### A Labour of Love
 
-A Labour of Love is a team-based spanning over multiple artistic disciplines where participating teams have to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/video to go with the said beatmap. The contest is [modelled after the "BMS of Fighters" event](https://twitter.com/ppy/status/1333362145224843264).
+A Labour of Love is a team-based spanning over multiple artistic disciplines where participating teams have to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/video to go with the said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modelled after [THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) and other similar competitions.
+
+| Contest No. | ![Gold Crown][GCrown] (Overall Winner) | ![Silver Crown][SCrown] (Overall Runner-Up) | Community Vote Winner | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [1](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) | extremely valid (![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471), ![][flag_FR] [Shinwoir](https://osu.ppy.sh/users/8984574), ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515), ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297), and ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334)) | schoolboy fans (![][flag_RU] [Shadren](https://osu.ppy.sh/users/745494), ![][flag_UA] [wajinshu](https://osu.ppy.sh/users/6339790), ![][flag_RU] [Shmiklak](https://osu.ppy.sh/users/5504231), and ![][flag_RU] [Daycore](https://osu.ppy.sh/users/5596337)) | Team Red but Blue (![][flag_CA] [Redside](https://osu.ppy.sh/users/16039046), ![][flag_US] [Tofumang](https://osu.ppy.sh/users/4817223), ![][flag_CA] [Chompy](https://osu.ppy.sh/users/7427035), ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323), and ![][flag_CA] [Zer0-G](https://osu.ppy.sh/users/12577911)) | [Results](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love) |
 
 #### Best of/Community Choice
 
@@ -145,7 +149,7 @@ The Fan Art Contest is a drawing contest where participating artists from all ac
 
 #### osu!idol
 
-osu!idol is a singing/song cover contest where participating singers from all across the community have to sing their way out either as a solo or a duet act across multiple judging and community voting stages. The contest is named the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is modelled after commercial singing competition formats.
+osu!idol is a singing/song cover contest where participating singers from all across the community have to sing their way out either as a solo or a duet act across multiple judging and community voting stages. The contest is named the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is modelled after various commercial singing competition shows.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
