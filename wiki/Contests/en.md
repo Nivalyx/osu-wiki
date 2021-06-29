@@ -88,7 +88,7 @@ The Community Mapping Contest allowed users to submit an entry for any difficult
 
 #### Fan Art Contest
 
-The Fan Art Contest is a free-for-all drawing contest open to all artists across the osu! community. In each iteration of the contest, participating artists are being challenged to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) across varying themes and art concepts.
+The Fan Art Contest is a free-for-all drawing contest open to all artists across the osu! community. In each iteration of the contest, participating artists have to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) across varying themes and art concepts.
 
 | Contest No. | Theme | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -149,7 +149,7 @@ At first, the contest was named "Best of" at its launch as the initial premise o
 
 #### osu!idol
 
-The osu!idol is a free-for-all singing/song cover contest open to all aspiring singers across the osu! community. In each iteration of the contest, participating singers will be singing their way out across multiple stages either as a solo or a duet act in which the judges and the community will then take over and vote to determine the winner.
+The osu!idol is a free-for-all singing/song cover contest open to all aspiring singers across the osu! community. In each iteration of the contest, participating singers have to sing their way out across multiple stages either as a solo or a duet act in which the judges and the community will then take over and vote to determine the winner.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
