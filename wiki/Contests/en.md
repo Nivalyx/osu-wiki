@@ -14,6 +14,8 @@ Official contests are contests that are being hosted (or otherwise recognized as
 
 *Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
+The Monthly Beatmmping Contest
+
 | Contest No. | Beatmap | Mode | Mapper | Results | Scores |
 | :-: | :-- | :-: | :-- | :-- | :-- |
 | 1 | [Rostik - Liquid (Paul Rosenthal Remix)](https://osu.ppy.sh/beatmapsets/123593) | ![osu!][osu!] | [Charles445](https://osu.ppy.sh/users/85000) | [Results](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) | [Score #1](https://osu.ppy.sh/p/contestresults?c=7) |
@@ -183,11 +185,12 @@ Unofficial contests are contests that are being hosted by members of the communi
 
 ### osu! Beatmapping World Championship <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
-osu! Beatmapping World Championship is a team-based mapping contest where participating teams of mappers from the same country, region, or even continent (to some extent) are battling their mapping skills out across multiple stages. The contest is known for entirely making use of songs available in the [Featured Artist](wiki/Featured_Artists) library during its runs.
+osu! Beatmapping World Championship is a team-based mapping contest where participating teams of mappers from the same country, region, or even continent (to some extent) are battling their mapping skills out across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](wiki/Featured_Artists) library during its runs.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
-| [1](/wiki/Contests/oBWC/1/) | ![][flag_FR] France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), and ![][flag_CH] [Xenok](https://osu.ppy.sh/users/3256600)) | ![][flag_SE] Sweden | | |
+| [#1 (2019)](/wiki/Contests/oBWC/1/) | ![][flag_FR] France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), and ![][flag_CH] [Xenok](https://osu.ppy.sh/users/3256600)) | ![][flag_SE] Sweden ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), and [Zer0-](https://osu.ppy.sh/users/4260033))| ![][flag_HK] Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), and [Starfy](https://osu.ppy.sh/users/2045914) | [Results](https://www.youtube.com/watch?v=_booyIRa5v8) |
+| [#2 (2020)](/wiki/Contests/oBWC/2/) | ![][flag_GB] United Kingdom ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), and [Yusomi](https://osu.ppy.sh/users/4174940)) | ![][flag_AR] Argentina ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), and [Megafan](https://osu.ppy.sh/users/6632605))| ![][flag_BR] Brazil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), and [Trynna](https://osu.ppy.sh/users/2652951) | [Results](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
 
 ### Pending Cup
 
@@ -354,6 +357,7 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
