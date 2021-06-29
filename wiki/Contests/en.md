@@ -20,10 +20,10 @@ All songs featured in the contest were either being released under a licensing t
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
-| 1 | Rostik - Liquid (Paul Rosenthal Remix) | ![osu!][osu!] | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | ![][flag_AT] [Alumetorz](https://osu.ppy.sh/users/1145984) | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | [Results](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) |
+| [1](https://osu.ppy.sh/home/news/2013-09-06-osu-monthly-beatmapping-contest-1) | Rostik - Liquid (Paul Rosenthal Remix) | ![osu!][osu!] | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | ![][flag_AT] [Alumetorz](https://osu.ppy.sh/users/1145984) | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | [Results](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) |
+| [2](https://osu.ppy.sh/home/news/2013-10-28-monthly-beatmapping-contest-2-submissions-open) | cYsmix feat. Emmy - Tear Rain | ![osu!][osu!] | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | ![][flag_RU] [Reiji-RJ](https://osu.ppy.sh/users/305389) | [Results](https://osu.ppy.sh/home/news/2014-01-06-monthly-beatmapping-contest-2-results) |
+| [3](https://osu.ppy.sh/home/news/2013-12-15-monthly-beatmapping-contest-3-submissions-open) | Chasers - Lost | ![osu!][osu!] | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) | ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | [Results](https://osu.ppy.sh/home/news/2014-02-19-monthly-beatmapping-contest-3-results) |
 
-| 2 | [cYsmix feat. Emmy - Tear Rain](https://osu.ppy.sh/beatmapsets/140662) | ![osu!][osu!] | [jonathanlfj](https://osu.ppy.sh/users/270377) | [Results](https://osu.ppy.sh/home/news/2014-01-06-monthly-beatmapping-contest-2-results) | [Score #2](https://osu.ppy.sh/p/contestresults?c=8) |
-| 3 | [Chasers - Lost](https://osu.ppy.sh/beatmapsets/151878) | ![osu!][osu!] | [ktgster](https://osu.ppy.sh/users/53378) | [Results](https://osu.ppy.sh/home/news/2014-02-19-monthly-beatmapping-contest-3-results) | [Score #3](https://osu.ppy.sh/p/contestresults?c=9) |
 | 4 | [Kuba Oms - My Love](https://osu.ppy.sh/beatmapsets/163112) | ![osu!][osu!] | [W h i t e](https://osu.ppy.sh/users/685229) | [Results](https://osu.ppy.sh/home/news/2017-05-11-osuweekly-103) | [Score #4](https://osu.ppy.sh/p/contestresults?c=10) |
 | 5 | [Rameses B - Flaklypa](https://osu.ppy.sh/beatmapsets/190390) | ![osu!][osu!] | [-kevincela-](https://osu.ppy.sh/users/266596) | [Results](https://osu.ppy.sh/home/news/2014-07-14-monthly-beatmapping-contest-5-results) | [Score #5](https://osu.ppy.sh/p/contestresults?c=11) |
 | 6 (Aspire) | [LeaF - Evanescent](https://osu.ppy.sh/beatmapsets/227126) | ![osu!][osu!] | [Charles445](https://osu.ppy.sh/users/85000) | [Results](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) | [Score #6](https://osu.ppy.sh/p/contestresults?c=12) |
@@ -351,6 +351,7 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_MX]: /wiki/shared/flag/MY.gif "Mexico"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PA]: /wiki/shared/flag/PA.gif "Panama"
