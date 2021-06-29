@@ -154,19 +154,7 @@ osu!idol is a free-for-all singing/song cover contest open to all aspiring singe
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [#1 (2014)](https://osu.ppy.sh/home/news/2014-08-24-osuidol-sign-ups-now-open) | ![][flag_CN] [yealina](https://osu.ppy.sh/users/139551) | ![][flag_CN] [Sharlo](https://osu.ppy.sh/users/1622450) | ![][flag_RS] [MissTitannia](https://osu.ppy.sh/users/4490361) | [FictionJunction - Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [Results](https://osu.ppy.sh/home/news/2015-01-02-osuidol-2014-results) |
-
-### 2015
-
-| Placing | Results | Original Artists |
-| :-: | :-- | :-- |
-| ![Gold Crown][GCrown] | [Sagi](https://osu.ppy.sh/users/491799) - Systematic Love | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8) |
-| ![Silver Crown][SCrown] | [CptHampton](https://osu.ppy.sh/users/3200587) - Drumming Song | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
-| ![Bronze Crown][BCrown] | [yealina](https://osu.ppy.sh/users/139551) - Hyadain no Kakakata☆Kataomoi | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4) |
-
-- [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
-- [News post](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)
-- [Results post](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-results)
-- [Official post](https://osu.ppy.sh/community/forums/topics/352608)
+| [#2 (2015)](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live) | ![][flag_ID] [Sagi](https://osu.ppy.sh/users/491799) | ![][flag_US] [CptHampton]https://osu.ppy.sh/users/3200587) | ![][flag_CN] [yealina](https://osu.ppy.sh/users/139551) | [Camellia feat. Hatsune Miku - Systematic Love](https://soundcloud.com/sagisapon/czsexzj5tm7b) | [Results](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-result) |
 
 ## osu!remix
 
