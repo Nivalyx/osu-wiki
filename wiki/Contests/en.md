@@ -103,7 +103,7 @@ A Labour of Love is a team-based spanning over multiple artistic disciplines whe
 
 The Best of/Community Choice is a voting contest that is being held annually to determine the most popular beatmaps <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the eyes of the osu! community at each given year.
 
-At its launch, the contest was named "Best of" as the initial premise and expectation for the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year". However, as the game's playerbase continue to grew up in number over time, the contest was inevitably shifting more and more towards a popularity contest each year which prompted the contest to be relaunched as "Community Choice" in 2017.
+At its launch, the contest was named "Best of" as the initial premise and expectation of the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year". However, as the game's playerbase continue to grew up in number over time, the contest was inevitably shifting more and more towards a popularity contest each year which prompted the contest to be relaunched as "Community Choice" in 2017.
 
 | Year | Mode | ![Gold Crown][GCrown] (osu!) | ![Gold Crown][GCrown] (osu!taiko) | ![Gold Crown][GCrown] (osu!catch) | ![Gold Crown][GCrown] (osu!mania) | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- | :-- |
