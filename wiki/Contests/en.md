@@ -80,11 +80,15 @@ Notes:
 
 osu! Mapping Olympiad is a contest with similar formatting to Monthly Beatmapping Contests #1 to #12. Each iteration of it can be found on the [Community Contests page](https://osu.ppy.sh/community/contests).
 
+## Community Mapping Contest
+
+The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4K and 7K entries). Through the [Community Contests listing](https://osu.ppy.sh/community/contests), users voted for their favorite entries. The winning difficulties were compiled into a [beatmap](https://osu.ppy.sh/beatmapsets/587388).
+
 ### Other Official Contests
 
 #### Fan Art Contest
 
-The Fan Art Contest is a drawing contest open to all artists across the osu! community. In each iteration of the contest, participating artists are being challenged to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) across varying themes and art concepts.
+The Fan Art Contest is a free-for-all drawing contest open to all artists across the osu! community. In each iteration of the contest, participating artists are being challenged to create the best fan art for osu! involving [osu!'s mascots](wiki/Mascots) across varying themes and art concepts.
 
 | Contest No. | Theme | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -124,7 +128,7 @@ The Skinning Contest is a free-for-all osu! skinning contest open to skinners fr
 
 #### Best of/Community Choice
 
-The Best of/Community Choice is an annual voting contest that is being held to fetch out the most popular beatmaps <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the eyes of the osu! community at large on each given year.
+The Best of/Community Choice is a voting contest that is being held annually to fetch out the most popular beatmaps <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the eyes of the osu! community at large on each given year.
 
 At first, the contest was named "Best of" at its launch as the initial premise of the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year". However, as the game's playerbase continue to grew up in number over time, the contest was inevitably shifting more and more towards a popularity contest each year which prompted the contest to be relaunched as "Community Choice" in 2017.
 
@@ -143,26 +147,13 @@ At first, the contest was named "Best of" at its launch as the initial premise o
 | [2019](https://osu.ppy.sh/home/news/2020-01-23-community-choice-2019-voting-open) | ![osu!][osu!]/![osu!taiko][osu!taiko]/![osu!catch][osu!catch]/![osu!mania][osu!mania] | [DECO\*27 - Ghost Rule](https://osu.ppy.sh/beatmapsets/413117) hosted by ![][flag_CN] [Awaken](https://osu.ppy.sh/users/1380253) | [Nog - Aether Ritual](https://osu.ppy.sh/beatmapsets/928431) hosted by ![][flag_BR] [Kqrth](https://osu.ppy.sh/users/4115718) | [Chroma - I](https://osu.ppy.sh/beatmapsets/944317) hosted by ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | [xi - Blue Zenith](https://osu.ppy.sh/beatmapsets/919633) hosted by ![][flag_SG] [riunosk](https://osu.ppy.sh/users/5594381) | [Results](https://osu.ppy.sh/home/news/2020-02-10-community-choice-2019-result) |
 | [2020](https://osu.ppy.sh/home/news/2021-01-21-community-choice-2020-voting-open) | ![osu!][osu!]/![osu!taiko][osu!taiko]/![osu!catch][osu!catch]/![osu!mania][osu!mania] | [DADDY ! DADDY ! DO ! feat. Suzuki Airi (TV Size)](https://osu.ppy.sh/beatmapsets/1147361) hosted by ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | [Calliope Mori - Excuse My Rudeness, but Could You Please RIP?<3 (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/1278695) hosted by ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | [Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1151836) hosted by ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | [Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)](https://osu.ppy.sh/beatmapsets/1034114) hosted by ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176) | [Results](https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results) |
 
-## Community Mapping Contest
+#### osu!idol
 
-The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4K and 7K entries). Through the [Community Contests listing](https://osu.ppy.sh/community/contests), users voted for their favorite entries. The winning difficulties were compiled into a [beatmap](https://osu.ppy.sh/beatmapsets/587388).
+The osu!idol is a free-for-all singing/song cover contest open to all aspiring singers across the osu! community. In each iteration of the contest, participants will be singing their way out across multiple stages either as a solo or a duet act in which the judges and the community will then take over and vote to determine the winner.
 
-## osu!idol
-
-osu!idol is a contest where contestants as a solo or a duet sing their way through multiple stages with different genres. Official judges and the community will take over and vote to determine the winner.
-
-### 2014
-
-| Placing | Results | Original Artists |
-| :-: | :-- | :-- |
-| ![Gold Crown][GCrown] | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | FictionJunction |
-| ![Silver Crown][SCrown] | [Sharlo](https://osu.ppy.sh/users/1622450) - 緋色月下、狂咲ノ絶 -1st Anniversary Remix- | EastNewSound |
-| ![Bronze Crown][BCrown] | [MissTitannia](https://osu.ppy.sh/users/4490361) - *unknown* | *unknown* |
-
-- [Archive sheet for all stages (check by tabs below the spreadsheet)](https://docs.google.com/spreadsheets/d/1XEL-Zb_ldV0l4jpv7IAWzER-LV-uoo9pE2nIb7PI23Y/edit?pli=1#gid=1003675360)
-- [News post](https://osu.ppy.sh/home/news/2014-08-24-osuidol-sign-ups-now-open)
-- [Results post](https://osu.ppy.sh/home/news/2015-01-02-osuidol-2014-results)
-- [Official post](https://osu.ppy.sh/community/forums/topics/234545)
+| Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
+| :-: | :-- | :-- | :-- | :-- | :-- |
+| [#1 (2014)](https://osu.ppy.sh/home/news/2014-08-24-osuidol-sign-ups-now-open) | ![][flag_CN] [yealina](https://osu.ppy.sh/users/139551) | ![][flag_CN] [Sharlo](https://osu.ppy.sh/users/1622450) | ![][flag_RS] [MissTitannia](https://osu.ppy.sh/users/4490361) | [FictionJunction - Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | [Results](https://osu.ppy.sh/home/news/2015-01-02-osuidol-2014-results) |
 
 ### 2015
 
