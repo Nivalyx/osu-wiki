@@ -128,7 +128,7 @@ The Skinning Contest is a free-for-all osu! skinning contest open to skinners fr
 
 #### Best of/Community Choice
 
-The Best of/Community Choice is a voting contest that is being held annually to fetch out the most popular beatmaps <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the eyes of the osu! community at large on each given year.
+The Best of/Community Choice is a voting contest that is being held annually to determine the most popular beatmaps <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the eyes of the osu! community at each given year.
 
 At first, the contest was named "Best of" at its launch as the initial premise of the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year". However, as the game's playerbase continue to grew up in number over time, the contest was inevitably shifting more and more towards a popularity contest each year which prompted the contest to be relaunched as "Community Choice" in 2017.
 
@@ -149,7 +149,7 @@ At first, the contest was named "Best of" at its launch as the initial premise o
 
 #### osu!idol
 
-The osu!idol is a free-for-all singing/song cover contest open to all aspiring singers across the osu! community. In each iteration of the contest, participants will be singing their way out across multiple stages either as a solo or a duet act in which the judges and the community will then take over and vote to determine the winner.
+The osu!idol is a free-for-all singing/song cover contest open to all aspiring singers across the osu! community. In each iteration of the contest, participating singers will be singing their way out across multiple stages either as a solo or a duet act in which the judges and the community will then take over and vote to determine the winner.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
