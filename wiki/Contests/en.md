@@ -188,7 +188,7 @@ Unofficial contests are contests that are being hosted by members of the communi
 
 ### osu! Beatmapping World Championship <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
-osu! Beatmapping World Championship is a team-based mapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) are battling their mapping skills out across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](wiki/Featured_Artists) library during its runs.
+osu! Beatmapping World Championship is a team-based mapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) are battling their mapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](wiki/Featured_Artists) library during its runs.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
