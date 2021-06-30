@@ -23,7 +23,7 @@ The Monthly Beatmaping Contest in its initial concept was a mapping contest wher
 | [3](https://osu.ppy.sh/home/news/2013-12-15-monthly-beatmapping-contest-3-submissions-open) | Chasers - Lost | ![osu!][osu!] | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) | ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | [Results](https://osu.ppy.sh/home/news/2014-02-19-monthly-beatmapping-contest-3-results) |
 | [4](https://osu.ppy.sh/home/news/2014-02-14-monthly-beatmapping-contest-4-submissions-now) | Kuba Oms - My Love | ![osu!][osu!] | ![][flag_KR] [W h i t e](https://osu.ppy.sh/users/685229) | ![][flag_CA] [Little](https://osu.ppy.sh/users/2099102) | ![][flag_DE] [Jenny](https://osu.ppy.sh/users/579428) | [Results](https://osu.ppy.sh/home/news/2014-04-28-monthly-beatmapping-contest-4-results) |
 | [5](https://osu.ppy.sh/home/news/2014-05-07-monthly-beatmapping-contest-5-submissions-now) | Rameses B - Flaklypa | ![osu!][osu!] | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | ![][flag_TH] [Nichiyouki](https://osu.ppy.sh/users/1011056) | ![][flag_KR] [Abe Nana](https://osu.ppy.sh/users/739813) | [Results](https://osu.ppy.sh/home/news/2014-07-14-monthly-beatmapping-contest-5-results) |
-| [6 (Aspire)](https://osu.ppy.sh/home/news/2014-07-21-monthly-beatmapping-contest-6) | Rameses B - Flaklypa | ![osu!][osu!] | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | ![][flag_IT] [Bonzi](https://osu.ppy.sh/users/1313969) and ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917) | ![][flag_DE] [Damnae](https://osu.ppy.sh/users/989377) and ![][flag_US] [Jacob](https://osu.ppy.sh/users/976963) | [Results](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) |
+| [6 (Aspire)](https://osu.ppy.sh/home/news/2014-07-21-monthly-beatmapping-contest-6) | LeaF - Evanescent | ![osu!][osu!] | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | ![][flag_IT] [Bonzi](https://osu.ppy.sh/users/1313969) and ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917) | ![][flag_DE] [Damnae](https://osu.ppy.sh/users/989377) and ![][flag_US] [Jacob](https://osu.ppy.sh/users/976963) | [Results](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) |
 | [7 (osu!)](https://osu.ppy.sh/home/news/2014-09-24-monthly-beatmapping-contest-7) | Soleily - Renatus | ![osu!][osu!] | ![][flag_JP] [Gamu](https://osu.ppy.sh/users/611174) | ![][flag_SG] [aplstepitaslast](https://osu.ppy.sh/users/2248413) | ![][flag_KR] [KoiSuru\_](https://osu.ppy.sh/users/747356) | [Results](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) |
 | [7 (osu!taiko)](https://osu.ppy.sh/home/news/2014-09-24-monthly-beatmapping-contest-7) | Soleily - Renatus | ![osu!taiko][osu!taiko] | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) | ![][flag_TW] [qoot8123](https://osu.ppy.sh/users/766371) | [Results](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) |
 | [7 (osu!catch)](https://osu.ppy.sh/home/news/2014-09-24-monthly-beatmapping-contest-7) | Soleily - Renatus | ![osu!catch][osu!catch] | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253) | *N/A* | [Results](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) |
@@ -62,18 +62,17 @@ For more information about how the current Monthly Beatmapping Contest cycles ar
 | [April 2021 (osu!catch)](https://osu.ppy.sh/community/contests/124) |  [MYUKKE.](https://osu.ppy.sh/beatmaps/artists/121) | ![osu!catch][osu!catch] | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | ![][flag_TH] [rew0825](https://osu.ppy.sh/users/2488026) | *N/A* | [Results](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 | [May 2021 (osu!)](https://osu.ppy.sh/community/contests/127) |  [Masahiro "Godspeed" Aoki](https://osu.ppy.sh/beatmaps/artists/136) | ![osu!][osu!] | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | ![][flag_RU] [kuyusu](https://osu.ppy.sh/users/11758667) | [Results](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 
-## Aspire
+#### Aspire
 
-Aspire is a beatmapping contest with one special exception, they are not bound to the [Ranking Criteria](/wiki/Ranking_Criteria).
+Aspire is a one-of-a-kind mapping contest where participating mappers are being challenged to create the best beatmap imaginable without any restrictions towards the rules of the [Ranking Criteria](/wiki/Ranking_Criteria). The contest encourages mappers to explore the the technical possibilities of the game as far as possible.
 
-| Contest No. | Beatmap | Mode | Mapper | Results | Scores |
-| :-: | :-- | :-: | :-- | :-- | :-- |
-| Aspire 2016 | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) | ![osu!][osu!] | [Monstrata](https://osu.ppy.sh/users/2706438) | [Results](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) | [Score #1](https://osu.ppy.sh/p/contestresults?c=22) |
-
-Notes:
-
-- Winners of the Aspire contests will receive the "Elite Mapper: Aspirant" forum title and a unique Aspire profile badge.
-- "Monthly Beatmapping Contest #6" was an Aspire event, but is not part of this list (see Monthly Beatmapping Contest instead).
+| Contest No. | Song | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- | :-- |
+| [1](https://osu.ppy.sh/home/news/2014-07-21-monthly-beatmapping-contest-6) | LeaF - Evanescent | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | ![][flag_IT] [Bonzi](https://osu.ppy.sh/users/1313969) and ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917) | ![][flag_DE] [Damnae](https://osu.ppy.sh/users/989377) and ![][flag_US] [Jacob](https://osu.ppy.sh/users/976963) | [Results](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) |
+| [2](https://osu.ppy.sh/home/news/2016-05-17-aspire-returns-beatmap-contest) | IAHN - Transform (Original Mix) | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145) | ![][flag_HK] [Regou](https://osu.ppy.sh/users/419954) | [Results](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) |
+| [3](https://osu.ppy.sh/home/news/2017-01-21-aspire-returns-for-2017) | Helblinde - The Solace of Oblivion | ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792) | ![][flag_HK] [MinG3012](https://osu.ppy.sh/users/1583218) | ![][flag_SG] [emilia](https://osu.ppy.sh/users/2003326) | [Results](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) |
+| [4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | Culprate - Acid Rain | ![][flag_TW] [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ![][flag_LT] [seselis1](https://osu.ppy.sh/users/7321833) | [Results](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
+| [5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | Any song available in the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) as per April 2020 | ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) *(community pick winner)*, ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) *(mapper's pick winner)* | ![][flag_CA] [Meow Mix](https://osu.ppy.sh/users/3021634) | ![][flag_CN] [fanzhen0019](https://osu.ppy.sh/users/418699) | [Results](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
 
 ## Mapping With Rewards
 
@@ -371,6 +370,7 @@ ESQUARIA - 寒椿 ～ Kantsubaki | ![osu!][osu!] | ![][flag_HK] [Regou](https://
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
