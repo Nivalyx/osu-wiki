@@ -46,7 +46,7 @@ After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 202
 
 For more information about how the current Monthly Beatmapping Contest cycles are being run, please refer to their [main article](/wiki/Contests/Monthly_Beatmapping_Contest).
 
-| Contest Listing | Featured Artist | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | Screening crew's #1 | Results |
+| Contest Listing | Featured Artist | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | Screening Crew's #1 | Results |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | [January 2020](https://osu.ppy.sh/community/contests/84) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!][osu!] | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | [Results](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 
