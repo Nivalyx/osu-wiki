@@ -37,7 +37,7 @@ All songs featured in the contest were either being released under a licensing t
 | [12](https://osu.ppy.sh/home/news/2016-03-04-beatmapping-contest-12-osu) | IAHN - Candy Luv | ![osu!][osu!] | ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | [Results](https://osu.ppy.sh/home/news/2016-05-26-monthly-beatmapping-contest-12-results) |
 | [13](https://osu.ppy.sh/home/news/2016-12-09-monthly-beatmapping-contest-13-now-open) | BilliumMoto - HDHR | ![osu!][osu!] | ![][flag_MY] [RyoKazuka](https://osu.ppy.sh/users/6258586) | ![][flag_ID] [Fort](https://osu.ppy.sh/users/2805457) | ![][flag_DE] [Pho](https://osu.ppy.sh/users/3624692) | [Results](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results) |
 
-After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 2020 with a brand new schedule, ruleset, voting procedure, and reward scheme. Some of the main changes that are being made to the competition format are as follows:
+After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 2020 with a brand new schedule, ruleset, voting procedure, and reward scheme. Some of the main changes that were being made to the competition format are as follows:
 
 - a
 - b
