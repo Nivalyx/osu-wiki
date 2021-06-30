@@ -330,7 +330,7 @@ The Newspaper Cup is a mapping contest that is similar to Pending Cup in concept
 | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Ponkichi - Hyakka Sakigake to Shiro Tokkuri | ![osu!][osu!] | ![][flag_CN] [taeyeon\_nn](https://osu.ppy.sh/users/10483270) | ![][flag_CN] [-Nanako-](https://osu.ppy.sh/users/7483636) | ![][flag_CN] [Byakuya](https://osu.ppy.sh/users/8430550) | [Results](https://osu.ppy.sh/community/forums/topics/891628) |
-| Hinatabi Bitter Sweets - Rin to shite saku hana no gotoku ~HinaBitter edition~ | ![osu!][osu!] | ![][flag_CN] [-Nanako-](https://osu.ppy.sh/users/7483636) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_CA] [Rage Quit](https://osu.ppy.sh/users/9562068) | [Results](https://osu.ppy.sh/community/forums/topics/891628) |
+| Hinatabi Bitter Sweets - Rin to shite saku hana no gotoku \~HinaBitter edition\~ | ![osu!][osu!] | ![][flag_CN] [-Nanako-](https://osu.ppy.sh/users/7483636) | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | ![][flag_CA] [Rage Quit](https://osu.ppy.sh/users/9562068) | [Results](https://osu.ppy.sh/community/forums/topics/891628) |
 
 #### [Newspaper Cup \#6 (2020)](https://osu.ppy.sh/community/forums/topics/1023671)
 
