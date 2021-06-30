@@ -14,9 +14,7 @@ Official contests are contests that are being hosted (or otherwise recognized as
 
 *Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
-The Monthly Beatmaping Contest in its initial concept was a mapping contest where participating mappers were competing to create the most excellent mapset with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards of a given song in a month's time. 
-
-All songs featured in the Monthly Beatmaping Contest were either being released under a licensing term that allows for the songs in question to be used in osu! (e.g. [CC-BY](https://creativecommons.org/licenses/)) or had been cleared for use in osu! preemptively by the [osu!team](https://osu.ppy.sh/wiki/en/People/The_Team).
+The Monthly Beatmaping Contest in its initial concept was a mapping contest where participating mappers were competing to create the most excellent mapset with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards of a given song (that had been cleared for use in osu! preemptively by the [osu!team](https://osu.ppy.sh/wiki/en/People/The_Team)) in a month's time. 
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
