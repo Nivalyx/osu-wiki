@@ -114,12 +114,6 @@ Notes:
 
 - Mapping With Rewards #1 was concluded without a results post.
 
-## osu! Mapping Olympiad
-
-*Main page: [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
-
-osu! Mapping Olympiad is a contest with similar formatting to Monthly Beatmapping Contests #1 to #12. Each iteration of it can be found on the [Community Contests page](https://osu.ppy.sh/community/contests).
-
 ## Community Mapping Contest
 
 The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4K and 7K entries). Through the [Community Contests listing](https://osu.ppy.sh/community/contests), users voted for their favorite entries. The winning difficulties were compiled into a [beatmap](https://osu.ppy.sh/beatmapsets/587388).
