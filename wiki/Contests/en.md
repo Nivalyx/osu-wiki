@@ -39,7 +39,7 @@ After a long hiatus, the Monthly Beatmapping Contest is being rebooted in Januar
 
 - Instead of a single song, the contest now offers a selection of several songs from a different [featured artist](/wiki/Featured_Artists) each month in which all participating mappers are free to map and submit their entries in.
 - Participating mappers now only have to submit a single difficulty instead of a complete mapset.
-- Participating mappers now have to adhere to certain beatmapping themes and/or limitation set by the contest each month, such as "Star rating may not exceed 4.00★" or "Every object should overlap another object".
+- Participating mappers now have to adhere to certain beatmapping theme and/or limitation set by the contest each month, such as "Star rating may not exceed 4.00★" or "Every object should overlap another object".
 
 For more information about how the current Monthly Beatmapping Contest cycles are being run, please refer to their [main article](/wiki/Contests/Monthly_Beatmapping_Contest).
 
