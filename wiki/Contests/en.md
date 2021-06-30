@@ -44,7 +44,7 @@ After a long hiatus, the Monthly Beatmapping Contest is being rebooted in Januar
 For more information about how the current Monthly Beatmapping Contest cycles are being run, please refer to their [main article](/wiki/Contests/Monthly_Beatmapping_Contest).
 
 | Contest Listing | Featured Artist | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | Screening Crew's #1 | Results |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| :-- | :-- | :-: | :-- | :-- | :-- | :-- |
 | [January 2020](https://osu.ppy.sh/community/contests/84) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!][osu!] | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | [Results](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [February 2020](https://osu.ppy.sh/community/contests/89) | [Voicians](https://osu.ppy.sh/beatmaps/artists/59) | ![osu!][osu!] | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | [Results](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |
 | [March 2020](https://osu.ppy.sh/community/contests/91) | [Sound Souler](https://osu.ppy.sh/beatmaps/artists/70) | ![osu!][osu!] | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | [Results](https://osu.ppy.sh/home/news/2020-04-20-monthly-beatmapping-contest-3-results) ||
