@@ -8,13 +8,13 @@ Section dedicated for contests held throughout the osu! community.
 
 Official contests are contests that are being hosted (or otherwise recognized as official) by the [osu!team](https://osu.ppy.sh/wiki/en/People/The_Team). Most official contests have their own listing in the [contests page](https://osu.ppy.sh/community/contests) dedicated to them.
 
-### Official Mapping Contests
+### Official Beatmapping Contests
 
 #### Monthly Beatmapping Contest
 
 *Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
-The Monthly Beatmaping Contest in its initial concept was a mapping contest where participating mappers were competing to create the most excellent mapset with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards of a given song (that had been cleared for use in osu! preemptively by the [osu!team](https://osu.ppy.sh/wiki/en/People/The_Team)) in a month's time. 
+The Monthly Beatmaping Contest in its initial concept was a beatmapping contest where participating mappers were competing to create the most excellent mapset with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards of a given song (that had been cleared for use in osu! preemptively by the [osu!team](https://osu.ppy.sh/wiki/en/People/The_Team)) in a month's time. 
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -64,7 +64,7 @@ For more information about how the current Monthly Beatmapping Contest cycles ar
 
 #### Aspire
 
-Aspire is a one-of-a-kind mapping contest where participating mappers are being challenged to create the best beatmap imaginable without any restrictions towards the rules of the [Ranking Criteria](/wiki/Ranking_Criteria). The contest encourages mappers to explore the the technical possibilities of the game as far as possible.
+Aspire is a one-of-a-kind beatmapping contest where participating mappers are being challenged to create the best beatmap imaginable without any restrictions towards the rules of the [Ranking Criteria](/wiki/Ranking_Criteria). The contest encourages mappers to explore the the technical possibilities of the game as far as possible.
 
 | Contest No. | Song | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -78,7 +78,7 @@ Aspire is a one-of-a-kind mapping contest where participating mappers are being 
 
 *Main page: [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
 
-The osu! Mapping Olympiad is a mapping contest that is being held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating mappers are being tasked to create either a full mapset (with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) or a certain number of difficulties for any of the songs that are eligible for the corresponding iteration.
+The osu! Mapping Olympiad is a beatmapping contest that is being held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating mappers are being tasked to create either a full mapset (with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) or a certain number of difficulties for any of the songs that are eligible for the corresponding iteration.
 
 | Contest No. | Song(s) | Mode | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Results |
 | :-- | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -92,7 +92,7 @@ The osu! Mapping Olympiad is a mapping contest that is being held as a spiritual
 
 ## Mapping With Rewards
 
-Mapping With Rewards is a contest without strict deadlines and features one winner for each of the three available songs per round.
+Mapping With Rewards is a beatmapping contest without strict deadlines and features one winner for each of the three available songs per round.
 
 | Contest No. | Beatmap | Mode | Mapper | Results | Scores |
 | :-: | :-- | :-: | :-- | :-- | :-- |
@@ -115,11 +115,13 @@ Notes:
 
 ## Community Mapping Contest
 
-The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4K and 7K entries). Through the [Community Contests listing](https://osu.ppy.sh/community/contests), users voted for their favorite entries. The winning difficulties were compiled into a [beatmap](https://osu.ppy.sh/beatmapsets/587388).
+The Community Mapping Contest is a beatmapping contest where participating mappers are free to submit their entry for any difficulty in any game mode they desire. All entries are being judged separately according to their difficulty and game mode, in which all of the winning difficulties across all game modes are merged together into a single beatmap afterwards.
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] (Easy) | [Gold Crown][GCrown] (Normal) | [Gold Crown][GCrown] (Hard) | [Gold Crown][GCrown] (Insane) | [Gold Crown][GCrown] (Extra) | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
-| [#1 (osu!)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | ![osu][osu] | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_ID] [Chalwa](https://osu.ppy.sh/users/4826159) | ![][flag_TH] [Nondt](https://osu.ppy.sh/users/3119525) | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
+| [#1 (osu!)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | [osu!][osu!] | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_ID] [Chalwa](https://osu.ppy.sh/users/4826159) | ![][flag_TH] [Nondt](https://osu.ppy.sh/users/3119525) | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
+| [#1 (osu!taiko)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | [osu!][osu!] | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | ![][flag_TW] [S a n d](https://osu.ppy.sh/users/676578) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
+| [#1 (osu!taiko)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | [osu!][osu!] | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | ![][flag_TW] [S a n d](https://osu.ppy.sh/users/676578) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
 
 ### Other Official Contests
 
@@ -135,7 +137,7 @@ A Labour of Love is a team-based spanning over multiple artistic disciplines whe
 
 The Best of/Community Choice is a voting contest that is being held annually to determine the most popular beatmaps <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the eyes of the osu! community at each given year.
 
-At its launch, the contest was named "Best of" as the initial premise and expectation of the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year". However, as the game's playerbase continue to grew up in number over time, the contest was inevitably shifting more and more towards a popularity contest each year which prompted the contest to be relaunched as "Community Choice" in 2017.
+At its launch, the contest was named "Best of" as the initial premise and expectation of the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year". However, as the game's playerbase continue to grew up in number over time, the contest was inevitably shifting more and more into a popularity contest each year which prompted the contest to be relaunched as "Community Choice" in 2017.
 
 | Year | Mode | ![Gold Crown][GCrown] (osu!) | ![Gold Crown][GCrown] (osu!taiko) | ![Gold Crown][GCrown] (osu!catch) | ![Gold Crown][GCrown] (osu!mania) | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -220,7 +222,7 @@ Unofficial contests are contests that are being hosted by members of the communi
 
 ### osu! Beatmapping World Championship <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
-osu! Beatmapping World Championship is a team-based mapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) are battling their mapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](wiki/Featured_Artists) library during its runs.
+osu! Beatmapping World Championship is a team-based beatmapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) are battling their mapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](wiki/Featured_Artists) library during its runs.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
@@ -229,7 +231,7 @@ osu! Beatmapping World Championship is a team-based mapping contest where partic
 
 ### Pending Cup
 
-The Pending Cup is a mapping contest that is being held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs across varying genres and mapping difficulties that mappers from all across the community are free to compete and submit their entries in.
+The Pending Cup is a beatmapping contest that is being held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs across varying genres and mapping difficulties that mappers from all across the community are free to compete and submit their entries in.
 
 Although Pending Cup was particularly intended for Chinese-speaking members of the community at first, the contest has since been expanded to incorporate entries from other mappers from around the world as well due to growing interest.
 
@@ -298,7 +300,7 @@ Although Pending Cup was particularly intended for Chinese-speaking members of t
 
 ### Newspaper Cup
 
-The Newspaper Cup is a mapping contest that is similar to Pending Cup in concept but with a greater emphasis on novice mappers. As with Pending Cup, the contest is also being held yearly by prominent members of the Chinese mapping community and has since been developed from a contest that was particularly intended for Chinese-speaking members of the community to a global-scale contest.
+The Newspaper Cup is a beatmapping contest that is similar to Pending Cup in nature but with a much greater emphasis on novice mappers. As with Pending Cup, the contest is also being held yearly by prominent members of the Chinese mapping community and has since been developed from a contest that was particularly intended for Chinese-speaking members of the community to a global-scale contest.
 
 #### [Newspaper Cup \#1 (2015)](https://osu.ppy.sh/community/forums/topics/272739)
 
