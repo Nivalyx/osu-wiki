@@ -118,7 +118,7 @@ Notes:
 The Community Mapping Contest allowed users to submit an entry for any difficulty of any game mode (osu!mania was split into two for 4K and 7K entries). Through the [Community Contests listing](https://osu.ppy.sh/community/contests), users voted for their favorite entries. The winning difficulties were compiled into a [beatmap](https://osu.ppy.sh/beatmapsets/587388).
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] (Easy) | [Gold Crown][GCrown] (Normal) | [Gold Crown][GCrown] (Hard) | [Gold Crown][GCrown] (Insane) | [Gold Crown][GCrown] (Extra) | Results |
-| :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
 | [#1 (osu!)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | ![osu][osu] | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_ID] [Chalwa](https://osu.ppy.sh/users/4826159) | ![][flag_TH] [Nondt](https://osu.ppy.sh/users/3119525) | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
 
 ### Other Official Contests
