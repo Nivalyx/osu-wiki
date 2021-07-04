@@ -117,7 +117,7 @@ Notes:
 
 The Community Mapping Contest is a beatmapping contest where participating mappers are free to submit their entry for any difficulty in any game mode they desire, in which all the winning entries across all difficulties and game modes are then merged together into a single beatmap.
 
-| Contest No. | Song | Mode | ![Gold Crown][GCrown] (Easy) | [Gold Crown][GCrown] (Normal) | [Gold Crown][GCrown] (Hard) | [Gold Crown][GCrown] (Insane) | [Gold Crown][GCrown] (Extra) | Results |
+| Contest No. | Song | Mode | ![Gold Crown][GCrown] (Easy) | ![Gold Crown][GCrown] (Normal) | ![Gold Crown][GCrown] (Hard) | ![Gold Crown][GCrown] (Insane) | ![Gold Crown][GCrown] (Extra) | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
 | [#1 (osu!)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | ![osu!][osu!] | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_ID] [Chalwa](https://osu.ppy.sh/users/4826159) | ![][flag_TH] [Nondt](https://osu.ppy.sh/users/3119525) | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
 | [#1 (osu!taiko)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | ![osu!taiko][osu!taiko] | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | ![][flag_TW] [S a n d](https://osu.ppy.sh/users/676578) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
@@ -357,9 +357,9 @@ The Newspaper Cup is a beatmapping contest that is similar to Pending Cup in nat
 | Vocal¹ | ![osu!][osu!] | ![][flag_EE] [Keqing](https://osu.ppy.sh/users/8501291) | ![][flag_US] [Cubby](https://osu.ppy.sh/users/10914582) | ![][flag_TW] [Hey lululu](https://osu.ppy.sh/users/4086497) | [Results](https://osu.ppy.sh/community/forums/topics/1274667) |
 | Instrumental² | ![osu!][osu!] | ![][flag_CA] [Kyumo](https://osu.ppy.sh/users/14689984) | ![][flag_US] [- ascended -](https://osu.ppy.sh/users/4564285) | ![][flag_CL] [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [Results](https://osu.ppy.sh/community/forums/topics/1274667) |
 
-¹ The Vocal category provides mappers with a choice of five different songs to be mapped: Ariabl'eyeS - 運命の歯車, Yunomi - 曖昧トリップ, きくおはな - デザート・シアター, 花譜 - 戸惑いテレパシー, and まふまふ - SNOBBISM.
+¹ The Vocal category provides mappers with a choice of five different songs to be mapped: Ariabl'eyeS - Unmei no Haguruma, Yunomi - Aimai Trip, KikuoHana - Desert Theater, Kaf - Tomadoi Telepathy, and Mafumafu - SNOBBISM.
 
-² The Instrumental category provides mappers with a choice of five different songs to be mapped: 梅干茶漬け - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, 中川幸太郎 - 博多豚骨ラーメンズ, and roop - Chatblanc.
+² The Instrumental category provides mappers with a choice of five different songs to be mapped: Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, and roop - Chatblanc.
 
 [flag_AE]: /wiki/shared/flag/AE.gif "United Arab Emirates"
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
