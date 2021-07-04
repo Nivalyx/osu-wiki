@@ -115,13 +115,15 @@ Notes:
 
 ## Community Mapping Contest
 
-The Community Mapping Contest is a beatmapping contest where participating mappers are free to submit their entry for any difficulty in any game mode they desire. All entries are being judged separately according to their difficulty and game mode in where all of the winning difficulties across all game modes are to be merged together into a single beatmap afterwards.
+The Community Mapping Contest is a beatmapping contest where participating mappers are free to submit their entry for any difficulty in any game mode they desire, in which all the winning entries across all difficulties and game modes are then merged together into a single beatmap.
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] (Easy) | [Gold Crown][GCrown] (Normal) | [Gold Crown][GCrown] (Hard) | [Gold Crown][GCrown] (Insane) | [Gold Crown][GCrown] (Extra) | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
 | [#1 (osu!)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | [osu!][osu!] | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_CA] [Little](https://osu.ppy.sh/users/672430) | ![][flag_ID] [Chalwa](https://osu.ppy.sh/users/4826159) | ![][flag_TH] [Nondt](https://osu.ppy.sh/users/3119525) | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
 | [#1 (osu!taiko)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | [osu!][osu!] | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | ![][flag_TW] [S a n d](https://osu.ppy.sh/users/676578) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
-| [#1 (osu!taiko)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | [osu!][osu!] | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_ID] [Niko-nyan](https://osu.ppy.sh/users/906991) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | ![][flag_TW] [S a n d](https://osu.ppy.sh/users/676578) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
+| [#1 (osu!catch)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | [osu!catch][osu!catch] | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | ![][flag_RU] [Nelly](https://osu.ppy.sh/users/4741164) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
+| [#1 (osu!mania (4K))](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | [osu!mania][osu!mania] | ![][flag_CN] [Kayano](https://osu.ppy.sh/users/961752) | ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023) | ![][flag_ID] [LordRaika](https://osu.ppy.sh/users/3265023) | ![][flag_FR] [Ovoui](https://osu.ppy.sh/users/2282098) | ![][flag_ID] [DoNotMess](https://osu.ppy.sh/users/1596318) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
+| [#1 (osu!mania (7K))](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) | [yuki. - Nadeshiko Sensation](https://osu.ppy.sh/beatmaps/artists/4) | [osu!mania][osu!mania] | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ![][flag_VN] [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | [Results](https://osu.ppy.sh/beatmapsets/587388) |
 
 ### Other Official Contests
 
@@ -188,7 +190,7 @@ The Fan Art Contest is a drawing contest where participating artists from all ac
 
 #### osu!idol
 
-osu!idol is a singing/song cover contest where participating singers from all across the community are singing their way out either as a solo or a duet act across multiple judging and community voting stages. The contest is named the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is modelled after various commercial singing competition shows.
+osu!idol is a singing/song cover contest where participating singers from all across the community are singing their way out either as a solo or a duet act across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is modelled after various commercial singing competition shows.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
