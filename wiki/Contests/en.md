@@ -115,7 +115,7 @@ Notes:
 
 ## Community Mapping Contest
 
-The Community Mapping Contest is a beatmapping contest where participating mappers are free to submit their entry for any difficulty in any game mode they desire. All entries are being judged separately according to their difficulty and game mode, in which all of the winning difficulties across all game modes are merged together into a single beatmap afterwards.
+The Community Mapping Contest is a beatmapping contest where participating mappers are free to submit their entry for any difficulty in any game mode they desire. All entries are being judged separately according to their difficulty and game mode in where all of the winning difficulties across all game modes are to be merged together into a single beatmap afterwards.
 
 | Contest No. | Song | Mode | ![Gold Crown][GCrown] (Easy) | [Gold Crown][GCrown] (Normal) | [Gold Crown][GCrown] (Hard) | [Gold Crown][GCrown] (Insane) | [Gold Crown][GCrown] (Extra) | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
