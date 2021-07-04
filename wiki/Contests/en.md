@@ -129,7 +129,7 @@ The Community Mapping Contest is a beatmapping contest where participating mappe
 
 #### A Labour of Love
 
-A Labour of Love is a team-based spanning over multiple artistic disciplines where participating teams are being tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to the said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modelled after [THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) and other similar competitions.
+A Labour of Love is a team-based spanning over multiple artistic disciplines where participating teams are being tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to the said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modelled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/) and other similar competitions.
 
 | Contest No. | Remixed Song | ![Gold Crown][GCrown] (Overall Winner) | ![Silver Crown][SCrown] (Overall Runner-Up) | Community Vote Winner | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -190,7 +190,7 @@ The Fan Art Contest is a drawing contest where participating artists from all ac
 
 #### osu!idol
 
-osu!idol is a singing/song cover contest where participating singers from all across the community are singing their way out either as a solo or a duet act across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is modelled after various commercial singing competition shows.
+osu!idol is a singing/song cover contest where participating singers from all across the community are singing their way out either as a solo or a duet act across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is taking inspiration from various commercial singing competition shows.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
