@@ -37,7 +37,7 @@ The Monthly Beatmaping Contest in its initial concept was a mapping contest wher
 
 After a long hiatus, the Monthly Beatmapping Contest is being rebooted in January 2020 with a brand new schedule, ruleset, voting procedure, and reward scheme. Many aspects of the competition have been dramatically altered to make way for a more engaging and attractive contest, in which some of them are as follows:
 
-- Instead of a single song, the contest now offers a selection of several songs from a different [featured artist](/wiki/Featured_Artists) each month in which all participating mappers are free to map and submit their entries in.
+- Instead of a single song, the contest now offers a selection of several songs from a different [featured artist](/wiki/Featured_Artists) each month in which all participating mappers are free to map and submit their entries from.
 - Participating mappers now only have to submit a single difficulty instead of a complete mapset.
 - Participating mappers now have to adhere to certain beatmapping theme and/or limitation set by the contest each month, such as "Star rating may not exceed 4.00★" or "Every object should overlap another object".
 
