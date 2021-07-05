@@ -186,7 +186,7 @@ The Fan Art Contest is a drawing contest where participating artists from all ac
 
 #### osu! Beatmap Blueprints Contest
 
-The osu! Beatmap Blueprints Contest is 
+The osu! Beatmap Blueprints Contest is a one-off contest held in commemoration of the launch of [Beatmap Blueprints](https://osu.ppy.sh/store/products/9) in the [osu!store](https://osu.ppy.sh/store/listing). In this contest, participating users are competing to create the best blueprint of a beatmap in any visual medium using the assets provided in the Beatmap Blueprints merch pack.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
