@@ -78,7 +78,7 @@ Aspire is a one-of-a-kind beatmapping contest where participating mappers are be
 
 *Main page: [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
 
-The osu! Mapping Olympiad is a beatmapping contest that is being held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating mappers are being tasked to create either a full mapset (with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) or a certain number of difficulties for any of the songs that are eligible for the corresponding iteration.
+The osu! Mapping Olympiad is a beatmapping contest that is being held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating mappers are being tasked to create either a full mapset (with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) or a certain number of difficulties for any of the given songs in each corresponding iteration.
 
 | Contest No. | Song(s) | Mode | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Results |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -92,13 +92,14 @@ The osu! Mapping Olympiad is a beatmapping contest that is being held as a spiri
 
 ## Mapping With Rewards
 
-Mapping With Rewards is a beatmapping contest without strict deadlines and features one winner for each of the three available songs per round.
+Mapping With Rewards is a beatmapping contest where participating mappers are competing to create the best beatmap (with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) for any of the given songs in each corresponding iteration without strict deadlines.
 
-| Contest No. | Beatmap | Mode | Mapper | Results | Scores |
-| :-: | :-- | :-: | :-- | :-- | :-- |
-| 1.1 | [cYsmix - Manic](https://osu.ppy.sh/beatmapsets/361175) | ![osu!][osu!] | [Monstrata](https://osu.ppy.sh/users/2706438) |  |  |
-| 1.2 | [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950) | ![osu!][osu!] | [Guy](https://osu.ppy.sh/users/91738) |  |  |
-| 1.3 | [cYsmix - House With Legs](https://osu.ppy.sh/beatmapsets/360950) | ![osu!][osu!] | [alacat](https://osu.ppy.sh/users/869782) |  |  |
+| Contest No. | Song | Mode | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Results |
+| :-: | :-- | :-: | :-- | :-- | :-- | :-- |
+| [#1.1](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) | [cYsmix - Manic](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | *N/A* | *N/A* | [Results](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete) |
+| [#1.2](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) | [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | *N/A* | *N/A* | [Results](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete) |
+| [#1.3](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) | [cYsmix - House With Legs](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ![][flag_JP] [alacat](https://osu.ppy.sh/users/869782) | *N/A* | *N/A* | [Results](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete) |
+
 | 2.1 | [cYsmix - Fright March](https://osu.ppy.sh/beatmapsets/486142) | ![osu!][osu!] | [Gero](https://osu.ppy.sh/users/1467715) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.1](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
 | 2.2 | [cYsmix - Moonlight Sonata](https://osu.ppy.sh/beatmapsets/486535) | ![osu!][osu!] | [Okoratu](https://osu.ppy.sh/users/1623405) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.2](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
 | 2.3 | [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/488238) | ![osu!][osu!] | [-kevincela-](https://osu.ppy.sh/users/266596) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.3](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
@@ -190,7 +191,7 @@ The Fan Art Contest is a drawing contest where participating artists from all ac
 
 #### osu!idol
 
-osu!idol is a singing/song cover contest where participating singers from all across the community are singing their way out either as a solo or a duet act across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is taking inspiration from various commercial singing competition shows.
+osu!idol is a singing/song cover contest where participating singers from all across the community are singing their way out either as a solo or a duet act across multiple judging and community voting stages. The contest is named after the [Idols franchise](https://en.wikipedia.org/wiki/Idols_(franchise)) and is mainly inspired by various televised singing competition shows.
 
 | Contest No. | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Winning Song | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
