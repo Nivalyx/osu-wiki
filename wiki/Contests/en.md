@@ -64,7 +64,7 @@ For more information about how the current Monthly Beatmapping Contest cycles ar
 
 #### Aspire
 
-Aspire is a one-of-a-kind beatmapping contest where participating mappers are being challenged to create the best beatmap imaginable without any restrictions towards the rules of the [Ranking Criteria](/wiki/Ranking_Criteria). The contest encourages mappers to explore the the technical possibilities of the game as far as possible.
+Aspire is a one-of-a-kind beatmapping contest where participating mappers are being challenged to create the most innovative beatmap imaginable without any restrictions towards the rules of the [Ranking Criteria](/wiki/Ranking_Criteria). The contest encourages mappers to explore the the technical possibilities of the game as far as possible.
 
 | Contest No. | Song | ![Gold Crown][GCrown] | ![Silver Crown][SCrown] | ![Bronze Crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
