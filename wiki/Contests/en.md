@@ -90,7 +90,7 @@ The osu! Mapping Olympiad is a beatmapping contest that is being held as a spiri
 | [#6](https://osu.ppy.sh/home/news/2020-02-15-osu-mapping-olympiad-6-catch) | [MYLK - Waffle Wave](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!catch][osu!catch] | ![][flag_HK] [autofanboy](https://osu.ppy.sh/users/636114) | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | ![][flag_CN] [Yumeno Himiko](https://osu.ppy.sh/users/1806962) | [Results](https://osu.ppy.sh/home/news/2020-04-23-osu-mapping-olympiad-6-results) |
 | [#7](https://osu.ppy.sh/home/news/2020-06-06-osu-mapping-olympiad-7-mania) | [Frums - Star Of The COME ON!!](https://osu.ppy.sh/beatmaps/artists/68), [IAHN - Welcome (Original Mix)](https://osu.ppy.sh/beatmaps/artists/3), [PUP - DVP](https://osu.ppy.sh/beatmaps/artists/79), [HyuN - ENCOUNTER](https://osu.ppy.sh/beatmaps/artists/33), and [Cranky - Ran](https://osu.ppy.sh/beatmaps/artists/23) | ![osu!mania][osu!mania] | ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) and ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | *N/A* | ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573) and ![][flag_CA] [BringoBrango](https://osu.ppy.sh/users/10274043) | [Results](https://osu.ppy.sh/home/news/2020-12-01-osu-mapping-olympiad-7-concludes) |
 
-## Mapping With Rewards
+#### Mapping With Rewards
 
 Mapping With Rewards is a beatmapping contest where participating mappers are competing to create the best beatmap (with a proper [difficulty spread](wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) for any of the given songs in each corresponding iteration without strict deadlines.
 
@@ -114,7 +114,7 @@ Notes:
 
 - Mapping With Rewards #1 was concluded without a results post.
 
-## Community Mapping Contest
+#### Community Mapping Contest
 
 The Community Mapping Contest is a beatmapping contest where participating mappers are free to submit their entry for any difficulty in any game mode they desire, in which all the winning entries across all difficulties and game modes are then merged together into a single beatmap.
 
