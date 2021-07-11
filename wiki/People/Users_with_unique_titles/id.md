@@ -95,10 +95,9 @@ Sejak tahun 2020, setiap tahunnya osu! menganugerahkan gelar **Elite Nominator**
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)¹
 - ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)¹
-- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)¹
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
 
-¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), dan ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) saat ini menyandang gelar **Elite Nominator II** atas keberhasilan mereka dalam mempertahankan status Elite Nominator yang mereka miliki selama dua tahun berturut-turut.
+¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), dan ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) saat ini menyandang gelar **Elite Nominator II** atas keberhasilan mereka dalam mempertahankan status Elite Nominator yang mereka miliki selama dua tahun berturut-turut.
 
 ### Pemenang kontes-kontes mapping Aspire
 
@@ -134,6 +133,7 @@ osu! menganugerahkan gelar **Featured Artist** kepada para [Featured Artist](/wi
 
 | Pengguna | Artis |
 | :-- | :-- |
+| ![][flag_JP] [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
 | ![][flag_US] [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
@@ -232,6 +232,7 @@ Pemain-pemain berikut memperoleh gelarnya masing-masing atas keberhasilan mereka
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
 | ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366) | Elite Storyboarder |
 | ![][flag_US] [11t](https://osu.ppy.sh/users/2112092) | Elite Storyboarder |
+| ![][flag_JP] [A\_\_](https://osu.ppy.sh/users/12011880) | Featured Artist |
 | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | Elite Mapper |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) | Elite Nominator |
 | ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010) | osu! Champion |
@@ -299,7 +300,6 @@ Pemain-pemain berikut memperoleh gelarnya masing-masing atas keberhasilan mereka
 | ![][flag_MY] [Miraie](https://osu.ppy.sh/users/6483437) | Featured Artist |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
-| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Elite Nominator II |
 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626) | osu!catch Champion |
 | ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) | Elite Mapper: Aspirant |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
