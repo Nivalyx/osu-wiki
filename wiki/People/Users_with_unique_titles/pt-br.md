@@ -98,7 +98,6 @@ Desde 2020, atividade de membros dos [Nomeadores de Beatmap](/wiki/People/The_Te
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)
 - ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)
-- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
 
 ### Vencedores de competição de mapping Aspire
@@ -131,6 +130,7 @@ As competições do osu!remix recompensam o título de **osu!mixer** como prêmi
 
 | Usuário | Artista |
 | :-- | :-- |
+| ![][flag_JP] [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
 | ![][flag_US] [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
@@ -235,6 +235,7 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
 | ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366) | Elite Storyboarder |
 | ![][flag_US] [11t](https://osu.ppy.sh/users/2112092) | Elite Storyboarder |
+| ![][flag_JP] [A\_\_](https://osu.ppy.sh/users/12011880) | Featured Artist |
 | ![][flag_KR] [Acylica](https://osu.ppy.sh/users/1943309) | Elite Mapper |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) | Elite Nominator |
 | ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010) | osu! Champion |
@@ -302,7 +303,6 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | ![][flag_MY] [Miraie](https://osu.ppy.sh/users/6483437) | Featured Artist |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
-| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Elite Nominator II |
 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626) | osu!catch Champion |
 | ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) | Elite Mapper: Aspirant |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
