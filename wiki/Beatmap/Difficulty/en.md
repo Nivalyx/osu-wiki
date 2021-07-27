@@ -66,9 +66,11 @@ These are the typical levels of difficulty that a beatmap can fall under. Specif
 - ![](/wiki/shared/diff/expert-m.png) Expert
 - ![](/wiki/shared/diff/expertplus-m.png) Expert+
 
-## Star rating
+## Difficulty rating colour
 
-![Star rating ranges](img/SR-range.png)
+As per 27 July 2021, the osu! website automatically assigns a beatmap's difficulty rating colour based on their star rating following this spectrum range:
+
+![](/img/osu-new-difficulty-spectrum.png)
 
 On the website, beatmaps are automatically given a difficulty icon based on these star rating ranges:
 
@@ -79,4 +81,4 @@ On the website, beatmaps are automatically given a difficulty icon based on thes
 - ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ and above
 
-The intended difficulty levels of most beatmaps match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) define more precise rules for determining difficulty and evaluating beatmaps spreads.
+It is worth noting that while the intended difficulty levels of most beatmaps match the colours or icons they are given to, some others may deviate significantly due to certain factors. This is why the [ranking criteria](/wiki/Ranking_Criteria) defines more precise rules for determining difficulty and evaluating beatmaps spreads.
