@@ -30,9 +30,11 @@ The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) was a double-eliminat
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 2 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 1 month of osu!supporter |
 
+![Profile badge](img/badge.png)
+
 ## Organization
 
-CIC 2021 is run by various Indonesian osu! community members.
+CIC 2021 was run by various Indonesian osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
