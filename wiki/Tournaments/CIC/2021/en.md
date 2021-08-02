@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2021 banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament is open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It is the ninth iteration of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2021** (***CIC 2021***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) and ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751). The tournament was open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It was the ninth iteration of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -53,6 +53,10 @@ CIC 2021 is run by various Indonesian osu! community members.
 - [Challonge brackets](https://challonge.com/CIC2021 "Challonge")
 - [Livestream channel](https://www.twitch.tv/osuIndonesia/ "Twitch")
 
+## Podium
+
+![Champion: dika312, 2nd place: CamXDanna, 3rd place: Nekuro](img/podium.png)
+
 ## Participants
 
 Listed below are players who qualified into the Group stage (along with their respective seeding and group placement) out of 35 registered players in total.
@@ -84,7 +88,7 @@ Listed below are players who qualified into the Group stage (along with their re
 - Hidden
   - [Pizuya's Cell - Inchlings of the Shining Needle \~ Little Princess (Yumeno Himiko) \[Rain\]](https://osu.ppy.sh/beatmapsets/1530944#fruits/3131336)
   - [KOTOKO - agony (Madoka Ayukawa) \[Fleeting Promise\]](https://osu.ppy.sh/beatmapsets/1530841#fruits/3131142)
-  - [memme - Dajiahao (Erhu ver.) (SkyFlame) \[Kawa's Expert\]](https://osu.ppy.sh/beatmapsets/1362864#fruits/2922978)
+  - [Memme - Dajiahao (Erhu ver.) (SkyFlame) \[Kawa's Expert\]](https://osu.ppy.sh/beatmapsets/1362864#fruits/2922978)
   - [Aqours - Jingle Bells ga Tomaranai (Cris-) \[Yeah! Dancin' Christmas!!\]](https://osu.ppy.sh/beatmapsets/1313213#fruits/2740342)
 - HardRock
   - [Unlucky Morpheus - Phantom Blood (Noctalium) \[Warth\]](https://osu.ppy.sh/beatmapsets/1412284#fruits/2911298)
@@ -203,6 +207,26 @@ Listed below are players who qualified into the Group stage (along with their re
   - **[Official HIGE DANdism - Pretender (Crowley) \[My Final Farewell\]](https://osu.ppy.sh/beatmapsets/1272888#fruits/2645056)**
 
 ## Match results
+
+### Finals
+
+Friday, 30 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **7** | 1 | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) | [#1](https://osu.ppy.sh/community/matches/88329783) |
+
+Saturday, 31 July 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Nekuro](https://osu.ppy.sh/users/3222638) ![][flag_ID] | 2 | **7** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148)** | [#1](https://osu.ppy.sh/community/matches/88392375) |
+
+Sunday, 1 August 2021, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **7** | 0 | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | [#1](https://osu.ppy.sh/community/matches/88449380) |
 
 ### Semifinals
 
