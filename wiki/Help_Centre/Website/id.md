@@ -19,39 +19,39 @@ tags:
   - statistik
 ---
 
-# Website
+# Situs web
 
-*Main page: [Help centre](/wiki/Help_Centre)*
+*Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
 
-This section is dedicated to issues with the osu! website.
+Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutarakan seputar situs web osu! secara garis besar.
 
-## Common issues
+## Masalah-masalah umum
 
-### I have not received a reply to my support ticket and it's been over 2 weeks!
+### Saya sudah menunggu hingga lebih dari 2 minggu, namun sampai saat ini saya belum mendapatkan kabar apa-apa seputar tiket layanan dukungan (*support ticket*) milik saya!
 
-**The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
+**Pada umumnya, hal ini disebabkan oleh banyaknya tiket layanan dukungan (*support ticket*) yang sedang kami proses.**
 
-You can always send a single reply to your currently open ticket asking about the state of your case, but make sure not to do this more than once or twice a week. You can also contact us on Twitter at [@osusupport](https://twitter.com/osusupport) to ask about your ticket.
+Apabila kamu ingin mengetahui status tiket layanan dukungan (support ticket) milikmu, kamu dipersilahkan untuk kembali menghubungi tim layanan dukungan kami asalkan masih dalam batas yang sewajarnya. Kamu juga dapat menanyakan hal yang sama melalui akun Twitter [@osusupport](https://twitter.com/osusupport) milik kami.
 
-In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
+Dalam **kasus-kasus tertentu** yang utamanya melibatkan pelanggaran-pelanggaran berat, tim layanan dukungan kami dapat memberitahukan kamu bahwa tiket layanan dukungan (support ticket) milikmu tidak akan ditindaklanjuti lebih lanjut. Apabila kamu tidak merasa pernah melakukan pelanggaran apapun, kamu tidak perlu khawatir dan hanya butuh untuk lebih bersabar!
 
-### Can I completely block another user from contacting me?
+### Apakah saya dapat memblokir pengguna lain?
 
-**Yes, absolutely.**
+**Tentu saja bisa.**
 
-In the event that another user is harassing you via private messages either on the forums or via the game client itself, there are a few steps that you can take yourself to filter out their messages.
+Apabila kamu merasa tersinggung atau terlecehkan dengan pesan-pesan yang dikirim oleh pengguna-pengguna tertentu baik itu melalui pesan pribadi (*private message*), forum, ataupun kanal obrolan dalam permainan (*in-game chat*), kamu dapat memblokir mereka dengan mengikuti langkah-langkah berikut.
 
-#### Blocking a user from contacting you in-game
+#### Memblokir pengguna lain untuk dapat menghubungimu melalui *in-game chat*
 
-**To block a user from sending you messages in-game, simply add them to your ignore list.**
+**Untuk dapat memblokir pesan *in-game chat* dari pengguna lain, tambahkan nama pengguna mereka ke dalam daftar pengabaian (*ignore list*) yang kamu miliki.**
 
-1. Click the Options menu button in-game
-2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
-3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called *The Gatekeeper* becomes *The\_Gatekeeper* for example).
+1. Klik tombol `Options` pada yang ada pada layar menu utama, atau tekan `CTRL` + `O`.
+2. Ketik `ignore` atau `pengabaian` pada kolom pencarian (quick-search bar) yang muncul, lalu tuju pilihan `Daftar pengabaian`.
+4. Tambahkan nama-nama pengguna yang ingin kamu blokir ke dalam daftar tersebut. Apabila nama pengguna yang ingin kamu blokir memiliki spasi, ganti semua spasi yang ada dengan garis bawah (sebagai contoh, untuk dapat memblokir *The Gatekeeper* kamu harus mengetikkan *The\_Gatekeeper*).
 
-You'll no longer see public chat messages from any users on that list, or receive private messages from them.
+Ke depannya, kamu tidak akan lagi melihat pesan-pesan yang berasal dari para pengguna tersebut baik yang dikirim pada kanal-kanal obrolan publik ataupun pada pesan pribadi (*private message*).
 
-If you wish to ignore highlights, private messages, or public messages, you can simply append respectively `@h`, `@p`, `@c` to their username. `The_Gatekeeper@c` will ignore the user's messages in public channels. It is possible to combine those: `The_Gatekeeper@ph` will ignore highlights and private messages, but leave public messages visible.
+Apabila kamu hanya ingin memblokir jenis-jenis pesan tertentu saja (semisal *highlight*, *private message*, atau *public message*), kamu dapat menambahkan @h, @p, atau @c pada nama-nama tertentu dalam daftar pengabaian milikmu. Sebagai contoh, `The_Gatekeeper@c` akan memblokir pesan-pesan pada kanal-kanal obrolan publik dan `The_Gatekeeper@ph` akan memblokir *highlight* dan *private message* yang masuk dari pengguna yang bersangkutan.
 
 #### Blocking all non-friends from sending private messages in-game
 
