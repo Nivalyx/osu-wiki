@@ -49,19 +49,19 @@ Apabila kamu merasa tersinggung atau terlecehkan dengan pesan-pesan yang dikirim
 2. Ketik `ignore` atau `pengabaian` pada kolom pencarian (quick-search bar) yang muncul, lalu tuju pilihan `Daftar pengabaian`.
 4. Tambahkan nama-nama pengguna yang ingin kamu blokir ke dalam daftar tersebut. Apabila nama pengguna yang ingin kamu blokir memiliki spasi, ganti semua spasi yang ada dengan garis bawah (sebagai contoh, untuk dapat memblokir *The Gatekeeper* kamu harus mengetikkan *The\_Gatekeeper*).
 
-Ke depannya, kamu tidak akan lagi melihat pesan-pesan yang berasal dari para pengguna tersebut baik yang dikirim pada kanal-kanal obrolan publik ataupun pada pesan pribadi (*private message*).
+Ke depannya, kamu tidak akan lagi melihat pesan-pesan dari para pengguna tersebut baik yang dikirim pada kanal-kanal obrolan publik ataupun pada pesan pribadi (*private message*).
 
 Apabila kamu hanya ingin memblokir jenis-jenis pesan tertentu saja (semisal *highlight*, *private message*, atau *public message*), kamu dapat menambahkan @h, @p, atau @c pada nama-nama tertentu dalam daftar pengabaian milikmu. Sebagai contoh, `The_Gatekeeper@c` akan memblokir pesan-pesan pada kanal-kanal obrolan publik dan `The_Gatekeeper@ph` akan memblokir *highlight* dan *private message* yang masuk dari pengguna yang bersangkutan.
 
-#### Blocking all non-friends from sending private messages in-game
+#### Memblokir pengguna-pengguna yang tidak ditambahkan sebagai teman untuk dapat mengirimkan pesan pribadi (*private message*) melalui *in-game chat*
 
-If you wish to prevent anyone not on your friends list from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
+Apabila kamu tidak lagi ingin menerima pesan pribadi (*private message*) dari pengguna-pengguna yang tidak kamu tambahkan sebagai teman, kamu dapat mengikuti langkah-langkah berikut. **Harap dicatat bahwa fitur ini tidak akan menghalangi para moderator kami untuk dapat berkomunikasi denganmu melalui *in-game chat*; apabila kamu merasa ada moderator yang menggunakan keistimewaan yang mereka miliki ini untuk hal-hal yang tidak sepantasnya, harap hubungi [tim layanan dukungan kami](mailto:support@ppy.sh).**
 
-1. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
-2. Type "block" to filter the options listing to the "In-game Chat" section.
-3. Click on the setting that appears to enable it.
+1. Klik tombol `Options` pada yang ada pada layar menu utama, atau tekan `CTRL` + `O`.
+2. Ketik `block` atau `tolak` pada kolom pencarian (*quick-search bar*) yang muncul.
+3. Aktifkan opsi `Tolak pesan pribadi dari pemain selain teman Anda`.
 
-Users who are not on your friends list can no longer contact you.
+Ke depannya, kamu tidak akan lagi mendapatkan pesan *in-game chat* dari pengguna-pengguna yang tidak kamu tambahkan sebagai teman.
 
 <!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one
 
@@ -75,44 +75,44 @@ Users who are not on your friends list can no longer contact you.
 
 -->
 
-#### Prevent any new forum private messages from reaching you
+#### Memblokir pengguna-pengguna yang tidak ditambahkan sebagai teman untuk dapat mengirimkan pesan pribadi (*private message*) melalui forum
 
-Go to your [account settings](https://osu.ppy.sh/home/account/edit) and click `block private messages from people not on your friends list` in the Privacy section. Private messages from users in your friends list will still reach you.
+Tuju laman [pengaturan akun](https://osu.ppy.sh/home/account/edit) dan aktifkan opsi `Blokir pesan pribadi dari orang yang tidak ada dalam daftar teman Anda` yang ada pada kolom Kebijakan Privasi. Ke depannya, kamu tidak akan lagi mendapatkan pesan forum yang berasal dari pengguna-pengguna yang tidak kamu tambahkan sebagai teman.
 
-### What if I'm still having problems with a user after blocking them?
+### Apa yang harus saya lakukan apabila saya masih merasa tersinggung atau terlecehkan oleh pengguna-pengguna tertentu walaupun saya sudah memblokir mereka?
 
-**Never fear, our support staff will help you out.**
+**Jangan khawatir. Kami siap untuk membantumu.**
 
-If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at [support@ppy.sh](mailto:support@ppy.sh).
+Apabila kamu masih mendapatkan perlakuan yang kurang menyenangkan dari mereka terlepas dari segala upaya yang telah kamu lakukan sebelumnya, harap hubungi kami melalui email pada alamat [support@ppy.sh](mailto:support@ppy.sh).
 
-Make sure to include any chatlogs or other evidence in the email, and our support staff will look into your case and get it sorted for you.
+Pastikan kamu melampirkan *chat log* atau bukti-bukti lain yang mendukung kasusmu agar kami dapat menindaklanjuti para pelanggar yang bersangkutan sebagaimana mestinya.
 
-### What are these "Me!" pages that I see on other player's profiles?
+### Apa itu kolom “saya!” yang sering saya lihat pada laman profil milik para pengguna lain?
 
-**Me! pages, or userpages, are special profile elements that all players with a [supporter tag](https://osu.ppy.sh/home/support) get access to. They can contain whatever you like - pictures of your achievements, your beatmaps, basically anything you wish!**
+**Kolom “saya!”, atau yang sering disebut juga dengan istilah *userpage*, merupakan kolom pada laman profil yang secara khusus tersedia bagi para pemilik [supporter tag](https://osu.ppy.sh/home/support). Kolom ini dapat kamu isi dengan hal apapun yang kamu inginkan - baik itu skor-skor yang pernah kamu torehkan, beatmap-beatmap milikmu, atau apapun itu!**
 
-Players with a [supporter tag](https://osu.ppy.sh/home/support) are given the privilege of editing their very own page for display on their profile for the world to see. Me! pages may contain anything you like - so long as it follows the [community rules](/wiki/Rules)!
+Para pemilik [supporter tag](https://osu.ppy.sh/home/support) dapat membuat kolom “saya!” pada laman profil milik mereka kapanpun yang mereka mau. Kolom ini bebas untuk diisi dengan hal apapun - selama tidak melanggar [peraturan komunitas](/wiki/Rules) yang berlaku, tentunya!
 
-Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out, your Me! page will **remain visible** and you will still be able to edit its contents.
+Apabila kamu sebelumnya pernah membuat kolom “saya!” pada laman profil osu! milikmu, kolom tersebut **tidak akan pernah hilang dan akan tetap dapat kamu sunting secara bebas ke depannya** bahkan ketika kamu sudah tidak lagi memiliki [supporter tag](https://osu.ppy.sh/home/support) yang berlaku.
 
-### My Me! page contents are missing!
+### Konten-konten yang ada pada kolom “saya!” milik saya tiba-tiba menghilang!
 
-**This can happen if your Me! page had inappropriate content on it as defined by our [community rules](/wiki/Rules).**
+**Pada umumnya, hal ini disebabkan karena tim kami menemukan konten-konten pada kolom “saya!” milikmu yang melanggar [peraturan komunitas](/wiki/Rules) yang berlaku.**
 
-In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh) and discussing your situation with them.
+Apabila kamu berkeberatan dengan hal ini, kamu dapat membuka tiket layanan dukungan (*support ticket*) baru dengan mengirimkan email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-If at any point you are in doubt as to whether something is appropriate for a Me! page, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
+Apabila kamu tidak yakin apakah konten yang kamu miliki (atau yang hendak kamu letakkan) pada kolom “saya!” milikmu melanggar peraturan atau tidak, harap hubungi anggota-anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) untuk mendapatkan arahan dan konfirmasi lebih lanjut.
 
-### Do I need to use my email address to register?
+### Apakah saya harus memiliki alamat email yang terdaftar untuk dapat membuat akun osu!?
 
-**Yes. We require your email address to send you password reset requests and verification codes when needed.**
+**Ya. Alamat email ini ke depannya akan diperlukan untuk mengatur ulang kata sandi dan mengirimkan kode verifikasi ketika diperlukan.**
 
-If you have trouble connecting via the game client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
+Apabila kamu tidak dapat terhubung secara *online*, harap periksa apakah osu! sedang diblokir oleh aplikasi *firewall* atau antivirus yang kamu miliki.
 
-If you ever lose your password or cannot access your account, your registration email is our first point of contact with you.
+Apabila sewaktu-waktu kamu kehilangan atau tidak dapat mengingat kata sandi milikmu, kami dapat menggunakan alamat email ini untuk memulihkan akses menuju akunmu. 
 
-### Why are the statistics in my user profile page wrong?
+### Mengapa statistik yang tertera pada laman profil saya tidak akurat?
 
-**You might be looking at your stats for another game mode!**
+**Kamu mungkin sedang melihat statistik milikmu pada mode permainan yang tidak kamu kehendaki!**
 
-If you have been inactive for a lengthy period of time and your statistics are shown wrong, simply play a few maps to display them again. Inactive users have their scores hidden to keep the rankings fresh.
+Periksa kembali apakah kamu sudah berada pada mode permainan yang kamu kehendaki. Di samping itu, apabila kamu sudah tidak lagi aktif bermain, situs web osu! akan secara otomatis menyembunyikan statistik-statistik tertentu yang kamu miliki setelah beberapa bulan agar peringkat performa (*performance ranking*) yang kami miliki senantiasa relevan seiring waktu.
