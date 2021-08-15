@@ -12,28 +12,32 @@ tags:
   - pendaftaran
 ---
 
-# Installation and registration
+# Instalasi dan pendaftaran
 
 *Main page: [Help centre](/wiki/Help_Centre)*
 
-This section is dedicated to issues with installing osu! and creating your own account.
+*Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
 
-## Installation
+Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutarakan seputar instalasi dan pendaftaran akun osu! secara garis besar.
 
-*Main page: [Installation](/wiki/Installation)*
+## Instalasi
 
-### How do I download osu!?
+*Laman utama: [Instalasi](/wiki/Installation)*
 
-**Simply click `Download now` found at the center of the [official osu! website homepage](https://osu.ppy.sh/home). You may also find the link through the `home` dropdown section found at the navigation bar on any page.**
+### Di mana saya dapat mengunduh osu!?
 
-Alternatively, [click here](https://osu.ppy.sh/home/download) for a direct link to the download page.
+**Kamu dapat mengunduh osu! melalui tombol `Unduh sekarang` yang ada pada [laman utama (*homepage*) osu!](https://osu.ppy.sh/home), atau dengan mengarahkan kursor kamu pada menu `beranda` yang ada pada bagian atas layar dan memilih `unduh` pada daftar pilihan yang muncul setelahnya.**
 
-## Registration
+Apabila kamu tidak ingin repot, [klik tautan ini](https://osu.ppy.sh/home/download).
 
-*Main page: [Registration](/wiki/Registration)*
+## Pendaftaran
 
-### Where do I register for osu!?
+*Laman utama: [Pendaftaran](/wiki/Registration)*
+
+### Bagaimana caranya bagi saya untuk dapat membuat akun osu!? 
 
 **Download osu! through [here](https://osu.ppy.sh/home/download), then run it. The game will prompt you with a section where you can create an account.**
 
-Make sure you provide an email address you have control over. This is used to reset your password and send verification emails when needed. Do not use a throwaway email.
+**[Unduh osu! terlebih dahulu](https://osu.ppy.sh/home/download), lalu instal dan jalankan. Apabila sudah, ikuti instruksi-instruksi yang tertera pada layar untuk dapat membuat akun baru.**
+
+Pastikan kamu mendaftar dengan menggunakan alamat email yang aktif dan dapat kamu akses setiap saat (bukan alamat email yang bersifat sementara/*throwaway mail*). Apabila sewaktu-waktu kamu kehilangan atau tidak dapat mengingat kata sandi milikmu, kami dapat menggunakan alamat email ini untuk memulihkan akses menuju akunmu.
