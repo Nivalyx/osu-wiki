@@ -34,8 +34,6 @@ Apabila kamu tidak ingin repot, [klik tautan ini](https://osu.ppy.sh/home/downlo
 
 ### Bagaimana caranya bagi saya untuk dapat membuat akun osu!? 
 
-**Download osu! through [here](https://osu.ppy.sh/home/download), then run it. The game will prompt you with a section where you can create an account.**
-
 **[Unduh osu! terlebih dahulu](https://osu.ppy.sh/home/download), lalu instal dan jalankan. Apabila sudah, ikuti instruksi-instruksi yang tertera pada layar untuk dapat membuat akun baru.**
 
 Pastikan kamu mendaftar dengan menggunakan alamat email yang aktif dan dapat kamu akses setiap saat (bukan alamat email yang bersifat sementara/*throwaway mail*). Apabila sewaktu-waktu kamu kehilangan atau tidak dapat mengingat kata sandi milikmu, kami dapat menggunakan alamat email ini untuk memulihkan akses menuju akunmu.
