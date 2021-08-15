@@ -14,8 +14,6 @@ tags:
 
 # Instalasi dan pendaftaran
 
-*Main page: [Help centre](/wiki/Help_Centre)*
-
 *Laman utama: [Pusat bantuan](/wiki/Help_Centre)*
 
 Laman ini akan membahas berbagai permasalahan dan pertanyaan yang sering diutarakan seputar instalasi dan pendaftaran akun osu! secara garis besar.
