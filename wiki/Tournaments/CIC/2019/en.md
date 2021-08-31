@@ -55,7 +55,7 @@ CIC 2019 was run by various Indonesian osu! community members.
 
 ## Participants
 
-Listed below are the players who are admitted into the Group stage along with their respective seeding and group placements.
+Listed below are the players who were admitted into the Group stage along with their respective seeding and group placements.
 
 | Group | Seed A | Seed B | Seed C |
 | :-- | :-- | :-- | :-- |
