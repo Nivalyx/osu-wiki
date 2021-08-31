@@ -364,7 +364,7 @@ Monday, 5 July 2021:
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, each player is required to have the Indonesian flag displayed on their profile and at least 3000 osu!catch playcounts to their name.
+   - In order to be eligible to play in the tournament, each player is required to have either the Indonesian flag displayed on their profile or an adequate proof of Indonesian citizenship (to be shown to the Tournament Management) and a playcount of 1,500 or more in the osu!catch game mode to their account.
 2. To ensure valid and serious registrations, every registered player will be checked in detail by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. The Tournament Management will only account for a maximum of 32 players to take part in the tournament.
@@ -424,3 +424,4 @@ Monday, 5 July 2021:
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
