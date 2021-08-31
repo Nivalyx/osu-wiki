@@ -184,27 +184,29 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Group stage
 
-**[Download the mappack here! (87 MB)](https://drive.google.com/file/d/1cwjsNciDalNJmdqz6t1FQLbDY2sM2-vo/view "Google Drive")**
+**[Download the mappack here! (90 MB)](https://drive.google.com/u/0/uc?id=1tcb_bRjfGyylo7_9FnoL_m7DgkfdydzJ&export=download "Google Drive")**
 
 - NoMod
-  - [CHiCO with HoneyWorks - Pride Kakumei (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/1394916#fruits/2879325)
-  - [Kicco - Akari no Arika (-Joakh) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/1404258#fruits/2924231)
-  - [Ayaponzu\* - Catch You Catch Me (Yumeno Himiko) \[Magic\]](https://osu.ppy.sh/beatmapsets/1478834#fruits/3033888)
-  - [Camellia feat. Nanahira - POLKAMANIA (Mir) \[ANOTHER\]](https://osu.ppy.sh/beatmapsets/1409478#fruits/2906707)
+  - [Glacier - Neos (WildOne94) \[Rain\]](https://osu.ppy.sh/beatmapsets/771096#fruits/1627430)
+  - [Rich Brian - History (Seija) \[Bittersweet Reunion\]](https://osu.ppy.sh/beatmapsets/940248#fruits/1963760)
+  - [Camellia feat. Nanahira - Hakuraku (tasuka912) \[Rain\]](https://osu.ppy.sh/beatmapsets/986223#fruits/2063286)
+  - [Lifetheory - Daisy (Dapuluous) \[Rain\]](https://osu.ppy.sh/beatmapsets/993396#fruits/2077322)
+  - [Shiori - Day Breaker (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/91606#fruits/247999) 
+  - [Kommisar - Chipstream (vipto) \[Extra\]](https://osu.ppy.sh/beatmapsets/104784#fruits/385548) 
 - Hidden
-  - [Yamazaki Moe - Kataomoi no Melody o short ver. (AJamez) \[Light Rain\]](https://osu.ppy.sh/beatmapsets/769584#fruits/1618186)
-  - [xi - Titania (Jemzuu) \[Rain\]](https://osu.ppy.sh/beatmapsets/1278046#fruits/2669851)
-  - [Junk - Yellow Smile(bms edit) (rui) \[wring's Another\]](https://osu.ppy.sh/beatmapsets/226133#fruits/554864)
+  - [Reol - FLASH BACK (alienflybot) \[RAIN\]](https://osu.ppy.sh/beatmapsets/706939#fruits/1732486)
+  - [RURUTIA - Phronesis (-Luminate) \[Rain\]](https://osu.ppy.sh/beatmapsets/965320#fruits/2020714)
+  - [petit milady - Koi wa Milk Tea (Okoratu) \[Amai\]](https://osu.ppy.sh/beatmapsets/364652#fruits/800385)
 - HardRock
-  - [chelmico - Easy Breezy feat. Zenpaku \[ dj-Jo Trap Remix \] TV Size (Ascendance) \[Chatie's Salad\]](https://osu.ppy.sh/beatmapsets/1284565#fruits/2943796)
-  - [Nekomata Master - Scars of FAUNA (Madoka2574) \[Platter\]](https://osu.ppy.sh/beatmapsets/1302763#fruits/2701842)
-  - [Nakiri Ayame - Deep Indigo (Bokamin) \[Hard\]](https://osu.ppy.sh/beatmapsets/1189193#fruits/2522847)
+  - [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Hallelujah\*Essaim (TV Size) (Yumeno Himiko) \[Hyperion's Platter\]](https://osu.ppy.sh/beatmapsets/579450#fruits/1227698)
+  - [Ito Kashitaro - Setsuna Plus (-Hex-) \[Platter\]](https://osu.ppy.sh/beatmapsets/836272#fruits/1751319)
+  - [DystopiaGround - True Theory of Inheritance (Ignacio) \[Aenna\]](https://osu.ppy.sh/beatmapsets/24477#fruits/84415)
 - DoubleTime
-  - [Duck Duck Pony - Shinsetsu (wonjae) \[wonJemZero's Salad\]](https://osu.ppy.sh/beatmapsets/951270#fruits/2009915)
-  - [Three Days Grace - Animal I Have Become (Secre) \[Platter\]](https://osu.ppy.sh/beatmapsets/1371694#fruits/2842835)
-  - [IOSYS - Miracle-Hinacle (vincerio) \[Miracle-Lolicle\]](https://osu.ppy.sh/beatmapsets/20210#fruits/71842)
+  - [Minase Mashiro - Suna no Kodomo (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/972764#fruits/2043177)
+  - [Y&Co. feat. Karin - Sweet Rain (Sorcerer) \[Platter\]](https://osu.ppy.sh/beatmapsets/738169#fruits/1587421)
+  - [hicalculator - Life is Game (tobebuta) \[tobe style\]](https://osu.ppy.sh/beatmapsets/6640#fruits/30239)
 - Tiebreaker
-  - **[Official HIGE DANdism - Pretender (Crowley) \[My Final Farewell\]](https://osu.ppy.sh/beatmapsets/1272888#fruits/2645056)**
+  - **[void - Verdict for worst dictator (ZiRoX) \[Judgement\]](https://osu.ppy.sh/beatmapsets/303599#fruits/873668)**
 
 ## Match results
 
