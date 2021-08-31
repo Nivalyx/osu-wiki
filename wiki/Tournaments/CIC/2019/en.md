@@ -30,7 +30,7 @@ The **Catch the Beat Indonesia Cup 2019** (***CIC 2019***) was a double-eliminat
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool |
 
-![](img/badge.png "CIC 2019 winner badge")
+![](img/badge.jpg "CIC 2019 winner badge")
 
 ## Organisation
 
@@ -55,22 +55,22 @@ CIC 2019 was run by various Indonesian osu! community members.
 
 ## Participants
 
-Listed below are players who qualified into the Group stage (along with their respective seeding and group placement) out of 35 registered players in total.
+Listed below are the players who are admitted into the Group stage along with their respective seeding and group placements.
 
-| Group | Seed A | Seed B | Seed C | Seed D |
-| :-- | :-- | :-- | :-- | :-- |
-| A | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) |
-| B | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) |
-| C | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | ![][flag_ID] [Pyrozen](https://osu.ppy.sh/users/3031177) | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) |
-| D | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/9153772) |
-| E | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) | ![][flag_ID] [Xtream1500](https://osu.ppy.sh/users/20740438) |
-| F | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) |
-| G | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [ARTPHONEY](https://osu.ppy.sh/users/2128050) |
-| H | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) | ![][flag_ID] [Neori\_gaming](https://osu.ppy.sh/users/10772518) |
+| Group | Seed A | Seed B | Seed C |
+| :-- | :-- | :-- | :-- |
+| A | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) |
+| B | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) |
+| C | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | ![][flag_ID] [Pyrozen](https://osu.ppy.sh/users/3031177) | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) |
+| D | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) |
+| E | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) |
+| F | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) |
+| G | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) |
+| H | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) |
 
 ## Podium
 
-![](img/podium.png "CIC 2021 podium")
+![](img/podium.jpg "CIC 2019 podium")
 
 ## Mappools
 
