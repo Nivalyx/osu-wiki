@@ -59,7 +59,7 @@ Listed below are the players who were admitted into the Group stage along with t
 
 | Group | Seed A | Seed B | Seed C |
 | :-- | :-- | :-- | :-- |
-| A | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [Professor Gila](https://osu.ppy.sh/users/5447727) | ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
+| A | ![][flag_ID] [ExRei](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [Professor Gila](https://osu.ppy.sh/users/5447727) | ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
 | B | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Emily Yukari](https://osu.ppy.sh/users/7053866) | ![][flag_SG] [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
 | C | ![][flag_ID] [Cera-](https://osu.ppy.sh/users/1974131) | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) |
 | D | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Honkenway](https://osu.ppy.sh/users/11582543) | ![][flag_ID] [Mikurio](https://osu.ppy.sh/users/10734140) |
