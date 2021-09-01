@@ -320,7 +320,7 @@ Thursday, 12 September 2019:
 
 Saturday, 14 September 2019:
 
-| Group |  |  |  |  | Match link |
+| Group |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-- |
 | **A** | ![][flag_ID] **[ExRei](https://osu.ppy.sh/users/1929336) (12 pts)** | ![][flag_ID] **[Professor Gila](https://osu.ppy.sh/users/5447727) (4 pts)** | ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) (-2 pts) | [#1](https://osu.ppy.sh/community/matches/54838860) |
 | **C** | ![][flag_ID] **[Cera-](https://osu.ppy.sh/users/1974131) (14 pts)** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580) (3 pts)** | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) (1 pt) | [#1](https://osu.ppy.sh/community/matches/54833749) |
