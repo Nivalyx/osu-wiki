@@ -76,32 +76,32 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Finals
 
-**[Download the mappack here! (135 MB)](https://drive.google.com/u/0/uc?id=16uQMj49gMRftiXzoxrakDNTioWg65UPB&export=download "Google Drive")**
+*(mappack not available)*
 
 - NoMod
-  - [UNDEAD CORPORATION - Blow (Imai Lisa) \[Team Russian Federation's Overdose\]](https://osu.ppy.sh/beatmapsets/1265145#fruits/2629347)
-  - [DJ TOTTO - Crystalia (Secre) \[Perfect Freeze\]](https://osu.ppy.sh/beatmapsets/1434231#fruits/2951547)
-  - [Toby Fox - Spider Dance (Camellia Remix) (Jemzuu) \[Venom\]](https://osu.ppy.sh/beatmapsets/1530857#fruits/3131176)
-  - [THE ORAL CIGARETTES - Mou Ii Kai? (autofanboy) \[Let's Go!\]](https://osu.ppy.sh/beatmapsets/1530840#fruits/3131141)
-  - [Kotone - Konkai no Soudo ni Tsukimashite. (captin1) \[halfslashed vtuber\]](https://osu.ppy.sh/beatmapsets/1492398#fruits/3059194) 
-  - [Masqed Pierrot - THE FAUST (fanzhen0019) \[dounts\]](https://osu.ppy.sh/beatmapsets/1418075#fruits/2921737) 
+  - [kamome sano electric orchestra - FIN4LE \~Shushisen no Kanata e\~ VS HE4VEN \~Tengoku e youkoso\~ (\[\_-Kukkai-\_\]) \[FIN4LE VS. HE4VEN\]](https://osu.ppy.sh/beatmapsets/720971#fruits/1522545)
+  - [Ryu\* Vs. L.E.D.-G - PARADISE LOST (Kuzino) \[2Q\]](https://osu.ppy.sh/beatmapsets/36326#fruits/117383)
+  - [Jakarta Funk Brothers - INSOMNIA (Zyzyx) \[KERMO\]](https://osu.ppy.sh/beatmapsets/898684#fruits/1877347)
+  - [KLing (Aoi+Yunosuke) - Quaint Echo (Zyzyx) \[Joint Estuaries\]](https://osu.ppy.sh/beatmapsets/970081#fruits/2029405)
+  - [Kino Hiko - The Noise of Rain (Prinsep) \[Seeking Shelter (Good Remapped Version)\]](https://osu.ppy.sh/beatmapsets/636725#fruits/1824415) 
+  - [Roselia - Guren no Yumiya (Trynna) \[Net0's Bloody Dawn\]](https://osu.ppy.sh/beatmapsets/825409#fruits/1819160) 
 - Hidden
-  - [Pizuya's Cell - Inchlings of the Shining Needle \~ Little Princess (Yumeno Himiko) \[Rain\]](https://osu.ppy.sh/beatmapsets/1530944#fruits/3131336)
-  - [KOTOKO - agony (Madoka Ayukawa) \[Fleeting Promise\]](https://osu.ppy.sh/beatmapsets/1530841#fruits/3131142)
-  - [Memme - Dajiahao (Erhu ver.) (SkyFlame) \[Kawa's Expert\]](https://osu.ppy.sh/beatmapsets/1362864#fruits/2922978)
-  - [Aqours - Jingle Bells ga Tomaranai (Cris-) \[Yeah! Dancin' Christmas!!\]](https://osu.ppy.sh/beatmapsets/1313213#fruits/2740342)
+  - [Ponkichi - Hyakukakai to Shirotokkuri (F D Fluorite) \[Axes\]](https://osu.ppy.sh/beatmapsets/934870#fruits/1951696)
+  - [MALVA. - Trane (dika312) \[Traurigkeit\]](https://osu.ppy.sh/beatmapsets/1010141#fruits/2114540)
+  - [Zedd, Grey - Adrenaline (Hollow Wings) \[Decompensation\]](https://osu.ppy.sh/beatmapsets/584333#fruits/1236211)
+  - [Hatsuki Yura - Eclipse Parade (Vert) \[Zero's Insane\]](https://osu.ppy.sh/beatmapsets/430339#fruits/929453)
 - HardRock
-  - [Unlucky Morpheus - Phantom Blood (Noctalium) \[Warth\]](https://osu.ppy.sh/beatmapsets/1412284#fruits/2911298)
-  - [P\*Light - SAY BAY (-MomoX) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1368925#fruits/2830659)
-  - [EPICA - Victims of Contingency (DakiniBrave) \[Remorse\]](https://osu.ppy.sh/beatmapsets/540457#fruits/1377957)
-  - [sakuzyo - AXION (Star\* Remix 2016 Update) (Ryuusei Aika) \[Another\]](https://osu.ppy.sh/beatmapsets/957007#fruits/2003510)
+  - [Yooh - LegenD. (Du5t) \[Daletto's OverdosE.\]](https://osu.ppy.sh/beatmapsets/1047989#fruits/2190554)
+  - [Mayumi Morinaga(moimoi) - dreamin' feat.Ryu\* (Ster) \[YOU ARE MY DREAM\]](https://osu.ppy.sh/beatmapsets/360829#fruits/792972)
+  - [Halogen - U Got That (Camellia's Neurofunk Bootleg) (Sotarks) \[ricardoFlick\]](https://osu.ppy.sh/beatmapsets/934144#fruits/1950290)
+  - [Shindig - Stutter (squirrelpascals) \[Go Home\]](https://osu.ppy.sh/beatmapsets/716749#fruits/1514465)
 - DoubleTime
-  - [Chata - Engage (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1530874#fruits/3131205)
-  - [zts - liberatedliberator (Deif) \[Requiem\]](https://osu.ppy.sh/beatmapsets/1530937#fruits/3131328)
-  - [Kawada Mami - Serment (Reiji Maigo) \[Extra\]](https://osu.ppy.sh/beatmapsets/1179009#fruits/2458659)
-  - [Kalafina - Lacrimosa (Kalibe) \[Regret\]](https://osu.ppy.sh/beatmapsets/840559#fruits/1759418)
+  - [AiRI - Towa ni Saku Hana (Short Ver.) (Jemzuu) \[Rain\]](https://osu.ppy.sh/beatmapsets/958431#fruits/2009276)
+  - [Tanya Degurechaff (CV: Yuuki Aoi) - Los! Los! Los! (TV Size) (Du5t) \[Lieutenant\]](https://osu.ppy.sh/beatmapsets/904574#fruits/2103912)
+  - [Tsukiko - Hotarubi (Mirash) \[Collab Lunatic\]](https://osu.ppy.sh/beatmapsets/724098#fruits/1528970)
+  - [xi - Garyou Tensei (AngelHoney) \[Chocopikel\]](https://osu.ppy.sh/beatmapsets/49158#fruits/201834)
 - Tiebreaker
-  - **[LeaF - Kyouki Ranbu (extended ver.) (Secre) \[Terminus\]](https://osu.ppy.sh/beatmapsets/1410668#fruits/2908348)**
+  - **[Camellia - flying in the flow of deep-sea (Rocma) \[Brine\]](https://osu.ppy.sh/beatmapsets/861357#fruits/1802009)**
 
 ### Semifinals
 
@@ -134,7 +134,7 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Quarterfinals
 
-**[Download the mappack here! (128 MB)](https://drive.google.com/u/0/uc?id=1vM4kzGpTcNzv3jB-Zbv3Qiv3Dkf47h9g&export=download "Google Drive")**
+*(mappack not available)*
 
 - NoMod
   - [Kano - Stella-rium (-Izayoi) \[NyxthIza's Orion\]](https://osu.ppy.sh/beatmapsets/1001529#fruits/2096572)
