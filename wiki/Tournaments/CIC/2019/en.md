@@ -59,14 +59,14 @@ Listed below are the players who were admitted into the Group stage along with t
 
 | Group | Seed A | Seed B | Seed C |
 | :-- | :-- | :-- | :-- |
-| A | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) |
-| B | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) |
-| C | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | ![][flag_ID] [Pyrozen](https://osu.ppy.sh/users/3031177) | ![][flag_ID] [Riria Rakira](https://osu.ppy.sh/users/6310025) |
-| D | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | ![][flag_ID] [MrGulla](https://osu.ppy.sh/users/4540721) |
-| E | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) |
-| F | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939) | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) |
-| G | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | ![][flag_ID] [ilhamuharam](https://osu.ppy.sh/users/7657968) |
-| H | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | ![][flag_ID] [Zylin](https://osu.ppy.sh/users/6692990) |
+| A | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [Professor Gila](https://osu.ppy.sh/users/5447727) | ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
+| B | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Emily Yukari](https://osu.ppy.sh/users/7053866) | ![][flag_SG] [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
+| C | ![][flag_ID] [Cera-](https://osu.ppy.sh/users/1974131) | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) |
+| D | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Honkenway](https://osu.ppy.sh/users/11582543) | ![][flag_ID] [Mikurio](https://osu.ppy.sh/users/10734140) |
+| E | ![][flag_ID] [DennySega24](https://osu.ppy.sh/users/5416487) | ![][flag_ID] [Ilhamuharam](https://osu.ppy.sh/users/7657968) | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) |
+| F | ![][flag_ID] [Deceitful](https://osu.ppy.sh/users/1396447) | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) |
+| G | ![][flag_ID] [Raediaufar](https://osu.ppy.sh/users/5156086) | ![][flag_ID] [fikricm](https://osu.ppy.sh/users/4072503) | *N/A* |
+| H | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | *N/A* |
 
 ## Podium
 
