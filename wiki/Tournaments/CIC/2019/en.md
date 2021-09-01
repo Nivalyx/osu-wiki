@@ -92,7 +92,7 @@ Listed below are the players who were admitted into the Group stage along with t
   - [Hatsuki Yura - Eclipse Parade (Vert) \[Zero's Insane\]](https://osu.ppy.sh/beatmapsets/430339#fruits/929453)
 - HardRock
   - [Yooh - LegenD. (Du5t) \[Daletto's OverdosE.\]](https://osu.ppy.sh/beatmapsets/1047989#fruits/2190554)
-  - [Mayumi Morinaga(moimoi) - dreamin' feat.Ryu\* (Ster) \[YOU ARE MY DREAM\]](https://osu.ppy.sh/beatmapsets/360829#fruits/792972)
+  - [Mayumi Morinaga(moimoi) - dreamin' feat. Ryu\* (Ster) \[YOU ARE MY DREAM\]](https://osu.ppy.sh/beatmapsets/360829#fruits/792972)
   - [Halogen - U Got That (Camellia's Neurofunk Bootleg) (Sotarks) \[ricardoFlick\]](https://osu.ppy.sh/beatmapsets/934144#fruits/1950290)
   - [Shindig - Stutter (squirrelpascals) \[Go Home\]](https://osu.ppy.sh/beatmapsets/716749#fruits/1514465)
 - DoubleTime
