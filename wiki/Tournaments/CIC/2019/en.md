@@ -256,59 +256,47 @@ Sunday, 25 July 2021:
 
 ### Quarterfinals
 
-Friday, 16 July 2021:
+Friday, 27 September 2019:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Suikami](https://osu.ppy.sh/users/1929336)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [by-ad](https://osu.ppy.sh/users/7439939) | [#1](https://osu.ppy.sh/community/matches/87490047) |
-| Upper | **[Pyrozen](https://osu.ppy.sh/users/3031177)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | [#1](https://osu.ppy.sh/community/matches/87483233) |
-| Upper | [BitDust](https://osu.ppy.sh/users/9573836) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/87492466) |
-| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | [#1](https://osu.ppy.sh/community/matches/87485885) |
+| Upper | **[Nana Hiragi](https://osu.ppy.sh/users/13377985)** ![][flag_SG] | **5** | 1 | ![][flag_ID] [Cera-](https://osu.ppy.sh/users/1974131) | [#1](https://osu.ppy.sh/community/matches/55135776) |
 
-Saturday, 17 July 2021:
+Saturday, 28 September 2019:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [BitDust](https://osu.ppy.sh/users/9573836) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/87546745) |
-| Lower | [Galaxi](https://osu.ppy.sh/users/2552435) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148)** | [#1](https://osu.ppy.sh/community/matches/87548787) |
-| Lower | [by-ad](https://osu.ppy.sh/users/7439939) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Chroneko](https://osu.ppy.sh/users/5472877)** | [#1](https://osu.ppy.sh/community/matches/87550793) |
-| Lower | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | [#1](https://osu.ppy.sh/community/matches/87553091) |
-
-Sunday, 18 July 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/87612630) |
-| Lower | [Sololiquy](https://osu.ppy.sh/users/4350087) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148)** | [#1](https://osu.ppy.sh/community/matches/87615032) |
+| Upper | **[Nana Hiragi](https://osu.ppy.sh/users/13377985)** ![][flag_SG] | **5** | 1 | ![][flag_ID] [Cera-](https://osu.ppy.sh/users/1974131) | [#1](https://osu.ppy.sh/community/matches/55135776) |
 
 ### Round of 16
 
-Friday, 9 July 2021:
+Tuesday, 17 September 2019:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | [#1](https://osu.ppy.sh/community/matches/87058272) |
-| Upper | **[Galaxi](https://osu.ppy.sh/users/2552435)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/87055481) |
-| Upper | **[Pyrozen](https://osu.ppy.sh/users/3031177)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/87053060) |
+| Upper | [ExRei](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 2 | **5** | ![][flag_SG] **[Nana Hiragi](https://osu.ppy.sh/users/13377985)** | [#1](https://osu.ppy.sh/community/matches/54911203) |
 
-Saturday, 10 July 2021:
+Friday, 20 September 2019:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [CamXDanna](https://osu.ppy.sh/users/3243148) | [#1](https://osu.ppy.sh/community/matches/87110808) |
-| Upper | **[Suikami](https://osu.ppy.sh/users/1929336)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | [#1](https://osu.ppy.sh/community/matches/87114367) |
-| Upper | **[by-ad](https://osu.ppy.sh/users/7439939)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/87116623) |
-| Upper | [mina-](https://osu.ppy.sh/users/4670692) ![][flag_ID] | 4 | **5** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836)** | [#1](https://osu.ppy.sh/community/matches/87120194) |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/87122424) |
+| Upper | **[DennySega24](https://osu.ppy.sh/users/5416487)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [-Izayoi](https://osu.ppy.sh/users/5710721) | [#1](https://osu.ppy.sh/community/matches/54972116) |
+| Upper | [LeWind](https://osu.ppy.sh/users/9718235) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[fikricm](https://osu.ppy.sh/users/4072503)** | *win by default* |
 
-Sunday, 11 July 2021:
+Saturday, 21 September 2019:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [mina-](https://osu.ppy.sh/users/4670692) | [#1](https://osu.ppy.sh/community/matches/87172954) |
-| Lower | **[CamXDanna](https://osu.ppy.sh/users/3243148)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) | [#1](https://osu.ppy.sh/community/matches/87177296) |
-| Lower | **[XxepandevanxX](https://osu.ppy.sh/users/13194580)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Holicia](https://osu.ppy.sh/users/3212755) | [#1](https://osu.ppy.sh/community/matches/87169209) |
-| Lower | **[Dapuluous](https://osu.ppy.sh/users/8140944)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Latina-](https://osu.ppy.sh/users/15015592) | [#1](https://osu.ppy.sh/community/matches/87174852) |
+| Upper | **[Cera-](https://osu.ppy.sh/users/1974131)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | [#1](https://osu.ppy.sh/community/matches/55001134) |
+| Upper | [Raediaufar](https://osu.ppy.sh/users/5156086) ![][flag_ID] | 2 | **5** | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883)** | [#1](https://osu.ppy.sh/community/matches/55004478) |
+
+Sunday, 22 September 2019:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Galaxi](https://osu.ppy.sh/users/2552435)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Professor Gila](https://osu.ppy.sh/users/5447727) | [#1](https://osu.ppy.sh/community/matches/55036966) |
+| Upper | **[Deceitful](https://osu.ppy.sh/users/1396447)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Sololiquy](https://osu.ppy.sh/users/4350087) | [#1](https://osu.ppy.sh/community/matches/55034335) |
+| Upper | **[Honkenway](https://osu.ppy.sh/users/11582543)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/55026492) |
 
 ### Group stage
 
