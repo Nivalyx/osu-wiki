@@ -370,19 +370,18 @@ Monday, 16 September 2019:
 
 1. Map scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#reschedule-request` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they failed the beatmap.
+7. If a player disconnects, it will be treated as if they had failed the beatmap.
    - Disconnects that occur within a few seconds after the beatmap is started by the referee can be rematched.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
+8. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
    - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
-10. Lag is not a valid reason to nullify a beatmap.
-11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
-12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from the tournament and/or blacklisted from the tournament altogether.
+9. Lag is not a valid reason to nullify a beatmap.
+10. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
+11. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
+    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may either be disqualified right away from the tournament and/or blacklisted from the tournament altogether by the Tournament Management.
     - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu!team at will.
 
 ### Tournament registration
@@ -397,25 +396,20 @@ Monday, 16 September 2019:
 
 ### Group stage rules
 
-1. In the Group stage, all qualified players will be situated into four different seeds (Seed A, Seed B, Seed C, and Seed D) based on their osu!catch pp. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
+1. In the Group stage, all qualified players will be situated into different seeds based on their osu!catch pp. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnouts after each map:
-   - 1st place: **+2 points**
-   - 2nd place: **+1 point**
-   - 3rd place: **+1 point**
-   - 4th place: **0 point**
-3. If there is a tie at the end of the map, the points will instead be distributed as follows:
-   - **+2/+2/+1/0** in the case where the 1st place and the 2nd place players are tied.
-   - **+2/+1/+1/+1** in the case where the 2nd place and the 3rd place players are tied.
-   - **+2/+2/+2/0** in the case where the 1st place, the 2nd place, and the 3rd place players are tied.
-   - **+2/+2/+2/+2** in the case where all four players are tied.
-4. Players are **not allowed** to ban maps in the Group stage.
-5. There is no Lower Bracket in the Group stage.
-6. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
+   - 1st place: **+2 point(s)**
+   - 2nd place: **+1 point(s)**
+   - 3rd place: **-1 point(s)**
+   - 4th place: **-2 point(s)**
+3. Players are **not allowed** to ban maps in the Group stage.
+4. There is no Lower Bracket in the Group stage.
+5. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
    - Most points obtained.
    - Winner of the Tiebreaker.
    - Player(s) who Win By Default.
    - Whether there are players who are disqualified from the tournament.
-7. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the Knock-out stage.
+6. Two players who placed on top of their respective groups' rankings based on the criteria listed above will advance to the Knock-out stage.
 
 ### Knock-out stage rules 
 
@@ -427,20 +421,17 @@ Monday, 16 September 2019:
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to clinch the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to clinch the championship title.
 4. Players who can compete in the next round are determined by:
    - In the Round of 16 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Semifinals, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Finals, each player needs to win 7 points in order to win the match. (Best-of-13)
+   - In the Semifinals and the Finals (except for the Lower Bracket Final and the Grand Final), each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Lower Bracket Final and the Grand Final, each player needs to win 7 points in order to win the match. (Best-of-13)
    - Player(s) who Win By Default.
-   - Whether there are players who are disqualified from the tournament.
+   - Whether there are player(s) who are disqualified from the tournament.
 
 ### Match regulations
 
 1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group stage lobbies.
-2. Each player may ban up to two beatmaps from the mappool following a modified "comeback mechanic" system that is adapted from the [osu!catch World Cup 2019](/wiki/Tournaments/CWC/2019). The system works as follows:
-   - At the start of the match, each player has to ban **one beatmap** from the mappool.
-   - After a player reaches 3 points (in the Round of 16, the Quarterfinals, and the Semifinals) or 4 points (in the Finals), the opposing player is then given a chance to **ban another beatmap** from the mappool that hasn't either been picked or banned up until that point as a comeback mechanic.
-   - All banned beatmaps are not allowed to be picked by any player in the remainder of the match.
+2. Each player is obligated to ban one beatmap from the mappool. All banned beatmaps are not allowed to be picked by any player in the remainder of the match.
    - This rule does not apply in the Group stage lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Group stage lobbies.
