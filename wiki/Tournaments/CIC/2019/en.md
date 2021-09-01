@@ -14,13 +14,15 @@ The **Catch the Beat Indonesia Cup 2019** (***CIC 2019***) was a double-eliminat
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-06-01/2021-06-10 |
-| Screening phase | 2021-06-10/2021-06-27 |
-| Group stage | 2021-06-28/2021-07-04 |
-| Round of 16 | 2021-07-05/2021-07-11 |
-| Quarterfinals | 2021-07-12/2021-07-18 |
-| Semifinals | 2021-07-19/2021-07-25 |
-| Finals | 2021-07-26/2021-08-01 |
+| Registration phase | 2019-08-18/2019-09-01 |
+| Screening phase | 2019-09-02/2019-09-08 |
+| Group stage | 2019-09-09/2019-09-15 |
+| Round of 16 | 2019-09-16/2019-09-22 |
+| Quarterfinals | 2019-09-23/2019-09-29  |
+| Semifinals | 2019-09-30/2019-10-06  |
+| *Technical break* | 2019-10-07/2019-10-13 |
+| Finals (week 1) | 2019-10-14/2019-10-20 |
+| Finals (week 2) | 2019-10-21/2019-10-27 |
 
 ## Prizes
 
@@ -238,7 +240,7 @@ Saturday, 19 October 2019:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Nana Hiragi](https://osu.ppy.sh/users/13377985) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Deceitful](https://osu.ppy.sh/users/1396447)** | [#1](https://osu.ppy.sh/community/matches/55690501) |
+| Upper | [Nana Hiragi](https://osu.ppy.sh/users/13377985) ![][flag_SG] | 1 | **6** | ![][flag_ID] **[Deceitful](https://osu.ppy.sh/users/1396447)** | [#1](https://osu.ppy.sh/community/matches/55690501) |
 
 Sunday, 20 October 2019:
 
