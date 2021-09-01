@@ -159,28 +159,29 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Round of 16
 
-**[Download the mappack here! (108 MB)](https://drive.google.com/u/0/uc?id=1qdwIbMol5EjZc2f1c8eE-_3MPzkOjioz&export=download "Google Drive")**
+**[Download the mappack here! (96 MB)](https://drive.google.com/u/0/uc?id=1Lqc2DqxwkYDHwYKRAMESA1yFReXanE_O&export=download "Google Drive")**
 
 - NoMod
-  - [Chitose Sara - Merry Merry Go Round (SHOT MUSIC Asterisk Remix) (-Izayoi) \[Carousel\]](https://osu.ppy.sh/beatmapsets/975120#fruits/2041038)
-  - [Inugami Korone & Nekomata Okayu - Hyadain no Joujou Yuujou (Cut Ver.) (My Angel RangE) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1413067#fruits/2912709)
-  - [Tatsh - Xepher (Nazalion) \[Rain+\]](https://osu.ppy.sh/beatmapsets/134486#fruits/337282)
-  - [Kage - FIRST (happy30) \[hatteke30's Extra\]](https://osu.ppy.sh/beatmapsets/194107#fruits/461048)
-  - [Eagle - S!ck (fanzhen0019) \[123\]](https://osu.ppy.sh/beatmapsets/788035#fruits/1653964) 
+  - [ChouCho - Yasashisa no Riyuu (Ascendance) \[Ascendance & Spec's Duality\]](https://osu.ppy.sh/beatmapsets/689356#fruits/1459569)
+  - [Shimotsuki Haruka - FLOWERS (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1013070#fruits/2120514)
+  - [Nekomata Gekidan - AsiaN distractive (Spectator) \[Nelly's Overdose\]](https://osu.ppy.sh/beatmapsets/765322#fruits/1611278)
+  - [ARM - Streak (JBHyperion) \[Sinnoh's Overdose\]](https://osu.ppy.sh/beatmapsets/865565#fruits/1847248)
+  - [Jun Maeda x yanaginagi -  Killer Song (Yohanes) \[Edge\]](https://osu.ppy.sh/beatmapsets/454725#fruits/974854) 
+  - [wa. - Black Lotus (Realazy) \[fanzhen's Insane\]](https://osu.ppy.sh/beatmapsets/679918#fruits/1440976) 
 - Hidden
-  - [YOASOBI - Yasashii Suisei (Crowley) \[The Mutual Connection of Two Exceptional Falling Stars\]](https://osu.ppy.sh/beatmapsets/1411580#fruits/2910097)
-  - [Hyuji feat. LIQU@. - Mermaid girl (Tropical Remix) (Ascendance) \[Brunoob's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1244353#fruits/2586681)
-  - [Machita Chima - KING (Ayucchi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1306528#fruits/2708875)
+  - [fhana - Genzaichi (Benita) \[Rain\]](https://osu.ppy.sh/beatmapsets/825376#fruits/1729487)
+  - [yanaginagi - Hoshiboshi no Wataridori (-Hex-) \[Lost Memories\]](https://osu.ppy.sh/beatmapsets/924320#fruits/1930633)
+  - [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) \[felys' White Hard\]](https://osu.ppy.sh/beatmapsets/879051#fruits/1855074)
 - HardRock
-  - [Pastel\*Palettes - Shuwarin\*Drea~min (AutoLs) \[Rain\]](https://osu.ppy.sh/beatmapsets/1255717#fruits/2611006)
-  - [Ayase Rie - Yuima-ru\*World (Bastian) \[Rain\]](https://osu.ppy.sh/beatmapsets/1400516#fruits/2889374)
-  - [Ricky Martin - Livin' La Vida Loca (Spanish Version) (Krisom) \[Alocado\]](https://osu.ppy.sh/beatmapsets/1337085#fruits/2769841)
+  - [EARPHONES - Arakajime Ushinawareta Bokura no Ballad (Game Ver.) (Sanyi) \[Rain\]](https://osu.ppy.sh/beatmapsets/843086#fruits/1766154)
+  - [Hatsuki Yura - Yuki no Hana (Ascendance) \[Ascendance & Piku's Snowfall\]](https://osu.ppy.sh/beatmapsets/699320#fruits/1480957)
+  - [ONE OK ROCK - Mikansei Koukyoukyoku (Saut) \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/348604#fruits/792948)
 - DoubleTime
-  - [ShinRa-Bansho - Itazura Sensation (Spectator) \[Hex's Platter\]](https://osu.ppy.sh/beatmapsets/1324962#fruits/2786508)
-  - [m108 - \* Crow Solace \* (Rocma) \[\[III\]\]](https://osu.ppy.sh/beatmapsets/829329#fruits/1751539)
-  - [Kagamine Rin & Len - Jutenija (Arusha Shuna) \[Gale\]](https://osu.ppy.sh/beatmapsets/29557#fruits/97995)
+  - [senya - Zetsubou no Fuchi (Ascendance) \[IDu5t's Platter\]](https://osu.ppy.sh/beatmapsets/762829#fruits/1871747)
+  - [NICODE & M2U - Predawn (Sulfur) \[Jeir's Platter\]](https://osu.ppy.sh/beatmapsets/748803#fruits/1610570)
+  - [smileY inc. - Hanayuki (CelsiusLK) \[-Hakurei-'s Insane\]](https://osu.ppy.sh/beatmapsets/400239#fruits/870925)
 - Tiebreaker
-  - **[AKI AKANE - Hanabira (Irus Brutalcore Breaks Remix) (Deif) \[Flower Petals\]](https://osu.ppy.sh/beatmapsets/526175#fruits/1116562)**
+  - **[Tenacious D - BEELZEBOSS (THE FINAL SHOWDOWN) (JierYagtama) \[IT'S SHOWTIME BABY\]](https://osu.ppy.sh/beatmapsets/735342#fruits/1552328)**
 
 ### Group stage
 
