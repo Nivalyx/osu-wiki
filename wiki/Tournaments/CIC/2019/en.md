@@ -153,7 +153,7 @@ Listed below are the players who were admitted into the Group stage along with t
   - [MuryokuP - Aspirin (Irie Miyuki) \[Insane\]](https://osu.ppy.sh/beatmapsets/132398#fruits/332985)
 - DoubleTime
   - [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Platter\]](https://osu.ppy.sh/beatmapsets/197689#fruits/485404)
-  - [NEGOTO - Synchromanica (Sinnoh) \[Rain\]](hhttps://osu.ppy.sh/beatmapsets/673290#fruits/1517953)
+  - [NEGOTO - Synchromanica (Sinnoh) \[Rain\]](https://osu.ppy.sh/beatmapsets/673290#fruits/1517953)
   - [Zeng Zhihao - Fu Yun Ben Lang (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/89673#fruits/243644)
 - Tiebreaker
   - **[Shimotsuki Haruka - Star map (Soleily Remix) (Fauzan 2000) \[Infinity\]](https://osu.ppy.sh/beatmapsets/727767#fruits/2141324)**
