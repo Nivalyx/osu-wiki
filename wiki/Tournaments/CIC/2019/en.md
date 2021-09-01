@@ -108,29 +108,29 @@ Listed below are the players who were admitted into the Group stage along with t
 **[Download the mappack here! (131 MB)](https://drive.google.com/u/0/uc?id=1YxWGTolttfzbT5oPrm2rHnLFGjATxyxw&export=download "Google Drive")**
 
 - NoMod
-  - [ginkiha - ARCADE\_MEMORIES (-MomoX) \[Nostalgia\]](https://osu.ppy.sh/beatmapsets/1216106#fruits/2530496)
-  - [LeaF - Paraclete (Du5t) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1524638#fruits/3119443)
-  - [Calliope Mori - Excuse My Rudeness, But Could You Please RIP?\<3 (t+pazolite Remix) (-Joakh) \[Rustyy's Deluge\]](https://osu.ppy.sh/beatmapsets/1493146#fruits/3060937)
-  - [Mutsuhiko Izumi - Tengoku to Jigoku (ZHSteven) \[Jigoku\]](https://osu.ppy.sh/beatmapsets/22137#fruits/1693767)
-  - [Atogoru - Outer Science (fanzhen0019) \[Dead End\]](https://osu.ppy.sh/beatmapsets/667055#fruits/1411573) 
-  - [Ashrount - Cataraxir (Realazy) \[Abyss\]](https://osu.ppy.sh/beatmapsets/1276331#fruits/2651798) 
+  - [LiSA - ADAMAS (Ascendance) \[IDu5t's Overdose\]](https://osu.ppy.sh/beatmapsets/998118#fruits/2102038)
+  - [Coda - BLOODY STREAM (Ascendance) \[REBUFF OVERDRIVE\]](https://osu.ppy.sh/beatmapsets/874583#fruits/1827855)
+  - [The Flashbulb - Lawn Wake IV (Black) (MBomb) \[Deif's Overdose\]](https://osu.ppy.sh/beatmapsets/965730#fruits/2024196)
+  - [onumi - FAKE (JBHyperion) \[OVERDOSE\]](https://osu.ppy.sh/beatmapsets/934785#fruits/1958638)
+  - [Aero Chord - Break Them (feat. Anna Yvette) (olteR) \[Broken\]](https://osu.ppy.sh/beatmapsets/516608#fruits/1097891) 
+  - [Sawawa - kirakira TIME\* (Priti) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/354013#fruits/779950) 
 - Hidden
-  - [Bao.Uner - Long Men Nao Shi - Xiao (Yumeno Himiko) \[Lungmen Downtown\]](https://osu.ppy.sh/beatmapsets/1359694#fruits/2813632)
-  - [MYUKKE. - Ginevra (autofanboy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1471164#fruits/3020273)
-  - [solfa - Battle 6 : okamitachi no kiba -Revenge of the wolves- (Reiji Maigo) \[awa\]](https://osu.ppy.sh/beatmapsets/1431935#fruits/2947341)
-  - [Yamamoto Mineko - Cadena (KKipalt) \[Extra\]](https://osu.ppy.sh/beatmapsets/1257561#fruits/2613139)
+  - [Seiryu - Ultramarine (ZiRoX) \[Spec's Abyss\]](https://osu.ppy.sh/beatmapsets/275991#fruits/635701)
+  - [Kajiura Yuki - Decretum (-Hex-) \[Determination\]](https://osu.ppy.sh/beatmapsets/1044759#fruits/2184057)
+  - [3R2 - Devillic Sphere (Innovation) \[Extra\]](https://osu.ppy.sh/beatmapsets/795801#fruits/1671244)
+  - [Asumi Kana & Fujita Saki & Kitamura Eri - COOLISH WALK (TV Size) (biwako) \[EX\]](https://osu.ppy.sh/beatmapsets/37136#fruits/129285)
 - HardRock
-  - [UNDEAD CORPORATION - Everything will freeze (Shurelia) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1524489#fruits/3119170)
-  - [Lime - Replica (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1524441#fruits/3119055)
-  - [Rise Against - Prayer of the Refugee (EvilElvis) \[Dawn\]](https://osu.ppy.sh/beatmapsets/181689#fruits/435994)
-  - [ginkiha, TEA - Haruka (Short Ver.) (Hinsvar) \[Niva's Insane\]](https://osu.ppy.sh/beatmapsets/1110461#fruits/2320395)
+  - [Chicala Lpis - Blackest Luxury Car (Nyxthymia) \[Luxury Dolphine\]](https://osu.ppy.sh/beatmapsets/999742#fruits/2091030)
+  - [Komiya Mao - (can you) understand me? (Daletto) \[IDu5t's Amnesia?\]](https://osu.ppy.sh/beatmapsets/828703#fruits/1794354)
+  - [xi - ANiMA (Kalindraz) \[Oberum Primus\]](https://osu.ppy.sh/beatmapsets/441271#fruits/949234)
+  - [Naru Hakobe (CV: M.A.O) - Neko Matsuri (Regou) \[Nyan\]](https://osu.ppy.sh/beatmapsets/660752#fruits/1615502)
 - DoubleTime
-  - [mafumafu - I wanna be a girl (Chatie) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/1490540#fruits/3055263)
-  - [Minase Mashiro - Suna no Kodomo (JBHyperion) \[Bloom\]](https://osu.ppy.sh/beatmapsets/972764#fruits/2036564)
-  - [Chihara Minori - Mika Ranman no Utage nite (Mordred) \[Insane\]](https://osu.ppy.sh/beatmapsets/1152086#fruits/2441293)
-  - [Horie Yui - silky heart (rosario wknd) \[Heartache\]](https://osu.ppy.sh/beatmapsets/1258444#fruits/2615903)
+  - [Creo - In Circles (salchow) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/965558#fruits/2050069)
+  - [Zektbach - Turii \~Panta rhei\~ (Kyuare) \[Rain\]](https://osu.ppy.sh/beatmapsets/685428#fruits/1479407)
+  - [Nakae Mitsuki - Pure Love, True Love (El SolarBeam) \[Insane\]](https://osu.ppy.sh/beatmapsets/123687#fruits/315738)
+  - [Morimori Atsushi - MilK (Hailie) \[Xenon's Insane\]](https://osu.ppy.sh/beatmapsets/848309#fruits/1777490)
 - Tiebreaker
-  - **[Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches) (fayew) \[Abstracted Destiny\]](https://osu.ppy.sh/beatmapsets/1033472#fruits/2160885)**
+  - **[Avenged Sevenfold - Blinded In Chains (dika312) \[Requiem\]](https://osu.ppy.sh/beatmapsets/1021186#fruits/2136565)**
 
 ### Quarterfinals
 
