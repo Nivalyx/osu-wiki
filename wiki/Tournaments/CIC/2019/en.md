@@ -431,7 +431,7 @@ Monday, 16 September 2019:
 1. Each player must use the `!roll` command once in `#multiplayer` in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide which player gets to pick and ban first.
    - This rule does not apply in the Group stage lobbies.
-2. Each player is obligated to ban one beatmap from the mappool. All banned beatmaps are not allowed to be picked by any player in the remainder of the match.
+2. Each player is obligated to ban one beatmap from the mappool. All banned beatmaps are not allowed to be picked by any player in the match.
    - This rule does not apply in the Group stage lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Group stage lobbies.
