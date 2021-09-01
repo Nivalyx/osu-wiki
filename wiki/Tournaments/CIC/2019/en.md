@@ -105,7 +105,7 @@ Listed below are the players who were admitted into the Group stage along with t
 
 ### Semifinals
 
-**[Download the mappack here! (123 MB)](https://drive.google.com/u/0/uc?id=1XOFWCZD_W6oKZHU3WgVfrcrOm8EMwv6V&export=download "Google Drive")**
+**[Download the mappack here! (131 MB)](https://drive.google.com/u/0/uc?id=1YxWGTolttfzbT5oPrm2rHnLFGjATxyxw&export=download "Google Drive")**
 
 - NoMod
   - [ginkiha - ARCADE\_MEMORIES (-MomoX) \[Nostalgia\]](https://osu.ppy.sh/beatmapsets/1216106#fruits/2530496)
@@ -137,25 +137,26 @@ Listed below are the players who were admitted into the Group stage along with t
 **[Download the mappack here! (128 MB)](https://drive.google.com/u/0/uc?id=1vM4kzGpTcNzv3jB-Zbv3Qiv3Dkf47h9g&export=download "Google Drive")**
 
 - NoMod
-  - [Minase Inori - Crystallize (Yumeno Himiko) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1315359#fruits/2725824)
-  - [xi - Bad Elixir (Nelly) \[Alchemistry\]](https://osu.ppy.sh/beatmapsets/1297551#fruits/2691794)
-  - [nomico - Bad Apple!! (ZHSteven) \[fruit\]](https://osu.ppy.sh/beatmapsets/24829#fruits/84285)
-  - [hololive IDOL PROJECT - Shiny Smily Story (Hollow Wings) \[Swan Song\]](https://osu.ppy.sh/beatmapsets/1296110#fruits/2689177)
-  - [xi - Last Resort (Kroytz) \[Real's GRAVITY\]](https://osu.ppy.sh/beatmapsets/800102#fruits/1679794) 
+  - [Kano - Stella-rium (-Izayoi) \[NyxthIza's Orion\]](https://osu.ppy.sh/beatmapsets/1001529#fruits/2096572)
+  - [Superman Is Dead - Kuat Kita Bersinar (Funtastic) \[Bhinneka Tunggal Ika\]](https://osu.ppy.sh/beatmapsets/989452#fruits/2069807)
+  - [M2U & Nicode - Lune (-Luminate) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/885028#fruits/1849832)
+  - [DM Ashura vs. Inspector K - Disconnected HaZaRD (Professor Gila) \[Disconnected OvErDoZE\]](https://osu.ppy.sh/beatmapsets/308254#fruits/689459)
+  - [-45 - dogura \* magura (AngelHoney) \[AKUMA\]](https://osu.ppy.sh/beatmapsets/43856#fruits/137572) 
+  - [USAO - ZED (deetz) \[YES\]](https://osu.ppy.sh/beatmapsets/483387#fruits/1031365) 
 - Hidden
-  - [Yorushika - Amy (autofanboy) \[Overcast Skies\]](https://osu.ppy.sh/beatmapsets/1191707#fruits/2483298)
-  - [siqlo feat. Norico - Growth Call (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1276854#fruits/2652869)
-  - [Zektbach - The Sealer \~A Milia to Milia no Tami\~ (\[Keqing\]) \[Extra\]](https://osu.ppy.sh/beatmapsets/1414241#fruits/2915013)
+  - [Chitose Sara - Merry Merry Go Round (SHOT MUSIC Asterisk Remix) (-Izayoi) \[Carousel\]](https://osu.ppy.sh/beatmapsets/975120#fruits/2041038)
+  - [Hanatan - Jishou Mushoku (chickenbible) \[Smile\]](https://osu.ppy.sh/beatmapsets/873024#fruits/1824907)
+  - [solfa feat. Shimotsuki Haruka - leap in your mind (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/818672#fruits/1718542)
 - HardRock
-  - [UNDEAD CORPORATION - Karakurenawi (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/584147#fruits/1288820)
-  - [M2U - H.O.W.Ling (autofanboy) \[P.R.E.Dation\]](https://osu.ppy.sh/beatmapsets/1135047#fruits/2370553)
-  - [Nekomata Master - Izanami's wail (Saturnalize) \[AncuL's Another\]](https://osu.ppy.sh/beatmapsets/959449#fruits/3051097)
+  - [MY FIRST STORY - START OVER (\[ Saturn \]) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/928408#fruits/1939205)
+  - [Ling Yuan yousa - Hoshi to Kimi ga Kieta Hi (Dapuluous) \[Memories\]](https://osu.ppy.sh/beatmapsets/752110#fruits/1597213)
+  - [MuryokuP - Aspirin (Irie Miyuki) \[Insane\]](https://osu.ppy.sh/beatmapsets/132398#fruits/332985)
 - DoubleTime
-  - [la la larks - loop (Spectator) \[rain\]](https://osu.ppy.sh/beatmapsets/1310870#fruits/2717254)
-  - [Kana Nishino - Darling (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/605215#fruits/1278689)
-  - [loos - Koi Yomi Zakura (Full size) (papapa213) \[koko's Insane\]](https://osu.ppy.sh/beatmapsets/602230#fruits/1428541)
+  - [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Platter\]](https://osu.ppy.sh/beatmapsets/197689#fruits/485404)
+  - [NEGOTO - Synchromanica (Sinnoh) \[Rain\]](hhttps://osu.ppy.sh/beatmapsets/673290#fruits/1517953)
+  - [Zeng Zhihao - Fu Yun Ben Lang (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/89673#fruits/243644)
 - Tiebreaker
-  - **[Horie Yui - The World's End (Bastian) \[Bastian & Greaper's Finale\]](https://osu.ppy.sh/beatmapsets/1134081#fruits/2368389)**
+  - **[Shimotsuki Haruka - Star map (Soleily Remix) (Fauzan 2000) \[Infinity\]](https://osu.ppy.sh/beatmapsets/727767#fruits/2141324)**
 
 ### Round of 16
 
