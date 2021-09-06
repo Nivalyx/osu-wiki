@@ -52,14 +52,14 @@ Masalah ini pada umumnya disebabkan oleh terdapatnya suatu konflik antara osu! d
 
 #### Apakah osu! sedang berjalan pada mode *compatibility mode*?
 
-Untuk mengecek apakah osu! sedang berjalan pada mode *compatibility mode* atau tidak, ikuti langkah-langkah berikut:
+Untuk dapat memeriksa apakah osu! sedang berjalan pada mode *compatibility mode* atau tidak, ikuti langkah-langkah berikut:
 
-1. Open your osu! installation folder and look for `osu!.exe`.
-2. Right-click on `osu!.exe` and select `Properties` from the dropdown menu.
-3. Navigate to the `Compatibility` tab.
-4. Look for a checkbox titled `Run this program in compatibility mode` within a section titled `Compatibility mode`.
-5. If this checkbox is ticked, click it once more to disable the functionality.
-6. If your game is already open, close the client and reopen the game once more.
+1. Buka folder osu! dan cari `osu!.exe`.
+2. Klik kanan `osu!.exe` tersebut dan klik `Properties` pada menu yang muncul.
+3. Tuju tab `Compatibility`.
+4. Perhatikan apakah opsi `Run this program in compatibility mode` yang ada pada bagian `Compatibility mode` telah tercentang atau tidak.
+5. Apabila opsi ini telah tercentang sebelumnya, hilangkan tanda centang yang ada.
+6. Tutup semua layar osu! yang aktif (apabila ada) dan jalankan osu! kembali.
 
 #### Apakah kamu memiliki aplikasi *default browser* yang terpasang pada sistem?
 
@@ -118,7 +118,7 @@ Here is a collection of common fonts used in different versions of Windows and a
 
 See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice, and other options on getting them back.
 
-### Some of my beatmaps are missing!
+### Sebagian beatmap saya menghilang!
 
 **Make sure you are not grouping your beatmaps by anything in the top right of the screen (i.e. "grouping" should be set to "no grouping").**
 
