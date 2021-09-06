@@ -118,7 +118,7 @@ Here is a collection of common fonts used in different versions of Windows and a
 
 See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice, and other options on getting them back.
 
-### Sebagian beatmap saya menghilang!
+### Sebagian beatmap yang saya miliki menghilang!
 
 **Make sure you are not grouping your beatmaps by anything in the top right of the screen (i.e. "grouping" should be set to "no grouping").**
 
