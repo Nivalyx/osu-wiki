@@ -52,7 +52,7 @@ Masalah ini pada umumnya disebabkan oleh terdapatnya suatu konflik antara osu! d
 
 #### Apakah osu! sedang berjalan pada mode *compatibility mode*?
 
-Untuk dapat memeriksa apakah osu! sedang berjalan pada mode *compatibility mode* atau tidak, ikuti langkah-langkah berikut:
+Untuk memeriksa apakah osu! sedang berjalan pada mode *compatibility mode* atau tidak, ikuti langkah-langkah berikut:
 
 1. Buka folder osu! dan cari `osu!.exe`.
 2. Klik kanan `osu!.exe` tersebut dan klik `Properties` pada menu yang muncul.
@@ -63,47 +63,47 @@ Untuk dapat memeriksa apakah osu! sedang berjalan pada mode *compatibility mode*
 
 #### Apakah kamu memiliki aplikasi *default browser* yang terpasang pada sistem?
 
-**Under the vast majority of all circumstances, most Windows installations will have a default web browser set.**
+**Apabila kamu menggunakan Windows, pada umumnya kamu akan memiliki aplikasi *default browser* yang telah terinstal secara bawaan.**
 
-To check, try the following steps (under Windows 8 and above):
+Untuk memeriksa apakah kamu memiliki aplikasi *default browser* yang terpasang, ikuti langkah-langkah berikut:
 
-1. Open the Start menu.
-2. Type `default app settings` into the search bar within the Start menu, and click the setting that appears.
-3. Scroll down to the `Web browser` heading and check to make sure that a browser which you have installed is properly set.
+1. Buka menu Start.
+2. Ketik `default app settings` pada kolom pencarian (*quick-search bar*) yang ada pada menu Start, dan klik hasil teratas yang muncul.
+3. Tuju bagian `Web browser` pada layar yang baru terbuka dan pastikan bahwa kamu telah memiliki aplikasi *web browser* yang terdaftar sebagai *default browser* pada sistem.
 
 ### osu! saya tidak dapat diperbaharui sebagaimana semestinya!
 
-**This is usually due to issues with your PC, but can very rarely be caused by new updates.**
+**Pada umumnya, hal ini disebabkan oleh terdapatnya suatu masalah pada PC milikmu atau -- dalam kasus-kasus tertentu -- pada versi osu! yang hendak kamu unduh.**
 
-osu! generally keeps itself up-to-date without any help, but sometimes things can go wrong.
+Walaupun osu! telah diprogram sedemikian rupa untuk dapat memperbaharui dirinya sendiri di belakang layar, dalam prosesnya terkadang terdapat hal-hal yang tidak diinginkan.
 
-We recommend restarting your PC as the first option. This will fix more issues than you expect it to, as far as computers are concerned, and osu! is no different.
+Apabila kamu menemui suatu masalah, kami menyarankanmu untuk me-*restart* PC terlebih dahulu. Walaupun terkesan sepele, tindakan ini telah terbukti ampuh untuk dapat mengatasi berbagai masalah teknis yang ada, termasuk yang berhubungan dengan osu!.
 
-Ensure your "release stream" is set to `stable` in the game options.
+Apabila masalahmu masih belum kunjung terselesaikan, pastikan versi "*release stream*" yang kamu gunakan adalah versi `stable`.
 
-You can also try forcing the game to update.
+Kamu juga dapat memaksa osu! untuk mengunduh versi osu! yang terbaru.
 
-#### Changing the release stream
+#### Mengubah versi *release stream*
 
-**This can be changed via the in-game options menu.**
+**Kamu dapat mengubah versi *release stream* melalui menu Options.**
 
-1. Open osu!.
-2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
-3. Type `release` into the quick-search to jump straight to the option.
-4. Ensure the dropdown says `Stable (Latest)` to receive the latest stable build of the game.
+1. Buka osu!.
+2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
+3. Ketik `release` pada kolom pencarian (*quick-search bar*) yang muncul.
+4. Pastikan kamu sedang menggunakan osu! versi `Stable (Latest)`.
 
-#### Forcing osu! to update
+#### Memaksa osu! untuk mengunduh versi osu! yang terbaru
 
-**You can force the game to update via the options menu.**
+**Kamu dapat memaksa osu! untuk mengunduh versi osu! yang terbaru melalui menu Options.**
 
-1. Open osu!.
-2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
-3. Type `update` into the quick-search to jump straight to the option.
-4. Click the `Run osu! updater` button.
+1. Buka osu!.
+2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
+3. Ketik `update` atau pada kolom pencarian (*quick-search bar*) yang muncul.
+4. Klik tombol `Jalankan osu! updater`.
 
-You can also force the game to update by creating a `help.txt` file in osu!'s installation directory. This file does not need to contain anything; it just needs to exist, and the game will automatically force an update the next time it runs.
+Kamu juga dapat memaksa osu! untuk mengunduh versi osu! yang terbaru dengan membuat berkas `help.txt` pada folder osu! milikmu. Berkas ini tidak perlu kamu isi dengan teks apapun; asalkan kamu memiliki berkas ini, osu! akan secara otomatis memperbaharui dirinya sendiri di kemudian waktu.
 
-### I get an error about "font styles" when I try to open the game!
+### Saya mendapatkan pesan *error* yang menyinggung seputar "font styles" ketika saya hendak membuka osu! milik saya!
 
 **You have deleted or lost important system fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
 
@@ -499,7 +499,7 @@ Graphics card drivers are particularly important for osu!, as well as sound card
 
 An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you know why!
 
-#### Are you running osu! in windowed or borderless mode?
+#### Apakah kamu sedang menjalankan osu! pada mode *windowed* atau *borderless*?
 
 **Both windowed and borderless mode introduce a *considerable* amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
 
@@ -515,6 +515,6 @@ This usually clears up after closing everything non-essential before playing osu
 
 If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
 
-If it doesn't resolve, a reboot can sometimes help.
+Apabila masalahmu masih belum kunjung terselesaikan, cobalah untuk me-*restart* PC milikmu.
 
 **If you are still having lag spikes or stuttering during gameplay, have a look through the [performance troubleshooting guide](/wiki/Performance_Troubleshooting) for more related problems and their solutions.**
