@@ -63,7 +63,7 @@ Untuk memeriksa apakah osu! sedang berjalan pada mode *compatibility mode* atau 
 
 #### Apakah kamu memiliki aplikasi *default browser* yang terpasang pada sistem?
 
-**Apabila kamu menggunakan Windows, pada umumnya kamu akan memiliki aplikasi *default browser* yang telah terinstal secara bawaan.**
+**Apabila kamu menggunakan Windows, pada umumnya kamu telah memiliki aplikasi *default browser* yang terpasang secara bawaan.**
 
 Untuk memeriksa apakah kamu memiliki aplikasi *default browser* yang terpasang, ikuti langkah-langkah berikut:
 
@@ -105,18 +105,18 @@ Kamu juga dapat memaksa osu! untuk mengunduh versi osu! yang terbaru dengan memb
 
 ### Saya mendapatkan pesan *error* yang menyinggung seputar "font styles" ketika saya hendak membuka osu! milik saya!
 
-**You have deleted or lost important system fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
+**Pada umumnya, hal ini disebabkan oleh hilangnya atau belum terpasangnya jenis-jenis tulisan (*font*) tertentu pada sistem Windows yang kamu gunakan.**
 
-If you see this error when you try to open osu! or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
+Apabila kamu menemui pesan *error* ini di kala kamu hendak menjalankan osu! atau aplikasi *updater* milik osu!, besar kemungkinan kamu telah secara tidak sengaja menghapus (atau belum memasang) jenis-jenis tulisan tertentu yang umum digunakan oleh Windows pada PC milikmu. Ketidaktersediaan jenis-jenis tulisan ini diketahui dapat merusak osu! dan berbagai program lainnya.
 
-Here is a collection of common fonts used in different versions of Windows and across the web which should help:
+Berikut merupakan daftar jenis-jenis tulisan yang umum digunakan oleh Windows:
 
-- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
+- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (terutama Arial, Times New Roman, Trebuchet MS, and Verdana)
 - [Tahoma](https://freefontsfamily.com/tahoma-font-free)
 - [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
 - [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (Traditional Chinese UI font)
 
-See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice, and other options on getting them back.
+Untuk panduan lebih lanjut seputar masalah ini, harap lihat [topik diskusi pada situs web Microsoft Answers berikut](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a).
 
 ### Sebagian beatmap yang saya miliki menghilang!
 
@@ -128,8 +128,8 @@ Make sure you are not limiting what maps are being displayed in the game options
 
 To check or change what beatmaps are displayed in the song select menu, try the following steps:
 
-1. Open osu!.
-2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
+1. Buka osu!.
+2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
 3. Type `song select` into the quick-search to jump straight to the option.
 4. Make sure `Display beatmaps from` is set to 0 stars, and that `up to` is set to 10+ stars.
 
@@ -139,8 +139,8 @@ If none of these methods work, as a last resort you can try forcing your beatmap
 
 To safely force your beatmap database to be recreated, try the following steps:
 
-1. Open osu!.
-2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
+1. Buka osu!.
+2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
 3. Click `Open osu! folder`.
 4. Close osu!.
 5. Find the `osu!.db` file located in the folder you just opened.
@@ -168,7 +168,7 @@ Most beatmap packs come in a `.rar` file format, which means they are a compress
 
 Once all of the `.osz` files from the archive are in the `Songs` directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
 
-## Gameplay
+## Permainan
 
 ### My combo counter, score display, or accuracy display is missing!
 
