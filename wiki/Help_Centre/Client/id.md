@@ -356,9 +356,9 @@ We will need the results from a trace route for command for the following server
 
 To copy the results of the command, simply click and drag from the bottom of the output all the way to the top so that the information turns white, then right-click to instantly copy it to your clipboard.
 
-### I received a server-side error when trying to play online!
+### Saya mendapatkan pesan *error* yang menyinggung seputar "server-side error" ketika saya hendak bermain secara *online*!
 
-**The servers could be having issues.**
+**Pada umumnya, pesan tersebut menandakan bahwa *server* kami sedang sibuk atau mengalami suatu gangguan.**
 
 Check the [osu! server status page](https://status.ppy.sh/ "osu! server status") to see if there are any ongoing issues with the servers.
 
@@ -370,11 +370,11 @@ If you are not using any of the above, then you will need to send in a support t
 
 Tor or networks associated with the Tor relay will not connect to the game servers for the most part. Although we neither condemn nor endorse the use of Tor, we enforce this policy to avoid any potential bad actors using Tor.
 
-### I became an osu!supporter but my name isn't yellow in-game!
+### Ketika saya mengobrol di *chat*, warna pengguna saya tidak berubah menjadi kuning meskipun saya telah membeli osu!supporter!
 
-**You will always appear white to yourself on the in-game client. Other users will see your glorious yellowness, though!**
+**Warna penggunamu di *chat* hanya akan terlihat kuning di mata para pengguna lain. Dari sudut pandangmu sendiri, kamu akan selalu terlihat berwarna putih!**
 
-This helps to identify your own messages from everyone else's. There is no option to disable it at this time.
+Kami menerapkan sistem pewarnaan yang demikian agar kamu dapat dengan mudah membedakan antara baris-baris *chat* yang kamu kirimkan dan baris-baris *chat* yang orang-orang lain kirimkan. Adapun warna-warna yang ada tersebut tidak dapat kamu ubah.
 
 ## Performance
 
