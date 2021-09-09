@@ -98,7 +98,7 @@ Kamu juga dapat memaksa osu! untuk mengunduh versi osu! yang terbaru.
 
 1. Buka osu!.
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
-3. Ketik `update` atau pada kolom pencarian (*quick-search bar*) yang muncul.
+3. Ketik `update` atau `pembaharuan` pada kolom pencarian (*quick-search bar*) yang muncul.
 4. Klik tombol `Jalankan osu! updater`.
 
 Kamu juga dapat memaksa osu! untuk mengunduh versi osu! yang terbaru dengan membuat berkas `help.txt` pada folder osu! milikmu. Berkas ini tidak perlu kamu isi dengan teks apapun; asalkan kamu memiliki berkas ini, osu! akan secara otomatis memperbaharui dirinya sendiri di kemudian waktu.
@@ -122,22 +122,24 @@ Untuk panduan lebih lanjut seputar masalah ini, harap lihat [topik diskusi pada 
 
 **Make sure you are not grouping your beatmaps by anything in the top right of the screen (i.e. "grouping" should be set to "no grouping").**
 
-If you've just downloaded a map, you may want to try refreshing your beatmap list by pressing `F5` at the song selection screen.
+**Pastikan kamu tidak sedang mengelompokkan beatmap-beatmap yang ada berdasarkan kriteria tertentu.**
 
-Make sure you are not limiting what maps are being displayed in the game options.
+Harap periksa apakah opsi "Grup" yang terdapat pada pojok kanan atas layar sedang terpasang ke "Tanpa Pengelompokan" atau tidak. 
 
-To check or change what beatmaps are displayed in the song select menu, try the following steps:
+Apabila kamu masih merasa ada beatmap-beatmap yang hilang, cobalah untuk menekan `F5` agar osu! dapat memproses dan memuat ulang beatmap-beatmap yang ada.
+
+Di samping itu, pastikan juga kamu tidak sedang membatasi rentang batas tingkat kesulitan beatmap yang osu! tampilkan sebagai berikut:
 
 1. Buka osu!.
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
-3. Type `song select` into the quick-search to jump straight to the option.
-4. Make sure `Display beatmaps from` is set to 0 stars, and that `up to` is set to 10+ stars.
+3. Ketik `song select` atau `pemilihan lagu` pada kolom pencarian (*quick-search bar*) yang muncul.
+4. Pastikan *slider* yang ada pada opsi `Tampilkan beatmap dari` berada pada batas bawah (0 bintang) dan *slider* yang ada pada opsi `hingga` diatur pada batas atas (10+ bintang).
 
-![](img/difficulty-display.png "Correct values of the Display Beatmaps setting")
+![](img/difficulty-display.png "Pengaturan rentang batas tingkat kesulitan yang disarankan")
 
-If none of these methods work, as a last resort you can try forcing your beatmap database to be recreated. **Note that this will mark all your maps as "unplayed", so searching and grouping maps by fields that rely on date played will no longer work.**
+Apabila kamu sudah mencoba semua hal di atas namun kamu tetap saja masih merasa ada beatmap-beatmap yang hilang, kamu dapat memaksa osu! untuk mereka ulang *database* lagu yang osu! miliki dari awal. **Harap dicatat bahwa proses ini akan menghilangkan segala rekam jejak permainan yang ada sebelumnya.** 
 
-To safely force your beatmap database to be recreated, try the following steps:
+Untuk dapat mereka ulang *database* lagu yang osu! miliki, ikuti langkah-langkah berikut:
 
 1. Buka osu!.
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
