@@ -337,24 +337,29 @@ Harap ikuti langkah-langkah yang tertera pada [panduan yang disediakan oleh McAf
 
 **Kami butuh beberapa informasi tambahan untuk menyelesaikan masalahmu.**
 
-If you are still having issues connecting to our game servers, please submit a support ticket by sending an e-mail to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information will help us resolve your issue quickly:
+Apabila kamu tetap tidak dapat terhubung ke dalam jaringan kami, harap hubungi tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan menyertakan informasi-informasi berikut:
 
 - A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
 - The `network.log` file from the `Logs` folder in your osu! installation directory
 
-#### Running a trace route to troubleshoot connection issues
+- Hasil *trace route* (perintah `tracert` pada Command Prompt) untuk server-server `cho.ppy.sh`, `osu.ppy.sh`, dan `m1.ppy.sh` (sesuai dengan instruksi yang tertera di bawah)
+- Berkas `network.log` yang terdapat pada folder `Logs` pada direktori osu! milikmu
 
-**A trace route will help us detect exactly where the problem is between you and our servers.**
+#### Melakukan *trace route* untuk mengatasi masalah koneksi
 
-You can perform a trace route by opening Command Prompt and running the command `tracert`.
+**Hasil dari *trace route* yang ada dapat membantu kami untuk mengidentifikasi masalah jaringan seperti apa yang sebenarnya sedang kamu hadapi.**
 
-To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. For more information, see the [Windows knowledgebase article](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
+Kamu dapat melakukan *trace route* dengan membuka Command Prompt dan menjalankan perintah `tracert`.
+
+Untuk membuka Command Prompt, tekan kombinasi tombol `Windows` dan `R` lalu ketik `cmd` dan klik `OK`. Bagi yang sekiranya masih asing dengan Command Prompt, berbagai penjelasan dasar seputar Command Prompt dapat dilihat pada [artikel berikut](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
 
 You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
 
-We will need the results from a trace route for command for the following servers: `cho.ppy.sh`, `osu.ppy.sh`, and `m1.ppy.sh`.
+Apabila sudah, ketik perintah untuk menjalankan proses *trace route* pada layar Command Prompt yang muncul. Sebagai contoh, perintah `tracert cho.ppy.sh` akan merekam hal-hal apa saja yang terjadi ketika jaringanmu mencoba untuk membuka hubungan dengan server `cho.ppy.sh` milik kami.
 
-To copy the results of the command, simply click and drag from the bottom of the output all the way to the top so that the information turns white, then right-click to instantly copy it to your clipboard.
+Kami membutuhkan hasil *trace route* untuk server-server berikut: `cho.ppy.sh`, `osu.ppy.sh`, dan `m1.ppy.sh`.
+
+Proses *trace route* pada umumnya akan membutuhkan sedikit waktu. Apabila hasilnya sudah keluar, harap salin dan sertakan segala informasi yang muncul tersebut pada email yang hendak kamu kirim.
 
 ### Saya mendapatkan pesan *error* yang menyinggung seputar "server-side error" ketika saya hendak bermain secara *online*!
 
