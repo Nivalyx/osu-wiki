@@ -301,25 +301,27 @@ Later NVidia graphics cards have a global option in the NVidia Control Panel to 
 
 ## Fitur-fitur *online*
 
-### Saya tidak bisa terhubung masuk ke jaringan ke osu! sama sekali!
+### Saya tidak bisa terhubung ke jaringan ke osu! sama sekali!
 
-**Ensure that osu! can properly access the internet through any firewall or anti-virus suites you have installed on your computer.**
+**Pastikan koneksi dari dan menuju jaringan osu! tidak sedang terhalang oleh aplikasi *firewall* atau anti-virus yang terpasang di komputer milikmu.**
 
-Here are a few ways of allowing applications to have internet access through several common anti-virus suites:
+Berikut merupakan langkah-langkah yang dapat kamu lakukan agar koneksi dari dan menuju jaringan osu tidak lagi terhalang oleh aplikasi *firewall* atau anti-virus yang kamu miliki:
 
 #### Allowing a program through Windows Firewall
 
-**On most Windows installations, Windows Firewall will be the default firewall software.**
+#### Mengatur agar koneksi osu! tidak terhalang oleh Windows Firewall
 
-To make sure osu! can access the internet, we will need to allow it to communicate through Windows Firewall. Here's how to check and add osu! to the program's list:
+**Pada umumnya, para pengguna Windows sudah memiliki aplikasi Windows Firewall yang terpasang secara *default* pada sistem.** 
 
-1. Open the Start menu.
-2. Type `allow an app` into the search bar within the Start menu.
-3. You should see a Control Panel match titled `Allow an app through Windows Firewall`. Click it.
-4. A panel with a large list of applications with two checkboxes beside them will open. Click on any application, and then hit the `o` key. The list will scroll down to all applications beginning with 'o'.
-5. Look for `osu!` or `osu!.exe`.
-6. If neither are present, click `Allow another app` at the bottom of the panel and search for your osu! installation directory, and choose `osu!.exe`.
-7. Make sure both `Private` and `Public` checkboxes are ticked. Click OK to save your settings and try again.
+Apabila osu! tidak dapat terhubung ke internet, kamu dapat mengecek apakah koneksi dari dan menuju jaringan osu! sedang diblokir oleh Windows Firewall atau tidak melalui langkah-langkah berikut:
+
+1. Buka menu Start.
+2. Ketik `allow an app` pada kolom pencarian (*quick-search bar*) yang ada pada menu Start.
+3. Klik `Allow an app through Windows Firewall`.
+4. Kamu akan melihat panel yang berisikan daftar aplikasi yang terpasang pada komputer milikmu. Klik aplikasi manapun, lalu tekan tombol `o` pada *keyboard* untuk mempersempit pencarian.
+5. Cari `osu!` atau `osu!.exe`.
+6. Apabila kamu tidak menemukan keduanya, klik tombol `Allow another app` yang berada di bagian bawah layar dan tambahkan aplikasi `osu!.exe` milikmu ke dalam daftar yang ada.
+7. Pastikan kolom `Private` dan `Public` yang ada di samping osu! telah tercentang. Apabila sudah, klik OK dan buka osu! kembali.
 
 #### Allowing a program through AVG Firewall
 
@@ -364,7 +366,7 @@ Harap periksa [laman berikut](https://status.ppy.sh/ "osu! server status") untuk
 
 **Masalah ini juga dapat disebabkan oleh gangguan koneksi yang timbul akibat penggunaan *proxy* atau VPN.**
 
-Cobalah untuk menggunakan *proxy* atau VPN lainnya - apabila kamu masih menemui pesan *error* yang sama, harap hubungi tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Cobalah untuk beralih ke aplikasi *proxy* atau VPN lainnya. Apabila kamu masih menemui pesan *error* yang sama, harap hubungi tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 Apabila kamu tidak merasa sedang menggunakan *proxy* atau VPN, maka ada kemungkinan sistem kami telah memblokir koneksi dari komputermu secara tidak sengaja. Harap hubungi tim layanan dukungan kami agar masalahmu dapat segera terselesaikan.
 
