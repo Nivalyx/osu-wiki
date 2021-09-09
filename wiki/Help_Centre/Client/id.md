@@ -307,8 +307,6 @@ Later NVidia graphics cards have a global option in the NVidia Control Panel to 
 
 Berikut merupakan langkah-langkah yang dapat kamu lakukan agar koneksi dari dan menuju jaringan osu tidak lagi terhalang oleh aplikasi *firewall* atau anti-virus yang kamu miliki:
 
-#### Allowing a program through Windows Firewall
-
 #### Mengatur agar koneksi osu! tidak terhalang oleh Windows Firewall
 
 **Pada umumnya, para pengguna Windows sudah memiliki aplikasi Windows Firewall yang terpasang secara *default* pada sistem.** 
@@ -323,21 +321,21 @@ Apabila osu! tidak dapat terhubung ke internet, kamu dapat mengecek apakah konek
 6. Apabila kamu tidak menemukan keduanya, klik tombol `Allow another app` yang berada di bagian bawah layar dan tambahkan aplikasi `osu!.exe` milikmu ke dalam daftar yang ada.
 7. Pastikan kolom `Private` dan `Public` yang ada di samping osu! telah tercentang. Apabila sudah, klik OK dan buka osu! kembali.
 
-#### Allowing a program through AVG Firewall
+#### Mengatur agar koneksi osu! tidak terhalang oleh AVG Firewall
 
-Please consult AVG's [official knowledgebase entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home) for detailed instructions on how to do this.
+Harap ikuti langkah-langkah yang tertera pada [panduan yang disediakan oleh AVG berikut](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home) agar koneksi osu! tidak terhalang oleh AVG Firewall.
 
-#### Allowing a program through Kaspersky Internet Security
+#### Mengatur agar koneksi osu! tidak terhalang oleh Kaspersky Internet Security
 
-Please consult Kaspersky's [official help article](https://support.kaspersky.com/15163#block2) on adding applications to the Trusted Zone.
+Harap ikuti langkah-langkah yang tertera pada [panduan yang disediakan oleh Kaspersky berikut](https://support.kaspersky.com/15163#block2) agar osu! dapat ditambahkan ke dalam daftar Trusted Zone milik Kaspersky Internet Security.
 
-#### Allowing a program through McAfee
+#### Mengatur agar koneksi osu! tidak terhalang oleh McAfee
 
-Please consult McAfee's [official knowledgebase entry on the topic](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
+Harap ikuti langkah-langkah yang tertera pada [panduan yang disediakan oleh McAfee berikut](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
 
-### I've added osu! to my firewall but I still can't connect to the game!
+### Saya telah mengatur agar koneksi osu! saya tidak terhalang oleh aplikasi *firewall*, namun saya tetap tidak dapat terhubung secara *online*! 
 
-**We will need extra information from you to help sort this out.**
+**Kami butuh beberapa informasi tambahan untuk menyelesaikan masalahmu.**
 
 If you are still having issues connecting to our game servers, please submit a support ticket by sending an e-mail to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information will help us resolve your issue quickly:
 
