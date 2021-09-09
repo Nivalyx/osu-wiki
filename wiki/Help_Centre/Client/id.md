@@ -143,12 +143,12 @@ Untuk dapat mereka ulang *database* lagu yang osu! miliki, ikuti langkah-langkah
 
 1. Buka osu!.
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
-3. Click `Open osu! folder`.
-4. Close osu!.
-5. Find the `osu!.db` file located in the folder you just opened.
-6. Right-click on it, then click `Rename`.
-7. Rename it as you wish. It doesn't matter, as long as it is not called "osu!". Then press `Enter`.
-8. Relaunch osu!.
+3. Klik `Buka folder osu!`.
+4. Tutup osu!.
+5. Temukan berkas `osu!.db` pada folder osu! milikmu.
+6. Klik kanan berkas tersebut, lalu klik `Rename`.
+7. Beri nama baru pada berkas tersebut. Kamu dapat menamai berkas tersebut sesuka hatimu asalkan nama baru berkas tersebut tidak mengandung "osu!" di dalamnya. Apabila sudah, tekan `Enter`.
+8. Buka osu! kembali.
 
 *Note: a fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues).*
 
