@@ -299,9 +299,9 @@ Turning on VSync or playing in Windowed or Borderless mode will introduce a *sli
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
-## Online features
+## Fitur-fitur *online*
 
-### I can't sign in or connect to the game at all!
+### Saya tidak bisa terhubung masuk ke jaringan ke osu! sama sekali!
 
 **Ensure that osu! can properly access the internet through any firewall or anti-virus suites you have installed on your computer.**
 
@@ -360,21 +360,21 @@ To copy the results of the command, simply click and drag from the bottom of the
 
 **Pada umumnya, pesan tersebut menandakan bahwa *server* kami sedang sibuk atau mengalami suatu gangguan.**
 
-Check the [osu! server status page](https://status.ppy.sh/ "osu! server status") to see if there are any ongoing issues with the servers.
+Harap periksa [laman berikut](https://status.ppy.sh/ "osu! server status") untuk mengetahui apakah terdapat suatu gangguan pada *server* kami.
 
-**This can also happen if you are using a shared internet connection, a proxy, or VPN.**
+**Masalah ini juga dapat disebabkan oleh gangguan koneksi yang timbul akibat penggunaan *proxy* atau VPN.**
 
-Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Cobalah untuk menggunakan *proxy* atau VPN lainnya - apabila kamu masih menemui pesan *error* yang sama, harap hubungi tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
+Apabila kamu tidak merasa sedang menggunakan *proxy* atau VPN, maka ada kemungkinan sistem kami telah memblokir koneksi dari komputermu secara tidak sengaja. Harap hubungi tim layanan dukungan kami agar masalahmu dapat segera terselesaikan.
 
-Tor or networks associated with the Tor relay will not connect to the game servers for the most part. Although we neither condemn nor endorse the use of Tor, we enforce this policy to avoid any potential bad actors using Tor.
+Di samping itu, pada umumnya sistem kami akan secara otomatis memblokir segala koneksi yang berasal dari Tor atau jaringan-jaringan lainnya yang terkait. Harap diingat bahwa di sini osu! tidak mendukung ataupun mengecam penggunaan Tor - kami mengambil tindakan demikian murni untuk mencegah terjadinya hal-hal yang tidak diinginkan.
 
 ### Ketika saya mengobrol di *chat*, warna pengguna saya tidak berubah menjadi kuning meskipun saya telah membeli osu!supporter!
 
 **Warna penggunamu di *chat* hanya akan terlihat kuning di mata para pengguna lain. Dari sudut pandangmu sendiri, kamu akan selalu terlihat berwarna putih!**
 
-Kami menerapkan sistem pewarnaan yang demikian agar kamu dapat dengan mudah membedakan antara baris-baris *chat* yang kamu kirimkan dan baris-baris *chat* yang orang-orang lain kirimkan. Adapun warna-warna yang ada tersebut tidak dapat kamu ubah.
+Kami menerapkan sistem pewarnaan yang demikian agar kamu dapat dengan mudah membedakan antara baris-baris *chat* yang kamu kirimkan dan baris-baris *chat* yang orang-orang lain kirimkan. Adapun untuk saat ini warna-warna yang ada tersebut tidak dapat kamu ubah.
 
 ## Performance
 
