@@ -184,7 +184,7 @@ Terdapat beberapa hal yang dapat memicu terjadinya masalah ini sebagai berikut:
 
 **Menginstal ulang osu! akan menghapus semua skor lokal yang kamu miliki.**
 
-Skor-skor ini sayangnya tidak dapat kembali.
+Skor-skor ini sayangnya tidak dapat dikembalikan.
 
 Meskipun demikian, skor-skor yang kamu torehkan ketika kamu bermain secara *online* tidak akan hilang - kamu hanya perlu mengunduh ulang beatmap-beatmap yang pernah kamu mainkan untuk kembali mendapatkan skor-skor ini.
 
@@ -194,17 +194,17 @@ Apabila kamu memiliki osu!supporter, kamu dapat menggunakan filter `Pernah Dimai
 
 **osu! memiliki papan peringkat lokal yang terpisah untuk keempat mode permainan yang ada (osu!, osu!taiko, osu!catch, dan osu!mania).**
 
-Masalah ini umum dijumpai oleh para pemain yang tidak sengaja memainkan beatmap di mode permainan lain. Apabila kamu baru saja memainkan beatmap di mode permainan lain, kamu harus terlebih dahulu kembali ke mode permainan utamamu untuk dapat memunculkan papan peringkat lokal di mode permainan yang bersangkutan.
+Masalah ini umum dijumpai oleh para pemain yang tidak sengaja memainkan beatmap di mode permainan lain. Apabila kamu baru saja memainkan beatmap di mode permainan lain, kamu harus terlebih dahulu kembali ke mode permainan utamamu untuk dapat memunculkan papan peringkat lokal yang ada sebelumnya.
 
 Kamu dapat mengubah mode permainan yang kamu kehendaki melalui tombol `Mode` yang ada pada pojok kiri bawah layar Song Select.
 
-#### Have you recently downloaded a large number of maps? (ie: a beatmap pack or bundle)
+#### Apakah kamu baru saja selesai mengunduh sekian banyak beatmap (melalui bundel/paket beatmap atau lain sebagainya) dalam satu waktu?
 
-**Scores can sometimes take a little while to download from the game servers if you've loaded lots of new maps at once.**
+**Dalam kasus demikian, osu! membutuhkan waktu untuk dapat memproses skor-skor yang ada.**
 
-Playing the game or doing something else will let the client catch up in the background.
+Kamu hanya perlu bersabar sembari menunggu osu! memuat skor-skor yang pernah kamu torehkan sebelumnya.
 
-### What is this white trail or smoke-like line behind my cursor?
+### Mengapa saya melihat jejak berwarna putih yang mengekor pergerakan kursor milik saya?
 
 **This is a special feature called *smoke* and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
 
