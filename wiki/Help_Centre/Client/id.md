@@ -152,7 +152,7 @@ Untuk dapat mereka ulang *database* lagu yang osu! miliki, ikuti langkah-langkah
 
 *Catatan tambahan: Per osu! versi [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) yang dirilis pada 2021-05-19, masalah ini akan terselesaikan secara otomatis. Apabila kamu menggunakan osu! versi tersebut (atau yang lebih baru) namun tetap merasa mengalami masalah ini, harap [laporkan masalahmu kepada kami](https://github.com/ppy/osu-stable-issues/issues).*
 
-### My song list keeps scrolling!
+### Daftar lagu yang ada pada layar saya terus-menerus bergulir tanpa henti!
 
 **This is usually due to a faulty input device connected to your computer. Try unplugging any controllers or joysticks.**
 
