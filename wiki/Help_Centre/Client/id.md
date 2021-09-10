@@ -361,7 +361,7 @@ Apabila sudah, ketik perintah untuk menjalankan proses *trace route* pada layar 
 
 Kami membutuhkan hasil *trace route* untuk server-server berikut: `cho.ppy.sh`, `osu.ppy.sh`, dan `m1.ppy.sh`.
 
-Proses *trace route* pada umumnya akan membutuhkan sedikit waktu. Apabila hasilnya sudah keluar, harap salin dan sertakan segala informasi yang muncul tersebut pada email yang hendak kamu kirim.
+Proses *trace route* pada umumnya akan membutuhkan sedikit waktu. Apabila hasilnya sudah keluar, harap salin dan sertakan segala informasi yang tertera pada layar pada email yang hendak kamu kirim.
 
 ### Saya mendapatkan pesan *error* yang menyinggung seputar "server-side error" ketika saya hendak bermain secara *online*!
 
