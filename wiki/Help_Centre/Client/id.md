@@ -381,9 +381,9 @@ Di samping itu, pada umumnya sistem kami akan secara otomatis memblokir segala k
 
 Kami menerapkan sistem pewarnaan yang demikian agar kamu dapat dengan mudah membedakan antara baris-baris *chat* yang kamu kirimkan dan baris-baris *chat* yang orang-orang lain kirimkan. Adapun untuk saat ini warna-warna yang ada tersebut tidak dapat kamu ubah.
 
-## Performance
+## Performa
 
-### How can I make osu! run cooler if my computer is overheating?
+### Komputer saya menjadi panas (*overheating*) setiap kali saya menjalankan osu! Bagaimana caranya agar saya dapat membuat osu! menjadi lebih ramah terhadap kinerja komputer saya?
 
 **The easiest way is to change your frame limiter settings.**
 
