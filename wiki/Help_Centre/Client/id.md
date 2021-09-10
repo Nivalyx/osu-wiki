@@ -63,7 +63,7 @@ Untuk memeriksa apakah osu! sedang berjalan pada mode *compatibility mode* atau 
 
 #### Apakah kamu memiliki aplikasi *default browser* yang terpasang pada sistem?
 
-**Apabila kamu menggunakan Windows, pada umumnya kamu telah memiliki aplikasi *default browser* yang terpasang secara bawaan.**
+**Apabila kamu menggunakan Windows, pada umumnya kamu telah memiliki aplikasi *default browser* yang terpasang.**
 
 Untuk memeriksa apakah kamu memiliki aplikasi *default browser* yang terpasang, ikuti langkah-langkah berikut:
 
