@@ -204,9 +204,9 @@ Kamu dapat mengubah mode permainan yang kamu kehendaki melalui tombol `Mode` yan
 
 Kamu hanya perlu bersabar sembari menunggu osu! memuat skor-skor yang pernah kamu torehkan sebelumnya.
 
-### Mengapa saya melihat jejak berwarna putih yang mengekor pergerakan kursor milik saya?
+### Mengapa saya melihat jejak berwarna putih yang mengekori gerakan kursor saya?
 
-**This is a special feature called *smoke* and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
+**Jejak putih tersebut merupakan fitur *smoke* yang dapat kamu gunakan untuk menggambar hal apapun yang kamu inginkan. Para pemain yang sedang menontonmu juga akan dapat melihat jejak putih ini.**
 
 The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu!` section of the `Change keyboard bindings` options dialog.
 
