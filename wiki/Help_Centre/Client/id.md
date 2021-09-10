@@ -182,21 +182,21 @@ Terdapat beberapa hal yang dapat memicu terjadinya masalah ini sebagai berikut:
 
 #### Apakah kamu baru saja menginstal ulang osu! belakangan ini?
 
-**Reinstalling the game client will automatically clear all of your local scores.**
+**Menginstal ulang osu! akan menghapus semua skor lokal yang kamu miliki.**
 
-These are, unfortunately, gone.
+Skor-skor ini sayangnya tidak dapat kembali.
 
-The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
+Meskipun demikian, skor-skor yang kamu torehkan ketika kamu bermain secara *online* tidak akan hilang - kamu hanya perlu mengunduh ulang beatmap-beatmap yang pernah kamu mainkan untuk kembali mendapatkan skor-skor ini.
 
-Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in-game or via [the beatmap listing page](https://osu.ppy.sh/beatmapsets?played=played&s=ranked) to find any maps that you have set scores on in the past.
+Apabila kamu memiliki osu!supporter, kamu dapat menggunakan filter `Pernah Dimainkan` pada opsi pencarian `Riwayat Permainan` yang ada pada [laman daftar beatmap](https://osu.ppy.sh/beatmapsets?played=played&s=ranked) untuk mengetahui beatmap-beatmap apa saja yang pernah kamu mainkan sebelumnya.
 
-#### Are you set to the correct game mode?
+#### Apakah kamu sedang berada pada mode permainan yang kamu kehendaki?
 
-**Playing another game mode (osu!taiko, osu!catch or osu!mania) will swap the in-game score view to only show scores for that mode. This will hide your scores from other modes.**
+**osu! memiliki papan peringkat lokal yang terpisah untuk keempat mode permainan yang ada (osu!, osu!taiko, osu!catch, dan osu!mania).**
 
-A common cause of this problem arises from playing maps of another game mode, which then automatically sets song selection to use that mode's scores until the mode is set back again.
+Masalah ini umum dijumpai oleh para pemain yang tidak sengaja memainkan beatmap di mode permainan lain. Apabila kamu baru saja memainkan beatmap di mode permainan lain, kamu harus terlebih dahulu kembali ke mode permainan utamamu untuk dapat memunculkan papan peringkat lokal di mode permainan yang bersangkutan.
 
-You can change the game mode by clicking the `Mode` button at the bottom left of the screen in song select, then choosing the appropriate mode that you are looking for your scores in.
+Kamu dapat mengubah mode permainan yang kamu kehendaki melalui tombol `Mode` yang ada pada pojok kiri bawah layar Song Select.
 
 #### Have you recently downloaded a large number of maps? (ie: a beatmap pack or bundle)
 
