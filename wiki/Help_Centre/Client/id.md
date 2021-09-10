@@ -222,7 +222,7 @@ Harap dicatat bahwa apabila karena suatu alasan tayangan ulang milikmu hilang at
 
 ### osu! memberitahu saya bahwa versi osu! yang saya gunakan sudah terlalu lawas (*my game client is too old*)!
 
-**Waktunya untuk memperbaharui versi osu! yang kamu gunakan! Versi-versi osu! lawas pada umumnya tidak lagi dapat digunakan untuk mengirimkan skor, dan kamu harus memperbaharui versi osu! milikmu melalui menu `Options` -> `Umum` -> `Jalankan osu! updater` untuk tetap dapat bermain secara *online*.**
+**Waktunya untuk memperbaharui versi osu! yang kamu gunakan! Versi-versi osu! lawas pada umumnya tidak lagi dapat digunakan untuk mengirimkan skor, sehingga kamu harus memperbaharui versi osu! milikmu melalui menu `Options` -> `Umum` -> `Jalankan osu! updater` untuk tetap dapat bermain secara *online*.**
 
 If this doesn't work, you can close osu! and restart the osu!.exe while holding down the `Shift` key. This will provide you with a few upgrade and repair options, one of which is to update your game to the latest version.
 
