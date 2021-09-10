@@ -208,13 +208,13 @@ Kamu hanya perlu bersabar sembari menunggu osu! memuat skor-skor yang pernah kam
 
 **Jejak putih tersebut merupakan fitur *smoke* yang dapat kamu gunakan untuk menggambar hal apapun yang kamu inginkan. Para pemain yang sedang menontonmu juga akan dapat melihat jejak putih ini.**
 
-The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu!` section of the `Change keyboard bindings` options dialog.
+Secara *default*, fitur *smoke* ini akan muncul setiap kali kamu menahan tombol `C` pada *keyboard*. Kamu dapat mengubah tombol ini melalui opsi `Konfigurasi Tombol` yang ada pada menu `Options`, tepatnya pada sub-bagian `osu!`.
 
-### How do I save my own replay of a score I just made?
+### Bagaimana caranya agar saya dapat menyimpan tayangan ulang (*replay*) dari skor yang baru saja saya torehkan?
 
-**Enter the post-game results screen by clicking the score in your local scoreboard, and hit the `F2` button.**
+**Kamu dapat menyimpan tayangan ulang yang kamu kehendaki dengan menekan tekan tombol `F2` pada layar skor.**
 
-This will save your shiny new score as a `.osr` file in the /Replays/ folder within the default osu! installation directory.
+Tayangan-tayangan ulang yang tersimpan dapat kamu akses pada folder `/Replays/` yang ada pada direktori osu! milikmu.
 
 osu! also automatically saves all replays after you complete a song under the `/Data/r/` hidden folder, also contained within the osu! installation directory.
 
