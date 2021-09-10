@@ -150,7 +150,7 @@ Untuk dapat mereka ulang *database* lagu yang osu! miliki, ikuti langkah-langkah
 7. Beri nama baru pada berkas tersebut. Kamu dapat menamai berkas tersebut sesuka hatimu asalkan nama baru berkas tersebut tidak mengandung "osu!" di dalamnya. Apabila sudah, tekan `Enter`.
 8. Buka osu! kembali.
 
-*Note: a fix for this was added in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) dated 2021-05-19. If you happen to still encounter this issue, please [let us know](https://github.com/ppy/osu-stable-issues/issues).*
+*Catatan tambahan: Per osu! versi [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) yang dirilis pada 2021-05-19, masalah ini akan terselesaikan secara otomatis. Apabila kamu menggunakan osu! versi tersebut (atau yang lebih baru) namun tetap merasa mengalami masalah ini, harap [laporkan masalahmu kepada kami](https://github.com/ppy/osu-stable-issues/issues).*
 
 ### My song list keeps scrolling!
 
