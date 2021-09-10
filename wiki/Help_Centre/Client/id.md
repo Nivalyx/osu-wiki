@@ -378,7 +378,7 @@ Kami menerapkan sistem pewarnaan yang demikian agar kamu dapat dengan mudah memb
 
 ## Performa
 
-### Komputer saya menjadi panas (*overheating*) setiap kali saya menjalankan osu! Bagaimana caranya agar saya dapat membuat kinerja osu! menjadi lebih bersahabat dengan komputer saya?
+### Komputer saya menjadi panas (*overheating*) setiap kali saya menjalankan osu!. Bagaimana caranya agar saya dapat membuat osu! menjadi lebih bersahabat dengan komputer saya?
 
 **Cara paling mudah untuk mengatasi masalah ini adalah dengan menurunkan nilai batasan FPS (*frame limiter*) yang kamu gunakan.**
 
@@ -388,15 +388,13 @@ Untuk mengatur nilai *frame limiter* yang kamu gunakan, ikuti langkah-langkah be
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
 3. Ketik `frame` atau `batasan FPS` pada kolom pencarian (*quick-search bar*) yang muncul.
 
-Apabila ternyata nilai *frame limiter* milikmu terpasang pada setelan `Unlimited` atau `Tak terbatas`, 
+Apabila ternyata nilai *frame limiter* milikmu terpasang pada `Unlimited` atau `Tak terbatas`, cobalah untuk mengubahnya ke nilai lain yang tersedia.
 
-is set to `Unlimited`, you may notice a significant improvement by changing it to one of the other three options.
+Secara berurutan, pilihan-pilihan `VSync`, `Power Saving`, dan `Optimal` akan membatasi FPS osu! pada nilai yang sama dengan *refresh rate*, 2x *refresh rate*, dan 8x *refresh rate* monitormu hingga batas maksimal 960Hz.
 
-`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `Power Saving` and `Optimal` will run the game at twice and 8 times your monitor's refresh rate, up to 960Hz.
+Kami merekomendasikanmu untuk menggunakan `VSync` apabila kamu mengalami masalah *overheating* yang serius.
 
-We recommend using `VSync` in situations where heat is an issue.
-
-You may also wish to look into utilities that allow you to control the speed of your CPU and GPU fans manually.
+Di samping itu, apabila kamu berkehendak, kamu juga dapat menggunakan berbagai perlengkapan dan *software* eksternal yang sekiranya dapat mengoptimalkan kinerja CPU dan GPU yang kamu miliki.
 
 ### My PC reboots while playing osu!
 
