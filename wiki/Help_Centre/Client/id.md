@@ -160,15 +160,13 @@ Periksa juga apakah tombol-tombol pada *numpad* milikmu bermasalah. Cobalah untu
 
 Terakhir, jangan lupa untuk selalu menjaga dan merawat piranti-piranti inputmu dengan baik.
 
-### I downloaded a beatmap pack, but osu! is always trying to "repair" the file!
+### osu! terus-menerus berusaha untuk "memperbaiki" berkas paket beatmap (*beatmap pack*) yang saya unduh!
 
-### Saya 
+**Kamu harus terlebih dahulu mengekstrak isi paket beatmap tersebut ke dalam folder Songs yang kamu miliki.**
 
-**You will need to extract the pack into your Songs directory.**
+Paket-paket beatmap yang tersedia pada situs web osu! pada umumnya tersedia dalam format `.rar` yang terkompresi. Kamu harus terlebih dahulu mengekstrak isi paket beatmap tersebut dengan menggunakan aplikasi semacam [7-Zip](https://7-zip.org "7zip") ke dalam folder `Songs` yang kamu miliki. 
 
-Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You will need to extract them using your utility of choice (we recommend [7-Zip](https://7-zip.org "7zip")) to your 'Songs' directory first.
-
-Once all of the `.osz` files from the archive are in the `Songs` directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
+Setelah semua berkas `.osz` yang terkandung di dalam paket beatmap yang bersangkutan selesai diekstrak, tekan `F5` pada layar osu! agar osu! dapat memuat beatmap-beatmap yang baru saja kamu tambahkan tersebut ke dalam permainan.
 
 ## Permainan
 
