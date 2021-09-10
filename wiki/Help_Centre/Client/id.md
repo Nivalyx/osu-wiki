@@ -75,7 +75,7 @@ Untuk memeriksa apakah kamu memiliki aplikasi *default browser* yang terpasang, 
 
 **Pada umumnya, hal ini disebabkan oleh terdapatnya suatu masalah pada PC milikmu atau -- dalam kasus-kasus tertentu -- pada versi osu! yang hendak kamu unduh.**
 
-Walaupun osu! telah diprogram sedemikian rupa untuk dapat memperbaharui dirinya sendiri di belakang layar, dalam prosesnya terkadang terdapat hal-hal yang tidak diinginkan.
+Walaupun osu! telah diprogram sedemikian rupa untuk dapat memperbaharui dirinya sendiri tanpa harus diminta, dalam prosesnya terkadang terdapat hal-hal yang tidak diinginkan.
 
 Apabila kamu menemui suatu masalah, kami menyarankanmu untuk me-*restart* PC terlebih dahulu. Walaupun terkesan sepele, tindakan ini telah terbukti ampuh untuk dapat mengatasi berbagai masalah teknis yang ada, termasuk yang berhubungan dengan osu!.
 
@@ -120,8 +120,6 @@ Untuk panduan lebih lanjut seputar masalah ini, harap lihat [topik diskusi pada 
 
 ### Sebagian beatmap yang saya miliki menghilang!
 
-**Make sure you are not grouping your beatmaps by anything in the top right of the screen (i.e. "grouping" should be set to "no grouping").**
-
 **Pastikan kamu tidak sedang mengelompokkan beatmap-beatmap yang ada berdasarkan kriteria tertentu.**
 
 Harap periksa apakah opsi "Grup" yang terdapat pada pojok kanan atas layar sedang terpasang ke "Tanpa Pengelompokan" atau tidak. 
@@ -154,15 +152,17 @@ Untuk dapat mereka ulang *database* lagu yang osu! miliki, ikuti langkah-langkah
 
 ### Daftar lagu yang ada pada layar saya terus-menerus bergulir tanpa henti!
 
-**This is usually due to a faulty input device connected to your computer. Try unplugging any controllers or joysticks.**
+**Masalah ini pada umumnya disebabkan oleh terdapatnya suatu tombol yang macet pada piranti input (*input device*) yang bermasalah. Cobalah untuk mencopot *keyboard* atau *joystick* yang sedang kamu gunakan.** 
 
-These issues may also be caused by applications which emulate or change keybindings, such as *Xpadder* or *X-Mouse Button Control*. If you use such applications for other games, disable them.
+Di samping itu, masalah ini juga dapat disebabkan oleh penggunaan aplikasi yang dapat menyimulasikan input *mouse* dan *keyboard* secara virtual seperti *Xpadder* atau *X-Mouse Button Control*. Apabila kamu sebelumnya pernah menggunakan aplikasi yang demikian, cobalah untuk menutupnya.
 
-This can also happen due to issues with the numpad keys, as they can be used to scroll the song selection list. Pressing the `NumLock` key to disable the numpad and then pressing `9`, `8`, `3`, or `2` on the numpad will fix the issue.
+Periksa juga apakah tombol-tombol pada *numpad* milikmu bermasalah. Cobalah untuk menekan `NumLock` dan perhatikan kondisi tombol-tombol `9`, `8`, `3`, dan `2` pada *numpad* milikmu setelahnya mengingat tombol-tombol tersebut juga dapat digunakan untuk menggulirkan roda lagu pada menu Song Select.
 
-You may also wish to check for any jammed or damaged buttons on your peripherals.
+Terakhir, jangan lupa untuk selalu menjaga dan merawat piranti-piranti inputmu dengan baik.
 
 ### I downloaded a beatmap pack, but osu! is always trying to "repair" the file!
+
+### Saya 
 
 **You will need to extract the pack into your Songs directory.**
 
