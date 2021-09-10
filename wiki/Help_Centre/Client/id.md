@@ -220,7 +220,7 @@ Lebih jauh, sistem internal osu! juga menyimpan berbagai tayangan ulang pada fol
 
 Harap dicatat bahwa apabila karena suatu alasan tayangan ulang milikmu hilang atau tidak lagi tersedia secara *online*, tayangan ulang tersebut akan hilang selama-lamanya.
 
-### osu! is telling me that my game client is too old!
+### osu! memberitahu saya bahwa versi osu! yang saya gunakan sudah terlalu lawas (*my game client is too old*)!
 
 **It's time to upgrade! Very old versions of the game aren't allowed to submit new scores, so you'll need to force an update by going into `Options` -> `General` -> `Run osu! updater`.**
 
@@ -339,10 +339,7 @@ Harap ikuti langkah-langkah yang tertera pada [panduan yang disediakan oleh McAf
 
 Apabila kamu tetap tidak dapat terhubung ke dalam jaringan kami, harap hubungi tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan menyertakan informasi-informasi berikut:
 
-- A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
-- The `network.log` file from the `Logs` folder in your osu! installation directory
-
-- Hasil *trace route* (perintah `tracert` pada Command Prompt) untuk server-server `cho.ppy.sh`, `osu.ppy.sh`, dan `m1.ppy.sh` (sesuai dengan instruksi yang tertera di bawah)
+- Hasil *trace route* (perintah `tracert` pada Command Prompt) untuk *server*-*server* `cho.ppy.sh`, `osu.ppy.sh`, dan `m1.ppy.sh` (sesuai dengan instruksi yang tertera di bawah)
 - Berkas `network.log` yang terdapat pada folder `Logs` pada direktori osu! milikmu
 
 #### Melakukan *trace route* untuk mengatasi masalah koneksi
@@ -353,11 +350,9 @@ Kamu dapat melakukan *trace route* dengan membuka Command Prompt dan menjalankan
 
 Untuk membuka Command Prompt, tekan kombinasi tombol `Windows` dan `R` lalu ketik `cmd` dan klik `OK`. Bagi yang sekiranya masih asing dengan Command Prompt, berbagai penjelasan dasar seputar Command Prompt dapat dilihat pada [artikel berikut](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
 
-You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
+Apabila sudah, ketik perintah untuk menjalankan proses *trace route* pada layar Command Prompt yang muncul. Sebagai contoh, perintah `tracert cho.ppy.sh` akan merekam hal-hal apa saja yang terjadi ketika jaringanmu mencoba untuk membuka hubungan dengan *server* `cho.ppy.sh` milik kami.
 
-Apabila sudah, ketik perintah untuk menjalankan proses *trace route* pada layar Command Prompt yang muncul. Sebagai contoh, perintah `tracert cho.ppy.sh` akan merekam hal-hal apa saja yang terjadi ketika jaringanmu mencoba untuk membuka hubungan dengan server `cho.ppy.sh` milik kami.
-
-Kami membutuhkan hasil *trace route* untuk server-server berikut: `cho.ppy.sh`, `osu.ppy.sh`, dan `m1.ppy.sh`.
+Kami membutuhkan hasil *trace route* untuk *server*-*server* berikut: `cho.ppy.sh`, `osu.ppy.sh`, dan `m1.ppy.sh`.
 
 Proses *trace route* pada umumnya akan membutuhkan sedikit waktu. Apabila hasilnya sudah keluar, harap salin dan sertakan segala informasi yang tertera pada layar pada email yang hendak kamu kirim.
 
