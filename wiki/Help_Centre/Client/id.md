@@ -380,15 +380,17 @@ Kami menerapkan sistem pewarnaan yang demikian agar kamu dapat dengan mudah memb
 
 ### Komputer saya menjadi panas (*overheating*) setiap kali saya menjalankan osu! Bagaimana caranya agar saya dapat membuat kinerja osu! menjadi lebih bersahabat dengan komputer saya?
 
-**Cara paling mudah untuk mengatasi masalah ini adalah dengan menurunkan batasan FPS (*frame limiter*) yang kamu gunakan.**
+**Cara paling mudah untuk mengatasi masalah ini adalah dengan menurunkan nilai batasan FPS (*frame limiter*) yang kamu gunakan.**
 
-To check what your frame limiter is set to, follow these steps:
+Untuk mengatur nilai *frame limiter* yang kamu gunakan, ikuti langkah-langkah berikut:
 
 1. Open osu!.
-2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
-3. Type `frame` into the quick-search to bring up the frame limiter options.
+2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
+3. Ketik `frame` atau `batasan FPS` pada kolom pencarian (*quick-search bar*) yang muncul.
 
-If your frame limiter is set to `Unlimited`, you may notice a significant improvement by changing it to one of the other three options.
+Apabila ternyata nilai *frame limiter* milikmu terpasang pada setelan `Unlimited` atau `Tak terbatas`, 
+
+is set to `Unlimited`, you may notice a significant improvement by changing it to one of the other three options.
 
 `VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `Power Saving` and `Optimal` will run the game at twice and 8 times your monitor's refresh rate, up to 960Hz.
 
