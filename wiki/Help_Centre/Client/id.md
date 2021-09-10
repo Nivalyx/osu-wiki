@@ -170,13 +170,13 @@ Setelah semua berkas `.osz` yang terkandung di dalam paket beatmap yang bersangk
 
 ## Permainan
 
-### My combo counter, score display, or accuracy display is missing!
+### Indikator kombo, skor, dan akurasi yang saya miliki menghilang!
 
-**Pressing `Shift` + `Tab` while playing will toggle the in-game HUD and allow you to see these elements again.**
+**Tekan kombinasi tombol `Shift` + `Tab` di dalam permainan untuk kembali memunculkan indikator-indikator tersebut.**
 
-If you have changed the keybinding that toggles the scoreboard, this will not work. You can check which combination it is set to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`. Then you can substitute the key in place of `Tab` (for example, to make `Shift` + `V`).
+Apabila tidak terjadi apa-apa setelah kamu menekan kombinasi tombol tersebut, harap periksa apakah kamu sebelumnya telah mengubah *key bind* osu! secara tidak sengaja. Tuju `Options` -> `Konfigurasi Tombol` -> `In-Game` -> `Toggle Scoreboard`, lalu atur ulang kombinasi tombol yang ada.
 
-### My local scores are missing!
+### Skor-skor yang berada pada papan peringkat lokal (*local leaderboard*) yang saya miliki menghilang!
 
 There are a few reasons why this can happen. Read on below!
 
