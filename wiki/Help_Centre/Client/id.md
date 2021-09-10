@@ -178,9 +178,9 @@ Apabila tidak terjadi apa-apa setelah kamu menekan kombinasi tombol tersebut, ha
 
 ### Skor-skor yang berada pada papan peringkat lokal (*local leaderboard*) yang saya miliki menghilang!
 
-Terdapat beberapa hal yang dapat memicu terjadinya masalah ini.
+Terdapat beberapa hal yang dapat memicu terjadinya masalah ini sebagai berikut:
 
-#### Have you recently reinstalled the game client?
+#### Apakah kamu baru saja menginstal ulang osu! belakangan ini?
 
 **Reinstalling the game client will automatically clear all of your local scores.**
 
