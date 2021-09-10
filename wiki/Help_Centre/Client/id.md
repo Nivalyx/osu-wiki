@@ -383,7 +383,7 @@ Kami menerapkan sistem pewarnaan yang demikian agar kamu dapat dengan mudah memb
 
 ## Performa
 
-### Komputer saya menjadi panas (*overheating*) setiap kali saya menjalankan osu! Bagaimana caranya agar saya dapat membuat osu! menjadi lebih ramah terhadap kinerja komputer saya?
+### Komputer saya menjadi panas (*overheating*) setiap kali saya menjalankan osu! Bagaimana caranya agar saya dapat membuat kinerja osu! menjadi lebih bersahabat dengan komputer saya?
 
 **The easiest way is to change your frame limiter settings.**
 
