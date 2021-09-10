@@ -216,9 +216,9 @@ Secara *default*, fitur *smoke* ini akan muncul setiap kali kamu menahan tombol 
 
 Tayangan-tayangan ulang yang tersimpan dapat kamu akses pada folder `/Replays/` yang ada pada direktori osu! milikmu.
 
-osu! also automatically saves all replays after you complete a song under the `/Data/r/` hidden folder, also contained within the osu! installation directory.
+Lebih jauh, sistem internal osu! juga menyimpan berbagai tayangan ulang pada folder `Data/r/` yang tersembunyi di dalam direktori osu! yang ada.
 
-Please note that if no replay was saved for the score you will not be able to retrieve a replay by doing this.
+Harap dicatat bahwa apabila karena suatu alasan tayangan ulang milikmu hilang atau tidak lagi tersedia secara *online*, tayangan ulang tersebut akan hilang selama-lamanya.
 
 ### osu! is telling me that my game client is too old!
 
