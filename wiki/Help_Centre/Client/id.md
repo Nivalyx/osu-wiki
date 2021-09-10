@@ -178,7 +178,7 @@ Apabila tidak terjadi apa-apa setelah kamu menekan kombinasi tombol tersebut, ha
 
 ### Skor-skor yang berada pada papan peringkat lokal (*local leaderboard*) yang saya miliki menghilang!
 
-There are a few reasons why this can happen. Read on below!
+Terdapat beberapa hal yang dapat memicu terjadinya masalah ini.
 
 #### Have you recently reinstalled the game client?
 
@@ -385,7 +385,7 @@ Kami menerapkan sistem pewarnaan yang demikian agar kamu dapat dengan mudah memb
 
 ### Komputer saya menjadi panas (*overheating*) setiap kali saya menjalankan osu! Bagaimana caranya agar saya dapat membuat kinerja osu! menjadi lebih bersahabat dengan komputer saya?
 
-**The easiest way is to change your frame limiter settings.**
+**Cara paling mudah untuk mengatasi masalah ini adalah dengan menurunkan batasan FPS (*frame limiter*) yang kamu gunakan.**
 
 To check what your frame limiter is set to, follow these steps:
 
