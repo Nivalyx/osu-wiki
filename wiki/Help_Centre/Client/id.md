@@ -204,7 +204,7 @@ Kamu dapat mengubah mode permainan yang kamu kehendaki melalui tombol `Mode` yan
 
 Kamu hanya perlu bersabar sembari menunggu osu! memuat skor-skor yang pernah kamu torehkan sebelumnya.
 
-### Mengapa saya melihat jejak berwarna putih yang mengekori gerakan kursor saya?
+### Apa gerangan jejak berwarna putih yang mengekori gerakan kursor saya ini?
 
 **Jejak putih tersebut merupakan fitur *smoke* yang dapat kamu gunakan untuk menggambar hal apapun yang kamu inginkan. Para pemain yang sedang menontonmu juga akan dapat melihat jejak putih ini.**
 
