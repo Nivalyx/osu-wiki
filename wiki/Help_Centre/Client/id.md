@@ -73,7 +73,7 @@ Untuk memeriksa apakah kamu memiliki aplikasi *default browser* yang terpasang, 
 
 ### osu! saya tidak dapat diperbaharui sebagaimana semestinya!
 
-**Pada umumnya, hal ini disebabkan oleh terdapatnya suatu masalah pada PC milikmu atau -- dalam kasus-kasus tertentu -- pada versi osu! yang hendak kamu unduh.**
+**Pada umumnya, hal ini disebabkan oleh terdapatnya suatu masalah pada PC milikmu atau - dalam kasus-kasus tertentu - pada versi osu! yang hendak kamu unduh.**
 
 Walaupun osu! telah diprogram sedemikian rupa untuk dapat memperbaharui dirinya sendiri tanpa harus diminta, dalam prosesnya terkadang terdapat hal-hal yang tidak diinginkan.
 
@@ -398,7 +398,7 @@ Di samping itu, apabila kamu berkehendak, kamu juga dapat menggunakan berbagai p
 
 ### PC saya sering me-*reboot* dirinya sendiri di kala osu! saya sedang aktif!
 
-**Most of the time, this is due to overheating of one or more of your computer's components, usually your graphics card or CPU.**
+**Pada umumnya, masalah ini disebabkan oleh terdapatnya komponen pada komputermu yang terlampau panas (*overheating*) - utamanya kartu grafik atau CPU.**
 
 To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Speccy](https://www.ccleaner.com/speccy).
 
