@@ -396,7 +396,7 @@ Kami merekomendasikanmu untuk menggunakan `VSync` apabila kamu mengalami masalah
 
 Di samping itu, apabila kamu berkehendak, kamu juga dapat menggunakan berbagai perlengkapan dan *software* eksternal yang sekiranya dapat mengoptimalkan kinerja CPU dan GPU yang kamu miliki.
 
-### My PC reboots while playing osu!
+### PC saya sering me-*reboot* dirinya sendiri di saat osu! saya sedang aktif!
 
 **Most of the time, this is due to overheating of one or more of your computer's components, usually your graphics card or CPU.**
 
