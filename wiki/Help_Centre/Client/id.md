@@ -426,7 +426,7 @@ Ghosting is a somewhat complex topic, but essentially boils down to issues with 
 
 Most newer keyboards will allow up to **6** keys to be held down at once, albeit in random combinations.
 
-You can test your keyboard's ghosting limits by using [drakeirving's Anti-Ghosting utility](https://drakeirving.github.io/MultiKeyDisplay).
+Kamu dapat mengecek apakah *keyboard* milikmu memiliki efek *ghosting* atau tidak dengan menggunakan [aplikasi Anti-Ghosting buatan drakeirving berikut](https://drakeirving.github.io/MultiKeyDisplay).
 
 While the Ranking Criteria for osu!mania tries to alleviate the issue of ghosting by not allowing more than 6 notes to be active at any one time, you may encounter this issue if your keyboard is older.
 
