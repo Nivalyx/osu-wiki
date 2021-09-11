@@ -274,6 +274,8 @@ Apabila kamu memainkan suatu beatmap dan ternyata skor yang kamu peroleh tidak t
 
 **This can be due to sound processing software running on your machine, such as *Razer Surround Audio*. It could also be due to your `Universal Offset` being set incorrectly.**
 
+**Masalah ini pada umumnya disebabkan oleh terdapatnya aplikasi yang mempengaruhi output audio di komputermu (seperti *Razer Surround Audio*) atau tidak tepatnya nilai `Universal Offset` yang kamu gunakan.**
+
 Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
 
 Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
@@ -287,17 +289,17 @@ The default value works for most people, but if you find it isn't for you, you c
 
 If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
 
-### My game looks glitchy, like the graphics are torn!
+### Tampilan osu! saya terlihat terkotak-kotak, seolah-oleh layar saya hendak terbelah!
 
-**This is due to an effect called [screen tearing](https://en.wikipedia.org/wiki/Screen_tearing) and can be fixed by setting the in-game `Frame limiter` option to `VSync`.**
+**Masalah ini dikenal dengan istilah *[screen tearing](https://en.wikipedia.org/wiki/Screen_tearing)* dan dapat kamu atasi dengan mengatur nilai batasan FPS (*frame limiter*) yang kamu gunakan ke `Vsync`.**
 
-This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate.
+Pada umumnya, *screen tearing* ini timbul karena jumlah *frame* yang osu! tampilkan per detiknya tidak sesuai dengan nilai *refresh rate* yang monitor kamu miliki. Adapun masalah ini tidak membahayakan komputer atau monitormu.
 
-You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
+Di samping itu, kamu juga dapat menjalankan osu! pada mode `Windowed` atau `Borderless` yang akan secara otomatis mengaktifkan opsi `Vsync` yang ada.
 
-Turning on VSync or playing in Windowed or Borderless mode will introduce a *slight* amount of input lag, unfortunately. For most people, this will not cause significant issues.
+Harap dicatat bahwa penggunaan `VSync` dan/atau mode `Windowed` dan `Borderless` dapat menurunkan performa osu! dan menambah *input lag* bagi sebagian pemain. 
 
-Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
+Apabila kamu menggunakan kartu grafik NVidia, kamu juga dapat mengatasi masalah ini dengan cara membuka aplikasi NVidia Control Panel dan mengatur nilai `global refresh rate` yang ada ke `Fast`.
 
 ## Fitur-fitur *online*
 
@@ -444,9 +446,7 @@ Terakhir, pastikan tablet dan *mouse* yang kamu gunakan terbebas dari debu atau 
 
 #### Mengaktifkan *raw input*
 
-**Raw input forces the game to use a cleaner and more direct means to access the information from your peripherals. This generally increases the accuracy of the output from the device.**
-
-**Mengaktifkan *Raw input* 
+***Raw input* merupakan opsi yang memungkinkan osu! untuk dapat memproses berbagai informasi dari piranti-piranti input yang kamu miliki secara langsung. Pada umumnya, penggunaan *raw input* dapat meningkatkan akurasi bidikan kursor secara signifikan.**
 
 Untuk dapat mengaktifkan *raw input*, ikuti langkah-langkah berikut:
 
