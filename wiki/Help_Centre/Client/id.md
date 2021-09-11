@@ -71,7 +71,7 @@ Untuk memeriksa apakah kamu memiliki aplikasi *default browser* yang terpasang, 
 2. Ketik `default app settings` pada kolom pencarian (*quick-search bar*) yang ada pada menu Start, dan klik hasil teratas yang muncul.
 3. Tuju bagian `Web browser` pada layar yang baru terbuka dan pastikan bahwa kamu telah memiliki aplikasi *web browser* yang terdaftar sebagai *default browser* pada sistem.
 
-### osu! saya tidak dapat diperbaharui sebagaimana semestinya!
+### osu! saya tidak dapat diperbaharui sebagaimana mestinya!
 
 **Pada umumnya, hal ini disebabkan oleh terdapatnya suatu masalah pada PC milikmu atau - dalam kasus-kasus tertentu - pada versi osu! yang hendak kamu unduh.**
 
@@ -410,7 +410,7 @@ Apabila suhu GPU atau CPU yang kamu miliki mencapai angka 90°C (194°F) atau le
 
 Dalam beberapa kasus, *driver sound card* yang sudah lawas dapat menyebabkan masalah pada komputermu ketika osu! dijalankan. Harap senantiasa perbaharui *driver sound card* yang kamu gunakan.
 
-Apabila *driver sound card* milikmu tidak bermasalah, cobalah untuk mencopot piranti-piranti yang terhubung ke komputermu melalui sambungan USB. Piranti-piranti tertentu (utamanya *headphone* dan *sound card* eksternal) dapat memicu komputer untuk me-*reboot* dirinya sendiri secara otomatis apabila telah rusak atau tidak tersambung sebagaimana semestinya.
+Apabila *driver sound card* milikmu tidak bermasalah, cobalah untuk mencopot piranti-piranti yang terhubung ke komputermu melalui sambungan USB. Piranti-piranti tertentu (utamanya *headphone* dan *sound card* eksternal) dapat memicu komputer untuk me-*reboot* dirinya sendiri secara otomatis apabila telah rusak atau tidak tersambung sebagaimana mestinya.
 
 ### Saya sudah mencoba semua hal yang disarankan di atas, tapi saya tetap menemui masalah ini!
 
