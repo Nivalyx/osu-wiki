@@ -274,11 +274,11 @@ Apabila kamu memainkan suatu beatmap dan ternyata skor yang kamu peroleh tidak t
 
 **Masalah ini pada umumnya disebabkan oleh terdapatnya aplikasi yang mempengaruhi output audio di komputermu (seperti *Razer Surround Audio*) atau tidak tepatnya nilai `Universal Offset` yang kamu gunakan.**
 
-Cobalah untuk menutup aplikasi-aplikasi yang sekiranya dapat mempengaruhi output audio. Apabila hal ini tidak membantu, cobalah untuk mengatur nilai `Universal Offset` yang kamu miliki.
+Cobalah untuk menutup aplikasi-aplikasi yang sekiranya dapat mempengaruhi output audio. Apabila hal ini tidak membantu, cobalah untuk mengatur nilai `Universal Offset` yang kamu gunakan.
 
-Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
+Pada umumnya, osu! dapat berjalan tanpa masalah pada nilai `Universal Offset` *default* yang ada. Meskipun demikian, dalam beberapa kasus, terdapat *hardware-hardware* tertentu yang dapat mempengaruhi sinkronisasi antar tampilan visual pada monitor dan suara lagu yang kamu dengar pada piranti audio milikmu.
 
-The default value works for most people, but if you find it isn't for you, you can change it by following these steps:
+Untuk dapat mengatur nilai `Universal Offset` yang kamu gunakan, ikuti langkah-langkah berikut:
 
 1. Buka osu!.
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
@@ -289,7 +289,7 @@ Terakhir, jangan lupa untuk senantiasa memperbaharui *driver* audio milik *sound
 
 ### Tampilan osu! saya terlihat terkotak-kotak, seolah-oleh layar saya hendak terbelah!
 
-**Masalah ini dikenal dengan istilah *[screen tearing](https://en.wikipedia.org/wiki/Screen_tearing)* dan dapat kamu atasi dengan mengatur nilai batasan FPS (*frame limiter*) yang kamu gunakan ke `Vsync`.**
+**Masalah ini dikenal dengan istilah *[screen tearing](https://en.wikipedia.org/wiki/Screen_tearing)* yang dapat kamu atasi dengan mengatur nilai batasan FPS (*frame limiter*) milikmu ke `Vsync`.**
 
 Pada umumnya, *screen tearing* ini timbul karena jumlah *frame* yang osu! tampilkan per detiknya tidak sesuai dengan nilai *refresh rate* yang monitor kamu miliki. Adapun masalah ini tidak membahayakan komputer atau monitormu.
 
