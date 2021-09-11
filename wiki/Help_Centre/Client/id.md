@@ -422,7 +422,7 @@ Harap jabarkan detail-detail permasalahan yang tengah kamu hadapi (mulai dari ge
 
 **Hal ini pada umumnya dikenal dengan istilah *ghosting*.**
 
-Agak sulit menjelaskan definisi dari istilah *ghosting*, namun pada intinya apabila *keyboard* kamu memiliki efek *ghosting*, jumlah input yang dapat didaftarkan oleh *keyboard* milikmu dalam satu waktu terbatas.
+Definisi dari istilah *ghosting* itu sendiri cukup kompleks, namun pada intinya apabila *keyboard* kamu memiliki efek *ghosting*, jumlah input yang dapat didaftarkan oleh *keyboard* milikmu dalam satu waktu akan terbatas.
 
 Pada umumnya, *keyboard-keyboard* yang beredar di pasaran hanya mampu untuk mendaftarkan input dari **6** tombol dalam satu waktu.
 
@@ -430,7 +430,7 @@ Kamu dapat mengecek apakah *keyboard* milikmu memiliki efek *ghosting* atau tida
 
 While the Ranking Criteria for osu!mania tries to alleviate the issue of ghosting by not allowing more than 6 notes to be active at any one time, you may encounter this issue if your keyboard is older.
 
-The only true solution is to purchase a keyboard that can support more concurrent keypresses, in that case. You may wish to look for a feature known as *n-key rollover* (or *NKRO*). NKRO keyboards do not have issues with ghosting for the most part, but are usually expensive.
+Satu-satunya solusi untuk mengatasi masalah ini adalah dengan membeli *keyboard* baru yang dapat mendaftarkan lebih banyak input dalam satu waktu. Tanyakanlah kepada penjual apakah *keyboard* yang hendak kamu beli telah dilengkapi dengan fitur NKRO (*n=key rollover*) yang dapat mencegah *ghosting* atau tidak.
 
 ### My cursor goes crazy whenever I try to play osu!
 
