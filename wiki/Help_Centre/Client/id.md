@@ -262,8 +262,6 @@ Kamu juga dapat mengecek apakah versi beatmap yang kamu hendak mainkan tepat ata
 
 ***Server* osu! pada umumnya selalu *online* setiap saat, namun ada kalanya *server* kami sedang *offline* karena satu dan lain hal. Harap periksa [situs web osu! server status](https://status.ppy.sh) atau [akun Twitter @osustatus](https://twitter.com/osustatus) untuk mendapatkan perkembangan-perkembangan terkini seputar status *server* kami.**
 
-If the servers are offline, do not close osu! until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
-
 Apabila *server* kami sedang *offline*, jangan tutup jendela osu! dan harap bersabar hingga server kami kembali *online*. osu! akan berusaha untuk mengirim ulang/me-*resubmit* skor yang kamu torehkan secara otomatis ketika *server* kami telah kembali *online*.
 
 ### Apakah saya dapat mengirimkan skor saya melalui email untuk kemudian disisipkan ke dalam papan peringkat (*leaderboard*) yang ada?
@@ -388,7 +386,7 @@ Kami menerapkan sistem pewarnaan yang demikian agar kamu dapat dengan mudah memb
 
 Untuk mengatur nilai *frame limiter* yang kamu gunakan, ikuti langkah-langkah berikut:
 
-1. Open osu!.
+1. Buka osu!.
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
 3. Ketik `frame` atau `batasan FPS` pada kolom pencarian (*quick-search bar*) yang muncul.
 
