@@ -406,7 +406,7 @@ Untuk dapat mengetahui komponen mana yang bermasalah, kami menyarankanmu untuk m
 
 Apabila suhu GPU atau CPU yang kamu miliki mencapai angka 90°C (194°F) atau lebih tinggi, sistem komputer yang kamu miliki pada umumnya akan menjalankan prosedur *shutdown* otomatis akibat terdapatnya komponen yang terlampau panas.
 
-### Saya tidak menemui komponen apapun yang suhunya tidak normal, namun komputer saya tetap saja sering me-*reboot* dirinya sendiri dari waktu ke waktu!
+### Saya tidak menemui komponen apapun yang suhunya tidak normal, namun komputer saya tetap sering me-*reboot* dirinya sendiri dari waktu ke waktu!
 
 **Harap periksa apakah terdapat masalah pada kartu suara (*sound card*) atau piranti-piranti yang sedang terpasang ke komputermu.**
 
@@ -414,13 +414,13 @@ Dalam beberapa kasus, *driver sound card* yang sudah lawas dapat menyebabkan mas
 
 Apabila *driver sound card* milikmu tidak bermasalah, cobalah untuk mencopot piranti-piranti yang terhubung ke komputermu melalui sambungan USB. Piranti-piranti tertentu (utamanya *headphone* dan *sound card* eksternal) dapat memicu komputer untuk me-*reboot* dirinya sendiri secara otomatis apabila telah rusak atau tidak tersambung sebagaimana semestinya.
 
-### Saya sudah mencoba semua hal yang disarankan di atas, tapi saya tetap terganggu oleh masalah ini!
+### Saya sudah mencoba semua hal yang disarankan di atas, tapi saya tetap menemui masalah ini!
 
 Harap jabarkan detail-detail permasalahan yang tengah kamu hadapi (mulai dari gejala-gejala yang kamu alami, spesifikasi komputermu, hingga informasi-informasi lainnya yang sekiranya dapat membantu) kepada tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh). 
 
-### I can't hold more than a few keys at once while playing osu!mania
+### Ketika saya bermain osu!mania, jumlah tombol yang dapat saya tekan secara bersamaan dalam satu waktu terbatas hanya pada beberapa tombol saja!
 
-**This is due to a hardware issue common to most keyboards called *ghosting*.**
+**Hal ini pada umumnya dikenal dengan istilah *ghosting*.**
 
 Ghosting is a somewhat complex topic, but essentially boils down to issues with the way your keyboard is made that prevent it from sending inputs from more than a few keys at once from certain places on the board.
 
@@ -450,10 +450,10 @@ We also suggest ensuring your peripherals are clean and free from dirt or debris
 
 To enable raw input, follow these steps:
 
-1. Open osu!.
-2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
-3. Type `raw` into the quick-search to jump straight to the option.
-4. Click the `Raw input` setting to enable it.
+1. Buka osu!.
+2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
+3. Ketik `raw` pada kolom pencarian (*quick-search bar*) yang muncul.
+4. Aktifkan opsi `Raw input`.
 
 ### I'm playing from a tablet and my cursor feels too slow!
 
