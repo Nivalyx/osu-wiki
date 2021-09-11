@@ -250,7 +250,7 @@ Harap tutup program-program yang sekiranya tidak sedang kamu gunakan apabila kam
 
 #### Apakah kamu memainkan versi beatmap yang tepat?
 
-**Apabila kamu memainkan versi beatmap yang salah, skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server* kami.**
+**Apabila kamu memainkan versi beatmap yang tidak tepat, skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server* kami.**
 
 Pada layar Song Select, pastikan ikon yang muncul pada layar kiri atas telah sesuai dengan status beatmap yang kamu mainkan (sebagai contoh, apabila kamu memainkan beatmap Ranked, kamu harusnya akan melihat ikon panah biru pada pojok kiri layarmu). Apabila kamu tidak melihat ikon apapun, atau ikon yang ada tidak sesuai dengan status beatmap yang bersangkutan, maka skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server* kami.
 
