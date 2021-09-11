@@ -438,9 +438,9 @@ Masalah ini utamanya dijumpai oleh para pengguna tablet. yang banyak mengeluhkan
 
 Solusi paling pokok untuk masalah ini adalah dengan mengatur sensivitas mouse yang osu! miliki ke nilai *default* (1.0x), memasang `raw input`, dan mengatur area tablet aktif yang kamu gunakan.
 
-You may also wish to adjust the *DPI* setting of your mouse, if you are using one. Higher DPI settings provide more accurate positioning to the game client and may smooth out any jitters.
+Apabila kamu menggunakan *mouse*, cobalah untuk mengatur nilai DPI yang digunakan oleh *mouse* milikmu. Nilai DPI yang terlalu tinggi juga terkadang dapat memicu pergerakan kursor yang tidak diinginkan.
 
-We also suggest ensuring your peripherals are clean and free from dirt or debris. A hair or bit of dust in front of a mouse's optical sensor can do very strange things to the way a cursor moves.
+Terakhir, pastikan tablet dan *mouse* yang kamu gunakan terbebas dari debu atau kotoran-kotoran lainnya karena terdapat beberapa piranti yang sensornya sangat sensitif.
 
 #### Enabling raw input
 
