@@ -434,9 +434,9 @@ Meskipun demikian, satu-satunya solusi untuk mengatasi masalah ini adalah dengan
 
 ### Kursor saya selalu bergerak secara liar setiap kali saya hendak bermain!
 
-**The most common cause of this is having your in-game mouse sensitivity set too high.**
+**Pada umumnya, masalah ini disebabkan oleh pengaturan nilai sensitivitas *mouse* yang terlalu tinggi.**
 
-Jumpy, erratic movement is a prime example of this, particularly if you are using a tablet.
+Masalah ini utamanya dijumpai oleh para pengguna tablet. yang banyak mengeluhkan kalau kursor mereka "sering melompat ke mana-mana" dan "tidak dapat dikontrol".
 
 Setting the in-game sensitivity to 1.0x (which is the default) will fix this in most cases, but may leave your cursor feeling sluggish. We suggest enabling `raw input` in the game options and using the drivers for your peripheral of choice to alter sensitivity.
 
