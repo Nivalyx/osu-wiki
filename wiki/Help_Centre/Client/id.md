@@ -436,13 +436,13 @@ Meskipun demikian, satu-satunya solusi untuk mengatasi masalah ini adalah dengan
 
 Masalah ini utamanya dijumpai oleh para pengguna tablet. yang banyak mengeluhkan kalau kursor mereka "sering melompat ke mana-mana" dan "tidak dapat dikontrol".
 
-Solusi paling pokok untuk masalah ini adalah dengan mengatur sensivitas mouse yang osu! miliki ke nilai *default* (1.0x), memasang `raw input`, dan mengatur area tablet aktif yang kamu gunakan.
+Solusi paling pokok untuk masalah ini adalah dengan mengatur sensivitas mouse yang osu! miliki ke nilai *default* (1.0x), mengaktifkan `raw input`, dan mengatur area tablet aktif yang kamu gunakan.
 
 Apabila kamu menggunakan *mouse*, cobalah untuk mengatur nilai DPI yang digunakan oleh *mouse* milikmu. Nilai DPI yang terlalu tinggi juga terkadang dapat memicu pergerakan kursor yang tidak diinginkan.
 
-Terakhir, pastikan tablet dan *mouse* yang kamu gunakan terbebas dari debu atau kotoran-kotoran lainnya karena terdapat beberapa piranti yang sensornya sangat sensitif.
+Terakhir, pastikan tablet dan *mouse* yang kamu gunakan terbebas dari debu atau kotoran-kotoran lainnya karena terdapat beberapa piranti tertentu yang sensornya sangat sensitif terhadap hal-hal yang demikian.
 
-#### Enabling raw input
+#### Mengaktifkan *raw input"
 
 **Raw input forces the game to use a cleaner and more direct means to access the information from your peripherals. This generally increases the accuracy of the output from the device.**
 
