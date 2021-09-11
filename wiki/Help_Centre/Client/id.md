@@ -272,8 +272,6 @@ Apabila kamu memainkan suatu beatmap dan ternyata skor yang kamu peroleh tidak t
 
 ### Objek-objek permainan yang ada tidak sinkron dengan musik yang saya dengar!
 
-**This can be due to sound processing software running on your machine, such as *Razer Surround Audio*. It could also be due to your `Universal Offset` being set incorrectly.**
-
 **Masalah ini pada umumnya disebabkan oleh terdapatnya aplikasi yang mempengaruhi output audio di komputermu (seperti *Razer Surround Audio*) atau tidak tepatnya nilai `Universal Offset` yang kamu gunakan.**
 
 Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
