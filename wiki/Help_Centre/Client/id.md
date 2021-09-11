@@ -438,7 +438,7 @@ Meskipun demikian, satu-satunya solusi untuk mengatasi masalah ini adalah dengan
 
 Masalah ini utamanya dijumpai oleh para pengguna tablet. yang banyak mengeluhkan kalau kursor mereka "sering melompat ke mana-mana" dan "tidak dapat dikontrol".
 
-Setting the in-game sensitivity to 1.0x (which is the default) will fix this in most cases, but may leave your cursor feeling sluggish. We suggest enabling `raw input` in the game options and using the drivers for your peripheral of choice to alter sensitivity.
+Solusi paling pokok untuk masalah ini adalah dengan mengatur sensivitas mouse yang osu! miliki ke nilai *default* (1.0x), memasang `raw input`, dan mengatur area tablet aktif yang kamu gunakan.
 
 You may also wish to adjust the *DPI* setting of your mouse, if you are using one. Higher DPI settings provide more accurate positioning to the game client and may smooth out any jitters.
 
