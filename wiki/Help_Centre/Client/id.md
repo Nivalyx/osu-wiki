@@ -410,7 +410,7 @@ Dalam beberapa kasus, *driver sound card* yang sudah lawas dapat menyebabkan mas
 
 Apabila *driver sound card* milikmu tidak bermasalah, cobalah untuk mencopot piranti-piranti yang terhubung ke komputermu melalui sambungan USB. Piranti-piranti tertentu (utamanya *headphone* dan *sound card* eksternal) dapat memicu komputer untuk me-*reboot* dirinya sendiri secara otomatis apabila telah rusak atau tidak tersambung sebagaimana mestinya.
 
-### Saya sudah mencoba semua hal yang disarankan di atas, tapi saya tetap menemui masalah ini!
+### Saya sudah mencoba semua hal yang disarankan di atas, namun saya tetap menemui masalah ini!
 
 Harap jabarkan detail-detail permasalahan yang tengah kamu hadapi (mulai dari gejala-gejala yang kamu alami, spesifikasi komputermu, hingga informasi-informasi lainnya yang sekiranya dapat membantu) kepada tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh). 
 
