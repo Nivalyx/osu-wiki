@@ -285,7 +285,7 @@ Untuk dapat mengatur nilai `Universal Offset` yang kamu gunakan, ikuti langkah-l
 3. Ketik `offset` atau pada kolom pencarian (*quick-search bar*) yang muncul.
 4. Atur nilai *offset* yang kamu gunakan hingga objek-objek permainan yang ada tersinkronisasi dengan baik terhadap musik yang mengalun. Apabila kamu ragu, kamu dapat menggunakan *[offset wizard](/wiki/Options/Offset_Wizard)* sebagai acuan pengaturanmu.
 
-Terakhir, jangan lupa untuk senantiasa memperbaharui *driver* audio milik *sound card* dan *motherboard* yang kamu gunakan.
+Terakhir, jangan lupa untuk senantiasa memperbaharui *driver* milik *sound card* dan *motherboard* yang kamu gunakan.
 
 ### Tampilan osu! saya terlihat terkotak-kotak, seolah-oleh layar saya hendak terbelah!
 
