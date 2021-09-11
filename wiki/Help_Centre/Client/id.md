@@ -442,7 +442,7 @@ Apabila kamu menggunakan *mouse*, cobalah untuk mengatur nilai DPI yang digunaka
 
 Terakhir, pastikan tablet dan *mouse* yang kamu gunakan terbebas dari debu atau kotoran-kotoran lainnya karena terdapat beberapa piranti tertentu yang sensornya sangat sensitif terhadap hal-hal yang demikian.
 
-#### Mengaktifkan *raw input"
+#### Mengaktifkan *raw input*
 
 **Raw input forces the game to use a cleaner and more direct means to access the information from your peripherals. This generally increases the accuracy of the output from the device.**
 
