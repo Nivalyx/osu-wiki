@@ -270,7 +270,7 @@ Apabila *server* kami sedang *offline*, jangan tutup jendela osu! dan harap bers
 
 Apabila kamu memainkan suatu beatmap dan ternyata skor yang kamu peroleh tidak terkirim masuk ke dalam *server* kami, kamu harus kembali mencetak skor baru pada beatmap yang sama. Mohon maaf yang sebesar-besarnya!
 
-### Objek-objek permainan yang ada tidak sinkron dengan musik!
+### Objek-objek permainan yang ada tidak sinkron dengan musik yang saya dengar!
 
 **This can be due to sound processing software running on your machine, such as *Razer Surround Audio*. It could also be due to your `Universal Offset` being set incorrectly.**
 
