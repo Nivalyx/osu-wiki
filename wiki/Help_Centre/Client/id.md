@@ -258,7 +258,7 @@ Pada layar Song Select, pastikan ikon yang muncul pada layar kiri atas telah ses
 
 ![](img/correct-map-status.png "Tampilan ikon *in-game* untuk beatmap Ranked")
 
-Playing with the `global leaderboard` selected, rather than the local leaderboard, can help prevent this on a map by map basis. If a large number of your beatmaps, or all of them, are missing/have incorrect statuses, try forcing your beatmap database file to be recreated. You can find out how to safely do this above in the "[Some of my beatmaps are missing!](#some-of-my-beatmaps-are-missing)" section. After doing this, it may take some time for all of your maps to regain the correct status.
+Kamu juga dapat mengecek apakah versi beatmap yang kamu hendak mainkan tepat atau tidak dengan menampilkan `Papan Peringkat Global` (*global leaderboard*). Apabila kamu menemui banyak beatmap milikmu yang versinya tidak tepat, cobalah untuk mereka ulang *database* lagu yang dimiliki osu! dengan mengikuti langkah-langkah yang tertera pada sub-bagian "[Sebagian beatmap yang saya miliki menghilang!](#sebagian-beatmap-yang-saya-miliki menghilang)".
 
 #### Are the score submission servers up?
 
