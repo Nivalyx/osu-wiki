@@ -404,9 +404,9 @@ Di samping itu, apabila kamu berkehendak, kamu juga dapat menggunakan berbagai p
 
 Untuk dapat mengetahui komponen mana yang bermasalah, kami menyarankanmu untuk menggunakan aplikasi yang dapat memonitor suhu GPU/CPU yang kamu miliki seperti [Speccy](https://www.ccleaner.com/speccy).
 
-Apabila ternyata suhu GPU/CPU yang kamu miliki mencapai angka 90°C (194°F) atau lebih tinggi, besar kemungkinan sistem komputermu menjalankan prosedur *shitdown* otomatis akibat terdapatnya komponen yang terlampau panas.
+Apabila suhu GPU/CPU yang kamu miliki mencapai angka 90°C (194°F) atau lebih tinggi, sistem komputer yang kamu miliki pada umumnya akan menjalankan prosedur *shutdown* otomatis akibat terdapatnya komponen yang terlampau panas.
 
-### My computer isn't overheating, but the game still causes my computer to reboot!
+### Saya tidak menemui komponen apapun yang suhunya tidak normal, namun komputer saya tetap sering me-*reboot* dirinya sendiri dari waktu ke waktu!
 
 **The most common cause of forced restarts after overheating issues is sound card problems, followed by malfunctioning peripherals attached to your computer.**
 
