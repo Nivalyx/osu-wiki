@@ -426,13 +426,13 @@ Definisi dari istilah *ghosting* itu sendiri cukup kompleks, namun pada intinya 
 
 Pada umumnya, *keyboard-keyboard* yang beredar di pasaran hanya mampu untuk mendaftarkan input dari **6** tombol dalam satu waktu.
 
-Kamu dapat mengecek apakah *keyboard* milikmu memiliki efek *ghosting* atau tidak dengan menggunakan [aplikasi Anti-Ghosting buatan drakeirving berikut](https://drakeirving.github.io/MultiKeyDisplay).
+Kamu dapat mengecek apakah *keyboard* milikmu memiliki efek *ghosting* atau tidak dengan menggunakan [aplikasi penguji Anti-Ghosting buatan drakeirving berikut](https://drakeirving.github.io/MultiKeyDisplay).
 
-While the Ranking Criteria for osu!mania tries to alleviate the issue of ghosting by not allowing more than 6 notes to be active at any one time, you may encounter this issue if your keyboard is older.
+Ranking Criteria untuk mode osu!mania telah mempersyaratkan agar para *mapper* hanya dapat menaruh 6 not pada waktu yang bersamaan untuk memitigasi efek *ghosting* yang ada.
 
 Satu-satunya solusi untuk mengatasi masalah ini adalah dengan membeli *keyboard* baru yang dapat mendaftarkan lebih banyak input dalam satu waktu. Tanyakanlah kepada penjual apakah *keyboard* yang hendak kamu beli telah dilengkapi dengan fitur NKRO (*n=key rollover*) yang dapat mencegah *ghosting* atau tidak.
 
-### My cursor goes crazy whenever I try to play osu!
+### Kursor saya selalu bergerak secara liar setiap kali saya hendak bermain!
 
 **The most common cause of this is having your in-game mouse sensitivity set too high.**
 
