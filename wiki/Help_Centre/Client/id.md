@@ -248,6 +248,8 @@ Harap periksa pengaturan aplikasi-aplikasi *firewall* dan *antivirus* yang terpa
 
 Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you are not having issues with connectivity otherwise.
 
+Harap tutup program-program yang sekiranya tidak sedang kamu gunakan dan sdsdaddas
+a
 #### Are your beatmap statuses correct?
 
 **Sometimes the statuses of your beatmaps can get messed up, meaning the scores you set on them can't submit.**
