@@ -268,8 +268,6 @@ Apabila *server* kami sedang *offline*, jangan tutup jendela osu! dan harap bers
 
 **Sayangnya tidak - tim kami tidak menerima permintaan untuk menyisipkan skor atau semacamnya.**
 
-If you were denied a score due to technical reasons or anything else, the best you can hope for is to repeat your display of skill and achieve it again. Sorry!
-
 Apabila kamu memainkan suatu beatmap dan ternyata skor yang kamu peroleh tidak terkirim masuk ke dalam *server* kami, kamu harus kembali mencetak skor baru pada beatmap yang sama. Mohon maaf yang sebesar-besarnya!
 
 ### Objek-objek permainan yang ada tidak sinkron dengan musik!
