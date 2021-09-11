@@ -400,21 +400,21 @@ Di samping itu, apabila kamu berkehendak, kamu juga dapat menggunakan berbagai p
 
 ### PC saya sering me-*reboot* dirinya sendiri di kala osu! saya sedang aktif!
 
-**Pada umumnya, masalah ini disebabkan oleh terdapatnya komponen pada komputermu yang terlampau panas (*overheating*) - utamanya kartu grafik atau CPU.**
+**Pada umumnya, masalah ini disebabkan oleh terdapatnya komponen pada komputermu yang terlampau panas (*overheating*) - utamanya kartu grafik (GPU) atau CPU.**
 
-Untuk dapat mengetahui komponen mana yang bermasalah, kami menyarankanmu untuk menggunakan aplikasi yang dapat memonitor suhu GPU/CPU yang kamu miliki seperti [Speccy](https://www.ccleaner.com/speccy).
+Untuk dapat mengetahui komponen mana yang bermasalah, kami menyarankanmu untuk menggunakan aplikasi yang dapat memonitor suhu GPU atau CPU yang kamu miliki seperti [Speccy](https://www.ccleaner.com/speccy).
 
-Apabila suhu GPU/CPU yang kamu miliki mencapai angka 90°C (194°F) atau lebih tinggi, sistem komputer yang kamu miliki pada umumnya akan menjalankan prosedur *shutdown* otomatis akibat terdapatnya komponen yang terlampau panas.
+Apabila suhu GPU atau CPU yang kamu miliki mencapai angka 90°C (194°F) atau lebih tinggi, sistem komputer yang kamu miliki pada umumnya akan menjalankan prosedur *shutdown* otomatis akibat terdapatnya komponen yang terlampau panas.
 
-### Saya tidak menemui komponen apapun yang suhunya tidak normal, namun komputer saya tetap sering me-*reboot* dirinya sendiri dari waktu ke waktu!
+### Saya tidak menemui komponen apapun yang suhunya tidak normal, namun komputer saya tetap saja sering me-*reboot* dirinya sendiri dari waktu ke waktu!
 
-**The most common cause of forced restarts after overheating issues is sound card problems, followed by malfunctioning peripherals attached to your computer.**
+**Harap periksa apakah terdapat masalah pada kartu suara (*sound card*) atau piranti-piranti yang sedang terpasang ke komputermu.**
 
-Old sound card drivers or software can cause problems with osu!, but this is not an issue for most people. Try updating your sound card or motherboard drivers.
+Dalam beberapa kasus, *driver sound card* yang sudah lawas dapat menyebabkan masalah pada komputermu ketika osu! dijalankan. Harap senantiasa perbaharui *driver sound card* yang kamu gunakan.
 
-You may also wish to try removing some of the peripherals attached via USB to your computer, especially if they interact with sound in any way. Headphones or USB sound cards can sometimes cause problems if they or the port they are in begins malfunctioning.
+Apabila *driver sound card* milikmu tidak bermasalah, cobalah untuk mencopot piranti-piranti yang terhubung ke komputermu melalui sambungan USB. Piranti-piranti tertentu (utamanya *headphone* dan *sound card* eksternal) dapat memicu komputer untuk me-*reboot* dirinya sendiri secara otomatis apabila telah rusak atau tidak tersambung sebagaimana semestinya.
 
-### It's still happening!
+### Saya sudah mencoba semua hal yang disarankan di atas, tapi saya tetap terganggu oleh masalah ini!
 
 If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) with more information on the issue - including your computer's technical specifications, model (where appropriate), and any other information you think may help us discern the cause of your problem.
 
