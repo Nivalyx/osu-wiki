@@ -232,7 +232,7 @@ Ada beberapa hal yang dapat menyebabkan masalah ini sebagai berikut:
 
 #### Apakah kamu sedang terhubung ke internet?
 
-**Apabila kamu tidak sedang terhubung ke internet ketika kamu menyelesaikan permainanmu, skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server online* kami.**
+**Apabila kamu tidak sedang terhubung ke internet ketika kamu menyelesaikan permainanmu, skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server* kami.**
 
 Apabila koneksimu terputus di tengah permainan, kamu tidak perlu khawatir - osu! akan berusaha untuk mengirim ulang/me-*resubmit* skor yang kamu torehkan secara otomatis ketika koneksimu telah pulih.
 
@@ -250,11 +250,9 @@ Harap tutup program-program yang sekiranya tidak sedang kamu gunakan apabila kam
 
 #### Apakah kamu memainkan versi beatmap yang tepat?
 
-**Sometimes the statuses of your beatmaps can get messed up, meaning the scores you set on them can't submit.**
+**Apabila kamu memainkan versi beatmap yang salah, skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server* kami.**
 
-**Apabila kamu memainkan versi beatmap yang salah, skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server online* kami.**
-
-Pada layar Song Select, pastikan ikon yang muncul pada layar kiri atas telah sesuai dengan status beatmap yang kamu mainkan (sebagai contoh, apabila kamu memainkan beatmap Ranked, kamu harusnya akan melihat ikon panah biru pada pojok kiri layarmu). Apabila kamu tidak melihat ikon apapun, atau ikon yang ada tidak sesuai dengan status beatmap yang bersangkutan, maka skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server online* kami.
+Pada layar Song Select, pastikan ikon yang muncul pada layar kiri atas telah sesuai dengan status beatmap yang kamu mainkan (sebagai contoh, apabila kamu memainkan beatmap Ranked, kamu harusnya akan melihat ikon panah biru pada pojok kiri layarmu). Apabila kamu tidak melihat ikon apapun, atau ikon yang ada tidak sesuai dengan status beatmap yang bersangkutan, maka skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server* kami.
 
 ![](img/correct-map-status.png "Tampilan ikon *in-game* untuk beatmap Ranked")
 
@@ -268,11 +266,13 @@ If the servers are offline, do not close osu! until we've fixed the issues and t
 
 Apabila *server* kami sedang *offline*, jangan tutup jendela osu! dan harap bersabar hingga server kami kembali *online*. osu! akan berusaha untuk mengirim ulang/me-*resubmit* skor yang kamu torehkan secara otomatis ketika *server* kami telah kembali *online*.
 
-### Apakah saya dapat mengirimkan skor saya melalui email untuk kemudian dimasukkan ke dalam papan peringkat (*leaderboard*) yang ada?
+### Apakah saya dapat mengirimkan skor saya melalui email untuk kemudian disisipkan ke dalam papan peringkat (*leaderboard*) yang ada?
 
-**Unfortunately, we cannot upload scores upon request.**
+**Sayangnya tidak - tim kami tidak menerima permintaan untuk menyisipkan skor atau semacamnya.**
 
 If you were denied a score due to technical reasons or anything else, the best you can hope for is to repeat your display of skill and achieve it again. Sorry!
+
+Apabila kamu memainkan suatu beatmap dan ternyata skor yang kamu peroleh tidak terkirim masuk ke dalam *server* kami, kamu harus kembali mencetak skor baru pada beatmap yang sama. Mohon maaf yang sebesar-besarnya!
 
 ### The notes seem out of sync or out of time with the music!
 
