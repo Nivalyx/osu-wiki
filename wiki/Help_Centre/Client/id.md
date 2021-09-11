@@ -234,7 +234,7 @@ Ada beberapa hal yang dapat menyebabkan masalah ini sebagai berikut:
 
 **Apabila kamu tidak sedang terhubung ke internet ketika kamu menyelesaikan permainanmu, skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server online* kami.**
 
-Apabila koneksimu terputus di tengah permainan, kamu tidak perlu khawatir - osu! akan berusaha untuk mengirim ulang (*resubmit*) skor yang kamu torehkan secara otomatis ketika koneksimu telah pulih.
+Apabila koneksimu terputus di tengah permainan, kamu tidak perlu khawatir - osu! akan berusaha untuk mengirim ulang/me-*resubmit* skor yang kamu torehkan secara otomatis ketika koneksimu telah pulih.
 
 #### Apakah koneksi dari dan menuju jaringan osu! sedang terhalang oleh aplikasi *firewall* atau *anti-virus* yang kamu gunakan?
 
@@ -260,13 +260,15 @@ Pada layar Song Select, pastikan ikon yang muncul pada layar kiri atas telah ses
 
 Kamu juga dapat mengecek apakah versi beatmap yang kamu hendak mainkan tepat atau tidak dengan menampilkan `Papan Peringkat Global` (*global leaderboard*). Apabila kamu menemui banyak beatmap milikmu yang versinya tidak tepat, cobalah untuk mereka ulang *database* lagu yang dimiliki osu! dengan mengikuti langkah-langkah yang tertera pada sub-bagian "[Sebagian beatmap yang saya miliki menghilang!](#sebagian-beatmap-yang-saya-miliki menghilang)".
 
-#### Are the score submission servers up?
+#### Apakah *server* osu! sedang *online*?
 
-**The answer is almost always yes, but check the [osu! server status](https://status.ppy.sh) or the [@osustatus Twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
+***Server* osu! pada umumnya selalu *online* setiap saat, namun ada kalanya *server* kami sedang *offline* karena satu dan lain hal. Harap periksa [situs web osu! server status](https://status.ppy.sh) atau [akun Twitter @osustatus](https://twitter.com/osustatus) untuk mendapatkan perkembangan-perkembangan terkini seputar status *server* kami.**
 
 If the servers are offline, do not close osu! until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
 
-### Can you upload a score I set for me?
+Apabila *server* kami sedang *offline*, jangan tutup jendela osu! dan harap bersabar hingga server kami kembali *online*. osu! akan berusaha untuk mengirim ulang/me-*resubmit* skor yang kamu torehkan secara otomatis ketika *server* kami telah kembali *online*.
+
+### Apakah saya dapat mengirimkan skor saya melalui email untuk kemudian dimasukkan ke dalam papan peringkat (*leaderboard*) yang ada?
 
 **Unfortunately, we cannot upload scores upon request.**
 
