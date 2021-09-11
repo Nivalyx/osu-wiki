@@ -424,7 +424,7 @@ Harap jabarkan detail-detail permasalahan yang tengah kamu hadapi (mulai dari ge
 
 Ghosting is a somewhat complex topic, but essentially boils down to issues with the way your keyboard is made that prevent it from sending inputs from more than a few keys at once from certain places on the board.
 
-Most newer keyboards will allow up to **6** keys to be held down at once, albeit in random combinations.
+Pada umumnya, *keyboard-keyboard* yang beredar di pasaran hanya mampu untuk mendaftarkan input dari **6** tombol dalam satu waktu.
 
 Kamu dapat mengecek apakah *keyboard* milikmu memiliki efek *ghosting* atau tidak dengan menggunakan [aplikasi Anti-Ghosting buatan drakeirving berikut](https://drakeirving.github.io/MultiKeyDisplay).
 
