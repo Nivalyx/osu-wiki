@@ -246,17 +246,17 @@ Harap periksa pengaturan aplikasi-aplikasi *firewall* dan *antivirus* yang terpa
 
 **Program-program tertentu terkadang juga dapat menghalangi osu! untuk dapat terhubung ke internet.**
 
-Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you are not having issues with connectivity otherwise.
+Harap tutup program-program yang sekiranya tidak sedang kamu gunakan apabila kamu merasa internetmu tidak bermasalah.
 
-Harap tutup program-program yang sekiranya tidak sedang kamu gunakan dan sdsdaddas
-a
-#### Are your beatmap statuses correct?
+#### Apakah kamu memainkan versi beatmap yang tepat?
 
 **Sometimes the statuses of your beatmaps can get messed up, meaning the scores you set on them can't submit.**
 
-In the song select menu, check in the top left of the screen for any small icons (for example, a ranked beatmap should display a blue arrow icon in the top left). If your beatmaps do not display any icon, or display an incorrect icon, then your scores cannot submit. 
+**Apabila kamu memainkan versi beatmap yang salah, skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server online* kami.**
 
-![](img/correct-map-status.png "This is what it should look like")
+Pada layar Song Select, pastikan ikon yang muncul pada layar kiri atas telah sesuai dengan status beatmap yang kamu mainkan (sebagai contoh, apabila kamu memainkan beatmap Ranked, kamu harusnya akan melihat ikon panah biru pada pojok kiri layarmu). Apabila kamu tidak melihat ikon apapun, atau ikon yang ada tidak sesuai dengan status beatmap yang bersangkutan, maka skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server online* kami.
+
+![](img/correct-map-status.png "Tampilan ikon *in-game* untuk beatmap Ranked")
 
 Playing with the `global leaderboard` selected, rather than the local leaderboard, can help prevent this on a map by map basis. If a large number of your beatmaps, or all of them, are missing/have incorrect statuses, try forcing your beatmap database file to be recreated. You can find out how to safely do this above in the "[Some of my beatmaps are missing!](#some-of-my-beatmaps-are-missing)" section. After doing this, it may take some time for all of your maps to regain the correct status.
 
