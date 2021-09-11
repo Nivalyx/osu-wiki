@@ -295,9 +295,7 @@ If this still doesn't help, you may want to try updating your sound card or moth
 
 Pada umumnya, *screen tearing* ini timbul karena jumlah *frame* yang osu! tampilkan per detiknya tidak sesuai dengan nilai *refresh rate* yang monitor kamu miliki. Adapun masalah ini tidak membahayakan komputer atau monitormu.
 
-Di samping itu, kamu juga dapat menjalankan osu! pada mode `Windowed` atau `Borderless` yang akan secara otomatis mengaktifkan opsi `Vsync` yang ada.
-
-Harap dicatat bahwa penggunaan `VSync` dan/atau mode `Windowed` dan `Borderless` dapat menurunkan performa osu! dan menambah *input lag* bagi sebagian pemain. 
+Di samping itu, kamu juga dapat menjalankan osu! pada mode `Windowed` atau `Borderless` yang akan secara otomatis mengaktifkan opsi `Vsync` yang ada. Harap dicatat bahwa penggunaan `VSync` dan/atau mode `Windowed` dan `Borderless` di sini dapat menurunkan performa osu! dan menambah *input lag* bagi sebagian pemain. 
 
 Apabila kamu menggunakan kartu grafik NVidia, kamu juga dapat mengatasi masalah ini dengan cara membuka aplikasi NVidia Control Panel dan mengatur nilai `global refresh rate` yang ada ke `Fast`.
 
