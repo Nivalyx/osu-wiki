@@ -274,18 +274,18 @@ Apabila kamu memainkan suatu beatmap dan ternyata skor yang kamu peroleh tidak t
 
 **Masalah ini pada umumnya disebabkan oleh terdapatnya aplikasi yang mempengaruhi output audio di komputermu (seperti *Razer Surround Audio*) atau tidak tepatnya nilai `Universal Offset` yang kamu gunakan.**
 
-Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
+Cobalah untuk menutup aplikasi-aplikasi yang sekiranya dapat mempengaruhi output audio. Apabila hal ini tidak membantu, cobalah untuk mengatur nilai `Universal Offset` yang kamu miliki.
 
 Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
 
 The default value works for most people, but if you find it isn't for you, you can change it by following these steps:
 
-1. Open osu!.
-2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
-3. Type `offset` into the quick-search bar. This will take you to the current universal offset your client is using.
-4. Use the slider to adjust your universal offset. Alternatively, try using the [offset wizard](/wiki/Options/Offset_Wizard) to help you with this process.
+1. Buka osu!.
+2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
+3. Ketik `offset` atau pada kolom pencarian (*quick-search bar*) yang muncul.
+4. Atur nilai *offset* yang kamu gunakan hingga objek-objek permainan yang ada tersinkronisasi dengan baik terhadap musik yang mengalun. Apabila kamu ragu, kamu dapat menggunakan *[offset wizard](/wiki/Options/Offset_Wizard)* sebagai acuan pengaturanmu.
 
-If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
+Terakhir, jangan lupa untuk senantiasa memperbaharui *driver* audio milik *sound card* dan *motherboard* yang kamu gunakan.
 
 ### Tampilan osu! saya terlihat terkotak-kotak, seolah-oleh layar saya hendak terbelah!
 
