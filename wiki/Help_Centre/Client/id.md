@@ -432,7 +432,7 @@ Meskipun demikian, satu-satunya solusi untuk mengatasi masalah ini adalah dengan
 
 **Pada umumnya, masalah ini disebabkan oleh pengaturan nilai sensitivitas *mouse* yang terlalu tinggi.**
 
-Masalah ini utamanya dijumpai oleh para pengguna tablet. yang banyak mengeluhkan kalau kursor mereka "sering melompat ke mana-mana" dan "tidak dapat dikontrol".
+Masalah ini utamanya dijumpai oleh para pengguna tablet yang banyak mengeluhkan kalau kursor mereka "sering melompat ke mana-mana" dan "tidak dapat dikontrol".
 
 Solusi paling pokok untuk masalah ini adalah dengan mengatur sensivitas mouse yang osu! miliki ke nilai *default* (1.0x), mengaktifkan `raw input`, dan mengatur area tablet aktif yang kamu gunakan.
 
