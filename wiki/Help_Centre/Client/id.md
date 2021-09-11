@@ -440,13 +440,15 @@ Solusi paling pokok untuk masalah ini adalah dengan mengatur sensivitas mouse ya
 
 Apabila kamu menggunakan *mouse*, cobalah untuk mengatur nilai DPI yang digunakan oleh *mouse* milikmu. Nilai DPI yang terlalu tinggi juga terkadang dapat memicu pergerakan kursor yang tidak diinginkan.
 
-Terakhir, pastikan tablet dan *mouse* yang kamu gunakan terbebas dari debu atau kotoran-kotoran lainnya karena terdapat beberapa piranti tertentu yang sensornya sangat sensitif terhadap hal-hal yang demikian.
+Terakhir, pastikan tablet dan *mouse* yang kamu gunakan terbebas dari debu atau kotoran-kotoran lainnya karena sensor pada piranti-piranti ini pada umumnya sangat sensitif terhadap hal-hal yang demikian.
 
 #### Mengaktifkan *raw input*
 
 **Raw input forces the game to use a cleaner and more direct means to access the information from your peripherals. This generally increases the accuracy of the output from the device.**
 
-To enable raw input, follow these steps:
+**Mengaktifkan *Raw input* 
+
+Untuk dapat mengaktifkan *raw input*, ikuti langkah-langkah berikut:
 
 1. Buka osu!.
 2. Klik menu `Options` yang ada pada menu utama, atau tekan `Ctrl` + `O`.
