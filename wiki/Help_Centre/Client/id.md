@@ -77,7 +77,7 @@ Untuk memeriksa apakah kamu memiliki aplikasi *default browser* yang terpasang, 
 
 Walaupun osu! telah diprogram sedemikian rupa untuk dapat memperbaharui dirinya sendiri tanpa harus diminta, dalam prosesnya terkadang terdapat hal-hal yang tidak diinginkan.
 
-Apabila kamu menemui suatu masalah, kami menyarankanmu untuk me-*restart* PC terlebih dahulu. Walaupun terkesan sepele, tindakan ini telah terbukti ampuh untuk dapat mengatasi berbagai masalah teknis yang ada, termasuk yang berhubungan dengan osu!.
+Apabila kamu menemui suatu masalah, kami menyarankanmu untuk me-*restart* PC milikmu terlebih dahulu. Walaupun terkesan sepele, tindakan ini telah terbukti ampuh untuk dapat mengatasi berbagai masalah teknis yang ada, termasuk yang berhubungan dengan osu!.
 
 Apabila masalahmu masih belum kunjung terselesaikan, pastikan versi "*release stream*" yang kamu gunakan adalah versi `stable`.
 
