@@ -276,7 +276,7 @@ Apabila kamu memainkan suatu beatmap dan ternyata skor yang kamu peroleh tidak t
 
 Cobalah untuk menutup aplikasi-aplikasi yang sekiranya dapat mempengaruhi output audio. Apabila hal ini tidak membantu, cobalah untuk mengatur nilai `Universal Offset` yang kamu gunakan.
 
-Pada umumnya, osu! dapat berjalan tanpa masalah pada nilai `Universal Offset` *default* yang ada. Meskipun demikian, dalam beberapa kasus, terdapat *hardware-hardware* tertentu yang dapat mempengaruhi sinkronisasi antar tampilan visual pada monitor dan suara lagu yang kamu dengar pada piranti audio milikmu.
+Pada umumnya, osu! dapat berjalan tanpa masalah pada nilai `Universal Offset` *default* yang ada. Meskipun demikian, dalam beberapa kasus, *hardware-hardware* tertentu dapat membuat tampilan visual pada monitor dan suara lagu yang kamu dengar pada piranti audio milikmu tidak sinkron.
 
 Untuk dapat mengatur nilai `Universal Offset` yang kamu gunakan, ikuti langkah-langkah berikut:
 
