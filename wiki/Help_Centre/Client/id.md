@@ -402,9 +402,9 @@ Di samping itu, apabila kamu berkehendak, kamu juga dapat menggunakan berbagai p
 
 **Pada umumnya, masalah ini disebabkan oleh terdapatnya komponen pada komputermu yang terlampau panas (*overheating*) - utamanya kartu grafik atau CPU.**
 
-To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Speccy](https://www.ccleaner.com/speccy).
+Untuk dapat mengetahui komponen mana yang bermasalah, kami menyarankanmu untuk menggunakan aplikasi yang dapat memonitor suhu GPU/CPU yang kamu miliki seperti [Speccy](https://www.ccleaner.com/speccy).
 
-If you notice either your GPU or CPU temperature exceeding values of 90°C or 194°F, your computer is running very hot and dangerously close to most automatic shutdown thresholds.
+Apabila ternyata suhu GPU/CPU yang kamu miliki mencapai angka 90°C (194°F) atau lebih tinggi, besar kemungkinan sistem komputermu menjalankan prosedur *shitdown* otomatis akibat terdapatnya komponen yang terlampau panas.
 
 ### My computer isn't overheating, but the game still causes my computer to reboot!
 
