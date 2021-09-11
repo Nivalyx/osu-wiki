@@ -222,25 +222,25 @@ Harap dicatat bahwa apabila karena suatu alasan tayangan ulang milikmu hilang at
 
 ### osu! memberitahu saya bahwa versi osu! yang saya gunakan sudah terlalu lawas (*my game client is too old*)!
 
-**Waktunya untuk memperbaharui versi osu! yang kamu gunakan! Versi-versi osu! lawas pada umumnya tidak lagi dapat digunakan untuk mengirimkan skor, sehingga kamu harus memperbaharui versi osu! milikmu melalui menu `Options` -> `Umum` -> `Jalankan osu! updater` untuk tetap dapat bermain secara *online*.**
+**Waktunya untuk memperbaharui versi osu! yang kamu gunakan! Versi-versi osu! lawas pada umumnya tidak lagi dapat digunakan untuk mengirimkan skor secara *online*, sehingga kamu harus memperbaharui versi osu! milikmu melalui menu `Options` -> `Umum` -> `Jalankan osu! updater` untuk tetap dapat terhubung dengan para pemain lain.**
 
-If this doesn't work, you can close osu! and restart the osu!.exe while holding down the `Shift` key. This will provide you with a few upgrade and repair options, one of which is to update your game to the latest version.
+Kamu juga dapat memperbaharui versi osu! yang kamu gunakan melalui menu `osu! configuration` yang dapat kamu akses dengan cara menahan tombol `Shift` di saat kamu membuka klien osu! (`osu.exe`) milikmu. 
 
-### My scores aren't submitting!
+### Skor-skor yang saya torehkan tidak terkirim/ter-*submit* secara *online*!
 
-Oops! There's a few reasons why this can happen. Let's go through them:
+Ada beberapa hal yang dapat menyebabkan masalah ini sebagai berikut:
 
-#### Were you connected to the Internet while playing?
+#### Apakah kamu sedang terhubung ke internet?
 
-**If you were not able to access the Internet when finishing your score, it may not submit.**
+**Apabila kamu tidak sedang terhubung ke internet ketika kamu menyelesaikan permainanmu, skor yang kamu torehkan tidak akan terkirim masuk ke dalam *server online* kami.**
 
-This can be frustrating if you play on an unstable connection, though the game will try its best to resubmit your score for as long as you leave the client open.
+Apabila koneksimu terputus di tengah permainan, kamu tidak perlu khawatir - osu! akan berusaha untuk mengirim ulang (*resubmit*) skor yang kamu torehkan secara otomatis ketika koneksimu telah pulih.
 
-#### Is osu! allowed in your local firewall or anti-virus suite?
+#### Apakah koneksi dari dan menuju jaringan osu! sedang terhalang oleh aplikasi *firewall* atau *anti-virus* yang kamu gunakan?
 
-**Some firewalls or anti-virus suites can block osu! from accessing the internet, which will prevent it from sending scores.**
+**Aplikasi-aplikasi *firewall* dan *antivirus* tertentu terkadang menghalangi osu! untuk dapat terhubung ke internet.**
 
-Check your software of choice to make sure that `osu!.exe` in the directory you installed the game in is allowed to access the internet.
+Harap periksa pengaturan aplikasi-aplikasi *firewall* dan *antivirus* yang terpasang di komputermu dan pastikan aplikasi-aplikasi ini tidak menghalangi osu! untuk dapat terhubung ke internet.
 
 #### Are you running lots of programs in the background?
 
