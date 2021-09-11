@@ -242,9 +242,9 @@ Apabila koneksimu terputus di tengah permainan, kamu tidak perlu khawatir - osu!
 
 Harap periksa pengaturan aplikasi-aplikasi *firewall* dan *antivirus* yang terpasang di komputermu dan pastikan aplikasi-aplikasi ini tidak menghalangi osu! untuk dapat terhubung ke internet.
 
-#### Are you running lots of programs in the background?
+#### Apakah kamu sedang menjalankan banyak program di waktu yang bersamaan?
 
-**Some can interfere with your ability to submit scores.**
+**Program-program tertentu terkadang juga dapat menghalangi osu! untuk dapat terhubung ke internet.**
 
 Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you are not having issues with connectivity otherwise.
 
