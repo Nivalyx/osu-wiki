@@ -416,7 +416,7 @@ Apabila *driver sound card* milikmu tidak bermasalah, cobalah untuk mencopot pir
 
 ### Saya sudah mencoba semua hal yang disarankan di atas, tapi saya tetap terganggu oleh masalah ini!
 
-If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) with more information on the issue - including your computer's technical specifications, model (where appropriate), and any other information you think may help us discern the cause of your problem.
+Harap jabarkan detail-detail permasalahan yang tengah kamu hadapi (mulai dari gejala-gejala yang kamu alami, spesifikasi komputermu, hingga informasi-informasi lainnya yang sekiranya dapat membantu) kepada tim layanan dukungan kami melalui email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh). 
 
 ### I can't hold more than a few keys at once while playing osu!mania
 
