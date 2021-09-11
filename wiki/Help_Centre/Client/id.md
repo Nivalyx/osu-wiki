@@ -422,7 +422,7 @@ Harap jabarkan detail-detail permasalahan yang tengah kamu hadapi (mulai dari ge
 
 **Hal ini pada umumnya dikenal dengan istilah *ghosting*.**
 
-Ghosting is a somewhat complex topic, but essentially boils down to issues with the way your keyboard is made that prevent it from sending inputs from more than a few keys at once from certain places on the board.
+Agak sulit menjelaskan definisi dari istilah *ghosting*, namun pada intinya apabila *keyboard* kamu memiliki efek *ghosting*, jumlah input yang dapat didaftarkan oleh *keyboard* milikmu dalam satu waktu terbatas.
 
 Pada umumnya, *keyboard-keyboard* yang beredar di pasaran hanya mampu untuk mendaftarkan input dari **6** tombol dalam satu waktu.
 
