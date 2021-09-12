@@ -491,9 +491,9 @@ Satu-satunya solusi pada kasus yang demikian adalah dengan membeli komputer baru
 
 Pastikan kamu senantiasa memperbaharui *driver-driver* yang kamu miliki secara berkala, utamanya *driver* kartu grafik (*graphics card*) dan kartu suara (*sound card*).
 
-#### Apakah kamu sedang menggunakan *USB splitter* untuk menghubungkan berbagai piranti ke komputermu dalam satu waktu?
+#### Apakah kamu sedang menggunakan *USB splitter* untuk menghubungkan berbagai piranti ke komputermu ke dalam satu *port* USB dalam satu waktu?
 
-**Terlalu banyaknya piranti USB yang tertumpuk satu colokan USB (*USB port*) yang sama dapat menyebabkan *input lag* yang signifikan.**
+**Terlalu banyaknya piranti USB yang tertumpuk pada satu *port* USB yang sama dapat menyebabkan *input lag* yang signifikan.**
 
 Cobalah untuk mencopot *USB spliter* yang kamu miliki dan menghubungkan ulang piranti-piranti yang ada pada *port-port* USB lain secara merata setelahnya.
 
