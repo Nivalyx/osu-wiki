@@ -493,11 +493,11 @@ Graphics card drivers are particularly important for osu!, as well as sound card
 
  Pastikan kamu senantiasa memperbaharui *driver-driver* yang kamu miliki secara berkala, utamanya *driver* kartu grafik (*graphics card*) dan kartu suara (*sound card*).
 
-#### Are you using a USB hub to connect lots of USB devices to your computer through one USB cable?
+#### Apakah kamu sedang menggunakan *USB splitter* untuk menghubungkan berbagai piranti ke komputermu dalam satu waktu?
 
-**Connecting too many devices to one port via a splitter can cause input lag which is hard to detect but can seriously throw off your game.**
+**Terlalu banyaknya piranti USB yang tertumpuk satu colokan USB (*USB port*) yang sama dapat menyebabkan *input lag* yang signifikan.**
 
-An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you know why!
+Cobalah untuk mencopot *USB spliter* yang kamu miliki dan menghubungkan ulang piranti-piranti yang kamu miliki pada *port-port* lain secara merata setelahnya.
 
 #### Apakah kamu sedang menjalankan osu! pada mode *windowed* atau *borderless*?
 
