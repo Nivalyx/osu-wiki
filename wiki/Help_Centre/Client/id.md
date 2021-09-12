@@ -424,7 +424,7 @@ Pada umumnya, *keyboard-keyboard* yang beredar di pasaran hanya mampu untuk mend
 
 Kamu dapat mengecek apakah *keyboard* milikmu memiliki efek *ghosting* atau tidak dengan menggunakan [aplikasi penguji Anti-Ghosting buatan drakeirving berikut](https://drakeirving.github.io/MultiKeyDisplay).
 
-Adapun Ranking Criteria untuk mode osu!mania yang kami miliki telah disusun sedemikian rupa agar para *mapper* hanya dapat menaruh 6 not pada waktu yang bersamaan untuk mengantisipasi efek *ghosting* yang mungkin terjadi.
+Adapun Ranking Criteria untuk mode osu!mania yang kami miliki telah disusun sedemikian rupa agar para *mapper* hanya dapat menempatkan 6 not pada waktu yang bersamaan untuk mengantisipasi efek *ghosting* yang mungkin terjadi.
 
 Meskipun demikian, satu-satunya solusi untuk mengatasi masalah ini adalah dengan membeli *keyboard* baru yang dapat mendaftarkan lebih banyak input dalam satu waktu. Tanyakanlah kepada penjual apakah *keyboard* yang hendak kamu beli telah dilengkapi dengan fitur NKRO (*n-key rollover*) yang dapat mencegah *ghosting* atau tidak.
 
