@@ -501,13 +501,13 @@ Cobalah untuk mencopot *USB spliter* yang kamu miliki dan menghubungkan ulang pi
 
 **Menjalankan osu! pada mode *windowed* atau *borderless* dapat menyebabkan *input lag* yang luar biasa besar. Kecuali ada sesuatu hal yang menghalangimu, kami menyarankanmu untuk selalu menjalankan osu! pada mode *fullscreen*.**
 
-#### Apakah *lag* yang kamu alami hanya berlangsung selama beberapa detik?
+#### Apakah *lag* yang kamu alami hanya berlangsung selama beberapa saat?
 
-**Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
+**Terkadang, *lag* yang kamu alami dapat bersumber dari tingkah laku aplikasi lain yang menguras daya/*resource* CPU milikmu secara tiba-tiba.**
 
-This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
+Pada umumnya, biang kerok dari masalah ini adalah aplikasi *torrent* yang mengirimkan banyak data ke jaringan lain dalam satu waktu. Cobalah untuk menutup aplikasi-aplikasi *torrent* yang sedang berjalan pada komputermu.
 
-#### Has the game recently updated?
+#### Apakah kamu baru saja memperbaharui versi osu! yang kamu gunakan?
 
 **Sometimes after a game update, the client may struggle for seemingly no reason.**
 
