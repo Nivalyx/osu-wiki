@@ -295,7 +295,7 @@ Pada umumnya, *screen tearing* ini timbul karena jumlah *frame* yang osu! tampil
 
 Di samping itu, kamu juga dapat menjalankan osu! pada mode `Windowed` atau `Borderless` yang akan secara otomatis mengaktifkan opsi `Vsync` yang ada. Harap dicatat bahwa penggunaan `VSync` dan/atau mode `Windowed` dan `Borderless` di sini dapat menurunkan performa osu! dan menambah *input lag* bagi sebagian pemain. 
 
-Apabila kamu menggunakan kartu grafik NVidia, kamu juga dapat mengatasi masalah ini dengan cara membuka aplikasi NVidia Control Panel dan mengatur nilai `global refresh rate` yang ada ke `Fast`.
+Apabila kamu menggunakan kartu grafik (*graphics card*) NVidia, kamu juga dapat mengatasi masalah ini dengan cara membuka aplikasi NVidia Control Panel dan mengatur nilai `global refresh rate` yang ada ke `Fast`.
 
 ## Fitur-fitur *online*
 
@@ -396,7 +396,7 @@ Di samping itu, apabila kamu berkehendak, kamu juga dapat menggunakan berbagai p
 
 ### PC saya sering me-*reboot* dirinya sendiri di kala osu! saya sedang aktif!
 
-**Pada umumnya, masalah ini disebabkan oleh terdapatnya komponen pada komputermu yang terlampau panas (*overheating*) - utamanya kartu grafik (GPU) atau CPU.**
+**Pada umumnya, masalah ini disebabkan oleh terdapatnya komponen pada komputermu yang terlampau panas (*overheating*) - utamanya GPU atau CPU.**
 
 Untuk dapat mengetahui komponen mana yang bermasalah, kami menyarankanmu untuk menggunakan aplikasi yang dapat memonitor suhu GPU atau CPU yang kamu miliki seperti [Speccy](https://www.ccleaner.com/speccy).
 
@@ -487,9 +487,11 @@ Satu-satunya solusi pada kasus yang demikian adalah dengan membeli komputer baru
 
 #### Apakah *driver-driver* yang kamu gunakan sudah merupakan versi yang terbaru?
 
-**Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
+***Driver-driver* yang sudah terlalu lawas dapat menyebabkan masalah performa yang serius.**
 
 Graphics card drivers are particularly important for osu!, as well as sound card drivers.
+
+ Pastikan kamu senantiasa memperbaharui *driver-driver* yang kamu miliki secara berkala, utamanya *driver* kartu grafik (*graphics card*) dan kartu suara (*sound card*).
 
 #### Are you using a USB hub to connect lots of USB devices to your computer through one USB cable?
 
