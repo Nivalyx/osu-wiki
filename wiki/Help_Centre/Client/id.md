@@ -489,9 +489,7 @@ Satu-satunya solusi pada kasus yang demikian adalah dengan membeli komputer baru
 
 ***Driver-driver* yang sudah terlalu lawas dapat menyebabkan masalah performa yang serius.**
 
-Graphics card drivers are particularly important for osu!, as well as sound card drivers.
-
- Pastikan kamu senantiasa memperbaharui *driver-driver* yang kamu miliki secara berkala, utamanya *driver* kartu grafik (*graphics card*) dan kartu suara (*sound card*).
+Pastikan kamu senantiasa memperbaharui *driver-driver* yang kamu miliki secara berkala, utamanya *driver* kartu grafik (*graphics card*) dan kartu suara (*sound card*).
 
 #### Apakah kamu sedang menggunakan *USB splitter* untuk menghubungkan berbagai piranti ke komputermu dalam satu waktu?
 
