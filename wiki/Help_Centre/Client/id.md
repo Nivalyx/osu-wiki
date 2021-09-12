@@ -499,9 +499,9 @@ Cobalah untuk mencopot *USB spliter* yang kamu miliki dan menghubungkan ulang pi
 
 #### Apakah kamu sedang menjalankan osu! pada mode *windowed* atau *borderless*?
 
-**Both windowed and borderless mode introduce a *considerable* amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
+**Menjalankan osu! pada mode *windowed* atau *borderless* dapat menyebabkan *input lag* yang luar biasa besar. Kecuali ada sesuatu hal yang menghalangimu, kami menyarankanmu untuk selalu menjalankan osu! pada mode *fullscreen*.**
 
-#### Does your game freeze up for only a moment or so?
+#### Apakah *lag* yang kamu alami hanya berlangsung selama beberapa detik?
 
 **Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
 
