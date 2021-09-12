@@ -107,7 +107,7 @@ Kamu juga dapat memaksa osu! untuk mengunduh versi osu! yang terbaru dengan memb
 
 **Pada umumnya, hal ini disebabkan oleh hilangnya atau belum terpasangnya jenis-jenis tulisan (*font*) tertentu pada sistem Windows yang kamu gunakan.**
 
-Apabila kamu menemui pesan *error* ini di kala kamu hendak menjalankan osu! atau aplikasi *updater* milik osu!, besar kemungkinan kamu telah secara tidak sengaja menghapus (atau belum memasang) jenis-jenis tulisan tertentu yang umum digunakan oleh Windows pada PC milikmu. Ketidaktersediaan jenis-jenis tulisan ini diketahui dapat merusak osu! dan berbagai program lainnya.
+Apabila kamu menemui pesan *error* ini di kala kamu hendak menjalankan osu! atau aplikasi *updater* milik osu!, besar kemungkinan kamu telah secara tidak sengaja menghapus (atau belum memasang) jenis-jenis tulisan tertentu yang umum digunakan oleh Windows pada PC milikmu. Ketidaktersediaan jenis-jenis tulisan ini diketahui dapat merusak osu! dan berbagai aplikasi lainnya.
 
 Berikut merupakan daftar jenis-jenis tulisan yang umum digunakan oleh Windows:
 
@@ -242,11 +242,11 @@ Apabila koneksimu terputus di tengah permainan, kamu tidak perlu khawatir - osu!
 
 Harap periksa pengaturan aplikasi-aplikasi *firewall* dan *antivirus* yang terpasang di komputermu dan pastikan aplikasi-aplikasi ini tidak menghalangi osu! untuk dapat terhubung ke internet.
 
-#### Apakah kamu sedang menjalankan banyak program di waktu yang bersamaan?
+#### Apakah kamu sedang menjalankan banyak aplikasi lain di waktu yang bersamaan?
 
-**Program-program tertentu terkadang juga dapat menghalangi osu! untuk dapat terhubung ke internet.**
+**Aplikasi-aplikasi tertentu terkadang juga dapat menghalangi osu! untuk dapat terhubung ke internet.**
 
-Harap tutup program-program yang sekiranya tidak sedang kamu gunakan apabila kamu merasa internetmu tidak bermasalah.
+Harap tutup aplikasi-aplikasi yang sekiranya tidak sedang kamu gunakan apabila kamu merasa internetmu tidak bermasalah.
 
 #### Apakah kamu memainkan versi beatmap yang tepat?
 
@@ -463,15 +463,15 @@ Apabila kamu menggunakan tablet merk lain, harap baca manual yang disediakan ole
 
 Apabila tablet yang kamu gunakan memiliki fitur *raw input* yang terpasang secara *default*, kamu juga dapat membuat kursormu menjadi lebih ringan melalui opsi pengaturan sensitivitas yang ada di dalam osu!.
 
-### I'm experiencing lag spikes or stuttering during play!
+### Saya berkali-kali mengalami *lag* dan/atau *stutter* ketika saya bermain!
 
-**There are many reasons why the game may perform inconsistently, from programs on your computer, to out-of-date drivers, or simply having some settings too high.**
+***Lag* dan/atau *stutter* yang ada dapat disebabkan oleh banyak hal - mulai dari keterdapatan aplikasi lain yang mengganggu performa, penggunaan *driver* yang sudah terlalu lawas, hingga pengaturan osu! yang terlalu ekstrim.**
 
-#### Do you have lots of programs open at the same time while playing osu!?
+#### Selain osu!, apakah kamu tengah membuka aplikasi-aplikasi lain yang juga menguras daya/*resource* CPU milikmu?
 
-**Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
+**Aplikasi-aplikasi yang demikian dapat menurunkan performa osu! secara signifikan.**
 
-Try closing some programs that you do not need open while playing the game and/or all of them.
+Cobalah untuk menutup aplikasi-aplikasi yang sekiranya tidak kamu gunakan di kala kamu bermain osu!.
 
 #### Is your computer secure?
 
