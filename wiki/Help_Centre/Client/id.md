@@ -495,7 +495,7 @@ Pastikan kamu senantiasa memperbaharui *driver-driver* yang kamu miliki secara b
 
 **Terlalu banyaknya piranti USB yang tertumpuk satu colokan USB (*USB port*) yang sama dapat menyebabkan *input lag* yang signifikan.**
 
-Cobalah untuk mencopot *USB spliter* yang kamu miliki dan menghubungkan ulang piranti-piranti yang kamu miliki pada *port-port* lain secara merata setelahnya.
+Cobalah untuk mencopot *USB spliter* yang kamu miliki dan menghubungkan ulang piranti-piranti yang ada pada *port-port* USB lain secara merata setelahnya.
 
 #### Apakah kamu sedang menjalankan osu! pada mode *windowed* atau *borderless*?
 
