@@ -505,14 +505,14 @@ Cobalah untuk mencopot *USB spliter* yang kamu miliki dan menghubungkan ulang pi
 
 **Terkadang, *lag* yang kamu alami dapat bersumber dari tingkah laku aplikasi lain yang menguras daya/*resource* CPU milikmu secara tiba-tiba.**
 
-Pada umumnya, biang kerok dari masalah ini adalah aplikasi *torrent* yang mengirimkan banyak data ke jaringan lain dalam satu waktu. Cobalah untuk menutup aplikasi-aplikasi *torrent* yang sedang berjalan pada komputermu.
+Pada umumnya, biang kerok dari masalah ini adalah aplikasi *torrent* yang mengirimkan banyak data ke jaringan lain dalam satu waktu. Cobalah untuk menutup aplikasi *torrent* yang sedang berjalan pada komputermu.
 
 #### Apakah kamu baru saja memperbaharui versi osu! yang kamu gunakan?
 
-**Sometimes after a game update, the client may struggle for seemingly no reason.**
+**Dalam kasus-kasus tertentu, osu! membutuhkan waktu untuk dapat memproses segala sesuatunya dari awal.**
 
-If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
+Apabila kamu memiliki koleksi beatmap dalam jumlah yang sangat banyak, harap berikan osu! waktu 10-15 menit untuk dapat mereka ulang *database* beatmap yang ada. 
 
 Apabila masalahmu masih belum kunjung terselesaikan, cobalah untuk me-*restart* PC milikmu.
 
-**If you are still having lag spikes or stuttering during gameplay, have a look through the [performance troubleshooting guide](/wiki/Performance_Troubleshooting) for more related problems and their solutions.**
+**Apabila kamu sudah mencoba semua hal di atas namun kamu tetap menjumpai *lag* dan/atau *stutter* ketika kamu bermain, harap periksa [panduan berikut](/wiki/Performance_Troubleshooting) untuk mendapatkan arahan lebih lanjut seputar masalah yang kamu hadapi.**
