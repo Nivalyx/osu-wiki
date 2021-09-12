@@ -451,17 +451,17 @@ Untuk dapat mengaktifkan *raw input*, ikuti langkah-langkah berikut:
 3. Ketik `raw` pada kolom pencarian (*quick-search bar*) yang muncul.
 4. Aktifkan opsi `Raw input`.
 
-### I'm playing from a tablet and my cursor feels too slow!
+### Kursor saya terasa berat ketika saya bermain dengan menggunakan tablet!
 
-**You can solve this problem by defining a smaller tablet area for your device.**
+**Masalah ini dapat teratasi dengan mengecilkan area tablet aktif yang kamu gunakan.**
 
-On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application.
+Apabila kamu menggunakan tablet Wacom, kamu dapat mengatur area tablet aktif yang kamu gunakan pada *tab* `Mapping` yang terdapat pada aplikasi `Wacom Tablet Properties`.
 
-![Wacom Tablet Properties screen showing Mapping options](img/tablet-area.png "Interface for changing tablet area on Wacom devices")
+![Opsi untuk mengatur area tablet aktif pada Wacom Tablet Properties](img/tablet-area.png "Opsi untuk mengatur area tablet aktif pada Wacom Tablet Properties")
 
-You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
+Apabila kamu menggunakan tablet merk lain, harap baca manual yang disediakan oleh masing-masing merk untuk dapat mengetahui cara mengatur area tablet aktif yang kamu gunakan.
 
-All osu! branded tablets support raw input by default, and may have their sensitivity easily adjusted on the fly by using the raw input option in-game and using the mouse sensitivity slider.
+Apabila tablet yang kamu gunakan memiliki fitur *raw input* yang terpasang secara *default*, kamu juga dapat membuat kursormu menjadi lebih ringan melalui opsi pengaturan sensitivitas yang ada di dalam osu!.
 
 ### I'm experiencing lag spikes or stuttering during play!
 
