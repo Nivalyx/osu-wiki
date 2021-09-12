@@ -473,17 +473,17 @@ Apabila tablet yang kamu gunakan memiliki fitur *raw input* yang terpasang secar
 
 Cobalah untuk menutup aplikasi-aplikasi yang sekiranya tidak kamu gunakan di kala kamu bermain osu!.
 
-#### Is your computer secure?
+#### Apakah komputermu aman dari aplikasi-aplikasi berbahaya?
 
-**Viruses, spyware, malware, or other unwanted software can cause serious performance problems for even high-end computers.**
+**Periksalah apakah komputer milikmu aman dari ancaman virus, *spyware*, *malware*, dan lain sebagainya.**
 
-Keep your computer clean and safe and you might notice an improvement. Try running a virus scan on your computer to find and eliminate such issues.
+Terkadang, aplikasi-aplikasi yang demikian dapat menguras sumber daya CPU milikmu tanpa kamu ketahui. Cobalah untuk memindai komputermu dengan aplikasi *antivirus* untuk menghilangkan aplikasi-aplikasi berbahaya tersebut.
 
-#### How old is your computer?
+#### Apakah komputermu sudah berusia belasan atau puluhan tahun?
 
-**Very old computers that use even older Intel Integrated graphics chipsets may not be powerful to handle osu! at all, even on the lowest settings.**
+**Komputer-komputer yang sudah sangat lawas pada umumnya masih menggunakan *chipset* Intel Integrated Graphics yang sudah tidak lagi kompatibel dengan versi osu! modern.**
 
-The only way to deal with this one is to upgrade your computer!
+Satu-satunya solusi pada kasus yang demikian adalah dengan membeli komputer baru atau meng-*upgrade* komputermu!
 
 #### Are your drivers up to date?
 
