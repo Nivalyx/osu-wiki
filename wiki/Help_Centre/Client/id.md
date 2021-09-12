@@ -483,9 +483,9 @@ Terkadang, aplikasi-aplikasi yang demikian dapat menguras sumber daya CPU milikm
 
 **Komputer-komputer yang sudah sangat lawas pada umumnya masih menggunakan *chipset* Intel Integrated Graphics yang sudah tidak lagi kompatibel dengan versi osu! modern.**
 
-Satu-satunya solusi pada kasus yang demikian adalah dengan membeli komputer baru atau meng-*upgrade* komputermu!
+Satu-satunya solusi pada kasus yang demikian adalah dengan membeli komputer baru!
 
-#### Are your drivers up to date?
+#### Apakah *driver-driver* yang kamu gunakan sudah merupakan versi yang terbaru?
 
 **Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
 
