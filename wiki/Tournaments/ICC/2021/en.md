@@ -8,7 +8,7 @@ tags:
 
 ![CIC 2019 banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup 2019** (***CIC 2019***) was a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Chiya--](https://osu.ppy.sh/users/7934854), ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), and ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613). The tournament was open to all players from Indonesia with a playcount of 1,500 or above in osu!catch regardless of rank. It was the seventh iteration of the Catch the Beat Indonesia Cup.
+The **Indonesia Convert Cup 2021** (***ICC 2021***) is a double-elimination 1v1 osu!catch tournament hosted by ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877) and  ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422) in where all the mappools are exclusively made of converted osu! beatmaps. The tournament is open to all players from Indonesia with a playcount of 3,000 or above in osu!catch regardless of rank. It is the second iteration of the Indonesia Convert Cup.
 
 ## Tournament schedule
 
