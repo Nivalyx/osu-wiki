@@ -28,7 +28,7 @@ The **Indonesia Convert Cup 2021** (***ICC 2021***) is a double-elimination 1v1 
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, 1 year of Discord Nitro subscription, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool |
 
@@ -36,15 +36,17 @@ The **Indonesia Convert Cup 2021** (***ICC 2021***) is a double-elimination 1v1 
 
 ## Organisation
 
-CIC 2019 was run by various Indonesian osu! community members.
+CIC 2019 was run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_ID] [Chiya--](https://osu.ppy.sh/users/7934854), ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) |
-| Mappool selector | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Funtastic](https://osu.ppy.sh/users/3555626) |
-| Streamer | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
-| Commentator | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) |
-| Referee | ![][flag_ID] [Execration-](https://osu.ppy.sh/users/9260926), ![][flag_ID] [\_Mira](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) |
+| Host | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
+| Co-host | ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751) |
+| Mappool selector | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) |
+| Streamer | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336), ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180)  |
+| Commentator | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ![][flag_ID] [Eum](https://osu.ppy.sh/users/16552751), ![][flag_ID] [Constantine](https://osu.ppy.sh/users/3221898), ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [- Ruu -](https://osu.ppy.sh/users/3811821), ![][flag_ID] [Neptunia-chan](https://osu.ppy.sh/users/11608122) |
+| Referee | ![][flag_ID] [Chroneko](https://osu.ppy.sh/users/5472877), ![][flag_ID] [-Hex-](https://osu.ppy.sh/users/8630988), ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944), ![][flag_ID] [Koimeji](https://osu.ppy.sh/users/4137039),  ![][flag_ID] [liykun](https://osu.ppy.sh/users/9500057), ![][flag_TH] [Azuria](https://osu.ppy.sh/users/16102533) |
+| Graphic designer | ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
@@ -439,4 +441,5 @@ Monday, 16 September 2019:
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
