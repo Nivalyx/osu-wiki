@@ -109,26 +109,24 @@ Listed below are the players who were admitted into the Group stage along with t
 **[Download the mappack here! (94 MB)](https://drive.google.com/u/0/uc?id=1n6zq2kuoN79QqndoptT5g1OBSFhLF4Hc&export=download "Google Drive")**
 
 - NoMod
-  - [ChouCho - Yasashisa no Riyuu (Ascendance) \[Ascendance & Spec's Duality\]](https://osu.ppy.sh/beatmapsets/689356#fruits/1459569)
-  - [Shimotsuki Haruka - FLOWERS (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1013070#fruits/2120514)
-  - [Nekomata Gekidan - AsiaN distractive (Spectator) \[Nelly's Overdose\]](https://osu.ppy.sh/beatmapsets/765322#fruits/1611278)
-  - [ARM - Streak (JBHyperion) \[Sinnoh's Overdose\]](https://osu.ppy.sh/beatmapsets/865565#fruits/1847248)
-  - [Jun Maeda x yanaginagi -  Killer Song (Yohanes) \[Edge\]](https://osu.ppy.sh/beatmapsets/454725#fruits/974854) 
-  - [wa. - Black Lotus (Realazy) \[fanzhen's Insane\]](https://osu.ppy.sh/beatmapsets/679918#fruits/1440976) 
+  - [gi(a)rlish number - Bloom (Azunyan-) \[My Voice\]](https://osu.ppy.sh/beatmapsets/1373933#fruits/2840314)
+  - [Chroma - I (Kawashiro) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/880256#fruits/1877959)
+  - [Sota Fujimori - ACCELERATE (Chaoslitz) \[Ametrin's Extra (\#9)\]](https://osu.ppy.sh/beatmapsets/852406#fruits/1782387)
+  - [FELT - a wonderful moon (Naitoshi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/190847#fruits/454385)
 - Hidden
-  - [fhana - Genzaichi (Benita) \[Rain\]](https://osu.ppy.sh/beatmapsets/825376#fruits/1729487)
-  - [yanaginagi - Hoshiboshi no Wataridori (-Hex-) \[Lost Memories\]](https://osu.ppy.sh/beatmapsets/924320#fruits/1930633)
-  - [Gekidan Record feat. Nekomata Master - Houkou Orpheus (celerih) \[felys' White Hard\]](https://osu.ppy.sh/beatmapsets/879051#fruits/1855074)
+  - [zts - lastendconductor (Yohanes) \[Intricate\]](https://osu.ppy.sh/beatmapsets/685558#fruits/1451093)
+  - [Parov Stelar - Catgroove (Blue Dragon) \[Insane\]](https://osu.ppy.sh/beatmapsets/144955#fruits/359780)
+  - [KOTOKO - Unite + reactioN (-Gamu-) \[D.N.Angel\]](https://osu.ppy.sh/beatmapsets/49406#fruits/153451)
 - HardRock
-  - [EARPHONES - Arakajime Ushinawareta Bokura no Ballad (Game Ver.) (Sanyi) \[Rain\]](https://osu.ppy.sh/beatmapsets/843086#fruits/1766154)
-  - [Hatsuki Yura - Yuki no Hana (Ascendance) \[Ascendance & Piku's Snowfall\]](https://osu.ppy.sh/beatmapsets/699320#fruits/1480957)
-  - [ONE OK ROCK - Mikansei Koukyoukyoku (Saut) \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/348604#fruits/792948)
+  - [Hoshimachi Suisei & Amane Kanata - Tsukiakari (KotarOwU) \[Insane\]](https://osu.ppy.sh/beatmapsets/1293878#fruits/2727727)
+  - [Zekk - Duplication (Elayue) \[Insane\]](https://osu.ppy.sh/beatmapsets/1484383#fruits/3044231)
+  - [Falcom Sound Team jdk - Over Drive (Kite) \[Origin\]](https://osu.ppy.sh/beatmapsets/40233#fruits/127846)
 - DoubleTime
-  - [senya - Zetsubou no Fuchi (Ascendance) \[IDu5t's Platter\]](https://osu.ppy.sh/beatmapsets/762829#fruits/1871747)
-  - [NICODE & M2U - Predawn (Sulfur) \[Jeir's Platter\]](https://osu.ppy.sh/beatmapsets/748803#fruits/1610570)
-  - [smileY inc. - Hanayuki (CelsiusLK) \[-Hakurei-'s Insane\]](https://osu.ppy.sh/beatmapsets/400239#fruits/870925)
+  - [556t - Kyuuen no Hana (Kyubey) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#fruits/1033514)
+  - [Kanzaki Elza starring ReoNa - step, step (Stratos) \[Kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1337889#fruits/2771476)
+  - [Shikata Akiko - Haizora no Shizuku (ScubDomino) \[Reiji x Shurelia's Insane\]](https://osu.ppy.sh/beatmapsets/1438186#fruits/3139332)
 - Tiebreaker
-  - **[Tenacious D - BEELZEBOSS (THE FINAL SHOWDOWN) (JierYagtama) \[IT'S SHOWTIME BABY\]](https://osu.ppy.sh/beatmapsets/735342#fruits/1552328)**
+  - **[Camellia - PLANET//SHAPER (Leader) \[Collab\]](https://osu.ppy.sh/beatmapsets/346853#fruits/765525)**
 
 ### Group stage
 
