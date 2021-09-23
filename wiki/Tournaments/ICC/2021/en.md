@@ -62,7 +62,7 @@ ICC 2021 is run by various osu! community members predominantly hailing from Ind
 Listed below are the players who were admitted into the Group stage along with their respective seeding and group placements.
 
 | Group | High Seed | Mid Seed | Low Seed A | Low Seed B |
-| :-- | :-- | :-- | :-- |
+| :-- | :-- | :-- | :-- | :-- |
 | A | ![][flag_ID] [Nekuro](https://osu.ppy.sh/users/3222638) | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) | *N/A* |
 | B | ![][flag_ID] [Netamaru](https://osu.ppy.sh/users/1830361) | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) | ![][flag_ID] [Mixuri](https://osu.ppy.sh/users/9153772) | *N/A* |
 | C | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | ![][flag_ID] [Keisuu](https://osu.ppy.sh/users/3856673) | ![][flag_ID] [\[-BlackShadow-\]](https://osu.ppy.sh/users/18156034) | *N/A* |
@@ -270,33 +270,28 @@ Sunday, 22 September 2019:
 
 ### Group stage
 
-Thursday, 12 September 2019:
-
-| Group |  |  | Match link |
-| :-: | :-: | :-: | :-- |
-| **H** | ![][flag_ID] **[Minalinsky-](https://osu.ppy.sh/users/2823883) (8 pts)** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (10 pts)** | [#1](https://osu.ppy.sh/community/matches/54786961) |
-
-Saturday, 14 September 2019:
+Friday, 10 September 2021:
 
 | Group |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-- |
-| **A** | ![][flag_ID] **[ExRei](https://osu.ppy.sh/users/1929336) (12 pts)** | ![][flag_ID] **[Professor Gila](https://osu.ppy.sh/users/5447727) (4 pts)** | ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) (-2 pts) | [#1](https://osu.ppy.sh/community/matches/54838860) |
-| **C** | ![][flag_ID] **[Cera-](https://osu.ppy.sh/users/1974131) (14 pts)** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580) (3 pts)** | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) (1 pt) | [#1](https://osu.ppy.sh/community/matches/54833749) |
-| **D** | ![][flag_ID] **[dedotikea](https://osu.ppy.sh/users/8805157) (7 pts)** | ![][flag_ID] **[Honkenway](https://osu.ppy.sh/users/11582543) (14 pts)** | ![][flag_ID] [Mikurio](https://osu.ppy.sh/users/10734140) (-5 pts) | [#1](https://osu.ppy.sh/community/matches/54835287) |
+| **A** | ![][flag_ID] **[Nekuro](https://osu.ppy.sh/users/3222638) (11 pts)** | ![][flag_ID] **[dedotikea](https://osu.ppy.sh/users/8805157) (10 pts)** | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) (6 pts) | [#1](https://osu.ppy.sh/community/matches/90669261) |
+| **B** | ![][flag_ID] **[Netamaru](https://osu.ppy.sh/users/1830361) (12 pts)** | ![][flag_ID] [Zvenx](https://osu.ppy.sh/users/14613788) (7 pts) | ![][flag_ID] **[Mixuri](https://osu.ppy.sh/users/9153772) (8 pts)** | [#1](https://osu.ppy.sh/community/matches/90671758) |
 
-Sunday, 15 September 2019:
+Saturday, 11 September 2021:
 
 | Group |  |  |  | Match link |
 | :-: | :-: | :-: | :-: | :-- |
-| **B** | ![][flag_ID] **[Galaxi](https://osu.ppy.sh/users/2552435) (14 pts)** | ![][flag_ID] [Emily Yukari](https://osu.ppy.sh/users/7053866) (-4 pts) | ![][flag_SG] **[Nana Hiragi](https://osu.ppy.sh/users/13377985) (8 pts)** | [#1](https://osu.ppy.sh/community/matches/54836446) |
-| **E** | ![][flag_ID] **[DennySega24](https://osu.ppy.sh/users/5416487) (12 pts)** | ![][flag_ID] [Ilhamuharam](https://osu.ppy.sh/users/7657968) (-2 pts) | ![][flag_ID] **[Sololiquy](https://osu.ppy.sh/users/4350087) (8 pts)** | [#1](https://osu.ppy.sh/community/matches/54869764) |
-| **F** | ![][flag_ID] **[Deceitful](https://osu.ppy.sh/users/1396447) (18 pts)** | ![][flag_ID] **[-Izayoi](https://osu.ppy.sh/users/5710721) (5 pts)** | ![][flag_ID] [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (-5 pts) | [#1](https://osu.ppy.sh/community/matches/54867684) |
+| **C** | ![][flag_ID] **[XxepandevanxX](https://osu.ppy.sh/users/13194580) (8 pts)** | ![][flag_ID] **[Keisuu](https://osu.ppy.sh/users/3856673) (10 pts)** | ![][flag_ID] [\[-BlackShadow-\]](https://osu.ppy.sh/users/18156034) (6 pts) | [#1](https://osu.ppy.sh/community/matches/90788088) |
+| **D** | ![][flag_ID] **[Madoka Ayukawa](https://osu.ppy.sh/users/1595221) (12 pts)** | ![][flag_ID] **[Ilhamuharam](https://osu.ppy.sh/users/7657968) (8 pts)** | ![][flag_ID] [Kenneth Alfredo](https://osu.ppy.sh/users/829469) (7 pts) | [#1](https://osu.ppy.sh/community/matches/90733194) |
+| **E** | ![][flag_ID] **[CamXDanna](https://osu.ppy.sh/users/3243148) (11 pts)** | ![][flag_ID] [Konami-kun](https://osu.ppy.sh/users/15931741) (6 pts) | ![][flag_ID] **[Latina-](https://osu.ppy.sh/users/15015592) (7 pts)** | [#1](https://osu.ppy.sh/community/matches/90736348) |
 
-Monday, 16 September 2019:
+Sunday, 12 September 2021:
 
-| Group |  |  | Match link |
-| :-: | :-: | :-: | :-- |
-| **G** | ![][flag_ID] **[Raediaufar](https://osu.ppy.sh/users/5156086) (11 pts)** | ![][flag_ID] **[fikricm](https://osu.ppy.sh/users/4072503) (7 pts)** | [#1](https://osu.ppy.sh/community/matches/54866381) |
+| Group |  |  |  |  | Match link |
+| :-: | :-: | :-: | :-: | :-: | :-- |
+| **F** | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613) (15 pts)** | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) (8 pts) | ![][flag_ID] **[athayaa](https://osu.ppy.sh/users/11477302) (9 pts)** | ![][flag_ID] [moncar321](https://osu.ppy.sh/users/1400073) (1 pt) | [#1](https://osu.ppy.sh/community/matches/90794859) |
+| **G** | ![][flag_ID] **[Sololiquy](https://osu.ppy.sh/users/4350087) (13 pts)** | ![][flag_ID] **[BitDust](https://osu.ppy.sh/users/9573836) (11 pts)** | ![][flag_ID] [troke](https://osu.ppy.sh/users/3133671) (0 pts) | ![][flag_ID] [Kinora](https://osu.ppy.sh/users/20571283) (8 pts) | [#1](https://osu.ppy.sh/community/matches/90797826) |
+| **H** | ![][flag_ID] **[LeWind](https://osu.ppy.sh/users/9718235) (7 pts)** | ![][flag_ID] **[Ruu](https://osu.ppy.sh/users/3212755) (11 pts)** | ![][flag_ID] [Francesca](https://osu.ppy.sh/users/8995235) (0 pts) | ![][flag_ID] [OrdinaryDaffa](https://osu.ppy.sh/users/8404301) (6 pts) | [#1](https://osu.ppy.sh/community/matches/90799873) |
 
 ## Ruleset
 
