@@ -32,11 +32,11 @@ The **Indonesia Convert Cup 2021** (***ICC 2021***) is a double-elimination 1v1 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool |
 
-![](img/badge.jpg "CIC 2019 winner badge")
+![](img/badge.jpg "ICC 2021 winner badge")
 
 ## Organisation
 
-CIC 2019 was run by various osu! community members predominantly hailing from Indonesia.
+ICC 2021 is run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -61,9 +61,9 @@ CIC 2019 was run by various osu! community members predominantly hailing from In
 
 Listed below are the players who were admitted into the Group stage along with their respective seeding and group placements.
 
-| Group | Seed A | Seed B | Seed C |
+| Group | High Seed | Mid Seed | Low Seed A | Low Seed B |
 | :-- | :-- | :-- | :-- |
-| A | ![][flag_ID] [ExRei](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [Professor Gila](https://osu.ppy.sh/users/5447727) | ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) |
+| A | ![][flag_ID] [ExRei](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [Professor Gila](https://osu.ppy.sh/users/5447727) | ![][flag_ID] [Avoya](https://osu.ppy.sh/users/3136817) | *N/A* |
 | B | ![][flag_ID] [Galaxi](https://osu.ppy.sh/users/2552435) | ![][flag_ID] [Emily Yukari](https://osu.ppy.sh/users/7053866) | ![][flag_SG] [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
 | C | ![][flag_ID] [Cera-](https://osu.ppy.sh/users/1974131) | ![][flag_ID] [XxepandevanxX](https://osu.ppy.sh/users/13194580) | ![][flag_ID] [BitDust](https://osu.ppy.sh/users/9573836) |
 | D | ![][flag_ID] [dedotikea](https://osu.ppy.sh/users/8805157) | ![][flag_ID] [Honkenway](https://osu.ppy.sh/users/11582543) | ![][flag_ID] [Mikurio](https://osu.ppy.sh/users/10734140) |
@@ -72,37 +72,31 @@ Listed below are the players who were admitted into the Group stage along with t
 | G | ![][flag_ID] [Raediaufar](https://osu.ppy.sh/users/5156086) | ![][flag_ID] [fikricm](https://osu.ppy.sh/users/4072503) | *N/A* |
 | H | ![][flag_ID] [Minalinsky-](https://osu.ppy.sh/users/2823883) | ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235) | *N/A* |
 
-## Podium
-
-![](img/podium.jpg "CIC 2019 podium")
-
 ## Mappools
 
 ### Quarterfinals
 
-*(mappack not available)*
+**[Download the mappack here! (105 MB)](https://drive.google.com/u/0/uc?id=1rdBRZtIkpWYC7rKyRsEnChvf_PPWeu1n&export=download "Google Drive")**
 
 - NoMod
-  - [Kano - Stella-rium (-Izayoi) \[NyxthIza's Orion\]](https://osu.ppy.sh/beatmapsets/1001529#fruits/2096572)
-  - [Superman Is Dead - Kuat Kita Bersinar (Funtastic) \[Bhinneka Tunggal Ika\]](https://osu.ppy.sh/beatmapsets/989452#fruits/2069807)
-  - [M2U & Nicode - Lune (-Luminate) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/885028#fruits/1849832)
-  - [DM Ashura vs. Inspector K - Disconnected HaZaRD (Professor Gila) \[Disconnected OvErDoZE\]](https://osu.ppy.sh/beatmapsets/308254#fruits/689459)
-  - [-45 - dogura \* magura (AngelHoney) \[AKUMA\]](https://osu.ppy.sh/beatmapsets/43856#fruits/137572) 
-  - [USAO - ZED (deetz) \[YES\]](https://osu.ppy.sh/beatmapsets/483387#fruits/1031365) 
+  - [Yorushika - Itte. (AIR) \[Hard\]](https://osu.ppy.sh/beatmapsets/1190533#fruits/2480520)
+  - [Mitsuyoshi Takenobu no Ani - Amphisbaena (toybot) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/576022#fruits/1219592)
+  - [Elements Garden - Mugen Kidou (Nathan) \[AR9.2\]](https://osu.ppy.sh/beatmapsets/1312130#fruits/2719438)
+  - [Silentroom - Nhelv (Nyxa) \[Shiirn's inferiorem\]](https://osu.ppy.sh/beatmapsets/917915#fruits/2011189)
 - Hidden
-  - [Chitose Sara - Merry Merry Go Round (SHOT MUSIC Asterisk Remix) (-Izayoi) \[Carousel\]](https://osu.ppy.sh/beatmapsets/975120#fruits/2041038)
-  - [Hanatan - Jishou Mushoku (chickenbible) \[Smile\]](https://osu.ppy.sh/beatmapsets/873024#fruits/1824907)
-  - [solfa feat. Shimotsuki Haruka - leap in your mind (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/818672#fruits/1718542)
+  - [Izumi Akazawa (CV. Madoka Yonezawa) - Responsibility Response (Natsu) \[Salsa\]](https://osu.ppy.sh/beatmapsets/420677#fruits/909990)
+  - [tarolabo - Zeitmesser (Charles445) \[Expert\]](https://osu.ppy.sh/beatmapsets/310339#fruits/693542)
+  - [ZUN - Heian Alien (Halfslashed) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1301413#fruits/2699287)
 - HardRock
-  - [MY FIRST STORY - START OVER (\[ Saturn \]) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/928408#fruits/1939205)
-  - [Ling Yuan yousa - Hoshi to Kimi ga Kieta Hi (Dapuluous) \[Memories\]](https://osu.ppy.sh/beatmapsets/752110#fruits/1597213)
-  - [MuryokuP - Aspirin (Irie Miyuki) \[Insane\]](https://osu.ppy.sh/beatmapsets/132398#fruits/332985)
+  - [Rigel Theatre - Rinn Ding Dong (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/804648#fruits/1689162)
+  - [yumemidoll - Lyrith -Meikyuu Lyrith- (eiri-) \[Alheak's Extra\]](https://osu.ppy.sh/beatmapsets/757681#fruits/1593926)
+  - [Fujiwara Marina - Zettai\*Daisuki (Natteke desu) \[Diffname was redacted by corsace staff and i can't blame them\]](https://osu.ppy.sh/beatmapsets/1544407#fruits/3156684)
 - DoubleTime
-  - [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Platter\]](https://osu.ppy.sh/beatmapsets/197689#fruits/485404)
-  - [NEGOTO - Synchromanica (Sinnoh) \[Rain\]](https://osu.ppy.sh/beatmapsets/673290#fruits/1517953)
-  - [Zeng Zhihao - Fu Yun Ben Lang (jonathanlfj) \[Insane\]](https://osu.ppy.sh/beatmapsets/89673#fruits/243644)
+  - [Suzuyu - Mezameta Asa ni wa Kimi ga Tonari ni (Riana) \[Insane\]](https://osu.ppy.sh/beatmapsets/1293806#fruits/2684841)
+  - [-45 - Midorigo Queen Bee (Luscent) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1055780#fruits/2206544)
+  - [Hana - Kuukirikigaku Shoujo to Shounen no Uta (Bellicose) \[Gust's Another\]](https://osu.ppy.sh/beatmapsets/1055510#fruits/2262846)
 - Tiebreaker
-  - **[Shimotsuki Haruka - Star map (Soleily Remix) (Fauzan 2000) \[Infinity\]](https://osu.ppy.sh/beatmapsets/727767#fruits/2141324)**
+  - **[TRUE - Hiryuu no Kishi (Atalanta) \[Beyond the Sky\]](https://osu.ppy.sh/beatmapsets/734191#fruits/1549194)**
 
 ### Round of 16
 
