@@ -14,15 +14,13 @@ The **Indonesia Convert Cup 2021** (***ICC 2021***) is a double-elimination 1v1 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2019-08-18/2019-09-01 |
-| Screening phase | 2019-09-02/2019-09-08 |
-| Group stage | 2019-09-09/2019-09-15 |
-| Round of 16 | 2019-09-16/2019-09-22 |
-| Quarterfinals | 2019-09-23/2019-09-29 |
-| Semifinals | 2019-09-30/2019-10-06 |
-| *Technical break* | 2019-10-07/2019-10-13 |
-| Finals (week 1) | 2019-10-14/2019-10-20 |
-| Finals (week 2) | 2019-10-21/2019-10-27 |
+| Registration phase | 2021-08-16/2021-08-23 |
+| Screening phase | 2021-08-24/2021-09-05 |
+| Group stage | 2021-09-06/2021-09-12 |
+| Round of 16 | 2021-09-13/2021-09-19 |
+| Quarterfinals | 2021-09-20/2021-09-26 |
+| Semifinals | 2021-09-27/2021-10-03 |
+| Finals | 2021-10-04/2021-10-11 |
 
 ## Prizes
 
@@ -31,8 +29,6 @@ The **Indonesia Convert Cup 2021** (***ICC 2021***) is a double-elimination 1v1 
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool |
-
-![](img/badge.jpg "ICC 2021 winner badge")
 
 ## Organisation
 
@@ -225,7 +221,7 @@ Sunday, 12 September 2021:
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, each player is required to have either the Indonesian flag displayed on their profile, or an adequate proof of Indonesian citizenship (to be shown to the Tournament Management), and a playcount of 1,500 or more in osu!catch.
+   - In order to be eligible to play in the tournament, each player is required to have either the Indonesian flag displayed on their profile and a playcount of 3,000 or more in osu!catch.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. The Tournament Management will only account for a maximum of 32 players to take part in the tournament.
@@ -234,12 +230,13 @@ Sunday, 12 September 2021:
 
 ### Group stage rules
 
-1. In the Group stage, all qualified players will be situated into different seeds based on their osu!catch pp. The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
+1. In the Group stage, all qualified players will be situated into different seeds based on considerations listed on [this table](https://cdn.discordapp.com/attachments/747506228577697973/884397385793564682/unknown.png). The players from each seed will then be drawn into eight groups at random based on the result of a livestreamed [random.org](http://www.random.org/lists/ "random.org") draw.
 2. All players in each group will compete against each other in a single multiplayer lobby using the Battle Royale system. In this system, all players will each in turn pick out two maps from the mappool to be played with the following turnouts after each map:
-   - 1st place: **+2 point(s)**
-   - 2nd place: **+1 point(s)**
-   - 3rd place: **-1 point(s)**
-   - 4th place: **-2 point(s)**
+   - 1st place: **+2 points**
+   - 2nd place: **+1 point**
+   - 3rd place: **+1 point**
+   - 4th place: **0 points**
+   - Winner of the Tiebreaker: **+1 point**
 3. Players are **not allowed** to ban maps in the Group stage.
 4. There is no Lower Bracket in the Group stage.
 5. Rankings of each group are determined by sorting the results of each individual player's performance in the following priority:
@@ -259,8 +256,7 @@ Sunday, 12 September 2021:
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to clinch the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to clinch the championship title.
 4. Players who can compete in the next round are determined by:
    - In the Round of 16 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Semifinals and the Finals (except for the Lower Bracket Final and the Grand Final), each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Lower Bracket Final and the Grand Final, each player needs to win 7 points in order to win the match. (Best-of-13)
+   - In the Semifinals and the Finals, each player needs to win 7 points in order to win the match. (Best-of-13)
    - Players who Win By Default.
    - Whether there are players who are disqualified from the tournament.
 
