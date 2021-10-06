@@ -22,7 +22,7 @@ Harap dicatat bahwa sebelum dapat dinominasikan, suatu beatmap harus terlebih da
 
 ## Kualifikasi
 
-Beatmap-beatmap yang telah memperoleh dua nominasi per mode permainan yang dimilikinya akan secara otomatis berpindah ke kategori [Qualified](/wiki/Beatmap/Category#qualified). Beatmap-beatmap yang berada pada kategori ini tidak memb memiliki 
+Beatmap-beatmap yang telah memperoleh dua nominasi per mode permainan yang dimilikinya akan secara otomatis berpindah ke kategori [Qualified](/wiki/Beatmap/Category#qualified). Beatmap-beatmap yang berstatus Qualified tidak memb memiliki 
 
 Beatmaps that receive two nominations per each available game mode are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points). When a beatmap stays in Qualified for at least 7 days, the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
 
