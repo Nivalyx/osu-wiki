@@ -41,3 +41,5 @@ Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nomi
 Beatmaps that have passed through the qualification stage have completed the ranking procedure. They have score leaderboards and reward players with performance points.
 
 Ranked beatmaps are only unranked under exceptional circumstances when issues are found shortly after they reach Ranked status.
+
+Beatmap-beatmap yang telah berstatus Ranked hanya dapat di-unrank pada kasus-kasus tertentu.
