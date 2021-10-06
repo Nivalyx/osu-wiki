@@ -38,8 +38,6 @@ Di samping itu, para anggota BN dan NAT juga memiliki [hak veto](/wiki/People/Th
 
 ## Ranking
 
-Beatmaps that have passed through the qualification stage have completed the ranking procedure. They have score leaderboards and reward players with performance points.
-
-Pada akhirnya, beatmap-beatmap yang telah melewati prosedur ranking beatmap yang berlaku akan secara otomatis mendapatkan status Ranked. Beatmap-beatmap ini akan performance point.
+Pada akhirnya, beatmap-beatmap yang telah melewati prosedur ranking beatmap yang berlaku akan dianugerahi dengan status Ranked. Beatmap-beatmap ini akan memberikan performance point ketika dimainkan.
 
 Adapun status Ranked ini sendiri pada umumnya bersifat permanen, di mana beatmap-beatmap yang telah berstatus Ranked hanya dapat di-*unrank* pada situasi-situasi tertentu.
