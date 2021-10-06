@@ -16,6 +16,8 @@ Di samping itu, sebelum dapat dinominasikan, suatu beatmap juga harus terlebih d
 
 ## Nominasi
 
+Beatmap-beatmap yang tidak melanggar [Ranking Criteria](/wiki/Ranking_Criteria) dan dirasa telah memenuhi standar dapat kemudian dinominasikan oleh para anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*). Beatmap Nominator sendiri merupakan 
+
 Members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) are experienced modders who are capable of nominating beatmaps for ranking. Their role is to ensure a beatmap meets the [Ranking Criteria](/wiki/Ranking_Criteria) as well as their own personal quality standards.
 
 Members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) may also nominate beatmaps, however that is not their primary role.
