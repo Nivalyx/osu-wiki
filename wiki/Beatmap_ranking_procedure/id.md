@@ -34,7 +34,7 @@ Proses penganuliran nominasi (*nomination reset*)
 
 Nominations can be reset when a beatmap is updated by its creator, or when a member of the BN or NAT finds a problem in a nominated beatmap. They can also be reset by members of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) when the reason involves inappropriate content. If a beatmap is qualified when its nominations are reset, it will be disqualified and removed from the ranking queue.
 
-Apabila suatu beatmap yang telah mendapatkan nominasi diperbaharui oleh mapper yang terkait, nominasi tersebut akan secara otomatis teranulir. Nominasi-nominasi yang ada juga dapat dianulir oleh para anggota BN atau NAT apabila mereka menemukan suatu masalah serta oleh para anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) apabila mereka menemukan adanya konten-konten yang tidak layak untuk osu!.
+Apabila suatu beatmap yang telah mendapatkan nominasi diperbaharui oleh mapper yang terkait, nominasi tersebut akan secara otomatis teranulir. Nominasi-nominasi yang ada juga dapat dianulir oleh para anggota BN atau NAT apabila mereka menemukan suatu masalah serta oleh para anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) apabila mereka menemukan adanya konten-konten yang tidak layak sepantasnya.
 
 Di samping itu, para anggota BN dan NAT juga memiliki [hak veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) yang dapat mereka gunakan untuk memberhentikan proses nominasi yang sedang berlangsung pada beatmap yang mengandung masalah-masalah tertentu.
 
