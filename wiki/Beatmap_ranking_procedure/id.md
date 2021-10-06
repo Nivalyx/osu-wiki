@@ -4,7 +4,7 @@
 
 Suatu [beatmap](/wiki/Beatmap) dapat memperoleh status [Ranked](/wiki/Beatmap/Category#ranked) dan diperkenalkan kepada khalayak luas dengan mengikuti prosedur ranking beatmap yang berlaku. 
 
-## Saran dan kritik
+## Pemberian saran dan kritik
 
 Pada saat mengunggah suatu beatmap, para mapper diberikan pilihan untuk dapat menandai beatmap yang bersangkutan dengan status `Work in Progress` atau `Pending`. Kedua status ini merupakan indikator bahwa beatmap yang dimaksud siap untuk dikaji dan dikritisi lebih lanjut oleh para pengguna lain.
 
