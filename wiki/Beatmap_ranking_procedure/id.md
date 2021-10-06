@@ -2,13 +2,13 @@
 
 *Lihat juga: [Rank (disambiguasi)](/wiki/Disambiguation/Rank)*
 
-[Beatmaps](/wiki/Beatmap) can be promoted to the community by following the beatmap ranking procedure and entering the [Ranked](/wiki/Beatmap/Category#ranked) category.
+Suatu [beatmap](/wiki/Beatmap) dapat memperoleh status [Ranked](/wiki/Beatmap/Category#ranked) dan diperkenalkan kepada khalayak luas dengan mengikuti prosedur ranking beatmap yang berlaku. 
 
+## Saran dan kritik
 
+Pada saat mengunggah suatu beatmap, para mapper diberikan pilihan untuk dapat menandai beatmap yang bersangkutan dengan status `Work in Progress` atau `Pending`. Keberadaan status-status ini merupakan pertanda bahwa beatmap yang dimaksud siap untuk dikaji dan diberikan saran/kritik yang membangun.
 
-## Feedback
-
-A beatmap's creator can mark their submissions as `Work in Progress` or `Pending`. Beatmaps in both of these categories are intended to receive feedback from the osu! community.
+Proses pengkajian ini sendiri dikenal dengan istilah [modding](/wiki/Modding). 
 
 [Modding](/wiki/Modding) is the process of receiving constructive criticism on a beatmap and is beneficial to improving its quality. Users ordinarily post feedback on a beatmap's discussion page or discuss issues with the beatmap's creator directly.
 
@@ -16,7 +16,7 @@ Newer beatmappers usually need extensive modding to create beatmaps that meet th
 
 Before being nominated for ranking, a beatmap needs to receive [hype](/wiki/Beatmap/Hype) posts from at least five different users.
 
-## Nominations
+## Nominasi
 
 Members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) are experienced modders who are capable of nominating beatmaps for ranking. Their role is to ensure a beatmap meets the [Ranking Criteria](/wiki/Ranking_Criteria) as well as their own personal quality standards.
 
@@ -24,13 +24,13 @@ Members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Ass
 
 It is recommended to receive mods before requesting nominations from BNs, however five hypes are the only pre-requisite.
 
-## Qualification
+## Kualifikasi
 
 Beatmaps that receive two nominations per each available game mode are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Qualified beatmaps have score leaderboards, but do not reward players with [performance points](/wiki/Performance_Points). When a beatmap stays in Qualified for at least 7 days, the [ranking queue](Ranking_queue) is able to move it to [Ranked](#ranked).
 
 This beatmap category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. Problems can be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a [nomination reset](#nomination-resets).
 
-## Nomination resets
+## Penganuliran nominasi (*nomination reset*)
 
 Nomination resets help ensure that modders, BNs and NAT members check over the most up-to-date version of a beatmap before it enters the ranking queue.
 
@@ -38,7 +38,7 @@ Nominations can be reset when a beatmap is updated by its creator, or when a mem
 
 Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) beatmaps they believe have quality issues that are unrelated to the Ranking Criteria.
 
-## Ranked
+## Ranking
 
 Beatmaps that have passed through the qualification stage have completed the ranking procedure. They have score leaderboards and reward players with performance points.
 
