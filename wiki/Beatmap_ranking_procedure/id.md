@@ -28,7 +28,7 @@ Kategori Qualified sendiri dirintis agar komunitas osu! dapat mengevaluasi beatm
 
 ## Penganuliran nominasi (*nomination reset*)
 
-Proses penganuliran nominasi (*nomination reset*) merupakan bagian dari prosedur ranking beatmap yang memastikan para modder, BN, dan NAT dapat senantiasa memeriksa versi beatmap yang paling baru sebelum memasuki antrian ranking.
+Proses penganuliran nominasi (*nomination reset*) merupakan bagian dari prosedur ranking beatmap yang memastikan agar para modder, BN, dan NAT dapat senantiasa memeriksa versi beatmap yang paling baru sebelum memasuki antrian ranking.
 
 Apabila suatu beatmap yang telah mendapatkan nominasi diperbaharui oleh mapper yang terkait, nominasi tersebut akan secara otomatis teranulir. Nominasi-nominasi yang ada juga dapat dianulir oleh para anggota BN atau NAT apabila mereka menemukan suatu masalah serta oleh para anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) apabila mereka menemukan konten-konten yang tidak sepantasnya pada beatmap yang bersangkutan.
 
