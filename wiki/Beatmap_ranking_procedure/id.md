@@ -10,7 +10,7 @@ Pada saat mengunggah suatu beatmap, para mapper diberikan pilihan untuk dapat me
 
 Proses pengkajian ini dikenal dengan istilah [modding](/wiki/Modding). Walaupun tidak sepenuhnya diwajibkan, proses ini dapat membantu para mapper untuk membenahi berbagai masalah yang ada serta menyempurnakan beatmap yang bersangkutan.
 
-Apabila kamu merupakan seorang mapper pemula, kamu disarankan untuk benar-benar memperhatikan segala masukan yang kamu terima dari para mapper yang lebih berpengalaman agar beatmap milikmu dapat memenuhi standar kualitas yang osu! miliki. Jangan takut untuk merombak ulang beatmap milikmu dari awal apabila dibutuhkan!
+Apabila kamu merupakan seorang mapper pemula, kamu disarankan untuk benar-benar memperhatikan segala masukan yang kamu terima dari para mapper yang lebih berpengalaman agar beatmap milikmu dapat memenuhi standar kualitas yang osu! miliki. Jangan takut untuk merombak ulang beatmap milikmu dari awal apabila dibutuhkan.
 
 Di samping itu, untuk dapat dinominasikan, suatu beatmap juga harus terlebih dahulu mendapatkan lima [hype](/wiki/Beatmap/Hype) dari para pengguna lain.
 
@@ -39,7 +39,5 @@ Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nomi
 ## Ranking
 
 Beatmaps that have passed through the qualification stage have completed the ranking procedure. They have score leaderboards and reward players with performance points.
-
-Ranked beatmaps are only unranked under exceptional circumstances when issues are found shortly after they reach Ranked status.
 
 Adapun status Ranked ini sendiri pada umumnya bersifat permanen, di mana beatmap-beatmap yang telah berstatus Ranked hanya dapat di-*unrank* pada situasi-situasi tertentu.
