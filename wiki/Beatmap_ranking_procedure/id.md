@@ -12,7 +12,7 @@ Proses pengkajian ini dikenal dengan istilah [modding](/wiki/Modding). Walaupun 
 
 Apabila kamu merupakan seorang mapper pemula, kamu disarankan untuk benar-benar memperhatikan segala masukan yang kamu terima dari para mapper yang lebih berpengalaman agar beatmap milikmu dapat memenuhi standar kualitas yang osu! miliki. Jangan takut untuk merombak ulang beatmap milikmu dari awal apabila dibutuhkan.
 
-Di samping itu, untuk dapat dinominasikan, suatu beatmap juga harus terlebih dahulu mendapatkan lima [hype](/wiki/Beatmap/Hype) dari para pengguna lain.
+Di samping itu, sebelum dapat dibawa lebih jauh, suatu beatmap juga harus terlebih dahulu mendapatkan lima [hype](/wiki/Beatmap/Hype) dari para pengguna lain.
 
 ## Nominasi
 
