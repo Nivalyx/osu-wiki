@@ -6,9 +6,9 @@ Suatu [beatmap](/wiki/Beatmap) dapat memperoleh status [Ranked](/wiki/Beatmap/Ca
 
 ## Saran dan kritik
 
-Pada saat mengunggah suatu beatmap, para mapper diberikan pilihan untuk dapat menandai beatmap yang bersangkutan dengan status `Work in Progress` atau `Pending`. Keberadaan status-status ini merupakan pertanda bahwa beatmap yang dimaksud siap untuk dikaji dan diberikan saran/kritik yang membangun.
+Pada saat mengunggah suatu beatmap, para mapper diberikan pilihan untuk dapat menandai beatmap yang bersangkutan dengan status `Work in Progress` atau `Pending`. Keberadaan status-status ini merupakan penanda bahwa beatmap yang dimaksud siap untuk dikaji dan dikritisi lebih lanjut.
 
-Proses pengkajian ini sendiri dikenal dengan istilah [modding](/wiki/Modding). 
+Proses pengkajian ini sendiri dikenal dengan istilah [modding](/wiki/Modding). Dalam prosesnya, pengguna-pengguna lain 
 
 [Modding](/wiki/Modding) is the process of receiving constructive criticism on a beatmap and is beneficial to improving its quality. Users ordinarily post feedback on a beatmap's discussion page or discuss issues with the beatmap's creator directly.
 
