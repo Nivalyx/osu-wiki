@@ -12,17 +12,13 @@ Proses pengkajian ini dikenal dengan istilah [modding](/wiki/Modding). Walaupun 
 
 Apabila kamu merupakan seorang mapper pemula, kamu disarankan untuk benar-benar memperhatikan segala masukan yang kamu terima dari para mapper yang lebih berpengalaman agar beatmap milikmu dapat memenuhi standar kualitas yang osu! miliki. Jangan takut untuk merombak ulang beatmap milikmu dari awal apabila dibutuhkan.
 
-Di samping itu, sebelum dapat dinominasikan, suatu beatmap juga harus terlebih dahulu mendapatkan lima [hype](/wiki/Beatmap/Hype) dari para pengguna lain.
-
 ## Nominasi
 
 Beatmap-beatmap yang dirasa telah memenuhi standar kualitas dan telah sepenuhnya patuh pada [Ranking Criteria](/wiki/Ranking_Criteria) dapat kemudian dinominasikan oleh para anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*). Beatmap Nominator sendiri merupakan gugus pengguna (*usergroup*) yang tugas utamanya adalah menominasikan beatmap-beatmap yang dirasa telah siap untuk di-*rank*.
 
-
-
 Members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) may also nominate beatmaps, however that is not their primary role.
 
-It is recommended to receive mods before requesting nominations from BNs, however five hypes are the only pre-requisite.
+Harap dicatat bahwa sebelum dapat dinominasikan, suatu beatmap juga harus terlebih dahulu menerima setidaknya lima [hype](/wiki/Beatmap/Hype) dari para pengguna lain.
 
 ## Kualifikasi
 
