@@ -22,7 +22,7 @@ Harap dicatat bahwa sebelum dapat dinominasikan, suatu beatmap harus terlebih da
 
 ## Kualifikasi
 
-Beatmap-beatmap yang telah memperoleh dua nominasi per mode permainan yang dimilikinya akan secara otomatis berpindah ke kategori [Qualified](/wiki/Beatmap/Category#qualified). Meskipun memiliki *leaderboard*-nya tersendiri, beatmap-beatmap yang berstatus Qualified tidak memberikan [performance point](/wiki/Performance_Points) ketika dimainkan. Ketika suatu beatmap telah mencapai akhir [antrian ranking](Ranking_queue), barulah beatmap tersebut akan berstatus [Ranked](#ranked).
+Beatmap-beatmap yang telah memperoleh dua nominasi per mode permainan yang dimilikinya akan secara otomatis berpindah ke kategori [Qualified](/wiki/Beatmap/Category#qualified). Meskipun mereka memiliki *leaderboard*-nya tersendiri, beatmap-beatmap yang berstatus Qualified tidak memberikan [performance point](/wiki/Performance_Points) ketika dimainkan. Ketika suatu beatmap telah mencapai akhir [antrian ranking](Ranking_queue), barulah beatmap tersebut akan berstatus [Ranked](#ranked).
 
 Kategori Qualified sendiri dirintis agar komunitas osu! dapat mengevaluasi beatmap-beatmap yang telah dinyatakan siap untuk di-*rank* secara lebih luas. Apabila suatu beatmap yang telah berstatus Qualified ternyata bermasalah, nominasi yang telah diberikan kepada beatmap tersebut sebelumnya akan [dianulirkan](#penganuliran-nominasi-(nomination-reset)) dan beatmap yang bersangkutan akan kembali ditarik ke Pending oleh anggota BN atau NAT.
 
@@ -38,6 +38,6 @@ Di samping itu, para anggota BN dan NAT juga memiliki [hak veto](/wiki/People/Th
 
 ## Ranking
 
-Pada akhirnya, beatmap-beatmap yang telah melewati prosedur ranking beatmap yang berlaku akan dianugerahi dengan status Ranked. Beatmap-beatmap ini akan memberikan performance point ketika dimainkan.
+Pada akhirnya, beatmap-beatmap yang telah melewati prosedur ranking beatmap yang berlaku akan dianugerahi dengan status Ranked. Beatmap-beatmap ini akan memiliki *leaderboard*-nya tersendiri dan memberikan performance point ketika dimainkan.
 
 Adapun status Ranked ini sendiri pada umumnya bersifat permanen, di mana beatmap-beatmap yang telah berstatus Ranked hanya dapat di-*unrank* pada situasi-situasi tertentu.
