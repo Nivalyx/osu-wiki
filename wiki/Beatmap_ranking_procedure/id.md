@@ -6,15 +6,13 @@ Suatu [beatmap](/wiki/Beatmap) dapat memperoleh status [Ranked](/wiki/Beatmap/Ca
 
 ## Saran dan kritik
 
-Pada saat mengunggah suatu beatmap, para mapper diberikan pilihan untuk dapat menandai beatmap yang bersangkutan dengan status `Work in Progress` atau `Pending`. Keberadaan status-status ini merupakan penanda bahwa beatmap yang dimaksud siap untuk dikaji dan dikritisi lebih lanjut.
+Pada saat mengunggah suatu beatmap, para mapper diberikan pilihan untuk dapat menandai beatmap yang bersangkutan dengan status `Work in Progress` atau `Pending`. Keberadaan status-status ini merupakan penanda bahwa beatmap yang dimaksud siap untuk dikaji dan dikritisi lebih lanjut oleh para pengguna lain.
 
-Proses pengkajian ini sendiri dikenal dengan istilah [modding](/wiki/Modding). Dalam prosesnya, pengguna-pengguna lain 
+Proses pengkajian ini sendiri dikenal dengan istilah [modding](/wiki/Modding). Walaupun tidak sepenuhnya diwajibkan, proses ini dapat membantu para mapper untuk mengidentifikasi masalah-masalah yang ada serta menyempurnakan beatmap yang bersangkutan.
 
-[Modding](/wiki/Modding) is the process of receiving constructive criticism on a beatmap and is beneficial to improving its quality. Users ordinarily post feedback on a beatmap's discussion page or discuss issues with the beatmap's creator directly.
+Apabila kamu merupakan seorang mapper pemula, kamu disarankan untuk benar-benar memperhatikan segala masukan yang kamu terima dari para mapper yang lebih berpengalaman agar beatmap milikmu dapat memenuhi standar kualitas yang osu! miliki. Jangan takut untuk merombak ulang beatmap milikmu dari awal apabila dibutuhkan!
 
-Newer beatmappers usually need extensive modding to create beatmaps that meet the Ranked category's quality standards, and often they're required to recreate their beatmaps from scratch.
-
-Before being nominated for ranking, a beatmap needs to receive [hype](/wiki/Beatmap/Hype) posts from at least five different users.
+Di samping itu, untuk dapat dinominasikan, suatu beatmap juga harus terlebih dahulu mendapatkan lima [hype](/wiki/Beatmap/Hype) dari para pengguna lain.
 
 ## Nominasi
 
