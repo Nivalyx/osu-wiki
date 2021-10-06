@@ -42,4 +42,4 @@ Beatmaps that have passed through the qualification stage have completed the ran
 
 Ranked beatmaps are only unranked under exceptional circumstances when issues are found shortly after they reach Ranked status.
 
-Beatmap-beatmap yang telah berstatus Ranked hanya dapat di-unrank pada kasus-kasus tertentu.
+Adapun status Ranked ini sendiri bersifat permanen - beatmap-beatmap yang telah berstatus Ranked hanya dapat dikembalikan ke Pending/WIP pada kasus-kasus tertentu.
