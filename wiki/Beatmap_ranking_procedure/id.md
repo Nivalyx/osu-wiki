@@ -32,8 +32,7 @@ Nomination resets help ensure that modders, BNs and NAT members check over the m
 
 Nominations can be reset when a beatmap is updated by its creator, or when a member of the BN or NAT finds a problem in a nominated beatmap. They can also be reset by members of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) when the reason involves inappropriate content. If a beatmap is qualified when its nominations are reset, it will be disqualified and removed from the ranking queue.
 
-Di samping itu, para anggota BN dan NAT juga memiliki [hak veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) yang dapat mereka gunakan untuk sepenuhnya memberhentikan proses nominasi yang sedang berlangsung pada beatmap yang mengandung masalah-masalah tertentu.
-
+Di samping itu, para anggota BN dan NAT juga memiliki [hak veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) yang dapat mereka gunakan untuk memberhentikan proses nominasi yang sedang berlangsung pada beatmap yang mengandung masalah-masalah tertentu.
 
 ## Ranking
 
