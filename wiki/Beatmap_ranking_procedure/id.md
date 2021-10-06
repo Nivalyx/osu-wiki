@@ -16,7 +16,7 @@ Apabila kamu merupakan seorang mapper pemula, kamu disarankan untuk benar-benar 
 
 Beatmap-beatmap yang dirasa telah memenuhi standar kualitas dan telah sepenuhnya patuh pada [Ranking Criteria](/wiki/Ranking_Criteria) dapat kemudian dinominasikan oleh para anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*). Beatmap Nominator sendiri merupakan gugus pengguna (*usergroup*) yang tugas utamanya adalah menominasikan beatmap-beatmap yang ditenggarai telah siap untuk di-*rank*.
 
-Suatu beatmap juga dapat dinominasikan oleh para anggota [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*), walaupun NAT pada umumnya tidak seproaktif BN dalam memberikan nominasi mengingat tugas utama NAT bukanlah untuk menominasikan beatmap.
+Suatu beatmap juga dapat dinominasikan oleh para anggota [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*), walaupun para anggota NAT pada umumnya tidak seproaktif BN dalam memberikan nominasi mengingat tugas utama NAT bukanlah untuk menominasikan beatmap.
 
 Harap dicatat bahwa sebelum dapat dinominasikan, suatu beatmap harus terlebih dahulu memperoleh setidaknya lima [hype](/wiki/Beatmap/Hype) dari para pengguna lain.
 
