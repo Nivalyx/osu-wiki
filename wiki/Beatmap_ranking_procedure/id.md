@@ -10,7 +10,7 @@ Pada saat mengunggah suatu beatmap, para mapper diberikan pilihan untuk dapat me
 
 Proses pengkajian ini dikenal dengan istilah [modding](/wiki/Modding). Meskipun tidak diwajibkan, proses ini dapat membantu para mapper untuk membenahi berbagai masalah yang ada serta menyempurnakan beatmap yang bersangkutan.
 
-Apabila kamu merupakan seorang mapper pemula, kamu disarankan untuk benar-benar memperhatikan segala masukan yang kamu terima dari para mapper yang lebih berpengalaman agar beatmap milikmu dapat memenuhi standar kualitas yang osu! miliki. Jangan takut untuk merombak ulang beatmap milikmu dari awal apabila dibutuhkan.
+Apabila kamu merupakan seorang mapper pemula, kamu disarankan untuk benar-benar memperhatikan segala masukan yang kamu terima dari para mapper yang lebih berpengalaman agar beatmap milikmu dapat memenuhi standar kualitas yang osu! miliki. Jangan takut untuk merombak ulang beatmap milikmu dari awal apabila dirasa perlu.
 
 ## Nominasi
 
