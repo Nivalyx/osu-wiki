@@ -6,7 +6,7 @@ Suatu [beatmap](/wiki/Beatmap) dapat memperoleh status [Ranked](/wiki/Beatmap/Ca
 
 ## Pemberian saran dan kritik
 
-Pada saat mengunggah suatu beatmap, para mapper diberikan pilihan untuk dapat menandai beatmap yang bersangkutan dengan status `Work in Progress` atau `Pending`. Kedua status ini merupakan indikator bahwa beatmap yang dimaksud sedang membutuhkan kajian dan masukan dari pengguna-pengguna lain.
+Pada saat mengunggah suatu beatmap, para mapper diberikan pilihan untuk dapat menandai beatmap yang bersangkutan dengan status `Work in Progress` atau `Pending`. Kedua status ini merupakan indikator bahwa beatmap yang dimaksud sedang butuh untuk dikaji dan dikritisi oleh pengguna-pengguna lain.
 
 Proses pengkajian ini dikenal dengan istilah [modding](/wiki/Modding). Meskipun tidak diwajibkan, proses ini dapat membantu para mapper untuk membenahi berbagai masalah yang ada serta menyempurnakan beatmap yang bersangkutan.
 
@@ -30,7 +30,7 @@ Kategori Qualified sendiri dirintis agar komunitas osu! dapat mengevaluasi beatm
 
 Nomination resets help ensure that modders, BNs and NAT members check over the most up-to-date version of a beatmap before it enters the ranking queue.
 
-Proses penganuliran nominasi (*nomination reset*)
+Proses penganuliran nominasi (*nomination reset*) merupakan bagian dari prosedur ranking beatmap yang berlaku
 
 Apabila suatu beatmap yang telah mendapatkan nominasi diperbaharui oleh mapper yang terkait, nominasi tersebut akan secara otomatis teranulir. Nominasi-nominasi yang ada juga dapat dianulir oleh para anggota BN atau NAT apabila mereka menemukan suatu masalah serta oleh para anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) apabila mereka menemukan konten-konten yang tidak sepantasnya pada beatmap yang bersangkutan.
 
