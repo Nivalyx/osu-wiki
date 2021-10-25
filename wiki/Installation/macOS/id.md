@@ -21,7 +21,7 @@ osu! versi macOS memiliki bug-bug tertentu yang tidak dijumpai pada osu! versi W
    - If you have an account already, sign in.
    - If you need to register, see [Registration](/wiki/Registration), then sign in.
 
-## Troubleshooting
+## Penyelesaian masalah (*troubleshooting*)
 
 If you have difficulties opening osu!, then the following steps may help you:
 
