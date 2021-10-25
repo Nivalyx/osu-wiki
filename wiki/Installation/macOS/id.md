@@ -13,8 +13,8 @@ osu! versi macOS pada umumnya belum stabil dan memiliki bug-bug tertentu yang ti
 1. Tuju [laman unduhan Wineskin berikut](https://osu.ppy.sh/community/forums/topics/1106057) dan unduh Wineskin versi terbaru yang tersedia.
 2. Perbaiki berkas `osu!.app` yang ada dengan aplikasi osu!macOS Agent yang dapat kamu unduh pada [tautan berikut](https://osu.ppy.sh/community/forums/topics/1036678). Kamu juga dapat memperbaiki berkas `osu!.app` melalui Terminal sebagai berikut:
    1. Pindahkan berkas `osu!.app` ke desktop.
-   2. Open Terminal, copy this command: `xattr -c 'Desktop/osu!.app'`, and press the `Return` key.
-3. Double click on `osu!.app` to open it.
+   2. Buka Terminal dan salin/ketik perintah berikut pada layar Terminal yang muncul: `xattr -c 'Desktop/osu!.app'`. Apabila sudah, tekan tombol `Return`.  
+3. Jalankan aplikasi `osu!.app`.
 4. The installer will run automatically. The installation location cannot be changed and will reside directly inside `osu!.app`. Moving `osu!.app` will move all of the files that come with it including any [beatmaps](/wiki/Beatmap) and [skins](/wiki/Skin). You can also right click it and select `Show Package Contents` to view the files within the folder.
 5. When the installation is complete, osu! will start up right after. osu!direct will be used to download some starter beatmaps for you.
 6. osu! will prompt you to sign in or register.
