@@ -17,7 +17,7 @@ osu! versi macOS pada umumnya belum stabil dan memiliki bug-bug tertentu yang ti
 3. Jalankan aplikasi `osu!.app`.
 4. Proses instalasi akan berlangsung secara otomatis. Tidak seperti osu! versi Windows, kamu tidak dapat mengubah lokasi pemasangan osu!. Seluruh berkas-berkas permainan, termasuk [beatmap-beatmap](/wiki/Beatmap) and [skin-skin](/wiki/Skin) yang kamu miliki, akan tertanam di dalam berkas `osu.app` tersebut. Untuk dapat melihat berkas-berkas permainan yang ada, klik kanan `osu!.app` dan pilih `Show Package Contents`.
 4. Setelah osu! berhasil terpasang, osu! akan terbuka secara otomatis. osu!direct akan kemudian mengunduh beberapa beatmap pengantar yang dapat kamu mainkan.
-6.  osu! akan meminta kamu untuk masuk atau membuat akun baru. 
+6.  osu! akan meminta kamu untuk masuk atau membuat akun baru.
    - Apabila kamu sudah memiliki akun, silakan masuk.
    - Apabila kamu belum memiliki akun, harap untuk terlebih dahulu membuat akun baru sesuai dengan panduan yang tertera pada artikel [Pendaftaran](/wiki/Registration).
 
