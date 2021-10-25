@@ -13,7 +13,7 @@ Laman ini akan menjelaskan langkah-langkah agar osu! dapat dipasang dan dijalank
 
 1. Buka [laman unduh](https://osu.ppy.sh/home/download) dan unduh installer osu!.
 2. Jalankan berkas installer yang baru saja diunduh.
-3. Saat installer berjalan, kamu akan diberikan waktu selama sepuluh detik untuk mengubah lokasi pemasangan osu!.
+3. Pada saat proses instalasi berlangung, kamu akan diberikan waktu selama sepuluh detik untuk mengubah lokasi pemasangan osu!.
    - Apabila kamu ingin mengubahnya, klik pada teks di bawah kata `Hi!` dan pilih lokasi pemasangan yang baru.
    - osu! akan dipasang pada lokasi yang telah kamu pilih ketika hitungan mundur yang muncul telah usai.
 4. osu! akan terbuka sesaat setelah proses pemasangan selesai. osu!direct akan secara otomatis mengunduh beberapa beatmap pengantar yang dapat kamu mainkan.
