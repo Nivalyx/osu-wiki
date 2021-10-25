@@ -16,13 +16,13 @@ Laman ini akan menjelaskan langkah-langkah agar osu! dapat dipasang dan dijalank
 3. Pada saat proses instalasi sedang berlangung, kamu akan diberikan waktu selama sepuluh detik untuk dapat mengubah lokasi pemasangan osu!.
    - Apabila kamu ingin mengubahnya, klik pada teks di bawah kata `Hi!` dan pilih lokasi pemasangan yang baru.
    - osu! akan dipasang pada lokasi yang telah kamu pilih ketika hitungan mundur yang muncul telah usai.
-4. osu! akan terbuka sesaat setelah proses pemasangan selesai. osu!direct akan secara otomatis mengunduh beberapa beatmap pengantar yang dapat kamu mainkan.
+4. Setelah osu! berhasil terpasang, layar osu! akan terbuka secara otomatis. osu!direct akan kemudian mengunduh beberapa beatmap pengantar yang dapat kamu mainkan.
 5. Terakhir, osu! akan meminta kamu untuk masuk atau membuat akun baru. 
    - Apabila kamu sudah memiliki akun, silakan masuk.
    - Apabila kamu belum memiliki akun, harap untuk terlebih dahulu membuat akun baru sesuai dengan panduan yang tertera pada artikel [Pendaftaran](/wiki/Registration).
 
 
-## Penyelesaian masalah (troubleshooting)
+## Penyelesaian masalah (*troubleshooting*)
 
 Apabila kamu menggunakan Windows 7 64-bit, ada kemungkinan kamu akan dihadapkan dengan beberapa kendala teknis di dalam proses pemasangan osu!. Cobalah untuk memasang .NET Framework versi 64-bit secara terpisah terlebih dahulu apabila program ini tidak disertakan dalam installer osu. Silahkan [unduh di sini](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
 
