@@ -6,7 +6,7 @@ Laman ini akan menjelaskan langkah-langkah agar osu! dapat dipasang dan dijalank
 
 ## Persyaratan sistem minimum
 
-- .NET framework 4+ (installer osu! akan secara otomatis meminta kamu untuk mengunduhnya; apabila tidak diminta, kamu dapat menemukannya [di sini](https://www.microsoft.com/id-id/download/details.aspx?id=48130))
+- .NET framework 4+ (installer osu! akan secara otomatis meminta kamu untuk mengunduhnya; apabila kamu tidak diminta, kamu dapat mengunduh .NET framework versi terbaru [di sini](https://www.microsoft.com/id-id/download/details.aspx?id=48130))
 - Kartu grafis yang memadai.
 
 ## Memasang osu!
