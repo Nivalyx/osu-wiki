@@ -35,9 +35,9 @@ Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti lan
 
 [osu!lazer](https://github.com/ppy/osu) is the future game client of osu! currently in development. If you do not care about earning [performance points](/wiki/Performance_points), then it is recommended you try it out. In order to install it, take the following steps:
 
-1. Tuju [laman unduhan osu!lazer berikut](https://github.com/ppy/osu/releases/latest), lalu unduh `osu!.app.zip`.
+1. Tuju [laman unduhan osu!lazer berikut](https://github.com/ppy/osu/releases/latest) dan unduh `osu!.app.zip`.
 2. Ekstrak berkas tersebut dan jalankan osu! dengan memilih menu `Open`.
-3. If a dialog asks you to allow osu! to receive keystrokes:
-   1. Click on the `Open System Preferences` button.
-   2. Click on the padlock in the bottom left corner and enter your password.
-   3. Tick the checkbox next to the osu! icon.
+3. Apabila kamu menemui kotak dialog yang meminta agar osu! dapat menerima input-input keyboard:
+   1. Klik `Open System Preferences` pada kotak dialog yang bersangkutan.
+   2. Klik tombol gembok yang ada pada pojok kiri bawah layar dan ketikkan kata sandi komputermu.
+   3. Berikan tanda centang pada ikon osu!.
