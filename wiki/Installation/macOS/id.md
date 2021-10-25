@@ -35,6 +35,8 @@ Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti lan
 
 [osu!lazer](https://github.com/ppy/osu) is the future game client of osu! currently in development. If you do not care about earning [performance points](/wiki/Performance_points), then it is recommended you try it out. In order to install it, take the following steps:
 
+[osu!lazer](https://github.com/ppy/osu) merupakan versi osu! mutakhir yang nantinya akan menggantikan versi osu! yang saat ini dipergunakan secara luas. Walaupun saat ini osu!lazer belum memberikan [performance point](/wiki/Performance_points), Untuk dapat memasang osu!lazer pada perangkat macOS milikmu, ikuti langkah-langkah berikut:
+
 1. Tuju [laman unduhan osu!lazer berikut](https://github.com/ppy/osu/releases/latest) dan unduh `osu!.app.zip`.
 2. Ekstrak berkas tersebut dan jalankan osu! dengan memilih menu `Open`.
 3. Apabila kamu menemui kotak dialog yang meminta agar osu! dapat menerima input-input keyboard:
