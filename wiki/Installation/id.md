@@ -17,9 +17,10 @@ Laman ini akan menjelaskan langkah-langkah agar osu! dapat dipasang dan dijalank
    - Jika kamu ingin mengubahnya, klik pada teks di bawah kata `Hi!` dan pilih lokasi pemasangan yang baru.
    - osu! akan dipasang pada lokasi yang telah kamu pilih ketika hitungan mundur yang muncul telah usai.
 4. osu! akan terbuka sesaat setelah proses pemasangan selesai. osu!direct akan secara otomatis mengunduh beberapa beatmap pengantar yang dapat kamu mainkan.
-5. Terakhir, osu! akan meminta kamu untuk masuk atau mendaftar.
-   - Jika kamu sudah memiliki akun, silakan masuk.
-   - Jika kamu belum memiliki akun, harap untuk terlebih dahulu mendaftar sesuai dengan panduan yang tertera pada artikel [Pendaftaran](/wiki/Registration).
+5. Terakhir, osu! akan meminta kamu untuk masuk atau membuat akun baru. 
+   - Apabila kamu sudah memiliki akun, silakan masuk.
+   - Apabila kamu belum memiliki akun, harap untuk terlebih dahulu membuat akun baru sesuai dengan panduan yang tertera pada artikel [Pendaftaran](/wiki/Registration).
+
 
 ## Penyelesaian masalah (troubleshooting)
 

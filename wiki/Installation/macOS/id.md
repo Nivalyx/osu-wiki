@@ -17,9 +17,9 @@ osu! versi macOS pada umumnya belum stabil dan memiliki bug-bug tertentu yang ti
 3. Jalankan aplikasi `osu!.app`.
 4. The installer will run automatically. The installation location cannot be changed and will reside directly inside `osu!.app`. Moving `osu!.app` will move all of the files that come with it including any [beatmaps](/wiki/Beatmap) and [skins](/wiki/Skin). You can also right click it and select `Show Package Contents` to view the files within the folder.
 5. When the installation is complete, osu! will start up right after. osu!direct will be used to download some starter beatmaps for you.
-6. osu! will prompt you to sign in or register.
-   - If you have an account already, sign in.
-   - If you need to register, see [Registration](/wiki/Registration), then sign in.
+6.  osu! akan meminta kamu untuk masuk atau membuat akun baru. 
+   - Apabila kamu sudah memiliki akun, silakan masuk.
+   - Apabila kamu belum memiliki akun, harap untuk terlebih dahulu membuat akun baru sesuai dengan panduan yang tertera pada artikel [Pendaftaran](/wiki/Registration).
 
 ## Penyelesaian masalah (*troubleshooting*)
 
