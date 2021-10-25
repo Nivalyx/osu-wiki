@@ -2,7 +2,7 @@
 
 *Lihat juga: [Instalasi osu! pada perangkat MacOS](/wiki/Installation/macOS)*
 
-Laman ini akan menjelaskan langkah-langkah agar osu! dapat dipasang dan dijalankan pada perangkat Windows milikmu. Apabila kamu butuh bantuan lebih lanjut, kamu dapat menonton [video tutorial berikut](https://www.youtube.com/watch?v=0V5GwzmMhpU) yang dirilis pada saluran YouTube [osu!academy](/wiki/osu!academy).
+Laman ini akan menjelaskan langkah-langkah agar osu! dapat dipasang dan dijalankan pada perangkat Windows milikmu. Apabila kamu butuh bantuan lebih lanjut, kamu dapat menonton [video tutorial berikut](https://www.youtube.com/watch?v=0V5GwzmMhpU) yang ditayangkan pada saluran YouTube [osu!academy](/wiki/osu!academy).
 
 ## Persyaratan sistem minimum
 
