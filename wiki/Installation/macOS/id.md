@@ -40,4 +40,4 @@ Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti lan
 3. Apabila kamu menemui kotak dialog yang meminta agar osu! dapat menerima input-input keyboard:
    1. Klik `Open System Preferences` pada kotak dialog yang bersangkutan.
    2. Klik tombol gembok yang ada pada pojok kiri bawah layar dan ketikkan kata sandi komputermu.
-   3. Berikan tanda centang pada ikon osu!.
+   3. Berikan tanda centang pada *check box* yang ada di samping ikon osu!.
