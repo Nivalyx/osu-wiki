@@ -26,10 +26,10 @@ osu! versi macOS pada umumnya belum stabil dan memiliki bug-bug tertentu yang ti
 Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti langkah-langkah berikut:
 
 1. Periksa laporan-laporan error yang dihasilkan oleh *osu!macOS Agent*.
-   - If you are using an older version of macOS Catalina (before or equal to 10.15.4), then you must either update macOS (recommended) or disable [System Integrity Protection](https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection).
-2. Use the extractor "Archive Utility" builtin to macOS. Other extractors may not unzip the Wineskin correctly.
-3. If you have an antivirus installed, ensure that it is disabled when you unzip osu! or else it may quarantine files required by Wine.
-4. If nothing works, you can create a post in the [Help forum](https://osu.ppy.sh/community/forums/5).
+   - Apabila kamu menggunakan macOS Catalina versi 10.15.4 atau lebih lawas, cobalah untuk memperbaharui versi macOS yang kamu gunakan atau menonaktifkan [System Integrity Protection](https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection).
+2. Periksa apakah ada berkas-berkas tertentu yang bermasalah dengan menggunakan program pengekstrak "Archive Utility" yang disediakan oleh sistem macOS. Kami tidak menyarankan kamu untuk menggunakan program-program pengekstrak lain karena program-program ini pada umumnya dapat merusak Wineskin.
+3. Apabila kamu menggunakan program antivirus, pastikan program antivirus yang kamu gunakan tidak menghalangi osu! untuk dapat berjalan atau menandai berkas-berkas yang dimiliki osu! dan Wine sebagai virus.
+4. Apabila kamu masih tetap menemui masalah, buatlah postingan baru di [sub-forum Help](https://osu.ppy.sh/community/forums/5).
 
 ## osu!lazer
 
