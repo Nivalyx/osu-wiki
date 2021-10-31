@@ -2,20 +2,19 @@
 tags:
   - Mapper's Guild
   - MG
-needs_cleanup: true  # https://github.com/ppy/osu-wiki/pull/6293#pullrequestreview-793540784
 ---
 
 # Mappers' Guild
 
 ![](img/mg-logo.png "Logo Mappers' Guild")
 
-**Mappers' Guild** merupakan organisasi yang mewadahi para mapper dalam pembuatan [beatmap-beatmap](/wiki/Beatmap) [Featured Artist](/wiki/Featured_Artists). Dengan menerapkan sistem yang serupa dengan sistem *guild* yang ada permainan-permainan MMO pada umumnya, Mappers' Guild memungkinkan para mapper untuk dapat memperoleh imbalan-imbalan tertentu dengan membuat beatmap-beatmap Featured Artist yang berstatus Ranked, baik itu secara individu ataupun secara berkelompok melalui berbagai *quest* yang tersedia.
+**Mappers' Guild** merupakan organisasi yang mewadahi para mapper dalam pembuatan [beatmap-beatmap](/wiki/Beatmap) [Featured Artist](/wiki/Featured_Artists). Dengan menerapkan sistem *guild* dan *quest* sebagaimana yang ada pada permainan-permainan MMO pada umumnya, Mappers' Guild memungkinkan para anggotanya untuk dapat memperoleh imbalan-imbalan tertentu dengan membuat dan me-*rank* beatmap-beatmap Featured Artist.
 
 Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pada kanal `#mappers-guild` yang ada di [server Discord osu!dev](https://discord.gg/ppy).
 
 ## Sistem
 
-*Untuk informasi terbaru mengenai sistem dan tatanan Mappers' Guild, silakan mengunjungi [bagian FAQ di website Mappers' Guild](https://mappersguild.com/faq).*
+*Untuk informasi terkini mengenai sistem dan tatanan Mappers' Guild, harap kunjungi [laman FAQ yang tertera di situs web Mappers' Guild](https://mappersguild.com/faq).*
 
 Mapper yang telah memiliki setidaknya 3 map yang berstatus Ranked dapat bergabung ke dalam Mappers' Guild kapan saja dengan mendaftarkan akun osu! mereka pada [situs web Mappers' Guild](https://mappersguild.com/). Mereka yang telah bergabung akan dapat melihat riwayat aktivitas mapping para pengguna lainnya serta berbagai *quest* yang tersedia untuk diambil.
 
