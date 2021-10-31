@@ -22,7 +22,7 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 ### Party
 
-*Party* merupakan kelompok mapper yang saling tergabung dan bekerja sama untuk menyelesaikan *quest* tertentu. Para mapper tidak dibatasi untuk dapat menjadi bagian dari sebanyak apapun *party* yang mereka inginkan.
+*Party* merupakan kelompok mapper yang saling tergabung untuk menyelesaikan *quest* tertentu secara bersama-sama. Para mapper tidak dibatasi untuk dapat menjadi bagian dari sebanyak apapun *party* yang mereka inginkan.
 
 Special quests require higher guild ranks to participate in. For a party to qualify as a higher rank, at least half of its members must be the required rank or higher.
 
