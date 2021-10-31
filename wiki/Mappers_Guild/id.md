@@ -14,7 +14,7 @@ Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pa
 
 ## Sistem
 
-*Untuk informasi lebih lanjut mengenai sistem yang berlaku di Mappers' Guild saat ini, harap kunjungi [laman FAQ yang tertera di situs web Mappers' Guild](https://mappersguild.com/faq).*
+*Untuk informasi lebih lanjut mengenai sistem yang berlaku di Mappers' Guild saat ini, harap kunjungi [laman FAQ yang tertera pada situs web Mappers' Guild](https://mappersguild.com/faq).*
 
 Para mapper yang telah memiliki setidaknya 3 map yang berstatus Ranked dapat bergabung ke dalam Mappers' Guild kapan saja dengan mendaftarkan akun osu! mereka pada [situs web Mappers' Guild](https://mappersguild.com/). Mereka yang telah bergabung akan dapat melihat riwayat aktivitas mapping para pengguna lainnya serta berbagai *quest* yang tersedia untuk diambil.
 
