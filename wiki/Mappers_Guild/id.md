@@ -24,7 +24,7 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 *Party* merupakan kelompok mapper yang saling tergabung untuk menyelesaikan *quest* tertentu secara bersama-sama. Para mapper tidak dibatasi untuk dapat mengambil bagian dalam sebanyak apapun *party* yang mereka inginkan.
 
-*Quest-quest* tertentu membutuhkan persyaratan level *party* tertentu untuk dapat diambil. Agar suatu *party* dapat naik ke level yang lebih tinggi, setidaknya setengah dari anggotanya harus memegang peringkat yang bersangkutan atau lebih tinggi.
+*Quest-quest* tertentu membutuhkan persyaratan level *party* tertentu untuk dapat diambil. Agar suatu *party* dapat naik ke level yang lebih tinggi, setidaknya setengah dari anggotanya harus berada pada level yang bersangkutan atau lebih tinggi.
 
 ### Quest
 
