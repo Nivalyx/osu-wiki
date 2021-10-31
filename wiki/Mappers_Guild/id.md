@@ -28,7 +28,7 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 ### Quest
 
-*Quest* memungkinkan anggota Mappers' Guild untuk mendapatkan imbalan lebih dengan membuat beatmap-beatmap Featured Artist sesuai dengan syarat yang ditentukan oleh masing-masing *quest*. Pada umumnya, suatu *quest* akan menuntut para mapper untuk membuat sejumlah beatmap yang bertemakan suatu Featured Artist atau *gimmick-gimmick* tertentu.
+*Quest* memungkinkan para anggota Mappers' Guild untuk mendapatkan imbalan lebih dengan membuat beatmap-beatmap Featured Artist sesuai dengan syarat yang ditentukan oleh masing-masing *quest*. Pada umumnya, suatu *quest* akan menuntut para mapper untuk membuat sejumlah beatmap yang bertemakan suatu Featured Artist atau *gimmick-gimmick* tertentu.
 
 Masing-masing *quest* akan memiliki persyaratan ukuran *party*, level, harga, dan tenggat waktu (*deadline*)-nya tersendiri. Pada saat menerima *quest*, masing-masing anggota *party* harus terlebih dahulu membayar harga yang tercantum untuk dapat memulai *quest* yang bersangkutan. Adapun harga untuk *quest-quest* solo dan *gimmick* pada umumnya akan lebih tinggi.
 
