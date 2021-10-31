@@ -18,7 +18,7 @@ Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pa
 
 Para mapper yang telah memiliki setidaknya 3 map yang berstatus Ranked dapat bergabung ke dalam Mappers' Guild kapan saja dengan mendaftarkan akun osu! mereka pada [situs web Mappers' Guild](https://mappersguild.com/). Mereka yang telah bergabung akan dapat melihat riwayat aktivitas mapping para pengguna lainnya serta berbagai *quest* yang tersedia untuk diambil.
 
-Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dalam proses *ranking* beatmap-beatmap yang terdaftar pada situs web Mappers' Guild. Besar imbalan yang diterima oleh masing-masing anggota akan sebanding dengan besar kontribusi yang mereka berikan baik itu dalam hal pembuatan beatmap, pembuatan [storyboard](/wiki/Storyboard), [modding](/wiki/Modding), ataupun hal-hal lainnya yang menyangkut *quest-quest* yang ada.
+Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dalam proses *ranking* beatmap-beatmap yang terdaftar pada situs web Mappers' Guild. Besar imbalan yang diterima oleh masing-masing anggota akan sebanding dengan besar kontribusi yang mereka berikan baik itu dalam pembuatan beatmap, pembuatan [storyboard](/wiki/Storyboard), [modding](/wiki/Modding), ataupun hal-hal lainnya yang menyangkut *quest-quest* yang ada.
 
 ### Party
 
