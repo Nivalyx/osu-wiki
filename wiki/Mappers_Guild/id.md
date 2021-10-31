@@ -14,15 +14,15 @@ Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pa
 
 ## Sistem
 
-*Untuk informasi terkini mengenai sistem dan tatanan Mappers' Guild, harap kunjungi [laman FAQ yang tertera di situs web Mappers' Guild](https://mappersguild.com/faq).*
+*Untuk informasi terkini mengenai sistem dan tatanan yang berlaku di Mappers' Guild, harap kunjungi [laman FAQ yang tertera di situs web Mappers' Guild](https://mappersguild.com/faq).*
 
 Mapper yang telah memiliki setidaknya 3 map yang berstatus Ranked dapat bergabung ke dalam Mappers' Guild kapan saja dengan mendaftarkan akun osu! mereka pada [situs web Mappers' Guild](https://mappersguild.com/). Mereka yang telah bergabung akan dapat melihat riwayat aktivitas mapping para pengguna lainnya serta berbagai *quest* yang tersedia untuk diambil.
 
 Mapper dapat memperoleh imbalan dengan berpartisipasi dalam proses pemeringkatan map-map dari Featured Artist yang telah terhubung ke Mappers' Guild. Dengan ini, mapper dapat berfokus pada pembuatan beatmap, namun imbalan juga diberikan untuk pengguna yang berkontribusi dalam [modding](/wiki/Modding), membuat [storyboard](/wiki/Storyboard), dan menyelesaikan *quest* di dalam *guild*.
 
-### Kelompok
+### Party
 
-Kelompok merupakan kumpulan mapper yang mendaftar untuk menyelesaikan *quest* bersama - sama. Mapper dapat bergabung dengan kelompok lain sebanyak yang mereka mau secara bersamaan.
+*Party* merupakan kumpulan mapper yang mendaftar untuk menyelesaikan *quest* bersama - sama. Mapper dapat bergabung dengan kelompok lain sebanyak yang mereka mau secara bersamaan.
 
 *Quest* khusus membutuhkan peringkat kelompok yang lebih tinggi untuk berpartisipasi. Agar suatu kelompok dapat naik ke peringkat lebih tinggi, setidaknya setengah dari anggotanya harus memenuhi syarat minimum atau lebih tinggi.
 
