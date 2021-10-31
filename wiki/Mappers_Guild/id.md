@@ -26,7 +26,7 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 Special quests require higher guild ranks to participate in. For a party to qualify as a higher rank, at least half of its members must be the required rank or higher.
 
-*Quest-quest* tertentu membutuhkan persyaratan peringkat *party* tertentu untuk dapat diambil. Agar suatu *party* dapat memiliki peringkat yang lebih tinggi, setidaknya setengah dari anggotanya harus memenuhi syarat minimum atau lebih tinggi.
+*Quest-quest* tertentu membutuhkan persyaratan peringkat *party* tertentu untuk dapat diambil. Agar suatu *party* dapat memiliki peringkat yang lebih tinggi, setidaknya setengah dari anggotanya harus memegang peringkat yang bersangkutan atau lebih tinggi.
 
 ### Quest
 
