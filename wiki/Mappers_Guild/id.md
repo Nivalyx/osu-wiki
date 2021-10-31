@@ -24,7 +24,7 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 Parties are groups of mappers who register to complete quests together. Mappers may join as many parties as they want at a time.
 
-*Party* merupakan kelompok mapper yang mendaftar untuk menyelesaikan *quest* bersama-sama. Para mapper tidka dibatasi untuk dapat bergabung ke dalam berbagai *party* sebanyak apapun.
+*Party* merupakan kelompok mapper yang mendaftar untuk menyelesaikan *quest* bersama-sama. Para mapper tidak dibatasi untuk dapat bergabung ke dalam berbagai *party* sebanyak apapun yang mereka inginkan.
 
 Special quests require higher guild ranks to participate in. For a party to qualify as a higher rank, at least half of its members must be the required rank or higher.
 
