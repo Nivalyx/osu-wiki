@@ -28,17 +28,13 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 ### Quest
 
-Quests reward mappers for following certain requirements when creating their featured artist maps. Usually quests involve creating a certain number of beatmaps for a new featured artist, however some quests involve small gimmicks.
-
 *Quest* memberi imbalan kepada mapper karena telah mengikuti persyaratan tertentu saat membuat map Featured Artist yang mereka pilih. Pada umumnya, suatu *quest* akan menuntut para mapper untuk membuat sejumlah beatmap yang bertemakan suatu Featured Artist atau *gimmick-gimmick* tertentu.
 
 Setiap *quest* memiliki spesifikasi dan kebutuhan kelompok yang dibutuhkan masing - masing, imbalan yang diterima, dan tenggat waktu yang akan dihadapi. Semua anggota kelompok harus membayar harga yang tercantum untuk menerima *quest*. Harga untuk *quest* gimik dan solo biasanya lebih tinggi daripada jenis lain.
 
-Quests will automatically expire after 3 months of inactivity. Any user can re-open quests by spending their available pool of Mappers' Guild points.
+*Quest-quest* yang ada akan otomatis kedaluwarsa apabila setelah 3 bulan tidak diambil. Meskipun demikian, *quest-quest* yang telah kedaluwarsa dapat dibuka kembali oleh siapapun dengan syarat dan ketentuan tertentu.
 
-*Quest-quest* yang ada akan otomatis kedaluwarsa apabila setelah 3 bulan tidak diambil. Setiap pengguna dapat membuka kembali *quest* tersebut dengan menghabiskan kumpulan poin Mappers' Guild mereka yang tersedia.
-
-Partisipasi *quest* tidak memerlukan seluruh anggota Mappers' Guild. Jika seorang pengguna ingin mengambil *quest*, mereka dapat langsung membuat beatmap sendirian untuk mendapat imbalannya.
+Para anggota Mappers' Guild tidak diwajibkan untuk mengambil *quest*. Apabila ada anggota yang ingin membuat beatmap-beatmap Featured Artist tanpa ingin tergabung ke dalam , mereka dapat langsung membuat beatmap yang bersangkutan.
 
 ### Imbalan
 
