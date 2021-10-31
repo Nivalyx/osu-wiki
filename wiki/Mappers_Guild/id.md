@@ -18,13 +18,17 @@ Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pa
 
 Para mapper yang telah memiliki setidaknya 3 map yang berstatus Ranked dapat bergabung ke dalam Mappers' Guild kapan saja dengan mendaftarkan akun osu! mereka pada [situs web Mappers' Guild](https://mappersguild.com/). Mereka yang telah bergabung akan dapat melihat riwayat aktivitas mapping para pengguna lainnya serta berbagai *quest* yang tersedia untuk diambil.
 
-Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dalam proses *ranking* beatmap-beatmap Featured Artist yang terdaftar pada situs web Mappers' Guild. Besar imbalan yang diterima oleh masing-masing anggota akan sebanding dengan besar kontribusi yang mereka berikan baik itu dalam hal pembuatan beatmap, pembuatan [storyboard](/wiki/Storyboard), [modding](/wiki/Modding), ataupun penyelesaian *quest-quest* yang ditawarkan.
+Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dalam proses *ranking* beatmap-beatmap yang terdaftar pada situs web Mappers' Guild. Besar imbalan yang diterima oleh masing-masing anggota akan sebanding dengan besar kontribusi yang mereka berikan baik itu dalam hal pembuatan beatmap, pembuatan [storyboard](/wiki/Storyboard), [modding](/wiki/Modding), ataupun hal-hal lainnya yang menyangkut *quest-quest* yang ada.
 
 ### Party
 
-*Party* merupakan kumpulan mapper yang mendaftar untuk menyelesaikan *quest* bersama - sama. Mapper dapat bergabung dengan kelompok lain sebanyak yang mereka mau secara bersamaan.
+Parties are groups of mappers who register to complete quests together. Mappers may join as many parties as they want at a time.
 
-*Quest* khusus membutuhkan peringkat kelompok yang lebih tinggi untuk berpartisipasi. Agar suatu kelompok dapat naik ke peringkat lebih tinggi, setidaknya setengah dari anggotanya harus memenuhi syarat minimum atau lebih tinggi.
+*Party* merupakan kelompok mapper yang mendaftar untuk menyelesaikan *quest* bersama-sama. Para mapper tidka dibatasi untuk dapat bergabung ke dalam berbagai *party* sebanyak apapun.
+
+Special quests require higher guild ranks to participate in. For a party to qualify as a higher rank, at least half of its members must be the required rank or higher.
+
+*Quest-quest* khusus membutuhkan peringkat kelompok yang lebih tinggi untuk berpartisipasi. Agar suatu kelompok dapat naik ke peringkat lebih tinggi, setidaknya setengah dari anggotanya harus memenuhi syarat minimum atau lebih tinggi.
 
 ### Quest
 
