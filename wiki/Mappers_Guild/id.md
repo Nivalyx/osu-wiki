@@ -34,7 +34,7 @@ Each quest has its own party size/rank specifications, price to accept, and dead
 
 Masing-masing *quest* memiliki persyaratan peringkat *party* minimum, persyaratan ukuran *party*, harga, dan tenggat waktu (*deadline*)-nya tersendiri. Semua anggota kelompok harus membayar harga yang tercantum untuk menerima *quest*. Harga untuk *quest* gimik dan solo biasanya lebih tinggi daripada jenis lain.
 
-*Quest-quest* yang ada akan otomatis kedaluwarsa apabila setelah 3 bulan tidak diambil. Meskipun demikian, *quest-quest* yang telah kedaluwarsa dapat dibuka kembali oleh siapapun dengan harga tertentu.
+*Quest-quest* yang ada akan otomatis kedaluwarsa apabila setelah 3 bulan tidak ada yang mengambil. Meskipun demikian, *quest-quest* yang telah kedaluwarsa dapat dibuka kembali oleh siapapun dengan harga tertentu.
 
 Para anggota Mappers' Guild tidak diwajibkan untuk mengambil *quest*. Apabila ada anggota yang ingin membuat beatmap-beatmap Featured Artist tanpa ingin tergabung ke dalam suatu *party* atau *quest*, mereka akan tetap mendapatkan imbalan di kala beatmap-beatmap mereka mencapai status Ranked.
 
