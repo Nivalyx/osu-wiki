@@ -32,7 +32,7 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 Each quest has its own party size/rank specifications, price to accept, and deadline. All members of a party must pay the listed price to accept the quest. Prices are usually higher for gimmicky quests and solo quests.
 
-Masing-masing *quest* memiliki persyaratan peringkat *party* minimum, persyaratan ukuran *party*, harga, dan tenggat waktu (*deadline*)-nya tersendiri. Semua anggota kelompok harus membayar harga yang tercantum untuk menerima *quest*. Harga untuk *quest* gimik dan solo biasanya lebih tinggi daripada jenis lain.
+Masing-masing *quest* akan memiliki persyaratan peringkat *party* minimum, persyaratan ukuran *party*, harga, dan tenggat waktu (*deadline*)-nya tersendiri. Semua anggota kelompok harus membayar harga yang tercantum untuk menerima *quest*. Harga untuk *quest* gimik dan solo biasanya lebih tinggi daripada jenis lain.
 
 *Quest-quest* yang ada akan otomatis kedaluwarsa apabila setelah 3 bulan tidak ada yang mengambil. Meskipun demikian, *quest-quest* yang telah kedaluwarsa dapat dibuka kembali oleh siapapun dengan harga tertentu.
 
