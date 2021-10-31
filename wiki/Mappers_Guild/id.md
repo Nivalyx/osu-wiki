@@ -30,7 +30,7 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 *Quest* memungkinkan para anggota Mappers' Guild untuk dapat memperoleh imbalan ekstra dengan membuat beatmap-beatmap Featured Artist sesuai dengan syarat yang ditentukan oleh masing-masing *quest*. Pada umumnya, suatu *quest* akan menuntut para mapper untuk membuat sejumlah beatmap yang bertemakan suatu Featured Artist atau *gimmick-gimmick* tertentu.
 
-Masing-masing *quest* akan memiliki persyaratan ukuran *party*, level, harga, dan tenggat waktu (*deadline*)-nya tersendiri. Pada saat menerima *quest*, masing-masing anggota *party* harus terlebih dahulu membayar harga yang tercantum untuk dapat memulai *quest* yang bersangkutan. Adapun harga untuk *quest-quest* solo dan *gimmick* pada umumnya akan lebih tinggi.
+Masing-masing *quest* akan memiliki persyaratan ukuran *party*, level, harga, dan tenggat waktu (*deadline*)-nya tersendiri. Pada saat menerima *quest*, masing-masing anggota *party* harus terlebih dahulu membayar harga yang tercantum untuk dapat memulai *quest* yang bersangkutan. *Quest-quest* solo dan *gimmick* pada umumnya akan memiliki harga yang lebih tinggi.
 
 *Quest-quest* yang ada akan otomatis kedaluwarsa apabila setelah 3 bulan tidak ada yang mengambil. Meskipun demikian, *quest-quest* yang telah kedaluwarsa dapat dibuka kembali oleh siapapun dengan harga tertentu.
 
