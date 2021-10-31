@@ -22,7 +22,7 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 ### Party
 
-*Party* merupakan kelompok mapper yang saling tergabung untuk menyelesaikan *quest* tertentu secara bersama-sama. Para mapper tidak dibatasi untuk dapat bergabung ke dalam sebanyak apapun *party* yang mereka inginkan.
+*Party* merupakan kelompok mapper yang saling tergabung untuk menyelesaikan *quest* tertentu secara bersama-sama. Para mapper tidak dibatasi untuk dapat menjadi bagian dalam sebanyak apapun *party* yang mereka inginkan.
 
 *Quest-quest* tertentu membutuhkan persyaratan peringkat *party* tertentu untuk dapat diambil. Agar suatu *party* dapat memiliki peringkat yang lebih tinggi, setidaknya setengah dari anggotanya harus memegang peringkat yang bersangkutan atau lebih tinggi.
 
@@ -30,7 +30,7 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 Quests reward mappers for following certain requirements when creating their featured artist maps. Usually quests involve creating a certain number of beatmaps for a new featured artist, however some quests involve small gimmicks.
 
-*Quest* memberi imbalan kepada mapper karena telah mengikuti persyaratan tertentu saat membuat map Featured Artist yang mereka pilih. Pada umumnya, suatu *quest* akan meminta para mapper untuk membuat sejumlah beatmap yang bertemakan suatu Featured Artist atau *gimmick-gimmick* tertentu.
+*Quest* memberi imbalan kepada mapper karena telah mengikuti persyaratan tertentu saat membuat map Featured Artist yang mereka pilih. Pada umumnya, suatu *quest* akan menuntut para mapper untuk membuat sejumlah beatmap yang bertemakan suatu Featured Artist atau *gimmick-gimmick* tertentu.
 
 Setiap *quest* memiliki spesifikasi dan kebutuhan kelompok yang dibutuhkan masing - masing, imbalan yang diterima, dan tenggat waktu yang akan dihadapi. Semua anggota kelompok harus membayar harga yang tercantum untuk menerima *quest*. Harga untuk *quest* gimik dan solo biasanya lebih tinggi daripada jenis lain.
 
