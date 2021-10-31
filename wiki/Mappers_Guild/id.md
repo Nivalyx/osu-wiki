@@ -24,11 +24,11 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 Parties are groups of mappers who register to complete quests together. Mappers may join as many parties as they want at a time.
 
-*Party* merupakan kelompok mapper yang mendaftar untuk menyelesaikan *quest* bersama-sama. Para mapper tidak dibatasi untuk dapat bergabung ke dalam berbagai *party* sebanyak apapun yang mereka inginkan.
+*Party* merupakan kelompok mapper yang sengaja dibentuk untuk menyelesaikan suatu *quest* tertentu bersama-sama. Para mapper tidak dibatasi untuk dapat bergabung ke dalam berbagai *party* sebanyak apapun yang mereka inginkan.
 
 Special quests require higher guild ranks to participate in. For a party to qualify as a higher rank, at least half of its members must be the required rank or higher.
 
-*Quest-quest* khusus membutuhkan peringkat kelompok yang lebih tinggi untuk berpartisipasi. Agar suatu kelompok dapat naik ke peringkat lebih tinggi, setidaknya setengah dari anggotanya harus memenuhi syarat minimum atau lebih tinggi.
+*Quest-quest* tertentu membutuhkan peringkat kelompok yang lebih tinggi untuk berpartisipasi. Agar suatu kelompok dapat naik ke peringkat lebih tinggi, setidaknya setengah dari anggotanya harus memenuhi syarat minimum atau lebih tinggi.
 
 ### Quest
 
@@ -42,7 +42,7 @@ Partisipasi *quest* tidak memerlukan seluruh anggota Mappers' Guild. Jika seoran
 
 ### Imbalan
 
-![](img/mg-badges.png "Empat tingkatan *profile badge* Mappers' Guild")
+![](img/mg-badges.png "Empat tingkatan profile badge Mappers' Guild")
 
 Imbalan didistribusikan melalui sistem poin. Ketika seorang pengguna telah mencapai dalam titik pencapaian, mereka memperoleh peringkat yang berbeda dengan ditandainya sebuah lencana profil. Ada empat tingkatan profil untuk tiap pencapaian yang masing - masing diberikan pada 100, 250, 500, dan 1000 poin.
 
