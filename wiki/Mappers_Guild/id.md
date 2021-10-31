@@ -22,13 +22,15 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 ### Party
 
-*Party* merupakan kelompok mapper yang dibentuk secara khusus untuk menyelesaikan suatu *quest* tertentu bersama-sama. Para mapper tidak dibatasi untuk dapat bergabung ke dalam sebanyak apapun *party* yang mereka inginkan.
+*Party* merupakan kelompok mapper yang dibentuk secara khusus untuk menyelesaikan *quest* tertentu bersama-sama. Para mapper tidak dibatasi untuk dapat bergabung ke dalam sebanyak apapun *party* yang mereka inginkan.
 
 Special quests require higher guild ranks to participate in. For a party to qualify as a higher rank, at least half of its members must be the required rank or higher.
 
-*Quest-quest* tertentu membutuhkan persyaratan peringkat *party* tertentu untuk dapat diambil. Agar suatu *party* dapat memiliki peringkat lebih tinggi, setidaknya setengah dari anggotanya harus memenuhi syarat minimum atau lebih tinggi.
+*Quest-quest* tertentu membutuhkan persyaratan peringkat *party* tertentu untuk dapat diambil. Agar suatu *party* dapat memiliki peringkat yang lebih tinggi, setidaknya setengah dari anggotanya harus memenuhi syarat minimum atau lebih tinggi.
 
 ### Quest
+
+Quests reward mappers for following certain requirements when creating their featured artist maps. Usually quests involve creating a certain number of beatmaps for a new featured artist, however some quests involve small gimmicks.
 
 *Quest* memberi imbalan kepada mapper karena telah mengikuti persyaratan tertentu saat membuat map Featured Artist yang mereka pilih. Biasanya *quest* melibatkan pembuatan sejumlah beatmap tertentu untuk Featured Artist rilisan terbaru, namun tentunya *quest* berskala kecil pun tersedia.
 
