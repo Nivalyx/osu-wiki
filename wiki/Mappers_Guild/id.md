@@ -22,7 +22,7 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 ### Party
 
-*Party* merupakan kelompok mapper yang saling tergabung untuk menyelesaikan *quest* tertentu secara bersama-sama. Para mapper tidak dibatasi untuk dapat menjadi bagian dalam sebanyak apapun *party* yang mereka inginkan.
+*Party* merupakan kelompok mapper yang saling tergabung untuk menyelesaikan *quest* tertentu secara bersama-sama. Para mapper tidak dibatasi untuk dapat mengambil bagian dalam sebanyak apapun *party* yang mereka inginkan.
 
 *Quest-quest* tertentu membutuhkan persyaratan peringkat *party* tertentu untuk dapat diambil. Agar suatu *party* dapat memiliki peringkat yang lebih tinggi, setidaknya setengah dari anggotanya harus memegang peringkat yang bersangkutan atau lebih tinggi.
 
@@ -34,7 +34,9 @@ Quests reward mappers for following certain requirements when creating their fea
 
 Setiap *quest* memiliki spesifikasi dan kebutuhan kelompok yang dibutuhkan masing - masing, imbalan yang diterima, dan tenggat waktu yang akan dihadapi. Semua anggota kelompok harus membayar harga yang tercantum untuk menerima *quest*. Harga untuk *quest* gimik dan solo biasanya lebih tinggi daripada jenis lain.
 
-*Quest* akan dilabeli kedaluwarsa jika setelah 3 bulan tidak ada aktivitas. Setiap pengguna dapat membuka kembali *quest* tersebut dengan menghabiskan kumpulan poin Mappers' Guild mereka yang tersedia.
+Quests will automatically expire after 3 months of inactivity. Any user can re-open quests by spending their available pool of Mappers' Guild points.
+
+*Quest-quest* yang ada akan otomatis kedaluwarsa apabila setelah 3 bulan tidak diambil. Setiap pengguna dapat membuka kembali *quest* tersebut dengan menghabiskan kumpulan poin Mappers' Guild mereka yang tersedia.
 
 Partisipasi *quest* tidak memerlukan seluruh anggota Mappers' Guild. Jika seorang pengguna ingin mengambil *quest*, mereka dapat langsung membuat beatmap sendirian untuk mendapat imbalannya.
 
