@@ -14,11 +14,13 @@ Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pa
 
 ## Sistem
 
-*Untuk informasi terkini mengenai sistem dan tatanan yang berlaku di Mappers' Guild, harap kunjungi [laman FAQ yang tertera di situs web Mappers' Guild](https://mappersguild.com/faq).*
+*Untuk informasi lebih lanjut mengenai sistem yang berlaku di Mappers' Guild saat ini, harap kunjungi [laman FAQ yang tertera di situs web Mappers' Guild](https://mappersguild.com/faq).*
 
-Mapper yang telah memiliki setidaknya 3 map yang berstatus Ranked dapat bergabung ke dalam Mappers' Guild kapan saja dengan mendaftarkan akun osu! mereka pada [situs web Mappers' Guild](https://mappersguild.com/). Mereka yang telah bergabung akan dapat melihat riwayat aktivitas mapping para pengguna lainnya serta berbagai *quest* yang tersedia untuk diambil.
+Para mapper yang telah memiliki setidaknya 3 map yang berstatus Ranked dapat bergabung ke dalam Mappers' Guild kapan saja dengan mendaftarkan akun osu! mereka pada [situs web Mappers' Guild](https://mappersguild.com/). Mereka yang telah bergabung akan dapat melihat riwayat aktivitas mapping para pengguna lainnya serta berbagai *quest* yang tersedia untuk diambil.
 
-Mapper dapat memperoleh imbalan dengan berpartisipasi dalam proses pemeringkatan map-map dari Featured Artist yang telah terhubung ke Mappers' Guild. Dengan ini, mapper dapat berfokus pada pembuatan beatmap, namun imbalan juga diberikan untuk pengguna yang berkontribusi dalam [modding](/wiki/Modding), membuat [storyboard](/wiki/Storyboard), dan menyelesaikan *quest* di dalam *guild*.
+Mappers can earn rewards by participating in the ranking process for featured artist maps that are connected to the Mappers' Guild. This primarily focuses on creating beatmaps, however rewards are also provided for users who contribute by modding, creating storyboards, and completing quests within the guild.
+
+Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dalam proses *ranking* beatmap-beatmap Featured Artist yang terdaftar pada situs web Mappers' Guild. Dengan ini, mapper dapat berfokus pada pembuatan beatmap, namun imbalan juga diberikan untuk pengguna yang berkontribusi dalam [modding](/wiki/Modding), membuat [storyboard](/wiki/Storyboard), dan menyelesaikan *quest* di dalam *guild*.
 
 ### Party
 
