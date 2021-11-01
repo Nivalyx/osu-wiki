@@ -48,13 +48,13 @@ Poin-poin ini sendiri dapat dikumpulkan dengan membuat beatmap dan karya-karya l
 
 Difficulty creation tasks earn a user more points if the beatmap is associated with a quest. Completing a quest before its deadline provides users with bonus points for each difficulty mapped and a flat bonus for all users involved in the quest. This flat bonus is lost after the deadline is passed, however difficulty bonuses are kept with diminishing returns after 0, 20 and 40 day increments beyond the deadline.
 
-Para anggota Mappers' Guild juga dapat memperoleh poin tambahan dengan mendaftarkan beatmap-beatmap mereka ke dalam suatu *quest*. Para anggota Mappers' Guild yang benyelesaikan suatu *quest* bersama *party* mereka sebelum tenggat waktunya terlampaui akan diberikan poin tambahan per tingkat kesulitan yang mereka buat serta bonus rata (*flat bonus*) untuk semua anggota *party* lainnya. *Flat bonus* ini akan hilang apabila terlampaui, namun bonus tingkat kesulitan tetap berlaku dengan laporan *quest* setelah 0, 20, dan 40 hari di luar batas waktu.
+Para anggota Mappers' Guild juga dapat memperoleh poin tambahan dengan mendaftarkan beatmap-beatmap mereka ke dalam *quest-quest* yang ada. Para anggota Mappers' Guild yang benyelesaikan suatu *quest* bersama *party* mereka sebelum tenggat waktunya terlampaui akan mendapatkan poin tambahan per tingkat kesulitan yang mereka buat di dalam *quest* yang bersangkutan beserta bonus rata (*flat bonus*) untuk seluruh anggota *party* yang terlibat. *Flat bonus* ini akan hilang apabila , namun bonus tingkat kesulitan tetap berlaku dengan laporan *quest* setelah 0, 20, dan 40 hari di luar batas waktu.
 
 ### Beatmap showcase
 
 *Artikel utama: [Kumpulan beatmap showcase Featured Artist](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps)*
 
-Anggota dari Mappers' Guild mungkin sering membuat "beatmap showcase" eksklusif untuk pengumuman-pengumuman Featured Artist di masa mendatang. Setelah featured artist diumumkan, beatmap-beatmap yang tertera di sini akan disorot ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di Twitter [@osugame](https://twitter.com/osugame). 
+Anggota-anggota Mappers' Guild tertentu mungkin sering membuat "beatmap showcase" eksklusif untuk pengumuman-pengumuman Featured Artist di masa mendatang. Setelah featured artist diumumkan, beatmap-beatmap yang tertera di sini akan disorot ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di Twitter [@osugame](https://twitter.com/osugame). 
 
 ## Sejarah
 
