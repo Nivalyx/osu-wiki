@@ -46,7 +46,7 @@ Imbalan-imbalan tersebut dihitung berdasarkan total poin keseluruhan (bukan tota
 
 Points are earned for different mapping-related tasks. Earnings vary between tasks, though they are generally weighted according to the amount of time required. For example, mapping a Hard difficulty takes more time than mapping an Easy difficulty, so the first rewards more points than the second.
 
-Poin-poin ini sendiri dapat dikumpulkan dengan membuat beatmap dan karya-karya lainnya yang didaftarkan pada situs web Mappers' Guild. Besar poin yang diraih pada umumnya akan bervariasi tergantung seberapa besar waktu dan usaha yang diperlukan untuk dapat menyelesaikan karya tersebut. Sebagai contoh, 
+Poin-poin ini sendiri dapat dikumpulkan dengan membuat beatmap dan karya-karya lainnya yang didaftarkan pada situs web Mappers' Guild. Besar poin yang diraih pada umumnya akan bervariasi, tergantung seberapa besar waktu dan usaha yang diperlukan untuk dapat menyelesaikan karya tersebut. Sebagai contoh, seorang mapper yang membuat tingkat kesulitan `Hard` akan mendapatkan poin lebih dibanding mapper lain yang membuat tingkat kesulitan `Easy` karena`Hard` pada umumnya lebih memakan waktu dan usaha untuk dibuat dibanding `Easy`.
 
 Tugas - tugas pembuatan tingkat akan memberikan lebih banyak poin jika beatmap tersebut dimasukkan dalam *quest*. Menyelesaikan *quest* sebelum masa tenggat waktu-nya akan memberikan pengguna poin bonus untuk setiap tingkat kesulitan yang diselesaikan dan bonus tetap/sama rata untuk semua pengguna yang terlibat dalam *quest* tersebut. Bonus tetap ini akan hilang setelah melewati tenggat waktu berlalu, namun bonus tingkat kesulitan tetap berlaku dengan laporan *quest* setelah 0, 20, dan 40 hari di luar batas waktu.
 
