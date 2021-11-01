@@ -64,7 +64,7 @@ Setelah sukses dengan proyek pertamanya, Mappers' Guild kemudian merekrut person
 
 Following in the footsteps of both of these beatmap packs, the Mappers' Guild continuously increased its member count while publishing packs for new featured artist announcements, such as High Tea Music, Culprate, and HyuN, accompanied by other packs for older featured artist songs.
 
-Seiring waktu, Mappers' Guild terus berkembang dan bertambah besar.  seperti [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), dan [HyuN](https://osu.ppy.sh/beatmaps/artists/33)
+Seiring waktu, Mappers' Guild terus berkembang dan bertambah besar. Sampai sekarang, anggota-anggota Mappers' Guild tak henti-hentinya membuat beatmap-beatmpa baru untuk Featured Artist seperti [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), dan [HyuN](https://osu.ppy.sh/beatmaps/artists/33) sembari artis-artis yang telah
 
 Mengikuti jejak kedua paket beatmap ini, Mapper's Guild terus meningkatkan jumlah anggotanya sekaligus juga menerbitkan paket beatmap untuk Featured Artist terbaru, seperti [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), dan [HyuN](https://osu.ppy.sh/beatmaps/artists/33), disertai dengan paket lainnya untuk lagu - lagu yang dikomposisi oleh Featured Artist yang lebih tua.
 
