@@ -68,7 +68,7 @@ Seiring waktu, Mappers' Guild terus berkembang dan melebarkan sayapnya tanpa hen
 
 While the initial plan for the Mappers' Guild had always been to have MMO elements like quests, that was found to be impractical to handle while manually managing deadlines for the limited number of guild participants. pishifat and Milan- began development of a website to automate Mappers' Guild at the end of 2018, allowing for more adequate distribution of rewards and management of quest/party systems.
 
-Walaupun tujuan awal Mappers' Guild 
+Walaupun Mappers' Guild telah memiliki sistem *quest* dan lain sebagainya sejak awal, para pengelola Mappers' Guild di kala itu sering merasa kewalahan dalam mengelola segala sesuatunya secara manual. Oleh karenanya, pada akhir tahun 2018, [flag_US] [pishifat](https://osu.ppy.sh/users/3178418) dan ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) berinisiatif untuk membuat situs web Mappers' Guild yang memungkinkan para anggota Mappers' Guild untuk dapat mengorganisir *quest*/*party* dan mendapatkan imbalan dengan lebih mudah dan teratur.
 
 Perlu diketahui bahwa rencana awal untuk Mapper's Guild adalah selalu menggunakan *quest* sedemikian dalam sebuah MMO, tetapi nyatanya praktik ini tidak sepraktis untuk digunakan apalagi kita juga harus mengelola tenggat waktu untuk jumlah peserta *guild* dengan jumlah terbatas secara manual. ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) dan ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) memulai pengembangan situs web untuk mengotomatisasikan Mapper's Guild pada akhir 2018, memungkinkan distribusi imbalan yang lebih memadai dan pengelolaan sistem *quest*/kelompok lebih mudah.
 
