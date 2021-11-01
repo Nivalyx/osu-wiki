@@ -50,15 +50,17 @@ Para anggota Mappers' Guild juga dapat memperoleh poin tambahan dengan mendaftar
 
 *Flat bonus* ini akan hilang apabila *party* yang bersangkutan gagal menyelesaikan *quest* sebelum *deadline* yang ditentukan. Meskipun demikian, bonus tingkat kesulitan akan tetap berlaku walaupun *deadline* yang ada telah berlalu (dengan besar bonus yang semakin berkurang setiap harinya).
 
-### Beatmap showcase
+### Beatmap-beatmap showcase
 
-*Artikel utama: [Kumpulan beatmap showcase Featured Artist](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps)*
+*Artikel utama: [Kumpulan beatmap-beatmap showcase Featured Artist](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps)*
 
 Anggota-anggota Mappers' Guild tertentu terkadang diberikan kesempatan untuk membuat "beatmap-beatmap showcase" eksklusif yang diperuntukkan bagi pengumuman-pengumuman Featured Artist di masa mendatang. Setelah Featured Artist yang bersangkutan diumumkan, beatmap-beatmap tersebut akan diberikan sorotan khusus pada [postingan berita yang terkait](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di Twitter [@osugame](https://twitter.com/osugame). 
 
 ## Sejarah
 
-Mapper's Guild diluncurkan oleh sekelompok pengguna yang berjumlah di bawah 10 mapper pada akhir 2017. Peluncuran ini juga dibarengi dengan pemberitahuan akan Featured Artist baru pada saat itu, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), mereka diberi tugas untuk membuat 5 beatmap untuk menemani [pengumuman Featured Artist baru](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) saat itu.
+The Mappers' Guild launched with a group of less than 10 mappers in late 2017. Given information on an upcoming featured artist at the time, MOtOLOiD, they were tasked with creating six beatmaps to accompany the artist's news post announcement.
+
+Mapper's Guild diluncurkan pada tahun 2017 dengan anggota yang pada kala itu hanya berjumlah kurang dari 10 orang. Peluncuran ini juga dibarengi dengan pemberitahuan akan Featured Artist baru pada saat itu, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), mereka diberi tugas untuk membuat 5 beatmap untuk menemani [pengumuman Featured Artist baru](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) saat itu.
 
 Untuk mempromosikan Featured Artist yang sudah lama bekerja sama, perkumpulan ini menambah jumlah anggotanya dan melakukan pemeringkatan sebanyak 8 beatmap dari artis yang berbeda - beda. Beatmap berikut juga diterbitkan dalam sebuah [pos berita](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) bersama paket beatmap yang dapat diunduh<!-- TODO: beatmap pack article -->.
 
