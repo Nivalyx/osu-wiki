@@ -42,11 +42,11 @@ Para anggota Mappers' Guild tidak diwajibkan untuk mengambil *quest*. Apabila ad
 
 Mappers' Guild menawarkan berbagai imbalan yang didistribusikan melalui sistem poin. Pada saat seorang anggota telah mencapai batas poin tertentu (100, 250, 500, dan 1000 poin), mereka akan dipromosikan ke peringkat yang lebih tinggi dan dihadiahkan lencana profil (*profile badge*) yang sesuai dengan peringkatnya masing-masing.
 
-Rewards are based on a user's total points. A user's available points are a subsection of their total points following the same model as osu!'s kudosu "total earned" and "available" pools.
-
 Imbalan-imbalan tersebut dihitung berdasarkan total poin keseluruhan (bukan total poin saat ini yang tersedia) yang dimiliki oleh masing-masing anggota. Sama halnya dengan [kudosu](/wiki/Modding/Kudosu), "total poin yang saat ini tersedia" merupakan total poin keseluruhan yang dikurangi dengan total poin yang telah dibelanjakan.
 
-Poin diperoleh dengan menyelesaikan berbagai tugas terkait mapping. Imbalannya juga bervariasi untuk setiap tugas, meskipun umumnya pertimbangan imbalan didasari dari jumlah waktu yang dibutuhkan untuk menyelesaikan *quest* tersebut. Misalnya, untuk menyelesaikan map dengan tingkat kesulitan `Hard` akan menyita lebih banyak waktu dibanding dengan menyelesaikan map dengan tingkat kesulitan `Easy`, jadi *quest* yang pertama tentunya akan memberi imbalan lebih banyak daripada yang kedua.
+Points are earned for different mapping-related tasks. Earnings vary between tasks, though they are generally weighted according to the amount of time required. For example, mapping a Hard difficulty takes more time than mapping an Easy difficulty, so the first rewards more points than the second.
+
+Poin-poin ini sendiri dapat dikumpulkan dengan membuat beatmap dan karya-karya lainnya yang didaftarkan pada situs web Mappers' Guild. Besar poin yang diraih pada umumnya akan bervariasi tergantung seberapa besar waktu dan usaha yang diperlukan untuk dapat menyelesaikan karya tersebut. Sebagai contoh, 
 
 Tugas - tugas pembuatan tingkat akan memberikan lebih banyak poin jika beatmap tersebut dimasukkan dalam *quest*. Menyelesaikan *quest* sebelum masa tenggat waktu-nya akan memberikan pengguna poin bonus untuk setiap tingkat kesulitan yang diselesaikan dan bonus tetap/sama rata untuk semua pengguna yang terlibat dalam *quest* tersebut. Bonus tetap ini akan hilang setelah melewati tenggat waktu berlalu, namun bonus tingkat kesulitan tetap berlaku dengan laporan *quest* setelah 0, 20, dan 40 hari di luar batas waktu.
 
