@@ -68,7 +68,9 @@ Seiring waktu, Mappers' Guild terus berkembang dan melebarkan sayapnya tanpa hen
 
 Walaupun Mappers' Guild telah memiliki sistem *quest* dan lain sebagainya sejak awal, para pengelola Mappers' Guild di kala itu sering merasa kewalahan dalam mengelola segala sesuatunya secara manual. Oleh karenanya, pada akhir tahun 2018 ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) dan ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) berinisiatif untuk membuat situs web Mappers' Guild yang memungkinkan para anggotanya untuk dapat mengorganisir *quest*/*party* dan menembus imbalan-imbalan mereka dengan lebih mudah dan teratur.
 
-Situs web Mapper's Guild diluncurkan secara resmi pada 1 Maret 2019, dan merupakan tempat segala sesuatu tentang Mapper's Guild saat ini dikendalikan. Sejak dibuka untuk umum, *guild* telah mencapai lebih dari 500 anggota dan juga memiliki fungsi untuk [menerbitkan posting berita terbaru](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) supaya bisa mengikuti perkembangan komunitas osu! terutama mengenai konten mapping daripada Featured Artist.
+The Mappers' Guild website launched on the 1st of March 2019, and is where everything about the Mappers' Guild is currently controlled. Since being opened to the public, the guild has reached a member count over 500 and publishes update news posts to keep the rest of the osu! community up-to-date with featured artist mapping content.
+
+Situs web Mapper's Guild diluncurkan secara resmi pada 1 Maret 2019, dan merupakan tempat segala sesuatu tentang Mapper's Guild saat ini dikendalikan. Sejak dibuka untuk umum, Mappers' Guild telah memiliki lebih dari 500 anggota dan telah rutin [menerbitkan topik-topik berita](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) seputar perkembangan konten-konten Featured Artist terkini setiap beberapa bulan sekali.
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
