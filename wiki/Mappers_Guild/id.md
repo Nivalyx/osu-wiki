@@ -44,7 +44,7 @@ Mappers' Guild menawarkan berbagai imbalan yang didistribusikan melalui sistem p
 
 Rewards are based on a user's total points. A user's available points are a subsection of their total points following the same model as osu!'s kudosu "total earned" and "available" pools.
 
-Imbalan-imbalan tersebut dihitung berdasarkan total poin keseluruhan (bukan total poin yang tersedia saat ini) yang dimiliki oleh masing-masing anggota. Total poin yang tersedia saat ini merupakan total poin keseluruhan dikurangi total poin yang telah dibelanjakan.
+Imbalan-imbalan tersebut dihitung berdasarkan total poin keseluruhan (bukan total poin saat ini yang tersedia) yang dimiliki oleh masing-masing anggota. Sama halnya dengan [kudosu](/wiki/Modding/Kudosu), "total poin yang saat ini tersedia" merupakan total poin keseluruhan yang dikurangi dengan total poin yang telah dibelanjakan.
 
 Poin diperoleh dengan menyelesaikan berbagai tugas terkait mapping. Imbalannya juga bervariasi untuk setiap tugas, meskipun umumnya pertimbangan imbalan didasari dari jumlah waktu yang dibutuhkan untuk menyelesaikan *quest* tersebut. Misalnya, untuk menyelesaikan map dengan tingkat kesulitan `Hard` akan menyita lebih banyak waktu dibanding dengan menyelesaikan map dengan tingkat kesulitan `Easy`, jadi *quest* yang pertama tentunya akan memberi imbalan lebih banyak daripada yang kedua.
 
