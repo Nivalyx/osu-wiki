@@ -54,7 +54,7 @@ Para anggota Mappers' Guild juga dapat memperoleh poin tambahan dengan mendaftar
 
 *Artikel utama: [Kumpulan beatmap showcase Featured Artist](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps)*
 
-Anggota-anggota Mappers' Guild tertentu terkadang diberikan kesempatan untuk membuat "beatmap-beatmap showcase" eksklusif yang diperuntukkan bagi pengumuman-pengumuman Featured Artist di masa mendatang. Setelah Featured Artist yang bersangkutan diumumkan, beatmap-beatmap tersebut akan disorot ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di Twitter [@osugame](https://twitter.com/osugame). 
+Anggota-anggota Mappers' Guild tertentu terkadang diberikan kesempatan untuk membuat "beatmap-beatmap showcase" eksklusif yang diperuntukkan bagi pengumuman-pengumuman Featured Artist di masa mendatang. Setelah Featured Artist yang bersangkutan diumumkan, beatmap-beatmap tersebut akan diberikan sorotan khusu pada [postingan berita yang terkait](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di Twitter [@osugame](https://twitter.com/osugame). 
 
 ## Sejarah
 
