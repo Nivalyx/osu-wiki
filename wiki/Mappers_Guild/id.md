@@ -48,7 +48,7 @@ Poin-poin ini sendiri dapat dikumpulkan dengan membuat beatmap dan karya-karya l
 
 Difficulty creation tasks earn a user more points if the beatmap is associated with a quest. Completing a quest before its deadline provides users with bonus points for each difficulty mapped and a flat bonus for all users involved in the quest. This flat bonus is lost after the deadline is passed, however difficulty bonuses are kept with diminishing returns after 0, 20 and 40 day increments beyond the deadline.
 
-Beatmap-beatmap a dalam *quest*. Menyelesaikan *quest* sebelum masa tenggat waktu-nya akan memberikan pengguna poin bonus untuk setiap tingkat kesulitan yang diselesaikan dan bonus tetap/sama rata untuk semua pengguna yang terlibat dalam *quest* tersebut. Bonus tetap ini akan hilang setelah melewati tenggat waktu berlalu, namun bonus tingkat kesulitan tetap berlaku dengan laporan *quest* setelah 0, 20, dan 40 hari di luar batas waktu.
+Para anggota Mappers' Guild juga dapat memperoleh poin tambahan dengan mendaftarkan beatmap-beatmap mereka ke dalam suatu *quest*. Menyelesaikan *quest* sebelum *deadline*-nya terlampaui akan memberikan pengguna poin bonus untuk setiap tingkat kesulitan yang diselesaikan dan bonus tetap/sama rata untuk semua pengguna yang terlibat dalam *quest* tersebut. Bonus tetap ini akan hilang setelah melewati tenggat waktu berlalu, namun bonus tingkat kesulitan tetap berlaku dengan laporan *quest* setelah 0, 20, dan 40 hari di luar batas waktu.
 
 ### Beatmap showcase
 
