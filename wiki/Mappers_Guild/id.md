@@ -40,7 +40,7 @@ Para anggota Mappers' Guild tidak diwajibkan untuk mengambil *quest*. Apabila ad
 
 ![](img/mg-badges.png "Empat tingkatan profile badge Mappers' Guild")
 
-Imbalan didistribusikan melalui sistem poin. Pada saat seorang anggota telah mencapai batas poin tertentu, mereka akan dipromosikan ke peringkat yang lebih tinggi dan dihadiahkan lencana profil (*profile badge*) yang sesuai dengan peringkatnya masing-masing. Ada empat tingkatan *profile badge* yang dapat diperoleh, yang masing-masing tersedia pada 100, 250, 500, dan 1000 poin.
+Imbalan didistribusikan melalui sistem poin. Pada saat seorang anggota telah mencapai batas poin tertentu, mereka akan dipromosikan ke peringkat yang lebih tinggi dan dihadiahkan lencana profil (*profile badge*) yang sesuai dengan peringkatnya masing-masing. Mappers' Guild sendiri memiliki empat tingkatan *profile badge*, yang masing-masingnya dapat diperoleh dengan mengumpulkan 100, 250, 500, dan 1000 poin.
 
 Rewards are based on a user's total points. A user's available points are a subsection of their total points following the same model as osu!'s kudosu "total earned" and "available" pools.
 
