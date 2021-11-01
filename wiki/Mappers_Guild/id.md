@@ -40,11 +40,11 @@ Para anggota Mappers' Guild tidak diwajibkan untuk mengambil *quest*. Apabila ad
 
 ![](img/mg-badges.png "Empat tingkatan profile badge Mappers' Guild")
 
-Mappers' Guild menawarkan berbagai imbalan yang didistribusikan melalui sistem poin. Pada saat seorang anggota telah mencapai batas poin tertentu, mereka akan dipromosikan ke peringkat yang lebih tinggi dan dihadiahkan lencana profil (*profile badge*) yang sesuai dengan peringkatnya masing-masing. Mappers' Guild sendiri memiliki empat tingkatan *profile badge*, yang masing-masingnya dapat diperoleh dengan mengumpulkan 100, 250, 500, dan 1000 poin.
+Mappers' Guild menawarkan berbagai imbalan yang didistribusikan melalui sistem poin. Pada saat seorang anggota telah mencapai batas poin tertentu, mereka akan dipromosikan ke peringkat yang lebih tinggi dan dihadiahkan lencana profil (*profile badge*) yang sesuai dengan peringkatnya masing-masing. Terdapat empat tingkatan *profile badge* yang tersedia, yang masing-masingnya dapat diperoleh dengan mengumpulkan 100, 250, 500, dan 1000 poin.
 
 Rewards are based on a user's total points. A user's available points are a subsection of their total points following the same model as osu!'s kudosu "total earned" and "available" pools.
 
-Imbalan-imbalan tersebut  berdasarkan total poin tiap pengguna. Poin yang tersedia pengguna adalah sub-bagian dari total poin mereka, sistem ini juga mengikuti model [kudosu](/wiki/Modding/Kudosu) "total yang diperoleh" dan "tersedia".
+Imbalan-imbalan tersebut dihitung berdasarkan total poin keseluruhan (bukan total poin yang tersedia saat ini) yang dimiliki oleh masing-masing anggota. Poin yang tersedia pengguna adalah sub-bagian dari total poin mereka.
 
 Poin diperoleh dengan menyelesaikan berbagai tugas terkait mapping. Imbalannya juga bervariasi untuk setiap tugas, meskipun umumnya pertimbangan imbalan didasari dari jumlah waktu yang dibutuhkan untuk menyelesaikan *quest* tersebut. Misalnya, untuk menyelesaikan map dengan tingkat kesulitan `Hard` akan menyita lebih banyak waktu dibanding dengan menyelesaikan map dengan tingkat kesulitan `Easy`, jadi *quest* yang pertama tentunya akan memberi imbalan lebih banyak daripada yang kedua.
 
