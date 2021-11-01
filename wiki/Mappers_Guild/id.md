@@ -62,9 +62,13 @@ Mappers' Guild diluncurkan pada akhir tahun 2017 dengan anggota yang pada kala i
 
 Setelah sukses dengan proyek pertamanya, Mappers' Guild kemudian merekrut personil-personil baru dan merilis 8 beatmap dari lagu-lagu yang sebelumnya telah tersedia (namun belum tersentuh) pada katalog Featured Artist yang dimiliki oleh osu! pada saat itu. Kedelapan beatmap ini lantas digabungkan ke dalam satu paket beatmap <!-- TODO: beatmap pack article --> dan dipromosikan pada [topik beritanya tersendiri](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release).
 
-Seiring waktu, Mappers' Guild terus berkembang dan melebarkan sayapnya tanpa henti. Saat ini, para anggota Mappers' Guild telah berhasil membuat dan me-*rank* ratusan beatmap dengan lagu-lagu Featured Artist baik itu untuk artis-artis baru seperti [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), dan [HyuN](https://osu.ppy.sh/beatmaps/artists/33) ataupun artis-artis lama yang telah dikontrak oleh osu! sebelumnya. 
+Seiring waktu, Mappers' Guild terus berkembang dan melebarkan sayapnya tanpa henti. Saat ini, para anggota Mappers' Guild telah berhasil membuat dan me-*rank* ratusan beatmap dengan lagu-lagu Featured Artist baik itu yang menyangkut artis-artis baru seperti [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), dan [HyuN](https://osu.ppy.sh/beatmaps/artists/33) ataupun artis-artis lama yang telah dikontrak oleh osu! sebelumnya. 
 
 ### Otomatisasi
+
+While the initial plan for the Mappers' Guild had always been to have MMO elements like quests, that was found to be impractical to handle while manually managing deadlines for the limited number of guild participants. pishifat and Milan- began development of a website to automate Mappers' Guild at the end of 2018, allowing for more adequate distribution of rewards and management of quest/party systems.
+
+Walaupun tujuan awal Mappers' Guild 
 
 Perlu diketahui bahwa rencana awal untuk Mapper's Guild adalah selalu menggunakan *quest* sedemikian dalam sebuah MMO, tetapi nyatanya praktik ini tidak sepraktis untuk digunakan apalagi kita juga harus mengelola tenggat waktu untuk jumlah peserta *guild* dengan jumlah terbatas secara manual. ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) dan ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) memulai pengembangan situs web untuk mengotomatisasikan Mapper's Guild pada akhir 2018, memungkinkan distribusi imbalan yang lebih memadai dan pengelolaan sistem *quest*/kelompok lebih mudah.
 
