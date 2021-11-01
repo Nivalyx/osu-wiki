@@ -30,7 +30,7 @@ Para mapper dapat memperoleh imbalan-imbalan tertentu dengan berpartisipasi dala
 
 *Quest* memungkinkan para anggota Mappers' Guild untuk dapat memperoleh imbalan ekstra dengan membuat beatmap-beatmap Featured Artist sesuai dengan syarat yang ditentukan oleh masing-masing *quest*. Pada umumnya, suatu *quest* akan menuntut para mapper untuk membuat sejumlah beatmap yang bertemakan suatu Featured Artist atau *gimmick-gimmick* tertentu.
 
-Masing-masing *quest* akan memiliki persyaratan ukuran *party*, level, harga, dan tenggat waktu (*deadline*)-nya tersendiri. Pada saat menerima *quest*, masing-masing anggota *party* harus terlebih dahulu membayar harga yang tercantum untuk dapat memulai *quest* yang bersangkutan. *Quest-quest* solo dan *gimmick* pada umumnya akan memiliki harga yang lebih tinggi.
+Masing-masing *quest* akan memiliki persyaratan ukuran *party*, level, harga, dan tenggat waktu (*deadline*)-nya tersendiri. Pada saat menerima *quest*, masing-masing anggota *party* harus terlebih dahulu membayar harga yang tercantum untuk dapat memulai *quest* yang bersangkutan. Adapun *quest-quest* solo dan *gimmick* pada umumnya akan memiliki harga yang lebih tinggi.
 
 *Quest-quest* yang ada akan otomatis kedaluwarsa apabila setelah 3 bulan tidak ada yang mengambil. Meskipun demikian, *quest-quest* yang telah kedaluwarsa dapat dibuka kembali oleh siapapun dengan harga tertentu.
 
@@ -42,7 +42,9 @@ Para anggota Mappers' Guild tidak diwajibkan untuk mengambil *quest*. Apabila ad
 
 Rewards are distributed through a points system. When a user reaches a specified points threshold, they earn a different rank signified by a profile badge. There are four profile badge tiers at 100, 250, 500, and 1000 points respectively.
 
-Imbalan didistribusikan melalui sistem poin. Pada saat seorang anggota telah mencapai batas poin tertentu, mereka akan dipromosikan ke peringkat yang lebih tinggi dan diberikan lencana profil (*profile badge*) yang sesuai dengan peringkatnya masing-masing. Ada empat tingkatan profil untuk tiap pencapaian yang masing - masing diberikan pada 100, 250, 500, dan 1000 poin.
+Imbalan didistribusikan melalui sistem poin. Pada saat seorang anggota telah mencapai batas poin tertentu, mereka akan dipromosikan ke peringkat yang lebih tinggi dan diberikan lencana profil (*profile badge*) yang sesuai dengan peringkatnya masing-masing. Ada empat tingkatan *profile badge* yang dapat diperoleh, yang masing-masing tersedia pada 100, 250, 500, dan 1000 poin.
+
+Rewards are based on a user's total points. A user's available points are a subsection of their total points following the same model as osu!'s kudosu "total earned" and "available" pools.
 
 Imbalan diberikan berdasarkan peroleh poin tiap pengguna. Poin yang tersedia pengguna adalah sub-bagian dari total poin mereka, sistem ini juga mengikuti model [kudosu](/wiki/Modding/Kudosu) "total yang diperoleh" dan "tersedia".
 
