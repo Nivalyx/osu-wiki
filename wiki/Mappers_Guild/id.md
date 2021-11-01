@@ -60,7 +60,9 @@ Anggota-anggota Mappers' Guild tertentu terkadang diberikan kesempatan untuk mem
 
 Mappers' Guild diluncurkan pada akhir tahun 2017 dengan anggota yang pada kala itu hanya berjumlah kurang dari 10 orang. Dengan dibekali informasi seputar Featured Artist yang kala itu belum diumumkan ([MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19)), mereka ditugaskan untuk membuat enam beatmap yang nantinya akan digunakan untuk mengiringi [pengumuman Featured Artist yang bersangkutan](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
-Untuk mempromosikan Featured Artist yang sudah lama bekerja sama, perkumpulan ini menambah jumlah anggotanya dan melakukan pemeringkatan sebanyak 8 beatmap dari artis yang berbeda - beda. Beatmap berikut juga diterbitkan dalam sebuah [pos berita](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) bersama paket beatmap yang dapat diunduh<!-- TODO: beatmap pack article -->.
+To promote older featured artists, the group increased its member count and ranked 8 beatmaps from different artists. These beatmaps were published in a news post alongside a downloadable beatmap pack.
+
+Setelah sukses dengan proyek pertamanya, Mappers' Guild kemudian merekrut personil-personil baru dan merilis 8 beatmap dari lagu-lagu yang sebelumnya telah tersedia (namun belum tersentuh) pada katalog Featured Artist yang ada. Kedelapan beatmap ini lantas dipromosikan pada [topik beritanya tersendiri](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) bersama dengan paket beatmap yang dapat diunduh<!-- TODO: beatmap pack article -->.
 
 Mengikuti jejak kedua paket beatmap ini, Mapper's Guild terus meningkatkan jumlah anggotanya sekaligus juga menerbitkan paket beatmap untuk Featured Artist terbaru, seperti [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), dan [HyuN](https://osu.ppy.sh/beatmaps/artists/33), disertai dengan paket lainnya untuk lagu - lagu yang dikomposisi oleh Featured Artist yang lebih tua.
 
