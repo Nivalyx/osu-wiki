@@ -40,13 +40,11 @@ Para anggota Mappers' Guild tidak diwajibkan untuk mengambil *quest*. Apabila ad
 
 ![](img/mg-badges.png "Empat tingkatan profile badge Mappers' Guild")
 
-Rewards are distributed through a points system. When a user reaches a specified points threshold, they earn a different rank signified by a profile badge. There are four profile badge tiers at 100, 250, 500, and 1000 points respectively.
-
 Imbalan didistribusikan melalui sistem poin. Pada saat seorang anggota telah mencapai batas poin tertentu, mereka akan dipromosikan ke peringkat yang lebih tinggi dan diberikan lencana profil (*profile badge*) yang sesuai dengan peringkatnya masing-masing. Ada empat tingkatan *profile badge* yang dapat diperoleh, yang masing-masing tersedia pada 100, 250, 500, dan 1000 poin.
 
 Rewards are based on a user's total points. A user's available points are a subsection of their total points following the same model as osu!'s kudosu "total earned" and "available" pools.
 
-Imbalan diberikan berdasarkan peroleh poin tiap pengguna. Poin yang tersedia pengguna adalah sub-bagian dari total poin mereka, sistem ini juga mengikuti model [kudosu](/wiki/Modding/Kudosu) "total yang diperoleh" dan "tersedia".
+Imbalan diberikan berdasarkan total poin tiap pengguna. Poin yang tersedia pengguna adalah sub-bagian dari total poin mereka, sistem ini juga mengikuti model [kudosu](/wiki/Modding/Kudosu) "total yang diperoleh" dan "tersedia".
 
 Poin diperoleh dengan menyelesaikan berbagai tugas terkait mapping. Imbalannya juga bervariasi untuk setiap tugas, meskipun umumnya pertimbangan imbalan didasari dari jumlah waktu yang dibutuhkan untuk menyelesaikan *quest* tersebut. Misalnya, untuk menyelesaikan map dengan tingkat kesulitan `Hard` akan menyita lebih banyak waktu dibanding dengan menyelesaikan map dengan tingkat kesulitan `Easy`, jadi *quest* yang pertama tentunya akan memberi imbalan lebih banyak daripada yang kedua.
 
