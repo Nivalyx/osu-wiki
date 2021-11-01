@@ -58,8 +58,6 @@ Anggota-anggota Mappers' Guild tertentu terkadang diberikan kesempatan untuk mem
 
 ## Sejarah
 
-The Mappers' Guild launched with a group of less than 10 mappers in late 2017. Given information on an upcoming featured artist at the time, MOtOLOiD, they were tasked with creating six beatmaps to accompany the artist's news post announcement.
-
 Mappers' Guild diluncurkan pada akhir tahun 2017 dengan anggota yang pada kala itu hanya berjumlah kurang dari 10 orang. Dengan dibekali informasi seputar Featured Artist yang kala itu belum diumumkan ([MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19)), mereka ditugaskan untuk membuat enam beatmap yang nantinya akan digunakan untuk mengiringi [pengumuman Featured Artist yang bersangkutan](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
 Untuk mempromosikan Featured Artist yang sudah lama bekerja sama, perkumpulan ini menambah jumlah anggotanya dan melakukan pemeringkatan sebanyak 8 beatmap dari artis yang berbeda - beda. Beatmap berikut juga diterbitkan dalam sebuah [pos berita](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) bersama paket beatmap yang dapat diunduh<!-- TODO: beatmap pack article -->.
