@@ -62,7 +62,7 @@ Mappers' Guild diluncurkan pada akhir tahun 2017 dengan anggota yang pada kala i
 
 Setelah sukses dengan proyek pertamanya, Mappers' Guild kemudian merekrut personil-personil baru dan merilis 8 beatmap dari lagu-lagu yang sebelumnya telah tersedia (namun belum tersentuh) pada katalog Featured Artist yang dimiliki oleh osu! pada saat itu. Kedelapan beatmap ini lantas digabungkan ke dalam satu paket beatmap <!-- TODO: beatmap pack article --> dan dipromosikan pada [topik beritanya tersendiri](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release).
 
-Seiring waktu, Mappers' Guild terus berkembang dan melebarkan sayapnya tanpa henti. Saat ini, para anggota Mappers' Guild telah memproduksi dan me-*rank* ratusan beatmap dengan lagu-lagu Featured Artist baik itu untuk artis-artis baru seperti [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), dan [HyuN](https://osu.ppy.sh/beatmaps/artists/33) ataupun artis-artis lama yang telah ada sebelumnya. 
+Seiring waktu, Mappers' Guild terus berkembang dan melebarkan sayapnya tanpa henti. Saat ini, para anggota Mappers' Guild telah berhasil membuat dan me-*rank* ratusan beatmap dengan lagu-lagu Featured Artist baik itu untuk artis-artis baru seperti [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), dan [HyuN](https://osu.ppy.sh/beatmaps/artists/33) ataupun artis-artis lama yang telah ada sebelumnya. 
 
 ### Otomatisasi
 
