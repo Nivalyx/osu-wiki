@@ -48,7 +48,7 @@ Poin-poin ini sendiri dapat dikumpulkan dengan membuat beatmap dan karya-karya l
 
 Para anggota Mappers' Guild juga dapat memperoleh poin tambahan dengan mendaftarkan beatmap-beatmap mereka ke dalam *quest-quest* yang ada. Para anggota Mappers' Guild yang berhasil menyelesaikan suatu *quest* bersama *party* mereka sebelum *deadline*-nya terlampaui akan mendapatkan poin tambahan per tingkat kesulitan yang mereka buat di dalam *quest* tersebut, plus bonus poin tambahan (*flat bonus*) untuk seluruh anggota *party* yang terlibat.
 
-*Flat bonus* ini akan hilang apabila *party* yang bersangkutan gagal menyelesaikan *quest* sebelum *deadline* yang ditentukan, namun bonus tingkat kesulitan akan tetap berlaku (dengan besar bonus yang semakin berkurang per 0, 20, atau 40 hari yang terlewat) walaupun *deadline* yang ada telah berlalu.
+*Flat bonus* ini akan hilang apabila *party* yang bersangkutan gagal menyelesaikan *quest* sebelum *deadline* yang ditentukan. Meskipun demikian, bonus tingkat kesulitan akan tetap berlaku walaupun *deadline* yang ada telah berlalu (dengan besar bonus yang semakin berkurang setiap harinya).
 
 ### Beatmap showcase
 
