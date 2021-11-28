@@ -4,7 +4,7 @@
 
 Pada September 2017, Blog QAT diberhentikan dan diganti oleh seri *QAT Gazette* yang dipublikasikan di [laman berita](https://osu.ppy.sh/home/news). Seluruh artikel yang sebelumnya ada di Blog QAT kemudian turut dipindahkan ke laman berita setelahnya.
 
-## Daftar artikel Blog QAT
+## Daftar artikel
 
 ### 2016
 
