@@ -52,7 +52,7 @@ Starting from November 2021, winners of past World Cups are retroactively awarde
 Winners of previous osu! World Cups with the **Former osu! Champion** user title:
 
 | Tournament | Title | Title |
-| -:- | :-- | :-- |
+| :-- | :-- | :-- |
 | a | x | s |
 
 ### Official mapping contest winners
