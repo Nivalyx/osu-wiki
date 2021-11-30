@@ -498,7 +498,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ### Mei
 
-- **2021-05-12:** The Nomination Assessment Team began a trial for new Beatmap Nominator evaluations. <!-- https://osu.ppy.sh/community/forums/topics/1400803?n=1 -->
+- **2021-05-12:** Para anggota Nomination Assessment Team mulai membuka kesempatan kepada para anggota Beatmap Nominator untuk dapat mengevaluasi kinerja sesama anggota Beatmap Nominator. <!-- https://osu.ppy.sh/community/forums/topics/1400803?n=1 -->
   - This trial only included osu! members and concluded in August.
   - A subset of Beatmap Nominators were given evaluation roles equal to the NAT, allowing them to contribute to and decide the outcomes of BN applications and current BN evaluations.
   - The first batch of trial members included ~10 users, while the second batch included ~20 users.
