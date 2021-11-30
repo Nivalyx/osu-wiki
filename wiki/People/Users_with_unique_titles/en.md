@@ -47,7 +47,7 @@ Winners of [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) with the **osu!mania 4K 
 
 ### Previous World Cup title holders
 
-Beginning in November 2021, osu! retroactive
+Beginning in November 2021, winners of past World Cups are retroactive
 
 ### Official mapping contest winners
 
