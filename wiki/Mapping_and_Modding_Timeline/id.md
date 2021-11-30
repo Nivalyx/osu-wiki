@@ -396,7 +396,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
   - Pada titik ini, anggota-anggota QAT sudah hampir sepenuhnya lepas tangan dari hal-hal yang terkait dengan penjaminan mutu (*quality assurance*). Hal ini bertolak belakang dengan tujuan pembentukan QAT pada awalnya.
   - Di samping itu, QAT pada masa itu juga dirundung berbagai masalah yang meliputi antara lain:
     - Minimnya partisipasi QAT dalam memoderasi beatmap-beatmap yang kontroversial.
-    - Sangat sedikitnya nama-nama yang dipromosikan ke dalam QAT seiring waktu.
+    - Sangat sedikitnya nama-nama baru yang dipromosikan ke dalam QAT seiring waktu.
     - Tidak jelasnya arah gerak QAT selaku sebuah kesatuan.<!-- https://osu.ppy.sh/community/forums/topics/842601 -->
 
 Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018. Lonjakan jumlah beatmap Ranked pada tahun ini utamanya diakibatkan oleh sistem pengendalian mutu QAT yang lebih lengang dan inisiatif modding yang tinggi dari para Beatmap Nominator secara umum.
