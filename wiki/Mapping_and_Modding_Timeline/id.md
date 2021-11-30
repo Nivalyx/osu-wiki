@@ -484,7 +484,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ### Maret
 
-- **2021-03-09:** Sejalan dengan berbagai perubahan yang dicanangkan pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) di kala itu, Ranking Criteria mulai mempersyaratkan para mapper untuk menyertakan sumber gambar latar dan media-media lainnya pada kolom deskripsi beatmap-beatmap yang mereka miliki.
+- **2021-03-09:** Sejalan dengan berbagai perubahan yang dicanangkan pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) di kala itu, Ranking Criteria mulai mempersyaratkan para mapper untuk menyertakan sumber gambar latar dan media-media lainnya yang mereka gunakan pada kolom deskripsi beatmap yang bersangkutan.
 - **2021-03-15:** Persyaratan bagi para mantan anggota Beatmap Nominator untuk dapat bergabung kembali ke regu Beatmap Nominator dilonggarkan.
   - Para calon anggota Beatmap Nominator tetap harus terlebih dahulu mendaftar dan mengikuti proses seleksi seperti pada umumnya. Meskipun demikian, para calon anggota yang sebelumnya pernah menjabat sebagai anggota Beatmap Nominator kini dapat mendaftar hanya dengan menyertakan aktivitas-aktivitas modding mereka selama 1-2 bulan ke belakang (alih-alih 3 bulan sebagaimana yang pada umumnya dipersyaratkan).<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
 - **2021-03-16:** Para anggota Beatmap Nominator mulai dapat menikmati osu!supporter secara cuma-cuma.
