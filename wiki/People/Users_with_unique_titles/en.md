@@ -57,6 +57,8 @@ Winners of previous osu! World Cups with the **Former osu! Champion** user title
 | [OWC #2](/wiki/Tournaments/OWC/2) | Former osu! Champion: #2 | ![][flag_KR] [Remilia-Scarlet](https://osu.ppy.sh/users/602783) |
 | [OWC #3](/wiki/Tournaments/OWC/3) | Former osu! Champion: #3 | ![][flag_KR] [\[ Beatrice \]](https://osu.ppy.sh/users/683791), ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493), ![][flag_KR] [KRZY](https://osu.ppy.sh/users/114017), ![][flag_KR] [Reisen Udongein](https://osu.ppy.sh/users/232942) |
 | [OWC 2013](/wiki/Tournaments/OWC/2013) | Former osu! Champion: 2013 | ![][flag_KR] [CheEZ](https://osu.ppy.sh/users/272117), ![][flag_KR] [Dungeon](https://osu.ppy.sh/users/461720), ![][flag_KR] [ffury](https://osu.ppy.sh/users/2056071), ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713), ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266), ![][flag_KR] [Shizuru-](https://osu.ppy.sh/users/1341421), ![][flag_KR] [Tengu](https://osu.ppy.sh/users/1341421), ![][flag_KR] [Vendemmia](https://osu.ppy.sh/users/139670) |
+| [OWC 2014](/wiki/Tournaments/OWC/2014) | Former osu! Champion: 2014 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738), ![][flag_JP] [Mercurius](https://osu.ppy.sh/users/589550), ![][flag_JP] [Poruteri](https://osu.ppy.sh/users/1379576), ![][flag_JP] [Potofu](https://osu.ppy.sh/users/657404), ![][flag_JP] [rrtyui](https://osu.ppy.sh/users/352328), ![][flag_JP] [serea](https://osu.ppy.sh/users/371961), ![][flag_JP] [Sinch](https://osu.ppy.sh/users/360552) |
+| [OWC 2015](/wiki/Tournaments/OWC/2015) | Former osu! Champion: 2015 | ![][flag_US] [0120](https://osu.ppy.sh/users/1901534), ![][flag_US] [Kitteh](https://osu.ppy.sh/users/2162669), ![][flag_US] [Seouless](https://osu.ppy.sh/users/3328676), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689), ![][flag_US] [Zodiaack](https://osu.ppy.sh/users/3096229) |
 
 ### Official mapping contest winners
 
@@ -402,6 +404,7 @@ These players earned their titles through either a crazy gameplay achievement or
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_HM]: /wiki/shared/flag/HM.gif "Heard Island and McDonald Islands"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
