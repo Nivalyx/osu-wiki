@@ -47,12 +47,12 @@ Winners of [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) with the **osu!mania 4K 
 
 ### Previous World Cup title holders
 
-Starting from November 2021, winners of past World Cups are retroactively awarded with the **Former osu!/osu!taiko/osu!catch/osu!mania Champion** user title. For players who have won multiple World Cups, they are given a title that corresponds with the latest World Cup iteration they achieved their victory on.
+Starting from November 2021, winners of past World Cups are retroactively awarded with the **Former osu!/osu!taiko/osu!catch/osu!mania Champion** user title. For players who have won multiple World Cups, they are given the title that corresponds with the latest World Cup iteration they achieved their victory on.
 
 Winners of previous osu! World Cups with the **Former osu! Champion** user title:
 
 | Tournament | Title | Title holders |
-| :-- | :-- | :-- |
+| :-: | :-- | :-- |
 | [OWC #1](/wiki/Tournaments/OWC/1) | Former osu! Champion: #1 | ![][flag_TW] [0222101916](https://osu.ppy.sh/users/122650), ![][flag_TW] [Rucker](https://osu.ppy.sh/users/147515), ![][flag_TW] [Tomoka Rin](https://osu.ppy.sh/users/125308), ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623), ![][flag_TW] [ZRush](https://osu.ppy.sh/users/398097) |
 | [OWC #2](/wiki/Tournaments/OWC/2) | Former osu! Champion: #2 | ![][flag_KR] [Remilia-Scarlet](https://osu.ppy.sh/users/602783) |
 | [OWC #3](/wiki/Tournaments/OWC/3) | Former osu! Champion: #3 | ![][flag_KR] [\[ Beatrice \]](https://osu.ppy.sh/users/683791), ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493), ![][flag_KR] [KRZY](https://osu.ppy.sh/users/114017), ![][flag_KR] [Reisen Udongein](https://osu.ppy.sh/users/232942) |
@@ -62,7 +62,14 @@ Winners of previous osu! World Cups with the **Former osu! Champion** user title
 | [OWC 2016](/wiki/Tournaments/OWC/2016) | Former osu! Champion: 2016 | ![][flag_US] [Axarious](https://osu.ppy.sh/users/2614511), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_US] [Mlaw](https://osu.ppy.sh/users/3126596), ![][flag_US] [mniminwoo](https://osu.ppy.sh/users/3929529), ![][flag_US] [Ritzeh](https://osu.ppy.sh/users/1028387) |
 | [OWC 2017](/wiki/Tournaments/OWC/2017) | Former osu! Champion: 2017 | ![][flag_PL] [Astar](https://osu.ppy.sh/users/27055), ![][flag_PL] [MrBoom](https://osu.ppy.sh/users/1837989), ![][flag_PL] [Piggey](https://osu.ppy.sh/users/4163860), ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286), ![][flag_PL] [Wakson](https://osu.ppy.sh/users/3048222), ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828), ![][flag_PL] [Wilchq](https://osu.ppy.sh/users/2021758) | 
 | [OWC 2018](/wiki/Tournaments/OWC/2018) | Former osu! Champion: 2018 | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) |
-| [OWC 2019](/wiki/Tournaments/OWC/2019) | Former osu! Champion: 2019 | |
+| [OWC 2019](/wiki/Tournaments/OWC/2019) | Former osu! Champion: 2019 | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315), ![][flag_US] [t\[-_-t\]](https://osu.ppy.sh/users/2644828), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) |
+| [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691), ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603), ![][flag_US] [Rektygon](https://osu.ppy.sh/users/7813296), ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
+
+Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** user title:
+
+| Tournament | Title | Title holders |
+| :-:| :-- | :-- |
+| [TWC 2011](/wiki/Tournaments/TWC/2011) | Former osu!taiko Champion: #1 |
 
 ### Official mapping contest winners
 
