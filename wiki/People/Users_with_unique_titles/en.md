@@ -251,6 +251,8 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE <!-- old forum meme --> |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy <!-- movie threater pictures in staff chats, or something --> |
 | ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) | ¿ |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo
+ |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 
 ## By name
