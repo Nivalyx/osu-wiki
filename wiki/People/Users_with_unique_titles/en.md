@@ -73,6 +73,7 @@ Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** 
 | [TWC 2012](/wiki/Tournaments/TWC/2012) | Former osu!taiko Champion: #2 | ![][flag_JP] [-Asuke-](https://osu.ppy.sh/users/863073), ![][flag_JP][pota-row](https://osu.ppy.sh/users/858415), ![][flag_JP] [TTTL](https://osu.ppy.sh/users/164583) |
 | [TWC #3](/wiki/Tournaments/TWC/3) | Former osu!taiko Champion: #3 | ![][flag_TW] [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), ![][flag_TW] [oiu850714](https://osu.ppy.sh/users/437607), ![][flag_TW] [yikao](https://osu.ppy.sh/users/352674), ![][flag_TW] [zx\_baka\_0502442](https://osu.ppy.sh/users/457766) |
 | [TWC 2014](/wiki/Tournaments/TWC/2014) | Former osu!taiko Champion: 2014 | ![][flag_JP] [NeGaTiVeMiNd](https://osu.ppy.sh/users/965038), ![][flag_JP] [Orukaa](https://osu.ppy.sh/users/987895), ![][flag_JP] [pagr42](https://osu.ppy.sh/users/1500725), ![][flag_JP] [reg](https://osu.ppy.sh/users/2335982), ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) |
+| [TWC 2015](/wiki/Tournaments/TWC/2015) | Former osu!taiko Champion: 2015 | ![][flag_JP] [\_Rydan](https://osu.ppy.sh/users/5309575), ![][flag_JP] [1RoHa\_](https://osu.ppy.sh/users/4632503), ![][flag_JP][cagalin](https://osu.ppy.sh/users/2586173) |
 
 ### Official mapping contest winners
 
