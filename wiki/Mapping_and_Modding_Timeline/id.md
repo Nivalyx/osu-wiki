@@ -498,7 +498,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ### Mei
 
-- **2021-05-12:** Para anggota Nomination Assessment Team mulai membuka kesempatan kepada para anggota Beatmap Nominator untuk dapat mengevaluasi kinerja anggota-anggota Beatmap Nominator lainnya. <!-- https://osu.ppy.sh/community/forums/topics/1400803?n=1 -->
+- **2021-05-12:** Nomination Assessment Team mulai membuka kesempatan kepada para anggota Beatmap Nominator untuk dapat mengevaluasi kinerja anggota-anggota Beatmap Nominator lainnya. <!-- https://osu.ppy.sh/community/forums/topics/1400803?n=1 -->
   - Proses ini bersifat uji coba dan hanya melibatkan mode osu!.
   - Dalam proses ini, para anggota Beatmap Nominator yang terpilih diberikan kewenangan yang serupa dengan NAT dalam mengevaluasi kinerja anggota tim lainnya dan menentukan hasil-hasil aplikasi yang NAT terima.
   - Proses ini dilaksanakan dalam dua siklus, di mana siklus pertama melibatkan ~10 orang anggota BN dan siklus kedua melibatkan ~20 orang anggota BN.
