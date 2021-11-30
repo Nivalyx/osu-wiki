@@ -47,7 +47,7 @@ Winners of [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) with the **osu!mania 4K 
 
 ### Previous World Cup title holders
 
-Starting from November 2021, winners of past World Cups are retroactively awarded with the **Former osu!/osu!taiko/osu!catch/osu!mania Champion** user title. For players who have won multiple World Cups, they are given a title that corresponds with the latest tournament they have won.
+Starting from November 2021, winners of past World Cups are retroactively awarded with the **Former osu!/osu!taiko/osu!catch/osu!mania Champion** user title. For players who have won multiple World Cups, they are given a title that corresponds with the latest tournament they won.
 
 Winners of previous osu! World Cups with the **Former osu! Champion** user title:
 
