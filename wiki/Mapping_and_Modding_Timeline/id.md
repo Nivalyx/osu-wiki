@@ -488,7 +488,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 - **2021-03-15:** Persyaratan bagi para mantan anggota Beatmap Nominator untuk dapat bergabung kembali ke regu Beatmap Nominator dilonggarkan.
   - Para calon anggota Beatmap Nominator tetap harus terlebih dahulu mendaftar dan mengikuti proses seleksi seperti pada umumnya. Meskipun demikian, para calon anggota yang sebelumnya pernah menjabat sebagai anggota Beatmap Nominator kini dapat mendaftar hanya dengan menyertakan aktivitas-aktivitas modding mereka selama 1-2 bulan ke belakang (alih-alih 3 bulan sebagaimana yang pada umumnya dipersyaratkan).<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
 - **2021-03-16:** Para anggota Beatmap Nominator mulai dapat menikmati osu!supporter secara cuma-cuma.
-  - Penghadiahan osu!supporter ini merupakan respon atas banyaknya keluhan yang masuk seputar minimnya insentif yang diberikan kepada mereka yang telah banyak berkontribusi di lingkungan mapping dan modding. <!-- https://osu.ppy.sh/community/forums/topics/1268711?n=58 -->
+  - Penghadiahan osu!supporter ini merupakan respon atas banyaknya keluhan yang masuk seputar minimnya insentif yang diberikan kepada mereka yang telah banyak berkontribusi pada lingkungan mapping dan modding. <!-- https://osu.ppy.sh/community/forums/topics/1268711?n=58 -->
 - **2021-03-16:** Batas jumlah beatmap yang dapat di-rank per mode permainan per harinya ditingkatkan dari 8 menjadi 10 untuk mengurangi jumlah beatmap pada kategori Qualified yang sudah sangat menumpuk di kala itu.
 
 ### April
