@@ -511,7 +511,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ### Agustus
 
-- **2021-08-14:** osu!taiko began a trial of Beatmap Nominator evaluations mimicking osu!'s trial from 2021-05-12.
+- **2021-08-14:** Mode osu!taiko mulai memberlakukan proses uji coba evaluasi Beatmap Nominator sebagaimana yang telah dilakukan oleh mode osu! sebelumnya.
 
 ### September
 
