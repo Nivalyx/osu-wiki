@@ -69,7 +69,7 @@ Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** 
 
 | Tournament | Title | Title holders |
 | :-:| :-- | :-- |
-| [TWC 2011](/wiki/Tournaments/TWC/2011) | Former osu!taiko Champion: #1 |
+| [TWC 2011](/wiki/Tournaments/TWC/2011) | Former osu!taiko Champion: #1 | ![][flag_TW] [Numbers 596108](https://osu.ppy.sh/users/194653), ![][flag_TW] [TW-KUMA01](https://osu.ppy.sh/users/244499) |
 
 ### Official mapping contest winners
 
