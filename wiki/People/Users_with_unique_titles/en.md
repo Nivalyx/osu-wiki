@@ -6,17 +6,18 @@ User titles are typically associated with [user groups](/wiki/People/The_Team#us
 
 ### Current World Cup title holders
 
-One of the prizes given to first-place winners of [official World Cups](/wiki/Tournaments#official-world-cups) is a user title that lasts for roughly one year.
+Each year, osu! bestows the first-place winners of the [official World Cups](/wiki/Tournaments#official-world-cups) with a special user title that lasts for roughly one year.
 
-Winners of [OWC 2020](/wiki/Tournaments/OWC/2020) with the **osu! Champion** user title:
+Winners of [OWC 2021](/wiki/Tournaments/OWC/2021) with the **osu! Champion** user title:
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
-- ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
-- ![][flag_US] [BTMC](https://osu.ppy.sh/users/3171691)
+- ![][flag_US] [Aricin](https://osu.ppy.sh/users/1419095)
+- ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ![][flag_US] [Exarch](https://osu.ppy.sh/users/5370153)
 - ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958)
 - ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650)
-- ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603)
-- ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
+- ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211)
+- ![][flag_US] [Utami](https://osu.ppy.sh/users/7512553)
 
 Winners of [TWC 2021](/wiki/Tournaments/TWC/2021) with the **osu!taiko Champion** user title:
 
@@ -46,7 +47,7 @@ Winners of [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) with the **osu!mania 4K 
 
 ### Previous World Cup title holders
 
-a
+Beginning in November 2021, 
 
 ### Official mapping contest winners
 
