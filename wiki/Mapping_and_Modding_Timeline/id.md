@@ -1,6 +1,6 @@
 # Sejarah mapping dan modding
 
-Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berkembang seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu bentuk dokumentasi terhadap berbagai perubahan yang terjadi dari masa ke masa dan sebagai acuan bagi mereka yang ingin mencetuskan ide-ide baru terkait mapping dan modding ke depannya.
+Sistem mapping dan modding yang berlaku di dalam lingkungan osu! senantiasa berubah seiring waktu. Artikel **Sejarah mapping dan modding** di bawah ini ditujukan sebagai suatu napak tilas akan berbagai perubahan yang terjadi dari masa ke masa dan sebagai acuan bagi mereka yang ingin mencetuskan ide-ide baru untuk mengembangkan sistem mapping dan modding yang ada ke depannya.
 
 ## 2007
 
@@ -487,8 +487,8 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 - **2021-03-09:** Sejalan dengan berbagai perubahan yang dicanangkan pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) di kala itu, Ranking Criteria mulai mempersyaratkan para mapper untuk menyertakan sumber gambar latar dan media-media lainnya pada kolom deskripsi beatmap-beatmap yang mereka miliki.
 - **2021-03-15:** Persyaratan bagi para mantan anggota Beatmap Nominator untuk dapat bergabung kembali ke regu Beatmap Nominator dilonggarkan.
   - Para calon anggota Beatmap Nominator tetap harus terlebih dahulu mendaftar dan mengikuti proses seleksi seperti pada umumnya. Meskipun demikian, para calon anggota yang dulu pernah menjabat sebagai anggota Beatmap Nominator kini dapat mendaftar hanya dengan menyertakan aktivitas-aktivitas modding mereka selama 1-2 bulan ke belakang (alih-alih 3 bulan sebagaimana yang sebelumnya dipersyaratkan).<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
-- **2021-03-16:** Para anggota Beatmap Nominator mulai dihadiahkan osu!supporter secara cuma-cuma.
-  - This change was made in response to a lack of incentives for dedicated members of the mapping scene. <!-- https://osu.ppy.sh/community/forums/topics/1268711?n=58 -->
+- **2021-03-16:** Para anggota Beatmap Nominator mulai dapat menikmati osu!supporter secara cuma-cuma.
+  - Penghadiahan osu!supporter ini merupakan respon atas  This change was made in response to a lack of incentives for dedicated members of the mapping scene. <!-- https://osu.ppy.sh/community/forums/topics/1268711?n=58 -->
 - **2021-03-16:** Batas jumlah beatmap yang dapat di-rank per mode permainan per harinya ditingkatkan dari 8 menjadi 10 untuk mengurangi jumlah beatmap pada kategori Qualified yang sudah sangat menumpuk di kala itu.
 
 ### April
