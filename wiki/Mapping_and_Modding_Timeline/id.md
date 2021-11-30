@@ -521,7 +521,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
   - osu!mania Ranking Criteria changes were put up for discussion and, if agreed upon, may take effect soon. <!-- document effects of this with next update https://osu.ppy.sh/community/forums/topics/1418542?n=1 / https://osu.ppy.sh/community/forums/topics/1418560?n=1 -->
 - **2021-09-24:** [Proses penjaminan mutu (*quality assurance*)](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) beatmap-beatmap yang ada tidak lagi diikutsertakan ke dalam riwayat aktivitas para anggota Beatmap Nominator. <!-- https://osu.ppy.sh/community/forums/topics/1423554?n=1 -->
   - This was implemented because it seemed like some users were using this as a loophole to avoid actively contributing as a Beatmap Nominator.
-  - Prior to this change, every QA check was considered equal to 1/4 of a nomination.
+  - Sebelumnya, penjaminan mutu satu beatmap memiliki bobot yang sama dengan 1/4 nominasi.
 
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
