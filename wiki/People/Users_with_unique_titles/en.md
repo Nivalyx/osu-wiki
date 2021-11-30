@@ -4,7 +4,7 @@ User titles are typically associated with [user groups](/wiki/People/The_Team#us
 
 ## By category, with reasons
 
-### World Cup winners
+### Current World Cup title holders
 
 One of the prizes given to first-place winners of [official World Cups](/wiki/Tournaments#official-world-cups) is a user title that lasts for roughly one year.
 
@@ -43,6 +43,10 @@ Winners of [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) with the **osu!mania 4K 
 - ![][flag_BR] [Liight00](https://osu.ppy.sh/users/13601876)
 - ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019)
 - ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363)
+
+### Previous World Cup title holders
+
+a
 
 ### Official mapping contest winners
 
@@ -96,9 +100,10 @@ Since 2020, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)' and 
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)¹
 - ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)¹
+- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)¹
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
 
-¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), and ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) were all awarded with the **Elite Nominator II** title instead for having been named as Elite Nominators for two years in a row.
+¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), and ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) were all awarded with the **Elite Nominator II** title instead for having been named as Elite Nominators for two years in a row.
 
 ### Aspire mapping contest winners
 
@@ -316,6 +321,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Elite Mapper II |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_MY] [Miraie](https://osu.ppy.sh/users/6483437) | Featured Artist |
+| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Elite Nominator II |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
 | ![][flag_NL] [Mr HeliX](https://osu.ppy.sh/users/2330619) | Elite Mapper: Aspirant |
