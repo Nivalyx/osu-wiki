@@ -388,7 +388,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 
 ### Desember
 
-- **2018-12-12:** tim inti osu! secara resmi [menjauhkan diri dari praktek komisi beatmap (*beatmap commission*)](https://osu.ppy.sh/community/forums/topics/840838) yang tidak beritikad baik.
+- **2018-12-12:** Tim inti osu! menyatakan bahwa [osu! secara resmi menjauhkan diri dari praktek komisi beatmap (*beatmap commission*)](https://osu.ppy.sh/community/forums/topics/840838) yang tidak beritikad baik.
   - Dalam pengumumannya, tim inti osu! turut menambahkan bahwa walaupun praktek komisi beatmap yang demikian tidak dapat sepenuhnya diberantas, tim inti osu! akan secara proaktif turun tangan untuk menindak anggota-anggota BN/QAT yang terlibat dalam praktek terkait.
 - **2018-12-17:** ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) ditunjuk sebagai [QAT leader](/wiki/Modding/QAT_Leaders) setelah ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) mengundurkan diri.
   - Ia melanjutkan tugas QAT leader sebelumnya dalam bekerja sama dengan tim inti osu! untuk memoderasi lingkungan mapping dan modding secara keseluruhan. <!-- source is discord logs -->
@@ -456,7 +456,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 
 - **2020-04-11:** Buletin Mappers' Report <!-- TODO: stub --> yang diprakarsai oleh ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) mulai dipublikasikan secara rutin pada laman berita osu! setiap bulannya. Buletin ini merangkum hal-hal terkini terkait mapping dan modding di dalam lingkungan osu! dari waktu ke waktu.
 
-### October
+### Oktober
 
 - **2020-10-02:** Dokumen [Beatmap Nominator Expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) dicanangkan untuk menanggapi kekhawatiran publik seputar perilaku dan etos kerja sebagian anggota BN yang dinilai buruk di kala itu. <!-- https://github.com/ppy/osu-wiki/pull/4281 -->
   - Banyak pihak yang memandang bahwa terdapat anggota-anggota BN di kala itu yang secara umum bermasalah. Mereka dinilai sulit untuk didekati, berperilaku tidak sepantasnya, dan memiliki standar ranking yang dipertanyakan.
@@ -468,7 +468,7 @@ Secara keseluruhan, terdapat **3217 beatmap** yang di-rank sepanjang tahun 2019.
 - **2020-11-30:** Persyaratan untuk dapat mengusung beatmap yang memiliki lebih dari satu mode permainan (*hybrid*) ke dalam kategori Qualified diubah dari 2 nominasi utuh menjadi 2 nominasi per mode permainan yang ada. <!-- https://github.com/ppy/osu-web/pull/6832 -->
   - Masing-masing anggota Beatmap Nominator hanya dapat memberikan nominasi pada satu mode permainan per beatmapnya.
 
-### December
+### Desember
 
 - **2020-12-17:** [Situs web Beatmap Nominator](https://bn.mappersguild.com/) mulai membuka layanan untuk meninjau kelayakan konten pada beatmap-beatmap yang ditenggarai mengandung konten-konten yang tidak pantas.
 
@@ -482,18 +482,18 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
   - Tata penggunaan konten-konten visual yang ada diatur pada [dokumen pertimbangan konten visual berikut](/wiki/Rules/Visual_Content_Considerations).
 - **2021-01-30:** Kanal obrolan `#modhelp` berganti nama menjadi `#mapping` untuk lebih mencerminkan topik diskusi yang dikehendaki di dalamnya.
 
-### March
+### Maret
 
-- **2021-03-09:** In conjunction with the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines), an addition to the Ranking Criteria began requiring mappers to source their background images and other media in their descriptions.
+- **2021-03-09:** Sejalan dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines), Ranking Criteria mulai mempersyaratkan para mapper untuk menyertakan sumber gambar latar dan media-media lainnya pada kolom deskripsi beatmap-beatmap yang mereka miliki.
 - **2021-03-15:** Requirements for re-joining the Beatmap Nominators were loosened.
   - All applicants needed to undergo the application, but returning group members had shorter cooldown options and were allowed to provide 1-2 months of modding activity instead of the previous 3 month standard.<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
 - **2021-03-16:** Beatmap Nominators were given automatically renewing osu!supporter.
   - This change was made in response to a lack of incentives for dedicated members of the mapping scene. <!-- https://osu.ppy.sh/community/forums/topics/1268711?n=58 -->
-- **2021-03-16:** The limit of ranked maps per day per mode was increased from 8 to 10 to compensate for an overflowing Qualified beatmaps category.
+- **2021-03-16:** Batas jumlah beatmap yang dapat di-rank per mode permainan per harinya ditingkatkan dari 8 menjadi 10 untuk mengurangi jumlah beatmap yang menumpuk di kategori Qualified di kala itu.
 
 ### April
 
-- **2021-04-08:** A Ranking Criteria Rule disallowing multiple Qualified beatmaps of the same song was removed.
+- **2021-04-08:** Peraturan Ranking Criteria yang mendihapus. A Ranking Criteria Rule disallowing multiple Qualified beatmaps of the same song was removed.
   - Concerns about malicious disqualification practices were relieved by this change.
 
 ### May
