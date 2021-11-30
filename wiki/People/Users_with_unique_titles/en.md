@@ -6,7 +6,7 @@ User titles are typically associated with [user groups](/wiki/People/The_Team#us
 
 ### Current World Cup title holders
 
-Each year, osu! bestows the first-place winners of the [official World Cups](/wiki/Tournaments#official-world-cups) with a special user title which lasts until the conclusion of the following corresponding World Cup iteration.
+Each year, osu! bestows the first-place winners of the [official World Cups](/wiki/Tournaments#official-world-cups) with the **osu!/osu!taiko/osu!catch/osu!mania Champion** user title which lasts until the conclusion of the following corresponding World Cup iteration.
 
 Winners of [OWC 2021](/wiki/Tournaments/OWC/2021) with the **osu! Champion** user title:
 
@@ -47,7 +47,7 @@ Winners of [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) with the **osu!mania 4K 
 
 ### Previous World Cup title holders
 
-Beginning in November 2021, 
+Beginning in November 2021, osu! retroac
 
 ### Official mapping contest winners
 
