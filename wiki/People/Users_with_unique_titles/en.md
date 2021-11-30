@@ -74,6 +74,11 @@ Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** 
 | [TWC #3](/wiki/Tournaments/TWC/3) | Former osu!taiko Champion: #3 | ![][flag_TW] [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), ![][flag_TW] [oiu850714](https://osu.ppy.sh/users/437607), ![][flag_TW] [yikao](https://osu.ppy.sh/users/352674), ![][flag_TW] [zx\_baka\_0502442](https://osu.ppy.sh/users/457766) |
 | [TWC 2014](/wiki/Tournaments/TWC/2014) | Former osu!taiko Champion: 2014 | ![][flag_JP] [NeGaTiVeMiNd](https://osu.ppy.sh/users/965038), ![][flag_JP] [Orukaa](https://osu.ppy.sh/users/987895), ![][flag_JP] [pagr42](https://osu.ppy.sh/users/1500725), ![][flag_JP] [reg](https://osu.ppy.sh/users/2335982), ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) |
 | [TWC 2015](/wiki/Tournaments/TWC/2015) | Former osu!taiko Champion: 2015 | ![][flag_JP] [\_Rydan](https://osu.ppy.sh/users/5309575), ![][flag_JP] [1RoHa\_](https://osu.ppy.sh/users/4632503), ![][flag_JP][cagalin](https://osu.ppy.sh/users/2586173) |
+| [TWC 2016](/wiki/Tournaments/TWC/2016) | Former osu!taiko Champion: 2016 | ![][flag_JP] [coDMo2ooo](https://osu.ppy.sh/users/3644233), ![][flag_JP] [Pitapan](https://osu.ppy.sh/users/695452) |
+| [TWC 2017](/wiki/Tournaments/TWC/2017) | Former osu!taiko Champion: 2017 | ![][flag_JP] [\_yu68](https://osu.ppy.sh/users/6170507), ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968), ![][flag_JP] [shinchikuhome](https://osu.ppy.sh/users/3174184), ![][flag_JP] [sobatsuyu](https://osu.ppy.sh/users/2076374) |
+| [TWC 2018](/wiki/Tournaments/TWC/2018) | Former osu!taiko Champion: 2018 | ![][flag_JP] [\_Rise](https://osu.ppy.sh/users/5217107), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767), ![][flag_JP] [zkane2](https://osu.ppy.sh/users/6359835) |
+| [TWC 2019](/wiki/Tournaments/TWC/2019) | Former osu!taiko Champion: 2019 | ![][flag_JP] [isobe](https://osu.ppy.sh/users/8047347), ![][flag_JP] [v2fax](https://osu.ppy.sh/users/7739269) |
+| [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196) |
 
 ### Official mapping contest winners
 
