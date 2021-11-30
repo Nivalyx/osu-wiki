@@ -500,7 +500,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 - **2021-05-12:** Para anggota Nomination Assessment Team mulai membuka kesempatan kepada para anggota Beatmap Nominator untuk dapat mengevaluasi kinerja anggota-anggota Beatmap Nominator lainnya. <!-- https://osu.ppy.sh/community/forums/topics/1400803?n=1 -->
   - Proses ini bersifat uji coba dan hanya melibatkan mode osu!.
-  - Dalam proses ini, para anggota Beatmap Nominator yang terpilih diberikan kewenangan yang serupa dengan NAT dalam menentukan hasil aplikasi calon-calon anggota Beatmap Nominator dan hasil evaluasi anggota-anggota Beatmap Nominator lainnya.
+  - Dalam proses ini, para anggota Beatmap Nominator yang terpilih diberikan kewenangan yang serupa dengan NAT dalam menentukan hasil aplikasi calon-calon anggota BN dan hasil evaluasi anggota-anggota BN lainnya.
   - The first batch of trial members included ~10 users, while the second batch included ~20 users.
 - **2021-05-13:** An option to change difficulty owner was added to the Beatmap Discussion page. <!-- https://github.com/ppy/osu-web/pull/7517 -->
   - This allowed guest difficulty creators to resolve issues on their beatmaps. Only the mapset host could resolve issues prior to this change, which was a major frustration to mappers.
