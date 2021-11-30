@@ -487,13 +487,13 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 - **2021-03-09:** Sejalan dengan berbagai perubahan yang dicanangkan pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) di kala itu, Ranking Criteria mulai mempersyaratkan para mapper untuk menyertakan sumber gambar latar dan media-media lainnya pada kolom deskripsi beatmap-beatmap yang mereka miliki.
 - **2021-03-15:** Persyaratan bagi para mantan anggota Beatmap Nominator untuk dapat bergabung kembali ke regu Beatmap Nominator dilonggarkan.
   - Para calon anggota Beatmap Nominator tetap harus terlebih dahulu mendaftar dan mengikuti proses seleksi seperti pada umumnya. Meskipun demikian, para calon anggota yang dulu pernah menjabat sebagai anggota Beatmap Nominator kini dapat mendaftar hanya dengan menyertakan aktivitas-aktivitas modding mereka selama 1-2 bulan ke belakang (alih-alih 3 bulan sebagaimana yang sebelumnya dipersyaratkan).<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
-- **2021-03-16:** Beatmap Nominators were given automatically renewing osu!supporter.
+- **2021-03-16:** Para anggota Beatmap Nominator osu!supporter secara cBeatmap Nominators were given automatically renewing osu!supporter.
   - This change was made in response to a lack of incentives for dedicated members of the mapping scene. <!-- https://osu.ppy.sh/community/forums/topics/1268711?n=58 -->
 - **2021-03-16:** Batas jumlah beatmap yang dapat di-rank per mode permainan per harinya ditingkatkan dari 8 menjadi 10 untuk mengurangi jumlah beatmap pada kategori Qualified yang sudah sangat menumpuk di kala itu.
 
 ### April
 
-- **2021-04-08:** Peraturan Ranking Criteria yang medihapus. A Ranking Criteria Rule disallowing multiple Qualified beatmaps of the same song was removed.
+- **2021-04-08:** Peraturan Ranking Criteria yang melarang terdapatnya beatmap-beatmap dengan lagu yang sama pada kategori Qualified dalam satu waktu resmi dihapus.
   - Concerns about malicious disqualification practices were relieved by this change.
 
 ### May
