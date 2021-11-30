@@ -47,13 +47,13 @@ Winners of [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) with the **osu!mania 4K 
 
 ### Previous World Cup title holders
 
-Starting from November 2021, winners of past World Cups are retroactively awarded with the **Former osu!/osu!taiko/osu!catch/osu!mania Champion** user title. In cases where a player has won multiple World Cups, they are awarded with the latest they have won.
+Starting from November 2021, winners of past World Cups are retroactively awarded with the **Former osu!/osu!taiko/osu!catch/osu!mania Champion** user title. For players who have won multiple World Cups, they are given a title that corresponds with the latest tournament they have won.
 
 Winners of previous osu! World Cups with the **Former osu! Champion** user title:
 
 | Tournament | Title | Title holders |
 | -- | :-- | :-- |
-| [OWC #1](/wiki/Tournaments/OWC/1) | Former osu! Champion: #1 | ![][flag_TW] [0222101916], a |
+| [OWC #1](/wiki/Tournaments/OWC/1) | Former osu! Champion: #1 | ![][flag_TW] [0222101916](https://osu.ppy.sh/users/122650), ![][flag_TW] [Rucker](https://osu.ppy.sh/users/147515), ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623),  |
 
 ### Official mapping contest winners
 
