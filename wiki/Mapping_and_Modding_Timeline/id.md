@@ -487,16 +487,16 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 - **2021-03-09:** Sejalan dengan berbagai perubahan yang dicanangkan pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) di kala itu, Ranking Criteria mulai mempersyaratkan para mapper untuk menyertakan sumber gambar latar dan media-media lainnya pada kolom deskripsi beatmap-beatmap yang mereka miliki.
 - **2021-03-15:** Persyaratan bagi para mantan anggota Beatmap Nominator untuk dapat bergabung kembali ke regu Beatmap Nominator dilonggarkan.
   - Para calon anggota Beatmap Nominator tetap harus terlebih dahulu mendaftar dan mengikuti proses seleksi seperti pada umumnya. Meskipun demikian, para calon anggota yang dulu pernah menjabat sebagai anggota Beatmap Nominator kini dapat mendaftar hanya dengan menyertakan aktivitas-aktivitas modding mereka selama 1-2 bulan ke belakang (alih-alih 3 bulan sebagaimana yang sebelumnya dipersyaratkan).<!-- https://github.com/ppy/osu-wiki/pull/5027/files -->
-- **2021-03-16:** Para anggota Beatmap Nominator osu!supporter secara cBeatmap Nominators were given automatically renewing osu!supporter.
+- **2021-03-16:** Para anggota Beatmap Nominator mulai dihadiahkan osu!supporter secara cuma-cuma.
   - This change was made in response to a lack of incentives for dedicated members of the mapping scene. <!-- https://osu.ppy.sh/community/forums/topics/1268711?n=58 -->
 - **2021-03-16:** Batas jumlah beatmap yang dapat di-rank per mode permainan per harinya ditingkatkan dari 8 menjadi 10 untuk mengurangi jumlah beatmap pada kategori Qualified yang sudah sangat menumpuk di kala itu.
 
 ### April
 
-- **2021-04-08:** Peraturan Ranking Criteria yang melarang terdapatnya beatmap-beatmap dengan lagu yang sama pada kategori Qualified dalam satu waktu resmi dihapus.
+- **2021-04-08:** Peraturan Ranking Criteria yang melarang terdapatnya beatmap-beatmap Qualified dengan lagu yang sama pada satu waktu resmi dihapus.
   - Concerns about malicious disqualification practices were relieved by this change.
 
-### May
+### Mei
 
 - **2021-05-12:** The Nomination Assessment Team began a trial for new Beatmap Nominator evaluations. <!-- https://osu.ppy.sh/community/forums/topics/1400803?n=1 -->
   - This trial only included osu! members and concluded in August.
@@ -505,11 +505,11 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 - **2021-05-13:** An option to change difficulty owner was added to the Beatmap Discussion page. <!-- https://github.com/ppy/osu-web/pull/7517 -->
   - This allowed guest difficulty creators to resolve issues on their beatmaps. Only the mapset host could resolve issues prior to this change, which was a major frustration to mappers.
 
-### June
+### Juni
 
-- **2021-06-14:** The Global Moderation Team began accepting applications from mapping-focused users to bridge the growing tension between the GMT and mapping/modding scenes. <!-- https://discord.com/channels/316154420591067136/316586967171203075/854061295702769694 / document any effects of this later -->
+- **2021-06-14:** Global Moderation Team mulai merekrut anggota-anggota baru yang dikhususkan untuk memoderasi lingkungan mapping dan modding untuk meredam ketegangan antara para anggota GMT dan para mapper di kala itu. <!-- https://discord.com/channels/316154420591067136/316586967171203075/854061295702769694 / document any effects of this later -->
 
-### August 
+### Agustus
 
 - **2021-08-14:** osu!taiko began a trial of Beatmap Nominator evaluations mimicking osu!'s trial from 2021-05-12.
 
