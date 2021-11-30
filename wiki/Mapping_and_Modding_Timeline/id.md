@@ -410,7 +410,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 ### Maret
 
-- **2019-03-01:** [Mappers' Guild](/wiki/Mappers_Guild) mulai menerima siapapun yang memiliki setidaknya 3 beatmap Ranked untuk menjadi anggota tanpa terkecuali.
+- **2019-03-01:** [Mappers' Guild](/wiki/Mappers_Guild) mulai menerima siapapun yang memiliki setidaknya 3 beatmap Ranked untuk dapat menjadi anggota tanpa terkecuali.
   - Sistem penerimaan anggota Mappers' Guild yang lebih terbuka ini mengakibatkan jumlah beatmap dari lagu-lagu [Featured Artist](/wiki/Featured_Artists) yang ada meningkat tajam.
   - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!dev](/wiki/osu!dev_Discord_server) untuk mendukung perubahan ini.
 - **2019-03-13:** Peraturan yang mempersyaratkan selang waktu antar nominasi pertama dan nominasi kedua pada suatu beatmap harus lebih dari 24 jam dihapus.
@@ -493,7 +493,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ### April
 
-- **2021-04-08:** Peraturan Ranking Criteria yang melarang terdapatnya beatmap-beatmap Qualified dengan lagu yang sama pada satu waktu resmi dihapus.
+- **2021-04-08:** Peraturan Ranking Criteria yang melarang terdapatnya beatmap-beatmap Qualified dengan lagu yang sama pada satu waktu dihapus.
   - Peraturan ini dicabut karena rawannya praktek diskualifikasi pada beatmap yang mengusung lagu-lagu populer yang tidak beritikad baik di kala itu.
 
 ### Mei
@@ -503,7 +503,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
   - Dalam proses ini, para anggota Beatmap Nominator yang terpilih diberikan kewenangan yang serupa dengan NAT dalam mengevaluasi kinerja anggota tim lainnya dan menentukan hasil-hasil aplikasi yang NAT terima.
   - Proses ini dilaksanakan dalam dua siklus, di mana siklus pertama melibatkan ~10 orang anggota BN dan siklus kedua melibatkan ~20 orang anggota BN.
 - **2021-05-13:** Fitur untuk mengubah pemilik tingkat kesulitan diluncurkan pada laman diskusi masing-masing beatmap. <!-- https://github.com/ppy/osu-web/pull/7517 -->
-  - Fitur ini memungkinkan para pemilik *guest difficulty* untuk dapat menjawab dan menutup isu-isu yang ada pada tingkat kesulitan yang mereka miliki. Sebelumnya, Only the mapset host could resolve issues prior to this change, which was a major frustration to mappers.
+  - Fitur ini memungkinkan para pemilik *guest difficulty* untuk dapat menjawab dan menutup isu-isu yang ada pada tingkat kesulitan yang mereka miliki. Sebelumnya, isu-isu yang ada hanya dapat dijawab dan ditutup oleh para pemilik mapset (*mapset host*) yang sering merepotkan.
 
 ### Juni
 
