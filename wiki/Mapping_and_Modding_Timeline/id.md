@@ -503,7 +503,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
   - Dalam proses ini, para anggota Beatmap Nominator yang terpilih diberikan kewenangan yang serupa dengan NAT dalam mengevaluasi kinerja anggota tim lainnya dan menentukan hasil-hasil aplikasi yang NAT terima.
   - Proses ini dilaksanakan dalam dua siklus, di mana siklus pertama melibatkan ~10 orang anggota BN dan siklus kedua melibatkan ~20 orang anggota BN.
 - **2021-05-13:** Fitur untuk mengubah pemilik tingkat kesulitan diluncurkan pada laman diskusi masing-masing beatmap. <!-- https://github.com/ppy/osu-web/pull/7517 -->
-  - Fitur ini memungkinkan para pemilik *guest difficulty* untuk dapat menjawab dan menutup isu-isu yang ada pada tingkat kesulitan yang mereka miliki. Sebelumnya, isu-isu yang ada hanya dapat dijawab dan ditutup oleh para pemilik mapset (*mapset host*) yang sering merepotkan.
+  - Fitur ini memungkinkan para pemilik *guest difficulty* untuk dapat menjawab dan menutup isu-isu yang ada pada tingkat kesulitan yang mereka miliki. Sebelumnya, isu-isu yang ada hanya dapat dijawab dan ditutup oleh para pemilik mapset (*mapset host*) yang sering kali merepotkan para pemilik *guest difficulty*.
 
 ### Juni
 
@@ -515,9 +515,9 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 ### September
 
-- **2021-09-11:** ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) changed Ranking Criteria rule about the Source field. <!-- https://github.com/ppy/osu-wiki/commit/02dee3fff09c3e890dc408271bb3d2d93c3c5b2d -->
-  - Mapping community members were unhappy with the lack of public discussion behind this change and later made adaptations to close new loopholes. <!-- https://osu.ppy.sh/community/forums/topics/1417764?n=1 -->
-- **2021-09-18:** After a decade-long hiatus, the osu! community meetings returned in the form of stage voice chats on the osu!dev Discord. The first primary topic addressed was [concerns with osu!mania's Ranking Criteria](https://osu.ppy.sh/community/forums/topics/1388182?n=1), along with other issues like general Ranking Criteria complexity, engaging with newer mappers, and more.
+- **2021-09-11:** ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) mengubah peraturan Ranking Criteria yang terkait dengan penggunaan kolom Source. <!-- https://github.com/ppy/osu-wiki/commit/02dee3fff09c3e890dc408271bb3d2d93c3c5b2d -->
+  - Pengubahan yang berlangsung secara sepihak ini mengagetkan para mapper dan modder, yang kemudian berusaha untuk Mapping community members were unhappy with the lack of public discussion behind this change and later made adaptations to close new loopholes. <!-- https://osu.ppy.sh/community/forums/topics/1417764?n=1 -->
+- **2021-09-18:** Setelah tidak dilaksanakan selama lebih dari satu dekade, pertemuan komunitas osu! (*osu! community meetings*) kembali diadakan pada ruang *voice chat* khusus yang dibuat pada server Discord osu!dev. Dalam pertemuan pertamanya, para partisipan membahas berbagai topik yang menyangkut antara lain [masalah-masalah yang dihadapi oleh Ranking Criteria mode osu!mania di kala itu](https://osu.ppy.sh/community/forums/topics/1388182?n=1), kondisi Ranking Criteria secara keseluruhan yang dinilai terlalu kompleks, cara agar mapper-mapper baru dapat lebih aktif di komunitas mapping, dan lain sebagainya.
   - osu!mania Ranking Criteria changes were put up for discussion and, if agreed upon, may take effect soon. <!-- document effects of this with next update https://osu.ppy.sh/community/forums/topics/1418542?n=1 / https://osu.ppy.sh/community/forums/topics/1418560?n=1 -->
 - **2021-09-24:** [Quality Assurance checks](/wiki/People/The_Team/Beatmap_Nominators/General_Information#quality-assurance) no longer counted towards Beatmap Nominator activity. <!-- https://osu.ppy.sh/community/forums/topics/1423554?n=1 -->
   - This was implemented because it seemed like some users were using this as a loophole to avoid actively contributing as a Beatmap Nominator.
