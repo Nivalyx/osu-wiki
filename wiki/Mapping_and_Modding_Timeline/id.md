@@ -494,7 +494,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 ### April
 
 - **2021-04-08:** Peraturan Ranking Criteria yang melarang terdapatnya beatmap-beatmap Qualified dengan lagu yang sama pada satu waktu resmi dihapus.
-  - Peraturan ini dicabut karena rawannya praktek diskualifikasi pada beatmap-beatmap dengan lagu-lagu populer yang tidak beritikad baik di kala itu.
+  - Peraturan ini dicabut karena rawannya praktek diskualifikasi pada beatmap-beatmap yang mengusung lagu-lagu populer yang tidak beritikad baik di kala itu.
 
 ### Mei
 
