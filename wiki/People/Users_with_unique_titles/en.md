@@ -98,12 +98,11 @@ Since 2020, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)' and 
 
 - ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)¹
-- ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)¹
 - ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613)¹
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)¹
 - ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872)
 
-¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), and ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) were all awarded with the **Elite Nominator II** title instead for having been named as Elite Nominators for two years in a row.
+¹ ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410), ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613), and ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) were all awarded with the **Elite Nominator II** title instead for having been named as Elite Nominators for two years in a row.
 
 ### Aspire mapping contest winners
 
@@ -294,7 +293,6 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
 | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
-| ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Elite Nominator II |
 | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | osu!artist |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Elite Mapper |
 | ![][flag_US] [kablaze](https://osu.ppy.sh/users/3043603) | osu! Champion |
