@@ -52,7 +52,7 @@ Starting from November 2021, winners of past World Cups are retroactively awarde
 Winners of previous osu! World Cups with the **Former osu! Champion** user title:
 
 | Tournament | Title | Title holders |
-| -- | :-- | :-- |
+| -:- | :-- | :-- |
 | [OWC #1](/wiki/Tournaments/OWC/1) | Former osu! Champion: #1 | ![][flag_TW] [0222101916](https://osu.ppy.sh/users/122650), ![][flag_TW] [Rucker](https://osu.ppy.sh/users/147515), ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623),  |
 
 ### Official mapping contest winners
