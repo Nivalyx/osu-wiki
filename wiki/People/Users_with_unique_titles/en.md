@@ -54,9 +54,9 @@ Winners of previous osu! World Cups with the **Former osu! Champion** user title
 | Tournament | Title | Title holders |
 | :-- | :-- | :-- |
 | [OWC #1](/wiki/Tournaments/OWC/1) | Former osu! Champion: #1 | ![][flag_TW] [0222101916](https://osu.ppy.sh/users/122650), ![][flag_TW] [Rucker](https://osu.ppy.sh/users/147515), ![][flag_TW] [Tomoka Rin](https://osu.ppy.sh/users/125308), ![][flag_TW] [Uan](https://osu.ppy.sh/users/147623), ![][flag_TW] [ZRush](https://osu.ppy.sh/users/398097) |
-| [OWC #2](/wiki/Tournaments/OWC/2) | Former osu! Champion: #2 | ![][flag_SK] [Remilia-Scarlet](https://osu.ppy.sh/users/602783) |
-| [OWC #3](/wiki/Tournaments/OWC/3) | Former osu! Champion: #3 | ![][flag_SK] [\[ Beatrice \]](https://osu.ppy.sh/users/683791), ![][flag_SK] [chocomint](https://osu.ppy.sh/users/124493), ![][flag_SK] [KRZY](https://osu.ppy.sh/users/114017), ![][flag_SK] [Reisen Udongein](https://osu.ppy.sh/users/232942) |
-| [OWC 2013](/wiki/Tournaments/OWC/2013) | Former osu! Champion: 2013 | ![][flag_SK] [CheEZ](https://osu.ppy.sh/users/272117), ![][flag_SK] [Dungeon](https://osu.ppy.sh/users/461720), ![][flag_SK] [ffury](https://osu.ppy.sh/users/2056071), ![][flag_SK] [Reimu-Desu](https://osu.ppy.sh/users/948713), ![][flag_SK] [sayonara-bye](https://osu.ppy.sh/users/713266), ![][flag_SK] [Shizuru-](https://osu.ppy.sh/users/1341421), ![][flag_SK] [Tengu](https://osu.ppy.sh/users/1341421), ![][flag_SK] [Vendemmia](https://osu.ppy.sh/users/139670) |
+| [OWC #2](/wiki/Tournaments/OWC/2) | Former osu! Champion: #2 | ![][flag_KR] [Remilia-Scarlet](https://osu.ppy.sh/users/602783) |
+| [OWC #3](/wiki/Tournaments/OWC/3) | Former osu! Champion: #3 | ![][flag_KR] [\[ Beatrice \]](https://osu.ppy.sh/users/683791), ![][flag_KR] [chocomint](https://osu.ppy.sh/users/124493), ![][flag_KR] [KRZY](https://osu.ppy.sh/users/114017), ![][flag_KR] [Reisen Udongein](https://osu.ppy.sh/users/232942) |
+| [OWC 2013](/wiki/Tournaments/OWC/2013) | Former osu! Champion: 2013 | ![][flag_KR] [CheEZ](https://osu.ppy.sh/users/272117), ![][flag_KR] [Dungeon](https://osu.ppy.sh/users/461720), ![][flag_KR] [ffury](https://osu.ppy.sh/users/2056071), ![][flag_KR] [Reimu-Desu](https://osu.ppy.sh/users/948713), ![][flag_KR] [sayonara-bye](https://osu.ppy.sh/users/713266), ![][flag_KR] [Shizuru-](https://osu.ppy.sh/users/1341421), ![][flag_KR] [Tengu](https://osu.ppy.sh/users/1341421), ![][flag_KR] [Vendemmia](https://osu.ppy.sh/users/139670) |
 
 ### Official mapping contest winners
 
