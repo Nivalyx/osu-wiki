@@ -243,7 +243,7 @@ These storyboarders were awarded the **Elite Storyboarder** title for demonstrat
 
 ## Gameplay-related
 
-These players earned their titles through either a crazy gameplay achievement or completion of a specific challenge.
+These players were awarded their respective titles through either a crazy gameplay achievement or completion of a specific challenge.
 
 | User | Title | Achievement |
 | :-- | :-- | :-- |
@@ -254,6 +254,8 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Won [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ## Contributors
+
+These users were awarded their respective titles for having significantly contributed to or being an exemplary figure in their respective field of expertise.
 
 <!-- TODO: reasons -->
 
