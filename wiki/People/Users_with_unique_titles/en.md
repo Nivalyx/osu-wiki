@@ -100,7 +100,10 @@ Winners of previous osu!mania World Cups with the **Former osu!mania Champion** 
 | [MWC 2014 (7K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 7K Champion: 2014 | ![][flag_KR] [jhlee0133] (https://osu.ppy.sh/users/140148) |
 | [MWC 4K 2015)](/wiki/Tournaments/MWC/2015) | Former osu!mania 4K Champion: 2015 | ![][flag_US][Chrubble](https://osu.ppy.sh/users/2594280), ![][flag_US] [EtienneXC](https://osu.ppy.sh/users/5610085), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [Shadow\_SM](https://osu.ppy.sh/users/4552987), ![][flag_US] [Solara](https://osu.ppy.sh/users/4830970), ![][flag_US] [Zyph](https://osu.ppy.sh/users/1600432) |
 | [MWC 7K 2016)](/wiki/Tournaments/MWC/2016_7K) | Former osu!mania 7K Champion: 2016 | ![flag_CN] [4kGameBye](https://osu.ppy.sh/users/89545), ![][flag_CN] [Basillisa](https://osu.ppy.sh/users/6004963), ![][flag_CN] [ljqandylee](https://osu.ppy.sh/users/141469), ![][flag_CN] [KafuuChino](https://osu.ppy.sh/users/427355), ![][flag_CN] [Sern888](https://osu.ppy.sh/users/2089244), ![][flag_CN] [SweetSoul](https://osu.ppy.sh/users/220624) |
-| [MWC 4K 2016)](/wiki/Tournaments/MWC/2016_4K) | Former osu!mania 4K Champion: 2016 |
+| [MWC 4K 2016)](/wiki/Tournaments/MWC/2016_4K) | Former osu!mania 4K Champion: 2016 | ![][flag_KR] [\_GUMA\_](https://osu.ppy.sh/users/2306590), ![flag_KR] [w1sp](https://osu.ppy.sh/users/2770796) |
+| [MWC 7K 2017)](/wiki/Tournaments/MWC/2017_7K) | Former osu!mania 7K Champion: 2017 | ![][flag_KR] [Cobo-](https://osu.ppy.sh/users/1482965), ![][flag_KR] [cr1sp](https://osu.ppy.sh/users/5332153) |
+| [MWC 4K 2017)](/wiki/Tournaments/MWC/2017_4K) | Former osu!mania 4K Champion: 2017 | ![][flag_KR] [cheetose](https://osu.ppy.sh/users/3817144), ![][flag_KR] [Cobo-](https://osu.ppy.sh/users/1482965) |
+| [MWC 7K 2018)](/wiki/Tournaments/MWC/2018_7K) | Former osu!mania 7K Champion: 2018 | 
 
 ## Official mapping contest winners
 
