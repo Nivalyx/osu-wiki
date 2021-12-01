@@ -222,7 +222,7 @@ The osu! team held art contests for community members to get a chance to design 
 
 ## Hall of Famers
 
-These three users were awarded the **osu! Hall of Famer** title for playing the game at the highest level and contributing back when the community was still young.
+These users were awarded the **osu! Hall of Famer** title for playing the game at the highest level and contributing back when the community was still young.
 
 <!-- TODO: reasons -->
 
@@ -232,7 +232,7 @@ These three users were awarded the **osu! Hall of Famer** title for playing the 
 
 ## Elite Storyboarders
 
-Storyboarders who demonstrate exceptional storyboarding talent and impress the community at large are given the **Elite Storyboarder** title.
+These storyboarders were awarded the **Elite Storyboarder** title for demonstrating exceptional storyboarding talent and impressing the community at large with their works.
 
 - ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366)
 - ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
