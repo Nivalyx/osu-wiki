@@ -82,6 +82,13 @@ Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** 
 
 Winners of previous osu!catch World Cups with the **Former osu!taiko Champion** user title:
 
+| Tournament | Title | Title holders |
+| :-:| :-- | :-- |
+| [CWC](/wiki/Tournaments/CWC/1) | Former osu!catch Champion: #1 | ![][flag_HK] [HineX](https://osu.ppy.sh/users/13854), ![][flag_CN] [hy1hy1hy](https://osu.ppy.sh/users/243877), ![][flag_CN] [joynama](https://osu.ppy.sh/users/169128) |
+| [CWC 2013](/wiki/Tournaments/CWC/2013) | Former osu!catch Champion: 2013 | ![flag_CL] [eldnl](https://osu.ppy.sh/users/285756), ![][flag_CL] [Dark Diego](https://osu.ppy.sh/users/723787), ![][flag_CL] [DaxMasterix](https://osu.ppy.sh/users/264914), ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542) |
+| [CWC 2014](/wiki/Tournaments/CWC/2014) | Former osu!catch Champion: 2014 | ![][flag_SK] [Kuzino](https://osu.ppy.sh/users/158552), ![][flag_SK] [Last Bubble](https://osu.ppy.sh/users/1302259), ![][flag_SK] [snail\_player](https://osu.ppy.sh/users/563262) |
+| [CWC 2015](/wiki/Tournaments/CWC/2015) | Former osu!catch Champion: 2015 | ![][flag_SK] [\[224\]Reol](https://osu.ppy.sh/users/3313041), ![][flag_SK] [Frobe](https://osu.ppy.sh/users/670365) |
+
 ### Official mapping contest winners
 
 Most official mapping contests offer the **Elite Mapper** title as a first-place prize.
