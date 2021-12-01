@@ -279,6 +279,8 @@ These users were awarded their respective titles for having significantly contri
 
 ## Other
 
+These users were awarded their respective titles for miscellanous reasons.
+
 <!-- TODO: reasons -->
 
 | User | Title |
