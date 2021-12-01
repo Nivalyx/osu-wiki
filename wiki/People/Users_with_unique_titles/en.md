@@ -279,7 +279,7 @@ These users were awarded their respective titles for having significantly contri
 
 ## Other
 
-These users were awarded their respective titles for miscellanous reasons.
+These users were awarded their respective titles for miscellanous (often humorous) reasons.
 
 <!-- TODO: reasons -->
 
