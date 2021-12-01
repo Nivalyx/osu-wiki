@@ -94,6 +94,8 @@ Winners of previous osu!catch World Cups with the **Former osu!taiko Champion** 
 | [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 | *N/A* |
 | [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276), ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598), ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520) |
 
+Winners of previous osu!mania World Cups with the **Former osu!mania Champion** user title:
+
 ### Official mapping contest winners
 
 Most official mapping contests offer the **Elite Mapper** title as a first-place prize.
