@@ -255,7 +255,7 @@ These players were awarded their respective titles through either a crazy gamepl
 
 ## Contributors
 
-These users were awarded their respective titles for having significantly contributed to or being an exemplary figure in their respective field of expertise.
+These users were awarded their respective titles for having significantly contributed to or being an exemplary figure in their field of expertise.
 
 <!-- TODO: reasons -->
 
