@@ -88,6 +88,10 @@ Winners of previous osu!catch World Cups with the **Former osu!taiko Champion** 
 | [CWC 2013](/wiki/Tournaments/CWC/2013) | Former osu!catch Champion: 2013 | ![flag_CL] [eldnl](https://osu.ppy.sh/users/285756), ![][flag_CL] [Dark Diego](https://osu.ppy.sh/users/723787), ![][flag_CL] [DaxMasterix](https://osu.ppy.sh/users/264914), ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542) |
 | [CWC 2014](/wiki/Tournaments/CWC/2014) | Former osu!catch Champion: 2014 | ![][flag_SK] [Kuzino](https://osu.ppy.sh/users/158552), ![][flag_SK] [Last Bubble](https://osu.ppy.sh/users/1302259), ![][flag_SK] [snail\_player](https://osu.ppy.sh/users/563262) |
 | [CWC 2015](/wiki/Tournaments/CWC/2015) | Former osu!catch Champion: 2015 | ![][flag_SK] [\[224\]Reol](https://osu.ppy.sh/users/3313041), ![][flag_SK] [Frobe](https://osu.ppy.sh/users/670365) |
+| [CWC 2016](/wiki/Tournaments/CWC/2016) | Former osu!catch Champion: 2016 | ![][flag_CN] [Callionet](https://osu.ppy.sh/users/3072921) |
+| [CWC 2017](/wiki/Tournaments/CWC/2017) | Former osu!catch Champion: 2017 | ![][flag_SK] [ExGon](https://osu.ppy.sh/users/214187), ![][flag_SK] [mjj741](https://osu.ppy.sh/users/1459769) |
+| [CWC 2018](/wiki/Tournaments/CWC/2018) | Former osu!catch Champion: 2018 | ![][flag_CN] [- N a g i -](https://osu.ppy.sh/users/2956936), ![][flag_CN] [Crystal](https://osu.ppy.sh/users/1646397), ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210), ![][flag_CN] [KagamineRin02](https://osu.ppy.sh/users/518503), ![][flag_CN] [Kasumi](https://osu.ppy.sh/users/2331531), ![][flag_CN] [Sakurano  Kurimu] (https://osu.ppy.sh/users/1338103) |
+| [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 |
 
 ### Official mapping contest winners
 
