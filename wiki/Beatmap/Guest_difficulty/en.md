@@ -20,6 +20,6 @@ Guest difficulties are not to be confused with difficulties that feature multipl
 
 ![](img/gd_ownership.png)
 
-. This allows for the guest difficulty owners to resolve pending issues in their respective difficulties on their own.
+Once a beatmap has been uploaded and put into, the beatmap host may assign ownership of ge to their corresponding creators. This allows for the guest difficulty owners to resolve pending issues in their respective difficulties on their own.
 
-Ownership of a guest difficulty may no longer be changed once the map is either [Ranked](wiki/Beatmap/Category#ranked) or [Loved](wiki/Beatmap/Category#loved).
+Ownership of a guest difficulty may no longer be changed once the map is either [Qualified](wiki/Beatmap/Category#qualified), [Ranked](wiki/Beatmap/Category#ranked), or [Loved](wiki/Beatmap/Category#loved).
