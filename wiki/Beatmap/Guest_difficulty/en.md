@@ -15,3 +15,5 @@ A **guest difficulty** (or *GD* for short) is a [difficulty](/wiki/Beatmap/Diffi
 Many guest difficulties are often requested by private messages between creators. Although GDs can also be requested in [modding queues](https://osu.ppy.sh/community/forums/60)<!-- TODO: should link to an article about queues, not the forum -->.
 
 ## Guest difficulty ownership
+
+![](img/gd_ownership.png)
