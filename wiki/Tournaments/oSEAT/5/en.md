@@ -83,16 +83,6 @@ Listed below are players who qualified into the Preliminary groups (along with t
 | :-- | :-- | :-- | :-- | :-- |
 | A | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) | ![][flag_PH] [RuiTachi-](https://osu.ppy.sh/users/11807272) |
 
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) |
-
 ## Mappools
 
 ### Finals week 2
