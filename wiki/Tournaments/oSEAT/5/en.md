@@ -57,10 +57,9 @@ oSEAT4 was run by various osu! community members predominantly hailing from vari
 ## Links
 
 - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1wwwyS47vH-N7S-IMAgl9FulTP8lepaKNAOGxLgJ0bBs/edit#gid=0)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1177376)
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1452561)
 - [Discord server](https://discord.gg/sVHndPU)
-- [Livestream channel](https://www.twitch.tv/oseatournament)
-- [Challonge bracket](https://challonge.com/SEAT4)
+- [Livestream channel](https://www.twitch.tv/osusea)
 
 ## Participants
 
@@ -812,8 +811,10 @@ Sunday, 13 December 2020:
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_KH]: /wiki/shared/flag/KH.gif "Cambodia"
