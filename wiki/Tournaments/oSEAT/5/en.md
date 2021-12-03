@@ -89,6 +89,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
 | F | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | ![][flag_SG] [RePeaTT](https://osu.ppy.sh/users/11132323) | ![][flag_SG] [marcellasne\_](https://osu.ppy.sh/users/6622650) | ![][flag_PH] [Swish0s](https://osu.ppy.sh/users/10971042) |
 | G | ![][flag_MY] [Mumei Nanashi](https://osu.ppy.sh/users/5414124) | ![][flag_MY] [Ltwoed](https://osu.ppy.sh/users/13670830) | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) |
 | H | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) | ![][flag_SG] [sinn](https://osu.ppy.sh/users/4262229) |
+| I | ![][flag_US] (![][flag_PH]) [\_Kolin](https://osu.ppy.sh/users/7249644)¹ | ![][flag_MY] [Agagak](https://osu.ppy.sh/users/3645490) | ![][flag_MSG] [Inquisitives](https://osu.ppy.sh/users/10722794) | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) |
 
 ## Mappools
 
