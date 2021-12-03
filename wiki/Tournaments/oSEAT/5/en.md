@@ -14,10 +14,10 @@ The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-11-07/2020-11-22 |
-| Screening phase | 2020-11-23/2020-11-29 |
-| Qualifiers | 2020-11-30/2020-12-06 |
-| Group stage week 1 | 2020-12-07/2020-12-13 |
+| Registration phase | 2021-10-31/2021-11-14 |
+| Screening phase | 2021-11-15/2021-11-20 |
+| Qualifiers | 2021-11-21/2021-11-28 |
+| Preliminary groups | 2020-12-07/2020-12-13 |
 | Group stage week 2 | 2020-12-14/2020-12-20 |
 | Round of 32 | 2020-12-21/2020-12-27 |
 | Round of 16 | 2020-12-28/2021-01-03 |
@@ -36,8 +36,6 @@ The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination
 | *4th place* | 2 months of osu!supporter |
 | *5th place* | 1 month of osu!supporter |
 
-![](img/badge.png "oSEAT4 winner badge")
-
 ## Organisation
 
 oSEAT4 was run by various osu! community members predominantly hailing from various South East Asian countries.
@@ -46,7 +44,7 @@ oSEAT4 was run by various osu! community members predominantly hailing from vari
 | :-- | :-- |
 | Host | ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846) |
 | Mappool selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
-| Playtester | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_SG] [pashty](https://osu.ppy.sh/users/9576725), ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [SDKO](https://osu.ppy.sh/users/4858555), ![][flag_DE] [Menty](https://osu.ppy.sh/users/36192840, ![][flag_US] [daw9801](https://osu.ppy.sh/users/4773094) |
+| Playtester | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_SG] [pashty](https://osu.ppy.sh/users/9576725), ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [SDKO](https://osu.ppy.sh/users/4858555), ![][flag_DE] [Menty](https://osu.ppy.sh/users/36192840), ![][flag_US] [daw9801](https://osu.ppy.sh/users/4773094) |
 | Streamer | ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [My Angel Petra](https://osu.ppy.sh/users/8691555), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
 | Commentator | ![][flag_PH] [TofuDoriftu](https://osu.ppy.sh/users/17812861), ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_PH] [Kikomeister](https://osu.ppy.sh/users/11570118), ![][flag_MY] [malaidan](https://osu.ppy.sh/users/14279913), ![][flag_PH] [RuiTachi-](https://osu.ppy.sh/users/11807272) |
 | Referee | ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_VN] [Chitanda Eru](https://osu.ppy.sh/users/10004804), ![][flag_PH] [Loreal](https://osu.ppy.sh/users/9362231), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_PH] [Chooga](https://osu.ppy.sh/users/9477784), ![][flag_SG] [ellyn](https://osu.ppy.sh/users/10592989), ![][flag_HK] [KR1L1Z13](https://osu.ppy.sh/users/16629149), ![][flag_HK] [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ![][flag_FR] [jehukm](https://osu.ppy.sh/users/10981418), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [Aoiyuuki-](https://osu.ppy.sh/users/1820694) |
@@ -63,7 +61,9 @@ oSEAT4 was run by various osu! community members predominantly hailing from vari
 
 ## Participants
 
-Listed below are players who qualified into the Group Stage (along with their respective seeding and group placement) out of 179 registered players in total.
+Listed below are players who qualified into the Preliminary groups (along with their respective bracket, seeding and group placements) out of 179 registered players in total.
+
+- Top bracket:
 
 | Group | Seed A | Seed B | Seed C | Seed D | Seed E | Seed F |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
