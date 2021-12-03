@@ -807,20 +807,16 @@ Sunday, 13 December 2020:
    - If both players ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KH]: /wiki/shared/flag/KH.gif "Cambodia"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_LA]: /wiki/shared/flag/LA.gif "Lao People's Democratic Republic"
 [flag_MM]: /wiki/shared/flag/MM.gif "Myanmar"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
