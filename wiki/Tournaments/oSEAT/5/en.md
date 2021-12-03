@@ -745,7 +745,7 @@ Sunday, 13 December 2020:
 
 1. All interested players  are required to register into the tournament individually.
    - In order to be eligible to play in the tournament, a player must either:
-     - Have a flag of either one of the ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, or ![][flag_VN] Vietnam) displayed on their profile
+     - Have a flag of either one of the ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, or ![][flag_VN] Vietnam) displayed on their profile, ***or***
      - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
 2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
 3. The list of players who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
