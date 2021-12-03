@@ -67,7 +67,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
 - *Upper bracket:*
 
 | Group | Seed A | Seed B | Seed C | Seed D |
-| :-- | :-- | :-- | :-- | :-- |
+| :-: | :-- | :-- | :-- | :-- |
 | A | ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620) | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | ![][flag_VN] [realshin](https://osu.ppy.sh/users/8006029) |
 | B | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | ![][flag_TH] [ChaiPhukChep](https://osu.ppy.sh/users/9723127) | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | ![][flag_SG] [Picon](https://osu.ppy.sh/users/8447637) |
 | C | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609) | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | ![][flag_TH] [Salvotore](https://osu.ppy.sh/users/3394696) |
@@ -80,7 +80,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
 - *Lower bracket:*
 
 | Group | Seed A | Seed B | Seed C | Seed D |
-| :-- | :-- | :-- | :-- | :-- |
+| :-: | :-- | :-- | :-- | :-- |
 | A | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) | ![][flag_PH] [RuiTachi-](https://osu.ppy.sh/users/11807272) |
 
 ## Mappools
