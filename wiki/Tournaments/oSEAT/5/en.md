@@ -68,7 +68,14 @@ Listed below are players who qualified into the Preliminary groups (along with t
 
 | Group | Seed A | Seed B | Seed C | Seed D |
 | :-- | :-- | :-- | :-- | :-- |
-| A | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) |
+| A | ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620) | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | ![][flag_VN] [realshin](https://osu.ppy.sh/users/8006029) |
+| B | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | ![][flag_TH] [ChaiPhukChep](https://osu.ppy.sh/users/9723127) | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | ![][flag_SG] [Picon](https://osu.ppy.sh/users/8447637) |
+| C | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609) | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | ![][flag_TH] [Salvotore](https://osu.ppy.sh/users/3394696) |
+| D | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | ![][flag_TH] [-Kedama](https://osu.ppy.sh/users/12147277) |
+| E | ![][flag_SG] [Eagle5324](https://osu.ppy.sh/users/11987104) | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | ![][flag_PH] [BronyPH]](https://osu.ppy.sh/users/1492995) | ![][flag_VN] [walle](https://osu.ppy.sh/users/8431549) |
+| F | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | ![][flag_SG] [\_gt]](https://osu.ppy.sh/users/8301957) | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) |
+| G | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | ![][flag_PH] [BronyPH 2](https://osu.ppy.sh/users/7246165) | ![][flag_VN] [SkyArrow]](https://osu.ppy.sh/users/4039647) | ![][flag_MY] [Inugami Korone](https://osu.ppy.sh/users/4474918) |
+| H | ![][flag_PH] [NathanRammu2044](https://osu.ppy.sh/users/8472976) | ![][flag_SG] [Dawnwing](https://osu.ppy.sh/users/5144534) | ![][flag_MY] [Tzero]](https://osu.ppy.sh/users/6088976) | ![][flag_TH] [- Seen -](https://osu.ppy.sh/users/5082392) |
 
 - *Lower bracket:*
 
