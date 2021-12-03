@@ -86,7 +86,9 @@ Listed below are players who qualified into the Preliminary groups (along with t
 | C | ![][flag_SG] [wick](https://osu.ppy.sh/users/8004317) | ![][flag_TH] [chantat on osu](https://osu.ppy.sh/users/12290117) | ![][flag_PH] [\[-Kurumi-\]](https://osu.ppy.sh/users/5414484) | ![][flag_PH] [JayAreEee](https://osu.ppy.sh/users/10852557) |
 | D | ![][flag_PH] [-Graigory-](https://osu.ppy.sh/users/14024170) | ![][flag_MY] [Hanami-](https://osu.ppy.sh/users/8703188) | ![][flag_ID] [Cudi-](https://osu.ppy.sh/users/9974314) | ![][flag_SG] [Moroha29](https://osu.ppy.sh/users/9182389) |
 | E | ![][flag_PH] [xidorn](https://osu.ppy.sh/users/7904667) | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | ![][flag_MY] [GKen](https://osu.ppy.sh/users/12633052) |
-| f | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) | ![][flag_PH] [RuiTachi-](https://osu.ppy.sh/users/11807272) |
+| F | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | ![][flag_SG] [RePeaTT](https://osu.ppy.sh/users/11132323) | ![][flag_SG] [marcellasne\_](https://osu.ppy.sh/users/6622650) | ![][flag_PH] [Swish0s](https://osu.ppy.sh/users/10971042) |
+| G | ![][flag_MY] [Mumei Nanashi](https://osu.ppy.sh/users/5414124) | ![][flag_MY] [Ltwoed](https://osu.ppy.sh/users/13670830) | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) |
+| H | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) | ![][flag_SG] [sinn](https://osu.ppy.sh/users/4262229) |
 
 ## Mappools
 
