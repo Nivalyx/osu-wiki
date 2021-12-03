@@ -94,7 +94,8 @@ Listed below are players who qualified into the Preliminary groups (along with t
 | K | ![][flag_ID] [Tazkiz]](https://osu.ppy.sh/users/3738010) | ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462) | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | ![][flag_SG] [JokThree](https://osu.ppy.sh/users/7713152) |
 | L | ![][flag_PH] [2 and eight](https://osu.ppy.sh/users/8923608) | ![][flag_ID] [DeathAdderz](https://osu.ppy.sh/users/7457788) | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_MY] [\_Rel\_](https://osu.ppy.sh/users/11622287) |
 | M | ![][flag_TH] [Yorocchi](https://osu.ppy.sh/users/5286218) | ![][flag_SG] [Grantorio](https://osu.ppy.sh/users/5623529) | ![][flag_VN] [Phoeni\_](https://osu.ppy.sh/users/14953642) | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) |
-| N | ![][flag_PH] [NathanSS](https://osu.ppy.sh/users/8500628) | ![][flag_ID] [DeZpair](https://osu.ppy.sh/users/7518843) | ![][flag_PH] [ChaeY\_Milk](https://osu.ppy.sh/users/10383440) | ![][flag_JP] (![][flag_PH]) [ZHKPN](https://osu.ppy.sh/users/13042221) |
+| N | ![][flag_PH] [NathanSS](https://osu.ppy.sh/users/8500628) | ![][flag_ID] [DeZpair](https://osu.ppy.sh/users/7518843) | ![][flag_PH] [ChaeY\_Milk](https://osu.ppy.sh/users/10383440) | ![][flag_JP] (![][flag_PH]) [ZHKPN](https://osu.ppy.sh/users/13042221)¹ |
+| O | ![][flag_TH] [Yorocchi](https://osu.ppy.sh/users/5286218) | ![][flag_SG] [Grantorio](https://osu.ppy.sh/users/5623529) | ![][flag_VN] [Phoeni\_](https://osu.ppy.sh/users/14953642) | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) |
 
 ## Mappools
 
