@@ -40,23 +40,23 @@ The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination
 
 ## Organisation
 
-oSEAT4 was run by various osu! community members predominantly hailing from South East Asian countries.
+oSEAT4 was run by various osu! community members predominantly hailing from various South East Asian countries.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
-| Mappool selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
-| Playtester | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_GB] [timberwolf](https://osu.ppy.sh/users/11042418), ![][flag_FI] [HENKSELI](https://osu.ppy.sh/users/7005392), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
-| Streamer | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [--Mirai--](https://osu.ppy.sh/users/8923407), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997)  |
-| Commentator | ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PH] [patsugoi](https://osu.ppy.sh/users/15748531), ![][flag_US] [Not A Function](https://osu.ppy.sh/users/4773094) |
-| Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [Fragmented](https://osu.ppy.sh/users/847434), ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [CookieSan](https://osu.ppy.sh/users/5634959), ![][flag_SG] [ellyn](https://osu.ppy.sh/users/10592989), ![][flag_VN] [RylieXD](https://osu.ppy.sh/users/14585583), ![][flag_ID] [Arvalon](https://osu.ppy.sh/users/14667308), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_KR] [PostScr1pt](https://osu.ppy.sh/users/3410997), ![][flag_PL] [Flapczek](https://osu.ppy.sh/users/8210988), ![][flag_AU] [Fairy Bread](https://osu.ppy.sh/users/8306102), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_FI] [CPU_Cartel](https://osu.ppy.sh/users/9634978), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321) |
+| Host | ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846) |
+| Mappool selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
+| Playtester | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_SG] [pashty](https://osu.ppy.sh/users/9576725), ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [SDKO](https://osu.ppy.sh/users/4858555), ![][flag_DE] [Menty](https://osu.ppy.sh/users/36192840, ![][flag_US] [daw9801](https://osu.ppy.sh/users/4773094) |
+| Streamer | ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [My Angel Petra](https://osu.ppy.sh/users/8691555), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Commentator | ![][flag_PH] [TofuDoriftu](https://osu.ppy.sh/users/17812861), ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_PH] [Kikomeister](https://osu.ppy.sh/users/11570118), ![][flag_MY] [malaidan](https://osu.ppy.sh/users/14279913), ![][flag_PH] [RuiTachi-](https://osu.ppy.sh/users/11807272) |
+| Referee | ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_VN] [Chitanda Eru](https://osu.ppy.sh/users/10004804), ![][flag_PH] [Loreal](https://osu.ppy.sh/users/9362231), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_PH] [Chooga](https://osu.ppy.sh/users/9477784), ![][flag_SG] [ellyn](https://osu.ppy.sh/users/10592989), ![][flag_HK] [KR1L1Z13](https://osu.ppy.sh/users/16629149), ![][flag_HK] [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ![][flag_FR] [jehukm](https://osu.ppy.sh/users/10981418), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [Aoiyuuki-](https://osu.ppy.sh/users/1820694) |
 | Graphic designer | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) |
-| Spreadsheet manager | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
+| Spreadsheet manager | ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/16LDQYYDwd7obzSgLijTV1hBD7QOZE_2Ibe9ZLqTWQNw/edit#gid=1373445856)**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1wwwyS47vH-N7S-IMAgl9FulTP8lepaKNAOGxLgJ0bBs/edit#gid=0)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1177376)
 - [Discord server](https://discord.gg/sVHndPU)
 - [Livestream channel](https://www.twitch.tv/oseatournament)
@@ -813,6 +813,7 @@ Sunday, 13 December 2020:
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_KH]: /wiki/shared/flag/KH.gif "Cambodia"
