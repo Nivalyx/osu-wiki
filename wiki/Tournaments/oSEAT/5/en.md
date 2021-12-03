@@ -61,9 +61,9 @@ oSEAT4 was run by various osu! community members predominantly hailing from vari
 
 ## Participants
 
-Listed below are players who qualified into the Preliminary groups (along with their respective bracket, seeding and group placements) out of 179 registered players in total.
+Listed below are players who qualified into the Preliminary groups (along with their respective bracket, seeding and group placements) out of 176 registered players in total.
 
-- Top bracket:
+*Top bracket:*
 
 | Group | Seed A | Seed B | Seed C | Seed D | Seed E | Seed F |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
