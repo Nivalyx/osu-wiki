@@ -63,20 +63,13 @@ oSEAT4 was run by various osu! community members predominantly hailing from vari
 
 Listed below are players who qualified into the Preliminary groups (along with their respective bracket, seeding and group placements) out of 176 registered players in total.
 
-- *Top bracket:*
+- *Upper bracket:*
 
-| Group | Seed A | Seed B | Seed C | Seed D | Seed E | Seed F |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| A | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) |
-| B | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | ![][flag_ID] [Sonic-](https://osu.ppy.sh/users/8691555) | ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773) |
-| C | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | ![][flag_MY] [CookieDASH](https://osu.ppy.sh/users/8249895) | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | ![][flag_PH] [Oooodriiin](https://osu.ppy.sh/users/7223737) |
-| D | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | ![][flag_SG] [Eagle5324](https://osu.ppy.sh/users/11987104) | ![][flag_MY] [Auxuelus](https://osu.ppy.sh/users/5414124) | ![][flag_MY] [heyimcrunchy](https://osu.ppy.sh/users/13067221) | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | ![][flag_PH] [Aryuii](https://osu.ppy.sh/users/11272208) |
-| E | ![][flag_SG] [\[-Lockon-\]](https://osu.ppy.sh/users/6726331) | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | ![][flag_TH] [Chorus](https://osu.ppy.sh/users/3504692) | ![][flag_SG] [DVDthe1st](https://osu.ppy.sh/users/2138989) | ![][flag_SG] [yayatutu135](https://osu.ppy.sh/users/8420023) | ![][flag_TH] [Iambosszie](https://osu.ppy.sh/users/7286850) |
-| F | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | ![][flag_PH] [KagenoKami](https://osu.ppy.sh/users/7246165) | ![][flag_PH] [Zyxus](https://osu.ppy.sh/users/8055861) | ![][flag_TH] [- Seen -](https://osu.ppy.sh/users/5082392) | ![][flag_MY] [Ayameru](https://osu.ppy.sh/users/7373182) | ![][flag_MY] [Rawn](https://osu.ppy.sh/users/2621067) |
-| G | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | ![][flag_MY] [Heya](https://osu.ppy.sh/users/11379332)¹ | ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512) | ![][flag_SG] [Deze](https://osu.ppy.sh/users/7638335) | ![][flag_MY] [malaidan](https://osu.ppy.sh/users/14279913) |
-| H | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | ![][flag_VN] [Tuon](https://osu.ppy.sh/users/6673790) | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | ![][flag_MY] [Agagak](https://osu.ppy.sh/users/3645490) | ![][flag_PH] [tiny snek](https://osu.ppy.sh/users/10619389) | ![][flag_TH] [Faken](https://osu.ppy.sh/users/10249166) |
+| Group | Seed A | Seed B | Seed C | Seed D |
+| :-- | :-- | :-- | :-- | :-- |
+| A | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) |
 
-- *Low bracket:*
+- *Lower bracket:*
 
 ## Podium
 
