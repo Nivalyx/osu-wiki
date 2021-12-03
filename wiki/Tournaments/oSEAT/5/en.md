@@ -31,7 +31,7 @@ The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter, exclusive [Wrist Labs](https://www.instagram.com/wrist.labs/) merch, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter, exclusive [Wrist Labs](https://www.instagram.com/wrist.labs/) goodie pack, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
 | *4th place* | 2 months of osu!supporter |
@@ -86,6 +86,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
 | C | ![][flag_SG] [wick](https://osu.ppy.sh/users/8004317) | ![][flag_TH] [chantat on osu](https://osu.ppy.sh/users/12290117) | ![][flag_PH] [\[-Kurumi-\]](https://osu.ppy.sh/users/5414484) | ![][flag_PH] [JayAreEee](https://osu.ppy.sh/users/10852557) |
 | D | ![][flag_PH] [-Graigory-](https://osu.ppy.sh/users/14024170) | ![][flag_MY] [Hanami-](https://osu.ppy.sh/users/8703188) | ![][flag_ID] [Cudi-](https://osu.ppy.sh/users/9974314) | ![][flag_SG] [Moroha29](https://osu.ppy.sh/users/9182389) |
 | E | ![][flag_PH] [xidorn](https://osu.ppy.sh/users/7904667) | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | ![][flag_MY] [GKen](https://osu.ppy.sh/users/12633052) |
+| f | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) | ![][flag_PH] [RuiTachi-](https://osu.ppy.sh/users/11807272) |
 
 ## Mappools
 
