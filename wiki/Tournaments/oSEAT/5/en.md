@@ -210,6 +210,7 @@ Saturday, 4 December 2021:
 | Upper/C | [Demonical](https://osu.ppy.sh/users/5447609) ![][flag_TH] | 3 | **5** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/94796835) |
 | Upper/C | **[Demonical](https://osu.ppy.sh/users/5447609)** ![][flag_SG] | **5** | 0 | ![][flag_PH] [Salvotore](https://osu.ppy.sh/users/3394696) | [#1](https://osu.ppy.sh/community/matches/94798174) |
 | Upper/B | [Picon](https://osu.ppy.sh/users/8447637) ![][flag_SG] | 2 | **5** | ![][flag_TH] **[ChuiPhukChep](https://osu.ppy.sh/users/9723127)** | [#1](https://osu.ppy.sh/community/matches/94798091) |
+| Lower/A | **[RuiTachi-](https://osu.ppy.sh/users/11807272)** ![][flag_PH] | **5** | 0 | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | [#1](https://osu.ppy.sh/community/matches/94798431) |
 | Upper/C | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
 
 ## Ruleset
