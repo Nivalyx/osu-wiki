@@ -162,7 +162,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
   - [Katakiri Rekka - Answer (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/39953#osu/127047)
   - [Sano Denji - Taiko Time (Flask) \[OTST Time\]](https://osu.ppy.sh/beatmapsets/1536761#osu/3142119)
 - HardRock
-  - [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[Captin's Extra\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2716344)
+  - [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2716344)
   - [96neko - Buriki no Dance (CallieCube) \[kario's Another\]](https://osu.ppy.sh/beatmapsets/1332410#osu/2760616)
 - DoubleTime
   - [Yousei Teikoku - Paradiso=Inferno (IsomirDiAngelo) \[Insane\]](https://osu.ppy.sh/beatmapsets/1296273#osu/2750914)
