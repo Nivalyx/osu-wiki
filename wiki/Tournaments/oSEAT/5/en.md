@@ -111,7 +111,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
   - [lapix - Outer Space (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1544179#osu/3156268)
   - [Shade - Mars (LMT) \[Hyper (phox's 1.63x Edit)\]](https://osu.ppy.sh/beatmapsets/1639259#osu/3345763)
 - Hidden
-  - [Sakuzyo - FAFNIR (Sulfur) \[-kevincela-'s Extreme\]](Sakuzyo - FAFNIR)
+  - [Sakuzyo - FAFNIR (Sulfur) \[-kevincela-'s Extreme\]](https://osu.ppy.sh/beatmapsets/777255#osu/1634515)
   - [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
 - HardRock
   - [ELECTROCUTICA feat. EVO+ - Moon Seeker (Lulu-) \[Lulu x Bonzi -- Pulsation\]](https://osu.ppy.sh/beatmapsets/1235544#osu/2568398)
