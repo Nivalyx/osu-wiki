@@ -100,7 +100,32 @@ Listed below are players who qualified into the Preliminary groups (along with t
 
 ## Mappools
 
-### Preliminary groups (lower bracket)
+### Preliminary groups (Upper bracket)
+
+**[Download the mappack here! (108 MB)](https://drive.google.com/u/0/uc?id=16uRQfNAqnSCC_9iy6YWug-e2WSmT-Kng&export=download)**
+
+- NoMod
+  - [GARNiDELiA - Yakusoku -Promise code- (Yasaija 714) \[kotachi's Extra\]](https://osu.ppy.sh/beatmapsets/727714#osu/1536489)
+  - [AVTechNO! - boku-boku SuketchP Remix (-Tynamo) \[Emotional Limit\]](https://osu.ppy.sh/beatmapsets/1281400#osu/2661624)
+  - [KyoKa - Kirameki\*Chocolaterie (-Atri-) \[A la Carte\]](https://osu.ppy.sh/beatmapsets/1113378#osu/2326006)
+  - [Kero Kero Bonito - The Princess and the Clock (pocket-) \[her Sojourn\]](https://osu.ppy.sh/beatmapsets/1492284#osu/3058966)
+  - [GEM - Umiyuri Kaiteitan (Loreley) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/647452#osu/1571516)
+- Hidden
+  - [96neko - Buriki no Dance (Kimchi Sandwich) \[Expert\]](https://osu.ppy.sh/beatmapsets/1296562#osu/2690060)
+  - [Linkin Park - New Divide (pw384) \["The Divergent" - 2021\]](https://osu.ppy.sh/beatmapsets/1559072#osu/3184612)
+- HardRock
+  - [Maki Ligon & Karamitasu - Touhou vs. Fortnite Dance Compilation (Testo) \[schoolboy's Extreme\]](https://osu.ppy.sh/beatmapsets/872310#osu/1830635)
+  - [Cranky - Libera me (Kloyd) \[Muya's Insane\]](https://osu.ppy.sh/beatmapsets/1085726#osu/2273615)
+- DoubleTime
+  - [Rita, Asari, Tezuka Ryouko - Hajimari no Toki (Djulus) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1615974#osu/3299298)
+  - [Machita Chima - phony (Yugu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1560617#osu/3274541)
+  - [K/DA - MORE feat. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine (Elinor) \[Halgoh & Eli's Insane\]](https://osu.ppy.sh/beatmapsets/1075757#osu/2261226)
+- FreeMod
+  - [Myrath - Endure The Silence (LMT) \[BOUYAAA's Extra\]](https://osu.ppy.sh/beatmapsets/555454#osu/1303812)
+  - [EMANI Sound Team "Nekomata Master" - The last of world music (Heilia) \[Scub's Extra\]](https://osu.ppy.sh/beatmapsets/1060239#osu/3190378)
+  - [BEMANI Sound Team "Sota Fujimori 2nd Season" - POSSESSION (20th Anniversary Mix) (PayneTrain) \[Expert\]](https://osu.ppy.sh/beatmapsets/1551322#osu/3170084)
+
+### Preliminary groups (Lower bracket)
 
 **[Download the mappack here! (147 MB)](https://drive.google.com/u/0/uc?id=1Q02nKi-F7M3IxCLG0ME2GyFf4dLxFmam&export=download)**
 
@@ -134,7 +159,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
   - [ZUTOMAYO - STUDY ME (GIDZ) \[RLC x Nathan's Extra\]](https://osu.ppy.sh/beatmapsets/1353446#osu/2801804)
   - [Zekk - Freefall (Livia) \[v=gt\]](https://osu.ppy.sh/beatmapsets/1559779#osu/3185984)
 - Hidden
-  - [Katakiri Rekka - Answer (bakabaka) \[Insane\]](hhttps://osu.ppy.sh/rankings/osu/performance)
+  - [Katakiri Rekka - Answer (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/39953#osu/127047)
   - [Sano Denji - Taiko Time (Flask) \[OTST Time\]](https://osu.ppy.sh/beatmapsets/1536761#osu/3142119)
 - HardRock
   - [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[Captin's Extra\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2716344)
