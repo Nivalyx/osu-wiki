@@ -100,7 +100,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
 
 ## Mappools
 
-### Preliminary groups (Upper bracket)
+### Preliminary groups (upper bracket)
 
 **[Download the mappack here! (108 MB)](https://drive.google.com/u/0/uc?id=16uRQfNAqnSCC_9iy6YWug-e2WSmT-Kng&export=download)**
 
@@ -125,7 +125,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
   - [P.D.P. - A Word To The Wise (TheKingHenry) \[Extra\]](https://osu.ppy.sh/beatmapsets/890157#osu/1860763)
   - [My Chemical Romance - Welcome To The Black Parade (Moph) \[DELIS' EXTRA\]](https://osu.ppy.sh/beatmapsets/1286287#osu/2801378)
 
-### Preliminary groups (Lower bracket)
+### Preliminary groups (lower bracket)
 
 **[Download the mappack here! (147 MB)](https://drive.google.com/u/0/uc?id=1Q02nKi-F7M3IxCLG0ME2GyFf4dLxFmam&export=download)**
 
