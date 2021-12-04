@@ -203,6 +203,9 @@ Saturday, 4 December 2021:
 | Upper/C | **[Demonical](https://osu.ppy.sh/users/5447609)** ![][flag_SG] | **5** | 1 | ![][flag_PH] [Salvotore](https://osu.ppy.sh/users/3394696) | [#1](https://osu.ppy.sh/community/matches/94795666) |
 | Lower/C | **[chantat on osu](https://osu.ppy.sh/users/12290117)** ![][flag_TH] | **5** | 2 | ![][flag_PH] [\[-Kurumi-\]](https://osu.ppy.sh/users/5414484) | [#1](https://osu.ppy.sh/community/matches/94795574) |
 | Lower/F | [Swish0s](https://osu.ppy.sh/users/10971042) ![][flag_PH] | 0 | **5** | ![][flag_SG] **[RePeaTT](https://osu.ppy.sh/users/11132323)** | [#1](https://osu.ppy.sh/community/matches/94795753) |
+| Lower/F | **[Hecatia](https://osu.ppy.sh/users/8244635)** ![][flag_TH] | **5** | 4 | ![][flag_PH] [marcellasne\_](https://osu.ppy.sh/users/6622650) | [#1](https://osu.ppy.sh/community/matches/94795574) |
+| Upper/B | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **5** | 1 | ![][flag_SG] [Picon](https://osu.ppy.sh/users/8447637) | [#1](https://osu.ppy.sh/community/matches/94796813) |
+| Lower/A | **[Bunan-](https://osu.ppy.sh/users/2763354)** ![][flag_ID] | **5** | 0 | ![][flag_PH] [RuiTachi-](https://osu.ppy.sh/users/11807272) | [#1](https://osu.ppy.sh/community/matches/94797082) |
 | Upper/C | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
 
 ## Ruleset
