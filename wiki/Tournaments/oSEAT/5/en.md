@@ -182,8 +182,8 @@ Friday, 3 December 2021:
 
 | Bracket/Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower/J | [aurora on osu](https://osu.ppy.sh/users/12352050) ![][flag_PH] | 4 | **5** | ![][flag_MY] **[Floth](https://osu.ppy.sh/users/11134301)** | [#1](https://osu.ppy.sh/community/matches/94749417) |
 | Lower/H | **[Misaki - Rhythm](https://osu.ppy.sh/users/7128826)** ![][flag_ID] | **5** | 0 | ![][flag_SG] [sinn](https://osu.ppy.sh/users/4262229) | [#1](https://osu.ppy.sh/community/matches/94755581) |
+| Lower/J | [aurora on osu](https://osu.ppy.sh/users/12352050) ![][flag_PH] | 4 | **5** | ![][flag_MY] **[Floth](https://osu.ppy.sh/users/11134301)** | [#1](https://osu.ppy.sh/community/matches/94749417) |
 | Upper/E | **[Eagle5324](https://osu.ppy.sh/users/11987104)** ![][flag_MY] | **5** | 1 | ![][flag_VN] [walle](https://osu.ppy.sh/users/8431549) | [#1](https://osu.ppy.sh/community/matches/94757758) |
 | Lower/A | [Moltenfury](https://osu.ppy.sh/users/3395820) ![][flag_SG] | 3 | **5** | ![][flag_PH] **[ToshiroKen](https://osu.ppy.sh/users/9550257)** | [#1](https://osu.ppy.sh/community/matches/94760322) |
 
@@ -191,9 +191,11 @@ Saturday, 4 December 2021:
 
 | Bracket/Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Lower/D | [Hanami-](https://osu.ppy.sh/users/11091594) ![][flag_MY] | 0 | **5** | ![][flag_ID] **[Cudi](https://osu.ppy.sh/users/1492995)** | [#1](https://osu.ppy.sh/community/matches/94793019) |
 | Lower/I | **[\_Kolin](https://osu.ppy.sh/users/7249644)** ![][flag_US] (![][flag_PH]) | **5** | 1 | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) | [#1](https://osu.ppy.sh/community/matches/94791129) |
 | Lower/M | **[Yorocchi](https://osu.ppy.sh/users/5286218)** ![][flag_TH] | **5** | 1 | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) | [#1](https://osu.ppy.sh/community/matches/94791117) |
 | Upper/H | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ![][flag_ID] | 2 | **5** | ![][flag_PH] **[BronyPH](https://osu.ppy.sh/users/1492995)** | [#1](https://osu.ppy.sh/community/matches/94791198) |
+| Lower/F | **[Hecatia](https://osu.ppy.sh/users/8244635)** ![][flag_SG] | **5** | 1 | ![][flag_PH] [Swish0s](https://osu.ppy.sh/users/10971042) | [#1](https://osu.ppy.sh/community/matches/94793013) |
 
 ## Ruleset
 
