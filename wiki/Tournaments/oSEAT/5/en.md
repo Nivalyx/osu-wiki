@@ -114,7 +114,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
   - [Sakuzyo - FAFNIR (Sulfur) \[-kevincela-'s Extreme\]](https://osu.ppy.sh/beatmapsets/777255#osu/1634515)
   - [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
 - HardRock
-  - [ELECTROCUTICA feat. EVO+ - Moon Seeker (Lulu-) \[Lulu x Bonzi -- Pulsation\]](https://osu.ppy.sh/beatmapsets/1235544#osu/2568398)
+  - [ELECTROCUTICA feat. EVO+ - Moon Seeker (Lulu-) \[Lulu x Bonzi — Pulsation\]](https://osu.ppy.sh/beatmapsets/1235544#osu/2568398)
   - [MK feat. YURiE - Spiral (FrenZ396) \[Extra\]](https://osu.ppy.sh/beatmapsets/1570048#osu/3206058)
 - DoubleTime
   - [Ceui - Rainbow Days (Shikibe Mayu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1181354#osu/2464147)
