@@ -105,25 +105,25 @@ Listed below are players who qualified into the Preliminary groups (along with t
 **[Download the mappack here! (108 MB)](https://drive.google.com/u/0/uc?id=16uRQfNAqnSCC_9iy6YWug-e2WSmT-Kng&export=download)**
 
 - NoMod
-  - [GARNiDELiA - Yakusoku -Promise code- (Yasaija 714) \[kotachi's Extra\]](https://osu.ppy.sh/beatmapsets/727714#osu/1536489)
-  - [AVTechNO! - boku-boku SuketchP Remix (-Tynamo) \[Emotional Limit\]](https://osu.ppy.sh/beatmapsets/1281400#osu/2661624)
-  - [KyoKa - Kirameki\*Chocolaterie (-Atri-) \[A la Carte\]](https://osu.ppy.sh/beatmapsets/1113378#osu/2326006)
-  - [Kero Kero Bonito - The Princess and the Clock (pocket-) \[her Sojourn\]](https://osu.ppy.sh/beatmapsets/1492284#osu/3058966)
-  - [GEM - Umiyuri Kaiteitan (Loreley) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/647452#osu/1571516)
+  - [Twin-Tails - Twintail Dreamer! (AtHeoN) \[Twintail\]](https://osu.ppy.sh/beatmapsets/388449#osu/847386)
+  - [Ice - Amber Wishes (Deemo edit) (Astronic) \[Aspiration\]](https://osu.ppy.sh/beatmapsets/1610241#osu/3287781)
+  - [BlackY - Sakura Ranman Cleopatra (Rtyzen) \[Extra\]](https://osu.ppy.sh/beatmapsets/1626963#osu/3321639)
+  - [lapix - Outer Space (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1544179#osu/3156268)
+  - [Shade - Mars (LMT) \[Hyper (phox's 1.63x Edit)\]](https://osu.ppy.sh/beatmapsets/1639259#osu/3345763)
 - Hidden
-  - [96neko - Buriki no Dance (Kimchi Sandwich) \[Expert\]](https://osu.ppy.sh/beatmapsets/1296562#osu/2690060)
-  - [Linkin Park - New Divide (pw384) \["The Divergent" - 2021\]](https://osu.ppy.sh/beatmapsets/1559072#osu/3184612)
+  - [Sakuzyo - FAFNIR (Sulfur) \[-kevincela-'s Extreme\]](Sakuzyo - FAFNIR)
+  - [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
 - HardRock
-  - [Maki Ligon & Karamitasu - Touhou vs. Fortnite Dance Compilation (Testo) \[schoolboy's Extreme\]](https://osu.ppy.sh/beatmapsets/872310#osu/1830635)
-  - [Cranky - Libera me (Kloyd) \[Muya's Insane\]](https://osu.ppy.sh/beatmapsets/1085726#osu/2273615)
+  - [ELECTROCUTICA feat. EVO+ - Moon Seeker (Lulu-) \[Lulu x Bonzi -- Pulsation\]](https://osu.ppy.sh/beatmapsets/1235544#osu/2568398)
+  - [MK feat. YURiE - Spiral (FrenZ396) \[Extra\]](https://osu.ppy.sh/beatmapsets/1570048#osu/3206058)
 - DoubleTime
-  - [Rita, Asari, Tezuka Ryouko - Hajimari no Toki (Djulus) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1615974#osu/3299298)
-  - [Machita Chima - phony (Yugu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1560617#osu/3274541)
-  - [K/DA - MORE feat. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine (Elinor) \[Halgoh & Eli's Insane\]](https://osu.ppy.sh/beatmapsets/1075757#osu/2261226)
+  - [Ceui - Rainbow Days (Shikibe Mayu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1181354#osu/2464147)
+  - [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
+  - [Joshua Sitron & Billy Straus - Swiper No Swiping! (Gordon) \[Oh, Man!\]](https://osu.ppy.sh/beatmapsets/1440219#osu/2963126)
 - FreeMod
-  - [Myrath - Endure The Silence (LMT) \[BOUYAAA's Extra\]](https://osu.ppy.sh/beatmapsets/555454#osu/1303812)
-  - [EMANI Sound Team "Nekomata Master" - The last of world music (Heilia) \[Scub's Extra\]](https://osu.ppy.sh/beatmapsets/1060239#osu/3190378)
-  - [BEMANI Sound Team "Sota Fujimori 2nd Season" - POSSESSION (20th Anniversary Mix) (PayneTrain) \[Expert\]](https://osu.ppy.sh/beatmapsets/1551322#osu/3170084)
+  - [Sakuzyo - Instinct (Zelq) \[Circles\]](https://osu.ppy.sh/beatmapsets/1291263#osu/2680275)
+  - [P.D.P. - A Word To The Wise (TheKingHenry) \[Extra\]](https://osu.ppy.sh/beatmapsets/890157#osu/1860763)
+  - [My Chemical Romance - Welcome To The Black Parade (Moph) \[DELIS' EXTRA\]](https://osu.ppy.sh/beatmapsets/1286287#osu/2801378)
 
 ### Preliminary groups (Lower bracket)
 
