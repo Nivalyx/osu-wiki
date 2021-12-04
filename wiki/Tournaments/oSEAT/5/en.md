@@ -192,10 +192,14 @@ Saturday, 4 December 2021:
 | Bracket/Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower/D | [Hanami-](https://osu.ppy.sh/users/11091594) ![][flag_MY] | 0 | **5** | ![][flag_ID] **[Cudi](https://osu.ppy.sh/users/1492995)** | [#1](https://osu.ppy.sh/community/matches/94793019) |
+| Lower/M | [Grantorio](https://osu.ppy.sh/users/5623529) ![][flag_SG] | 0 | **5** | ![][flag_VN] **[Phoeni\_](https://osu.ppy.sh/users/14953642)** | [#1](https://osu.ppy.sh/community/matches/94794439) |
 | Lower/I | **[\_Kolin](https://osu.ppy.sh/users/7249644)** ![][flag_US] (![][flag_PH]) | **5** | 1 | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) | [#1](https://osu.ppy.sh/community/matches/94791129) |
 | Lower/M | **[Yorocchi](https://osu.ppy.sh/users/5286218)** ![][flag_TH] | **5** | 1 | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) | [#1](https://osu.ppy.sh/community/matches/94791117) |
 | Upper/H | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ![][flag_ID] | 2 | **5** | ![][flag_PH] **[BronyPH](https://osu.ppy.sh/users/1492995)** | [#1](https://osu.ppy.sh/community/matches/94791198) |
 | Lower/F | **[Hecatia](https://osu.ppy.sh/users/8244635)** ![][flag_SG] | **5** | 1 | ![][flag_PH] [Swish0s](https://osu.ppy.sh/users/10971042) | [#1](https://osu.ppy.sh/community/matches/94793013) |
+| Lower/D | **[-Graigory-](https://osu.ppy.sh/users/14024170)** ![][flag_PH] | **5** | 2 | ![][flag_SG] [Moroha29](https://osu.ppy.sh/users/9182389) | [#1](https://osu.ppy.sh/community/matches/94793007) |
+| Lower/D | [-Graigory-](https://osu.ppy.sh/users/14024170) ![][flag_PH] | 3 | **5** | ![][flag_ID] **[Cudi](https://osu.ppy.sh/users/1492995)** | [#1](https://osu.ppy.sh/community/matches/94794465) |
+| Lower/F | [RePeaTT](https://osu.ppy.sh/users/11132323) ![][flag_SG] | 1 | **5** | ![][flag_SG] **[marcellasne\_](https://osu.ppy.sh/users/6622650)** | [#1](https://osu.ppy.sh/community/matches/94794441) |
 
 ## Ruleset
 
