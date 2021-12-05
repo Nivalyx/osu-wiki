@@ -366,11 +366,11 @@ Monday, 5 December 2021:
 2. Each player has to ban **two beatmaps** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own outside the multiplayer lobby.
-4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
+4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
    - Playing a FreeMod pick without any mods activated is not allowed.
-5. In case a map ends with a score tie, **the player that doesn't pick the map** gets the point.
-6. In case of a tiebreaker, each player will discreetly ban 1 of the 3 remaining available maps from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one map that ends up not being banned by both players will be played as the tiebreaker.
-   - If both players ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
+5. In case a beatmap ends with a score tie, **the player that doesn't pick the beatmap** gets the point.
+6. In case of a tiebreaker, each player will discreetly ban 1 of the 3 remaining available beatmaps from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one beatmap that ends up not being banned by both players will be played as the tiebreaker.
+   - If both players ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
