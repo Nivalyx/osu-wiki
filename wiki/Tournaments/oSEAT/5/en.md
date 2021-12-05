@@ -332,7 +332,7 @@ Monday, 5 December 2021:
 1. In the Preliminary groups, all previously qualified players will be divided into 24 groups (8 in the upper bracket and 16 in the lower bracket) consisting of 4 different players each based on their seed.
 2. All players in each group will face each other over a single week based on the following bracket scheme:
 
-![Preliminary groups bracket scheme](img/bracket.jpg)
+![Preliminary groups bracket scheme](img/bracket.png)
 
 3. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players will be eliminated from the tournament.
 4. **The upper bracket groups and the lower bracket groups will each play a different pool.**
