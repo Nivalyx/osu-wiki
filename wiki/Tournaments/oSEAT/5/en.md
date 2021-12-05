@@ -234,6 +234,11 @@ Saturday, 4 December 2021:
 | Upper/F | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 0 | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) | *win by default* |
 | Upper/F | **[\_gt](https://osu.ppy.sh/users/8301957)** ![][flag_SG] | **5** | 0 | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) | *win by default* |
 
+Monday, 4 December 2021:
+
+| Bracket/Group | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+
 ## Ruleset
 
 ### General rules
