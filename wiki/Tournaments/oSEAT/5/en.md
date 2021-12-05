@@ -247,7 +247,10 @@ Monday, 5 December 2021:
 | Lower/N | [NathanSS](https://osu.ppy.sh/users/8500628) ![][flag_PH] | 2 | **5** | ![][flag_PH] **[ChaeY\_Milk](https://osu.ppy.sh/users/10383440)** | [#1](https://osu.ppy.sh/community/matches/94849239) |
 | Lower/M | [Kagitingan](https://osu.ppy.sh/users/7407323) ![][flag_PH] | 2 | **5** | ![][flag_SG] **[Grantorio](https://osu.ppy.sh/users/5623529)** | [#1](https://osu.ppy.sh/community/matches/94849317) |
 | Lower/I | [OppaiSuki](https://osu.ppy.sh/users/1285403) ![][flag_SG] | 1 | **5** | ![][flag_MY] **[Agagak](https://osu.ppy.sh/users/3645490)** | [#1](https://osu.ppy.sh/community/matches/94849373) |
-| Upper/P | **[konawiki](https://osu.ppy.sh/users/4003979)** ![][flag_PH] | **5** | 0 | ![][flag_SG] [hollowknees](https://osu.ppy.sh/users/15195364) | [#1](https://osu.ppy.sh/community/matches/94850796) |
+| Lower/P | **[konawiki](https://osu.ppy.sh/users/4003979)** ![][flag_PH] | **5** | 0 | ![][flag_SG] [hollowknees](https://osu.ppy.sh/users/15195364) | [#1](https://osu.ppy.sh/community/matches/94850796) |
+| Lower/C | [wick](https://osu.ppy.sh/users/8004317) ![][flag_SG] | 1 | **5** | ![][flag_TH] **[chantat on osu](https://osu.ppy.sh/users/12290117)** | [#1](https://osu.ppy.sh/community/matches/94850679) |
+| Lower/C | [JayAreEee](https://osu.ppy.sh/users/10852557) ![][flag_PH] | 2 | **5** | ![][flag_PH] **[\[-Kurumi-\]](https://osu.ppy.sh/users/5414484)** | [#1](https://osu.ppy.sh/community/matches/94850683) |
+| Lower/P | **[Senjuro](https://osu.ppy.sh/users/3003839)** ![][flag_PH] | **5** | 2 | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) | [#1](https://osu.ppy.sh/community/matches/94850800) |
 | Lower/N | [DeZpair](https://osu.ppy.sh/users/7518843) ![][flag_ID] | 0 | **5** | ![][flag_PH] **[ChaeY\_Milk](https://osu.ppy.sh/users/10383440)** | *win by default* |
 | Lower/N | [DeZpair](https://osu.ppy.sh/users/7518843) ![][flag_ID] | 0 | **5** | ![][flag_JP] (![][flag_PH]) [ZHKPN](https://osu.ppy.sh/users/13042221) | *win by default* |
 
