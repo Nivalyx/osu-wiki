@@ -238,7 +238,7 @@ Monday, 5 December 2021:
 
 | Bracket/Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower/G | [Ltwoed](https://osu.ppy.sh/users/13670830) ![][flag_MY] | 3 | **5** | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336)** | [#1](https://osu.ppy.sh/community/matches/94853466) || Lower/M | **[Yorocchi](https://osu.ppy.sh/users/5286218)** ![][flag_TH] | **5** | 4 | ![][flag_VN] [Phoeni\_](https://osu.ppy.sh/users/14953642) | [#1](https://osu.ppy.sh/community/matches/94849314) |
+| Lower/G | [Ltwoed](https://osu.ppy.sh/users/13670830) ![][flag_MY] | 3 | **5** | ![][flag_ID] **[Suikami](https://osu.ppy.sh/users/1929336)** | [#1](https://osu.ppy.sh/community/matches/94853466) || Lower/M | **[Yorsocchi](https://osu.ppy.sh/users/5286218)** ![][flag_TH] | **5** | 4 | ![][flag_VN] [Phoeni\_](https://osu.ppy.sh/users/14953642) | [#1](https://osu.ppy.sh/community/matches/94849314) |
 | Upper/G | **[megumic](https://osu.ppy.sh/users/7537133)** ![][flag_SG] | **5** | 0 | ![][flag_VN] [SkyArrow](https://osu.ppy.sh/users/4039647) | [#1](https://osu.ppy.sh/community/matches/94814968) |
 
 ## Ruleset
