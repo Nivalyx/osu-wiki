@@ -251,6 +251,8 @@ Monday, 5 December 2021:
 | Lower/C | [wick](https://osu.ppy.sh/users/8004317) ![][flag_SG] | 1 | **5** | ![][flag_TH] **[chantat on osu](https://osu.ppy.sh/users/12290117)** | [#1](https://osu.ppy.sh/community/matches/94850679) |
 | Lower/C | [JayAreEee](https://osu.ppy.sh/users/10852557) ![][flag_PH] | 2 | **5** | ![][flag_PH] **[\[-Kurumi-\]](https://osu.ppy.sh/users/5414484)** | [#1](https://osu.ppy.sh/community/matches/94850683) |
 | Lower/P | **[Senjuro](https://osu.ppy.sh/users/3003839)** ![][flag_PH] | **5** | 2 | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) | [#1](https://osu.ppy.sh/community/matches/94850800) |
+| Lower/A | **[Bunan-](https://osu.ppy.sh/users/2763354)** ![][flag_ID] | **5** | 4 | ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) | [#1](https://osu.ppy.sh/community/matches/94856873) |
+| Lower/O | **[-TwiHD](https://osu.ppy.sh/users/5470299)** ![][flag_ID] | **5** | 3 | ![][flag_SG] [Shleepy](https://osu.ppy.sh/users/8486823) | [#1](https://osu.ppy.sh/community/matches/94850806) |
 | Lower/N | [DeZpair](https://osu.ppy.sh/users/7518843) ![][flag_ID] | 0 | **5** | ![][flag_PH] **[ChaeY\_Milk](https://osu.ppy.sh/users/10383440)** | *win by default* |
 | Lower/N | [DeZpair](https://osu.ppy.sh/users/7518843) ![][flag_ID] | 0 | **5** | ![][flag_JP] (![][flag_PH]) [ZHKPN](https://osu.ppy.sh/users/13042221) | *win by default* |
 
