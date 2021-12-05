@@ -327,7 +327,7 @@ Monday, 5 December 2021:
 
 #### Preliminary group phase rules
 
-1. In the Group Stage, the 96 previously qualified players will be divided into 16 groups consisting of 6 different players each based on their seed.
+1. In the Preliminary groups, all previously qualified players will be divided into 24 groups (8 groups in the upper bracket and 16 groups in the lower bracket) consisting of 4 different players each based on their seed.
 2. All the players from each group will face each other over the period of two weeks based on the following bracket scheme:
 
 ![Group Stage bracket scheme](img/group-stage-bracket.jpg)
