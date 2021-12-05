@@ -215,6 +215,9 @@ Saturday, 4 December 2021:
 | Upper/B | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/94798343) |
 | Upper/A | **[Rtyzen](https://osu.ppy.sh/users/2439822)** ![][flag_SG] | **5** | 1 | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/94801428) |
 | Upper/A | **[Tebi](https://osu.ppy.sh/users/5407620)** ![][flag_SG] | **5** | 2 | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | [#1](https://osu.ppy.sh/community/matches/94803807) |
+| Lower/D | **[Moroha29](https://osu.ppy.sh/users/9182389)** ![][flag_SG] | **5** | 2 | ![][flag_MY] [Hanami-](https://osu.ppy.sh/users/8703188) | [#1](https://osu.ppy.sh/community/matches/94803530) |
+| Lower/E | **[xidorn](https://osu.ppy.sh/users/7904667)** ![][flag_PH] | **5** | 2 | ![][flag_MY] [GKen](https://osu.ppy.sh/users/12633052) | [#1](https://osu.ppy.sh/community/matches/94803865) |
+| Lower/F | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 1 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | [#1](https://osu.ppy.sh/community/matches/94803649) |
 | Upper/C | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
 | Upper/F | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 0 | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) | *win by default* |
 
