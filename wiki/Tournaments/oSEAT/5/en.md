@@ -229,7 +229,7 @@ Saturday, 4 December 2021:
 | Upper/E | **[Eagle5324](https://osu.ppy.sh/users/11987104)** ![][flag_SG] | **5** | 4 | ![][flag_PH] [BronyPH](https://osu.ppy.sh/users/1492995) | [#1](https://osu.ppy.sh/community/matches/94809335) |
 | Lower/E | [GKen](https://osu.ppy.sh/users/12633052) ![][flag_MY] | 1 | **5** | ![][flag_SG] **[FishStar](https://osu.ppy.sh/users/12563284)** | [#1](https://osu.ppy.sh/community/matches/94812253) |
 | Lower/E | [xidorn](https://osu.ppy.sh/users/7904667) ![][flag_PH] | 2 | **5** | ![][flag_MY] **[not\_aweeb](https://osu.ppy.sh/users/9375317)** | [#1](https://osu.ppy.sh/community/matches/94812246) |
-| Upper/G | [Inugami Korone](https://osu.ppy.sh/users/4474918) ![][flag_MH] | 4 | **5** | ![][flag_PH] **[BronyPH 2](https://osu.ppy.sh/users/7246165)** | [#1](https://osu.ppy.sh/community/matches/94812833) |
+| Upper/G | [Inugami Korone](https://osu.ppy.sh/users/4474918) ![][flag_MY] | 4 | **5** | ![][flag_PH] **[BronyPH 2](https://osu.ppy.sh/users/7246165)** | [#1](https://osu.ppy.sh/community/matches/94812833) |
 | Upper/C | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
 | Upper/F | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 0 | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) | *win by default* |
 | Upper/F | **[\_gt](https://osu.ppy.sh/users/8301957)** ![][flag_SG] | **5** | 0 | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) | *win by default* |
