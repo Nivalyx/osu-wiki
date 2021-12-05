@@ -257,7 +257,7 @@ Monday, 5 December 2021:
 | Lower/O | **[-TwiHD](https://osu.ppy.sh/users/5470299)** ![][flag_ID] | **5** | 2 | ![][flag_MY] [Houshou Marine](https://osu.ppy.sh/users/6402211) | [#1](https://osu.ppy.sh/community/matches/94852144) |
 | Lower/P | **[konawiki](https://osu.ppy.sh/users/4003979)** ![][flag_PH] | **5** | 1 | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | [#1](https://osu.ppy.sh/community/matches/94852119) |
 | Lower/P | **[hollowknees](https://osu.ppy.sh/users/15195364)** ![][flag_SG] | **5** | 2 | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) | [#1](https://osu.ppy.sh/community/matches/94852123) |
-| Lower/O | **[Shleepy](https://osu.ppy.sh/users/8486823)** ![][flag_SG] | **5** | 2 | ![][flag_SG] [D3rpyB01](https://osu.ppy.sh/users/11772019) | [#1](https://osu.ppy.sh/community/matches/94852145) |
+| Lower/O | **[Shleepy](https://osu.ppy.sh/users/8486823)** ![][flag_SG] | **5** | 3 | ![][flag_SG] [D3rpyB01](https://osu.ppy.sh/users/11772019) | [#1](https://osu.ppy.sh/community/matches/94852145) |
 | Lower/N | [DeZpair](https://osu.ppy.sh/users/7518843) ![][flag_ID] | 0 | **5** | ![][flag_PH] **[ChaeY\_Milk](https://osu.ppy.sh/users/10383440)** | *win by default* |
 | Lower/N | [DeZpair](https://osu.ppy.sh/users/7518843) ![][flag_ID] | 0 | **5** | ![][flag_JP] (![][flag_PH]) [ZHKPN](https://osu.ppy.sh/users/13042221) | *win by default* |
 
