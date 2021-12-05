@@ -223,7 +223,7 @@ Saturday, 4 December 2021:
 | Upper/F | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 1 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | [#1](https://osu.ppy.sh/community/matches/94803649) |
 | Upper/D | **[GSBlank](https://osu.ppy.sh/users/2312106)** ![][flag_SG] | **5** | 0 | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | [#1](https://osu.ppy.sh/community/matches/94806198) |
 | Upper/H | [Dawnwing](https://osu.ppy.sh/users/5144534) ![][flag_SG] | 0 | **5** | ![][flag_TH] **[Tzero](https://osu.ppy.sh/users/6088976)** | [#1](https://osu.ppy.sh/community/matches/94806208) |
-| Upper/D | **[Rammu](https://osu.ppy.sh/users/10652837)** ![][flag_ID] | **5** | 0 | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | [#1](https://osu.ppy.sh/community/matches/94809124) |
+| Upper/D | **[Rammu](https://osu.ppy.sh/users/10652837)** ![][flag_PH] | **5** | 0 | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | [#1](https://osu.ppy.sh/community/matches/94809124) |
 | Lower/E | **[not\_aweeb](https://osu.ppy.sh/users/9375317)** ![][flag_MY] | **5** | 2 | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | [#1](https://osu.ppy.sh/community/matches/94809075) |
 | Upper/D | [-Kedama](https://osu.ppy.sh/users/12147277) ![][flag_TH] | 3 | **5** | ![][flag_SG] **[GSBlank](https://osu.ppy.sh/users/2312106)** | [#1](https://osu.ppy.sh/community/matches/94809119) |
 | Upper/E | **[Eagle5324](https://osu.ppy.sh/users/11987104)** ![][flag_SG] | **5** | 4 | ![][flag_PH] [BronyPH](https://osu.ppy.sh/users/1492995) | [#1](https://osu.ppy.sh/community/matches/94809335) |
