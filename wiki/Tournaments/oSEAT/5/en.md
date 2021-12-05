@@ -332,8 +332,8 @@ Monday, 5 December 2021:
 
 ![Group Stage bracket scheme](img/group-stage-bracket.jpg)
 
-3. **The upper bracket groups and the lower bracket groups will each play different pools.**
-4. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players will be eliminated from the tournament.
+3. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players will be eliminated from the tournament.
+4. **The upper bracket groups and the lower bracket groups will each play a different pool.**
 5. All matches in the Preliminary groups will be done in a Best-of-9 matchup format.
 
 #### Knock-out stage rules
