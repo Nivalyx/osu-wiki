@@ -278,18 +278,18 @@ Monday, 5 December 2021:
 
 ### General rules
 
-1. Map scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
+1. Beatmap scoring is based on **[ScoreV2](/wiki/Score#scorev2).**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all maps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the map regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they failed the map.
+7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+8. If a player disconnects, it will be treated as if they failed the beatmap.
    - Disconnects that occur within a few seconds after the map is started by the referee can be rematched.
 9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes max.
    - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
-10. Lag is not a valid reason to nullify a map.
+10. Lag is not a valid reason to nullify a beatmap.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
     - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from oSEAT4 and/or blacklisted from the future instalment(s) of oSEAT.
@@ -305,17 +305,19 @@ Monday, 5 December 2021:
      - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
 2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
 3. The list of players who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
-4. Testplayers, referees, and map selectors may not participate as players in this tournament.
+4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
-### Qualifier rules
+### Round-specific rules
+
+#### Qualifier rules
 
 1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
-2. In the lobby, all players will have to consecutively play all of the nine Qualifier maps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
-3. Players **are not allowed** to ban any maps in the Qualifiers.
+2. In the lobby, all players will have to consecutively play all of the nine Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
-5. 96 players with the **highest amount of accumulated Qualifier points in total** will advance to the Group Stage.
-   - The Qualifier points for each individual map are being calculated by the following mechanism: The best performer on the map across all Qualifier lobbies combined gains +150 points added to their Qualifier points tally, the second best performer gains +149 points, the third best performer gains +148 points, and so on until the 150th best performer gains +1 point. Players who ranked 151th or lower on the corresponding map will receive no point.
-   - Players who ranked #1 - #16 based on their accumulated Qualifier Points will be designated as Seed A players.
+5. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Group Stage.
+   - The Qualifier points for each individual beatmap are being calculated by the following mechanism: The best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
+   - Players who ranked #1 - #16 based on their accumulated Qualifier Points will be allocated to the **upper Preliminary group bracket** as **Seed A** players.
    - Players who ranked #17 - #32 based on their accumulated Qualifier Points will be designated as Seed B players.
    - Players who ranked #33 - #48 based on their accumulated Qualifier Points will be designated as Seed C players.
    - Players who ranked #49 - #64 based on their accumulated Qualifier Points will be designated as Seed D players.
@@ -324,7 +326,7 @@ Monday, 5 December 2021:
    - Players who ranked #97 or lower based on their accumulated Qualifier Points will be knocked out from the tournament.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
-### Group stage rules
+#### Preliminary group phase rules
 
 1. In the Group Stage, the 96 previously qualified players will be divided into 16 groups consisting of 6 different players each based on their seed.
 2. All the players from each group will face each other over the period of two weeks based on the following bracket scheme:
@@ -334,7 +336,7 @@ Monday, 5 December 2021:
 3. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players will be eliminated from the tournament.
 4. All matches in Group Stage will be done in a Best-of-9 matchup format.
 
-### Knock-out stage rules
+#### Knock-out stage rules
 
 1. The 64 players who managed to get through from the Group Stage will be matched to each other based on their Group Stage placement as described above.
 2. Players will compete against each other using the Double Elimination system.
