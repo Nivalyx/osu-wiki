@@ -363,7 +363,7 @@ Monday, 5 December 2021:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player is obligated to ban **two beatmaps** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
+2. Each player is obligated to ban **two beatmaps** from the mappool, with the first ban coming at the start of the match and the second ban coming after 4 maps have been played. These beatmaps are not allowed to be picked by any player during the entire match.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own outside the multiplayer lobby.
 4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
