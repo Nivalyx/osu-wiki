@@ -218,6 +218,9 @@ Saturday, 4 December 2021:
 | Lower/D | **[Moroha29](https://osu.ppy.sh/users/9182389)** ![][flag_SG] | **5** | 2 | ![][flag_MY] [Hanami-](https://osu.ppy.sh/users/8703188) | [#1](https://osu.ppy.sh/community/matches/94803530) |
 | Lower/E | **[xidorn](https://osu.ppy.sh/users/7904667)** ![][flag_PH] | **5** | 2 | ![][flag_MY] [GKen](https://osu.ppy.sh/users/12633052) | [#1](https://osu.ppy.sh/community/matches/94803865) |
 | Upper/F | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 1 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | [#1](https://osu.ppy.sh/community/matches/94803649) |
+| Upper/D | **[GSBlank](https://osu.ppy.sh/users/2312106)** ![][flag_SG] | **5** | 0 | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | [#1](https://osu.ppy.sh/community/matches/94806198) |
+| Upper/H | [Dawnwing](https://osu.ppy.sh/users/5144534) ![][flag_SG] | 0 | **5** | ![][flag_TH] **[Tzero](https://osu.ppy.sh/users/6088976)** | [#1](https://osu.ppy.sh/community/matches/94806208) |
+| Upper/D | **[Rammu](https://osu.ppy.sh/users/10652837)** ![][flag_ID] | **5** | 0 | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | [#1](https://osu.ppy.sh/community/matches/94809124) |
 | Upper/C | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
 | Upper/F | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 0 | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) | *win by default* |
 | Upper/F | **[\_gt](https://osu.ppy.sh/users/8301957)** ![][flag_SG] | **5** | 0 | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) | *win by default* |
