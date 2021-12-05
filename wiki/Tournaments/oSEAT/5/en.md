@@ -302,8 +302,8 @@ Monday, 5 December 2021:
    - In order to be eligible to play in the tournament, a player must either:
      - Have the flag of any of the ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, or ![][flag_VN] Vietnam) displayed on their profile, ***or***
      - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
-2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
-3. The list of players who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended.
+2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Round-specific rules
@@ -316,8 +316,8 @@ Monday, 5 December 2021:
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
 5. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Group Stage.
    - The Qualifier points for each individual beatmap are being calculated by the following mechanism: The best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
-   - Players who ranked #1 - #16 based on their accumulated Qualifier Points will be allocated to the **upper Preliminary group bracket** as **Seed A** players.
-   - Players who ranked #17 - #32 based on their accumulated Qualifier Points will be designated as Seed B players.
+   - Players who ranked #1 - #8 based on their accumulated Qualifier Points will be allocated to the **upper Preliminary group bracket** as **Seed A** players.
+   - Players who ranked #9 - #16 based on their accumulated Qualifier Points will be allocated to the **upper Preliminary group bracket** as **Seed B** players.
    - Players who ranked #33 - #48 based on their accumulated Qualifier Points will be designated as Seed C players.
    - Players who ranked #49 - #64 based on their accumulated Qualifier Points will be designated as Seed D players.
    - Players who ranked #65 - #80 based on their accumulated Qualifier Points will be designated as Seed E players.
