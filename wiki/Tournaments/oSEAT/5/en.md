@@ -316,8 +316,8 @@ Monday, 5 December 2021:
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
 5. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Group Stage.
    - The Qualifier points for each individual beatmap are being calculated by the following mechanism: The best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
-   - Players who ranked #1 - #8 based on their accumulated Qualifier Points will be allocated to the **upper Preliminary group bracket** as **Seed A** players.
-   - Players who ranked #9 - #16 based on their accumulated Qualifier Points will be allocated to the **upper Preliminary group bracket** as **Seed B** players.
+   - Players who ranked #1 - #8 based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed A** players.
+   - Players who ranked #9 - #16 based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed B** players.
    - Players who ranked #33 - #48 based on their accumulated Qualifier Points will be designated as Seed C players.
    - Players who ranked #49 - #64 based on their accumulated Qualifier Points will be designated as Seed D players.
    - Players who ranked #65 - #80 based on their accumulated Qualifier Points will be designated as Seed E players.
