@@ -98,9 +98,9 @@ Listed below are players who qualified into the Preliminary groups (along with t
 | O | ![][flag_ID] [-TwiHD](https://osu.ppy.sh/users/5470299) | ![][flag_MY] [Houshou Marine](https://osu.ppy.sh/users/6402211) | ![][flag_SG] [D3rpyB01](https://osu.ppy.sh/users/11772019) | ![][flag_SG] [Shleepy](https://osu.ppy.sh/users/8486823) |
 | P | ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979) | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) | ![][flag_SG] [hollowknees](https://osu.ppy.sh/users/15195364) |
 
-¹ *Despite having the ![][flag_US] United States flag on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
+¹ *Despite having the ![][flag_US] American flag, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Phillipine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
 
-² *Despite having the ![][flag_JP] Japan flag on their profile, [ZHKPN](https://osu.ppy.sh/users/13042221) is eligible to participate in the tournament as they are a citizen of ![][flag_PH] The Phillipines living abroad.*
+² *Despite having the ![][flag_JP] Japanese flag, [ZHKPN](https://osu.ppy.sh/users/13042221) is eligible to participate in the tournament as they are a citizen of ![][flag_PH] The Phillipines living abroad.*
 
 ## Mappools
 
