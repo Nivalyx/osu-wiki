@@ -6,7 +6,7 @@ tags:
 
 # osu! South East Asia Tournament 5
 
-![oSEAT4 logo](img/logo.jpg)
+![oSEAT5 logo](img/logo.jpg)
 
 The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846). The tournament is open to all players from all ten [ASEAN member states](https://asean.org/asean/asean-member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Phillipines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It is the 5th instalment of the osu! South East Asia Tournament.
 
@@ -330,9 +330,9 @@ Monday, 5 December 2021:
 #### Preliminary group phase rules
 
 1. In the Preliminary groups, all previously qualified players will be divided into 24 groups (8 in the upper bracket and 16 in the lower bracket) consisting of 4 different players each based on their seed.
-2. All players in each group will face each other over the period of two weeks based on the following bracket scheme:
+2. All players in each group will face each other over a single week based on the following bracket scheme:
 
-![Group Stage bracket scheme](img/group-stage-bracket.jpg)
+![Preliminary groups bracket scheme](img/bracket.jpg)
 
 3. The winner of A5 and A9 on each group will advance to the Knock-out stages in the Upper Bracket as the group's winner and runner-up respectively, while the loser of A9 and the winner of A8 will advance to the Knock-out stages in the Lower Bracket accordingly as the 3rd-placed and the 4th-placed player in the group. The other two players will be eliminated from the tournament.
 4. **The upper bracket groups and the lower bracket groups will each play a different pool.**
