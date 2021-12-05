@@ -243,7 +243,10 @@ Monday, 5 December 2021:
 | Upper/G | **[megumic](https://osu.ppy.sh/users/7537133)** ![][flag_SG] | **5** | 0 | ![][flag_VN] [SkyArrow](https://osu.ppy.sh/users/4039647) | [#1](https://osu.ppy.sh/community/matches/94814968) |
 | Lower/I | **[\_Kolin](https://osu.ppy.sh/users/7249644)** ![][flag_US] (![][flag_PH]) | **5** | 2 | ![][flag_SG] [Inquisitives](https://osu.ppy.sh/users/10722794) | [#1](https://osu.ppy.sh/community/matches/94816577) |
 | Lower/N | **[NathanSS](https://osu.ppy.sh/users/8500628)** ![][flag_PH] | **5** | 0 | ![][flag_JP] (![][flag_PH]) [ZHKPN](https://osu.ppy.sh/users/13042221) | [#1](https://osu.ppy.sh/community/matches/94848064) |
+| Lower/C | **[wick](https://osu.ppy.sh/users/8004317)** ![][flag_SG] | **5** | 0 | ![][flag_PH] [JayAreEee](https://osu.ppy.sh/users/10852557) | [#1](https://osu.ppy.sh/community/matches/94849388) |
+| Lower/N | [NathanSS](https://osu.ppy.sh/users/8500628) ![][flag_PH] | 2 | **5** | ![][flag_PH] **[ChaeY\_Milk](https://osu.ppy.sh/users/10383440)** | [#1](https://osu.ppy.sh/community/matches/94849239) |
 | Lower/N | [DeZpair](https://osu.ppy.sh/users/7518843) ![][flag_ID] | 0 | **5** | ![][flag_PH] **[ChaeY\_Milk](https://osu.ppy.sh/users/10383440)** | *win by default* |
+| Lower/N | [DeZpair](https://osu.ppy.sh/users/7518843) ![][flag_ID] | 0 | **5** | ![][flag_JP] (![][flag_PH]) [ZHKPN](https://osu.ppy.sh/users/13042221) | *win by default* |
 
 ## Ruleset
 
