@@ -193,6 +193,7 @@ Saturday, 4 December 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower/D | [Hanami-](https://osu.ppy.sh/users/11091594) ![][flag_MY] | 0 | **5** | ![][flag_ID] **[Cudi](https://osu.ppy.sh/users/1492995)** | [#1](https://osu.ppy.sh/community/matches/94793019) |
 | Lower/M | [Grantorio](https://osu.ppy.sh/users/5623529) ![][flag_SG] | 0 | **5** | ![][flag_VN] **[Phoeni\_](https://osu.ppy.sh/users/14953642)** | [#1](https://osu.ppy.sh/community/matches/94794439) |
+| Upper/G | **[megumic](https://osu.ppy.sh/users/7537133)** ![][flag_SG] | **5** | 2 | ![][flag_MY] [Inugami Korone](https://osu.ppy.sh/users/4474918) | [#1](https://osu.ppy.sh/community/matches/94809141) |
 | Lower/O | **[Houshou Marine](https://osu.ppy.sh/users/6402211)** ![][flag_MY] | **5** | 0 | ![][flag_SG] [D3rpyB01](https://osu.ppy.sh/users/11772019) | [#1](https://osu.ppy.sh/community/matches/94801655) |
 | Lower/I | **[\_Kolin](https://osu.ppy.sh/users/7249644)** ![][flag_US] (![][flag_PH]) | **5** | 1 | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) | [#1](https://osu.ppy.sh/community/matches/94791129) |
 | Lower/M | **[Yorocchi](https://osu.ppy.sh/users/5286218)** ![][flag_TH] | **5** | 1 | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) | [#1](https://osu.ppy.sh/community/matches/94791117) |
@@ -221,6 +222,8 @@ Saturday, 4 December 2021:
 | Upper/D | **[GSBlank](https://osu.ppy.sh/users/2312106)** ![][flag_SG] | **5** | 0 | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | [#1](https://osu.ppy.sh/community/matches/94806198) |
 | Upper/H | [Dawnwing](https://osu.ppy.sh/users/5144534) ![][flag_SG] | 0 | **5** | ![][flag_TH] **[Tzero](https://osu.ppy.sh/users/6088976)** | [#1](https://osu.ppy.sh/community/matches/94806208) |
 | Upper/D | **[Rammu](https://osu.ppy.sh/users/10652837)** ![][flag_ID] | **5** | 0 | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | [#1](https://osu.ppy.sh/community/matches/94809124) |
+| Lower/E | **[not\_aweeb](https://osu.ppy.sh/users/9375317)** ![][flag_MY] | **5** | 2 | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | [#1](https://osu.ppy.sh/community/matches/94809075) |
+| Upper/D | [-Kedama](https://osu.ppy.sh/users/12147277) ![][flag_TH] | 3 | **5** | ![][flag_SG] **[GSBlank](https://osu.ppy.sh/users/2312106)** | [#1](https://osu.ppy.sh/community/matches/94809119) |
 | Upper/C | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
 | Upper/F | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 0 | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) | *win by default* |
 | Upper/F | **[\_gt](https://osu.ppy.sh/users/8301957)** ![][flag_SG] | **5** | 0 | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) | *win by default* |
