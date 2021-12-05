@@ -264,6 +264,9 @@ Monday, 5 December 2021:
 | Lower/H | [sinn](https://osu.ppy.sh/users/4262229) ![][flag_SG] | 4 | **5** | ![][flag_SG] **[Milk Tee](https://osu.ppy.sh/users/6708955)** | [#1](https://osu.ppy.sh/community/matches/94853011) |
 | Lower/K | [JokThree](https://osu.ppy.sh/users/7713152) ![][flag_SG] | 0 | **5** | ![][flag_SG] **[Rtzero](https://osu.ppy.sh/users/9262462)** | [#1](https://osu.ppy.sh/community/matches/94853518) |
 | Lower/K | [Tazkiz](https://osu.ppy.sh/users/3738010) ![][flag_ID] | 3 | **5** | ![][flag_MY] **[Chizu-kun](https://osu.ppy.sh/users/10288461)** | [#1](https://osu.ppy.sh/community/matches/94853524) |
+| Upper/H | **[NathanRammu2044](https://osu.ppy.sh/users/8472976)** ![][flag_PH] | **5** | 2 | ![][flag_TH] [- Seen -](https://osu.ppy.sh/users/5082392) | [#1](https://osu.ppy.sh/community/matches/94856879) |
+| Lower/H | [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) ![][flag_ID] | 2 | **5** | ![][flag_MY] **[DaNoobSlayaar](https://osu.ppy.sh/users/8688777)** | [#1](https://osu.ppy.sh/community/matches/94857169) |
+| Upper/A | **[DuoX](https://osu.ppy.sh/users/9560694)** ![][flag_MY] | **5** | 0 | ![][flag_VN] [realshin](https://osu.ppy.sh/users/8006029) | *win by default* |
 | Lower/N | [DeZpair](https://osu.ppy.sh/users/7518843) ![][flag_ID] | 0 | **5** | ![][flag_PH] **[ChaeY\_Milk](https://osu.ppy.sh/users/10383440)** | *win by default* |
 | Lower/N | [DeZpair](https://osu.ppy.sh/users/7518843) ![][flag_ID] | 0 | **5** | ![][flag_JP] (![][flag_PH]) [ZHKPN](https://osu.ppy.sh/users/13042221) | *win by default* |
 
