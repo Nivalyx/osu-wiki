@@ -343,15 +343,17 @@ Monday, 5 December 2021:
 
 #### Knock-out stage rules
 
-1. The 64 players who managed to get through from the Group Stage will be matched to each other based on their Group Stage placement as described above.
+1. All remaining will be matched to each other based on their Preliminary groups placement as described above.
 2. Players will compete against each other using the modified Double Elimination system.
 3. The modified Double Elimination System works as follows:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Players who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Final, the winner of the the Upper Bracket will start the match with a 2-point advantage against the winner of the Lower Bracket. **There will be no Grand Final bracket reset.**
 4. Players who can compete in the next round are determined by the following criteria:
-   - In the Round of 32, Round of 16, and Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Semifinals and both of the Finals Weeks, each player needs to win 7 points in order to to win a match. (Best-of-13)
+   - In the Round of 64, Round of 32, and Round of 16, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Quarterfinals and Semifinals, each player needs to win 7 points in order to to win a match. (Best-of-13)
+   - In both of the Finals weeks (excluding the Grand Final), each player needs to win 8 points in order to to win a match. (Best-of-15)   
+   - In the Grand Final, each player needs to win 9 points in order to to win a match (Best-of-17) with the winner of the the Upper Bracket starting the match with a 2-point advantage as described above.
    - Players who Win By Default.
    - If there are players who is disqualified from the tournament.
 
