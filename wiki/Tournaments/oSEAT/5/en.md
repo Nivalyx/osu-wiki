@@ -316,14 +316,14 @@ Monday, 5 December 2021:
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
 5. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Group Stage.
    - The Qualifier points for each individual beatmap are being calculated by the following mechanism: The best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
-   - Players who ranked #1 - #8 based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed A** players.
-   - Players who ranked #9 - #16 based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed B** players.
-   - Players who ranked #17 - #24 based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed C** players.  
-   - Players who ranked #25 - #32 based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed D** players.    
-   - Players who ranked #33 - #48 based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed A** players.   
-   - Players who ranked #49 - #64 based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed B** players. 
-   - Players who ranked #65 - #80 based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed C** players. 
-   - Players who ranked #81 - #96 based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed D** players. 
+   - Players who ranked **#1 - #8** based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed A** players.
+   - Players who ranked **#9 - #16** based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed B** players.
+   - Players who ranked **#17 - #24** based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed C** players.  
+   - Players who ranked **#25 - #32** based on their accumulated Qualifier Points will qualify to the **upper Preliminary group bracket** as **Seed D** players.    
+   - Players who ranked **#33 - #48** based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed A** players.   
+   - Players who ranked **#49 - #64** based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed B** players. 
+   - Players who ranked **#65 - #80** based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed C** players. 
+   - Players who ranked **#81 - #96** based on their accumulated Qualifier Points will qualify to the **lower Preliminary group bracket** as **Seed D** players. 
    - Players who ranked #97 or lower based on their accumulated Qualifier Points will be knocked out from the tournament.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
@@ -336,7 +336,8 @@ Monday, 5 December 2021:
 
    - The **top 2 players from each upper bracket group** will qualify directly to the **Round of 32** in the **upper bracket**.
    - The **bottom 2 players from each upper bracket group** and **the winner from each lower bracket group** will qualify to the **Round of 64** in the **upper bracket**.
-   - The **2nd and 3rd-placed player from each lower bracket group** will qualify to the **Round of 64** in the **lower bracket**.     
+   - The **2nd and 3rd-placed player from each lower bracket group** will qualify to the **Round of 64** in the **lower bracket**.
+   - The 4th-placed player from each lower bracket group will be knocked out from the tournament.
 4. **The upper bracket groups and the lower bracket groups will each play a different pool.**
 5. All matches in the Preliminary groups will be done in a Best-of-9 matchup format.
 
