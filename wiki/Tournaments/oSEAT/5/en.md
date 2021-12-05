@@ -344,11 +344,11 @@ Monday, 5 December 2021:
 #### Knock-out stage rules
 
 1. The 64 players who managed to get through from the Group Stage will be matched to each other based on their Group Stage placement as described above.
-2. Players will compete against each other using the Double Elimination system.
-3. The Double Elimination System works as follows:
+2. Players will compete against each other using the modified Double Elimination system.
+3. The modified Double Elimination System works as follows:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Players who lose in the Lower Bracket will be eliminated from the tournament.
-   - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
+   - In the Grand Final, the winner of the the Upper Bracket will start the match with a 2-point advantage against the winner of the Lower Bracket. **There will be no Grand Final bracket reset.**
 4. Players who can compete in the next round are determined by the following criteria:
    - In the Round of 32, Round of 16, and Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
    - In the Semifinals and both of the Finals Weeks, each player needs to win 7 points in order to to win a match. (Best-of-13)
@@ -361,8 +361,7 @@ Monday, 5 December 2021:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** (on Group Stage) and **two beatmaps** (on the Knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
-   - Each player may not ban two maps from the same modpool in a single match.
+2. Each player has to ban **two beatmaps** from the mappool. These beatmaps are not allowed to be picked by any player during the entire match.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own outside the multiplayer lobby.
 4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
