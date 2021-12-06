@@ -114,6 +114,10 @@ Listed below are players who qualified into the Preliminary groups (along with t
   - [fripSide - HesitationSnow (Fushimi Rio) \[Extra\]](https://osu.ppy.sh/beatmapsets/1329838#osu/2755377)
   - [ISOMERZ (DJ Raisei + seatrus) - Symmetric (Realazy) \[Amateurre's Expert\]](https://osu.ppy.sh/beatmapsets/1381824#osu/2954718)
   - [MisoilePunch - VVelcome!! (R3m) \[Flask's EXHAUST\]](https://osu.ppy.sh/beatmapsets/1235627#osu/3179665)
+- Hidden
+  - [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[captin's Expert\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2716344)
+  - [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
+  - [Yonekura Chihiro - Smiling-Swinging!! (Shikibe Mayu) \[Deppy's Insane\]](https://osu.ppy.sh/beatmapsets/1568530#osu/3274180)  
 
 ### Preliminary groups (upper bracket)
 
