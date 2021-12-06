@@ -286,7 +286,7 @@ Monday, 5 December 2021:
 | Upper/H | **[Tzero](https://osu.ppy.sh/users/6088976)** ![][flag_MY] | **5** | 1 | ![][flag_SG] [Dawnwing](https://osu.ppy.sh/users/5144534) | [#1](https://osu.ppy.sh/community/matches/94863925) |
 | Upper/G | **[SkyArrow](https://osu.ppy.sh/users/4039647)** ![][flag_VN] | **5** | 3 | ![][flag_PH] [BronyPH 2](https://osu.ppy.sh/users/7246165) | [#1](https://osu.ppy.sh/community/matches/94863924) |
 | Lower/B | [Ui S](https://osu.ppy.sh/users/15525343) ![][flag_BN] | 0 | **5** | ![][flag_TH] **[Faken](https://osu.ppy.sh/users/10249166)** | [#1](https://osu.ppy.sh/community/matches/94864203) |
-| Lower/L | [\Rel\](https://osu.ppy.sh/users/11622287) ![][flag_MY] | 4 | **5** | ![][flag_SG] **[moosepi](https://osu.ppy.sh/users/1868745)** | [#1](https://osu.ppy.sh/community/matches/94866373) |
+| Lower/L | [\_Rel\_](https://osu.ppy.sh/users/11622287) ![][flag_MY] | 4 | **5** | ![][flag_SG] **[moosepi](https://osu.ppy.sh/users/1868745)** | [#1](https://osu.ppy.sh/community/matches/94866373) |
 | Lower/B | [Chiyuu](https://osu.ppy.sh/users/8226107) ![][flag_MY] | 0 | **5** | ![][flag_ID] **[OTWGE](https://osu.ppy.sh/users/11759284)** | [#1](https://osu.ppy.sh/community/matches/94864178) |
 | Lower/L | [2 and eight](https://osu.ppy.sh/users/8923608) ![][flag_PH] | 2 | **5** | ![][flag_ID] **[DeathAdderz](https://osu.ppy.sh/users/7457788)** | [#1](https://osu.ppy.sh/community/matches/94866367) |
 | Upper/B | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **5** | 4 | ![][flag_TH] [ChaiPhukChep](https://osu.ppy.sh/users/9723127) | [#1](https://osu.ppy.sh/community/matches/94859116) |
