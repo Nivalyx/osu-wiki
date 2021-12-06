@@ -117,7 +117,19 @@ Listed below are players who qualified into the Preliminary groups (along with t
 - Hidden
   - [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[captin's Expert\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2716344)
   - [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
-  - [Yonekura Chihiro - Smiling-Swinging!! (Shikibe Mayu) \[Deppy's Insane\]](https://osu.ppy.sh/beatmapsets/1568530#osu/3274180)  
+  - [Yonekura Chihiro - Smiling-Swinging!! (Shikibe Mayu) \[Deppy's Insane\]](https://osu.ppy.sh/beatmapsets/1568530#osu/3274180)
+- HardRock
+  - [Inugami Korone - SAIKYO TENSAI WONDERFUL WORLD of KORONE (Yuuma) \[Yubi Yubi\]](https://osu.ppy.sh/beatmapsets/1431435#osu/2946557)
+  - [MYTK - Senkyou (Realazy) \[Cubby's Insane\]](https://osu.ppy.sh/beatmapsets/1262410#osu/2623949)
+  - [HuMeR - ChaserXX (Realazy) \[Kkip's Another\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
+- DoubleTime
+  - [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Insane\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3187933)
+  - [Aki - Darkish (Lortus) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/514965#osu/1097552)
+  - [Amane - Melt in the sky (Gabi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
+- FreeMod
+  - [Camellia feat. Nanahira - Kizuitara Shunkashuutou (HeTo) \[Dubturt's Extra\]](https://osu.ppy.sh/beatmapsets/1120946#osu/2361902)
+  - [Nekomata Master feat. *spiLa* - Clumsy thoughts (AJT) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348)
+  - [L.E.D. - THE LAST STRIKER (Amamiya Yuko) \[Another\]](https://osu.ppy.sh/beatmapsets/129065#osu/326367)    
 
 ### Preliminary groups (upper bracket)
 
