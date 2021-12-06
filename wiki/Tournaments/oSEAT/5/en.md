@@ -128,7 +128,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
   - [Amane - Melt in the sky (Gabi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
 - FreeMod
   - [Camellia feat. Nanahira - Kizuitara Shunkashuutou (HeTo) \[Dubturt's Extra\]](https://osu.ppy.sh/beatmapsets/1120946#osu/2361902)
-  - [Nekomata Master feat. *spiLa* - Clumsy thoughts (AJT) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348)
+  - [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (AJT) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348)
   - [L.E.D. - THE LAST STRIKER (Amamiya Yuko) \[Another\]](https://osu.ppy.sh/beatmapsets/129065#osu/326367)    
 
 ### Preliminary groups (upper bracket)
