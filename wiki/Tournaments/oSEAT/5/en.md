@@ -261,6 +261,7 @@ Monday, 5 December 2021:
 | Lower/P | **[Senjuro](https://osu.ppy.sh/users/3003839)** ![][flag_PH] | **5** | 2 | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) | [#1](https://osu.ppy.sh/community/matches/94850800) |
 | Lower/A | **[Bunan-](https://osu.ppy.sh/users/2763354)** ![][flag_ID] | **5** | 4 | ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) | [#1](https://osu.ppy.sh/community/matches/94856873) |
 | Lower/O | **[-TwiHD](https://osu.ppy.sh/users/5470299)** ![][flag_ID] | **5** | 2 | ![][flag_MY] [Houshou Marine](https://osu.ppy.sh/users/6402211) | [#1](https://osu.ppy.sh/community/matches/94852144) |
+| Lower/B | [OTWGE](https://osu.ppy.sh/users/11759284) ![][flag_ID] | 4 | **5** | ![][flag_TH] **[Faken](https://osu.ppy.sh/users/10249166)** | [#1](https://osu.ppy.sh/community/matches/94861465) |
 | Lower/P | **[konawiki](https://osu.ppy.sh/users/4003979)** ![][flag_PH] | **5** | 1 | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | [#1](https://osu.ppy.sh/community/matches/94852119) |
 | Lower/P | **[hollowknees](https://osu.ppy.sh/users/15195364)** ![][flag_SG] | **5** | 2 | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) | [#1](https://osu.ppy.sh/community/matches/94852123) |
 | Lower/O | **[Shleepy](https://osu.ppy.sh/users/8486823)** ![][flag_SG] | **5** | 3 | ![][flag_SG] [D3rpyB01](https://osu.ppy.sh/users/11772019) | [#1](https://osu.ppy.sh/community/matches/94852145) |
@@ -277,6 +278,9 @@ Monday, 5 December 2021:
 | Lower/J | **[\[sin\]](https://osu.ppy.sh/users/11021073)** ![][flag_VN] | **5** | 1 | ![][flag_MY] [Floth](https://osu.ppy.sh/users/11134301) | [#1](https://osu.ppy.sh/community/matches/94861746) |
 | Upper/H | [- Seen -](https://osu.ppy.sh/users/5082392) ![][flag_TH] | 3 | **5** | ![][flag_SG] **[Dawnwing](https://osu.ppy.sh/users/5144534)** | [#1](https://osu.ppy.sh/community/matches/94861753) |
 | Upper/D | [-Kedama](https://osu.ppy.sh/users/12147277) ![][flag_TH] | 2 | **5** | ![][flag_PH] **[Rammu](https://osu.ppy.sh/users/10652837)** | [#1](https://osu.ppy.sh/community/matches/94861445) |
+| Lower/G | **[Mumei Nanashi](https://osu.ppy.sh/users/5414124)** ![][flag_MY] | **5** | 4 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/94861729) |
+| Lower/B | [Chiyuu](https://osu.ppy.sh/users/8226107) ![][flag_MY] | 4 | **5** | ![][flag_BN] **[Ui S](https://osu.ppy.sh/users/15525343)** | [#1](https://osu.ppy.sh/community/matches/94862112) |
+| Upper/F | **[Rexeez](hhttps://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/94861552) |
 | Upper/B | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **5** | 4 | ![][flag_TH] [ChaiPhukChep](https://osu.ppy.sh/users/9723127) | [#1](https://osu.ppy.sh/community/matches/94859116) |
 | Lower/J | [aurora on osu](https://osu.ppy.sh/users/12352050) ![][flag_PH] | 0 | **5** | ![][flag_MY] [LITFAM123](https://osu.ppy.sh/users/13584478) | *win by default* |
 | Upper/A | **[DuoX](https://osu.ppy.sh/users/9560694)** ![][flag_MY] | **5** | 0 | ![][flag_VN] [realshin](https://osu.ppy.sh/users/8006029) | *win by default* |
