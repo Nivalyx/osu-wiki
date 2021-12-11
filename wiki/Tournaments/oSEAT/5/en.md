@@ -221,6 +221,9 @@ Saturday, 11 December 2021:
 | Upper | [NathanSS](https://osu.ppy.sh/users/8500628) ![][flag_PH] | 5 | **6** | ![][flag_PH] **[RuiTachi-](https://osu.ppy.sh/users/11807272)** | [#1](https://osu.ppy.sh/community/matches/95086748) |
 | Upper | **[-Graigory-](https://osu.ppy.sh/users/14024170)** ![][flag_PH] | **6** | 0 | ![][flag_MY] [Ltwoed](https://osu.ppy.sh/users/13670830) | [#1](https://osu.ppy.sh/community/matches/95089227) |
 | Lower | [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) ![][flag_TH] | 3 | **6** | ![][flag_TH] **[Faken](https://osu.ppy.sh/users/10249166)** | [#1](https://osu.ppy.sh/community/matches/95094237) |
+| Lower | **[BronyPH 2](https://osu.ppy.sh/users/7246165)** ![][flag_PH] | **6** | 1 | ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462) | [#1](https://osu.ppy.sh/community/matches/95096535) |
+| Lower | **[- Seen -](https://osu.ppy.sh/users/5082392)** ![][flag_PH] | **6** | 3 | ![][flag_SG] [Cudi](https://osu.ppy.sh/users/9974314) | [#1](https://osu.ppy.sh/community/matches/95094363) |
+| Lower | [Phoeni\_](https://osu.ppy.sh/users/14953642) ![][flag_VN] | 0 | **6** | ![][flag_MY] **[LITFAM123](https://osu.ppy.sh/users/13584478)** | *win by default* |
 
 ### Preliminary groups
 
