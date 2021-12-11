@@ -216,6 +216,11 @@ Saturday, 11 December 2021:
 | Upper | **[Venta](https://osu.ppy.sh/users/11320627)** ![][flag_ID] | **6** | 1 | ![][flag_TH] [Yorocchi](https://osu.ppy.sh/users/5286218) | [#1](https://osu.ppy.sh/community/matches/95090738) |
 | Lower | [Suikami](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[OTWGE](https://osu.ppy.sh/users/11759284)** | [#1](https://osu.ppy.sh/community/matches/95096956) |
 | Lower | **[Houshou Marine](https://osu.ppy.sh/users/6402211)** ![][flag_MY] | **6** | 2 | ![][flag_MY] [Agagak](https://osu.ppy.sh/users/3645490) | [#1](https://osu.ppy.sh/community/matches/95054181) |
+| Lower | [JokThree](https://osu.ppy.sh/users/7713152) ![][flag_SG] | 2 | **6** | ![][flag_SG] **[RePeaTT](https://osu.ppy.sh/users/11132323)** | [#1](https://osu.ppy.sh/community/matches/95084898) |
+| Lower | **[BronyPH](https://osu.ppy.sh/users/1492995)** ![][flag_PH] | **6** | 5 | ![][flag_US] (![][flag_PH]) [\_Kolin](https://osu.ppy.sh/users/7249644) | [#1](https://osu.ppy.sh/community/matches/95086690) |
+| Upper | [NathanSS](https://osu.ppy.sh/users/8500628) ![][flag_PH] | 5 | **6** | ![][flag_PH] **[RuiTachi-](https://osu.ppy.sh/users/11807272)** | [#1](https://osu.ppy.sh/community/matches/95086748) |
+| Upper | **[-Graigory-](https://osu.ppy.sh/users/14024170)** ![][flag_PH] | **6** | 0 | ![][flag_MY] [Ltwoed](https://osu.ppy.sh/users/13670830) | [#1](https://osu.ppy.sh/community/matches/95089227) |
+| Lower | [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) ![][flag_TH] | 3 | **6** | ![][flag_TH] **[Faken](https://osu.ppy.sh/users/10249166)** | [#1](https://osu.ppy.sh/community/matches/95094237) |
 
 ### Preliminary groups
 
