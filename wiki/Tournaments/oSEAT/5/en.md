@@ -264,7 +264,7 @@ Sunday, 12 December 2021:
 | Lower | **[wick](https://osu.ppy.sh/users/8004317)** ![][flag_SG] | **6** | 4 | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/95131490) |
 | Upper | **[Picon](https://osu.ppy.sh/users/8447637)** ![][flag_SG] | **6** | 0 | ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) | [#1](https://osu.ppy.sh/community/matches/95133284) |
 | Upper | **[\_gt](https://osu.ppy.sh/users/8301957)** ![][flag_SG] | **6** | 1 | ![][flag_TH] [chantat on osu](https://osu.ppy.sh/users/12290117) | [#1](https://osu.ppy.sh/community/matches/95136083) |
-| Upper | [walle](https://osu.ppy.sh/users/8431549) ![][flag_BN] | 3 | **6** | ![][flag_ID] **[\[-TwiHD](https://osu.ppy.sh/users/5470299)** | [#1](https://osu.ppy.sh/community/matches/95136725) |
+| Upper | [walle](https://osu.ppy.sh/users/8431549) ![][flag_BN] | 3 | **6** | ![][flag_ID] **[-TwiHD](https://osu.ppy.sh/users/5470299)** | [#1](https://osu.ppy.sh/community/matches/95136725) |
 | Lower | **[ToshiroKen](https://osu.ppy.sh/users/12147277)** ![][flag_PH] | **6** | 4 | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | [#1](https://osu.ppy.sh/community/matches/95137275) |
 | Upper | **[-Kedama](https://osu.ppy.sh/users/12147277)** ![][flag_TH] | **6** | 0 | ![][flag_PH] [ChaeY\_Milk](https://osu.ppy.sh/users/10383440) | [#1](https://osu.ppy.sh/community/matches/95137032) |
 | Upper | **[ChaiPhukChep](https://osu.ppy.sh/users/9723127)** ![][flag_TH] | **6** | 2 | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | [#1](https://osu.ppy.sh/community/matches/95143804) |
