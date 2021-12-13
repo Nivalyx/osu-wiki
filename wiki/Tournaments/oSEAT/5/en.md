@@ -276,6 +276,12 @@ Sunday, 12 December 2021:
 | Upper | [Inugami Korone](https://osu.ppy.sh/users/4474918) ![][flag_MY] | 2 | **6** | ![][flag_VN] **[\[sin\]](https://osu.ppy.sh/users/11021073)** | [#1](https://osu.ppy.sh/community/matches/95147774) |
 | Upper | [DuoX](https://osu.ppy.sh/users/9560694) ![][flag_MY] | 3 | **6** | ![][flag_PH] **[konawiki](https://osu.ppy.sh/users/4003979)** | [#1](https://osu.ppy.sh/community/matches/95147770) |
 
+Monday, 13 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Floth](https://osu.ppy.sh/users/11134301) ![][flag_MY] | 5 | **6** | ![][flag_SG] **[Moroha29](https://osu.ppy.sh/users/9182389)** | [#1](https://osu.ppy.sh/community/matches/95184151) |
+
 ### Preliminary groups
 
 Thursday, 2 December 2021:
