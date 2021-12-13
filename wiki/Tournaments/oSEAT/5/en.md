@@ -274,7 +274,7 @@ Sunday, 12 December 2021:
 | Lower | **[marcellasne\_](https://osu.ppy.sh/users/6622650)** ![][flag_SG] | **6** | 5 | ![][flag_SG] [hollowknees](https://osu.ppy.sh/users/15195364) | [#1](https://osu.ppy.sh/community/matches/95145489) |
 | Lower | **[Senjuro](https://osu.ppy.sh/users/3003839)** ![][flag_PH] | **6** | 2 | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | [#1](https://osu.ppy.sh/community/matches/95147996) |
 | Upper | [Inugami Korone](https://osu.ppy.sh/users/4474918) ![][flag_MY] | 2 | **6** | ![][flag_VN] **[\[sin\]](https://osu.ppy.sh/users/11021073)** | [#1](https://osu.ppy.sh/community/matches/95147774) |
-| Upper | [DuoX](https://osu.ppy.sh/users/9560694) ![][flag_MY] | 3 | **6** | ![][flag_PH] **[konawiki](hhttps://osu.ppy.sh/users/4003979)** | [#1](https://osu.ppy.sh/community/matches/95147770) |
+| Upper | [DuoX](https://osu.ppy.sh/users/9560694) ![][flag_MY] | 3 | **6** | ![][flag_PH] **[konawiki](https://osu.ppy.sh/users/4003979)** | [#1](https://osu.ppy.sh/community/matches/95147770) |
 
 ### Preliminary groups
 
