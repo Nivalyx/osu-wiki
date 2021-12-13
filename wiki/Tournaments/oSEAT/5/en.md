@@ -263,12 +263,18 @@ Sunday, 12 December 2021:
 | Lower | [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) ![][flag_ID] | 4 | **6** | ![][flag_SG] **[Grantorio](https://osu.ppy.sh/users/5623529)** | [#1](https://osu.ppy.sh/community/matches/95099328) |
 | Lower | **[wick](https://osu.ppy.sh/users/8004317)** ![][flag_SG] | **6** | 4 | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/95131490) |
 | Upper | **[Picon](https://osu.ppy.sh/users/8447637)** ![][flag_SG] | **6** | 0 | ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) | [#1](https://osu.ppy.sh/community/matches/95133284) |
+| Upper | **[Dawnwing](https://osu.ppy.sh/users/5144534)** ![][flag_SG] | **6** | 2 | ![][flag_ID] [DeathAdderz](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/95145523) |
 | Upper | **[\_gt](https://osu.ppy.sh/users/8301957)** ![][flag_SG] | **6** | 1 | ![][flag_TH] [chantat on osu](https://osu.ppy.sh/users/12290117) | [#1](https://osu.ppy.sh/community/matches/95136083) |
-| Upper | [walle](https://osu.ppy.sh/users/8431549) ![][flag_BN] | 3 | **6** | ![][flag_ID] **[-TwiHD](https://osu.ppy.sh/users/5470299)** | [#1](https://osu.ppy.sh/community/matches/95136725) |
+| Upper | [walle](https://osu.ppy.sh/users/8431549) ![][flag_VN] | 3 | **6** | ![][flag_ID] **[-TwiHD](https://osu.ppy.sh/users/5470299)** | [#1](https://osu.ppy.sh/community/matches/95136725) |
 | Lower | **[ToshiroKen](https://osu.ppy.sh/users/12147277)** ![][flag_PH] | **6** | 4 | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | [#1](https://osu.ppy.sh/community/matches/95137275) |
 | Upper | **[-Kedama](https://osu.ppy.sh/users/12147277)** ![][flag_TH] | **6** | 0 | ![][flag_PH] [ChaeY\_Milk](https://osu.ppy.sh/users/10383440) | [#1](https://osu.ppy.sh/community/matches/95137032) |
 | Upper | **[ChaiPhukChep](https://osu.ppy.sh/users/9723127)** ![][flag_TH] | **6** | 2 | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | [#1](https://osu.ppy.sh/community/matches/95143804) |
-| Lower | [Inquisitives](https://osu.ppy.sh/users/10722794) ![][flag_BN] | 5 | **6** | ![][flag_MY] **[Chizu-Kun](https://osu.ppy.sh/users/10288461)** | [#1](https://osu.ppy.sh/community/matches/95143701) |
+| Lower | [Inquisitives](https://osu.ppy.sh/users/10722794) ![][flag_SG] | 5 | **6** | ![][flag_MY] **[Chizu-Kun](https://osu.ppy.sh/users/10288461)** | [#1](https://osu.ppy.sh/community/matches/95143701) |
+| Upper | **[Salvotore](https://osu.ppy.sh/users/3394696)** ![][flag_TH] | **6** | 1 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/95145590) |
+| Lower | **[marcellasne\_](https://osu.ppy.sh/users/6622650)** ![][flag_SG] | **6** | 5 | ![][flag_SG] [hollowknees](https://osu.ppy.sh/users/15195364) | [#1](https://osu.ppy.sh/community/matches/95145489) |
+| Lower | **[Senjuro](https://osu.ppy.sh/users/3003839)** ![][flag_PH] | **6** | 2 | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | [#1](https://osu.ppy.sh/community/matches/95147996) |
+| Upper | [Inugami Korone](https://osu.ppy.sh/users/4474918) ![][flag_MY] | 2 | **6** | ![][flag_VN] **[\[sin\]](https://osu.ppy.sh/users/11021073)** | [#1](https://osu.ppy.sh/community/matches/95147774) |
+| Upper | [DuoX](https://osu.ppy.sh/users/9560694) ![][flag_MY] | 3 | **6** | ![][flag_PH] **[konawiki](hhttps://osu.ppy.sh/users/4003979)** | [#1](https://osu.ppy.sh/community/matches/95147770) |
 
 ### Preliminary groups
 
