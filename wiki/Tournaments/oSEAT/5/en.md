@@ -130,7 +130,7 @@ Listed below are players who qualified into the Preliminary groups (along with t
 - FreeMod
   - [goreshit - looming shadow of a tree long gone (Hobbes2) \[greenhobbes' extreme\]](https://osu.ppy.sh/beatmapsets/1072094#osu/2972038)
   - [ZUTOMAYO - Byoushin o Kamu (semaphore) \[attendant's Another\]](https://osu.ppy.sh/beatmapsets/1352963#osu/2968941)
-  - [ROCKY CHACK, Lil Jon & The East Side Boyz - Ringo Biyori ~The Wolf Whistling Song x Get Low (feat. Ying Yang Twins) (Deramok) \[Insane\]](https://osu.ppy.sh/beatmapsets/1062345#osu/2538882)
+  - [ROCKY CHACK, Lil Jon & The East Side Boyz - Ringo Biyori \~The Wolf Whistling Song x Get Low (feat. Ying Yang Twins) (Deramok) \[Insane\]](https://osu.ppy.sh/beatmapsets/1062345#osu/2538882)
 
 ### Round of 64
 
