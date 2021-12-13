@@ -114,7 +114,23 @@ Listed below are players who qualified into the Preliminary groups (along with t
   - [Wotamin - Gigantic O.T.N (-Tynamo) \[Love Game\]](https://osu.ppy.sh/beatmapsets/1605439#osu/3278348)
   - [Tenjin Kotone - Who Are You Nante Iwanaide (Talulah) \[The not boring diff\]](https://osu.ppy.sh/beatmapsets/1266996#osu/2686649)
   - [Frums (unknown "lambda") - 19ZZ (pocket-) \[D083F431190D51707475CB37EDF4F1E5\]](https://osu.ppy.sh/beatmapsets/1388112#osu/2866795)
-  - [SPACELECTRO - Glow (pw384) \[FUTURE ANOMALY\]](https://osu.ppy.sh/beatmapsets/1378482#osu/2952961)  
+  - [SPACELECTRO - Glow (pw384) \[FUTURE ANOMALY\]](https://osu.ppy.sh/beatmapsets/1378482#osu/2952961)
+- Hidden
+  - [Yousei Teikoku - Paradiso=Inferno (IsomirDiAngelo) \[Net0's Extra\]](https://osu.ppy.sh/beatmapsets/1296273#osu/2750915)
+  - [Mitsukiyo - Unwelcome School (gazimal) \[AdveNt's Insane\]](https://osu.ppy.sh/beatmapsets/1541421#osu/3158362)
+  - [BEMANI Sound Team "Yvya" - Fuego -GITADORA EDITION- (Seolv) \[captin's MASTER\]](https://osu.ppy.sh/beatmapsets/1436535#osu/2955651)
+- HardRock
+  - [Inugami Korone - SAIKYO TENSAI WONDERFUL WORLD of KORONE (Yuuma) \[Yubi Yubi\]](https://osu.ppy.sh/beatmapsets/1431435#osu/2946557)
+  - [MYTK - Senkyou (Realazy) \[Cubby's Insane\]](https://osu.ppy.sh/beatmapsets/1262410#osu/2623949)
+  - [HuMeR - ChaserXX (Realazy) \[Kkip's Another\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
+- DoubleTime
+  - [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Insane\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3187933)
+  - [Aki - Darkish (Lortus) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/514965#osu/1097552)
+  - [Amane - Melt in the sky (Gabi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
+- FreeMod
+  - [Camellia feat. Nanahira - Kizuitara Shunkashuutou (HeTo) \[Dubturt's Extra\]](https://osu.ppy.sh/beatmapsets/1120946#osu/2361902)
+  - [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (AJT) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348)
+  - [L.E.D. - THE LAST STRIKER (Amamiya Yuko) \[Another\]](https://osu.ppy.sh/beatmapsets/129065#osu/326367)      
 
 
 ### Round of 64
