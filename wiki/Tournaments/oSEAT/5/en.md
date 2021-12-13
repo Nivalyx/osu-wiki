@@ -262,6 +262,9 @@ Sunday, 12 December 2021:
 | Lower | [Ui S](https://osu.ppy.sh/users/15525343) ![][flag_BN] | 1 | **6** | ![][flag_PH] **[\[-Kurumi-\]](https://osu.ppy.sh/users/5414484)** | [#1](https://osu.ppy.sh/community/matches/95139786) |
 | Lower | [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) ![][flag_ID] | 4 | **6** | ![][flag_SG] **[Grantorio](https://osu.ppy.sh/users/5623529)** | [#1](https://osu.ppy.sh/community/matches/95099328) |
 | Lower | **[wick](https://osu.ppy.sh/users/8004317)** ![][flag_SG] | **6** | 4 | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | [#1](https://osu.ppy.sh/community/matches/95131490) |
+| Upper | **[Picon](https://osu.ppy.sh/users/8447637)** ![][flag_SG] | **6** | 0 | ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) | [#1](https://osu.ppy.sh/community/matches/95133284) |
+| Upper | **[\_gt](https://osu.ppy.sh/users/8301957)** ![][flag_SG] | **6** | 1 | ![][flag_TH] [chantat on osu](https://osu.ppy.sh/users/12290117) | [#1](https://osu.ppy.sh/community/matches/95136083) |
+| Upper | [walle](https://osu.ppy.sh/users/8431549) ![][flag_BN] | 3 | **6** | ![][flag_ID] **[\[-TwiHD](https://osu.ppy.sh/users/5470299)** | [#1](https://osu.ppy.sh/community/matches/95136725) |
 
 ### Preliminary groups
 
