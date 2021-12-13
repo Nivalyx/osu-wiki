@@ -268,6 +268,7 @@ Sunday, 12 December 2021:
 | Lower | **[ToshiroKen](https://osu.ppy.sh/users/12147277)** ![][flag_PH] | **6** | 4 | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | [#1](https://osu.ppy.sh/community/matches/95137275) |
 | Upper | **[-Kedama](https://osu.ppy.sh/users/12147277)** ![][flag_TH] | **6** | 0 | ![][flag_PH] [ChaeY\_Milk](https://osu.ppy.sh/users/10383440) | [#1](https://osu.ppy.sh/community/matches/95137032) |
 | Upper | **[ChaiPhukChep](https://osu.ppy.sh/users/9723127)** ![][flag_TH] | **6** | 2 | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | [#1](https://osu.ppy.sh/community/matches/95143804) |
+| Lower | [Inquisitives](https://osu.ppy.sh/users/10722794) ![][flag_BN] | 5 | **6** | ![][flag_MY] **[Chizu-Kun](https://osu.ppy.sh/users/10288461)** | [#1](https://osu.ppy.sh/community/matches/95143701) |
 
 ### Preliminary groups
 
