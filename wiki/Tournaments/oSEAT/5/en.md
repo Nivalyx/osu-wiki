@@ -120,13 +120,13 @@ Listed below are players who qualified into the Preliminary groups (along with t
   - [Mitsukiyo - Unwelcome School (gazimal) \[AdveNt's Insane\]](https://osu.ppy.sh/beatmapsets/1541421#osu/3158362)
   - [BEMANI Sound Team "Yvya" - Fuego -GITADORA EDITION- (Seolv) \[captin's MASTER\]](https://osu.ppy.sh/beatmapsets/1436535#osu/2955651)
 - HardRock
-  - [Inugami Korone - SAIKYO TENSAI WONDERFUL WORLD of KORONE (Yuuma) \[Yubi Yubi\]](https://osu.ppy.sh/beatmapsets/1431435#osu/2946557)
-  - [MYTK - Senkyou (Realazy) \[Cubby's Insane\]](https://osu.ppy.sh/beatmapsets/1262410#osu/2623949)
-  - [HuMeR - ChaserXX (Realazy) \[Kkip's Another\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
+  - [REDALiCE & cosMoP@Bousou-P - ANGEL HALO (PayneTrain) \[INFERNO\]](https://osu.ppy.sh/beatmapsets/1278290#osu/2655635)
+  - [Luck Ganriki feat. Kino Nei - Kina no Kaori \~Ai no Shiren!\~ (eiri-) \[Ayyri & Yuuya's Expert\]](https://osu.ppy.sh/beatmapsets/1300086#osu/2696952)
+  - [Parov Stelar - Libella Swing (Taeyang) \[Extra\]](https://osu.ppy.sh/beatmapsets/991657#osu/2073859)
 - DoubleTime
-  - [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Insane\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3187933)
-  - [Aki - Darkish (Lortus) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/514965#osu/1097552)
-  - [Amane - Melt in the sky (Gabi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
+  - [adieu - Ao (Rtyzen) \[Blue Sky\]](https://osu.ppy.sh/beatmapsets/1076185#osu/2251839)
+  - [umu. - Dareka no Shinzou ni Nareta Nara (xbopost) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1098181#osu/2321761)
+  - [Tamura Yukari - Endless Story (lolcubes) \[Insane\]](https://osu.ppy.sh/beatmapsets/38426#osu/123021)
 - FreeMod
   - [Camellia feat. Nanahira - Kizuitara Shunkashuutou (HeTo) \[Dubturt's Extra\]](https://osu.ppy.sh/beatmapsets/1120946#osu/2361902)
   - [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (AJT) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348)
