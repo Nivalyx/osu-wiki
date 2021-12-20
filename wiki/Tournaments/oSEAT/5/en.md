@@ -257,7 +257,10 @@ Saturday, 18 December 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[DeathAdderz](https://osu.ppy.sh/users/7457788)** ![][flag_ID] | **6** | 3 | ![][flag_SG] [marcellasne\_](https://osu.ppy.sh/users/6622650) | [#1](https://osu.ppy.sh/community/matches/95428414) |
 | Upper | [Vinno](https://osu.ppy.sh/users/10717635) ![][flag_ID] | 0 | **6** | ![][flag_TH] **[Salvotore](https://osu.ppy.sh/users/3394696)** | [#1](https://osu.ppy.sh/community/matches/95417908) |
-| Upper | **[Tebi](https://osu.ppy.sh/users/5407620)** ![][flag_ID] | **6** | 0 | ![][flag_TH] [Faken](https://osu.ppy.sh/users/10249166) | [#1](https://osu.ppy.sh/community/matches/95417931) |
+| Upper | **[Tebi](https://osu.ppy.sh/users/5407620)** ![][flag_SG] | **6** | 0 | ![][flag_TH] [Faken](https://osu.ppy.sh/users/10249166) | [#1](https://osu.ppy.sh/community/matches/95417931) |
+| Upper | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **6** | 1 | ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979) | [#1](https://osu.ppy.sh/community/matches/95424624) |
+| Lower | **[chantat on osu](https://osu.ppy.sh/users/12290117)** ![][flag_TH] | **6** | 1 | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | [#1](https://osu.ppy.sh/community/matches/95425641) |
+| Lower | **[Rtzero](https://osu.ppy.sh/users/9262462)** ![][flag_SG] | **6** | 2 | ![][flag_SG] [Grantorio](https://osu.ppy.sh/users/5623529) | [#1](https://osu.ppy.sh/community/matches/95426137) |
 
 ### Round of 64
 
