@@ -261,6 +261,9 @@ Saturday, 18 December 2021:
 | Upper | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **6** | 1 | ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979) | [#1](https://osu.ppy.sh/community/matches/95424624) |
 | Lower | **[chantat on osu](https://osu.ppy.sh/users/12290117)** ![][flag_TH] | **6** | 1 | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | [#1](https://osu.ppy.sh/community/matches/95425641) |
 | Lower | **[Rtzero](https://osu.ppy.sh/users/9262462)** ![][flag_SG] | **6** | 2 | ![][flag_SG] [Grantorio](https://osu.ppy.sh/users/5623529) | [#1](https://osu.ppy.sh/community/matches/95426137) |
+| Upper | [SkyArrow](https://osu.ppy.sh/users/10717635) ![][flag_VN] | 2 | **6** | ![][flag_SG] **[Picon](https://osu.ppy.sh/users/3394696)** | [#1](https://osu.ppy.sh/community/matches/95428247) |
+| Lower | [Cudi](https://osu.ppy.sh/users/9974314) ![][flag_ID] | 0 | **6** | ![][flag_PH] **[xidorn](https://osu.ppy.sh/users/7904667)** | [#1](https://osu.ppy.sh/community/matches/95430265) |
+| Upper | **[Tzero](https://osu.ppy.sh/users/6088976)** ![][flag_MY] | **6** | 5 | ![][flag_VN] [\[sin\]](https://osu.ppy.sh/users/11021073) | [#1](https://osu.ppy.sh/community/matches/95430248) |
 
 ### Round of 64
 
