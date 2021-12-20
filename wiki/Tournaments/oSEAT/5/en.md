@@ -255,6 +255,9 @@ Saturday, 18 December 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[DeathAdderz](https://osu.ppy.sh/users/7457788)** ![][flag_ID] | **6** | 3 | ![][flag_SG] [marcellasne\_](https://osu.ppy.sh/users/6622650) | [#1](https://osu.ppy.sh/community/matches/95428414) |
+| Upper | [Vinno](https://osu.ppy.sh/users/10717635) ![][flag_ID] | 0 | **6** | ![][flag_TH] **[Salvotore](https://osu.ppy.sh/users/3394696)** | [#1](https://osu.ppy.sh/community/matches/95417908) |
+| Upper | **[Tebi](https://osu.ppy.sh/users/5407620)** ![][flag_ID] | **6** | 0 | ![][flag_TH] [Faken](https://osu.ppy.sh/users/10249166) | [#1](https://osu.ppy.sh/community/matches/95417931) |
 
 ### Round of 64
 
