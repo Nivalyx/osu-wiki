@@ -244,6 +244,12 @@ Friday, 17 December 2021:
 | Lower | [ChaeY\_Milk](https://osu.ppy.sh/users/10383440) ![][flag_PH] | 0 | **6** | ![][flag_SG] **[wick](https://osu.ppy.sh/users/8004317)** | [#1](https://osu.ppy.sh/community/matches/95371164) |
 | Lower | **[Mumei Nanashi](https://osu.ppy.sh/users/5414124)** ![][flag_MY] | **6** | 4 | ![][flag_SG] [Moroha29](https://osu.ppy.sh/users/9182389) | [#1](https://osu.ppy.sh/community/matches/95378150) |
 | Lower | [Yorocchi](https://osu.ppy.sh/users/5286218) ![][flag_TH] | 3 | **6** | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | [#1](https://osu.ppy.sh/community/matches/95373669) |
+| Lower | **[not\_aweeb](https://osu.ppy.sh/users/9375317)** ![][flag_MY] | **6** | 5 | ![][flag_PH] [2 and eight](https://osu.ppy.sh/users/8923608) | [#1](https://osu.ppy.sh/community/matches/95379998) |
+| Lower | [Inugami Korone](https://osu.ppy.sh/users/95387391) ![][flag_MY] | 4 | **6** | ![][flag_SG] **[RePeaTT](https://osu.ppy.sh/users/11132323)** | [#1](https://osu.ppy.sh/community/matches/95387391) |
+| Lower | **[\_Kolin](https://osu.ppy.sh/users/7249644)** ![][flag_US] (![][flag_PH]) | **6** | 4 | ![][flag_PH] [\[-Kurumi-\]](https://osu.ppy.sh/users/5414484) | [#1](https://osu.ppy.sh/community/matches/95372514) |
+| Upper | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ![][flag_ID] | 5 | **6** | ![][flag_SG] **[Dawnwing](https://osu.ppy.sh/users/5144534)** | [#1](https://osu.ppy.sh/community/matches/95372496) |
+| Lower | [Bunan-](https://osu.ppy.sh/users/2763354) ![][flag_ID] | 3 | **6** | ![][flag_PH] **[RuiTachi-](https://osu.ppy.sh/users/11807272)** | [#1](https://osu.ppy.sh/community/matches/95372515) |
+| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
 
 ### Round of 64
 
