@@ -266,6 +266,15 @@ Saturday, 18 December 2021:
 | Upper | **[Tzero](https://osu.ppy.sh/users/6088976)** ![][flag_MY] | **6** | 5 | ![][flag_VN] [\[sin\]](https://osu.ppy.sh/users/11021073) | [#1](https://osu.ppy.sh/community/matches/95430248) |
 | Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [-TwiHD](https://osu.ppy.sh/users/5470299) | [#1](https://osu.ppy.sh/community/matches/95420671) |
 
+Sunday, 19 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [megumic](https://osu.ppy.sh/users/7537133) ![][flag_SG] | 4 | **6** | ![][flag_VN] **[realshin](https://osu.ppy.sh/users/8006029)** | [#1](https://osu.ppy.sh/community/matches/95434900) |
+| Upper | **[Eagle5324](https://osu.ppy.sh/users/11987104)** ![][flag_SG] | **6** | 4 | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | [#1](https://osu.ppy.sh/community/matches/95439297) |
+| Lower | **[\[AmPhyze\]](https://osu.ppy.sh/users/9552188)** ![][flag_TH] | **6** | 2 | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | [#1](https://osu.ppy.sh/community/matches/95464236) |
+| Lower | **[DaNoobSlayaar](https://osu.ppy.sh/users/8688777)** ![][flag_MY] | **6** | 0 | ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) | [#1](https://osu.ppy.sh/community/matches/95465497) |
+
 ### Round of 64
 
 Friday, 10 December 2021:
