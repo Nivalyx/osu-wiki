@@ -229,6 +229,22 @@ Listed below are players who qualified into the Preliminary groups (along with t
 
 ## Match results
 
+### Round of 32
+
+Thursday, 16 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[walle](https://osu.ppy.sh/users/8431549)** ![][flag_VN] | **6** | 0 | ![][flag_MY] [LITFAM123](https://osu.ppy.sh/users/13584478) | *win by default* |
+
+Friday, 17 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [ChaeY\_Milk](https://osu.ppy.sh/users/10383440) ![][flag_PH] | 0 | **6** | ![][flag_SG] **[wick](https://osu.ppy.sh/users/8004317)** | [#1](https://osu.ppy.sh/community/matches/95371164) |
+| Lower | **[Mumei Nanashi](https://osu.ppy.sh/users/5414124)** ![][flag_MY] | **6** | 4 | ![][flag_SG] [Moroha29](https://osu.ppy.sh/users/9182389) | [#1](https://osu.ppy.sh/community/matches/95378150) |
+| Lower | [Yorocchi](https://osu.ppy.sh/users/5286218) ![][flag_TH] | 3 | **6** | ![][flag_PH] **[Senjuro](https://osu.ppy.sh/users/3003839)** | [#1](https://osu.ppy.sh/community/matches/95373669) |
+
 ### Round of 64
 
 Friday, 10 December 2021:
