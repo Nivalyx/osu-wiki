@@ -21,13 +21,12 @@ Berikut adalah kebijakan osu! untuk:
 
 Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui situs web atau layanan osu! yang melanggar hak cipta Anda, harap kirimi kami notifikasi seputar klaim pelanggaran hak cipta yang mengandung informasi-informasi berikut kepada Designated Agent kami yang tertera di bawah (Anda dapat merujuk pada konsultan hukum Anda atau pada pasal 17 U.S.C. 512(c) untuk mengonfirmasi keabsahan persyaratan-persyaratan berikut):
 
-3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit osu! to locate the material;
 5. A statement that the notifier has a good faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
 6. A statement that the information in the notification is accurate, and under penalty of perjury, that the notifying party is authorised to act on behalf of the owner of the copyright that is allegedly infringed.
 
 1. Tanda tangan fisik atau elektronik dari pihak yang berwenang untuk bertindak atas nama pemilik hak cipta yang disinyalir telah dilanggar;
-2. Bentuk identifikasi karya-karya yang hak ciptanya disinyalir telah dilanggar, atau apabila terdapat beberapa karya berhak cipta yang tertera pada satu situs yang dapat dirangkum ke dalam satu laporan, sebuah daftar yang mewakili seluruh karya pada situs tersebut;
-3. Bentuk identifikasi materi-materi yang disinyalir melanggar hak cipta atau menjadi subjek dari aktivitas pelanggaran dan yang akan dihapus atau ditutup aksesnya, serta informasi yang memadai agar osu! dapat menemukan materi tersebut;
+2. Suatu bentuk identifikasi karya-karya yang hak ciptanya disinyalir telah dilanggar, atau apabila terdapat beberapa karya berhak cipta yang tertera pada satu situs yang dapat dirangkum ke dalam satu laporan, sebuah daftar yang mewakili seluruh karya pada situs tersebut;
+3. Suatu bentuk identifikasi materi-materi yang disinyalir melanggar hak cipta atau menjadi subjek dari aktivitas pelanggaran dan yang akan dihapus atau ditutup aksesnya, serta informasi yang memadai bagi osu! untuk dapat menemukan materi-materi yang bersangkutan;
 4. Informasi kontak pelapor, seperti alamat, nomor telepon, dan jika ada, alamat email;
 5. Pernyataan bahwa pelapor memiliki itikad baik bahwa penggunaan dari materi yang diadukan tidak diizinkan oleh pemilik hak cipta, agennya, atau hukum; dan
 6. Pernyataan bahwa informasi dari pemberitahuan tersebut akurat, dan dibawah sumpah, bahwa pihak yang memberi tahu berwenang untuk bertindak atas nama pemilik hak cipta yang diduga dilanggar.
