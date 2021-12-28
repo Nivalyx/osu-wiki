@@ -14,8 +14,8 @@ Informasi kontak pihak penerima notifikasi pelanggaran hak cipta (*Designated Ag
 
 Berikut adalah kebijakan osu! untuk:
 
-1. segera memblokir akses atau menghapus konten yang diyakini dengan itikad baik dapat mengandung materi yang melanggar hak cipta dari pihak ketiga; dan
-2. menghapus serta memberhentikan layanan untuk pelanggaran berulang.
+1. segera memblokir akses atau menghapus konten yang diyakini mengandung materi-materi yang melanggar hak cipta milik pihak ketiga; dan
+2. menghapus serta memberhentikan layanan kami untuk pelanggaran berulang.
 
 ## Melaporkan pelanggaran hak cipta
 
