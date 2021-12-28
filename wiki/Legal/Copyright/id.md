@@ -8,11 +8,11 @@ osu! merupakan sebuah permainan yang sangat berorientasi pada komunitas. Seluruh
 
 Sebagian besar dari uang donasi tersebut kami sisihkan kembali untuk keperluan [lisensi musik](/wiki/Legal/Music_Licensing). Segala bentuk pertanyaan serta permintaan yang terkait dengan lisensi musik dapat dikirimkan ke alamat email [music@ppy.sh](mailto:music@ppy.sh).
 
-Apabila tidak ada kesepakatan hukum yang berhasil dicapai, osu! telah mengadopsi kebijakan yang sesuai dengan undang-undang perlindungan hak cipta Digital Millennium Copyright Act, 17 U.S.C. 512 yang berlaku sebagai berikut.
+Apabila tidak ada kesepakatan hukum yang berhasil dicapai, osu! telah mengadopsi kebijakan berikut yang sesuai dengan undang-undang perlindungan hak cipta Digital Millennium Copyright Act, 17 U.S.C. 512 yang berlaku.
 
 The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office (https://www.copyright.gov/dmca-directory/). osu! takes copyright and other intellectual property rights very seriously.
 
-Inf pengelola hak cipta osu! (*Designated Agent to Receive Notification of Claimed Infringement*/"Designated Agent") berada di akhir dari kebijakan ini, dan ada di dalam berkas dengan kantor hak cipta Amerika Serikat (<https://www.copyright.gov/dmca-directory/>). osu! sangat serius dalam menangani hak cipta dan hak kekayaan intelektual lainnya.
+Informasi seputar pengelola hak cipta osu! (*Designated Agent to Receive Notification of Claimed Infringement*/"Designated Agent") tertera pada akhir kebijakan ini, dan ada di dalam berkas dengan kantor hak cipta Amerika Serikat (<https://www.copyright.gov/dmca-directory/>). osu! sangat serius dalam menangani hak cipta dan hak kekayaan intelektual lainnya.
 
 Berikut adalah kebijakan osu! untuk:
 
