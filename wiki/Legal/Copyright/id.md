@@ -19,7 +19,7 @@ Berikut adalah kebijakan osu! untuk:
 
 ## Melaporkan pelanggaran hak cipta
 
-Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui situs web atau layanan osu! yang melanggar hak cipta Anda, harap kirimi kami notifikasi seputar klaim pelanggaran hak cipta yang mengandung informasi-informasi berikut kepada Designated Agent kami yang tertera di bawah (Anda dapat merujuk pada konsultan hukum Anda atau pada pasal 17 U.S.C. 512(c) untuk mengonfirmasi persyaratan-persyaratan berikut):
+Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui situs web atau layanan osu! yang melanggar hak cipta Anda, harap kirimi kami notifikasi seputar klaim pelanggaran hak cipta yang mengandung informasi-informasi berikut kepada Designated Agent kami yang tertera di bawah (Anda dapat merujuk pada konsultan hukum Anda atau pada pasal 17 U.S.C. 512(c) untuk mengonfirmasi keabsahan persyaratan-persyaratan berikut):
 
 1. Tanda tangan fisik atau elektronik dari seseorang yang berwenang untuk bertindak atas nama pemilik hak cipta yang diduga dilanggar;
 2. Identifikasi dari karya yang memiliki hak cipta yang diklaim telah dilanggar, atau jika beberapa karya yang memiliki hak cipta berada di satu situs daring yang tercakup dalam satu laporan, sebuah daftar yang mewakili semua karya di situs tersebut;
