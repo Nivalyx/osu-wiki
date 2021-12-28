@@ -19,9 +19,7 @@ Berikut adalah kebijakan osu! untuk:
 
 ## Melaporkan pelanggaran hak cipta
 
-If you believe that content residing on or accessible through the osu! website or service infringes your copyright, please send a notice of claimed copyright infringement containing the following information to the Designated Agent listed below (consult legal counsel or refer to 17 U.S.C. 512(c) to confirm these requirements):
-
-Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui situs web atau layanan osu! yang melanggar hak cipta Anda, mohon kirimi kami notifikasi seputar klaim pelanggaran hak cipta yang mengandung informasi-informasi berikut kepada Designated Agent kami yang tertera di bawah (konsultasikan dengan penasihat hukum atau rujuk 17 U.S.C. 512(c) untuk mengonfirmasi persyaratan-persyaratan berikut):
+Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui situs web atau layanan osu! yang melanggar hak cipta Anda, harap kirimi kami notifikasi seputar klaim pelanggaran hak cipta yang mengandung informasi-informasi berikut kepada Designated Agent kami yang tertera di bawah (Anda dapat merujuk pada konsultan hukum Anda atau pada pasal 17 U.S.C. 512(c) untuk mengonfirmasi persyaratan-persyaratan berikut):
 
 1. Tanda tangan fisik atau elektronik dari seseorang yang berwenang untuk bertindak atas nama pemilik hak cipta yang diduga dilanggar;
 2. Identifikasi dari karya yang memiliki hak cipta yang diklaim telah dilanggar, atau jika beberapa karya yang memiliki hak cipta berada di satu situs daring yang tercakup dalam satu laporan, sebuah daftar yang mewakili semua karya di situs tersebut;
@@ -49,7 +47,7 @@ Jika penyedia konten, anggota atau pengguna yakin bahwa konten yang dihapus atau
 
 Jika laporan tanggapan diterima oleh Agen yang Ditunjuk, osu! dapat mengirim salinan dari laporan tanggapan ke pihak pengadu asli untuk memberitahukan bahwa orang tersebut dapat mengganti konten yang dihapus atau berhenti menutup aksesnya dalam 10 hari kerja. Akan tetapi, jika pemilik hak cipta mengajukan tindakan ke pengadilan terhadap penyedia konten, anggota atau pengguna, konten yang dihapus dapat diganti, atau dipulihkan aksesnya, dalam 10 sampai 14 hari kerja atau lebih setelah menerima laporan tanggapan, sesuai kebijakan osu!.
 
-## Detail kontak agen yang ditunjuk
+## Detail kontak Designated Agent
 
 **Email**: [copyright@ppy.sh](mailto:copyright@ppy.sh) (jaminan respons 24 jam)
 
