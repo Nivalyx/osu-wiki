@@ -4,11 +4,11 @@ legal: true
 
 # Kebijakan hak cipta osu!
 
-osu! merupakan sebuah permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan buah karya dari para anggota komunitas kami, yang sering kali mengandung berbagai konten yang diunggah tanpa seizin para pemilik hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten-konten tersebut secara langsung, di mana sumber pemasukan osu! satu-satunya adalah uang donasi yang kami terima dari para pengguna kami.
+osu! merupakan sebuah permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan buah karya dari para anggota komunitas kami, yang sering kali mengandung berbagai konten yang diunggah tanpa seizin para pemegang hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten-konten tersebut secara langsung, di mana sumber pemasukan osu! satu-satunya adalah uang donasi yang kami terima dari para pengguna kami.
 
 Sebagian besar dari uang donasi tersebut kami sisihkan kembali untuk keperluan [lisensi musik](/wiki/Legal/Music_Licensing). Pertanyaan-pertanyaan lebih lanjut seputar lisensi musik dapat dikirimkan ke alamat email [music@ppy.sh](mailto:music@ppy.sh).
 
-Apabila tidak ada kesepakatan yang berhasil dicapai, osu! telah mengadopsi kebijakan yang sesuai dengan undang-undang perlindungan hak cipta Digital Millennium Copyright Act, 17 U.S.C. 512 yang berlaku sebagai berikut.
+Apabila tidak ada kesepakatan hukum yang berhasil dicapai, osu! telah mengadopsi kebijakan yang sesuai dengan undang-undang perlindungan hak cipta Digital Millennium Copyright Act, 17 U.S.C. 512 yang berlaku sebagai berikut.
 
 The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office (https://www.copyright.gov/dmca-directory/). osu! takes copyright and other intellectual property rights very seriously.
 
