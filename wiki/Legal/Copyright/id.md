@@ -8,7 +8,7 @@ osu! merupakan sebuah permainan yang sangat berorientasi pada komunitas. Seluruh
 
 Sebagian besar dari uang donasi tersebut kami sisihkan untuk keperluan [lisensi musik](/wiki/Legal/Music_Licensing). Pertanyaan-pertanyaan lebih lanjut seputar lisensi musik dapat dikirimkan ke alamat email [music@ppy.sh](mailto:music@ppy.sh).
 
-Apabila tidak ada kesepakatan yang berhasil dicapai, osu! telah mengadopsi kebijakan berikut tentang pelanggaran hak cipta sesuai dengan undang-undang Digital Millennium Copyright Act, 17 U.S.C. 512.
+Apabila tidak ada kesepakatan yang berhasil dicapai, osu! telah mengadopsi kebijakan tentang pelanggaran hak cipta berikut sesuai dengan undang-undang Digital Millennium Copyright Act, 17 U.S.C. 512.
 
 Informasi kontak untuk agen yang ditunjuk oleh osu! untuk menerima pemberitahuan tentang pelanggaran yang diklaim ("agen yang ditunjuk") berada di akhir dari kebijakan ini, dan ada di dalam berkas dengan kantor hak cipta Amerika Serikat (<https://www.copyright.gov/dmca-directory/>). osu! sangat serius dalam menangani hak cipta dan hak kekayaan intelektual lainnya.
 
