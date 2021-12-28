@@ -26,7 +26,7 @@ Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui 
 3. Bentuk identifikasi materi-materi yang disinyalir melanggar hak cipta atau menjadi subjek dari aktivitas pelanggaran dan yang akan dihapus atau ditutup aksesnya, serta informasi yang memadai bagi osu! untuk dapat menemukan materi-materi yang bersangkutan;
 4. Informasi kontak pelapor, seperti alamat, nomor telepon, dan jika ada, alamat email;
 5. Pernyataan bahwa pelapor meyakini bahwa penggunaan materi yang diadukan tidak diizinkan oleh pemilik hak cipta, agennya, atau hukum; dan
-6. Pernyataan bahwa hal-hal yang diterakan pada notifikasi tersebut akurat, yang disertai oleh sumpah yang menyatakan bahwa pihak yang melapor memang berwenang untuk bertindak atas nama pemilik hak cipta yang disinyalir telah dilanggar.
+6. Pernyataan bahwa hal-hal yang diterakan pada notifikasi tersebut benar adanya, yang disertai oleh sumpah yang menyatakan bahwa pihak yang melapor memang berwenang untuk bertindak atas nama pemilik hak cipta yang disinyalir telah dilanggar.
 
 Setelah laporan yang lengkap dan benar tentang klaim pelanggaran hak cipta diterima oleh agen yang ditunjuk, atau jika osu! percaya dengan itikad baik bahwa berkas yang berada di layanan osu! kemungkinan berisi materi yang melanggar hak cipta:
 
