@@ -12,7 +12,7 @@ Apabila tidak ada kesepakatan hukum yang berhasil dicapai, osu! telah mengadopsi
 
 The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office (https://www.copyright.gov/dmca-directory/). osu! takes copyright and other intellectual property rights very seriously.
 
-Informasi kontak pengelola hak cipta osu! (*Designated Agent to Receive Notification of Claimed Infringement*/"Designated Agent") dapat ditemukan pada akhir kebijakan ini, yang diterakan sebagaimana dengan yang terdaftar pada kantor hak cipta Amerika Serikat (<https://www.copyright.gov/dmca-directory/>). osu! menangani segala bentuk pelanggara hak cipta dan hak-hak kekayaan intelektual lainnya secara serius.
+Informasi kontak penerima notifikasi pelanggaran hak cipta (*Designated Agent to Receive Notification of Claimed Infringement*/"Designated Agent") dapat ditemukan pada akhir kebijakan ini, yang diterakan sebagaimana dengan yang terdaftar pada kantor hak cipta Amerika Serikat (<https://www.copyright.gov/dmca-directory/>). osu! menangani segala bentuk pelanggaran hak cipta dan hak-hak kekayaan intelektual lainnya secara serius.
 
 Berikut adalah kebijakan osu! untuk:
 
