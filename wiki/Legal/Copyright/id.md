@@ -36,7 +36,7 @@ Berikut adalah kebijakan osu! untuk:
 2. memberitahukan kepada penyedia konten, anggota atau pengguna bahwa konten tersebut telah dihapus dan ditutup aksesnya; dan
 3. mengakhiri dalam situasi yang tepat pelanggan dan pemegang akun yang mengulangi pelanggaran.
 
-## Mengirimkan laporan tanggapan
+## Mengirimkan laporan balasan (*counter-notice*)
 
 Jika penyedia konten, anggota atau pengguna yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau jika penyedia konten, anggota atau pengguna yakin bahwa mereka memiliki hak untuk memposting dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau berdasarkan hukum, penyedia konten, anggota atau pengguna dapat mengirim laporan tanggapan yang berisi informasi berikut kepada Agen yang Ditunjuk di bawah:
 
