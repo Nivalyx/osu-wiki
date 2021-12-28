@@ -6,7 +6,7 @@ legal: true
 
 osu! merupakan sebuah permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan buah karya dari para anggota komunitas kami, yang sering kali diunggah tanpa seizin para pemilik hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten-konten yang diunggah secara langsung, di mana sumber pemasukan osu! satu-satunya adalah donasi yang kami terima dari para pengguna kami.
 
-Sebagian besar uang donasi yang kami terima digunakan untuk investasi kembali di [lisensi musik](/wiki/Legal/Music_Licensing). Pertanyaan lebih lanjut seputar lisensi dapat dikirim ke [music@ppy.sh](mailto:music@ppy.sh).
+Sebagian besar uang donasi yang kami terima digunakan untuk investasi kembali di [lisensi musik](/wiki/Legal/Music_Licensing). Pertanyaan-pertanyaan lebih lanjut seputar lisensi musik dapat dikirimkan ke alamat email [music@ppy.sh](mailto:music@ppy.sh).
 
 Apabila tidak ada kesepakatan yang berhasil dicapai, osu! telah mengadopsi kebijakan berikut tentang pelanggaran hak cipta sesuai dengan undang-undang Digital Millennium Copyright Act, 17 U.S.C. 512.
 
