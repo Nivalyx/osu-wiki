@@ -15,11 +15,11 @@ Informasi kontak pihak penerima notifikasi pelanggaran hak cipta (*Designated Ag
 Berikut adalah kebijakan osu! untuk:
 
 1. segera memblokir akses atau menghapus konten-konten yang diyakini mengandung materi-materi yang melanggar hak cipta milik pihak ketiga; dan
-2. menghapus serta memberhentikan layanan kami untuk para pelanggar yang sudah berulang kali .
+2. menghapus serta memberhentikan layanan kami bagi para pengguna yang sudah berulang kali melanggar.
 
 ## Melaporkan pelanggaran hak cipta
 
-Jika Anda yakin bahwa konten yang berada atau dapat diakses melalui situs web atau layanan osu! melanggar hak cipta Anda, silakan kirim pemberitahuan tentang klaim pelanggaran hak cipta yang berisi informasi berikut kepada agen yang ditunjuk di bawah (konsultasikan dengan penasihat hukum atau rujuklah ke 17 U.S.C. 512(c) untuk mengonfirmasi persyaratan ini):
+Apabila Anda yakin bahwa konten yang berada atau dapat diakses melalui situs web atau layanan osu! melanggar hak cipta Anda, silakan kirim pemberitahuan tentang klaim pelanggaran hak cipta yang berisi informasi berikut kepada agen yang ditunjuk di bawah (konsultasikan dengan penasihat hukum atau rujuklah ke 17 U.S.C. 512(c) untuk mengonfirmasi persyaratan ini):
 
 1. Tanda tangan fisik atau elektronik dari seseorang yang berwenang untuk bertindak atas nama pemilik hak cipta yang diduga dilanggar;
 2. Identifikasi dari karya yang memiliki hak cipta yang diklaim telah dilanggar, atau jika beberapa karya yang memiliki hak cipta berada di satu situs daring yang tercakup dalam satu laporan, sebuah daftar yang mewakili semua karya di situs tersebut;
