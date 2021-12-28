@@ -6,11 +6,13 @@ legal: true
 
 osu! merupakan sebuah permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan buah karya dari para anggota komunitas kami, yang sering kali mengandung berbagai konten yang diunggah tanpa seizin para pemilik hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten-konten tersebut secara langsung, di mana sumber pemasukan osu! satu-satunya adalah uang donasi yang kami terima dari para pengguna kami.
 
-Sebagian besar dari uang donasi tersebut kami sisihkan untuk keperluan [lisensi musik](/wiki/Legal/Music_Licensing). Pertanyaan-pertanyaan lebih lanjut seputar lisensi musik dapat dikirimkan ke alamat email [music@ppy.sh](mailto:music@ppy.sh).
+Sebagian besar dari uang donasi tersebut kami sisihkan kembali untuk keperluan [lisensi musik](/wiki/Legal/Music_Licensing). Pertanyaan-pertanyaan lebih lanjut seputar lisensi musik dapat dikirimkan ke alamat email [music@ppy.sh](mailto:music@ppy.sh).
 
-Apabila tidak ada kesepakatan yang berhasil dicapai, osu! telah mengadopsi kebijakan tentang pelanggaran hak cipta berikut sesuai dengan undang-undang Digital Millennium Copyright Act, 17 U.S.C. 512.
+Apabila tidak ada kesepakatan yang berhasil dicapai, osu! telah mengadopsi kebijakan yang sesuai dengan undang-undang perlindungan hak cipta Digital Millennium Copyright Act, 17 U.S.C. 512 yang berlaku sebagai berikut.
 
-Informasi kontak untuk agen yang ditunjuk oleh osu! untuk menerima pemberitahuan tentang pelanggaran yang diklaim ("agen yang ditunjuk") berada di akhir dari kebijakan ini, dan ada di dalam berkas dengan kantor hak cipta Amerika Serikat (<https://www.copyright.gov/dmca-directory/>). osu! sangat serius dalam menangani hak cipta dan hak kekayaan intelektual lainnya.
+The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office (https://www.copyright.gov/dmca-directory/). osu! takes copyright and other intellectual property rights very seriously.
+
+Inf pengelola hak cipta osu! (*Designated Agent to Receive Notification of Claimed Infringement*/"Designated Agent") berada di akhir dari kebijakan ini, dan ada di dalam berkas dengan kantor hak cipta Amerika Serikat (<https://www.copyright.gov/dmca-directory/>). osu! sangat serius dalam menangani hak cipta dan hak kekayaan intelektual lainnya.
 
 Berikut adalah kebijakan osu! untuk:
 
