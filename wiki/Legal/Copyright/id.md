@@ -12,10 +12,10 @@ Apabila tidak ada kesepakatan hukum yang berhasil dicapai, osu! telah mengadopsi
 
 Informasi kontak pihak penerima notifikasi pelanggaran hak cipta (*Designated Agent to Receive Notification of Claimed Infringement*/"Designated Agent") osu! dapat ditemukan pada akhir kebijakan ini, yang kami terakan sebagaimana dengan yang terdaftar pada kantor hak cipta Amerika Serikat (<https://www.copyright.gov/dmca-directory/>). osu! menangani segala bentuk pelanggaran hak cipta dan hak-hak kekayaan intelektual lainnya secara serius.
 
-Berikut adalah kebijakan osu! untuk:
+Berikut merupakan kebijakan osu! untuk:
 
 1. segera memblokir akses atau menghapus konten-konten yang diyakini mengandung materi-materi yang melanggar hak cipta milik pihak ketiga; dan
-2. menghapus serta memberhentikan layanan kami bagi para pengguna yang sudah berulang kali melanggar.
+2. memberhentikan serta menonaktifkan layanan kami bagi para pengguna yang telah berulang kali melanggar.
 
 ## Melaporkan pelanggaran hak cipta
 
@@ -30,11 +30,11 @@ Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui 
 
 Setelah laporan yang lengkap dan benar tentang klaim pelanggaran hak cipta diterima oleh Designated Agent kami, atau apabila osu! merasa memiliki cukup bukti bahwa terdapat berkas yang berada di layanan osu! yang mengandung materi yang melanggar hak cipta:
 
-Berikut adalah kebijakan osu! untuk:
+Berikut merupakan kebijakan osu! untuk:
 
 1. menghapus atau menutup akses ke konten yang diidentifikasi dalam laporan klaim pelanggaran;
 2. memberitahukan kepada penyedia konten, anggota atau pengguna bahwa konten tersebut telah dihapus dan ditutup aksesnya; dan
-3. mengakhiri dalam situasi yang tepat pelanggan dan pemegang akun yang mengulangi pelanggaran.
+3. menonaktifkan para pengguna layanan dan pemegang akun yang telah berulang kali melanggar.
 
 ## Mengirimkan laporan tanggapan (*counter-notice*)
 
