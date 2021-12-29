@@ -28,7 +28,7 @@ Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui 
 5. Pernyataan bahwa pelapor meyakini bahwa penggunaan materi yang diadukan tidak diizinkan oleh pemilik hak cipta, agennya, atau hukum; dan
 6. Pernyataan bahwa seluruh hal yang diterakan pada notifikasi yang bersangkutan tepat adanya, yang disertai oleh sumpah yang menyatakan bahwa pihak yang melapor benar-benar memiliki kewenangan untuk dapat bertindak atas nama pemilik hak cipta yang disinyalir telah dilanggar.
 
-Setelah laporan yang lengkap dan benar tentang klaim pelanggaran hak cipta diterima oleh Designated Agent kami, atau apabila osu! merasa telah memiliki cukup bukti bahwa benar adanya terdapat berkas yang berada di layanan osu! yang mengandung materi yang melanggar hak cipta, maka:
+Setelah laporan yang lengkap dan benar tentang klaim pelanggaran hak cipta diterima oleh Designated Agent kami, atau apabila osu! merasa telah memiliki cukup bukti bahwa terdapat berkas yang berada di layanan osu! yang mengandung materi yang melanggar hak cipta, maka:
 
 Berikut adalah kebijakan osu! untuk:
 
