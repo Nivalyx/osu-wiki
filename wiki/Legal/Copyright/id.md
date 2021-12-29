@@ -38,7 +38,7 @@ Berikut adalah kebijakan osu! untuk:
 
 ## Mengirimkan laporan tanggapan (*counter-notice*)
 
-Apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa mereka memiliki hak untuk memposting dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau berdasarkan hukum, penyedia konten, anggota atau pengguna dapat mengirim laporan tanggapan yang berisi informasi berikut kepada Agen yang Ditunjuk di bawah:
+Apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa mereka memiliki hak untuk mem-*posting* dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau berdasarkan hukum, penyedia konten, anggota atau pengguna dapat mengirim laporan tanggapan yang berisi informasi berikut kepada Agen yang Ditunjuk di bawah:
 
 1. Tanda tangan fisik atau elektronik dari penyedia konten, anggota atau pengguna;
 2. Identifikasi dari konten yang telah dihapus atau yang ditutup aksesnya serta lokasi di mana materi tersebut muncul sebelum dihapus atau ditutup aksesnya;
