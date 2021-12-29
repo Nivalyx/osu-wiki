@@ -19,7 +19,7 @@ Berikut adalah kebijakan osu! untuk:
 
 ## Melaporkan pelanggaran hak cipta
 
-Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui situs web atau layanan osu! yang melanggar hak cipta Anda, harap kirimi kami notifikasi seputar klaim pelanggaran hak cipta yang mengandung informasi-informasi berikut kepada Designated Agent kami yang detail kontaknya terlampir pada akhir kebijakan (Anda dapat merujuk pada konsultan hukum Anda atau pada pasal 17 U.S.C. 512(c) untuk mengonfirmasi keabsahan persyaratan-persyaratan berikut):
+Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui situs web atau layanan osu! yang melanggar hak cipta Anda, harap kirimi kami notifikasi seputar klaim pelanggaran hak cipta yang mengandung informasi-informasi berikut kepada Designated Agent kami yang detail kontaknya terlampir pada akhir kebijakan ini (Anda dapat merujuk pada konsultan hukum Anda atau pada pasal 17 U.S.C. 512(c) untuk mengonfirmasi keabsahan persyaratan-persyaratan berikut):
 
 1. Tanda tangan fisik atau elektronik dari pihak yang berwenang untuk bertindak atas nama pemilik hak cipta yang disinyalir telah dilanggar;
 2. Bentuk identifikasi karya-karya yang hak ciptanya disinyalir telah dilanggar, atau apabila terdapat beberapa karya berhak cipta yang tertera pada satu situs yang dapat dirangkum ke dalam satu laporan, sebuah daftar yang mewakili seluruh karya pada situs tersebut;
@@ -38,7 +38,7 @@ Berikut adalah kebijakan osu! untuk:
 
 ## Mengirimkan laporan tanggapan (*counter-notice*)
 
-Apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa mereka telah memiliki izin untuk dapat menyebarluaskan dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau secara hukum, maka pihak penyedia konten, anggota atau pengguna yang terdampak dapat mengirim laporan tanggapan (*counter-notice*) yang mengandung informasi-informasi berikut kepada Designated Agent kami yang detail kontaknya terlampir pada akhir kebijakan:
+Apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa mereka telah memiliki izin untuk dapat menyebarluaskan dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau secara hukum, maka pihak penyedia konten, anggota atau pengguna yang terdampak dapat mengirim laporan tanggapan (*counter-notice*) yang mengandung informasi-informasi berikut kepada Designated Agent kami yang detail kontaknya terlampir pada akhir kebijakan ini:
 
 1. Tanda tangan fisik atau elektronik dari penyedia konten, anggota atau pengguna;
 2. Identifikasi dari konten yang telah dihapus atau yang ditutup aksesnya serta lokasi di mana materi tersebut muncul sebelum dihapus atau ditutup aksesnya;
