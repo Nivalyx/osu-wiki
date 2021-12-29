@@ -33,12 +33,12 @@ Setelah laporan yang lengkap dan benar tentang klaim pelanggaran hak cipta diter
 Berikut adalah kebijakan osu! untuk:
 
 1. menghapus atau menutup akses menuju konten yang diidentifikasi dalam laporan klaim pelanggaran;
-2. memberitahukan kepada penyedia konten, anggota atau pengguna bahwa konten tersebut telah dihapus dan ditutup aksesnya; dan
+2. memberitahukan kepada pengunggah konten, anggota, atau pengguna bahwa konten tersebut telah dihapus dan ditutup aksesnya; dan
 3. menonaktifkan para pengguna layanan dan pemegang akun yang telah berulang kali melanggar.
 
 ## Mengirimkan laporan tanggapan (*counter-notice*)
 
-Jika penyedia konten, anggota atau pengguna yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau jika penyedia konten, anggota atau pengguna yakin bahwa mereka memiliki hak untuk memposting dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau berdasarkan hukum, penyedia konten, anggota atau pengguna dapat mengirim laporan tanggapan yang berisi informasi berikut kepada Agen yang Ditunjuk di bawah:
+Apabila penyedia konten, anggota, atau pengguna yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau jika penyedia konten, anggota atau pengguna yakin bahwa mereka memiliki hak untuk memposting dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau berdasarkan hukum, penyedia konten, anggota atau pengguna dapat mengirim laporan tanggapan yang berisi informasi berikut kepada Agen yang Ditunjuk di bawah:
 
 1. Tanda tangan fisik atau elektronik dari penyedia konten, anggota atau pengguna;
 2. Identifikasi dari konten yang telah dihapus atau yang ditutup aksesnya serta lokasi di mana materi tersebut muncul sebelum dihapus atau ditutup aksesnya;
