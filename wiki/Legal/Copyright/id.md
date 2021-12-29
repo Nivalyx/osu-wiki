@@ -25,7 +25,7 @@ Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui 
 2. Bentuk identifikasi karya-karya yang hak ciptanya disinyalir telah dilanggar, atau apabila terdapat beberapa karya berhak cipta yang tertera pada satu situs yang dapat dirangkum ke dalam satu laporan, sebuah daftar yang mewakili seluruh karya pada situs tersebut;
 3. Bentuk identifikasi materi-materi yang disinyalir melanggar hak cipta atau menjadi subjek dari aktivitas pelanggaran dan yang akan dihapus atau ditutup aksesnya, serta informasi yang memadai bagi osu! untuk dapat menemukan materi-materi yang bersangkutan;
 4. Informasi kontak pelapor, seperti alamat, nomor telepon, dan jika ada, alamat email;
-5. Pernyataan bahwa pelapor meyakini bahwa penggunaan materi yang diadukan tidak diizinkan oleh pemilik hak cipta, agennya, atau hukum; dan
+5. Pernyataan bahwa pelapor meyakini bahwa penggunaan materi yang diadukan tidak diizinkan oleh pemilik hak cipta, agennya, atau hukum; serta
 6. Pernyataan bahwa seluruh hal yang diterakan pada notifikasi yang bersangkutan tepat adanya, yang disertai oleh sumpah yang menyatakan bahwa pihak yang melapor benar-benar memiliki kewenangan untuk dapat bertindak atas nama pemilik hak cipta yang disinyalir telah dilanggar.
 
 Setelah laporan klaim pelanggaran hak cipta yang telah terisi dengan lengkap dan benar diterima oleh Designated Agent kami, atau apabila osu! merasa telah memiliki cukup bukti bahwa memang terdapat suatu berkas pada layanan osu! yang mengandung materi yang melanggar hak cipta, maka:
@@ -33,7 +33,7 @@ Setelah laporan klaim pelanggaran hak cipta yang telah terisi dengan lengkap dan
 Berikut adalah kebijakan osu! untuk:
 
 1. menghapus atau menutup akses menuju konten yang diidentifikasi dalam laporan klaim pelanggaran;
-2. memberitahukan kepada pihak penyedia konten, anggota, atau pengguna yang bersangkutan bahwa konten yang mereka unggah tersebut telah dihapus dan ditutup aksesnya; dan
+2. memberitahukan kepada pihak penyedia konten, anggota, atau pengguna yang bersangkutan bahwa konten yang mereka unggah tersebut telah dihapus dan ditutup aksesnya; serta
 3. menonaktifkan pengguna layanan dan pemegang akun yang telah berulang kali melanggar.
 
 ## Mengirimkan laporan tanggapan (*counter-notice*)
@@ -42,7 +42,7 @@ Apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa
 
 1. Tanda tangan fisik atau elektronik dari pihak penyedia konten, anggota, atau pengguna;
 2. Bentuk identifikasi konten-konten yang telah dihapus atau yang ditutup aksesnya serta lokasi di mana materi-materi tersebut berada sebelum dihapus atau ditutup aksesnya;
-3. Pernyataan tersumpah bahwa pihak penyedia konten, anggota, atau pengguna merasa penghapusan atau penutupan konten-konten yang bersangkutan merupakan sebuah kesalahan atau dampak dari misidentifikasi materi; dan
+3. Pernyataan tersumpah bahwa pihak penyedia konten, anggota, atau pengguna merasa penghapusan atau penutupan konten-konten yang bersangkutan merupakan sebuah kesalahan atau dampak dari misidentifikasi materi; serta
 4. Nama, alamat, nomor telepon, dan jika ada, alamat email dari pihak penyedia konten, anggota, atau pengguna yang dilengkapi dengan pernyataan bahwa mereka (atau pihak yang mewakili mereka) bersedia untuk mengikuti segala ketentuan hukum yang berlaku pada Pengadilan Distrik Federal untuk distrik yudisial di mana alamat pihak penyedia konten, anggota, atau pengguna berlokasi, atau apabila alamat pihak penyedia konten, anggota, atau pengguna berlokasi di luar Amerika Serikat, untuk mengikuti segala ketentuan hukum yang berlaku pada wilayah Los Angeles, California, serta pernyataan bahwa mereka bersedia untuk mengikuti segala prosedur hukum yang berlaku bersama dengan pihak pelapor atau pihak yang mewakili pelapor.
 
 Setelah Designated Agent kami menerima laporan tanggapan (*counter-notice*) yang bersangkutan, osu! akan mengirim salinan laporan tersebut ke pihak pelapor untuk memberitahukan bahwa mereka dapat mengganti konten yang terdampak atau mencabut laporan mereka dalam 10 hari kerja. Apabila pihak pelapor tidak mengajukan keberatan hukum lebih lanjut kepada pihak penyedia konten, anggota, atau pengguna dalam tenggat waktu 10 hingga 14 hari kerja setelah mereka menerima salinan laporan terkait, osu! berhak untuk mengganti atau memulihkan akses konten yang terdampak secara sepihak sesuai dengan ketentuan hukum yang berlaku.
