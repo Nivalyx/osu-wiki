@@ -40,8 +40,8 @@ Berikut adalah kebijakan osu! untuk:
 
 Apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa mereka telah memiliki izin untuk dapat menyebarluaskan dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau secara hukum, maka pihak penyedia konten, anggota atau pengguna yang terdampak dapat mengirim laporan tanggapan (*counter-notice*) yang mengandung informasi-informasi berikut kepada Designated Agent kami sebagaimana yang tertera di bawah:
 
-1. Tanda tangan fisik atau elektronik dari penyedia konten, anggota atau pengguna;
-2. Identifikasi dari konten yang telah dihapus atau yang ditutup aksesnya serta lokasi di mana materi tersebut muncul sebelum dihapus atau ditutup aksesnya;
+1. Tanda tangan fisik atau elektronik dari pihak penyedia konten, anggota, atau pengguna;
+2. Bentuk identifikasi konten-konten yang telah dihapus atau yang ditutup aksesnya serta lokasi di mana materi-materi tersebut berada sebelum dihapus atau ditutup aksesnya;
 3. Pernyataan di bawah sumpah bahwa penyedia konten, anggota atau pengguna memiliki itikad baik bahwa materi yang dihapus atau ditutup aksesnya merupakan sebuah kesalahan atau salah identifikasi dari materi yang dihapus atau ditutup aksesnya; dan
 4. Nama, alamat, nomor telepon, dan jika ada, alamat surel dari penyedia konten, anggota atau pengguna serta pernyataan bahwa seseorang atau suatu entitas menyetujui yurisdiksi dari Pengadilan Distrik Federal untuk distrik yudisial di mana alamat penyedia konten, anggota atau pengguna berlokasi, atau jika alamat penyedia konten, anggota atau pengguna berlokasi di luar Amerika Serikat, untuk wilayah Los Angeles, California, serta pernyataan bahwa orang atau entitas tersebut akan menerima proses layanan dari orang yang memberikan pemberitahuan tentang dugaan pelanggaran atau agen dari orang tersebut.
 
