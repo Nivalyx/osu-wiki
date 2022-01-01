@@ -14,7 +14,7 @@ Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan
 - Membuat post pada forum osu!
 - Berkomentar pada situs web osu! (baik itu pada laman berita, riwayat perubahan, maupun beatmap)
 - Berpartisipasi dalam [laman diskusi beatmap](/wiki/Beatmap_Discussion)
-- Menyunting profilnya masing-masing (semisal avatar dan bagian "me!")
+- Menyunting profilnya masing-masing (semisal mengganti avatar atau menulis di bagian "me!")
 - Mengunggah beatmap baru atau memperbarui beatmap yang sudah ada
 - Berpartisipasi dalam [pertandingan multiplayer](/wiki/Multi)
 
