@@ -34,7 +34,7 @@ Apabila kamu yakin bahwa kamu telah di-*silence* secara sewenang-wenang, harap h
 
 Caution: Engaging in "inappropriate behaviour" in private messages is not against the rules, unless said inappropriate behaviour is being delivered to unwilling or unconsenting recipients. If reported, appropriate punishments will be placed.
 
-*Perhatian: osu! tidak memandang segala bentuk "perilaku yang tidak pantas" (inappropriate behaviour) yang semata-mata ditujukan untuk saling menghibur diri pada ranah pribadi/private message sebagai suatu pelanggaran. Jika tindakan ini dilaporkan, maka hukuman yang sesuai akan dijatuhkan.*
+*Perhatian: osu! tidak memandang segala bentuk "cacian" atau "hinaan" yang semata-mata ditujukan untuk saling menghibur diri pada ranah pribadi (private message) sebagai suatu pelanggaran. Meskipun demikian, apabila cacian dan hinaan ini secara khusus ditujukan kepada para pengguna yang , maka hukuman yang sesuai akan dijatuhkan.*
 
 - Perilaku yang tidak pantas dalam chat atau forum publik (misalnya, `#multiplayer`, atau diskusi beatmap, komentar, dll.), termasuk —tetapi tidak terbatas pada— melakukan spam, chat yang tidak masuk akal, rasisme, dll.
 - Mengunggah atau memposting konten yang tidak pantas. (Misalnya, dalam avatar profil, pengiriman beatmap, rincian profil, bio dalam userpage, berbentuk banner, dll.).
