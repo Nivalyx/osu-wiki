@@ -18,7 +18,7 @@ Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan
 - Mengunggah beatmap baru atau memperbarui beatmap-beatmap yang sudah ada
 - Berpartisipasi dalam [pertandingan multiplayer](/wiki/Multi)
 
-Di samping itu, seluruh pesan yang telah dikirim oleh user yang ter-*silence* akan dihapus dari seluruh kanal *chat* dan *private message* yang terbuka [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
+Di samping itu, seluruh pesan yang sebelumnya telah dikirim oleh pengguna yang ter-*silence* akan dihapus dari seluruh kanal *chat* dan *private message* yang terbuka [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
 
 ::: Infobox
 ![](img/silence-ingame.png "Keterangan bahwa seseorang sedang di-*silence* pada *in-game chat*")
