@@ -26,7 +26,7 @@ Di samping itu, seluruh pesan yang telah dikirim oleh user yang ter-*silence* ak
 
 After a user is silenced, an alert will be displayed in place of the chat input field, saying when the silence wears off. The silence record can also be observed at the bottom of the profile on the website, from which it will disappear after 28 days.
 
-Setelah seorang pengguna di-*silence*, sebuah peringatan akan muncul pada kolom chat, dan terdapat tulisan kapan silence akan hilang. Catatan silence juga dapat dilihat pada bagian bawah profil di situs, yang dimana akan hilang setelah 28 hari.
+Setelah seorang pengguna di-*silence*, sebuah pesan yang menyatakan durasi *silence* yang berlaku akan muncul pada layar *chat* pengguna yang bersangkutan. Adapun riwayat pelanggaran yang dilakukan oleh tiap-tiap pengguna dapat dilihat pada bagian bawah laman profil mereka masing-masing di situs web osu!, yang akan hilang dengan sendirinya setelah 28 hari.
 
 ## Mengajukan banding sebuah silence
 
