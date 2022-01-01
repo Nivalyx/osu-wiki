@@ -26,7 +26,7 @@ Di samping itu, seluruh pesan yang telah dikirim oleh user yang ter-*silence* ak
 
 Setelah seorang pengguna di-*silence*, sebuah pesan yang menyatakan durasi *silence* yang berlaku akan muncul pada layar *chat* pengguna yang bersangkutan. Adapun riwayat pelanggaran yang dilakukan oleh tiap-tiap pengguna dapat dilihat pada bagian bawah laman profil mereka masing-masing di situs web osu!, yang akan hilang dengan sendirinya setelah 28 hari.
 
-## Mengajukan banding sebuah silence
+## Mengajukan banding akan *silence* yang diterima
 
 Jika kamu percaya bahwa kamu di silence secara tidak adil, hubungi [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) di [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk menggugat suatu silence. Pastikan untuk melakukan itu dari email yang terhubung dengan akun osu! kamu; sebutkan username osu! kamu, dan sertakan tanggal dan waktu ketika silence dijatuhkan.
 
