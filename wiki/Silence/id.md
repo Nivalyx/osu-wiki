@@ -28,7 +28,7 @@ Setelah seorang pengguna di-*silence*, sebuah pesan yang menyatakan durasi *sile
 
 ## Mengajukan banding akan *silence* yang diterima
 
-Apabila kamu yakin bahwa kamu telah di-*silence* secara sewenang-wenang, harap hubungi [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) kami pada alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh). Pastikan email yang kamu kirim berasal dari alamat email yang terhubung dengan akun osu! milikmu; harap sebutkan nama pengguna osu! milikmu, dan sertakan tanggal dan waktu *silence* tersebut dijatuhkan.
+Apabila kamu yakin bahwa kamu telah di-*silence* secara sewenang-wenang, harap hubungi [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) kami pada alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh). Pastikan email yang kamu kirim berasal dari alamat email yang terhubung dengan akun osu! milikmu; harap sebutkan nama pengguna osu! milikmu, dan sertakan pula tanggal dan waktu *silence* tersebut dijatuhkan.
 
 ## Alasan umum terkena silence
 
