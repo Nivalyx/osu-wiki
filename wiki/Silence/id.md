@@ -18,13 +18,15 @@ Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan
 - Mengunggah beatmap baru atau memperbarui beatmap yang sudah ada
 - Berpartisipasi dalam [pertandingan multiplayer](/wiki/Multi)
 
-Di samping itu, seluruh pesan yang telah dikirim oleh user yang ter-*silence* akan dihapus dari seluruh kanal *chat* dan percakapan pribadi [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
+Di samping itu, seluruh pesan yang telah dikirim oleh user yang ter-*silence* akan dihapus dari seluruh kanal *chat* dan *private message* yang ada [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
 
 ::: Infobox
 ![](img/silence-ingame.png "Keterangan bahwa seseorang sedang di-*silence* pada *in-game chat*")
 :::
 
-Setelah user tersebut di silence, sebuah peringatan akan muncul pada kolom chat, dan terdapat tulisan kapan silence akan hilang. Catatan silence juga dapat dilihat pada bagian bawah profil di situs, yang dimana akan hilang setelah 28 hari.
+After a user is silenced, an alert will be displayed in place of the chat input field, saying when the silence wears off. The silence record can also be observed at the bottom of the profile on the website, from which it will disappear after 28 days.
+
+Setelah seorang pengguna di-*silence*, sebuah peringatan akan muncul pada kolom chat, dan terdapat tulisan kapan silence akan hilang. Catatan silence juga dapat dilihat pada bagian bawah profil di situs, yang dimana akan hilang setelah 28 hari.
 
 ## Mengajukan banding sebuah silence
 
