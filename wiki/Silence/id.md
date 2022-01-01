@@ -34,7 +34,7 @@ Apabila kamu yakin bahwa kamu telah di-*silence* secara sewenang-wenang, harap h
 
 *Perhatian: osu! tidak memandang segala bentuk "cacian" atau "hinaan" yang semata-mata ditujukan untuk saling menghibur diri dalam ranah pribadi (private message) sebagai suatu pelanggaran. Meskipun demikian, apabila sampai terdapat pihak yang merasa terlecehkan atas cacian-cacian dan hinaan-hinaan ini, maka hukuman yang sesuai akan dijatuhkan kepada para pelanggar sesuai dengan laporan yang kami terima.*
 
-- Berperilaku tidak sepantasnya dalam kanal *chat* atau ruang-ruang publik lainnya (semisal `#multiplayer` serta laman diskusi beatmap, komentar, dan lain sebagainya) yang termasuk — namun tidak terbatas pada — melakukan spam, chat yang tidak masuk akal, rasisme, dll.
+- Berperilaku tidak sepantasnya dalam kanal *chat* atau ruang-ruang publik lainnya (semisal `#multiplayer` serta laman diskusi beatmap, komentar, dan lain sebagainya), yang meliputi — namun tidak terbatas pada — melakukan tindakan *spamming*, berceloteh yang tidak sewajarnya, berperilaku rasis, dan lain sebagainya.
 - Mengunggah atau memposting konten yang tidak pantas. (Misalnya, dalam avatar profil, pengiriman beatmap, rincian profil, bio dalam userpage, berbentuk banner, dll.).
 
 Lamanya silence dapat bervariasi berdasarkan seberapa keras aturan yang dilanggar. Durasi silence bisa bertumpuk satu sama lain, saling menambahkan durasi silence. Sebagai catatan bahwa jika sebuah pelanggaran yang cukup berat terjadi, atau pemain merupakan pelanggar yang berulangkali melakukan pelanggaran yang sama, maka [restriction akun](/wiki/Help_Centre/Account_Restrictions) dapat dijatuhkan sebagai ganti silence.
