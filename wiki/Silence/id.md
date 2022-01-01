@@ -28,11 +28,13 @@ Setelah seorang pengguna di-*silence*, sebuah pesan yang menyatakan durasi *sile
 
 ## Mengajukan banding akan *silence* yang diterima
 
-Apabila kamu yakin bahwa kamu telah di-*silence* secara sewenang-wenang, harap hubungi [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) kami pada alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh). Pastikan email yang kamu kirim berasal dari alamat email yang terhubung dengan akun osu! milikmu, dan harap sebutkan nama pengguna osu! milikmu serta tanggal dan waktu kapan *silence* yang bersangkutan dijatuhkan dalam email yang kamu kirim.
+Apabila kamu yakin bahwa kamu telah di-*silence* secara sewenang-wenang, harap hubungi [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) kami pada alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh). Pastikan email yang kamu kirim berasal dari alamat email yang terhubung dengan akun osu! milikmu, dan harap sebutkan nama pengguna osu! milikmu serta tanggal dan waktu kapan *silence* yang bersangkutan dijatuhkan dalam email tersebut.
 
 ## Penyebab-penyebab umum *silence*
 
-*Perhatian: Terlibat dalam "perilaku yang tidak pantas" dalam pesan pribadi tidak melanggar aturan, kecuali perilaku yang tidak pantas tersebut dikirimkan ke penerima lain yang tidak mau atau tidak setuju dalam pesan pribadi tersebut. Jika tindakan ini dilaporkan, maka hukuman yang sesuai akan dijatuhkan.*
+Caution: Engaging in "inappropriate behaviour" in private messages is not against the rules, unless said inappropriate behaviour is being delivered to unwilling or unconsenting recipients. If reported, appropriate punishments will be placed.
+
+*Perhatian: osu! tidak menindaklanjuti segala bentuk "perilaku yang tidak pantas" (inappropriate behaviour) yang semata-mata ditujukan untuk saling menghibur diri pada ranah pribadi. Jika tindakan ini dilaporkan, maka hukuman yang sesuai akan dijatuhkan.*
 
 - Perilaku yang tidak pantas dalam chat atau forum publik (misalnya, `#multiplayer`, atau diskusi beatmap, komentar, dll.), termasuk —tetapi tidak terbatas pada— melakukan spam, chat yang tidak masuk akal, rasisme, dll.
 - Mengunggah atau memposting konten yang tidak pantas. (Misalnya, dalam avatar profil, pengiriman beatmap, rincian profil, bio dalam userpage, berbentuk banner, dll.).
