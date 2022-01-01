@@ -12,7 +12,7 @@ Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan
 
 - Menggunakan fitur [*chat*](/wiki/Chat_Console) (publik dan privat) baik di dalam permainan maupun pada situs web osu!
 - Membuat post pada forum osu!
-- Berkomentar pada situs web osu! (baik itu pada laman berita, riwayat perubahan, maupun info beatmap)
+- Berkomentar pada situs web osu! (baik itu pada berita, riwayat perubahan, maupun laman info beatmap)
 - Berpartisipasi dalam [laman diskusi beatmap](/wiki/Beatmap_Discussion)
 - Mengubah rincian profilnya masing-masing (semisal mengganti avatar atau menulis di bagian "me!")
 - Mengunggah beatmap baru atau memperbarui beatmap yang sudah ada
