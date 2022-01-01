@@ -24,7 +24,7 @@ Di samping itu, seluruh pesan yang telah dikirim oleh user yang ter-*silence* ak
 ![](img/silence-ingame.png "Keterangan bahwa seseorang sedang di-*silence* pada *in-game chat*")
 :::
 
-Setelah seorang pengguna di-*silence*, sebuah pesan yang menyatakan durasi *silence* yang berlaku akan muncul pada layar *chat* pengguna yang bersangkutan. Adapun riwayat pelanggaran yang dilakukan oleh tiap-tiap pengguna dapat dilihat pada bagian bawah laman profil mereka masing-masing di situs web osu!, yang akan hilang dengan sendirinya setelah 28 hari.
+Setelah seorang pengguna di-*silence*, sebuah pesan yang menyatakan durasi *silence* yang berlaku akan muncul pada layar *chat* pengguna yang bersangkutan. Adapun riwayat pelanggaran yang pernah dilakukan oleh tiap-tiap pengguna dapat dilihat pada bagian bawah laman profil mereka masing-masing di situs web osu!, yang akan hilang dengan sendirinya setelah 28 hari.
 
 ## Mengajukan banding akan *silence* yang diterima
 
