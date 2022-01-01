@@ -2,7 +2,7 @@
 
 ***Silence*** merupakan bentuk hukuman di osu! yang membatasi kemampuan seorang pengguna untuk dapat berkomunikasi dengan anggota-anggota komunitas lainnya. Hukuman ini dijatuhkan oleh anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) kepada para pengguna yang telah terbukti melanggar [peraturan komunitas](/wiki/Rules) yang berlaku.
 
-## Batasan
+## Pembatasan aktivitas
 
 ::: Infobox
 ![](img/ID-silence-profile.png "Contoh riwayat pelanggaran yang tertera pada laman profil")
@@ -10,13 +10,13 @@
 
 Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan hal-hal berikut:
 
-- Menggunakan fitur [chat](/wiki/Chat_Console) (publik dan privat), baik dalam permainan maupun pada website
+- Menggunakan fitur [*chat*](/wiki/Chat_Console) (publik dan privat) baik di dalam permainan maupun pada situs web osu!
 - Membuat post pada forum osu!
-- Menambahkan komentar pada website (news, changelog, beatmaps)
-- Berpartisipasi dalam [diskusi beatmap](/wiki/Beatmap_Discussion)
-- Melakukan perubahan pada detil profil (misalnya, avatar, bagian "me!")
-- Melakukan upload beatmap baru atau memperbarui beatmap yang sudah ada
-- Berpartisipasi dalam [multiplayer](/wiki/Multi)
+- Menambahkan komentar pada situs web osu! (news, changelog, beatmaps)
+- Berpartisipasi dalam [laman diskusi beatmap](/wiki/Beatmap_Discussion)
+- Mengubah detil profil (misalnya, avatar, bagian "me!")
+- Mengunggah beatmap baru atau memperbarui beatmap yang sudah ada
+- Berpartisipasi dalam [pertandingan multiplayer](/wiki/Multi)
 
 Selain itu, seluruh pesan yang dikirim oleh user tersilence dihapus dari seluruh kanal chat dan percakapan pribadi [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
 
