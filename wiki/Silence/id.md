@@ -32,7 +32,7 @@ Apabila kamu yakin bahwa kamu telah di-*silence* secara sewenang-wenang, harap h
 
 ## Penyebab-penyebab umum *silence*
 
-*Perhatian: osu! tidak memandang segala bentuk "cacian" atau "hinaan" yang semata-mata ditujukan untuk saling menghibur diri dalam ranah pribadi (private message) sebagai suatu pelanggaran. Meskipun demikian, apabila terdapat  pihak yang sampai merasa terlecehkan atas cacian dan hinaan ini, maka hukuman yang sesuai akan dijatuhkan kepada para pelanggar sesuai dengan laporan yang kami terima.*
+*Perhatian: osu! tidak memandang segala bentuk "cacian" atau "hinaan" yang semata-mata ditujukan untuk saling menghibur diri dalam ranah pribadi (private message) sebagai suatu pelanggaran. Meskipun demikian, apabila terdapat  pihak yang sampai merasa terlecehkan atas cacian-cacian dan hinaan-hinaan ini, maka hukuman yang sesuai akan dijatuhkan kepada para pelanggar sesuai dengan laporan yang kami terima.*
 
 - Berperilaku tidak sepantasnya dalam kanal *chat* atau ruang-ruang publik lainnya (misalnya, `#multiplayer`, atau diskusi beatmap, komentar, dll.), termasuk —tetapi tidak terbatas pada— melakukan spam, chat yang tidak masuk akal, rasisme, dll.
 - Mengunggah atau memposting konten yang tidak pantas. (Misalnya, dalam avatar profil, pengiriman beatmap, rincian profil, bio dalam userpage, berbentuk banner, dll.).
