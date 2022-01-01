@@ -8,7 +8,7 @@
 ![](img/ID-silence-profile.png "Contoh riwayat pelanggaran yang tertera pada laman profil")
 :::
 
-Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan hal-hal berikut:
+Para pengguna yang tengah di-*silence* oleh moderator tidak akan dapat melakukan hal-hal berikut:
 
 - Menggunakan fitur [*chat*](/wiki/Chat_Console) (publik dan privat) baik di dalam permainan maupun pada situs web osu!
 - Membuat post pada forum osu!
