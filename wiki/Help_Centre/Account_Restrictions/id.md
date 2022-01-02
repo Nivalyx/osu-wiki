@@ -48,7 +48,7 @@ Apabila kamu terbukti melakukan sesuatu yang dapat menyebabkan akunmu di-*restri
 
 ## Masa *cooldown* saya telah usai. Bagaimana caranya agar saya dapat mengajukan banding?
 
-Kamu dapat mengajukan banding dengan cara mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan melampirkan nama pengguna akunmu. Pastikan kamu hanya mengirim pengajuan banding dari alamat email yang terkait dengan akun osu! milikmu. Setelah kamu mengajukan banding, tim kami akan menjawab banding tersebut dalam kurun waktu satu minggu. Jika Anda belum menerima jawaban yang pasti setelah satu minggu telah terlewati, harap hubungi kami lebih lanjut melalui Twitter atau email — bisa jadi tim kami telah secara tidak sengaja melewati pesan banding yang kamu kirim.
+Kamu dapat mengajukan banding dengan cara mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan melampirkan nama pengguna akunmu. Pastikan kamu hanya mengirim pengajuan banding dari alamat email yang terkait dengan akun osu! milikmu. Setelah kamu mengajukan banding, tim kami akan menjawab banding tersebut dalam kurun waktu satu minggu. Jika Anda belum menerima jawaban yang pasti setelah satu minggu telah terlewati, harap hubungi kami lebih lanjut melalui Twitter atau email — bisa jadi bandingmu hilang tertelan dari sekian banyak pesan banding yang kami terima.
 
 Dalam pesan banding yang kamu kirim, harap sertakan hal-hal berikut:
 
