@@ -68,9 +68,7 @@ Apabila kami memutuskan untuk memulihkan akunmu, kami akan memintamu untuk menye
 
 Di samping itu, dalam jangka waktu satu tahun terhitung sejak akunmu di-*unrestrict*, kami tidak akan mengabulkan permintaan pengubahan bendera yang kamu ajukan.
 
-In some cases, an appeal returnee may be banned from official and badged tournaments, both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
-
-Dalam kasus-kasus tertentu, seseorang yang baru saja di-*unrestrict* akan dilarang untuk berpartisipasi sebagai peserta pada turnamen-turnamen tertentu baik sebagai individu maupun sebagai anggota dari sebuah tim. Durasi pelarangan ini adalah 1 tahun per pelanggaran yang dilakukan (yang berarti, sebagai contoh, para pengguna yang telah 2 kali melanggar tidak akan dapat ikut serta dalam turnamen selama 2 tahun). Untuk keterangan lebih lanjut, silakan .
+Dalam kasus-kasus tertentu, seseorang yang baru saja di-*unrestrict* akan dilarang untuk berpartisipasi sebagai peserta pada turnamen-turnamen tertentu baik sebagai individu maupun sebagai anggota dari sebuah tim. Durasi pelarangan ini sendiri adalah 1 tahun per pelanggaran yang dilakukan. Untuk keterangan lebih lanjut, silakan lihat email yang kami kirimkan.
 
 **Melakukan kecurangan atau berbagi akun selama berkompetisi dalam turnamen resmi atau turnamen komunitas yang menghadiahkan lencana akan mengakibatkan larangan permanen untuk pengguna dalam berkompetisi lagi di masa yang akan datang.** Pelanggaran ini tidak dapat diajukan banding (surel pengajuan Anda akan diabaikan saat Anda mencoba) dan pelanggaran tidak akan dihapus, dikurangi, atau diangkat dalam kondisi apa pun.
 
