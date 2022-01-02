@@ -63,10 +63,10 @@ Apabila kami memutuskan untuk memulihkan akunmu, kami akan memintamu untuk menye
 
 - **Kamu setuju bahwa kamu tidak lagi akan melanggar peraturan yang berlaku,** baik itu dalam bentuk melakukan kecurangan, saling berbagi akun (*account sharing*), ataupun yang lainnya.
 - **Kamu setuju bahwa kamu tidak lagi akan membuat akun-akun baru, baik untuk dirimu sendiri maupun orang lain.**
-- **Kamu setuju bahwa kamu tidak lagi akan membagi akses akunmu** termasuk bermain di komputer yang sama.
-- **Kamu setuju bahwa segala pelanggaran berat lainnya yang kamu lakukan ke depannya akan langsung mengakibatkan akunmu kembali di-*restrict*,** yang meliputi *silence* tingkat lanjut.
+- **Kamu setuju bahwa kamu tidak lagi akan membagi akses akunmu kepada siapapun,** termasuk kepada para pengguna yang komputer yang sama.
+- **Kamu setuju bahwa segala pelanggaran berat lainnya yang kamu lakukan ke depannya akan langsung mengakibatkan akunmu kembali di-*restrict*,** yang meliputi *silence-silence* tingkat lanjut.
 
-Selain itu, untuk jangka waktu satu tahun, kami tidak akan mengabulkan permintaan pengubahan bendera yang berada pada akun Anda.
+Di samping itu, untuk jangka waktu satu tahun, kami tidak akan mengabulkan permintaan pengubahan bendera yang berada pada akun Anda.
 
 Dalam beberapa kasus, seseorang yang baru dikabulkan aju bandingnya akan dilarang dari turnamen resmi dan turnamen komunitas yang menghadiahkan lencana, baik sebagai pesaing atau sebagai anggota tim turnamen. Durasi larangan ini adalah 1 tahun untuk setiap pelanggaran (jika pengguna telah mengajukan banding untuk kedua kalinya, larangan tersebut berlaku selama 2 tahun). Surel pelepasan restriction akan menjelaskan durasi larangan ini.
 
