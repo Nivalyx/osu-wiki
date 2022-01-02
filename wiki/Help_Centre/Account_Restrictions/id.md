@@ -70,7 +70,7 @@ Di samping itu, dalam jangka waktu satu tahun terhitung sejak akunmu di-*unrestr
 
 Dalam kasus-kasus tertentu, seseorang yang baru saja di-*unrestrict* akan dilarang untuk berpartisipasi sebagai peserta pada turnamen-turnamen tertentu baik sebagai individu maupun sebagai anggota dari sebuah tim. Durasi pelarangan ini sendiri adalah 1 tahun per pelanggaran yang dilakukan. Untuk keterangan lebih lanjut, silakan lihat email yang kami kirimkan.
 
-**Para pengguna yang bertindak curang atau saling berbagi akun (*account sharing*) dalam suatu turnamen resmi atau turnamen komunitas yang berhadiah *profile badge* akan dijatuhi larangan untuk dapat berpartisipasi pada turnamen apapun secara permanen ke depannya.** Hukuman ini bersifat final dan tidak akan digugat, dihapus, dikurangi, atau diangkat dalam kondisi apa pun.
+**Para pengguna yang terbukti bertindak curang atau saling berbagi akun (*account sharing*) dalam suatu turnamen resmi atau turnamen komunitas yang berhadiah *profile badge* akan dijatuhi larangan untuk dapat berpartisipasi pada turnamen apapun secara permanen ke depannya.** Hukuman ini bersifat final dan tidak akan digugat, dihapus, dikurangi, atau diangkat dalam kondisi apa pun.
 
 Beberapa pemain dapat di-restrict kembali sesaat setelah mereka bermain kembali setelah bandingnya dikabulkan. Hal ini merupakan proses otomatis dan umumnya akan dihapus dalam jangka 24 jam. Jangan ragu untuk bertanya melewati twitter di akun [@osusupport](https://twitter.com/osusupport) atau dengan mengirim surel ke [accounts@ppy.sh](mailto:accounts@ppy.sh) jika hal ini terjadi pada Anda!
 
