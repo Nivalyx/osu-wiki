@@ -46,7 +46,7 @@ Apabila kamu terbukti melakukan sesuatu yang dapat menyebabkan akunmu di-*restri
 - **Ikuti instruksi tim layanan dukungan kami.** Masa tunggu tiga bulan adalah kesempatan untuk meluangkan waktu dan memikirkan kembali tindakan yang Anda lakukan. Jika Anda mencoba mengajukan banding sebelum periode tunggu berakhir, email Anda akan diabaikan. Jika Anda tidak yakin kapan masa tunggu Anda berakhir, kapan Anda akan diizinkan untuk mengajukan banding, atau akun mana yang seharusnya Anda mainkan (serta digunakan untuk mengajukan banding), Anda dapat mengirimkan email kepada kami untuk bertanya.
 - **Jangan ragu untuk menghubungi kami apabila kamu memiliki sesuatu yang ingin ditanyakan.** Selama Anda tidak berusaha menghindari hukuman Anda, dengan senang hati kami akan menjawab pertanyaan apa pun yang Anda miliki mengenai restriction akun Anda!
 
-## Masa tunggu saya telah selesai. Bagaimana saya mengajukan banding?
+## Masa *cooldown* saya telah usai. Bagaimana caranya agar saya dapat mengajukan banding?
 
 Anda dapat mengajukan banding dengan cara mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan melampirkan nama pengguna akun Anda. Pastikan Anda mengirim pengajuan banding Anda dari alamat email yang terkait dengan akun Anda. Setelah Anda mengirim banding, tim akan membalas pesan Anda dalam kurun waktu satu minggu. Jika Anda belum menerimanya hingga kurun waktu tersebut terlewati, silakan hubungi kami di Twitter atau melalu email - ada kemungkinan kami belum menerimanya.
 
