@@ -1,10 +1,10 @@
 # Restriction
 
-*Restriction* merupakan bentuk hukuman yang osu! jatuhkan kepada para pengguna yang bersikap tidak sepantasnya, bertindak mencurigakan, atau telah melanggar aturan.
+*Restriction* merupakan bentuk hukuman yang osu! jatuhkan kepada para pengguna yang telah bersikap tidak sepantasnya, bertindak mencurigakan, atau melanggar peraturan yang berlaku.
 
-Ketika seorang pengguna di-*restrict*, pengguna tersebut tidak akan dapat berinteraksi dengan para pengguna lainnya hingga status *restriction*-nya dicabut. Pemain yang di-*restrict* masih bisa memainkan game, mengunduh beatmap, dan mengirimkan skor, tetapi profil mereka tidak akan terlihat oleh orang lain.
+Ketika seorang pengguna di-*restrict*, pengguna tersebut tidak akan dapat berinteraksi dengan para anggota komunitas lainnya hingga status *restriction*-nya dicabut. Para pengguna yang sedang di-*restrict* masih akan dapat bermain, mengunduh beatmap, dan mengirimkan skor sebagaimana pada umumnya, namun profil mereka tidak akan dapat dilihat oleh orang lain.
 
-Berikut fitur-fitur yang dinonaktifkan untuk akun yang ter-restrict:
+Berikut merupakan fitur-fitur yang dinonaktifkan untuk akun yang ter-restrict:
 
 - obrolan dalam game
 - pesan pribadi
