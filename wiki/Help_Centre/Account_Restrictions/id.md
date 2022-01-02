@@ -2,7 +2,7 @@
 
 *Restriction* merupakan bentuk hukuman yang osu! jatuhkan kepada para pengguna yang telah bersikap tidak sepantasnya, bertindak mencurigakan, atau melanggar peraturan yang berlaku.
 
-Ketika seorang pengguna di-*restrict*, pengguna tersebut tidak akan dapat berinteraksi dengan para anggota komunitas lainnya hingga status *restriction* mereka dicabut. Para pengguna yang di-*restrict* masih akan dapat bermain, mengunduh beatmap, dan mengirimkan skor sebagaimana pada umumnya, namun laman profil mereka tidak akan dapat dilihat oleh siapapun kecuali diri mereka sendiri.
+Ketika seorang pengguna di-*restrict*, pengguna tersebut tidak akan dapat berinteraksi dengan para anggota komunitas lainnya hingga status *restriction* mereka diangkat. Para pengguna yang di-*restrict* masih akan dapat bermain, mengunduh beatmap, dan mengirimkan skor sebagaimana pada umumnya, namun laman profil mereka tidak akan dapat dilihat oleh siapapun kecuali diri mereka sendiri.
 
 Berikut merupakan fitur-fitur serta hal-hal yang tidak dapat digunakan atau dilakukan oleh para pengguna yang di-*restrict*:
 
@@ -40,7 +40,7 @@ Apabila kamu terbukti melakukan sesuatu yang dapat menyebabkan akunmu di-*restri
 
 ## Apa-apa saja yang dapat saya lakukan sambil menunggu waktu pengajuan banding saya?
 
-- **Tetap bermain!** Selama akunmu di-*restrict*, kamu diperkenan untuk tetap bermain seperti biasa (selama kamu hanya menggunakan akun aslimu!). Skor-skor yang kamu torehkan ketika kamu di-*restrict* akan tetap tercatat secara *online*, dan kecuali tim kami memutuskan untuk menghapus (me-*rollback*) seluruh skor yang kamu miliki, skor-skor tersebut akan tetap ada setelah *restriction* akunmu dicabut.
+- **Tetap bermain!** Selama akunmu di-*restrict*, kamu diperkenan untuk tetap bermain seperti biasa (selama kamu hanya menggunakan akun aslimu!). Skor-skor yang kamu torehkan ketika kamu di-*restrict* akan tetap tercatat secara *online*, dan kecuali tim kami memutuskan untuk menghapus (me-*rollback*) seluruh skor yang kamu miliki, skor-skor tersebut akan tetap ada setelah *restriction* akunmu diangkat.
 - **Tetaplah berperilaku baik.** Kami paham bahwa *restriction* yang kamu terima dapat membuat kamu frustasi. Meskipun demikian, anggaplah ini sebagai kesempatan bagimu untuk dapat berintrospeksi diri. Cobalah untuk menghindari interaksi dengan komunitas osu! selama setidaknya beberapa hari (baik itu melalui Discord, media sosial, ataupun yang lainnya) dan merenungkan tindakan-tindakan apa saja yang menyebabkan akunmu di-*restrict*.
 - **Yakinkan dirimu untuk tidak lagi melanggar peraturan yang berlaku ke depannya.** Pada hakikatnya, *restriction* yang kamu terima merupakan ganjaran karena kamu telah karena melanggar peraturan. Apabila kamu terus-menerus mencoba untuk mengakali *restriction* ini selama akunmu di-*restrict*, kami juga akan terus mengatur ulang *cooldown* akunmu ke waktu tiga bulan dari pelanggaran terakhir yang kamu lakukan sebelum kamu dapat mengajukan banding. Hal-hal ini termasuk, sebagai contoh, terus bermain curang, mengakses akun orang lain, atau membuat akun baru untuk menghindari *restriction* yang sedang aktif.
 - **Ikuti instruksi tim layanan dukungan kami.** Masa *cooldown* selama tiga bulan yang kami berikan merupakan kesempatan bagimu untuk dapat memikirkan kembali kesalahan-kesalahan yang telah kamu lakukan. Apabila kamu mencoba untuk mengajukan banding sebelum masa *cooldown* akunmu usai, email yang kamu kirim akan diabaikan. Apabila kamu tidak yakin kapan masa *cooldown* akunmu akan berakhir, kapan kamu akan diizinkan untuk mengajukan banding, atau akun mana yang hendaknya kamu ajukan dalam banding yang kamu kirim, kamu dapat mengirimkan email kepada kami.
@@ -59,9 +59,9 @@ Dalam pesan banding yang kamu kirim, harap sertakan hal-hal berikut:
 
 ## Apa yang harus saya lakukan apabila banding saya dikabulkan?
 
-Jika kami memutuskan untuk membiarkan Anda kembali, Anda harus menyanggupi beberapa ketentuan sebelum kami melepaskan restriction akun Anda.
+Apabila kami memutuskan untuk memulihkan akunmu, kami akan memintamu untuk menyetujui ketentuan-ketentuan berikut sebelum status *restriction*-mu kami angkat.
 
-- **Anda tidak akan melanggar lagi.** Hal ini termasuk melakukan kecurangan dan berbagi akun.
+- **Kamu setuju bahwa tidak akan melanggar lagi.** Hal ini termasuk melakukan kecurangan dan berbagi akun.
 - **Anda tidak akan membuat akun lagi, baik untuk diri sendiri maupun orang lain.**
 - **Anda tidak boleh berkolega dengan akun lain** termasuk bermain di komputer yang sama.
 - **Setiap pelanggaran besar akan mengakibatkan restriction langsung.** Ini termasuk *silence* tingkat lanjut.
