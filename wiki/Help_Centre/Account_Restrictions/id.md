@@ -1,8 +1,8 @@
-# Restriction Akun
+# Restriction
 
-Restriction akun adalah tindakan pembatasan dari komunitas yang diterapkan pada akun yang menunjukkan perilaku tidak wajar, mencurigakan, atau melanggar aturan.
+*Restriction* merupakan bentuk hukuman yang osu! jatuhkan kepada para pengguna yang bersikap tidak sepantasnya, mencurigakan, atau melanggar aturan.
 
-Ketika suatu akun ter-restrict, akun tersebut tidak dapat berinteraksi dengan orang lain sampai restriction-nya dicabut. Pemain yang di-restrict masih bisa memainkan game, mengunduh beatmap, dan mengirimkan skor, tetapi profil mereka tidak akan terlihat oleh orang lain.
+Ketika seorang pengguna di-*restrict*, pengguna tersebut tidak akan dapat berinteraksi dengan para pengguna lainnya hingga status *restriction*-nya dicabut. Pemain yang di-*restrict* masih bisa memainkan game, mengunduh beatmap, dan mengirimkan skor, tetapi profil mereka tidak akan terlihat oleh orang lain.
 
 Berikut fitur-fitur yang dinonaktifkan untuk akun yang ter-restrict:
 
