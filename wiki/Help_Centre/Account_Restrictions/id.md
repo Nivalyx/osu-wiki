@@ -72,7 +72,7 @@ Dalam kasus-kasus tertentu, seseorang yang baru saja di-*unrestrict* akan dilara
 
 **Para pengguna yang terbukti bertindak curang atau saling berbagi akun (*account sharing*) dalam suatu turnamen resmi atau turnamen komunitas yang menghadiahkan *profile badge* akan dijatuhi larangan untuk dapat berpartisipasi pada turnamen apapun secara permanen ke depannya.** Hukuman ini bersifat final dan tidak akan digugat, dihapus, dikurangi, atau diangkat dalam situasi apapun.
 
-Terkadang, sistem kami dapat secara tidak sengaja me-*restrict* kembali akun-akun yang bandingnya baru dikabulkan. Hal ini merupakan proses otomatis yang pada umumnya akan dihapus dalam kurun waktu 24 jam. Jangan ragu untuk bertanya melewati twitter di akun [@osusupport](https://twitter.com/osusupport) atau dengan mengirim surel ke [accounts@ppy.sh](mailto:accounts@ppy.sh) jika hal ini terjadi pada Anda!
+Terkadang, sistem kami dapat secara tidak sengaja me-*restrict* kembali akun-akun yang bandingnya baru dikabulkan. Hal ini merupakan proses otomatis yang pada umumnya akan diangkat dalam kurun waktu 24 jam. Jangan ragu untuk bertanya kepada kami  [@osusupport](https://twitter.com/osusupport) atau dengan mengirim surel ke [accounts@ppy.sh](mailto:accounts@ppy.sh) jika hal ini terjadi pada Anda!
 
 Beberapa pelanggaran akan menyebabkan akun Anda diatur ulang kembali setelah penghapusan restriction. Hal ini bertujuan untuk menghapus skor yang tidak valid yang dikirimkan pada akun Anda **di semua mode**, serta medali yang terbuka dan lencana profil. **Jumlah main dan waktu main tidak akan diubah.**
 
