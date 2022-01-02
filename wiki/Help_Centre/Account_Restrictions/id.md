@@ -48,9 +48,9 @@ Apabila kamu terbukti melakukan sesuatu yang dapat menyebabkan akunmu di-*restri
 
 ## Masa *cooldown* saya telah usai. Bagaimana caranya agar saya dapat mengajukan banding?
 
-Anda dapat mengajukan banding dengan cara mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan melampirkan nama pengguna akun Anda. Pastikan Anda mengirim pengajuan banding Anda dari alamat email yang terkait dengan akun Anda. Setelah Anda mengirim banding, tim akan membalas pesan Anda dalam kurun waktu satu minggu. Jika Anda belum menerimanya hingga kurun waktu tersebut terlewati, silakan hubungi kami di Twitter atau melalu email - ada kemungkinan kami belum menerimanya.
+Kamu dapat mengajukan banding dengan cara mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan melampirkan nama pengguna akunmu. Pastikan kamu hanya mengirim pengajuan banding dari alamat email yang terkait dengan akun osu! milikmu. Setelah kamu mengajukan banding, tim kami akan menjawab banding tersebut dalam kurun waktu satu minggu. Jika Anda belum menerima jawaban yang pasti setelah satu minggu telah terlewati, harap hubungi kami lebih lanjut melalui Twitter atau email — ada kemungkinan kami belum menerimanya.
 
-Saat mengajukan banding, kami mengharapkan poin-poin berikut:
+Dalam pesan banding yang kamu kirim, harap sertakan hal-hal berikut:
 
 - **Riwayat akun.** Tidak perlu terlalu rinci. Dalam poin ini, Anda harus memberi tahu semua pelanggaran aturan berat yang Anda lakukan (pembuatan akun lebih dari satu, berbagi akses akun, melakukan kecurangan, atau *silence* jangka panjang). Anda tidak perlu mengingat setiap tanggal, setiap *silence*, atau setiap akun yang Anda buat, selama Anda jujur dengan apa yang Anda lakukan. Hal ini termasuk semua aturan yang telah Anda langgar saat di-restrict, jika hal itu terjadi.
 - **Kenapa Anda melanggar aturan.** Penjelasan tentang apa yang membuat Anda memutuskan untuk membuat akun baru, memberikan akses akun Anda, berbuat curang, dan lain-lain akan membantu kami (dan Anda) menentukan apakah Anda berisiko melanggar peraturan lagi atau tidak. Jika Anda terus melanggar peraturan selama di-restrict, kami juga tertarik untuk mengetahui alasannya.
