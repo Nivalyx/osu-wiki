@@ -8,7 +8,7 @@ Berikut merupakan fitur-fitur yang tidak dapat diakses atau digunakan oleh para 
 
 - *in-game chat*
 - pengiriman pesan pribadi (*private message*)
-- pengiriman forum atau bagian komentar
+- pengiriman forum atau komentar
 - pengunggahan beatmap
 - pembaruan detail profil
 - pembelian produk-produk osu!store
