@@ -74,7 +74,7 @@ Dalam kasus-kasus tertentu, seseorang yang baru saja di-*unrestrict* akan dilara
 
 Terkadang, sistem kami dapat secara tidak sengaja me-*restrict* kembali akun-akun yang bandingnya baru dikabulkan. Hal ini merupakan proses otomatis yang pada umumnya akan diangkat dalam kurun waktu 24 jam. Jangan ragu untuk menghubungi kami melalui akun Twitter [@osusupport](https://twitter.com/osusupport) atau melalui alamat email [accounts@ppy.sh](mailto:accounts@ppy.sh) apabila hal ini terjadi padamu!
 
-Beberapa pelanggaran akan menyebabkan akun Anda diatur ulang kembali setelah penghapusan restriction. Hal ini bertujuan untuk menghapus skor yang tidak valid yang dikirimkan pada akun Anda **di semua mode**, serta medali yang terbuka dan lencana profil. **Jumlah main dan waktu main tidak akan diubah.**
+Pada pelanggaran-pelanggaran tertentu, skor-skor yang sebelumnya pernah kamu torehkan **pada seluruh mode permainan** akan kami hapus pada saat *restriction* akunmu diangkat. Hal ini bertujuan agar skor-skor serta medali yang diperoleh secara tidak sah dapat dianulir dari profilmu. **Adapun jumlah permainan (*play count*) dan waktu bermain (*play time*) yang kamu miliki tidak akan diatur ulang.**
 
 ## Banding saya ditolak!
 
