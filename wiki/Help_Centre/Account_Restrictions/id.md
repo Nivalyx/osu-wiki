@@ -90,8 +90,8 @@ Ada beberapa alasan mengapa banding Anda dapat ditolak.
 
 | Penyebab *restriction* | Masa *cooldown* | Catatan |
 | :-- | :-- | :-- |
-| Kesalahan sistem | Tidak ada masa tunggu | Akun-akun yang di-*restrict* secara tidak sengajatidak akan dijatuhi hukuman lebih lanjut. |
-| Pembuatan akun ganda | Permanen (untuk akun ganda) | Akun utama akan dibiarkan tidak dikenakan restriction, mungkin dikenakan *silence*. |
+| Kesalahan sistem | Tidak ada masa tunggu | Akun-akun yang di-*restrict* secara tidak sengaja tidak akan dijatuhi hukuman lebih lanjut. |
+| Membuat lebih dari satu akun (*multiaccounting*) | Permanen (untuk akun-akun selain akun pertama) | Akun utama akan dibiarkan tidak dikenakan restriction, mungkin dikenakan *silence*. |
 | Pembuatan akun ganda berlebih | 3 bulan | Boleh mengajukan banding, larangan berkompetisi di turnamen selama 1 tahun |
 | Berbagi akun | 3 bulan | Boleh mengajukan banding, larangan berkompetisi di turnamen selama 1 tahun, dan pengaturan kembali akun (sebagian) |
 | Melakukan kecurangan atau menggunakan program ilegal | 3 bulan | Boleh mengajukan banding, larangan turnamen 1 tahun, dan pengaturan kembali akun (penuh) |
