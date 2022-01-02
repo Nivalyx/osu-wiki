@@ -59,7 +59,7 @@ Dalam pesan banding yang kamu kirim, harap sertakan hal-hal berikut:
 
 ## Apa yang harus saya lakukan apabila banding saya dikabulkan?
 
-Apabila kami memutuskan untuk memulihkan akunmu, kami akan memintamu untuk menyetujui ketentuan-ketentuan berikut sebelum status *restriction* akunmu kami angkat.
+Apabila kami memutuskan untuk memulihkan akunmu, kami akan memintamu untuk menyetujui ketentuan-ketentuan berikut sebelum status *restriction* akunmu dapat kami angkat.
 
 - **Kamu setuju bahwa kamu tidak lagi akan melanggar peraturan yang berlaku,** baik itu dalam bentuk melakukan kecurangan, saling berbagi akun (*account sharing*), ataupun yang lainnya.
 - **Kamu setuju bahwa kamu tidak lagi akan membuat akun-akun baru, baik untuk dirimu sendiri maupun orang lain.**
@@ -70,7 +70,7 @@ Di samping itu, dalam jangka waktu satu tahun terhitung sejak akunmu di-*unrestr
 
 Dalam kasus-kasus tertentu, seseorang yang baru saja di-*unrestrict* akan dilarang untuk berpartisipasi sebagai peserta pada turnamen-turnamen tertentu baik sebagai individu maupun sebagai anggota dari sebuah tim. Durasi pelarangan ini sendiri adalah 1 tahun per pelanggaran yang dilakukan. Untuk keterangan lebih lanjut, silakan lihat email yang kami kirimkan.
 
-**Melakukan kecurangan atau berbagi akun selama berkompetisi dalam turnamen resmi atau turnamen komunitas yang menghadiahkan lencana akan mengakibatkan larangan permanen untuk pengguna dalam berkompetisi lagi di masa yang akan datang.** Pelanggaran ini tidak dapat diajukan banding (surel pengajuan Anda akan diabaikan saat Anda mencoba) dan pelanggaran tidak akan dihapus, dikurangi, atau diangkat dalam kondisi apa pun.
+**Para pengguna yang bertindak curang atau saling berbagi akun (*account sharing*) dalam suatu turnamen resmi atau turnamen komunitas yang menghadiahkan lencana akan dilarang untuk ikut bertanding pada turnamen-turnamen lain ke depannya secara permanen.** Pelanggaran ini tidak dapat diajukan banding (surel pengajuan Anda akan diabaikan saat Anda mencoba) dan pelanggaran tidak akan dihapus, dikurangi, atau diangkat dalam kondisi apa pun.
 
 Beberapa pemain dapat di-restrict kembali sesaat setelah mereka bermain kembali setelah bandingnya dikabulkan. Hal ini merupakan proses otomatis dan umumnya akan dihapus dalam jangka 24 jam. Jangan ragu untuk bertanya melewati twitter di akun [@osusupport](https://twitter.com/osusupport) atau dengan mengirim surel ke [accounts@ppy.sh](mailto:accounts@ppy.sh) jika hal ini terjadi pada Anda!
 
@@ -78,7 +78,7 @@ Beberapa pelanggaran akan menyebabkan akun Anda diatur ulang kembali setelah pen
 
 ## Banding saya ditolak!
 
-Ada beberapa alasan mengapa banding Anda dapat ditolak.
+Ada beberapa alasan yang membuat bandingmu dapat kami tolak.
 
 - **Anda mengirimnya terlalu cepat.** Jika masa tunggu untuk akun Anda belum selesai, banding Anda akan ditolak. Jika Anda tidak yakin kapan sebenarnya Anda dapat mengajukan banding, harap balas jawaban kami - kami akan memberi Anda tanggal yang benar.
 - **Banding Anda tidak memadai atau tidak lengkap.** Jika banding Anda kurang mencakup empat poin yang tercantum di atas, kami akan meminta Anda untuk menulis lebih lengkap. Hal ini **tidak akan** menyetel ulang masa tunggu untuk akun Anda dan Anda bebas mengirim banding baru kapan saja! Namun, jika Anda mencoba berbohong atau menyembunyikan pelanggaran yang Anda lakukan (terutama pembuatan akun lebih dari satu atau melakukan kecurangan), banding Anda akan ditolak dengan alasan tidak jujur, dan masa tunggu Anda akan diatur ulang menjadi tiga bulan. Ini adalah kesempatan lain bagi Anda untuk merenungkan tindakan Anda dan memastikan Anda tidak melupakan apa pun.
@@ -92,9 +92,9 @@ Ada beberapa alasan mengapa banding Anda dapat ditolak.
 | :-- | :-- | :-- |
 | Kesalahan sistem | Tidak ada masa tunggu | Akun-akun yang di-*restrict* secara tidak sengaja tidak akan dijatuhi hukuman lebih lanjut |
 | Membuat lebih dari satu akun (*multiaccounting*) | Permanen (untuk akun-akun selain akun pertama) | Akun yang pertama dibuat tidak akan di-*restrict* walau tetap dapat dikenakan *silence* dalam kasus-kasus tertentu |
-| Membuat lebih dari satu akun (*multiaccounting*) secara berlebihan | 3 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen resmi selama 1 tahun |
-| Saling berbagi akun (*account sharing*) | 3 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen resmi selama 1 tahun serta penghapusan skor (*rollback*) parsial |
-| Melakukan kecurangan atau menggunakan program ilegal | 3 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen resmi selama 1 tahun serta penghapusan skor (*rollback*) secara menyeluruh |
+| Membuat lebih dari satu akun (*multiaccounting*) secara berlebihan | 3 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen tertentu selama 1 tahun |
+| Saling berbagi akun (*account sharing*) | 3 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen tertentu selama 1 tahun serta penghapusan skor (*rollback*) parsial |
+| Melakukan kecurangan atau menggunakan program ilegal | 3 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen tertentu selama 1 tahun serta penghapusan skor (*rollback*) secara menyeluruh |
 | Bertindak tidak senonoh secara berlebihan | Variatif | Masa *cooldown* akan bergantung pada derajat pelanggaran dan riwayat akun |
-| Melakukan kecurangan/saling berbagi akun (*account sharing*) pada pertandingan turnamen | 6 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen resmi secara permanen serta penghapusan skor (*rollback*) sebagaimana yang dianggap sesuai |
-| Mengulangi pelanggaran yang pernah dilakukan sebelumnya | 6 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen resmi selama 1 tahun untuk setiap pelanggarannya serta penghapusan skor (*rollback*) sebagaimana yang dianggap sesuai |
+| Melakukan kecurangan/saling berbagi akun (*account sharing*) pada pertandingan turnamen | 6 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen tertentu secara permanen serta penghapusan skor (*rollback*) sebagaimana yang dianggap sesuai |
+| Mengulangi pelanggaran yang pernah dilakukan sebelumnya | 6 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen tertentu selama 1 tahun untuk setiap pelanggarannya serta penghapusan skor (*rollback*) sebagaimana yang dianggap sesuai |
