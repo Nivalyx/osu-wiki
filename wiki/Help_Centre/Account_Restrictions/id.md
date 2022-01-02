@@ -95,6 +95,6 @@ Ada beberapa alasan mengapa banding Anda dapat ditolak.
 | Membuat lebih dari satu akun (*multiaccounting*) secara berlebihan | 3 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen resmi selama 1 tahun |
 | Saling berbagi akun (*account sharing*) | 3 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen resmi selama 1 tahun serta penghapusan skor (*rollback*) parsial |
 | Melakukan kecurangan atau menggunakan program ilegal | 3 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen resmi selama 1 tahun serta penghapusan skor (*rollback*) secara keseluruhan |
-| Bertindak tidak senonoh secara berlebihan | Variatif | Masa *cooldown* akan bergantung pada sejarah akun |
-| Melakukan kecurangan/berbagi akun di turnamen | 6 bulan | Boleh mengajukan banding, pengaturan kembali akun (secukupnya), larangan berkompetisi di turnamen (permanen) |
+| Bertindak tidak senonoh secara berlebihan | Variatif | Masa *cooldown* akan bergantung pada derajat pelanggaran dan riwayat akun |
+| Melakukan kecurangan/saling berbagi akun (*account sharing*) pada pertandingan turnamen | 6 bulan | Banding yang diterima akan disertai dengan larangan berkompetisi di turnamen-turnamen resmi secara permanen serta penghapusan skor (*rollback*) yang dianggap sesuai |
 | Pelanggaran tingkat lanjut | 6 bulan | Boleh mengajukan banding, pengaturan kembali akun (secukupnya), larangan berkompetisi di turnamen selama 1 tahun untuk setiap pelanggaran |
