@@ -25,7 +25,7 @@ Apabila akunmu di-*restrict* karena kamu telah melanggar [peraturan yang berlaku
 
 Apabila akunmu di-*restrict* karena kamu memiliki lebih dari satu akun namun akun utama yang kamu miliki tidak di-*restrict*, kamu dapat tetap bermain di akun utama tersebut seperti biasa. Meskipun demikian, harap pastikan ke depannya kamu tidak kembali membuat atau menggunakan akun-akun lainnya karena tindakan ini dapat berujung pada sanksi-sanksi yang lebih berat.
 
-Apabila bandingmu dikabulkan namun akunmu kembali di-*restrict* sesaat setelah kamu kembali bermain, jangan panik! Hal ini kemungkinan disebabkan oleh sistem kami yang salah menandai akunmu sebagai akun yang mencurigakan. Jangan ragu untuk mengontak kami via email atau Twitter agar kami dapat memulihkan kembali akunmu dengan segera!
+Apabila bandingmu dikabulkan namun akunmu kembali di-*restrict* sesaat setelah kamu kembali bermain, jangan panik! Hal ini kemungkinan disebabkan oleh sistem kami yang salah menandai akunmu sebagai akun yang mencurigakan. Jangan ragu untuk mengontak kami via email atau Twitter agar kami dapat kembali memulihkan akunmu dengan segera!
 
 ## Mengapa akun saya di-*restrict*?
 
