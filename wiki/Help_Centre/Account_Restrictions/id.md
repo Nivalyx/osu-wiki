@@ -23,9 +23,9 @@ Apabila akunmu di-*restrict*, jangan panik. Harap ikuti langkah-langkah di bawah
 
 Apabila akunmu di-*restrict* karena kamu telah melanggar [peraturan yang berlaku](/wiki/Rules), kamu akan diberikan masa tunggu selama tiga bulan sebelum kamu dapat mengajukan banding.
 
-Apabila akunmu di-*restrict* karena kamu memiliki lebih dari satu akun namun akun utama yang kamu miliki tidak di-*restrict*, kamu dapat tetap bermain di akun utama tersebut sebagaimana pada umumnya. Meskipun demikian, pastikan ke depannya kamu tidak kembali membuat atau menggunakan akun-akun lainnya karena tindakan ini dapat berujung pada sanksi-sanksi yang lebih berat.
+Apabila akunmu di-*restrict* karena kamu memiliki lebih dari satu akun namun akun utama yang kamu miliki tidak di-*restrict*, kamu dapat tetap bermain di akun utama tersebut seperti biasa. Meskipun demikian, pastikan ke depannya kamu tidak kembali membuat atau menggunakan akun-akun lainnya karena tindakan ini dapat berujung pada sanksi-sanksi yang lebih berat.
 
-Jika pengajuan banding Anda baru saja dikabulkan namun akun Anda kembali di-restrict setelah bermain, jangan panik! Sistem mungkin telah salah menandai akun Anda secara otomatis, tetapi akun Anda tidak akan di-restrict lagi dalam kurun waktu 24 jam jika hal ini terbukti benar. Jangan ragu untuk mengirimkan kami email atau *tweet* di Twitter untuk menarik perhatian kami agar restriction akun dapat dicabut secepatnya!
+Apabila bandingmu dikabulkan namun akunmu kembali di-*restrict* sesaat setelah kamu kembali bermain, jangan panik! Sistem mungkin telah salah menandai akun Anda secara otomatis, tetapi akun Anda tidak akan di-restrict lagi dalam kurun waktu 24 jam jika hal ini terbukti benar. Jangan ragu untuk mengirimkan kami email atau *tweet* di Twitter untuk menarik perhatian kami agar restriction akun dapat dicabut secepatnya!
 
 ## Mengapa akun saya di-restrict?
 
