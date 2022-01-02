@@ -17,11 +17,11 @@ Berikut merupakan fitur-fitur yang tidak dapat diakses atau digunakan oleh para 
 
 Apabila akunmu di-*restrict*, jangan panik. Harap ikuti langkah-langkah di bawah ini:
 
-- **Tunggu 1x24 jam.** Dalam kasus-kasus tertentu, sistem kami akan secara otomatis me-*restrict* pengguna-pengguna yang aktivitasnya dianggap mencurigakan. Berhubung seluruh *restriction* yang ada akan diverifikasi kembali oleh tim kami kemudian, harap tunggu 24 jam - apabila *restriction* yang kamu peroleh memang benar adanya diakibatkan oleh kesalahan sistem, tim kami akan mencabut status *restriction* akunmu dalam kurun waktu tersebut.
+- **Tunggu 1x24 jam.** Dalam kasus-kasus tertentu, sistem kami akan secara otomatis me-*restrict* pengguna-pengguna yang aktivitasnya dianggap mencurigakan. Berhubung seluruh *restriction* yang ada akan diverifikasi kembali oleh tim kami kemudian, harap tunggu 1x24 jam — apabila *restriction* yang kamu peroleh memang benar adanya diakibatkan oleh kesalahan sistem, tim kami akan mencabut status *restriction* akunmu dengan segera.
 - **Hubungi [account support team](/wiki/People/The_Team/Account_support_team) kami.** Apabila akunmu masih tetap di-*restrict* setelah 1x24 jam, harap kirimi kami email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) **dengan menggunakan alamat email yang kamu gunakan untuk membuat akunmu**. Pastikan kamu menyertakan nama penggunamu dan rincian seputar hal-hal apa saja yang kamu curigai menyebabkan akunmu di-*restrict* dalam email yang kamu kirim. Semakin lengkap informasi yang kamu berikan, semakin mudah bagi kami untuk dapat menyelesaikan masalahmu.
 - Apabila menurutmu *restriction* yang kamu peroleh merupakan kekeliruan, harap hubungi kami secepatnya agar kasusmu dapat dibicarakan lebih lanjut.
 
-Apabila akunmu di-*restrict* karena kamu telah melanggar [peraturan yang berlaku](/wiki/Rules), akan diterapkan masa tunggu selama tiga bulan sebelum Anda diizinkan mengajukan banding.
+Apabila akunmu di-*restrict* karena kamu telah melanggar [peraturan yang berlaku](/wiki/Rules), kamu akan diberikan masa tunggu selama tiga bulan sebelum kamu dapat mengajukan banding.
 
 Jika akun asli Anda tidak di-restrict, Anda dapat masuk dan terus bermain seperti biasa. Tetapi pastikan untuk tidak masuk menggunakan akun lain yang Anda miliki, karena dapat berujung ke sanksi yang lebih berat.
 
