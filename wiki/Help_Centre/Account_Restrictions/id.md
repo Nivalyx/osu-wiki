@@ -64,7 +64,7 @@ Apabila kami memutuskan untuk memulihkan akunmu, kami akan memintamu untuk menye
 - **Kamu setuju bahwa kamu tidak lagi akan melanggar peraturan yang berlaku,** baik itu dalam bentuk melakukan kecurangan, saling berbagi akun (*account sharing*), ataupun yang lainnya.
 - **Kamu setuju bahwa kamu tidak lagi akan membuat akun-akun baru, baik untuk dirimu sendiri maupun orang lain.**
 - **Kamu setuju bahwa kamu tidak lagi akan membagi akses akunmu** termasuk bermain di komputer yang sama.
-- **Kamu setuju bahwa segala bentuk pelanggaran berat lainnya yang kamu lakukan ke depannya akan langsung mengakibatkan akunmu kembali di-*restrict*,** yang meliputi *silence* tingkat lanjut.
+- **Kamu setuju bahwa segala pelanggaran berat lainnya yang kamu lakukan ke depannya akan langsung mengakibatkan akunmu kembali di-*restrict*,** yang meliputi *silence* tingkat lanjut.
 
 Selain itu, untuk jangka waktu satu tahun, kami tidak akan mengabulkan permintaan pengubahan bendera yang berada pada akun Anda.
 
