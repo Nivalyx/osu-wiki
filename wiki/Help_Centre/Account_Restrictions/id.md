@@ -10,7 +10,7 @@ Berikut merupakan fitur-fitur yang tidak dapat diakses atau digunakan oleh para 
 - pengiriman pesan pribadi (*private message*)
 - pembuatan postingan forum atau komentar baru
 - pengunggahan beatmap
-- pembaruan detail profil
+- penyuntingan profil
 - pembelian produk-produk osu!store
 
 ## Akun saya telah di-*restrict*! Apa yang harus saya lakukan?
