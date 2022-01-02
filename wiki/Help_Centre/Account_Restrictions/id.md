@@ -7,11 +7,11 @@ Ketika seorang pengguna di-*restrict*, pengguna tersebut tidak akan dapat berint
 Berikut merupakan fitur-fitur yang tidak dapat diakses atau digunakan oleh para pengguna yang di-*restrict*:
 
 - *in-game chat*
-- pesan pribadi
-- posting dalam forum atau bagian komentar
-- mengunggah atau memperbarui beatmap
-- perbaruan detail profil
-- pembelian di osu!store
+- pengiriman pesan pribadi (*private message*)
+- pengiriman forum atau bagian komentar
+- pengunggahan beatmap
+- pembaruan detail profil
+- pembelian produk-produk osu!store
 
 ## Akun saya telah di-*restrict*! Apa yang harus saya lakukan?
 
