@@ -4,9 +4,9 @@
 
 Ketika seorang pengguna di-*restrict*, pengguna tersebut tidak akan dapat berinteraksi dengan para anggota komunitas lainnya hingga status *restriction* mereka dicabut. Para pengguna yang sedang di-*restrict* masih akan dapat bermain, mengunduh beatmap, dan mengirimkan skor sebagaimana pada umumnya, namun laman profil mereka tidak akan dapat dilihat oleh siapapun kecuali diri mereka sendiri.
 
-Berikut merupakan fitur-fitur yang dinonaktifkan untuk akun yang ter-restrict:
+Berikut merupakan fitur-fitur yang tidak dapat diakses atau digunakan oleh para pengguna yang sedang di-*restrict*:
 
-- obrolan dalam game
+- *in-game chat*
 - pesan pribadi
 - posting dalam forum atau bagian komentar
 - mengunggah atau memperbarui beatmap
