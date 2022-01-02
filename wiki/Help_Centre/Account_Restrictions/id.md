@@ -48,7 +48,7 @@ Apabila kamu terbukti melakukan sesuatu yang dapat menyebabkan akunmu di-*restri
 
 ## Masa *cooldown* saya telah usai. Bagaimana caranya agar saya dapat mengajukan banding?
 
-Kamu dapat mengajukan banding dengan cara mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan melampirkan nama pengguna akunmu. Pastikan kamu hanya mengirim pengajuan banding dari alamat email yang terkait dengan akun osu! milikmu. Setelah kamu mengajukan banding, tim kami akan menjawab banding tersebut dalam kurun waktu satu minggu. Jika Anda belum menerima jawaban yang pasti setelah satu minggu telah terlewati, harap hubungi kami lebih lanjut melalui Twitter atau email — ada kemungkinan kami belum menerimanya.
+Kamu dapat mengajukan banding dengan cara mengirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dan melampirkan nama pengguna akunmu. Pastikan kamu hanya mengirim pengajuan banding dari alamat email yang terkait dengan akun osu! milikmu. Setelah kamu mengajukan banding, tim kami akan menjawab banding tersebut dalam kurun waktu satu minggu. Jika Anda belum menerima jawaban yang pasti setelah satu minggu telah terlewati, harap hubungi kami lebih lanjut melalui Twitter atau email — bisa jadi bandingmu .
 
 Dalam pesan banding yang kamu kirim, harap sertakan hal-hal berikut:
 
@@ -86,7 +86,7 @@ Ada beberapa alasan mengapa banding Anda dapat ditolak.
 - **Anda terus melanggar peraturan saat di-restrict.** Kami tidak memiliki alasan untuk mencabut restriction seseorang yang terus melanggar peraturan bahkan setelah di-restrict. Jika Anda terus melanggar peraturan, masa tunggu untuk akun Anda akan diatur ulang mengikuti pelanggaran terakhir Anda. Dalam kasus pelanggaran yang sangat berat atau berkelanjutan, banding Anda mungkin akan ditolak secara permanen.
 - **Riwayat Anda terlalu parah.** Dalam kasus pelanggaran yang sangat berat, atau pemain yang di-restrict lagi setelah mereka sebelumnya bebas dan pengajuan banding mereka berhasil, kami mungkin hanya dapat menyatakan bahwa sejarah akun Anda terlalu berat untuk bergabung kembali ke dalam permainan saat ini. Jika ini berlaku untuk Anda, sebaiknya tunggu **dalam jangka waktu yang panjang** sebelum mengajukan banding lagi, dan pastikan Anda tidak melanggar aturan lebih lanjut selama kurun waktu tersebut.
 
-## Alasan restriction umum dan masa tunggunya
+## Penyebab-penyebab umum *restriction* dan masa *cooldown*-nya masing-masing
 
 | Alasan restriction | Durasi masa tunggu | Catatan banding |
 | :-- | :-- | :-- |
