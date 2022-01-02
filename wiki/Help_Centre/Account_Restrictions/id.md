@@ -88,7 +88,7 @@ Ada beberapa alasan mengapa banding Anda dapat ditolak.
 
 ## Penyebab-penyebab umum *restriction* dan masa *cooldown*-nya masing-masing
 
-| Alasan restriction | Durasi masa tunggu | Catatan banding |
+| Penyebab *restriction* | Masa *cooldown* | Catatan |
 | :-- | :-- | :-- |
 | Kesalahan Penilaian | Tidak ada masa tunggu | Jika terjadi kesalahan, tidak berdampak apa-apa pada akun. |
 | Pembuatan akun ganda | Permanen (untuk akun ganda) | Akun utama akan dibiarkan tidak dikenakan restriction, mungkin dikenakan *silence*. |
