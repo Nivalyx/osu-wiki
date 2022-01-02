@@ -36,7 +36,7 @@ Ada beberapa alasan umum yang dapat menyebabkan akun seseorang di-*restrict*.
 - **Kamu telah bertindak curang.** Penggunaan program-program ilegal seperti *macro* dan lain sebagainya yang dapat membuat permainan menjadi tidak adil merupakan tindakan yang tidak dibenarkan, dan kami tidak akan sungkan untuk langsung me-*restrict* siapapun yang tertangkap basah menggunakan program-program yang demikian.
 - **Alasan-alasan lainnya.** Tim kami berhak untuk me-*restrict* para pengguna yang telah melakukan sesuatu yang dirasa pantas untuk dijatuhi hukuman *restriction* walaupun tindakannya tidak termasuk ke dalam contoh-contoh di atas.
 
-Apabila  yang di-*restrict* kesalahannya terbukti, kami akan meminta pengguna untuk menunggu beberapa saat sebelum mengajukan banding mereka. Hal ini dinamakan *cooldown*, dan durasinya bervariasi tergantung pada pelanggaran yang dilakukan.
+Apabila kamu terbukti melakukan sesuatu yang dapat menyebabkan akunmu di-*restrict*, kami akan memintamu untuk menunggu beberapa saat sebelum kamu dapat mengajukan banding lebih lanjut. Rentang waktu ini dinamakan *cooldown*, yang durasinya bervariasi tergantung pada seberapa berat pelanggaran yang kamu lakukan.
 
 ## Apa-apa saja yang dapat saya lakukan sambil menunggu waktu pengajuan banding saya?
 
