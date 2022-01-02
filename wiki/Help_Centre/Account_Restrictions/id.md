@@ -57,7 +57,7 @@ Dalam pesan banding yang kamu kirim, harap sertakan hal-hal berikut:
 - **Bagaimana kamu memperoleh sarana untuk melakukan pelanggaran-pelanggaran tersebut.** Poin ini pada umumnya berlaku untuk kasus-kasus kecurangan — kami ingin tahu program-program apa saja yang kamu gunakan, dari mana kamu mengunduhnya, dan apakah program-program tersebut masih terpasang pada komputermu.
 - **Mengapa kami perlu memulihkan akunmu kembali.** Dalam sebagian besar kasus, hal ini terkait dengan poin kedua. Kami hanya ingin memastikan bahwa Anda tidak akan melanggar peraturan lagi! Harap mengerti bahwa semakin banyak pelanggaran aturan dalam riwayat akun Anda, semakin banyak yang kami harapkan dari Anda pada bagian ini dalam pengajuan banding.
 
-## Bagaimana jika banding saya dikabulkan?
+## Apa yang harus saya lakukan apabila banding saya dikabulkan?
 
 Jika kami memutuskan untuk membiarkan Anda kembali, Anda harus menyanggupi beberapa ketentuan sebelum kami melepaskan restriction akun Anda.
 
