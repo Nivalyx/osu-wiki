@@ -78,7 +78,7 @@ Pada pelanggaran-pelanggaran tertentu, skor-skor yang sebelumnya pernah kamu tor
 
 ## Banding saya ditolak!
 
-Ada beberapa alasan yang membuat bandingmu dapat kami tolak.
+Ada beberapa alasan yang dapat membuat kami menolak banding yang kamu ajukan.
 
 - **Kamu mengajukan bandingmu terlalu dini.** Apabila masa *cooldown* akunmu belum usai, banding yang kamu kirimkan akan otomatis kami tolak. Apabila kamu tidak ingat kapan masa *cooldown* akunmu akan usai, harap hubungi tim kami melalui email — kami akan dengan senang hati memberitahukanmu kapan kamu akan mulai dapat mengajukan banding.
 - **Banding yang kamu ajukan tidak memadai atau tidak lengkap.** Apabila banding Anda kurang mencakup empat hal yang kami terakan di atas, kami akan memintamu untuk memberikan keterangan yang lebih lengkap. Hal ini **tidak** akan mengatur ulang masa *cooldown* akunmu, dan kamu akan tetap dapat mengirim banding baru kapan saja. Meskipun demikian, apabila kamu mencoba untuk berbohong atau menyembunyikan pelanggaran-pelanggaran tertentu, bandingmu akan otomatis kami tolak dan masa *cooldown* akunmu akan kembali diatur menjadi tiga bulan. Pastikan kamu telah belajar dari kesalahan yang kamu perbuat.
