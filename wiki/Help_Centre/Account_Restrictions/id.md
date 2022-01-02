@@ -61,7 +61,7 @@ Dalam pesan banding yang kamu kirim, harap sertakan hal-hal berikut:
 
 Apabila kami memutuskan untuk memulihkan akunmu, kami akan memintamu untuk menyetujui ketentuan-ketentuan berikut sebelum status *restriction*-mu kami angkat.
 
-- **Kamu setuju bahwa kamu tidak lagi akan melanggar peraturan,** baik itu dalam bentuk melakukan kecurangan, saling berbagi akun (*account sharing*), ataupun yang lainnya.
+- **Kamu setuju bahwa kamu tidak lagi akan melanggar peraturan yang berlaku,** baik itu dalam bentuk melakukan kecurangan, saling berbagi akun (*account sharing*), ataupun yang lainnya.
 - **Kamu setuju bahwa kamu tidak lagi akan membuat akun-akun baru, baik untuk dirimu sendiri maupun orang lain.**
 - **Kamu setuju bahwa kamu tidak lagi akan membagi akses akunmu** termasuk bermain di komputer yang sama.
 - **Kamu setuju bahwa segala bentuk pelanggaran berat lainnya yang kamu lakukan ke depannya akan langsung mengakibatkan akunmu kembali di-*restrict*,** yang meliputi *silence* tingkat lanjut.
