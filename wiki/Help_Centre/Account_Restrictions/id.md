@@ -59,14 +59,14 @@ Dalam pesan banding yang kamu kirim, harap sertakan hal-hal berikut:
 
 ## Apa yang harus saya lakukan apabila banding saya dikabulkan?
 
-Apabila kami memutuskan untuk memulihkan akunmu, kami akan memintamu untuk menyetujui ketentuan-ketentuan berikut sebelum status *restriction*-mu kami angkat.
+Apabila kami memutuskan untuk memulihkan akunmu, kami akan memintamu untuk menyetujui ketentuan-ketentuan berikut sebelum status *restriction* akunmu kami angkat.
 
 - **Kamu setuju bahwa kamu tidak lagi akan melanggar peraturan yang berlaku,** baik itu dalam bentuk melakukan kecurangan, saling berbagi akun (*account sharing*), ataupun yang lainnya.
 - **Kamu setuju bahwa kamu tidak lagi akan membuat akun-akun baru, baik untuk dirimu sendiri maupun orang lain.**
 - **Kamu setuju bahwa kamu tidak lagi akan membagi akses akunmu kepada siapapun,** termasuk kepada mereka yang dapat mengakses komputermu secara langsung.
 - **Kamu setuju bahwa segala pelanggaran berat lainnya yang kamu lakukan ke depannya akan langsung mengakibatkan akunmu kembali di-*restrict*,** yang meliputi *silence-silence* tingkat lanjut.
 
-Di samping itu, untuk jangka waktu satu tahun, kami tidak akan mengabulkan permintaan pengubahan bendera yang berada pada akun Anda.
+Di samping itu, dalam jangka waktu satu tahun terhitung sejak akunmu di-*unrestrict*, kami tidak akan mengabulkan permintaan pengubahan bendera yang kamu ajukan.
 
 Dalam beberapa kasus, seseorang yang baru dikabulkan aju bandingnya akan dilarang dari turnamen resmi dan turnamen komunitas yang menghadiahkan lencana, baik sebagai pesaing atau sebagai anggota tim turnamen. Durasi larangan ini adalah 1 tahun untuk setiap pelanggaran (jika pengguna telah mengajukan banding untuk kedua kalinya, larangan tersebut berlaku selama 2 tahun). Surel pelepasan restriction akan menjelaskan durasi larangan ini.
 
