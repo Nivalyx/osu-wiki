@@ -15,9 +15,9 @@ Berikut merupakan fitur-fitur yang tidak dapat diakses atau digunakan oleh para 
 
 ## Akun saya telah di-*restrict*! Apa yang harus saya lakukan?
 
-Jika akun Anda telah di-restrict, jangan panik. Silakan ikuti langkah-langkah di bawah ini:
+Jika akun Anda di-*restrict*, jangan panik. Harap ikuti langkah-langkah di bawah ini:
 
-- **Tunggu 1x24 jam.** Beberapa kasus restrict dilakukan otomatis oleh sistem. Karena kami memeriksa restriction terbaru setiap hari, harap tunggu 24 jam - jika restriction Anda merupakan kesalahan sistem, restrict akan dicabut dalam kurun waktu tersebut.
+- **Tunggu 1x24 jam.** Dalam kasus-kasus tertentu, sistem kami akan secara otomatis me-*restrict* pengguna-pengguna yang aktivitasnya dianggap mencurigakan. Karena kami memeriksa restriction terbaru setiap hari, harap tunggu 24 jam - jika restriction Anda merupakan kesalahan sistem, restrict akan dicabut dalam kurun waktu tersebut.
 - **Hubungi [tim dukungan akun](/wiki/People/The_Team/Account_support_team) kami.** Jika akun Anda tetap di-restrict setelah melewati 1x24 jam, silakan kirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) **menggunakan alamat email yang digunakan saat membuat akun Anda** untuk meminta rincian restriction Anda. Pastikan Anda memasukkan nama pengguna Anda, disertai dengan setiap rincian yang dapat Anda berikan mengenai apa yang mungkin membuat akun Anda di-restrict. Semakin banyak Anda memberi tahu kami, semakin mudah bagi kami untuk menyelesaikan masalah.
 - Jika menurut Anda restriction yang Anda terima merupakan kekeliruan, mohon hubungi kami secepatnya supaya kasus Anda bisa dibicarakan.
 
