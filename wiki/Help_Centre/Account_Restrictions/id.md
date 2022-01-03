@@ -99,7 +99,7 @@ Seluruh email yang masuk ke alamat ini akan dibaca dan dikaji lebih lanjut oleh 
 
 Harap dipahami bahwa dengan mengirimkan email ke alamat tersebut, vonis banding yang kamu terima tidak akan serta-merta berubah begitu saja. osu! berhak untuk menangguhkan hukuman yang dijatuhkan kepadamu sebelumnya apabila setelah dipelajari lebih lanjut kamu memang masih belum layak untuk diampuni.
 
-**We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
+**Kami hanya akan memproses permintaan peninjauan banding yang dikirim melalui email pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
 
 ## Penyebab-penyebab umum *restriction* dan masa *cooldown*-nya masing-masing
 
