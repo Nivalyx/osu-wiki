@@ -95,7 +95,7 @@ Apabila kamu merasa bahwa email-email yang kamu kirim tidak dibaca atau ditangga
 - Banding-banding sebelumnya yang telah kamu ajukan
 - Penjelasan singkat mengapa kamu merasa banding yang kamu ajukan tidak ditanggapi secara serius
 
-All emails sent to the appeal review address will be investigated by a third party that isn't involved in the day-to-day operations of the support team and flagged for revision or further review.
+Seluruh email yang masuk ke alamat ini akan dibaca dan dikaji lebih lanjut oleh pihak ketiga yang beroperasi secara terpisah dari account support team kami.
 
 Please understand that sending an email to this address only guarantees a second look/initial answer to your appeal, it does not guarantee a change in any outcome if you have been found to be violating the expectations involved in the appealing process.
 
