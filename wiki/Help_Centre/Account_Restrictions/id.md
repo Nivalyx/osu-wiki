@@ -88,18 +88,18 @@ Ada beberapa alasan yang dapat membuat kami menolak banding yang kamu ajukan.
 
 ## Email-email saya tidak dibalas / Saya tidak merasa banding yang saya ajukan dibalas sebagaimana mestinya
 
-In the event that you feel your emails are not being read or addressed properly by our support team, please send us a full email at appeal-review@ppy.sh containing the following information:
+In the event that you feel your emails are not being read or addressed properly by our support team, please send us a full email at [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) containing the following information:
 
-    How long you have been restricted for
-    The main reason why you think you've been restricted
-    Any previous appeals you've sent in that have been ignored/refused
-    A short summary of why you're unhappy with your appeal outcome (if applicable)
+- How long you have been restricted for
+- The main reason why you think you've been restricted
+- Any previous appeals you've sent in that have been ignored/refused
+- A short summary of why you're unhappy with your appeal outcome (if applicable)
 
 All emails sent to the appeal review address will be investigated by a third party that isn't involved in the day-to-day operations of the support team and flagged for revision or further review.
 
 Please understand that sending an email to this address only guarantees a second look/initial answer to your appeal, it does not guarantee a change in any outcome if you have been found to be violating the expectations involved in the appealing process.
 
-We will only respond to requests for appeal review/investigation via emails sent to appeal-review@ppy.sh. Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
+**We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
 
 ## Penyebab-penyebab umum *restriction* dan masa *cooldown*-nya masing-masing
 
