@@ -97,7 +97,7 @@ Apabila kamu merasa bahwa email-email yang kamu kirim tidak dibaca atau ditangga
 
 Seluruh email yang masuk ke alamat ini akan dibaca dan dikaji lebih lanjut oleh pihak ketiga yang tidak terhubung langsung dengan tim kami.
 
-Harap dipahami bahwa dengan mengirimkan email ke alamat tersebut, vonis banding yang kamu terima tidak akan serta-merta berubah begitu saja. osu! berhak untuk menangguhkan hukuman yang dijatuhkan kepadamu sebelumnya apabila setelah dipelajari lebih lanjut kamu memang masih belum layak untuk diampuni.
+Harap dipahami bahwa dengan mengirimkan email ke alamat tersebut, vonis banding yang kamu terima tidak akan serta-merta berubah begitu saja. osu! berhak untuk menangguhkan hukuman yang dijatuhkan kepadamu sebelumnya apabila setelah diperiksa lebih lanjut kamu memang masih belum layak untuk diampuni.
 
 **Kami hanya akan memproses permintaan-permintaan peninjauan banding (*appeal review*) yang dikirim melalui email pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Harap untuk tidak menghubungi para anggota account support team (atau tim-tim lainnya) yang bertugas secara pribadi terkait permintaan ini — mereka tidak memiliki wewenang untuk membantumu.
 
