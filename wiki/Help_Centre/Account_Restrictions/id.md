@@ -86,7 +86,7 @@ Ada beberapa alasan yang dapat membuat kami menolak banding yang kamu ajukan.
 - **Kamu tetap melanggar peraturan yang berlaku walaupun akunmu telah di-*restrict*.** Kami tidak memiliki alasan untuk mengampuni seseorang yang tetap melanggar peraturan bahkan ketika mereka telah di-*restrict*. Apabila kamu terus-menerus berperilaku buruk, masa *cooldown* akunmu akan diatur ulang sesuai dengan waktu pelanggaran terakhir yang kamu lakukan. Apabila kamu telah melakukan pelanggaran yang sangat berat atau berkelanjutan, banding yang kamu ajukan mungkin akan ditolak secara permanen.
 - **Riwayat pelanggaranmu sudah terlampau parah.** Demi kenyamanan bersama, kami berhak untuk menolak banding dari para pengguna yang langsung kembali melanggar setelah akun mereka di-*unrestrict* serta yang riwayat pelanggarannya sudah terlampau parah. Apabila kamu termasuk ke dalam golongan pengguna yang demikian, kami menyarankanmu untuk **terlebih dahulu menunggu beberapa waktu** sebelum kamu mengajukan banding baru.
 
-## Email-email saya tidak dibalas / Saya tidak merasa banding yang saya ajukan ditangani sebagaimana mestinya
+## Email-email saya tidak dibalas / Saya tidak merasa banding yang saya ajukan ditangani secara adil
 
 In the event that you feel your emails are not being read or addressed properly by our support team, please send us a full email at [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) containing the following information:
 
