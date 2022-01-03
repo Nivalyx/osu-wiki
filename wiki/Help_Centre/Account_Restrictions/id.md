@@ -88,7 +88,7 @@ Ada beberapa alasan yang dapat membuat kami menolak banding yang kamu ajukan.
 
 ## Email-email saya tidak dibalas / Saya merasa banding yang saya ajukan tidak ditanggapi secara serius
 
-Apabila kamu merasa bahwa email-email yang kamu kirim tidak dibaca atau ditanggapi secara serius oleh tim kami, harap kirimi kami email pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) yang menerakan informasi-informasi berikut:
+Apabila kamu merasa bahwa email-email yang kamu kirim tidak dibaca atau ditanggapi secara serius oleh tim kami, harap kirimi kami email pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) dengan informasi-informasi berikut:
 
 - Sudah berapa lama kamu di-*restrict*
 - Alasan utama yang menyebabkan kamu di-*restrict*
