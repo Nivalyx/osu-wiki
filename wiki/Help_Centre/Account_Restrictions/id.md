@@ -86,14 +86,14 @@ Ada beberapa alasan yang dapat membuat kami menolak banding yang kamu ajukan.
 - **Kamu tetap melanggar peraturan yang berlaku walaupun akunmu telah di-*restrict*.** Kami tidak memiliki alasan untuk mengampuni seseorang yang tetap melanggar peraturan bahkan ketika mereka telah di-*restrict*. Apabila kamu terus-menerus berperilaku buruk, masa *cooldown* akunmu akan diatur ulang sesuai dengan waktu pelanggaran terakhir yang kamu lakukan. Apabila kamu telah melakukan pelanggaran yang sangat berat atau berkelanjutan, banding yang kamu ajukan mungkin akan ditolak secara permanen.
 - **Riwayat pelanggaranmu sudah terlampau parah.** Demi kenyamanan bersama, kami berhak untuk menolak banding dari para pengguna yang langsung kembali melanggar setelah akun mereka di-*unrestrict* serta yang riwayat pelanggarannya sudah terlampau parah. Apabila kamu termasuk ke dalam golongan pengguna yang demikian, kami menyarankanmu untuk **terlebih dahulu menunggu selama beberapa waktu** sebelum kamu mengajukan banding baru.
 
-## Email-email saya tidak dibalas / Saya tidak merasa banding yang saya ajukan ditangani secara adil
+## Email-email saya tidak dibalas / Saya merasa banding yang saya ajukan tidak ditanggapi secara serius
 
-Apabila kamu merasa bahwa email-email yang kamu kirim tidak dibaca atau ditanggapi secara serius oleh tim kami, harap kirimi kami email pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) yang mengandung informasi-informasi berikut:
+Apabila kamu merasa bahwa email-email yang kamu kirim tidak dibaca atau ditanggapi secara serius oleh tim kami, harap kirimi kami email pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) yang menerakan informasi-informasi berikut:
 
-- How long you have been restricted for
-- The main reason why you think you've been restricted
-- Any previous appeals you've sent in that have been ignored/refused
-- A short summary of why you're unhappy with your appeal outcome (if applicable)
+- Sudah berapa lama kamu di-*restrict*
+- Alasan utama yang menyebabkan kamu di-*restrict*
+- Banding-banding sebelumnya yang telah kamu ajukan
+- Penjelasan singkat mengapa kamu merasa banding yang kamu ajukan tidak ditanggapi secara serius
 
 All emails sent to the appeal review address will be investigated by a third party that isn't involved in the day-to-day operations of the support team and flagged for revision or further review.
 
