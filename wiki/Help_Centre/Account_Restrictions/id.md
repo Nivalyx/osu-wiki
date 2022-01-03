@@ -88,7 +88,7 @@ Ada beberapa alasan yang dapat membuat kami menolak banding yang kamu ajukan.
 
 ## Email-email saya tidak dibalas / Saya merasa banding yang saya ajukan tidak ditanggapi secara serius
 
-Apabila kamu merasa bahwa email-email yang kamu kirim tidak dibaca atau ditanggapi secara serius oleh tim kami, harap kirimi kami email pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) dengan informasi-informasi berikut:
+Apabila kamu merasa bahwa email-email yang kamu kirim tidak dibaca atau ditanggapi secara serius oleh tim kami, harap kirimi kami email pengajuan banding (*appeal review*) pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) yang berisi informasi-informasi berikut:
 
 - Sudah berapa lama kamu di-*restrict*
 - Alasan utama yang menyebabkan kamu di-*restrict*
@@ -99,7 +99,7 @@ Seluruh email yang masuk ke alamat ini akan dibaca dan dikaji lebih lanjut oleh 
 
 Harap dipahami bahwa dengan mengirimkan email ke alamat tersebut, vonis banding yang kamu terima tidak akan serta-merta berubah begitu saja. osu! berhak untuk menangguhkan hukuman yang dijatuhkan kepadamu sebelumnya apabila setelah dipelajari lebih lanjut kamu memang masih belum layak untuk diampuni.
 
-**Kami hanya akan memproses permintaan peninjauan banding yang dikirim melalui email pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
+**Kami hanya akan memproses permintaan peninjauan banding (*appeal review*) yang dikirim melalui email pada alamat [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
 
 ## Penyebab-penyebab umum *restriction* dan masa *cooldown*-nya masing-masing
 
