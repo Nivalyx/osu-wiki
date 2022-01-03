@@ -95,9 +95,11 @@ Apabila kamu merasa bahwa email-email yang kamu kirim tidak dibaca atau ditangga
 - Banding-banding sebelumnya yang telah kamu ajukan
 - Penjelasan singkat mengapa kamu merasa banding yang kamu ajukan tidak ditanggapi secara serius
 
-Seluruh email yang masuk ke alamat ini akan dibaca dan dikaji lebih lanjut oleh pihak ketiga yang beroperasi secara terpisah dari account support team kami.
+Seluruh email yang masuk ke alamat ini akan dibaca dan dikaji lebih lanjut oleh pihak ketiga yang tidak terhubung langsung dengan tim kami.
 
 Please understand that sending an email to this address only guarantees a second look/initial answer to your appeal, it does not guarantee a change in any outcome if you have been found to be violating the expectations involved in the appealing process.
+
+Harap dipahami bahwa dengan mengirimkan email ke alamat tersebut, vonis banding yang kamu terima tidak akan serta-merta berubah begitu saja. 
 
 **We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
 
