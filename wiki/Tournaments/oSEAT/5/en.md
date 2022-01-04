@@ -327,8 +327,16 @@ Tuesday, 21 December 2021:
 
 Wednesday, 22 December 2021:
 
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **6** | 1 | ![][flag_TH] [- Seen -](https://osu.ppy.sh/users/5082392) | [#1](https://osu.ppy.sh/community/matches/95544649) |
 | Upper | **[Demonical](https://osu.ppy.sh/users/5447609)** ![][flag_SG] | **6** | 4 | ![][flag_PH] [BronyPH 2](https://osu.ppy.sh/users/7246165) | [#1](https://osu.ppy.sh/community/matches/95554487) |
+
+Friday, 24 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[DuoX](https://osu.ppy.sh/users/9560694)** ![][flag_MY] | **6** | 2 | ![][flag_PH] [-Graigory-](https://osu.ppy.sh/users/14024170) | [#1](https://osu.ppy.sh/community/matches/95633497) |
 
 ### Round of 64
 
