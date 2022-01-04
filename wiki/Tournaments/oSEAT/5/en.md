@@ -318,6 +318,17 @@ Saturday, 1 January 2022:
 | Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **6** | 2 | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | [#1](https://osu.ppy.sh/community/matches/95976122) |
 | Lower | [\[sin\]](https://osu.ppy.sh/users/11021073) ![][flag_VN] | 0 | **6** | ![][flag_PH] **[xidorn](https://osu.ppy.sh/users/7904667)** | *win by default* |
 
+Sunday, 2 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **6** | 1 | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | [#1](https://osu.ppy.sh/community/matches/96008596) |
+| Upper | **[NathanRammu2044](https://osu.ppy.sh/users/8472976)** ![][flag_PH] | **6** | 1 | ![][flag_TH] [Salvotore](https://osu.ppy.sh/users/3394696) | [#1](https://osu.ppy.sh/community/matches/96014696) |
+| Lower | **[ChaiPhukChep](https://osu.ppy.sh/users/9723127)** ![][flag_TH] | **6** | 1 | ![][flag_TH] [- Seen -](https://osu.ppy.sh/users/5082392) | [#1](https://osu.ppy.sh/community/matches/96017085) |
+| Upper | **[Tebi](https://osu.ppy.sh/users/5407620)** ![][flag_SG] | **6** | 0 | ![][flag_SG] [Picon](https://osu.ppy.sh/users/8447637) | [#1](https://osu.ppy.sh/community/matches/96011378) |
+| Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **6** | 2 | ![][flag_TH] [-Kedama](https://osu.ppy.sh/users/12147277) | [#1](https://osu.ppy.sh/community/matches/96014494) |
+| Lower | [xidorn](https://osu.ppy.sh/users/7904667) ![][flag_PH] | 4 | **6** | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | [#1](https://osu.ppy.sh/community/matches/96011244) |
+
 ### Round of 32
 
 Thursday, 16 December 2021:
