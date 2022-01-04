@@ -304,6 +304,12 @@ Thursday, 30 December 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[SkyArrow](https://osu.ppy.sh/users/4039647)** ![][flag_VN] | **6** | 3 | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/95890516) |
 
+Friday, 31 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [GSBlank](https://osu.ppy.sh/users/2312106) ![][flag_SG] | 5 | **6** | ![][flag_SG] **[Dawnwing](https://osu.ppy.sh/users/5144534)** | [#1](https://osu.ppy.sh/community/matches/95939182) |
+
 ### Round of 32
 
 Thursday, 16 December 2021:
