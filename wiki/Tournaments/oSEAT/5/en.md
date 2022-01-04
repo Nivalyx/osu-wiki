@@ -270,6 +270,18 @@ Thursday, 21 December 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[konawiki](https://osu.ppy.sh/users/4003979)** ![][flag_PH] | **6** | 0 | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | *win by default* |
 
+Saturday, 25 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [-TwiHD](https://osu.ppy.sh/users/5470299) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[DeathAdderz](https://osu.ppy.sh/users/7457788)** | [#1](https://osu.ppy.sh/community/matches/95676962) |
+| Lower | **[megumic](https://osu.ppy.sh/users/4003979)** ![][flag_SH] | **6** | 0 | ![][flag_MY] [Houshou Marine](https://osu.ppy.sh/users/6402211) | *win by default* |
+
+Sunday, 26 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+
 ### Round of 32
 
 Thursday, 16 December 2021:
