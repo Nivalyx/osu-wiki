@@ -344,6 +344,12 @@ Saturday, 25 December 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [Hecatia](https://osu.ppy.sh/users/8244635) ![][flag_SG] | 5 | **6** | ![][flag_SG] **[Houshou Marine](https://osu.ppy.sh/users/6402211)** | [#1](https://osu.ppy.sh/community/matches/95671535) |
 
+Sunday, 26 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Rammu](https://osu.ppy.sh/users/10652837)** ![][flag_MY] | **6** | 5 | ![][flag_TH] [ChaiPhukChep](https://osu.ppy.sh/users/9723127) | [#1](https://osu.ppy.sh/community/matches/95715871) |
+
 ### Round of 64
 
 Friday, 10 December 2021:
