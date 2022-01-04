@@ -127,11 +127,12 @@ Listed below are players who qualified into the Preliminary groups (along with t
 - DoubleTime
   1. [Printemps - Eien Friends (Sakaue Nachi) \[Friends\]](https://osu.ppy.sh/beatmapsets/235836#osu/546514)
   2. [zts - miragecoordinator (Tsumugi-chan) \[Collab Expert\]](https://osu.ppy.sh/beatmapsets/1085924#osu/2270798)
-  3. [ZUTOMAYO - STUDY ME (GIDZ) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1353446#osu/2911090)
+  3. [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#osu/76612)
+  4. [Rigel Theatre - SPIKA (Lunala) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/993379#osu/2077290)
 - FreeMod
-  1. [Rohi - LvC3 (VINXIS) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/1231655#osu/2560356)
-  2. [La priere - Senjou no Utahime (Hinsvar) \[Valkyrie\]](https://osu.ppy.sh/beatmapsets/1398580#osu/2885693)
-  3. [M2U - A Bella! (feat. Lucy) (rollpan) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/1517567#osu/3106686)
+  1. [KAMELOT - Vespertine (My Crimson Bride) (LMT) \[ar9.3\]](https://osu.ppy.sh/beatmapsets/1000057#osu/3401158)
+  2. [A.SAKA - Nanatsu Koyoto (My Angel Watame) \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1618445)
+  3. [senya - Kimiiro Subliminal (AtHeoN) \[Satellite\]](https://osu.ppy.sh/beatmapsets/418398#osu/1031948)
 
 ### Round of 16
 
