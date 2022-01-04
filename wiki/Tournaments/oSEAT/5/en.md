@@ -316,6 +316,7 @@ Saturday, 1 January 2022:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[ChaiPhukChep](https://osu.ppy.sh/users/9723127)** ![][flag_TH] | **6** | 5 | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | [#1](https://osu.ppy.sh/community/matches/95974699) |
 | Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **6** | 2 | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | [#1](https://osu.ppy.sh/community/matches/95976122) |
+| Lower | [\[sin\]](https://osu.ppy.sh/users/11021073) ![][flag_VN] | 0 | **6** | ![][flag_PH] **[xidorn](https://osu.ppy.sh/users/7904667)** | *win by default* |
 
 ### Round of 32
 
