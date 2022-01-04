@@ -298,6 +298,12 @@ Monday, 27 December 2021:
 | Lower | **[dlwlrma-](https://osu.ppy.sh/users/7908994)** ![][flag_SG] | **6** | 3 | ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462) | [#1](https://osu.ppy.sh/community/matches/95754979) |
 | Lower | **[- Seen -](https://osu.ppy.sh/users/5082392)** ![][flag_TH] | **6** | 3 | ![][flag_SG] [RePeaTT](https://osu.ppy.sh/users/11132323) | [#1](https://osu.ppy.sh/community/matches/95758935) |
 
+Thursday, 30 December 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[SkyArrow](https://osu.ppy.sh/users/4039647)** ![][flag_VN] | **6** | 3 | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/95890516) |
+
 ### Round of 32
 
 Thursday, 16 December 2021:
