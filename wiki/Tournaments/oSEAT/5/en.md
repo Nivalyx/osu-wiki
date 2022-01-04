@@ -310,6 +310,13 @@ Friday, 31 December 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | [GSBlank](https://osu.ppy.sh/users/2312106) ![][flag_SG] | 5 | **6** | ![][flag_SG] **[Dawnwing](https://osu.ppy.sh/users/5144534)** | [#1](https://osu.ppy.sh/community/matches/95939182) |
 
+Saturday, 1 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[ChaiPhukChep](https://osu.ppy.sh/users/9723127)** ![][flag_TH] | **6** | 5 | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | [#1](https://osu.ppy.sh/community/matches/95974699) |
+| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **6** | 2 | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | [#1](https://osu.ppy.sh/community/matches/95976122) |
+
 ### Round of 32
 
 Thursday, 16 December 2021:
