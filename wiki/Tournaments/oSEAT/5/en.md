@@ -330,7 +330,7 @@ Sunday, 2 January 2022:
 | Lower | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **6** | 2 | ![][flag_TH] [-Kedama](https://osu.ppy.sh/users/12147277) | [#1](https://osu.ppy.sh/community/matches/96014494) |
 | Lower | [xidorn](https://osu.ppy.sh/users/7904667) ![][flag_PH] | 4 | **6** | ![][flag_SG] **[megumic](https://osu.ppy.sh/users/7537133)** | [#1](https://osu.ppy.sh/community/matches/96011244) |
 | Upper | [realshin](https://osu.ppy.sh/users/8006029) ![][flag_VN] | 2 | **6** | ![][flag_MY] **[Tzero](https://osu.ppy.sh/users/6088976)** | [#1](https://osu.ppy.sh/community/matches/96018764) |
-| Upper | [BronyPH](https://osu.ppy.sh/users/1492995) ![][flag_PH] | 0 | **6** | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | *win by default* |
+| Lower | [BronyPH](https://osu.ppy.sh/users/1492995) ![][flag_PH] | 0 | **6** | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | *win by default* |
 
 ### Round of 32
 
