@@ -332,6 +332,19 @@ Sunday, 2 January 2022:
 | Upper | [realshin](https://osu.ppy.sh/users/8006029) ![][flag_VN] | 2 | **6** | ![][flag_MY] **[Tzero](https://osu.ppy.sh/users/6088976)** | [#1](https://osu.ppy.sh/community/matches/96018764) |
 | Lower | [BronyPH](https://osu.ppy.sh/users/1492995) ![][flag_PH] | 0 | **6** | ![][flag_ID] **[Venta](https://osu.ppy.sh/users/11320627)** | *win by default* |
 
+Monday, 3 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[walle](https://osu.ppy.sh/users/8431549)** ![][flag_VN] | **6** | 1 | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) | [#1](https://osu.ppy.sh/community/matches/96052462) |
+| Lower | **[BronyPH 2](https://osu.ppy.sh/users/7246165)** ![][flag_PH] | **6** | 2 | ![][flag_ID] [DeathAdderz](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/96056048) |
+
+Tuesday, 4 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Demonical](https://osu.ppy.sh/users/5447609) ![][flag_SG] | 5 | **6** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/96057251) |
+
 ### Round of 32
 
 Thursday, 16 December 2021:
