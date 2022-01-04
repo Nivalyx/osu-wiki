@@ -121,9 +121,9 @@ Listed below are players who qualified into the Preliminary groups (along with t
   2. [siqlo - wholeheartedly (Feiri) \[Extra\]](https://osu.ppy.sh/beatmapsets/1439394#osu/3297831)
   3. [Kenshi Yonezu - MAD HEAD LOVE (Keqing) \[NEWTON'S LOVE INSANE\]](https://osu.ppy.sh/beatmapsets/1429536#osu/3205010)
 - HardRock
-  1. [ONE OK ROCK - One by One (Noob55) \[Kirishima-'s Extreme\]](https://osu.ppy.sh/beatmapsets/1183373#osu/2568117)
-  2. [Kanban Musume-tai - Suki de Sugoi ni Naritai na (Kyuuchie) \[Nagachienyuni's Caffeine Overdose\]](https://osu.ppy.sh/beatmapsets/1566547#osu/3198645)
-  3. [Tokoyami Towa - Palette (Restart Button) \[Expert\]](https://osu.ppy.sh/beatmapsets/1425822#osu/2935945)
+  1. [Hoshimachi Suisei - GHOST (Amateurre) \[Mayu's Extreme\]](https://osu.ppy.sh/beatmapsets/1432314#osu/2962189)
+  2. [Laur - Vindication (Cubby) \[Extra\]](https://osu.ppy.sh/beatmapsets/1580046#osu/3226352)
+  3. [Ian Taylor - Sea Shanty 2 (Kyshiro) \[Buying gf 10gp\]](https://osu.ppy.sh/beatmapsets/1484283#osu/3044046)
 - DoubleTime
   1. [Yonekura Chihiro - Be braver! (Shikibe Mayu) \[Shizurre's Insane\]](https://osu.ppy.sh/beatmapsets/1433072#osu/2950591)
   2. [Kola Kid - timer (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/1089084#osu/2277128)
