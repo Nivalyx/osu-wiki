@@ -4,9 +4,9 @@
 
 Harap laporkan.
 
-Apabila kamu sudah merasa tidak nyaman sampai-sampai kamu harus merujuk pada artikel ini, harap segera hubungi kami di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan rincian selengkap-lengkapnya seputar apa yang kamu alami.
+Apabila kamu merasa tidak nyaman sampai-sampai kamu harus merujuk pada artikel ini, harap segera hubungi kami di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan rincian selengkap-lengkapnya seputar apa yang kamu alami.
 
-Kami tidak memiliki toleransi terhadap perhatian atau rayuan seksual yang tidak diinginkan dalam komunitas ini.
+Kami tidak menoleransi segala bentuk tindakan atau rayuan seksual yang tidak diinginkan dalam komunitas ini.
 
 Alamat email penyalahgunaan kami hanya dapat diakses oleh dua orang berikut:
 
@@ -19,7 +19,7 @@ Segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan
 
 Lihat di bawah untuk mencari tahu apa yang harus dilakukan, tergantung di mana hal ini terjadi.
 
-### Dalam obrolan in-game
+### Dalam *in-game chat*
 
 Segera blokir pengguna tersebut dengan mengklik kanan username mereka dan memilih `Abaikan Pengguna`.
 
