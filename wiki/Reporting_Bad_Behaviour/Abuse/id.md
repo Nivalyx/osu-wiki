@@ -8,7 +8,7 @@ Apabila kamu merasa tidak nyaman sampai-sampai kamu harus merujuk pada artikel i
 
 Kami tidak menoleransi segala bentuk tindakan atau rayuan seksual yang tidak diinginkan dalam komunitas ini.
 
-Alamat email penyalahgunaan kami hanya akan dapat diakses oleh dua orang berikut:
+Alamat email penyalahgunaan di atas hanya dapat diakses oleh dua orang berikut:
 
 - [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!)
 - [Ephemeral](https://osu.ppy.sh/users/102335) (selaku manajer komunitas osu!)
