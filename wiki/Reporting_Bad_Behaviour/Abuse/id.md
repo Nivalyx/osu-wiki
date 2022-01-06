@@ -17,7 +17,7 @@ Selain kedua nama di atas, segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mail
 
 ## Seseorang membuat rayuan atau komentar seksual yang tidak sepantasnya terhadap saya!
 
-Harap ikuti instruksi-instruksi di bawah ini.
+Tergantung di mana hal ini terjadi, harap ikuti instruksi-instruksi di bawah ini.
 
 ### Dalam *in-game chat*
 
