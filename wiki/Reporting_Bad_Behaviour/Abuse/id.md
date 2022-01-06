@@ -37,9 +37,9 @@ Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mere
 
 Salin tautan postingan forum yang bersangkutan pada kolom *chat* yang muncul dan ceritakan kepada anggota GMT yang bersangkutan seputar apa yang terjadi. Mereka akan menghapus postingan tersebut untukmu sesegera mungkin.
 
-Di samping itu, kamu juga dapat melaporkan postingan tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>` pada *in-game chat*, di mana `<nama pengguna>` adalah nama pengguna yang berulah dan `<permasalahan>` adalah tautan ke post diikuti dengan penjelasan singkat. Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, harap ganti setiap spasi yang ada dengan garis bawah (`_`).
+Di samping itu, kamu juga dapat melaporkan postingan tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>` pada *in-game chat*, di mana `<nama pengguna>` adalah nama pengguna yang berulah dan `<permasalahan>` adalah tautan ke postingan yang bersangkutan beserta dengan penjelasan singkat seputar permasalahan yang ada. Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, harap ganti setiap spasi yang ada dengan garis bawah (`_`).
 
-Apabila postingan tersebut masih belum dihapus dalam jangka waktu yang wajar, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan informasi yang selengkap-lengkapnya.
+Apabila postingan tersebut masih belum dihapus dalam jangka waktu yang wajar, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
 ### Dalam server Discord publik yang terkait dengan osu!
 
