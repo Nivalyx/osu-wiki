@@ -31,7 +31,7 @@ Apabila kamu merasa bahwa komentar/rayuan tersebut sangat tidak pantas atau kamu
 
 Harap laporkan postingan tersebut kepada para anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) kami sesegera mungkin.
 
-Untuk dapat melapor, klik salah satu nama pengguna GMT yang tertera dalam laman tersebut. Hal ini akan membawamu ke laman profil mereka. Apabila kamu tidak yakin siapa yang harus diklik, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
+Untuk dapat melapor, klik salah satu nama pengguna GMT yang tertera dalam laman tersebut. Hal ini akan membawamu ke laman profil mereka. Apabila kamu tidak yakin siapa baiknya kamu lapor, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
 
 Apabila sudah, klik tombol dengan amplop di dalamnya yang berada tepat di bawah bendera negara pengguna. Ini akan membawa Anda ke layar obrolan.
 
