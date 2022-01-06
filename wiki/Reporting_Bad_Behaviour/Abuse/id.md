@@ -49,7 +49,7 @@ Setelahnya, harap laporkan kejadian ini kepada para administrator server yang pa
 
 Apabila kasusmu semakin bertambah parah seiring waktunya dan para administrator server terus-menerus mengacuhkan laporanmu, [harap laporkan kejadian yang kamu alami kepada tim Trust & Safety Discord melalui formulir berikut](https://dis.gd/request).
 
-Selain itu, jika Anda tahu nama pengguna osu! yang mengganggu Anda, silakan kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) yang berisi informasi sebanyak mungkin dan laporan akan segera diselidiki.
+Di samping itu, apabila kamu mengetahui akun osu! yang mengganggu Anda, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya. agar laporanmu dapat segera kami selidiki.
 
 ### Dalam akun Twitter yang tertaut pada laman profil pengguna
 
