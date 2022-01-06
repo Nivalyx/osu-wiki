@@ -4,7 +4,7 @@
 
 Harap laporkan.
 
-Apabila kamu merasa tidak nyaman sampai-sampai kamu harus merujuk pada artikel ini, harap segera hubungi kami melalui email pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan rincian yang selengkap-lengkapnya seputar apa yang kamu alami.
+Apabila kamu merasa tidak nyaman sampai-sampai kamu harus merujuk pada artikel ini, harap segera hubungi kami di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan rincian yang selengkap-lengkapnya seputar apa yang kamu alami.
 
 Kami tidak membenarkan segala bentuk tindakan atau rayuan seksual yang tidak diinginkan di dalam komunitas kami.
 
