@@ -57,7 +57,7 @@ Klik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang bermasalah
 
 Setelah itu, blokir atau bisukan (*mute*) pengguna yang bersangkutan dengan mengeklik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang sama melalui *browser* atau aplikasi Twitter milikmu. Lihat [panduan Twitter berikut](https://help.twitter.com/id/using-twitter/blocking-and-unblocking-accounts) untuk informasi lebih lanjut.
 
-Harap diingat bahwa para pengguna yang telah diblokir tidak akan lagi dapat melihat isi profil Twittermu ke depannya. Apabila kamu khawatir hal ini hanya akan memperburuk masalah, bisukan (*mute*) orang tersebut. Tindakan ini akan menghilangkan tweet-tweet mereka dari *timeline* Anda dan mencegah Anda melihat konten mereka lagi, namun mereka masih dapat melihat dan mengomentari semua tweet yang kamu kirimkan.
+Harap diingat bahwa para pengguna yang telah diblokir tidak akan lagi dapat melihat isi profil Twittermu ke depannya. Apabila kamu khawatir hal ini hanya akan memperburuk masalah, bisukan (*mute*) orang tersebut. Tindakan ini akan menghilangkan tweet-tweet mereka dari *timeline* Anda dan mencegah Anda melihat konten mereka lagi, namun mereka masih akan dapat melihat dan mengomentari seluruh tweet yang kamu kirimkan.
 
 Jika tweet tersebut berasal dari akun yang ditautkan ke profil pemain osu! melalui situs web kami (muncul di bawah avatar mereka dan tanggal bergabung, di samping ikon burung), silakan kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) yang berisi salinan tweet dalam bentuk gambar jika memungkinkan, dan informasi lain yang dapat Anda pikirkan.
 
