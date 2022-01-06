@@ -4,11 +4,11 @@
 
 Harap laporkan.
 
-Apabila kamu sudah merasa tidak nyaman hingga kamu merujuk pada artikel ini, harap kontak kami segera di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan detail selengkap-lengkapnya seputar apa yang kamu alami.
+Apabila kamu sudah merasa tidak nyaman hingga kamu merujuk pada artikel ini, harap segera hubungi kami segera di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan rincian selengkap-lengkapnya seputar apa yang kamu alami.
 
 Kami tidak memiliki toleransi terhadap perhatian atau rayuan seksual yang tidak diinginkan dalam komunitas ini.
 
-Email-email yang terkirim ke alamat tersebut hanya akan dapat dilihat oleh dua orang berikut:
+Alamat email penyalahgunaan kami hanya akan dapat dilihat oleh dua orang berikut:
 
 - [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!)
 - [Ephemeral](https://osu.ppy.sh/users/102335) (selaku manajer komunitas osu!)
