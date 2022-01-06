@@ -39,13 +39,13 @@ Salin tautan postingan forum yang bersangkutan pada kolom *chat* yang muncul dan
 
 Di samping itu, kamu juga dapat melaporkan postingan tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>` pada *in-game chat*, di mana `<nama pengguna>` adalah nama pengguna yang berulah dan `<permasalahan>` adalah tautan ke postingan yang bermasalah. Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, harap ganti seluruh spasi yang ada dengan garis bawah (`_`).
 
-Apabila postingan tersebut masih belum dihapus dalam jangka waktu yang wajar, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
+Apabila postingan tersebut masih belum juga dihapus dalam jangka waktu yang wajar, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
 ### Dalam server Discord publik yang terkait dengan osu!
 
-Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan memilih `Blokir` pada menu *drop-down* yang muncul.
+Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan memilih `Block` pada menu *drop-down* yang muncul.
 
-Setelah itu, hubungi administrator server dengan mencari seseorang di bagian paling atas dari daftar pengguna dan beri tahu mereka apa yang terjadi. Jika Anda tidak dapat mengetahui siapa yang merupakan administrator, cari seseorang dengan mahkota di samping namanya - mereka adalah pemilik server dan bertanggung jawab atas apa yang terjadi di dalamnya.
+Setelahnya, harap hubungi administrator server yang pada umumnya dapat ditemui pada bagian paling atas dari daftar pengguna dan beri tahu mereka apa yang terjadi. Jika Anda tidak dapat mengetahui siapa yang merupakan administrator, cari seseorang dengan mahkota di samping namanya - mereka adalah pemilik server dan bertanggung jawab atas apa yang terjadi di dalamnya.
 
 Jika penyalahgunaan ini berlanjut dan administrator tidak melakukan apa pun, [beri tahu tim Trust & Safety Discord dengan mengisi laporan](https://dis.gd/request).
 
