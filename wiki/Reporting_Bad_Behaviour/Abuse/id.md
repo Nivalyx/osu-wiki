@@ -51,7 +51,7 @@ Jika penyalahgunaan ini berlanjut dan administrator tidak melakukan apa pun, [be
 
 Selain itu, jika Anda tahu nama pengguna osu! yang mengganggu Anda, silakan kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) yang berisi informasi sebanyak mungkin dan laporan akan segera diselidiki.
 
-### Di Twitter yang ditautkan ke profil pengguna osu!
+### Dalam akun Twitter yang tertaut ke laman profil pengguna
 
 Klik tiga titik di kanan atas tweet dan klik 'Laporkan Tweet'. Pastikan untuk mengikuti petunjuk dan membacanya dengan cermat. Anda mungkin juga ingin membaca [Panduan Twitter mengenai melaporkan perilaku yang menghina](https://help.twitter.com/id/safety-and-security/report-abusive-behavior) untuk informasi lebih lanjut mengenai prosesnya.
 
