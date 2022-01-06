@@ -69,7 +69,7 @@ Apabila kamu ingin melampirkan suatu bukti (baik itu berupa *screenshot*, *chat 
 
 Kami akan memproses laporanmu dengan segera.
 
-## Seseorang yang saya kenal dilecehkan oleh anggota tim sukarelawan (NAT, GMT) namun mereka terlalu takut untuk angkat bicara!
+## Seseorang yang saya kenal dilecehkan oleh anggota tim sukarelawan (NAT, GMT), namun mereka terlalu takut untuk angkat bicara!
 
 Harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan segala informasi dan bukti yang kamu ketahui.
 
