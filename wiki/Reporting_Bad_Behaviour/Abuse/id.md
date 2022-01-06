@@ -25,7 +25,7 @@ Segera blokir pengguna tersebut dengan mengklik kanan *username* mereka dan memi
 
 Kamu juga harus segera melaporkan pengguna tersebut dengan mengklik tombol `Laporkan Pengguna` dan mengisi formulir yang tertera.
 
-Apabila kamu masih di bawah umur atau kamu merasa bahwa komentar/rayuan tersebut sudah sangat tidak pantas, harap kirimi kami email pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
+Apabila kamu masih di bawah umur atau kamu merasa bahwa komentar/rayuan tersebut sudah sangat tidak pantas, harap hubungi kami melalui email pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
 ### Dalam postingan publik pada forum osu!
 
@@ -63,7 +63,7 @@ Jika tweet tersebut berasal dari akun yang ditautkan ke profil pemain osu! melal
 
 ## Seorang anggota dari salah satu tim sukarelawan (NAT, GMT) mendekati/berbicara/bertindak secara tidak senonoh terhadap saya!
 
-Harap kirimi kami email pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya.
+Harap hubungi kami melalui email pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya.
 
 Jika sesuatu yang ingin Anda masukkan membuat Anda merasa malu, sensor saja. Ini termasuk tangkapan layar, log obrolan, apa pun yang dapat Anda lampirkan ke email.
 
