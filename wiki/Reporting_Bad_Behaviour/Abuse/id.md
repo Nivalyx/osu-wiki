@@ -23,7 +23,7 @@ Harap ikuti instruksi yang sesuai dengan lokasi tindak pelecehan yang kamu alami
 
 Segera blokir pengguna tersebut dengan mengklik kanan *username* mereka dan memilih `Abaikan Pengguna`.
 
-Kamu juga harus segera melaporkannya dengan mengklik tombol `Laporkan Pengguna` dan mengisi formulir yang tertera.
+Kamu juga harus segera melaporkan pengguna tersebut dengan mengklik tombol `Laporkan Pengguna` dan mengisi formulir yang tertera.
 
 Apabila kamu merasa bahwa komentar/rayuan tersebut sangat tidak pantas atau kamu masih di bawah umur, harap kirimi kami email pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
