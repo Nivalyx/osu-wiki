@@ -8,12 +8,12 @@ Apabila kamu sudah merasa tidak nyaman sampai-sampai kamu harus merujuk pada art
 
 Kami tidak memiliki toleransi terhadap perhatian atau rayuan seksual yang tidak diinginkan dalam komunitas ini.
 
-Alamat email penyalahgunaan kami hanya akan dapat dilihat oleh dua orang berikut:
+Alamat email penyalahgunaan kami hanya dapat diakses oleh dua orang berikut:
 
 - [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!)
 - [Ephemeral](https://osu.ppy.sh/users/102335) (selaku manajer komunitas osu!)
 
-Apa yang Anda kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dibagikan dengan orang lain selain kedua orang tersebut.
+Segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dibagikan dengan orang lain selain kedua orang tersebut.
 
 ## Seseorang membuat rayuan atau komentar seksual yang tidak pantas terhadap saya!
 
