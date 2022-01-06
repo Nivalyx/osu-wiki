@@ -35,9 +35,9 @@ Untuk mengirimkan laporanmu, klik salah satu nama GMT yang tertera pada laman te
 
 Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar pesan obrolan pribadi (*private message*) akan terbuka.
 
-Salin tautan postingan forum yang bersangkutan dan beri tahu GMT sedikit tentang apa yang terjadi. Mereka akan menghapus post tersebut untuk Anda sesegera mungkin.
+Salin tautan postingan forum yang bersangkutan pada kolom *chat* yang muncul dan ceritakan kepada anggota GMT yang bersangkutan seputar apa yang terjadi. Mereka akan menghapus postingan tersebut untukmu sesegera mungkin.
 
-Anda juga dapat melaporkan post tersebut dengan membuka game Anda dan mengetik `!report <orang> <masalah>`, di mana `<orang>` adalah nama pengguna yang menyebabkan masalah, dan `<masalah>` adalah tautan ke post diikuti dengan penjelasan singkat. Jika ada spasi pada nama pengguna tersebut, harap ganti dengan garis bawah (`_`).
+Di samping itu, kamu juga dapat melaporkan postingan tersebut dengan membuka game Anda dan mengetik `!report <orang> <masalah>`, di mana `<orang>` adalah nama pengguna yang menyebabkan masalah, dan `<masalah>` adalah tautan ke post diikuti dengan penjelasan singkat. Jika ada spasi pada nama pengguna tersebut, harap ganti dengan garis bawah (`_`).
 
 Jika post tersebut masih belum hilang dalam jangka waktu yang wajar, silakan kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) berisi informasi sebanyak mungkin.
 
