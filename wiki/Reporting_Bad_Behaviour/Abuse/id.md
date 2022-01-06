@@ -29,7 +29,7 @@ Apabila kamu merasa bahwa komentar/rayuan tersebut sangat tidak pantas atau kamu
 
 ### Dalam postingan publik pada forum osu!
 
-Harap laporkan postingan tersebut kepada para anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) sesegera mungkin.
+Harap laporkan postingan tersebut kepada para anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) kami sesegera mungkin.
 
 Untuk melakukannya, klik nama pengguna dari anggota GMT dalam daftar di halaman itu. Ini akan membawa Anda ke profil mereka. Jika Anda tidak yakin siapa yang harus diklik, gunakan saja [tautan ini](https://osu.ppy.sh/users/102335).
 
