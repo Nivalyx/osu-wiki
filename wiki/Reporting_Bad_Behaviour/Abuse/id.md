@@ -35,7 +35,7 @@ Untuk mengirimkan laporanmu, klik salah satu nama GMT yang tertera pada laman te
 
 Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar pesan obrolan pribadi (*private message*) akan terbuka.
 
-Salin tautan postingan forum yang bersangkutan pada kolom *chat* yang muncul dan ceritakan kepada anggota GMT yang bersangkutan seputar apa yang terjadi. Mereka akan menghapus postingan tersebut untukmu sesegera mungkin.
+Salin tautan postingan yang bermasalah tersebut pada kolom *chat* yang muncul dan ceritakan kepada anggota GMT yang bersangkutan seputar apa yang terjadi. Mereka akan menghapus postingan tersebut untukmu sesegera mungkin.
 
 Di samping itu, kamu juga dapat melaporkan postingan tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>` pada *in-game chat*, di mana `<nama pengguna>` merupakan nama pengguna yang berulah dan `<permasalahan>` merupakan tautan dan penjelasan singkat seputar postingan yang bermasalah. Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, harap ganti seluruh spasi yang ada dengan garis bawah (`_`).
 
