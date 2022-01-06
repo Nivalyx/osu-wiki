@@ -25,7 +25,7 @@ Segera blokir pengguna tersebut dengan mengklik kanan *username* mereka dan memi
 
 Kamu juga harus segera melaporkan pengguna tersebut dengan mengklik tombol `Laporkan Pengguna` dan mengisi formulir yang tertera.
 
-Apabila kamu masih di bawah umur atau kamu merasa bahwa komentar/rayuan tersebut sangat tidak pantas, harap kirimi kami email pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
+Apabila kamu masih di bawah umur atau kamu merasa bahwa komentar/rayuan tersebut sudah sangat tidak pantas, harap kirimi kami email pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
 ### Dalam postingan publik pada forum osu!
 
