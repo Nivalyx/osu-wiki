@@ -31,7 +31,7 @@ Apabila kamu masih di bawah umur atau kamu merasa bahwa komentar/rayuan tersebut
 
 Harap laporkan postingan tersebut kepada para anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (GMT) kami sesegera mungkin.
 
-Untuk mengirimkan laporanmu, klik salah satu nama pengguna GMT yang tertera pada daftar di atas. Hal ini akan membawamu ke laman profil mereka. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
+Untuk mengirimkan laporanmu, klik salah satu nama pengguna GMT yang tertera pada laman tersebut. Hal ini akan membawamu ke laman profil mereka. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
 
 Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar obrolan pribadi (*private message*) akan terbuka.
 
