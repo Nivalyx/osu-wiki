@@ -73,4 +73,6 @@ Kami akan memproses laporanmu dengan sungguh-sungguh.
 
 Harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan segala informasi dan bukti yang kamu ketahui.
 
+Apabila kamu tidak memiliki bukti apapun, atau apabila informasi yang kamu ketahui hanya berasal dari desas-desus yang beredar, harap tetap kirimkan kami email.
+
 Jika Anda tidak memiliki bukti apa pun, hanya cerita atau rumor yang Anda yakini cukup substansial untuk ditindaklanjuti, silakan kirim email kepada kami. Kami menanggapi keluhan seperti ini dengan sangat serius dan akan melihat setiap laporan secara mendalam.
