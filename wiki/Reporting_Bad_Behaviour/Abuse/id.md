@@ -61,7 +61,7 @@ Harap diingat bahwa para pengguna yang telah diblokir tidak akan lagi dapat meli
 
 Apabila tweet tersebut berasal dari akun Twitter yang tertaut pada laman profil osu! mereka masing-masing (yang terdapat di bawah avatar dan tanggal bergabung, di samping ikon burung), harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan salinan atau *screenshot* tweet yang bersangkutan serta informasi-informasi lain yang sekiranya dapay berguna.
 
-## Salah seorang anggota tim sukarelawan (NAT dan/atau GMT) telah mendekati/berbicara/bertindak secara tidak senonoh terhadap saya!
+## Salah seorang anggota tim sukarelawan (NAT dan/atau GMT) mendekati/berbicara/bertindak secara tidak senonoh terhadap saya!
 
 Harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya.
 
@@ -69,7 +69,7 @@ Apabila kamu ingin melampirkan suatu bukti (baik itu berupa *screenshot*, *chat 
 
 Kami akan memproses laporanmu dengan segera.
 
-## Seseorang yang saya kenal telah dilecehkan oleh salah seorang anggota tim sukarelawan (NAT dan/atau GMT), namun mereka terlalu takut untuk angkat bicara!
+## Seseorang yang saya kenal dilecehkan oleh salah seorang anggota tim sukarelawan (NAT dan/atau GMT), namun mereka terlalu takut untuk angkat bicara!
 
 Harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan segala informasi dan bukti yang kamu ketahui.
 
