@@ -39,7 +39,7 @@ Salin tautan postingan forum yang bersangkutan pada kolom *chat* yang muncul dan
 
 Di samping itu, kamu juga dapat melaporkan postingan tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>` pada *in-game chat*, di mana `<nama pengguna>` adalah nama pengguna yang berulah dan `<permasalahan>` adalah tautan ke postingan yang bermasalah. Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, harap ganti seluruh spasi yang ada dengan garis bawah (`_`).
 
-Apabila postingan tersebut masih belum juga dihapus dalam jangka waktu yang wajar, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
+Apabila postingan tersebut masih belum juga dihapus setelah sekian waktu, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
 ### Dalam server Discord publik yang terkait dengan osu!
 
