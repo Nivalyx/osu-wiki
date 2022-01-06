@@ -15,9 +15,9 @@ Alamat email penyalahgunaan di atas hanya dapat diakses oleh dua pengguna beriku
 
 Segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dapat diketahui oleh siapapun kecuali kedua pengguna tersebut.
 
-## Seseorang membuat rayuan atau komentar seksual yang tidak pantas terhadap saya!
+## Seseorang membuat rayuan atau komentar seksual yang tidak sepantasnya terhadap saya!
 
-Lihat di bawah untuk mencari tahu apa yang harus dilakukan, tergantung di mana hal ini terjadi.
+Harap baca instruksi-instruksi di bawah ini untuk mencari tahu apa yang harus dilakukan.
 
 ### Dalam *in-game chat*
 
