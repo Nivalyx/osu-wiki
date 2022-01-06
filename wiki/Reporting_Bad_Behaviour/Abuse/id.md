@@ -41,7 +41,7 @@ Anda juga dapat melaporkan post tersebut dengan membuka game Anda dan mengetik `
 
 Jika post tersebut masih belum hilang dalam jangka waktu yang wajar, silakan kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) berisi informasi sebanyak mungkin.
 
-### Di server publik Discord terkait osu!
+### Dalam server Discord publik yang terkait dengan osu!
 
 Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan memilih `Blokir` pada menu *drop-down* yang muncul.
 
