@@ -33,7 +33,7 @@ Harap laporkan postingan tersebut kepada para anggota [Global Moderation Team](/
 
 Untuk mengirimkan laporanmu, klik salah satu nama pengguna GMT yang tertera pada laman tersebut. Hal ini akan membawamu ke profil mereka. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
 
-Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Hal ini akan membawamu ke layar obrolan pribadi (*private message*).
+Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar obrolan pribadi (*private message*) akan terbuka.
 
 Salin tautan ke post forum yang berisi konten yang bermasalah dan beri tahu GMT sedikit tentang apa yang terjadi. Mereka akan menghapus post tersebut untuk Anda sesegera mungkin.
 
