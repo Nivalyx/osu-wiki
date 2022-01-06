@@ -45,7 +45,7 @@ Apabila postingan tersebut masih belum juga dihapus setelah sekian waktu, harap 
 
 Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan memilih `Block` pada menu *drop-down* yang muncul.
 
-Setelahnya, harap laporkan kejadian ini kepada para administrator server yang pada umumnya dapat ditemui pada bagian paling atas daftar pengguna. Apabila kamu tidak tahu siapa-siapa saja yang merupakan administrator server yang bersangkutan, cari seseorang yang memiliki logo mahkota di samping namanya — mereka adalah pemilik server yang secara tidak langsung bertanggung jawab atas apa-apa saja yang terjadi di dalamnya.
+Setelahnya, harap laporkan kejadian ini kepada para administrator server yang pada umumnya dapat ditemui pada bagian paling atas daftar pengguna. Apabila kamu tidak tahu siapa-siapa saja yang merupakan administrator server yang bersangkutan, cari seseorang yang memiliki logo mahkota di samping namanya — mereka adalah pemilik server yang secara langsung maupun tidak langsung bertanggung jawab atas apa-apa saja yang terjadi di dalamnya.
 
 Apabila kasusmu bertambah parah seiring waktunya dan para administrator server terus-menerus mengacuhkan laporanmu, [harap laporkan kejadian yang kamu alami kepada tim Trust & Safety Discord melalui formulir berikut](https://dis.gd/request).
 
