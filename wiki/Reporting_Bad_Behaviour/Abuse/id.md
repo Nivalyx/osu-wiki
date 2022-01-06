@@ -21,9 +21,9 @@ Harap ikuti instruksi yang sesuai dengan lokasi tindak pelecehan yang kamu alami
 
 ### Dalam *in-game chat*
 
-Segera blokir pengguna tersebut dengan mengklik kanan username mereka dan memilih `Abaikan Pengguna`.
+Segera blokir pengguna tersebut dengan mengklik kanan *username* mereka dan memilih `Abaikan Pengguna`.
 
-Anda juga harus segera melaporkannya dengan mengklik tombol `Laporkan Pengguna` dan mengisi petunjuk yang ada.
+Kamu juga harus segera melaporkannya dengan mengklik tombol `Laporkan Pengguna` dan memberikan keterangan yang selengkap-lengkapnya pada formulir yang tertera.
 
 Jika Anda merasa komentar/rayuan tersebut sangat tidak pantas atau Anda adalah pengguna di bawah umur, harap kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) berisi informasi sebanyak mungkin.
 
