@@ -1,6 +1,6 @@
-# Melaporkan Penyalahgunaan
+# Melaporkan tindak pelecehan
 
-## Saya tidak tahu apakah saya harus melaporkan ini atau tidak
+## Saya merasa dilecehkan, namun saya tidak yakin apakah saya harus melaporkannya atau tidak
 
 Harap laporkan.
 
