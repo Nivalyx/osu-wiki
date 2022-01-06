@@ -13,7 +13,7 @@ Alamat email penyalahgunaan kami hanya dapat diakses oleh dua pengguna berikut:
 - [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!)
 - [Ephemeral](https://osu.ppy.sh/users/102335) (selaku manajer komunitas osu!)
 
-Segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dibagikan dengan orang lain selain kedua orang tersebut.
+Segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dapat dibaca dan diketahui oleh siapapun kecuali oleh kedua orang tersebut.
 
 ## Seseorang membuat rayuan atau komentar seksual yang tidak pantas terhadap saya!
 
