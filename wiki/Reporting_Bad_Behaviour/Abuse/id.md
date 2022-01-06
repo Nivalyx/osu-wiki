@@ -6,7 +6,7 @@ Harap laporkan.
 
 Apabila kamu merasa tidak nyaman sampai-sampai kamu harus merujuk pada artikel ini, harap segera hubungi kami di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan rincian selengkap-lengkapnya seputar apa yang kamu alami.
 
-Kami tidak menoleransi segala bentuk tindakan atau rayuan seksual yang tidak diinginkan dalam komunitas ini.
+Kami tidak menoleransi segala bentuk tindakan atau rayuan seksual yang tidak diinginkan di dalam komunitas ini.
 
 Alamat email penyalahgunaan di atas hanya dapat diakses oleh dua pengguna berikut:
 
