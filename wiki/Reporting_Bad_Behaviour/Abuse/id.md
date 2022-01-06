@@ -43,7 +43,7 @@ Jika post tersebut masih belum hilang dalam jangka waktu yang wajar, silakan kir
 
 ### Di server publik Discord terkait osu!
 
-Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan memilih `Blokir` di daftar drop-down yang muncul.
+Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan memilih `Blokir` pada menu *drop-down* yang muncul.
 
 Setelah itu, hubungi administrator server dengan mencari seseorang di bagian paling atas dari daftar pengguna dan beri tahu mereka apa yang terjadi. Jika Anda tidak dapat mengetahui siapa yang merupakan administrator, cari seseorang dengan mahkota di samping namanya - mereka adalah pemilik server dan bertanggung jawab atas apa yang terjadi di dalamnya.
 
