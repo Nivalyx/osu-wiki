@@ -33,9 +33,9 @@ Harap laporkan postingan tersebut kepada para anggota [Global Moderation Team](/
 
 Untuk mengirimkan laporanmu, klik salah satu nama GMT yang tertera pada laman tersebut. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
 
-Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar obrolan pribadi (*private message*) akan terbuka.
+Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar pesan obrolan pribadi (*private message*) akan terbuka.
 
-Salin tautan ke post forum yang berisi konten yang bermasalah dan beri tahu GMT sedikit tentang apa yang terjadi. Mereka akan menghapus post tersebut untuk Anda sesegera mungkin.
+Salin tautan postingan forum yang bersangkutan dan beri tahu GMT sedikit tentang apa yang terjadi. Mereka akan menghapus post tersebut untuk Anda sesegera mungkin.
 
 Anda juga dapat melaporkan post tersebut dengan membuka game Anda dan mengetik `!report <orang> <masalah>`, di mana `<orang>` adalah nama pengguna yang menyebabkan masalah, dan `<masalah>` adalah tautan ke post diikuti dengan penjelasan singkat. Jika ada spasi pada nama pengguna tersebut, harap ganti dengan garis bawah (`_`).
 
