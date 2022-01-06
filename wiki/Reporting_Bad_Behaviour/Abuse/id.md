@@ -15,7 +15,7 @@ Alamat email penyalahgunaan kami hanya dapat diakses oleh dua nama berikut:
 
 Selain kedua nama di atas, segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dapat dibaca oleh siapapun juga tanpa terkecuali.
 
-## Seseorang membuat rayuan atau komentar seksual yang tidak sepantasnya terhadap saya!
+## Seseorang merayu saya dengan komentar bernada seksual yang tidak sepantasnya!
 
 Harap ikuti instruksi yang sesuai dengan lokasi tindak pelecehan yang kamu alami di bawah ini.
 
