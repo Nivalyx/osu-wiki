@@ -65,7 +65,7 @@ Jika tweet tersebut berasal dari akun yang ditautkan ke profil pemain osu! melal
 
 Harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya.
 
-Apabila kamu ingin melampirkan suatu bukti (baik itu *screenshot*, *chat log*, ataupun yang lainnya) namun kamu merasa malu atau tidak enak hati kepada pihak-pihak tertentu, kamu dapat menyensornya terlebih dahulu.
+Apabila kamu ingin melampirkan suatu bukti (baik itu berupa *screenshot*, *chat log*, ataupun yang lainnya) namun kamu merasa malu atau tidak enak hati kepada pihak-pihak tertentu, kamu dapat menyensornya terlebih dahulu.
 
 Kami akan memproses laporanmu dengan sungguh-sungguh.
 
