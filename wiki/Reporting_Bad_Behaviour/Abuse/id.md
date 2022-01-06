@@ -8,7 +8,7 @@ Apabila kamu merasa tidak nyaman sampai-sampai kamu harus merujuk pada artikel i
 
 Kami tidak membenarkan segala bentuk tindakan atau rayuan seksual yang tidak diinginkan di dalam komunitas kami.
 
-Alamat email penyalahgunaan kami hanya dapat diakses oleh dua nama berikut:
+Akun email penyalahgunaan kami hanya dapat diakses oleh dua nama berikut:
 
 - [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!)
 - [Ephemeral](https://osu.ppy.sh/users/102335) (selaku manajer komunitas osu!)
