@@ -4,14 +4,14 @@
 
 Harap laporkan.
 
-Jika Anda merasa tidak nyaman hingga Anda membaca laman ini, harap kontak kami segera di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan detail selengkap-lengkapnya seputar apa yang kamu alami.
+Apabila kamu sudah merasa tidak nyaman hingga kamu merujuk pada artikel ini, harap kontak kami segera di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan detail selengkap-lengkapnya seputar apa yang kamu alami.
 
 Kami tidak memiliki toleransi terhadap perhatian atau rayuan seksual yang tidak diinginkan dalam komunitas ini.
 
-Alamat email penyalahgunaan hanya dilihat oleh dua pengguna ini:
+Alamat email penyalahgunaan kami hanya dilihat oleh dua orang berikut:
 
-- [peppy](https://osu.ppy.sh/users/2) (pembuat game ini)
-- [Ephemeral](https://osu.ppy.sh/users/102335) (manager komunitas)
+- [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!)
+- [Ephemeral](https://osu.ppy.sh/users/102335) (selaku manajer komunitas osu!)
 
 Apa yang Anda kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dibagikan dengan orang lain selain kedua orang tersebut.
 
