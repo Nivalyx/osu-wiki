@@ -59,7 +59,7 @@ Setelah itu, blokir atau bisukan (*mute*) pengguna yang bersangkutan dengan meng
 
 Harap diingat bahwa para pengguna yang telah diblokir tidak akan lagi dapat melihat isi profil Twittermu ke depannya. Apabila kamu khawatir hal ini hanya akan memperburuk masalah, bisukan (*mute*) orang tersebut. Tindakan ini akan menghilangkan tweet-tweet mereka dari *timeline*-mu dan mencegahmu untuk dapat melihat tweet-tweet mereka lagi ke depannya, namun mereka masih akan dapat melihat dan mengomentari seluruh tweet yang kamu kirimkan.
 
-Jika tweet tersebut berasal dari akun yang ditautkan ke profil pemain osu! melalui situs web kami (muncul di bawah avatar mereka dan tanggal bergabung, di samping ikon burung), silakan kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) yang berisi salinan tweet dalam bentuk gambar jika memungkinkan, dan informasi lain yang dapat Anda pikirkan.
+Apabila tweet tersebut berasal dari akun Twitter yang tertaut pada laman profil osu! mereka masing-masing (yang terdapat di bawah avatar dan tanggal bergabung, di samping ikon burung), silakan kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) yang berisi salinan tweet dalam bentuk gambar jika memungkinkan, dan informasi lain yang dapat Anda pikirkan.
 
 ## Seorang anggota tim sukarelawan (NAT, GMT) mendekati/berbicara/bertindak secara tidak senonoh terhadap saya!
 
