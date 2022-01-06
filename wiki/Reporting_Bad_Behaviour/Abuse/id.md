@@ -63,7 +63,7 @@ Jika tweet tersebut berasal dari akun yang ditautkan ke profil pemain osu! melal
 
 ## Seorang anggota dari salah satu tim sukarelawan (NAT, GMT) mendekati/berbicara/bertindak secara tidak senonoh terhadap saya!
 
-Harap kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) berisi informasi yang selengkap-lengkapnya **dengan segera**.
+Harap kirimi kami email pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) berisi informasi yang selengkap-lengkapnya **dengan segera**.
 
 Jika sesuatu yang ingin Anda masukkan membuat Anda merasa malu, sensor saja. Ini termasuk tangkapan layar, log obrolan, apa pun yang dapat Anda lampirkan ke email.
 
