@@ -47,7 +47,7 @@ Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan m
 
 Setelahnya, harap laporkan kejadian ini kepada para administrator server yang pada umumnya dapat ditemui pada bagian paling atas daftar pengguna. Apabila kamu tidak tahu siapa-siapa saja yang administrator server, cari seseorang yang memiliki logo mahkota di samping namanya — mereka adalah pemilik server dan bertanggung jawab atas apa yang terjadi di dalamnya.
 
-Jika penyalahgunaan ini berlanjut dan administrator tidak melakukan apa pun, [beri tahu tim Trust & Safety Discord dengan mengisi laporan](https://dis.gd/request).
+Apabila t ini berlanjut dan administrator tidak melakukan apa pun, [harap laporkan kasus yang kamu alami kepada tim Trust & Safety Discord melalui formulir laporan berikut](https://dis.gd/request).
 
 Selain itu, jika Anda tahu nama pengguna osu! yang mengganggu Anda, silakan kirim email ke [abuse@ppy.sh](mailto:abuse@ppy.sh) yang berisi informasi sebanyak mungkin dan laporan akan segera diselidiki.
 
