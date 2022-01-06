@@ -37,7 +37,7 @@ Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mere
 
 Salin tautan postingan yang bermasalah tersebut pada kolom *chat* yang muncul dan ceritakan kepada anggota GMT yang bersangkutan seputar apa yang terjadi. Mereka akan menghapus postingan tersebut untukmu sesegera mungkin.
 
-Di samping itu, kamu juga dapat melaporkan postingan tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>` pada *in-game chat*, di mana `<nama pengguna>` hendaknya kamu isi dengan nama pengguna yang berulah dan `<permasalahan>` hendaknya kamu isi dengan tautan serta penjelasan singkat seputar postingan yang bermasalah tersebut. Apabila nama pengguna yang akan kamu laporkan mengandung spasi, harap ganti seluruh spasi yang ada dengan garis bawah (`_`).
+Di samping itu, kamu juga dapat melaporkan postingan tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>` pada *in-game chat*, di mana `<nama pengguna>` hendaknya kamu isi dengan nama pengguna yang berulah dan `<permasalahan>` hendaknya kamu isi dengan tautan serta penjelasan singkat seputar postingan yang bermasalah tersebut. Apabila nama pengguna yang akan kamu laporkan mengandung spasi, ganti seluruh spasi yang ada dengan garis bawah (`_`).
 
 Apabila postingan tersebut masih belum juga dihapus setelah sekian waktu, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
