@@ -49,13 +49,13 @@ Setelahnya, harap laporkan kejadian ini kepada para administrator server yang pa
 
 Apabila kasusmu semakin bertambah parah seiring waktunya dan para administrator server terus-menerus mengacuhkan laporanmu, [harap laporkan kejadian yang kamu alami kepada tim Trust & Safety Discord melalui formulir berikut](https://dis.gd/request).
 
-Di samping itu, apabila kamu mengetahui akun-akun osu! milik orang-orang yang mengganggumu, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya agar laporanmu dapat segera kami selidiki.
+Di samping itu, apabila kamu mengetahui nama-nama akun osu! milik orang-orang yang mengganggumu, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya agar laporanmu dapat segera kami selidiki.
 
 ### Dalam akun Twitter yang tertaut pada laman profil pengguna
 
-Klik tiga titik di kanan atas tweet dan klik 'Laporkan Tweet'. Pastikan untuk mengikuti petunjuk dan membacanya dengan cermat. Anda mungkin juga ingin membaca [Panduan Twitter mengenai melaporkan perilaku yang menghina](https://help.twitter.com/id/safety-and-security/report-abusive-behavior) untuk informasi lebih lanjut mengenai prosesnya.
+Klik tombol titik tiga di kanan atas tweet yang bermasalah dan klik 'Laporkan Tweet'. Pastikan untuk mengikuti petunjuk dan membacanya dengan cermat. Anda mungkin juga ingin membaca [Panduan Twitter mengenai melaporkan perilaku yang menghina](https://help.twitter.com/id/safety-and-security/report-abusive-behavior) untuk informasi lebih lanjut mengenai prosesnya.
 
-Setelah itu, blokir atau bisukan pengguna yang bersangkutan dengan mengeklik tiga titik di kanan atas tweet mereka (jika Anda menggunakan situs web atau klien seluler). Lihat [Panduan Twitter mengenai memblokir akun](https://help.twitter.com/id/using-twitter/blocking-and-unblocking-accounts) untuk informasi lebih lanjut.
+Setelah itu, blokir atau bisukan (*mute*) pengguna yang bersangkutan dengan mengeklik tiga titik di kanan atas tweet mereka (jika Anda menggunakan situs web atau klien seluler). Lihat [Panduan Twitter mengenai memblokir akun](https://help.twitter.com/id/using-twitter/blocking-and-unblocking-accounts) untuk informasi lebih lanjut.
 
 Perlu diketahui bahwa orang tersebut akan melihat Anda memblokirnya jika mereka memeriksa profil Twitter Anda. Jika Anda khawatir hal ini akan memperburuk masalah, bisukan orang tersebut. Ini akan menghapus tweet mereka dari timeline Anda dan mencegah Anda melihat konten mereka lagi, namun mereka masih dapat melihat dan mengomentari semua tweet yang Anda buat.
 
