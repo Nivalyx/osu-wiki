@@ -1,6 +1,6 @@
 # Tournament Committee
 
-**Tournament Committee** merupakan badan khusus yang beranggotakan para penyelenggara turnamen ulung dan pengguna-pengguna lainnya yang telah banyak berkiprah di dalam lingkungan turnamen.
+**Tournament Committee** merupakan badan khusus yang beranggotakan para penyelenggara turnamen ulung dan para pengguna yang telah banyak berkiprah di dalam lingkungan turnamen.
 
 Mereka bertanggung jawab untuk:
 
@@ -16,7 +16,7 @@ You can help the tournament committee by continuing to run excellent tournaments
 
 Those who are interested in joining the tournament committee may express their interest to us by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Successful candidates are expected to have a significant breadth of experience in the tournament scene, either as a player or staff. 
 
-## Anggota
+## Members
 
 - ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578)
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
@@ -28,15 +28,15 @@ Those who are interested in joining the tournament committee may express their i
 - ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416)
 - ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973)
 
-## Mantan Anggota
+## Alumni
 
 - ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393)
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
-[flag_FR]: /wiki/shared/flag/FR.gif "Perancis"
-[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
-[flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
