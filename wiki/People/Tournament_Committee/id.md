@@ -2,7 +2,9 @@
 
 The **Tournament Committee** is a panel of skilled and established organisers and helpers in the tournament scene. 
 
-Their responsibilities include:
+**Tournament Committee** merupakan panel yang beranggotakan dalam lingkungan turnamen.
+
+Mereka bertanggung jawab untuk:
 
 - Managing reports from the [tournament reports form](https://pif.ephemeral.ink/tournament-reports)
 - Observing the general tournament scene and advising the [account support team](/wiki/People/The_Team/Account_support_team) on a case-by-case basis
