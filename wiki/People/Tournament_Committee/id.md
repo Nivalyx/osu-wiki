@@ -1,6 +1,6 @@
 # Tournament Committee
 
-**Tournament Committee** merupakan badan yang beranggotakan para penyelenggara turnamen ulung dan pengguna-pengguna lainnya yang telah banyak berkiprah di dalam lingkungan turnamen.
+**Tournament Committee** merupakan badan khusus yang beranggotakan para penyelenggara turnamen ulung dan pengguna-pengguna lainnya yang telah banyak berkiprah di dalam lingkungan turnamen.
 
 Mereka bertanggung jawab untuk:
 
