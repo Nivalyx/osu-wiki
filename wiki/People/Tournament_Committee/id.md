@@ -8,9 +8,7 @@ Mereka bertanggung jawab untuk:
 - Mengamati berbagai perkembangan yang terjadi di dalam ranah turnamen secara umum dan memberi saran kepada [account support team](/wiki/People/The_Team/Account_support_team) seputar tindakan apa-apa saja yang sebaiknya diambil dalam tiap-tiap kasus pelanggaran yang terjadi
 - Memperbaharui informasi yang terdapat pada laman [Official tournament support](/wiki/Tournaments/Official_support) secara berkala
 
-The panel was first announced to the public on July 22, 2021 through the `#tournaments` channel in the [osu!dev Discord server](https://discord.com/invite/ppy) in response to the rapidly growing community tournament scene in osu!.
-
-Panel ini pertama kali diperkenalkan kepada publik pada tanggal 22 Juli 2021 pada *channel* `#tournaments` di [server Discord osu!dev](https://discord.com/invite/ppy) sebagai bentuk tanggapan atas perkembangan lingkungan kompetitif osu! yang sudah sedemikian pesat.
+Panel ini pertama kali diperkenalkan kepada publik pada tanggal 22 Juli 2021 pada *channel* `#tournaments` di [server Discord osu!dev](https://discord.com/invite/ppy) sebagai bentuk tanggapan atas semakin banyaknya turnamen yang diselenggarakan oleh berbagai lapisan komunitas seiring waktunya.
 
 ## Bagaimana caranya agar saya dapat turut berkontribusi bagi panel ini?
 
