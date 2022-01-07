@@ -10,7 +10,7 @@ Mereka bertanggung jawab untuk:
 
 The panel was first announced to the public on July 22, 2021 through the `#tournaments` channel in the [osu!dev Discord server](https://discord.com/invite/ppy) in response to the rapidly growing community tournament scene in osu!.
 
-Panel ini pertama kali diperkenalkan kepada publik pada tanggal 22 Juli 2021 pada *channel* `#tournaments` di [server Discord osu!dev](https://discord.com/invite/ppy) sebagai bentuk tanggapan atas perkebangan turnamen yang telah sedemikian pesat.
+Panel ini pertama kali diperkenalkan kepada publik pada tanggal 22 Juli 2021 pada *channel* `#tournaments` di [server Discord osu!dev](https://discord.com/invite/ppy) sebagai bentuk tanggapan atas perkembangan turnamen kompetitif di osu! yang sudah sedemikian pesat.
 
 ## Bagaimana caranya agar saya dapat turut berkontribusi bagi panel ini?
 
