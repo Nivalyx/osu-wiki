@@ -8,13 +8,13 @@ Mereka bertanggung jawab untuk:
 - Mengamati berbagai perkembangan yang terjadi di dalam ranah turnamen secara umum dan memberi saran kepada [account support team](/wiki/People/The_Team/Account_support_team) seputar tindakan apa-apa saja yang sebaiknya diambil dalam tiap-tiap kasus pelanggaran yang terjadi
 - Memperbaharui informasi yang terdapat pada laman [Official tournament support](/wiki/Tournaments/Official_support) secara berkala
 
-Panel ini pertama kali diperkenalkan kepada publik pada tanggal 22 Juli 2021 pada *channel* `#tournaments` di [server Discord osu!dev](https://discord.com/invite/ppy) sebagai bentuk tanggapan atas semakin banyaknya turnamen yang diselenggarakan oleh berbagai lapisan komunitas seiring waktunya.
+Panel ini pertama kali diperkenalkan kepada publik pada tanggal 22 Juli 2021 pada *channel* `#tournaments` di [server Discord osu!dev](https://discord.com/invite/ppy) sebagai bentuk tanggapan atas semakin banyaknya turnamen yang berjalan pada berbagai lapisan komunitas seiring waktunya.
 
 ## Bagaimana caranya agar saya dapat turut berkontribusi bagi panel ini?
 
 You can help the tournament committee by continuing to run excellent tournaments! If you have any issues or concerns regarding any aspect of a community tournament, we encourage you to bring these to our attention via the tournament reports form.
 
-Kamu dapat membantu panel ini dengan terus menyelenggarakan turnamen-turnamen dengan baik! Apabila kamu memiliki sesuatu yang hendak dibicarakan atau dilaporkan seputar 
+Kamu dapat membantu panel ini dengan terus memastikan bahwa turnamen-turnamen yang kamu selenggarakan berjalan dengan baik! Apabila kamu memiliki sesuatu yang hendak dibicarakan atau dilaporkan seputar 
 
 Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat mengirimkan email pada alamat [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Kami hanya akan menerima nama-nama yang telah banyak di dalam ranah turnamen, baik sebagai pemain maupun sebagai staf.
 
