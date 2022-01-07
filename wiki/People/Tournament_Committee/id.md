@@ -16,7 +16,7 @@ Kamu dapat membantu panel ini dengan terus memastikan bahwa turnamen-turnamen ya
 
 Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat mengirimkan email pada alamat [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Kami hanya akan mempertimbangkan nama-nama yang telah banyak berkiprah di dalam ranah turnamen, baik itu sebagai pemain ataupun staf.
 
-## Members
+## Anggota
 
 - ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578)
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
@@ -34,9 +34,9 @@ Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat meng
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
+[flag_FR]: /wiki/shared/flag/FR.gif "Perancis"
+[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
+[flag_NL]: /wiki/shared/flag/NL.gif "Belanda"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
