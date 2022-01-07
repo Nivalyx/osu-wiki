@@ -1,6 +1,6 @@
 # Tournament Committee
 
-**Tournament Committee** merupakan panel yang beranggotakan para pengguna yang telah banyak menyelenggarakan atau berkiprah di dalam lingkungan turnamen.
+**Tournament Committee** merupakan panel yang beranggotakan para pengguna yang telah banyak menyelenggarakan atau berkiprah di dalam ranah turnamen.
 
 Mereka bertanggung jawab untuk:
 
@@ -18,7 +18,7 @@ You can help the tournament committee by continuing to run excellent tournaments
 
 Kamu dapat membantu panel ini dengan terus menyelenggarakan turnamen-turnamen dengan baik! Apabila kamu memiliki sesuatu yang hendak dibicarakan atau dilaporkan seputar 
 
-Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat mengirimkan email pada alamat [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Kami hanya akan menerima nama-nama yang memang sudah banyak dikenal di dalam ranah turnamen, baik sebagai pemain maupun sebagai staf.
+Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat mengirimkan email pada alamat [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Kami hanya akan menerima nama-nama yang telah banyak di dalam ranah turnamen, baik sebagai pemain maupun sebagai staf.
 
 ## Members
 
