@@ -20,7 +20,7 @@ Kamu dapat membantu panel ini dengan terus menyelenggarakan turnamen-turnamen de
 
 Those who are interested in joining the tournament committee may express their interest to us by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Successful candidates are expected to have a significant breadth of experience in the tournament scene, either as a player or staff. 
 
-Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat mengirimkan email pada alamat [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Kami hanya akan menerima nama-nama yang memang sudah banyak, baik sebagai pemain maupun sebagai staf turnamen.
+Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat mengirimkan email pada alamat [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Kami hanya akan menerima nama-nama yang memang sudah banyak dikenal di dalam ranah turnamen, baik sebagai pemain maupun sebagai staf.
 
 ## Members
 
