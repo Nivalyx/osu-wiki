@@ -12,7 +12,7 @@ Panel ini pertama kali diperkenalkan kepada publik pada tanggal 22 Juli 2021 pad
 
 ## Bagaimana caranya agar saya dapat turut berkontribusi bagi panel ini?
 
-Kamu dapat membantu panel ini dengan tetap memastikan bahwa turnamen-turnamen yang kamu selenggarakan berjalan dengan baik! Apabila kamu memiliki sesuatu yang hendak dibicarakan atau dilaporkan seputar turnamen, jangan sungkan untuk menghubungi kami melalui formulir pelaporan turnamen yang tertera di atas.
+Kamu dapat membantu panel ini dengan terus memastikan bahwa turnamen-turnamen yang kamu selenggarakan berjalan dengan baik! Apabila kamu memiliki sesuatu yang hendak dibicarakan atau dilaporkan seputar turnamen, jangan sungkan untuk menghubungi kami melalui formulir pelaporan turnamen yang tertera di atas.
 
 Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat mengirimkan email pada alamat [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Kami hanya akan menerima nama-nama yang telah banyak di dalam ranah turnamen, baik sebagai pemain maupun sebagai staf.
 
