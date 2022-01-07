@@ -16,7 +16,11 @@ Panel ini pertama kali diperkenalkan kepada publik pada tanggal 22 Juli 2021 pad
 
 You can help the tournament committee by continuing to run excellent tournaments! If you have any issues or concerns regarding any aspect of a community tournament, we encourage you to bring these to our attention via the tournament reports form.
 
+Kamu dapat membantu panel ini dengan
+
 Those who are interested in joining the tournament committee may express their interest to us by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Successful candidates are expected to have a significant breadth of experience in the tournament scene, either as a player or staff. 
+
+Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat mengirimkan email pada alamat [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Members
 
