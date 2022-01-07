@@ -1,10 +1,10 @@
 # Tournament Committee
 
-**Tournament Committee** merupakan badan khusus yang beranggotakan para penyelenggara turnamen ulung dan pengguna-pengguna yang telah banyak berkiprah di dalam lingkungan turnamen.
+**Tournament Committee** merupakan badan khusus yang beranggotakan para penyelenggara turnamen ulung dan pengguna-pengguna lainnya yang telah banyak berkiprah di dalam lingkungan turnamen.
 
 Mereka bertanggung jawab untuk:
 
-- Managing reports from the [tournament reports form](https://pif.ephemeral.ink/tournament-reports)
+- Menindaklanjuti laporan-laporan yang diterima dari [formulir pelaporan turnamen](https://pif.ephemeral.ink/tournament-reports)
 - Observing the general tournament scene and advising the [account support team](/wiki/People/The_Team/Account_support_team) on a case-by-case basis
 - Regularly reviewing the [Official tournament support](/wiki/Tournaments/Official_support) page for revisions where necessary
 
