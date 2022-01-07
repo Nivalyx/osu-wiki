@@ -2,7 +2,7 @@
 
 The **Tournament Committee** is a panel of skilled and established organisers and helpers in the tournament scene. 
 
-**Tournament Committee** merupakan panel yang beranggotakan dalam lingkungan turnamen.
+**Tournament Committee** merupakan panel yang beranggotakan para penyelenggara turnamen dan pengguna-pengguna lainnya yang telah banyak berkecimpung dalam lingkungan turnamen.
 
 Mereka bertanggung jawab untuk:
 
