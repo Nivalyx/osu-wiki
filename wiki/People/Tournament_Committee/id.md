@@ -10,7 +10,7 @@ Mereka bertanggung jawab untuk:
 
 The panel was first announced to the public on July 22, 2021 through the `#tournaments` channel in the [osu!dev Discord server](https://discord.com/invite/ppy) in response to the rapidly growing community tournament scene in osu!.
 
-## Bagaimana caranya agar saya dapat membantu mereka?
+## Bagaimana caranya bagi saya untuk dapat berkontribusi?
 
 You can help the tournament committee by continuing to run excellent tournaments! If you have any issues or concerns regarding any aspect of a community tournament, we encourage you to bring these to our attention via the tournament reports form.
 
