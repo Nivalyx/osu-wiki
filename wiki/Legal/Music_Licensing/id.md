@@ -10,7 +10,7 @@ osu! tidak pernah secara khusus ditujukan untuk mengeruk keuntungan — kami ber
 
 Sebagai upaya terbaik kami untuk mendukung artis yang telah membuat gim ini menjadi seperti sekarang, setiap kelebihan dana yang berasal dari donasi pengguna diinvestasikan kembali dalam upaya pemberian lisensi musik. Kami sedang dalam proses menjangkau artis (yang ditampilkan dalam unggahan pengguna yang sudah ada dan yang baru diunggah) untuk mendapatkan lisensi dan menyebarkan kesadaran akan hal tersebut melalui program [Featured Artist](/wiki/Featured_Artists) kami.
 
-Artis yang tertarik untuk bergabung dengan program Featured Artist disarankan untuk menghubungi osu! untuk negosiasi lisensi.
+Para musisi yang tertarik untuk bergabung dengan program Featured Artist kami disarankan untuk menghubungi osu! untuk negosiasi lisensi.
 
 ## Penggunaan musik di osu!
 
