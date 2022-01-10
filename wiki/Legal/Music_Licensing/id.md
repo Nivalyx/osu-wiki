@@ -4,7 +4,7 @@ legal: true
 
 # Lisensi musik osu!
 
-100% konten osu! (umumnya dikenal sebagai "[beatmap](/wiki/Beatmap)" atau level permainan) diunggah oleh pengguna. Meskipun kami sudah mencoba memandu pengguna untuk mendapatkan izin dengan benar, sering kali terdapat kasus pengunggahan musik/karya seni tanpa izin yang benar.
+100% konten yang ada osu! (yang pada umumnya dikenal sebagai "[beatmap](/wiki/Beatmap)" atau level permainan) merupakan hasil unggahan para pengguna kami. Meskipun kami sudah mencoba memandu pengguna untuk mendapatkan izin dengan benar, sering kali terdapat kasus pengunggahan musik/karya seni tanpa izin yang benar.
 
 osu! tidak pernah secara khusus ditujukan untuk mengeruk keuntungan – kami berusaha keras untuk tidak mengiklankan atau mendapatkan keuntungan langsung dari konten yang diunggah (agar tidak mengeksploitasi konten yang telah diunggah), tetapi kami memahami bahwa hal ini sering kali dianggap tidak cukup.
 
@@ -20,7 +20,7 @@ Pengguna dapat mencari dan mengunduh level tersebut dari [daftar beatmap](https:
 
 Saat mengirimkan level, pembuat level tersebut disarankan untuk mendapatkan izin terhadap semua aset dari pemegang hak cipta yang relevan sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) kami.
 
-## Persyaratan lisensi Featured Artist
+## Ketentuan lisensi Featured Artist
 
 Musik yang dilisensikan oleh osu! tersedia secara gratis dan dapat diunduh melalui [daftar Featured Artist](https://osu.ppy.sh/beatmaps/artists) dalam bentuk file `.osz`. File tersebut merupakan template dari sebuah beatmap. Sebuah pratinjau otomatis selama satu menit dari setiap lagu tersedia untuk didengarkan secara langsung di halaman artis terkait. Karena lagu digunakan sebagai katalog bagi anggota komunitas untuk membuat beatmap, beberapa diantaranya mungkin secara tidak langsung digunakan sebagai konten di dalam permainan.
 
