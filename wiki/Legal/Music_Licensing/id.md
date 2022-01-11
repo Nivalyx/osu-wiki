@@ -16,7 +16,7 @@ Para musisi yang tertarik untuk bergabung dengan program Featured Artist kami da
 
 Berhubung osu! merupakan sebuah permainan ritme (*rhythm game*), seluruh level yang dibuat oleh para pengguna kami akan berdasar pada ritme lagu-lagu yang digunakan.
 
-Para pengguna dapat mencari dan mengunduh level-level yang dibuat oleh para pengguna lainnya dari laman [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan menginputkan nama musisi, judul, atau informasi-informasi lainnya yang relevan. Pada umumnya, suatu level akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek-efek suara yang terkait dengan permainan di dalamnya.
+Para pengguna dapat mencari dan mengunduh level-level yang dibuat oleh para pengguna lainnya dari laman [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan menginputkan nama musisi, judul, atau informasi-informasi lainnya yang relevan. Pada umumnya, suatu level akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek-efek suara tertentu di dalamnya.
 
 Saat mengunggah suatu level, pembuat level yang bersangkutan terlebih dahulu disarankan untuk mendapatkan izin terhadap semua aset dari pemegang hak cipta yang relevan sebagaimana yang tertera pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) kami.
 
