@@ -8,7 +8,7 @@ legal: true
 
 osu! tidak pernah secara khusus ditujukan untuk mengeruk keuntungan — kami tidak mengiklankan atau mengomersilkan konten-konten yang diunggah secara langsung, dan kami juga tidak mengeksploitasi konten-konten tersebut dari segi apapun. Meskipun demikian, kami paham bahwa hal ini sering kali dianggap tidak cukup oleh sebagian orang.
 
-Sebagai upaya terbaik kami untuk mendukung artis yang telah membuat gim ini menjadi seperti sekarang, setiap kelebihan dana yang berasal dari donasi pengguna diinvestasikan kembali dalam upaya pemberian lisensi musik. Kami sedang dalam proses menjangkau artis (yang ditampilkan dalam unggahan pengguna yang sudah ada dan yang baru diunggah) untuk mendapatkan lisensi dan menyebarkan kesadaran akan hal tersebut melalui program [Featured Artist](/wiki/Featured_Artists) kami.
+Oleh karenanya, sebagai upaya terbaik kami untuk mendukung artis yang telah membuat gim ini menjadi seperti sekarang, setiap kelebihan dana yang berasal dari donasi pengguna diinvestasikan kembali dalam upaya pemberian lisensi musik. Kami sedang dalam proses menjangkau artis (yang ditampilkan dalam unggahan pengguna yang sudah ada dan yang baru diunggah) untuk mendapatkan lisensi dan menyebarkan kesadaran akan hal tersebut melalui program [Featured Artist](/wiki/Featured_Artists) kami.
 
 Para musisi yang tertarik untuk bergabung dengan program Featured Artist kami dapat langsung menghubungi osu! melalui alamat email yang kami terakan di akhir artikel ini untuk menegosiasikan lisensi.
 
