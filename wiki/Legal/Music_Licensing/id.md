@@ -6,7 +6,7 @@ legal: true
 
 100% konten yang ada osu! (yang pada umumnya dikenal sebagai "[beatmap](/wiki/Beatmap)" atau level permainan) merupakan hasil unggahan para pengguna kami. Walaupun kami telah sebisa mungkin memandu para pengguna kami untuk hanya mengunggah konten-konten yang tidak melanggar hak cipta, sering kali terdapat kasus-kasus di mana konten yang diunggah mengandung musik/karya seni yang dipergunakan tanpa restu dari para pemegang hak cipta yang bersangkutan.
 
-osu! tidak pernah secara khusus ditujukan untuk mengeruk keuntungan — walaupun kami berusaha keras untuk tidak mengiklankan atau mengomersilkan konten-konten yang diunggah (agar kami tidak terkesan mengeksploitasi konten-konten tersebut), kami paham bahwa hal ini sering kali dianggap tidak cukup oleh sebagian orang.
+osu! tidak pernah secara khusus ditujukan untuk mengeruk keuntungan — kami tidak mengiklankan atau mengomersilkan konten-konten yang diunggah dan kami juga tidak mengeksploitasi konten-konten tersebut. Meskipun demikian, kami paham bahwa hal ini sering kali dianggap tidak cukup oleh sebagian orang.
 
 Sebagai upaya terbaik kami untuk mendukung artis yang telah membuat gim ini menjadi seperti sekarang, setiap kelebihan dana yang berasal dari donasi pengguna diinvestasikan kembali dalam upaya pemberian lisensi musik. Kami sedang dalam proses menjangkau artis (yang ditampilkan dalam unggahan pengguna yang sudah ada dan yang baru diunggah) untuk mendapatkan lisensi dan menyebarkan kesadaran akan hal tersebut melalui program [Featured Artist](/wiki/Featured_Artists) kami.
 
