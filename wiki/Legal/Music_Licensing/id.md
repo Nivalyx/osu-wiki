@@ -16,13 +16,13 @@ Para musisi yang tertarik untuk bergabung dengan program Featured Artist kami da
 
 Berhubung osu! merupakan sebuah permainan ritme (*rhythm game*), seluruh level yang dibuat oleh para pengguna kami akan berdasar pada ritme lagu-lagu yang digunakan.
 
-Para pengguna dapat mencari dan mengunduh level-level yang dibuat oleh para pengguna lainnya dari laman [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan menginputkan nama artis, judul, atau informasi lainnya yang relevan dari artis terkait. Sebagian besar level yang diunduh akan menyertakan lagu, data level yang dibuat oleh pengguna, gambar latar belakang, dan efek suara dari permainan.
+Para pengguna dapat mencari dan mengunduh level-level yang dibuat oleh para pengguna lainnya dari laman [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan menginputkan nama musisi, judul, atau informasi-informasi lainnya yang relevan. Pada umumnya, suatu level akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek-efek suara yang terkait dengan permainan di dalamnya.
 
-Saat mengirimkan level, pembuat level tersebut disarankan untuk mendapatkan izin terhadap semua aset dari pemegang hak cipta yang relevan sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) kami.
+Saat mengunggah suatu level, pembuat level yang bersangkutan terlebih dahulu disarankan untuk mendapatkan izin terhadap semua aset dari pemegang hak cipta yang relevan sebagaimana yang tertera pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) kami.
 
 ## Ketentuan lisensi Featured Artist
 
-Musik yang dilisensikan oleh osu! tersedia secara gratis dan dapat diunduh melalui [daftar Featured Artist](https://osu.ppy.sh/beatmaps/artists) dalam bentuk file `.osz`. File tersebut merupakan template dari sebuah beatmap. Sebuah pratinjau otomatis selama satu menit dari setiap lagu tersedia untuk didengarkan secara langsung di halaman artis terkait. Karena lagu digunakan sebagai katalog bagi anggota komunitas untuk membuat beatmap, beberapa diantaranya mungkin secara tidak langsung digunakan sebagai konten di dalam permainan.
+Musik yang telah dilisensikan oleh osu! akan tersedia dan dapat diunduh secara gratis pada [laman daftar Featured Artist](https://osu.ppy.sh/beatmaps/artists) dalam bentuk file `.osz`. File tersebut merupakan template dari sebuah beatmap. Sebuah pratinjau otomatis selama satu menit dari setiap lagu tersedia untuk didengarkan secara langsung di halaman artis terkait. Karena lagu digunakan sebagai katalog bagi anggota komunitas untuk membuat beatmap, beberapa diantaranya mungkin secara tidak langsung digunakan sebagai konten di dalam permainan.
 
 Kami berupaya mencakup setiap penggunaan di dalam gim, situs web terkait, dan konten video. Perlu diperhatikan bahwa hal ini tidak selalu mencakup penggunaan lebih lanjut di platform lain jika digunakan untuk mencari keuntungan. Beberapa artis mungkin akan meminta pembagian hasil dalam kasus seperti itu (jika platform tersebut memungkinkan permintaan tersebut, seperti unggahan pengguna ke YouTube).
 
