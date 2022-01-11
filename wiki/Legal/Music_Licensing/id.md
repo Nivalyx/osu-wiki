@@ -32,4 +32,4 @@ osu! melisensikan semua musik di bawah persyaratan noneksklusif yang memungkinka
 
 **Email:** [music@ppy.sh](mailto:music@ppy.sh)
 
-Jika Anda tertarik untuk merundingkan perizinan karya Anda di osu!, silakan hubungi kami melalui alamat email di atas beserta dengan contoh dari karya Anda. Kami akan memutuskan apakah musik Anda cocok untuk osu! sekaligus menjelaskan tentang persyaratan lisensinya.
+Apabila Anda tertarik untuk merundingkan perizinan karya Anda di osu!, silakan hubungi kami melalui alamat email di atas beserta dengan contoh dari karya Anda. Kami akan memutuskan apakah musik Anda cocok untuk osu! sekaligus menjelaskan tentang persyaratan lisensinya.
