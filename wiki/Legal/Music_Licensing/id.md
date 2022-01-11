@@ -22,7 +22,7 @@ Pada saat suatu level hendak diunggah untuk pertama kalinya, kami akan terlebih 
 
 ## Ketentuan lisensi Featured Artist
 
-Lagu-lagu yang telah dilisensi oleh osu! akan dapat diunduh secara gratis pada [laman Featured Artist](https://osu.ppy.sh/beatmaps/artists) dalam bentuk berkas `.osz` yang merupakan dasar (*template*) sebuah beatmap. Sistem kami akan secara otomatis menggubah pratinjau berdurasi satu menit untuk masing-masing lagu yang dapat didengarkan pada laman artis terkait. Berhubung lagu-lagu tersebut akan disediakan sebagai bahan bagi para anggota komunitas kami dalam proses pembuatan beatmap, beberapa di antaranya mungkin tidak akan langsung digunakan sebagai konten di dalam permainan.
+Lagu-lagu yang telah dilisensi oleh osu! akan dapat diunduh secara gratis pada [laman Featured Artist](https://osu.ppy.sh/beatmaps/artists) dalam bentuk berkas `.osz` yang merupakan dasar (*template*) sebuah beatmap. Sistem kami akan secara otomatis menggubah pratinjau berdurasi satu menit untuk masing-masing lagu yang dapat didengarkan pada laman artis terkait. Berhubung lagu-lagu tersebut akan disediakan sebagai bahan bagi para anggota komunitas kami dalam proses pembuatan beatmap, beberapa di antaranya mungkin tidak akan langsung dibuat sebagai level permainan.
 
 Kami berupaya untuk mencakup penggunaan lagu-lagu yang kami lisensi di dalam permainan kami, situs-situs web terkait, dan konten-konten video yang kami produksi. Perlu diperhatikan bahwa hal ini tidak selalu mencakup penggunaan lebih lanjut di platform lain jika digunakan untuk mencari keuntungan. Beberapa artis mungkin akan meminta pembagian hasil dalam kasus seperti itu (jika platform tersebut memungkinkan permintaan tersebut, seperti unggahan pengguna ke YouTube).
 
