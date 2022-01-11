@@ -18,7 +18,7 @@ Berhubung osu! merupakan sebuah permainan ritme (*rhythm game*), seluruh level y
 
 Para pengguna dapat mencari dan mengunduh level-level yang dibuat oleh para pengguna lainnya dari laman [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan mengetikkan nama musisi, judul, atau informasi-informasi lainnya yang terkait. Pada umumnya, suatu level akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek-efek suara tertentu di dalamnya.
 
-Pada saat suatu level diunggah untuk pertama kali, kami mengingatkan pembuat level yang bersangkutan untuk terlebih dahulu memastikan bahwa seluruh aset yang hendak diunggah telah mendapatkan izin dari para pemegang hak cipta yang bersangkutan sebagaimana yang tertera pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) kami.
+Pada saat suatu level diunggah untuk pertama kalinya, kami mengingatkan pembuat level yang bersangkutan untuk terlebih dahulu memastikan bahwa seluruh aset yang hendak diunggah telah mendapatkan izin dari para pemegang hak cipta yang bersangkutan sebagaimana yang tertera pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) kami.
 
 ## Ketentuan lisensi Featured Artist
 
