@@ -32,4 +32,4 @@ osu! hanya akan menawarkan kontrak dengan ketentuan-ketentuan lisensi yang bersi
 
 **Email:** [music@ppy.sh](mailto:music@ppy.sh)
 
-Apabila Anda tertarik untuk menegosiasikan lisensi atas karya-karya Anda kepada kami, harap hubungi kami melalui alamat email di atas dengan menyertakan contoh lagu-lagu yang Anda ciptakan. Kami akan memutuskan apakah lagu-lagu Anda sekiranya cocok untuk osu! serta menjelaskan seputar syarat dan ketentuan yang berlaku secara lebih rinci.
+Apabila Anda tertarik untuk menegosiasikan lisensi atas karya-karya Anda kepada kami, harap hubungi kami melalui alamat email di atas dengan menyertakan contoh lagu-lagu yang Anda ciptakan. Kami akan memutuskan apakah lagu-lagu Anda sekiranya akan cocok untuk osu! serta menjelaskan seputar syarat dan ketentuan yang berlaku secara lebih rinci.
