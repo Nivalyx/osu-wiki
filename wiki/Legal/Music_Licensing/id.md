@@ -14,7 +14,7 @@ Para musisi yang tertarik untuk bergabung dengan program Featured Artist kami da
 
 ## Penggunaan musik di osu!
 
-Berhubung osu! merupakan sebuah permainan ritme (*rhythm game*), seluruh level yang dibuat oleh para pengguna kami akan berdasar pada ritme lagu yang digunakan.
+Berhubung osu! merupakan sebuah permainan ritme (*rhythm game*), seluruh level yang dibuat oleh para pengguna kami akan berdasar pada ritme lagu yang digunakan masing-masing.
 
 Pengguna dapat mencari dan mengunduh level tersebut dari [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan menginputkan nama artis, judul, atau informasi lainnya yang relevan dari artis terkait. Sebagian besar level yang diunduh akan menyertakan lagu, data level yang dibuat oleh pengguna, gambar latar belakang, dan efek suara dari permainan.
 
