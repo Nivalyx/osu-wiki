@@ -145,32 +145,36 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 ### Semifinals
 
-**[Download the mappack here! (204 MB)](https://drive.google.com/u/0/uc?id=1Qo_PPRZQtm2dIOoYRPDpOzLP8g8kfAIR&export=download)**
+**[Download the mappack here! (143 MB)](https://drive.google.com/u/0/uc?id=1-SBK100mjhMfubNJb5OBhy2B47wNC4-v&export=download)**
 
 - NoMod
-  1. [TRUE - Soundscape (Azunyan-) \[Fortissimo\]](https://osu.ppy.sh/beatmapsets/1173554#osu/2447685)
-  2. [Jun Kuroda - Coquette (Suicune3) \[Oni\]](https://osu.ppy.sh/beatmapsets/1551222#osu/3169923)
-  3. [FELT - Goodbye (Hysteria) \[Farewell (phox's Introless Edit)\]](https://osu.ppy.sh/beatmapsets/1655798#osu/3379847)
-  4. [IAHN - Transform (Original Mix) (Daycore) \[Eula's Extreme\]](https://osu.ppy.sh/beatmapsets/1381820#osu/3162796)
-  5. [Morimori Atsushi - Time Machine (Elcheer) \[03:45:104 1.05x (230bpm)\]](https://osu.ppy.sh/beatmapsets/1286317#osu/2670818)
+  1. [Manami Numakura - Sakebe (Depths) \[Eternity\]](https://osu.ppy.sh/beatmapsets/630659#osu/1331324)
+  2. [Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu (knowledgeking) \[Tenebrae of Regina\]](https://osu.ppy.sh/beatmapsets/1443880#osu/2970030)
+  3. [Co shu Nie - asphyxia (Gillstar) \[constriction\]](https://osu.ppy.sh/beatmapsets/895512#osu/1871128)
+  4. [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry) \[Neil x Sharu, Syzygy\]](https://osu.ppy.sh/beatmapsets/694402#osu/1469136)
+  5. [Dayum - Gwyn (Shidoni) \[Extreme\]](https://osu.ppy.sh/beatmapsets/985884#osu/2063785)
+  6. [Minamotoya feat. Kuroa* - Hana Kagerou (404 AimNotFound) \[Aery's Special Insane\]](https://osu.ppy.sh/beatmapsets/929130#osu/2004588)  
 - Hidden
-  1. [Epica - Fight Your Demons (KogumaX) \[Expert\]](https://osu.ppy.sh/beatmapsets/1615425#osu/3298109)
-  2. [Tsukuyomi - Moonlight at midday (Seros) \[Extra\]](https://osu.ppy.sh/beatmapsets/1537310#osu/3143258)
-  3. [Blakfish - Jeremy Kyle Is A Marked Man (Serafeim) \[End on happiness\]](https://osu.ppy.sh/beatmapsets/1620017#osu/3307624)
+  1. [CustomiZ - COOLEST (Tari) \[Cool\]](https://osu.ppy.sh/beatmapsets/1001283#osu/2096019)
+  2. [sekai - p.h. (Petal) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1461554#osu/3002756)
+  3. [Nanamori-chu * Goraku-bu - Happy Time wa Owaranai (Cut Ver.) (-Keitaro) \[Expert\]](https://osu.ppy.sh/beatmapsets/1057015#osu/2743617)
 - HardRock
-  1. [ONE OK ROCK - One by One (Noob55) \[Kirishima-'s Extreme\]](https://osu.ppy.sh/beatmapsets/1183373#osu/2568117)
-  2. [Kanban Musume-tai - Suki de Sugoi ni Naritai na (Kyuuchie) \[Nagachienyuni's Caffeine Overdose\]](https://osu.ppy.sh/beatmapsets/1566547#osu/3198645)
-  3. [Tokoyami Towa - Palette (Restart Button) \[Expert\]](https://osu.ppy.sh/beatmapsets/1425822#osu/2935945)
+  1. [sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui (Kalibe) \[Descent\]](https://osu.ppy.sh/beatmapsets/926846#osu/1935864)
+  2. [xi - over the top (Kroytz) \[chaoz's extra\]](https://osu.ppy.sh/beatmapsets/479215#osu/1039801)
+  3. [himmeltengoku - Whisper of Rose (Tsukoyomi) \[Maximum\]](https://osu.ppy.sh/beatmapsets/173614#osu/419487)
 - DoubleTime
-  1. [Yonekura Chihiro - Be braver! (Shikibe Mayu) \[Shizurre's Insane\]](https://osu.ppy.sh/beatmapsets/1433072#osu/2950591)
-  2. [Kola Kid - timer (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/1089084#osu/2277128)
-  3. [ZUTOMAYO - STUDY ME (GIDZ) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1353446#osu/2911090)
+  1. [Usada Pekora - Discommunication Alien (Yugu) \[pe...peko...\]](https://osu.ppy.sh/beatmapsets/1181343#osu/2463210)
+  2. [lasah - GHOST OF LORELEY (moph) \[wa's Insane\]](https://osu.ppy.sh/beatmapsets/486177#osu/1050849)
+  3. [zts - dreamenddischarger (EvilElvis) \[Love Letter\]](https://osu.ppy.sh/beatmapsets/339615#osu/758298)
+  4. [Hanatan - WAVE (Felter) \[UCUP Edit\]](https://osu.ppy.sh/beatmapsets/1362372#osu/3234231)  
 - FreeMod
-  1. [Rohi - LvC3 (VINXIS) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/1231655#osu/2560356)
-  2. [La priere - Senjou no Utahime (Hinsvar) \[Valkyrie\]](https://osu.ppy.sh/beatmapsets/1398580#osu/2885693)
-  3. [M2U - A Bella! (feat. Lucy) (rollpan) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/1517567#osu/3106686)
+  1. [Rohi - LvC3 (VINXIS) \[Chaos\]](https://osu.ppy.sh/beatmapsets/1231655#osu/2560355)
+  2. [capsule - Teleportation (\_xyliac) \[Eternal\]](https://osu.ppy.sh/beatmapsets/1048608#osu/2191767)
+  3. [Ado - USSEEWA (Ryuusei Aika) \[a\_blue's Extra\]](https://osu.ppy.sh/beatmapsets/1322727#osu/2751787)
+- Tiebreaker
+  1. **[Camellia feat. Nanahira - Energy \* Drin-ko Fein-chan! (Camellia's "MONSTERISTIC" D. M. P. Remix) (RLC) \[C8H10N4O2\]](https://osu.ppy.sh/beatmapsets/883595#osu/1847043)**     
 
-### Round of 32
+### Quarterfinals
 
 **[Download the mappack here! (135 MB)](https://drive.google.com/u/0/uc?id=1iARuFmoze2zdClpV9a52DDPikMYL4Fqg&export=download)**
 
