@@ -300,6 +300,15 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 ## Match results
 
+### Quarterfinals
+
+Friday, 8 October 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **:markus:** | **6** | 5 | dmk | [#1](https://osu.ppy.sh/community/matches/92085095) |
+| Lower | oogey rratttt | 0 | **6** | **osu winx club** | *win by default* |
+
 ### Round of 16
 
 Friday, 1 October 2021:
