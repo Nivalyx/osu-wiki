@@ -259,7 +259,7 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 ### Qualifiers
 
-**[Download the mappack here! (93 MB)](https://drive.google.com/u/0/uc?id=1zygvCFswLV_FBNNVqp-fnEJmQ3o9XHUQ&export=download)**
+**[Download the mappack here! (66 MB)](https://drive.google.com/u/0/uc?id=1FO_GdmdpZ0BBqoYAyuqSUS8B3o5RDB-q&export=download)**
 
 - NoMod
   1. [xi - Blue Zenith (Aspyhxia) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/292301#osu/657916)
