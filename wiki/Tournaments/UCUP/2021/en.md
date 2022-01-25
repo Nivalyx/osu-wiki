@@ -262,7 +262,7 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 **[Download the mappack here! (66 MB)](https://drive.google.com/u/0/uc?id=1FO_GdmdpZ0BBqoYAyuqSUS8B3o5RDB-q&export=download)**
 
 - NoMod
-  1. [xi - Blue Zenith (Aspyhxia) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/292301#osu/657916)
+  1. [yuikonnu - caramel heaven (knowledgeking) \[NashiKari's Extreme\]](https://osu.ppy.sh/beatmapsets/1101604#osu/2314157)
   2. [ZUTOMAYO - STUDY ME (GIDZ) \[RLC x Nathan's Extra\]](https://osu.ppy.sh/beatmapsets/1353446#osu/2801804)
   3. [Zekk - Freefall (Livia) \[v=gt\]](https://osu.ppy.sh/beatmapsets/1559779#osu/3185984)
   4. [Zekk - Freefall (Livia) \[v=gt\]](https://osu.ppy.sh/beatmapsets/1559779#osu/3185984)  
