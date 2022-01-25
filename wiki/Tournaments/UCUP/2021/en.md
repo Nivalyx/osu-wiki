@@ -210,27 +210,26 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 **[Download the mappack here! (95 MB)](https://drive.google.com/u/0/uc?id=1ML0vbOSR_iNh2kuR7SSoohdA0BBzcB3_&export=download)**
 
 - NoMod
-  1. [Coda - Fighting Gold (Saika0k1) \[Gold Experience\]](https://osu.ppy.sh/beatmapsets/1588182#osu/3243699)
-  2. [BlackY - KITTY FOILED (AdveNt) \[mischievous old\]](https://osu.ppy.sh/beatmapsets/1644809#osu/3357412)
-  3. [fripSide - HesitationSnow (Fushimi Rio) \[Extra\]](https://osu.ppy.sh/beatmapsets/1329838#osu/2755377)
-  4. [ISOMERZ (DJ Raisei + seatrus) - Symmetric (Realazy) \[Amateurre's Expert\]](https://osu.ppy.sh/beatmapsets/1381824#osu/2954718)
-  5. [MisoilePunch - VVelcome!! (R3m) \[Flask's EXHAUST\]](https://osu.ppy.sh/beatmapsets/1235627#osu/3179665)
+  1. [TrySail - Utsuroi (Mir) \[Confession\]](https://osu.ppy.sh/beatmapsets/1433678#osu/2950420)
+  2. [EBICO - Persephone (FrenZ396) \[Romance\]](https://osu.ppy.sh/beatmapsets/1396151#osu/2943621)
+  3. [abusa Sumireko (CV: Arakawa Miho) - Inochi no Karakuri (Talulah) \[The Queen\]](https://osu.ppy.sh/beatmapsets/1061614#osu/2223096)
+  4. [onoken - unisonote (Firis Mistlud) \[ameth's bel fiore\]](https://osu.ppy.sh/beatmapsets/942224#osu/1971717)
+  5. [Diceros Bicornis - ReviveR (xidorn) \[the third\]](https://osu.ppy.sh/beatmapsets/1530005#osu/3129534)
 - Hidden
-  1. [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[captin's Expert\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2716344)
-  2. [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
-  3. [Yonekura Chihiro - Smiling-Swinging!! (Shikibe Mayu) \[Deppy's Insane\]](https://osu.ppy.sh/beatmapsets/1568530#osu/3274180)
+  1. [YOASOBI - Kaibutsu (Regou) \[Ex\]](https://osu.ppy.sh/beatmapsets/1349270#osu/2793679)
+  2. [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
 - HardRock
-  1. [Inugami Korone - SAIKYO TENSAI WONDERFUL WORLD of KORONE (Yuuma) \[Yubi Yubi\]](https://osu.ppy.sh/beatmapsets/1431435#osu/2946557)
-  2. [MYTK - Senkyou (Realazy) \[Cubby's Insane\]](https://osu.ppy.sh/beatmapsets/1262410#osu/2623949)
-  3. [HuMeR - ChaserXX (Realazy) \[Kkip's Another\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
+  1. [Igorrr - Tout Petit Moineau (fergas) \[Extra\]](https://osu.ppy.sh/beatmapsets/212180#osu/517308)
+  2. [Sound Souler - Bubble Flower (hypercyte) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152177#osu/2404822)
 - DoubleTime
-  1. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Insane\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3187933)
-  2. [Aki - Darkish (Lortus) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/514965#osu/1097552)
-  3. [Amane - Melt in the sky (Gabi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
+  1. [Asaka - Eternal Star (Luscent) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/1312114#osu/2885357)
+  2. [Endorfin. - Raindrop Caffe Latte (ImpurePug) \[Insane\]](https://osu.ppy.sh/beatmapsets/1262556#osu/2624225)
+  3. [Hatsuki Yura - Lunicode (GreenHue) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/801001#osu/1689336)
 - FreeMod
-  1. [Camellia feat. Nanahira - Kizuitara Shunkashuutou (HeTo) \[Dubturt's Extra\]](https://osu.ppy.sh/beatmapsets/1120946#osu/2361902)
-  2. [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (AJT) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348)
-  3. [L.E.D. - THE LAST STRIKER (Amamiya Yuko) \[Another\]](https://osu.ppy.sh/beatmapsets/129065#osu/326367)    
+  1. [TERRA - EDEN (Mirash) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1171713#osu/2444026)
+  2. [bbn - Identic Conflict (Myxo) \[LMT's Another\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135438)
+- Tiebreaker
+  1. **[Noah - Reflection (Adinda) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1426912#osu/2938138)**   
 
 ### Preliminary groups (upper bracket)
 
