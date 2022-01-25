@@ -66,8 +66,6 @@ UCUP 2021 was run by various osu! community members predominantly hailing from I
 
 Listed below are the teams who managed to qualify into the Round of 32 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 54 registered teams in total.
 
-- *Upper bracket:*
-
 | Seed No. | Team Name | Player 1 (Captain) | Player 2 | Avg. Map Rank |
 | :-: | :-- | :-- | :-- | :-- |
 | 1 | Rushia | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_AU] [sakamata1](https://osu.ppy.sh/users/7562902) | 3.8 |
