@@ -81,21 +81,21 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 ## Mappools
 
-### Semifinals
+### Finals (week 2)
 
-**[Download the mappack here! (201 MB)](https://drive.google.com/u/0/uc?id=1nnjbj9lfIZMOmK_KePSBn60SCwd_1f4g&export=download)**
+**[Download the mappack here! (216 MB)](https://drive.google.com/u/0/uc?id=1lhDqmjCzXYO_nTCpWjwrHi2WRCoV1Xk0&export=download)**
 
 - NoMod
-  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Strike The Blood (Maot) \[Ipputasai\]](https://osu.ppy.sh/beatmapsets/1587864#osu/3243028)
-  2. [Musical Masterpiece - M-A(FOOLISH) (idke) \[GYZE - HONESTY\]](https://osu.ppy.sh/beatmapsets/1306566#osu/2708949)
-  3. [HIDEKI NAGANUMA - AIN'T NOTHIN' LIKE A FUNKY BEAT (yaspo) \[AIN'T NOTHIN' LIKE A FUNKY BEAT\]](https://osu.ppy.sh/beatmapsets/1627451#osu/3322521)
-  4. [Elliot Hsu - Reality Purge (Realazy) \[Aether\]](https://osu.ppy.sh/beatmapsets/1508500#osu/3089374)
-  5. [DJ Myosuke & Gram - JINGLE DEATH (Regou) \[Otosaka's Requiem... Extra\]](https://osu.ppy.sh/beatmapsets/1616023#osu/3328315)
-  6. [Ookami Mio - Sparkle (Deppyforce) \[Very Hard\]](https://osu.ppy.sh/beatmapsets/1202031#osu/2503405)  
+  1. [BUTAOTOME - Mesen (SkyFlame) \[LOOKING\]](https://osu.ppy.sh/beatmapsets/1530517#osu/3130522)
+  2. [Ice - 02: Amber Wishes (knowledgeking) \[HAPPY FOREVER\]](https://osu.ppy.sh/beatmapsets/1537742#osu/3144118)
+  3. [Aitsuki Nakuru & Kabocha - Lilith (Celine) \[Vigor\]](https://osu.ppy.sh/beatmapsets/1261931#osu/3019857)
+  4. [Sober Bear - ODYSSEIA (Ishtiaq) \[Dactylic hexameter\]](https://osu.ppy.sh/beatmapsets/1499780#osu/3073509)
+  5. [Irreversible Mechanism - The Agony (LMT) \[Murder\]](https://osu.ppy.sh/beatmapsets/1569282#osu/3204596)
+  6. [NIWASHI - Sapphire on Fire (DeviousPanda) \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1461145#osu/3002063)  
 - Hidden
-  1. [Sangatsu no Phantasia - Seishun nante Iranaiwa (Smug Nanachi) \[Adolescence\]](https://osu.ppy.sh/beatmapsets/1146237#osu/2393405)
-  2. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[newton's Expert: Mako\]](https://osu.ppy.sh/beatmapsets/1404864#osu/3247654)
-  3. [Masahiro "Godspeed" Aoki - Frostbite (Cut Ver.) (Niva) \[kuyusu's Expert\]](https://osu.ppy.sh/beatmapsets/1501511#osu/3081403)
+  1. [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[Yusomi's Luminiferous\]](https://osu.ppy.sh/beatmapsets/902425#osu/2097288)
+  2. [Laur - Metamorphose (verychill) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/1238413#osu/2639428)
+  3. [sokoniraru - Lament Moment (HabiHolic) \[PaRaDogi's Ex\_Death\]](https://osu.ppy.sh/beatmapsets/1288090#osu/2687455)
 - HardRock
   1. [MisomyL - Ring ! Run ! Nyan!! (Fisky) \[Genetically ! Engineered ! Catgirls!!\]](https://osu.ppy.sh/beatmapsets/1536674#osu/3141960)
   2. [USAO - Knight Rider (RLC) \[Extra\]](https://osu.ppy.sh/beatmapsets/1156969#osu/2414318)
