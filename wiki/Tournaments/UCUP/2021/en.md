@@ -302,6 +302,25 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 ### Semifinals
 
+Friday, 15 October 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **L9 Hamster** | **6** | 4 | CrezzMyMommy | [#1](https://osu.ppy.sh/community/matches/92425321) |
+| Lower | **LewaToprak** | **6** | 3 | osu winx club | [#1](https://osu.ppy.sh/community/matches/92430506) |
+
+Saturday, 16 October 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **Spacediver** | **6** | 0 | :markus: | [#1](https://osu.ppy.sh/community/matches/92485016) |
+| Lower | Venception | 2 | **6** | **Surtr S3** | [#1](https://osu.ppy.sh/community/matches/92484870) |
+
+Sunday, 17 October 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+
 ### Quarterfinals
 
 Friday, 8 October 2021:
