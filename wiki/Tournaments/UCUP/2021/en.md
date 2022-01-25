@@ -124,22 +124,24 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
   5. [Camellia as "Bang Riot" - Blastix Riotz (xidorn) \[the fifth\]](https://osu.ppy.sh/beatmapsets/1543367#osu/3154742)
   6. [NIWASHI - Kemuri (Down) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1441911#osu/2966209)  
 - Hidden
-  1. [Araki x nqrse x Meychan - Odo (Chizu-Kun) \[Axaptice's Extra\]](https://osu.ppy.sh/beatmapsets/1545055#osu/3195697)
-  2. [siqlo - wholeheartedly (Feiri) \[Extra\]](https://osu.ppy.sh/beatmapsets/1439394#osu/3297831)
-  3. [Kenshi Yonezu - MAD HEAD LOVE (Keqing) \[NEWTON'S LOVE INSANE\]](https://osu.ppy.sh/beatmapsets/1429536#osu/3205010)
+  1. [Tsukuyomi - Konna Inochi ga Nakereba (ponbot) \[Farewell\]](https://osu.ppy.sh/beatmapsets/1277983#osu/2655079)
+  2. [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely\~Radio (yf\_bmp) \[Lovely Gravity\]](https://osu.ppy.sh/beatmapsets/1435820#osu/2954288)
+  3. [Nardis - Cosmo Memory (YokesPai) \[Forgotten\]](https://osu.ppy.sh/beatmapsets/992232#osu/2075064)
 - HardRock
-  1. [Hoshimachi Suisei - GHOST (Amateurre) \[Mayu's Extreme\]](https://osu.ppy.sh/beatmapsets/1432314#osu/2962189)
-  2. [Laur - Vindication (Cubby) \[Extra\]](https://osu.ppy.sh/beatmapsets/1580046#osu/3226352)
-  3. [Ian Taylor - Sea Shanty 2 (Kyshiro) \[Buying gf 10gp\]](https://osu.ppy.sh/beatmapsets/1484283#osu/3044046)
+  1. [Katakiri Rekka - Answer (tatemae) \[Differance\]](https://osu.ppy.sh/beatmapsets/1231409#osu/2559900)
+  2. [Kanaria - ENVY BABY (Ryuusei Aika) \[Unready\]](https://osu.ppy.sh/beatmapsets/1575643#osu/3216902)
+  3. [Street vs. Sin:cK - Adamantite (Acylica) \[LCFC's Extra\]](https://osu.ppy.sh/beatmapsets/1265628#osu/2630253)
 - DoubleTime
-  1. [Printemps - Eien Friends (Sakaue Nachi) \[Friends\]](https://osu.ppy.sh/beatmapsets/235836#osu/546514)
-  2. [zts - miragecoordinator (Tsumugi-chan) \[Collab Expert\]](https://osu.ppy.sh/beatmapsets/1085924#osu/2270798)
-  3. [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#osu/76612)
-  4. [Rigel Theatre - SPIKA (Lunala) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/993379#osu/2077290)
+  1. [Himeringo - Yonjuunana (Gottagof4st) \[Northern Star\]](https://osu.ppy.sh/beatmapsets/762282#osu/1602763)
+  2. [07th Expansion - Final Answer (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/26226#osu/88633)
+  3. [Venetian Snares - Shaky Sometimes (fergas) \[Starstorm (AR8.4)\]](https://osu.ppy.sh/beatmapsets/446493#osu/3084550)
+  4. [Ruler (CV: Yoko Hikasa), Swim Swim (CV: Inori Minase) - Betrayal (VINXIS) \[Extra: Adoration\]](https://osu.ppy.sh/beatmapsets/555864#osu/1176384)
 - FreeMod
-  1. [KAMELOT - Vespertine (My Crimson Bride) (LMT) \[ar9.3\]](https://osu.ppy.sh/beatmapsets/1000057#osu/3401158)
-  2. [A.SAKA - Nanatsu Koyoto (My Angel Watame) \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1618445)
-  3. [senya - Kimiiro Subliminal (AtHeoN) \[Satellite\]](https://osu.ppy.sh/beatmapsets/418398#osu/1031948)
+  1. [-45 - Midorigo Queen Bee (Frakturehawkens) \[EijiKuinbii\]](https://osu.ppy.sh/beatmapsets/1126144#osu/2352989)
+  2. [Kero Kero Bonito - Flamingo (WTN3 Remix) (Cubby)) \[ar8\]](https://osu.ppy.sh/beatmapsets/1271938#osu/2662957)
+  3. [The Ghost Of 3.13 - Forgotten (Blue Dragon) \[grumd\]](https://osu.ppy.sh/beatmapsets/55560#osu/169841)
+- Tiebreaker
+  1. **[Fuki - Sacred Bones Riot (Foxy Grandpa) \[Scars\]](https://osu.ppy.sh/beatmapsets/1221414#osu/2540771)**   
 
 ### Round of 16
 
