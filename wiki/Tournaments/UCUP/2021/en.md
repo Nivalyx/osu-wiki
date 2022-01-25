@@ -212,7 +212,7 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 - NoMod
   1. [TrySail - Utsuroi (Mir) \[Confession\]](https://osu.ppy.sh/beatmapsets/1433678#osu/2950420)
   2. [EBICO - Persephone (FrenZ396) \[Romance\]](https://osu.ppy.sh/beatmapsets/1396151#osu/2943621)
-  3. [abusa Sumireko (CV: Arakawa Miho) - Inochi no Karakuri (Talulah) \[The Queen\]](https://osu.ppy.sh/beatmapsets/1061614#osu/2223096)
+  3. [Hanabusa Sumireko (CV: Arakawa Miho) - Inochi no Karakuri (Talulah) \[The Queen\]](https://osu.ppy.sh/beatmapsets/1061614#osu/2223096)
   4. [onoken - unisonote (Firis Mistlud) \[ameth's bel fiore\]](https://osu.ppy.sh/beatmapsets/942224#osu/1971717)
   5. [Diceros Bicornis - ReviveR (xidorn) \[the third\]](https://osu.ppy.sh/beatmapsets/1530005#osu/3129534)
 - Hidden
