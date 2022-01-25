@@ -319,7 +319,15 @@ Saturday, 2 October 2021:
 | Lower | kotori | 0 | **5** | **osu winx club** | [#1](https://osu.ppy.sh/community/matches/91803485) |
 | Upper | **Rushia** | **5** | 0 | yo | [#1](https://osu.ppy.sh/community/matches/91803948) |
 | Upper | :markus: | 0 | **5** | **LewaToprak** | [#1](https://osu.ppy.sh/community/matches/91806899) |
+| Lower | **:hinamizada:** | **5** | 0 | Shiroyami | *win by default* |
 | Lower | idk any | 0 | **5** | **taketake\_gif** | *win by default* |
+
+Sunday, 3 October 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **\|l\|l\|l\|** | **5** | 0 | i love tateyama | [#1](https://osu.ppy.sh/community/matches/91846788) |
+| Upper | :iofiPanic: | 0 | **5** | **Venception** | *win by default* |
 
 | Upper | **L9 Hamster** | **5** | 0 | momoteaStans | *win by default* |
 
