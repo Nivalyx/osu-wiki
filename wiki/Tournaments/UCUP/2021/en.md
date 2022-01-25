@@ -1,7 +1,8 @@
 ---
 tags:
-  - oSEAT
-  - oSEAT5
+  - UCUP
+  - UCUP 4
+  - UCUP 2021
 ---
 
 # Ulat Cup 2021
