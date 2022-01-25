@@ -200,8 +200,10 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
   4. [Bronco (El Gigante de America) - Chocheman (Gens) \[Dificil\]](https://osu.ppy.sh/beatmapsets/9440#osu/38768)  
 - FreeMod
   1. [Drumsound & Bassline Smith - Through The Night feat. Tom Cane (Strategas) \[Extra\]](https://osu.ppy.sh/beatmapsets/685499#osu/1499313)
-  2. [ZUTOMAYO - Byoushin o Kamu (semaphore) \[attendant's Another\]](https://osu.ppy.sh/beatmapsets/1352963#osu/2968941)
-  3. [ROCKY CHACK, Lil Jon & The East Side Boyz - Ringo Biyori \~The Wolf Whistling Song x Get Low (feat. Ying Yang Twins) (Deramok) \[Insane\]](https://osu.ppy.sh/beatmapsets/1062345#osu/2538882)
+  2. [96neko - Uso no Hibana (keeVY) \[Expert\]](https://osu.ppy.sh/beatmapsets/1347368#osu/2797780)
+  3. [M2U - A Bella! (feat. Lucy) (Okoratu) \[Melwoine's Extra\]](https://osu.ppy.sh/beatmapsets/1158767#osu/2418108)
+- Tiebreaker
+  1. **[Dark PHOENiX - Ryokugan no Jealousy (Camo) \[Green-Eyed Monster\]](https://osu.ppy.sh/beatmapsets/1530977#osu/3131384)**   
 
 ### Round of 64
 
