@@ -191,8 +191,8 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
   3. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Kuro Fuyusaki) \[UCUP21\]](https://osu.ppy.sh/beatmapsets/1556851#osu/3180419)
 - HardRock
   1. [Empty Peperoncino - Hoshifuru Yoru ni (Agatsu) \[Twilight\]](https://osu.ppy.sh/beatmapsets/1417164#osu/2920177)
-  2. [Luck Ganriki feat. Kino Nei - Kina no Kaori \~Ai no Shiren!\~ (eiri-) \[Ayyri & Yuuya's Expert\]](https://osu.ppy.sh/beatmapsets/1300086#osu/2696952)
-  3. [Parov Stelar - Libella Swing (Taeyang) \[Extra\]](https://osu.ppy.sh/beatmapsets/991657#osu/2073859)
+  2. [\*Luna feat. IA - Start Line (Cut Ver.) (Niva) \[Niva x Kuro Fuyusaki's Sea Food Extra\]](https://osu.ppy.sh/beatmapsets/1395285#osu/2880033)
+  3. [EBIMAYO - GOODWORLD (Kuro Fuyusaki) \[Pochi\]](https://osu.ppy.sh/beatmapsets/1554087#osu/3175091)
 - DoubleTime
   1. [adieu - Ao (Rtyzen) \[Blue Sky\]](https://osu.ppy.sh/beatmapsets/1076185#osu/2251839)
   2. [umu. - Dareka no Shinzou ni Nareta Nara (xbopost) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1098181#osu/2321761)
