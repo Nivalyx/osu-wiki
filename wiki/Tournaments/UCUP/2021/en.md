@@ -49,7 +49,7 @@ UCUP 2021 was run by various osu! community members predominantly hailing from I
 | Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966) |
 | Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_CA] [PuffedKirby](https://osu.ppy.sh/users/19165524) |
 | Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220) |
-| Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [YaeMyMommy](https://osu.ppy.sh/users/17278897), ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581), ![][flag_ID] [Deorum](https://osu.ppy.sh/users/5933031), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919), ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Yovifikri](https://osu.ppy.sh/users/3416659), ![][flag_CA] [I-Flame](https://osu.ppy.sh/users/11257542), ![][flag_CA] [wolfflow11](https://osu.ppy.sh/users/14491879) |
+| Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [YaeMyMommy](https://osu.ppy.sh/users/17278897), ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581), ![][flag_ID] [Deorum](https://osu.ppy.sh/users/5933031), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919), ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Yovifikri](https://osu.ppy.sh/users/3416659), ![][flag_CA] [I-Flame](https://osu.ppy.sh/users/11257542), ![][flag_CA] [wolfflow11](https://osu.ppy.sh/users/14491879), ![][flag_HK] [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
 | Graphic designer | ![][flag_ID] [sho](https://osu.ppy.sh/users/6625422) |
 | Spreadsheet manager | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -779,6 +779,7 @@ Sunday, 6 December 2021:
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
