@@ -84,22 +84,22 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 | 14 | nama tim | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | 14.8 |
 | 15 | momoteaStans | ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545) | ![][flag_US] [NekomataOkayu](https://osu.ppy.sh/users/9474976) | 15.9 |
 | 16 | yo | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | ![][flag_US] [xpliq](https://osu.ppy.sh/users/8699529) | 16.5 |
-| 17 | whatdoiputhere | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 17.2 |
-| 18 | yoinkysploinky | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 18.8 |
-| 19 | dmk | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 19.2 |
-| 20 | osu winx club | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 19.9 |
-| 21 | skor buruk | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 20.6 |
-| 22 | Miko Bloom | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 24.3 |
-| 23 | taketake\_gif | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 24.9 |
-| 24 | Shiroyami | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 25.0 |
-| 25 | :markus: | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 25.9 |
-| 26 | idk any | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 26.0 |
-| 27 | Pegmatite | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 27.5 |
-| 28 | Le Skillcapped | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 27.6 |
-| 29 | kotori | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 28.5 |
-| 30 | marcus fancam | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 28.6 |
-| 31 | dead rats | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 30.3 |
-| 33 | Rokok Lisan | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 30.5 |
+| 17 | whatdoiputhere | ![][flag_ID] [Zoneeox](https://osu.ppy.sh/users/6596134) | ![][flag_ID] [Tazkiz](https://osu.ppy.sh/users/3738010) | 17.2 |
+| 18 | yoinkysploinky | ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206) | ![][flag_MY] [Zygody](https://osu.ppy.sh/users/3677251) | 18.8 |
+| 19 | dmk | ![][flag_ID] [DeZpair](https://osu.ppy.sh/users/7518843) | ![][flag_ID] [Castlefrost](https://osu.ppy.sh/users/11736996) | 19.2 |
+| 20 | osu winx club | ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) | ![][flag_PH] [elki](https://osu.ppy.sh/users/8136525) | 19.9 |
+| 21 | skor buruk | ![][flag_ID] [StayMusical](https://osu.ppy.sh/users/12688176) | ![][flag_PH] [Jariru Tabirizu](https://osu.ppy.sh/users/8218190) | 20.6 |
+| 22 | Miko Bloom | ![][flag_ID] [Grandidierite](https://osu.ppy.sh/users/11976077) | ![][flag_GB] [TheUltimateBlah](https://osu.ppy.sh/users/12204079) | 24.3 |
+| 23 | taketake\_gif | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) | ![][flag_ID] [Picko](https://osu.ppy.sh/users/10459494) | 24.9 |
+| 24 | Shiroyami | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | ![][flag_ID] [Fazurey](https://osu.ppy.sh/users/6548973) | 25.0 |
+| 25 | :markus: | ![][flag_ID] [RealViolence](https://osu.ppy.sh/users/5638585) | ![][flag_ID] [121Brian121](https://osu.ppy.sh/users/6192975) | 25.9 |
+| 26 | idk any | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213) | 26.0 |
+| 27 | Pegmatite | ![][flag_ID] [Ceress](https://osu.ppy.sh/users/11062015) | ![][flag_ID] [rzkadi](https://osu.ppy.sh/users/2057576) | 27.5 |
+| 28 | Le Skillcapped | ![][flag_ID] [Shiiori](https://osu.ppy.sh/users/13799103) | ![][flag_ID] [nolae](https://osu.ppy.sh/users/8688737) | 27.6 |
+| 29 | kotori | ![][flag_ID] [Egao](https://osu.ppy.sh/users/12419257) | ![][flag_ID] [Hazui](https://osu.ppy.sh/users/9919208) | 28.5 |
+| 30 | marcus fancam | ![][flag_ID] [Celine](https://osu.ppy.sh/users/3545579) | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | 28.6 |
+| 31 | dead rats | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | ![][flag_ID] [LaksPlayz](https://osu.ppy.sh/users/9519657) | 30.3 |
+| 32 | Rokok Lisan | ![][flag_ID] [hikimaruy](https://osu.ppy.sh/users/9510067) | ![][flag_ID] [Cudi](https://osu.ppy.sh/users/9974314) | 30.5 |
 
 ## Mappools
 
@@ -792,10 +792,12 @@ Sunday, 6 December 2021:
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
