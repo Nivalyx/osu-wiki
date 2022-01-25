@@ -312,6 +312,7 @@ Friday, 24 September 2021:
 Saturday, 25 September 2021:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **nama tim** | **5** | 1 | dmk | [#1](https://osu.ppy.sh/community/matches/91459321) |
 | Upper | **Surtr S3** | **5** | 0 | Kotori | [#1](https://osu.ppy.sh/community/matches/91456494) |
 | Upper | **L9 Hamster** | **5** | 0 | dead rats | [#1](https://osu.ppy.sh/community/matches/91459292) |
