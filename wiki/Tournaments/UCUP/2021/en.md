@@ -304,9 +304,18 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 Friday, 24 September 2021:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **\|l\|l\|l\|** | **5** | 0 | Le Skillcapped | [#1](https://osu.ppy.sh/community/matches/91396323) |
+| Upper | **Rushia** | **5** | 0 | Rokok Lisan | [#1](https://osu.ppy.sh/community/matches/91396856) |
+
+Saturday, 25 September 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| Upper | **nama tim** | **5** | 1 | dmk | [#1](https://osu.ppy.sh/community/matches/91459321) |
+| Upper | **Surtr S3** | **5** | 0 | Kotori | [#1](https://osu.ppy.sh/community/matches/91456494) |
+| Upper | **L9 Hamster** | **5** | 0 | dead rats | [#1](https://osu.ppy.sh/community/matches/91459292) |
+| Upper | **LewaToprak** | **5** | 0 | Shiroyami | *win by default* |
 
 Friday, 17 December 2021:
 
