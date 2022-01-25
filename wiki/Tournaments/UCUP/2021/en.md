@@ -114,7 +114,7 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 ### Finals (week 1)
 
-**[Download the mappack here! (190 MB)](https://drive.google.com/u/0/uc?id=1myZcitGg68YqK2MoHLb2xv7USoObZ5Mv&export=download)**
+**[Download the mappack here! (126 MB)](https://drive.google.com/u/0/uc?id=1myZcitGg68YqK2MoHLb2xv7USoObZ5Mv&export=download)**
 
 - NoMod
   1. [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
