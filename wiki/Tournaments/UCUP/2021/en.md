@@ -194,11 +194,12 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
   2. [\*Luna feat. IA - Start Line (Cut Ver.) (Niva) \[Niva x Kuro Fuyusaki's Sea Food Extra\]](https://osu.ppy.sh/beatmapsets/1395285#osu/2880033)
   3. [EBIMAYO - GOODWORLD (Kuro Fuyusaki) \[Pochi\]](https://osu.ppy.sh/beatmapsets/1554087#osu/3175091)
 - DoubleTime
-  1. [adieu - Ao (Rtyzen) \[Blue Sky\]](https://osu.ppy.sh/beatmapsets/1076185#osu/2251839)
-  2. [umu. - Dareka no Shinzou ni Nareta Nara (xbopost) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1098181#osu/2321761)
-  3. [Tamura Yukari - Endless Story (lolcubes) \[Insane\]](https://osu.ppy.sh/beatmapsets/38426#osu/123021)
+  1. [ORESAMA - Wonder Drive (AIR) \[Looking Glass\]](https://osu.ppy.sh/beatmapsets/619339#osu/1305415)
+  2. [TOTAL OBJECTION - Higurashi Moratorium (rollpan) \[Insane\]](https://osu.ppy.sh/beatmapsets/702512#osu/2951599)
+  3. [tomatoism - Someone Special (Jiysea) \[A n o t h e r\]](https://osu.ppy.sh/beatmapsets/1282080#osu/2662924)
+  4. [Bronco (El Gigante de America) - Chocheman (Gens) \[Dificil\]](https://osu.ppy.sh/beatmapsets/9440#osu/38768)  
 - FreeMod
-  1. [goreshit - looming shadow of a tree long gone (Hobbes2) \[greenhobbes' extreme\]](https://osu.ppy.sh/beatmapsets/1072094#osu/2972038)
+  1. [Drumsound & Bassline Smith - Through The Night feat. Tom Cane (Strategas) \[Extra\]](https://osu.ppy.sh/beatmapsets/685499#osu/1499313)
   2. [ZUTOMAYO - Byoushin o Kamu (semaphore) \[attendant's Another\]](https://osu.ppy.sh/beatmapsets/1352963#osu/2968941)
   3. [ROCKY CHACK, Lil Jon & The East Side Boyz - Ringo Biyori \~The Wolf Whistling Song x Get Low (feat. Ying Yang Twins) (Deramok) \[Insane\]](https://osu.ppy.sh/beatmapsets/1062345#osu/2538882)
 
