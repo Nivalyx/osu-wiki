@@ -97,20 +97,22 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
   2. [Laur - Metamorphose (verychill) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/1238413#osu/2639428)
   3. [sokoniraru - Lament Moment (HabiHolic) \[PaRaDogi's Ex\_Death\]](https://osu.ppy.sh/beatmapsets/1288090#osu/2687455)
 - HardRock
-  1. [MisomyL - Ring ! Run ! Nyan!! (Fisky) \[Genetically ! Engineered ! Catgirls!!\]](https://osu.ppy.sh/beatmapsets/1536674#osu/3141960)
-  2. [USAO - Knight Rider (RLC) \[Extra\]](https://osu.ppy.sh/beatmapsets/1156969#osu/2414318)
-  3. [luz - Doku Ringo to Cinderella (Ametrin) \[Fairy Tale?\]](https://osu.ppy.sh/beatmapsets/664784#osu/1406919)
+  1. [Dance Gavin Dance - Son of Robot (Hobbes2) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/1391800#osu/2873706)
+  2. [Balloon - Ame to Petra (Axarious) \[Normal\]](https://osu.ppy.sh/beatmapsets/1351510#osu/2797986)
+  3. [TOMOSUKE - Ergosphere (toybot) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1233027#osu/2563333)
 - DoubleTime
-  1. [Eriri Spencer Sawamura, Utaha Kasumigaoka, Megumi Kato - LOVE iLLUSiON (jordanlr7) \[Insane\]](https://osu.ppy.sh/beatmapsets/1648765#osu/3365328)
-  2. [ARM (IOSYS) - Last Occultism \~ Utsushiyo no Hijutsu-shi (eiri-) \[Zekk's Insane\]](https://osu.ppy.sh/beatmapsets/1616038#osu/3359825)
-  3. [REDALiCE - Great Nano Desu\* (YokesPai) \[Insane\]](https://osu.ppy.sh/beatmapsets/1587332#osu/3241887)
-  4. [Zu Hai - Hao Yun Lai (kanor) \[My turn, draw!!!!!!\]](https://osu.ppy.sh/beatmapsets/1090501#osu/2279607)
+  1. [FROZEN QUALIA - M'aider (Hishiro Chizuru) \[Collab Blossom\]](https://osu.ppy.sh/beatmapsets/1296276#osu/2689515)
+  2. [Rita - Winter Diamond (Kirylin) \[LMT's Insane\]](https://osu.ppy.sh/beatmapsets/1023611#osu/2226227)
+  3. [Chata - Wan (Kalibe) \[Sorrow\]](https://osu.ppy.sh/beatmapsets/922995#osu/1927444)
+  4. [ShinRa-Bansho - MY Heart Rate (UberFazz) \[JAZZ's Lunatic\]](https://osu.ppy.sh/beatmapsets/1237886#osu/2576252)
 - FreeMod
-  1. [Sharpnel High Speed Music Team - Exciting Hyper Highspeed Star (fanzhen0019) \[Hyper Highspeed\]](https://osu.ppy.sh/beatmapsets/1070942#osu/2241715)
-  2. [Katakiri Rekka - Answer (ShirohaMyMommy) \[AxariousMyMommy Collab\]](https://osu.ppy.sh/beatmapsets/1062653#osu/2225299)
-  3. [mafumafu - I wanna be a girl (Night Mare) \[Can I Become One, Please?\]](https://osu.ppy.sh/beatmapsets/1069248#osu/2238336)
+  1. [Tsumiki - Phony (Ryuusei Aika) \[?????????\]](https://osu.ppy.sh/beatmapsets/1533832#osu/3136646)
+  2. [ZUN - Desire Drive (Halfslashed) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1276352#osu/2651838)
+  3. [ELFENSJoN - STYX (Lyruke) \[NOSTALGIC\]](https://osu.ppy.sh/beatmapsets/1554532#osu/3175993)
+- Tiebreaker
+  1. **[Noah - Astral tale - Denebold (Deca) \[Woden\]](https://osu.ppy.sh/beatmapsets/1504323#osu/3081825)**  
 
-### Quarterfinals
+### Finals (week 1)
 
 **[Download the mappack here! (190 MB)](https://drive.google.com/u/0/uc?id=1myZcitGg68YqK2MoHLb2xv7USoObZ5Mv&export=download)**
 
