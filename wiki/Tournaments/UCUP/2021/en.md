@@ -242,13 +242,13 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
   4. [Zekk - Duplication (Realazy) \[Extra\]](https://osu.ppy.sh/beatmapsets/1132727#osu/2371698)
   5. [LeaF - Kyouki Ranbu (rollpan) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1369440#osu/2831708)
 - Hidden
-  1. [Sakuzyo - FAFNIR (Sulfur) \[-kevincela-'s Extreme\]](https://osu.ppy.sh/beatmapsets/777255#osu/1634515)
-  2. [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
+  1. [Mitsuyoshi Takenobu no Ani - Amphisbaena (toybot) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/576022#osu/1219592)
+  2. [MiYAMO - Kapanet Nitori (NachoPiggy) \[saymun's Inflated\]](https://osu.ppy.sh/beatmapsets/16606#osu/59731)
 - HardRock
-  1. [ELECTROCUTICA feat. EVO+ - Moon Seeker (Lulu-) \[Lulu x Bonzi — Pulsation\]](https://osu.ppy.sh/beatmapsets/1235544#osu/2568398)
-  2. [MK feat. YURiE - Spiral (FrenZ396) \[Extra\]](https://osu.ppy.sh/beatmapsets/1570048#osu/3206058)
+  1. [Nekomata Master - Izanami's wail (Saturnalize) \[AncuL's Another\]](https://osu.ppy.sh/beatmapsets/959449#osu/3051097)
+  2. [Britney Spears - Toxic (Fuma) \[Lust\]](https://osu.ppy.sh/beatmapsets/1093878#osu/2286129)
 - DoubleTime
-  1. [Ceui - Rainbow Days (Shikibe Mayu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1181354#osu/2464147)
+  1. [Perfume - Sweet Refrain (eiri-) \[Memory\]](https://osu.ppy.sh/beatmapsets/896085#osu/1872256)
   2. [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
   3. [Joshua Sitron & Billy Straus - Swiper No Swiping! (Gordon) \[Oh, Man!\]](https://osu.ppy.sh/beatmapsets/1440219#osu/2963126)
 - FreeMod
