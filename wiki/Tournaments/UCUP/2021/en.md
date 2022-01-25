@@ -273,8 +273,8 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
   1. [toby fox - Bergentrueckung/ASGORE (Kaitjuh) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/908087#osu/2139172)
   2. [wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/28984#osu/96358)
 - DoubleTime
-  1. [Yousei Teikoku - Paradiso=Inferno (IsomirDiAngelo) \[Insane\]](https://osu.ppy.sh/beatmapsets/1296273#osu/2750914)
-  2. [Sakuzyo - FAFNIR (Sulfur) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/777255#osu/1637690)
+  1. [chelly - Calc. (CoLouRed GlaZeE) \[Delis' Insane '17\]](https://osu.ppy.sh/beatmapsets/1430387#osu/2944586)
+  2. [zts - resurrectedreplayer (-Light-) \[Magic simply cannot exist!\]](https://osu.ppy.sh/beatmapsets/1047159#osu/2188969)
 
 ## Match results
 
