@@ -120,7 +120,7 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
   1. [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
   2. [xi - Garyou Tensei (knowledgeking) \[Zephyr\]](https://osu.ppy.sh/beatmapsets/1504867#osu/3082675)
   3. [Jeff Williams feat. Casey Lee Williams & Lamar Hall - Ignite (Sparhten) \[Neon's Extra\]](https://osu.ppy.sh/beatmapsets/1581335#osu/3229026)
-  4. [Zekk - Re\_Construct (AncuL's Extra(#2)) \[0pp's bread is dead\]](https://osu.ppy.sh/beatmapsets/1318329#osu/2778366)
+  4. [Zekk - Re\_Construct (Acylica) \[(AncuL's Extra(#2))\]](https://osu.ppy.sh/beatmapsets/1318329#osu/2778366)
   5. [Camellia as "Bang Riot" - Blastix Riotz (xidorn) \[the fifth\]](https://osu.ppy.sh/beatmapsets/1543367#osu/3154742)
   6. [NIWASHI - Kemuri (Down) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1441911#osu/2966209)  
 - Hidden
