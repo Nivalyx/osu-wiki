@@ -143,7 +143,7 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 - Tiebreaker
   1. **[Fuki - Sacred Bones Riot (Foxy Grandpa) \[Scars\]](https://osu.ppy.sh/beatmapsets/1221414#osu/2540771)**   
 
-### Round of 16
+### Semifinals
 
 **[Download the mappack here! (204 MB)](https://drive.google.com/u/0/uc?id=1Qo_PPRZQtm2dIOoYRPDpOzLP8g8kfAIR&export=download)**
 
