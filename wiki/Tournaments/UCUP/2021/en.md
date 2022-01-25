@@ -186,11 +186,11 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
   5. [katagiri - Heisei Memehunters (Zelq) \[Night Meme 5\]](https://osu.ppy.sh/beatmapsets/1530257#osu/3130037)
   6. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[Amatha's Expert: Yoshino\]](https://osu.ppy.sh/beatmapsets/1404864#osu/2901399)  
 - Hidden
-  1. [Yousei Teikoku - Paradiso=Inferno (IsomirDiAngelo) \[Net0's Extra\]](https://osu.ppy.sh/beatmapsets/1296273#osu/2750915)
-  2. [Mitsukiyo - Unwelcome School (gazimal) \[AdveNt's Insane\]](https://osu.ppy.sh/beatmapsets/1541421#osu/3158362)
-  3. [BEMANI Sound Team "Yvya" - Fuego -GITADORA EDITION- (Seolv) \[captin's MASTER\]](https://osu.ppy.sh/beatmapsets/1436535#osu/2955651)
+  1. [ginkiha - eastward (Pyo) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1135063#osu/2370585)
+  2. [Hige Driver - Palette (Sharu) \[AI\]](https://osu.ppy.sh/beatmapsets/1319653#osu/2733678)
+  3. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Kuro Fuyusaki) \[UCUP21\]](https://osu.ppy.sh/beatmapsets/1556851#osu/3180419)
 - HardRock
-  1. [REDALiCE & cosMoP@Bousou-P - ANGEL HALO (PayneTrain) \[INFERNO\]](https://osu.ppy.sh/beatmapsets/1278290#osu/2655635)
+  1. [Empty Peperoncino - Hoshifuru Yoru ni (Agatsu) \[Twilight\]](https://osu.ppy.sh/beatmapsets/1417164#osu/2920177)
   2. [Luck Ganriki feat. Kino Nei - Kina no Kaori \~Ai no Shiren!\~ (eiri-) \[Ayyri & Yuuya's Expert\]](https://osu.ppy.sh/beatmapsets/1300086#osu/2696952)
   3. [Parov Stelar - Libella Swing (Taeyang) \[Extra\]](https://osu.ppy.sh/beatmapsets/991657#osu/2073859)
 - DoubleTime
