@@ -64,7 +64,7 @@ UCUP 2021 was run by various osu! community members predominantly hailing from I
 
 ## Participants
 
-Listed below are players who qualified into the Preliminary groups (along with their respective bracket, seeding, and group placements) out of 176 registered players in total.
+Listed below are the teams who managed to qualify into the Round of 32 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 54 registered teams in total.
 
 - *Upper bracket:*
 
