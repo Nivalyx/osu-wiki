@@ -78,12 +78,12 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 | 8 | :hinamizada: | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | 9.7 |
 | 9 | LewaToprak | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | ![][flag_AU] [Farmist](https://osu.ppy.sh/users/11470408) | 10.3 |
 | 10 | oogey rrrratt | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 11.7 |
-| 11 | Venception | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 11.8 |
-| 12 | i love tateyama | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 11.9 |
-| 13 | having fun | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 12.8 |
-| 14 | nama tim | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 14.8 |
-| 15 | momoteaStans | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 15.9 |
-| 16 | yo | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 16.5 |
+| 11 | Venception | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | ![][flag_US] [Venpris](https://osu.ppy.sh/users/8861593) | 11.8 |
+| 12 | i love tateyama | ![][flag_ID] [akebono](https://osu.ppy.sh/users/1815316) | ![][flag_US] [-Arko](https://osu.ppy.sh/users/8802914) | 11.9 |
+| 13 | having fun | ![][flag_ID] [D E L O N](https://osu.ppy.sh/users/11983229/) | ![][flag_IL] [MrPotato](https://osu.ppy.sh/users/2787415) | 12.8 |
+| 14 | nama tim | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | 14.8 |
+| 15 | momoteaStans | ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545) | ![][flag_US] [NekomataOkayu](https://osu.ppy.sh/users/9474976) | 15.9 |
+| 16 | yo | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | ![][flag_US] [xpliq](https://osu.ppy.sh/users/8699529) | 16.5 |
 | 17 | whatdoiputhere | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 17.2 |
 | 18 | yoinkysploinky | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 18.8 |
 | 19 | dmk | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 19.2 |
