@@ -205,9 +205,9 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 - Tiebreaker
   1. **[Dark PHOENiX - Ryokugan no Jealousy (Camo) \[Green-Eyed Monster\]](https://osu.ppy.sh/beatmapsets/1530977#osu/3131384)**   
 
-### Round of 64
+### Round of 16
 
-**[Download the mappack here! (184 MB)](https://drive.google.com/file/d/1o3fiz1dVRf7W2ZLxVCgjoInhs53IQAWb/view?usp=sharing)**
+**[Download the mappack here! (95 MB)](https://drive.google.com/u/0/uc?id=1ML0vbOSR_iNh2kuR7SSoohdA0BBzcB3_&export=download)**
 
 - NoMod
   1. [Coda - Fighting Gold (Saika0k1) \[Gold Experience\]](https://osu.ppy.sh/beatmapsets/1588182#osu/3243699)
