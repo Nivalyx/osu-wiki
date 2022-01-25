@@ -180,10 +180,11 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 - NoMod
   1. [Kurosaki Maon - Setsuna no Kajitsu (SkyFlame) \[Utopia\]](https://osu.ppy.sh/beatmapsets/1580629#osu/3227490)
-  2. [Wotamin - Gigantic O.T.N (-Tynamo) \[Love Game\]](https://osu.ppy.sh/beatmapsets/1605439#osu/3278348)
-  3. [Tenjin Kotone - Who Are You Nante Iwanaide (Talulah) \[The not boring diff\]](https://osu.ppy.sh/beatmapsets/1266996#osu/2686649)
-  4. [Frums (unknown "lambda") - 19ZZ (pocket-) \[D083F431190D51707475CB37EDF4F1E5\]](https://osu.ppy.sh/beatmapsets/1388112#osu/2866795)
-  5. [SPACELECTRO - Glow (pw384) \[FUTURE ANOMALY\]](https://osu.ppy.sh/beatmapsets/1378482#osu/2952961)
+  2. [F-777 - Vortex (knowledgeking) \[THREE DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/1543390#osu/3154777)
+  3. [inabakumori - Lost Umbrella (Ryuusei Aika) \[Jounzan's PTSD Extra\]](https://osu.ppy.sh/beatmapsets/1455997#osu/2992795)
+  4. [BEMANI Sound Team "Nekomata Master" - Painful Fate (Down) \[Acylica & Yusomi's Extreme\]](https://osu.ppy.sh/beatmapsets/1193072#osu/2486401)
+  5. [katagiri - Heisei Memehunters (Zelq) \[Night Meme 5\]](https://osu.ppy.sh/beatmapsets/1530257#osu/3130037)
+  6. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[Amatha's Expert: Yoshino\]](https://osu.ppy.sh/beatmapsets/1404864#osu/2901399)  
 - Hidden
   1. [Yousei Teikoku - Paradiso=Inferno (IsomirDiAngelo) \[Net0's Extra\]](https://osu.ppy.sh/beatmapsets/1296273#osu/2750915)
   2. [Mitsukiyo - Unwelcome School (gazimal) \[AdveNt's Insane\]](https://osu.ppy.sh/beatmapsets/1541421#osu/3158362)
