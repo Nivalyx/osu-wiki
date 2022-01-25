@@ -76,7 +76,7 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 | 6 | :IofiPanic: | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | ![][flag_TW] [Shiina Noriko](https://osu.ppy.sh/users/1285637) | 8.3 |
 | 7 | Spacediver | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | 9.1 |
 | 8 | :hinamizada: | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | 9.7 |
-| 9 | LewaToprak | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | ![][flag_AU] [Farmist](https://osu.ppy.sh/users/11470408) | 10.3 |
+| 9 | LewaToprak | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | ![][flag_AT] [Farmist](https://osu.ppy.sh/users/11470408) | 10.3 |
 | 10 | oogey rrrratt | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 11.7 |
 | 11 | Venception | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | ![][flag_US] [Venpris](https://osu.ppy.sh/users/8861593) | 11.8 |
 | 12 | i love tateyama | ![][flag_ID] [akebono](https://osu.ppy.sh/users/1815316) | ![][flag_US] [-Arko](https://osu.ppy.sh/users/8802914) | 11.9 |
@@ -787,12 +787,15 @@ Sunday, 6 December 2021:
    - If both players ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IL]: /wiki/shared/flag/IL.gif "Israel"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
