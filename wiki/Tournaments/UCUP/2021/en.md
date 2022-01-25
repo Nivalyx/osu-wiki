@@ -70,7 +70,12 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 | Seed No. | Team Name | Player 1 (Captain) | Player 2 | Avg. Map Rank |
 | :-: | :-- | :-- | :-- | :-- |
-| 1 | Rushia | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_AU] [sakamata1])https://osu.ppy.sh/users/7562902) | 3.8 |
+| 1 | Rushia | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_AU] [sakamata1](https://osu.ppy.sh/users/7562902) | 3.8 |
+| 2 | L9 Hamster | ![][flag_ID] [rHO](https://osu.ppy.sh/users/1629553) | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 3.9 |
+| 3 | CrezzMyMommy | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | 4.8 |
+| 4 | Surtr S3 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | ![][flag_PL] [maliszewski](https://osu.ppy.sh/users/12408961) | 5.0 |
+| 5 | \|l\|l\|l\| | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620) | 6.0 |
+| 6 | :IofiPanic: | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | ![][flag_TW] [Shiina Noriko](https://osu.ppy.sh/users/1285637) | 8.3 |
 
 ## Mappools
 
@@ -770,5 +775,8 @@ Sunday, 6 December 2021:
    - If both players ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
