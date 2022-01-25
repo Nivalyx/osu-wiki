@@ -249,8 +249,8 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
   2. [Britney Spears - Toxic (Fuma) \[Lust\]](https://osu.ppy.sh/beatmapsets/1093878#osu/2286129)
 - DoubleTime
   1. [Perfume - Sweet Refrain (eiri-) \[Memory\]](https://osu.ppy.sh/beatmapsets/896085#osu/1872256)
-  2. [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
-  3. [Joshua Sitron & Billy Straus - Swiper No Swiping! (Gordon) \[Oh, Man!\]](https://osu.ppy.sh/beatmapsets/1440219#osu/2963126)
+  2. [Hanatan - Kitsune no Yomeiri (Ryafuka) \[Kitsuneko\]](https://osu.ppy.sh/beatmapsets/46070#osu/144387)
+  3. [sekai - Zange Mairi (Yugu) \[Voice's Insane\]](https://osu.ppy.sh/beatmapsets/1176431#osu/2853477)
 - FreeMod
   1. [Sakuzyo - Instinct (Zelq) \[Circles\]](https://osu.ppy.sh/beatmapsets/1291263#osu/2680275)
   2. [P.D.P. - A Word To The Wise (TheKingHenry) \[Extra\]](https://osu.ppy.sh/beatmapsets/890157#osu/1860763)
