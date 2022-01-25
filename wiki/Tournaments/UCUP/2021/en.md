@@ -40,12 +40,13 @@ The **Ulat Cup 2021** (***UCUP 2021***) was a double-elimination 2v2 osu! tourna
 
 ## Organisation
 
-oSEAT5 is run by various osu! community members predominantly hailing from various South East Asian countries.
+UCUP 2021 was run by various Indonesian osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846) |
-| Mappool selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
+| Host | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
+| Supervisor | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302) |
+| Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966) |
 | Playtester | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_SG] [pashty](https://osu.ppy.sh/users/9576725), ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [SDKO](https://osu.ppy.sh/users/4858555), ![][flag_DE] [Menty](https://osu.ppy.sh/users/36192840), ![][flag_US] [daw9801](https://osu.ppy.sh/users/4773094) |
 | Streamer | ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [My Angel Petra](https://osu.ppy.sh/users/8691555), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
 | Commentator | ![][flag_PH] [TofuDoriftu](https://osu.ppy.sh/users/17812861), ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_PH] [Kikomeister](https://osu.ppy.sh/users/11570118), ![][flag_MY] [malaidan](https://osu.ppy.sh/users/14279913), ![][flag_PH] [RuiTachi-](https://osu.ppy.sh/users/11807272) |
