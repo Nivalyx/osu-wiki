@@ -300,6 +300,8 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 ## Match results
 
+### Round of 16
+
 ### Round of 32
 
 Friday, 24 September 2021:
@@ -308,6 +310,7 @@ Friday, 24 September 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **\|l\|l\|l\|** | **5** | 0 | Le Skillcapped | [#1](https://osu.ppy.sh/community/matches/91396323) |
 | Upper | **Rushia** | **5** | 0 | Rokok Lisan | [#1](https://osu.ppy.sh/community/matches/91396856) |
+| Upper | **LewaToprak** | **5** | 0 | Shiroyami | *win by default* |
 
 Saturday, 25 September 2021:
 
@@ -316,7 +319,22 @@ Saturday, 25 September 2021:
 | Upper | **nama tim** | **5** | 1 | dmk | [#1](https://osu.ppy.sh/community/matches/91459321) |
 | Upper | **Surtr S3** | **5** | 0 | Kotori | [#1](https://osu.ppy.sh/community/matches/91456494) |
 | Upper | **L9 Hamster** | **5** | 0 | dead rats | [#1](https://osu.ppy.sh/community/matches/91459292) |
-| Upper | **LewaToprak** | **5** | 0 | Shiroyami | *win by default* |
+| Upper | **yo** | **5** | 1 | whatdoiputhere | [#1](https://osu.ppy.sh/community/matches/91462221) |
+| Upper | **momoteaStans** | **5** | 1 | yoinkysploinky | [#1](https://osu.ppy.sh/community/matches/91465940) |
+| Upper | :hinamizada: | 0 | **5** | **:markus:** | *win by default* |
+
+Sunday, 26 September 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **Venception** | **5** | 0 | Miko Bloom | [#1](https://osu.ppy.sh/community/matches/91505178
+) |
+| Upper | **CrezzMyMommy** | **5** | 0 | marcusfancam | [#1](https://osu.ppy.sh/community/matches/91513760) |
+| Upper | **having fun** | **5** | 1 | osu winx club | [#1](https://osu.ppy.sh/community/matches/91502478) |
+| Upper | **i love tateyama** | **5** | 1 | skor buruk | [#1](https://osu.ppy.sh/community/matches/91503387) |
+| Upper | **:iofiPanic:** | **5** | 0 | Pegmatite | [#1](https://osu.ppy.sh/community/matches/91517616) |
+| Upper | **oogey rrrrat** | **5** | 0 | taketake\_gif | [#1](https://osu.ppy.sh/community/matches/91521776) |
+| Upper | **Spacediver** | **5** | 0 | idk any | *win by default* |
 
 Friday, 17 December 2021:
 
