@@ -263,15 +263,15 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 - NoMod
   1. [yuikonnu - caramel heaven (knowledgeking) \[NashiKari's Extreme\]](https://osu.ppy.sh/beatmapsets/1101604#osu/2314157)
-  2. [ZUTOMAYO - STUDY ME (GIDZ) \[RLC x Nathan's Extra\]](https://osu.ppy.sh/beatmapsets/1353446#osu/2801804)
-  3. [Zekk - Freefall (Livia) \[v=gt\]](https://osu.ppy.sh/beatmapsets/1559779#osu/3185984)
-  4. [Zekk - Freefall (Livia) \[v=gt\]](https://osu.ppy.sh/beatmapsets/1559779#osu/3185984)  
+  2. [Chroma - Sudden Visitor (Fisky) \[nerf (tourney)\]](https://osu.ppy.sh/beatmapsets/1251674#osu/2819791)
+  3. [Kaf - Montage (Sparhten) \[Neon's Extra\]](https://osu.ppy.sh/beatmapsets/1344469#osu/2843299)
+  4. [factal - Flux (Sharu) \[liquid\]](https://osu.ppy.sh/beatmapsets/1190470#osu/2480417)  
 - Hidden
-  1. [Katakiri Rekka - Answer (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/39953#osu/127047)
-  2. [Sano Denji - Taiko Time (Flask) \[OTST Time\]](https://osu.ppy.sh/beatmapsets/1536761#osu/3142119)
+  1. [556t - moon (revurii) \[end\]](https://osu.ppy.sh/beatmapsets/1141522#osu/3114426)
+  2. [GRANRODEO - Can Do (TV Size) (Monstrata) \[Extra: Kuroko\]](https://osu.ppy.sh/beatmapsets/493273#osu/1050582)
 - HardRock
-  1. [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2716344)
-  2. [96neko - Buriki no Dance (CallieCube) \[kario's Another\]](https://osu.ppy.sh/beatmapsets/1332410#osu/2760616)
+  1. [toby fox - Bergentrueckung/ASGORE (Kaitjuh) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/908087#osu/2139172)
+  2. [wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/28984#osu/96358)
 - DoubleTime
   1. [Yousei Teikoku - Paradiso=Inferno (IsomirDiAngelo) \[Insane\]](https://osu.ppy.sh/beatmapsets/1296273#osu/2750914)
   2. [Sakuzyo - FAFNIR (Sulfur) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/777255#osu/1637690)
