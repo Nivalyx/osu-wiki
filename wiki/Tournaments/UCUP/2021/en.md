@@ -327,8 +327,7 @@ Sunday, 26 September 2021:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **Venception** | **5** | 0 | Miko Bloom | [#1](https://osu.ppy.sh/community/matches/91505178
-) |
+| Upper | **Venception** | **5** | 0 | Miko Bloom | [#1](https://osu.ppy.sh/community/matches/91505178) |
 | Upper | **CrezzMyMommy** | **5** | 0 | marcusfancam | [#1](https://osu.ppy.sh/community/matches/91513760) |
 | Upper | **having fun** | **5** | 1 | osu winx club | [#1](https://osu.ppy.sh/community/matches/91502478) |
 | Upper | **i love tateyama** | **5** | 1 | skor buruk | [#1](https://osu.ppy.sh/community/matches/91503387) |
