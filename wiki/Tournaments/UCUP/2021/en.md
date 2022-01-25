@@ -302,6 +302,21 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 ### Round of 16
 
+Friday, 1 October 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Rokok Lisan | 2 | **5** | **whatdoiputhere** | [#1](https://osu.ppy.sh/community/matches/91745799) |
+| Lower | marcus fancam | 4 | **5** | **dmk** | [#1](https://osu.ppy.sh/community/matches/91793390) |
+| Lower | **Pegmatite** | **5** | 0 | Miko Bloom | *win by default* |
+
+Saturday, 2 October 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **Rushia** | **5** | 0 | yo | [#1](https://osu.ppy.sh/community/matches/91803948) |
+| Lower | idk any | 0 | **5** | **taketake\_gif** | *win by default* |
+
 ### Round of 32
 
 Friday, 24 September 2021:
