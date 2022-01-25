@@ -236,11 +236,11 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 **[Download the mappack here! (120 MB)](https://drive.google.com/u/0/uc?id=1i293bLZ6RNqsXVuyqNpn2OlufmLzZpUy&export=download)**
 
 - NoMod
-  1. [Twin-Tails - Twintail Dreamer! (AtHeoN) \[Twintail\]](https://osu.ppy.sh/beatmapsets/388449#osu/847386)
-  2. [Ice - Amber Wishes (Deemo edit) (Astronic) \[Aspiration\]](https://osu.ppy.sh/beatmapsets/1610241#osu/3287781)
-  3. [BlackY - Sakura Ranman Cleopatra (Rtyzen) \[Extra\]](https://osu.ppy.sh/beatmapsets/1626963#osu/3321639)
-  4. [lapix - Outer Space (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1544179#osu/3156268)
-  5. [Shade - Mars (LMT) \[Hyper (phox's 1.63x Edit)\]](https://osu.ppy.sh/beatmapsets/1639259#osu/3345763)
+  1. [Adust Rain - Misery Song (gazimal) \[Misery\]](https://osu.ppy.sh/beatmapsets/1201708#osu/2829681)
+  2. [Plum - Halloween Candystore (knowledgeking) \[Trick or Treat\]](https://osu.ppy.sh/beatmapsets/1491196#osu/3056724)
+  3. [mitsukiyo - Dream Leaf (celerih) \[kwk's Extra\]](https://osu.ppy.sh/beatmapsets/892188#osu/1865095)
+  4. [Zekk - Duplication (Realazy) \[Extra\]](https://osu.ppy.sh/beatmapsets/1132727#osu/2371698)
+  5. [LeaF - Kyouki Ranbu (rollpan) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1369440#osu/2831708)
 - Hidden
   1. [Sakuzyo - FAFNIR (Sulfur) \[-kevincela-'s Extreme\]](https://osu.ppy.sh/beatmapsets/777255#osu/1634515)
   2. [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
