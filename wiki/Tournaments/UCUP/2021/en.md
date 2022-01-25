@@ -309,6 +309,17 @@ Friday, 8 October 2021:
 | Lower | **:markus:** | **6** | 5 | dmk | [#1](https://osu.ppy.sh/community/matches/92085095) |
 | Lower | oogey rratttt | 0 | **6** | **osu winx club** | *win by default* |
 
+Saturday, 9 October 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | nama tim | 3 | **6** | **:hinamizada:** | [#1](https://osu.ppy.sh/community/matches/92096790) |
+| Upper | **Rushia** | **6** | 0 | LewaToprak | [#1](https://osu.ppy.sh/community/matches/92132164) |
+| Lower | **Surtr S3** | **6** | 0 | taketake\_gif | [#1](https://osu.ppy.sh/community/matches/92142855) |
+| Lower | :iofiPanic: | 0 | **6** | **whatdoiputhere** | *win by default* |
+
+Sunday, 10 October 2021:
+
 ### Round of 16
 
 Friday, 1 October 2021:
