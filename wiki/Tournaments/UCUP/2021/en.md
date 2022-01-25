@@ -49,7 +49,7 @@ UCUP 2021 was run by various osu! community members predominantly hailing from I
 | Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966) |
 | Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_CA] [PuffedKirby](https://osu.ppy.sh/users/19165524) |
 | Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220) |
-| Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [YaeMyMommy](https://osu.ppy.sh/users/17278897), ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581), ![][flag_ID] [Deorum](https://osu.ppy.sh/users/5933031), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919), ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Yovifikri](https://osu.ppy.sh/users/3416659), ![][flag_CA] [I-Flame](https://osu.ppy.sh/users/11257542), ![][flag_CA] [wolfflow11](https://osu.ppy.sh/users/14491879), ![][flag_HK] [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
+| Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [YaeMyMommy](https://osu.ppy.sh/users/17278897), ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581), ![][flag_ID] [Deorum](https://osu.ppy.sh/users/5933031), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919), ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Yovifikri](https://osu.ppy.sh/users/3416659), ![][flag_CA] [I-Flame](https://osu.ppy.sh/users/11257542), ![][flag_CA] [wolfflow11](https://osu.ppy.sh/users/14491879), ![][flag_HK] [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ![][flag_SG] [Fuwub](https://osu.ppy.sh/users/14238097) |
 | Graphic designer | ![][flag_ID] [sho](https://osu.ppy.sh/users/6625422) |
 | Spreadsheet manager | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -300,7 +300,35 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 
 ## Match results
 
+### Finals (week 2)
+
+Saturday, 30 October 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | L9 Hamster | 2 | **7** | **Surtr S3** | [#1](https://osu.ppy.sh/community/matches/93193908) |
+
+Sunday, 31 October 2021, Grand Final:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **Rushia** | **7** | 6 | Surtr S3 | [#1](https://osu.ppy.sh/community/matches/93267629) |
+
 ### Finals (week 1)
+
+Saturday, 23 October 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | CrezzMyMommy | 4 | **7** | **:hinamizada:** | [#1](https://osu.ppy.sh/community/matches/92811482) |
+| Lower | having fun | 2 | **7** | **Surtr S3** | [#1](https://osu.ppy.sh/community/matches/92822968) |
+
+Sunday, 24 October 2021:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **Rushia** | **7** | 2 | L9 Hamster | [#1](https://osu.ppy.sh/community/matches/92874833) |
+| Lower | :hinamizada: | 2 | **7** | **Surtr S3** | [#1](https://osu.ppy.sh/community/matches/92889141) |
 
 ### Semifinals
 
