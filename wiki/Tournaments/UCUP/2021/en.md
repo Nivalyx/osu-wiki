@@ -74,6 +74,10 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 | 4 | Surtr S3 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | ![][flag_PL] [maliszewski](https://osu.ppy.sh/users/12408961) | 5.0 |
 | 5 | \|l\|l\|l\| | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620) | 6.0 |
 | 6 | :IofiPanic: | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | ![][flag_TW] [Shiina Noriko](https://osu.ppy.sh/users/1285637) | 8.3 |
+| 7 | Spacediver | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | 9.1 |
+| 8 | :hinamizada: | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | 9.7 |
+| 9 | LewaToprak | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | ![][flag_AU] [Farmist](https://osu.ppy.sh/users/11470408) | 10.3 |
+| 10 | oogey rrrratt | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_RU] [Skrowell](https://osu.ppy.sh/users/9694263) | 11.7 |
 
 ## Mappools
 
@@ -776,6 +780,7 @@ Sunday, 6 December 2021:
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
