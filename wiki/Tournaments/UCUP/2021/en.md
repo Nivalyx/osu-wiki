@@ -231,9 +231,9 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 - Tiebreaker
   1. **[Noah - Reflection (Adinda) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1426912#osu/2938138)**   
 
-### Preliminary groups (upper bracket)
+### Round of 32
 
-**[Download the mappack here! (108 MB)](https://drive.google.com/u/0/uc?id=16uRQfNAqnSCC_9iy6YWug-e2WSmT-Kng&export=download)**
+**[Download the mappack here! (120 MB)](https://drive.google.com/u/0/uc?id=1i293bLZ6RNqsXVuyqNpn2OlufmLzZpUy&export=download)**
 
 - NoMod
   1. [Twin-Tails - Twintail Dreamer! (AtHeoN) \[Twintail\]](https://osu.ppy.sh/beatmapsets/388449#osu/847386)
