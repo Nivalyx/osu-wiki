@@ -265,6 +265,7 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
   1. [xi - Blue Zenith (Aspyhxia) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/292301#osu/657916)
   2. [ZUTOMAYO - STUDY ME (GIDZ) \[RLC x Nathan's Extra\]](https://osu.ppy.sh/beatmapsets/1353446#osu/2801804)
   3. [Zekk - Freefall (Livia) \[v=gt\]](https://osu.ppy.sh/beatmapsets/1559779#osu/3185984)
+  4. [Zekk - Freefall (Livia) \[v=gt\]](https://osu.ppy.sh/beatmapsets/1559779#osu/3185984)  
 - Hidden
   1. [Katakiri Rekka - Answer (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/39953#osu/127047)
   2. [Sano Denji - Taiko Time (Flask) \[OTST Time\]](https://osu.ppy.sh/beatmapsets/1536761#osu/3142119)
