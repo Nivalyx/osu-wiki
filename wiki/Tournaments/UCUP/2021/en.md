@@ -117,12 +117,12 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 **[Download the mappack here! (190 MB)](https://drive.google.com/u/0/uc?id=1myZcitGg68YqK2MoHLb2xv7USoObZ5Mv&export=download)**
 
 - NoMod
-  1. [nonoc - Relive (0ugi) \[Extreme: Rem\]](https://osu.ppy.sh/beatmapsets/1226951#osu/2551412)
-  2. [Xi - Broken the Moon (-Tynamo) \[suika ibuki broke the moon\]](https://osu.ppy.sh/beatmapsets/1597800#osu/3263130)
-  3. [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/1579180#osu/3224533)
-  4. [Zekk - Freefall (0ppInOsu) \[0pp's bread is dead\]](https://osu.ppy.sh/beatmapsets/1581139#osu/3228592)
-  5. [Okui Masami - God Speed (ykcarrot) \[Insane (AJT's 240BPM Edit)\]](https://osu.ppy.sh/beatmapsets/1129735#osu/2359996)
-  6. [MAD CHILD - Voice 2 Voice (Kawashiro) \[Yugu's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1361203#osu/2987273)  
+  1. [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
+  2. [xi - Garyou Tensei (knowledgeking) \[Zephyr\]](https://osu.ppy.sh/beatmapsets/1504867#osu/3082675)
+  3. [Jeff Williams feat. Casey Lee Williams & Lamar Hall - Ignite (Sparhten) \[Neon's Extra\]](https://osu.ppy.sh/beatmapsets/1581335#osu/3229026)
+  4. [Zekk - Re\_Construct (AncuL's Extra(#2)) \[0pp's bread is dead\]](https://osu.ppy.sh/beatmapsets/1318329#osu/2778366)
+  5. [Camellia as "Bang Riot" - Blastix Riotz (xidorn) \[the fifth\]](https://osu.ppy.sh/beatmapsets/1543367#osu/3154742)
+  6. [NIWASHI - Kemuri (Down) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1441911#osu/2966209)  
 - Hidden
   1. [Araki x nqrse x Meychan - Odo (Chizu-Kun) \[Axaptice's Extra\]](https://osu.ppy.sh/beatmapsets/1545055#osu/3195697)
   2. [siqlo - wholeheartedly (Feiri) \[Extra\]](https://osu.ppy.sh/beatmapsets/1439394#osu/3297831)
