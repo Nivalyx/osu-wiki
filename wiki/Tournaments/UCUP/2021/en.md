@@ -40,19 +40,18 @@ The **Ulat Cup 2021** (***UCUP 2021***) was a double-elimination 2v2 osu! tourna
 
 ## Organisation
 
-UCUP 2021 was run by various Indonesian osu! community members.
+UCUP 2021 was run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
 | Supervisor | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302) |
 | Mappool selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966) |
-| Playtester | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_SG] [pashty](https://osu.ppy.sh/users/9576725), ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [SDKO](https://osu.ppy.sh/users/4858555), ![][flag_DE] [Menty](https://osu.ppy.sh/users/36192840), ![][flag_US] [daw9801](https://osu.ppy.sh/users/4773094) |
-| Streamer | ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [My Angel Petra](https://osu.ppy.sh/users/8691555), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Commentator | ![][flag_PH] [TofuDoriftu](https://osu.ppy.sh/users/17812861), ![][flag_MY] [LouisZpro](https://osu.ppy.sh/users/6231292), ![][flag_PH] [Kikomeister](https://osu.ppy.sh/users/11570118), ![][flag_MY] [malaidan](https://osu.ppy.sh/users/14279913), ![][flag_PH] [RuiTachi-](https://osu.ppy.sh/users/11807272) |
-| Referee | ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_ID] [FikriEka](https://osu.ppy.sh/users/4176856), ![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_VN] [Chitanda Eru](https://osu.ppy.sh/users/10004804), ![][flag_PH] [Loreal](https://osu.ppy.sh/users/9362231), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_PH] [Chooga](https://osu.ppy.sh/users/9477784), ![][flag_SG] [ellyn](https://osu.ppy.sh/users/10592989), ![][flag_HK] [KR1L1Z13](https://osu.ppy.sh/users/16629149), ![][flag_HK] [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ![][flag_FR] [jehukm](https://osu.ppy.sh/users/10981418), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [Aoiyuuki-](https://osu.ppy.sh/users/1820694) |
-| Graphic designer | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) |
-| Spreadsheet manager | ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
+| Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_CA] [PuffedKirby](https://osu.ppy.sh/users/19165524) |
+| Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220) |
+| Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [YaeMyMommy](https://osu.ppy.sh/users/17278897), ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581), ![][flag_ID] [Deorum](https://osu.ppy.sh/users/5933031), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919), ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_ID] [Yovifikri](https://osu.ppy.sh/users/3416659), ![] [flag_CA] [I-Flame](https://osu.ppy.sh/users/11257542), ![][flag_CA] [wolfflow11](https://osu.ppy.sh/users/14491879) |
+| Graphic designer | ![][flag_ID] [sho](https://osu.ppy.sh/users/6625422) |
+| Spreadsheet manager | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
