@@ -531,7 +531,7 @@ Sunday, 26 September 2021:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each team is obligated to ban **one beatmap** (in the Round of 32 and Round of 16) or **two beatmaps** (in the Quarterfinals, Semifinals, and both of the Finals weeks) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match. 
+2. Each team is obligated to ban **one beatmap** (in the Round of 32 and Round of 16) or **two beatmaps** (in the Quarterfinals, Semifinals, and both of the Finals weeks) from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match. 
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own outside the multiplayer lobby.
 4. In a FreeMod pick, **one player from each team must play with Hidden and the other player must play with either NoMod, Easy, HardRock, Hidden+Easy, or Hidden+HardRock**.
