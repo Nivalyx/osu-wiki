@@ -535,8 +535,7 @@ Sunday, 26 September 2021:
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own outside the multiplayer lobby.
 4. In a FreeMod pick, **one player from each team must play with Hidden and the other player must play with either NoMod, Easy, HardRock, Hidden+Easy, or Hidden+HardRock**.
-   - 
-   - Playing a FreeMod pick without any mods activated is not allowed.
+   - Playing a FreeMod pick without any mods activated (NoMod) will incur a **x0.7 score penalty** to the corresponding player.
 5. The tiebreaker will be played under FreeMod conditions, although players are not forced to pick mods.
 6. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
