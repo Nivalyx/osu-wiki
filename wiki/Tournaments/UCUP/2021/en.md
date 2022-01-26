@@ -522,7 +522,7 @@ Sunday, 26 September 2021:
    - In the Round of 32 and Round of 16, each team needs to win 5 points in order to win a match. (Best-of-9)
    - In the Quarterfinals and Semifinals each team needs to win 6 points in order to to win a match. (Best-of-11)
    - In both of the Finals weeks (including the Grand Final), each team needs to win 7 points in order to to win a match. (Best-of-13)   
-   - Players who win By default.
+   - Players who win by default.
    - If there are players who are disqualified from the tournament.
 
 ### Match regulations
