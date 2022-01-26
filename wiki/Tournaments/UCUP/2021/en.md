@@ -482,7 +482,7 @@ Sunday, 26 September 2021:
 8. If a player disconnects, it will be treated as if they had failed the beatmap. 
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
-   - In case the disconnected player fails to report back after the maximum allowance of 15 minutes had passed, the opposing team may be declared to win the match by default.
+   - In case the disconnected player fails to report back to their team after the maximum allowance of 15 minutes had passed, the opposing team may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
