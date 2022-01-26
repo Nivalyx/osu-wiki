@@ -32,11 +32,9 @@ The **Ulat Cup 2021** (***UCUP 2021***) was a double-elimination 2v2 osu! tourna
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 12 months of osu!supporter, exclusive [Wrist Labs](https://www.instagram.com/wrist.labs/) goodie pack, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
-| *4th place* | 2 months of osu!supporter |
-| *5th place* | 1 month of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
 ![](img/badge.png "UCUP 2021 winner badge")
 
@@ -109,9 +107,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **somaymalaycapcay** (![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559), ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **adventure timers** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188), ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **we will 操你妈** (![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281), ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292), ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Rushia** (![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222), ![][flag_AU] [sakamata1](https://osu.ppy.sh/users/7562902)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Surtr S3** (![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635), ![][flag_PL] [maliszewski](https://osu.ppy.sh/users/12408961)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **L9 Hamster* (![][flag_ID] [rHO](https://osu.ppy.sh/users/1629553), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008)) |
 
 ## Mappools
 
