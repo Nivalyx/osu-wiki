@@ -527,7 +527,7 @@ Sunday, 26 September 2021:
 
 ### Match regulations
 
-1. Each team captain must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
+1. Each team captain must use the `!roll` command once in the multiplayer lobby before the match commences in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
