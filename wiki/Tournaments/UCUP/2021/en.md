@@ -501,41 +501,14 @@ Sunday, 26 September 2021:
 
 #### Qualifier rules
 
-1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
-2. In the lobby, all players will have to consecutively play all of the nine Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
-3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
-4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on the amount of Qualifier points they accumulate.
+1. Each team will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
+2. In the lobby, all teams will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+3. Teams  **are not allowed** to ban any beatmaps in the Qualifiers.
+4. Teams  **are not allowed** to join in (or register for) more than one Qualifier lobby.
+5. Based on their performance in the Qualifier, teams will be ranked based on the amount of Qualifier points they accumulate.
    - The Qualifier points are awarded for each individual beatmap and calculated by the following mechanism: the best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
-6. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Preliminary groups as follows:
-
-| Qualifier ranking | Preliminary group bracket |
-| :-: | :-- |
-| #1 - #8 | Upper / **Seed A** |
-| #9 - #16 | Upper / **Seed B** |
-| #17 - #24 | Upper / **Seed C** |
-| #25 - #32 | Upper / **Seed D** |
-| #33 - #48 | Lower / **Seed A** |
-| #49 - #64 | Lower / **Seed B** |
-| #65 - #80 | Lower / **Seed C** |
-| #81 - #96 | Lower / **Seed D** |
-
+6. The 32 teams with the **lowest amount of accumulated Qualifier points in total** will advance to the Knock-out stages.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
-
-#### Preliminary group phase rules
-
-1. In the Preliminary groups, all previously qualified players will be divided into 24 groups (8 in the upper bracket and 16 in the lower bracket) consisting of 4 different players each based on their seed.
-2. All players in each group will face each other over a single week based on the following bracket scheme, with the following preceedings:
-
-![Preliminary groups bracket scheme](img/bracket.png)
-
-   - The **top 2 players from each upper bracket group** will qualify directly to the **Round of 32** in the **upper bracket**.
-   - The **bottom 2 players from each upper bracket group** and **the winner from each lower bracket group** will qualify to the **Round of 64** in the **upper bracket**.
-   - The **2nd and 3rd-placed player from each lower bracket group** will qualify to the **Round of 64** in the **lower bracket**.
-   - The 4th-placed player from each lower bracket group will be knocked out from the tournament.
-
-3. **The upper bracket groups and the lower bracket groups will each play a different pool.**
-4. All matches in the Preliminary groups will be done in a Best-of-9 matchup format.
 
 #### Knock-out stage rules
 
