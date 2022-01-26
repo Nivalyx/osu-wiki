@@ -15,18 +15,15 @@ The **Ulat Cup 2021** (***UCUP 2021***) was a double-elimination 2v2 osu! tourna
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-10-31/2021-11-14 |
-| Screening phase | 2021-11-15/2021-11-20 |
-| Qualifiers | 2021-11-21/2021-11-28 |
-| Preliminary groups | 2021-11-29/2021-12-05 |
-| Round of 64 | 2021-12-06/2021-12-12 |
-| Round of 32 | 2021-12-13/2020-12-19 |
-| Round of 16 | 2020-12-20/2021-12-26 |
-| *Holiday break* | 2021-12-27/2022-01-02 |
-| Quarterfinals | 2022-01-03/2022-01-09 |
-| Semifinals | 2022-01-10/2022-01-16 |
-| Finals week 1 | 2022-01-17/2022-01-23 |
-| Finals week 2 | 2022-01-24/2021-01-30 |
+| Registration phase | 2021-08-11/2021-08-29 |
+| Screening phase | 2021-08-30/2021-09-12 |
+| Qualifiers | 2021-09-13/2021-09-19 |
+| Round of 32 | 2021-09-20/2021-09-26 |
+| Round of 16 | 2021-09-27/2021-10-03 |
+| Quarterfinals | 2021-10-04/2021-10-10 |
+| Semifinals | 2021-10-11/2021-10-17 |
+| Finals (week 1) | 2021-10-18/2021-10-24 |
+| Finals (week 2) | 2021-10-25/2021-10-31 |
 
 ## Prizes
 
@@ -109,7 +106,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Rushia** (![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222), ![][flag_AU] [sakamata1](https://osu.ppy.sh/users/7562902)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Surtr S3** (![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635), ![][flag_PL] [maliszewski](https://osu.ppy.sh/users/12408961)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **L9 Hamster* (![][flag_ID] [rHO](https://osu.ppy.sh/users/1629553), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **L9 Hamster** (![][flag_ID] [rHO](https://osu.ppy.sh/users/1629553), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008)) |
 
 ## Mappools
 
