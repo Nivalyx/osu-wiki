@@ -506,8 +506,7 @@ Sunday, 26 September 2021:
 3. Teams  **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Teams  **are not allowed** to join in (or register for) more than one Qualifier lobby.
 5. Teams are allowed a maximum of **90 seconds** of break in between the beatmaps.
-5. Based on their performance in the Qualifier, teams will be ranked based on their **average rank combined from each individual Qualifier beatmaps**.
-6. The 32 teams with the highest average rank combined from each individual Qualifier beatmaps will advance to the knock-out stages. 
+6. Based on their performance in the Qualifier, teams will be ranked based on their **average rank combined from each individual Qualifier beatmaps**. The 32 teams with the highest average rank combined will advance to the knock-out stages. 
    - If there are two (or more) teams who share the same average rank, the team that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
