@@ -512,7 +512,7 @@ Sunday, 26 September 2021:
 
 #### Knock-out stage rules
 
-1. The 32 teams who managed to qualify into the Knock-out stages will be matched to each other based on their Qualifiers seeding.
+1. The 32 teams who managed to qualify into the knock-out stages will be matched to each other based on their Qualifiers seeding.
 2. Teams will compete against each other using the modified Double Elimination system.
 3. The modified Double Elimination System works as follows:
    - Teams who lose in the upper bracket can still play again on the lower bracket.
