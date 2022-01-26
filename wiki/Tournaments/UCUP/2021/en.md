@@ -486,7 +486,7 @@ Sunday, 26 September 2021:
 10. Lag is not a valid reason to nullify a beatmap.
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
-    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from the future iterations of the tournament by the Tournament Management.
+    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player (and, by extension, their team) may be disqualified right away from the tournament and/or blacklisted from the future iterations of the tournament by the Tournament Management.
     - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
 ### Tournament registration
