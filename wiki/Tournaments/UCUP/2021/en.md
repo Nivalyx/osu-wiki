@@ -512,17 +512,16 @@ Sunday, 26 September 2021:
 
 #### Knock-out stage rules
 
-1. All remaining will be matched to each other based on their Preliminary groups placement as described above.
-2. Players will compete against each other using the modified Double Elimination system.
+1. The 32 teams who managed to qualify into the Knock-out stages will be matched to each other based on their Qualifiers seeding.
+2. Teams will compete against each other using the modified Double Elimination system.
 3. The modified Double Elimination System works as follows:
-   - Players who lose in the upper bracket can still play again on the lower bracket.
-   - Players who lose in the lower bracket will be eliminated from the tournament.
-   - In the Grand Final, the winner of the the upper bracket will start the match with a 2-point advantage against the winner of the lower bracket. **There will be no bracket reset in the Grand Final.**
-4. Players who can compete in the next round are determined by the following criteria:
-   - In the Round of 64, Round of 32, and Round of 16, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Quarterfinals and Semifinals, each player needs to win 7 points in order to to win a match. (Best-of-13)
-   - In both of the Finals weeks (excluding the Grand Final), each player needs to win 8 points in order to to win a match. (Best-of-15)   
-   - In the Grand Final, each player needs to win 9 points in order to to win a match (Best-of-17) with the winner of the the Upper Bracket starting the match with a 2-point advantage as described above.
+   - Teams who lose in the upper bracket can still play again on the lower bracket.
+   - Teams who lose in the lower bracket will be eliminated from the tournament.
+   - In the Grand Final, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
+4. Teams who can compete in the next round are determined by the following criteria:
+   - In the Round of 32 and Round of 16, each team needs to win 5 points in order to win a match. (Best-of-9)
+   - In the Quarterfinals and Semifinals each team needs to win 6 points in order to to win a match. (Best-of-11)
+   - In both of the Finals weeks (including the Grand Final), each team needs to win 7 points in order to to win a match. (Best-of-13)   
    - Players who win By default.
    - If there are players who are disqualified from the tournament.
 
