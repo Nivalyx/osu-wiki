@@ -38,6 +38,8 @@ The **Ulat Cup 2021** (***UCUP 2021***) was a double-elimination 2v2 osu! tourna
 | *4th place* | 2 months of osu!supporter |
 | *5th place* | 1 month of osu!supporter |
 
+![](img/badge.png "UCUP 2021 winner badge")
+
 ## Organisation
 
 UCUP 2021 was run by various osu! community members predominantly hailing from Indonesia.
@@ -100,6 +102,16 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 | 30 | marcus fancam | ![][flag_ID] [Celine](https://osu.ppy.sh/users/3545579) | ![][flag_KR] [Heilia](https://osu.ppy.sh/users/9823042) | 28.6 |
 | 31 | dead rats | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | ![][flag_ID] [LaksPlayz](https://osu.ppy.sh/users/9519657) | 30.3 |
 | 32 | Rokok Lisan | ![][flag_ID] [hikimaruy](https://osu.ppy.sh/users/9510067) | ![][flag_ID] [Cudi](https://osu.ppy.sh/users/9974314) | 30.5 |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **somaymalaycapcay** (![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559), ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **adventure timers** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188), ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **we will 操你妈** (![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281), ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292), ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650)) |
 
 ## Mappools
 
