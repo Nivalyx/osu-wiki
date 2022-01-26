@@ -491,7 +491,7 @@ Sunday, 26 September 2021:
 
 ### Tournament registration
 
-1. All players who are interested in participating in the tournament are required to form a team of two and submit their registration as a team.
+1. All players who are interested in participating in the tournament are required to form a team of two and register as a team.
    - In order to be eligible to play in the tournament, a team has to be captained by an ![][flag_ID] Indonesian player.
 2. To ensure that all incoming registrations are serious and valid, all registered players will be checked in detail by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
