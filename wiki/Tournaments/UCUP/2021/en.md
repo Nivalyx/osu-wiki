@@ -478,7 +478,7 @@ Sunday, 26 September 2021:
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a team does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players and teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap. 
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
