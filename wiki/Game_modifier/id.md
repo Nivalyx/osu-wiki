@@ -25,7 +25,7 @@ Mod dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, 
 
 ## Daftar mod
 
-*Lihat juga: [Ringkasan (Game Modifier)](/wiki/Game_modifier/Summary)*
+*Lihat juga: [Ringkasan game modifier](/wiki/Game_modifier/Summary)*
 
 Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) di samping kanan masing-masing mod.
 
