@@ -19,7 +19,7 @@ tags:
 
 **Game modifier** (atau yang pada umumnya disingkat sebagai "mod") merupakan elemen permainan yang dapat mengubah ataupun memodifikasi tampilan serta tingkat kesulitan dari suatu [beatmap](/wiki/Beatmap). Mod-mod yang ada di osu! dapat diaktifkan dari `Layar Pemilihan Mod` (sebagaimana yang tertera di atas), di mana penggunaan suatu mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau murni ditujukan untuk kesenangan semata.
 
-Para pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` di pojok kiri bawah layar atau dengan menekan `F1`. Suatu mod dapat diaktifkan secara cepat dengan menekan tombol-tombol *shortcut* yang tertera pada `Layar Pemilihan Mod`, di mana tombol-tombo *shortcut* ini dapat diubah melalui menu Options.
+Para pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` di pojok kiri bawah layar atau dengan menekan `F1`. Suatu mod dapat diaktifkan secara cepat dengan menekan tombol *shortcut* yang sesuai dengan yang ada pada `Layar Pemilihan Mod`, di mana tombol-tombo *shortcut* ini dapat diubah melalui menu Options.
 
 Mod dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial`, dan mereka juga dapat mengurangi, menambah, atau menghapus [`Pengali Skor`](/wiki/Game_modifier/Score_multiplier). Ketika dua mod digunakan secara bersamaan, pengali skor tersebut akan dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
 
