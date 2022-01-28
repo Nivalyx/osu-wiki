@@ -62,7 +62,7 @@ Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai 
 
 ### Lain-lain
 
-*Catatan: Mod-mod berikut hanya dapat diakses melalui klien osu! versi terdahulu dan saat ini sudah tidak lagi tersedia.*
+*Catatan: Mod-mod berikut saat ini sudah tidak lagi tersedia.*
 
 - [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
