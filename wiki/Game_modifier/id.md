@@ -72,11 +72,11 @@ Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai 
 
 #### NoMod
 
-Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang harus dimainkan tanpa menggunakan mod apapun di samping [No Fail](/wiki/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Game_modifier/ScoreV2) yang pada umumnya merupakan syarat wajib turnamen.
+Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang wajib dimainkan tanpa menggunakan mod apapun di samping mod-mod seperti [No Fail](/wiki/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Game_modifier/ScoreV2) yang pada umumnya dipersyaratkan oleh turnamen.
 
 #### FreeMod
 
-Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **FreeMod** (***FM***) mengacu pada beatmap-beatmap yang dapat dimainkan baik dengan ataupun tanpa mod. Turnamen-turnamen tertentu terkadang memiliki aturan khusus yang mempersyaratkan mod-mod apa saja yang dapat digunakan serta komposisi penggunaan mod seperti apa yang diperbolehkan pada beatmap-beatmap FreeMod.
+Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **FreeMod** (***FM***) mengacu pada beatmap-beatmap yang dapat dimainkan baik dengan ataupun tanpa mod. Turnamen-turnamen tertentu terkadang memiliki aturan khusus yang mempersyaratkan mod-mod apa saja serta komposisi penggunaan mod seperti apa yang diperbolehkan pada beatmap-beatmap FreeMod.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
