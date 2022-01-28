@@ -17,9 +17,9 @@ tags:
 
 ![Layar pemilihan mod](img/mod-selection-screen-ID.jpg "perbandingan layar pemilihan mod antara mode permainan osu! (kiri atas), osu!taiko (kanan atas), osu!catch (kiri bawah), dan osu!mania (kanan bawah)")
 
-**Game modifier** (yang pada umumnya disingkat sebagai "mod") merupakan elemen permainan yang dapat mengubah ataupun memodifikasi tampilan serta tingkat kesulitan dari suatu [beatmap](/wiki/Beatmap). Mod-mod yang ada di osu! dapat diaktifkan dari `Layar Pemilihan Mod` (sebagaimana yang tertera di atas), di mana penggunaan suatu mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau murni ditujukan untuk kesenangan semata.
+**Game modifier** (atau yang pada umumnya disingkat sebagai "mod") merupakan elemen permainan yang dapat mengubah ataupun memodifikasi tampilan serta tingkat kesulitan dari suatu [beatmap](/wiki/Beatmap). Mod-mod yang ada di osu! dapat diaktifkan dari `Layar Pemilihan Mod` (sebagaimana yang tertera di atas), di mana penggunaan suatu mod dapat membuat beatmap menjadi lebih mudah, lebih sulit, atau murni ditujukan untuk kesenangan semata.
 
-Pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` di pojok kiri bawah layar atau dengan menekan `F1`. Setelah memasuki `Layar Pemilihan Mod`, Shortcut untuk memilih mod tertentu juga tersedia. Shortcut tersebut dapat diubah melalui pengaturan.
+Para pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` di pojok kiri bawah layar atau dengan menekan `F1`. Setelah memasuki `Layar Pemilihan Mod`, Shortcut untuk memilih mod tertentu juga tersedia. Shortcut tersebut dapat diubah melalui pengaturan.
 
 Mod dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial`, dan mereka juga dapat mengurangi, menambah, atau menghapus [`Pengali Skor`](/wiki/Game_modifier/Score_multiplier). Ketika dua mod digunakan secara bersamaan, pengali skor tersebut akan dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
 
@@ -72,7 +72,7 @@ Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai 
 
 #### NoMod
 
-Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang harus dimainkan tanpa menggunakan mod apapun (di samping [No Fail](/wiki/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Game_modifier/ScoreV2) yang pada umumnya merupakan syarat wajib turnamen).
+Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang harus dimainkan tanpa menggunakan mod apapun di samping [No Fail](/wiki/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Game_modifier/ScoreV2) yang pada umumnya merupakan syarat wajib turnamen.
 
 #### FreeMod
 
