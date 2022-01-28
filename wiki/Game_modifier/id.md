@@ -72,7 +72,7 @@ Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai 
 
 #### NoMod
 
-Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang wajib dimainkan tanpa menggunakan mod apapun di samping mod-mod yang pada umumnya telah menjadi syarat wajib turnamen seperti [No Fail](/wiki/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Game_modifier/ScoreV2).
+Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang wajib dimainkan tanpa menggunakan mod apapun di samping mod-mod seperti [No Fail](/wiki/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Game_modifier/ScoreV2) yang pada umumnya dipersyaratkan oleh turnamen.
 
 #### FreeMod
 
