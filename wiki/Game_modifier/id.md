@@ -21,7 +21,7 @@ tags:
 
 Para pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` yang terletak pada pojok kiri bawah atau dengan menekan `F1`. Suatu mod dapat diaktifkan secara cepat dengan menekan tombol *shortcut* yang sesuai dengan yang ada pada `Layar Pemilihan Mod`, di mana tombol *shortcut* ini dapat diubah melalui menu Options.
 
-Mod-mod yang ada di osu! dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial`, di mana masing-masing mod dapat mengurangi, menambah, atau bahkan menonaktifkan [`Pengali Skor`](/wiki/Game_modifier/Score_multiplier) sepenuhnya. Ketika dua mod diaktifkan secara bersamaan, pengali skor tersebut juga akan dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
+Mod-mod yang ada di osu! dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial`, di mana masing-masing mod dapat mengurangi, menambah, atau bahkan menonaktifkan [`Pengali Skor`](/wiki/Game_modifier/Score_multiplier) sepenuhnya. Ketika dua atau lebih mod diaktifkan secara bersamaan, efek-efek pengali skor yang aktif juga akan dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
 
 ## Daftar mod
 
