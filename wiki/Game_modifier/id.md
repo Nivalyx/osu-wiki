@@ -13,7 +13,7 @@ tags:
 
 # Game modifier
 
-*Untuk penggunaan lainnya, lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod).*
+*Untuk penggunaan istilah "mod" dalam konteks-konteks lainnya, lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod).*
 
 ![Layar pemilihan mod](img/mod-selection-screen-ID.jpg "perbandingan layar pemilihan mod antara mode permainan osu! (kiri atas), osu!taiko (kanan atas), osu!catch (kiri bawah), dan osu!mania (kanan bawah)")
 
