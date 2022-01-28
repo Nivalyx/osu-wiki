@@ -58,7 +58,7 @@ Setiap mod yang berada di bawah, mempunyai ikon dari mode permainan yang sesuai 
 - [Auto (AT)](/wiki/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
   - [Cinema (CM)](/wiki/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [ScoreV2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Mod ini hanya tersedia pada versi osu! Cutting Edge (Experimental)**
+- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Hanya tersedia pada osu! versi Cutting Edge (Experimental)**
 
 ### Lain-lain
 
