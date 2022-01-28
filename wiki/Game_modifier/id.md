@@ -27,7 +27,7 @@ Mod-mod yang ada di osu! dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `P
 
 *Lihat juga: [Ringkasan game modifier](/wiki/Game_modifier/Summary)*
 
-Tidak semua mod dapat digunakan pada seluruh mode permainan. Ikon-ikon mode permainan berikut (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) menandakan mode-mode permainan apa saja yang didukung oleh mod yang bersangkutan.
+Tidak semua mod dapat digunakan pada seluruh mode permainan. Ikon-ikon mode permainan di bawah ini (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) menandakan mode-mode permainan apa saja yang didukung oleh mod yang bersangkutan.
 
 ### Pengurang kesulitan
 
