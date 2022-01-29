@@ -17,7 +17,7 @@ Untuk kasus-kasus lainnya, harap ikuti instruksi di bawah ini.
 
 ## *In-game chat*
 
-### Menggunakan perintah !report
+### Melaporkan pengguna lain melalui perintah !report
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
@@ -36,7 +36,7 @@ Jika ada spasi pada nama pengguna, gantikan spasi dengan garis bawah (_):
 !report pengguna_melanggar melakukan spam di #osu
 ```
 
-### Melaporkan seseorang melalui menu dalam permainan
+### Melaporkan pengguna lain melalui menu permainan/*in-game overlay*
 
 ![](img/report-user-1-ID.png "Menu pengguna dengan tombol laporkan")
 
