@@ -33,7 +33,7 @@ Perintah ini dapat dikirim baik dengan ataupun tanpa penjelasan lebih lanjut seb
 Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, ganti semua spasi yang ada dengan garis bawah (\_) sesuai dengan contoh berikut:
 
 ```
-!report pengguna_yanag_melanggar mengirimkan spam di #osu
+!report pengguna_yang_melanggar mengirimkan spam di #osu
 ```
 
 ### Mengirimkan laporan melalui menu dalam permainan
