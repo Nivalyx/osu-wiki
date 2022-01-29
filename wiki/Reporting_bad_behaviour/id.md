@@ -38,7 +38,7 @@ Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, ganti semua sp
 
 ### Mengirimkan laporan melalui menu dalam permainan
 
-![](img/report-user-1-ID.png "Menu permainan yang memungkinkan kamu untuk melaporkan pengguna yang melanggar")
+![](img/report-user-1-ID.png "Menu permainan yang memungkinkan kamu untuk melaporkan pengguna yang berperilaku buruk")
 
 ![](img/report-user-2-ID.png "Dialog pelaporan pengguna dalam permainan")
 
