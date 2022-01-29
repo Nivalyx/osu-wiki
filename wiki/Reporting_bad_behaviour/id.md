@@ -49,7 +49,7 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 
 ## Situs web osu!
 
-### Mengirimkan laporan melalui laman profil pengguna
+### Melaporkan pengguna lain melalui laman profil mereka
 
 ![](img/report-user-profile-ID.png "Tombol \"Laporkan\" pada laman profil pengguna")
 
