@@ -2,7 +2,7 @@
 
 osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Team) yang secara khusus bertugas untuk menjaga lingkungan osu! agar tetap kondusif sepanjang waktu. Apabila kamu melihat ada pihak-pihak yang melanggar peraturan atau menyebarkan konten yang tidak pantas, harap laporkan hal tersebut dengan menggunakan metode-metode yang dijelaskan di bawah ini. Di samping itu, kamu juga dapat mengontak para moderator yang sedang *online* secara langsung apabila setelah sekian waktu laporanmu belum ditanggapi.
 
-Laporan yang tidak disengaja akan diabaikan. Pengguna yang sengaja mengirim laporan palsu akan terancam [di-silence](/wiki/Silence).
+Laporan yang dikirim secara tidak sengaja akan diabaikan. Pengguna yang sengaja mengirim laporan palsu akan terancam [di-silence](/wiki/Silence).
 
 ## Kasus-kasus spesial
 
