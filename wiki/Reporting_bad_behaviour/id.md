@@ -15,7 +15,7 @@ Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, par
 
 Untuk kasus selains yang di atas, harap ikuti instruksi di bawah ini.
 
-## *In-game chat*
+## Melaporkan pelanggaran melalui *in-game chat*
 
 ### Perintah !report
 
@@ -47,7 +47,7 @@ Opsi ini dapat bekerja jika pengguna yang melanggar sedang *online*:
 1. Klik nama pengguna dan tekan tombol merah yang bertuliskan `Laporkan Pengguna...`
 2. Pilih kategori dan tambahkan detil (opsional).
 
-## Situs web osu!
+## Melaporkan pelanggaran melalui situs web osu!
 
 ### Halaman profil
 
