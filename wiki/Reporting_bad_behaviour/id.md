@@ -40,7 +40,7 @@ Jika ada spasi pada nama pengguna, gantikan spasi dengan garis bawah (_):
 
 ![](img/report-user-1-ID.png "Menu pengguna dengan tombol laporkan")
 
-![](img/report-user-2-ID.png "Dialog lapor dalam permainan")
+![](img/report-user-2-ID.png "Dialog pelaporan pengguna")
 
 Opsi ini dapat bekerja jika pengguna yang melanggar sedang *online*:
 
