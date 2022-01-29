@@ -15,9 +15,9 @@ Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, par
 
 Untuk kasus selains yang di atas, harap ikuti instruksi di bawah ini.
 
-## Melaporkan pelanggaran melalui *in-game chat*
+## *In-game chat*
 
-### Perintah !report
+### Melaporkan obrolan yang tidak pantas dengan perintah !report
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
