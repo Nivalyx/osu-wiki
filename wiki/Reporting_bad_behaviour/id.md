@@ -102,5 +102,5 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 ![](img/report-score-beatmap-ID.png "Tombol \"Laporkan Skor\" pada papan peringkat beatmap")
 
 1. Layangkan kursormu ke atas skor yang kamu anggap tidak wajar.
-2. Pada bagian kanan atas skor tersebut, tekan tombol yang berbentuk tiga dot vertikal dan pilih  `Laporkan Skor`.
+2. Pada bagian kanan atas skor tersebut, klik tombol titik tiga yang muncul pada sisi kanan layar dan pilih `Laporkan Skor`.
 3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
