@@ -58,7 +58,7 @@ Opsi ini dapat bekerja jika pengguna yang melanggar sedang *online*:
 1. Tekan tombol yang berbentuk tiga dot vertikal dan pilih `Laporkan`.
 2. Pilih kategori dan tambahkan detil (opsional).
 
-### Forum
+### Melaporkan postingan forum yang tidak pantas
 
 ![](img/report-user-forum-ID.png "Tombol laporkan pada post forum")
 
@@ -66,28 +66,28 @@ Opsi ini dapat bekerja jika pengguna yang melanggar sedang *online*:
 2. Pada sebuah barisan tombol yang muncul pada pojok kanan atas post, klik tombol dengan simbol peringatan.
 3. Pilih kategori dan tambahkan detil (opsional).
 
-### Bagian komentar
+### Melaporkan komentar yang tidak pantas
 
 ![](img/report-user-comment-ID.png "Tombol laporkan pada sebuah komentar website")
 
 1. Di bawah komen, klik link `laporkan`.
 2. Pilih kategori dan tambahkan detil (opsional).
 
-### Beatmap
+### Melaporkan beatmap yang tidak pantas
 
 ![](img/report-beatmap-ID.png "Tombol laporkan pada laman beatmap")
 
 1. Tekan tombol yang berbentuk tiga dot vertikal dan pilih `Laporkan`.
 2. Pilih kategori dan tambahkan detil (opsional).
 
-### Diskusi beatmap
+### Melaporkan topik diskusi beatmap yang tidak pantas
 
 ![](img/report-user-discussion-ID.png "Tombol laporkan pada diskusi post")
 
 1. Di bawah laman diskusi, klik link `laporkan`.
 2. Pilih kategori dan tambahkan detil (opsional).
 
-### Daftar skor
+### Melaporkan skor yang tidak wajar
 
 ![](img/report-score-user-ID.png "Tombol laporkan pada sebuah skor teratas di profil pengguna")
 
