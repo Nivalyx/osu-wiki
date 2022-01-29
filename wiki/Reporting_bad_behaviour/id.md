@@ -36,7 +36,7 @@ Jika ada spasi pada nama pengguna, gantikan spasi dengan garis bawah (_):
 !report pengguna_melanggar melakukan spam di #osu
 ```
 
-### Melenu dalam permainan
+### Melaporkan seseorang melalui menu dalam permainan
 
 ![](img/report-user-1-ID.png "Menu pengguna dengan tombol laporkan")
 
