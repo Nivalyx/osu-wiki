@@ -70,22 +70,22 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 
 ![](img/report-user-comment-ID.png "Tombol \"laporkan\" pada kolom komentar")
 
-1. Klik  `laporkan`.
+1. Klik tautan `laporkan` yang tertera di bawah komentar.
 2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
 ### Melaporkan beatmap yang tidak pantas
 
-![](img/report-beatmap-ID.png "Tombol laporkan pada laman beatmap")
+![](img/report-beatmap-ID.png "Tombol \"Laporkan\" pada laman info beatmap")
 
-1. Klik tombol titik tiga vertikal dan pilih `Laporkan`.
-2. Pilih kategori dan tambahkan detil (opsional).
+1. Klik tombol titik tiga yang tertera pada laman info beatmap dan pilih `Laporkan`.
+2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
 ### Melaporkan topik diskusi beatmap yang tidak pantas
 
-![](img/report-user-discussion-ID.png "Tombol laporkan pada diskusi post")
+![](img/report-user-discussion-ID.png "Tombol \"laporkan\" pada laman diskusi beatmap")
 
-1. Di bawah laman diskusi, klik link `laporkan`.
-2. Pilih kategori dan tambahkan detil (opsional).
+1. Pada laman diskusi beatmap yang terkait, tuju topik diskusi beatmap yang bermasalah dan klik tautan `laporkan`.
+2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
 ### Melaporkan skor yang tidak wajar
 
