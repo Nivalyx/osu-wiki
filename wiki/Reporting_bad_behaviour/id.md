@@ -56,7 +56,7 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 ![](img/report-user-web-ID.png "Dialog pelaporan pengguna pada situs web osu!")
 
 1. Klik tombol titik tiga yang tertera di bawah nama pengguna dan pilih `Laporkan`.
-2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran tersebut (opsional).
+2. Pilih kategori pelanggaran yang sesuai dan tambahkan detil (opsional).
 
 ### Melaporkan postingan forum yang tidak pantas
 
