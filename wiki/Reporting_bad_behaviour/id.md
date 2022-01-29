@@ -51,7 +51,7 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 
 ### Melaporkan pengguna lain melalui laman profil mereka
 
-![](img/report-user-profile-ID.png "Tombol "Laporkan" pada laman profil pengguna")
+![](img/report-user-profile-ID.png "Tombol \"Laporkan\" pada laman profil pengguna")
 
 ![](img/report-user-web-ID.png "Dialog pelaporan pengguna pada situs web osu!")
 
