@@ -15,7 +15,7 @@ Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, par
 
 Untuk kasus selain yang di atas, lihat instruksi di bawah ini.
 
-## Chat dalam permainan
+## Melaporkan pelanggaran dalam *in-game chat*
 
 ### Perintah !report
 
