@@ -89,13 +89,13 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 
 ### Melaporkan skor yang tidak wajar
 
-![](img/report-score-user-ID.png "Tombol laporkan pada sebuah skor teratas di profil pengguna")
+![](img/report-score-user-ID.png "Tombol \"Laporkan Skor\" pada skor yang tertera pada laman profil pengguna")
 
 #### Pada laman profil pengguna
 
-1. Navigasikan ke bagian `Peringkat` atau `Historis` untuk permainan yang terbaru dan temukan skornya.
-2. Pada bagian kanan atas skor, tekan tombol yang berbentuk tiga dot vertikal dan pilih  `Laporkan Skor`.
-3. Pilih kategori dan tambahkan detil (opsional).
+1. Pada laman profil pengguna yang kamu tenggarai telah berbuat curang, tuju bagian `Peringkat` atau `Historis` dan temukan skor yang kamu rasa tidak wajar.
+2. Pada bagian kanan atas skor tersebut, klik tombol titik tiga yang muncul pada sisi kanan layar dan pilih `Laporkan Skor`.
+3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
 #### Pada papan peringkat (*leaderboard*) beatmap
 
@@ -103,4 +103,4 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 
 1. Layangkan kursor ke atas skor.
 2. Pada bagian kanan atas skor, tekan tombol yang berbentuk tiga dot vertikal dan pilih  `Laporkan Skor`.
-3. Pilih kategori dan tambahkan detil (opsional).
+3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
