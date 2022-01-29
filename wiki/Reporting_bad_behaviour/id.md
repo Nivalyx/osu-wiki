@@ -17,7 +17,7 @@ Untuk kasus-kasus lainnya, harap ikuti instruksi di bawah ini.
 
 ## *In-game chat*
 
-### Melaporkan obrolan yang tidak pantas dengan perintah !report
+### Menggunakan perintah !report
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
@@ -36,7 +36,7 @@ Jika ada spasi pada nama pengguna, gantikan spasi dengan garis bawah (_):
 !report pengguna_melanggar melakukan spam di #osu
 ```
 
-### Menu dalam permainan
+### Melenu dalam permainan
 
 ![](img/report-user-1-ID.png "Menu pengguna dengan tombol laporkan")
 
@@ -47,7 +47,7 @@ Opsi ini dapat bekerja jika pengguna yang melanggar sedang *online*:
 1. Klik nama pengguna dan tekan tombol merah yang bertuliskan `Laporkan Pengguna...`
 2. Pilih kategori dan tambahkan detil (opsional).
 
-## Melaporkan pelanggaran melalui situs web osu!
+## Situs web osu!
 
 ### Laman profil
 
