@@ -17,7 +17,7 @@ Untuk kasus-kasus lainnya, harap ikuti instruksi di bawah ini.
 
 ## *In-game chat*
 
-### Melaporkan pengguna lain melalui perintah !report
+### Menggunakan perintah !report
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
