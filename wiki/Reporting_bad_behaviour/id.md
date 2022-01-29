@@ -42,7 +42,7 @@ Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, ganti semua sp
 
 ![](img/report-user-2-ID.png "Dialog pelaporan pengguna")
 
-Metode ini dapat digunakan apabila pengguna yang melanggar sedang *online*:
+Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* sebagai berikut:
 
 1. Klik nama pengguna dan tekan tombol merah yang bertuliskan `Laporkan Pengguna...`
 2. Pilih kategori dan tambahkan detil (opsional).
