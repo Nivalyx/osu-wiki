@@ -62,22 +62,22 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 
 ![](img/report-user-forum-ID.png "Tombol \"Laporkan post\" pada forum")
 
-1. Layangkan kursor ke atas post.
-2. Pada sebuah barisan tombol yang muncul pada pojok kanan atas post, klik tombol dengan simbol peringatan.
-3. Pilih kategori dan tambahkan detil (opsional).
+1. Layangkan kursormu ke atas postingan forum yang hendak kamu laporkan.
+2. Dari deretan tombol yang muncul pada pojok kanan atas, klik tombol yang memiliki simbol peringatan.
+2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
 ### Melaporkan komentar yang tidak pantas
 
-![](img/report-user-comment-ID.png "Tombol laporkan pada sebuah komentar website")
+![](img/report-user-comment-ID.png "Tombol \"laporkan\" pada kolom komentar")
 
-1. Di bawah komen, klik link `laporkan`.
-2. Pilih kategori dan tambahkan detil (opsional).
+1. Klik  `laporkan`.
+2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
 
 ### Melaporkan beatmap yang tidak pantas
 
 ![](img/report-beatmap-ID.png "Tombol laporkan pada laman beatmap")
 
-1. Tekan tombol yang berbentuk tiga dot vertikal dan pilih `Laporkan`.
+1. Klik tombol titik tiga vertikal dan pilih `Laporkan`.
 2. Pilih kategori dan tambahkan detil (opsional).
 
 ### Melaporkan topik diskusi beatmap yang tidak pantas
