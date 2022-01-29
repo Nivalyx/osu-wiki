@@ -1,6 +1,6 @@
 # Melaporkan perbuatan yang tidak pantas
 
-osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Team) yang secara khusus bertugas untuk menjaga agar lingkungan osu! tetap kondusif. Apabila kamu melihat perilaku yang melanggar peraturan atau konten tidak pantas, harap laporkan hal tersebut dengan menggunakan metode yang dijelaskan di bawah ini. Di samping itu, kamu juga dapat mengontak para moderator yang sedang *online* secara langsung apabila setelah sekian waktu laporanmu belum ditanggapi sebagai cara terakhir.
+osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Team) yang secara khusus bertugas untuk menjaga agar lingkungan osu! dapat tetap kondusif. Apabila kamu melihat perilaku yang melanggar peraturan atau konten tidak pantas, harap laporkan hal tersebut dengan menggunakan metode yang dijelaskan di bawah ini. Di samping itu, kamu juga dapat mengontak para moderator yang sedang *online* secara langsung apabila setelah sekian waktu laporanmu belum ditanggapi.
 
 Laporan yang tidak disengaja akan diabaikan. Pengguna yang sengaja mengirim laporan palsu akan terancam [di-silence](/wiki/Silence).
 
