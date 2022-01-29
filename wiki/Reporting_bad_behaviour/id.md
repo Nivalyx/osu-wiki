@@ -10,7 +10,7 @@ Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, par
 | :-- | :-- |
 | Pesan pribadi yang tidak pantas | **Tidak ada**: harap [abaikan pengguna tersebut](/wiki/Client/Interface/Chat_console#commands-list). Untuk dapat mengabaikan seseorang secara permanen, gunakan fitur daftar pengabaian (*ignore list*) yang ada pada menu [Options](/wiki/Client/Options). |
 | Pelanggaran yang terkait modding dan/atau mapping | NAT atau para anggota [GMT](/wiki/People/The_Team/Global_Moderation_Team) yang memoderasi komunitas mapping/modding, dengan melalui situs web [NAT/BN Management](https://bn.mappersguild.com/reports) |
-| Pelanggaran tingkah laku dari seorang member [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) atau [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Account support team](/wiki/People/The_Team/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh) |
+| Pelanggaran tingkah laku dari seorang member [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) atau [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Account support team](/wiki/People/The_Team/Account_support_team) pada alamat email [support@ppy.sh](mailto:support@ppy.sh) |
 | Pelecehan seksual atau kelakuan buruk ekstrim | Rujuk ke artikel [Melaporkan Penyalahgunaan](/wiki/Reporting_bad_behaviour/Abuse) |
 
 Untuk kasus selains yang di atas, harap ikuti instruksi di bawah ini.
