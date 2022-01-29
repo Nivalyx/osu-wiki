@@ -68,7 +68,7 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 
 ### Melaporkan komentar yang tidak pantas
 
-![](img/report-user-comment-ID.png "Tombol \"laporkan\" pada kolom komentar")
+![](img/report-user-comment-ID.png "Tautan \"laporkan\" pada kolom komentar")
 
 1. Klik tautan `laporkan` yang tertera di bawah komentar.
 2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
@@ -82,7 +82,7 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 
 ### Melaporkan topik diskusi beatmap yang tidak pantas
 
-![](img/report-user-discussion-ID.png "Tombol \"laporkan\" pada laman diskusi beatmap")
+![](img/report-user-discussion-ID.png "Tautan \"laporkan\" pada laman diskusi beatmap")
 
 1. Pada laman diskusi beatmap yang terkait, tuju topik diskusi beatmap yang bermasalah dan klik tautan `laporkan`.
 2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
