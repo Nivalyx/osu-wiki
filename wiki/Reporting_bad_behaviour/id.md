@@ -21,7 +21,7 @@ Untuk kasus-kasus lainnya, harap ikuti instruksi di bawah ini.
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
-Perilaku buruk dalam *in-game chat* merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkannya, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan kamu dimulai dengan `!report` dan diikuti oleh spasi, **pesan tersebut hanya terlihat oleh moderator** dan tidak ada yang lain dalam chat. Kamu dapat menggunakan fungsi laporkan melalui [menu dalam permainan](#Mengirimkan-laporan-melalui-menu-dalam-permainan) seperti yang digambarkan di bawah ini jika kamu masih khawatir.
+Perilaku buruk dalam *in-game chat* merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkannya, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesan tersebut hanya akan dapat dilihat oleh moderator** tanpa dapat dilihat oleh para pengguna lainnya. Apabila kamu masih belum yakin, kamu dapat kembali melaporkan pelanggaran tersebut melalui [menu dalam permainan](#Mengirimkan-laporan-melalui-menu-dalam-permainan).
 
 Perintah ini dapat dikirim baik dengan ataupun tanpa penjelasan lebih lanjut sebagai berikut:
 
