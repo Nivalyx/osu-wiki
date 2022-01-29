@@ -49,7 +49,7 @@ Opsi ini dapat bekerja jika pengguna yang melanggar sedang *online*:
 
 ## Situs web osu!
 
-### Laman profil
+### Melaporkan pengguna lain melalui laman profil mereka
 
 ![](img/report-user-profile-ID.png "Tombol laporkan pada halaman profil")
 
