@@ -60,7 +60,7 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 
 ### Melaporkan postingan forum yang tidak pantas
 
-![](img/report-user-forum-ID.png "Tombol laporkan pada post forum")
+![](img/report-user-forum-ID.png "Tombol \"Laporkan post\" pada suatu postingan forum")
 
 1. Layangkan kursor ke atas post.
 2. Pada sebuah barisan tombol yang muncul pada pojok kanan atas post, klik tombol dengan simbol peringatan.
