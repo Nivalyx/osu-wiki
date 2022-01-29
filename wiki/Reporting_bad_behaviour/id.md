@@ -91,13 +91,13 @@ Opsi ini dapat bekerja jika pengguna yang melanggar sedang *online*:
 
 ![](img/report-score-user-ID.png "Tombol laporkan pada sebuah skor teratas di profil pengguna")
 
-#### Profil pengguna
+#### Pada laman profil pengguna
 
 1. Navigasikan ke bagian `Peringkat` atau `Historis` untuk permainan yang terbaru dan temukan skornya.
 2. Pada bagian kanan atas skor, tekan tombol yang berbentuk tiga dot vertikal dan pilih  `Laporkan Skor`.
 3. Pilih kategori dan tambahkan detil (opsional).
 
-#### Daftar skor beatmap
+#### Pada papan peringkat (*leaderboard*) beatmap
 
 ![](img/report-score-beatmap-ID.png "Tombol laporkan pada sebuah skor teratas di daftar skor beatmap")
 
