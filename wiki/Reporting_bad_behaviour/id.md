@@ -2,7 +2,7 @@
 
 osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Team) yang secara khusus bertugas untuk menjaga lingkungan osu! dari hal-hal yang tidak diinginkan. Apabila kamu menemukan ada pihak tertentu yang dengan sengaja melanggar peraturan atau menyebarkan konten yang tidak pantas, harap laporkan hal tersebut melalui jalur-jalur laporan yang tertera di bawah ini. Apabila setelah sekian waktu laporanmu belum ditanggapi, kamu dapat mengontak para moderator yang sedang *online* secara langsung.
 
-Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, para pengguna yang sengaja mengirimkan laporan palsu akan terancam untuk [di-silence](/wiki/Silence).
+Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, para pengguna yang sengaja mengirimkan laporan palsu akan terancam untuk di-*[silence](/wiki/Silence)*.
 
 ## Kasus-kasus khusus
 
@@ -45,7 +45,7 @@ Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, ganti semua sp
 Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* sebagai berikut:
 
 1. Klik nama pengguna yang hendak kamu laprokan dan pilih tombol merah yang bertuliskan `Laporkan Pengguna...`
-2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran tersebut (opsional).
+2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran tersebut (opsional).
 
 ## Situs web osu!
 
@@ -56,7 +56,7 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 ![](img/report-user-web-ID.png "Dialog pelaporan pengguna pada situs web osu!")
 
 1. Klik tombol titik tiga yang tertera di bawah nama pengguna dan pilih `Laporkan`.
-2. Pilih kategori pelanggaran yang sesuai dan tambahkan detil (opsional).
+2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran tersebut (opsional).
 
 ### Melaporkan postingan forum yang tidak pantas
 
