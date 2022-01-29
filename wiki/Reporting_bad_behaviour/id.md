@@ -45,7 +45,7 @@ Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, ganti semua sp
 Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* sebagai berikut:
 
 1. Klik nama pengguna yang hendak kamu laprokan dan pilih tombol merah yang bertuliskan `Laporkan Pengguna...`
-2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian pelanggaran yang bersangkutan (opsional).
+2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian pelanggaran (opsional).
 
 ## Situs web osu!
 
@@ -55,8 +55,8 @@ Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* 
 
 ![](img/report-user-web-ID.png "Dialog pelaporan pengguna pada situs web osu!")
 
-1. Tekan tombol titik tiga vertikal dan pilih `Laporkan`.
-2. Pilih kategori dan tambahkan detil (opsional).
+1. Klik tombol titik tiga yang tertera di bawah nama pengguna dan pilih `Laporkan`.
+2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian pelanggaran (opsional).
 
 ### Melaporkan postingan forum yang tidak pantas
 
