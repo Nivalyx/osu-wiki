@@ -4,7 +4,7 @@ osu! memiliki [sebuah tim moderator](/wiki/People/The_Team/Global_Moderation_Tea
 
 Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, para pengguna yang sengaja mengirimkan laporan palsu akan terancam untuk [di-silence](/wiki/Silence).
 
-## Kasus-kasus spesial
+## Kasus-kasus khusus
 
 | Jenis pelanggaran | Pihak yang dapat dihubungi |
 | :-- | :-- |
