@@ -17,7 +17,7 @@ Untuk kasus selains yang di atas, harap ikuti instruksi di bawah ini.
 
 ## *In-game chat*
 
-### Melaporkan obrolan yang tidak pantas dengan perintah !report
+### Melaporkan konten obrolan yang tidak pantas dengan perintah !report
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
