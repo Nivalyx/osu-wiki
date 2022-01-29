@@ -13,7 +13,7 @@ Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, par
 | Perilaku yang tidak pantas dari anggota [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) atau [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Account support team](/wiki/People/The_Team/Account_support_team) pada alamat email [support@ppy.sh](mailto:support@ppy.sh) |
 | Pelecehan seksual atau kelakuan buruk lainnya yang sudah sangat parah | Harap rujuk artikel [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) |
 
-Untuk kasus selains yang di atas, harap ikuti instruksi di bawah ini.
+Apabila kasusmu tidak termasuk pada taebl di atas, harap ikuti instruksi di bawah ini.
 
 ## *In-game chat*
 
