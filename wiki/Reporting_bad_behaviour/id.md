@@ -23,7 +23,7 @@ Untuk kasus selains yang di atas, harap ikuti instruksi di bawah ini.
 
 Perilaku buruk dalam chat adalah pelanggaran yang paling sering terjadi. Untuk melaporkan itu, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) di kanal di mana pelanggaran terjadi. Jangan merasa stres: jika pesan kamu dimulai dengan `!report` dan diikuti oleh spasi, **pesan tersebut hanya terlihat oleh moderator** dan tidak ada yang lain dalam chat. Kamu dapat menggunakan fungsi laporkan melalui [menu dalam permainan](#Menu-dalam-permainan) seperti yang digambarkan di bawah ini jika kamu masih khawatir.
 
-Sintaks perintah memiliki dua bentuk:
+Perintah ini dapat memiliki dua bentuk:
 
 ```
 !report nama_pengguna
