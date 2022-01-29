@@ -6,7 +6,7 @@ Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, par
 
 ## Kasus-kasus khusus
 
-| Jenis pelanggaran | Pihak yang dapat dihubungi |
+| Bentuk pelanggaran | Pihak yang dapat dihubungi |
 | :-- | :-- |
 | Pesan pribadi yang tidak pantas | **Tidak ada**: [abaikan pengguna](/wiki/Client/Interface/Chat_console#commands-list) saja. Untuk efek permanen, gunakan daftar abaikan pengguna dalam permainan yang ada pada [options](/wiki/Client/Options). |
 | Pelanggaran terkait modding dan/atau mapping | NAT atau para anggota [GMT](/wiki/People/The_Team/Global_Moderation_Team) yang memoderasi komunitas mapping/modding, dengan melalui situs web [NAT/BN Management](https://bn.mappersguild.com/reports) |
