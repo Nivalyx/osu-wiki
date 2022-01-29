@@ -13,7 +13,7 @@ Laporan yang dikirim secara tidak sengaja akan diabaikan. Meskipun demikian, par
 | Pelanggaran tingkah laku dari seorang member [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) atau [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Account support team](/wiki/People/The_Team/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh) |
 | Pelecehan seksual atau kelakuan buruk ekstrim | Rujuk ke artikel [Melaporkan Penyalahgunaan](/wiki/Reporting_bad_behaviour/Abuse) |
 
-Untuk kasus selain yang di atas, lihat instruksi di bawah ini.
+Untuk kasus selain yang di atas, harap ikuti instruksi di bawah ini.
 
 ## Melaporkan pelanggaran pada *in-game chat*
 
