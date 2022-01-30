@@ -24,7 +24,7 @@ Artikel-artikel berikut akan memandumu untuk dapat mengenal osu! lebih dalam. Ap
 
 # Klien permainan
 
-osu! merupakan permainan yang kaya akan fitur. Kenali berbagai hal yang mendasari osu! secara lebih dalam, mulai dari berbagai pengaturan yang tersedia hingga ragam detail teknis dan format berkas yang osu! gunakan.
+osu! merupakan permainan yang kaya akan fitur. Kenali berbagai hal yang mendasari osu! lebih jauh, mulai dari berbagai pengaturan yang tersedia hingga ragam detail teknis dan format berkas yang osu! gunakan.
   
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol-tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas-berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas-berkas program osu!](/wiki/Client/Program_files)
 
@@ -120,7 +120,7 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 # Hal-hal terkait pengembangan
   
-Semuanya yang terkait dengan pengembangan osu!, mulai dari rincian teknis API, media-media eksternal, hingga lain sebagainya.
+Segala sesuatunya yang sekiranya dapat berguna bagi mereka yang program-program atau sekadar 
 
 [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas visual](/wiki/Brand_identity_guidelines) • [Server Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
 
@@ -129,7 +129,7 @@ Semuanya yang terkait dengan pengembangan osu!, mulai dari rincian teknis API, m
 
 # Seputar wiki dan hal-hal meta lainnya
   
-Segala sesuatunya yang ada di osu!, tidak terkecuali osu! wiki, utamanya dikelola dan dikembangkan oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke osu! wiki, harap kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
+Semua hal yang ada di osu!, tidak terkecuali osu! wiki, utamanya dikelola dan dikembangkan oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke osu! wiki, harap kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
 
 [Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
