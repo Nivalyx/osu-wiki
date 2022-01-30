@@ -24,7 +24,7 @@ Artikel-artikel berikut akan memandumu untuk dapat mengenal osu!. Apabila kamu m
 
 # Klien permainan
 
-osu! merupakan permainan yang kaya akan fitur. Kenali berbagai hal yang mendasari osu! secara lebih mendalam, mulai dari berbagai pengaturan yang tersedia hingga ragam detail teknis dan format berkas yang osu! gunakan.
+osu! merupakan permainan yang kaya akan fitur. Kenali berbagai hal yang mendasari osu! secara lebih mendalam, mulai dari berbagai pengaturan yang tersedia hingga ragam seluk-beluk teknis dan format berkas yang osu! gunakan.
   
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol-tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas-berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas-berkas program osu!](/wiki/Client/Program_files)
 
