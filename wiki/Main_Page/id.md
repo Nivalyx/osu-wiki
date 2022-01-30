@@ -13,7 +13,7 @@ Selamat datang di osu! wiki, sebuah basis pengetahuan open-source yang mengandun
 
 # Pendahuluan
   
-Artikel-artikel berikut akan memandumu untuk dapat mengenal osu! secara mendalam. Apabila kamu memiliki pertanyaan lebih lanjut, harap kunjungi [sub-forum Help](https://osu.ppy.sh/forum/5).
+Artikel-artikel berikut akan memandumu untuk dapat mengenal osu!. Apabila kamu memiliki pertanyaan lebih lanjut, harap kunjungi [sub-forum Help](https://osu.ppy.sh/forum/5).
 
 [Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_centre)
   
@@ -24,7 +24,7 @@ Artikel-artikel berikut akan memandumu untuk dapat mengenal osu! secara mendalam
 
 # Klien permainan
 
-osu! merupakan permainan yang kaya akan fitur. Kenali berbagai hal yang mendasari osu! lebih jauh, mulai dari berbagai pengaturan yang tersedia hingga ragam detail teknis dan format berkas yang osu! gunakan.
+osu! merupakan permainan yang kaya akan fitur. Kenali berbagai hal yang mendasari osu! secara lebih mendalam, mulai dari berbagai pengaturan yang tersedia hingga ragam detail teknis dan format berkas yang osu! gunakan.
   
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol-tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas-berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas-berkas program osu!](/wiki/Client/Program_files)
 
