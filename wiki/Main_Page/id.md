@@ -24,7 +24,7 @@ Artikel-artikel berikut ini akan memandumu untuk dapat mengenal osu! lebih dalam
 
 # Klien permainan
 
-Dunia osu! berkisar pada iringan lagu dan efek-efek visual yang berkilauan. Kenali klien osu! lebih dalam, mulai dari berbagai jenis pengaturan yang tersedia hingga detail-detail teknis dan format-format berkas yang osu! gunakan.
+osu! memiliki banyak hal yang dapat kamu jelajahi. Kenali klien osu! lebih dalam, mulai dari berbagai jenis pengaturan yang tersedia hingga detail-detail teknis dan format-format berkas yang osu! gunakan.
   
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol-tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas-berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas-berkas program osu!](/wiki/Client/Program_files)
 
