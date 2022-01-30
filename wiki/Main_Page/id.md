@@ -28,7 +28,7 @@ Dunia osu! berkisar pada iringan lagu dan efek-efek visual yang berkilauan. Kena
   
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol-tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas-berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas-berkas program osu!](/wiki/Client/Program_files)
 
-[Format berkas](/wiki/Client/File_formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
+[Format-format berkas](/wiki/Client/File_formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -52,7 +52,7 @@ Bagian: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client
 
 Komponen: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Timeline](/wiki/Client/Beatmap_editor/Timelines)
 
-Kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik-teknik mapping](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
+Ragam kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik-teknik mapping](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -76,7 +76,7 @@ Ketahui prosedur-prosedur hukum dan peraturan-peraturan yang berlaku di osu! leb
 
 Peraturan media: [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) • [Konten eksplisit](/wiki/Rules/Explicit_Content) • [Aturan konten musik](/wiki/Rules/Song_Content_Rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_Content_Considerations)
 
-[Halaman legal](/wiki/Legal): [Ketentuan layanan osu!](/wiki/Legal/Terms) • [Ketentuan privasi](/wiki/Legal/Privacy) • [Ketentuan hak cipta (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_licensing)
+[Laman-laman legal](/wiki/Legal): [Ketentuan layanan osu!](/wiki/Legal/Terms) • [Privasi](/wiki/Legal/Privacy) • [Hak cipta (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_licensing)
   
 </div>
 <div class="wiki-main-page-panel">
