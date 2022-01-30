@@ -13,7 +13,7 @@ Selamat datang di osu! wiki, sebuah basis pengetahuan open-source yang mengandun
 
 # Pendahuluan
   
-Artikel-artikel berikut ini akan memandumu untuk dapat mengenal osu! lebih dalam. Apabila kamu memiliki pertanyaan-pertanyaan lebih lanjut, harap kunjungi [sub-forum Help](https://osu.ppy.sh/forum/5).
+Artikel-artikel berikut akan memandumu untuk dapat mengenal osu! lebih dalam. Apabila kamu memiliki pertanyaan-pertanyaan lebih lanjut, harap kunjungi [sub-forum Help](https://osu.ppy.sh/forum/5).
 
 [Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_centre)
   
