@@ -26,7 +26,7 @@ Artikel-artikel berikut ini akan memandumu untuk dapat mengenal osu! lebih dalam
 
 Dunia osu! berkisar pada iringan lagu dan efek-efek visual yang berkilauan. Kenali klien osu! lebih dalam, mulai dari berbagai jenis pengaturan yang tersedia hingga detail-detail teknis dan format-format berkas yang osu! gunakan.
   
-[Tampilan antarmuka](/wiki/Client/Interface) • [Pengaturan](/wiki/Client/Options) • [Pengaturan visual](/wiki/Client/Interface/Visual_settings) • [Referensi tombol pintasan](/wiki/Client/Keyboard_shortcuts) • [Berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas program osu!](/wiki/Client/Program_files)
+[Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Referensi tombol-tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas program osu!](/wiki/Client/Program_files)
 
 [Ragam format berkas yang digunakan di osu!](/wiki/Client/File_formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
