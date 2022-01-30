@@ -5,7 +5,7 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Selamat datang di osu! wiki, sebuah basis pengetahuan open-source yang mengandung berbagai informasi seputar segala sesuatu yang berhubungan dengan osu!.
+Selamat datang di osu! wiki, sebuah basis pengetahuan open-source yang mengandung berbagai informasi seputar segala sesuatunya yang berhubungan dengan osu!.
 </div>
 
 <div class="wiki-main-page__panels">
