@@ -107,7 +107,7 @@ Para pemain osu! di seluruh dunia saling terhubung dan berinteraksi antar satu s
 
 # Orang-orang
   
-osu! tidak akan mungkin dapat berada pada titik ini tanpa dukungan dari mereka yang telah banyak mendukung kami dalam berbagai hal: upaya, dedikasi, dan jerih payah mereka memungkinkan osu! untuk dapat terus tumbuh dan berkembang seiring waktu.
+osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang telah banyak mendukung kami dalam berbagai hal: upaya, dedikasi, dan jerih payah mereka memungkinkan osu! untuk dapat terus tumbuh dan berkembang seiring waktu.
 
 [Tim Inti](/wiki/People/The_Team): [Developer](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
