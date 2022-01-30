@@ -96,7 +96,7 @@ Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_he
   
 # Komunitas dan proyek
 
-Para pemain osu! di seluruh dunia saling terhubung dan berinteraksi antar satu sama lain setiap waktunya. Telusurilah berbagai aktivitas yang terjadi di sekitar komunitas, mulai dari obrolan, kontes, hingga *event-event* besar!
+Para pemain osu! di seluruh dunia saling terhubung dan berinteraksi antar satu sama lain setiap waktunya. Berpartisipasilah dalam berbagai aktivitas yang terjadi di sekitar komunitas, mulai dari obrolan, kontes, hingga *event-event* besar!
 
 [Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_Spotlights) • [Kontes](/wiki/Contests) • [Program Community Mentorship](/wiki/Community/Community_Mentorship_Program)
   
