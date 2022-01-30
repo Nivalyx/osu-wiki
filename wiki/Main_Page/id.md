@@ -120,7 +120,7 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 # Hal-hal terkait pengembangan
   
-Segala hal yang terkait dengan pengembangan osu!, mulai dari rincian teknis API, media-media eksternal, hingga lain sebagainya.
+Segala hal yang terkait dengan pengembangan osu!, mulai dari cara untuk membuat osu! dapat berinteraksi dengan media-media eksternal hingga lain sebagainya.
 
 [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas visual](/wiki/Brand_identity_guidelines) • [Server Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
 
