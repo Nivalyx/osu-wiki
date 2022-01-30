@@ -122,7 +122,7 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
   
 Segala hal yang terkait dengan pengembangan osu!, mulai dari cara untuk membuat osu! dapat berinteraksi dengan aplikasi-aplikasi serta media-media eksternal hingga lain sebagainya.
 
-[API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Panduan identitas merek](/wiki/Brand_identity_guidelines) • [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas visual](/wiki/Brand_identity_guidelines) • [Server Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
