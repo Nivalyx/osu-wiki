@@ -87,9 +87,9 @@ Temukan jawaban atas pertanyaan-pertanyaan yang umum diajukan di sini.
 
 [Pusat bantuan](/wiki/Help_centre) • [Pemecahan masalah kinerja osu!](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Sub-forum Help](https://osu.ppy.sh/forum/5)
 
-Pembatasan profil: [Silence](/wiki/Silence) • [Pembatasan akun](/wiki/Help_centre/Account_restrictions)
+Pembatasan profil: [Silence](/wiki/Silence) • [Restriction](/wiki/Help_centre/Account_restrictions)
 
-Lakukan bagianmu: [Bagaimana dan apa yang harus dibantu](/wiki/Community/How_you_can_help!) • [Laporkan tindakan buruk](/wiki/Reporting_bad_behaviour) • [Laporkan penyalahgunaan](/wiki/Reporting_bad_behaviour/Abuse) • [Laporkan kecurangan](/wiki/Reporting_bad_behaviour/Handling_foul_play)
+Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_help!) • [Melaporkan perilaku yang tidak pantas](/wiki/Reporting_bad_behaviour) • [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) • [Melaporkan kecurangan](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
 </div>
 <div class="wiki-main-page-panel">
