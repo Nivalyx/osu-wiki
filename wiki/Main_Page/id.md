@@ -52,7 +52,7 @@ Bagian: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client
 
 Komponen: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Timeline](/wiki/Client/Beatmap_editor/Timelines)
 
-Kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik-teknik mapping](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
+Ragam kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik-teknik mapping](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
