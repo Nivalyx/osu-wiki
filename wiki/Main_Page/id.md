@@ -85,7 +85,7 @@ Peraturan media: [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guideline
 
 Temukan jawaban atas pertanyaan-pertanyaan yang umum diajukan di sini.
 
-[Pusat bantuan](/wiki/Help_centre) • [Pemecahan masalah kinerja osu!](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Help](https://osu.ppy.sh/forum/5)
+[Pusat bantuan](/wiki/Help_centre) • [Pemecahan masalah kinerja osu!](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Sub-forum Help](https://osu.ppy.sh/forum/5)
 
 Pembatasan profil: [Silence](/wiki/Silence) • [Pembatasan akun](/wiki/Help_centre/Account_restrictions)
 
