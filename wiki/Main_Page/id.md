@@ -5,7 +5,7 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Selamat datang di osu! wiki, sebuah basis pengetahuan open-source yang mengandung berbagai informasi seputar segala sesuatunya yang berhubungan dengan osu!.
+Selamat datang di osu! wiki, sebuah basis pengetahuan open-source yang mengandung berbagai informasi seputar segala sesuatu yang berhubungan dengan osu!.
 </div>
 
 <div class="wiki-main-page__panels">
@@ -96,7 +96,7 @@ Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_he
   
 # Komunitas dan proyek
 
-Para pemain osu! di seluruh dunia saling terhubung dan berinteraksi antar satu sama lain setiap waktunya. Berpartisipasilah dalam berbagai aktivitas yang terjadi di sekitar komunitas, mulai dari obrolan, kontes, hingga *event-event* besar!
+Para pemain osu! di seluruh dunia saling terhubung dan berinteraksi antar satu sama lain setiap waktunya. Berpartisipasilah dalam berbagai aktivitas yang ada di sekitar komunitas, mulai dari obrolan, kontes, hingga *event-event* besar!
 
 [Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_Spotlights) • [Kontes](/wiki/Contests) • [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program)
   
@@ -120,7 +120,7 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 # Hal-hal terkait pengembangan
   
-Segala sesuatunya yang sekiranya dapat berguna bagi mereka yang ingin berpartisipasi dalam pengembangan osu!, baik itu dalam bidang pemrograman maupun media.
+Segala sesuatu yang sekiranya dapat berguna bagi mereka yang ingin berpartisipasi dalam pengembangan osu!, baik itu dalam bidang pemrograman maupun media.
 
 [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas visual](/wiki/Brand_identity_guidelines) • [Server Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
 
@@ -129,7 +129,7 @@ Segala sesuatunya yang sekiranya dapat berguna bagi mereka yang ingin berpartisi
 
 # Seputar wiki dan hal-hal meta lainnya
   
-Semuanya yang ada di osu!, tidak terkecuali osu! wiki, utamanya dikelola dan dikembangkan oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke osu! wiki, harap kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
+Semua hal yang ada di osu!, tidak terkecuali osu! wiki, utamanya dikelola dan dikembangkan oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke osu! wiki, harap kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
 
 [Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
