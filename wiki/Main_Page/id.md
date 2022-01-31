@@ -46,7 +46,7 @@ Semuanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek-aspek kun
 
 # [Beatmap editor](/wiki/Client/Beatmap_editor)
   
-Seluruh beatmap yang ada di osu! merupakan buah kreativitas dari para anggota komunitas. Apakah kamu ingin membuat beatmap, namun masih belum tahu caranya? Pelajari artikel-artikel berikut agar kamu dapat menguasai editor yang osu! miliki.
+Seluruh beatmap yang ada di osu! merupakan buah kreativitas dari para anggota komunitas. Apakah kamu ingin membuat beatmap, namun masih belum tahu caranya? Pelajari artikel-artikel berikut agar kamu dapat menjadi seorang mapper yang handal.
 
 Bagian: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup)
 
