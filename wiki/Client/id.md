@@ -9,17 +9,17 @@ tags:
 
 <!-- TODO: this could make for a good introductory page -->
 
-Index page for articles about the osu! game client and its main sections.
+Berikut ini merupakan daftar artikel yang membahas seputar klien osu!.
 
-## Introduction
+## Perkenalan
 
-- [Installation](Installation)
-- [Keyboard shortcuts](Keyboard_shortcuts)
-- [Interface](Interface)
-- [Options](Options)
+- [Instalasi](Installation)
+- [Tombol-tombol *shortcut*](Keyboard_shortcuts)
+- [Tampilan antarmuka](Interface)
+- [Menu Options](Options)
 - [Beatmap editor](Beatmap_editor)
 
-## Technical details
+## Rincian teknis
 
-- [File formats](File_formats)
-- [Program files](Program_files)
+- [Format-format berkas](File_formats)
+- [Berkas-berkas program osu!](Program_files)
