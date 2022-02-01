@@ -96,7 +96,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 *Catatan: Tombol-tombol shortcut berikut hanya dapat digunakan untuk mengaktifkan/menonaktifkan mod-mod yang bersangkutan pada menu game modifier.*\
 *Catatan: Mod-mod target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak mempunyai memiliki tombol shortcut-nya tersendiri.*
 
-| Pintasan | Mod |
+| Tombol *shortcut* | Mod |
 | :-- | :-- |
 | `Q` | Easy |
 | `W` | No Fail |
@@ -109,7 +109,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `F` | Hidden (osu!, osu!taiko, and osu!catch) atau Fade In (osu!mania) |
 | `F` dua kali | Hidden (osu!mania) |
 | `G` | Flashlight |
-| `Z` | Relax (osu!, osu!taiko, and osu!catch) atau memilih mod xK (osu!mania) |
+| `Z` | Relax (osu!, osu!taiko, and osu!catch) atau mod-mod xK (osu!mania) |
 | `X` | Auto Pilot (osu!) atau Random (osu!mania) |
 | `C` | Spun Out (osu!) |
 | `V` | Auto |
@@ -117,7 +117,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `B` | Score V2 |
 | `3` hingga `9` | 3K hingga 9K (osu!mania) |
 
-## Mode bermain
+## Permainan
 
 | Pintasan | Aksi |
 | :-- | :-- |
@@ -130,7 +130,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `F3` atau `F4` | Mengatur kecepatan untuk osu!mania (dapat digunakan saat permulaan permainan). |
 | `Ctrl` + `R` atau `` ` `` | Harus ditahan secara singkat. Mengulang dengan cepat map yang sedang dimainkan (melewatkan pembukaan secara otomatis). |
 
-## Mode replay
+## Tayangan ulang
 
 *Catatan: Kamu harus menggunakan rilisan stream cuttingedge untuk menggunakan pintasan-pintasan ini.*
 
