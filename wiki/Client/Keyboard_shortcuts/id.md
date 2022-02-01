@@ -209,7 +209,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `X` | Memotong. |
 | `Ctrl` + `C` | Menyalin. |
 | `Ctrl` + `V` | Menempel. |
-| `Ctrl` + `D` | Menggandakan objek-objek yang dipilih. Perintah ini akan menempel pemilihan satu ketukan setelah objek terakhir yang dipilih. |
+| `Ctrl` + `D` | Menggandakan objek-objek yang dipilih pada birama (*measure*) berikutnya. |
 | `Ctrl` + `M` | Mengubah nilai beat snap divisor. |
 | `Delete` | Menghapus pilihan. |
 | `1`, `2`, `3`, atau `4` | Berpindah di antara mode penaruhan/pemilihan: select, circle, slider, dan spinner (osu!, osu!taiko, atau osu!catch). |
