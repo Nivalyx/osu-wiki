@@ -144,7 +144,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 
 ## Beatmap editor
 
-*Laman utama: [Beatmap Editor](/wiki/Client/Beatmap_editor)*
+*Laman utama: [Beatmap editor](/wiki/Client/Beatmap_editor)*
 
 ### Umum
 
