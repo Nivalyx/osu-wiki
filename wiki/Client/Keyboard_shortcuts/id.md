@@ -242,7 +242,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Ctrl` + `H` | Mencerminkan pilihan secara horizontal. |
 | `Ctrl` + `J` | Mencerminkan pilihan secara vertikal. |
 | `Ctrl` + `G` | Membalik urutan objek-objek dalam pilihan, di mana objek pertama akan menjadi objek terakhir dan seterusnya. |
-| `Ctrl` + `Shift` + `R` | Memutar pilihan sudut rotasi tertentu (melalui kotak dialog yang akan terbuka). |
+| `Ctrl` + `Shift` + `R` | Memutar pilihan pada sudut rotasi tertentu (melalui kotak dialog yang akan terbuka). |
 | `Ctrl` + `Shift` + `S` | Membesarkan/mengecilkan pemilihan sebesar sebuah angka (membuka sebuah dialog). |
 | `Ctrl` + `Shift` + `D` | Membuat poligon dengan titik sudut yang ditentukan (membuka sebuah dialog). |
 | `Ctrl` + `Shift` + `F` | Mengubah luncuran yang dipilih menjadi stream lingkaran (membuka sebuah dialog). |
