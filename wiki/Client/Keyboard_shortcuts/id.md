@@ -126,8 +126,8 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `Spasi` | Melewati intro beatmap. |
 | `Tab` | Menampilkan/menyembunyikan papan skor. |
 | `Shift` + `Tab` | Menampilkan/menyembunyikan tampilan antarmuka permainan. |
-| `H` | Menampilkan/menyembunyikan papan skor dan tampilan antarmuka permainan dalam pemutaran tayangan ulang atau mode Spectate. |
-| `F3` atau `F4` | Mengatur *scroll speed* untuk osu!mania (hanya dapat digunakan pada awal permainan). |
+| `H` | Menampilkan/menyembunyikan papan skor dan tampilan antarmuka permainan dalam pemutaran tayangan ulang atau pada saat menonton pemain lain. |
+| `F3` atau `F4` | Mengatur *scroll speed* osu!mania (hanya dapat digunakan pada awal permainan). |
 | `Ctrl` + `R` atau `` ` `` | Harus ditahan secara singkat. Mengulang dengan cepat map yang sedang dimainkan (melewatkan pembukaan secara otomatis). |
 
 ## Tayangan ulang
