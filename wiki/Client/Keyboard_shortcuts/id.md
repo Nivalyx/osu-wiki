@@ -279,7 +279,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `Y` | Membatalkan pengurungan tindakan. |
 | `Ctrl` + `X` | Memotong elemen storyboard (*sprite*) yang dipilih. |
 | `Ctrl` + `C` | Menyalin elemen storyboard (*sprite*) yang dipilih. |
-| `Ctrl` + `V` | Menempelkan elemen storyboard (*sprite*) pada waktu yang ditentukan. *Catatan: Sprite-sprite yang ditempel hanya akan terlihat pada daftar layer setelah beatmap dimuat ulang.* |
+| `Ctrl` + `V` | Menempelkan elemen storyboard (*sprite*) pada waktu yang ditentukan. *Catatan: Sprite-sprite yang ditempel baru akan terlihat pada daftar layer setelah beatmap dimuat ulang.* |
 | `Delete` | Menghapus elemen storyboard (*sprite*) yang dipilih dari *layer* yang aktif. |
 | `W`, `A`, `S`, `D` | Menggeser elemen storyboard (*sprite*) yang dipilih ke atas, kiri, bawah, atau kanan sejauh satu [osu!pixel](/wiki/osupixel). |
 
