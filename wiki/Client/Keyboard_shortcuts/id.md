@@ -236,7 +236,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Q` | Mengaplikasikan new combo. |
+| `Q` | Menerapkan new combo. |
 | `Ctrl` + `,` | Memutar pilihan 90 derajat berlawanan arah jarum jam. |
 | `Ctrl` + `.` | Memutar pilihan 90 derajat searah jarum jam. |
 | `Ctrl` + `H` | Mencerminkan pilihan secara horizontal. |
