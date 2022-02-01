@@ -162,8 +162,8 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `B` | Membubuhkan penanda (*bookmark*) pada waktu yang ditentukan. |
 | `Ctrl` + `Shift` + `B` | Menghapus penanda (*bookmark*) pada waktu yang ditentukan. |
 | `Ctrl` + `Panah Kiri/Kanan` | Beralih secara cepat dari satu *bookmark* ke *bookmark* lainnya. |
-| `Ctrl` + `L` | Kembali ke keadaan save sebelumnya (sebagian). Perintah ini akan me-load ulang file `.osu` dan `.osb`. |
-| `Ctrl` + `Shift` + `L` | Kembali ke keadaan save sebelumnya (sepenuhnya). Perintah ini akan me-load ulang semuanya. |
+| `Ctrl` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last save state*) secara parsial, di mana osu! akan memuat ulang berkas `.osu` dan `.osb` yang sedang dibuka. |
+| `Ctrl` + `Shift` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last save state*) secara menyeluruh, di mana osu! akan memuat ulang seluruh berkas yang ada pada folder beatmap tanpa terkecuali. |
 | `Ctrl` + `O` | Membuka jendela pemilihan difficulty. |
 | `Ctrl` + `S` | Menyimpan beatmap dalam keadaan sekarang. |
 | `Ctrl` + `N` | Menampilkan perhatian untuk menghapus semua objek. |
