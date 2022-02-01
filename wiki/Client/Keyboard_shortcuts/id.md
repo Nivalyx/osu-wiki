@@ -185,7 +185,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | :-- | :-- |
 | `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu. |
 | `Shift` + `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu dalam kecepatan 4x. |
-| `Ctrl` + `Roda Mouse ke Atas/Bawah` | Menyetel pembagi snap. |
+| `Ctrl` + `Roda Mouse ke Atas/Bawah` | Mengatur nilai beat snap divisor. |
 | `Alt` + `Roda Mouse ke Atas/Bawah` | Menyetel pengali distance snapping saat cursor berada di area playfield. Memperbesar/memperkecil jarak timeline saat cursor berada di area timeline. |
 | `Alt` + `Shift` + `Roda Mouse ke Atas/Bawah` | Menyetel pengali distance snapping dengan lebih presisi saat cursor berada di area playfield. |
 
