@@ -159,7 +159,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Panah Kiri/Kanan` | Memajukan/memundurkan lagu. |
 | `Panah Atas/Bawah` | Berpindah secara cepat dari satu *timing point* ke *timing point* lainnya. |
 | `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan/memundurkan lagu dalam rentang (4 x nilai beat snap divisor yang aktif). |
-| `Ctrl` + `B` | Menambahkan bookmark pada timestamp saat ini. |
+| `Ctrl` + `B` | Membubuhkan penanda (*bookmark*) pada timestamp saat ini. |
 | `Ctrl` + `Shift` + `B` | Menghapus bookmark pada timestamp saat ini. |
 | `Ctrl` + `Panah Kiri/Kanan` | Melompat di antara bookmark. |
 | `Ctrl` + `L` | Kembali ke keadaan save sebelumnya (sebagian). Perintah ini akan me-load ulang file `.osu` dan `.osb`. |
