@@ -15,7 +15,7 @@ osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam perm
 
 ## Umum
 
-Pintasan-pintasan ini bekerja di mana pun:
+Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 
 | Pintasan | Aksi |
 | :-- | :-- |
