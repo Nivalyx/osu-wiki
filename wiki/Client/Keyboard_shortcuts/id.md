@@ -167,8 +167,8 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `O` | Membuka jendela pemilihan tingkat kesulitan. |
 | `Ctrl` + `S` | Menyimpan beatmap. |
 | `Ctrl` + `N` | Menampilkan pilihan untuk menghapus semua objek yang ada. |
-| `Ctrl` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan pemutaran lagu (*playback speed*) sebanyak 25%. |
-| `Ctrl` + `Shift` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan playback sebanyak 5%. |
+| `Ctrl` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan pemutaran lagu (*playback speed*) sebesar 25%. |
+| `Ctrl` + `Shift` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan pemutaran lagu (*playback speed*) sebesar 5%. |
 | `F1` | Pindah ke mode [compose](/wiki/Client/Beatmap_editor/Compose). |
 | `F2` | Pindah ke mode [design](/wiki/Client/Beatmap_editor/Design). |
 | `F3` | Pindah ke mode [timing](/wiki/Client/Beatmap_editor/Timing). |
