@@ -266,7 +266,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Mengubah nilai [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9. |
-| `Shift` (pada saat menyeret suatu objek pada timeline) | Memindahkan objek yang dipilih tanpa bergantung pada nilai beat snap divisor yang aktif. |
+| `Shift` (pada saat menyeret suatu objek pada timeline) | Memindahkan objek yang dipilih tanpa bergantung pada nilai beat snap divisor tertentu. |
 | `J` | Memundurkan pilihan sebanyak satu derik ketukan (*divisor*) pada timeline. |
 | `K` | Memajukan pilihan sebanyak satu derik ketukan (*divisor*) pada timeline. |
 
