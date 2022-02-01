@@ -226,7 +226,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Shift` | Mengaktifkan/menonaktifkan grid snap untuk sementara. |
 | `T` | Mengaktifkan/menonaktifkan grid snap. |
 | `G` | Mengganti ukuran grid. |
-| `Ctrl` + `1` | Mengatur ukuran grid menjadi sangat kecil. |
+| `Ctrl` + `1` | Mengatur ukuran grid menjadi mungil. |
 | `Ctrl` + `2` | Mengatur ukuran grid menjadi kecil. |
 | `Ctrl` + `3` | Mengatur ukuran grid menjadi medium. |
 | `Ctrl` + `4` | Mengatur ukuran grid menjadi besar. |
