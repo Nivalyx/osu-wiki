@@ -210,12 +210,12 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `C` | Menyalin. |
 | `Ctrl` + `V` | Menempel. |
 | `Ctrl` + `D` | Menggandakan objek-objek yang dipilih. Perintah ini akan menempel pemilihan satu ketukan setelah objek terakhir yang dipilih. |
-| `Ctrl` + `M` | Menyetel pembagi snap. |
-| `Delete` | Menghapus pemilihan. |
-| `1`, `2`, `3`, atau `4` | Berpindah di antara mode penaruhan/pemilihan: select, circle, slider, dan spinner secara berurutan (osu!, osu!taiko, atau osu!catch). |
-| `1`, `2`, atau `3` | Berpindah di antara mode penaruhan/pemilihan: select, circle, dan hold secara berurutan (osu!mania). |
+| `Ctrl` + `M` | Mengubah nilai beat snap divisor. |
+| `Delete` | Menghapus pilihan. |
+| `1`, `2`, `3`, atau `4` | Berpindah di antara mode penaruhan/pemilihan: select, circle, slider, dan spinner (osu!, osu!taiko, atau osu!catch). |
+| `1`, `2`, atau `3` | Berpindah di antara mode penaruhan/pemilihan: select, circle, dan hold  (osu!mania). |
 | `Ctrl` + `Alt` + `Roda Mouse ke Atas/Bawah` | Berpindah di antara mode penaruhan/pemilihan. |
-| `Ctrl` + `Shift` + `A` | Membuka [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
+| `Ctrl` + `Shift` + `A` | Membuka jendela [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 
 #### Playfield
 
