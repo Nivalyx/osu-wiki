@@ -86,9 +86,9 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `Panah Atas/Bawah` | Memilih beatmap sebelumnya/berikutnya. |
 | `Panah Kiri/Kanan` | Memilih set beatmap sebelumnya/berikutnya. |
 | `Page Up/Down` | Melakukan scroll ke atas/bawah. |
-| `Enter` | Memasuki pilihan saat ini (jika memilih pada sebuah beatmapset atau grup koleksi) atau memainkan sebuah tingkat kesulitan (jika memilih dari sebuah beatmap). |
-| `Shift` + `Panah Kiri/Kanan` | Memasuki grup berikutnya/sebelumnya. |
-| `Shift` + `Enter` | Membuka atau menutup grup yang dipilih. |
+| `Enter` | Memasuki grup/set beatmap yang dipilih atau memainkan beatmap yang dipilih. |
+| `Shift` + `Panah Kiri/Kanan` | Memasuki grup sebelumnya/berikutnya. |
+| `Shift` + `Enter` | Membuka/menutup grup yang dipilih. |
 
 ## Game modifier
 
