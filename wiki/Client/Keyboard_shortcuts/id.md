@@ -63,7 +63,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 
 ## Layar pemilihan lagu
 
-*Catatan: Tidak semua perintah di bawah ini bekerja saat memilih lagu di mode multiplayer*
+*Catatan: Tidak semua tombol shortcut di bawah ini dapat digunakan dalam lobi multiplayer.*
 
 | Pintasan | Aksi |
 | :-- | :-- |
