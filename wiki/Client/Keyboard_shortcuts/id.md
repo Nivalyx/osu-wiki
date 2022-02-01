@@ -15,7 +15,7 @@ osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam perm
 
 ## Umum
 
-Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
+Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, manu, atau tab manapun:
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
@@ -63,7 +63,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 
 ## Layar pemilihan lagu
 
-*Catatan: Tidak semua tombol shortcut di bawah ini dapat digunakan dalam ruang pertandingan multiplayer.*
+*Catatan: Tidak semua tombol shortcut berikut dapat digunakan dalam ruang pertandingan multiplayer.*
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
@@ -144,11 +144,11 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 
 ## Beatmap editor
 
-*Halaman utama: [Beatmap Editor](/wiki/Client/Beatmap_editor)*
+*Laman utama: [Beatmap Editor](/wiki/Client/Beatmap_editor)*
 
 ### Umum
 
-Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
+Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, manu, atau tab beatmap editor manapun:
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
