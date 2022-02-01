@@ -93,11 +93,8 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 ## Game modifier
 
 *Laman utama: [Game modifier](/wiki/Game_modifier)*\
-*Catatan: Menekan tombol-tombol pintasan akan menaktifkan/menonaktifkan modifier terkait. Kamu harus berada di menu game modifier untuk memakai pintasan tersebut.*\
+*Catatan: Tombol-tombol shortcut berikut hanya dapat digunakan untuk mengaktifkan/menonaktifkan suatu mod pada menu game modifier.*\
 *Catatan: Mod-mod target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak mempunyai memiliki tombol shortcut-nya tersendiri.*
-
-Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.
-Note: Target practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.
 
 | Pintasan | Mod |
 | :-- | :-- |
