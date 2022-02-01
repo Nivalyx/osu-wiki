@@ -58,10 +58,10 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `C` | Menjeda atau melanjutkan pemutaran lagu. |
 | `F4` | Menghentikan pemutaran lagu. |
 | `V` atau `F5` | Memainkan lagu berikutnya. |
-| `J` atau `F6` | Membuka menu pemilihan lagu ("Loncat Ke..."). |
+| `J` atau `F6` | Membuka menu "Loncat Ke...". |
 | `R` | Memainkan lagu acak. |
 
-## Pemilihan lagu
+## Layar pemilihan lagu
 
 *Catatan: Tidak semua perintah di bawah ini bekerja saat memilih lagu di mode multiplayer*
 
