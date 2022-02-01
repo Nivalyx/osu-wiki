@@ -157,7 +157,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `X` | Memainkan beatmap dari awal. |
 | `C` atau `Spasi` | Menjeda/melanjutkan lagu. |
 | `Panah Kiri/Kanan` | Memajukan/memundurkan lagu. |
-| `Panah Atas/Bawah` | Berpindah secara cepat di antara satu *timing point* ke *timing point* lainnya. |
+| `Panah Atas/Bawah` | Berpindah secara cepat dari satu *timing point* ke *timing point* lainnya. |
 | `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan/memundurkan lagu dalam kecepatan 4x. |
 | `Ctrl` + `B` | Menambahkan bookmark pada timestamp saat ini. |
 | `Ctrl` + `Shift` + `B` | Menghapus bookmark pada timestamp saat ini. |
