@@ -189,7 +189,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Alt` + `Roda Mouse ke Atas/Bawah` | Menyetel pengali distance snapping saat cursor berada di area playfield. Memperbesar/memperkecil jarak timeline saat cursor berada di area timeline. |
 | `Alt` + `Shift` + `Roda Mouse ke Atas/Bawah` | Menyetel pengali distance snapping dengan lebih presisi saat cursor berada di area playfield. |
 
-### Compose
+### Tab Compose
 
 #### Mouse
 
@@ -270,7 +270,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `J` | Memundurkan pilihan sebanyak satu derik ketukan (*divisor*) pada timeline. |
 | `K` | Memajukan pilihan sebanyak satu derik ketukan (*divisor*) pada timeline. |
 
-### Desain
+### Tab Design
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
@@ -283,7 +283,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Delete` | Menghapus sprite yang dipilih dari layer. |
 | `W`, `A`, `S`, `D` | Menggeser sprite yang dipilih ke atas, kiri, bawah, atau kanan berurutan sebanyak satu [osu!pixel](/wiki/osupixel). |
 
-### Timing
+### Tab Timing
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
