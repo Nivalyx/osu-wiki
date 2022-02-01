@@ -152,16 +152,16 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Z` | Berpindah secara cepat ke awal lagu atau objek pertama pada beatmap. |
-| `V` | Berpindah secara cepat ke akhir lagu atau objek terakhir pada beatmap. |
+| `Z` | Beralih secara cepat ke awal lagu atau objek pertama pada beatmap. |
+| `V` | Beralih secara cepat ke akhir lagu atau objek terakhir pada beatmap. |
 | `X` | Memainkan beatmap dari awal. |
 | `C` atau `Spasi` | Menjeda/melanjutkan pemutaran lagu. |
 | `Panah Kiri/Kanan` | Memajukan/memundurkan lagu. |
-| `Panah Atas/Bawah` | Berpindah secara cepat dari satu *timing point* ke *timing point* lainnya. |
+| `Panah Atas/Bawah` | Beralih secara cepat dari satu *timing point* ke *timing point* lainnya. |
 | `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan/memundurkan lagu dalam rentang (4 x nilai beat snap divisor yang aktif). |
 | `Ctrl` + `B` | Membubuhkan penanda (*bookmark*) pada waktu yang ditentukan. |
 | `Ctrl` + `Shift` + `B` | Menghapus penanda (*bookmark*) pada waktu yang ditentukan. |
-| `Ctrl` + `Panah Kiri/Kanan` | Berpindah secara cepat dari satu *bookmark* ke *bookmark* lainnya. |
+| `Ctrl` + `Panah Kiri/Kanan` | Beralih secara cepat dari satu *bookmark* ke *bookmark* lainnya. |
 | `Ctrl` + `L` | Kembali ke keadaan save sebelumnya (sebagian). Perintah ini akan me-load ulang file `.osu` dan `.osb`. |
 | `Ctrl` + `Shift` + `L` | Kembali ke keadaan save sebelumnya (sepenuhnya). Perintah ini akan me-load ulang semuanya. |
 | `Ctrl` + `O` | Membuka jendela pemilihan difficulty. |
