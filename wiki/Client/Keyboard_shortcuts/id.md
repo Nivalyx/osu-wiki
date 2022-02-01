@@ -82,7 +82,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `Ctrl` + `A` | Mengaktifkan/menonaktifkan mod Auto. |
 | `Ctrl` + `F3` atau `Ctrl` + `+` | Meningkatkan *scroll speed* osu!mania (untuk beatmap-beatmap osu!mania). |
 | `Ctrl` + `F4` atau `Ctrl` + `-` | Mengurangi *scroll speed* osu!mania (untuk beatmap-beatmap osu!mania). |
-| `Ctrl` + `Backspace` | Menghapus kata terakhir di bilah pencarian. |
+| `Ctrl` + `Backspace` | Menghapus kata terakhir dari kolom pencarian. |
 | `Panah Atas/Bawah` | Memilih beatmap sebelumnya/berikutnya. |
 | `Panah Kiri/Kanan` | Memilih set beatmap sebelumnya/berikutnya. |
 | `Page Up/Down` | Melakukan scroll ke atas/bawah. |
