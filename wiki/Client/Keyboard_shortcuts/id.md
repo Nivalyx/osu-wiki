@@ -213,7 +213,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `M` | Mengubah nilai beat snap divisor. |
 | `Delete` | Menghapus pilihan. |
 | `1`, `2`, `3`, atau `4` | Mengaktifkan mode select, circle, slider, dan spinner (osu!, osu!taiko, dan osu!catch). |
-| `1`, `2`, atau `3` | Mengaktifkan select, circle, dan hold  (osu!mania). |
+| `1`, `2`, atau `3` | Mengaktifkan mode select, circle, dan hold  (osu!mania). |
 | `Ctrl` + `Alt` + `Roda Mouse ke Atas/Bawah` | Berpindah di antara mode penaruhan/pemilihan. |
 | `Ctrl` + `Shift` + `A` | Membuka jendela [AiMod](/wiki/Client/Beatmap_editor/AiMod). |
 
