@@ -169,10 +169,10 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `N` | Menampilkan pilihan untuk menghapus semua objek yang ada. |
 | `Ctrl` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan pemutaran lagu (*playback speed*) sebesar 25%. |
 | `Ctrl` + `Shift` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan pemutaran lagu (*playback speed*) sebesar 5%. |
-| `F1` | Pindah ke mode [compose](/wiki/Client/Beatmap_editor/Compose). |
-| `F2` | Pindah ke mode [design](/wiki/Client/Beatmap_editor/Design). |
-| `F3` | Pindah ke mode [timing](/wiki/Client/Beatmap_editor/Timing). |
-| `F4` | Membuka dialog [song setup](/wiki/Client/Beatmap_editor/Song_Setup). |
+| `F1` | Beralih ke tab [Compose](/wiki/Client/Beatmap_editor/Compose). |
+| `F2` | Beralih ke tab [Design](/wiki/Client/Beatmap_editor/Design). |
+| `F3` | Beralih ke tab [Timing](/wiki/Client/Beatmap_editor/Timing). |
+| `F4` | Membuka dialog [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). |
 | `F5` | Memasuki mode tes. |
 | `F6` | Membuka dialog timing dan control points. |
 | `Ctrl` + `P` | Menambahkan timing point uninherited pada timestamp saat ini. Jika tidak dilakukan di dalam mode timing, membuka dialog timing dan titik kontrol. |
