@@ -166,7 +166,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `Shift` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last save state*) secara menyeluruh, di mana osu! akan memuat ulang seluruh berkas yang ada pada folder beatmap tanpa terkecuali. |
 | `Ctrl` + `O` | Membuka jendela pemilihan tingkat kesulitan. |
 | `Ctrl` + `S` | Menyimpan beatmap. |
-| `Ctrl` + `N` | Menampilkan perhatian untuk menghapus semua objek. |
+| `Ctrl` + `N` | Menampilkan pilihan untuk menghapus semua objek yang ada. |
 | `Ctrl` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan playback sebanyak 25%. |
 | `Ctrl` + `Shift` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan playback sebanyak 5%. |
 | `F1` | Pindah ke mode [compose](/wiki/Client/Beatmap_editor/Compose). |
