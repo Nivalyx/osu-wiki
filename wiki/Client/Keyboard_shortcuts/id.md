@@ -123,7 +123,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | :-- | :-- |
 | `+` atau `-` | Mengatur offset lokal (tahan `Alt` untuk mengatur offset dalam rentang yang lebih presisi). |
 | `Esc` | Menjeda permainan, atau mengembalikan osu! ke layar pemilihan lagu apabila kamu sedang menonton tayangan ulang atau memainkan beatmap dengan menggunakan mod Auto atau Cinema. |
-| `Spasi` | Melewati intro beatmap. |
+| `Spasi` | Melewatkan intro beatmap. |
 | `Tab` | Menampilkan/menyembunyikan papan skor. |
 | `Shift` + `Tab` | Menampilkan/menyembunyikan tampilan antarmuka permainan. |
 | `H` | Menampilkan/menyembunyikan papan skor dan tampilan antarmuka permainan pada saat kamu sedang memutar tayangan ulang atau menonton pemain lain. |
