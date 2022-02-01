@@ -54,7 +54,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Z` atau `F1` | Memainkan lagu sebelumnya. |
-| `X` atau `F2` | Memutar lagu. Apabila sudah ada lagu yang diputar sebelumnya, lagu tersebut akan diulang dari awal. |
+| `X` atau `F2` | Memutar lagu. Apabila sudah ada lagu yang diputar, lagu tersebut akan diulang dari awal. |
 | `C` | Menjeda atau melanjutkan pemutaran lagu. |
 | `F4` | Menghentikan pemutaran lagu. |
 | `V` atau `F5` | Memainkan lagu berikutnya. |
@@ -92,9 +92,12 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 
 ## Game modifier
 
-*Halaman utama: [Game modifier](/wiki/Game_modifier)*\
+*Laman utama: [Game modifier](/wiki/Game_modifier)*\
 *Catatan: Menekan tombol-tombol pintasan akan menaktifkan/menonaktifkan modifier terkait. Kamu harus berada di menu game modifier untuk memakai pintasan tersebut.*\
 *Catatan: Target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak mempunyai tombol pintasan.*
+
+Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.
+Note: Target practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.
 
 | Pintasan | Mod |
 | :-- | :-- |
