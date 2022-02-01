@@ -288,7 +288,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `T` | Mengubah nilai BPM dan offset sesuai dengan input yang diberikan. |
-| `Shift` pada saat mengatur BPM atau offset | Mengubah nilai BPM dan offset sejumlah 5x jumlah normal. |
+| `Shift` pada saat mengatur BPM atau offset | Mengubah nilai BPM dan offset sejumlah 5x nilai normal. |
 | `Ctrl` pada saat mengatur BPM | Mengubah nilai BPM sejumlah 0.25. |
-| `Ctrl` pada saat mengatur offset | Mengubah nilai offset sebanyak 1. |
-| `Ctrl` pada saat mengatur slider velocity | Pengubahan sebanyak 0.1. |
+| `Ctrl` pada saat mengatur offset | Mengubah nilai offset sejumlah 1. |
+| `Ctrl` pada saat mengatur slider velocity | Mengubah nilai slider velocity sejumlah 0.1. |
