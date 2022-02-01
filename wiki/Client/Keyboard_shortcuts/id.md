@@ -221,9 +221,9 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Alt` | Mengaktifkan/menonaktifkan [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) untuk sementara. |
+| `Alt` | Mengaktifkan/menonaktifkan [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) untuk sementara waktu. |
 | `Y` | Mengaktifkan/menonaktifkan distance snap. |
-| `Shift` | Mengaktifkan/menonaktifkan grid snap untuk sementara. |
+| `Shift` | Mengaktifkan/menonaktifkan grid snap untuk sementara waktu. |
 | `T` | Mengaktifkan/menonaktifkan grid snap. |
 | `G` | Mengubah ukuran grid. |
 | `Ctrl` + `1` | Mengubah ukuran grid menjadi mungil. |
