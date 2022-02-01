@@ -38,7 +38,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Alt` + `Enter` | Mengaktifkan/menonaktifkan mode *fullscreen* |
-| `Panah Atas/Bawah` | Mengatur volume master. Gunakan panah kiri dan kanan untuk mengatur volume music dan effect. |
+| `Panah Atas/Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
 | `Esc` | Kembali atau membatalkan. |
 | `P`, `E`, atau `O` | Membuka menu bermain. |
 | `P` tiga kali | Masuk mode solo. |
