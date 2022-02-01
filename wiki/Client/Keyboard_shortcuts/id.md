@@ -15,7 +15,7 @@ osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam perm
 
 ## Umum
 
-Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, manu, atau tab manapun:
+Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab manapun:
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
@@ -148,7 +148,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, manu, atau tab ma
 
 ### Umum
 
-Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, manu, atau tab beatmap editor manapun:
+Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab beatmap editor manapun:
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
