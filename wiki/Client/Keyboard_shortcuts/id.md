@@ -128,7 +128,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `Shift` + `Tab` | Menampilkan/menyembunyikan tampilan antarmuka permainan. |
 | `H` | Menampilkan/menyembunyikan papan skor dan tampilan antarmuka permainan dalam pemutaran tayangan ulang atau pada saat menonton pemain lain. |
 | `F3` atau `F4` | Mengatur *scroll speed* osu!mania (hanya dapat digunakan pada awal permainan). |
-| `Ctrl` + `R` atau `` ` `` | Tombol *shortcut* ini harus ditahan selama beberapa waktu. Pada saat *shortcut* ini dipanggil, osu! akan mengulang beatmap yang sedang dimainkan secara cepat (tanpa memainkan intro beatmap). |
+| `Ctrl` + `R` atau `` ` `` | Tombol *shortcut* ini harus ditahan selama beberapa waktu. Pada saat *shortcut* ini dipanggil, osu! akan mengulang beatmap yang sedang dimainkan secara cepat (tanpa memutar intro beatmap). |
 
 ## Tayangan ulang
 
