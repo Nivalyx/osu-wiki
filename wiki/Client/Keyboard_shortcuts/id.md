@@ -11,7 +11,7 @@ tags:
 
 osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam permainan maupun di berbagai tempat lainnya.
 
-*Catatan: Artikel ini hanya akan menerakan tombol-tombol shortcut yang ada pada konfigurasi default. Kamu dapat mengubah konfigurasi tombol-tombol ini melalui [menu Options](/wiki/Client/Options)*.
+*Catatan: Artikel ini hanya akan menerakan kombinasi tombol-tombol shortcut bawaan/default. Kamu dapat mengubah kombinasi tombol-tombol ini melalui [menu Options](/wiki/Client/Options)*.
 
 ## Umum
 
@@ -28,7 +28,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `F9` | Menampilkan/menyembunyikan jendela obrolan yang diperluas. |
 | `F10` | Mengaktifkan/menonaktifkan tombol-tombol mouse (kecuali roda mouse, yang selalu aktif sepanjang waktu). |
 | `F12` | Mengambil tangkapan layar (*screenshot*). Klik pada dialog yang muncul untuk membuka folder Screenshots. |
-| `Shift` + `F12` | Mengambil screenshot dan meng-upload-nya ke server osu! untuk bisa dibagikan. Screenshot ini juga akan disimpan secara lokal. Perintah ini akan membuka screenshot tersebut pada web browser kamu. |
+| `Shift` + `F12` | Mengambil tangkapan layar (*screenshot*) untuk kemudian diunggah ke server osu! Screenshot ini juga akan disimpan secara lokal. Perintah ini akan membuka screenshot tersebut pada web browser kamu. |
 | `Insert` | Tombol ini adalah [tombol bos](https://en.wikipedia.org/wiki/Boss_key). Meminimalkan klien gim ke bagian notifikasi komputer. Perintah ini juga akan mematikan suara gim. |
 | `Shift` + `F1` | Membuka [osu!status](https://twitter.com/osustatus) di web browser kamu. (Hanya ketika terjadi kesalahan koneksi.) |
 | `Ctrl` + `O` | Membuka sidebar pengaturan. Tidak bisa membuka offset wizard jika tidak berada di menu utama. |
