@@ -117,9 +117,9 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `B` | Score V2 |
 | `3` hingga `9` | 3K hingga 9K (osu!mania) |
 
-## Permainan
+## Dalam permainan
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `+` atau `-` | Mengatur offset lokal (tahan `Alt` untuk mengganti keakuratan). |
 | `Esc` | Menjeda permainan, atau kembali ke pemilihan lagu jika sedang melihat replay atau menggunakan mod Auto atau Cinema. |
