@@ -132,9 +132,9 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 
 ## Tayangan ulang
 
-*Catatan: Kamu harus menggunakan rilisan stream cuttingedge untuk menggunakan pintasan-pintasan ini.*
+*Catatan: Tombol-tombol shortcut berikut hanya dapat digunakan pada osu! versi Cutting Edge.*
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `5` | Menjeda replay. |
 | `6` atau `0` | Melanjutkan replay atau menyetel kecepatan playback menjadi 1x. |
@@ -150,7 +150,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 
 Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Z` | Melompat ke objek pertama atau awal lagu. |
 | `V` | Melompat ke objek terakhir atau akhir lagu. |
@@ -181,7 +181,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 #### Mouse
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu. |
 | `Shift` + `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu dalam kecepatan 4x. |
@@ -193,14 +193,14 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 #### Mouse
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Klik Kiri` dua kali | Pada sebuah circle atau akhir dari slider, melompat ke posisi objek timeline di titik mana pun dalam lagu. (osu!, osu!taiko, osu!catch) |
 | `Klik Kanan` | Mengaktifkan/menonaktifkan combo baru (saat menempatkan hit objek baru) atau menghapus objek (saat memilih). |
 
 #### Umum
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Alt` + `F4` atau `Esc` | Kembali ke pemilihan lagu. |
 | `Ctrl` + `Z` | Meng-undo. |
@@ -219,7 +219,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 #### Playfield
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Alt` | Mengaktifkan/menonaktifkan sementara [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) ketika ditahan. |
 | `Y` | Mengaktifkan/menonaktifkan distance snap. |
@@ -234,14 +234,14 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 #### Manipulasi objek
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Q` | Menyetel new combo. |
-| `Ctrl` + `,` | Memutar pemilihan sebesar 90 derajat berlawanan arah jarum jam. |
-| `Ctrl` + `.` | Memutar pemilihan sebesar 90 derajat searah jarum jam. |
-| `Ctrl` + `H` | membalik pemilihan secara horizontal. |
-| `Ctrl` + `J` | membalik pemilihan secara vertikal. |
-| `Ctrl` + `G` | membalikkan pemilihan, yaitu mengubah objek pertama yang dipilih menjadi yang terakhir dan seterusnya. |
+| `Q` | Mengaplikasikan new combo. |
+| `Ctrl` + `,` | Memutar pilihan 90 derajat berlawanan arah jarum jam. |
+| `Ctrl` + `.` | Memutar pilihan 90 derajat searah jarum jam. |
+| `Ctrl` + `H` | Mencerminkan pilihan secara horizontal. |
+| `Ctrl` + `J` | Mencerminkan pilihan secara vertikal. |
+| `Ctrl` + `G` | Membalik urutan objek-objek dalam pilihan, di mana objek pertama akan menjadi objek terakhir dan seterusnya. |
 | `Ctrl` + `Shift` + `R` | Memutar pemilihan sebesar sebuah sudut (membuka sebuah dialog). |
 | `Ctrl` + `Shift` + `S` | Membesarkan/mengecilkan pemilihan sebesar sebuah angka (membuka sebuah dialog). |
 | `Ctrl` + `Shift` + `D` | Membuat poligon dengan titik sudut yang ditentukan (membuka sebuah dialog). |
@@ -252,7 +252,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 #### Hitsounding
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `W` | Menyetel Whistle addition ke pemilihan. |
 | `E` | Menyetel Finish addition ke pemilihan. |
@@ -263,7 +263,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 #### Timeline
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Menyetel [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9 secara berurutan. |
 | `Shift` (ketika men-drag pada timeline) | Mengabaikan beat snap divisor snapping. |
@@ -272,7 +272,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 ### Desain
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `I` | Membuka overlay pustaka library. |
 | `Ctrl` + `Z` | Meng-undo. |
@@ -285,7 +285,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 ### Timing
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `T` | Mengubah BPM dan offset saat ditekan berirama dengan lagu. |
 | `Shift` saat mengatur BPM atau offset | Pengubahan sebanyak 5x jumlah normal. |
