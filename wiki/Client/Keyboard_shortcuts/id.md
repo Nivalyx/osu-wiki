@@ -67,7 +67,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `F1` | Membuka menu pemilihan [game modifier](/wiki/Game_modifier). |
+| `F1` | Membuka menu pemilihan [mod](/wiki/Game_modifier). |
 | `F2` | Memilih beatmap secara acak. |
 | `Shift` + `F2` | Kembali ke beatmap yang sebelumnya terpilih secara acak. |
 | `F3` | Membuka jendela pengaturan beatmap. |
