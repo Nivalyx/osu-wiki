@@ -21,7 +21,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | :-- | :-- |
 | `Alt` + `F4` | Menutup klien permainan. Apabila *shortcut* ini digunakan di dalam permainan, beatmap editor, atau layar osu!direct, osu! akan kembali ke menu pemilihan lagu (atau menu utama untuk layar osu!direct). |
 | `Alt` + `Panah Atas/Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
-| `Ctrl` + `Alt` + `Shift` + `S` | Memuat ulang skin. Apabila *shortcut* ini digunakan di dalam permainan atau layar hasil, skin baru akan dimuat ulang setelah osu! kembali ke menu pemilihan lagu. |
+| `Ctrl` + `Alt` + `Shift` + `S` | Memuat ulang skin. Apabila *shortcut* ini digunakan di dalam permainan atau layar hasil, skin baru akan termuat ulang setelah osu! kembali ke menu pemilihan lagu. |
 | `Ctrl` + `F11` | Menampilkan/menyembunyikan grafik *frame time*. Menekan `Ctrl` akan membekukan grafik. |
 | `F7` | Mengubah batasan FPS. |
 | `F8` | Menampilkan/menyembunyikan jendela obrolan. |
