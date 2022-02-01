@@ -228,7 +228,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `G` | Mengubah ukuran grid. |
 | `Ctrl` + `1` | Mengubah ukuran grid menjadi mungil. |
 | `Ctrl` + `2` | Mengubah ukuran grid menjadi kecil. |
-| `Ctrl` + `3` | Mengubah ukuran grid menjadi medium. |
+| `Ctrl` + `3` | Mengubah ukuran grid menjadi sedang. |
 | `Ctrl` + `4` | Mengubah ukuran grid menjadi besar. |
 | `L` | Mengaktifkan/menonaktifkan fungsi Lock Notes. |
 
