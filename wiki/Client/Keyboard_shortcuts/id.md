@@ -44,7 +44,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `P` tiga kali | Masuk ke mode Solo. |
 | `P` dua kali, lalu `M` |  Masuk ke mode ([Multi](/wiki/Gameplay/Multiplayer)). |
 | `E` dua kali | Masuk ke mode Edit. |
-| `O` | Membuka sidebar pengaturan. |
+| `O` | Membuka menu Options. |
 | `Q` | Penampilkan pemilihan untuk keluar. |
 | `Esc` | Penampilkan pemilihan untuk keluar ketika menu pengaturan dan permainan sudah ditutup. |
 | `F` | Mengganti mode pembatasan frame rate. |
