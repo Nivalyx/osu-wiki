@@ -136,11 +136,11 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `5` | Menjeda replay. |
-| `6` atau `0` | Melanjutkan replay atau menyetel kecepatan playback menjadi 1x. |
-| `7` | Menyetel kecepatan playback menjadi 2x. |
-| `8` | Menyetel kecepatan playback menjadi 3x. |
-| `9` | Menyetel kecepatan playback menjadi 4x. |
+| `5` | Menjeda pemutaran tayangan ulang. |
+| `6` atau `0` | Melanjutkan pemutaran tayangan ulang atau mengubah kecepatan pemutaran tayangan ulang menjadi 1x. |
+| `7` | Mengubah kecepatan pemutaran tayangan ulang menjadi 2x. |
+| `8` | Mengubah kecepatan pemutaran tayangan ulang menjadi 3x. |
+| `9` | Mengubah kecepatan pemutaran tayangan ulang menjadi 4x. |
 
 ## Beatmap editor
 
