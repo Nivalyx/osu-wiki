@@ -25,7 +25,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `Ctrl` + `F11` | Menampilkan/menyembunyikan grafik *frame time*. Menekan `Ctrl` akan membekukan grafik. |
 | `F7` | Mengubah batasan FPS. |
 | `F8` | Menampilkan/menyembunyikan jendela obrolan. |
-| `F9` | Menampilkan/menyembunyikan jendela obrolan yang diperluas. |
+| `F9` | Menampilkan/menyembunyikan jendela obrolan dan daftar penggunas. |
 | `F10` | Mengaktifkan/menonaktifkan tombol-tombol mouse (kecuali roda mouse, yang akan selalu aktif sepanjang waktu). |
 | `F12` | Mengambil tangkapan layar (*screenshot*). Klik pada dialog yang muncul untuk membuka folder Screenshots. |
 | `Shift` + `F12` | Mengambil tangkapan layar (*screenshot*) untuk kemudian diunggah ke server osu!. Perintah ini akan menyimpan tangkapan layar (*screenshot*) secara lokal pada folder Screenshots, mengunggahnya, dan membukanya pada browser. |
