@@ -177,7 +177,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `F6` | Membuka kotak dialog Timing and Control Points. |
 | `Ctrl` + `P` | Menambahkan *uninherited timing point* pada waktu yang ditentukan. Apabila *shortcut* ini dipanggil di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
 | `Ctrl` + `Shift` + `P` | Menambahkan *inherited timing point* pada waktu yang ditentukan. PApabila *shortcut* ini dipanggil di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. | |
-| `Ctrl` + `I` | Menghapus bagian uninherited dan inherited saat ini. Pintasan ini tidak akan bekerja pada timing point uninherited pertama. |
+| `Ctrl` + `I` | Menghapus *timing point* (baik yang bersifat *uninherited* maupun *inherited*) yang sedang aktif. *Shortcut* ini tidak dapat digunakan untuk menghapus *uninherited timing point* yang pertama. |
 
 #### Mouse
 
