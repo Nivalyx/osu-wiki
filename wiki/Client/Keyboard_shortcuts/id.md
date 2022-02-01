@@ -26,7 +26,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `F7` | Mengubah batasan FPS. |
 | `F8` | Menampilkan/menyembunyikan jendela obrolan. |
 | `F9` | Menampilkan/menyembunyikan jendela obrolan yang diperluas. |
-| `F10` | Mengaktifkan/menonaktifkan tombol-tombol mouse (kecuali roda mouse, yang selalu aktif sepanjang waktu). |
+| `F10` | Mengaktifkan/menonaktifkan tombol-tombol mouse (kecuali roda mouse, yang akan selalu aktif sepanjang waktu). |
 | `F12` | Mengambil tangkapan layar (*screenshot*). Klik pada dialog yang muncul untuk membuka folder Screenshots. |
 | `Shift` + `F12` | Mengambil tangkapan layar (*screenshot*) untuk kemudian diunggah ke server osu!. Perintah ini akan menyimpan tangkapan layar (*screenshot*) secara lokal pada folder Screenshots, mengunggahnya, dan membukanya pada browser. |
 | `Insert` | Tombol ini adalah [tombol bos](https://en.wikipedia.org/wiki/Boss_key). Meminimalkan klien gim ke bagian notifikasi komputer. Perintah ini juga akan mematikan suara gim. |
