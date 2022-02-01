@@ -40,7 +40,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `Alt` + `Enter` | Mengaktifkan/menonaktifkan mode *fullscreen* |
 | `Panah Atas/Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
 | `Esc` | Kembali ke layar sebelumnya atau membatalkan pilihan. |
-| `P`, `E`, atau `O` | Membuka menu bermain. |
+| `P`, `E`, atau `O` | Membuka menu Play. |
 | `P` tiga kali | Masuk mode solo. |
 | `P` dua kali, lalu `M` |  Masuk mode ([multiplayer](/wiki/Gameplay/Multiplayer)). |
 | `E` dua kali | Masuk mode edit. |
