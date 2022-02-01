@@ -28,9 +28,9 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `F9` | Menampilkan/menyembunyikan jendela obrolan dan daftar pengguna. |
 | `F10` | Mengaktifkan/menonaktifkan tombol-tombol mouse (kecuali roda mouse, yang akan selalu aktif sepanjang waktu). |
 | `F12` | Mengambil tangkapan layar (*screenshot*). Klik pada dialog yang muncul untuk membuka folder Screenshots. |
-| `Shift` + `F12` | Mengambil tangkapan layar (*screenshot*) untuk kemudian diunggah ke server osu!. Perintah ini akan menyimpan tangkapan layar (*screenshot*) secara lokal pada folder Screenshots, mengunggahnya, dan menampilkannya pada *browser*. |
+| `Shift` + `F12` | Mengambil tangkapan layar (*screenshot*) untuk kemudian diunggah ke server osu!. Perintah ini akan menyimpan tangkapan layar (*screenshot*) secara lokal pada folder Screenshots, mengunggahnya, dan menampilkannya pada browser. |
 | `Insert` | Tombol ini merupakan [tombol bos (*boss key*)](https://en.wikipedia.org/wiki/Boss_key). Pada saat ditekan, tombol ini akan meminimalkan osu! akan ke area notifikasi dan mematikan suara lagu. |
-| `Shift` + `F1` | Membuka laman [osu!status](https://twitter.com/osustatus) pada *browser*. (Hanya dapat digunakan pada saat osu! gagal terhubung) |
+| `Shift` + `F1` | Membuka laman [osu!status](https://twitter.com/osustatus) pada browser. (Hanya dapat digunakan pada saat osu! gagal terhubung) |
 | `Ctrl` + `O` | Membuka menu Options. Harap diperhatikan bahwa pengaturan offset melalui Offset Wizard tidak akan dapat dilangsungkan apabila osu! tidak sedang berada pada menu utama. |
 
 ## Menu utama
