@@ -30,7 +30,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `F12` | Mengambil tangkapan layar (*screenshot*). Klik pada dialog yang muncul untuk membuka folder Screenshots. |
 | `Shift` + `F12` | Mengambil tangkapan layar (*screenshot*) untuk kemudian diunggah ke server osu!. Perintah ini akan menyimpan tangkapan layar (*screenshot*) secara lokal pada folder Screenshots, mengunggahnya, dan membukanya pada browser. |
 | `Insert` | Tombol ini adalah [tombol bos](https://en.wikipedia.org/wiki/Boss_key). Meminimalkan klien gim ke bagian notifikasi komputer. Perintah ini juga akan mematikan suara gim. |
-| `Shift` + `F1` | Membuka [osu!status](https://twitter.com/osustatus) pada browser. (Hanya dapat digunakan ketika terjadi kesalahan koneksi.) |
+| `Shift` + `F1` | Membuka [osu!status](https://twitter.com/osustatus) pada browser. (Hanya dapat digunakan pada saat osu! gagal terhubung) |
 | `Ctrl` + `O` | Membuka menu Options. Harap dicatat bahwa pengaturan offset melalui Offset Wizard tidak akan dapat dilangsungkan apabila osu! tidak sedang berada pada menu utama. |
 
 ## Menu utama
