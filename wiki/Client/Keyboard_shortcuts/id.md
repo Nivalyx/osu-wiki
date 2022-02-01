@@ -287,7 +287,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `T` | Mengubah BPM dan offset saat ditekan berirama dengan lagu. |
+| `T` | Mengubah BPM dan offset seiring dengan input yang diberikan. |
 | `Shift` pada saat mengatur BPM atau offset | Pengubahan sebanyak 5x jumlah normal. |
 | `Ctrl` pada saat mengatur BPM | Pengubahan sebanyak 0.25. |
 | `Ctrl` pada saat mengatur offset | Pengubahan sebanyak 1. |
