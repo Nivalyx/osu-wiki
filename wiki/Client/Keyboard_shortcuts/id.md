@@ -274,14 +274,14 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `I` | Membuka overlay pustaka library. |
+| `I` | Membuka menu Sprite Library. |
 | `Ctrl` + `Z` | Mengurungkan tindakan. |
 | `Ctrl` + `Y` | Membatalkan pengurungan tindakan. |
-| `Ctrl` + `X` | Memotong sprite yang dipilih. |
-| `Ctrl` + `C` | Menyalin sprite yang dipilih. |
-| `Ctrl` + `V` | Menempel sprite pada waktu sekarang. *Note: Sprite yang ditempel tidak akan terlihat pada daftar layer sampai beatmapnya disimpan dan di-load ulang.* |
-| `Delete` | Menghapus sprite yang dipilih dari layer. |
-| `W`, `A`, `S`, `D` | Menggeser sprite yang dipilih ke atas, kiri, bawah, atau kanan berurutan sebanyak satu [osu!pixel](/wiki/osupixel). |
+| `Ctrl` + `X` | Memotong *sprite* yang dipilih. |
+| `Ctrl` + `C` | Menyalin *sprite* yang dipilih. |
+| `Ctrl` + `V` | Menempelkan *sprite* pada waktu yang ditentukan. *Catatan: Sprite-sprite yang ditempel hanya akan terlihat pada daftar layer setelah beatmap dimuat ulang.* |
+| `Delete` | Menghapus *sprite* yang dipilih dari layer. |
+| `W`, `A`, `S`, `D` | Menggeser sprite yang dipilih ke atas, kiri, bawah, atau kanan sebanyak satu [osu!pixel](/wiki/osupixel). |
 
 ### Tab Timing
 
