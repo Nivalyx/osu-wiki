@@ -245,7 +245,7 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Ctrl` + `Shift` + `R` | Memutar pilihan pada sudut rotasi tertentu (melalui kotak dialog yang terbuka). |
 | `Ctrl` + `Shift` + `S` | Memperbesar/memperkecil jarak antar objek-objek dalam pilihan berdasarkan skala tertentu (melalui kotak dialog yang terbuka). |
 | `Ctrl` + `Shift` + `D` | Menghasilkan poligon dengan jumlah titik sudut tertentu (melalui kotak dialog yang terbuka). |
-| `Ctrl` + `Shift` + `F` | Mengubah slider yang dipilih menjadi stream (melalui kotak dialog yang terbuka). |
+| `Ctrl` + `Shift` + `F` | Mengubah slider yang dipilih menjadi rentetan stream (melalui kotak dialog yang terbuka). |
 | `Ctrl` + `Panah Kiri/Kanan/Atas/Bawah` | Menggeser pilihan ke arah yang ditekan. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Panah Kiri/Kanan` | Menggeser pilihan satu kolom ke kiri atau kanan. (osu!mania) |
 | `Ctrl` + `Panah Atas/Bawah` | Menggeser pilihan ke atas atau bawah sebanyak satu divisor. (osu!mania) |
