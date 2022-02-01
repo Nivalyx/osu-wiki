@@ -65,18 +65,18 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 
 *Catatan: Tidak semua tombol shortcut di bawah ini dapat digunakan dalam lobi multiplayer.*
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `F1` | Membuka menu pemilihan [game modifier](/wiki/Game_modifier). |
-| `F2` | Memilih sebuah beatmap secara acak. |
-| `Shift` + `F2` | Kembali ke beatmap yang sebelumnya dipilih secara acak. |
-| `F3` | Membuka pengaturan beatmap. |
-| `F5` | Memproses ulang beatmap (perintah ini mungkin memerlukan konfirmasi dari kamu untuk melanjutkan). |
-| `Shift` + `Delete` |  |
-| `Ctrl` + `1` | Mengganti game mode menjadi [osu!](/wiki/Game_mode/osu!). |
-| `Ctrl` + `2` | Mengganti game mode menjadi [osu!taiko](/wiki/Game_mode/osu!taiko). |
-| `Ctrl` + `3` | Mengganti game mode menjadi [osu!catch](/wiki/Game_mode/osu!catch). |
-| `Ctrl` + `4` | Mengganti game mode menjadi [osu!mania](/wiki/Game_mode/osu!mania). |
+| `F2` | Memilih beatmap secara acak. |
+| `Shift` + `F2` | Kembali ke beatmap yang sebelumnya terpilih secara acak. |
+| `F3` | Membuka jendela pengaturan beatmap. |
+| `F5` | Memproses ulang beatmap (perintah ini akan memunculkan layar konfirmasi). |
+| `Shift` + `Delete` | Membuka jendela penghapusan beatmap. Setelah *shortcut* ini diaktifkan, osu! akan memintamu untuk menentukan apakah kamu ingin menghapus tingkat kesulitan yang dipilih, beatmap yang dipilih, atau seluruh beatmap yang kamu miliki. |
+| `Ctrl` + `1` | Mengubah mode permainan ke [osu!](/wiki/Game_mode/osu!). |
+| `Ctrl` + `2` | Mengubah mode permainan ke [osu!taiko](/wiki/Game_mode/osu!taiko). |
+| `Ctrl` + `3` | Mengubah mode permainan ke [osu!catch](/wiki/Game_mode/osu!catch). |
+| `Ctrl` + `4` | Mengubah mode permainan ke [osu!mania](/wiki/Game_mode/osu!mania). |
 | `Ctrl` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Auto](/wiki/Game_modifier/Auto). |
 | `Ctrl` + `Shift` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Cinema](/wiki/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Mengaktifkan/menonaktifkan mod Auto. |
