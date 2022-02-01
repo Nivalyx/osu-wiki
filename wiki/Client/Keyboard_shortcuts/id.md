@@ -158,7 +158,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `C` atau `Spasi` | Menjeda/melanjutkan pemutaran lagu. |
 | `Panah Kiri/Kanan` | Memajukan/memundurkan lagu. |
 | `Panah Atas/Bawah` | Beralih secara cepat dari satu *timing point* ke *timing point* lainnya. |
-| `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan/memundurkan lagu dalam rentang (4 x nilai *beat snap divisor* yang aktif). |
+| `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan/memundurkan lagu dalam rentang (4 x nilai beat snap divisor yang aktif). |
 | `Ctrl` + `B` | Membubuhkan penanda (*bookmark*) pada waktu yang ditentukan. |
 | `Ctrl` + `Shift` + `B` | Menghapus penanda (*bookmark*) pada waktu yang ditentukan. |
 | `Ctrl` + `Panah Kiri/Kanan` | Beralih secara cepat dari satu *bookmark* ke *bookmark* lainnya. |
@@ -185,7 +185,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | :-- | :-- |
 | `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu. |
 | `Shift` + `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu dalam kecepatan 4x. |
-| `Ctrl` + `Roda Mouse ke Atas/Bawah` | Mengubah nilai **beat snap divisor*. |
+| `Ctrl` + `Roda Mouse ke Atas/Bawah` | Mengubah nilai beat snap divisor. |
 | `Alt` + `Roda Mouse ke Atas/Bawah` | Menyetel pengali distance snapping saat cursor berada di area playfield. Memperbesar/memperkecil jarak timeline saat cursor berada di area timeline. |
 | `Alt` + `Shift` + `Roda Mouse ke Atas/Bawah` | Menyetel pengali distance snapping dengan lebih presisi saat cursor berada di area playfield. |
 
@@ -210,7 +210,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `C` | Menyalin. |
 | `Ctrl` + `V` | Menempel. |
 | `Ctrl` + `D` | Menggandakan objek-objek yang dipilih pada birama (*measure*) berikutnya. |
-| `Ctrl` + `M` | Mengubah nilai *beat snap divisor*. |
+| `Ctrl` + `M` | Mengubah nilai beat snap divisor. |
 | `Delete` | Menghapus pilihan. |
 | `1`, `2`, `3`, atau `4` | Mengaktifkan mode select, circle, slider, dan spinner (osu!, osu!taiko, dan osu!catch). |
 | `1`, `2`, atau `3` | Mengaktifkan mode select, circle, dan hold (osu!mania). |
@@ -265,8 +265,8 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Mengubah nilai *[beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)* ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9. |
-| `Shift` (pada saat menyeret suatu objek pada timeline) | Memindahkan objek yang dipilih tanpa bergantung pada nilai *beat snap divisor* tertentu. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Mengubah nilai [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9. |
+| `Shift` (pada saat menyeret suatu objek pada timeline) | Memindahkan objek yang dipilih tanpa bergantung pada nilai beat snap divisor tertentu. |
 | `J` | Memundurkan pilihan sebanyak satu derik ketukan (*divisor*) pada timeline. |
 | `K` | Memajukan pilihan sebanyak satu derik ketukan (*divisor*) pada timeline. |
 
