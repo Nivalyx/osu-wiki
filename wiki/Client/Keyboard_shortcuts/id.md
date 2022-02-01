@@ -280,7 +280,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `X` | Memotong elemen storyboard (*sprite*) yang dipilih. |
 | `Ctrl` + `C` | Menyalin elemen storyboard (*sprite*) yang dipilih. |
 | `Ctrl` + `V` | Menempelkan elemen storyboard (*sprite*) pada waktu yang ditentukan. *Catatan: Sprite-sprite yang ditempel baru akan terlihat pada daftar layer setelah beatmap dimuat ulang.* |
-| `Delete` | Menghapus elemen storyboard (*sprite*) yang dipilih dari *layer* yang aktif. |
+| `Delete` | Menghapus elemen storyboard (*sprite*) yang dipilih dari layer yang aktif. |
 | `W`, `A`, `S`, `D` | Menggeser elemen storyboard (*sprite*) yang dipilih ke atas, kiri, bawah, atau kanan sejauh satu [osu!pixel](/wiki/osupixel). |
 
 ### Tab Timing
@@ -288,7 +288,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `T` | Mengubah BPM dan offset saat ditekan berirama dengan lagu. |
-| `Shift` saat mengatur BPM atau offset | Pengubahan sebanyak 5x jumlah normal. |
-| `Ctrl` saat mengatur BPM | Pengubahan sebanyak 0.25. |
-| `Ctrl` saat mengatur offset | Pengubahan sebanyak 1. |
-| `Ctrl` saat mengatur slider velocity | Pengubahan sebanyak 0.1. |
+| `Shift` pada saat mengatur BPM atau offset | Pengubahan sebanyak 5x jumlah normal. |
+| `Ctrl` pada saat mengatur BPM | Pengubahan sebanyak 0.25. |
+| `Ctrl` pada saat mengatur offset | Pengubahan sebanyak 1. |
+| `Ctrl` pada saat mengatur slider velocity | Pengubahan sebanyak 0.1. |
