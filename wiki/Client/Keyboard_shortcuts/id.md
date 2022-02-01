@@ -85,7 +85,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `Ctrl` + `Backspace` | Menghapus kata terakhir dari kolom pencarian. |
 | `Panah Atas/Bawah` | Memilih beatmap sebelumnya/berikutnya. |
 | `Panah Kiri/Kanan` | Memilih set beatmap sebelumnya/berikutnya. |
-| `Page Up/Down` | Menggulung roda lagu ke atas/bawah. |
+| `Page Up/Down` | Memutar roda lagu (*song wheel*) ke atas/bawah. |
 | `Enter` | Memasuki grup/set beatmap yang dipilih atau memainkan beatmap yang dipilih. |
 | `Shift` + `Panah Kiri/Kanan` | Memasuki grup sebelumnya/berikutnya. |
 | `Shift` + `Enter` | Membuka/menutup grup yang dipilih. |
