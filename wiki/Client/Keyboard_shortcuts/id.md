@@ -259,7 +259,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `R` | Menerapkan hitsound Clap pada objek-objek yang dipilih. |
 | `Shift` + (`Q`, `W`, `E`, atau `R`) | Menerapkan sampleset auto, normal, soft, dan drum pada objek-objek yang dipilih. |
 | `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Menerapkan addition auto, normal, soft, dan drum pada objek-objek yang dipilih. |
-| `Ctrl` + `Shift` + `I` | Membuka dialog Sample Import. |
+| `Ctrl` + `Shift` + `I` | Membuka kotak dialog Sample Import. |
 
 #### Timeline
 
@@ -275,8 +275,8 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `I` | Membuka overlay pustaka library. |
-| `Ctrl` + `Z` | Meng-undo. |
-| `Ctrl` + `Y` | Me-redo. |
+| `Ctrl` + `Z` | Mengurungkan tindakan. |
+| `Ctrl` + `Y` | Membatalkan pengurungan tindakan. |
 | `Ctrl` + `X` | Memotong sprite yang dipilih. |
 | `Ctrl` + `C` | Menyalin sprite yang dipilih. |
 | `Ctrl` + `V` | Menempel sprite pada waktu sekarang. *Note: Sprite yang ditempel tidak akan terlihat pada daftar layer sampai beatmapnya disimpan dan di-load ulang.* |
