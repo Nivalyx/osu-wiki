@@ -254,12 +254,12 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `W` | Menyetel Whistle addition ke pemilihan. |
-| `E` | Menyetel Finish addition ke pemilihan. |
-| `R` | Menyetel Clap addition ke pemilihan. |
-| `Shift` + (`Q`, `W`, `E`, atau `R`) | Mengganti sampleset pemilihan ke auto, normal, soft, atau drum secara berurutan. |
-| `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Mengganti addition set pemilihan ke auto, normal, soft, atau drum secara berurutan. |
-| `Ctrl` + `Shift` + `I` | Membuka dialog sample import. |
+| `W` | Menerapkan hitsound Whistle ke objek-objek yang dipilih. |
+| `E` | Menerapkan hitsound Finish ke objek-objek yang dipilih. |
+| `R` | Menerapkan hitsound Clap ke objek-objek yang dipilih. |
+| `Shift` + (`Q`, `W`, `E`, atau `R`) | Menerapkan sampleset auto, normal, soft, atau drum ke objek-objek yang dipilih. |
+| `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Menerapkan addition auto, normal, soft, atau drum ke objek-objek yang dipilih. |
+| `Ctrl` + `Shift` + `I` | Membuka dialog Sample Import. |
 
 #### Timeline
 
