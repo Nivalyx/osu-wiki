@@ -83,8 +83,8 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `Ctrl` + `F3` atau `Ctrl` + `+` | Meningkatkan *scroll speed* osu!mania (ketika di mode osu!mania). |
 | `Ctrl` + `F4` atau `Ctrl` + `-` | Mengurangi *scroll speed* osu!mania (ketika di mode osu!mania). |
 | `Ctrl` + `Backspace` | Menghapus kata terakhir di bilah pencarian |
-| `Panah Atas/Bawah` | Memilih beatmap di atas/bawah. |
-| `Panah Kiri/Kanan` | Memilih beatmapset di atas/bawah. |
+| `Panah Atas/Bawah` | Memilih beatmap sebelumnya/berikutnya. |
+| `Panah Kiri/Kanan` | Memilih set beatmap sebelumnya/berikutnya. |
 | `Page Up/Down` | Melakukan scroll ke atas/bawah. |
 | `Enter` | Memasuki pilihan saat ini (jika memilih pada sebuah beatmapset atau grup koleksi) atau memainkan sebuah tingkat kesulitan (jika memilih dari sebuah beatmap). |
 | `Shift` + `Panah Kiri/Kanan` | Memasuki grup berikutnya/sebelumnya. |
