@@ -39,7 +39,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | :-- | :-- |
 | `Alt` + `Enter` | Mengaktifkan/menonaktifkan mode *fullscreen* |
 | `Panah Atas/Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
-| `Esc` | Kembali ke layar sebelumnya atau membatalkan pilihan. |
+| `Esc` | Mengembalikan osu! ke layar sebelumnya atau membatalkan pilihan. |
 | `P`, `E`, atau `O` | Membuka menu permainan. |
 | `P` tiga kali | Masuk ke mode Solo. |
 | `P` dua kali, lalu `M` |  Masuk ke mode ([Multi](/wiki/Gameplay/Multiplayer)). |
