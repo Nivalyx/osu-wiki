@@ -221,16 +221,16 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Alt` | Mengaktifkan/menonaktifkan sementara [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) ketika ditahan. |
+| `Alt` | Mengaktifkan/menonaktifkan [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) untuk sementara. |
 | `Y` | Mengaktifkan/menonaktifkan distance snap. |
-| `Shift` | Mengaktifkan/menonaktifkan sementara grid snap ketika ditahan. |
+| `Shift` | Mengaktifkan/menonaktifkan grid snap untuk sementara. |
 | `T` | Mengaktifkan/menonaktifkan grid snap. |
-| `G` | Mengganti ukuran grid secara berurutan. |
+| `G` | Mengganti ukuran grid. |
 | `Ctrl` + `1` | Mengatur ukuran grid menjadi sangat kecil. |
 | `Ctrl` + `2` | Mengatur ukuran grid menjadi kecil. |
 | `Ctrl` + `3` | Mengatur ukuran grid menjadi medium. |
 | `Ctrl` + `4` | Mengatur ukuran grid menjadi besar. |
-| `L` | Mengaktifkan/menonaktifkan penguncian objek. |
+| `L` | Mengaktifkan/menonaktifkan fungsi Lock Notes. |
 
 #### Manipulasi objek
 
