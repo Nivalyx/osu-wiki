@@ -40,18 +40,18 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `Alt` + `Enter` | Mengaktifkan/menonaktifkan mode *fullscreen* |
 | `Panah Atas/Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
 | `Esc` | Mengembalikan osu! ke layar sebelumnya atau membatalkan pilihan. |
-| `P`, `E`, atau `O` | Membuka menu permainan. |
+| `P`, `E`, atau `O` | Membuka menu Play. |
 | `P` tiga kali | Masuk ke mode Solo. |
 | `P` dua kali, lalu `M` |  Masuk ke mode ([Multi](/wiki/Gameplay/Multiplayer)). |
 | `E` dua kali | Masuk ke mode Edit. |
 | `O` | Membuka menu Options. |
-| `Q` | Penampilkan pemilihan untuk keluar. |
-| `Esc` | Penampilkan pemilihan untuk keluar ketika menu pengaturan dan permainan sudah ditutup. |
-| `F` | Mengganti mode pembatasan frame rate. |
+| `Q` | Menampilkan pilihan untuk keluar dari permainan. |
+| `Esc` | Menampilkan pilihan untuk keluar dari permainan. (Hanya pada saat menu Play dan Options sedang tidak aktif) |
+| `F` | Menampilkan FPS. |
 
-### Jukebox
+### Pemutar lagu (*jukebox*)
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Z` atau `F1` | Memainkan lagu sebelumnya. |
 | `X` atau `F2` | Memainkan lagu. Jika sedang memainkan lagu, mengulang lagu menjadi dari awal. |
