@@ -225,11 +225,11 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Y` | Mengaktifkan/menonaktifkan distance snap. |
 | `Shift` | Mengaktifkan/menonaktifkan grid snap untuk sementara. |
 | `T` | Mengaktifkan/menonaktifkan grid snap. |
-| `G` | Mengganti ukuran grid. |
-| `Ctrl` + `1` | Mengatur ukuran grid menjadi mungil. |
-| `Ctrl` + `2` | Mengatur ukuran grid menjadi kecil. |
-| `Ctrl` + `3` | Mengatur ukuran grid menjadi medium. |
-| `Ctrl` + `4` | Mengatur ukuran grid menjadi besar. |
+| `G` | Mengubah ukuran grid. |
+| `Ctrl` + `1` | Mengubah ukuran grid menjadi mungil. |
+| `Ctrl` + `2` | Mengubah ukuran grid menjadi kecil. |
+| `Ctrl` + `3` | Mengubah ukuran grid menjadi medium. |
+| `Ctrl` + `4` | Mengubah ukuran grid menjadi besar. |
 | `L` | Mengaktifkan/menonaktifkan fungsi Lock Notes. |
 
 #### Manipulasi objek
