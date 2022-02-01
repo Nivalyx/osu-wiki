@@ -80,9 +80,9 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `Ctrl` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Auto](/wiki/Game_modifier/Auto). |
 | `Ctrl` + `Shift` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Cinema](/wiki/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Mengaktifkan/menonaktifkan mod Auto. |
-| `Ctrl` + `F3` atau `Ctrl` + `+` | Meningkatkan *scroll speed* osu!mania (ketika di mode osu!mania). |
-| `Ctrl` + `F4` atau `Ctrl` + `-` | Mengurangi *scroll speed* osu!mania (ketika di mode osu!mania). |
-| `Ctrl` + `Backspace` | Menghapus kata terakhir di bilah pencarian |
+| `Ctrl` + `F3` atau `Ctrl` + `+` | Meningkatkan *scroll speed* osu!mania (untuk beatmap-beatmap osu!mania). |
+| `Ctrl` + `F4` atau `Ctrl` + `-` | Mengurangi *scroll speed* osu!mania (untuk beatmap-beatmap osu!mania). |
+| `Ctrl` + `Backspace` | Menghapus kata terakhir di bilah pencarian. |
 | `Panah Atas/Bawah` | Memilih beatmap sebelumnya/berikutnya. |
 | `Panah Kiri/Kanan` | Memilih set beatmap sebelumnya/berikutnya. |
 | `Page Up/Down` | Melakukan scroll ke atas/bawah. |
