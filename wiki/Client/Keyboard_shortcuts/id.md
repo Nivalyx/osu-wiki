@@ -158,7 +158,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `C` atau `Spasi` | Menjeda/melanjutkan lagu. |
 | `Panah Kiri/Kanan` | Memajukan/memundurkan lagu. |
 | `Panah Atas/Bawah` | Berpindah secara cepat dari satu *timing point* ke *timing point* lainnya. |
-| `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan/memundurkan lagu dalam rentang (4 x beat snap divisor yang aktif). |
+| `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan/memundurkan lagu dalam rentang (4 x nilai beat snap divisor yang aktif). |
 | `Ctrl` + `B` | Menambahkan bookmark pada timestamp saat ini. |
 | `Ctrl` + `Shift` + `B` | Menghapus bookmark pada timestamp saat ini. |
 | `Ctrl` + `Panah Kiri/Kanan` | Melompat di antara bookmark. |
