@@ -11,7 +11,7 @@ tags:
 
 osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam permainan maupun di berbagai tempat lainnya.
 
-*Catatan: Konfigurasi tombol-tombol shortcut yang tertera di bawah ini merupakan konfigurasi default. Kamu dapat mengubah konfigurasi tombol-tombol ini melalui [menu Options](/wiki/Client/Options)*.
+*Catatan: Artikel ini hanya akan menerakan tombol-tombol shortcut yang ada pada konfigurasi default. Kamu dapat mengubah konfigurasi tombol-tombol ini melalui [menu Options](/wiki/Client/Options)*.
 
 ## Umum
 
