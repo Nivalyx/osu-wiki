@@ -173,7 +173,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `F2` | Beralih ke tab [Design](/wiki/Client/Beatmap_editor/Design). |
 | `F3` | Beralih ke tab [Timing](/wiki/Client/Beatmap_editor/Timing). |
 | `F4` | Membuka dialog [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). |
-| `F5` | Menguji beatmap pada mode pengujian (*test mode*). |
+| `F5` | Memainkan beatmap pada mode uji (*test mode*). |
 | `F6` | Membuka kotak dialog Timing and Control Points. |
 | `Ctrl` + `P` | Menambahkan timing point uninherited pada waktu yang ditentukan. Jika tidak dilakukan di dalam mode timing, membuka dialog timing dan titik kontrol. |
 | `Ctrl` + `Shift` + `P` | Menambahkan timing point inherited pada waktu yang ditentukan. Pintasan ini akan membuka dialog timing dan titik kontrol. |
