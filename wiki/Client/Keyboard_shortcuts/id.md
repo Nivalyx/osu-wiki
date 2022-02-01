@@ -42,7 +42,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | `Esc` | Mengembalikan osu! ke layar sebelumnya atau membatalkan pilihan. |
 | `P`, `E`, atau `O` | Membuka menu Play. |
 | `P` tiga kali | Masuk ke mode Solo. |
-| `P` dua kali, lalu `M` |  Masuk ke mode ([Multi](/wiki/Gameplay/Multiplayer)). |
+| `P` dua kali, lalu `M` |  Masuk ke mode [Multi](/wiki/Gameplay/Multiplayer). |
 | `E` dua kali | Masuk ke mode Edit. |
 | `O` | Membuka menu Options. |
 | `Q` | Menampilkan pilihan untuk keluar dari permainan. |
@@ -54,11 +54,11 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Z` atau `F1` | Memainkan lagu sebelumnya. |
-| `X` atau `F2` | Memainkan lagu. Jika sedang memainkan lagu, mengulang lagu menjadi dari awal. |
-| `C` | Menjeda lagu atau memainkan lagu. |
-| `F4` | Berhenti bermain lagu (mengulang lagu menjadi dari awal). |
-| `V` atau `F5` | Memainkan lagu selanjutnya. |
-| `J` atau `F6` | membuka menu loncat ke. |
+| `X` atau `F2` | Memutar lagu. Apabila sudah ada lagu yang diputar, lagu tersebut akan diulang dari awal. |
+| `C` | Menjeda atau melanjutkan pemutaran lagu. |
+| `F4` | Menghentikan pemutaran lagu. |
+| `V` atau `F5` | Memainkan lagu berikutnya. |
+| `J` atau `F6` | Membuka menu pemilihan lagu ("Loncat Ke..."). |
 | `R` | Memainkan lagu acak. |
 
 ## Pemilihan lagu
