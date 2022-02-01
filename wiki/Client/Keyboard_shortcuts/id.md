@@ -257,15 +257,15 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `W` | Menerapkan hitsound Whistle ke objek-objek yang dipilih. |
 | `E` | Menerapkan hitsound Finish ke objek-objek yang dipilih. |
 | `R` | Menerapkan hitsound Clap ke objek-objek yang dipilih. |
-| `Shift` + (`Q`, `W`, `E`, atau `R`) | Menerapkan sampleset auto, normal, soft, atau drum ke objek-objek yang dipilih. |
-| `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Menerapkan addition auto, normal, soft, atau drum ke objek-objek yang dipilih. |
+| `Shift` + (`Q`, `W`, `E`, atau `R`) | Menerapkan sampleset auto, normal, soft, dan drum ke objek-objek yang dipilih. |
+| `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Menerapkan addition auto, normal, soft, dan drum ke objek-objek yang dipilih. |
 | `Ctrl` + `Shift` + `I` | Membuka dialog Sample Import. |
 
 #### Timeline
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Menyetel [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9 secara berurutan. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Mengubah nilai [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9. |
 | `Shift` (ketika men-drag pada timeline) | Mengabaikan beat snap divisor snapping. |
 | `J` | Menggeser objek-objek yang dipilih ke belakang sebanyak satu divisor. |
 | `K` | Menggeser objek-objek yang dipilih ke depan sebanyak satu divisor. |
