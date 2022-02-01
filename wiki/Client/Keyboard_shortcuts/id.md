@@ -54,7 +54,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Z` atau `F1` | Memainkan lagu sebelumnya. |
-| `X` atau `F2` | Memutar lagu. Apabila sudah ada lagu yang diputar, lagu tersebut akan diulang dari awal. |
+| `X` atau `F2` | Memutar lagu. Apabila sudah ada lagu yang diputar sebelumnya, lagu tersebut akan diulang dari awal. |
 | `C` | Menjeda atau melanjutkan pemutaran lagu. |
 | `F4` | Menghentikan pemutaran lagu. |
 | `V` atau `F5` | Memainkan lagu berikutnya. |
