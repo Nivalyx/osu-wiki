@@ -202,14 +202,14 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Alt` + `F4` atau `Esc` | Kembali ke pemilihan lagu. |
-| `Ctrl` + `Z` | Meng-undo. |
-| `Ctrl` + `Y` | Me-redo. |
-| `Ctrl` + `A` | Memilih semua objek. |
+| `Alt` + `F4` atau `Esc` | Mengembalikan osu! ke menu pemilihan lagu. |
+| `Ctrl` + `Z` | Mengurungkan tindakan. |
+| `Ctrl` + `Y` | Membatalkan pengurungan tindakan. |
+| `Ctrl` + `A` | Memilih seluruh objek. |
 | `Ctrl` + `X` | Memotong. |
 | `Ctrl` + `C` | Menyalin. |
 | `Ctrl` + `V` | Menempel. |
-| `Ctrl` + `D` | Menggandakan objek yang dipilih. Perintah ini akan menempel pemilihan satu ketukan setelah objek terakhir yang dipilih. |
+| `Ctrl` + `D` | Menggandakan objek-objek yang dipilih. Perintah ini akan menempel pemilihan satu ketukan setelah objek terakhir yang dipilih. |
 | `Ctrl` + `M` | Menyetel pembagi snap. |
 | `Delete` | Menghapus pemilihan. |
 | `1`, `2`, `3`, atau `4` | Berpindah di antara mode penaruhan/pemilihan: select, circle, slider, dan spinner secara berurutan (osu!, osu!taiko, atau osu!catch). |
