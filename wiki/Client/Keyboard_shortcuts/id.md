@@ -242,9 +242,9 @@ Pintasan-pintasan ini bekerja di mana pun di dalam beatmap editor:
 | `Ctrl` + `H` | Mencerminkan pilihan secara horizontal. |
 | `Ctrl` + `J` | Mencerminkan pilihan secara vertikal. |
 | `Ctrl` + `G` | Membalik urutan objek-objek dalam pilihan, di mana objek pertama akan menjadi objek terakhir dan seterusnya. |
-| `Ctrl` + `Shift` + `R` | Memutar pilihan pada sudut rotasi tertentu (melalui kotak dialog yang akan terbuka). |
-| `Ctrl` + `Shift` + `S` | Membesarkan/mengecilkan pemilihan sebesar sebuah angka (membuka sebuah dialog). |
-| `Ctrl` + `Shift` + `D` | Membuat poligon dengan titik sudut yang ditentukan (membuka sebuah dialog). |
+| `Ctrl` + `Shift` + `R` | Memutar pilihan pada sudut rotasi tertentu (melalui kotak dialog yang terbuka). |
+| `Ctrl` + `Shift` + `S` | Memperbesar/memperkecil jarak antar objek-objek yang dipilih berdasarkan skala tertentu (melalui kotak dialog yang terbuka). |
+| `Ctrl` + `Shift` + `D` | Membuat poligon dengan titik sudut yang ditentukan (melalui kotak dialog yang terbuka). |
 | `Ctrl` + `Shift` + `F` | Mengubah luncuran yang dipilih menjadi stream lingkaran (membuka sebuah dialog). |
 | `Ctrl` + `Panah Kiri/Kanan/Atas/Bawah` | Menggeser pilihan ke arah yang ditekan. (osu!, osu!taiko, osu!catch) |
 | `Ctrl` + `Panah Kiri/Kanan` | Menggeser pilihan satu kolom ke kiri atau kanan. (osu!mania) |
