@@ -7,11 +7,11 @@ tags:
   - pintasan
 ---
 
-# Referensi tombol pintasan
+# Tombol-tombol shortcut
 
-Di osu!, terdapat pintasan-pintasan yang dapat digunakan baik in-game maupun saat idle di tampilan mana pun. Pintasan-pintasan tersebut tertulis di bawah beserta fungsinya.
+osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam permainan maupun di berbagai tempat lainnya.
 
-*Catatan: Artikel ini berisi pintasan tombol default. Kamu bisa mengubah beberapa di antaranya melalui [pengaturan](/wiki/Client/Options)*
+*Catatan: Tombol-tombol shortcut yang tertera di bawah ini merupakan tombol-tombol default. Kamu bisa mengubah beberapa di antaranya melalui [pengaturan](/wiki/Client/Options)*
 
 ## Umum
 
