@@ -123,11 +123,11 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | :-- | :-- |
 | `+` atau `-` | Mengatur offset lokal (tahan `Alt` untuk mengatur offset dalam rentang yang lebih presisi). |
 | `Esc` | Menjeda permainan, atau mengembalikan osu! ke layar pemilihan lagu apabila kamu sedang menonton tayangan ulang atau memainkan beatmap dengan menggunakan mod Auto atau Cinema. |
-| `Spasi` | Melewatkan intro beatmap. |
+| `Spasi` | Melewati intro beatmap. |
 | `Tab` | Menampilkan/menyembunyikan papan skor. |
-| `Shift` + `Tab` | Menampilkan/menyembunyikan antarmuka in-game. |
-| `H` | Menampilkan/menyembunyikan papan skor dan antarmuka replay (saat melihat replay atau menonton pemain lain). |
-| `F3` atau `F4` | Mengatur kecepatan untuk osu!mania (dapat digunakan saat permulaan permainan). |
+| `Shift` + `Tab` | Menampilkan/menyembunyikan tampilan antarmuka permainan. |
+| `H` | Menampilkan/menyembunyikan papan skor dan tampilan antarmuka permainan dalam pemutaran tayangan ulang atau mode Spectate. |
+| `F3` atau `F4` | Mengatur *scroll speed* untuk osu!mania (hanya dapat digunakan pada awal permainan). |
 | `Ctrl` + `R` atau `` ` `` | Harus ditahan secara singkat. Mengulang dengan cepat map yang sedang dimainkan (melewatkan pembukaan secara otomatis). |
 
 ## Tayangan ulang
