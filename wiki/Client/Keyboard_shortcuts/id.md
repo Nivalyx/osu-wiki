@@ -35,9 +35,9 @@ Tombol-tombol *shortcut* berikut dapat digunakan di manapun:
 
 ## Menu utama
 
-| Pintasan | Aksi |
+| Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Alt` + `Enter` | Mengaktifkan/menonaktifkan mode layar penuh |
+| `Alt` + `Enter` | Mengaktifkan/menonaktifkan mode *fullscreen* |
 | `Panah Atas/Bawah` | Mengatur volume master. Gunakan panah kiri dan kanan untuk mengatur volume music dan effect. |
 | `Esc` | Kembali atau membatalkan. |
 | `P`, `E`, atau `O` | Membuka menu bermain. |
