@@ -9,7 +9,7 @@ tags:
 
 # Tombol-tombol shortcut
 
-osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam permainan maupun di berbagai tempat lainnya. Berikut merupakan daftar beserta fungsinya.
+osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam permainan maupun di berbagai tempat lainnya. Artikel ini akan menerakan tombol-tombol *shortcut* yang ada di osu! beserta fungsinya masing-masing.
 
 *Catatan: Artikel ini hanya akan menerakan kombinasi tombol-tombol shortcut bawaan/default. Kamu dapat mengubah kombinasi tombol-tombol shortcut yang ada melalui [menu Options](/wiki/Client/Options)*.
 
