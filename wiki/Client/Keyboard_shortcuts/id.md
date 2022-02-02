@@ -221,15 +221,15 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Alt` | Mengaktifkan/menonaktifkan [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) untuk sementara waktu. |
-| `Y` | Mengaktifkan/menonaktifkan distance snap. |
-| `Shift` | Mengaktifkan/menonaktifkan grid snap untuk sementara waktu. |
-| `T` | Mengaktifkan/menonaktifkan grid snap. |
-| `G` | Mengubah ukuran grid. |
-| `Ctrl` + `1` | Mengubah ukuran grid menjadi mungil. |
-| `Ctrl` + `2` | Mengubah ukuran grid menjadi kecil. |
-| `Ctrl` + `3` | Mengubah ukuran grid menjadi sedang. |
-| `Ctrl` + `4` | Mengubah ukuran grid menjadi besar. |
+| `Alt` | Mengaktifkan/menonaktifkan [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap) untuk sementara waktu. |
+| `Y` | Mengaktifkan/menonaktifkan Distance Snap. |
+| `Shift` | Mengaktifkan/menonaktifkan Grid Snap untuk sementara waktu. |
+| `T` | Mengaktifkan/menonaktifkan Grid Snap. |
+| `G` | Mengubah ukuran *grid*. |
+| `Ctrl` + `1` | Mengubah ukuran *grid* menjadi mungil. |
+| `Ctrl` + `2` | Mengubah ukuran *grid* menjadi kecil. |
+| `Ctrl` + `3` | Mengubah ukuran *grid* menjadi sedang. |
+| `Ctrl` + `4` | Mengubah ukuran *grid* menjadi besar. |
 | `L` | Mengaktifkan/menonaktifkan fungsi Lock Notes. |
 
 #### Manipulasi objek
