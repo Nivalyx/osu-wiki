@@ -205,7 +205,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Alt` + `F4` atau `Esc` | Mengembalikan osu! ke menu pemilihan lagu. |
 | `Ctrl` + `Z` | Mengurungkan tindakan. |
 | `Ctrl` + `Y` | Membatalkan pengurungan tindakan. |
-| `Ctrl` + `A` | Memilih seluruh objek. |
+| `Ctrl` + `A` | Memilih seluruh objek yang ada. |
 | `Ctrl` + `X` | Memotong. |
 | `Ctrl` + `C` | Menyalin. |
 | `Ctrl` + `V` | Menempel. |
