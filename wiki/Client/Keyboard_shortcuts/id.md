@@ -186,7 +186,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu. |
 | `Shift` + `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu dalam rentang (4 x nilai Beat Snap Divisor yang aktif). |
 | `Ctrl` + `Roda Mouse ke Atas/Bawah` | Mengubah nilai Beat Snap Divisor. |
-| `Alt` + `Roda Mouse ke Atas/Bawah` | Mengubah nilai Distance Snap saat kursor berada di area permainan, atau mengubah perbesaran *timeline* saat kursor berada di area *timeline*. |
+| `Alt` + `Roda Mouse ke Atas/Bawah` | Mengubah nilai Distance Snap pada saat kursor berada di area permainan, atau mengubah perbesaran *timeline* pada saat kursor berada di area *timeline*. |
 | `Alt` + `Shift` + `Roda Mouse ke Atas/Bawah` | Mengubah nilai Distance Snap dalam rentang yang lebih presisi. |
 
 ### Tab Compose
@@ -195,8 +195,8 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Klik Kiri` dua kali | Pada sebuah circle atau akhir dari slider, melompat ke posisi objek timeline di titik mana pun dalam lagu. (osu!, osu!taiko, dan osu!catch, apabila digunakan pada circle atau akhir slider) |
-| `Klik Kanan` | Mengaktifkan/menonaktifkan combo baru (saat menempatkan hit objek baru) atau menghapus objek (saat memilih). |
+| `Klik Kiri` dua kali | Berpindah secara cepat ke posisi objek yang dipilih. (osu!, osu!taiko, dan osu!catch) |
+| `Klik Kanan` | Mengaktifkan/menonaktifkan penerapan New Combo (pada saat hendak menempatkan objek baru), atau menghapus objek (pada saat memilih objek). |
 
 #### Umum
 
