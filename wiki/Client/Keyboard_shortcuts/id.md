@@ -59,7 +59,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `F4` | Menghentikan pemutaran lagu. |
 | `V` atau `F5` | Memainkan lagu berikutnya. |
 | `J` atau `F6` | Membuka menu "Loncat Ke...". |
-| `R` | Memainkan lagu acak. |
+| `R` | Memainkan lagu secara acak. |
 
 ## Layar pemilihan lagu
 
