@@ -72,7 +72,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `Shift` + `F2` | Kembali ke beatmap yang sebelumnya terpilih secara acak. |
 | `F3` | Membuka jendela pengaturan beatmap. |
 | `F5` | Memproses ulang beatmap (yang akan memunculkan layar konfirmasi setelahnya). |
-| `Shift` + `Delete` | Membuka jendela penghapusan beatmap. Setelah *shortcut* ini dipanggil, osu! akan memintamu untuk menentukan apakah kamu ingin menghapus tingkat kesulitan yang dipilih, beatmap yang dipilih, atau seluruh beatmap yang kamu miliki. |
+| `Shift` + `Delete` | Membuka jendela penghapusan beatmap. Setelah *shortcut* ini digunakan, osu! akan memintamu untuk menentukan apakah kamu ingin menghapus tingkat kesulitan yang dipilih, beatmap yang dipilih, atau seluruh beatmap yang kamu miliki. |
 | `Ctrl` + `1` | Mengubah mode permainan ke [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Mengubah mode permainan ke [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Mengubah mode permainan ke [osu!catch](/wiki/Game_mode/osu!catch). |
@@ -128,7 +128,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `Shift` + `Tab` | Menampilkan/menyembunyikan tampilan antarmuka permainan. |
 | `H` | Menampilkan/menyembunyikan papan skor dan tampilan antarmuka permainan pada saat kamu sedang memutar tayangan ulang atau menonton pemain lain. |
 | `F3` atau `F4` | Mengatur *scroll speed* osu!mania (hanya dapat digunakan pada awal permainan). |
-| `Ctrl` + `R` atau `` ` `` | Kedua tombol ini harus ditahan secara bersamaan selama beberapa waktu. Pada saat *shortcut* ini dipanggil, osu! akan mengulang beatmap yang sedang dimainkan secara cepat (tanpa memutar intro beatmap). |
+| `Ctrl` + `R` atau `` ` `` | Kedua tombol ini harus ditahan secara bersamaan selama beberapa waktu. Pada saat *shortcut* ini digunakan, osu! akan mengulang beatmap yang sedang dimainkan secara cepat (tanpa memutar intro beatmap). |
 
 ## Tayangan ulang
 
@@ -176,7 +176,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `F5` | Memainkan beatmap pada mode uji (*test mode*). |
 | `F6` | Membuka kotak dialog Timing and Control Points. |
 | `Ctrl` + `P` | Menambahkan *uninherited timing point* pada waktu yang ditentukan. Apabila *shortcut* ini dipanggil di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
-| `Ctrl` + `Shift` + `P` | Menambahkan *inherited timing point* pada waktu yang ditentukan. Apabila *shortcut* ini dipanggil di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. | |
+| `Ctrl` + `Shift` + `P` | Menambahkan *inherited timing point* pada waktu yang ditentukan. Apabila *shortcut* ini digunakan di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. | |
 | `Ctrl` + `I` | Menghapus *timing point* (baik yang bersifat *uninherited* maupun *inherited*) yang sedang aktif. *Shortcut* ini tidak dapat digunakan untuk menghapus *uninherited timing point* yang pertama. |
 
 #### Mouse
