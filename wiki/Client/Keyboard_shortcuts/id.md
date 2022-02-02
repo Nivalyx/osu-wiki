@@ -254,11 +254,11 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `W` | Menerapkan hitsound Whistle pada objek-objek yang dipilih. |
-| `E` | Menerapkan hitsound Finish pada objek-objek yang dipilih. |
-| `R` | Menerapkan hitsound Clap pada objek-objek yang dipilih. |
-| `Shift` + (`Q`, `W`, `E`, atau `R`) | Menerapkan sampleset Auto, Normal, Soft, dan Drum pada objek-objek yang dipilih. |
-| `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Menerapkan addition Auto, Normal, Soft, dan Drum pada objek-objek yang dipilih. |
+| `W` | Menerapkan *hitsound* Whistle pada objek-objek yang dipilih. |
+| `E` | Menerapkan *hitsound* Finish pada objek-objek yang dipilih. |
+| `R` | Menerapkan *hitsound* Clap pada objek-objek yang dipilih. |
+| `Shift` + (`Q`, `W`, `E`, atau `R`) | Menerapkan *sampleset* Auto, Normal, Soft, dan Drum pada objek-objek yang dipilih. |
+| `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Menerapkan *addition* Auto, Normal, Soft, dan Drum pada objek-objek yang dipilih. |
 | `Ctrl` + `Shift` + `I` | Membuka kotak dialog Sample Import. |
 
 #### Timeline
@@ -266,9 +266,9 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
 | `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Mengubah nilai [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9. |
-| `Shift` (pada saat menyeret suatu objek pada timeline) | Memindahkan objek yang dipilih tanpa bergantung pada nilai Beat Snap Divisor tertentu. |
-| `J` | Memundurkan pilihan sebanyak satu derik ketukan (*divisor*) pada timeline. |
-| `K` | Memajukan pilihan sebanyak satu derik ketukan (*divisor*) pada timeline. |
+| `Shift` (pada saat menyeret suatu objek pada *timeline*) | Memindahkan objek yang dipilih tanpa bergantung pada nilai Beat Snap Divisor tertentu. |
+| `J` | Memundurkan pilihan sebanyak satu derik ketukan (*divisor*) pada *timeline*. |
+| `K` | Memajukan pilihan sebanyak satu derik ketukan (*divisor*) pada *timeline*. |
 
 ### Tab Design
 
@@ -280,7 +280,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `Ctrl` + `X` | Memotong elemen storyboard (*sprite*) yang dipilih. |
 | `Ctrl` + `C` | Menyalin elemen storyboard (*sprite*) yang dipilih. |
 | `Ctrl` + `V` | Menempelkan elemen storyboard (*sprite*) pada waktu yang ditentukan. *Catatan: Sprite-sprite yang ditempel baru akan terlihat pada daftar layer setelah beatmap dimuat ulang.* |
-| `Delete` | Menghapus elemen storyboard (*sprite*) yang dipilih dari layer yang aktif. |
+| `Delete` | Menghapus elemen storyboard (*sprite*) yang dipilih dari *layer* yang aktif. |
 | `W`, `A`, `S`, `D` | Menggeser elemen storyboard (*sprite*) yang dipilih ke atas, kiri, bawah, atau kanan sejauh satu [osu!pixel](/wiki/osupixel). |
 
 ### Tab Timing
