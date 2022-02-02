@@ -65,7 +65,7 @@ oSEAT5 is run by various osu! community members predominantly hailing from vario
 
 ## Participants
 
-Listed below are players who managed to qualified into the Preliminary groups (along with their respective bracket, seeding, and group placements) out of 176 registered players in total.
+Listed below are the players who managed to qualify into the Preliminary groups (along with their respective bracket, seeding, and group placements) out of 176 registered players in total.
 
 - *Upper bracket:*
 
