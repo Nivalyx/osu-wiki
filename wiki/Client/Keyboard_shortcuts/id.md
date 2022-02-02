@@ -257,8 +257,8 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 | `W` | Menerapkan hitsound Whistle pada objek-objek yang dipilih. |
 | `E` | Menerapkan hitsound Finish pada objek-objek yang dipilih. |
 | `R` | Menerapkan hitsound Clap pada objek-objek yang dipilih. |
-| `Shift` + (`Q`, `W`, `E`, atau `R`) | Menerapkan sampleset auto, normal, soft, dan drum pada objek-objek yang dipilih. |
-| `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Menerapkan addition auto, normal, soft, dan drum pada objek-objek yang dipilih. |
+| `Shift` + (`Q`, `W`, `E`, atau `R`) | Menerapkan sampleset Auto, Normal, Soft, dan Drum pada objek-objek yang dipilih. |
+| `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Menerapkan addition Auto, Normal, Soft, dan Drum pada objek-objek yang dipilih. |
 | `Ctrl` + `Shift` + `I` | Membuka kotak dialog Sample Import. |
 
 #### Timeline
