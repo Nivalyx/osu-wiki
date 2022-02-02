@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT5 logo](img/logo.jpg)
 
-The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846). The tournament is open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Philippines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It is the 5th instalment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 5** (***oSEAT5***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846). The tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Philippines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It was the fifth instalment of the osu! South East Asia Tournament.
 
 ## Tournament schedule
 
@@ -37,6 +37,8 @@ The **osu! South East Asia Tournament 5** (***oSEAT5***) is a double-elimination
 | *4th place* | 2 months of osu!supporter |
 | *5th place* | 1 month of osu!supporter |
 
+![](img/badge.png "oSEAT5 winner badge")
+
 ## Organisation
 
 oSEAT5 is run by various osu! community members predominantly hailing from various South East Asian countries.
@@ -63,7 +65,7 @@ oSEAT5 is run by various osu! community members predominantly hailing from vario
 
 ## Participants
 
-Listed below are players who qualified into the Preliminary groups (along with their respective bracket, seeding, and group placements) out of 176 registered players in total.
+Listed below are players who managed to qualified into the Preliminary groups (along with their respective bracket, seeding, and group placements) out of 176 registered players in total.
 
 - *Upper bracket:*
 
@@ -102,6 +104,16 @@ Listed below are players who qualified into the Preliminary groups (along with t
 ¹ *Despite having the ![][flag_US] American flag on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Philippine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
 
 ² *Despite having the ![][flag_JP] Japanese flag on their profile, [ZHKPN](https://osu.ppy.sh/users/13042221) is eligible to participate in the tournament as they are a citizen of ![][flag_PH] The Philippines living abroad.*
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [NathanRammu2044](https://osu.ppy.sh/users/8472976) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620) |
 
 ## Mappools
 
@@ -375,6 +387,20 @@ Listed below are players who qualified into the Preliminary groups (along with t
   2. [Sakuzyo - FAFNIR (Sulfur) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/777255#osu/1637690)
 
 ## Match results
+
+### Finals (week 2)
+
+Saturday, 29 January 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Tebi](https://osu.ppy.sh/users/5407620) ![][flag_SG] | 3 | **8** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/97130133) |
+
+Wednesday, 2 February 2022, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | [NathanRammu2044](https://osu.ppy.sh/users/8472976) ![][flag_PH] | 6 | **9** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/97130133) |
 
 ### Finals (week 1)
 
