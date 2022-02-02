@@ -195,7 +195,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `Klik Kiri` dua kali | Pada sebuah circle atau akhir dari slider, melompat ke posisi objek timeline di titik mana pun dalam lagu. (osu!, osu!taiko, osu!catch) |
+| `Klik Kiri` dua kali | Pada sebuah circle atau akhir dari slider, melompat ke posisi objek timeline di titik mana pun dalam lagu. (osu!, osu!taiko, dan osu!catch, apabila digunakan pada circle atau akhir slider) |
 | `Klik Kanan` | Mengaktifkan/menonaktifkan combo baru (saat menempatkan hit objek baru) atau menghapus objek (saat memilih). |
 
 #### Umum
