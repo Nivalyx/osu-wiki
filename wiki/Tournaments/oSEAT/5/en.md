@@ -400,7 +400,7 @@ Wednesday, 2 February 2022, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | [NathanRammu2044](https://osu.ppy.sh/users/8472976) ![][flag_PH] | 6 | **9** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/97130133) |
+| Grand Final | [NathanRammu2044](https://osu.ppy.sh/users/8472976) ![][flag_PH] | 6 | **9** | ![][flag_ID] **[Lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/97293572) |
 
 ### Finals (week 1)
 
