@@ -31,7 +31,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 | `Shift` + `F12` | Mengambil tangkapan layar (*screenshot*) untuk kemudian diunggah ke server osu!. Perintah ini akan menyimpan tangkapan layar (*screenshot*) secara lokal pada folder Screenshots, mengunggahnya, dan menampilkannya pada *browser*. |
 | `Insert` | Tombol ini merupakan [tombol bos (*boss key*)](https://en.wikipedia.org/wiki/Boss_key). Pada saat ditekan, tombol ini akan meminimalkan osu! akan ke area notifikasi dan mematikan suara lagu. |
 | `Shift` + `F1` | Membuka laman [osu!status](https://twitter.com/osustatus) pada *browser*. (Hanya dapat digunakan pada saat osu! gagal terhubung) |
-| `Ctrl` + `O` | Membuka menu Options. Harap diperhatikan bahwa pengaturan offset melalui Offset Wizard tidak akan dapat dilangsungkan apabila osu! tidak sedang berada pada menu utama. |
+| `Ctrl` + `O` | Membuka menu Options. Harap diperhatikan bahwa pengaturan *offset* melalui Offset Wizard tidak akan dapat dilangsungkan apabila osu! tidak sedang berada pada menu utama. |
 
 ## Menu utama
 
@@ -121,7 +121,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab ma
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `+` atau `-` | Mengatur offset lokal (tahan `Alt` untuk mengatur offset dalam rentang yang lebih presisi). |
+| `+` atau `-` | Mengatur *offset* lokal (tahan `Alt` untuk mengatur *offset* dalam rentang yang lebih presisi). |
 | `Esc` | Menjeda permainan, atau mengembalikan osu! ke layar pemilihan lagu apabila kamu sedang menonton tayangan ulang atau memainkan beatmap dengan menggunakan mod Auto atau Cinema. |
 | `Spasi` | Melewatkan intro beatmap. |
 | `Tab` | Menampilkan/menyembunyikan papan skor. |
@@ -287,8 +287,8 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `T` | Mengubah nilai BPM dan offset sesuai dengan input yang diberikan. |
-| `Shift` pada saat mengatur BPM atau offset | Mengubah nilai BPM dalam rentang 5 BPM atau nilai offset dalam rentang 10ms. |
+| `T` | Mengubah nilai BPM dan *offset* sesuai dengan input yang diberikan. |
+| `Shift` pada saat mengatur BPM atau *offset* | Mengubah nilai BPM dalam rentang 5 BPM atau nilai *offset* dalam rentang 10ms. |
 | `Ctrl` pada saat mengatur BPM | Mengubah nilai BPM dalam rentang 0.25 BPM. |
-| `Ctrl` pada saat mengatur offset | Mengubah nilai offset dalam rentang 1ms. |
+| `Ctrl` pada saat mengatur *offset* | Mengubah nilai *offset* dalam rentang 1ms. |
 | `Ctrl` pada saat mengatur *slider velocity* | Mengubah nilai *slider velocity* dalam rentang 0.1x. |
