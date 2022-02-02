@@ -274,7 +274,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 | Tombol *shortcut* | Fungsi |
 | :-- | :-- |
-| `I` | Membuka menu Sprite Library. |
+| `I` | Membuka jendela Sprite Library. |
 | `Ctrl` + `Z` | Mengurungkan tindakan. |
 | `Ctrl` + `Y` | Membatalkan pengurungan tindakan. |
 | `Ctrl` + `X` | Memotong elemen storyboard (*sprite*) yang dipilih. |
