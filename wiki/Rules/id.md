@@ -1,11 +1,11 @@
 # Peraturan
 
-Peraturan-peraturan berikut ini merupakan pedoman dasar yang kami terapkan di dalam lingkungan osu! untuk menjaga agar komunitas osu! senantiasa menjadi tempat yang menyenangkan dan ramah bagi semua orang.
+Peraturan-peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komunitas osu! yang ramah dan terbuka bagi semua kalangan.
 
 ## Peraturan Komunitas
 
 1. **Setiap pemain hanya diperbolehkan untuk memiliki *SATU* akun.** Akun *pertama* yang kamu buat adalah satu-satunya akun osu! milikmu yang sah terhitung mulai dari kali pertama akun tersebut didaftarkan. Akun ini adalah KAMU. Bukan orang lain - bukan saudaramu, ibumu, kakakmu, temanmu - akun itu adalah milik KAMU. Jangan bagikan informasi kredensial akunmu dengan orang lain. Kamu tidak dibenarkan untuk membuat akun baru apabila dengan suatu alasan kamu kehilangan akses terhadap akun yang kamu miliki. Jagalah akunmu sebaik-baiknya.
-2. **Bermainlah dengan adil.** Penggunaan program-program ilegal yang dapat membuat permainan menjadi tidak adil dalam bentuk apapun sangat tidak diperbolehkan. Hal ini meliputi program makro, program yang meningkatkan akurasi bidikan kursor *(aim assist)*, program modifikasi skala waktu, dan lain sebagainya. Apabila kamu menyalahgunakan program-program tersebut, kamu akan sangat bersalah terhadap para pemain lainnya yang telah bermain adil!
+2. **Bermainlah dengan adil.** Penggunaan program-program ilegal yang dapat membuat permainan menjadi tidak adil dalam bentuk apapun sangat tidak diperbolehkan. Hal ini meliputi makro, *aim assist*, program modifikasi skala waktu (*timescale modification*), dan lain sebagainya. Apabila kamu menyalahgunakan program-program tersebut, kamu akan sangat bersalah terhadap mereka yang telah bermain secara adil!
 3. **Bersikap baiklah dengan saling menjaga rasa hormat antar satu sama lain.** Segala bentuk pelecehan dan hal-hal lainnya yang ditenggarai dapat merendahkan martabat orang lain tidak dibenarkan di dalam komunitas osu!. Kita di sini untuk bermain mengikuti irama musik, memukul drum, menangkap buah, dan menekan tuts keyboard - bukan untuk menjadi orang yang menyinggung perasaan orang lain.
 4. **Jangan bersikap kurang ajar.** Apabila pada titik tertentu kamu tidak yakin apakah kamu melanggar aturan ini, mungkin saja secara tidak sadar kamu sudah melanggar.
 5. **Kami adalah komunitas yang terbuka bagi semua usia.** Hal ini berarti bahwa konten-konten yang tergolong 18+/[NSFW](https://en.wikipedia.org/wiki/NSFW) seperti penggunaan obat-obatan terlarang dan pembahasan seksual yang berlebihan tidak dibenarkan di sini.
