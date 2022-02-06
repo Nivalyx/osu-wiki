@@ -24,7 +24,7 @@ Peraturan-peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komuni
 8. **Jangan mengiklankan server chat milik pihak ketiga di luar osu! dalam bentuk apapun - baik itu server Discord, Teamspeak, Skype, ataupun server-server chat lainnya.** Obrolan osu! diutamakan untuk membahas berbagai topik pembicaraan yang terkait dengan osu!, bukan sebagai sarana promosi publik untuk membujuk orang-orang agar bergabung ke dalam server pribadimu. Kirimkanlah pesan pribadi secara khusus apabila kamu memang ingin mengajak seseorang untuk masuk ke dalam server milikmu.
 9. **Pada kanal-kanal yang dikhususkan secara spesifik untuk suatu komunitas kenegaraan, kamu harus turut berbicara dalam bahasa yang dominan digunakan dalam kanal tersebut (bahasa Inggris untuk kanal `#english`, bahasa Thailand untuk kanal `#thai`, dll).** Teruntuk kanal-kanal yang tidak terikat secara khusus kepada suatu bahasa, pada umumnya percakapan akan selalu dilangsungkan dalam bahasa Inggris. Meskipun demikian, terdapat pengecualian pada kanal `#lobby` dan `#help` di mana kamu dibenarkan untuk mengobrol dalam bahasa apapun yang kamu kehendaki pada kedua kanal ini. *Anggota [moderation staff](/wiki/People/The_Team/Global_Moderation_Team) memiliki hak khusus untuk dapat berbicara bahasa apapun pada kanal manapun apabila dirasa perlu selama masa jabatan mereka masih berlaku.*
 
-## Peraturan Forum
+## Peraturan forum
 
 1. **Sebelum kamu membuat topik bahasan baru, pastikan topik yang akan kamu buat tersebut mengandung konten/bahan diskusi yang berbobot.** Salah satu inti penting dalam berforum terletak pada diskusi yang dihasilkan, jadi pastikan kamu tidak menyia-nyiakan waktu orang lain dengan mengangkat topik yang kurang penting untuk didiskusikan lebih lanjut.
 2. **Jaga isi kiriman dan balasanmu agar tetap sesuai bagi segala usia.** Hal-hal yang mengandung unsur-unsur NSFW tidak sejalan dengan arah tujuan komunitas osu! yang terbuka bagi semua usia. Pergunakanlah pesan pribadi apabila kamu ingin membahas hal-hal yang menjurus ke arah ini dengan pengguna lainnya.
@@ -34,7 +34,7 @@ Peraturan-peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komuni
 6. **Tidak dibenarkan untuk mengirimkan tautan yang mengandung iklan, rujukan ke situs web lain, atau konten-konten intrusif lainnya yang dapat mengganggu pengguna lain.** Kiriman-kiriman seperti ini pada umumnya hanya akan mengganggu siapapun yang memang ingin berdiskusi secara serius. Hal ini turut mencakup konten-konten yang dapat dimuat dan diputar pada browser dengan sendirinya *(autoloading/autoplay content)*.
 7. **Tidak dibenarkan untuk mengirimkan tautan yang tertuju pada aplikasi-aplikasi yang ilegal dan berpotensi mencurigakan.** Sederhananya, apabila terdapat keraguan mengenai legalitas dari aplikasi tersebut, maka aplikasi tersebut memang sebaiknya tidak untuk dibahas lebih lanjut.
 
-## Peraturan Pengunggahan Beatmap
+## Peraturan pengunggahan beatmap
 
 *Catatan: Peraturan-peraturan di bawah ini berlaku untuk **semua beatmap yang diunggah ke dalam situs osu!** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk penjabaran lebih rinci mengenai beatmap yang berstatus Ranked, harap kunjungi [Ranking Criteria](/wiki/Ranking_Criteria).*
 
