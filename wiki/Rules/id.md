@@ -2,7 +2,7 @@
 
 Peraturan-peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komunitas osu! yang ramah dan terbuka bagi semua kalangan.
 
-## Peraturan Komunitas
+## Peraturan komunitas
 
 1. **Setiap pemain hanya diperbolehkan untuk memiliki *SATU* akun.** Akun *pertama* yang kamu buat adalah satu-satunya akun osu! milikmu yang sah terhitung mulai dari detik pertama akun tersebut didaftarkan. Akun ini adalah KAMU. Bukan orang lain — bukan saudaramu, ibumu, kakakmu, temanmu — akun itu adalah milik KAMU. Jangan bagikan informasi kredensial akunmu dengan orang lain. Kamu tidak dibenarkan untuk membuat akun baru apabila karena satu dan lain hal kamu tidak lagi dapat mengakses akun tersebut. Jagalah akunmu sebaik-baiknya.
 2. **Bermainlah dengan adil.** Penggunaan sarana ilegal yang dapat membuat permainan menjadi tidak adil dalam bentuk apapun sangat tidak dibenarkan. Hal ini meliputi program-program makro, peningkat akurasi bidikan (*aim assist*), penyesuai skala waktu (*timescale modification*), dan lain sebagainya. Apabila kamu berbuat curang, kamu akan sangat bersalah terhadap mereka yang telah bermain secara adil!
@@ -12,7 +12,7 @@ Peraturan-peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komuni
 6. **Hindari perbuatan yang tidak senonoh.** osu! bukanlah tempat yang ditujukan untuk mencari jodoh atau menggoda pengguna lain. Segala tutur kata, gambar, atau tindakan yang dapat digolongkan sebagai suatu bentuk rayuan seksual TIDAK dibenarkan baik di depan umum ataupun dalam ranah pribadi. Apabila kamu merasa tidak nyaman dengan cara seseorang mendekatimu, [segera laporkan kepada kami secara rahasia](/wiki/Reporting_bad_behaviour/Abuse) agar kami dapat membantumu (dan mencegah orang lain untuk turut menjadi korban).
 7. **Apabila terdapat suatu masalah yang tidak terliput pada poin-poin di atas, gunakan akal sehat *(common sense)* untuk menyelesaikannya.** Pada kasus-kasus yang lebih serius, tim administratif kami berhak untuk secara sepihak menindak pihak-pihak yang telah dinilai melanggar dengan hukuman yang dirasa sesuai.
 
-## Peraturan In-Game Chat
+## Peraturan *in-game chat*
 
 1. **Hormatilah pengguna lain dan jangan membanjiri layar *(flooding)* atau mengirimkan pesan yang sama berulang-ulang *(spamming)* dalam suatu kanal diskusi.** Satu orang yang mengobrol hingga menghabiskan separuh layar sekaligus tentunya akan mengganggu pengguna lain, jadi sebisa mungkin hindari tindakan-tindakan ini kapanpun dan dimanapun. Orang lain juga ingin mengobrol!
 2. **Biarkan moderator yang turun tangan untuk menangani masalah-masalah yang muncul di dalam obrolan.** Kamu dapat membantu mereka dengan melaporkan pengguna-pengguna yang membuat masalah bukan dengan bermain hakim sendiri namun dengan menggunakan [perintah `!report`](/wiki/Reporting_bad_behaviour) yang akan langsung memanggil para moderator untuk turun tangan ke lokasi pokok permasalahan.
