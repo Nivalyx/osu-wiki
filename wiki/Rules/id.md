@@ -56,7 +56,7 @@ Hukuman-hukuman tersebut termasuk (*tetapi tidak terbatas pada*):
 - Hilangnya hak untuk dapat menyunting atau mengubah laman pengguna atau rincian profilmu
 - Hilangnya hak untuk dapat bermain atau berpartisipasi dalam turnamen yang diselenggarakan secara resmi
 
-Durasi [silence](/wiki/Silence) dan pelanggaran lainnya yang kamu terima akan **secara otomatis** meningkat secara eksponensial untuk setiap pelanggaran yang kamu lakukan. Moderator tidak mengatur lamanya waktu kamu akan ter-silence karena suatu pelanggaran - semakin kamu melanggar, semakin lama pula masa hukuman yang akan kamu terima.
+Durasi *[silence](/wiki/Silence)* dan hukuman lainnya yang kamu terima akan **secara otomatis** meningkat secara eksponensial untuk setiap pelanggaran yang kamu lakukan. Para moderator tidak mengatur lamanya waktu kamu akan ter-*silence* karena suatu pelanggaran — semakin kamu melanggar, semakin lama pula masa hukuman yang akan kamu terima.
 
 Beberapa pelanggaran tertentu yang tingkat pelanggarannya tergolong lebih berat pada umumnya memiliki durasi silence minimum yang lebih lama, yang pada standarnya adalah 42 jam atau lebih. Beberapa contoh pelanggaran ini antara lain adalah penyebaran konten yang tidak sepantasnya di ruang publik dan pelecehan terhadap pengguna lain.
 
