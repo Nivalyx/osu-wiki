@@ -47,11 +47,11 @@ Peraturan-peraturan berikut berlaku bagi seluruh beatmap yang diunggah dengan [B
 
 ## Apa yang akan terjadi apabila saya melanggar peraturan?
 
-Apabila kamu terbukti telah melanggar satu atau lebih peraturan yang tertera di atas, kamu dapat dihadapkan dengan berbagai macam hukuman.
+Apabila kamu terbukti melanggar satu atau lebih peraturan yang tertera di atas, kamu dapat dihadapkan dengan berbagai macam hukuman.
 
 Hukuman-hukuman tersebut termasuk (*tetapi tidak terbatas pada*):
 
-- Hilangnya kemampuan untuk dapat berbicara di dalam permainan dalam durasi waktu tertentu (disebut juga dengan istilah [silence](/wiki/Silence))
+- Hilangnya hak untuk dapat berinteraksi dengan para anggota komunitas lainnya di dalam permainan dalam jangka waktu tertentu (yang dikenal juga dengan istilah *[silence](/wiki/Silence)*)
 - Penghapusan konten-konten yang dianggap melanggar dari userpage, laman profil, atau beatmap yang diunggah olehmu
 - Hilangnya hak untuk dapat menyunting atau mengubah laman pengguna atau rincian profilmu
 - Hilangnya hak untuk dapat bermain atau berpartisipasi dalam turnamen yang diselenggarakan secara resmi
