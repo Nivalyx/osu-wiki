@@ -51,7 +51,7 @@ Apabila kamu terbukti melanggar satu atau lebih peraturan yang tertera di atas, 
 
 Hukuman-hukuman tersebut termasuk (*tetapi tidak terbatas pada*):
 
-- Hilangnya hak untuk dapat berinteraksi dengan para anggota komunitas lainnya di dalam permainan dalam jangka waktu tertentu (yang dikenal juga dengan istilah *[silence](/wiki/Silence)*)
+- Hilangnya hak untuk dapat berinteraksi dengan para anggota komunitas lainnya di dalam permainan pada jangka waktu tertentu (yang dikenal juga dengan istilah *[silence](/wiki/Silence)*)
 - Penghapusan konten-konten yang dianggap melanggar dari userpage, laman profil, atau beatmap yang diunggah olehmu
 - Hilangnya hak untuk dapat menyunting atau mengubah laman pengguna atau rincian profilmu
 - Hilangnya hak untuk dapat bermain atau berpartisipasi dalam turnamen yang diselenggarakan secara resmi
