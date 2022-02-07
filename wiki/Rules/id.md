@@ -58,7 +58,7 @@ Hukuman-hukuman tersebut termasuk (*tetapi tidak terbatas pada*):
 
 Durasi *[silence](/wiki/Silence)* dan hukuman lainnya yang kamu terima akan **secara otomatis** meningkat secara eksponensial untuk setiap pelanggaran yang kamu lakukan. Para moderator tidak mengatur lamanya waktu kamu akan ter-*silence* karena suatu pelanggaran — semakin kamu melanggar, semakin lama pula masa hukuman yang akan kamu terima.
 
-Pelanggaran-pelanggaran tertentu yang lebih berat pada umumnya memiliki durasi *silence* minimum yang lebih lama, yang pada standarnya adalah 42 jam atau lebih. Beberapa contoh pelanggaran ini antara lain adalah penyebaran konten yang tidak sepantasnya di ruang publik dan pelecehan terhadap pengguna lain.
+Pelanggaran-pelanggaran tertentu yang lebih berat pada umumnya akan dihukum dengan durasi *silence* yang lebih lama, yang pada standarnya adalah 42 jam atau lebih. Beberapa contoh pelanggaran ini antara lain adalah penyebaran konten yang tidak sepantasnya di ruang publik dan pelecehan terhadap pengguna lain.
 
 Apabila setelah beberapa pelanggaran kamu masih tetap melanggar aturan, akun kamu dapat langsung [di-*restrict* secara permanen tanpa adanya opsi pengajuan banding](/wiki/Help_centre/Account_restrictions).
 
