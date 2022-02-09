@@ -10,7 +10,9 @@ Di samping kebijakan ini, pastikan juga untuk membaca dan memahami [Ketentuan La
 
 ## Pendahuluan
 
-osu! dijalankan oleh sebuah entitas Australia (ppy Pty Ltd) dengan mayoritas server yang beroperasi dari Amerika Serikat.
+osu! offers a wide variety of services to users from almost every country around the world, with a vibrant community and many opportunities for users to share their creativity with others by means of user profiles, beatmaps (game levels), forums, private messages, in-game chat, replay comments.
+
+osu! dijalankan oleh sebuah entitas Australia (ppy Pty Ltd) dengan server-server yang mayoritasnya beroperasi dari Amerika Serikat.
 
 osu! menawarkan berbagai macam layanan kepada pengguna dari hampir setiap negara di seluruh dunia dengan komunitas yang dinamis dan banyak peluang yang dimiliki pengguna untuk membagikan kreativitasnya kepada pengguna lain melalui profil pengguna, beatmap (level dalam gim), forum, pesan pribadi, obrolan dalam gim, dan balasan komentar.
 
