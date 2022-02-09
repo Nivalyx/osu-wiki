@@ -118,7 +118,7 @@ Layanan osu! tidak dirancang untuk anak-anak yang berusia di bawah 13 tahun. Apa
 
 ## Pengelola data
 
-Hai, saya Dean (yang pada umumnya dikenal sebagai peppy) dan saya merupakan pihak yang mengelola data Anda. Apabila Anda memiliki kekhawatiran tertentu seputar privasi layanan kami atau ingin menggunakan hak hukum Anda, jangan sungkan untuk menghubungi saya secara langsung melalui alamat email yang tertera di bawah ini.
+Hai, saya Dean (yang pada umumnya dikenal sebagai peppy) dan saya merupakan pihak yang mengelola data Anda. Apabila Anda memiliki kekhawatiran seputar privasi atau ingin menggunakan hak hukum Anda, jangan sungkan untuk menghubungi saya secara langsung melalui alamat email yang tertera di bawah ini.
 
 **Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (Jaminan respons 24 jam)
 
