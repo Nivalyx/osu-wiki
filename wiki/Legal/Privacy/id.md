@@ -114,11 +114,11 @@ Kami juga secara teratur membersihkan data secara otomatis dan berkelanjutan seh
 
 ## Pengguna di bawah umur
 
-Layanan osu! tidak dirancang untuk anak-anak yang berusia di bawah 13 tahun. Apabila kami menemukan bahwa seseorang yang berusia di bawah 13 tahun telah mengirimkan informasi pribadinya kepada kami tanpa izin orang tua, kami akan berusaha keras untuk menghapus informasi tersebut dari sistem kami.
+Layanan osu! tidak dirancang untuk anak-anak yang berusia di bawah 13 tahun. Apabila kami menemukan bahwa seseorang yang berusia di bawah 13 tahun telah mengirimkan informasi pribadinya kepada kami tanpa izin orang tua, kami akan sebisa mungkin menghapus informasi tersebut dari sistem kami.
 
 ## Pengelola data
 
-Hai, saya Dean (yang pada umumnya dikenal sebagai peppy) dan saya merupakan pihak yang mengelola data Anda. Apabila Anda memiliki kekhawatiran tertentu seputar privasi kami atau ingin menggunakan hak hukum Anda, jangan sungkan untuk menghubungi saya secara langsung melalui alamat email yang tertera di bawah ini.
+Hai, saya Dean (yang pada umumnya dikenal sebagai peppy) dan saya merupakan pihak yang mengelola data Anda. Apabila Anda memiliki kekhawatiran tertentu seputar privasi layanan kami atau ingin menggunakan hak hukum Anda, jangan sungkan untuk menghubungi saya secara langsung melalui alamat email yang tertera di bawah ini.
 
 **Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (Jaminan respons 24 jam)
 
