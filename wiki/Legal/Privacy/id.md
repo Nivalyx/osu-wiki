@@ -14,7 +14,7 @@ osu! dijalankan oleh sebuah entitas Australia (ppy Pty Ltd) dengan server-server
 
 osu! menawarkan berbagai macam layanan kepada para pengguna dari hampir setiap negara di seluruh dunia, dengan komunitas yang memungkinkan para penggunanya untuk saling berbagi karya dan buah pemikiran mereka kepada para pengguna lainnya melalui laman profil pengguna, beatmap (level permainan), forum, pesan pribadi, *in-game chat*, dan kolom komentar.
 
-Untuk dapat menawarkan layanan-layanan ini kepada Anda, kami terkadang harus mengumpulkan, menyimpan, dan mengirimkan data-data pribadi Anda. Kami bertekad untuk dapat setransparan mungkin dalam menjalankan setiap aspek di osu!, dan kebijakan privasi ini diharuskan membawa kami lebih dekat kepada tujuan tersebut.
+Untuk dapat menawarkan layanan-layanan ini kepada Anda, kami terkadang harus mengumpulkan, menyimpan, dan mengirimkan data-data pribadi Anda. Kami beritikad untuk menjalankan osu! setransparan mungkin, di mana kebijakan privasi ini merupakan salah satu bentuk upaya kami untuk mencapai tujuan tersebut.
 
 In order to offer these services to you, we must often collect, store and transmit personal information. We strive to be as transparent as possible in every aspect of running osu!, and this privacy policy should bring us even closer to that goal.
 
