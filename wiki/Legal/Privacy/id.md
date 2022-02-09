@@ -14,7 +14,7 @@ osu! offers a wide variety of services to users from almost every country around
 
 osu! dijalankan oleh sebuah entitas Australia (ppy Pty Ltd) dengan server-server yang sebagian besarnya beroperasi dari Amerika Serikat.
 
-osu! menawarkan berbagai macam layanan kepada pengguna dari hampir setiap negara di seluruh dunia, dengan komunitas yang dinamis dan banyak peluang yang dimiliki pengguna untuk membagikan kreativitasnya kepada pengguna lain melalui profil pengguna, beatmap (level dalam gim), forum, pesan pribadi, obrolan dalam gim, dan balasan komentar.
+osu! menawarkan berbagai macam layanan kepada para pengguna dari hampir setiap negara di seluruh dunia, dengan komunitas yang dinamis dan banyak peluang yang dimiliki pengguna untuk membagikan kreativitasnya kepada pengguna lain melalui profil pengguna, beatmap (level dalam gim), forum, pesan pribadi, obrolan dalam gim, dan balasan komentar.
 
 Untuk menawarkan layanan ini kepada Anda, kami harus sering mengumpulkan, menyimpan, dan mengirimkan informasi pribadi Anda. Kami berusaha menjadi setransparan mungkin dalam menjalankan setiap aspek di osu!, dan kebijakan privasi ini diharuskan membawa kami lebih dekat kepada tujuan tersebut.
 
