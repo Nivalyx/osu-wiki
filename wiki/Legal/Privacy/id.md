@@ -16,7 +16,7 @@ osu! menawarkan berbagai macam layanan kepada para pengguna yang berasal dari ha
 
 Untuk dapat menawarkan layanan-layanan ini kepada Anda, kami terkadang harus mengumpulkan, menyimpan, dan mengirimkan informasi pribadi Anda kepada pihak lain. Kami beritikad untuk menjalankan segala sesuatunya yang ada di osu! setransparan mungkin, di mana kebijakan privasi ini merupakan salah satu bentuk upaya kami dalam mewujudkan tujuan tersebut.
 
-Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan pada jaringan kami serta dalam penggunaan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, dan hal-hal apa saja yang dapat Anda lakukan untuk mengendalikan informasi pribadi Anda.
+Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan pada jaringan kami serta dalam penggunaan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, dan hal-hal apa saja yang dapat Anda lakukan untuk mengelola informasi pribadi Anda.
 
 Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) dan kebijakan privasi ini, termasuk bagaimana dan mengapa kami menggunakan informasi Anda dan bahwa dengan penggunaan layanan ini, Anda tunduk pada Ketentuan Layanan dan Kebijakan Privasi yang berlaku. Jika Anda tidak ingin kami mengumpulkan atau memproses informasi pribadi Anda seperti yang telah dijelaskan di sini, Anda memiliki beberapa pilihan seperti membatasi informasi yang kami kumpulkan dari Anda atau tidak menggunakan Jaringan atau Produk dan Layanan kami.
 
@@ -116,9 +116,9 @@ Kami juga secara teratur membersihkan data secara otomatis dan berkelanjutan seh
 
 Layanan osu! tidak dirancang untuk anak di bawah usia 13 tahun. Jika kami menemukan bahwa seseorang yang berusia di bawah 13 tahun telah mengirimkan informasi pribadinya kepada kami tanpa izin orang tua, kami akan berusaha keras untuk menghapus informasi tersebut dari sistem kami.
 
-## Pengontrol Data
+## Pengelola data
 
-Hai, Saya Dean (umumnya dikenal sebagai peppy) dan saya yang mengontrol data Anda. Jika Anda memiliki masalah atau permintaan privasi dalam menggunakan hak hukum Anda, jangan ragu untuk menghubungi saya secara langsung di alamat yang tercantum di bawah ini.
+Hai, saya Dean (umumnya dikenal sebagai peppy) dan saya yang mengontrol data Anda. Jika Anda memiliki masalah atau permintaan privasi dalam menggunakan hak hukum Anda, jangan ragu untuk menghubungi saya secara langsung di alamat yang tercantum di bawah ini.
 
 **Email**: [privacy@ppy.sh](mailto:privacy@ppy.sh) (Jaminan respons 24 jam)
 
