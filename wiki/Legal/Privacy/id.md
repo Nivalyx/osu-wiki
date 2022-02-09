@@ -16,7 +16,7 @@ osu! menawarkan berbagai macam layanan kepada para pengguna dari hampir setiap n
 
 Untuk dapat menawarkan layanan-layanan ini kepada Anda, kami terkadang harus mengumpulkan, menyimpan, dan mengirimkan informasi pribadi Anda. Kami beritikad untuk menjalankan segala sesuatunya yang ada di osu! setransparan mungkin, di mana kebijakan privasi ini merupakan salah satu bentuk upaya kami dalam mewujudkan tujuan tersebut.
 
-Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan pada jaringan kami serta dalam penggunaan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, dan hal-hal apa saja yang dapat Anda lakukan untuk mengontrol informasi pribadi Anda.
+Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan pada jaringan kami serta dalam penggunaan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, dan hal-hal apa saja yang dapat Anda lakukan untuk mengendalikan informasi pribadi Anda.
 
 Dengan menggunakan layanan kami, Anda mengonfirmasi bahwa Anda telah membaca dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) dan kebijakan privasi ini, termasuk bagaimana dan mengapa kami menggunakan informasi Anda dan bahwa dengan penggunaan layanan ini, Anda tunduk pada Ketentuan Layanan dan Kebijakan Privasi yang berlaku. Jika Anda tidak ingin kami mengumpulkan atau memproses informasi pribadi Anda seperti yang telah dijelaskan di sini, Anda memiliki beberapa pilihan seperti membatasi informasi yang kami kumpulkan dari Anda atau tidak menggunakan Jaringan atau Produk dan Layanan kami.
 
