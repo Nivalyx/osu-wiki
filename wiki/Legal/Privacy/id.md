@@ -6,7 +6,7 @@ legal: true
 
 Terakhir diperbarui pada tanggal 16 April 2021. [Lihat riwayat kebijakan ini di sini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
-Di samping kebijakan ini, pastikan Anda juga telah untuk membaca dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) yang berlaku.
+Di samping kebijakan ini, pastikan juga untuk membaca dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) yang berlaku.
 
 ## Pendahuluan
 
