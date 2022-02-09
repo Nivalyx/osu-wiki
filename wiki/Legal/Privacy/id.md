@@ -16,7 +16,7 @@ osu! menawarkan berbagai macam layanan kepada para pengguna dari hampir setiap n
 
 Untuk dapat menawarkan layanan-layanan ini kepada Anda, kami terkadang harus mengumpulkan, menyimpan, dan mengirimkan informasi pribadi Anda. Kami beritikad untuk menjalankan segala sesuatunya yang ada di osu! setransparan mungkin, di mana kebijakan privasi ini merupakan salah satu bentuk upaya kami dalam mewujudkan tujuan tersebut.
 
-Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan pada saat Anda berada dalam jaringan kami serta menggunakan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, dan hal-hal apa saja yang dapat Anda lakukan untuk mengontrol informasi pribadi Anda.
+Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan pada jaringan kami serta dalam penggunaan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, dan hal-hal apa saja yang dapat Anda lakukan untuk mengontrol informasi pribadi Anda.
 
 This document aims to describe what information we collect on our network and in the use of our products and services, how we use that information and what options we offer you to control your personal information.
 
