@@ -72,7 +72,7 @@ osu! mengandung kode *executable* khusus yang digunakan untuk mendeteksi penggun
 - Metadata permainan yang dikirimkan hanya akan disimpan pada server kami selama masih digunakan. Pada umumnya, kami memerlukan waktu beberapa jam hingga beberapa hari untuk dapat menganalisa konten yang dilaporkan.
 - Proses analisa sebagian besar dilakukan secara otomatis. Metadata permainan yang dikirim tidak dapat dilihat oleh anggota tim layanan dukungan kami dan hanya dapat diakses melalui sistem keamanan yang berlapis. Hanya para admin server *database* yang dapat melihat metadata permainan yang terkait.
 
-Kami menghormati dan menghargai privasi Anda, di mana fitur *anti-cheat* ini tidak kami tujukan untuk menimbulkan rasa takut bagi mereka yang bermain secara adil.
+Kami menghormati dan menghargai privasi Anda, di mana fitur *anti-cheat* ini tidak kami tujukan untuk menimbulkan rasa takut bagi mereka yang telah bermain secara adil.
 
 ### Pencatatan data
 
@@ -110,7 +110,7 @@ Layaknya berbagai layanan internet lain pada umumnya, layanan kami juga mengguna
 
 Keamanan merupakan hal yang sangat penting bagi kami. Untuk melindungi informasi pribadi Anda, osu! mengikuti standar keamanan yang baku dalam proses pengolahan, pemindahan, dan penyimpanan data pengguna. Kami menggunakan protokol HSTS untuk memastikan bahwa seluruh situs di domain kami dienkripsi melalui TLS serta menerapkan izin akses yang sangat selektif ke dalam server-server kami, di mana kami hanya akan menyentuh data pribadi Anda apabila dibutuhkan.
 
-Di samping itu, kami juga secara otomatis membersihkan data pengguna yang sudah tidak lagi digunakan dari waktu ke waktu, di mana kami hanya akan menyimpan data yang dibutuhkan untuk menjalankan kepentingan bisnis kami.
+Di samping itu, kami juga secara otomatis membersihkan data pengguna yang sudah tidak lagi digunakan dari waktu ke waktu. Kami hanya akan menyimpan data yang dibutuhkan untuk menjalankan kepentingan bisnis kami.
 
 ## Pengguna di bawah umur
 
