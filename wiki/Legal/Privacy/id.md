@@ -108,7 +108,7 @@ Layaknya berbagai layanan internet lain pada umumnya, layanan kami juga mengguna
 
 ## Keamanan data
 
-Keamanan merupakan hal yang sangat penting bagi kami. Untuk melindungi informasi pribadi Anda, osu! mengikuti standar keamanan yang baku dalam proses pengolahan, pemindahan, dan penyimpanan data pengguna. Kami menggunakan protokol HSTS untuk memastikan bahwa seluruh situs di domain kami dienkripsi melalui TLS serta menerapkan izin akses yang sangat selektif ke dalam server-server kami, di mana kami hanya akan menyentuh data pribadi Anda apabila dibutuhkan.
+Keamanan merupakan hal yang sangat penting bagi kami. Untuk melindungi informasi pribadi Anda, osu! mengikuti standar keamanan yang baku dalam proses pengolahan, pemindahan, dan penyimpanan data pengguna. Kami menggunakan protokol HSTS untuk memastikan bahwa seluruh situs di domain kami dienkripsi dengan sertifikat TLS serta menerapkan izin akses yang sangat selektif ke dalam server-server kami, di mana kami hanya akan menyentuh data pribadi Anda apabila dibutuhkan.
 
 Di samping itu, kami juga secara otomatis membersihkan data pengguna yang sudah tidak lagi digunakan dari waktu ke waktu. Kami hanya akan menyimpan data yang dibutuhkan untuk menjalankan kepentingan bisnis kami.
 
