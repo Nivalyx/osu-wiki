@@ -60,11 +60,11 @@ Tujuan utama kami dalam menerapkan sistem ini adalah untuk mewujudkan lingkungan
 
 ### Saat bermain dan mengirimkan skor
 
-Pada saat Anda menyelesaikan sebuah sesi permainan (baik Anda berhasil ataupun gagal), rincian permainan Anda akan secara otomatis dikirimkan ke dalam server kami. Skor yang dikirimkan berupa data tayangan ulang dari permainan Anda dan dapat ditampilkan secara publik di Papan Peringkat Global dan di Profil Pengguna dan tidak dapat dihapus atau dimodifikasi.
+Pada saat Anda menyelesaikan sebuah sesi permainan (baik Anda berhasil ataupun gagal), rincian permainan Anda akan secara otomatis dikirimkan ke dalam server kami. Skor yang dikirimkan akan mencakup data tayangan ulang dari permainan Anda, yang dapat ditampilkan secara publik pada Papan Peringkat Global dan Profil Pengguna Anda serta tidak dapat dihapus atau dimodifikasi.
 
-### Anti-cheat
+### *Anti-cheat*
 
-osu! berisi kode *executable* yang digunakan untuk mendeteksi penggunaan perangkat lunak illegal (cheat). Tujuan dari anti-cheat osu! ini adalah untuk menjaga lingkungan permainan yang adil dan kompetitif untuk semua pemain, tetapi tidak memengaruhi performa dari permainan atau privasi pengguna.
+osu! mengandung kode *executable* yang digunakan untuk mendeteksi penggunaan perangkat lunak illegal (cheat). Tujuan dari anti-cheat osu! ini adalah untuk menjaga lingkungan permainan yang adil dan kompetitif untuk semua pemain, tetapi tidak memengaruhi performa dari permainan atau privasi pengguna.
 
 - Ketika deteksi cheat terjadi pada perangkat Anda, hanya data yang diperlukan saja yang akan dikirim ke server kami selama pengecekan.
 - Jika anti-cheat memutuskan bahwa Anda berlaku curang, maka keputusan itu, ditambah dengan bukti dalam bentuk diagnostik dan metadata, akan dikirimkan ke server kami untuk diverifikasi. Jika Anda tidak melakukan kecurangan, tidak ada data anti-cheat yang akan dikirimkan.
