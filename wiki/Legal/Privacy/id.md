@@ -24,7 +24,7 @@ Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan m
 
 ### Saat mendaftarkan akun
 
-Walaupun terdapat fitur-fitur tertentu yang dapat diakses tanpa akun yang aktif, para pengguna diharuskan untuk mendaftarkan akun atas nama mereka untuk dapat menggunakan layanan kami sepenuhnya. Pada saat Anda mendaftarkan akun Anda, kami akan menyimpan
+Walaupun terdapat fitur-fitur tertentu yang dapat diakses tanpa akun yang aktif, para pengguna diharuskan untuk mendaftarkan akun atas nama mereka untuk dapat menggunakan layanan kami sepenuhnya. Pada saat Anda mendaftarkan akun, kami akan menyimpan
 
 - Nama pengguna Anda
 - Alamat email Anda
@@ -35,7 +35,7 @@ Informasi pribadi ini, kecuali nama pengguna dan negara Anda, tidak akan pernah 
 
 ### Saat memperbarui profil Anda
 
-Saat menyusun profil pengguna (yang dapat dilihat oleh semua pengguna lainnya), Anda dapat memberikan memberikan secara opsional
+Pada saat menyusun profil pengguna Anda (yang akan dapat dilihat oleh seluruh pengguna lainnya), Anda dapat memberikan memberikan secara opsional
 
 - Lokasi Anda saat ini
 - Minat Anda
