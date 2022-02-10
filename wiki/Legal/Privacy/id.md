@@ -44,7 +44,7 @@ Pada saat menyusun profil pengguna Anda (yang dapat dilihat oleh seluruh penggun
 - Avatar dan sampul profil Anda
 - Tanda tangan Anda
 
-Walaupun informasi ini akan dapat dilihat secara publik, Anda akan dapat menghapus informasi ini dengan segera, secara permanen, dan pada kapan saja melalui [laman pengaturan](https://osu.ppy.sh/home/account/edit).
+Walaupun informasi ini akan tersedia secara publik, Anda akan dapat menghapus informasi ini dengan segera, secara permanen, dan kapan saja melalui [laman pengaturan](https://osu.ppy.sh/home/account/edit).
 
 ### Saat mengunggah konten yang dikirim pengguna
 
