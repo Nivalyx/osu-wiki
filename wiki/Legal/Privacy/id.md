@@ -74,7 +74,7 @@ osu! mengandung kode *executable* yang digunakan untuk mendeteksi penggunaan per
 
 Kami menghormati dan menghargai privasi Anda dan tidak ingin menimbulkan rasa takut bagi pengguna yang terdaftar secara resmi dengan menghadirkan anti-cheat di dalam permainan.
 
-### Pencatatan
+### Pencatatan data
 
 Kami memanfaatkan sistem pencatatan kesalahan yang mengumpulkan informasi teknis dan informasi penggunaan saat Anda menggunakan layanan kami. Hal tersebut dapat berupa alamat IP Anda, nama pengguna Anda, jenis dan versi browser Anda, pengaturan dan lokasi zona waktu Anda, sistem operasi dan platform Anda, dan detail lainnya tentang perangkat apa yang Anda gunakan untuk mengakses layanan kami.
 
