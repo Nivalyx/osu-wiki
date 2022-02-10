@@ -60,7 +60,7 @@ Tujuan utama kami dalam menerapkan sistem ini adalah untuk mewujudkan lingkungan
 
 ### Saat bermain dan mengirimkan skor
 
-Pada saat Anda menyelesaikan sebuah sesi permainan (berhasil atau gagal memainkan sebuah beatmap), rincian performa Anda akan secara otomatis dikirimkan ke dalam server kami. Skor yang dikirimkan berupa data tayangan ulang dari permainan Anda dan dapat ditampilkan secara publik di Papan Peringkat Global dan di Profil Pengguna dan tidak dapat dihapus atau dimodifikasi.
+Pada saat Anda menyelesaikan sebuah sesi permainan (baik Anda berhasil ataupun gagal), rincian performa Anda akan secara otomatis dikirimkan ke dalam server kami. Skor yang dikirimkan berupa data tayangan ulang dari permainan Anda dan dapat ditampilkan secara publik di Papan Peringkat Global dan di Profil Pengguna dan tidak dapat dihapus atau dimodifikasi.
 
 ### Anti-cheat
 
