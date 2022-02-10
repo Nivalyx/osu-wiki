@@ -50,7 +50,7 @@ Walaupun informasi ini akan tersedia secara publik, Anda dapat menghapus informa
 
 Pada saat Anda menulis post di forum, mengobrol pada *in-game chat*, atau mengunggah beatmap serta konten-konten lainnya ke dalam layanan kami, Anda secara tegas mempublikasikan segala sesuatunya yang Anda kirimkan atas nama Anda. Pada umumnya, Anda dapat menghapus dan menyunting hasil kiriman Anda di kemudian waktu sesuai dengan kebijaksanaan Anda, namun dalam kasus-kasus tertentu hak ini dapat diurungkan untuk menjaga relevansi dan kontinuitas layanan kepada para pengguna kami.
 
-Sebagai contoh, apabila Anda mengunggah sebuah beatmap dan beatmap tersebut memperoleh status "ranked", beatmap tersebut akan memperoleh *leaderboard*-nya tersendiri yang memungkinkan seluruh pemain untuk dapat menorehkan skor mereka tanpa terkecuali. Pada tahapan ini, Anda tidak akan lagi dapat menghapus beatmap yang bersangkutan.
+Sebagai contoh, apabila Anda mengunggah sebuah beatmap dan beatmap tersebut memperoleh status "ranked", beatmap tersebut akan memperoleh papan peringkatnya tersendiri yang memungkinkan seluruh pemain untuk dapat menorehkan skor mereka tanpa terkecuali. Pada tahapan ini, Anda tidak akan lagi dapat menghapus beatmap yang bersangkutan.
 
 ### Saat masuk ke dalam permainan
 
