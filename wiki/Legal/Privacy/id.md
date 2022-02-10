@@ -60,7 +60,7 @@ Tujuan utama kami dalam menerapkan sistem ini adalah untuk mewujudkan lingkungan
 
 ### Saat bermain dan mengirimkan skor
 
-Pada saat Anda menyelesaikan sebuah sesi permainan (baik Anda berhasil ataupun gagal), rincian permainan Anda akan secara otomatis dikirimkan ke dalam server kami. Skor yang dikirimkan akan mencakup data tayangan ulang dari permainan Anda, yang dapat ditampilkan secara publik pada Papan Peringkat Global dan Profil Pengguna Anda serta tidak dapat dihapus atau dimodifikasi.
+Pada saat Anda menyelesaikan sebuah sesi permainan (baik Anda berhasil ataupun gagal), rincian permainan Anda akan secara otomatis dikirimkan ke dalam server kami. Adapun skor yang dikirimkan akan mencakup data tayangan ulang dari permainan Anda, yang dapat ditampilkan secara publik pada Papan Peringkat Global dan Profil Pengguna Anda serta tidak dapat dihapus atau dimodifikasi.
 
 ### *Anti-cheat*
 
