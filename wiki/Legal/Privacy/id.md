@@ -44,7 +44,7 @@ Pada saat menyusun profil pengguna Anda (yang dapat dilihat oleh seluruh penggun
 - Avatar dan sampul profil Anda
 - Tanda tangan Anda
 
-Seluruh poin di atas akan dapat dilihat secara publik, tetapi dapat ditarik segera, secara permanen, dan kapan saja melalui [laman pengaturan](https://osu.ppy.sh/home/account/edit).
+Walapun seluruh hal di atas akan dapat dilihat secara publik, tetapi dapat ditarik segera, secara permanen, dan kapan saja melalui [laman pengaturan](https://osu.ppy.sh/home/account/edit).
 
 ### Saat mengunggah konten yang dikirim pengguna
 
