@@ -35,7 +35,7 @@ Seluruh data di atas, kecuali nama pengguna dan negara Anda, tidak akan pernah d
 
 ### Saat memperbarui profil Anda
 
-Pada saat menyusun profil pengguna Anda (yang akan dapat dilihat oleh seluruh pengguna lainnya), Anda dapat menyertakan informasi berikut
+Pada saat menyusun profil pengguna Anda (yang dapat dilihat oleh seluruh pengguna lainnya), Anda akan dapat menyertakan informasi berikut
 
 - Lokasi Anda saat ini
 - Minat Anda
