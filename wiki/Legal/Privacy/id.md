@@ -24,7 +24,7 @@ Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan m
 
 ### Saat mendaftarkan akun
 
-Walaupun terdapat fitur-fitur tertentu yang dapat tanpa sebuah akun, terkadang pengguna diharuskan untuk mendaftarkan sebuah akun jika ingin menikmati layanan tertentu. Saat mendaftarkan sebuah akun, kami akan menyimpan
+Walaupun terdapat fitur-fitur tertentu yang dapat tanpa sebuah akun, terkadang pengguna diharuskan untuk mendaftarkan sebuah akun jika ingin menggunakan layanan tertentu. Saat mendaftarkan akun, kami menyimpan
 
 - Nama pengguna Anda
 - Alamat email Anda
@@ -104,7 +104,7 @@ Kami memiliki kebijakan satu-akun-per-pengguna yang ketat untuk menjaga papan pe
 
 ## Cookie
 
-Kami menggunakan cookie sama halnya seperti seisi internet. Kami benar-benar menggunakannya untuk mempertahankan status sesi Anda dan kredensial login di beberapa sesi. Jika Anda tidak suka dengan sistem cookie, lebih baik tidak menggunakan layanan kami.
+Layaknya situs-situs web lain pada umumnya, kami menggunakan cookie dalam layanan kami. Kami benar-benar menggunakannya untuk mempertahankan status sesi Anda dan kredensial login di beberapa sesi. Jika Anda tidak suka dengan sistem cookie, lebih baik tidak menggunakan layanan kami.
 
 ## Keamanan data
 
