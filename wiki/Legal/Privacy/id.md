@@ -54,7 +54,7 @@ Sebagai contoh, apabila Anda mengunggah sebuah beatmap dan beatmap tersebut memp
 
 ### Saat masuk ke dalam permainan
 
-Pada saat Anda menggunakan klien osu! untuk menghubungkan diri Anda ke layanan kami, sebuah kode *string* khusus akan dikirimkan untuk membantu kami dalam mengidentifikasi lingkungan permainan Anda. Kode *string* tersebut tersusun atas kombinasi nomor pengenal yang diperoleh dari konfigurasi perangkat keras dan perangkat lunak Anda yang kemudian di-*hash* sedemikian rupa sehingga tidak berisi informasi yang dapat diidentifikasi secara pribadi, tetapi dapat digunakan untuk melacak akses Anda saat masuk ke layanan kami.
+Pada saat Anda menggunakan klien osu! untuk menghubungkan diri Anda ke dalam layanan kami, sebuah kode *string* khusus akan dikirimkan untuk membantu kami dalam mengidentifikasi lingkungan permainan Anda. Kode *string* tersebut tersusun atas kombinasi nomor pengenal yang diperoleh dari konfigurasi perangkat keras dan perangkat lunak Anda yang kemudian di-*hash* sedemikian rupa sehingga tidak berisi informasi yang dapat diidentifikasi secara pribadi, tetapi dapat digunakan untuk melacak akses Anda saat masuk ke layanan kami.
 
 Tujuan utamanya adalah untuk mempertahankan sistem peringkat yang adil dan membantu kami meningkatkan keamanan akun Anda seandainya akun Anda diakses dari lokasi yang tidak dikenal. Hal ini dianggap pribadi dan hanya disimpan selama masih relevan. Hal ini juga tidak dapat dipindahtangankan dan tidak ada artinya di luar ekosistem osu!.
 
