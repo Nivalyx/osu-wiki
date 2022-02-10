@@ -69,8 +69,8 @@ osu! mengandung kode *executable* khusus yang digunakan untuk mendeteksi penggun
 - Pendeteksian *cheat* berlangsung pada perangkat Anda, di mana dalam prosesnya osu! hanya akan mengirimkan data yang dibutuhkan ke dalam server kami.
 - Apabila *anti-cheat* kami menemukan bahwa Anda bertindak curang, maka temuan ini, beserta dengan bukti-bukti dalam bentuk diagnostik dan metadata permainan, akan dikirimkan ke server kami untuk diverifikasi. Apabila Anda tidak bertindak curang, *anti-cheat* kami tidak akan mengirimkan data apapun.
 - Bahkan pada saat suatu *cheat* terdeteksi, sistem kami akan sebisa mungkin tidak mengirim informasi apapun di luar ekosistem osu! yang dapat digunakan untuk mengidentifikasi Anda secara pribadi.
-- Metadata permainan yang dikirimkan hanya akan disimpan pada server kami selama masih digunakan. Pada umumnya, kami memerlukan waktu beberapa jam hingga beberapa hari untuk dapat menganalisis konten yang dilaporkan.
-- Analisis sebagian besar dilakukan secara otomatis. Metadata yang telah dikirim tidak dapat diakses oleh anggota Support Team dan harus diakses melalui sistem keamanan berlapis. Hanya admin server database yang dapat melihat metadata.
+- Metadata permainan yang dikirimkan hanya akan disimpan pada server kami selama masih digunakan. Pada umumnya, kami memerlukan waktu beberapa jam hingga beberapa hari untuk dapat menganalisa konten yang dilaporkan.
+- Proses analisa sebagian besar dilakukan secara otomatis. Metadata permainan yang dikirim tidak dapat diakses oleh anggota Support Team dan harus diakses melalui sistem keamanan berlapis. Hanya admin server database yang dapat melihat metadata.
 
 Kami menghormati dan menghargai privasi Anda dan tidak ingin menimbulkan rasa takut bagi pengguna yang terdaftar secara resmi dengan menghadirkan anti-cheat di dalam permainan.
 
