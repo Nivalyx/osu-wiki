@@ -46,7 +46,7 @@ Pada saat menyusun laman profil pengguna Anda (yang dapat dilihat oleh seluruh p
 
 Walaupun informasi ini akan tersedia secara publik, Anda akan dapat menghapus informasi ini dengan segera, secara permanen, dan kapan saja melalui [laman pengaturan](https://osu.ppy.sh/home/account/edit).
 
-### Saat mengunggah konten yang dikirim pengguna
+### Saat mengunggah konten yang dikirim pengguna (*user-submitted content*)
 
 Saat berkirim di forum, berpartisipasi di obrolan, atau mengunggah konten seperti beatmap ke layanan kami, Anda secara tegas mempublikasikan semua konten yang dikirimkan. Dalam kebanyakan kasus, hal tersebut dapat disunting dan dihapus setelah dikirimkan sesuai dengan kebijaksanaan Anda, namun terkadang fungsi ini mungkin dikunci untuk menjaga relevansi dan penyediaan layanan bagi pengguna kami.
 
