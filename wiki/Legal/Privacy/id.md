@@ -64,7 +64,7 @@ Pada saat Anda menyelesaikan sebuah sesi permainan (baik Anda berhasil ataupun g
 
 ### *Anti-cheat*
 
-osu! mengandung kode *executable* khusus yang digunakan untuk mendeteksi penggunaan perangkat lunak illegal (*cheat*). Tujuan dari sistem *anti-cheat* ini adalah untuk menjaga agar lingkungan permainan kami dapat adil dan kompetitif untuk seluruh pemain, namun tanpa memengaruhi performa permainan atau privasi para pengguna.
+osu! mengandung kode *executable* khusus yang digunakan untuk mendeteksi penggunaan perangkat lunak illegal (*cheat*). Tujuan dari penerapan sistem *anti-cheat* ini adalah untuk menjaga agar lingkungan permainan kami dapat adil dan kompetitif bagi semua, namun tanpa memengaruhi performa permainan atau privasi para pengguna.
 
 - Ketika deteksi cheat terjadi pada perangkat Anda, hanya data yang diperlukan saja yang akan dikirim ke server kami selama pengecekan.
 - Jika anti-cheat memutuskan bahwa Anda berlaku curang, maka keputusan itu, ditambah dengan bukti dalam bentuk diagnostik dan metadata, akan dikirimkan ke server kami untuk diverifikasi. Jika Anda tidak melakukan kecurangan, tidak ada data anti-cheat yang akan dikirimkan.
