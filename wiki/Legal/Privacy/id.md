@@ -35,7 +35,7 @@ Seluruh data di atas, kecuali nama pengguna dan negara Anda, tidak akan pernah d
 
 ### Saat memperbarui profil Anda
 
-Pada saat menyusun profil pengguna Anda (yang dapat dilihat oleh seluruh pengguna lainnya), Anda akan dapat menyertakan informasi berikut
+Pada saat menyusun profil pengguna Anda (yang dapat dilihat oleh seluruh pengguna lainnya), Anda dapat menyertakan informasi berikut
 
 - Lokasi Anda saat ini
 - Minat Anda
@@ -44,7 +44,7 @@ Pada saat menyusun profil pengguna Anda (yang dapat dilihat oleh seluruh penggun
 - Avatar dan sampul profil Anda
 - Tanda tangan Anda
 
-Semua poin di atas dapat dilihat oleh publik, tetapi dapat ditarik segera, secara permanen, dan kapan saja melalui [laman pengaturan](https://osu.ppy.sh/home/account/edit).
+Seluruh poin di atas akan dapat dilihat secara publik, tetapi dapat ditarik segera, secara permanen, dan kapan saja melalui [laman pengaturan](https://osu.ppy.sh/home/account/edit).
 
 ### Saat mengunggah konten yang dikirim pengguna
 
