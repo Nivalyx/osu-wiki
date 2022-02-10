@@ -24,7 +24,7 @@ Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan m
 
 ### Saat mendaftarkan akun
 
-Meskipun terdapat beberapa fitur yang dibatasi saat sedang bermain tanpa sebuah akun, terkadang pengguna diharuskan untuk mendaftarkan sebuah akun jika ingin menikmati layanan tertentu. Saat mendaftarkan sebuah akun, kami menyimpan
+Walaupun terdapat fitur-fitur tertentu yang dapat tanpa sebuah akun, terkadang pengguna diharuskan untuk mendaftarkan sebuah akun jika ingin menikmati layanan tertentu. Saat mendaftarkan sebuah akun, kami akan menyimpan
 
 - Nama pengguna Anda
 - Alamat email Anda
