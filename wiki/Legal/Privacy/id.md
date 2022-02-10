@@ -102,9 +102,9 @@ Anda memiliki opsi untuk menghapus akun milik sendiri dari layanan kami. Harap d
 
 Kami memiliki kebijakan satu-akun-per-pengguna yang ketat untuk menjaga papan peringkat tetap adil sehingga setelah akun Anda dihapus, Anda mungkin tidak dapat kembali lagi ke layanan kami. Untuk menegakkan kebijakan ini, kami juga akan tetap menyimpan string pengenal unik seperti yang telah disebutkan di "Informasi yang kami kumpulkan" bahkan setelah akun dihapus. Penghapusan akun ini dilakukan sebagai [kepentingan yang sah sebagaimana diuraikan dalam GDPR](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) untuk menegakkan aturan kami. Tidak perlu khawatir, informasi ini di-hash satu arah dan tidak dapat digunakan untuk mengidentifikasi Anda di luar osu! atau di luar konteks yang tepat dalam menegakkan kebijakan ini.
 
-## Cookie
+## *Cookie*
 
-Layaknya berbagai layanan internet lain pada umumnya, layanan kami juga menggunakan cookie. Kami hanya akan menggunakan cookie milik Anda untuk mempertahankan status sesi dan kredensial login pada perangkat-perangkat aktif yang Anda miliki. Apabila Anda tidak suka dengan sistem cookie, mohon untuk tidak menggunakan layanan kami.
+Layaknya berbagai layanan internet lain pada umumnya, layanan kami juga menggunakan *cookie*. Kami hanya akan menggunakan *cookie* milik Anda untuk mempertahankan status sesi dan kredensial login pada perangkat-perangkat aktif yang Anda miliki. Apabila Anda tidak menyetujui penggunaan *cookie* pada layanan kami, mohon untuk tidak menggunakan layanan kami.
 
 ## Keamanan data
 
