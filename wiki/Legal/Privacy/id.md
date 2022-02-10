@@ -24,7 +24,7 @@ Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan m
 
 ### Saat mendaftarkan akun
 
-Walaupun terdapat fitur-fitur tertentu yang dapat diakses tanpa akun yang aktif, para pengguna diharuskan untuk mendaftarkan akun atas nama mereka apabila ingin menggunakan layanan kami sepenuhnya. Saat mendaftarkan akun, kami menyimpan
+Walaupun terdapat fitur-fitur tertentu yang dapat diakses tanpa akun yang aktif, para pengguna diharuskan untuk mendaftarkan akun atas nama mereka untuk dapat menggunakan layanan kami sepenuhnya. Saat mendaftarkan akun, kami menyimpan
 
 - Nama pengguna Anda
 - Alamat email Anda
