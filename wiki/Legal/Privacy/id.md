@@ -31,7 +31,7 @@ Walaupun terdapat fitur-fitur tertentu yang dapat diakses tanpa akun yang aktif,
 - Kata sandi Anda (bcrypt+salt)
 - Alamat IP dan negara Anda
 
-Informasi ini, kecuali nama pengguna dan negara Anda, tidak akan pernah dibagikan secara publik.
+Informasi pribadi ini, kecuali nama pengguna dan negara Anda, tidak akan pernah dibagikan secara publik.
 
 ### Saat memperbarui profil Anda
 
@@ -44,7 +44,7 @@ Pada saat menyusun profil pengguna Anda (yang dapat dilihat oleh seluruh penggun
 - Avatar dan sampul profil Anda
 - Tanda tangan Anda
 
-Walaupun hal-hal di atas akan dapat dilihat secara publik, informasi ini akan dapat dihapus dengan segera, secara permanen, dan pada kapan saja melalui [laman pengaturan](https://osu.ppy.sh/home/account/edit).
+Walaupun informasi di atas akan dapat dilihat secara publik, informasi ini akan dapat dihapus dengan segera, secara permanen, dan pada kapan saja melalui [laman pengaturan](https://osu.ppy.sh/home/account/edit).
 
 ### Saat mengunggah konten yang dikirim pengguna
 
