@@ -24,7 +24,7 @@ Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan m
 
 ### Saat mendaftarkan akun
 
-Walaupun terdapat fitur-fitur tertentu yang dapat diakses tanpa akun yang aktif, para pengguna diharuskan untuk mendaftarkan akun atas nama mereka untuk dapat menggunakan layanan kami sepenuhnya. Pada saat suatu akun didaftarkan, kami akan menyimpan
+Walaupun terdapat fitur-fitur tertentu yang dapat diakses tanpa akun yang aktif, para pengguna diharuskan untuk mendaftarkan akun atas nama mereka untuk dapat menggunakan layanan kami sepenuhnya. Pada saat suatu akun didaftarkan, kami menyimpan
 
 - Nama pengguna Anda
 - Alamat email Anda
@@ -35,7 +35,7 @@ Kecuali nama pengguna dan negara Anda, informasi ini tidak akan pernah dibagikan
 
 ### Saat memperbarui profil Anda
 
-Pada saat menyusun laman profil pengguna (yang akan dapat dilihat oleh seluruh pengguna lainnya), Anda akan dapat menyertakan informasi berikut
+Pada saat menyusun laman profil pengguna (yang dapat dilihat oleh seluruh pengguna lainnya), Anda dapat menyertakan informasi berikut
 
 - Lokasi Anda saat ini
 - Minat Anda
@@ -44,7 +44,7 @@ Pada saat menyusun laman profil pengguna (yang akan dapat dilihat oleh seluruh p
 - Avatar dan sampul profil Anda
 - Tanda tangan Anda
 
-Walaupun informasi ini akan tersedia secara publik, Anda akan dapat menghapus informasi ini dengan segera, secara permanen, dan kapan saja melalui [laman pengaturan](https://osu.ppy.sh/home/account/edit).
+Walaupun informasi ini akan tersedia secara publik, Anda dapat menghapus informasi ini dengan segera, secara permanen, dan kapan saja melalui [laman pengaturan](https://osu.ppy.sh/home/account/edit).
 
 ### Saat mengunggah konten
 
