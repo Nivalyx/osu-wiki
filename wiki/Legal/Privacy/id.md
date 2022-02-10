@@ -31,7 +31,7 @@ Walaupun terdapat fitur-fitur tertentu yang dapat diakses tanpa akun yang aktif,
 - Kata sandi Anda (bcrypt+salt)
 - Alamat IP dan negara Anda
 
-Informasi pribadi ini, dengan pengecualian nama pengguna dan negara Anda, tidak pernah dibagikan secara publik.
+Informasi pribadi ini, dengan pengecualian nama pengguna dan negara Anda, tidak akan pernah dibagikan secara publik.
 
 ### Saat memperbarui profil Anda
 
