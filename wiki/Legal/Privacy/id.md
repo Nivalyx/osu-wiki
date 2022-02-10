@@ -72,7 +72,7 @@ osu! mengandung kode *executable* khusus yang digunakan untuk mendeteksi penggun
 - Metadata permainan yang dikirimkan hanya akan disimpan pada server kami selama masih digunakan. Pada umumnya, kami memerlukan waktu beberapa jam hingga beberapa hari untuk dapat menganalisa konten yang dilaporkan.
 - Proses analisa sebagian besar dilakukan secara otomatis. Metadata permainan yang dikirim tidak dapat dilihat oleh anggota tim layanan dukungan kami dan hanya dapat diakses melalui sistem keamanan yang berlapis. Hanya para admin server *database* yang dapat melihat metadata permainan ini.
 
-Kami menghormati dan menghargai privasi Anda, dan kami tidak bertujuan untuk menimbulkan rasa takut bagi pengguna yang bermain secara adil dengan menghadirkan anti-cheat di dalam permainan.
+Kami menghormati dan menghargai privasi Anda, di mana kehadiran *anti-cheat* ini tidak kami tujukan untuk menimbulkan rasa takut bagi para pengguna yang bermain secara adil.
 
 ### Pencatatan data
 
