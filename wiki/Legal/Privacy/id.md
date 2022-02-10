@@ -104,7 +104,7 @@ Kami memiliki kebijakan satu-akun-per-pengguna yang ketat untuk menjaga papan pe
 
 ## Cookie
 
-Layaknya seisi internet pada umumnya, layanan kami menggunakan cookie. Kami hanya menggunakan cookie untuk mempertahankan status sesi dan kredensial login Anda pada perangkat-perangkat aktif Anda. Apabila Anda tidak suka dengan sistem cookie, mohon untuk tidak menggunakan layanan kami.
+Layaknya berbagai layanan lain internet pada umumnya, layanan kami menggunakan cookie. Kami hanya menggunakan cookie untuk mempertahankan status sesi dan kredensial login Anda pada perangkat-perangkat aktif Anda. Apabila Anda tidak suka dengan sistem cookie, mohon untuk tidak menggunakan layanan kami.
 
 ## Keamanan data
 
