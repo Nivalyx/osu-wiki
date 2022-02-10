@@ -76,7 +76,7 @@ Kami menghormati dan menghargai privasi Anda, di mana fitur *anti-cheat* ini tid
 
 ### Pencatatan data
 
-Kami menggunakan sistem pencatatan kesalahan yang mengumpulkan informasi teknis dan informasi penggunaan saat Anda menggunakan layanan kami. Hal tersebut dapat berupa alamat IP Anda, nama pengguna Anda, jenis dan versi browser Anda, pengaturan dan lokasi zona waktu Anda, sistem operasi dan platform Anda, dan detail lainnya tentang perangkat apa yang Anda gunakan untuk mengakses layanan kami.
+Kami menggunakan sistem pencatatan kesalahan (*error logging*) yang mengumpulkan informasi teknis dan informasi penggunaan saat Anda menggunakan layanan kami. Hal tersebut dapat berupa alamat IP Anda, nama pengguna Anda, jenis dan versi browser Anda, pengaturan dan lokasi zona waktu Anda, sistem operasi dan platform Anda, dan detail lainnya tentang perangkat apa yang Anda gunakan untuk mengakses layanan kami.
 
 Data yang terkumpul ini digabungkan dan hanya disimpan jika berguna. Biasanya, periode penyimpanan untuk data yang bukan data gabungan adalah kurang dari satu bulan dengan pengaturan pembersihan otomatis.
 
