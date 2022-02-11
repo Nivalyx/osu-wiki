@@ -90,7 +90,7 @@ Kami dapat membagikan data pribadi Anda kepada pihak ketiga dalam kasus-kasus te
 - Untuk memenuhi pesanan belanja Anda
 - Untuk memproses pembayaran Anda melalui biro-biro pembayaran seperti Paypal dan Xsolla
 - Untuk memproses tiket layanan dukungan Anda (kami menggunakan [Enchant](https://enchant.com))
-- Untuk meningkatkan layanan kami melalui sistem pencatatan kesalahan (*error logging*) kami (kami menggunakan [Sentry](https://sentry.io))
+- Untuk meningkatkan layanan kami melalui sistem pencatatan kesalahan (*error logging*) yang berlaku (kami menggunakan [Sentry](https://sentry.io))
 
 ## Hak dan kendali Anda
 
