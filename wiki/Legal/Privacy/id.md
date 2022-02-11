@@ -82,7 +82,7 @@ Data yang terkumpul ini digabungkan dan hanya disimpan jika berguna. Biasanya, p
 
 ## Pengungkapan data pribadi Anda
 
-Kami tidak melakukan pemasaran, pengiklanan, atau pengiriman email yang tidak diminta. Satu-satunya email yang akan Anda terima dari kami adalah hasil tindakan dalam layanan kami (seperti meminta autentikasi dua faktor, membeli produk, atau mengaktifkan pemberitahuan pada sebuah diskusi).
+Kami tidak melakukan pemasaran, pengiklanan, atau pengiriman email yang tidak dikehendaki. Seluruh email yang akan Anda terima dari kami murni merupakan hasil tindakan yang Anda lakukan pada layanan kami (seperti meminta autentikasi dua faktor, membeli produk, atau mengaktifkan pemberitahuan pada sebuah diskusi).
 
 Kami mungkin membagikan data pribadi Anda kepada pihak ketiga dalam kasus yang sangat spesifik:
 
