@@ -94,7 +94,7 @@ Kami dapat membagikan data pribadi Anda kepada pihak ketiga dalam kasus-kasus te
 
 ## Hak dan kendali Anda
 
-Sebagai seorang pengguna, Anda memiliki hak untuk memigrasikan, memperbarui, atau menghapus informasi pribadi Anda. Hal ini dapat dilakukan melalui menu [pengaturan pengguna](https://osu.ppy.sh/home/account/edit) atau fitur "Edit" yang tersedia secara lokal pada bagian-bagian tertentu di situs kami. Apabila Anda ingin secara terprogram mengambil data akun Anda secara lengkap, gunakan [API publik](https://github.com/ppy/osu-api/wiki) kami.
+Sebagai seorang pengguna, Anda memiliki hak untuk memigrasikan, memperbarui, atau menghapus informasi pribadi Anda. Hal ini dapat dilakukan melalui menu [pengaturan pengguna](https://osu.ppy.sh/home/account/edit) atau fitur "Edit" yang tersedia secara lokal pada fitur-fitur tertentu di situs kami. Apabila Anda ingin mengambil seluruh data akun Anda secara runut, mohon gunakan [API publik](https://github.com/ppy/osu-api/wiki) kami.
 
 Dalam kebanyakan kasus, kiriman pengguna seperti postingan forum dan beatmap dapat dihapus secara tersendiri. Anda akan menemui tombol hapus yang terasosiasi langsung dengan persoalan yang bisa dihapus.
 
