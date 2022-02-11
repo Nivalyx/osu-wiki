@@ -86,7 +86,7 @@ Kami tidak melakukan pemasaran, pengiklanan, atau pengiriman email yang tidak di
 
 Kami dapat membagikan data pribadi Anda kepada pihak-pihak ketiga dalam beberapa kasus yang sangat spesifik sebagai berikut:
 
-- Di mana Anda secara tegas telah membuat informasi tersebut bersifat publik
+- Di mana Anda secara tegas telah menyediakan informasi yang bersangkutan secara publik
 - Untuk memenuhi pesanan belanja Anda
 - Untuk memproses pembayaran melalui layanan penyedia pembayaran seperti Paypal dan Xsolla
 - Untuk memproses tiket layanan pelanggan Anda (kami menggunakan [Enchant](https://enchant.com))
