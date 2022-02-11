@@ -78,7 +78,7 @@ Kami menghormati dan menghargai privasi Anda, di mana fitur *anti-cheat* ini tid
 
 Kami menggunakan sistem pencatatan kesalahan (*error logging*) yang mengumpulkan berbagai informasi seputar teknis dan penggunaan layanan pada saat Anda berada di dalam layanan kami. Hal-hal ini dapat meliputi alamat IP Anda, nama pengguna Anda, jenis dan versi browser Anda, pengaturan dan lokasi zona waktu Anda, sistem operasi dan *platform* Anda, serta berbagai rincian lainnya seputar perangkat yang Anda gunakan untuk mengakses layanan kami.
 
-Seluruh data yang terkumpul akan digabungkan dan hanya akan kami simpan selama masih digunakan. Pada umumnya, periode penyimpanan untuk data yang bukan merupakan data gabungan adalah kurang dari satu bulan dengan pembersihan berkala secara otomatis.
+Seluruh data yang terkumpul akan digabungkan dan hanya akan kami simpan selama masih digunakan. Pada umumnya, periode penyimpanan untuk data yang bukan merupakan data gabungan adalah kurang dari satu bulan dengan pengaturan pembersihan otomatis.
 
 ## Pengungkapan data pribadi Anda
 
@@ -94,7 +94,7 @@ Kami dapat membagikan data pribadi Anda kepada pihak ketiga dalam kasus-kasus te
 
 ## Hak dan kendali Anda
 
-Sebagai seorang pengguna, Anda memiliki hak untuk memigrasi, memperbarui, atau menghapus informasi pribadi Anda. Hal ini dapat dilakukan melalui [pengaturan pengguna](https://osu.ppy.sh/home/account/edit), atau jika tidak tersedia pada fitur "Edit" yang dilokalkan pada bagian yang relevan di situs kami. Jika Anda ingin secara terprogram mengambil data akun Anda secara lengkap, gunakan [API publik](https://github.com/ppy/osu-api/wiki) kami.
+Sebagai seorang pengguna, Anda memiliki hak untuk memindahkan, memperbarui, atau menghapus informasi pribadi Anda. Hal ini dapat dilakukan melalui menu [pengaturan pengguna](https://osu.ppy.sh/home/account/edit) atau fitur "Edit" yang dilokalkan pada bagian yang relevan di situs kami. Jika Anda ingin secara terprogram mengambil data akun Anda secara lengkap, gunakan [API publik](https://github.com/ppy/osu-api/wiki) kami.
 
 Dalam kebanyakan kasus, kiriman pengguna seperti postingan forum dan beatmap dapat dihapus secara tersendiri. Anda akan menemui tombol hapus yang terasosiasi langsung dengan persoalan yang bisa dihapus.
 
