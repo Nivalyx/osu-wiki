@@ -96,7 +96,7 @@ Kami dapat membagikan data pribadi Anda kepada pihak ketiga dalam kasus-kasus te
 
 Sebagai seorang pengguna, Anda memiliki hak untuk memindahkan, memperbarui, atau menghapus informasi pribadi Anda. Hal ini dapat dilakukan melalui menu [pengaturan pengguna](https://osu.ppy.sh/home/account/edit) atau fitur "Edit" yang tersedia secara lokal pada fitur-fitur tertentu di situs kami. Apabila Anda ingin mengambil seluruh data akun Anda secara runut, mohon gunakan [API publik](https://github.com/ppy/osu-api/wiki) kami.
 
-Pada umumnya, hasil kiriman pengguna seperti postingan forum dan unggahan beatmap dapat dihapus secara tersendiri. Anda akan menemui tombol hapus yang terasosiasi langsung dengan persoalan yang bisa dihapus.
+Pada umumnya, kiriman pengguna seperti postingan forum dan unggahan beatmap dapat dihapus secara tersendiri. Anda akan menemui tombol hapus yang terasosiasi langsung dengan persoalan yang bisa dihapus.
 
 Anda memiliki opsi untuk menghapus akun milik sendiri dari layanan kami. Harap diperhatikan bahwa proses ini dilakukan secara manual dan membutuhkan waktu beberapa hari untuk menyelesaikannya. Anda dapat [menghubungi kami](mailto:privacy@ppy.sh) untuk mengajukan permintaan penghapusan akun. Dalam kasus penghapusan akun, sebagian kontribusi Anda yang telah dilakukan secara publik mungkin tidak terhapus, seperti yang telah dijelaskan dalam "Informasi yang kami kumpulkan."
 
