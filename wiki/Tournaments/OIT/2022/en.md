@@ -105,28 +105,26 @@ Listed below are players who qualified into the Round of 32 (along with their re
 **[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bpPhDewj_pXvKkB45Iwzu8JXvcqCJKpT/view)**
 
 - NoMod
-  1. [Natsume Itsuki - Beginning (Garden) \[Prologue\]](https://osu.ppy.sh/beatmapsets/1173059#osu/2446555)
-  2. [cosMo@BousouP - Hyper LATiON (-Tynamo) \[Astronic's Extra\]](https://osu.ppy.sh/beatmapsets/1281410#osu/2680501)
-  3. [Cilvery - Kamisama Nejimaki (sukiNathan) \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/374900#osu/821238)
-  4. [Krewella - Killin' It (Sped Up Ver.) (tatemae) \[Syntagmatic\]](https://osu.ppy.sh/beatmapsets/1231408#osu/2559899)
-  5. [MAX MAXIMIZER vs. DJ TOTTO - Rebellio (Realazy) \[NINO'S EXTRA\]](https://osu.ppy.sh/beatmapsets/744636#osu/1593690)  
+  1. coming soon
+  2. [xi - Pandemonium (Doomsday) \[Extra\]](https://osu.ppy.sh/beatmapsets/519285#osu/1103215)
+  3. [Camellia - Routing (Mir) \[Amateurre's Redirection\]](https://osu.ppy.sh/beatmapsets/1639727#osu/3373369)
+  4. [Pendulum x Hybrid Minds - Louder Than Words (Cut Ver.) (Mir) \[Whisper\]](https://osu.ppy.sh/beatmapsets/1496831#osu/3068257)
+  5. [Lime - Luminaria (Saika0k1) \[Anemoia\]](https://osu.ppy.sh/beatmapsets/1687561#osu/3448872)  
 - Hidden
-  1. [LiSA - ADAMAS (VINXIS) \[winber1 x Sing's Extra\]](https://osu.ppy.sh/beatmapsets/867789#osu/1819540)
-  2. [ririco - Kawaiku Naritai (feat. Sana) (Moecho) \[Kawaiku Natta\]](https://osu.ppy.sh/beatmapsets/1342061#osu/2779993)
-  3. [Green Day - Basket Case (h3ct1c) \[xbopost's Insane\]](https://osu.ppy.sh/beatmapsets/1142364#osu/2407774)  
+  1. [Yorushika - Matasaburo (Rosiie) \[Summer Wind\]](https://osu.ppy.sh/beatmapsets/1485959#osu/3047001)
+  2. [S.S.H. - Hard Wire (fartownik) \[Insane\]](https://osu.ppy.sh/beatmapsets/963692#osu/2017628)
 - HardRock
-  1. [Nanahoshi Kangengakudan - ITYNITED IDENTITY (sammish) \[Unidentifiable\]](https://osu.ppy.sh/beatmapsets/744955#osu/1570573)
-  2. [Nekomata Master - Izanami's wail (Uberzolik) \[Insane\]](https://osu.ppy.sh/beatmapsets/792367#osu/1662038)
-  3. [Rabpit - Sacred (Matrix) \[Insane\]](https://osu.ppy.sh/beatmapsets/1044692#osu/2185350)  
+  1. [SAKANAMON - Fumeikakuna Seika (AirinCat) \[Extra\]](https://osu.ppy.sh/beatmapsets/1552743#osu/3172606)
+  2. [Arizona Zervas - ROXANNE (Remix) (feat. Swae Lee) (wafer) \[ROCK SAND (Remix)\]](https://osu.ppy.sh/beatmapsets/1607645#osu/3282876)
 - DoubleTime
-  1. [SHK - SO HOT (Remix by SHK) (AngelHoney) \[Hard\]](https://osu.ppy.sh/beatmapsets/40086#osu/127409)
-  2. [zts - worldenddominator (deetz) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/897884#osu/1946272)
-  3. [Chata - Engage (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/875962#osu/1832015)
+  1. [sky_delta feat. Aitsuki Nakuru - Othello syndrome (lushifer) \[Transpain (edit.)\]](https://osu.ppy.sh/beatmapsets/1683218#osu/3439136)
+  2. [Mami Kawada - sense (Giralda) \[LC's Insane\]](https://osu.ppy.sh/beatmapsets/325638#osu/723285)
+  3. [yanaginagi - Vidro Moyou (rosario wknd) \[Visit from a Fallen Star\]](https://osu.ppy.sh/beatmapsets/1202515#osu/2504335)
 - FreeMod
-  1. [Glasslake - Separated Union (DaRRi MIx) \[Hard\]](https://osu.ppy.sh/beatmapsets/17935#osu/63787)
-  2. [ARForest - Lantinid (Nozhomi) \[Niva's Extra\]](https://osu.ppy.sh/beatmapsets/1250431#osu/2668675)  
+  1. [Yooh - LegenD. (HelloSCV) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/497891#osu/1059853)
+  2. [Yorushika - Hitchcock (akinothm) \[OIT 2022 Edit\]](https://osu.ppy.sh/beatmapsets/1698752#osu/3471128)  
 - Tiebreaker
-  1. **[wavforme x Annabel - own phrases (captin1) \[Abyss\]](https://osu.ppy.sh/beatmapsets/894919#osu/1870002)**
+  1. **[Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Gengaku Opera House (gazimal) \[Give it all.\]](https://osu.ppy.sh/beatmapsets/1347917#osu/2791350)**
 
 ### Qualifiers
 
