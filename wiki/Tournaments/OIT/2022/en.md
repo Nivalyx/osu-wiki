@@ -16,7 +16,7 @@ The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) is an Indonesian d
 | --: | :-- |
 | Registration phase | 2022-01-08/2022-01-30 |
 | Screening phase | 2022-01-31/2022-02-14 |
-| Qualifiers | 2022-02-15/2021-02-20 |
+| Qualifiers | 2022-02-15/2022-02-20 |
 | Round of 32 | 2022-02-21/2022-02-27 |
 | Round of 16 | 2022-02-28/2022-03-06 |
 | Quarterfinals | 2022-03-07/2022-03-13 |
