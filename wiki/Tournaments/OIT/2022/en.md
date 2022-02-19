@@ -61,7 +61,7 @@ OIT 2022 is run by various osu! community members predominantly hailing from Ind
 
 ## Participants
 
-Listed below are players who qualified into the Round of 32 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 106 registered players in total.
+Listed below are players who qualified into the Round of 32 (along with their respective seed number and Z-Sum value) out of 87 registered players in total.
 
 | Seed No. | Player | Z-Sum |
 | :-- | :-- | :-- |
