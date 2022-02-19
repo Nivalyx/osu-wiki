@@ -14,15 +14,15 @@ The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) is an Indonesian d
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-01-04/2021-01-24 |
-| Screening phase | 2021-01-25/2021-01-31 |
-| Qualifiers | 2021-02-01/2021-02-14 |
-| Round of 32 | 2021-02-15/2021-02-21 |
-| Round of 16 | 2021-02-22/2021-02-28 |
-| Quarterfinals | 2021-03-01/2021-03-07 |
-| Semifinals | 2021-03-08/2021-03-14 |
-| Finals week 1 | 2021-03-15/2021-03-21 |
-| Finals week 2 | 2021-03-22/2021-03-28 |
+| Registration phase | 2022-01-08/2022-01-30 |
+| Screening phase | 2022-01-31/2022-02-14 |
+| Qualifiers | 2022-02-15/2021-02-20 |
+| Round of 32 | 2022-02-21/2022-02-27 |
+| Round of 16 | 2022-02-28/2022-03-06 |
+| Quarterfinals | 2022-03-07/2022-03-13 |
+| Semifinals | 2022-03-14/2022-03-20 |
+| Finals (week 1) | 2022-03-21/2022-03-27 |
+| Finals (week 2) | 2022-03-28/2022-04-03 |
 
 ## Prizes
 
