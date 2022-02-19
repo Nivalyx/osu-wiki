@@ -8,7 +8,7 @@ tags:
 
 ![OIT 2022 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) is an Indonesian double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Arca 9](https://osu.ppy.sh/users/14042319) and ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966). The tournament is open to all osu! players from Indonesia with 4,000 pp or above to their name. It is the twelfth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) is an Indonesian double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Arca 9](https://osu.ppy.sh/users/14042319) and ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966). The tournament is open to all players from Indonesia with 4,000 pp or above in the osu! game mode to their name. It is the twelfth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -151,7 +151,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
@@ -171,7 +171,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 1. All interested players are required to register into the tournament individually.
    - In order to be eligible to play in the tournament, a player must:
      - Have the  ![][flag_ID] Indonesian displayed on their profile, ***and***
-     - Be in possession of at least 4,000 pp or above at the time of registration.
+     - Be in possession of at least 4,000 pp in the osu! game mode at the time of registration.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
