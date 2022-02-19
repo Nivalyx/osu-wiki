@@ -200,7 +200,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 4. Players who can compete in the next round are determined by:
    - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best-of-9)
    - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In both of the Finals Weeks, each player needs to win 7 points in order to to win a match. (Best-of-13)
+   - In both of the Finals weeks, each player needs to win 7 points in order to to win a match. (Best-of-13)
    - Players who win by default.
    - Whether there are players who are disqualified from the tournament.
 
