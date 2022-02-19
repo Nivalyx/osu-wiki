@@ -184,7 +184,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
 2. In the lobby, all players will have to consecutively play all of the nine Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total of all individual Z-Scores in each of the ten Qualifier beatmaps). A brief explanation about the concept of Z-Sum and Z-Scores can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
+5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total of all individual Z-Scores in each of the ten Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Scores can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
 6. 32 players with the **highest Z-Sum value** will advance to the knock-out stages.
    - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
@@ -210,7 +210,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+2. Each player has to ban **one beatmap** (on the Round of 32 and Round of 16) and **two beatmaps** (from the Quarterfinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed; banning NM1 and HD1 is allowed; banning HD1 and HD2, however, is *not* allowed.
    - Banning does not apply in the Qualifier lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
