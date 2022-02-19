@@ -180,13 +180,14 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 #### Qualifier rules
 
-1. Each player will have to sign up to one of the twenty Qualifier lobbies that have been scheduled and prepared by the Tournament Management in advance.
-2. In the lobby, players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 → NM2 → NM3 → NM4 → HD1 → HD2 → HR1 → HR2 → DT1 → DT2.
+1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
+2. In the lobby, all players will have to consecutively play all of the nine Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
-4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
-5. 32 players with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages.
-   - If there are two (or more) players who share the same average rank, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
-6. Failure to attend in any of the twenty Qualifier lobbies will result in an instant elimination from the tournament.
+4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
+5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total of all individual Z-Scores in each of the ten Qualifier beatmaps). A brief explanation about the concept of Z-Sum and Z-Scores can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
+6. 32 players with the **highest Z-Sum value** will advance to the knock-out stages.
+   - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
+6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
 
