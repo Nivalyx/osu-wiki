@@ -130,22 +130,22 @@ Listed below are players who qualified into the Round of 32 (along with their re
 
 ### Qualifiers
 
-**[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1V68Jl6ddSMMXsWiBhA0ZWXoS4aWeLRaA/view)**
+**[Download the mappack here! (94 MB)](http://drive.google.com/u/0/uc?id=1fQnhr4IUPDbS1e2MNupM61S89Y3MB2dy&export=download)**
 
 - NoMod
-  1. [Mary - Vivid (BarkingMadDog) \[Henceforth\]](https://osu.ppy.sh/beatmapsets/1230253#osu/2557665)
-  2. [xi - Ascension to Heaven (-Tynamo) \[Boshyman's Extra\]](https://osu.ppy.sh/beatmapsets/968656#osu/2547374)
-  3. [KaratoPanchiiShounen feat. Haruno - A Wandering Melody of Love (papple104) \[Mind's Extra\]](https://osu.ppy.sh/beatmapsets/1106189#osu/2407780)
-  4. [UiNA, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix 2018) (Petal) \[Extra (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/1363389#osu/2820648)
+  1. [Ayalis - Ai o Chikaishi Hime Kazari (handsome) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/506155#osu/1082145)
+  2. [celas- Azul (Remix) (IOException) \[Expert\]](https://osu.ppy.sh/beatmapsets/1416065#osu/2918272)
+  3. [Tsukuyomi - Moonlight at midday (Seros) \[Extra\]](https://osu.ppy.sh/beatmapsets/1537310#osu/3143258)
+  4. [ginkiha - Paved Garden (Smug Nanachi) \[fiore\]](https://osu.ppy.sh/beatmapsets/1131098#osu/2362655)
 - Hidden
-  1. [Rin - Moriya set 08 ReEdit \~ Youkai no Yama (jonathanlfj) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/751866#osu/1582806)
-  2. [Emily Osment - Hero in Me (AJT) \[Save The Day\]](https://osu.ppy.sh/beatmapsets/1229079#osu/2555552)
+  1. [kurubukkochan - Rain (Reincarnation) \[Rein\]](https://osu.ppy.sh/beatmapsets/886147#osu/1852501)
+  2. [Various Artists - Netsuretsu Kangei Wonderland (Mirash) \[PandaHero's Extra\]](https://osu.ppy.sh/beatmapsets/1604477#osu/3333126)
 - HardRock
-  1. [UNDEAD CORPORATION - Adore Your Pain (jomnhnk) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/76745#osu/217083)
-  2. [Kairiki bear feat. Hatsune Miku - Telesto Teles (Ryuusei Aika) \[wafer's Expert\]](https://osu.ppy.sh/beatmapsets/1196329#osu/2500705)
+  1. [Kanzaki Elza starring ReoNa - Independence (Maot) \[Masquerade CS4\]](https://osu.ppy.sh/beatmapsets/1557099#osu/3448344)
+  2. [SWAN K feat. Asuka M - LOVE B.B.B (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmapsets/48537#osu/150488)
 - DoubleTime
-  1. [Hanatan - Kokoro (sodarose) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1005463#osu/2104338)
-  2. [Sunpon - Skyscraper Grief (Natteke) \[Happy's Lunatic\]](https://osu.ppy.sh/beatmapsets/15200#osu/69390)
+  1. [sakanaction - Shin Takarajima (Fixxis) \[Insane\]](https://osu.ppy.sh/beatmapsets/1188206#osu/2476090)
+  2. [rerulili feat. Dancing Dolls - Kami no Manima Ni (Sephira) \[RLC's Insane\]](https://osu.ppy.sh/beatmapsets/1182518#osu/2465404)
 
 ## Ruleset
 
