@@ -169,9 +169,9 @@ Listed below are players who qualified into the Round of 32 (along with their re
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, a player must either:
-     - Have the flag of any of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Philippines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, or ![][flag_VN] Vietnam) displayed on their profile, ***or***
-     - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
+   - In order to be eligible to play in the tournament, a player must:
+     - Have the  ![][flag_ID] Indonesian displayed on their profile, ***and***
+     - Be in possession of at least 4,000 pp or above at the time of registration.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
