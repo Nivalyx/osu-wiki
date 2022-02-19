@@ -8,7 +8,7 @@ tags:
 
 ![OIT 2022 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) is an Indonesian double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Arca 9](https://osu.ppy.sh/users/14042319) and ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966). It is the twelfth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) is an Indonesian double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Arca 9](https://osu.ppy.sh/users/14042319) and ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966). The tournament is open to all osu! players from Indonesia with 4,000 pp or above. It is the twelfth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -150,24 +150,35 @@ Listed below are players who qualified into the Round of 32 (along with their re
 ### General rules
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
-2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
+2. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they failed the beatmap.
-   - Disconnects that occur within a few seconds after the beatmap is started by the referee can be rematched.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
-   - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
+8. If a player disconnects, it will be treated as if they had failed the beatmap. 
+   - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
+9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
+   - In case the disconnected player fails to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
-11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
-12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from OIT 2021 and/or blacklisted from the future instalment(s) of OIT.
+11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
+12. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
+    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from the future iterations of the tournament by the Tournament Management.
     - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
-    - If a player is found to be smurfing another player's account, the corresponding players will be blacklisted in the next instalment(s) of OIT regardless of their role in the smurfing accident.
 
-### Qualifier rules
+### Tournament registration
+
+1. All interested players are required to register into the tournament individually.
+   - In order to be eligible to play in the tournament, a player must either:
+     - Have the flag of any of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Philippines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, or ![][flag_VN] Vietnam) displayed on their profile, ***or***
+     - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
+2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
+4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
+
+### Round-specific rules
+
+#### Qualifier rules
 
 1. Each player will have to sign up to one of the twenty Qualifier lobbies that have been scheduled and prepared by the Tournament Management in advance.
 2. In the lobby, players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 → NM2 → NM3 → NM4 → HD1 → HD2 → HR1 → HR2 → DT1 → DT2.
@@ -177,7 +188,7 @@ Listed below are players who qualified into the Round of 32 (along with their re
    - If there are two (or more) players who share the same average rank, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 6. Failure to attend in any of the twenty Qualifier lobbies will result in an instant elimination from the tournament.
 
-### Knock-out stage rules
+#### Knock-out stage rules
 
 1. The 32 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
 2. Players will compete against each other using the Double Elimination system.
