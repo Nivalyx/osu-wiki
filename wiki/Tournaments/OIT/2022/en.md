@@ -63,44 +63,44 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 | Seed No. | Player | Z-Sum |
 | :-- | :-- | :-- |
-| 1 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | 8.2 |
-| 2 | ![][flag_ID] [rho](https://osu.ppy.sh/users/1629553) | 8.5 |
-| 3 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | 8.6 |
-| 4 | ![][flag_ID] [Deeto](https://osu.ppy.sh/users/10069909) | 9.0 |
-| 5 | ![][flag_ID] [MineFrostID](https://osu.ppy.sh/users/12159899) | 9.1 |
-| 6 | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | 10.4 |
-| 7 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | 10.6 |
-| 8 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | 11.1 |
-| 9 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | 12.2 |
-| 10 | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) | 14.0 |
-| 11 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 15.2 |
-| 12 | ![][flag_ID] [- Rosemary -](https://osu.ppy.sh/users/2526649) | 17.7¹ |
-| 13 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 18.4 |
-| 14 | ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314) | 18.5 |
-| 15 | ![][flag_ID] [Herbayse](https://osu.ppy.sh/users/4924094) | 18.9 |
-| 16 | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | 21.2 |
-| 17 | ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) | 21.3 |
-| 18 | ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677) | 22.4 |
-| 19 | ![][flag_ID] [fry](https://osu.ppy.sh/users/4917604) | 22.7 |
-| 20 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | 24.0 |
-| 21 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | 24.6 |
-| 22 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | 26.9 |
-| 23 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | 27.0 |
-| 24 | ![][flag_ID] [Eliz](https://osu.ppy.sh/users/11759284) | 27.2 |
-| 25 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | 27.3 |
-| 26 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | 27.6 |
-| 27 | ![][flag_ID] [Clayweg](https://osu.ppy.sh/users/11374005) | 28.2 |
-| 28 | ![][flag_ID] [ngonk](https://osu.ppy.sh/users/4750008) | 28.7 |
-| 29 | ![][flag_ID] [Contra](https://osu.ppy.sh/users/12011863) | 29.4 |
-| 30 | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | 29.5 |
-| 31 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | 31.5 |
-| 32 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | 31.7 |
+| 1 | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 9.44 |
+| 2 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | 9.33 |
+| 3 | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | 9.30 |
+| 4 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 9.19 |
+| 5 | ![][flag_ID] [rHO](https://osu.ppy.sh/users/1629553) | 9.15 |
+| 6 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | 9.02 |
+| 7 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | 8.80 |
+| 8 | ![][flag_ID] [MineFrostID](https://osu.ppy.sh/users/12159899) | 8.46 |
+| 9 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | 8.36 |
+| 10 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | 8.05 |
+| 11 | ![][flag_ID] [D E L O N](https://osu.ppy.sh/users/11983229) | 7.84 |
+| 12 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | 7.79 |
+| 13 | ![][flag_ID] [-Kiichirou-](https://osu.ppy.sh/users/5791467) | 7.77 |
+| 14 | ![][flag_ID] [BlankTap](https://osu.ppy.sh/users/10137131) | 7.55 |
+| 15 | ![][flag_ID] [StayMusical](https://osu.ppy.sh/users/12688176) | 7.29 |
+| 16 | ![][flag_ID] [Herbayse](https://osu.ppy.sh/users/4924094) | 7.00 |
+| 17 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | 6.83 |
+| 18 | ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) | 6.77 |
+| 19 | ![][flag_ID] [Egao](https://osu.ppy.sh/users/12419257) | 6.75 |
+| 20 | ![][flag_ID] [Frixell](https://osu.ppy.sh/users/15601286) | 6.47 |
+| 21 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | 6.42 |
+| 22 | ![][flag_ID] [AnzewVix](https://osu.ppy.sh/users/8621203) | 6.36 |
+| 23 | ![][flag_ID] [Cudi](https://osu.ppy.sh/users/9974314) | 6.28 |
+| 24 | ![][flag_ID] [Naikaze](https://osu.ppy.sh/users/984132) | 6.21 |
+| 25 | ![][flag_ID] [SDKO](https://osu.ppy.sh/users/4858555) | 6.12 |
+| 26 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | 6.10 |
+| 27 | ![][flag_ID] [Takagi-chan](https://osu.ppy.sh/users/11379592) | 6.05 |
+| 28 | ![][flag_ID] [malvon](https://osu.ppy.sh/users/11113661) | 5.92 |
+| 29 | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | 5.76 |
+| 30 | ![][flag_ID] [-TwiHD](https://osu.ppy.sh/users/5470299) | 5.32 |
+| 31 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | 5.30 |
+| 32 | ![][flag_ID] [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 4.89 |
 
 ## Mappools
 
 ### Round of 32
 
-**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bpPhDewj_pXvKkB45Iwzu8JXvcqCJKpT/view)**
+**[Download the mappack here! (95 MB)](http://drive.google.com/u/0/uc?id=1eMiinHv-gciU0UJds7ZZ5gK9laxm15e7&export=download)**
 
 - NoMod
   1. [ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita. (Skydiver) \[Bioluminescent Sea Creature\]](https://osu.ppy.sh/beatmapsets/1491009#osu/3479041)
