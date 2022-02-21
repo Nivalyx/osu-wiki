@@ -28,11 +28,9 @@ The **osu! Indonesia Tournament #12 (2022)** (***OIT 2022***) is an Indonesian d
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, 6 months of osu!supporter, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 4 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 2 months of osu!supporter |
-
-![](img/badge.jpg "OIT 2021 winner badge")
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2,000,000 IDR + 50% of the additional raised prize pool, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1,000,000 IDR + 30% of the additional raised prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500,000 IDR + 20% of the additional raised prize pool |
 
 ## Organisation
 
@@ -43,7 +41,7 @@ OIT 2022 is run by various osu! community members predominantly hailing from Ind
 | Host | ![][flag_ID] [Arca 9](https://osu.ppy.sh/users/14042319), ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966) |
 | Co-host | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) |
 | Mappool selector | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
-| Playtester | ![][flag_ID] [Pancoz](https://osu.ppy.sh/users/13156137), ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206) |
+| Playtester | ![][flag_ID] [Pancoz](https://osu.ppy.sh/users/13156137), ![][flag_ID] [honeymint](https://osu.ppy.sh/users/4796773), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) |
 | Streamer | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [Rumah](https://osu.ppy.sh/users/12086495), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_HK] [ShadeCegLgMn](https://osu.ppy.sh/users/12086495) |
 | Commentator | ![][flag_ID] [Raids](https://osu.ppy.sh/users/15640966), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Millie](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677), ![][flag_ID] [Deorum](https://osu.ppy.sh/users/5933031), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [My Angel Eimi](https://osu.ppy.sh/users/3793938), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545) |
 | Referee | ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [-Foxee-](https://osu.ppy.sh/users/14989473), ![][flag_ID] [lucidators](https://osu.ppy.sh/users/10154981), ![][flag_ID] [YaeMyMommy](https://osu.ppy.sh/users/17278897), ![][flag_ID] [Aerotracker](https://osu.ppy.sh/users/24396418), ![][flag_ID] [NotDens](https://osu.ppy.sh/users/17311355), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307), ![][flag_PH] [-Pekora-](https://osu.ppy.sh/users/17959882), ![][flag_VN] [rock-on](https://osu.ppy.sh/users/9676089), ![][flag_HK] [Smato](https://osu.ppy.sh/users/5616307) |
@@ -105,7 +103,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 **[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bpPhDewj_pXvKkB45Iwzu8JXvcqCJKpT/view)**
 
 - NoMod
-  1. coming soon
+  1. [ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita. (Skydiver) \[Bioluminescent Sea Creature\]](https://osu.ppy.sh/beatmapsets/1491009#osu/3479041)
   2. [xi - Pandemonium (Doomsday) \[Extra\]](https://osu.ppy.sh/beatmapsets/519285#osu/1103215)
   3. [Camellia - Routing (Mir) \[Amateurre's Redirection\]](https://osu.ppy.sh/beatmapsets/1639727#osu/3373369)
   4. [Pendulum x Hybrid Minds - Louder Than Words (Cut Ver.) (Mir) \[Whisper\]](https://osu.ppy.sh/beatmapsets/1496831#osu/3068257)
