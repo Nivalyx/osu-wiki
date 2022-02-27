@@ -98,6 +98,32 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (95 MB)](http://drive.google.com/u/0/uc?id=1eMiinHv-gciU0UJds7ZZ5gK9laxm15e7&export=download)**
+
+- NoMod
+  1. [YUZUKINGDOM - Roskill Lavender (Nao Tomori) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1410727#osu/2908440)
+  2. [Takenobi Mitsuyoshi - IKAZUCHI (BluOxy) \[MASTER\]](https://osu.ppy.sh/beatmapsets/489136#osu/1042623)
+  3. [BlackY feat. Risa Yuzuki - Imitator (Livia) \[Extra\]](https://osu.ppy.sh/beatmapsets/1657865#osu/3383927)
+  4. [Mysteka - Hesperos (Acylica) \[3dyoshispin\]](https://osu.ppy.sh/beatmapsets/1610294#osu/3287875)
+  5. [t+pazolite - Hoshikuzu Struck (KKipalt) \[Stardust (Bamboo Ver.)\]](https://osu.ppy.sh/beatmapsets/1478718#osu/3033661)  
+- Hidden
+  1. [yama - Mahi (Purplegaze) \[Frozen\]](https://osu.ppy.sh/beatmapsets/1566515#osu/3198580)
+  2. [Mitsukiyo - Unwelcome School (gazimal) \[AdveNt's Insane\]](https://osu.ppy.sh/beatmapsets/1541421#osu/3158362)
+- HardRock
+  1. [AliA - nostalgia (Nelliel) \[memories\]](https://osu.ppy.sh/beatmapsets/1531033#osu/3174951)
+  2. [Blackhole - Lagomorphic (Flower) \[Another\]](https://osu.ppy.sh/beatmapsets/89291#osu/242824)
+- DoubleTime
+  1. [Isekai Joucho - Hydrangea (Kyle Y) \[Capricious\]](https://osu.ppy.sh/beatmapsets/1379378#osu/2850334)
+  2. [Otouto no Ane - Mirishira Romeo & Cinderella (Colin Hou) \[Sayonara Romeo\]](https://osu.ppy.sh/beatmapsets/19211#osu/72718)
+  3. [yanaginagi - Shirushibi (Kazuma) \[Journey\]](https://osu.ppy.sh/beatmapsets/1639831#osu/3346986)
+- FreeMod
+  1. [Tatsh - IMAGE -MATERIAL- \<REFLEC BEAT Edition\> (ignorethis) \[DJPop's HARD\]](https://osu.ppy.sh/beatmapsets/48784#osu/153606)
+  2. [Eiko Shimamiya - Higurashi no Naku Koro ni (Okoratu) \[Elvis' Extra\]](https://osu.ppy.sh/beatmapsets/333543#osu/799166)  
+- Tiebreaker
+  1. **[Noah - Gentiana (Cellina) \[Re:Birth the End\]](https://osu.ppy.sh/beatmapsets/1633640#osu/3334384)**
+
 ### Round of 32
 
 **[Download the mappack here! (95 MB)](http://drive.google.com/u/0/uc?id=1eMiinHv-gciU0UJds7ZZ5gK9laxm15e7&export=download)**
@@ -161,7 +187,7 @@ Saturday, 26 February 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/98204495) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/98204495) |
 | Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | [#1](https://osu.ppy.sh/community/matches/98192806) |
 | Upper | **[-Kiichirou-](https://osu.ppy.sh/users/5791467)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/98204488) |
 
