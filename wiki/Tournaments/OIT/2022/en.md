@@ -100,7 +100,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ### Round of 16
 
-**[Download the mappack here! (95 MB)](http://drive.google.com/u/0/uc?id=1eMiinHv-gciU0UJds7ZZ5gK9laxm15e7&export=download)**
+**[Download the mappack here! (107 MB)](http://drive.google.com/u/0/uc?id=1K-xhseDNcuNQJeCBxkg9JCHejvzG3DSe&export=download)**
 
 - NoMod
   1. [YUZUKINGDOM - Roskill Lavender (Nao Tomori) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1410727#osu/2908440)
