@@ -143,6 +143,42 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   1. [sakanaction - Shin Takarajima (Fixxis) \[Insane\]](https://osu.ppy.sh/beatmapsets/1188206#osu/2476090)
   2. [rerulili feat. Dancing Dolls - Kami no Manima Ni (Sephira) \[RLC's Insane\]](https://osu.ppy.sh/beatmapsets/1182518#osu/2465404)
 
+## Match results
+
+### Round of 32
+
+Friday, 25 February 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Daffy](https://osu.ppy.sh/users/5968633)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/98160921) |
+| Upper | **[rHO](https://osu.ppy.sh/users/1629553)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [malvon](https://osu.ppy.sh/users/11113661) | [#1](https://osu.ppy.sh/community/matches/98159933) |
+| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/98156902) |
+| Upper | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [-TwiHD](https://osu.ppy.sh/users/5470299) | [#1](https://osu.ppy.sh/community/matches/98161293) |
+| Upper | **[Vinno](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Naikaze](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/98157943) |
+
+Saturday, 26 February 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/98204495) |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | [#1](https://osu.ppy.sh/community/matches/98192806) |
+| Upper | **[-Kiichirou-](https://osu.ppy.sh/users/5791467)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/98204488) |
+
+Sunday, 27 February 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Herbayse](https://osu.ppy.sh/users/4924094)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/98236400) |
+| Upper | **[D E L O N](https://osu.ppy.sh/users/11983229)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [AnzewVix](https://osu.ppy.sh/users/8621203) | [#1](https://osu.ppy.sh/community/matches/98235469) |
+| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [SDKO](https://osu.ppy.sh/users/4858555) | [#1](https://osu.ppy.sh/community/matches/98239999) |
+| Upper | **[BlankTap](https://osu.ppy.sh/users/10137131)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Egao](https://osu.ppy.sh/users/12419257) | [#1](https://osu.ppy.sh/community/matches/98240104) |
+| Upper | **[StayMusical](https://osu.ppy.sh/users/12688176)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [cfood](https://osu.ppy.sh/users/8626190) | [#1](https://osu.ppy.sh/community/matches/98234343) |
+| Upper | **[Crezz](https://osu.ppy.sh/users/7108275)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Takagi-chan](https://osu.ppy.sh/users/11379592) | [#1](https://osu.ppy.sh/community/matches/98239050) |
+| Upper | **[Venta](https://osu.ppy.sh/users/11320627)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Cudi](https://osu.ppy.sh/users/9974314) | [#1](https://osu.ppy.sh/community/matches/98239102) |
+| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/98238805) |
+
+
 ## Ruleset
 
 ### General rules
