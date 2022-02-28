@@ -8,7 +8,7 @@ tags:
 
 ![CHM banner](img/banner.jpg)
 
-The **Coffee Hispanic: Mocha** (***CHM***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) and ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351). The tournament was open to all players from all Spanish-speaking countries as listed by the [Ver País website](https://www.verpais.com/) (![][flag_AR] Argentina, ![][flag_BO] Bolivia, ![][flag_CL] Chile, ![][flag_CO] Colombia, ![][flag_CR] Costa Rica, ![][flag_CU] Cuba, ![][flag_PH] The Philippines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It was the first instalment of the Coffee Hispanic: Mocha and the third tournament in the Coffee Hispanic tournament series.
+The **Coffee Hispanic: Mocha** (***CHM***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) and ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351). The tournament was open to all players from all Spanish-speaking countries as listed by the [Ver País website](https://www.verpais.com/) (![][flag_AR] Argentina, ![][flag_BO] Bolivia, ![][flag_CL] Chile, ![][flag_CO] Colombia, ![][flag_CR] Costa Rica, ![][flag_CU] Cuba, ![][flag_DO] Dominican Republic, ![][flag_EC] Ecuador, ![][flag_GQ] Equatorial Guinea, ![][flag_SV] El Salvador, ![][flag_GT] Guatemala, ![][flag_HN] Honduras, ![][flag_MX] Mexico, ![][flag_PA] Panama, ![][flag_PY] Paraguay, ![][flag_PE] Peru, ![][flag_PR] Puerto Rico, ![][flag_ES] Spain, ![][flag_UY] Uruguay, and ![][flag_VN] Venezuela) regardless of rank. It was the first instalment of the Coffee Hispanic: Mocha and the third tournament in the Coffee Hispanic tournament series.
 
 ## Tournament schedule
 
@@ -935,20 +935,10 @@ Sunday, 6 December 2021:
    - If both players ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
-[flag_BN]: /wiki/shared/flag/BN.gif "Brunei"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KH]: /wiki/shared/flag/KH.gif "Cambodia"
-[flag_LA]: /wiki/shared/flag/LA.gif "Lao People's Democratic Republic"
-[flag_MM]: /wiki/shared/flag/MM.gif "Myanmar"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
+
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_BO]: /wiki/shared/flag/BO.gif "Bolivia"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile" 
+
+![][flag_CO] Colombia, ![][flag_CR] Costa Rica, ![][flag_CU] Cuba, ![][flag_DO] Dominican Republic, ![][flag_EC] Ecuador, ![][flag_GQ] Equatorial Guinea, ![][flag_SV] El Salvador, ![][flag_GT] Guatemala, ![][flag_HN] Honduras, ![][flag_MX] Mexico, ![][flag_PA] Panama, ![][flag_PY] Paraguay, ![][flag_PE] Peru, ![][flag_PR] Puerto Rico, ![][flag_ES] Spain, ![][flag_UY] Uruguay, and ![][flag_VN] Venezuela)
