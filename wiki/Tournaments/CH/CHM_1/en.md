@@ -41,7 +41,7 @@ The **Coffee Hispanic: Mocha** (***CH:M***) was a double-elimination 1v1 osu! to
 
 ## Organisation
 
-Coffee Hispanic: Mocha was run by various osu! community members, in which many of whom were Spanish language speakers or hailing from Spanish-speaking countries.
+Coffee Hispanic: Mocha was run by various osu! community members, in which many of whom were Spanish speakers or hailing from Spanish-speaking countries.
 
 | Position | Member(s) |
 | :-- | :-- |
