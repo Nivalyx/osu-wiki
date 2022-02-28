@@ -45,7 +45,7 @@ Coffee Hispanic: Mocha was run by various osu! community members predominantly h
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_FR] [Taevas](https://osu.ppy.sh/users/7276846) |
+| Host | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351) |
 | Mappool selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) |
 | Playtester | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809), ![][flag_SG] [pashty](https://osu.ppy.sh/users/9576725), ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [SDKO](https://osu.ppy.sh/users/4858555), ![][flag_DE] [Menty](https://osu.ppy.sh/users/36192840), ![][flag_US] [daw9801](https://osu.ppy.sh/users/4773094) |
 | Streamer | ![][flag_MY] [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ![][flag_MY] [Laphii](https://osu.ppy.sh/users/9364594), ![][flag_MY] [My Angel Petra](https://osu.ppy.sh/users/8691555), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
