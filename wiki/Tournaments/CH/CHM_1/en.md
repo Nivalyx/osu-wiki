@@ -8,7 +8,7 @@ tags:
 
 ![CHM banner](img/logo.jpg)
 
-The **Coffee Hispanic: Mocha** (***CHM***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) and ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351). The tournament was open to all players from all Spanish-speaking countries as indicated by the [Ver País website](https://www.verpais.com/) (![][flag_AR] Argentina, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Philippines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It was the first instalment of the Coffee Hispanic: Mocha and the third tournament in the Coffee Hispanic tournament series.
+The **Coffee Hispanic: Mocha** (***CHM***) was a double-elimination 1v1 osu! tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) and ![][flag_MX] [Atsuro](https://osu.ppy.sh/users/2279351). The tournament was open to all players from all Spanish-speaking countries as indicated in the [Ver País website](https://www.verpais.com/) (![][flag_AR] Argentina, ![][flag_BO] Bolivia, ![][flag_CL] Chile, ![][flag_CO] Colombia, ![][flag_CR] Costa Rica, ![][flag_CU] Cuba, ![][flag_PH] The Philippines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, and ![][flag_VN] Vietnam) regardless of rank. It was the first instalment of the Coffee Hispanic: Mocha and the third tournament in the Coffee Hispanic tournament series.
 
 ## Tournament schedule
 
