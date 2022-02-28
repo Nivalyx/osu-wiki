@@ -935,8 +935,6 @@ Sunday, 6 December 2021:
    - If both players ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BO]: /wiki/shared/flag/BO.gif "Bolivia"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile" 
@@ -946,5 +944,15 @@ Sunday, 6 December 2021:
 [flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-
-![][flag_GQ] Equatorial Guinea, ![][flag_SV] El Salvador, ![][flag_GT] Guatemala, ![][flag_HN] Honduras, ![][flag_MX] Mexico, ![][flag_PA] Panama, ![][flag_PY] Paraguay, ![][flag_PE] Peru, ![][flag_PR] Puerto Rico, ![][flag_UY] Uruguay, and ![][flag_VN] Venezuela)
+[flag_GQ]: /wiki/shared/flag/GQ.gif "Equatorial Guinea"
+[flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
+[flag_HN]: /wiki/shared/flag/HN.gif "Honduras"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_PA]: /wiki/shared/flag/PA.gif "Panama"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PR]: /wiki/shared/flag/PR.gif "Puerto Rico"
+[flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
+[flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
+[flag_VN]: /wiki/shared/flag/VN.gif "Venezuela"
