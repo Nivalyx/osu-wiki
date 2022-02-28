@@ -940,5 +940,11 @@ Sunday, 6 December 2021:
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BO]: /wiki/shared/flag/BO.gif "Bolivia"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile" 
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia" 
+[flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
+[flag_CU]: /wiki/shared/flag/CU.gif "Cuba"
+[flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 
-![][flag_CO] Colombia, ![][flag_CR] Costa Rica, ![][flag_CU] Cuba, ![][flag_DO] Dominican Republic, ![][flag_EC] Ecuador, ![][flag_GQ] Equatorial Guinea, ![][flag_SV] El Salvador, ![][flag_GT] Guatemala, ![][flag_HN] Honduras, ![][flag_MX] Mexico, ![][flag_PA] Panama, ![][flag_PY] Paraguay, ![][flag_PE] Peru, ![][flag_PR] Puerto Rico, ![][flag_ES] Spain, ![][flag_UY] Uruguay, and ![][flag_VN] Venezuela)
+![][flag_GQ] Equatorial Guinea, ![][flag_SV] El Salvador, ![][flag_GT] Guatemala, ![][flag_HN] Honduras, ![][flag_MX] Mexico, ![][flag_PA] Panama, ![][flag_PY] Paraguay, ![][flag_PE] Peru, ![][flag_PR] Puerto Rico, ![][flag_UY] Uruguay, and ![][flag_VN] Venezuela)
