@@ -938,6 +938,7 @@ Sunday, 6 December 2021:
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_BO]: /wiki/shared/flag/BO.gif "Bolivia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile" 
 [flag_CO]: /wiki/shared/flag/CO.gif "Colombia" 
