@@ -78,11 +78,11 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [ELFENSJoN - STYX (Flezlin) \[nomod1\]](https://osu.ppy.sh/beatmapsets/1592457#osu/3252369)
-  2. [UNDEAD CORPORATION - The silent world (Aeril) \[Armageddon\]](https://osu.ppy.sh/beatmapsets/1581330#osu/3229017)
-  3. [TOMOSUKE - Macuilxochitl (Raijodo) \[Flower (phox's CS4 Edit)\]](https://osu.ppy.sh/beatmapsets/1683090#osu/3438884)
-  4. [Silentroom - NULCTRL (factal Remix) (Xarr) \[fluid\]](https://osu.ppy.sh/beatmapsets/1256524#osu/2611132)
-  5. [Spire - Somnambulism (verychill) \[LMT's Lucid Nightmare\]](https://osu.ppy.sh/beatmapsets/1171893#osu/3120531)
-  6. [tarolabo - eth ken (ktgster) \[Extreme (phox's AR9 Edit)\]](https://osu.ppy.sh/beatmapsets/1683088#osu/3438882)  
+  2. [pm04034 - Sugary Mocaccino (Astronic) \[Caffinated Adrenaline\]](https://osu.ppy.sh/beatmapsets/1592198#osu/3251854)
+  3. [seatrus - efchi (Mir) \[Euphoria (tourney ver)\]](https://osu.ppy.sh/beatmapsets/1592192#osu/3251845)
+  4. [TERRASPEX - AMAZING BREAK (Crissa) \[Extra\]](https://osu.ppy.sh/beatmapsets/1593072#osu/3253699)
+  5. [Noah - World's end (Elcheer) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/1592364#osu/3252187)
+  6. [Frums - Pictured as Perfect (Down) \[Atomy Gym\]](https://osu.ppy.sh/beatmapsets/1592740#osu/3252917)  
 - Hidden
   1. [Yorushika - Walk (Ryuusei Aika) \[Whitening Memory, Catchpenny Pattern and You\]](https://osu.ppy.sh/beatmapsets/1518479#osu/3108320)
   2. [void (Mournfinale) - World Vanquisher (Deppyforce) \[De-structurization\]](https://osu.ppy.sh/beatmapsets/1683078#osu/3438866)
