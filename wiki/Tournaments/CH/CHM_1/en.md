@@ -66,6 +66,10 @@ Listed below are the players who managed to qualified into the Swiss round (alon
 
 - *Latinoamerica Norte division:*
 
+| Seed No. | Player | Avg. Map Rank |
+| :-: | :-- | :-- |
+| A | ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620) | 3 |
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
