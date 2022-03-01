@@ -208,16 +208,17 @@ This competition has come to an end and resulted in the following podium:
   3. [LeaF - Alice in Misanthrope -Ensei Alice- (Anxient) \[Hidden wonderland\]](https://osu.ppy.sh/beatmapsets/526627#osu/1117451)
 - HardRock
   1. [TUYU - Kako ni Torawarete Iru (anfeargorm) \[Memories\]](https://osu.ppy.sh/beatmapsets/1557025#osu/3214373)
-  2. [Kanban Musume-tai - Suki de Sugoi ni Naritai na (Kyuuchie) \[Nagachienyuni's Caffeine Overdose\]](https://osu.ppy.sh/beatmapsets/1566547#osu/3198645)
-  3. [Tokoyami Towa - Palette (Restart Button) \[Expert\]](https://osu.ppy.sh/beatmapsets/1425822#osu/2935945)
+  2. [Utsu-P feat. Hatsune Miku & Kagamine Rin - Nyan Shijima no Ryoukai (Net0) \[Kegare\]](https://osu.ppy.sh/beatmapsets/1574589#osu/3215005)
+  3. [THatsuki Yura - Koku Shin Chronicle (KKipalt) \[Oni (Tourney Ver.)\]](https://osu.ppy.sh/beatmapsets/1575061#osu/3215872)
 - DoubleTime
-  1. [Yonekura Chihiro - Be braver! (Shikibe Mayu) \[Shizurre's Insane\]](https://osu.ppy.sh/beatmapsets/1433072#osu/2950591)
+  1. [AKINO with bless4 - Jet Coaster Ride (kawaiwykik) \[Insane\]](https://osu.ppy.sh/beatmapsets/280695#osu/635069)
   2. [Kola Kid - timer (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/1089084#osu/2277128)
-  3. [ZUTOMAYO - STUDY ME (GIDZ) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1353446#osu/2911090)
+  3. [MONO - The Fall -BMS edit- (ktgster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1574583#osu/3214986)
 - FreeMod
-  1. [Rohi - LvC3 (VINXIS) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/1231655#osu/2560356)
-  2. [La priere - Senjou no Utahime (Hinsvar) \[Valkyrie\]](https://osu.ppy.sh/beatmapsets/1398580#osu/2885693)
-  3. [M2U - A Bella! (feat. Lucy) (rollpan) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/1517567#osu/3106686)
+  1. [ELFENSJoN - ASH OF ROUGE (Demonical) \[emilia's SoLAR ABRASIoN EXTREME\]](https://osu.ppy.sh/beatmapsets/1116761#osu/2346812)
+  2. [Kawada Mami - Borderland (Reiji Maigo) \[Extra\]](https://osu.ppy.sh/beatmapsets/1281934#osu/2662619)
+- Tiebreaker
+  1. **[Tokyo.MeltiMelt - the Beautiful Cure feat. nayuta (jonathanlfj) \[Magnificat\]](https://osu.ppy.sh/beatmapsets/1574009#osu/3213722)**
 
 ### Round of 16
 
