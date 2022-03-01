@@ -111,9 +111,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [NathanRammu2044](https://osu.ppy.sh/users/8472976) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CL] [Intercambing](https://osu.ppy.sh/users/2546001) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743) |
 
 ## Mappools
 
