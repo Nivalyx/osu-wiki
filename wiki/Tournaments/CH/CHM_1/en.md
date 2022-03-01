@@ -84,10 +84,9 @@ This competition has come to an end and resulted in the following podium:
   5. [Noah - World's end (Elcheer) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/1592364#osu/3252187)
   6. [Frums - Pictured as Perfect (Down) \[Atomy Gym\]](https://osu.ppy.sh/beatmapsets/1592740#osu/3252917)  
 - Hidden
-  1. [Yorushika - Walk (Ryuusei Aika) \[Whitening Memory, Catchpenny Pattern and You\]](https://osu.ppy.sh/beatmapsets/1518479#osu/3108320)
-  2. [void (Mournfinale) - World Vanquisher (Deppyforce) \[De-structurization\]](https://osu.ppy.sh/beatmapsets/1683078#osu/3438866)
-  3. [Kijibato - w/WWW feat. Hoshimiya Toto (-Tynamo) \[Endless\]](https://osu.ppy.sh/beatmapsets/1329408#osu/2753990)
-  4. [DJ Myosuke - Behemoth (Mazzerin) \[D357RUC710N\]](https://osu.ppy.sh/beatmapsets/1612153#osu/3291477)
+  1. [Bentham - Chicago (Luscent) \[Expert\]](https://osu.ppy.sh/beatmapsets/1592349#osu/3252165)
+  2. [SAW WAVE SOUND - GRID KNIGHT (Dada) \[GRID IRON\]](https://osu.ppy.sh/beatmapsets/1592210#osu/3251884)
+  3. [Kaminose Tsukasa - ruin of opals (fanzhen0019) \[Another\]](https://osu.ppy.sh/beatmapsets/1593049#osu/3253633)
 - HardRock
   1. [EPICA - The Cosmic Algorithm (Mordred) \[anime map\]](https://osu.ppy.sh/beatmapsets/1479445#osu/3035067)
   2. [Otokaze - SaiGetsu (Cut Ver.) (Yusomi) \[Years\]](https://osu.ppy.sh/beatmapsets/746240#osu/1572866)
