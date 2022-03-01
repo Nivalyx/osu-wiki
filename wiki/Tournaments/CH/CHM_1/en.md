@@ -109,30 +109,30 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Strike The Blood (Maot) \[Ipputasai\]](https://osu.ppy.sh/beatmapsets/1587864#osu/3243028)
-  2. [Hino Isuka - Dreamin' attraction!! (My Angel Watame) \[Hellish Attraction!! (Nerf)\]](https://osu.ppy.sh/beatmapsets/1181405#osu/3420222)
-  3. [siromaru + cranky - conflict (yf\_bmp) \[Intersection\]](https://osu.ppy.sh/beatmapsets/1212359#osu/3107406)
-  4. [Billain - Codename (winber1) \[\_.\]](https://osu.ppy.sh/beatmapsets/1495814#osu/3066436)
-  5. [Cattle Decapitation - Your Disposal (Chanci) \[Eradication\]](https://osu.ppy.sh/beatmapsets/988109#osu/2207855)
-  6. [Nekomata Master - Life is beautiful (DeviousPanda) \[Extravaganza (Tournament Ver.)\]](https://osu.ppy.sh/beatmapsets/1570515#osu/3207016)  
+  2. [Gram - THE END (-Tynamo) \[Goodbye\]](https://osu.ppy.sh/beatmapsets/1587671#osu/3242494)
+  3. [seatrus - ILLEGAL LEGACY (Mir) \[ILLEGAL GAMING\]](https://osu.ppy.sh/beatmapsets/1587369#osu/3241947)
+  4. [PinocchioP - Whatever Yama Says Goes (Axaptice) \[Pinochioffee Tourney Diff\]](https://osu.ppy.sh/beatmapsets/1587644#osu/3242457)
+  5. [UNDEAD CORPORATION - Everything will freeze (sjoy) \[Freezing\]](https://osu.ppy.sh/beatmapsets/336471#osu/744673)
+  6. [Yaju - DEBSTEP! (KnightC0re) \[EXTRA!\]](https://osu.ppy.sh/beatmapsets/1587355#osu/3241923)  
 - Hidden
-  1. [bbno$ & Rich Brian - edamame (PotatoDew) \[nerf\]](https://osu.ppy.sh/beatmapsets/1589180#osu/3245938)
-  2. [Alstroemeria Records feat. ayame - SACRIFICE (Original Mix) (Nuvolina) \[Extra\]](https://osu.ppy.sh/beatmapsets/1161525#osu/2423227)
-  3. [IOSYS - Kanbu de Tomatte Sugu Tokeru ~ Kyouki no Udongein (eiri-) \[ExGon & Len's Classic Extra\]](https://osu.ppy.sh/beatmapsets/1442363#osu/3121361)
-  4. [A-One feat. ayaponzu\* - Justice Monster (Chizu-Kun) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1513750#osu/3099250)
+  1. [sasakure.UK - Negaposi\*Continues feat. Hatsune Miku (Chaoslitz) \[Game Over\]](https://osu.ppy.sh/beatmapsets/373762#osu/818812)
+  2. [KOTOKO - Koi Kou Enishi (newton-) \[Youtou no Mai\]](https://osu.ppy.sh/beatmapsets/1587308#osu/3241847)
+  3. [monoq+RIZARD! - SLEEPWALKER (PaRaDogi) \[DOGI\]](https://osu.ppy.sh/beatmapsets/1488399#osu/3051310)
 - HardRock
-  1. [Hoshimachi Suisei - Jibunkatte Dazzling (-Atri-) \[Ji Ba vtuber Tu\]](https://osu.ppy.sh/beatmapsets/1565297#osu/3196416)
-  2. [Natsuiro Burning Love\*Prim - Sore wa Hanabi no Youna Koi (Yooh) \[Fragile Love\]](https://osu.ppy.sh/beatmapsets/1419210#osu/2923717)
-  3. [Sanxion7 - Gargoyle (2009 version) (Down) \[Emerald\]](https://osu.ppy.sh/beatmapsets/1373720#osu/2839980)
-  4. [Michael Jackson - Smooth Criminal (FailureAtOsu) \[Crescendo\]](https://osu.ppy.sh/beatmapsets/1297771#osu/2692157)
+  1. [Wagakki Band - Ikusa (Atsuro) \[gol gana\]](https://osu.ppy.sh/beatmapsets/345860#osu/3242128)
+  2. [MAMI - Kaze no Uta \~Ending Edition\~ (Kurashina Asuka) \[Force of Attraction\]](https://osu.ppy.sh/beatmapsets/1587653#osu/3242468)
+  3. [Power Of Nature - QuoN (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/1587936#osu/3243179)
 - DoubleTime
-  1. [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) \[Catharsis\]](https://osu.ppy.sh/beatmapsets/562169#osu/1188549)
-  2. [Sano Denji - Taiko Time (Flask) \[SEAT5 Time\]](https://osu.ppy.sh/beatmapsets/1536761#osu/3428157)
-  3. [UNDEAD CORPORATION - Murasa (MaridiuS) \[Seni's Lunatic\]](https://osu.ppy.sh/beatmapsets/1280200#osu/3257630)
-  4. [Black Eyed Peas - Boom Boom Pow (mrowswares) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1263837#osu/2626918)
+  1. [senya - Kegarenaki Euphoria (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/1587444#osu/3242085)
+  2. [DJ Command - Mermaid girl -Akiba Koubou MIX- (Nathan) \[Extra\]](https://osu.ppy.sh/beatmapsets/1587826#osu/3242791)
+  3. [Zektbach - L'avide (gowww) \[Seni's Lunatic\]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
+  4. [Reol - No title (Pho) \[Insane\]](https://osu.ppy.sh/beatmapsets/343672#osu/759318)
 - FreeMod
-  1. [96Neko feat. Kogeinu - Akatsuki Arrival (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/1529859#osu/3129297)
-  2. [SEPHID - The Public Parallel (Camo) \[Master\]](https://osu.ppy.sh/beatmapsets/1627418#osu/3322445)
-  3. [Hakui Koyori - "Hmm,Ah,Ah." (Deppyforce) \[x.x\]](https://osu.ppy.sh/beatmapsets/1662519#osu/3393912)
+  1. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (IOException) \[Expert\]](https://osu.ppy.sh/beatmapsets/935707#osu/1954858)
+  2. [MuryokuP - Core (yaspo) \[Core\]](https://osu.ppy.sh/beatmapsets/1587310#osu/3241849)
+  3. [SOUND HOLIC feat. Nana Takahashi - XINOBIKILL (Lokidoki) \[tourney ver.\]](https://osu.ppy.sh/beatmapsets/1587318#osu/3241863)
+- Tiebreaker
+  1. **[Dream Theater - Scene Seven: I. The Dance of Eternity (olc) \[i asked dominos to draw peter griffin on the box and they didnt do it\]](https://osu.ppy.sh/beatmapsets/1587309#osu/3241848)**  
 
 ### Semifinals
 
@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Sound Horizon - Raijin no Hidariude (Satellite) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/1382134#osu/2895387)
   3. [Asobi Station - Turbo Macchiato (dectopia) \[NO ONE CAN STOP ME\]](https://osu.ppy.sh/beatmapsets/1580680#osu/3227595)
 - Tiebreaker
-  1. **[Team Grimoire & Aoi Sumito - Cathedrarhythm (Icekalt) \[bopper\]](https://osu.ppy.sh/beatmapsets/1581084#osu/3228488)**  
+  1. **[Team Grimoire & Aoi Sumito - Cathedrarhythm (Icekalt) \[bopper\]](https://osu.ppy.sh/beatmapsets/1581084#osu/3228488)**
 
 ### Quarterfinals
 
