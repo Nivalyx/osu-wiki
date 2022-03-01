@@ -251,11 +251,11 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (99 MB)](https://drive.google.com/drive/folders/19OKyG44amg9io9hMDis-gBFw1FaJx3Yf)**
 
 - NoMod
-  1. [Coda - Fighting Gold (Saika0k1) \[Gold Experience\]](https://osu.ppy.sh/beatmapsets/1588182#osu/3243699)
-  2. [BlackY - KITTY FOILED (AdveNt) \[mischievous old\]](https://osu.ppy.sh/beatmapsets/1644809#osu/3357412)
-  3. [fripSide - HesitationSnow (Fushimi Rio) \[Extra\]](https://osu.ppy.sh/beatmapsets/1329838#osu/2755377)
-  4. [ISOMERZ (DJ Raisei + seatrus) - Symmetric (Realazy) \[Amateurre's Expert\]](https://osu.ppy.sh/beatmapsets/1381824#osu/2954718)
-  5. [MisoilePunch - VVelcome!! (R3m) \[Flask's EXHAUST\]](https://osu.ppy.sh/beatmapsets/1235627#osu/3179665)
+  1. [Suzuki Konomi - Realize (Kyutei) \[ta chueco\]](https://osu.ppy.sh/beatmapsets/1563452)
+  2. [Demetori - Fuujin Shoujo (ItsWinter) \[Stage 4\]](https://osu.ppy.sh/beatmapsets/1563116#osu/3192005)
+  3. [Micelle - PhonDrome! (Skytuna) \[skybuba\]](https://osu.ppy.sh/beatmapsets/1563251#osu/3192283)
+  4. [Tsukiyomi - Necropolis (Crissa) \[Extra\]](https://osu.ppy.sh/beatmapsets/1563074#osu/3191887)
+  5. [Versus - memoria ficta (rollpan) \[imaginary\]](https://osu.ppy.sh/beatmapsets/1563119#osu/3192013)
 - Hidden
   1. [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[captin's Expert\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2716344)
   2. [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
