@@ -77,7 +77,7 @@ This competition has come to an end and resulted in the following podium:
 *(mappack not available)*
 
 - NoMod
-  1. [ELFENSJoN - ASH OF ROUGE (Xayah) \[pog\]](https://osu.ppy.sh/beatmapsets/1471010#osu/3019994)
+  1. [ELFENSJoN - STYX (Flezlin) \[nomod1\]](https://osu.ppy.sh/beatmapsets/1592457#osu/3252369)
   2. [UNDEAD CORPORATION - The silent world (Aeril) \[Armageddon\]](https://osu.ppy.sh/beatmapsets/1581330#osu/3229017)
   3. [TOMOSUKE - Macuilxochitl (Raijodo) \[Flower (phox's CS4 Edit)\]](https://osu.ppy.sh/beatmapsets/1683090#osu/3438884)
   4. [Silentroom - NULCTRL (factal Remix) (Xarr) \[fluid\]](https://osu.ppy.sh/beatmapsets/1256524#osu/2611132)
