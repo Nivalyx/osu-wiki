@@ -88,19 +88,20 @@ This competition has come to an end and resulted in the following podium:
   2. [SAW WAVE SOUND - GRID KNIGHT (Dada) \[GRID IRON\]](https://osu.ppy.sh/beatmapsets/1592210#osu/3251884)
   3. [Kaminose Tsukasa - ruin of opals (fanzhen0019) \[Another\]](https://osu.ppy.sh/beatmapsets/1593049#osu/3253633)
 - HardRock
-  1. [EPICA - The Cosmic Algorithm (Mordred) \[anime map\]](https://osu.ppy.sh/beatmapsets/1479445#osu/3035067)
-  2. [Otokaze - SaiGetsu (Cut Ver.) (Yusomi) \[Years\]](https://osu.ppy.sh/beatmapsets/746240#osu/1572866)
-  3. [Given - Fuyu no Hanashi (Yudragen) \[All that you've left behind, has become my everything\]](https://osu.ppy.sh/beatmapsets/1401056#osu/2890370)
-  4. [ClariS - Hitorigoto (TV Size) (Net0) \[Faito's Expert\]](https://osu.ppy.sh/beatmapsets/1292749#osu/2688323)
+  1. [ayaponzu\* - Yakubyougami (Pho) \[momoko's Extra\]](https://osu.ppy.sh/beatmapsets/501001#osu/1361574)
+  2. [Sound Souler - Empty Stars (PandaHero) \[Empty Soul\]](https://osu.ppy.sh/beatmapsets/1592314#osu/3252084)
+  3. [7mai - Chelsea (Aeril) \[FUTURE+\]](https://osu.ppy.sh/beatmapsets/1592359#osu/3252182)
 - DoubleTime
-  1. [LazuLight - Diamond City Lights (\[ TNTlealu \]) \[Rainbow\]](https://osu.ppy.sh/beatmapsets/1464031#osu/3017567)
-  2. [-45 - System Sun (Lasse) \[Insane (Flask's 1.12x (170bpm) Edit)\]](https://osu.ppy.sh/beatmapsets/1658007#osu/3384275)
-  3. [Denkishiki Karen Ongaku Shuudan - Aoki Kotou no Anguis (OliBomby) \[TheBlank's Insane\]](https://osu.ppy.sh/beatmapsets/989342#osu/2069602)
-  4. [Hatsune Miku - With a Dance Number (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/29691#osu/98415)
+  1. [Hatsuki Yura - Manatsu no Romeos (Kkipalt) \[Another\]](https://osu.ppy.sh/beatmapsets/1592421#osu/3252279)
+  2. [Kurosa-P - Senbonzakura (Net0) \[Thousand Cherry Blossoms\]](https://osu.ppy.sh/beatmapsets/1033398#osu/3093891)
+  3. [Nanawo Akari - One Room Sugar Life (Fushimi Rio) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/818245#osu/1730526)
+  4. [YooSanHyakurei - Last Train (KogumaX) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1060639#osu/2303727)
 - FreeMod
-  1. [USAO - Hastur (Extended Mix) (Regou) \[Anomaly\]](https://osu.ppy.sh/beatmapsets/1313256#osu/2721644)
-  2. [Utah Saints - Something Good '08 (Radio Edit) (xDololow) \[Running Child\]](https://osu.ppy.sh/beatmapsets/456463#osu/2194972)
-  3. [xi - Blue Zenith (Asphyxia) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/292301#osu/658127)
+  1. [KINEMA106 - Aizou Dilemma (Mordred) \[tourney diff\]](https://osu.ppy.sh/beatmapsets/1592215#osu/3251903)
+  2. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (ktgster) \[MASTER AR8\]](https://osu.ppy.sh/beatmapsets/312310#osu/2775197)
+  3. [PSYQUI - Start Up feat. Such (MaridiuS) \[Expert\]](https://osu.ppy.sh/beatmapsets/1593330#osu/3254258)
+- Tiebreaker
+  1. **[pm04034 - cold smoothie coffee (Mirash) \[techies collab\]](https://osu.ppy.sh/beatmapsets/1592358#osu/3252181)**  
 
 ### Finals (week 1)
 
