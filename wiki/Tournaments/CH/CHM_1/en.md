@@ -325,7 +325,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here!](https://www.mediafire.com/file/1upvwmzx1byr423/QUALIFIERS+MAPPACK.zip/file)**
+**[Download the mappack here! (90 MB)](https://www.mediafire.com/file/1upvwmzx1byr423/QUALIFIERS+MAPPACK.zip/file)**
 
 - NoMod
   1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Colorful (apoq) \[Vibrance\]](https://osu.ppy.sh/beatmapsets/1542813#osu/3153603)
