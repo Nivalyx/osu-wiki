@@ -273,30 +273,28 @@ This competition has come to an end and resulted in the following podium:
   2. [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (AJT) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348)
   3. [L.E.D. - THE LAST STRIKER (Amamiya Yuko) \[Another\]](https://osu.ppy.sh/beatmapsets/129065#osu/326367)    
 
-### Preliminary groups (upper bracket)
+### Swiss round (week 2)
 
-**[Download the mappack here! (108 MB)](https://drive.google.com/u/0/uc?id=16uRQfNAqnSCC_9iy6YWug-e2WSmT-Kng&export=download)**
+*(mappack not available)*
 
 - NoMod
-  1. [Twin-Tails - Twintail Dreamer! (AtHeoN) \[Twintail\]](https://osu.ppy.sh/beatmapsets/388449#osu/847386)
-  2. [Ice - Amber Wishes (Deemo edit) (Astronic) \[Aspiration\]](https://osu.ppy.sh/beatmapsets/1610241#osu/3287781)
-  3. [BlackY - Sakura Ranman Cleopatra (Rtyzen) \[Extra\]](https://osu.ppy.sh/beatmapsets/1626963#osu/3321639)
-  4. [lapix - Outer Space (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1544179#osu/3156268)
-  5. [Shade - Mars (LMT) \[Hyper (phox's 1.63x Edit)\]](https://osu.ppy.sh/beatmapsets/1639259#osu/3345763)
+  1. [Chitose Sara - Merry Merry Go Round (Kyutei) \[Useless Demons\]](https://osu.ppy.sh/beatmapsets/1550694#osu/3168787)
+  2. [Ryu\* - Sakura Mirage (Xayah) \[Poggers\]](https://osu.ppy.sh/beatmapsets/1550637#osu/3168661)
+  3. [Zekk - NIRVANA (MarcoBrolo) \[generic tech map\]](https://osu.ppy.sh/beatmapsets/1550508#osu/3168395)
+  4. [ZUTOMAYO - Byoshin o kamu (Atsuro) \[Andatti\]](https://osu.ppy.sh/beatmapsets/1550494#osu/3168373)
+  5. [Laur - Nostalgic Blood of the Strife (Zelq) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)
 - Hidden
-  1. [Sakuzyo - FAFNIR (Sulfur) \[-kevincela-'s Extreme\]](https://osu.ppy.sh/beatmapsets/777255#osu/1634515)
-  2. [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
+  1. [HiTECH NINJA - Memecore (Megafan) \[haha funny\]](https://osu.ppy.sh/beatmapsets/1550473#osu/3168337)
+  2. [xaki - proud-dust (dada) \[Vintage Another\]](https://osu.ppy.sh/beatmapsets/973222#osu/2047312)
 - HardRock
-  1. [ELECTROCUTICA feat. EVO+ - Moon Seeker (Lulu-) \[Lulu x Bonzi — Pulsation\]](https://osu.ppy.sh/beatmapsets/1235544#osu/2568398)
-  2. [MK feat. YURiE - Spiral (FrenZ396) \[Extra\]](https://osu.ppy.sh/beatmapsets/1570048#osu/3206058)
+  1. [Getty vs. DJ DiA - Engage-Rex- (Realazy) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/1336197#osu/2768157)
+  2. [SWAN K feat. Asuka M - LOVE B.B.B (BOUYAAA) \[Tournament diff\]](https://osu.ppy.sh/beatmapsets/1550539#osu/3168453)
 - DoubleTime
-  1. [Ceui - Rainbow Days (Shikibe Mayu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1181354#osu/2464147)
-  2. [Bomfunk MC's - Freestyler (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/35629#osu/115352)
-  3. [Joshua Sitron & Billy Straus - Swiper No Swiping! (Gordon) \[Oh, Man!\]](https://osu.ppy.sh/beatmapsets/1440219#osu/2963126)
+  1. [Ceui - First Love Syndrome (Bellicose) \[papple's Insane\]](https://osu.ppy.sh/beatmapsets/1119845#osu/2386416)
+  2. [Dimrain47 - Cloud Control (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/1550498#osu/3168379)
 - FreeMod
-  1. [Sakuzyo - Instinct (Zelq) \[Circles\]](https://osu.ppy.sh/beatmapsets/1291263#osu/2680275)
-  2. [P.D.P. - A Word To The Wise (TheKingHenry) \[Extra\]](https://osu.ppy.sh/beatmapsets/890157#osu/1860763)
-  3. [My Chemical Romance - Welcome To The Black Parade (Moph) \[DELIS' EXTRA\]](https://osu.ppy.sh/beatmapsets/1286287#osu/2801378)
+  1. [HyuN - Tokyo's Starlight (Bakugo-) \[Starry Night\]](https://osu.ppy.sh/beatmapsets/1550266#osu/3167903)
+  2. [katagiri - Reso\*nyan\*ce Fever (Snow Note) \[RLC's Another\]](https://osu.ppy.sh/beatmapsets/779061#osu/2952502)
 
 ### Swiss round (week 1)
 
@@ -304,22 +302,22 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [Chitose Sara - Merry Merry Go Round (Kyutei) \[Useless Demons\]](https://osu.ppy.sh/beatmapsets/1550694#osu/3168787)
-  2. [AVTechNO! - boku-boku SuketchP Remix (-Tynamo) \[Emotional Limit\]](https://osu.ppy.sh/beatmapsets/1281400#osu/2661624)
-  3. [KyoKa - Kirameki\*Chocolaterie (-Atri-) \[A la Carte\]](https://osu.ppy.sh/beatmapsets/1113378#osu/2326006)
-  4. [Kero Kero Bonito - The Princess and the Clock (pocket-) \[her Sojourn\]](https://osu.ppy.sh/beatmapsets/1492284#osu/3058966)
-  5. [GEM - Umiyuri Kaiteitan (Loreley) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/647452#osu/1571516)
+  2. [Ryu\* - Sakura Mirage (Xayah) \[Poggers\]](https://osu.ppy.sh/beatmapsets/1550637#osu/3168661)
+  3. [Zekk - NIRVANA (MarcoBrolo) \[generic tech map\]](https://osu.ppy.sh/beatmapsets/1550508#osu/3168395)
+  4. [ZUTOMAYO - Byoshin o kamu (Atsuro) \[Andatti\]](https://osu.ppy.sh/beatmapsets/1550494#osu/3168373)
+  5. [Laur - Nostalgic Blood of the Strife (Zelq) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)
 - Hidden
-  1. [96neko - Buriki no Dance (Kimchi Sandwich) \[Expert\]](https://osu.ppy.sh/beatmapsets/1296562#osu/2690060)
-  2. [Linkin Park - New Divide (pw384) \["The Divergent" - 2021\]](https://osu.ppy.sh/beatmapsets/1559072#osu/3184612)
+  1. [HiTECH NINJA - Memecore (Megafan) \[haha funny\]](https://osu.ppy.sh/beatmapsets/1550473#osu/3168337)
+  2. [xaki - proud-dust (dada) \[Vintage Another\]](https://osu.ppy.sh/beatmapsets/973222#osu/2047312)
 - HardRock
-  1. [Maki Ligon & Karamitasu - Touhou vs. Fortnite Dance Compilation (Testo) \[schoolboy's Extreme\]](https://osu.ppy.sh/beatmapsets/872310#osu/1830635)
-  2. [Cranky - Libera me (Kloyd) \[Muya's Insane\]](https://osu.ppy.sh/beatmapsets/1085726#osu/2273615)
+  1. [Getty vs. DJ DiA - Engage-Rex- (Realazy) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/1336197#osu/2768157)
+  2. [SWAN K feat. Asuka M - LOVE B.B.B (BOUYAAA) \[Tournament diff\]](https://osu.ppy.sh/beatmapsets/1550539#osu/3168453)
 - DoubleTime
-  1. [Rita, Asari, Tezuka Ryouko - Hajimari no Toki (Djulus) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1615974#osu/3299298)
-  2. [Machita Chima - phony (Yugu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1560617#osu/3274541)
+  1. [Ceui - First Love Syndrome (Bellicose) \[papple's Insane\]](https://osu.ppy.sh/beatmapsets/1119845#osu/2386416)
+  2. [Dimrain47 - Cloud Control (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/1550498#osu/3168379)
 - FreeMod
-  1. [Myrath - Endure The Silence (LMT) \[BOUYAAA's Extra\]](https://osu.ppy.sh/beatmapsets/555454#osu/1303812)
-  2. [BEMANI Sound Team "Nekomata Master" - The last of world music (Heilia) \[Scub's Extra\]](https://osu.ppy.sh/beatmapsets/1060239#osu/3190378)
+  1. [HyuN - Tokyo's Starlight (Bakugo-) \[Starry Night\]](https://osu.ppy.sh/beatmapsets/1550266#osu/3167903)
+  2. [katagiri - Reso\*nyan\*ce Fever (Snow Note) \[RLC's Another\]](https://osu.ppy.sh/beatmapsets/779061#osu/2952502)
 
 ### Qualifiers
 
