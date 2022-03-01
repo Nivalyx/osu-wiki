@@ -192,22 +192,22 @@ This competition has come to an end and resulted in the following podium:
   2. [A.SAKA - Nanatsu Koyoto (My Angel Watame) \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1618445)
   3. [senya - Kimiiro Subliminal (AtHeoN) \[Satellite\]](https://osu.ppy.sh/beatmapsets/418398#osu/1031948)
 
-### Round of 16
+### Quarterfinals
 
-**[Download the mappack here! (204 MB)](https://drive.google.com/u/0/uc?id=1Qo_PPRZQtm2dIOoYRPDpOzLP8g8kfAIR&export=download)**
+**[Download the mappack here! (164 MB)](https://drive.google.com/drive/folders/1cmOJKfaTc5hwnw-wb-4-VyDwOamVPM15)**
 
 - NoMod
-  1. [TRUE - Soundscape (Azunyan-) \[Fortissimo\]](https://osu.ppy.sh/beatmapsets/1173554#osu/2447685)
-  2. [Jun Kuroda - Coquette (Suicune3) \[Oni\]](https://osu.ppy.sh/beatmapsets/1551222#osu/3169923)
-  3. [FELT - Goodbye (Hysteria) \[Farewell (phox's Introless Edit)\]](https://osu.ppy.sh/beatmapsets/1655798#osu/3379847)
-  4. [IAHN - Transform (Original Mix) (Daycore) \[Eula's Extreme\]](https://osu.ppy.sh/beatmapsets/1381820#osu/3162796)
-  5. [Morimori Atsushi - Time Machine (Elcheer) \[03:45:104 1.05x (230bpm)\]](https://osu.ppy.sh/beatmapsets/1286317#osu/2670818)
+  1. [TUYU - Namikare (Kyutei) \[Apprehension\]](https://osu.ppy.sh/beatmapsets/1574699#osu/3215207)
+  2. [Shadow of Intent - Gravesinger (ItsWinter) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/1574930#osu/3215636)
+  3. [Iglooghost - White Gum (-jordan-) \[Extra Fresh\]](https://osu.ppy.sh/beatmapsets/1574269#osu/3214469)
+  4. [nao - Towa naru Kizuna to Omoi no Kiseki (VINXIS) \[Oko's Extra\]](https://osu.ppy.sh/beatmapsets/448197#osu/1166289)
+  5. [Dayum - Gwyn (Shidoni) \[Extreme\]](https://osu.ppy.sh/beatmapsets/985884#osu/2063785)
 - Hidden
-  1. [Epica - Fight Your Demons (KogumaX) \[Expert\]](https://osu.ppy.sh/beatmapsets/1615425#osu/3298109)
-  2. [Tsukuyomi - Moonlight at midday (Seros) \[Extra\]](https://osu.ppy.sh/beatmapsets/1537310#osu/3143258)
-  3. [Blakfish - Jeremy Kyle Is A Marked Man (Serafeim) \[End on happiness\]](https://osu.ppy.sh/beatmapsets/1620017#osu/3307624)
+  1. [Hatsuki Yura - Shoujo to Ougonryuu no Monogatari (Garden) \[lululu's Extreme\]](https://osu.ppy.sh/beatmapsets/719158#osu/1521717)
+  2. [Frozen Starfall - Crystal Dream (feat. Selphius) (Luminiscental) \[Ice\]](https://osu.ppy.sh/beatmapsets/1574221#osu/3214365)
+  3. [LeaF - Alice in Misanthrope -Ensei Alice- (Anxient) \[Hidden wonderland\]](https://osu.ppy.sh/beatmapsets/526627#osu/1117451)
 - HardRock
-  1. [ONE OK ROCK - One by One (Noob55) \[Kirishima-'s Extreme\]](https://osu.ppy.sh/beatmapsets/1183373#osu/2568117)
+  1. [TUYU - Kako ni Torawarete Iru (anfeargorm) \[Memories\]](https://osu.ppy.sh/beatmapsets/1557025#osu/3214373)
   2. [Kanban Musume-tai - Suki de Sugoi ni Naritai na (Kyuuchie) \[Nagachienyuni's Caffeine Overdose\]](https://osu.ppy.sh/beatmapsets/1566547#osu/3198645)
   3. [Tokoyami Towa - Palette (Restart Button) \[Expert\]](https://osu.ppy.sh/beatmapsets/1425822#osu/2935945)
 - DoubleTime
