@@ -31,9 +31,9 @@ The **Coffee Hispanic: Mocha** (***CH:M***) was a double-elimination 1v1 osu! to
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 100 USD, physical trophy, exclusive custom-made keyboard (courtesy of [Lotus](https://twitter.com/Lotusmech)), unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 100 USD, physical trophy, exclusive custom-made keyboard (courtesy of [LotusPro](https://twitter.com/Lotusmech)), unique profile badge, commemorative banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Physical trophy, exclusive custom-made keypad (courtesy of [LotusPro](https://twitter.com/Lotusmech)), commemorative banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Physical trophy, exclusive custom-made keypad (courtesy of [LotusPro](https://twitter.com/Lotusmech)), commemorative banner |
 
 ![](img/badge.png "CH:M winner badge")
 
