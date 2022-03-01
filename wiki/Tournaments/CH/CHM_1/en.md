@@ -58,7 +58,11 @@ Coffee Hispanic: Mocha was run by various osu! community members, in which many 
 - [Discord server](https://discord.com/invite/baVKCzU)
 - [Challonge brackets](https://challonge.com/CofeeHispanicMocha)
 - [Livestream channel](https://www.twitch.tv/coffeehispanic)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/39) (organized by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)) 
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/39) (organized by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761))
+
+## Participants
+
+
 
 ## Podium
 
