@@ -246,9 +246,9 @@ This competition has come to an end and resulted in the following podium:
   2. [ZUTOMAYO - Byoushin o Kamu (semaphore) \[attendant's Another\]](https://osu.ppy.sh/beatmapsets/1352963#osu/2968941)
   3. [ROCKY CHACK, Lil Jon & The East Side Boyz - Ringo Biyori \~The Wolf Whistling Song x Get Low (feat. Ying Yang Twins) (Deramok) \[Insane\]](https://osu.ppy.sh/beatmapsets/1062345#osu/2538882)
 
-### Round of 64
+### Swiss round (week 3)
 
-**[Download the mappack here! (184 MB)](https://drive.google.com/file/d/1o3fiz1dVRf7W2ZLxVCgjoInhs53IQAWb/view?usp=sharing)**
+**[Download the mappack here! (99 MB)](https://drive.google.com/drive/folders/19OKyG44amg9io9hMDis-gBFw1FaJx3Yf)**
 
 - NoMod
   1. [Coda - Fighting Gold (Saika0k1) \[Gold Experience\]](https://osu.ppy.sh/beatmapsets/1588182#osu/3243699)
@@ -259,19 +259,15 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[captin's Expert\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2716344)
   2. [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
-  3. [Yonekura Chihiro - Smiling-Swinging!! (Shikibe Mayu) \[Deppy's Insane\]](https://osu.ppy.sh/beatmapsets/1568530#osu/3274180)
 - HardRock
   1. [Inugami Korone - SAIKYO TENSAI WONDERFUL WORLD of KORONE (Yuuma) \[Yubi Yubi\]](https://osu.ppy.sh/beatmapsets/1431435#osu/2946557)
   2. [MYTK - Senkyou (Realazy) \[Cubby's Insane\]](https://osu.ppy.sh/beatmapsets/1262410#osu/2623949)
-  3. [HuMeR - ChaserXX (Realazy) \[Kkip's Another\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
 - DoubleTime
   1. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Insane\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3187933)
   2. [Aki - Darkish (Lortus) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/514965#osu/1097552)
-  3. [Amane - Melt in the sky (Gabi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
 - FreeMod
   1. [Camellia feat. Nanahira - Kizuitara Shunkashuutou (HeTo) \[Dubturt's Extra\]](https://osu.ppy.sh/beatmapsets/1120946#osu/2361902)
-  2. [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (AJT) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348)
-  3. [L.E.D. - THE LAST STRIKER (Amamiya Yuko) \[Another\]](https://osu.ppy.sh/beatmapsets/129065#osu/326367)    
+  2. [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (AJT) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348) 
 
 ### Swiss round (week 2)
 
