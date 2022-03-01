@@ -168,22 +168,22 @@ This competition has come to an end and resulted in the following podium:
 *(mappack not available)*
 
 - NoMod
-  1. [nonoc - Relive (0ugi) \[Extreme: Rem\]](https://osu.ppy.sh/beatmapsets/1226951#osu/2551412)
-  2. [Xi - Broken the Moon (-Tynamo) \[suika ibuki broke the moon\]](https://osu.ppy.sh/beatmapsets/1597800#osu/3263130)
-  3. [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/1579180#osu/3224533)
-  4. [Zekk - Freefall (0ppInOsu) \[0pp's bread is dead\]](https://osu.ppy.sh/beatmapsets/1581139#osu/3228592)
-  5. [Okui Masami - God Speed (ykcarrot) \[Insane (AJT's 240BPM Edit)\]](https://osu.ppy.sh/beatmapsets/1129735#osu/2359996)
-  6. [MAD CHILD - Voice 2 Voice (Kawashiro) \[Yugu's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1361203#osu/2987273)  
+  1. [Kurosaki Maon - Setsuna no Kajitsu (SkyFlame) \[Utopia\]](https://osu.ppy.sh/beatmapsets/1580629#osu/3227490)
+  2. [Xi - Densetsu no Sabori Gami \~ Make a quick escape (AdveNt) \[Phantasmagoria of Riverside View\]](https://osu.ppy.sh/beatmapsets/1580707#osu/3227634)
+  3. [Zekk - Freefall (0ppInOsu) \[0pp's bread is dead\]](https://osu.ppy.sh/beatmapsets/1581139#osu/3228592)
+  4. [The Fearless Flyers - Assassin (olc) \[let's go\]](https://osu.ppy.sh/beatmapsets/1580627#osu/3227488)
+  5. [UNDEAD CORPORATION - One Second (Zelq) \[Blink of an Eye\]](https://osu.ppy.sh/beatmapsets/1580859#osu/3227911)
+  6. [PSYQUI - Hysteric night girl -Awakening- (feat. Such) (Luminiscental) \[Liber\]](https://osu.ppy.sh/beatmapsets/1580891#osu/3227979)  
 - Hidden
-  1. [Araki x nqrse x Meychan - Odo (Chizu-Kun) \[Axaptice's Extra\]](https://osu.ppy.sh/beatmapsets/1545055#osu/3195697)
-  2. [siqlo - wholeheartedly (Feiri) \[Extra\]](https://osu.ppy.sh/beatmapsets/1439394#osu/3297831)
-  3. [Kenshi Yonezu - MAD HEAD LOVE (Keqing) \[NEWTON'S LOVE INSANE\]](https://osu.ppy.sh/beatmapsets/1429536#osu/3205010)
+  1. [Ayalis - Ai o Chikaishi Hime Kazari (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/506155#osu/1076701)
+  2. [ZAQ - Inside Identity (Reiji Maigo) \[awa\]](https://osu.ppy.sh/beatmapsets/1580696#osu/3227615)
+  3. [Azu - Kooryu (Lokidoki) \[Ice (Tournament Ver.)\]](https://osu.ppy.sh/beatmapsets/1580637#osu/3227513)
 - HardRock
-  1. [Hoshimachi Suisei - GHOST (Amateurre) \[Mayu's Extreme\]](https://osu.ppy.sh/beatmapsets/1432314#osu/2962189)
-  2. [Laur - Vindication (Cubby) \[Extra\]](https://osu.ppy.sh/beatmapsets/1580046#osu/3226352)
-  3. [Ian Taylor - Sea Shanty 2 (Kyshiro) \[Buying gf 10gp\]](https://osu.ppy.sh/beatmapsets/1484283#osu/3044046)
+  1. [Nakanomori Ayako - Get the glory (Kowari) \[Hope\]](https://osu.ppy.sh/beatmapsets/1581113#osu/3228542)
+  2. [ASTRO MELLOW - Espresso-C727 (Kloyd) \[Ballista\]](https://osu.ppy.sh/beatmapsets/1581005#osu/3228324)
+  3. [Belmont - Move Along (Asa) \[Burning Bridges\]](https://osu.ppy.sh/beatmapsets/1581117#osu/3228551)
 - DoubleTime
-  1. [Printemps - Eien Friends (Sakaue Nachi) \[Friends\]](https://osu.ppy.sh/beatmapsets/235836#osu/546514)
+  1. [Nino Nakano (CV: Ayana Taketatsu) - Suki yo \~Two Hearts\~ (SkyFlame) \[Affection\]](https://osu.ppy.sh/beatmapsets/1580622#osu/3227483)
   2. [zts - miragecoordinator (Tsumugi-chan) \[Collab Expert\]](https://osu.ppy.sh/beatmapsets/1085924#osu/2270798)
   3. [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#osu/76612)
   4. [Rigel Theatre - SPIKA (Lunala) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/993379#osu/2077290)
