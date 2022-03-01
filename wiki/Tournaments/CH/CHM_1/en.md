@@ -325,10 +325,10 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (93 MB)](https://drive.google.com/u/0/uc?id=1zygvCFswLV_FBNNVqp-fnEJmQ3o9XHUQ&export=download)**
+**[Download the mappack here!](https://www.mediafire.com/file/1upvwmzx1byr423/QUALIFIERS+MAPPACK.zip/file)**
 
 - NoMod
-  1. [xi - Blue Zenith (Aspyhxia) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/292301#osu/657916)
+  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Colorful (apoq) \[Vibrance\]](https://osu.ppy.sh/beatmapsets/1542813#osu/3153603)
   2. [ZUTOMAYO - STUDY ME (GIDZ) \[RLC x Nathan's Extra\]](https://osu.ppy.sh/beatmapsets/1353446#osu/2801804)
   3. [Zekk - Freefall (Livia) \[v=gt\]](https://osu.ppy.sh/beatmapsets/1559779#osu/3185984)
 - Hidden
