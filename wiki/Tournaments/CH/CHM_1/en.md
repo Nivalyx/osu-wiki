@@ -14,18 +14,17 @@ The **Coffee Hispanic: Mocha** (***CH:M***) was a double-elimination 1v1 osu! to
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-10-31/2021-11-14 |
-| Screening phase | 2021-11-15/2021-11-20 |
-| Qualifiers | 2021-11-21/2021-11-28 |
-| Preliminary groups | 2021-11-29/2021-12-05 |
-| Round of 64 | 2021-12-06/2021-12-12 |
-| Round of 32 | 2021-12-13/2020-12-19 |
-| Round of 16 | 2020-12-20/2021-12-26 |
-| *Holiday break* | 2021-12-27/2022-01-02 |
-| Quarterfinals | 2022-01-03/2022-01-09 |
-| Semifinals | 2022-01-10/2022-01-16 |
-| Finals (week 1) | 2022-01-17/2022-01-23 |
-| Finals (week 2) | 2022-01-24/2021-01-30 |
+| Registration phase | 2021-07-17/2021-07-31 |
+| Screening phase | 2021-08-01/2021-08-09 |
+| Qualifiers | 2021-08-10/2021-08-16 |
+| Swiss round (week 1) | 2021-08-17/2021-08-23 |
+| Swiss round (week 2) | 2021-08-24/2021-08-30 |
+| Swiss round (week 3) | 2021-08-31/2021-09-05 |
+| Round of 16 | 2021-09-06/2021-09-12 |
+| Quarterfinals | 2021-09-13/2021-09-19 |
+| Semifinals | 2021-09-20/2021-09-26 |
+| Finals (week 1) | 2021-09-27/2021-10-03 |
+| Finals (week 2) | 2021-10-04/2021-10-10 |
 
 ## Prizes
 
