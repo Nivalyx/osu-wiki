@@ -74,7 +74,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 2)
 
-**[Download the mappack here! (185 MB)](https://drive.google.com/u/0/uc?id=1sveB_3TPuXj7_oJNIFs-GkCmwOQIs_Pa&export=download)**
+*(mappack not available)*
 
 - NoMod
   1. [ELFENSJoN - ASH OF ROUGE (Xayah) \[pog\]](https://osu.ppy.sh/beatmapsets/1471010#osu/3019994)
@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 1)
 
-**[Download the mappack here! (172 MB)](https://drive.google.com/u/0/uc?id=182y2MbubZEM0g5WCiEWX1wOgdCvL5btH&export=download)**
+*(mappack not available)*
 
 - NoMod
   1. [RAISE A SUILEN - HELL! or HELL? (Strategas) \[RAS\]](https://osu.ppy.sh/beatmapsets/1251944#osu/2602090)
@@ -133,35 +133,6 @@ This competition has come to an end and resulted in the following podium:
   1. [96Neko feat. Kogeinu - Akatsuki Arrival (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/1529859#osu/3129297)
   2. [SEPHID - The Public Parallel (Camo) \[Master\]](https://osu.ppy.sh/beatmapsets/1627418#osu/3322445)
   3. [Hakui Koyori - "Hmm,Ah,Ah." (Deppyforce) \[x.x\]](https://osu.ppy.sh/beatmapsets/1662519#osu/3393912)
-
-### Semifinals
-
-**[Download the mappack here! (201 MB)](https://drive.google.com/u/0/uc?id=1nnjbj9lfIZMOmK_KePSBn60SCwd_1f4g&export=download)**
-
-- NoMod
-  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Strike The Blood (Maot) \[Ipputasai\]](https://osu.ppy.sh/beatmapsets/1587864#osu/3243028)
-  2. [Musical Masterpiece - M-A(FOOLISH) (idke) \[GYZE - HONESTY\]](https://osu.ppy.sh/beatmapsets/1306566#osu/2708949)
-  3. [HIDEKI NAGANUMA - AIN'T NOTHIN' LIKE A FUNKY BEAT (yaspo) \[AIN'T NOTHIN' LIKE A FUNKY BEAT\]](https://osu.ppy.sh/beatmapsets/1627451#osu/3322521)
-  4. [Elliot Hsu - Reality Purge (Realazy) \[Aether\]](https://osu.ppy.sh/beatmapsets/1508500#osu/3089374)
-  5. [DJ Myosuke & Gram - JINGLE DEATH (Regou) \[Otosaka's Requiem... Extra\]](https://osu.ppy.sh/beatmapsets/1616023#osu/3328315)
-  6. [Ookami Mio - Sparkle (Deppyforce) \[Very Hard\]](https://osu.ppy.sh/beatmapsets/1202031#osu/2503405)  
-- Hidden
-  1. [Sangatsu no Phantasia - Seishun nante Iranaiwa (Smug Nanachi) \[Adolescence\]](https://osu.ppy.sh/beatmapsets/1146237#osu/2393405)
-  2. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[newton's Expert: Mako\]](https://osu.ppy.sh/beatmapsets/1404864#osu/3247654)
-  3. [Masahiro "Godspeed" Aoki - Frostbite (Cut Ver.) (Niva) \[kuyusu's Expert\]](https://osu.ppy.sh/beatmapsets/1501511#osu/3081403)
-- HardRock
-  1. [MisomyL - Ring ! Run ! Nyan!! (Fisky) \[Genetically ! Engineered ! Catgirls!!\]](https://osu.ppy.sh/beatmapsets/1536674#osu/3141960)
-  2. [USAO - Knight Rider (RLC) \[Extra\]](https://osu.ppy.sh/beatmapsets/1156969#osu/2414318)
-  3. [luz - Doku Ringo to Cinderella (Ametrin) \[Fairy Tale?\]](https://osu.ppy.sh/beatmapsets/664784#osu/1406919)
-- DoubleTime
-  1. [Eriri Spencer Sawamura, Utaha Kasumigaoka, Megumi Kato - LOVE iLLUSiON (jordanlr7) \[Insane\]](https://osu.ppy.sh/beatmapsets/1648765#osu/3365328)
-  2. [ARM (IOSYS) - Last Occultism \~ Utsushiyo no Hijutsu-shi (eiri-) \[Zekk's Insane\]](https://osu.ppy.sh/beatmapsets/1616038#osu/3359825)
-  3. [REDALiCE - Great Nano Desu\* (YokesPai) \[Insane\]](https://osu.ppy.sh/beatmapsets/1587332#osu/3241887)
-  4. [Zu Hai - Hao Yun Lai (kanor) \[My turn, draw!!!!!!\]](https://osu.ppy.sh/beatmapsets/1090501#osu/2279607)
-- FreeMod
-  1. [Sharpnel High Speed Music Team - Exciting Hyper Highspeed Star (fanzhen0019) \[Hyper Highspeed\]](https://osu.ppy.sh/beatmapsets/1070942#osu/2241715)
-  2. [Katakiri Rekka - Answer (ShirohaMyMommy) \[AxariousMyMommy Collab\]](https://osu.ppy.sh/beatmapsets/1062653#osu/2225299)
-  3. [mafumafu - I wanna be a girl (Night Mare) \[Can I Become One, Please?\]](https://osu.ppy.sh/beatmapsets/1069248#osu/2238336)
 
 ### Semifinals
 
