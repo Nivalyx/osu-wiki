@@ -278,23 +278,23 @@ This competition has come to an end and resulted in the following podium:
 *(mappack not available)*
 
 - NoMod
-  1. [Chitose Sara - Merry Merry Go Round (Kyutei) \[Useless Demons\]](https://osu.ppy.sh/beatmapsets/1550694#osu/3168787)
-  2. [Ryu\* - Sakura Mirage (Xayah) \[Poggers\]](https://osu.ppy.sh/beatmapsets/1550637#osu/3168661)
-  3. [Zekk - NIRVANA (MarcoBrolo) \[generic tech map\]](https://osu.ppy.sh/beatmapsets/1550508#osu/3168395)
-  4. [ZUTOMAYO - Byoshin o kamu (Atsuro) \[Andatti\]](https://osu.ppy.sh/beatmapsets/1550494#osu/3168373)
-  5. [Laur - Nostalgic Blood of the Strife (Zelq) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)
+  1. [CHiCO with HoneyWorks - Wolf (Deca) \[NO MOD ONE\]](https://osu.ppy.sh/beatmapsets/1556597#osu/3179911)
+  2. [Xi - Native file (AdveNt) \[Tribulation from the Native Gods\]](https://osu.ppy.sh/beatmapsets/1556672#osu/3180049)
+  3. [3R2 - Corruption (Sharu) \[tourney vers\]](https://osu.ppy.sh/beatmapsets/1556852#osu/3180421)
+  4. [forest - 60th Summer of Love (Faito) \[eXtreme\]](https://osu.ppy.sh/beatmapsets/1556633#osu/3179973)
+  5. [The ghost Of 3.13 - Daydream (orinel) \[ghost\]](https://osu.ppy.sh/beatmapsets/635056#osu/1347584)
 - Hidden
-  1. [HiTECH NINJA - Memecore (Megafan) \[haha funny\]](https://osu.ppy.sh/beatmapsets/1550473#osu/3168337)
-  2. [xaki - proud-dust (dada) \[Vintage Another\]](https://osu.ppy.sh/beatmapsets/973222#osu/2047312)
+  1. [The Story So Far - Things I Can't Change (Asa) \[Swiss 2 Tourney Diff\]](https://osu.ppy.sh/beatmapsets/1557011#osu/3180768)
+  2. [Applesoda vs MAX - Desaparecer (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1291255#osu/2680257)
 - HardRock
-  1. [Getty vs. DJ DiA - Engage-Rex- (Realazy) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/1336197#osu/2768157)
-  2. [SWAN K feat. Asuka M - LOVE B.B.B (BOUYAAA) \[Tournament diff\]](https://osu.ppy.sh/beatmapsets/1550539#osu/3168453)
+  1. [Kanzaki Elza starring ReoNa - Independence (Maot) \[Masquerade\]](https://osu.ppy.sh/beatmapsets/1557099#osu/3180972)
+  2. [ginkiha - Paved Garden (Atsuro) \[pick me\]](https://osu.ppy.sh/beatmapsets/1556591#osu/3179891)
 - DoubleTime
-  1. [Ceui - First Love Syndrome (Bellicose) \[papple's Insane\]](https://osu.ppy.sh/beatmapsets/1119845#osu/2386416)
-  2. [Dimrain47 - Cloud Control (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/1550498#osu/3168379)
+  1. [ONE OK ROCK - Re:make (anfeargorm) \[Re:named\]](https://osu.ppy.sh/beatmapsets/1556592#osu/3179892)
+  2. [-45 - Midorigo Queen Bee (PandaHero) \[Mirash's Insane\]](https://osu.ppy.sh/beatmapsets/812792#osu/1716393)
 - FreeMod
-  1. [HyuN - Tokyo's Starlight (Bakugo-) \[Starry Night\]](https://osu.ppy.sh/beatmapsets/1550266#osu/3167903)
-  2. [katagiri - Reso\*nyan\*ce Fever (Snow Note) \[RLC's Another\]](https://osu.ppy.sh/beatmapsets/779061#osu/2952502)
+  1. [Meiko Nakamura - Dispel (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/1556725#osu/3180180)
+  2. [Inoue Bona - Usouso Doki (rollpan) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/1557007#osu/3180732)
 
 ### Swiss round (week 1)
 
@@ -308,7 +308,7 @@ This competition has come to an end and resulted in the following podium:
   5. [Laur - Nostalgic Blood of the Strife (Zelq) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1257525#osu/2613076)
 - Hidden
   1. [HiTECH NINJA - Memecore (Megafan) \[haha funny\]](https://osu.ppy.sh/beatmapsets/1550473#osu/3168337)
-  2. [xaki - proud-dust (dada) \[Vintage Another\]](https://osu.ppy.sh/beatmapsets/973222#osu/2047312)
+  2. [xaki - proud-dust (Dada) \[Vintage Another\]](https://osu.ppy.sh/beatmapsets/973222#osu/2047312)
 - HardRock
   1. [Getty vs. DJ DiA - Engage-Rex- (Realazy) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/1336197#osu/2768157)
   2. [SWAN K feat. Asuka M - LOVE B.B.B (BOUYAAA) \[Tournament diff\]](https://osu.ppy.sh/beatmapsets/1550539#osu/3168453)
