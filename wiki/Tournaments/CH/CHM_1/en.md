@@ -62,7 +62,7 @@ Coffee Hispanic: Mocha was run by various osu! community members, in which many 
 
 ## Participants
 
-Listed below are the players who managed to qualified into the Swiss round (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) in each division.
+Listed below are the players who managed to qualify into the Swiss round (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) in each division.
 
 - *Latinoamerica Norte division:*
 
