@@ -257,7 +257,7 @@ This competition has come to an end and resulted in the following podium:
   4. [Tsukiyomi - Necropolis (Crissa) \[Extra\]](https://osu.ppy.sh/beatmapsets/1563074#osu/3191887)
   5. [Versus - memoria ficta (rollpan) \[imaginary\]](https://osu.ppy.sh/beatmapsets/1563119#osu/3192013)
 - Hidden
-  1. [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[captin's Expert\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2716344)
+  1. [Rex - Heart Of Witch (EijiKuinbii) \[MX\]](https://osu.ppy.sh/beatmapsets/694203#osu/1468751)
   2. [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
 - HardRock
   1. [Inugami Korone - SAIKYO TENSAI WONDERFUL WORLD of KORONE (Yuuma) \[Yubi Yubi\]](https://osu.ppy.sh/beatmapsets/1431435#osu/2946557)
