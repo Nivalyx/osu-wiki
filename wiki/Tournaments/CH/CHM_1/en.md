@@ -63,48 +63,6 @@ Coffee Hispanic: Mocha was run by various osu! community members, in which many 
 - [Livestream channel](https://www.twitch.tv/coffeehispanic)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/39) (organized by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)) 
 
-## Participants
-
-Listed below are the players who managed to qualify into the Preliminary groups (along with their respective bracket, seeding, and group placements) out of 176 registered players in total.
-
-- *Upper bracket:*
-
-| Group | Seed A | Seed B | Seed C | Seed D |
-| :-: | :-- | :-- | :-- | :-- |
-| A | ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620) | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | ![][flag_MY] [DuoX](https://osu.ppy.sh/users/9560694) | ![][flag_VN] [realshin](https://osu.ppy.sh/users/8006029) |
-| B | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | ![][flag_TH] [ChaiPhukChep](https://osu.ppy.sh/users/9723127) | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | ![][flag_SG] [Picon](https://osu.ppy.sh/users/8447637) |
-| C | ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609) | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | ![][flag_TH] [Salvotore](https://osu.ppy.sh/users/3394696) |
-| D | ![][flag_PH] [Rammu](https://osu.ppy.sh/users/10652837) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_TH] [\[AmPhyze\]](https://osu.ppy.sh/users/9552188) | ![][flag_TH] [-Kedama](https://osu.ppy.sh/users/12147277) |
-| E | ![][flag_SG] [Eagle5324](https://osu.ppy.sh/users/11987104) | ![][flag_ID] [Thatnoobguy](https://osu.ppy.sh/users/11091594) | ![][flag_PH] [BronyPH](https://osu.ppy.sh/users/1492995) | ![][flag_VN] [walle](https://osu.ppy.sh/users/8431549) |
-| F | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | ![][flag_SG] [dlwlrma-](https://osu.ppy.sh/users/7908994) |
-| G | ![][flag_SG] [megumic](https://osu.ppy.sh/users/7537133) | ![][flag_PH] [BronyPH 2](https://osu.ppy.sh/users/7246165) | ![][flag_VN] [SkyArrow](https://osu.ppy.sh/users/4039647) | ![][flag_MY] [Inugami Korone](https://osu.ppy.sh/users/4474918) |
-| H | ![][flag_PH] [NathanRammu2044](https://osu.ppy.sh/users/8472976) | ![][flag_SG] [Dawnwing](https://osu.ppy.sh/users/5144534) | ![][flag_MY] [Tzero](https://osu.ppy.sh/users/6088976) | ![][flag_TH] [- Seen -](https://osu.ppy.sh/users/5082392) |
-
-- *Lower bracket:*
-
-| Group | Seed A | Seed B | Seed C | Seed D |
-| :-: | :-- | :-- | :-- | :-- |
-| A | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_PH] [ToshiroKen](https://osu.ppy.sh/users/9550257) | ![][flag_PH] [RuiTachi-](https://osu.ppy.sh/users/11807272) |
-| B | ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107) | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | ![][flag_TH] [Faken](https://osu.ppy.sh/users/10249166) | ![][flag_BN] [Ui S](https://osu.ppy.sh/users/11807272) |
-| C | ![][flag_SG] [wick](https://osu.ppy.sh/users/8004317) | ![][flag_TH] [chantat on osu](https://osu.ppy.sh/users/12290117) | ![][flag_PH] [\[-Kurumi-\]](https://osu.ppy.sh/users/5414484) | ![][flag_PH] [JayAreEee](https://osu.ppy.sh/users/10852557) |
-| D | ![][flag_PH] [-Graigory-](https://osu.ppy.sh/users/14024170) | ![][flag_MY] [Hanami-](https://osu.ppy.sh/users/8703188) | ![][flag_ID] [Cudi](https://osu.ppy.sh/users/9974314) | ![][flag_SG] [Moroha29](https://osu.ppy.sh/users/9182389) |
-| E | ![][flag_PH] [xidorn](https://osu.ppy.sh/users/7904667) | ![][flag_MY] [not\_aweeb](https://osu.ppy.sh/users/9375317) | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | ![][flag_MY] [GKen](https://osu.ppy.sh/users/12633052) |
-| F | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | ![][flag_SG] [RePeaTT](https://osu.ppy.sh/users/11132323) | ![][flag_SG] [marcellasne\_](https://osu.ppy.sh/users/6622650) | ![][flag_PH] [Swish0s](https://osu.ppy.sh/users/10971042) |
-| G | ![][flag_MY] [Mumei Nanashi](https://osu.ppy.sh/users/5414124) | ![][flag_MY] [Ltwoed](https://osu.ppy.sh/users/13670830) | ![][flag_ID] [Suikami](https://osu.ppy.sh/users/1929336) | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) |
-| H | ![][flag_ID] [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ![][flag_SG] [Milk Tee](https://osu.ppy.sh/users/6708955) | ![][flag_MY] [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) | ![][flag_SG] [sinn](https://osu.ppy.sh/users/4262229) |
-| I | ![][flag_US] (![][flag_PH]) [\_Kolin](https://osu.ppy.sh/users/7249644)¹ | ![][flag_MY] [Agagak](https://osu.ppy.sh/users/3645490) | ![][flag_SG] [Inquisitives](https://osu.ppy.sh/users/10722794) | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) |
-| J | ![][flag_VN] [\[sin\]](https://osu.ppy.sh/users/11021073) | ![][flag_PH] [aurora on osu](https://osu.ppy.sh/users/12352050) | ![][flag_MY] [Floth](https://osu.ppy.sh/users/11134301) | ![][flag_MY] [LITFAM123](https://osu.ppy.sh/users/13584478) |
-| K | ![][flag_ID] [Tazkiz](https://osu.ppy.sh/users/3738010) | ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462) | ![][flag_MY] [Chizu-Kun](https://osu.ppy.sh/users/10288461) | ![][flag_SG] [JokThree](https://osu.ppy.sh/users/7713152) |
-| L | ![][flag_PH] [2 and eight](https://osu.ppy.sh/users/8923608) | ![][flag_ID] [DeathAdderz](https://osu.ppy.sh/users/7457788) | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_MY] [\_Rel\_](https://osu.ppy.sh/users/11622287) |
-| M | ![][flag_TH] [Yorocchi](https://osu.ppy.sh/users/5286218) | ![][flag_SG] [Grantorio](https://osu.ppy.sh/users/5623529) | ![][flag_VN] [Phoeni\_](https://osu.ppy.sh/users/14953642) | ![][flag_PH] [Kagitingan](https://osu.ppy.sh/users/7407323) |
-| N | ![][flag_PH] [NathanSS](https://osu.ppy.sh/users/8500628) | ![][flag_ID] [DeZpair](https://osu.ppy.sh/users/7518843) | ![][flag_PH] [ChaeY\_Milk](https://osu.ppy.sh/users/10383440) | ![][flag_JP] (![][flag_PH]) [ZHKPN](https://osu.ppy.sh/users/13042221)² |
-| O | ![][flag_ID] [-TwiHD](https://osu.ppy.sh/users/5470299) | ![][flag_MY] [Houshou Marine](https://osu.ppy.sh/users/6402211) | ![][flag_SG] [D3rpyB01](https://osu.ppy.sh/users/11772019) | ![][flag_SG] [Shleepy](https://osu.ppy.sh/users/8486823) |
-| P | ![][flag_PH] [konawiki](https://osu.ppy.sh/users/4003979) | ![][flag_PH] [Senjuro](https://osu.ppy.sh/users/3003839) | ![][flag_SG] [kirkirs](https://osu.ppy.sh/users/9902622) | ![][flag_SG] [hollowknees](https://osu.ppy.sh/users/15195364) |
-
-¹ *Despite having the ![][flag_US] American flag on their profile, [\_Kolin](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as they are in possession of a valid ![][flag_PH] [Philippine passport](https://en.wikipedia.org/wiki/Philippine_passport).*
-
-² *Despite having the ![][flag_JP] Japanese flag on their profile, [ZHKPN](https://osu.ppy.sh/users/13042221) is eligible to participate in the tournament as they are a citizen of ![][flag_PH] The Philippines living abroad.*
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
