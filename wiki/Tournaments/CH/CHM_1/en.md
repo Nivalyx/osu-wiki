@@ -108,7 +108,7 @@ This competition has come to an end and resulted in the following podium:
 *(mappack not available)*
 
 - NoMod
-  1. [RAISE A SUILEN - HELL! or HELL? (Strategas) \[RAS\]](https://osu.ppy.sh/beatmapsets/1251944#osu/2602090)
+  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Strike The Blood (Maot) \[Ipputasai\]](https://osu.ppy.sh/beatmapsets/1587864#osu/3243028)
   2. [Hino Isuka - Dreamin' attraction!! (My Angel Watame) \[Hellish Attraction!! (Nerf)\]](https://osu.ppy.sh/beatmapsets/1181405#osu/3420222)
   3. [siromaru + cranky - conflict (yf\_bmp) \[Intersection\]](https://osu.ppy.sh/beatmapsets/1212359#osu/3107406)
   4. [Billain - Codename (winber1) \[\_.\]](https://osu.ppy.sh/beatmapsets/1495814#osu/3066436)
