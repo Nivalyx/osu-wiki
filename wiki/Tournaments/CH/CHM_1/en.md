@@ -258,16 +258,16 @@ This competition has come to an end and resulted in the following podium:
   5. [Versus - memoria ficta (rollpan) \[imaginary\]](https://osu.ppy.sh/beatmapsets/1563119#osu/3192013)
 - Hidden
   1. [Rex - Heart Of Witch (EijiKuinbii) \[MX\]](https://osu.ppy.sh/beatmapsets/694203#osu/1468751)
-  2. [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
+  2. [Yorushika - Replicant (Faito) \[Extra\]](https://osu.ppy.sh/beatmapsets/1564609#osu/3195088)
 - HardRock
-  1. [Inugami Korone - SAIKYO TENSAI WONDERFUL WORLD of KORONE (Yuuma) \[Yubi Yubi\]](https://osu.ppy.sh/beatmapsets/1431435#osu/2946557)
-  2. [MYTK - Senkyou (Realazy) \[Cubby's Insane\]](https://osu.ppy.sh/beatmapsets/1262410#osu/2623949)
+  1. [Kobaryo - Sulyvahn [feat. USAO] (Testo) \[1112's Extra\]](https://osu.ppy.sh/beatmapsets/787583#osu/1694860)
+  2. [\*namirin - Kanzen Shouri\*Esper Girl (Kurashina Asuka) \[AYAYA\]](https://osu.ppy.sh/beatmapsets/1563131#osu/3192039)
 - DoubleTime
-  1. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Insane\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3187933)
-  2. [Aki - Darkish (Lortus) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/514965#osu/1097552)
+  1. [Duca - Kanransha \~Ano Hi to, Kinou to Kyou to Ashita to\~ (Bellicose) \[Kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1184844#osu/2486395)
+  2. [Memme - Extreme Fantasy (Chokori) \[SHD - Lv. 29\]](https://osu.ppy.sh/beatmapsets/915904#osu/1912895)
 - FreeMod
-  1. [Camellia feat. Nanahira - Kizuitara Shunkashuutou (HeTo) \[Dubturt's Extra\]](https://osu.ppy.sh/beatmapsets/1120946#osu/2361902)
-  2. [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (AJT) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1544696#osu/3157348) 
+  1. [FOLiACETATE - Heterochromia Iridis (ktgster) \[Terror\]](https://osu.ppy.sh/beatmapsets/106443#osu/279481)
+  2. [Cranky - The Five \[Short Edit\] (AJT) \[Five\]](https://osu.ppy.sh/beatmapsets/1194122#osu/2487840) 
 
 ### Swiss round (week 2)
 
