@@ -55,11 +55,13 @@ Coffee Hispanic: Mocha was run by various osu! community members, in which many 
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1wwwyS47vH-N7S-IMAgl9FulTP8lepaKNAOGxLgJ0bBs/edit#gid=0)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1452561)
-- [Discord server](https://discord.gg/sVHndPU)
-- [Challonge brackets](https://challonge.com/osuseat5)
-- [Livestream channel](https://www.twitch.tv/osusea)
+- **[Official Coffee Hispanic website](https://www.coffeehispanic.com/)**
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1Ijhcgg3Ix78r2hPaR1hzckzMqEdJdeJdUAShyLHfFx4/edit#gid=1795322876)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1373908)
+- [Discord server](https://discord.com/invite/baVKCzU)
+- [Challonge brackets](https://challonge.com/CofeeHispanicMocha)
+- [Livestream channel](https://www.twitch.tv/coffeehispanic)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/39) (organized by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)) 
 
 ## Participants
 
