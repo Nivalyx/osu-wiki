@@ -184,13 +184,15 @@ This competition has come to an end and resulted in the following podium:
   3. [Belmont - Move Along (Asa) \[Burning Bridges\]](https://osu.ppy.sh/beatmapsets/1581117#osu/3228551)
 - DoubleTime
   1. [Nino Nakano (CV: Ayana Taketatsu) - Suki yo \~Two Hearts\~ (SkyFlame) \[Affection\]](https://osu.ppy.sh/beatmapsets/1580622#osu/3227483)
-  2. [zts - miragecoordinator (Tsumugi-chan) \[Collab Expert\]](https://osu.ppy.sh/beatmapsets/1085924#osu/2270798)
-  3. [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#osu/76612)
-  4. [Rigel Theatre - SPIKA (Lunala) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/993379#osu/2077290)
+  2. [senya - Kimiiro Subliminal (Aeril) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1580987#osu/3228276)
+  3. [HyuN feat. Yu-A - My life is for you (NeilPerry) \[Mirash's Insane\]](https://osu.ppy.sh/beatmapsets/891417#osu/1863414)
+  4. [Razihel & Virtual Riot - One For All, All For One (Fort) \[byfaR's Insane\]](https://osu.ppy.sh/beatmapsets/275655#osu/696303)
 - FreeMod
-  1. [KAMELOT - Vespertine (My Crimson Bride) (LMT) \[ar9.3\]](https://osu.ppy.sh/beatmapsets/1000057#osu/3401158)
-  2. [A.SAKA - Nanatsu Koyoto (My Angel Watame) \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1618445)
-  3. [senya - Kimiiro Subliminal (AtHeoN) \[Satellite\]](https://osu.ppy.sh/beatmapsets/418398#osu/1031948)
+  1. [Joek - Jocular -Bosslydia (Megafan) \[Cheap tunes\]](https://osu.ppy.sh/beatmapsets/1580618#osu/3227479)
+  2. [Sound Horizon - Raijin no Hidariude (Satellite) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/1382134#osu/2895387)
+  3. [Asobi Station - Turbo Macchiato (dectopia) \[NO ONE CAN STOP ME\]](https://osu.ppy.sh/beatmapsets/1580680#osu/3227595)
+- Tiebreaker
+  1. **[Team Grimoire & Aoi Sumito - Cathedrarhythm (Icekalt) \[bopper\]](https://osu.ppy.sh/beatmapsets/1581084#osu/3228488)**  
 
 ### Quarterfinals
 
