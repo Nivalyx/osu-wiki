@@ -317,7 +317,6 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   1. [Rita, Asari, Tezuka Ryouko - Hajimari no Toki (Djulus) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1615974#osu/3299298)
   2. [Machita Chima - phony (Yugu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1560617#osu/3274541)
-  3. [K/DA - MORE feat. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine (Elinor) \[Halgoh & Eli's Insane\]](https://osu.ppy.sh/beatmapsets/1075757#osu/2261226)
 - FreeMod
   1. [Myrath - Endure The Silence (LMT) \[BOUYAAA's Extra\]](https://osu.ppy.sh/beatmapsets/555454#osu/1303812)
   2. [BEMANI Sound Team "Nekomata Master" - The last of world music (Heilia) \[Scub's Extra\]](https://osu.ppy.sh/beatmapsets/1060239#osu/3190378)
