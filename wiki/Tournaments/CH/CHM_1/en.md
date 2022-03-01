@@ -303,7 +303,7 @@ This competition has come to an end and resulted in the following podium:
 *(mappack not available)*
 
 - NoMod
-  1. [GARNiDELiA - Yakusoku -Promise code- (Yasaija 714) \[kotachi's Extra\]](https://osu.ppy.sh/beatmapsets/727714#osu/1536489)
+  1. [Chitose Sara - Merry Merry Go Round (Kyutei) \[Useless Demons\]](https://osu.ppy.sh/beatmapsets/1550694#osu/3168787)
   2. [AVTechNO! - boku-boku SuketchP Remix (-Tynamo) \[Emotional Limit\]](https://osu.ppy.sh/beatmapsets/1281400#osu/2661624)
   3. [KyoKa - Kirameki\*Chocolaterie (-Atri-) \[A la Carte\]](https://osu.ppy.sh/beatmapsets/1113378#osu/2326006)
   4. [Kero Kero Bonito - The Princess and the Clock (pocket-) \[her Sojourn\]](https://osu.ppy.sh/beatmapsets/1492284#osu/3058966)
