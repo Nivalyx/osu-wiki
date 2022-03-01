@@ -298,9 +298,9 @@ This competition has come to an end and resulted in the following podium:
   2. [P.D.P. - A Word To The Wise (TheKingHenry) \[Extra\]](https://osu.ppy.sh/beatmapsets/890157#osu/1860763)
   3. [My Chemical Romance - Welcome To The Black Parade (Moph) \[DELIS' EXTRA\]](https://osu.ppy.sh/beatmapsets/1286287#osu/2801378)
 
-### Preliminary groups (lower bracket)
+### Swiss round (week 1)
 
-**[Download the mappack here! (147 MB)](https://drive.google.com/u/0/uc?id=1Q02nKi-F7M3IxCLG0ME2GyFf4dLxFmam&export=download)**
+*(mappack not available)*
 
 - NoMod
   1. [GARNiDELiA - Yakusoku -Promise code- (Yasaija 714) \[kotachi's Extra\]](https://osu.ppy.sh/beatmapsets/727714#osu/1536489)
@@ -321,7 +321,6 @@ This competition has come to an end and resulted in the following podium:
 - FreeMod
   1. [Myrath - Endure The Silence (LMT) \[BOUYAAA's Extra\]](https://osu.ppy.sh/beatmapsets/555454#osu/1303812)
   2. [BEMANI Sound Team "Nekomata Master" - The last of world music (Heilia) \[Scub's Extra\]](https://osu.ppy.sh/beatmapsets/1060239#osu/3190378)
-  3. [BEMANI Sound Team "Sota Fujimori 2nd Season" - POSSESSION (20th Anniversary Mix) (PayneTrain) \[Expert\]](https://osu.ppy.sh/beatmapsets/1551322#osu/3170084)
 
 ### Qualifiers
 
@@ -333,14 +332,14 @@ This competition has come to an end and resulted in the following podium:
   3. [Catsprite - DiGiLOG feat. L4hee \[ From "LIBEREX" \] (\[\[Pause\]\]) \[NM3\]](https://osu.ppy.sh/beatmapsets/1542750#osu/3153499)
   4. [Chata - Kurokami Midareshi Shura to Narite (Cappu) \[Watashi no Inori Shura ga Kikoenai...\]](https://osu.ppy.sh/beatmapsets/1542925#osu/3153799)
 - Hidden
-  1. [Katakiri Rekka - Answer (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/39953#osu/127047)
-  2. [Sano Denji - Taiko Time (Flask) \[OTST Time\]](https://osu.ppy.sh/beatmapsets/1536761#osu/3142119)
+  1. [Mikarucosmo(Seramikaru x cosMo@BousouP) - GEMINI LA2ER (Chemo) \[Twin Blaster\]](https://osu.ppy.sh/beatmapsets/1542954#osu/3153854)
+  2. [SOUND HOLIC - Optical Cellophane (rollpan) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/1542974#osu/3153891)
 - HardRock
-  1. [Hoshimachi Suisei & Amane Kanata - Tsukiakari (Amateurre) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/1296278#osu/2716344)
-  2. [96neko - Buriki no Dance (CallieCube) \[kario's Another\]](https://osu.ppy.sh/beatmapsets/1332410#osu/2760616)
+  1. [Ray - km/h (Flowziee) \[Reminisce\]](https://osu.ppy.sh/beatmapsets/1542923#osu/3153797)
+  2. [Sota Fujimori - Mother Ship (Flower) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/66929#osu/194854)
 - DoubleTime
-  1. [Yousei Teikoku - Paradiso=Inferno (IsomirDiAngelo) \[Insane\]](https://osu.ppy.sh/beatmapsets/1296273#osu/2750914)
-  2. [Sakuzyo - FAFNIR (Sulfur) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/777255#osu/1637690)
+  1. [HAG - Koe (Andrea) \[Blossom\]](https://osu.ppy.sh/beatmapsets/1542760#osu/3153514)
+  2. [HHHxMMxST - Follow Tomorrow (for future mix) (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/1542758#osu/3153512)
 
 ## Match results
 
