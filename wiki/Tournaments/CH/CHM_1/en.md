@@ -163,9 +163,9 @@ This competition has come to an end and resulted in the following podium:
   2. [Katakiri Rekka - Answer (ShirohaMyMommy) \[AxariousMyMommy Collab\]](https://osu.ppy.sh/beatmapsets/1062653#osu/2225299)
   3. [mafumafu - I wanna be a girl (Night Mare) \[Can I Become One, Please?\]](https://osu.ppy.sh/beatmapsets/1069248#osu/2238336)
 
-### Quarterfinals
+### Semifinals
 
-**[Download the mappack here! (190 MB)](https://drive.google.com/u/0/uc?id=1myZcitGg68YqK2MoHLb2xv7USoObZ5Mv&export=download)**
+*(mappack not available)*
 
 - NoMod
   1. [nonoc - Relive (0ugi) \[Extreme: Rem\]](https://osu.ppy.sh/beatmapsets/1226951#osu/2551412)
