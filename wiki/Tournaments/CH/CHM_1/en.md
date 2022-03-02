@@ -398,6 +398,11 @@ Friday, 3 September 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | España | [JoanaBob](https://osu.ppy.sh/users/10966302) ![][flag_ES] | 3 | **5** | ![][flag_ES] **[AngelXC](https://osu.ppy.sh/users/7334711)** | [#1](https://osu.ppy.sh/community/matches/90318843) |
 
+Saturday, 4 September 2021:
+
+| Division | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+
 ### Swiss round (week 2)
 
 Friday, 27 August 2021:
