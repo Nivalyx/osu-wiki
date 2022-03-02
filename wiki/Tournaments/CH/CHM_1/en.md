@@ -426,7 +426,7 @@ Monday, 29 August 2021:
 | Latinoamerica Norte | [xHei\_57](https://osu.ppy.sh/users/1770700) ![][flag_MX] | 0 | **5** | ![][flag_CO] **[ElMick13](https://osu.ppy.sh/users/3562488)** | [#1](https://osu.ppy.sh/community/matches/90029874) |
 | Latinoamerica Sur | [daanit](https://osu.ppy.sh/users/6159669) ![][flag_UY] | 4 | 4 | ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050) | [#1](https://osu.ppy.sh/community/matches/90031401) |
 | Latinoamerica Sur | [Kazuki K](https://osu.ppy.sh/users/6407282) ![][flag_UY] | 1 | **5** | ![][flag_AR] **[Emiru Ikuno 2](https://osu.ppy.sh/users/9393446)** | [#1](https://osu.ppy.sh/community/matches/90033991) |
-| Latinoamerica Norte | **[AR9](https://osu.ppy.sh/users/5136821)** ![][flag_VN] | **5** | 0 | ![][flag_MX] [Trint](https://osu.ppy.sh/users/10670748) | [#1](https://osu.ppy.sh/community/matches/90035749) |
+| Latinoamerica Norte | **[AR9](https://osu.ppy.sh/users/5136821)** ![][flag_VE] | **5** | 0 | ![][flag_MX] [Trint](https://osu.ppy.sh/users/10670748) | [#1](https://osu.ppy.sh/community/matches/90035749) |
 | Latinoamerica Sur | [Pancho](https://osu.ppy.sh/users/2347281) ![][flag_CL] | 0 | **5** | ![][flag_CL] **[xaxreid](https://osu.ppy.sh/users/4227431)** | *win by default* |
 | Latinoamerica Sur | **[ChUbi](https://osu.ppy.sh/users/9589295)** ![][flag_CL] | **5** | 0 | ![][flag_MX] [Kuromiau](https://osu.ppy.sh/users/2347281) | *win by default* |
 
