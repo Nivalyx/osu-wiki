@@ -460,6 +460,7 @@ Sunday, 30 August 2021:
 | Latinoamerica Sur | **[xaxreid](https://osu.ppy.sh/users/4227431)** ![][flag_CL] | **5** | 2 | ![][flag_AR] [Pein](https://osu.ppy.sh/users/2212941) | [#1](https://osu.ppy.sh/community/matches/90087522) |
 | Latinoamerica Norte | [Skill](https://osu.ppy.sh/users/7802027) ![][flag_DO] | 4 | 4 | ![][flag_MX] [SaintSFT](https://osu.ppy.sh/users/14970132) | [#1](https://osu.ppy.sh/community/matches/90091587) |
 | Latinoamerica Sur | [mocaccino](https://osu.ppy.sh/users/5252968) ![][flag_CL] | 2 | **5** | ![][flag_CL] **[NO37](https://osu.ppy.sh/users/4653583)** | [#1](https://osu.ppy.sh/community/matches/90088944) |
+| Latinoamerica Norte | [Trint](https://osu.ppy.sh/users/10670748) ![][flag_MX] | 2 | **5** | ![][flag_MX] **[KevstracK](https://osu.ppy.sh/users/5325213)** | [#1](https://osu.ppy.sh/community/matches/90096028) |
 | Latinoamerica Sur | [BTG4](https://osu.ppy.sh/users/10659233) ![][flag_AR] | 3 | **5** | ![][flag_UY] **[Rebo](https://osu.ppy.sh/users/4653583)** | [#1](https://osu.ppy.sh/community/matches/90093556) |
 | Latinoamerica Norte | [Judani](https://osu.ppy.sh/users/6787898) ![][flag_PE] | 0 | **5** | ![][flag_CL] **[ElMick11](https://osu.ppy.sh/users/10510143)** | *win by default* |
 | Latinoamerica Norte | [WillLITE](https://osu.ppy.sh/users/6677788) ![][flag_DO] | 0 | **5** | ![][flag_MX] **[Andros](https://osu.ppy.sh/users/9072586)** | *win by default* |
