@@ -419,6 +419,7 @@ Monday, 29 August 2021:
 | Latinoamerica Norte | **[Andros](https://osu.ppy.sh/users/9072586)** ![][flag_MX] | **5** | 3 | ![][flag_MX] [KevstracK](https://osu.ppy.sh/users/5325213) | [#1](https://osu.ppy.sh/community/matches/90018785) |
 | España | [kazamabc](https://osu.ppy.sh/users/6937470) ![][flag_ES] | 4 | 4 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481) | [#1](https://osu.ppy.sh/community/matches/90018750) |
 | Latinoamerica Sur | [Penguo](https://osu.ppy.sh/users/4389490) ![][flag_AR] | 4 | 4 | ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | [#1](https://osu.ppy.sh/community/matches/90022220) |
+| Latinoamerica Norte | **[-Hebel-](https://osu.ppy.sh/users/6169483)** ![][flag_MX] | **5** | 2 | ![][flag_DO] [WillLITE](https://osu.ppy.sh/users/6677788) | [#1](https://osu.ppy.sh/community/matches/90041276) |
 | Latinoamerica Sur | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **5** | 0 | ![][flag_CL] [Matchi](https://osu.ppy.sh/users/5339515) | [#1](https://osu.ppy.sh/community/matches/90025404) |
 | Latinoamerica Norte | **[Skill](https://osu.ppy.sh/users/7802027)** ![][flag_DO] | **5** | 2 | ![][flag_MX] [pundice](https://osu.ppy.sh/users/7940696) | [#1](https://osu.ppy.sh/community/matches/90028657) |
 | Latinoamerica Sur | **[Lexalia](https://osu.ppy.sh/users/1887616)** ![][flag_CL] | **5** | 3 | ![][flag_AR] [DaiixD](https://osu.ppy.sh/users/7479242) | [#1](https://osu.ppy.sh/community/matches/90028411) |
