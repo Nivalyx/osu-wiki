@@ -405,7 +405,8 @@ Saturday, 28 August 2021:
 | España | **[-AmHappy-](https://osu.ppy.sh/users/13955752)** ![][flag_ES] | **5** | 3 | ![][flag_ES] [dariito0xx](https://osu.ppy.sh/users/4739655) | [#1](https://osu.ppy.sh/community/matches/90012482) |
 | España | **[A N T O N I O](https://osu.ppy.sh/users/12760743)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [NHarmonia](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/89967304) |
 | Latinoamerica Sur | [BTG4](https://osu.ppy.sh/users/10659233) ![][flag_AR] | 4 | 4 | ![][flag_CL] [NO37](https://osu.ppy.sh/users/4653583) | [#1](https://osu.ppy.sh/community/matches/89981741) |
-| España | **[V I C E N T E](https://osu.ppy.sh/users/13962152)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [BabyScylla](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/90009444) |
+| España | **[V I C E N T E](https://osu.ppy.sh/users/13962152)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [BabyScylla](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/90009444) 
+| Latinoamerica Norte | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** ![][flag_MX] | **5** | 2 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | [#1](https://osu.ppy.sh/community/matches/90041182) ||
 | España | **[Kalal331](https://osu.ppy.sh/users/8433636)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [JoanaBob](https://osu.ppy.sh/users/10966302) | [#1](https://osu.ppy.sh/community/matches/89955985) |
 
 Monday, 29 August 2021:
@@ -426,12 +427,14 @@ Monday, 29 August 2021:
 | Latinoamerica Sur | **[un perro](https://osu.ppy.sh/users/6573651)** ![][flag_AR] | **5** | 2 | ![][flag_AR] [Kaoshii](https://osu.ppy.sh/users/7807935) | [#1](https://osu.ppy.sh/community/matches/90028495) |
 | Latinoamerica Norte | [xHei\_57](https://osu.ppy.sh/users/1770700) ![][flag_MX] | 0 | **5** | ![][flag_CO] **[ElMick13](https://osu.ppy.sh/users/3562488)** | [#1](https://osu.ppy.sh/community/matches/90029874) |
 | Latinoamerica Sur | [daanit](https://osu.ppy.sh/users/6159669) ![][flag_UY] | 4 | 4 | ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050) | [#1](https://osu.ppy.sh/community/matches/90031401) |
+| Latinoamerica Norte | **[Camberos](https://osu.ppy.sh/users/2553519)** ![][flag_MX] | **5** | 0 | ![][flag_MX] [Siros](https://osu.ppy.sh/users/3787685) | [#1](https://osu.ppy.sh/community/matches/90043480) |
 | Latinoamerica Sur | [Kazuki K](https://osu.ppy.sh/users/6407282) ![][flag_UY] | 1 | **5** | ![][flag_AR] **[Emiru Ikuno 2](https://osu.ppy.sh/users/9393446)** | [#1](https://osu.ppy.sh/community/matches/90033991) |
 | Latinoamerica Norte | **[AR9](https://osu.ppy.sh/users/5136821)** ![][flag_VE] | **5** | 0 | ![][flag_MX] [Trint](https://osu.ppy.sh/users/10670748) | [#1](https://osu.ppy.sh/community/matches/90035749) |
 | Latinoamerica Sur | **[Ceja](https://osu.ppy.sh/users/4185921)** ![][flag_AR] | **5** | 1 | ![][flag_CL] [mocaccino](https://osu.ppy.sh/users/5252968) | [#1](https://osu.ppy.sh/community/matches/90036377) |
 | Latinoamerica Norte | [Judani](https://osu.ppy.sh/users/6787898) ![][flag_PE] | 0 | **5** | ![][flag_MX] **[sigmadroid](https://osu.ppy.sh/users/665148)** | [#1](https://osu.ppy.sh/community/matches/90039980) |
 | Latinoamerica Sur | [Rondro](https://osu.ppy.sh/users/9293124) ![][flag_UY] | 3 | **5** | ![][flag_CL] **[Kuromiau](https://osu.ppy.sh/users/2347281)** | [#1](https://osu.ppy.sh/community/matches/90041469) |
-| Latinoamerica Norte | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** ![][flag_MX] | **5** | 2 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | [#1](https://osu.ppy.sh/community/matches/90041182) |
+| Latinoamerica Norte | **[SaintSFT](https://osu.ppy.sh/users/14970132)** ![][flag_MX] | **5** | 1 | ![][flag_MX] [Jalepers](https://osu.ppy.sh/users/7341086) | [#1](https://osu.ppy.sh/community/matches/90043486) |
+| Latinoamerica Norte | **[Arnold24x24](https://osu.ppy.sh/users/2291265)** ![][flag_PE] | **5** | 1 | ![][flag_MX] [-Wolfy-](https://osu.ppy.sh/users/5281857) | [#1](https://osu.ppy.sh/community/matches/90041182) |
 | Latinoamerica Sur | [Pancho](https://osu.ppy.sh/users/2347281) ![][flag_CL] | 0 | **5** | ![][flag_CL] **[xaxreid](https://osu.ppy.sh/users/4227431)** | *win by default* |
 | Latinoamerica Sur | **[ChUbi](https://osu.ppy.sh/users/9589295)** ![][flag_CL] | **5** | 0 | ![][flag_MX] [Kuromiau](https://osu.ppy.sh/users/2347281) | *win by default* |
 
