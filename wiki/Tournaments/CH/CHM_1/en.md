@@ -423,9 +423,10 @@ Sunday, 22 August 2021:
 | Latinoamerica Sur | **[Mathi](https://osu.ppy.sh/users/5339515)** ![][flag_CL] | **5** | 0 | ![][flag_AR] [BTG4](https://osu.ppy.sh/users/10659233) | [#1](https://osu.ppy.sh/community/matches/89645799) |
 | Latinoamerica Norte | **[Rushy](https://osu.ppy.sh/users/5281857)** ![][flag_CO] | **5** | 1 | ![][flag_CO] [ElMick13](https://osu.ppy.sh/users/3562488) | [#1](https://osu.ppy.sh/community/matches/89673886) |
 | Latinoamerica Sur | [Judani](https://osu.ppy.sh/users/6787898) ![][flag_PE] | 0 | **5** | ![][flag_MX] **[Jalepers](https://osu.ppy.sh/users/7341086)** | [#1](https://osu.ppy.sh/community/matches/89648356) |
-| Latinoamerica Norte | **[Arnold24x24](https://osu.ppy.sh/users/2291265)** ![][flag_ES] | **5** | 0 | ![][flag_MX] [Andros](https://osu.ppy.sh/users/9072586) | [#1](https://osu.ppy.sh/community/matches/89676446) |
+| España | **[kazamabc](https://osu.ppy.sh/users/6937470)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [AngelXC](https://osu.ppy.sh/users/7334711) | [#1](https://osu.ppy.sh/community/matches/89676640) |
+| Latinoamerica Norte | **[Arnold24x24](https://osu.ppy.sh/users/2291265)** ![][flag_PE] | **5** | 0 | ![][flag_MX] [Andros](https://osu.ppy.sh/users/9072586) | [#1](https://osu.ppy.sh/community/matches/89676446) |
 
-Monday, 23 August 2021:
+Monday, 22 August 2021:
 
 | Division | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
