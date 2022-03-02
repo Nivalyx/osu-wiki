@@ -413,6 +413,8 @@ Monday, 29 August 2021:
 | Division | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | España | **[AngelXC](https://osu.ppy.sh/users/7334711)** ![][flag_ES] | **5** | 1 | ![][flag_ES] [teenager](https://osu.ppy.sh/users/14748920) | [#1](https://osu.ppy.sh/community/matches/90013160) |
+| Latinoamerica Sur | [Pein](https://osu.ppy.sh/users/2212941) ![][flag_AR] | 4 | 4 | ![][flag_CL] [Gonzah](https://osu.ppy.sh/users/12434652) | [#1](https://osu.ppy.sh/community/matches/90015609) |
+| Latinoamerica Sur | [Rondro](https://osu.ppy.sh/users/9293124) ![][flag_UY] | 2 | **5** | ![][flag_AR] **[Amuro](https://osu.ppy.sh/users/7119659)** | [#1](https://osu.ppy.sh/community/matches/90018632) |
 
 ### Swiss round (week 1)
 
