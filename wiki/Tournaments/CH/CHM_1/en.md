@@ -424,6 +424,7 @@ Monday, 29 August 2021:
 | Latinoamerica Sur | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **5** | 0 | ![][flag_CL] [Matchi](https://osu.ppy.sh/users/5339515) | [#1](https://osu.ppy.sh/community/matches/90025404) |
 | Latinoamerica Norte | **[Skill](https://osu.ppy.sh/users/7802027)** ![][flag_DO] | **5** | 2 | ![][flag_MX] [pundice](https://osu.ppy.sh/users/7940696) | [#1](https://osu.ppy.sh/community/matches/90028657) |
 | Latinoamerica Sur | **[Lexalia](https://osu.ppy.sh/users/1887616)** ![][flag_CL] | **5** | 3 | ![][flag_AR] [DaiixD](https://osu.ppy.sh/users/7479242) | [#1](https://osu.ppy.sh/community/matches/90028411) |
+| España | **[dariito0xx](https://osu.ppy.sh/users/4739655)** ![][flag_ES] | **5** | 1 | ![][flag_ES] [V I C E N T E](https://osu.ppy.sh/users/13962152) | [#1](https://osu.ppy.sh/community/matches/90070322) |
 | Latinoamerica Sur | **[un perro](https://osu.ppy.sh/users/6573651)** ![][flag_AR] | **5** | 2 | ![][flag_AR] [Kaoshii](https://osu.ppy.sh/users/7807935) | [#1](https://osu.ppy.sh/community/matches/90028495) |
 | Latinoamerica Norte | [xHei\_57](https://osu.ppy.sh/users/1770700) ![][flag_MX] | 0 | **5** | ![][flag_CO] **[ElMick13](https://osu.ppy.sh/users/3562488)** | [#1](https://osu.ppy.sh/community/matches/90029874) |
 | Latinoamerica Sur | [daanit](https://osu.ppy.sh/users/6159669) ![][flag_UY] | 4 | 4 | ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050) | [#1](https://osu.ppy.sh/community/matches/90031401) |
@@ -435,8 +436,15 @@ Monday, 29 August 2021:
 | Latinoamerica Sur | [Rondro](https://osu.ppy.sh/users/9293124) ![][flag_UY] | 3 | **5** | ![][flag_CL] **[Kuromiau](https://osu.ppy.sh/users/2347281)** | [#1](https://osu.ppy.sh/community/matches/90041469) |
 | Latinoamerica Norte | **[SaintSFT](https://osu.ppy.sh/users/14970132)** ![][flag_MX] | **5** | 1 | ![][flag_MX] [Jalepers](https://osu.ppy.sh/users/7341086) | [#1](https://osu.ppy.sh/community/matches/90043486) |
 | Latinoamerica Norte | **[Arnold24x24](https://osu.ppy.sh/users/2291265)** ![][flag_PE] | **5** | 1 | ![][flag_MX] [-Wolfy-](https://osu.ppy.sh/users/5281857) | [#1](https://osu.ppy.sh/community/matches/90041182) |
+| España | **[kazamabc](https://osu.ppy.sh/users/6937470)** ![][flag_ES] | **5** | 2 | ![][flag_ES] [NHarmonia](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/90062170) |
+| Latinoamerica Norte | **[Carlosflow](https://osu.ppy.sh/users/11940767)** ![][flag_CO] | **5** | 1 | ![][flag_CO] [ElMick13](https://osu.ppy.sh/users/3562488) | [#1](https://osu.ppy.sh/community/matches/90068720) |
 | Latinoamerica Sur | [Pancho](https://osu.ppy.sh/users/2347281) ![][flag_CL] | 0 | **5** | ![][flag_CL] **[xaxreid](https://osu.ppy.sh/users/4227431)** | *win by default* |
 | Latinoamerica Sur | **[ChUbi](https://osu.ppy.sh/users/9589295)** ![][flag_CL] | **5** | 0 | ![][flag_MX] [Kuromiau](https://osu.ppy.sh/users/2347281) | *win by default* |
+
+Sunday, 30 August 2021:
+
+| Division | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 
 ### Swiss round (week 1)
 
