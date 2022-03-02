@@ -401,6 +401,7 @@ Saturday, 21 August 2021:
 | Latinoamerica Sur | [Kuromiao](https://osu.ppy.sh/users/2347281) ![][flag_CL] | 3 | **5** | ![][flag_UY] **[Kazuki K](https://osu.ppy.sh/users/6407282)** | [#1](https://osu.ppy.sh/community/matches/89584922) |
 | Latinoamerica Norte | **[FlameShock](https://osu.ppy.sh/users/8349047)** ![][flag_MX] | **5** | 3 | ![][flag_MX] [Siros](https://osu.ppy.sh/users/3787685) | [#1](https://osu.ppy.sh/community/matches/89592474) |
 | España | **[amborgesa](https://osu.ppy.sh/users/1968481)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [teenager](https://osu.ppy.sh/users/14748920) | [#1](https://osu.ppy.sh/community/matches/89619885) |
+| Latinoamerica Sur | [Rebo](https://osu.ppy.sh/users/6942259) ![][flag_UY] | 2 | **5** | ![][flag_CL] **[DaaixD](https://osu.ppy.sh/users/7479242)** | [#1](https://osu.ppy.sh/community/matches/89628900) |
 | Latinoamerica Norte | **[hammytr](https://osu.ppy.sh/users/11562243)** ![][flag_PA] | **5** | 0 | ![][flag_MX] [Camberos](https://osu.ppy.sh/users/2553519) | *win by default* |
 
 ## Ruleset
