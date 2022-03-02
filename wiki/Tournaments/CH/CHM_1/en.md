@@ -99,11 +99,11 @@ Listed below are the players who managed to qualify into their respective divisi
 | :-: | :-- | :-- |
 | 1 | ![][flag_CL] [Intercambing](https://osu.ppy.sh/users/2546001) | 6.4 |
 | 2 | ![][flag_AR] [Pein](https://osu.ppy.sh/users/2212941) | 9.3 |
-| 3 | ![][flag_DO] [Skill](https://osu.ppy.sh/users/7802027) | 5.1 |
-| 4 | ![][flag_MX] [-Wolfy-](https://osu.ppy.sh/users/4497582) | 5.7 |
-| 5 | ![][flag_MX] [-Hebel-](https://osu.ppy.sh/users/6169483) | 9.5 |
-| 6 | ![][flag_PE] [Judani](https://osu.ppy.sh/users/6787898) | 9.8 |
-| 7 | ![][flag_MX] [SaintSFT](https://osu.ppy.sh/users/14970132) | 10.3 |
+| 3 | ![][flag_AR] [Emiro Ikuno 2](https://osu.ppy.sh/users/9393446) | 10.7 |
+| 4 | ![][flag_AR] [un perro](https://osu.ppy.sh/users/6573651) | 11.2 |
+| 5 | ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | 12.7 |
+| 6 | ![][flag_AR] [Amuro](https://osu.ppy.sh/users/7119659) | 12.8 |
+| 7 | ![][flag_CL] [Kuromiau](https://osu.ppy.sh/users/2347281) | 13.0 |
 | 8 | ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461) | 10.8 |
 | 9 | ![][flag_MX] [Flameshock](https://osu.ppy.sh/users/8349047) | 12.2 |
 | 10 | ![][flag_MX] [pundice](https://osu.ppy.sh/users/7940696) | 13.2 |
