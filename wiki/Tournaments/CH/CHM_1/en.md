@@ -426,10 +426,16 @@ Sunday, 22 August 2021:
 | España | **[kazamabc](https://osu.ppy.sh/users/6937470)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [AngelXC](https://osu.ppy.sh/users/7334711) | [#1](https://osu.ppy.sh/community/matches/89676640) |
 | Latinoamerica Norte | **[Arnold24x24](https://osu.ppy.sh/users/2291265)** ![][flag_PE] | **5** | 0 | ![][flag_MX] [Andros](https://osu.ppy.sh/users/9072586) | [#1](https://osu.ppy.sh/community/matches/89676446) |
 
-Monday, 22 August 2021:
+Monday, 23 August 2021:
 
 | Division | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| España | **[JoanaBob](https://osu.ppy.sh/users/10966302)** ![][flag_ES] | **5** | 1 | ![][flag_ES] [BabyScylla](https://osu.ppy.sh/users/9869794) | [#1](https://osu.ppy.sh/community/matches/89681837) |
+| Latinoamerica Norte | **[pundice](https://osu.ppy.sh/users/7940696)** ![][flag_MX] | **5** | 0 | ![][flag_CO] [ElMick11](https://osu.ppy.sh/users/10510143) | [#1](https://osu.ppy.sh/community/matches/89694362) |
+| Latinoamerica Sur | **[Pancho](https://osu.ppy.sh/users/11305398)** ![][flag_CL] | **5** | 3 | ![][flag_CL] [ChUbi](https://osu.ppy.sh/users/9589295) | [#1](https://osu.ppy.sh/community/matches/89694324) |
+| España | **[A N T O N I O](https://osu.ppy.sh/users/12760743)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [-AmHappy-](https://osu.ppy.sh/users/13955752) | [#1](https://osu.ppy.sh/community/matches/89730782) |
+| Latinoamerica Sur | [Ceja](https://osu.ppy.sh/users/4185921) ![][flag_AR] | 4 | 4 | ![][flag_AR] [Kaoshii](https://osu.ppy.sh/users/7807935) | [#1](https://osu.ppy.sh/community/matches/89700183) |
+| Latinoamerica Norte | **[WillLITE](https://osu.ppy.sh/users/6677788)** ![][flag_DO] | **5** | 3 | ![][flag_MX] [Trint](https://osu.ppy.sh/users/10670748) | [#1](https://osu.ppy.sh/community/matches/89696845) |
 
 ## Ruleset
 
