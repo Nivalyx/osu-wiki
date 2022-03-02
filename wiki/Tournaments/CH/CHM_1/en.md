@@ -449,6 +449,7 @@ Sunday, 30 August 2021:
 | Latinoamerica Sur | [Amuro](https://osu.ppy.sh/users/7119659) ![][flag_AR] | 1 | **5** | ![][flag_CL] **[Mathi](https://osu.ppy.sh/users/5339515)** | [#1](https://osu.ppy.sh/community/matches/90075905) |
 | Latinoamerica Norte | **[Riot](https://osu.ppy.sh/users/4256461)** ![][flag_MX] | **5** | 0 | ![][flag_VE] [AR9](https://osu.ppy.sh/users/5136821) | [#1](https://osu.ppy.sh/community/matches/90076876) |
 | España | [BabyScylla](https://osu.ppy.sh/users/9869794) ![][flag_ES] | 4 | 4 | ![][flag_ES] [teenager](https://osu.ppy.sh/users/14748920) | [#1](https://osu.ppy.sh/community/matches/90073206) |
+| España | **[-AmHappy-](https://osu.ppy.sh/users/13955752)** ![][flag_ES] | **5** | 2 | ![][flag_ES] [AngelXC](https://osu.ppy.sh/users/7334711) | [#1](https://osu.ppy.sh/community/matches/90079504) |
 | Latinoamerica Norte | [Judani](https://osu.ppy.sh/users/6787898) ![][flag_PE] | 0 | **5** | ![][flag_CL] **[ElMick11](https://osu.ppy.sh/users/10510143)** | *win by default* |
 | Latinoamerica Norte | [WillLITE](https://osu.ppy.sh/users/6677788) ![][flag_DO] | 0 | **5** | ![][flag_MX] **[Andros](https://osu.ppy.sh/users/9072586)** | *win by default* |
 
