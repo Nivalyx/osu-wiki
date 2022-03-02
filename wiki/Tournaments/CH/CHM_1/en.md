@@ -109,18 +109,18 @@ Listed below are the players who managed to qualify into their respective divisi
 | 10 | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 15.4 |
 | 11 | ![][flag_UY] [daanit](https://osu.ppy.sh/users/6159669) | 16.0 |
 | 12 | ![][flag_AR] [Ceja](https://osu.ppy.sh/users/4185921) | 17.3 |
-| 13 | ![][flag_MX] [Andros](https://osu.ppy.sh/users/9072586) | 15.7 |
-| 14 | ![][flag_MX] [Camberos](https://osu.ppy.sh/users/2553519) | 17.7 |
-| 15 | ![][flag_CO] [Carlosflow](https://osu.ppy.sh/users/11940767) | 17.9 |
-| 16 | ![][flag_CO] [xHei\_57](https://osu.ppy.sh/users/1770700) | 18.0 |
-| 17 | ![][flag_VE] [AR9](https://osu.ppy.sh/users/5136821) | 18.8 |
-| 18 | ![][flag_MX] [Jalepers](https://osu.ppy.sh/users/7341086) | 19.0 |
-| 19 | ![][flag_MX] [sigmadroid](https://osu.ppy.sh/users/665148) | 19.4 |
-| 20 | ![][flag_MX] [KevstracK](https://osu.ppy.sh/users/5325213) | 21.6 |
-| 21 | ![][flag_MX] [Siros](https://osu.ppy.sh/users/3787685) | 23.0 |
-| 22 | ![][flag_CO] [ElMick11](https://osu.ppy.sh/users/10510143) | 25.9 |
-| 23 | ![][flag_CO] [ElMick13](https://osu.ppy.sh/users/3562488) | 26.1 |
-| 24 | ![][flag_PE] [Trint](https://osu.ppy.sh/users/10670748) | 26.2 |
+| 13 | ![][flag_CL] [NO37](https://osu.ppy.sh/users/4653583) | 18.4 |
+| 14 | ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490) | 18.5 |
+| 15 | ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050) | 18.6 |
+| 16 | ![][flag_CL] [Gonzah](https://osu.ppy.sh/users/12434652) | 18.7 |
+| 17 | ![][flag_CL] [DaiixD](https://osu.ppy.sh/users/7479242) | 20.4 |
+| 18 | ![][flag_CL] [xaxreid](https://osu.ppy.sh/users/4227431) | 21.3 |
+| 19 | ![][flag_UY] [Kazuki K](https://osu.ppy.sh/users/6407282) | 21.4 |
+| 20 | ![][flag_UY] [Rondro](https://osu.ppy.sh/users/9293124) | 22.9 |
+| 21 | ![][flag_CL] [ChUbi](https://osu.ppy.sh/users/9589295) | 23.3 |
+| 22 | ![][flag_AR] [BTG4](https://osu.ppy.sh/users/10659233) | 23.7 |
+| 23 | ![][flag_CL] [mocaccino](https://osu.ppy.sh/users/5252968) | 24.4 |
+| 24 | ![][flag_AR] [Kaoshii](https://osu.ppy.sh/users/7807935) | 24.6 |
 
 - *España division:*
 
