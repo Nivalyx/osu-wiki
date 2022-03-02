@@ -126,18 +126,18 @@ Listed below are the players who managed to qualify into their respective divisi
 
 | Seed No. | Player | Avg. Map Rank |
 | :-: | :-- | :-- |
-| 1 | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | 3.1 |
-| 2 | ![][flag_PA] [hammytr](https://osu.ppy.sh/users/11562243) | 4.1 |
-| 3 | ![][flag_DO] [Skill](https://osu.ppy.sh/users/7802027) | 5.1 |
-| 4 | ![][flag_MX] [-Wolfy-](https://osu.ppy.sh/users/4497582) | 5.7 |
-| 5 | ![][flag_MX] [-Hebel-](https://osu.ppy.sh/users/6169483) | 9.5 |
-| 6 | ![][flag_PE] [Judani](https://osu.ppy.sh/users/6787898) | 9.8 |
-| 7 | ![][flag_MX] [SaintSFT](https://osu.ppy.sh/users/14970132) | 10.3 |
-| 8 | ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461) | 10.8 |
-| 9 | ![][flag_MX] [Flameshock](https://osu.ppy.sh/users/8349047) | 12.2 |
-| 10 | ![][flag_MX] [pundice](https://osu.ppy.sh/users/7940696) | 13.2 |
-| 11 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | 15.4 |
-| 12 | ![][flag_DO] [WillLITE](https://osu.ppy.sh/users/6677788) | 15.5 |
+| 1 | ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743) | 2.1 |
+| 2 | ![][flag_ES] [kazamabc](https://osu.ppy.sh/users/6937470) | 3.6 |
+| 3 | ![][flag_ES] [Kalal331](https://osu.ppy.sh/users/8433636) | 3.9 |
+| 4 | ![][flag_ES] [NHarmonia](https://osu.ppy.sh/users/9582556) | 4.9 |
+| 5 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481) | 5.8|
+| 6 | ![][flag_ES] [JoanaBob](https://osu.ppy.sh/users/10966302) | 6.2 |
+| 7 | ![][flag_ES] [-AmHappy-](https://osu.ppy.sh/users/13955752) | 8.1 |
+| 8 | ![][flag_ES] [AngelXC](https://osu.ppy.sh/users/7334711) | 8.3 |
+| 9 | ![][flag_ES] [V I C E N T E](https://osu.ppy.sh/users/13962152) | 8.9 |
+| 10 | ![][flag_ES] [dariito0xx](https://osu.ppy.sh/users/4739655) | 10.0 |
+| 11 | ![][flag_ES] [teenager](https://osu.ppy.sh/users/14748920) | 11.1 |
+| 12 | ![][flag_ES] [BabyScylla](https://osu.ppy.sh/users/9869794) | 11.4 |
 
 ## Podium
 
