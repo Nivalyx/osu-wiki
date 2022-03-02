@@ -392,6 +392,14 @@ This competition has come to an end and resulted in the following podium:
 
 ### Swiss round (week 2)
 
+Friday, 3 September 2021:
+
+| Division | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| España | [JoanaBob](https://osu.ppy.sh/users/10966302) ![][flag_ES] | 3 | **5** | ![][flag_ES] **[AngelXC](https://osu.ppy.sh/users/7334711)** | [#1](https://osu.ppy.sh/community/matches/90318843) |
+
+### Swiss round (week 2)
+
 Friday, 27 August 2021:
 
 | Division | Player 1 |  |  | Player 2 | Match link |
