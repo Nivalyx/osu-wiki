@@ -390,6 +390,20 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### Swiss round (week 2)
+
+Friday, 27 August 2021:
+
+| Division | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Latinoamerica Norte | **[hammytr](https://osu.ppy.sh/users/11562243)** ![][flag_PA] | **5** | 0 | ![][flag_MX] [FlameShock](https://osu.ppy.sh/users/8349047) | [#1](https://osu.ppy.sh/community/matches/89920494) |
+
+Saturday, 29 August 2021:
+
+| Division | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| España | **[Kalal331](https://osu.ppy.sh/users/8433636)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [JoanaBob](https://osu.ppy.sh/users/10966302) | [#1](https://osu.ppy.sh/community/matches/89955985) |
+
 ### Swiss round (week 1)
 
 Saturday, 21 August 2021:
