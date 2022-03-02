@@ -396,8 +396,11 @@ Saturday, 21 August 2021:
 
 | Division | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| España | **[Kalal331](https://osu.ppy.sh/users/8433636)** ![][flag_ES] | **5** | 3 | ![][flag_ES] [V I C E N T E](https://osu.ppy.sh/users/13962152) | [#1](https://osu.ppy.sh/community/matches/89614093) |
 | Latinoamerica Sur | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **5** | 0 | ![][flag_CL] [NO37](https://osu.ppy.sh/users/4653583) | [#1](https://osu.ppy.sh/community/matches/89579919) |
 | Latinoamerica Sur | [Kuromiao](https://osu.ppy.sh/users/2347281) ![][flag_CL] | 3 | **5** | ![][flag_UY] **[Kazuki K](https://osu.ppy.sh/users/6407282)** | [#1](https://osu.ppy.sh/community/matches/89584922) |
+| Latinoamerica Norte | **[FlameShock](https://osu.ppy.sh/users/8349047)** ![][flag_MX] | **5** | 3 | ![][flag_MX] [Siros](https://osu.ppy.sh/users/3787685) | [#1](https://osu.ppy.sh/community/matches/89592474) |
+| España | **[amborgesa](https://osu.ppy.sh/users/1968481)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [teenager](https://osu.ppy.sh/users/14748920) | [#1](https://osu.ppy.sh/community/matches/89619885) |
 | Latinoamerica Norte | **[hammytr](https://osu.ppy.sh/users/11562243)** ![][flag_PA] | **5** | 0 | ![][flag_MX] [Camberos](https://osu.ppy.sh/users/2553519) | *win by default* |
 
 ## Ruleset
