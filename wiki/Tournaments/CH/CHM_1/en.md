@@ -412,6 +412,7 @@ Sunday, 22 August 2021:
 | Latinoamerica Norte | **[-Hebel-](https://osu.ppy.sh/users/6169483)** ![][flag_MX] | **5** | 1 | ![][flag_VE] [AR9](https://osu.ppy.sh/users/5136821) | [#1](https://osu.ppy.sh/community/matches/89635541) |
 | Latinoamerica Sur | **[Pein](https://osu.ppy.sh/users/2212941)** ![][flag_AR] | **5** | 3 | ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490) | [#1](https://osu.ppy.sh/community/matches/89638048) |
 | Latinoamerica Norte | **[SaintSFT](https://osu.ppy.sh/users/14970132)** ![][flag_MX] | **5** | 2 | ![][flag_MX] [sigmadroid](https://osu.ppy.sh/users/665148) | [#1](https://osu.ppy.sh/community/matches/89632213) |
+| Latinoamerica Sur | [daanit](https://osu.ppy.sh/users/6159669) ![][flag_UY] | 4 | 4 | ![][flag_CL] [mocaccino](https://osu.ppy.sh/users/5252968) | [#1](https://osu.ppy.sh/community/matches/89639028) |
 
 ## Ruleset
 
