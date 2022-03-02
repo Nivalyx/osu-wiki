@@ -66,7 +66,7 @@ Listed below are the players who managed to qualify into their respective divisi
 
 - *Latinoamerica Norte division:*
 
-| Seed No. | Latinoamerica Norte | Avg. Map Rank |
+| Seed No. | Player | Avg. Map Rank |
 | :-: | :-- | :-- |
 | 1 | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | 3.1 |
 | 2 | ![][flag_PA] [hammytr](https://osu.ppy.sh/users/11562243) | 4.1 |
@@ -121,6 +121,23 @@ Listed below are the players who managed to qualify into their respective divisi
 | 22 | ![][flag_CO] [ElMick11](https://osu.ppy.sh/users/10510143) | 25.9 |
 | 23 | ![][flag_CO] [ElMick13](https://osu.ppy.sh/users/3562488) | 26.1 |
 | 24 | ![][flag_PE] [Trint](https://osu.ppy.sh/users/10670748) | 26.2 |
+
+- *España division:*
+
+| Seed No. | Player | Avg. Map Rank |
+| :-: | :-- | :-- |
+| 1 | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | 3.1 |
+| 2 | ![][flag_PA] [hammytr](https://osu.ppy.sh/users/11562243) | 4.1 |
+| 3 | ![][flag_DO] [Skill](https://osu.ppy.sh/users/7802027) | 5.1 |
+| 4 | ![][flag_MX] [-Wolfy-](https://osu.ppy.sh/users/4497582) | 5.7 |
+| 5 | ![][flag_MX] [-Hebel-](https://osu.ppy.sh/users/6169483) | 9.5 |
+| 6 | ![][flag_PE] [Judani](https://osu.ppy.sh/users/6787898) | 9.8 |
+| 7 | ![][flag_MX] [SaintSFT](https://osu.ppy.sh/users/14970132) | 10.3 |
+| 8 | ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461) | 10.8 |
+| 9 | ![][flag_MX] [Flameshock](https://osu.ppy.sh/users/8349047) | 12.2 |
+| 10 | ![][flag_MX] [pundice](https://osu.ppy.sh/users/7940696) | 13.2 |
+| 11 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | 15.4 |
+| 12 | ![][flag_DO] [WillLITE](https://osu.ppy.sh/users/6677788) | 15.5 |
 
 ## Podium
 
