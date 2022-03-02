@@ -104,11 +104,11 @@ Listed below are the players who managed to qualify into their respective divisi
 | 5 | ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | 12.7 |
 | 6 | ![][flag_AR] [Amuro](https://osu.ppy.sh/users/7119659) | 12.8 |
 | 7 | ![][flag_CL] [Kuromiau](https://osu.ppy.sh/users/2347281) | 13.0 |
-| 8 | ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461) | 10.8 |
-| 9 | ![][flag_MX] [Flameshock](https://osu.ppy.sh/users/8349047) | 12.2 |
-| 10 | ![][flag_MX] [pundice](https://osu.ppy.sh/users/7940696) | 13.2 |
-| 11 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | 15.4 |
-| 12 | ![][flag_DO] [WillLITE](https://osu.ppy.sh/users/6677788) | 15.5 |
+| 8 | ![][flag_AR] [Lexalia](https://osu.ppy.sh/users/1887616) | 13.8 |
+| 9 | ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398) | 14.4 |
+| 10 | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | 15.4 |
+| 11 | ![][flag_UY] [daanit](https://osu.ppy.sh/users/6159669) | 16.0 |
+| 12 | ![][flag_AR] [Ceja](https://osu.ppy.sh/users/4185921) | 17.3 |
 | 13 | ![][flag_MX] [Andros](https://osu.ppy.sh/users/9072586) | 15.7 |
 | 14 | ![][flag_MX] [Camberos](https://osu.ppy.sh/users/2553519) | 17.7 |
 | 15 | ![][flag_CO] [Carlosflow](https://osu.ppy.sh/users/11940767) | 17.9 |
