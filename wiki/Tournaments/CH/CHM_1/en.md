@@ -68,7 +68,10 @@ Listed below are the players who managed to qualify into their respective divisi
 
 | Seed No. | Player | Avg. Map Rank |
 | :-: | :-- | :-- |
-| 1 | ![][flag_SG] [Tebi](https://osu.ppy.sh/users/5407620) | 3 |
+| 1 | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | 3.1 |
+| 2 | ![][flag_PA] [hammytr](https://osu.ppy.sh/users/11562243) | 4.1 |
+| 3 | ![][flag_DO] [Skill](https://osu.ppy.sh/users/7802027) | 5.1 |
+| 4 | ![][flag_MX] [-Wolfy-](https://osu.ppy.sh/users/4497582) | 5.7 |
 
 ## Podium
 
