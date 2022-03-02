@@ -409,10 +409,20 @@ Sunday, 22 August 2021:
 
 | Division | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| España | **[NHarmonia](https://osu.ppy.sh/users/9582556)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [dariito0xx](https://osu.ppy.sh/users/4739655) | [#1](https://osu.ppy.sh/community/matches/89671374) |
 | Latinoamerica Norte | **[-Hebel-](https://osu.ppy.sh/users/6169483)** ![][flag_MX] | **5** | 1 | ![][flag_VE] [AR9](https://osu.ppy.sh/users/5136821) | [#1](https://osu.ppy.sh/community/matches/89635541) |
 | Latinoamerica Sur | **[Pein](https://osu.ppy.sh/users/2212941)** ![][flag_AR] | **5** | 3 | ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490) | [#1](https://osu.ppy.sh/community/matches/89638048) |
 | Latinoamerica Norte | **[SaintSFT](https://osu.ppy.sh/users/14970132)** ![][flag_MX] | **5** | 2 | ![][flag_MX] [sigmadroid](https://osu.ppy.sh/users/665148) | [#1](https://osu.ppy.sh/community/matches/89632213) |
 | Latinoamerica Sur | [daanit](https://osu.ppy.sh/users/6159669) ![][flag_UY] | 4 | 4 | ![][flag_CL] [mocaccino](https://osu.ppy.sh/users/5252968) | [#1](https://osu.ppy.sh/community/matches/89639028) |
+| Latinoamerica Sur | [Emiru Ikuno 2](https://osu.ppy.sh/users/9393446) ![][flag_AR] | 4 | 4 | ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050) | [#1](https://osu.ppy.sh/community/matches/89639731) |
+| Latinoamerica Norte | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** ![][flag_MX] | **5** | 0 | ![][flag_MX] [xHei\_57](https://osu.ppy.sh/users/1770700) | [#1](https://osu.ppy.sh/community/matches/89640869) |
+| Latinoamerica Sur | **[Lexalia](https://osu.ppy.sh/users/1887616)** ![][flag_AR] | **5** | 1 | ![][flag_UY] [Rondro](https://osu.ppy.sh/users/9293124) | [#1](https://osu.ppy.sh/community/matches/89640868) |
+| Latinoamerica Norte | **[Skill](https://osu.ppy.sh/users/7802027)** ![][flag_DO] | **5** | 2 | ![][flag_CO] [Carlosflow](https://osu.ppy.sh/users/11940767) | [#1](https://osu.ppy.sh/community/matches/89643106) |
+| Latinoamerica Sur | [un perro](https://osu.ppy.sh/users/6573651) ![][flag_AR] | 1 | **5** | ![][flag_CL] **[Gonzah](https://osu.ppy.sh/users/12434652)** | [#1](https://osu.ppy.sh/community/matches/89640731) |
+| Latinoamerica Norte | **[Riot](https://osu.ppy.sh/users/4256461)** ![][flag_MX] | **5** | 1 | ![][flag_MX] [KevstracK](https://osu.ppy.sh/users/5325213) | [#1](https://osu.ppy.sh/community/matches/89647987) |
+| Latinoamerica Sur | **[Mathi](https://osu.ppy.sh/users/5339515)** ![][flag_CL] | **5** | 0 | ![][flag_AR] [BTG4](https://osu.ppy.sh/users/10659233) | [#1](https://osu.ppy.sh/community/matches/89645799) |
+| Latinoamerica Norte | **[Rushy](https://osu.ppy.sh/users/5281857)** ![][flag_CO] | **5** | 1 | ![][flag_CO] [ElMick13](https://osu.ppy.sh/users/3562488) | [#1](https://osu.ppy.sh/community/matches/89673886) |
+| Latinoamerica Sur | [Judani](https://osu.ppy.sh/users/6787898) ![][flag_PE] | 0 | **5** | ![][flag_MX] **[Jalepers](https://osu.ppy.sh/users/7341086)** | [#1](https://osu.ppy.sh/community/matches/89648356) |
 
 ## Ruleset
 
