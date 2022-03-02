@@ -397,12 +397,21 @@ Saturday, 21 August 2021:
 | Division | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | España | **[Kalal331](https://osu.ppy.sh/users/8433636)** ![][flag_ES] | **5** | 3 | ![][flag_ES] [V I C E N T E](https://osu.ppy.sh/users/13962152) | [#1](https://osu.ppy.sh/community/matches/89614093) |
+| Latinoamerica Sur | [Amuro](https://osu.ppy.sh/users/7119659) ![][flag_AR] | 1 | **5** | ![][flag_CL] **[xaxreid](https://osu.ppy.sh/users/4227431)** | [#1](https://osu.ppy.sh/community/matches/89632322) |
 | Latinoamerica Sur | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **5** | 0 | ![][flag_CL] [NO37](https://osu.ppy.sh/users/4653583) | [#1](https://osu.ppy.sh/community/matches/89579919) |
 | Latinoamerica Sur | [Kuromiao](https://osu.ppy.sh/users/2347281) ![][flag_CL] | 3 | **5** | ![][flag_UY] **[Kazuki K](https://osu.ppy.sh/users/6407282)** | [#1](https://osu.ppy.sh/community/matches/89584922) |
 | Latinoamerica Norte | **[FlameShock](https://osu.ppy.sh/users/8349047)** ![][flag_MX] | **5** | 3 | ![][flag_MX] [Siros](https://osu.ppy.sh/users/3787685) | [#1](https://osu.ppy.sh/community/matches/89592474) |
 | España | **[amborgesa](https://osu.ppy.sh/users/1968481)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [teenager](https://osu.ppy.sh/users/14748920) | [#1](https://osu.ppy.sh/community/matches/89619885) |
 | Latinoamerica Sur | [Rebo](https://osu.ppy.sh/users/6942259) ![][flag_UY] | 2 | **5** | ![][flag_CL] **[DaaixD](https://osu.ppy.sh/users/7479242)** | [#1](https://osu.ppy.sh/community/matches/89628900) |
 | Latinoamerica Norte | **[hammytr](https://osu.ppy.sh/users/11562243)** ![][flag_PA] | **5** | 0 | ![][flag_MX] [Camberos](https://osu.ppy.sh/users/2553519) | *win by default* |
+
+Sunday, 22 August 2021:
+
+| Division | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Latinoamerica Norte | **[-Hebel-](https://osu.ppy.sh/users/6169483)** ![][flag_MX] | **5** | 1 | ![][flag_VN] [AR9](https://osu.ppy.sh/users/5136821) | [#1](https://osu.ppy.sh/community/matches/89635541) |
+| Latinoamerica Sur | **[Pein](https://osu.ppy.sh/users/2212941)** ![][flag_AR] | **5** | 3 | ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490) | [#1](https://osu.ppy.sh/community/matches/89638048) |
+| Latinoamerica Norte | **[SaintSFT](https://osu.ppy.sh/users/14970132)** ![][flag_MX] | **5** | 2 | ![][flag_MX] [sigmadroid](https://osu.ppy.sh/users/665148) | [#1](https://osu.ppy.sh/community/matches/89632213) |
 
 ## Ruleset
 
