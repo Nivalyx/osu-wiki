@@ -415,6 +415,9 @@ Monday, 29 August 2021:
 | España | **[AngelXC](https://osu.ppy.sh/users/7334711)** ![][flag_ES] | **5** | 1 | ![][flag_ES] [teenager](https://osu.ppy.sh/users/14748920) | [#1](https://osu.ppy.sh/community/matches/90013160) |
 | Latinoamerica Sur | [Pein](https://osu.ppy.sh/users/2212941) ![][flag_AR] | 4 | 4 | ![][flag_CL] [Gonzah](https://osu.ppy.sh/users/12434652) | [#1](https://osu.ppy.sh/community/matches/90015609) |
 | Latinoamerica Sur | [Rondro](https://osu.ppy.sh/users/9293124) ![][flag_UY] | 2 | **5** | ![][flag_AR] **[Amuro](https://osu.ppy.sh/users/7119659)** | [#1](https://osu.ppy.sh/community/matches/90018632) |
+| Latinoamerica Norte | **[Andros](https://osu.ppy.sh/users/9072586)** ![][flag_MX] | **5** | 3 | ![][flag_MX] [KevstracK](https://osu.ppy.sh/users/5325213) | [#1](https://osu.ppy.sh/community/matches/90018785) |
+| España | [kazamabc](https://osu.ppy.sh/users/6937470) ![][flag_ES] | 4 | 4 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481) | [#1](https://osu.ppy.sh/community/matches/90018750) |
+| Latinoamerica Sur | [Penguo](https://osu.ppy.sh/users/4389490) ![][flag_AR] | 4 | 4 | ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | [#1](https://osu.ppy.sh/community/matches/90022220) |
 
 ### Swiss round (week 1)
 
