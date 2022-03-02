@@ -402,6 +402,9 @@ Saturday, 29 August 2021:
 
 | Division | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| España | **[A N T O N I O](https://osu.ppy.sh/users/12760743)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [NHarmonia](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/89967304) |
+| Latinoamerica Sur | [BTG4](https://osu.ppy.sh/users/10659233) ![][flag_AR] | 4 | 4 | ![][flag_CL] [NO37](https://osu.ppy.sh/users/4653583) | [#1](https://osu.ppy.sh/community/matches/89981741) |
+| España | **[V I C E N T E](https://osu.ppy.sh/users/13962152)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [BabyScylla](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/90009444) |
 | España | **[Kalal331](https://osu.ppy.sh/users/8433636)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [JoanaBob](https://osu.ppy.sh/users/10966302) | [#1](https://osu.ppy.sh/community/matches/89955985) |
 
 ### Swiss round (week 1)
