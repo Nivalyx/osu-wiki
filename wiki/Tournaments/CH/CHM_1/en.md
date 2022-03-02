@@ -464,6 +464,8 @@ Sunday, 30 August 2021:
 | Latinoamerica Sur | [BTG4](https://osu.ppy.sh/users/10659233) ![][flag_AR] | 3 | **5** | ![][flag_UY] **[Rebo](https://osu.ppy.sh/users/4653583)** | [#1](https://osu.ppy.sh/community/matches/90093556) |
 | Latinoamerica Norte | **[hammytr](https://osu.ppy.sh/users/11562243)** ![][flag_PA] | **5** | 3 | ![][flag_MX] [-Hebel-](https://osu.ppy.sh/users/6169483) | [#1](https://osu.ppy.sh/community/matches/90098272) |
 | Latinoamerica Norte | **[Siros](https://osu.ppy.sh/users/3787685)** ![][flag_MX] | **5** | 3 | ![][flag_MX] [xHei\_57](https://osu.ppy.sh/users/1770700) | [#1](https://osu.ppy.sh/community/matches/90100444) |
+| Latinoamerica Sur | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **5** | 2 | ![][flag_AR] [Lexalia](https://osu.ppy.sh/users/1887616) | [#1](https://osu.ppy.sh/community/matches/90125354) |
+| Latinoamerica Norte | **[Flameshock](https://osu.ppy.sh/users/8349047)** ![][flag_MX] | **5** | 3 | ![][flag_MX] [Jalepers](https://osu.ppy.sh/users/7341086) | [#1](https://osu.ppy.sh/community/matches/90102324) |
 | Latinoamerica Norte | [Judani](https://osu.ppy.sh/users/6787898) ![][flag_PE] | 0 | **5** | ![][flag_CL] **[ElMick11](https://osu.ppy.sh/users/10510143)** | *win by default* |
 | Latinoamerica Norte | [WillLITE](https://osu.ppy.sh/users/6677788) ![][flag_DO] | 0 | **5** | ![][flag_MX] **[Andros](https://osu.ppy.sh/users/9072586)** | *win by default* |
 
