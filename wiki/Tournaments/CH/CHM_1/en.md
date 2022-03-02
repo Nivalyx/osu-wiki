@@ -449,7 +449,12 @@ Sunday, 30 August 2021:
 | Latinoamerica Sur | [Amuro](https://osu.ppy.sh/users/7119659) ![][flag_AR] | 1 | **5** | ![][flag_CL] **[Mathi](https://osu.ppy.sh/users/5339515)** | [#1](https://osu.ppy.sh/community/matches/90075905) |
 | Latinoamerica Norte | **[Riot](https://osu.ppy.sh/users/4256461)** ![][flag_MX] | **5** | 0 | ![][flag_VE] [AR9](https://osu.ppy.sh/users/5136821) | [#1](https://osu.ppy.sh/community/matches/90076876) |
 | España | [BabyScylla](https://osu.ppy.sh/users/9869794) ![][flag_ES] | 4 | 4 | ![][flag_ES] [teenager](https://osu.ppy.sh/users/14748920) | [#1](https://osu.ppy.sh/community/matches/90073206) |
+| Latinoamerica Sur | **[un perro](https://osu.ppy.sh/users/6573651)** ![][flag_AR] | **5** | 0 | ![][flag_CL] [ChUbi](https://osu.ppy.sh/users/9589295) | [#1](https://osu.ppy.sh/community/matches/90086168) |
 | España | **[-AmHappy-](https://osu.ppy.sh/users/13955752)** ![][flag_ES] | **5** | 2 | ![][flag_ES] [AngelXC](https://osu.ppy.sh/users/7334711) | [#1](https://osu.ppy.sh/community/matches/90079504) |
+| Latinoamerica Sur | **[daanit](https://osu.ppy.sh/users/6159669)** ![][flag_AR] | **5** | 3 | ![][flag_CL] [DaiixD](https://osu.ppy.sh/users/7479242) | [#1](https://osu.ppy.sh/community/matches/90079752) |
+| Latinoamerica Norte | **[Rushy](https://osu.ppy.sh/users/5281857)** ![][flag_CO] | **5** | 1 | ![][flag_MX] [Camberos](https://osu.ppy.sh/users/2553519) | [#1](https://osu.ppy.sh/community/matches/90082873) |
+| España | [A N T O N I O](https://osu.ppy.sh/users/12760743) ![][flag_ES] | 4 | 4 | ![][flag_ES] [Kalal331](https://osu.ppy.sh/users/8433636) | [#1](https://osu.ppy.sh/community/matches/90082959) |
+| Latinoamerica Sur | [kanocchi](https://osu.ppy.sh/users/2321050) ![][flag_CL] | 4 | 4 | ![][flag_UY] [Kazuki K](https://osu.ppy.sh/users/6407282) | [#1](https://osu.ppy.sh/community/matches/90082868) |
 | Latinoamerica Norte | [Judani](https://osu.ppy.sh/users/6787898) ![][flag_PE] | 0 | **5** | ![][flag_CL] **[ElMick11](https://osu.ppy.sh/users/10510143)** | *win by default* |
 | Latinoamerica Norte | [WillLITE](https://osu.ppy.sh/users/6677788) ![][flag_DO] | 0 | **5** | ![][flag_MX] **[Andros](https://osu.ppy.sh/users/9072586)** | *win by default* |
 
