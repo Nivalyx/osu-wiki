@@ -444,6 +444,7 @@ Monday, 6 September 2021:
 | Division | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | España | **[NHarmonia](https://osu.ppy.sh/users/9582556)** ![][flag_ES] | **5** | 1 | ![][flag_ES] [V I C E N T E](https://osu.ppy.sh/users/13962152) | [#1](https://osu.ppy.sh/community/matches/90444723) |
+| Latinoamerica Norte | [hammytr](https://osu.ppy.sh/users/11562243) ![][flag_PA] | 2 | **5** | ![][flag_MX] **[Andros](https://osu.ppy.sh/users/9072586)** | [#1](https://osu.ppy.sh/community/matches/90441740) |
 
 ### Swiss round (week 2)
 
