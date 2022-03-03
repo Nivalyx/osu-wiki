@@ -420,6 +420,7 @@ Sunday, 5 September 2021:
 | Latinoamerica Sur | [Rondro](https://osu.ppy.sh/users/9293124) ![][flag_UY] | 2 | **5** | ![][flag_AR] **[Kaoshii](https://osu.ppy.sh/users/7807935)** | [#1](https://osu.ppy.sh/community/matches/90387031) |
 | Latinoamerica Norte | [ElMick13](https://osu.ppy.sh/users/3562488) ![][flag_CO] | 2 | **5** | ![][flag_VE] **[AR9](https://osu.ppy.sh/users/5136821)** | [#1](https://osu.ppy.sh/community/matches/90387019) |
 | Latinoamerica Sur | **[kanocchi](https://osu.ppy.sh/users/2321050)** ![][flag_CL] | **5** | 2 | ![][flag_CL] [NO37](https://osu.ppy.sh/users/4653583) | [#1](https://osu.ppy.sh/community/matches/90391905) |
+| España | [BabyScylla](https://osu.ppy.sh/users/9869794) ![][flag_ES] | 4 | 4 | ![][flag_ES] [-AmHappy-](https://osu.ppy.sh/users/13955752) | [#1](https://osu.ppy.sh/community/matches/90434888) |
 | Latinoamerica Sur | [Lexalia](https://osu.ppy.sh/users/1887616) ![][flag_AR] | 0 | **5** | ![][flag_CL] **[Mathi](https://osu.ppy.sh/users/5339515)** | [#1](https://osu.ppy.sh/community/matches/90395518) |
 | España | [teenager](https://osu.ppy.sh/users/14748920) ![][flag_ES] | 3 | **5** | ![][flag_ES] **[JoanaBob](https://osu.ppy.sh/users/10966302)** | [#1](https://osu.ppy.sh/community/matches/90430517) |
 | Latinoamerica Sur | **[Gonzah](https://osu.ppy.sh/users/12434652)** ![][flag_CL] | **5** | 1 | ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398) | [#1](https://osu.ppy.sh/community/matches/90395356) |
@@ -431,6 +432,7 @@ Sunday, 5 September 2021:
 | Latinoamerica Sur | [Pein](https://osu.ppy.sh/users/2212941) ![][flag_AR] | 3 | **5** | ![][flag_UY] **[Rebo](https://osu.ppy.sh/users/6942259)** | [#1](https://osu.ppy.sh/community/matches/90400931) |
 | Latinoamerica Sur | [mocaccino](https://osu.ppy.sh/users/5252968) ![][flag_CL] | 1 | **5** | ![][flag_AR] **[BTG4](https://osu.ppy.sh/users/10659233)** | [#1](https://osu.ppy.sh/community/matches/90402973) |
 | Latinoamerica Norte | [Flameshock](https://osu.ppy.sh/users/8349047) ![][flag_MX] | 4 | 4 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | [#1](https://osu.ppy.sh/community/matches/90402977) |
+| España | **[A N T O N I O](https://osu.ppy.sh/users/12760743)** ![][flag_ES] | **5** | 1 | ![][flag_ES] [kazamabc](https://osu.ppy.sh/users/6937470) | [#1](https://osu.ppy.sh/community/matches/90436129) |
 | Latinoamerica Norte | [sigmadroid](https://osu.ppy.sh/users/665148) ![][flag_MX] | 3 | **5** | ![][flag_MX] **[Jalepers](https://osu.ppy.sh/users/7341086)** | [#1](https://osu.ppy.sh/community/matches/90412279) |
 
 ### Swiss round (week 2)
