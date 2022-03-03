@@ -701,7 +701,7 @@ Monday, 23 August 2021:
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
@@ -714,18 +714,17 @@ Monday, 23 August 2021:
 11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
 12. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
     - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from the future iterations of the tournament by the Tournament Management.
-    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
-13. Failing to attend in more than two matches without a clear reason of absence will result in a blacklist for the next oSEAT instalment (oSEAT6).
+    - Usage of any tools and programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually.
    - In order to be eligible to play in the tournament, a player must either:
      - Have the flag of any of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Philippines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, or ![][flag_VN] Vietnam) displayed on their profile, ***or***
-     - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
+     - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by any of the aforementioned countries.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
-4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
+4. Referees and mappool selectors may not participate as players in this tournament.
 
 ### Round-specific rules
 
@@ -789,15 +788,15 @@ Monday, 23 August 2021:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player is obligated to ban **two beatmaps** from the mappool, with the first ban given prior to the beginning of the match and the second ban given after 4 maps have been played. These beatmaps are not allowed to be picked by any player during the entire match.
+2. Each player has to ban **one beatmap** (in the Swiss rounds) or **two beatmaps** (in the knock-out stage) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+   - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed; banning NM1 and HD1 is allowed; banning HD1 and HD2, however, is *not* allowed.
    - Banning does not apply in the Qualifier lobbies.
-3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own outside the multiplayer lobby.
-4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, FL, or any possible combinations of the four mods.
-   - Playing a FreeMod pick without any mods activated is not allowed.
-5. In case a beatmap ends with a score tie, **the player that doesn't pick the beatmap** gets the point.
-6. In case of a tiebreaker, each player will discreetly ban 1 of the 3 remaining available beatmaps from the mappool. This is done by sending an in-game PM with your ban to the match referee. The one beatmap that ends up not being banned by both players will be played as the tiebreaker.
-   - If both players ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining possible tiebreakers will be played.
-7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
+3. Each player is free to select one warm-up beatmap. Picking beatmaps with questionable content is prohibited.
+   - Warm-ups do not apply in the Qualifier lobbies.
+4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
+   - Players who opt to play with EZ in a FreeMod pick will have their final score on the corresponding beatmap multiplied by `x1.5`.
+   - Playing a FreeMod pick without any mods applied is not allowed.
+5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
