@@ -414,6 +414,9 @@ Sunday, 5 September 2021:
 
 | Division | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| España | [teenager](https://osu.ppy.sh/users/14748920) ![][flag_ES] | 2 | **5** | ![][flag_ES] **[V I C E N T E](https://osu.ppy.sh/users/13962152)** | [#1](https://osu.ppy.sh/community/matches/90380885) |
+| Latinoamerica Sur | [ChUbi](https://osu.ppy.sh/users/9589295) ![][flag_CL] | 4 | 4 | ![][flag_AR] [Amuro](https://osu.ppy.sh/users/7119659) | [#1](https://osu.ppy.sh/community/matches/90385217) |
+| Latinoamerica Sur | [Rondro](https://osu.ppy.sh/users/9293124) ![][flag_UY] | 2 | **5** | ![][flag_AR] **[Kaoshii](https://osu.ppy.sh/users/7807935)** | [#1](https://osu.ppy.sh/community/matches/90387031) |
 
 ### Swiss round (week 2)
 
