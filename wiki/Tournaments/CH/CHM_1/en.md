@@ -448,6 +448,9 @@ Monday, 6 September 2021:
 | Latinoamerica Sur | [Pancho](https://osu.ppy.sh/users/11305398) ![][flag_CL] | 4 | 4 | ![][flag_CL] [DaiixD](https://osu.ppy.sh/users/7479242) | [#1](https://osu.ppy.sh/community/matches/90444885) |
 | Latinoamerica Sur | [kanocchi](https://osu.ppy.sh/users/2321050) ![][flag_CL] | 4 | 4 | ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | [#1](https://osu.ppy.sh/community/matches/90444722) |
 | Latinoamerica Sur | [Ceja](https://osu.ppy.sh/users/4185921) ![][flag_AR] | 1 | **5** | ![][flag_AR] **[Pein](https://osu.ppy.sh/users/2212941)** | [#1](https://osu.ppy.sh/community/matches/90447861) |
+| Latinoamerica Sur | **[Lexalia](https://osu.ppy.sh/users/1887616)** ![][flag_AR] | **5** | 1 | ![][flag_UY] [Kazuki K](https://osu.ppy.sh/users/6407282) | [#1](https://osu.ppy.sh/community/matches/90447863) |
+| Latinoamerica Sur | [daanit](https://osu.ppy.sh/users/6159669) ![][flag_UY] | 0 | **5** | ![][flag_CL] **[Mathi](https://osu.ppy.sh/users/5339515)** | [#1](https://osu.ppy.sh/community/matches/90450330) |
+| Latinoamerica Sur | **[BTG4](https://osu.ppy.sh/users/10659233)** ![][flag_AR] | **5** | 2 | ![][flag_AR] [Amuro](https://osu.ppy.sh/users/7119659) | [#1](https://osu.ppy.sh/community/matches/90450331) |
 
 ### Swiss round (week 2)
 
