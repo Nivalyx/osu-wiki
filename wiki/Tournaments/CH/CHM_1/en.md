@@ -459,6 +459,9 @@ Monday, 6 September 2021:
 | Latinoamerica Norte | **[KevstracK](https://osu.ppy.sh/users/5325213)** ![][flag_MX] | **5** | 3 | ![][flag_CO] [Carlosflow](https://osu.ppy.sh/users/11940767) | [#1](https://osu.ppy.sh/community/matches/90454417) |
 | Latinoamerica Sur | [Kuromiau](https://osu.ppy.sh/users/2347281) ![][flag_CL] | 0 | **5** | ![][flag_AR] **[Kaoshii](https://osu.ppy.sh/users/7807935)** | [#1](https://osu.ppy.sh/community/matches/90454342) |
 | Latinoamerica Norte | [-Wolfy-](https://osu.ppy.sh/users/4497582) ![][flag_MX] | 4 | 4 | ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461) | [#1](https://osu.ppy.sh/community/matches/90456167) |
+| Latinoamerica Sur | **[xaxreid](https://osu.ppy.sh/users/4227431)** ![][flag_CL] | **5** | 2 | ![][flag_AR] [Emiru Ikuno 2](https://osu.ppy.sh/users/9393446) | [#1](https://osu.ppy.sh/community/matches/90457068) |
+| Latinoamerica Norte | **[-Hebel-](https://osu.ppy.sh/users/6169483)** ![][flag_MX] | **5** | 3 | ![][flag_MX] [Siros](https://osu.ppy.sh/users/3787685) | [#1](https://osu.ppy.sh/community/matches/90457973) |
+| Latinoamerica Norte | **[Skill](https://osu.ppy.sh/users/7802027)** ![][flag_DO] | **5** | 1 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | [#1](https://osu.ppy.sh/community/matches/90460080) |
 
 ### Swiss round (week 2)
 
