@@ -783,7 +783,7 @@ Monday, 23 August 2021:
 3. Each player is free to select one warm-up beatmap. Picking beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.
 4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
-   - Playing a FreeMod pick with EZ will be granted a `x1.5` score multiplier bonus.
+   - Players who choose to play a FreeMod pick with EZ will be compensated with a `x1.5` score multiplier bonus.
    - Playing a FreeMod pick without any mods applied is not allowed.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
