@@ -751,7 +751,7 @@ Monday, 23 August 2021:
 
 1. All players will be matched against five other players in their respective division over the course of three weeks based on their Qualifier seed.
 2. **There are no Tiebreakers in the Swiss round.**
-   - Players who lose in the upper bracket can still play again on the lower bracket.
+   - All matches in the Swiss round are going to be played until one of the player has  5 points, or
 4. Based on their performance in the Qualifier, players will be ordered based on the following criteria:
 5. All matches in the Swiss round are done in a Best-of-9 matchup format.
 
@@ -783,7 +783,7 @@ Monday, 23 August 2021:
 3. Each player is free to select one warm-up beatmap. Picking beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.
 4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
-   - Players who opt to play with EZ in a FreeMod pick are going to have their score on the corresponding beatmap multiplied by `x1.5`.
+   - Playing a FreeMod pick with EZ will be granted a `x1.5` score multiplier bonus.
    - Playing a FreeMod pick without any mods applied is not allowed.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
