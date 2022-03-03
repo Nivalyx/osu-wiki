@@ -454,6 +454,8 @@ Monday, 6 September 2021:
 | Latinoamerica Sur | **[BTG4](https://osu.ppy.sh/users/10659233)** ![][flag_AR] | **5** | 2 | ![][flag_AR] [Amuro](https://osu.ppy.sh/users/7119659) | [#1](https://osu.ppy.sh/community/matches/90450331) |
 | España | **[Kalal331](https://osu.ppy.sh/users/8433636)** ![][flag_ES] | **5** | 3 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481) | [#1](https://osu.ppy.sh/community/matches/90452383) |
 | Latinoamerica Sur | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **5** | 3 | ![][flag_CL] [Gonzah](https://osu.ppy.sh/users/12434652) | [#1](https://osu.ppy.sh/community/matches/90450372) |
+| Latinoamerica Sur | [ChUbi](https://osu.ppy.sh/users/9589295) ![][flag_CL] | 4 | 4 | ![][flag_CL] [NO37](https://osu.ppy.sh/users/4653583) | [#1](https://osu.ppy.sh/community/matches/90452381) |
+| Latinoamerica Sur | [Kuromiau](https://osu.ppy.sh/users/2347281) ![][flag_CL] | 0 | **5** | ![][flag_AR] **[Kaoshii](https://osu.ppy.sh/users/7807935)** | [#1](https://osu.ppy.sh/community/matches/90454342) |
 
 ### Swiss round (week 2)
 
