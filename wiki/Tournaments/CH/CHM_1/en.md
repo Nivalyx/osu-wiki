@@ -390,6 +390,8 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### Finals (week 2)
+
 ### Finals (week 1)
 
 Saturday, 2 October 2021:
