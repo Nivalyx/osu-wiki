@@ -743,7 +743,7 @@ Monday, 23 August 2021:
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their average rank combined from each individual Qualifier beatmaps.
-   - 24 players from the Latinoamerica Norte, 24 players from the Latinoamerica Sur, and 12 players from the España with **the highest average rank combined from each individual Qualifier beatmaps in each division** will advance to their respective division's Swiss round.
+   - 24 players from the Latinoamerica Norte division, 24 players from the Latinoamerica Sur division, and 12 players from the España division with **the highest average rank combined from each individual Qualifier beatmaps in each division** will advance to their respective division's Swiss round.
    - If there are two (or more) players who share the same average rank, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
@@ -751,9 +751,13 @@ Monday, 23 August 2021:
 
 1. All players will be matched against five other players in their respective division over the course of three weeks based on their Qualifier seed.
 2. **There are no Tiebreakers in the Swiss round.**
-   - All matches in the Swiss round are going to be played until one of the player has  5 points, or
-4. Based on their performance in the Qualifier, players will be ordered based on the following criteria:
-5. All matches in the Swiss round are done in a Best-of-9 matchup format.
+   - All matches in the Swiss round are going to be played until there's a player who has won 5 points *or* the score reaches out 4-4 (in which the match will be considered as a *draw*).
+3. Based on their performance in the Swiss round, players will be ordered based on the following criteria:
+   - Number of wins.
+   - Number of draws.
+   - Head-to-head record against other players.
+   - Whether there are players who are disqualified from the tournament.
+4. 7 players from the Latinoamerica Norte division, 7 players from the Latinoamerica Sur division, and 2 players from the España division with **the highest average rank combined from each individual Qualifier beatmaps in each division** will advance to their respective division's Swiss round.
 
 #### Knock-out stage rules
 
