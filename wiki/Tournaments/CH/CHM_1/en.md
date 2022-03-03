@@ -766,7 +766,7 @@ Monday, 23 August 2021:
 3. The modified Double Elimination System works as follows:
    - Players who lose in the upper bracket can still play again on the lower bracket.
    - Players who lose in the lower bracket will be eliminated from the tournament.
-4. **There will be no bracket reset in the Grand Final.** Instead of a traditional bracket reset system, the Grand Final will instead be played across three sets of matches in which 
+4. **There will be no bracket reset in the Grand Final.** Instead of a traditional bracket reset system, the Grand Final will instead be played across three sets of matches in which each player needs to win at least 2 out of the 3 contested sets in order to clinch the championship title.
 5. Players who can compete in the next round are determined by the following criteria:
    - In the Round of 16 and the Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
    - In the Semifinals onwards, each player needs to win 7 points in order to to win a match. (Best-of-13) 
