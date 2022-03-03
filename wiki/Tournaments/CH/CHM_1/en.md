@@ -392,17 +392,24 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-Friday, 25 September 2021:
+Saturday, 25 September 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[Riot](https://osu.ppy.sh/users/4256461)** ![][flag_MX] | **7** | 2 | ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050) | [#1](https://osu.ppy.sh/community/matches/91429011) |
 
-Saturday, 26 September 2021:
+Sunday, 26 September 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Skill](https://osu.ppy.sh/users/7802027) ![][flag_DO] | 6 | **7** | ![][flag_UY] **[Rebo](https://osu.ppy.sh/users/6942259)** | [#1](https://osu.ppy.sh/community/matches/91488005) |
 | Upper | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **7** | 3 | ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743) | [#1](https://osu.ppy.sh/community/matches/91465416) |
+| Lower | **[Gonzah](https://osu.ppy.sh/users/12434652)** ![][flag_CL] | **7** | 5 | ![][flag_MX] [Andros](https://osu.ppy.sh/users/9072586) | [#1](https://osu.ppy.sh/community/matches/91473190) |
+
+Monday, 27 September 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 
 ### Quarterfinals
 
