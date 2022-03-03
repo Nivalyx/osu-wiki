@@ -720,11 +720,19 @@ Monday, 23 August 2021:
 
 1. All interested players are required to register into the tournament individually.
    - In order to be eligible to play in the tournament, a player must either:
-     - Have the flag of any of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (![][flag_BN] Brunei Darussalam, ![][flag_KH] Cambodia, ![][flag_ID] Indonesia, ![][flag_LA] Laos, ![][flag_MY] Malaysia, ![][flag_MM] Myanmar, ![][flag_PH] The Philippines, ![][flag_SG] Singapore, ![][flag_TH] Thailand, or ![][flag_VN] Vietnam) displayed on their profile, ***or***
+     - Have the flag of any of the Spanish-speaking countries as listed by the [Ver País website](https://www.verpais.com/) (![][flag_AR] Argentina, ![][flag_BO] Bolivia, ![][flag_CL] Chile, ![][flag_CO] Colombia, ![][flag_CR] Costa Rica, ![][flag_CU] Cuba, ![][flag_DO] Dominican Republic, ![][flag_EC] Ecuador, ![][flag_GQ] Equatorial Guinea, ![][flag_SV] El Salvador, ![][flag_GT] Guatemala, ![][flag_HN] Honduras, ![][flag_MX] Mexico, ![][flag_PA] Panama, ![][flag_PY] Paraguay, ![][flag_PE] Peru, ![][flag_PR] Puerto Rico, ![][flag_ES] Spain, ![][flag_UY] Uruguay, and ![][flag_VE] Venezuela) displayed on their profile, ***or***
      - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by any of the aforementioned countries.
-2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
-3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
-4. Referees and mappool selectors may not participate as players in this tournament.
+2. Upon registration, players will be allocated into three different divisions according to their country of origin as follows:
+
+| Division | Country |
+| :-: | :-- |
+| Latinoamerica Norte | ![][flag_CO] Colombia, ![][flag_CR] Costa Rica, ![][flag_CU] Cuba, ![][flag_DO] Dominican Republic, ![][flag_EC] Ecuador, ![][flag_SV] El Salvador, ![][flag_GT] Guatemala, ![][flag_HN] Honduras, ![][flag_MX] Mexico, ![][flag_PA] Panama, ![][flag_PE] Peru, ![][flag_PR] Puerto Rico, ![][flag_VE] Venezuela |
+| Latinoamerica Sur | ![][flag_AR] Argentina, ![][flag_BO] Bolivia, ![][flag_CL] Chile, ![][flag_PY] Paraguay, ![][flag_UY] Uruguay |
+| España | ![][flag_ES] Spain |
+
+3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the Tournament Management.
+4. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
+5. Referees and mappool selectors may not participate as players in this tournament.
 
 ### Round-specific rules
 
