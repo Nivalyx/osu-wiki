@@ -450,7 +450,9 @@ Monday, 6 September 2021:
 | Latinoamerica Sur | [Ceja](https://osu.ppy.sh/users/4185921) ![][flag_AR] | 1 | **5** | ![][flag_AR] **[Pein](https://osu.ppy.sh/users/2212941)** | [#1](https://osu.ppy.sh/community/matches/90447861) |
 | Latinoamerica Sur | **[Lexalia](https://osu.ppy.sh/users/1887616)** ![][flag_AR] | **5** | 1 | ![][flag_UY] [Kazuki K](https://osu.ppy.sh/users/6407282) | [#1](https://osu.ppy.sh/community/matches/90447863) |
 | Latinoamerica Sur | [daanit](https://osu.ppy.sh/users/6159669) ![][flag_UY] | 0 | **5** | ![][flag_CL] **[Mathi](https://osu.ppy.sh/users/5339515)** | [#1](https://osu.ppy.sh/community/matches/90450330) |
+| Latinoamerica Norte | **[Flameshock](https://osu.ppy.sh/users/8349047)** ![][flag_MX] | **5** | 1 | ![][flag_CO] [ElMick11](https://osu.ppy.sh/users/10510143) | [#1](https://osu.ppy.sh/community/matches/90452382) |
 | Latinoamerica Sur | **[BTG4](https://osu.ppy.sh/users/10659233)** ![][flag_AR] | **5** | 2 | ![][flag_AR] [Amuro](https://osu.ppy.sh/users/7119659) | [#1](https://osu.ppy.sh/community/matches/90450331) |
+| España | **[Kalal331](https://osu.ppy.sh/users/8433636)** ![][flag_ES] | **5** | 3 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481) | [#1](https://osu.ppy.sh/community/matches/90452383) |
 | Latinoamerica Sur | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **5** | 3 | ![][flag_CL] [Gonzah](https://osu.ppy.sh/users/12434652) | [#1](https://osu.ppy.sh/community/matches/90450372) |
 
 ### Swiss round (week 2)
