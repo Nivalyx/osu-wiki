@@ -390,6 +390,21 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### Finals (week 1)
+
+Saturday, 2 October 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [xaxreid](https://osu.ppy.sh/users/4227431) ![][flag_CL] | 6 | **7** | ![][flag_ES] **[A N T O N I O](https://osu.ppy.sh/users/12760743)** | [#1](https://osu.ppy.sh/community/matches/91865607) |
+| Lower | **[Mathi](https://osu.ppy.sh/users/5339515)** ![][flag_CL] | **7** | 0 | ![][flag_CL] [Gonzah](https://osu.ppy.sh/users/12434652) | [#1](https://osu.ppy.sh/community/matches/91776564) |
+
+Monday, 4 October 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Arnold24x24](https://osu.ppy.sh/users/2291265)** ![][flag_PE] | **7** | 2 | ![][flag_CL] [Intercambing](https://osu.ppy.sh/users/2546001) | [#1](https://osu.ppy.sh/community/matches/91881838) |
+
 ### Semifinals
 
 Saturday, 25 September 2021:
@@ -410,6 +425,9 @@ Monday, 27 September 2021:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Arnold24x24](https://osu.ppy.sh/users/2291265)** ![][flag_PE] | **7** | 4 | ![][flag_CL] [Mathi](https://osu.ppy.sh/users/5339515) | [#1](https://osu.ppy.sh/community/matches/91542990) |
+| Lower | **[xaxreid](https://osu.ppy.sh/users/4227431)** ![][flag_CL] | **7** | 4 | ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | [#1](https://osu.ppy.sh/community/matches/91548251) |
+| Lower | [Riot](https://osu.ppy.sh/users/4256461) ![][flag_MX] | 0 | **7** | ![][flag_CL] **[Gonzah](https://osu.ppy.sh/users/12434652)** | *win by default* |
 
 ### Quarterfinals
 
