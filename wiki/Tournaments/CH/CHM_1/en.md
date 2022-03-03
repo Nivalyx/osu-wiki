@@ -751,27 +751,25 @@ Monday, 23 August 2021:
 
 1. All players will be matched against five other players in their respective division over the course of three weeks based on their Qualifier seed.
 2. **There are no Tiebreakers in the Swiss round.**
-   - All matches in the Swiss round are going to be played until there's a player who has won 5 points *or* the score reaches out 4-4 (in which the match will be considered as a *draw*).
+   - All matches in the Swiss round are going to be played until either player obtains 5 points *or* the score gets to 4-4 (in which the match will then be considered as a *draw*).
 3. Based on their performance in the Swiss round, players will be ordered based on the following criteria:
    - Number of wins.
    - Number of draws.
    - Head-to-head record against other players.
    - Whether there are players who are disqualified from the tournament.
-4. 7 players from the Latinoamerica Norte division, 7 players from the Latinoamerica Sur division, and 2 players from the España division with **the highest average rank combined from each individual Qualifier beatmaps in each division** will advance to their respective division's Swiss round.
+4. The top 7 players in the Latinoamerica Norte division, top 7 players in the Latinoamerica Sur division, and top 2 players in the España division at the end of the Swiss round will advance to the Round of 16.
 
 #### Knock-out stage rules
 
-1. All remaining will be matched to each other based on their Preliminary groups placement as described above.
+1. All players will be matched against each other based on their finishing position in the Swiss round.
 2. Players will compete against each other using the modified Double Elimination system.
 3. The modified Double Elimination System works as follows:
    - Players who lose in the upper bracket can still play again on the lower bracket.
    - Players who lose in the lower bracket will be eliminated from the tournament.
-   - In the Grand Final, the winner of the the upper bracket will start the match with a 2-point advantage against the winner of the lower bracket. **There will be no bracket reset in the Grand Final.**
-4. Players who can compete in the next round are determined by the following criteria:
-   - In the Round of 64, Round of 32, and Round of 16, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Quarterfinals and Semifinals, each player needs to win 7 points in order to to win a match. (Best-of-13)
-   - In both of the Finals weeks (excluding the Grand Final), each player needs to win 8 points in order to to win a match. (Best-of-15)   
-   - In the Grand Final, each player needs to win 9 points in order to to win a match (Best-of-17) with the winner of the the Upper Bracket starting the match with a 2-point advantage as described above.
+4. **There will be no bracket reset in the Grand Final.** Instead of a traditional bracket reset system, the Grand Final will instead be played across three sets of matches in which 
+5. Players who can compete in the next round are determined by the following criteria:
+   - In the Round of 16 and the Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Semifinals onwards, each player needs to win 7 points in order to to win a match. (Best-of-13) 
    - Players who win By default.
    - If there are players who are disqualified from the tournament.
 
