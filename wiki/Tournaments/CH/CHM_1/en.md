@@ -390,7 +390,9 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Swiss round (week 2)
+### Round of 16
+
+### Swiss round (week 3)
 
 Friday, 3 September 2021:
 
