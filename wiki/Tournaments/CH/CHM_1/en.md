@@ -390,6 +390,20 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### Semifinals
+
+Friday, 25 September 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Riot](https://osu.ppy.sh/users/4256461)** ![][flag_MX] | **7** | 2 | ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050) | [#1](https://osu.ppy.sh/community/matches/91429011) |
+
+Saturday, 26 September 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **7** | 3 | ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743) | [#1](https://osu.ppy.sh/community/matches/91465416) |
+
 ### Quarterfinals
 
 Sunday, 19 September 2021:
