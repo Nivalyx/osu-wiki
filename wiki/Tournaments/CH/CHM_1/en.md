@@ -402,6 +402,18 @@ Saturday, 4 September 2021:
 
 | Division | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| España | [-AmHappy-](https://osu.ppy.sh/users/13955752) ![][flag_ES] | 1 | **5** | ![][flag_ES] **[NHarmonia](https://osu.ppy.sh/users/9582556)** | [#1](https://osu.ppy.sh/community/matches/90370794) |
+| Latinoamerica Norte | **[Arnold24x24](https://osu.ppy.sh/users/2291265)** ![][flag_PE] | **5** | 0 | ![][flag_PA] [hammytr](https://osu.ppy.sh/users/11562243) | [#1](https://osu.ppy.sh/community/matches/90347161) |
+| Latinoamerica Sur | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **5** | 3 | ![][flag_CL] [xaxreid](https://osu.ppy.sh/users/4227431) | [#1](https://osu.ppy.sh/community/matches/90337542) |
+| España | [kazamabc](https://osu.ppy.sh/users/6937470) ![][flag_ES] | 3 | **5** | ![][flag_ES] **[Kalal331](https://osu.ppy.sh/users/8433636)** | [#1](https://osu.ppy.sh/community/matches/90373399) |
+| Latinoamerica Norte | [Skill](https://osu.ppy.sh/users/7802027) ![][flag_DO] | 2 | **5** | ![][flag_MX] **[-Wolfy-](https://osu.ppy.sh/users/4497582)** | [#1](https://osu.ppy.sh/community/matches/90340390) |
+| España | **[A N T O N I O](https://osu.ppy.sh/users/12760743)** ![][flag_ES] | **5** | 0 | ![][flag_ES] [amborgesa](https://osu.ppy.sh/users/1968481) | [#1](https://osu.ppy.sh/community/matches/90376098) |
+| Latinoamerica Norte | **[Trint](https://osu.ppy.sh/users/10670748)** ![][flag_MX] | **5** | 2 | ![][flag_MX] [xHei\_57](https://osu.ppy.sh/users/1770700) | [#1](https://osu.ppy.sh/community/matches/90351925) |
+
+Sunday, 5 September 2021:
+
+| Division | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 
 ### Swiss round (week 2)
 
