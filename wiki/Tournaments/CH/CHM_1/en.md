@@ -463,7 +463,14 @@ Monday, 6 September 2021:
 | Latinoamerica Sur | **[xaxreid](https://osu.ppy.sh/users/4227431)** ![][flag_CL] | **5** | 2 | ![][flag_AR] [Emiru Ikuno 2](https://osu.ppy.sh/users/9393446) | [#1](https://osu.ppy.sh/community/matches/90457068) |
 | Latinoamerica Norte | **[-Hebel-](https://osu.ppy.sh/users/6169483)** ![][flag_MX] | **5** | 3 | ![][flag_MX] [Siros](https://osu.ppy.sh/users/3787685) | [#1](https://osu.ppy.sh/community/matches/90457973) |
 | Latinoamerica Norte | **[Skill](https://osu.ppy.sh/users/7802027)** ![][flag_DO] | **5** | 1 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | [#1](https://osu.ppy.sh/community/matches/90460080) |
+| España | [dariito0xx](https://osu.ppy.sh/users/4739655) ![][flag_ES] | 4 | 4 | ![][flag_ES] [AngelXC](https://osu.ppy.sh/users/7334711) | [#1](https://osu.ppy.sh/community/matches/90485912) |
 | Latinoamerica Norte | **[pundice](https://osu.ppy.sh/users/7940696)** ![][flag_MX] | **5** | 1 | ![][flag_MX] [Jalepers](https://osu.ppy.sh/users/7341086) | [#1](https://osu.ppy.sh/community/matches/90465377) |
+
+Tuesday, 7 September 2021:
+
+| Division | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Latinoamerica Norte | **[Trint](https://osu.ppy.sh/users/7940696)** ![][flag_MX] | **5** | 3 | ![][flag_MX] [sigmadroid](https://osu.ppy.sh/users/7341086) | [#1](https://osu.ppy.sh/community/matches/90510383) |
 
 ### Swiss round (week 2)
 
