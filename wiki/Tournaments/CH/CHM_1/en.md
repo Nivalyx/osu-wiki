@@ -416,7 +416,10 @@ Sunday, 5 September 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | España | [teenager](https://osu.ppy.sh/users/14748920) ![][flag_ES] | 2 | **5** | ![][flag_ES] **[V I C E N T E](https://osu.ppy.sh/users/13962152)** | [#1](https://osu.ppy.sh/community/matches/90380885) |
 | Latinoamerica Sur | [ChUbi](https://osu.ppy.sh/users/9589295) ![][flag_CL] | 4 | 4 | ![][flag_AR] [Amuro](https://osu.ppy.sh/users/7119659) | [#1](https://osu.ppy.sh/community/matches/90385217) |
+| Latinoamerica Norte | **[Andros](https://osu.ppy.sh/users/9072586)** ![][flag_MX] | **5** | 1 | ![][flag_CO] [Carlosflow](https://osu.ppy.sh/users/11940767) | [#1](https://osu.ppy.sh/community/matches/90388642) |
 | Latinoamerica Sur | [Rondro](https://osu.ppy.sh/users/9293124) ![][flag_UY] | 2 | **5** | ![][flag_AR] **[Kaoshii](https://osu.ppy.sh/users/7807935)** | [#1](https://osu.ppy.sh/community/matches/90387031) |
+| Latinoamerica Norte | [ElMick13](https://osu.ppy.sh/users/3562488) ![][flag_CO] | 2 | **5** | ![][flag_VE] **[AR9](https://osu.ppy.sh/users/5136821)** | [#1](https://osu.ppy.sh/community/matches/90387019) |
+| Latinoamerica Sur | **[kanocchi](https://osu.ppy.sh/users/2321050)** ![][flag_CL] | **5** | 2 | ![][flag_CL] [NO37](https://osu.ppy.sh/users/4653583) | [#1](https://osu.ppy.sh/community/matches/90391905) |
 
 ### Swiss round (week 2)
 
