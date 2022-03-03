@@ -421,6 +421,7 @@ Sunday, 5 September 2021:
 | Latinoamerica Norte | [ElMick13](https://osu.ppy.sh/users/3562488) ![][flag_CO] | 2 | **5** | ![][flag_VE] **[AR9](https://osu.ppy.sh/users/5136821)** | [#1](https://osu.ppy.sh/community/matches/90387019) |
 | Latinoamerica Sur | **[kanocchi](https://osu.ppy.sh/users/2321050)** ![][flag_CL] | **5** | 2 | ![][flag_CL] [NO37](https://osu.ppy.sh/users/4653583) | [#1](https://osu.ppy.sh/community/matches/90391905) |
 | Latinoamerica Sur | [Lexalia](https://osu.ppy.sh/users/1887616) ![][flag_AR] | 0 | **5** | ![][flag_CL] **[Mathi](https://osu.ppy.sh/users/5339515)** | [#1](https://osu.ppy.sh/community/matches/90395518) |
+| Latinoamerica Sur | **[Gonzah](https://osu.ppy.sh/users/12434652)** ![][flag_CL] | **5** | 1 | ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398) | [#1](https://osu.ppy.sh/community/matches/90395356) |
 
 ### Swiss round (week 2)
 
