@@ -424,6 +424,7 @@ Sunday, 5 September 2021:
 | Latinoamerica Sur | **[Gonzah](https://osu.ppy.sh/users/12434652)** ![][flag_CL] | **5** | 1 | ![][flag_CL] [Pancho](https://osu.ppy.sh/users/11305398) | [#1](https://osu.ppy.sh/community/matches/90395356) |
 | Latinoamerica Sur | [Kazuki K](https://osu.ppy.sh/users/6407282) ![][flag_UY] | 4 | 4 | ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490) | [#1](https://osu.ppy.sh/community/matches/90400844) |
 | Latinoamerica Sur | **[Emiru Ikuno 2](https://osu.ppy.sh/users/9393446)** ![][flag_AR] | **5** | 2 | ![][flag_AR] [Ceja](https://osu.ppy.sh/users/4185921) | [#1](https://osu.ppy.sh/community/matches/90398479) |
+| Latinoamerica Norte | [KevstracK](https://osu.ppy.sh/users/6407282) ![][flag_MX] | 4 | 4 | ![][flag_MX] [Camberos](https://osu.ppy.sh/users/2553519) | [#1](https://osu.ppy.sh/community/matches/90400847) |
 | Latinoamerica Sur | [Pein](https://osu.ppy.sh/users/2212941) ![][flag_AR] | 3 | **5** | ![][flag_UY] **[Rebo](https://osu.ppy.sh/users/6942259)** | [#1](https://osu.ppy.sh/community/matches/90400931) |
 
 ### Swiss round (week 2)
