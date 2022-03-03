@@ -738,28 +738,16 @@ Monday, 23 August 2021:
 
 #### Qualifier rules
 
-1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
-2. In the lobby, all players will have to consecutively play all of the nine Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+1. Each player will have to sign up to one of the many Qualifier lobbies that have been prepared by the Tournament Management in advance.
+2. In the lobby, all players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on the amount of Qualifier points they accumulate.
-   - The Qualifier points are awarded for each individual beatmap and calculated by the following mechanism: the best performer on the beatmap across all Qualifier lobbies combined gains +1 point added to their Qualifier points tally, the second best performer gains +2 points, the third best performer gains +3 points, and so on.
-6. The 96 players with the **lowest amount of accumulated Qualifier points in total** will advance to the Preliminary groups as follows:
+5. Based on their performance in the Qualifier, players will be ranked based on their average rank combined from each individual Qualifier beatmaps 
+   - 24 players from the Latinoamerica Norte, 24 players from the Latinoamerica Sur, and 12 players from the España with **the highest average rank combined from each individual Qualifier beatmaps in each division** will advance to the Swiss round.
+   - If there are two (or more) players who share the same average rank, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
+6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
-| Qualifier ranking | Preliminary group bracket |
-| :-: | :-- |
-| #1 - #8 | Upper / **Seed A** |
-| #9 - #16 | Upper / **Seed B** |
-| #17 - #24 | Upper / **Seed C** |
-| #25 - #32 | Upper / **Seed D** |
-| #33 - #48 | Lower / **Seed A** |
-| #49 - #64 | Lower / **Seed B** |
-| #65 - #80 | Lower / **Seed C** |
-| #81 - #96 | Lower / **Seed D** |
-
-7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
-
-#### Preliminary group phase rules
+#### Swiss round rules
 
 1. In the Preliminary groups, all previously qualified players will be divided into 24 groups (8 in the upper bracket and 16 in the lower bracket) consisting of 4 different players each based on their seed.
 2. All players in each group will face each other over a single week based on the following bracket scheme, with the following preceedings:
@@ -796,7 +784,7 @@ Monday, 23 August 2021:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** (in the Swiss rounds) or **two beatmaps** (in the knock-out stage) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+2. Each player has to ban **one beatmap** (in the Swiss round) or **two beatmaps** (in the knock-out stage) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed; banning NM1 and HD1 is allowed; banning HD1 and HD2, however, is *not* allowed.
    - Banning does not apply in the Qualifier lobbies.
 3. Each player is free to select one warm-up beatmap. Picking beatmaps with questionable content is prohibited.
