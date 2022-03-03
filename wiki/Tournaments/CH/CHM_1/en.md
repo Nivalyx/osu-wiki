@@ -445,6 +445,9 @@ Monday, 6 September 2021:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | España | **[NHarmonia](https://osu.ppy.sh/users/9582556)** ![][flag_ES] | **5** | 1 | ![][flag_ES] [V I C E N T E](https://osu.ppy.sh/users/13962152) | [#1](https://osu.ppy.sh/community/matches/90444723) |
 | Latinoamerica Norte | [hammytr](https://osu.ppy.sh/users/11562243) ![][flag_PA] | 2 | **5** | ![][flag_MX] **[Andros](https://osu.ppy.sh/users/9072586)** | [#1](https://osu.ppy.sh/community/matches/90441740) |
+| Latinoamerica Sur | [Pancho](https://osu.ppy.sh/users/11305398) ![][flag_CL] | 4 | 4 | ![][flag_CL] [DaiixD](https://osu.ppy.sh/users/7479242) | [#1](https://osu.ppy.sh/community/matches/90444885) |
+| Latinoamerica Sur | [kanocchi](https://osu.ppy.sh/users/2321050) ![][flag_CL] | 4 | 4 | ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | [#1](https://osu.ppy.sh/community/matches/90444722) |
+| Latinoamerica Sur | [Ceja](https://osu.ppy.sh/users/4185921) ![][flag_AR] | 1 | **5** | ![][flag_AR] **[Pein](https://osu.ppy.sh/users/2212941)** | [#1](https://osu.ppy.sh/community/matches/90447861) |
 
 ### Swiss round (week 2)
 
