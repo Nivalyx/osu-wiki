@@ -434,6 +434,8 @@ Sunday, 5 September 2021:
 | Latinoamerica Norte | [Flameshock](https://osu.ppy.sh/users/8349047) ![][flag_MX] | 4 | 4 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | [#1](https://osu.ppy.sh/community/matches/90402977) |
 | España | **[A N T O N I O](https://osu.ppy.sh/users/12760743)** ![][flag_ES] | **5** | 1 | ![][flag_ES] [kazamabc](https://osu.ppy.sh/users/6937470) | [#1](https://osu.ppy.sh/community/matches/90436129) |
 | Latinoamerica Norte | [sigmadroid](https://osu.ppy.sh/users/665148) ![][flag_MX] | 3 | **5** | ![][flag_MX] **[Jalepers](https://osu.ppy.sh/users/7341086)** | [#1](https://osu.ppy.sh/community/matches/90412279) |
+| Latinoamerica Norte | [Judani](https://osu.ppy.sh/users/6787898) ![][flag_PE] | 0 | **5** | ![][flag_MX] **[Siros](https://osu.ppy.sh/users/3787685)** | *win by default* |
+| Latinoamerica Norte | [WillLITE](https://osu.ppy.sh/users/6677788) ![][flag_DO] | 0 | **5** | ![][flag_CO] **[ElMick11](https://osu.ppy.sh/users/10510143)** | *win by default* |
 
 ### Swiss round (week 2)
 
