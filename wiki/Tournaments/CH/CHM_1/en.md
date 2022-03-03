@@ -392,6 +392,18 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 2)
 
+Sunday, 10 October 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **7** | 3 | ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743) | [#1](https://osu.ppy.sh/community/matches/92156684) |
+
+Monday, 11 October 2021, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final (Set 1) | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **7** | 3 | ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743) | [#1](https://osu.ppy.sh/community/matches/92156684) |
+
 ### Finals (week 1)
 
 Saturday, 2 October 2021:
@@ -406,6 +418,7 @@ Monday, 4 October 2021:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Arnold24x24](https://osu.ppy.sh/users/2291265)** ![][flag_PE] | **7** | 2 | ![][flag_CL] [Intercambing](https://osu.ppy.sh/users/2546001) | [#1](https://osu.ppy.sh/community/matches/91881838) |
+| Lower | [Mathi](https://osu.ppy.sh/users/5339515) ![][flag_CL] | 4 | **7** | ![][flag_ES] **[A N T O N I O](https://osu.ppy.sh/users/12760743)** | [#1](https://osu.ppy.sh/community/matches/91927763) |
 
 ### Semifinals
 
