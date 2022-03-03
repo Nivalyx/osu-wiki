@@ -390,7 +390,27 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### Quarterfinals
+
 ### Round of 16
+
+Sunday, 12 September 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [-Wolfy-](https://osu.ppy.sh/users/4497582) ![][flag_MX] | 3 | **6** | ![][flag_DO] **[Skill](https://osu.ppy.sh/users/7802027)** | [#1](https://osu.ppy.sh/community/matches/90771497) |
+| Upper | **[Mathi](https://osu.ppy.sh/users/2291265)** ![][flag_CL] | **6** | 1 | ![][flag_MX] [SaintSFT](https://osu.ppy.sh/users/14970132) | [#1](https://osu.ppy.sh/community/matches/90753627) |
+| Upper | [xaxreid](https://osu.ppy.sh/users/4227431) ![][flag_CL] | 3 | **6** | ![][flag_CL] **[Gonzah](https://osu.ppy.sh/users/12434652)** | [#1](https://osu.ppy.sh/community/matches/90829272) |
+| Upper | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **6** | 0 | ![][flag_MX] [Flameshock](https://osu.ppy.sh/users/8349047) | [#1](https://osu.ppy.sh/community/matches/90769449) |
+
+Monday, 13 September 2021:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Andros](https://osu.ppy.sh/users/9072586) ![][flag_MX] | 0 | **6** | ![][flag_AR] **[Lexalia](https://osu.ppy.sh/users/1887616)** | [#1](https://osu.ppy.sh/community/matches/90811660) |
+| Upper | **[A N T O N I O](https://osu.ppy.sh/users/12760743)** ![][flag_ES] | **6** | 4 | ![][flag_UY] [Rebo](https://osu.ppy.sh/users/6942259) | [#1](https://osu.ppy.sh/community/matches/90808634) |
+| Upper | [NHarmonia](https://osu.ppy.sh/users/9582556) ![][flag_ES] | 3 | **6** | ![][flag_MX] **[Riot](https://osu.ppy.sh/users/4256461)** | [#1](https://osu.ppy.sh/community/matches/90815225) |
+| Upper | **[Arnold24x24](https://osu.ppy.sh/users/2291265)** ![][flag_PE] | **6** | 0 | ![][flag_CL] [kanocchi](https://osu.ppy.sh/users/2321050) | [#1](https://osu.ppy.sh/community/matches/90825709) |
 
 ### Swiss round (week 3)
 
