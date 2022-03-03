@@ -402,7 +402,7 @@ Monday, 11 October 2021, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final (Set 1) | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **7** | 3 | ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743) | [#1](https://osu.ppy.sh/community/matches/92156684) |
+| Grand Final (set 1) | **[Intercambing](https://osu.ppy.sh/users/2546001)** ![][flag_CL] | **7** | 3 | ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743) | [#1](https://osu.ppy.sh/community/matches/92156684) |
 
 ### Finals (week 1)
 
