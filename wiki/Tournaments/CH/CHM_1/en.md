@@ -435,7 +435,14 @@ Sunday, 5 September 2021:
 | España | **[A N T O N I O](https://osu.ppy.sh/users/12760743)** ![][flag_ES] | **5** | 1 | ![][flag_ES] [kazamabc](https://osu.ppy.sh/users/6937470) | [#1](https://osu.ppy.sh/community/matches/90436129) |
 | Latinoamerica Norte | [sigmadroid](https://osu.ppy.sh/users/665148) ![][flag_MX] | 3 | **5** | ![][flag_MX] **[Jalepers](https://osu.ppy.sh/users/7341086)** | [#1](https://osu.ppy.sh/community/matches/90412279) |
 | Latinoamerica Norte | [Judani](https://osu.ppy.sh/users/6787898) ![][flag_PE] | 0 | **5** | ![][flag_MX] **[Siros](https://osu.ppy.sh/users/3787685)** | *win by default* |
+| España  | [BabyScylla](https://osu.ppy.sh/users/9869794) ![][flag_ES] | 0 | **5** | ![][flag_ES] **[dariito0xx](https://osu.ppy.sh/users/4739655)** | *win by default* |
 | Latinoamerica Norte | [WillLITE](https://osu.ppy.sh/users/6677788) ![][flag_DO] | 0 | **5** | ![][flag_CO] **[ElMick11](https://osu.ppy.sh/users/10510143)** | *win by default* |
+| Latinoamerica Sur | [un perro](https://osu.ppy.sh/users/90086168) ![][flag_AR] | 0 | **5** | ![][flag_UY] **[daanit](https://osu.ppy.sh/users/6159669)** | *win by default* |
+
+Monday, 6 September 2021:
+
+| Division | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 
 ### Swiss round (week 2)
 
