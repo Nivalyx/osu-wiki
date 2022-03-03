@@ -742,25 +742,18 @@ Monday, 23 August 2021:
 2. In the lobby, all players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their average rank combined from each individual Qualifier beatmaps 
-   - 24 players from the Latinoamerica Norte, 24 players from the Latinoamerica Sur, and 12 players from the España with **the highest average rank combined from each individual Qualifier beatmaps in each division** will advance to the Swiss round.
+5. Based on their performance in the Qualifier, players will be ranked based on their average rank combined from each individual Qualifier beatmaps.
+   - 24 players from the Latinoamerica Norte, 24 players from the Latinoamerica Sur, and 12 players from the España with **the highest average rank combined from each individual Qualifier beatmaps in each division** will advance to their respective division's Swiss round.
    - If there are two (or more) players who share the same average rank, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Swiss round rules
 
-1. In the Preliminary groups, all previously qualified players will be divided into 24 groups (8 in the upper bracket and 16 in the lower bracket) consisting of 4 different players each based on their seed.
-2. All players in each group will face each other over a single week based on the following bracket scheme, with the following preceedings:
-
-![Preliminary groups bracket scheme](img/bracket.png)
-
-   - The **top 2 players from each upper bracket group** will qualify directly to the **Round of 32** in the **upper bracket**.
-   - The **bottom 2 players from each upper bracket group** and **the winner from each lower bracket group** will qualify to the **Round of 64** in the **upper bracket**.
-   - The **2nd and 3rd-placed player from each lower bracket group** will qualify to the **Round of 64** in the **lower bracket**.
-   - The 4th-placed player from each lower bracket group will be knocked out from the tournament.
-
-3. **The upper bracket groups and the lower bracket groups will each play a different pool.**
-4. All matches in the Preliminary groups will be done in a Best-of-9 matchup format.
+1. All players will be matched against five other players in their respective division over the course of three weeks based on their Qualifier seed.
+2. **There are no Tiebreakers in the Swiss round.**
+   - Players who lose in the upper bracket can still play again on the lower bracket.
+4. Based on their performance in the Qualifier, players will be ordered based on the following criteria:
+5. All matches in the Swiss round are done in a Best-of-9 matchup format.
 
 #### Knock-out stage rules
 
@@ -790,7 +783,7 @@ Monday, 23 August 2021:
 3. Each player is free to select one warm-up beatmap. Picking beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.
 4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
-   - Players who opt to play with EZ in a FreeMod pick will have their final score on the corresponding beatmap multiplied by `x1.5`.
+   - Players who opt to play with EZ in a FreeMod pick are going to have their score on the corresponding beatmap multiplied by `x1.5`.
    - Playing a FreeMod pick without any mods applied is not allowed.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
