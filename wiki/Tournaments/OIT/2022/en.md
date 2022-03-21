@@ -261,6 +261,31 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ## Match results
 
+### Semifinals
+
+Friday, 18 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Rexeez](https://osu.ppy.sh/users/1987591) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/98853253) |
+| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Venta](https://osu.ppy.sh/users/11320627) | *win by default* |
+
+Saturday, 19 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/98881603) |
+| Upper | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | [#1](https://osu.ppy.sh/community/matches/98883041) |
+| Lower | [rHO](https://osu.ppy.sh/users/1629553) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[D E L O N](https://osu.ppy.sh/users/11983229)** | *win by default* |
+
+Sunday, 20 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[deeto](https://osu.ppy.sh/users/10069909)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/98926983) |
+| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/98890786) |
+| Lower | [D E L O N](https://osu.ppy.sh/users/11983229) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/98930552) |
+
 ### Quarterfinals
 
 Friday, 11 March 2022:
