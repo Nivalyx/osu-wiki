@@ -114,19 +114,19 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [Jakarta Funk Brothers - INSOMNIA (AJT) \[PandaHero's Extra\]](https://osu.ppy.sh/beatmapsets/1689665#osu/3457821)
   3. [Marmalade butcher - Mirage Age (Gordon) \[Allice's Expert\]](https://osu.ppy.sh/beatmapsets/1624087#osu/3315941)  
 - HardRock
-  1. [BUMP OF CHICKEN - Makka na Sora o Mita Darou ka (CoLouRed GlaZeE) \[Jabberwocky\]](https://osu.ppy.sh/beatmapsets/1318074#osu/2731559)
-  2. [kozato - Shijuugo-nen no Yukizakura (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/759281#osu/1596845)
-  3. [RefraQ & Vorso - Biomes (Cut Ver.) (Mir) \[Phases\]](https://osu.ppy.sh/beatmapsets/1403806#osu/2895406)  
+  1. [rejection - Aimai Attitude (feat. Nakamura Sanso) (Garden) \[Girlish Extra ft. Regou\]](https://osu.ppy.sh/beatmapsets/1601852#osu/3271290)
+  2. [AKATSUKI - Hyakka Ryouran, Akatsukiyo (karaoke ver.) (Mafumafu) \[yf's Extra\]](https://osu.ppy.sh/beatmapsets/690763#osu/1678438)
+  3. [Naoki & Tatsh - Red Zone (Arbane) \[S P E E D R A V E\]](https://osu.ppy.sh/beatmapsets/498036#osu/1060078)  
 - DoubleTime
-  1. [LiSA - Akogare Bouenkyou (Meg) \[Scope\]](https://osu.ppy.sh/beatmapsets/524642#osu/1113528)
-  2. [yuikonnu - Gigantic O.T.N (Camo) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1362797#osu/3336914)
-  3. [zts - dreamenddischarger (Luscent) \[resurrection\]](https://osu.ppy.sh/beatmapsets/1414566#osu/2915636)
-  4. [Gesu no Kiwami Otome. - Jinsei no Hari (Agatsu) \[schoolboy's Insane\]](https://osu.ppy.sh/beatmapsets/1247336#osu/2693503)  
+  1. [FELT - Closed Wings (Naitoshi) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/159760#osu/390146)
+  2. [xi - Parousia (Niva) \[Eschatology (AR8.5)\]](https://osu.ppy.sh/beatmapsets/1713530#osu/3501365)
+  3. [fripSide - black bullet (Luscent) \[extinction\]](https://osu.ppy.sh/beatmapsets/1586228#osu/3239862)
+  4. [Kanno Yugo - il vento d'oro (AirinCat) \[Insane Dream\]](https://osu.ppy.sh/beatmapsets/1250853#osu/2599601)  
 - FreeMod
-  1. [MOSAIC.WAV - Tsugihagi: \<\=\> Make Peace! (Riana) \[Acylica's Extra\]](https://osu.ppy.sh/beatmapsets/1394111#osu/3392607)
-  2. [syatten remixed celas - Bird Sprite -Awakening of Light- (emu1337) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1321314#osu/2741605)  
+  1. [UNDEAD CORPORATION - Blow (Cellina) \[Collab Expert (osu! Indonesia Tournament 2022 Edit)\]](https://osu.ppy.sh/beatmapsets/1721338#osu/3517779)
+  2. [Annabel - lilac slumber (cosmic ver.) (PandaHero) \[fall\]](https://osu.ppy.sh/beatmapsets/1593278#osu/3254177)  
 - Tiebreaker
-  1. **[Dark PHOENiX - Ryokugan no Jealousy (Camo) \[Green-Eyed Monster\]](https://osu.ppy.sh/beatmapsets/1530977#osu/3131384)**
+  1. **[HISATOMI - lullaby (feat. KIRA) (uet Remix) (she luv lando) \[one more before i go...\]](https://osu.ppy.sh/beatmapsets/1513975#osu/3099626)**
 
 ### Semifinals
 
