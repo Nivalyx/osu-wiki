@@ -100,7 +100,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ### Finals (week 1)
 
-**[Download the mappack here! (139 MB)](http://drive.google.com/u/0/uc?id=1jpF6xT8N0uDkqF_0ANUQfdprhKPIEO3A&export=download)**
+**[Download the mappack here! (118 MB)](http://drive.google.com/u/0/uc?id=143Jy13SwLOra2tkw4FYY5bCutFivYa4M&export=download)**
 
 - NoMod
   1. [CON - Cruel Clocks (Meg) \[Cruel Extra\]](https://osu.ppy.sh/beatmapsets/1568793#osu/3203760)
