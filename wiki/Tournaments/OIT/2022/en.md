@@ -305,6 +305,20 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 2)
 
+Friday. 1 April 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ![][flag_ID] | 2 | **7** | ![][flag_ID] **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
+
+Saturday, 2 April 2022, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **[Lifeline](https://osu.ppy.sh/users/11367222)** ![][flag_ID] | **7** | 4 | ![][flag_ID] [deeto](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/99335582) |
+
+### Finals (week 1)
+
 Saturday, 26 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
