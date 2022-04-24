@@ -55,7 +55,7 @@ The PERAK osu! Tournament 2022 was run by various Indonesian osu! community memb
 
 ## Participants
 
-Listed below are players who qualified into the Round of 12 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 19 registered players in total.
+Listed below are the players who were participating in the tournament along with their respective seed number and average map rank combined from each individual Qualifier beatmaps.
 
 | Seed No. | Player | Avg. Map Rank |
 | :-- | :-- | :-- |
@@ -70,7 +70,6 @@ Listed below are players who qualified into the Round of 12 (along with their re
 | 9 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | 8.0 |
 | 10 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 9.1 |
 | 11 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | 10.2 |
-| 12 | ![][flag_ID] [ana\_kunn](https://osu.ppy.sh/users/2868409) | 10.3 |
 
 ## Podium
 
