@@ -384,7 +384,7 @@ Monday, 7 March 2022:
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
 2. Each player has to ban **one beatmap** (on the Round of 12 and the Quarterfinals) or **two beatmaps** (from the Semifinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
-   - Barring the tierbreaker, there are no restrictions as to which maps may and may not be banned in a match.
+   - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own before the match commences.
 4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
