@@ -55,7 +55,7 @@ The PERAK osu! Tournament 2022 was run by various Indonesian osu! community memb
 
 ## Participants
 
-Listed below are the players who were participating in the tournament along with their respective seed number and average percentage combined from each individual Qualifier beatmaps.
+Listed below are the players who were participating in the tournament along with their respective seed number and average percentage totaled from all ten Qualifier beatmaps.
 
 | Seed No. | Player | Avg. Percentage |
 | :-- | :-- | :-- |
