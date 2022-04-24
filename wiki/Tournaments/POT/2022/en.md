@@ -155,7 +155,26 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Halozy - Masshiro na Yuki (MrSergio) \[Everlasting Snow\]](https://osu.ppy.sh/beatmapsets/388887#osu/848143)**
 
-### Round of 12 & Quarterfinals
+  ### Quarterfinals
+
+- NoMod
+  1. [ITO KASHITARO - Boku no Hosomichi (Raose) \[Journey\]](https://osu.ppy.sh/beatmapsets/394691#osu/859034)
+  2. [Utagumi Setsugetsuka - Maware! Setsugetsuka (Main Black) \[S.Stream's Insane\]](https://osu.ppy.sh/beatmapsets/122674#osu/317192)
+  3. [Nhato - Gekka (Short Version) (Cubby) \[Niva's Insane (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/1382026#osu/2855475)
+  4. [Zekk - Feelsleft0ut (J1\_) \[Niva's Insane\]](https://osu.ppy.sh/beatmapsets/821587#osu/2615880)
+- Hidden
+  1. [REOL - 404 not found (SnowNiNo\_) \[Collab Light Insane\]](https://osu.ppy.sh/beatmapsets/534116#osu/1271485)
+  2. [Minori Chihara - Michishirube (Kibbleru) \[Sentimental\]](https://osu.ppy.sh/beatmapsets/725514#osu/1531858)
+- HardRock
+  1. [Okazaki Taiiku - Kimi no Bouken (TV Size) (Kroytz) \[Shunao's Hard\]](https://osu.ppy.sh/beatmapsets/874835#osu/1828345)
+  2. [James Landino - Hide And Seek (Mirash) \[RLC's Hard\]](https://osu.ppy.sh/beatmapsets/972932#osu/2036905)
+- DoubleTime
+  1. [DJ Fresh (feat. Ellie Goulding) - Flashlight (Radio Edit) (Frey) \[Advanced\]](https://osu.ppy.sh/beatmapsets/274035#osu/672345)
+  2. [Ohashi Ayaka - Daisuki. (Yuuma) \[Hard\]](https://osu.ppy.sh/beatmapsets/1122530#osu/2345776)  
+- Tiebreaker
+  1. **[Demetori - Wind God Girl (lkp) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/20949#osu/82245)**
+
+### Round of 12
 
 - NoMod
   1. [ITO KASHITARO - Boku no Hosomichi (Raose) \[Journey\]](https://osu.ppy.sh/beatmapsets/394691#osu/859034)
@@ -180,18 +199,18 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [yuikonnu - Hatsukoi no Ehon (litoluna) \[Gazel's Hard\]](https://osu.ppy.sh/beatmapsets/110870#osu/300294)
-  2. [Ryu\* vs. Sota - Go Beyond!! (Anto) \[Hard!!\]](https://osu.ppy.sh/beatmapsets/934522#osu/1953939)
-  3. [THE ORAL CIGARETTES - Kyouran Hey Kids!! (Monstrata) \[Milan's Hard\]](https://osu.ppy.sh/beatmapsets/372510#osu/832611)
-  4. [jioyi - Platinum (Plaudible) \[Hard\]](https://osu.ppy.sh/beatmapsets/553237#osu/1176330)
+  2. [Elu, SisterCleaire - Sunday Sunday Fruit Fool (Yugu) \[Sweet\]](https://osu.ppy.sh/beatmapsets/1112138#osu/2323588)
+  3. [I love you Orchestra - Tenshin -Trigger ver.- (Mirash) \[Hard\]](https://osu.ppy.sh/beatmapsets/1285271#osu/2668592)
+  4. [HyuN - You'Re aRleAdY dEAd (J1\_) \[pishi's Hard\]](https://osu.ppy.sh/beatmapsets/891441#osu/1863466)
 - Hidden
-  1. [KyoKa - Kirameki\*Chocolaterie (Left) \[Insane\]](https://osu.ppy.sh/beatmapsets/1106356#osu/2314715)
-  2. [beatMARIO - Night of Knights (alacat) \[Hard\]](https://osu.ppy.sh/beatmapsets/352570#osu/830082)
+  1. [chano & 40mP - Kiritorisen (Li Syaoran) \[hhjkl's Hard\]](https://osu.ppy.sh/beatmapsets/1480477#osu/3037193)
+  2. [Daisuke Achiwa - BASARA (100pa-) \[Chroche\]](https://osu.ppy.sh/beatmapsets/13019#osu/70491)
 - HardRock
-  1. [fhana - Genzaichi (Sotarks) \[Hard\]](https://osu.ppy.sh/beatmapsets/590023#osu/1249152)
-  2. [THE ORAL CIGARETTES - ReI (Sotarks) \[Shunao's Hard\]](https://osu.ppy.sh/beatmapsets/785858#osu/1655441)
+  1. [Kurosaki Maon - Setsuna no Kajitsu (jonathanlfj) \[Chris' Hard\]](https://osu.ppy.sh/beatmapsets/332112#osu/1900366)
+  2. [Arizona Zervas - ROXANNE (wafer) \[Hard\]](https://osu.ppy.sh/beatmapsets/1076733#osu/2253014)
 - DoubleTime
-  1. [Kano - Sukisuki Zecchoushou (Loreley) \[Advanced\]](https://osu.ppy.sh/beatmapsets/484532#osu/1233124)
-  2. [qfeileadh - breathe (ktgster) \[Advanced\]](https://osu.ppy.sh/beatmapsets/1181778#osu/2543827)
+  1. [Yasuda Rei - Mirror (Modem) \[Advanced\]](https://osu.ppy.sh/beatmapsets/649225#osu/1384468)
+  2. [Foreground Eclipse - Vermillion Halo (attendant) \[Normal\]](https://osu.ppy.sh/beatmapsets/1504033#osu/3081346)
 
 ## Match results
 
