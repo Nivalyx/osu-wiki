@@ -55,21 +55,21 @@ The PERAK osu! Tournament 2022 was run by various Indonesian osu! community memb
 
 ## Participants
 
-Listed below are the players who were participating in the tournament along with their respective seed number and average percentage summed up from all the ten Qualifier beatmaps.
+Listed below are the players who were participating in the tournament along with their respective seed number and average percentage summed up from all ten Qualifier beatmaps.
 
 | Seed No. | Player | Avg. Percentage |
 | :-- | :-- | :-- |
 | 1 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | 0.99 |
-| 2 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | 2.8 |
-| 3 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | 4.1 |
-| 4 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | 5.7 |
-| 5 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | 5.9 |
-| 6 | ![][flag_ID] [cuna](https://osu.ppy.sh/users/14505580) | 7.3 |
-| 7 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | 7.6 |
-| 8 | ![][flag_ID] [naruto-sasuke](https://osu.ppy.sh/users/4072413) | 7.9 |
-| 9 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | 8.0 |
-| 10 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 9.1 |
-| 11 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | 10.2 |
+| 2 | ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) | 0.94 |
+| 3 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | 0.80 |
+| 4 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | 0.79 |
+| 5 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | 0.73 |
+| 6 | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) | 0.72 |
+| 7 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | 0.67 |
+| 8 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 0.60 |
+| 9 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | 0.44 |
+| 10 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | 0.37 |
+| 11 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | 0.24 |
 
 ## Podium
 
@@ -77,9 +77,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) |
 
 ## Mappools
 
