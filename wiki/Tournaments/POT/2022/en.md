@@ -233,18 +233,17 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 2)
 
-Sunday, 28 March 2021:
+Saturday, 23 April 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Victim\_Crasher](https://osu.ppy.sh/users/2084869) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/79301199) |
+| Lower | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ![][flag_ID] | **7** | 2 | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) | [#1](https://osu.ppy.sh/community/matches/100011716) |
 
-Sunday, 4 April 2021, Grand Final:
+Sunday, 24 April 2022, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | [Lindaine](https://osu.ppy.sh/users/4572717) ![][flag_ID] | 4 | **7** | ![][flag_ID] **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/79843882) |
-| Grand Final (Bracket Reset) | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ![][flag_ID] | **7** | 2 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | [#1](https://osu.ppy.sh/community/matches/79930736) |
+| Grand Final | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **7** | 3 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | [#1](https://osu.ppy.sh/community/matches/100011716) |
 
 ### Finals (week 1)
 
