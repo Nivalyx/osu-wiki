@@ -176,6 +176,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 12
 
+**[Download the mappack here! (80 MB)](https://drive.google.com/u/0/uc?id=12kQfysAOzfkCxqfVi0teM4BqTLyGKtur&export=download)**
+
 - NoMod
   1. [ITO KASHITARO - Boku no Hosomichi (Raose) \[Journey\]](https://osu.ppy.sh/beatmapsets/394691#osu/859034)
   2. [Utagumi Setsugetsuka - Maware! Setsugetsuka (Main Black) \[S.Stream's Insane\]](https://osu.ppy.sh/beatmapsets/122674#osu/317192)
