@@ -66,7 +66,7 @@ Listed below are the players who were participating in the tournament along with
 | 4 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | 0.79 |
 | 5 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | 0.73 |
 | 6 | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) | 0.72 |
-| 7 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | 0.67 |
+| 7 | ![][flag_ID] [Stingray](https://osu.ppy.sh/users/2215822) | 0.67 |
 | 8 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 0.60 |
 | 9 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | 0.44 |
 | 10 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | 0.37 |
@@ -269,19 +269,26 @@ Sunday, 21 March 2021:
 
 ### Semifinals
 
-Sunday, 14 March 2021:
+Saturday, 19 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ![][flag_ID] | **6** | 4 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | [#1](https://osu.ppy.sh/community/matches/78055535) |
-| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | [#1](https://osu.ppy.sh/community/matches/78047446) |
-| Lower | **[cuna](https://osu.ppy.sh/users/14505580)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/78059749) |
+| Lower | [Stingray](https://osu.ppy.sh/users/2215822) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[NeoZap](https://osu.ppy.sh/users/10024869)** | [#1](https://osu.ppy.sh/community/matches/98920941) |
 
-Monday, 15 March 2021:
+Sunday, 20 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[DigiM](https://osu.ppy.sh/users/2659328)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/78050310) |
+| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | [#1](https://osu.ppy.sh/community/matches/98884028) |
+| Lower | [-Keitaro](https://osu.ppy.sh/users/3378391) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/98929136) |
+| Upper | [DigiM](https://osu.ppy.sh/users/2659328) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/98901027) |
+
+Monday, 21 March 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [DigiM](https://osu.ppy.sh/users/2659328) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[NeoZap](https://osu.ppy.sh/users/10024869)** | [#1](https://osu.ppy.sh/community/matches/99156017) |
+| Lower | **[Lindaine](https://osu.ppy.sh/users/4572717)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | *win by default* |
 
 ### Quarterfinals
 
@@ -297,7 +304,7 @@ Sunday, 13 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | [#1](https://osu.ppy.sh/community/matches/98693176) |
+| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Stingray](https://osu.ppy.sh/users/2215822) | [#1](https://osu.ppy.sh/community/matches/98693176) |
 
 Monday, 14 March 2022:
 
@@ -313,7 +320,7 @@ Sunday, 6 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[StingRay](https://osu.ppy.sh/users/2215822)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/98469707) |
+| Upper | **[Stingray](https://osu.ppy.sh/users/2215822)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/98469707) |
 | Upper | **[NeoZap](https://osu.ppy.sh/users/10024869)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | *win by default* |
 
 Monday, 7 March 2022:
