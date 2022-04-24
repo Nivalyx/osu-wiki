@@ -157,22 +157,24 @@ This competition has come to an end and resulted in the following podium:
 
   ### Quarterfinals
 
+  **[Download the mappack here! (76 MB)](https://drive.google.com/u/0/uc?id=1yH9CE2M3QZIx1cKfhvdAj99Z8agK8GAD&export=download)**
+
 - NoMod
-  1. [ITO KASHITARO - Boku no Hosomichi (Raose) \[Journey\]](https://osu.ppy.sh/beatmapsets/394691#osu/859034)
-  2. [Utagumi Setsugetsuka - Maware! Setsugetsuka (Main Black) \[S.Stream's Insane\]](https://osu.ppy.sh/beatmapsets/122674#osu/317192)
-  3. [Nhato - Gekka (Short Version) (Cubby) \[Niva's Insane (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/1382026#osu/2855475)
-  4. [Zekk - Feelsleft0ut (J1\_) \[Niva's Insane\]](https://osu.ppy.sh/beatmapsets/821587#osu/2615880)
+  1. [FELT - Closed Wings (Nanashima Asami) \[Farewell\]](https://osu.ppy.sh/beatmapsets/937213#osu/1957780)
+  2. [Gentle Stick X M2U - Ineffabilis (Bakugo-) \[Frontier's Insane\]](https://osu.ppy.sh/beatmapsets/1334202#osu/2873261)
+  3. [40mP feat. chano - Yuugure One Room (Zekk) \[Hero's Insane\]](https://osu.ppy.sh/beatmapsets/1576275#osu/3224750)
+  4. [tokiwa - wasurena feat. Sennzai (Mocaotic) \[remembrance\]](https://osu.ppy.sh/beatmapsets/1496234#osu/3221246)
 - Hidden
-  1. [REOL - 404 not found (SnowNiNo\_) \[Collab Light Insane\]](https://osu.ppy.sh/beatmapsets/534116#osu/1271485)
-  2. [Minori Chihara - Michishirube (Kibbleru) \[Sentimental\]](https://osu.ppy.sh/beatmapsets/725514#osu/1531858)
+  1. [Kairiki Bear feat. Naruhana Mikoto - Neroism (Jazzieee) \[Reckless Phenomenon\]](https://osu.ppy.sh/beatmapsets/1281459#osu/3325019)
+  2. [96neko - ELECT (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/716122#osu/1517345)
 - HardRock
-  1. [Okazaki Taiiku - Kimi no Bouken (TV Size) (Kroytz) \[Shunao's Hard\]](https://osu.ppy.sh/beatmapsets/874835#osu/1828345)
-  2. [James Landino - Hide And Seek (Mirash) \[RLC's Hard\]](https://osu.ppy.sh/beatmapsets/972932#osu/2036905)
+  1. [mary x jon-YAKITORY - Koko de Ikiteru (Amateurre) \[Yogurre's Insane\]](https://osu.ppy.sh/beatmapsets/1541131#osu/3152525)
+  2. [Numtack05 - Ooki na Hane de! (Cut Ver.) (Mafumafu) \[Tsubasa\]](https://osu.ppy.sh/beatmapsets/1075635#osu/2250717)
 - DoubleTime
-  1. [DJ Fresh (feat. Ellie Goulding) - Flashlight (Radio Edit) (Frey) \[Advanced\]](https://osu.ppy.sh/beatmapsets/274035#osu/672345)
-  2. [Ohashi Ayaka - Daisuki. (Yuuma) \[Hard\]](https://osu.ppy.sh/beatmapsets/1122530#osu/2345776)  
+  1. [senya - Sasayaku, Kiekaketa Kouishou ga. (Satellite) \[ponpokosatellin's Hard\]](https://osu.ppy.sh/beatmapsets/1053613#osu/2210782)
+  2. [fiend - FEVER DREAM (feat. yzzyx) (Niva) \[HARD\]](https://osu.ppy.sh/beatmapsets/1405913#osu/2910768)  
 - Tiebreaker
-  1. **[Demetori - Wind God Girl (lkp) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/20949#osu/82245)**
+  1. **[Demetori - Warabe Matsuri ~ Innocent Treasures (Remapper) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1033730#osu/2163007)**
 
 ### Round of 12
 
