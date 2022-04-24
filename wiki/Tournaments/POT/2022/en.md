@@ -55,9 +55,9 @@ The PERAK osu! Tournament 2022 was run by various Indonesian osu! community memb
 
 ## Participants
 
-Listed below are the players who were participating in the tournament along with their respective seed number and average map rank combined from each individual Qualifier beatmaps.
+Listed below are the players who were participating in the tournament along with their respective seed number and average percentage combined from each individual Qualifier beatmaps.
 
-| Seed No. | Player | Avg. Map Rank |
+| Seed No. | Player | Avg. Percentage |
 | :-- | :-- | :-- |
 | 1 | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | 1.6 |
 | 2 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | 2.8 |
