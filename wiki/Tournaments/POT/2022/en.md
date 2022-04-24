@@ -359,7 +359,7 @@ Monday, 7 March 2022:
 2. In the lobby, players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 → NM2 → NM3 → NM4 → HD1 → HD2 → HR1 → HR2 → DT1 → DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
-5. Based on their performance in the Qualifier, players will be placed in seeds based on their average percentage across all ten qualifier beatmaps as illustrated by [this formula](http://www.indeed.com/career-advice/career-development/how-to-calculate-average-percentage).
+5. Based on their performance in the Qualifier, players will be placed in seeds based on their average percentage across all ten qualifier beatmaps following [this formula](http://www.indeed.com/career-advice/career-development/how-to-calculate-average-percentage).
 6. Failure to attend in any of the twenty Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
