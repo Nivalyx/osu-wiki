@@ -42,6 +42,7 @@ The PERAK osu! Tournament 2022 was run by various Indonesian osu! community memb
 | Streamer | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
 | Commentator | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498), ![][flag_ID] [eucharistica](https://osu.ppy.sh/users/28736472) |
 | Referee | ![][flag_ID] [kilgo](https://osu.ppy.sh/users/9692053), ![][flag_ID] [Romizzz](https://osu.ppy.sh/users/6154769) |
+| Graphic designer | ![][flag_ID] [Kizito Hiro](https://osu.ppy.sh/users/2263272) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
