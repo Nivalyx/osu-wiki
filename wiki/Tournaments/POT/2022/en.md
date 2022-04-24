@@ -176,8 +176,10 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
+**[Download the mappack here! (63 MB)](https://drive.google.com/u/0/uc?id=1DKGRxT7YU1EnTVpqTmHj4tD2ADqSmee_&export=download)**
+
 - NoMod
-  1. [scop - Keppekishou (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmapsets/70115#osu/202008)
+  1. [yuikonnu - Hatsukoi no Ehon (litoluna) \[Gazel's Hard\]](https://osu.ppy.sh/beatmapsets/110870#osu/300294)
   2. [Ryu\* vs. Sota - Go Beyond!! (Anto) \[Hard!!\]](https://osu.ppy.sh/beatmapsets/934522#osu/1953939)
   3. [THE ORAL CIGARETTES - Kyouran Hey Kids!! (Monstrata) \[Milan's Hard\]](https://osu.ppy.sh/beatmapsets/372510#osu/832611)
   4. [jioyi - Platinum (Plaudible) \[Hard\]](https://osu.ppy.sh/beatmapsets/553237#osu/1176330)
