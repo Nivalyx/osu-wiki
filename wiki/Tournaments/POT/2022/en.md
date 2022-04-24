@@ -59,7 +59,7 @@ Listed below are the players who were participating in the tournament along with
 
 | Seed No. | Player | Avg. Percentage |
 | :-- | :-- | :-- |
-| 1 | ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869) | 1.6 |
+| 1 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | 0.99 |
 | 2 | ![][flag_ID] [Lindaine](https://osu.ppy.sh/users/4572717) | 2.8 |
 | 3 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | 4.1 |
 | 4 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | 5.7 |
