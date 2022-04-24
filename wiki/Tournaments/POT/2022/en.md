@@ -66,7 +66,7 @@ Listed below are the players who were participating in the tournament along with
 | 4 | ![][flag_ID] [ReeyaDono](https://osu.ppy.sh/users/10969698) | 0.79 |
 | 5 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | 0.73 |
 | 6 | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) | 0.72 |
-| 7 | ![][flag_ID] [Stingray](https://osu.ppy.sh/users/2215822) | 0.67 |
+| 7 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | 0.67 |
 | 8 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 0.60 |
 | 9 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | 0.44 |
 | 10 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | 0.37 |
@@ -273,7 +273,7 @@ Saturday, 19 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Stingray](https://osu.ppy.sh/users/2215822) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[NeoZap](https://osu.ppy.sh/users/10024869)** | [#1](https://osu.ppy.sh/community/matches/98920941) |
+| Lower | [StingRay](https://osu.ppy.sh/users/2215822) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[NeoZap](https://osu.ppy.sh/users/10024869)** | [#1](https://osu.ppy.sh/community/matches/98920941) |
 
 Sunday, 20 March 2022:
 
