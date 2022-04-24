@@ -14,14 +14,15 @@ The **PERAK osu! Tournament 2022** was a double-elimination 1v1 osu! tournament 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-01-17/2021-02-05 |
-| Technical meeting | 2021-02-12 |
-| Qualifiers | 2021-02-14/2021-02-21 |
-| Round of 12 | 2021-02-22/2021-02-28 |
-| Quarterfinals | 2021-03-01/2021-03-07 |
-| Semifinals | 2021-03-08/2021-03-14 |
-| Finals (week 1) | 2021-03-15/2021-03-21 |
-| Finals (week 2) | 2021-03-22/2021-04-04 |
+| Registration phase | 2022-01-28/2022-02-10 |
+| Technical meeting | 2022-02-11 |
+| Qualifiers | 2022-02-21/2022-02-27 |
+| Round of 12 | 2022-02-28/2022-03-06 |
+| Quarterfinals | 2022-03-07/2022-03-13 |
+| Semifinals | 2022-03-14/2022-03-20 |
+| *Midterm break* | 2022-03-21/2022-04-03 |
+| Finals (week 1) | 2022-04-04/2022-04-10 |
+| Finals (week 2) | 2022-04-12/2022-04-24 |
 
 ## Prizes
 
