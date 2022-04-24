@@ -8,7 +8,7 @@ tags:
 
 ![PERAK osu! Tournament 2022 logo](img/banner.jpg)
 
-The **PERAK osu! Tournament 2022** was a double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) as a part of the annual [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the second iteration of the PERAK osu! Tournament.
+The **PERAK osu! Tournament 2022** was a double-elimination 1v1 osu! tournament hosted by ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) as part of the annual [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or as an alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the second iteration of the PERAK osu! Tournament.
 
 ## Tournament schedule
 
@@ -48,11 +48,11 @@ The PERAK osu! Tournament 2022 was run by various Indonesian osu! community memb
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1QLDMAL1lbfSey2tOd7zoVE6dtvI3qPD8PRBFJQpJxYY/edit#gid=563925167)**
-- [Official website](https://perak.cs.ui.ac.id/skor/osu)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/175mrODHUOZIUhW6S3s86T7sZnGfy35-KHht8v2c0ixI/edit#gid=0)**
+- [Official website](https://perak.cs.ui.ac.id/leaderboard/13)
 - [Discord server](https://discordapp.com/invite/8vGTedxKmD)
 - [Livestream channel](https://www.twitch.tv/perakgamesleague)
-- [Challonge brackets](https://challonge.com/jon1xcd6)
+- [Challonge brackets](https://challonge.com/PERAKOSU2022)
 
 ## Participants
 
@@ -285,59 +285,42 @@ Monday, 15 March 2021:
 
 ### Quarterfinals
 
-Friday, 5 March 2021:
+Saturday, 12 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [cuna](https://osu.ppy.sh/users/14505580) | [#1](https://osu.ppy.sh/community/matches/77278333) |
+| Upper | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | [#1](https://osu.ppy.sh/community/matches/98618342) |
+| Upper | **[DigiM](https://osu.ppy.sh/users/2659328)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/98651493) |
+| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [NeoZap](https://osu.ppy.sh/users/10024869) | [#1](https://osu.ppy.sh/community/matches/98652613) |
 
-Saturday, 6 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/77368933) |
-
-Sunday, 7 March 2021:
+Sunday, 13 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [DigiM](https://osu.ppy.sh/users/2659328) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[StingRay](https://osu.ppy.sh/users/2215822)** | [#1](https://osu.ppy.sh/community/matches/77455381) |
-| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/77451609) |
+| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [StingRay](https://osu.ppy.sh/users/2215822) | [#1](https://osu.ppy.sh/community/matches/98693176) |
 
-Wednesday, 10 March 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[DigiM](https://osu.ppy.sh/users/2659328)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/77683525) |
-| Lower | **[cuna](https://osu.ppy.sh/users/14505580)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [naruto-sasuke](https://osu.ppy.sh/users/4072413) | [#1](https://osu.ppy.sh/community/matches/77686417) |
-
-Thursday, 11 March 2021:
+Monday, 14 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[larrypult](https://osu.ppy.sh/users/12255948)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [ana\_kunn](https://osu.ppy.sh/users/2868409) | [#1](https://osu.ppy.sh/community/matches/77764333) |
-| Lower | **[nasje](https://osu.ppy.sh/users/7579498)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | [#1](https://osu.ppy.sh/community/matches/77753957) |
+| Lower | **[NeoZap](https://osu.ppy.sh/users/10024869)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/98730561) |
+| Lower | **[-Keitaro](https://osu.ppy.sh/users/3378391)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | *win by default* |
+| Lower | **[nasje](https://osu.ppy.sh/users/7579498)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | *win by default* |
 
 ### Round of 12
 
-Friday, 26 February 2021:
+Sunday, 6 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [naruto-sasuke](https://osu.ppy.sh/users/4072413) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/77245889) |
-| Upper | **[cuna](https://osu.ppy.sh/users/14505580)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | [#1](https://osu.ppy.sh/community/matches/77270247) |
+| Upper | **[StingRay](https://osu.ppy.sh/users/2215822)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/98469707) |
+| Upper | **[NeoZap](https://osu.ppy.sh/users/10024869)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DeltaE](https://osu.ppy.sh/users/8361921) | *win by default* |
 
-Saturday, 27 February 2021:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[larrypult](https://osu.ppy.sh/users/12255948)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/77363288) |
-
-Sunday, 28 February 2021:
+Monday, 7 March 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[StingRay](https://osu.ppy.sh/users/2215822)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [ana\_kunn](https://osu.ppy.sh/users/2868409) | [#1](https://osu.ppy.sh/community/matches/77448647) |
+| Upper | [hamdanpapeng](https://osu.ppy.sh/users/10854143) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/98501050) |
 
 ## Ruleset
 
