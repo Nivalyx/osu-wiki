@@ -57,7 +57,7 @@ The PERAK osu! Tournament 2022 was run by various Indonesian osu! community memb
 
 ## Participants
 
-Listed below are the players who were participating in the tournament along with their respective seed number and average percentage summed up from all ten Qualifier beatmaps.
+Listed below are the players who were participating in the tournament along with their respective seed number and average percentage across all ten Qualifier beatmaps.
 
 | Seed No. | Player | Avg. Percentage |
 | :-- | :-- | :-- |
@@ -327,21 +327,21 @@ Monday, 7 March 2022:
 ### General rules
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
-2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#ganti-jadwal` channel in the tournament's Discord server.
+2. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they failed the beatmap.
-   - Disconnects that occur within a few seconds after the beatmap is started by the referee can be rematched.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most.
-   - In case the disconnected player failed to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to be winning the match by default.
+8. If a player disconnects, it will be treated as if they had failed the beatmap. 
+   - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
+9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
+   - In case the disconnected player fails to report back after the maximum allowance of 15 minutes had passed, the opposing player may be declared to win the match by default.
 10. Lag is not a valid reason to nullify a beatmap.
-11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
-12. It is expected that all players be polite and respectful to each other. Penalties will be given if players violate.
-    - If a player is found to be engaging in an act of offensive provocation, the said player responsible for the provocation may be either disqualified right away from the tournament and/or blacklisted from the PERAK Games League altogether.
-    - Usage of any tools and programs that are against [osu!'s community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
+11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
+12. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
+    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from the future iterations of the tournament by the Tournament Management.
+    - Usage of any tools and programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
 ### Tournament registration
 
@@ -351,28 +351,29 @@ Monday, 7 March 2022:
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration Phase has ended.
 4. Testplayers, referees, and map selectors may not participate as players in this tournament.
 
-### Qualifier rules
+### Round-specific rules
+
+#### Qualifier rules
 
 1. Each player will have to sign up to one of the twenty Qualifier lobbies that have been scheduled and prepared by the Tournament Management in advance.
 2. In the lobby, players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 → NM2 → NM3 → NM4 → HD1 → HD2 → HR1 → HR2 → DT1 → DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobbies.
-5. 32 players with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages.
-   - If there are two (or more) players who share the same average rank, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
+5. Based on their performance in the Qualifier, players will be placed in seeds based on their average percentage across all ten qualifier beatmaps as illustrated by [this formula](http://www.indeed.com/career-advice/career-development/how-to-calculate-average-percentage).
 6. Failure to attend in any of the twenty Qualifier lobbies will result in an instant elimination from the tournament.
 
-### Knock-out stage rules
+#### Knock-out stage rules
 
-1. The 12 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
+1. All will be matched to each other based on their Qualifiers seeding.
 2. Players will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as follows:
    - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
    - Players who lose in the Lower Bracket will be eliminated from the tournament.
-   - In the Grand Final match, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
+   - In the Grand Final, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
 4. Players who can compete in the next round are determined by:
    - In the Round of 12 and the Quarterfinals, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Semifinals and the Finals (week 1), each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Finals (week 2), each player needs to win 7 points in order to to win a match. (Best-of-13)
+   - In the Semifinals and the first Finals week, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the second Finals week, each player needs to win 7 points in order to to win a match. (Best-of-13)
    - Players who win by default.
    - Whether there are players who are disqualified from the tournament.
 
@@ -382,12 +383,11 @@ Monday, 7 March 2022:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** (in the Round of 12 and the Quarterfinals) or **two beatmaps** (in the Semifinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
-   - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed; banning NM1 and HD1 is allowed; banning HD1 and HD2, however, is *not* allowed.
-   - Banning does not apply in the Qualifier lobbies.
+2. Each player has to ban **one beatmap** (on the Round of 12 and the Quarterfinals) or **two beatmaps** (from the Semifinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+   - Barring the tierbreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own before the match commences.
-4. In case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Playing the tiebreaker map with a mod in hand however is *not* mandatory as going with NoMod on the tiebreaker is also permitted.
-   - Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
+4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
+   - Playing the tiebreaker map with a mod is *not* mandatory.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
