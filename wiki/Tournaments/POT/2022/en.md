@@ -89,27 +89,29 @@ This competition has come to an end and resulted in the following podium:
 *(mappack not available)*
 
 - NoMod
-  1. [Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/720294#osu/1520788)
-  2. [technoplanet - Juvenile (Astronic) \[Extra\]](https://osu.ppy.sh/beatmapsets/1280204#osu/2659369)
-  3. [POLKADOT STINGRAY - Telecaster Stripe (moph) \[Extra\]](https://osu.ppy.sh/beatmapsets/969845#osu/2028973)
-  4. [PSYQUI - Be There (Livia) \[Future\]](https://osu.ppy.sh/beatmapsets/826236#osu/1731655)
-  5. [FujuniseikouyuuP - FREEDMAN (val0108) \[FREEDOM\]](https://osu.ppy.sh/beatmapsets/108529#osu/283705) 
-  6. [OSTER project - Piano x Forte (DeviousPanda) \[Fortissimo\]](https://osu.ppy.sh/beatmapsets/1296249#osu/2689460)
+  1. [konore - Kiga to Hougyoku (gazimal) \[Everywhere with you!\]](https://osu.ppy.sh/beatmapsets/1505495#osu/3083843)
+  2. [m108 - Shinku no Senkou (Leader) \[Extra\]](https://osu.ppy.sh/beatmapsets/1551011#osu/3169485)
+  3. [THE BINARY mido - Ego mo Id mo Tanjun ni (kuyusu) \[moph's Extra\]](https://osu.ppy.sh/beatmapsets/1268824#osu/2692632)
+  4. [Function Phantom - Index (feat. Thinktec) (PaRaDogi) \[0pp's Saturn\]](https://osu.ppy.sh/beatmapsets/1493791#osu/3061893)
+  5. [MisoilePunch - Aurolla (cocona) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1543663#osu/3155328) 
+  6. [ATARASHII GAKKO! - Ookami no Uta (Fisky) \[Yudragen's Extra\]](https://osu.ppy.sh/beatmapsets/1562875#osu/3375590)
 - Hidden
-  1. [Wotamin - Gigantic O.T.N  (Star Stream) \[S.S\]](https://osu.ppy.sh/beatmapsets/80214#osu/223397)
-  2. [BUTAOTOME - Towa no Maigo (Icekalt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069288#osu/2239337)
-  3. [scop - Keppekishou (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#osu/201731)
+  1. [yama - Mahi (Purplegaze) \[Purple & kefn's Expert\]](https://osu.ppy.sh/beatmapsets/1566515#osu/3245880)
+  2. [Gentle stick - Amphitryon (yaspo) \[Another\]](https://osu.ppy.sh/beatmapsets/1286286#osu/2670774)
+  3. [ARM (IOSYS) + Brasscapsule - Jazz is Rad (Zetera) \[Cool and Good\]](https://osu.ppy.sh/beatmapsets/851308#osu/1779635)
+  4. [Mili - String Theocracy (\[Arc\]) \[Theatrically Interesting\]](https://osu.ppy.sh/beatmapsets/1192164#osu/2484169)
 - HardRock
-  1. [Chikuwa - Jinsei Matatabi (Kuse) \[Expert\]](https://osu.ppy.sh/beatmapsets/1123944#osu/2348578)
-  2. [BUTAOTOME - Futari Dake no Kotoba (celerih) \[kiry's Insane\]](https://osu.ppy.sh/beatmapsets/962568#osu/2015481)
-  3. [Feryquitous - Strahv (Rumia-) \[Another\]](https://osu.ppy.sh/beatmapsets/634143#osu/1345661)
+  1. [Metomate - Gaikan no Prominence (Mordred) \[Yogurtt's Extra\]](https://osu.ppy.sh/beatmapsets/1536947#osu/3208925)
+  2. [Cranky - Libera me (Kloyd) \[Muya's Insane\]](https://osu.ppy.sh/beatmapsets/1085726#osu/2273615)
+  3. [Morimori Atsushi - Txxs or get the fxxk out!! (Regou) \[Frey's Insane!!\]](https://osu.ppy.sh/beatmapsets/455022#osu/992223)
+  4. [Kendrick Lamar - HUMBLE. (jamesjan3) \[DAMN.\]](https://osu.ppy.sh/beatmapsets/1560870#osu/3187928)
 - DoubleTime
-  1. [Ito Kanako - Skyclad no Kansokusha (Linada) \[-Tochi's Insane\]](https://osu.ppy.sh/beatmapsets/416129#osu/972844)
-  2. [capitaro - Yoiduki Maiuta (Amamiya Yuko) \[Hard\]](https://osu.ppy.sh/beatmapsets/70057#osu/205455)
-  3. [Yooh - snow storm -euphoria- (-Chata-) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/156235#osu/382886)
-  4. [TWICE - YES or YES (Toumei Dragon) \[Taeyang's Insane\]](https://osu.ppy.sh/beatmapsets/927769#osu/1950687) 
+  1. [mona (CV: Natsukawa Shiina) - No.1 (HeTo) \[Lovely\]](https://osu.ppy.sh/beatmapsets/1090518#osu/2279641)
+  2. [HyuN - Illusion of Inflict (Icekalt) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/968923#osu/2041171)
+  3. [Xceon feat. Mayumi Morinaga - Ikuseisou no Monogatari \~The Story of Eternity\~ (Seikatu) \[Insane\]](https://osu.ppy.sh/beatmapsets/306782#osu/686559)
+  4. [Garoad - Every Day is Night (Chaoslitz) \[Karmotrine\]](https://osu.ppy.sh/beatmapsets/1353075#osu/2801137) 
 - Tiebreaker
-  1. **[FELT - Lies in Reality (captin1) \[Deception\]](https://osu.ppy.sh/beatmapsets/412270#osu/894409)**
+  1. **[Yooh - Dignity -alzando- (Cubby) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1252847#osu/2614851)**
 
 ### Finals (week 1)
 
