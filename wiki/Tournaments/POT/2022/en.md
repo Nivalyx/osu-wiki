@@ -155,7 +155,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Halozy - Masshiro na Yuki (MrSergio) \[Everlasting Snow\]](https://osu.ppy.sh/beatmapsets/388887#osu/848143)**
 
-  ### Quarterfinals
+### Quarterfinals
 
   **[Download the mappack here! (76 MB)](https://drive.google.com/u/0/uc?id=1yH9CE2M3QZIx1cKfhvdAj99Z8agK8GAD&export=download)**
 
