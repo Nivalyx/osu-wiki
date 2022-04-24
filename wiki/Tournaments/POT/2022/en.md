@@ -27,7 +27,8 @@ The **PERAK osu! Tournament 2022** was a double-elimination 1v1 osu! tournament 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter, commemorative trophy |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Commemorative trophy, One-time voucher worth 250,000 IDR to be spend on [PERAK MART](http://perak.cs.ui.ac.id/mart/) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | One-time voucher worth 150,000 IDR to be spend on [PERAK MART](http://perak.cs.ui.ac.id/mart/) |
 
 ## Organisation
 
