@@ -6,11 +6,11 @@ tags:
 
 # Beatmap Nominators
 
-*Lihat juga: [Peraturan Beatmap Nominator](Rules), [Ekspektasi bagi Beatmap Nominator](Expectations), [Informasi Umum Tentang Beatmap Nominators](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+*Lihat juga: [Peraturan Beatmap Nominator](Rules), [Ekspektasi bagi Beatmap Nominator](Expectations), [Informasi umum seputar Beatmap Nominators](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-**Beatmap Nominator** (***BN***) adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Beatmap_ranking_procedure). Mereka memiliki warna ungu pada nama mereka di forum dan diskusi beatmap.
+**Beatmap Nominator** (***BN***) merupakan kelompok pengguna (*usergroup*) yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Para anggota Beatmap Nominator dapat dikenali melalui nama mereka yang berwarna ungu pada laman forum dan diskusi beatmap.
 
-## Peran dan Tanggung Jawab
+## Peran dan tanggung jawab
 
 Anggota Beatmap Nominator bertanggung jawab melakukan [modding](/wiki/Modding) terhadap [beatmaps berstatus pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) dan menyetujuinya ke dalam status ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding. Setiap Beatmap Nominator dapat melakukan [beatmap veto](Beatmap_Veto) jika mereka merasa bahwa map yang di nominasi mempunyai masalah yang harus diperbaiki, dimana masalah tersebut bukan merupakan pelanggaran langsung terhadap Ranking Criteria.
 
