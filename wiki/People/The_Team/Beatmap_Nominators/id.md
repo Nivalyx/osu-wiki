@@ -6,17 +6,18 @@ tags:
 
 # Beatmap Nominators
 
-*Lihat juga: [Peraturan Beatmap Nominator](Rules), [Ekspektasi bagi Beatmap Nominator](Expectations), [Informasi umum seputar Beatmap Nominators](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+*Lihat juga: [Peraturan Beatmap Nominator](Rules), [Ekspektasi bagi Beatmap Nominator](Expectations), [Informasi umum seputar Beatmap Nominator](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-**Beatmap Nominator** (***BN***) merupakan kelompok pengguna (*usergroup*) yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Para anggota Beatmap Nominator dapat dikenali melalui nama pengguna mereka yang berwarna ungu pada laman forum dan diskusi beatmap.
+**Beatmap Nominator** (***BN***) merupakan kelompok pengguna (*usergroup*) yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Para anggota Beatmap Nominator dapat dikenali melalui nama pengguna mereka yang berwarna ungu pada laman forum dan [diskusi beatmap](/wiki/Beatmap_discussion).
+
 
 ## Peran dan tanggung jawab
 
-Anggota Beatmap Nominator bertanggung jawab melakukan [modding](/wiki/Modding) terhadap [beatmaps berstatus pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) dan menyetujuinya ke dalam status ranking. Beatmap Nominator adalah orang-orang yang dapat dimintai saran tentang mapping atau modding. Setiap Beatmap Nominator dapat melakukan [beatmap veto](Beatmap_Veto) jika mereka merasa bahwa map yang di nominasi mempunyai masalah yang harus diperbaiki, dimana masalah tersebut bukan merupakan pelanggaran langsung terhadap Ranking Criteria.
+Para anggota Beatmap Nominator bertanggung jawab untuk mengecek kelayakan [beatmap yang berstatus Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) melalui proses [modding](/wiki/Modding). Di samping itu, mereka juga dimintai saran tentang mapping atau modding. Masing-masing Beatmap Nominator dapat menempatkan [veto](Beatmap_Veto) pada beatmap yang telah dinominasikan sebelumnya apabila mereka merasa bahwa beatmap tersebut memiliki masalah di luar peraturan Ranking Criteria yang harus diperbaiki.
 
 Selain itu, semua Beatmap Nominator diharapkan untuk mematuhi sebuah idealisme yang longgar yang berfokus pada pelayanan kepada komunitas yang lebih besar dengan mengarahkan perhatian mereka ke berbagai macam map dan pembuat map, dan berusaha untuk terus meningkatkan keahlian mereka, seperti yang diuraikan dalam [artikel Ekspektasi untuk Beatmap Nominator](Expectations).
 
-Anggota Beatmap Nominator dibagi menjadi dua kelompok: full BN dan probationary BN.
+Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi dua kelompok yakni Full BN dan Probationary BN.
 
 ### Full Beatmap Nominator
 
@@ -227,8 +228,8 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 ## Sejarah
 
-- Beatmap Nominator pada awalnya dikenal sebagai *Beatmap Appreciation Team* (BAT).
-- Pada tanggal 22 Agustus 2014, BAT tidak lagi menjadi bagian dari tim staf. Seiring dengan perubahan ini, kemampuan moderasi dan warna pengguna khusus yang mereka miliki di dalam permainan dan di forum ikut dicabut.
+- Beatmap Nominator pada awalnya dikenal dengan nama *Beatmap Appreciation Team* (BAT).
+- Pada tanggal 22 Agustus 2014, BAT tidak lagi menjadi bagian dari tim staf. Seiring dengan perubahan ini, kemampuan moderasi dan warna pengguna khusus yang mereka miliki di dalam permainan dan forum ikut dicabut.
 - Pada tanggal 1 Januari 2015, nama *Beatmap Appreciation Team* diubah menjadi *Beatmap Nomination Group* yang kemudian menjelma menjadi Beatmap Nominator sebagaimana yang kita kenal saat ini.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
