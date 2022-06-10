@@ -45,7 +45,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 #### osu!
 
-| Name | Bahasa tambahan |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_PH] [-Aqua](https://osu.ppy.sh/users/7150015) | Tagalog |
 | ![][flag_ID] [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesia |
@@ -116,7 +116,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 #### osu!taiko
 
-| Name | Bahasa tambahan |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | Spanish |
 | ![][flag_HK] [BlackBN](https://osu.ppy.sh/users/6291741) | Chinese, Cantonese |
@@ -143,7 +143,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 #### osu!catch
 
-| Name | Bahasa tambahan |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
 | ![][flag_KR] [Amamya](https://osu.ppy.sh/users/1997633) | Korean |
@@ -159,7 +159,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 #### osu!mania
 
-| Name | Bahasa tambahan |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_AU] [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ![][flag_CN] [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | Chinese |
@@ -190,7 +190,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 #### osu!
 
-| Name | Bahasa tambahan |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_US] [-White](https://osu.ppy.sh/users/16276548) |  |
 | ![][flag_GB] [Cris-](https://osu.ppy.sh/users/10374819) | Spanish |
@@ -205,7 +205,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 #### osu!taiko
 
-| Name | Bahasa tambahan |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_FI] [Antti](https://osu.ppy.sh/users/13281473) | Finnish, some Swedish |
 | ![][flag_JP] [Eriha](https://osu.ppy.sh/users/16320311) | Japanese |
@@ -217,13 +217,13 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 #### osu!catch
 
-| Name | Bahasa tambahan |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768) | Spanish |
 
 #### osu!mania
 
-| Name | Bahasa tambahan |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 | ![][flag_TW] [_Rokii](https://osu.ppy.sh/users/12770065) | Chinese |
 | ![][flag_TW] [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinese |
