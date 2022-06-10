@@ -39,7 +39,7 @@ Saat seorang Beatmap Nominator ditempatkan dalam masa percobaan, mereka tidak da
 
 Daftar anggota Beatmap Nominator selengkapnya dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
-Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masing nominator. *Catatan: Kecuali diberikan keterangan khusus, seluruh anggota Beatmap Nominator fasih berbicara dalam Bahasa Inggris di samping bahasa tambahan mereka.*
+Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masing anggota Beatmap Nominator. *Catatan: Kecuali mereka yang diberikan pengecualian khusus, seluruh anggota Beatmap Nominator dapat berbicara Bahasa Inggris secara fasih di samping bahasa tambahan mereka.*
 
 ### Full Beatmap Nominator
 
