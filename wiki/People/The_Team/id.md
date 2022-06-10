@@ -41,7 +41,7 @@ Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_sup
 
 ## Kelompok pengguna
 
-osu! memiliki berbagai kelompok pengguna (*user group*) yang tersusun atas sosok-sosok pilihan dengan tanggung jawab dan fungsinya masing-masing. Pada umumnya, anggota kelompok pengguna dapat dikenali dari warna khusus pada forum, warna khusus pada kanal obrolan, serta gelar dan/atau lencana khusus yang disematkan kepada masing-masing anggota.
+osu! memiliki berbagai kelompok pengguna (*user group*) yang tersusun atas para anggota komunitas terpilih dengan tanggung jawab dan fungsinya masing-masing. Pada umumnya, anggota kelompok pengguna tertentu dapat dikenali dari warna khusus pada forum dan kanal obrolan serta gelar dan/atau lencana khusus yang mereka miliki.
 
 | Nama | Deskripsi |
 | :-- | :-- |
@@ -51,7 +51,7 @@ osu! memiliki berbagai kelompok pengguna (*user group*) yang tersusun atas sosok
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Mengevaluasi kinerja Beatmap Nominator |
 | [osu! Alumni](osu!_Alumni) | Para pendahulu yang telah banyak berjasa pada masanya |
 | [Project Loved Team](Project_Loved_Team) | Mengukuhkan beatmap yang dicintai oleh komunitas |
-| [Support Team](Support_Team) | Menjawab pertanyaan yang diajukan pada sub-forum Help dan Feature Request |
+| [Support Team](Support_Team) | Memberikan bantuan pada sub-forum Help dan Feature Request |
 
 ## Anggota tim inti osu! yang kini sudah tidak lagi aktif
 
