@@ -15,13 +15,13 @@ tags:
 
 Para anggota Beatmap Nominator bertanggung jawab untuk mengecek kelayakan [beatmap yang berstatus Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) melalui proses [modding](/wiki/Modding). Mereka juga merupakan tempat bertanya bagi para mapper yang membutuhkan arahan seputar segala hal yang berhubungan dengan mapping atau modding. Masing-masing Beatmap Nominator dapat menempatkan [veto](Beatmap_Veto) pada beatmap yang telah dinominasikan sebelumnya apabila mereka merasa bahwa beatmap tersebut memiliki masalah di luar Ranking Criteria yang harus diperbaiki.
 
-Di samping itu, seluruh anggota Beatmap Nominator diharapkan untuk dapat selalu bersikap bijak dalam melayani komunitas dengan antara lain mengecek berbagai macam beatmap serta terus berusaha untuk meningkatkan keahlian mereka sebagaimana yang diuraikan dalam [artikel Ekspektasi bagi Beatmap Nominator](Expectations).
+Di samping itu, seluruh anggota Beatmap Nominator diharapkan untuk dapat selalu bersikap bijak dalam melayani komunitas dengan antara lain mengecek berbagai beatmap yang ada tanpa mengesampingkan mapper atau jenis beatmap tertentu serta terus berusaha untuk meningkatkan keahlian mereka sebagaimana yang diuraikan dalam [artikel Ekspektasi bagi Beatmap Nominator](Expectations).
 
-Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi dua kelompok yakni Full BN dan Probationary BN.
+Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi dua kelompok yakni Full Beatmap Nominator (Full BN) dan Probationary Beatmap Nominator (Probationary BN).
 
 ### Full Beatmap Nominator
 
-Di samping tugas utama mereka untuk mengecek dan menominasikan beatmap, full Beatmap Nominator bertanggung jawab untuk melakukan diskualifikasi terhadap sebuah beatmap yang bermasalah yang sudah dikualifikasi. Full BN juga dapat sesekali berpartisipasi dalam penilaian lamaran Beatmap Nominator jika mereka tertarik untuk bergabung ke Nomination Assessment Team di masa mendatang.
+Full Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang memiliki kuasa penuh akan seluruh hak BN. Di samping mengecek dan menominasikan beatmap, para anggota Full BN juga dapat mendiskualifikasi terhadap sebuah beatmap yang bermasalah yang sudah dikualifikasi. Full BN juga dapat sesekali berpartisipasi dalam penilaian lamaran Beatmap Nominator jika mereka tertarik untuk bergabung ke Nomination Assessment Team di masa mendatang.
 
 Kira-kira setiap tiga bulan, perilaku dan aktivitas/kualitas nominasi dari full Beatmap Nominator dinilai oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Jika nominasi mereka sering di reset karena alasan yang penting atau perilaku mereka yang tidak dapat diterima, mereka mungkin akan dipindahkan ke probationary Beatmap Nominators.
 
