@@ -35,11 +35,11 @@ Anggota baru Beatmap Nominator dimulai dengan masa percobaan selama satu bulan. 
 
 Saat seorang Beatmap Nominator ditempatkan dalam masa percobaan, mereka tidak dapat dapat ditempatkan dalam masa percobaan lagi dengan alasan yang sama. Sebagai contoh, jika seorang Beatmap Nominator ditempatkan dalam masa percobaan karena perilaku yang buruk, mereka akan dikeluarkan dari Beatmap Nominator jika mereka menunjukkan perilaku buruk yang sama lagi meskipun mereka adalah full BN.
 
-## Anggota 6im
+## Anggota tim
 
-Halaman daftar [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
+Daftar anggota Beatmap Nominator selengkapnya dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
-Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator secara resmi memenuhi syarat untuk melakukan nominasi. *Catatan: Semua Beatmap Nominator berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
+Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masing nominator. *Catatan: Kecuali dijabarkan, seluruh anggota Beatmap Nominator fasih berbicara dalam Bahasa Inggris di samping bahasa yang tercantum dibawah ini.*
 
 ### Full Beatmap Nominator
 
