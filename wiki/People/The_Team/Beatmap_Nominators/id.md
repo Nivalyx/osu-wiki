@@ -2,13 +2,11 @@
 tags:
   - BN
   - BNG
-outdated_translation: true
-outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 ---
 
 # Beatmap Nominators
 
-*Lihat juga: [Peraturan Beatmap Nominator](Rules), [Ekspektasi bagi Beatmap Nominators](Expectations), [Informasi Umum Tentang Beatmap Nominators](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+*Lihat juga: [Peraturan Beatmap Nominator](Rules), [Ekspektasi bagi Beatmap Nominator](Expectations), [Informasi Umum Tentang Beatmap Nominators](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
 **Beatmap Nominator** (***BN***) adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Beatmap_ranking_procedure). Mereka memiliki warna ungu pada nama mereka di forum dan diskusi beatmap.
 
