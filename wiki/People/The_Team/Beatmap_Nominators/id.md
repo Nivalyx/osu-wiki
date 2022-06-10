@@ -8,7 +8,7 @@ tags:
 
 *Lihat juga: [Peraturan Beatmap Nominator](Rules), [Ekspektasi bagi Beatmap Nominator](Expectations), [Informasi umum seputar Beatmap Nominators](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-**Beatmap Nominator** (***BN***) merupakan kelompok pengguna (*usergroup*) yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Para anggota Beatmap Nominator dapat dikenali dari nama mereka yang berwarna ungu pada laman forum dan diskusi beatmap.
+**Beatmap Nominator** (***BN***) merupakan kelompok pengguna (*usergroup*) yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Para anggota Beatmap Nominator dapat dikenali melalui nama pengguna mereka yang berwarna ungu pada laman forum dan diskusi beatmap.
 
 ## Peran dan tanggung jawab
 
@@ -229,7 +229,7 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 - Beatmap Nominator sebelumnya dikenal sebagai *Beatmap Appreciation Team* (BAT).
 - Per tanggal 22 Agustus 2014, BAT tidak lagi dianggap sebagai bagian dari tim staf. Ini artinya kemampuan moderasi obrolan mereka in-game dan nama merah mereka di dalam permainan dan di forum dicabut.
-- Pada tanggal 1 Januari 2015, nama tim diubah dari *Beatmap Appreciation Team* menjadi *Beatmap Nomination Group* yang pada saat ini kita ketahui sebagai Beatmap Nominator
+- Pada tanggal 1 Januari 2015, nama *Beatmap Appreciation Team* diubah menjadi *Beatmap Nomination Group* yang pada saat ini kita ketahui sebagai Beatmap Nominator.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
