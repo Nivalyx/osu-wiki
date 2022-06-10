@@ -21,11 +21,11 @@ Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi
 
 ### Full Beatmap Nominator
 
-Full Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang memiliki kuasa penuh akan seluruh hak BN. Di samping mengecek dan menominasikan beatmap, para anggota Full BN juga dapat mendiskualifikasi beatmap Qualified yang dipandang bermasalah. Mereka juga dapat sesekali berpartisipasi dalam penilaian lamaran Beatmap Nominator jika mereka tertarik untuk bergabung ke Nomination Assessment Team di masa mendatang.
+Full Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang memiliki kuasa penuh akan seluruh hak BN. Di samping mengecek dan menominasikan beatmap, para anggota Full BN juga dapat mendiskualifikasi beatmap Qualified yang dipandang bermasalah. Mereka juga dapat  berpartisipasi dalam proses evaluasi calon anggota Beatmap Nominator baru apabila mereka tertarik untuk bergabung ke Nomination Assessment Team ke depannya.
 
-Kira-kira setiap tiga bulan, perilaku dan aktivitas/kualitas nominasi dari full Beatmap Nominator dinilai oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Jika nominasi mereka sering di reset karena alasan yang penting atau perilaku mereka yang tidak dapat diterima, status keanggotaan mereka dapat diturunkan menjadi Probationary Beatmap Nominator.
+Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nominasi para anggota Full Beatmap Nominator akan dinilai oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Apabila nominasi mereka sering dianulir karena alasan yang fatal atau mereka melakukan sesuatu yang tidak dapat diterima, status keanggotaan mereka dapat diturunkan menjadi Probationary Beatmap Nominator.
 
-Full Beatmap Nominator dengan aktivitas nominasi dibawah minimum tidak akan ditempatkan dalam masa percobaan, namum mereka akan akan dikeluarkan dari kelompok jika aktivitas mereka tidak meningkat.
+Para anggota Full Beatmap Nominator dengan aktivitas nominasi dibawah minimum tidak akan langsung ditempatkan dalam masa percobaan, namum mereka akan akan dikeluarkan dari kelompok jika aktivitas mereka tidak meningkat.
 
 ### Probationary Beatmap Nominator
 
