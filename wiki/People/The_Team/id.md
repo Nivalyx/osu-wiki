@@ -75,7 +75,7 @@ osu! memiliki berbagai kelompok pengguna (*user group*) yang tersusun atas para 
 | ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Perancang forum |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, sosok yang luar biasa menawan |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Pemimpin tim desain dan perancang konsep awal pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
-| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masanya, kontributor utama proyek meeting minutes dan artikel FAQ |
+| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masanya, kontributor utama panel diskusi Meeting Minutes dan artikel FAQ |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan sistem *performance point* (pp) |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Pengembang osu! dan mode osu!mania |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, pengurus dan penyelenggara World Cup, pemelihara osu!wiki |
