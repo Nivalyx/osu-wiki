@@ -39,7 +39,7 @@ Saat seorang Beatmap Nominator ditempatkan dalam masa percobaan, mereka tidak da
 
 Daftar anggota Beatmap Nominator selengkapnya dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
-Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masing anggota Beatmap Nominator. *Catatan: Kecuali mereka yang diberikan pengecualian khusus, seluruh anggota Beatmap Nominator dapat berbicara Bahasa Inggris secara fasih di samping bahasa tambahan mereka.*
+Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masing anggota Beatmap Nominator. *Catatan: Kecuali mereka yang diberikan pengecualian khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi dalam Bahasa Inggris secara fasih di samping bahasa tambahan mereka.*
 
 ### Full Beatmap Nominator
 
@@ -232,6 +232,8 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 - Pada tanggal 22 Agustus 2014, BAT tidak lagi menjadi bagian dari tim staf. Seiring dengan perubahan ini, kemampuan moderasi dan warna pengguna khusus yang mereka miliki di dalam permainan dan forum ikut dicabut.
 - Pada tanggal 1 Januari 2015, nama *Beatmap Appreciation Team* diubah menjadi *Beatmap Nomination Group* yang kemudian menjelma menjadi Beatmap Nominator sebagaimana yang kita kenal saat ini.
 
+<!--- updated as of June 5, 2022 with the addition of Antalf into the mania Probationary BN ---> 
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
@@ -239,13 +241,14 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CL]: /wiki/shared/flag/CL.gif "Cili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
 [flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_DO]: /wiki/shared/flag/DO.gif "Republik Dominika"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
-[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
+[flag_FR]: /wiki/shared/flag/FR.gif "Perancis"
 [flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_GR]: /wiki/shared/flag/GR.gif "Yunani"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
