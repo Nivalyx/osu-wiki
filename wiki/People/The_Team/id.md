@@ -41,17 +41,17 @@ Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_sup
 
 ## Kelompok pengguna
 
-osu! memiliki berbagai kelompok pengguna (*user group*) yang tersusun atas anggota-anggota komunitas terpilih beserta dengan tanggung jawab dan kontribusinya masing-masing terhadap ekosistem osu!. Pada umumnya, anggota gugus-gugus pengguna di bawah ini dapat dikenali dari warna khusus pada forum, warna khusus pada kanal obrolan, serta gelar dan/atau lencana khusus yang disematkan kepada masing-masing anggota.
+osu! memiliki berbagai kelompok pengguna (*user group*) yang masing-masing memiliki tanggung jawab dan fungsinya tersendiri. Pada umumnya, anggota gugus-gugus pengguna di bawah ini dapat dikenali dari warna khusus pada forum, warna khusus pada kanal obrolan, serta gelar dan/atau lencana khusus yang disematkan kepada masing-masing anggota.
 
 | Nama | Deskripsi |
 | :-- | :-- |
-| [Beatmap Nominator](Beatmap_Nominators) | Menjaga standar kualitas beatmap dan mendorong beatmap-beatmap yang dianggap layak ke dalam kategori Qualified |
+| [Beatmap Nominator](Beatmap_Nominators) | Menjaga standar kualitas beatmap dan mendorong beatmap yang dianggap layak ke dalam kategori Qualified |
 | [Developer](Developers) | Membuat osu! senantiasa tampil menawan melalui implementasi berbagai fitur canggih dan penumpasan berbagai macam *bug* |
 | [Global Moderation Team](Global_Moderation_Team) | Mengawasi forum dan kanal obrolan |
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Mengevaluasi kinerja Beatmap Nominator |
 | [osu! Alumni](osu!_Alumni) | Para pendahulu yang telah banyak berjasa pada masanya |
-| [Project Loved Team](Project_Loved_Team) | Mengukuhkan beatmap-beatmap yang dicintai oleh komunitas |
-| [Support Team](Support_Team) | Menjawab berbagai pertanyaan yang terlontar pada sub-forum Help dan Feature Request |
+| [Project Loved Team](Project_Loved_Team) | Mengukuhkan beatmap yang dicintai oleh komunitas |
+| [Support Team](Support_Team) | Menjawab pertanyaan yang diajukan pada sub-forum Help dan Feature Request |
 
 ## Anggota tim inti osu! yang kini sudah tidak lagi aktif
 
