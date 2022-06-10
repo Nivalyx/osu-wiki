@@ -227,9 +227,9 @@ Tabel di bawah ini menunjukkan mode permainan di mana setiap Beatmap Nominator s
 
 ## Sejarah
 
-- Beatmap Nominator sebelumnya dikenal sebagai *Beatmap Appreciation Team* (BAT).
-- Per tanggal 22 Agustus 2014, BAT tidak lagi dianggap sebagai bagian dari tim staf. Ini artinya kemampuan moderasi obrolan mereka in-game dan nama merah mereka di dalam permainan dan di forum dicabut.
-- Pada tanggal 1 Januari 2015, nama *Beatmap Appreciation Team* diubah menjadi *Beatmap Nomination Group* yang pada saat ini kita ketahui sebagai Beatmap Nominator.
+- Beatmap Nominator pada awalnya dikenal sebagai *Beatmap Appreciation Team* (BAT).
+- Pada tanggal 22 Agustus 2014, BAT tidak lagi menjadi bagian dari tim staf. Seiring dengan perubahan ini, kemampuan moderasi dan warna pengguna khusus yang mereka miliki di dalam permainan dan di forum ikut dicabut.
+- Pada tanggal 1 Januari 2015, nama *Beatmap Appreciation Team* diubah menjadi *Beatmap Nomination Group* yang kemudian menjelma menjadi Beatmap Nominator sebagaimana yang kita kenal saat ini.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
