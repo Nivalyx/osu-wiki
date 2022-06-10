@@ -13,9 +13,9 @@ tags:
 
 ## Peran dan tanggung jawab
 
-Para anggota Beatmap Nominator bertanggung jawab untuk mengecek kelayakan [beatmap yang berstatus Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) melalui proses [modding](/wiki/Modding). Mereka juga merupakan tempat bertanya bagi para mapper yang ingin meminta saran seputar segala hal yang berhubungan dengan mapping atau modding. Masing-masing Beatmap Nominator dapat menempatkan [veto](Beatmap_Veto) pada beatmap yang telah dinominasikan sebelumnya apabila mereka merasa bahwa beatmap tersebut memiliki masalah di luar  Ranking Criteria yang harus diperbaiki.
+Para anggota Beatmap Nominator bertanggung jawab untuk mengecek kelayakan [beatmap yang berstatus Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) melalui proses [modding](/wiki/Modding). Mereka juga merupakan tempat bertanya bagi para mapper yang membutuhkan arahan seputar segala hal yang berhubungan dengan mapping atau modding. Masing-masing Beatmap Nominator dapat menempatkan [veto](Beatmap_Veto) pada beatmap yang telah dinominasikan sebelumnya apabila mereka merasa bahwa beatmap tersebut memiliki masalah di luar Ranking Criteria yang harus diperbaiki.
 
-Di samping itu, seluruh anggota Beatmap Nominator diharapkan untuk bersikap idealis dan berfokus pada pelayanan kepada komunitas yang lebih besar dengan mengarahkan perhatian mereka ke berbagai macam map dan pembuat map, dan berusaha untuk terus meningkatkan keahlian mereka, seperti yang diuraikan dalam [artikel Ekspektasi untuk Beatmap Nominator](Expectations).
+Di samping itu, seluruh anggota Beatmap Nominator diharapkan untuk selalu mengutamakan pelayanan kepada komunitas yang lebih besar dengan mengarahkan perhatian mereka ke berbagai macam map dan pembuat map, dan berusaha untuk terus meningkatkan keahlian mereka, seperti yang diuraikan dalam [artikel Ekspektasi bagi Beatmap Nominator](Expectations).
 
 Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi dua kelompok yakni Full BN dan Probationary BN.
 
