@@ -29,11 +29,11 @@ Para anggota Full Beatmap Nominator yang tidak memenuhi persyaratan jumlah nomin
 
 ### Probationary Beatmap Nominator
 
-Masa percobaan digunakan untuk memantau Beatmap Nominator baru lebih dekat. Peran utama dari probationary Beatmap Nominators adalah membangun dasar sebagai seorang Beatmap Nominator dengan mempromosikan beatmap secara eksklusif pada proses ranking. Setidaknya satu full nominator harus dilibatkan dalam proses ranking untuk setiap beatmap, jadi anggota probationary tidak dapat memberikan nominasi akhir terhadap beatmap yang mendapatkan nominasi dari anggota probationary lainnya.
+Probationary Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang berada dalam masa percobaan dan tidak memiliki kuasa penuh akan seluruh hak BN. Peran utama dari probationary Beatmap Nominators adalah membangun dasar sebagai seorang Beatmap Nominator dengan mempromosikan beatmap secara eksklusif pada proses ranking. Setidaknya satu full nominator harus dilibatkan dalam proses ranking untuk setiap beatmap, jadi anggota probationary tidak dapat memberikan nominasi akhir terhadap beatmap yang mendapatkan nominasi dari anggota probationary lainnya.
 
-Anggota baru Beatmap Nominator dimulai dengan masa percobaan selama satu bulan. Jika nominasi dan perilaku mereka memuaskan, mereka akan dipromposikan menjadi full Beatmap Nominator. Jika tidak, mereka akan tetap berada di masa percobaan selama satu bulan lagi atau dikeluarkan dari Beatmap Nominator.
+Anggota Beatmap Nominator dimulai dengan masa percobaan selama satu bulan. Jika nominasi dan perilaku mereka memuaskan, mereka akan dipromposikan menjadi full Beatmap Nominator. Jika tidak, mereka akan tetap berada di masa percobaan selama satu bulan lagi atau dikeluarkan dari Beatmap Nominator.
 
-Saat seorang Beatmap Nominator ditempatkan dalam masa percobaan, mereka tidak dapat dapat ditempatkan dalam masa percobaan lagi dengan alasan yang sama. Sebagai contoh, jika seorang Beatmap Nominator ditempatkan dalam masa percobaan karena perilaku yang buruk, mereka akan dikeluarkan dari Beatmap Nominator jika mereka menunjukkan perilaku buruk yang sama lagi meskipun mereka adalah full BN.
+Pada saat seorang Beatmap Nominator telah ditempatkan dalam masa percobaan, mereka tidak lagi dapat ditempatkan dalam masa percobaan dengan alasan yang sama. Sebagai contoh, apabila seorang Beatmap Nominator sebelumnya pernah ditempatkan dalam masa percobaan karena perilaku mereka yang buruk, mereka akan dikeluarkan dari Beatmap Nominator apabila mereka kembali menunjukkan perilaku buruk yang sama meskipun saat itu mereka berposisi sebagai Full Beatmap Nominator.
 
 ## Anggota tim
 
