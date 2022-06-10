@@ -23,7 +23,7 @@ Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi
 
 Full Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang memiliki kuasa penuh akan seluruh hak BN. Di samping mengecek dan menominasikan beatmap, para anggota Full BN juga dapat mendiskualifikasi beatmap Qualified yang dipandang bermasalah. Mereka juga dapat sesekali berpartisipasi dalam penilaian lamaran Beatmap Nominator jika mereka tertarik untuk bergabung ke Nomination Assessment Team di masa mendatang.
 
-Kira-kira setiap tiga bulan, perilaku dan aktivitas/kualitas nominasi dari full Beatmap Nominator dinilai oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Jika nominasi mereka sering di reset karena alasan yang penting atau perilaku mereka yang tidak dapat diterima, mereka mungkin akan dipindahkan ke probationary Beatmap Nominators.
+Kira-kira setiap tiga bulan, perilaku dan aktivitas/kualitas nominasi dari full Beatmap Nominator dinilai oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Jika nominasi mereka sering di reset karena alasan yang penting atau perilaku mereka yang tidak dapat diterima, status keanggotaan mereka dapat diturunkan menjadi Probationary Beatmap Nominator.
 
 Full Beatmap Nominator dengan aktivitas nominasi dibawah minimum tidak akan ditempatkan dalam masa percobaan, namum mereka akan akan dikeluarkan dari kelompok jika aktivitas mereka tidak meningkat.
 
@@ -39,7 +39,7 @@ Saat seorang Beatmap Nominator ditempatkan dalam masa percobaan, mereka tidak da
 
 Daftar anggota Beatmap Nominator selengkapnya dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
-Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masing nominator. *Catatan: Kecuali dijabarkan, seluruh anggota Beatmap Nominator fasih berbicara dalam Bahasa Inggris di samping bahasa yang tercantum dibawah ini.*
+Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masing nominator. *Catatan: Kecuali diberikan keterangan khusus, seluruh anggota Beatmap Nominator fasih berbicara dalam Bahasa Inggris di samping bahasa tambahan mereka.*
 
 ### Full Beatmap Nominator
 
