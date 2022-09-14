@@ -62,21 +62,18 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 
 ## Participants
 
-Listed below are the players who were participating in the tournament along with their respective seed number and average percentage across all ten Qualifier beatmaps.
+Listed below are the players who were invited into the tournament:
 
-| Seed | Player | Avg. percentage |
-| :-: | :-- | :-- |
-| 1 | ::{ flag=ID }:: [DigiM](https://osu.ppy.sh/users/2659328) | 0.99 |
-| 2 | ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869) | 0.94 |
-| 3 | ::{ flag=ID }:: [Lindaine](https://osu.ppy.sh/users/4572717) | 0.80 |
-| 4 | ::{ flag=ID }:: [ReeyaDono](https://osu.ppy.sh/users/10969698) | 0.79 |
-| 5 | ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | 0.73 |
-| 6 | ::{ flag=ID }:: [NeoZap](https://osu.ppy.sh/users/10024869) | 0.72 |
-| 7 | ::{ flag=ID }:: [StingRay](https://osu.ppy.sh/users/2215822) | 0.67 |
-| 8 | ::{ flag=ID }:: [hamdanpapeng](https://osu.ppy.sh/users/10854143) | 0.60 |
-| 9 | ::{ flag=ID }:: [nasje](https://osu.ppy.sh/users/7579498) | 0.44 |
-| 10 | ::{ flag=ID }:: [larrypult](https://osu.ppy.sh/users/12255948) | 0.37 |
-| 11 | ::{ flag=ID }:: [DeltaE](https://osu.ppy.sh/users/8361921) | 0.24 |
+- ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222)
+- ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635)
+- ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275)
+- ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008)
+- ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956)
+- ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594)
+- ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633)
+- ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809)
+
+In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was also drafted as a reserve player in case one of the players above had to drop out from the event in a short notice.
 
 ## Podium
 
@@ -100,16 +97,16 @@ Listed below are the players who were participating in the tournament along with
   2. [Niko - Made of Fire (lesjuh) \[Oni\]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
   3. [kanone - The Sea of Memory (waefwerf) \[Amnesia\]](https://osu.ppy.sh/beatmapsets/1347768#osu/2791085)
 - HardRock
-  1. [Mitsukiyo - Luminous Memory (CoLouRed GlazeE) \[Extra\]](https://osu.ppy.sh/beatmapsets/1796025#osu/3681594)
-  2. [ginkiha - EOS (alacat) \[Lycoris\]](https://osu.ppy.sh/beatmapsets/151720#osu/373781)
-  3. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
+  1. [Baru - ResoAlive (knowledgeking) \[Always Trust Me\]](https://osu.ppy.sh/beatmapsets/1703756#osu/3481299)
+  2. [onoken - felys final remix (Miura) \[Another\]](https://osu.ppy.sh/beatmapsets/1304397#osu/2704777)
+  3. [monet - Noborenai Sakamichi (xHirayuki) \[:sunflower:\]](https://osu.ppy.sh/beatmapsets/1555041#osu/3176982)
 - DoubleTime
-  1. [Sakamoto Maaya - Mameshiba (Keqing) \[Seaside\]](https://osu.ppy.sh/beatmapsets/1650679#osu/3371420)
-  2. [Annabel - pedalnote (Agatsu) \[Gibune's Insane\]](https://osu.ppy.sh/beatmapsets/1669381#osu/3409171)
-  3. [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)
-  4. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
+  1. [Yousei Teikoku - Torikago (Nagi Hisakawa) \[Immure\]](https://osu.ppy.sh/beatmapsets/1271945#osu/2643135)
+  2. [-45 - System Sun (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1616029#osu/3299371)
+  3. [Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Azer) \[Collab\]](https://osu.ppy.sh/beatmapsets/179323#osu/431147)
+  4. [Celldweller - Shapeshifter (feat. Styles of Beyond) (PandaHero) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1124906#osu/2776049)
 - Tiebreaker
-  1. **[Asriel - Sequentia (Deca) \[Damnation\]](https://osu.ppy.sh/beatmapsets/1550720#osu/3168834)**
+  1. **[Laur feat. Risa Yuzuki - Megaera (Niva) \[Ascavethia\]](https://osu.ppy.sh/beatmapsets/1841569#osu/3782464)**
 
 ### Quarterfinals and Semifinals
 
