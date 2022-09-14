@@ -14,7 +14,7 @@ The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invit
 
 | Event | Timestamp |
 | --: | :-- |
-| Technical meeting | 2022-08-29 |
+| Technical Meeting | 2022-08-29 |
 | Opening | 2022-09-03 (10:00 UTC +7) |
 | Quarterfinal 1 | 2022-09-03 (10:30 UTC +7) |
 | Quarterfinal 2 | 2022-09-03 (11:30 UTC +7) |
