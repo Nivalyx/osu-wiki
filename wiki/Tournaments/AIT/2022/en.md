@@ -8,7 +8,7 @@ tags:
 
 ![Ascaveth Invitational Tournament 2022 logo](img/logo.jpg)
 
-The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and co-organised by ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), and ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677). It was the second major offline/in-person osu! tournament to ever be held in Indonesia, following the [osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417) event ten years before.
+The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and co-organised by ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), and ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966). It was the second major offline/in-person osu! tournament to ever be held in Indonesia, following the [osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417) event ten years before.
 
 ## Tournament schedule
 
@@ -43,14 +43,19 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) |
-| Organiser | ::{ flag=ID }:: [Bisma404](https://osu.ppy.sh/users/7171896), ::{ flag=ID }:: [Jevlyn](https://osu.ppy.sh/users/28585681) |
-| Mappool selector | ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405), ::{ flag=ID }:: [Larzz](https://osu.ppy.sh/users/10483670) |
-| Playtester | ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
-| Streamer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [kilgo](https://osu.ppy.sh/users/9692053) |
-| Commentator | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [kilgo](https://osu.ppy.sh/users/9692053), ::{ flag=ID }:: [nasje](https://osu.ppy.sh/users/7579498), ::{ flag=ID }:: [eucharistica](https://osu.ppy.sh/users/28736472) |
-| Referee | ::{ flag=ID }:: [kilgo](https://osu.ppy.sh/users/9692053), ::{ flag=ID }:: [Romizzz](https://osu.ppy.sh/users/6154769) |
-| Graphic designer | ::{ flag=ID }:: [Kizito Hiro](https://osu.ppy.sh/users/2263272) |
+| Organiser | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) |
+| Mappool selector | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548) |
+| Mappool helper | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
+| Streamer | ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
+| Commentator | :{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) |
+| Referee | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490) |
+| Logistics and equipment | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
+| Security and permissions | ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031) |
+| Documentation | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
+| Catering | ::{ flag=ID }:: [Nareisk](https://osu.ppy.sh/users/18382879) |
+| Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Additional helper | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Arca 9](https://osu.ppy.sh/users/14042319), ::{ flag=ID }:: [xLipz](https://osu.ppy.sh/users/8358833), ::{ flag=ID }:: Hollowness, ::{ flag=ID }:: Vanties, ::{ flag=ID }:: Aniki, ::{ flag=ID }:: St. Dark\_Pha, ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
 
 ## Links
 
@@ -73,7 +78,7 @@ Listed below are the players who were invited into the tournament:
 - ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633)
 - ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809)
 
-In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was also drafted as a reserve player in case someone had to drop out from the event in a short notice.
+In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was also drafted as a back-up player in case there was an emergency and/or someone had to drop out from the event on a short notice.
 
 ## Podium
 
