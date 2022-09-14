@@ -75,13 +75,7 @@ Listed below are the players who were participating in the tournament along with
 
 ## Podium
 
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [ReeyaDono](https://osu.ppy.sh/users/10969698) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [NeoZap](https://osu.ppy.sh/users/10024869) |
+![](img/podium.jpg "Ascaveth Invitational Tournament 2022 podium")
 
 ## Mappools
 
