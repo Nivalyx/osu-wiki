@@ -33,8 +33,11 @@ The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invit
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Commemorative trophy, one-time voucher worth 250,000 IDR to be spent on [PERAK MART](http://perak.cs.ui.ac.id/mart/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | One-time voucher worth 150,000 IDR to be spent on [PERAK MART](http://perak.cs.ui.ac.id/mart/) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 500,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 250,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 150,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
+| 4th place | 100,000 IDR |
+| 5th-8th place | 75,000 IDR |
 
 ## Organisation
 
