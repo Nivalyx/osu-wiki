@@ -59,11 +59,9 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/175mrODHUOZIUhW6S3s86T7sZnGfy35-KHht8v2c0ixI/edit#gid=0)**
-- [Official website](https://perak.cs.ui.ac.id/leaderboard/13)
-- [Discord server](https://discordapp.com/invite/8vGTedxKmD)
-- [Livestream channel](https://www.twitch.tv/perakgamesleague)
-- [Challonge brackets](https://challonge.com/PERAKOSU2022)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/13UTdhZDn14B8pgZ4KY7V5RQsHMt0qCrAeTXZHZ4eCoY/edit?usp=sharing)**
+- [Livestream channel](https://www.twitch.tv/osuIndonesia)
+- [Challonge brackets](https://challonge.com/ascavethinv)
 
 ## Participants
 
@@ -78,7 +76,7 @@ Listed below are the players who were invited into the tournament:
 - ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633)
 - ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809)
 
-In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was also drafted as a back-up player in case there was an emergency and/or someone had to drop out from the event on a short notice.
+In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was drafted as a back-up player in case someone had to back out from the event on a short notice.
 
 ## Podium
 
@@ -138,95 +136,33 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was als
 
 ## Match results
 
-### Finals (week 2)
+### Grand Final
 
-Saturday, 23 April 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [NeoZap](https://osu.ppy.sh/users/10024869) | [#1](https://osu.ppy.sh/community/matches/100011716) |
+| Grand Final | [Skydiver](https://osu.ppy.sh/users/4750008) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/99571190) |
 
-Sunday, 24 April 2022, Grand Final:
+### 3rd Place Match
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Match code  | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: [ReeyaDono](https://osu.ppy.sh/users/10969698) | [#1](https://osu.ppy.sh/community/matches/100011716) |
-
-### Finals (week 1)
-
-Saturday, 9 April 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [ReeyaDono](https://osu.ppy.sh/users/2215822) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** | [#1](https://osu.ppy.sh/community/matches/99571190) |
-
-Sunday, 10 April 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[NeoZap](https://osu.ppy.sh/users/10024869)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Lindaine](https://osu.ppy.sh/users/4572717) | *win by default* |
+| 3rd Place Match | **[Crezz](https://osu.ppy.sh/users/7108275)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | [#1](https://osu.ppy.sh/community/matches/103532224) |
 
 ### Semifinals
 
-Saturday, 19 March 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [StingRay](https://osu.ppy.sh/users/2215822) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[NeoZap](https://osu.ppy.sh/users/10024869)** | [#1](https://osu.ppy.sh/community/matches/98920941) |
-
-Sunday, 20 March 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Lindaine](https://osu.ppy.sh/users/4572717) | [#1](https://osu.ppy.sh/community/matches/98884028) |
-| Lower | [-Keitaro](https://osu.ppy.sh/users/3378391) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/98929136) |
-| Upper | [DigiM](https://osu.ppy.sh/users/2659328) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[ReeyaDono](https://osu.ppy.sh/users/10969698)** | [#1](https://osu.ppy.sh/community/matches/98901027) |
-
-Monday, 21 March 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [DigiM](https://osu.ppy.sh/users/2659328) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[NeoZap](https://osu.ppy.sh/users/10024869)** | [#1](https://osu.ppy.sh/community/matches/99156017) |
-| Lower | **[Lindaine](https://osu.ppy.sh/users/4572717)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [nasje](https://osu.ppy.sh/users/7579498) | *win by default* |
+| Semifinal 1 | [Lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/103529223) |
+| Semifinal 2 | **[Skydiver](https://osu.ppy.sh/users/7108275)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) | [#1](https://osu.ppy.sh/community/matches/103528575) |
 
 ### Quarterfinals
 
-Saturday, 12 March 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[ReeyaDono](https://osu.ppy.sh/users/10969698)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | [#1](https://osu.ppy.sh/community/matches/98618342) |
-| Upper | **[DigiM](https://osu.ppy.sh/users/2659328)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [nasje](https://osu.ppy.sh/users/7579498) | [#1](https://osu.ppy.sh/community/matches/98651493) |
-| Upper | **[Lindaine](https://osu.ppy.sh/users/4572717)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [NeoZap](https://osu.ppy.sh/users/10024869) | [#1](https://osu.ppy.sh/community/matches/98652613) |
-
-Sunday, 13 March 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Victim\_Crasher](https://osu.ppy.sh/users/2084869)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [StingRay](https://osu.ppy.sh/users/2215822) | [#1](https://osu.ppy.sh/community/matches/98693176) |
-
-Monday, 14 March 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[NeoZap](https://osu.ppy.sh/users/10024869)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [hamdanpapeng](https://osu.ppy.sh/users/10854143) | [#1](https://osu.ppy.sh/community/matches/98730561) |
-| Lower | **[-Keitaro](https://osu.ppy.sh/users/3378391)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [larrypult](https://osu.ppy.sh/users/12255948) | *win by default* |
-| Lower | **[nasje](https://osu.ppy.sh/users/7579498)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [DeltaE](https://osu.ppy.sh/users/8361921) | *win by default* |
-
-### Round of 12
-
-Sunday, 6 March 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Stingray](https://osu.ppy.sh/users/2215822)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [larrypult](https://osu.ppy.sh/users/12255948) | [#1](https://osu.ppy.sh/community/matches/98469707) |
-| Upper | **[NeoZap](https://osu.ppy.sh/users/10024869)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [DeltaE](https://osu.ppy.sh/users/8361921) | *win by default* |
-
-Monday, 7 March 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [hamdanpapeng](https://osu.ppy.sh/users/10854143) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[nasje](https://osu.ppy.sh/users/7579498)** | [#1](https://osu.ppy.sh/community/matches/98501050) |
+| Quarterfinal 1 | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/103525528) |
+| Quarterfinal 2 | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/103526744) |
+| Quarterfinal 3 | [Daffy](https://osu.ppy.sh/users/5968633) ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/103527716) |
+| Quarterfinal 4 | **[Skydiver](https://osu.ppy.sh/users/4750008)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) | [#1](https://osu.ppy.sh/community/matches/103528575) |
 
 ## Ruleset
 
