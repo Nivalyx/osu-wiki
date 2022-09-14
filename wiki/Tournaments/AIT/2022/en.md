@@ -84,6 +84,33 @@ Listed below are the players who were participating in the tournament along with
 
 ## Mappools
 
+### 3rd Place Match and Grand Final
+
+**[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
+
+- NoMod
+  1. [Mrs. GREEN APPLE - Blue Ambience (feat. asmi) (Raids) \[I want to be loved!\]](https://osu.ppy.sh/beatmapsets/1801997#osu/3765020)
+  2. [cosMo@BousouP - Oceanus (Broccoly) \[Divinity\]](https://osu.ppy.sh/beatmapsets/267767#osu/609843)
+  3. [ZUTOMAYO - Kan Saete Kuyashiiwa (Nathan) \[geragera\]](https://osu.ppy.sh/beatmapsets/1001507#osu/2096523)
+  4. [NOMA - LOUDER MACHINE (Skystar) \[byfar x Skystar's Collab Extra\]](https://osu.ppy.sh/beatmapsets/483606#osu/1085206)
+  5. [t+pazolite - Hoshikuzu Struck (KKipalt) \[Stardust (Bamboo Ver.)\]](https://osu.ppy.sh/beatmapsets/1478718#osu/3033661)
+  6. [t+pazolite - Hoshikuzu Struck (KKipalt) \[Stardust (Bamboo Ver.)\]](https://osu.ppy.sh/beatmapsets/1478718#osu/3033661)
+- Hidden
+  1. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Ryuusei Aika) \[Skystar's Irregular\]](https://osu.ppy.sh/beatmapsets/740862#osu/1723257)
+  2. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
+  3. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
+- HardRock
+  1. [Mitsukiyo - Luminous Memory (CoLouRed GlazeE) \[Extra\]](https://osu.ppy.sh/beatmapsets/1796025#osu/3681594)
+  2. [ginkiha - EOS (alacat) \[Lycoris\]](https://osu.ppy.sh/beatmapsets/151720#osu/373781)
+  3. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
+- DoubleTime
+  1. [Sakamoto Maaya - Mameshiba (Keqing) \[Seaside\]](https://osu.ppy.sh/beatmapsets/1650679#osu/3371420)
+  2. [Annabel - pedalnote (Agatsu) \[Gibune's Insane\]](https://osu.ppy.sh/beatmapsets/1669381#osu/3409171)
+  3. [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)
+  4. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
+- Tiebreaker
+  1. **[Asriel - Sequentia (Deca) \[Damnation\]](https://osu.ppy.sh/beatmapsets/1550720#osu/3168834)**
+
 ### Quarterfinals and Semifinals
 
 **[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
@@ -95,35 +122,17 @@ Listed below are the players who were participating in the tournament along with
   4. [NOMA - LOUDER MACHINE (Skystar) \[byfar x Skystar's Collab Extra\]](https://osu.ppy.sh/beatmapsets/483606#osu/1085206)
   5. [t+pazolite - Hoshikuzu Struck (KKipalt) \[Stardust (Bamboo Ver.)\]](https://osu.ppy.sh/beatmapsets/1478718#osu/3033661)
 - Hidden
-  1. [the peggies - Neverland (1 miss) \[My Angel Miss' Insane\]](https://osu.ppy.sh/beatmapsets/1314181#osu/3036139)
-  2. [Good Charlotte - The Anthem (Silverboxer) \[Groovin'\]](https://osu.ppy.sh/beatmapsets/1360038#osu/2814386)
+  1. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Ryuusei Aika) \[Skystar's Irregular\]](https://osu.ppy.sh/beatmapsets/740862#osu/1723257)
+  2. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
 - HardRock
-  1. [zakuro - Inochi ni Kirawarete Iru. (Delis) \[PandaHero's Light Insane\]](https://osu.ppy.sh/beatmapsets/693727#osu/1473795)
-  2. [XXXTENTACION - MOONLIGHT (eiri-) \[R.I.P\]](https://osu.ppy.sh/beatmapsets/967467#osu/2024692)
+  1. [Mitsukiyo - Luminous Memory (CoLouRed GlazeE) \[Extra\]](https://osu.ppy.sh/beatmapsets/1796025#osu/3681594)
+  2. [ginkiha - EOS (alacat) \[Lycoris\]](https://osu.ppy.sh/beatmapsets/151720#osu/373781)
 - DoubleTime
-  1. [senya - Theta de Tsukisashite (Serafeim) \[Hard\]](https://osu.ppy.sh/beatmapsets/1353531#osu/2802609)
-  2. [zts - liberatedliberator (deetz) \[Light Hard\]](https://osu.ppy.sh/beatmapsets/907805#osu/1894749)  
+  1. [Sakamoto Maaya - Mameshiba (Keqing) \[Seaside\]](https://osu.ppy.sh/beatmapsets/1650679#osu/3371420)
+  2. [Annabel - pedalnote (Agatsu) \[Gibune's Insane\]](https://osu.ppy.sh/beatmapsets/1669381#osu/3409171)
+  3. [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)  
 - Tiebreaker
-  1. **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Azer) \[Collab\]](https://osu.ppy.sh/beatmapsets/179323#osu/431147)**
-
-### Qualifiers
-
-**[Download the mappack here! (63 MB)](https://drive.google.com/u/0/uc?id=1DKGRxT7YU1EnTVpqTmHj4tD2ADqSmee_&export=download)**
-
-- NoMod
-  1. [yuikonnu - Hatsukoi no Ehon (litoluna) \[Gazel's Hard\]](https://osu.ppy.sh/beatmapsets/110870#osu/300294)
-  2. [Elu, SisterCleaire - Sunday Sunday Fruit Fool (Yugu) \[Sweet\]](https://osu.ppy.sh/beatmapsets/1112138#osu/2323588)
-  3. [I love you Orchestra - Tenshin -Trigger ver.- (Mirash) \[Hard\]](https://osu.ppy.sh/beatmapsets/1285271#osu/2668592)
-  4. [HyuN - You'Re aRleAdY dEAd (J1\_) \[pishi's Hard\]](https://osu.ppy.sh/beatmapsets/891441#osu/1863466)
-- Hidden
-  1. [chano & 40mP - Kiritorisen (Li Syaoran) \[hhjkl's Hard\]](https://osu.ppy.sh/beatmapsets/1480477#osu/3037193)
-  2. [Daisuke Achiwa - BASARA (100pa-) \[Chroche\]](https://osu.ppy.sh/beatmapsets/13019#osu/70491)
-- HardRock
-  1. [Kurosaki Maon - Setsuna no Kajitsu (jonathanlfj) \[Chris' Hard\]](https://osu.ppy.sh/beatmapsets/332112#osu/1900366)
-  2. [Arizona Zervas - ROXANNE (wafer) \[Hard\]](https://osu.ppy.sh/beatmapsets/1076733#osu/2253014)
-- DoubleTime
-  1. [Yasuda Rei - Mirror (Modem) \[Advanced\]](https://osu.ppy.sh/beatmapsets/649225#osu/1384468)
-  2. [Foreground Eclipse - Vermillion Halo (attendant) \[Normal\]](https://osu.ppy.sh/beatmapsets/1504033#osu/3081346)
+  1. **[Asriel - Sequentia (Deca) \[Damnation\]](https://osu.ppy.sh/beatmapsets/1550720#osu/3168834)**
 
 ## Match results
 
