@@ -8,7 +8,7 @@ tags:
 
 ![Ascaveth Invitational Tournament 2022 logo](img/logo.jpg)
 
-The **PERAK osu! Tournament 2022** (***POT 2022***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405) as part of the annual [PERAK Games League](https://perak.cs.ui.ac.id/) festival. The tournament was open to all players who were registered as a student at (or alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) regardless of rank. It was the second iteration of the PERAK osu! Tournament.
+The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and co-organised by ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), and ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677). It was the second major offline/in-person osu! tournament to ever be held in Indonesia, following the [osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417) event ten years before.
 
 ## Tournament schedule
 
