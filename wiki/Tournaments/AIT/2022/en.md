@@ -96,9 +96,9 @@ Listed below are the players who were participating in the tournament along with
   5. [Igorrr - Unpleasant Sonata (Riene) \[Lyruke's Extreme\]](https://osu.ppy.sh/beatmapsets/1347338#osu/3681518)
   6. [II-L - LEVEL-DOWN (MrAlpacus) \[OD 9.4\]](https://osu.ppy.sh/beatmapsets/1670983#osu/3459288)
 - Hidden
-  1. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Ryuusei Aika) \[Skystar's Irregular\]](https://osu.ppy.sh/beatmapsets/740862#osu/1723257)
-  2. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
-  3. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
+  1. [TERRA - EDEN (Mirash) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1171713#osu/2444026)
+  2. [Niko - Made of Fire (lesjuh) \[Oni\]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
+  3. [kanone - The Sea of Memory (waefwerf) \[Amnesia\]](https://osu.ppy.sh/beatmapsets/1347768#osu/2791085)
 - HardRock
   1. [Mitsukiyo - Luminous Memory (CoLouRed GlazeE) \[Extra\]](https://osu.ppy.sh/beatmapsets/1796025#osu/3681594)
   2. [ginkiha - EOS (alacat) \[Lycoris\]](https://osu.ppy.sh/beatmapsets/151720#osu/373781)
