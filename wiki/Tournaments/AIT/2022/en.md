@@ -14,15 +14,20 @@ The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invit
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2022-01-28/2022-02-10 |
-| Technical meeting | 2022-02-11 |
-| Qualifiers | 2022-02-21/2022-02-27 |
-| Round of 12 | 2022-02-28/2022-03-06 |
-| Quarterfinals | 2022-03-07/2022-03-13 |
-| Semifinals | 2022-03-14/2022-03-20 |
-| *Midterm break* | 2022-03-21/2022-04-03 |
-| Finals (week 1) | 2022-04-04/2022-04-10 |
-| Finals (week 2) | 2022-04-12/2022-04-24 |
+| Technical meeting | 2022-08-29 |
+| Opening | 2022-09-03 (10:00 UTC +7) |
+| Quarterfinal 1 | 2022-09-03 (10:30 UTC +7) |
+| Quarterfinal 2 | 2022-09-03 (11:30 UTC +7) |
+| *Break* | 2022-09-03 (12:30 UTC +7) |
+| Quarterfinal 3 | 2022-09-03 (13:00 UTC +7) |
+| Quarterfinal 4 | 2022-09-03 (14:00 UTC +7) |
+| *Break* | 2022-09-03 (15:00 UTC +7) |
+| Semifinal 1 | 2022-09-03 (15:30 UTC +7) |
+| Semifinal 2 | 2022-09-03 (16:30 UTC +7) |
+| *Break* | 2022-09-03 (17:30 UTC +7) |
+| 3rd Place Match | 2022-09-03 (18:30 UTC +7) |
+| Grand Final | 2022-09-03 (19:30 UTC +7) |
+| Awarding and Closing | 2022-09-03 (20:30 UTC +7) |
 
 ## Prizes
 
@@ -33,12 +38,12 @@ The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invit
 
 ## Organisation
 
-The PERAK osu! Tournament 2022 was run by various Indonesian osu! community members.
+The PERAK osu! Tournament 2022 was run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405) |
-| Supervisor | ::{ flag=ID }:: [Bisma404](https://osu.ppy.sh/users/7171896), ::{ flag=ID }:: [Jevlyn](https://osu.ppy.sh/users/28585681) |
+| Host | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) |
+| Organiser | ::{ flag=ID }:: [Bisma404](https://osu.ppy.sh/users/7171896), ::{ flag=ID }:: [Jevlyn](https://osu.ppy.sh/users/28585681) |
 | Mappool selector | ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405), ::{ flag=ID }:: [Larzz](https://osu.ppy.sh/users/10483670) |
 | Playtester | ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
 | Streamer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [kilgo](https://osu.ppy.sh/users/9692053) |
