@@ -89,12 +89,12 @@ Listed below are the players who were participating in the tournament along with
 **[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
 
 - NoMod
-  1. [Mrs. GREEN APPLE - Blue Ambience (feat. asmi) (Raids) \[I want to be loved!\]](https://osu.ppy.sh/beatmapsets/1801997#osu/3765020)
-  2. [cosMo@BousouP - Oceanus (Broccoly) \[Divinity\]](https://osu.ppy.sh/beatmapsets/267767#osu/609843)
-  3. [ZUTOMAYO - Kan Saete Kuyashiiwa (Nathan) \[geragera\]](https://osu.ppy.sh/beatmapsets/1001507#osu/2096523)
-  4. [NOMA - LOUDER MACHINE (Skystar) \[byfar x Skystar's Collab Extra\]](https://osu.ppy.sh/beatmapsets/483606#osu/1085206)
-  5. [t+pazolite - Hoshikuzu Struck (KKipalt) \[Stardust (Bamboo Ver.)\]](https://osu.ppy.sh/beatmapsets/1478718#osu/3033661)
-  6. [t+pazolite - Hoshikuzu Struck (KKipalt) \[Stardust (Bamboo Ver.)\]](https://osu.ppy.sh/beatmapsets/1478718#osu/3033661)
+  1. [ELFENSJoN - Shiroki Yume wa Madara ni (Volcarona) \[Twilight\]](https://osu.ppy.sh/beatmapsets/1411211#osu/3174011)
+  2. [xi - Blue Zenith (Asphyxia) \[ktgster's Extreme\]](https://osu.ppy.sh/beatmapsets/292301#osu/657917)
+  3. [BlackY feat. Risa Yuzuki - Shuumatsu Kinema (My Angel Jeremy) \[The weekend cinema in my mind\]](https://osu.ppy.sh/beatmapsets/1820113#osu/3734845)
+  4. [ZxNX - Schadenfreude (Realazy) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/1816239#osu/3728042)
+  5. [Igorrr - Unpleasant Sonata (Riene) \[Lyruke's Extreme\]](https://osu.ppy.sh/beatmapsets/1347338#osu/3681518)
+  6. [II-L - LEVEL-DOWN (MrAlpacus) \[OD 9.4\]](https://osu.ppy.sh/beatmapsets/1670983#osu/3459288)
 - Hidden
   1. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Ryuusei Aika) \[Skystar's Irregular\]](https://osu.ppy.sh/beatmapsets/740862#osu/1723257)
   2. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
