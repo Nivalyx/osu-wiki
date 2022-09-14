@@ -38,7 +38,7 @@ The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invit
 
 ## Organisation
 
-The PERAK osu! Tournament 2022 was run by various osu! community members predominantly hailing from Indonesia.
+The Ascaveth Invitational Tournament 2022 was run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
