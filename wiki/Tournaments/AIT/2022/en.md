@@ -73,7 +73,7 @@ Listed below are the players who were invited into the tournament:
 - ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633)
 - ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809)
 
-In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was also drafted as a reserve player in case a player had to drop out from the event in a short notice.
+In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was also drafted as a reserve player in case someone had to drop out from the event in a short notice.
 
 ## Podium
 
