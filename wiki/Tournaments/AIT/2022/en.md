@@ -105,7 +105,7 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 - HardRock
   1. [Baru - ResoAlive (knowledgeking) \[Always Trust Me\]](https://osu.ppy.sh/beatmapsets/1703756#osu/3481299)
   2. [onoken - felys final remix (Miura) \[Another\]](https://osu.ppy.sh/beatmapsets/1304397#osu/2704777)
-  3. [monet - Noborenai Sakamichi (xHirayuki) \[:sunflower:\]](https://osu.ppy.sh/beatmapsets/1555041#osu/3176982)
+  3. [monet - Noborenai Sakamichi (xHirayuki) \[\:sunflower\:\]](https://osu.ppy.sh/beatmapsets/1555041#osu/3176982)
 - DoubleTime
   1. [Yousei Teikoku - Torikago (Nagi Hisakawa) \[Immure\]](https://osu.ppy.sh/beatmapsets/1271945#osu/2643135)
   2. [-45 - System Sun (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1616029#osu/3299371)
@@ -190,11 +190,7 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 
 ### Tournament registration
 
-1. All interested players are required to register into the tournament individually.
-   - In order to be eligible to play in the tournament, a player must be able to attest their status as a registered student at (or alumni of) [Universitas Indonesia's Faculty of Computer Science](https://cs.ui.id) by showing a valid [EMAS UI credential](http://emas.ui.ac.id) to the Tournament Management.
-2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management.
-3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
-4. Test players, referees, and mappool selectors may not participate as players in this tournament.
+As the tournament was an invitational, there were no open registrations held for the event. However, as always, test players, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Round-specific rules
 
