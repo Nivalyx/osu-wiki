@@ -172,19 +172,15 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 ### General rules
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
-2. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. If there are any players who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
-4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
-6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they had failed the beatmap. 
-   - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
-9. If a player disconnects between beatmaps, the match can be delayed up to 15 minutes at most. 
-   - In case the disconnected player fails to report back after the maximum allowance of 15 minutes pass, the opposing player may be declared to win the match by default.
-10. Lag is not a valid reason to nullify a beatmap.
-11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
-12. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
+2. All matches will be played over a single day in an undisclosed location following the Single Elimination system.
+3. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
+4. Match schedules will be predetermined by the Tournament Management.
+5. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
+6. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. If a player disconnects, the referee will note the score the player had achieved at the end of the beatmap directly from their PC and adjust the outcome of the match accordingly.
+8. Lag is not a valid reason to nullify a beatmap.
+9. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
+10. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
     - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the Tournament Management.
     - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
@@ -218,15 +214,18 @@ As the tournament was an invitational, there were no open registrations held for
    - Players who win by default.
    - Whether there are players who are disqualified from the tournament.
 
-### Match regulations
+### Match instructions
 
 1. Each player must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** (on the Round of 12 and the Quarterfinals) or **two beatmaps** (from the Semifinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+2. Each player has to ban **one beatmap** (on the Quarterfinals and the Semifinals) or **two beatmaps** (on the 3rd Place Match and the Grand Final) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
-3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own before the match commences.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own during the grace period before the match commences.
 4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
-5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has been concluded by the responsible referees.
+5. Players who can compete in the next round are determined by:
+   - In the Quarterfinals and the Semifinals, each player needs to win 5 points in order to win a match. (Best-of-9)
+   - In the 3rd Place Match and the Grand Final, each player needs to win 6 points in order to win a match. (Best-of-11)
+6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
