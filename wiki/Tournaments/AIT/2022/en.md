@@ -174,15 +174,16 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. All matches will be played over a single day in an undisclosed location following the Single Elimination system.
     - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the Technical Meeting.
-3. A
-4. With the exception of the Grand Final tiebreaker, the maps and mappools for the tournament will be announced by the Tournament Management in advance before the event takes place.
-5. Match schedules will be predetermined by the Tournament Management.
-6. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, the referee will note the score the player had achieved directly from their PC and adjust the outcome of the beatmap accordingly.
-9. Lag is not a valid reason to nullify a beatmap.
-10. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
-11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
+3. All matches will be played using a setup provided by the Tournament Management on the spot.
+    - Players are allowed to bring in certain equipments (e.g. keyboard and graphics tablet) and their own device settings should they wish to.
+5. With the exception of the Grand Final tiebreaker, the maps and mappools for the tournament will be announced by the Tournament Management in advance before the event takes place.
+6. Match schedules will be predetermined by the Tournament Management.
+7. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
+8. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+9. If a player disconnects, the referee will note the score the player had achieved directly from their PC and adjust the outcome of the beatmap accordingly.
+10. Lag is not a valid reason to nullify a beatmap.
+11. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
+12. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
     - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the Tournament Management.
     - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
