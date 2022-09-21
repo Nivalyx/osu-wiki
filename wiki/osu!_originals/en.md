@@ -1,8 +1,8 @@
 # osu! originals
 
-**osu! originals** are songs that are specifically made for (or otherwise first premiered on) osu! or other osu!-related ventures, such as 
+**osu! originals** are songs that are specifically made for (or otherwise first premiered on) osu! or other osu!-related ventures, such as tournaments 
 
-All osu! originals are released under a non-exclusive licensing term as per the [osu! music licensing policy](/wiki/Legal/Music_licensing) unless otherwise stated.
+All osu! originals are licensed under a non-exclusive term as per the [osu! music licensing policy](/wiki/Legal/Music_licensing) unless otherwise stated.
 
 ## List of osu! originals
 
@@ -16,3 +16,7 @@ All osu! originals are released under a non-exclusive licensing term as per the 
 - [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmapsets/972816)
 - [James Landino - Shiba Island](https://osu.ppy.sh/beatmapsets/1061769)
 - [James Landino - Spellbound](https://osu.ppy.sh/beatmapsets/1034041)
+
+#### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
+
+- [kiraku - connection](https://osu.ppy.sh/beatmapsets/1283352)
