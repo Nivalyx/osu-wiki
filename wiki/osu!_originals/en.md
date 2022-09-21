@@ -1,12 +1,21 @@
 # osu! originals
 
-**osu! originals** are songs that are specifically made for (or otherwise first premiered on) osu! or other osu!-related enterprises, such as tournaments and celebratory events. While not every osu! originals are included in the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists), the songs that do are distinguished by the `ORIGINAL` label on their respective artists' pages.
+**osu! originals** are songs that are specifically made for (or otherwise first premiered on) osu! or other osu!-related enterprises such as tournaments, mapping contests, and celebratory events. While not every osu! originals are included in the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists), the songs that do are distinguished by the `ORIGINAL` label on their respective artists' pages.
 
 All osu! originals are cleared for use in osu! under a non-exclusive licensing term as per the [osu! music licensing policy](/wiki/Legal/Music_licensing) unless otherwise stated.
 
 ## List of osu! originals
 
 ### Released as part of a Featured Artist catalogue addition
+
+#### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
+
+- [cYsmix - Arcade Busters](https://osu.ppy.sh/beatmapsets/601840)
+- [cYsmix - Behind the Walls](https://osu.ppy.sh/beatmapsets/791798)
+- [cYsmix - Breeze](https://osu.ppy.sh/beatmapsets/629575)
+- [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/486535)
+- cYsmix - Disco Bawls
+- [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950)
 
 #### [James Landino](https://osu.ppy.sh/beatmaps/artists/39)
 
