@@ -50,9 +50,26 @@ All osu! originals are cleared for use in osu! under a non-exclusive licensing t
 
 ### Released as part of an official tournament
 
-#### ![](/wiki/shared/mode/osu.png) osu! World Cup
+#### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2020](/wiki/Tournaments/OWC/2020)
 
-#### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
+- [Camellia - OOPARTS](https://osu.ppy.sh/beatmapsets/1312143)
+
+#### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2021](/wiki/Tournaments/OWC/2021)
+
+- [katagiri - Buta Musou](https://osu.ppy.sh/beatmapsets/1633225)
+- [Raphlesia - Showdown](https://osu.ppy.sh/beatmapsets/1627494)
+- [Yooh - RPG](https://osu.ppy.sh/beatmapsets/1633250)
+
+#### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
+
+- [TWC Sound Team "Zeroth Powers" - One One](https://osu.ppy.sh/beatmapsets/1422682)
+
+#### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2022](/wiki/Tournaments/TWC/2022)
+
+- [agata - AMAIWTIWNKMS](https://osu.ppy.sh/beatmapsets/1744774)
+- [breakchild - NEUROTYPICALSYSTEM](https://osu.ppy.sh/beatmapsets/1734223)
+- [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://osu.ppy.sh/beatmapsets/1744775)
+- [onumi & Akira Complex - Ethereal Cyber Angel XV](https://osu.ppy.sh/beatmapsets/1744942)
 
 #### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
