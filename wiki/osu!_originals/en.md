@@ -104,6 +104,12 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [pm04034 - cold smoothie coffee](https://osu.ppy.sh/beatmapsets/1592358)
 - [pm04034 - Sugary Mocaccino](https://osu.ppy.sh/beatmapsets/1592198)
 
+#### ![](/wiki/shared/mode/osu.png) Duo Cup: Korea 2022
+
+- [Down - Solo Cup](https://osu.ppy.sh/beatmapsets/1760520)
+- [Down - Duo Cup](https://osu.ppy.sh/beatmapsets/1765192)
+- [Down - Trio Cup](https://osu.ppy.sh/beatmapsets/1769914)
+
 #### ![](/wiki/shared/mode/osu.png) [Harumachi Cup Ω](/wiki/Tournaments/HC/Omega)
 
 - [BilliumMoto - Harumachi clip your face off](https://osu.ppy.sh/beatmapsets/1817218)
