@@ -40,4 +40,14 @@ All osu! originals are cleared for use in osu! under a non-exclusive licensing t
 
 - Kitazawa Kyouhei - TRUE-QUEEN
 
+#### [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242)
+
+- Rabbit House - Gehenna
+
+#### [ZxNX](https://osu.ppy.sh/beatmaps/artists/288)
+
+- ZxNX - Altair
+
+### Released as part of an official tournament
+
 ### Other osu! originals
