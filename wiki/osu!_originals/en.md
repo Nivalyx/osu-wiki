@@ -36,4 +36,8 @@ All osu! originals are cleared for use in osu! under a non-exclusive licensing t
 
 - [kiraku - connection](https://osu.ppy.sh/beatmapsets/1283352)
 
+#### [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165)
+
+- Kitazawa Kyouhei - TRUE-QUEEN
+
 ### Other osu! originals
