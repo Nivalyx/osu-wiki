@@ -20,3 +20,5 @@ All osu! originals are licensed under a non-exclusive term as per the [osu! musi
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
 - [kiraku - connection](https://osu.ppy.sh/beatmapsets/1283352)
+
+### Other osu! originals
