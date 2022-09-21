@@ -71,8 +71,24 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://osu.ppy.sh/beatmapsets/1744775)
 - [onumi & Akira Complex - Ethereal Cyber Angel XV](https://osu.ppy.sh/beatmapsets/1744942)
 
-#### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
+#### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](wiki/Tournaments/CWC/2021)
 
-#### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
+- [Frums - of Ambrosia](https://osu.ppy.sh/beatmapsets/1478486)
+
+#### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2022](wiki/Tournaments/CWC/2022)
+
+- [D-D-Dice vs. siromaru - Catch the Glory](https://osu.ppy.sh/beatmapsets/1794214)
+
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](wiki/Tournaments/MWC/2021_4K)
+
+- [SUPER MWC KART - Purple Palace](https://osu.ppy.sh/beatmapsets/1569527)
+
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 7K World Cup 2022](wiki/Tournaments/MWC/2022_7K)
+
+- [HyuN feat. Sennzai - Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284)
+
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2022](wiki/Tournaments/MWC/2022_4K)
+
+- [aa...hisuichazuke... - steganography](https://osu.ppy.sh/beatmapsets/1846639)
 
 ### Other osu! originals
