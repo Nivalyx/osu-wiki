@@ -50,4 +50,12 @@ All osu! originals are cleared for use in osu! under a non-exclusive licensing t
 
 ### Released as part of an official tournament
 
+#### ![](/wiki/shared/mode/osu.png) osu! World Cup
+
+#### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
+
+#### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
+
+#### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
+
 ### Other osu! originals
