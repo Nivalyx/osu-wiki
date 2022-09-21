@@ -125,4 +125,9 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [takehirotei - Alterism](https://osu.ppy.sh/beatmapsets/1819534)
 - [takehirotei as "Infinite Limit" - Fullest Adventure from the Abyss to Divine](https://osu.ppy.sh/beatmapsets/1819550)
 
+#### ![](/wiki/shared/mode/osu.png) The Perennial 2022
+
+- [Down - DeviousPanda](https://osu.ppy.sh/beatmapsets/1789325)
+- [UNDEAD CORPORATION - The Throne](https://osu.ppy.sh/beatmapsets/1789376)
+
 ### Other osu! originals
