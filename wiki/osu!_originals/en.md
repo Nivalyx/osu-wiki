@@ -104,6 +104,12 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [pm04034 - cold smoothie coffee](https://osu.ppy.sh/beatmapsets/1592358)
 - [pm04034 - Sugary Mocaccino](https://osu.ppy.sh/beatmapsets/1592198)
 
+#### ![](/wiki/shared/mode/osu.png) [Harumachi Cup Ω](/wiki/Tournaments/HC/Omega)
+
+- [BilliumMoto - Harumachi clip your face off](https://osu.ppy.sh/beatmapsets/1817218)
+- [Redside - Harumachi Clover (Redside Bootleg)](https://osu.ppy.sh/beatmapsets/1810414)
+- [VINXIS - Harumachi Clover (VINXIS Dopamine Hit)](https://osu.ppy.sh/beatmapsets/1817125)
+
 #### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2021
 
 - [takehirotei - Finale Battle of the Requiem](https://osu.ppy.sh/beatmapsets/1524502)
