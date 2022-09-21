@@ -91,4 +91,11 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 - [aa...hisuichazuke... - steganography](https://osu.ppy.sh/beatmapsets/1846639)
 
+### Released as part of a community-run tournament
+
+#### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Club
+
+- [Dictate & Spazza17 - Charlie's Perfect Math Class](https://osu.ppy.sh/beatmapsets/1799284)
+- [kanemiko - Stellar Proximity Shift](https://osu.ppy.sh/beatmapsets/1799362)
+
 ### Other osu! originals
