@@ -1,6 +1,6 @@
 # osu! originals
 
-**osu! originals** are songs that are specifically made for (or otherwise first premiered on) osu! or other osu!-related ventures, such as tournaments 
+**osu! originals** are songs that are specifically made for (or otherwise first premiered on) osu! or other osu!-related ventures, such as tournaments and celebratory events.
 
 All osu! originals are licensed under a non-exclusive term as per the [osu! music licensing policy](/wiki/Legal/Music_licensing) unless otherwise stated.
 
