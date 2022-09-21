@@ -12,3 +12,5 @@
 - [James Landino - Hide and Seek](https://osu.ppy.sh/beatmapsets/972932)
 - James Landino - Hit That feat. Hentai Dude & Tofuku (osu! edit)
 - [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmapsets/972816)
+- [James Landino - Shiba Island](https://osu.ppy.sh/beatmapsets/1061769)
+- [James Landino - Spellbound](https://osu.ppy.sh/beatmapsets/1034041)
