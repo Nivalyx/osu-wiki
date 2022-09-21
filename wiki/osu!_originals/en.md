@@ -1,7 +1,11 @@
 # osu! originals
 
-**osu! originals** are songs that have their debut
+**osu! originals** are songs that are first released a
 
 ## List of osu! originals
 
-### osu! originals that are released as part of a Featured Artist launch
+### Released as part of a Featured Artist launch
+
+#### [James Landino](https://osu.ppy.sh/beatmaps/artists/39)
+
+- [James Landino - Birdsong](https://osu.ppy.sh/beatmapsets/972810)
