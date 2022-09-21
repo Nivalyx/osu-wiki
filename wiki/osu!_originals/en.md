@@ -16,6 +16,12 @@ All osu! originals are cleared for use in osu! under a non-exclusive licensing t
 - [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/486535)
 - cYsmix - Disco Bawls
 - [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950)
+- [cYsmix - Fright March](https://osu.ppy.sh/beatmapsets/486142)
+- [cYsmix - House With Legs](https://osu.ppy.sh/beatmapsets/360680)
+- [cYsmix - Little Knight](https://osu.ppy.sh/beatmapsets/791845)
+- [cYsmix - Manic](https://osu.ppy.sh/beatmapsets/361175)
+- [cYsmix - Moonlight Sonata](https://osu.ppy.sh/beatmapsets/486535)
+- [cYsmix - Peer Gynt](https://osu.ppy.sh/beatmapsets/805762)
 
 #### [James Landino](https://osu.ppy.sh/beatmaps/artists/39)
 
