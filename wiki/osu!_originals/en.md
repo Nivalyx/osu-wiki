@@ -104,6 +104,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [pm04034 - cold smoothie coffee](https://osu.ppy.sh/beatmapsets/1592358)
 - [pm04034 - Sugary Mocaccino](https://osu.ppy.sh/beatmapsets/1592198)
 
+#### ![](/wiki/shared/mode/osu.png) DACH Cup
+
+- [Kushper - MENDENIKANOID](https://osu.ppy.sh/beatmapsets/1828651)
+
 #### ![](/wiki/shared/mode/osu.png) Duo Cup: Korea 2022
 
 - [Down - Solo Cup](https://osu.ppy.sh/beatmapsets/1760520)
