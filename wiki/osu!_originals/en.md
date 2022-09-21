@@ -98,6 +98,12 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [Dictate & Spazza17 - Charlie's Perfect Math Class](https://osu.ppy.sh/beatmapsets/1799284)
 - [kanemiko - Stellar Proximity Shift](https://osu.ppy.sh/beatmapsets/1799362)
 
+#### ![](/wiki/shared/mode/osu.png) [Coffee Hispanic: Mocha](/wiki/Tournaments/CH/CHM_1)
+
+- [Catsprite overdoses on Coffee - 1000000% CAFFEINE](https://osu.ppy.sh/beatmapsets/1571087)
+- [pm04034 - cold smoothie coffee](https://osu.ppy.sh/beatmapsets/1592358)
+- [pm04034 - Sugary Mocaccino](https://osu.ppy.sh/beatmapsets/1592198)
+
 #### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2021
 
 - [takehirotei - Finale Battle of the Requiem](https://osu.ppy.sh/beatmapsets/1524502)
