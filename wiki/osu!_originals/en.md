@@ -1,8 +1,8 @@
 # osu! originals
 
-**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related enterprises such as tournaments, mapping contests, and celebratory events. While not all osu! originals are included in the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists), the songs that do are distinguished by the `ORIGINAL` label on their respective artists' pages.
+**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related enterprises such as tournaments, mapping contests, and celebratory events. While not all osu! originals are included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are distinguished by the `ORIGINAL` label on their respective artists' pages.
 
-All osu! originals listed in the Featured Artist listing are cleared for use in osu! under a non-exclusive licensing term as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). Other osu! originals generally also follow this unless otherwise stated.
+All osu! originals included in the Featured Artist library have been officially licensed and cleared for use in osu! under a non-exclusive term as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). Other osu! originals also generally follow this usage term unless otherwise stated.
 
 ## List of osu! originals
 
