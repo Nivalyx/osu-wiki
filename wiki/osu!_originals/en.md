@@ -93,6 +93,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ### Released as part of a community-run tournament
 
+#### ![](/wiki/shared/mode/mania.png) [4 Digit osu!mania World Cup 4](/wiki/tournaments/4DM/4)
+
+- [BilliumMoto x Akiri - Cryochemistry](https://osu.ppy.sh/beatmapsets/1698378)
+
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
 - [Dictate & Spazza17 - Charlie's Perfect Math Class](https://osu.ppy.sh/beatmapsets/1799284)
