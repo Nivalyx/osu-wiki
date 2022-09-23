@@ -1,8 +1,8 @@
 # osu! originals
 
-**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related enterprises such as tournaments, mapping contests, and celebratory events. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are distinguished by the `ORIGINAL` label on their respective artists' pages.
+**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related enterprises such as tournaments, contests, and celebratory events. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are distinguished by the `ORIGINAL` label on their respective artists' pages.
 
-All osu! originals that have been licensed by the game are cleared for use in osu! under a non-exclusive term as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). With the exception of bootleg tracks and certain remixes, other osu! originals generally follow a similar provision unless otherwise specified.
+All osu! originals that have been licensed by the game are cleared for use in osu! under a non-exclusive term as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). With the exception of bootleg tracks and certain remixes, other osu! originals generally fall under a similar provision unless otherwise specified.
 
 ## List of osu! originals
 
@@ -103,6 +103,17 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [Catsprite overdoses on Coffee - 1000000% CAFFEINE](https://osu.ppy.sh/beatmapsets/1571087)
 - [pm04034 - cold smoothie coffee](https://osu.ppy.sh/beatmapsets/1592358)
 - [pm04034 - Sugary Mocaccino](https://osu.ppy.sh/beatmapsets/1592198)
+
+#### ![](/wiki/shared/mode/osu.png) Corsace Open 2022
+
+- [Aoi - King Atlantis](https://osu.ppy.sh/beatmapsets/1850986)
+- [Fuyuki Seana - OVERFLOW SKIES](https://osu.ppy.sh/beatmapsets/1846756)
+- [ikaruga\_nex - SICK ROCK CRAZY](https://osu.ppy.sh/beatmapsets/1838305)
+- [Kara - AGAVEiL](https://osu.ppy.sh/beatmapsets/1842694)
+- [NTRSOUND and Estia - Wisps of Nifl](https://osu.ppy.sh/beatmapsets/1833757)
+- [Rabbit House - Divine Ordeal](https://osu.ppy.sh/beatmapsets/1829371)
+- [rN - Anteisce](https://osu.ppy.sh/beatmapsets/1850922)
+- [seatrus - Querasis](https://osu.ppy.sh/beatmapsets/1850936)
 
 #### ![](/wiki/shared/mode/osu.png) DACH Cup
 
