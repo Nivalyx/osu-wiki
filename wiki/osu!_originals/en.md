@@ -266,7 +266,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ### Released as part of an official song remix contest
 
-#### [osu! "circles! Remix Contest](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
+#### [osu! "circles!" Remix Contest](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
 
 - [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/569888)
 
