@@ -264,9 +264,32 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [Down - DeviousPanda](https://osu.ppy.sh/beatmapsets/1789325)
 - [UNDEAD CORPORATION - The Throne](https://osu.ppy.sh/beatmapsets/1789376)
 
+### Released as part of an official song remix contest
+
+#### [osu! "circles! Remix Contest](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
+
+- [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/569888)
+
+#### [A Labour of Love Contest](/wiki/Contests/A_Labour_of_Love_Contest)
+
+- [Down - My Love Remix](https://osu.ppy.sh/beatmapsets/1348553)
+- [Kuba Oms - My Love (0K Remix) feat. Thievley](https://osu.ppy.sh/beatmapsets/1389031)
+- [Kuba Oms - My Love (DestoppeD Remix)](https://osu.ppy.sh/beatmapsets/1388552)
+- [Kuba Oms - My Love (Maemi no Yume's Remix)](https://osu.ppy.sh/beatmapsets/1389127)
+- [Kuba Oms - My Love (pm04034 Remix)](https://osu.ppy.sh/beatmapsets/1382737)
+- [Kuba Oms - My Love (Raytoly Trance Remix)](https://osu.ppy.sh/beatmapsets/1389153)
+- [Kuba Oms - My Love (Redside Remix) (feat. Hatsune Miku)](https://osu.ppy.sh/beatmapsets/1388993)
+- [Kuba Oms - My Love (Shadren Remix)](https://osu.ppy.sh/beatmapsets/1382412)
+- [Kuba Oms - My Love (takehirotei Remix)](https://osu.ppy.sh/beatmapsets/1390004)
+- [Kuba Oms - My Love (tochi's Atmospheric Remix)](https://osu.ppy.sh/beatmapsets/1389401)
+- [Kuba Oms - My Love (XenjeS' Remix)](https://osu.ppy.sh/beatmapsets/1388590)
+- [Raphlesia & BilliumMoto - My Love](https://osu.ppy.sh/beatmapsets/1388906)
+
 ### Other osu! originals
 
 - [Down - AJT](https://osu.ppy.sh/beatmapsets/1705780)
 - [Down - Ekoro](https://osu.ppy.sh/beatmapsets/1683876)
 - [Down - Luscent](https://osu.ppy.sh/beatmapsets/1641533)
+- [Shadren - Fanteer](https://osu.ppy.sh/beatmapsets/725913)
 - [tieff - Sound of Night](https://osu.ppy.sh/beatmapsets/15952)
+- [tochi - Ascension (feat. Yoko Kanno)](https://osu.ppy.sh/beatmapsets/1267316)
