@@ -145,6 +145,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [Redside - Harumachi Clover (Redside Bootleg)](https://osu.ppy.sh/beatmapsets/1810414)
 - [VINXIS - Harumachi Clover (VINXIS Dopamine Hit)](https://osu.ppy.sh/beatmapsets/1817125)
 
+#### ![](/wiki/shared/mode/mania.png) Jaye's One Key Event 2: Spacebar Jam
+
+- [BilliumMoto & Dictate - 1KARUGA](https://osu.ppy.sh/beatmapsets/1649302)
+
 #### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2021
 
 - [takehirotei - Finale Battle of the Requiem](https://osu.ppy.sh/beatmapsets/1524502)
