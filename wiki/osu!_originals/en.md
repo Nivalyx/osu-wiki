@@ -97,6 +97,11 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 - [BilliumMoto x Akiri - Cryochemistry](https://osu.ppy.sh/beatmapsets/1698378)
 
+#### ![](/wiki/shared/mode/taiko.png) [Advanced Global Taiko Showdown 2022](/wiki/Tournaments/GTS/AGTS_2022)
+
+- [Dz'Xa - MV 5927](https://osu.ppy.sh/beatmapsets/1799673)
+- [ReeK, roer & Rairiku - Kurwature 1869](https://osu.ppy.sh/beatmapsets/1794825)
+
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
 - [Dictate & Spazza17 - Charlie's Perfect Math Class](https://osu.ppy.sh/beatmapsets/1799284)
@@ -170,6 +175,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [Redside - Harumachi Clover (Redside Bootleg)](https://osu.ppy.sh/beatmapsets/1810414)
 - [VINXIS - Harumachi Clover (VINXIS Dopamine Hit)](https://osu.ppy.sh/beatmapsets/1817125)
 
+#### ![](/wiki/shared/mode/taiko.png) [Intermediate Global Taiko Showdown 2022](/wiki/Tournaments/GTS/IGTS_2022)
+
+- [Sparxe - Zinnober](https://osu.ppy.sh/beatmapsets/1754903)
+
 #### ![](/wiki/shared/mode/mania.png) Jaye's One Key Event 2: Spacebar Jam
 
 - [BilliumMoto & Dictate - 1KARUGA](https://osu.ppy.sh/beatmapsets/1649302)
@@ -198,6 +207,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 #### ![](/wiki/shared/mode/osu.png) Resurrection Cup
 
 - [Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination](https://osu.ppy.sh/beatmapsets/1814494)
+
+#### ![](/wiki/shared/mode/taiko.png) [Squad Global Taiko Showdown 2021](/wiki/Tournaments/GTS/SGTS_2021)
+
+- [Ice vs Yukino - R4incarnation](https://osu.ppy.sh/beatmapsets/1698384)
 
 #### ![](/wiki/shared/mode/osu.png) The Perennial 2022
 
