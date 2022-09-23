@@ -133,11 +133,36 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 - [Kushper - MENDENIKANOID](https://osu.ppy.sh/beatmapsets/1828651)
 
+#### ![](/wiki/shared/mode/mania.png) DDS Tournament
+
+- [HowToPlayLN - Eternal Bliss](https://osu.ppy.sh/beatmapsets/1635183)
+
 #### ![](/wiki/shared/mode/osu.png) Duo Cup: Korea 2022
 
 - [Down - Solo Cup](https://osu.ppy.sh/beatmapsets/1760520)
 - [Down - Duo Cup](https://osu.ppy.sh/beatmapsets/1765192)
 - [Down - Trio Cup](https://osu.ppy.sh/beatmapsets/1769914)
+
+#### ![](/wiki/shared/mode/taiko.png) [Expert Global Taiko Showdown 2022](/wiki/Tournaments/GTS/EGTS_2022)
+
+- [A? - WAVE PUNCH](https://osu.ppy.sh/beatmapsets/1823663)
+- [Aoi - TYPE-Rebellion](https://osu.ppy.sh/beatmapsets/1833435)
+- [blobdash - Corrupted Binary StaR](https://osu.ppy.sh/beatmapsets/1846727)
+- [blobdash - Resentment](https://osu.ppy.sh/beatmapsets/1850544)
+- [blobdash & Raphlesia - Recollection](https://osu.ppy.sh/beatmapsets/1828727)
+- [Breakchild & Stoop - blue noah 2022 (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1837866)
+- [DJ Ralsei - Fractured Angel](https://osu.ppy.sh/beatmapsets/1838114)
+- [DJ Witch Girl MIR4CLEN - Danrit](https://osu.ppy.sh/beatmapsets/1842746)
+- [Gardens - Rafflesia](https://osu.ppy.sh/beatmapsets/1833491)
+- [KAH - JUDGE UP DOWN](https://osu.ppy.sh/beatmapsets/1828735)
+- [Kou! - Sanzui](https://osu.ppy.sh/beatmapsets/1846769)
+- [kyou1110 - Mam rozbite sluchatka placem](https://osu.ppy.sh/beatmapsets/1846616)
+- [NIWASHI - Silence is Golden, Speech is Golden](https://osu.ppy.sh/beatmapsets/1833489)
+- [one fourteen - break through](https://osu.ppy.sh/beatmapsets/1850900) 
+- [rN vs. \[Shanom, ptar124 & Zekai\] - dichroma, ludiosia.](https://osu.ppy.sh/beatmapsets/1842219) 
+- [Sad Keyboard Guy - Reflection Shift](https://osu.ppy.sh/beatmapsets/1851049)
+- [Slax - Giri the Giri](https://osu.ppy.sh/beatmapsets/1828739)
+- [Sparxe - Dream Elevator](https://osu.ppy.sh/beatmapsets/1837865)
 
 #### ![](/wiki/shared/mode/osu.png) [Harumachi Cup Ω](/wiki/Tournaments/HC/Omega)
 
@@ -157,6 +182,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 - [takehirotei - Alterism](https://osu.ppy.sh/beatmapsets/1819534)
 - [takehirotei as "Infinite Limit" - Fullest Adventure from the Abyss to Divine](https://osu.ppy.sh/beatmapsets/1819550)
+
+#### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
+
+- [NicDroid - Northern Lunar Node](https://osu.ppy.sh/beatmapsets/1524569)
 
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2022
 
