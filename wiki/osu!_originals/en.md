@@ -150,6 +150,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [takehirotei - Alterism](https://osu.ppy.sh/beatmapsets/1819534)
 - [takehirotei as "Infinite Limit" - Fullest Adventure from the Abyss to Divine](https://osu.ppy.sh/beatmapsets/1819550)
 
+#### ![](/wiki/shared/mode/mania.png) [osu! PH Nationals 2022]
+
+- [Arctic Indexed Systems. - Nightburner](https://osu.ppy.sh/beatmapsets/1803916)
+
 #### ![](/wiki/shared/mode/osu.png) mezelyus' Summer Tournament 2021
 
 - [SAMString - NUMA](https://osu.ppy.sh/beatmapsets/1570528)
