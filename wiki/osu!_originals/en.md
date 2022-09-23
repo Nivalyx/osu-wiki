@@ -108,6 +108,11 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 - [Kyutatsuki - \_alc.yone](https://osu.ppy.sh/beatmapsets/1781161)
 
+#### ![](/wiki/shared/mode/osu.png) Corsace Open 2021
+
+- [katagiri - Palace of Melancholia](https://osu.ppy.sh/beatmapsets/1581367)
+- [VINXIS - FALL](https://osu.ppy.sh/beatmapsets/1581340)
+
 #### ![](/wiki/shared/mode/osu.png) Corsace Open 2022
 
 - [Acylica - yoshicorsace](https://osu.ppy.sh/beatmapsets/1842665)
