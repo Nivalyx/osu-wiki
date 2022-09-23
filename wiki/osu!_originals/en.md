@@ -6,6 +6,20 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ## List of osu! originals
 
+### Released as part of the game's ecosystem
+
+- [cYsmix - triangles](https://osu.ppy.sh/beatmapsets/1646678) (current osu!(lazer) main theme)
+- [nekodex - aureole](https://osu.ppy.sh/beatmapsets/1037352) (Christmas/Winter 2017 osu! theme)
+- [nekodex - circles!](https://osu.ppy.sh/beatmapsets/355322) (2015 osu! theme)
+- [nekodex - carol of the circles](https://osu.ppy.sh/beatmapsets/1078322) (Christmas/Winter 2019 osu! theme)
+- [nekodex - Little Drummer Girl](https://osu.ppy.sh/beatmapsets/1320298) (Christmas/Winter 2020 osu! theme)
+- [nekodex - Liquid Future](https://osu.ppy.sh/beatmapsets/898734) (original composition for [osu!stream](wiki/osu!stream))
+- [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011) (current tutorial song)
+- [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) ([osu!stream](wiki/osu!stream) main theme)
+- [nekodex - welcome to christmas!](https://osu.ppy.sh/beatmapsets/882106) (Christmas/Winter 2014 osu! theme)
+- [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu) (former osu! theme)
+- [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) (former tutorial song)
+
 ### Released as part of a Featured Artist catalogue addition
 
 #### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
@@ -248,15 +262,3 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [UNDEAD CORPORATION - The Throne](https://osu.ppy.sh/beatmapsets/1789376)
 
 ### Other osu! originals
-
-#### Official osu! songs
-
-- [cYsmix - triangles](https://osu.ppy.sh/beatmapsets/1646678)
-- [nekodex - aureole](https://osu.ppy.sh/beatmapsets/1037352)
-- [nekodex - circles!](https://osu.ppy.sh/beatmapsets/355322)
-- [nekodex - welcome to christmas!](https://osu.ppy.sh/beatmapsets/882106)
-- [nekodex - carol of the circles](https://osu.ppy.sh/beatmapsets/1078322)
-- [nekodex - Little Drummer Girl](https://osu.ppy.sh/beatmapsets/1320298)
-- [nekodex - Liquid Future](https://osu.ppy.sh/beatmapsets/898734)
-- [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011)
-- [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756)
