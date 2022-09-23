@@ -102,6 +102,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [Dz'Xa - MV 5927](https://osu.ppy.sh/beatmapsets/1799673)
 - [ReeK, roer & Rairiku - Kurwature 1869](https://osu.ppy.sh/beatmapsets/1794825)
 
+#### ![](/wiki/shared/mode/taiko.png) Ausu!Taiko Tournament 2022
+
+- [Sparxe - Archipelago of Ten Trials](https://osu.ppy.sh/beatmapsets/1793933)
+
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
 - [Dictate & Spazza17 - Charlie's Perfect Math Class](https://osu.ppy.sh/beatmapsets/1799284)
