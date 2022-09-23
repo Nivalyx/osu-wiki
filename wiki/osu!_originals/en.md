@@ -248,3 +248,13 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [UNDEAD CORPORATION - The Throne](https://osu.ppy.sh/beatmapsets/1789376)
 
 ### Other osu! originals
+
+- [cYsmix - triangles](https://osu.ppy.sh/beatmapsets/1646678)
+- [nekodex - aureole](https://osu.ppy.sh/beatmapsets/1037352)
+- [nekodex - circles!](https://osu.ppy.sh/beatmapsets/355322)
+- [nekodex - welcome to christmas!](https://osu.ppy.sh/beatmapsets/882106)
+- [nekodex - carol of the circles](https://osu.ppy.sh/beatmapsets/1078322)
+- [nekodex - Little Drummer Girl](https://osu.ppy.sh/beatmapsets/1320298)
+- [nekodex - Liquid Future](https://osu.ppy.sh/beatmapsets/898734)
+- [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011)
+- [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756)
