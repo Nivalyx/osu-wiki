@@ -137,6 +137,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 #### ![](/wiki/shared/mode/osu.png) Corsace Closed 2022
 
+- [Down - ddm](https://osu.ppy.sh/beatmapsets/1764656)
 - [Kyutatsuki - \_alc.yone](https://osu.ppy.sh/beatmapsets/1781161)
 
 #### ![](/wiki/shared/mode/osu.png) Corsace Open 2021
@@ -148,6 +149,8 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 - [Acylica - yoshicorsace](https://osu.ppy.sh/beatmapsets/1842665)
 - [Aoi - King Atlantis](https://osu.ppy.sh/beatmapsets/1850986)
+- [Down - Halfslashed](https://osu.ppy.sh/beatmapsets/1837962)
+- [Down - UberFazz](https://osu.ppy.sh/beatmapsets/1846742)
 - [Fuyuki Seana - OVERFLOW SKIES](https://osu.ppy.sh/beatmapsets/1846756)
 - [ikaruga\_nex - SICK ROCK CRAZY](https://osu.ppy.sh/beatmapsets/1838305)
 - [Kara - AGAVEiL](https://osu.ppy.sh/beatmapsets/1842694)
@@ -262,3 +265,8 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [UNDEAD CORPORATION - The Throne](https://osu.ppy.sh/beatmapsets/1789376)
 
 ### Other osu! originals
+
+- [Down - AJT](https://osu.ppy.sh/beatmapsets/1705780)
+- [Down - Ekoro](https://osu.ppy.sh/beatmapsets/1683876)
+- [Down - Luscent](https://osu.ppy.sh/beatmapsets/1641533)
+- [tieff - Sound of Night](https://osu.ppy.sh/beatmapsets/15952)
