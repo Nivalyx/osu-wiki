@@ -6,7 +6,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ## List of osu! originals
 
-### Released as part of the game's ecosystem
+### Released as part of osu!'s ecosystem
 
 - [cYsmix - triangles](https://osu.ppy.sh/beatmapsets/1646678) (current osu!(lazer) main theme)
 - [nekodex - aureole](https://osu.ppy.sh/beatmapsets/1037352) (Christmas/Winter 2017 osu! theme)
