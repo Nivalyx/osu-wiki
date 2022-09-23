@@ -288,6 +288,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 ### Other osu! originals
 
 - [dksslqj - Oriental Creation](https://osu.ppy.sh/beatmapsets/1678494)
+- [dksslqj - osu! Fan Cafe Logosong](https://osu.ppy.sh/beatmapsets/148421)
 - [Down - AJT](https://osu.ppy.sh/beatmapsets/1705780)
 - [Down - Ekoro](https://osu.ppy.sh/beatmapsets/1683876)
 - [Down - Luscent](https://osu.ppy.sh/beatmapsets/1641533)
