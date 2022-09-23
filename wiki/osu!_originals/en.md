@@ -104,8 +104,13 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [pm04034 - cold smoothie coffee](https://osu.ppy.sh/beatmapsets/1592358)
 - [pm04034 - Sugary Mocaccino](https://osu.ppy.sh/beatmapsets/1592198)
 
+#### ![](/wiki/shared/mode/osu.png) Corsace Closed 2022
+
+- [Kyutatsuki - \_alc.yone](https://osu.ppy.sh/beatmapsets/1781161)
+
 #### ![](/wiki/shared/mode/osu.png) Corsace Open 2022
 
+- [Acylica - yoshicorsace](https://osu.ppy.sh/beatmapsets/1842665)
 - [Aoi - King Atlantis](https://osu.ppy.sh/beatmapsets/1850986)
 - [Fuyuki Seana - OVERFLOW SKIES](https://osu.ppy.sh/beatmapsets/1846756)
 - [ikaruga\_nex - SICK ROCK CRAZY](https://osu.ppy.sh/beatmapsets/1838305)
