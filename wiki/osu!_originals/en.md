@@ -249,6 +249,8 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ### Other osu! originals
 
+#### Official osu! songs
+
 - [cYsmix - triangles](https://osu.ppy.sh/beatmapsets/1646678)
 - [nekodex - aureole](https://osu.ppy.sh/beatmapsets/1037352)
 - [nekodex - circles!](https://osu.ppy.sh/beatmapsets/355322)
