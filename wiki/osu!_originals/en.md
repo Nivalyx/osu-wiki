@@ -154,6 +154,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 - [SAMString - NUMA](https://osu.ppy.sh/beatmapsets/1570528)
 
+#### ![](/wiki/shared/mode/osu.png) Resurrection Cup
+
+- [Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination](https://osu.ppy.sh/beatmapsets/1814494)
+
 #### ![](/wiki/shared/mode/osu.png) The Perennial 2022
 
 - [Down - DeviousPanda](https://osu.ppy.sh/beatmapsets/1789325)
