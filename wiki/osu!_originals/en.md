@@ -113,6 +113,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [pm04034 - cold smoothie coffee](https://osu.ppy.sh/beatmapsets/1592358)
 - [pm04034 - Sugary Mocaccino](https://osu.ppy.sh/beatmapsets/1592198)
 
+#### ![](/wiki/shared/mode/taiko.png) [Continental Global Taiko Showdown 2021](/wiki/Tournaments/GTS/CGTS_2021)
+
+- [Sparxe - Chicxulub](https://osu.ppy.sh/beatmapsets/1429738)
+
 #### ![](/wiki/shared/mode/osu.png) Corsace Closed 2022
 
 - [Kyutatsuki - \_alc.yone](https://osu.ppy.sh/beatmapsets/1781161)
@@ -148,6 +152,16 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [Down - Duo Cup](https://osu.ppy.sh/beatmapsets/1765192)
 - [Down - Trio Cup](https://osu.ppy.sh/beatmapsets/1769914)
 
+#### ![](/wiki/shared/mode/taiko.png) [Expert Global Taiko Showdown 2021](/wiki/Tournaments/GTS/EGTS_2021)
+
+- [Camellia - TremENDouS](https://osu.ppy.sh/beatmapsets/1638764)
+- [Ice - Conclusio Catastropha](https://osu.ppy.sh/beatmapsets/1621712)
+- [II-L - Unidentified Frequency Op.3 (Type-Triangle)](https://osu.ppy.sh/beatmapsets/1632950)
+- [Katagiri - Taboo Assembly](https://osu.ppy.sh/beatmapsets/1651850)
+- [ptar124 - Aqua Regia](https://osu.ppy.sh/beatmapsets/1627334)
+- [ReeK - Multigenre Smackdown](https://osu.ppy.sh/beatmapsets/1627304)
+- [SDMNE - PATERA](https://osu.ppy.sh/beatmapsets/1616127)
+
 #### ![](/wiki/shared/mode/taiko.png) [Expert Global Taiko Showdown 2022](/wiki/Tournaments/GTS/EGTS_2022)
 
 - [A? - WAVE PUNCH](https://osu.ppy.sh/beatmapsets/1823663)
@@ -175,6 +189,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [Redside - Harumachi Clover (Redside Bootleg)](https://osu.ppy.sh/beatmapsets/1810414)
 - [VINXIS - Harumachi Clover (VINXIS Dopamine Hit)](https://osu.ppy.sh/beatmapsets/1817125)
 
+#### ![](/wiki/shared/mode/taiko.png) [Intermediate Global Taiko Showdown 2021](/wiki/Tournaments/GTS/IGTS_2021)
+
+- [II-L - Asteroid Field of DECAPLETS](https://osu.ppy.sh/beatmapsets/1563553)
+
 #### ![](/wiki/shared/mode/taiko.png) [Intermediate Global Taiko Showdown 2022](/wiki/Tournaments/GTS/IGTS_2022)
 
 - [Sparxe - Zinnober](https://osu.ppy.sh/beatmapsets/1754903)
@@ -182,6 +200,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 #### ![](/wiki/shared/mode/mania.png) Jaye's One Key Event 2: Spacebar Jam
 
 - [BilliumMoto & Dictate - 1KARUGA](https://osu.ppy.sh/beatmapsets/1649302)
+
+#### ![](/wiki/shared/mode/taiko.png) LordEnder Global Taiko Showdown 2021
+
+- [pm04034 - Invenzione No. 3N&3R: Sonatina for a Dying Lord](https://osu.ppy.sh/beatmapsets/1569783)
 
 #### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2021
 
@@ -207,6 +229,10 @@ All osu! originals that have been licensed by the game are cleared for use in os
 #### ![](/wiki/shared/mode/osu.png) Resurrection Cup
 
 - [Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination](https://osu.ppy.sh/beatmapsets/1814494)
+
+#### ![](/wiki/shared/mode/taiko.png) [Rising Global Taiko Showdown 2021](/wiki/Tournaments/GTS/RGTS_2021)
+
+- [Dz'Xa - COSMOBEAT](https://osu.ppy.sh/beatmapsets/1523659)
 
 #### ![](/wiki/shared/mode/taiko.png) [Squad Global Taiko Showdown 2021](/wiki/Tournaments/GTS/SGTS_2021)
 
