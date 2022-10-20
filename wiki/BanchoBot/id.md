@@ -137,7 +137,7 @@ Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: *Editing*, *Idl
 
 ### Report
 
-*Untuk mengetahui informasi tentang apa yang layak untuk dilaporkan, silahkan kunjungi artikel [Melaporkan perilaku buruk](/wiki/Reporting_bad_behaviour).*
+*Untuk informasi seputar hal-hal apa yang layak untuk dilaporkan, silakan kunjungi artikel [Melaporkan perbuatan yang tidak pantas](/wiki/Reporting_bad_behaviour).*
 
 ```
 !report <nama pemain> <alasan>
