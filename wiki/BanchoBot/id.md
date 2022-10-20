@@ -14,7 +14,7 @@ tags:
 
 ![Kartu pemain BanchoBot](img/BanchoBot.jpg "Kartu pemain BanchoBot")
 
-**BanchoBot** (atau biasa dikenal dengan *Bancho*) merupakan bot yang secara khusus dibuat untuk *in-game chat* osu! mulai dari memberitahukan statistik tertentu kepada para pemain (semisal jumlah permainan, total pengulangan (*retry*), dan lain sebagainya) hingga menanggapi berbagai macam perintah. BanchoBot dirancang oleh ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) dan merupakan induk dari [sistem IRC Bancho](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) yang digunakan oleh osu!.
+**BanchoBot** (atau biasa dikenal dengan *Bancho*) merupakan bot yang dibuat untuk membantu para pemain melalui *in-game chat* osu!, mulai dari memberitahukan statistik tertentu (semisal jumlah permainan, total pengulangan (*retry*), dan lain sebagainya) hingga menanggapi berbagai macam perintah. BanchoBot dirancang oleh ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) dan merupakan induk dari [sistem IRC Bancho](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) yang digunakan oleh osu!.
 
 BanchoBot juga memiliki [akun osu!](https://osu.ppy.sh/users/3) dan [akun Twitter](https://twitter.com/banchoboat)-nya tersendiri.
 
@@ -22,7 +22,7 @@ BanchoBot juga memiliki [akun osu!](https://osu.ppy.sh/users/3) dan [akun Twitte
 
 *Untuk melihat daftar perintah yang terhubung dengan klien permainan, kunjungi [Konsol Chat](/wiki/Client/Interface/Chat_console#daftar-perintah)*
 
-BanchoBot dapat merespon perintah-perintah tertentu yang diketik oleh para pemain di dalam *chat*. Seluruh perintah Banchobot dimulai dengan tanda seru (!) dan diikuti oleh kode perintah yang dapat diinputkan baik dengan huruf besar maupun kecil (*case insensitive*). Perintah-perintah ini dapat digunakan baik di dalam *channel-channel* obrolan publik maupun di dalam *private message* dengan BanchoBot.
+BanchoBot dapat merespon berbagai perintah yang diinputkan oleh pemain di dalam *chat*. Seluruh perintah Banchobot dimulai dengan tanda seru (!) dan diikuti oleh kode perintah yang dapat ditulis baik dengan huruf besar maupun kecil (*case insensitive*). Seluruh perintah ini dapat digunakan baik di dalam kanal obrolan publik maupun di dalam *private message* dengan BanchoBot.
 
 Jika seorang pengguna biasa mencoba mengirim perintah dalam obrolan publik, pengguna lainnya tidak dapat melihatnya dan pemain yang mengirim perintah akan mendapatkan jawabannya melalui pesan pribadi dari BanchoBot. Pengguna juga dapat menggunakan perintah `/bb` untuk membuka tab BanchoBot secara otomatis dan mengirim perintah dengan segera.
 
