@@ -153,4 +153,4 @@ Perintah `!report` berfungsi untuk memberitahukan para anggota [Global Moderatio
 ## Trivia
 
 - Pada laman profil BanchoBot, BanchoBot tercatat sebagai salah satu pengguna yang telah bergabung dengan osu! sejak awal ("*Here since the beginning*")
-- Secara resmi, tanggal bergabung BanchoBot adalah tanggal 27 Agustus 2007 pukul 22:09:14 UTC-5
+- Secara resmi, BanchoBot bergabung ke osu! pada tanggal 27 Agustus 2007 pukul 22:09:14 UTC-5
