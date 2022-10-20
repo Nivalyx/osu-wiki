@@ -80,7 +80,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 !stats <nama pemain>
 ```
 
-`!stats` menampilkan data statistik pemain yang dikehendaki. Hasil yang keluar akan bergantung pada [mode permainan](/wiki/Game_mode) yang terakhir pemain tersebut mainkan, meskipun BanchoBot tidak akan menampilkan dari mana statistik mode permainan tersebut berasal. Apabila kamu mencoba menanyakan tentang pemain yang tidak pernah bermain di osu!, BanchoBot akan menanggapi permintaanmu dengan `User not found`, meskipun pemain tersebut memang ada. Berikut merupakan contoh hasil keluaran perintah:
+`!stats` menampilkan data statistik pemain yang dikehendaki. Hasil yang keluar akan bergantung pada [mode permainan](/wiki/Game_mode) yang terakhir pemain tersebut mainkan, meskipun BanchoBot tidak akan menampilkan dari mana statistik mode permainan tersebut berasal. Apabila kamu mencoba menanyakan tentang pemain yang tidak pernah bermain, BanchoBot akan menanggapi permintaanmu dengan `User not found` terlepas dari apakah akun pemain tersebut ada atau tidak. Berikut merupakan contoh hasil keluaran perintah:
 
 ```
 13:01 pippi: !stats peppy
@@ -90,7 +90,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 13:01 BanchoBot: Accuracy: 87.13%
 ```
 
-Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: Editing, Idle, Lobby, Modding, Multiplayer, Multiplaying dan Playing. Berikut contoh hasil dari perintah tersebut terhadap seorang pengguna dengan status online:
+Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: *Editing*, *Idle*, *Lobby*, *Modding*, *Multiplayer*, *Multiplaying*, dan *Playing*. Berikut merupakan contoh hasil keluaran perintah terhadap pengguna yang sedang bermain secara *online*:
 
 ```
 13:01 pippi: !stats peppy
