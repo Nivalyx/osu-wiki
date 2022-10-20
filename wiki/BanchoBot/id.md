@@ -41,7 +41,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 !help
 ```
 
-`!help` menampilkan daftar yang berisikan seluruh perintah BanchoBot yang tersedia. Berikut merupakan contoh hasil perintah tersebut:
+`!help` menampilkan daftar yang berisikan seluruh perintah BanchoBot yang tersedia. Berikut merupakan contoh hasil perintah ini:
 
 ```
 13:00 pippi: !help
@@ -62,7 +62,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 !roll <argumen>/<angka>
 ```
 
-`!roll` menampilkan bilangan antara 1 hingga angka yang dipilih secara acak. Apabila argumen angka tidak ditentukan, maka batas atas bilangan yang dikeluarkan adalah 100. Berikut merupakan contoh hasil perintah tersebut:
+`!roll` menampilkan bilangan antara 1 hingga angka yang dipilih secara acak. Apabila argumen angka tidak ditentukan, maka batas atas bilangan yang dikeluarkan adalah 100. Berikut merupakan contoh hasil perintah ini:
 
 ```
 13:00 pippi: !roll 1000
