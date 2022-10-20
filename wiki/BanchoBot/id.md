@@ -22,9 +22,9 @@ BanchoBot juga memiliki [akun osu!](https://osu.ppy.sh/users/3) dan [akun Twitte
 
 *Untuk melihat daftar perintah yang terhubung dengan klien permainan, kunjungi [Konsol Chat](/wiki/Client/Interface/Chat_console#daftar-perintah)*
 
-BanchoBot dapat merespon berbagai perintah yang diinputkan oleh pemain di dalam *chat*. Seluruh perintah Banchobot dimulai dengan tanda seru (!) dan diikuti oleh kode perintah yang dapat ditulis baik dengan huruf besar maupun kecil (*case insensitive*). Seluruh perintah ini dapat digunakan baik di dalam kanal obrolan publik maupun di dalam *private message* dengan BanchoBot.
+BanchoBot dapat merespon berbagai perintah yang diinputkan oleh pemain di dalam *chat*. Seluruh perintah Banchobot dimulai dengan tanda seru (!) dan diikuti oleh kode perintah yang dapat ditulis baik dengan huruf besar maupun kecil (*case insensitive*). Seluruh perintah yang ada dapat digunakan baik di dalam kanal obrolan publik maupun di dalam *private message* dengan BanchoBot.
 
-Jika seorang pengguna biasa mencoba mengirim perintah dalam obrolan publik, pengguna lainnya tidak dapat melihatnya dan pemain yang mengirim perintah akan mendapatkan jawabannya melalui pesan pribadi dari BanchoBot. Pengguna juga dapat menggunakan perintah `/bb` untuk membuka tab BanchoBot secara otomatis dan mengirim perintah dengan segera.
+Apabila seorang pengguna biasa mencoba mengirim perintah dalam obrolan publik, pengguna lainnya tidak dapat melihatnya dan pemain yang mengirim perintah akan mendapatkan jawabannya melalui pesan pribadi dari BanchoBot. Pengguna juga dapat menggunakan perintah `/bb` untuk membuka tab BanchoBot secara otomatis dan mengirim perintah dengan segera.
 
 Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 
@@ -41,7 +41,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 !help
 ```
 
-`!help` menampilkan sebuah daftar yang berisi semua perintah BanchoBot yang tersedia. Berikut contoh hasil dari perintah tersebut:
+`!help` menampilkan daftar yang berisikan seluruh perintah BanchoBot yang tersedia. Berikut merupakan contoh hasil perintah tersebut:
 
 ```
 13:00 pippi: !help
@@ -62,7 +62,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 !roll <argumen>/<angka>
 ```
 
-`!roll` mengundi secara acak dari angka 1 sampai angka yang dipilih. Jika argumen angka tidak ditentukan setelah awalan perintah, maka maksimal angka yang diberikan adalah 100. Berikut contoh hasil dari perintah tersebut:
+`!roll` menampilkan bilangan antara 1 hingga angka yang dipilih secara acak. Apabila argumen angka tidak ditentukan, maka batas atas bilangan yang dikeluarkan adalah 100. Berikut merupakan contoh hasil perintah tersebut:
 
 ```
 13:00 pippi: !roll 1000
