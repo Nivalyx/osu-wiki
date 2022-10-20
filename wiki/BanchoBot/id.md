@@ -41,7 +41,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 !help
 ```
 
-`!help` menampilkan daftar yang berisikan seluruh perintah BanchoBot yang tersedia. Berikut merupakan contoh hasil perintah ini:
+`!help` menampilkan daftar yang berisikan seluruh perintah BanchoBot yang tersedia. Berikut merupakan contoh hasil keluaran perintah:
 
 ```
 13:00 pippi: !help
@@ -62,7 +62,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 !roll <argumen>/<angka>
 ```
 
-`!roll` menampilkan bilangan antara 1 hingga angka yang dipilih secara acak. Apabila argumen angka tidak ditentukan, maka batas atas bilangan yang dikeluarkan adalah 100. Berikut merupakan contoh hasil perintah ini:
+`!roll` menampilkan bilangan antara 1 hingga angka yang dipilih secara acak. Apabila argumen angka tidak ditentukan, maka batas atas bilangan yang dikeluarkan adalah 100. Berikut merupakan contoh hasil keluaran perintah:
 
 ```
 13:00 pippi: !roll 1000
@@ -80,7 +80,7 @@ Daftar perintah BanchoBot selengkapnya adalah sebagai berikut:
 !stats <nama pemain>
 ```
 
-`!stats` menampilkan data statistik dari seorang pemain. Hasil yang keluar tergantung dari [mode permainan](/wiki/Game_mode) yang terakhir pemain tersebut mainkan, meskipun BanchoBot tidak akan menampilkan dari mana statistik mode permainan tersebut berasal. Jika kamu mencoba menanyakan tentang pemain yang tidak pernah bermain di osu!, BanchoBot akan menanggapi dengan `User not found`, meskipun pemain tersebut memang ada. Berikut contoh hasil dari perintah tersebut:
+`!stats` menampilkan data statistik dari seorang pemain. Hasil yang keluar tergantung dari [mode permainan](/wiki/Game_mode) yang terakhir pemain tersebut mainkan, meskipun BanchoBot tidak akan menampilkan dari mana statistik mode permainan tersebut berasal. Jika kamu mencoba menanyakan tentang pemain yang tidak pernah bermain di osu!, BanchoBot akan menanggapi dengan `User not found`, meskipun pemain tersebut memang ada. Berikut merupakan contoh hasil keluaran perintah:
 
 ```
 13:01 pippi: !stats peppy
@@ -106,7 +106,7 @@ Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: Editing, Idle, 
 !where <nama pemain>
 ```
 
-`!where` menampilkan lokasi pemain saat ini. Secara umum, perintah ini akan menampilkan asal negara pemain. Tapi jika seorang pemain mengaktifkan opsi `Tampilkan lokasi kota Anda kepada pengguna lain`, maka asal kota mereka juga aakan ditampilkan. Berikut contoh hasil dari perintah tersebut:
+`!where` menampilkan lokasi pemain saat ini. Secara umum, perintah ini akan menampilkan asal negara pemain. Tapi jika seorang pemain mengaktifkan opsi `Tampilkan lokasi kota Anda kepada pengguna lain`, maka asal kota mereka juga aakan ditampilkan. Berikut merupakan contoh hasil keluaran perintah:
 
 ```
 13:02 pippi: !where Ephemeral
@@ -123,7 +123,7 @@ Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: Editing, Idle, 
 !faq list
 ```
 
-`!faq` menampilkan isi entri. Alternatifnya, argumen `list` juga dapat digunakan untuk melihat seluruh daftar entri yang tersedia. Secara umum, BanchoBot akan menanggapinya menggunakan bahasa Inggris, tapi kamu juga bisa meminta supaya BanchoBot menanggapinya menggunakan bahasa yang berbeda dengan mengawali entri dengan [kode bahasa](/wiki/Article_styling_criteria/Formatting#locales). Berikut contoh hasil dari perintah tersebut:
+`!faq` menampilkan isi entri. Alternatifnya, argumen `list` juga dapat digunakan untuk melihat seluruh daftar entri yang tersedia. Secara umum, BanchoBot akan menanggapinya menggunakan bahasa Inggris, tapi kamu juga bisa meminta supaya BanchoBot menanggapinya menggunakan bahasa yang berbeda dengan mengawali entri dengan [kode bahasa](/wiki/Article_styling_criteria/Formatting#locales). Berikut merupakan contoh hasil keluaran perintah:
 
 ```
 13:03 pippi: !faq peppy
