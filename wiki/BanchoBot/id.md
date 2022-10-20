@@ -14,7 +14,7 @@ tags:
 
 ![Kartu pemain BanchoBot](img/BanchoBot.jpg "Kartu pemain BanchoBot")
 
-**BanchoBot** (atau biasa dikenal dengan *Bancho*) merupakan sebuah bot yang dirancang untuk berbagai keperluan yang terkait dengan sistem *in-game chat* yang dimiliki oleh osu!, mulai dari memberitahukan statistik-statistik tertentu kepada para pemain (semisal berapa lama seorang pemain telah bermain, berapa kali seorang pemain telah mengulang suatu beatmap, dan lain sebagainya) hingga menanggapi berbagai macam perintah. BanchoBot diprogram oleh [Echo](https://osu.ppy.sh/users/431) dan merupakan induk dari [sistem IRC Bancho](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) yang digunakan oleh osu!.
+**BanchoBot** (atau biasa dikenal dengan *Bancho*) merupakan sebuah bot yang dirancang untuk berbagai keperluan yang terkait dengan sistem *in-game chat* yang dimiliki oleh osu!, mulai dari memberitahukan statistik-statistik tertentu kepada para pemain (semisal berapa lama seorang pemain telah bermain, berapa kali seorang pemain telah mengulang suatu beatmap, dan lain sebagainya) hingga menanggapi berbagai macam perintah. BanchoBot diprogram oleh ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) dan merupakan induk dari [sistem IRC Bancho](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) yang digunakan oleh osu!.
 
 BanchoBot juga memiliki [akun osu!](https://osu.ppy.sh/users/3) dan [akun Twitter](https://twitter.com/banchoboat)-nya tersendiri.
 
