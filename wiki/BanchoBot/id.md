@@ -123,7 +123,7 @@ Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: *Editing*, *Idl
 !faq list
 ```
 
-`!faq` menampilkan isi entri. Alternatifnya, argumen `list` juga dapat digunakan untuk melihat seluruh daftar entri yang tersedia. Secara umum, BanchoBot akan menanggapinya menggunakan bahasa Inggris, tapi kamu juga bisa meminta supaya BanchoBot menanggapinya menggunakan bahasa yang berbeda dengan mengawali entri dengan [kode bahasa](/wiki/Article_styling_criteria/Formatting#locales). Berikut merupakan contoh hasil keluaran perintah:
+`!faq` menampilkan penjelasan singkat seputar entri yang diminta. Alternatifnya, argumen `list` juga dapat digunakan untuk melihat seluruh daftar entri yang tersedia. Secara umum, BanchoBot akan menanggapinya menggunakan bahasa Inggris, tapi kamu juga bisa meminta supaya BanchoBot menanggapinya menggunakan bahasa yang berbeda dengan mengawali entri dengan [kode bahasa](/wiki/Article_styling_criteria/Formatting#locales). Berikut merupakan contoh hasil keluaran perintah:
 
 ```
 13:03 pippi: !faq peppy
