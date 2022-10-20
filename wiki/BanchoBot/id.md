@@ -106,7 +106,7 @@ Terdapat 7 status yang dapat ditampilkan oleh perintah `!stats`: *Editing*, *Idl
 !where <nama pemain>
 ```
 
-`!where` menampilkan lokasi pemain saat ini. Secara umum, perintah ini akan menampilkan asal negara pemain. Tapi jika seorang pemain mengaktifkan opsi `Tampilkan lokasi kota Anda kepada pengguna lain`, maka asal kota mereka juga aakan ditampilkan. Berikut merupakan contoh hasil keluaran perintah:
+`!where` menampilkan lokasi pemain saat ini. Secara umum, perintah ini hanya akan menampilkan asal negara pemain. Meskipun demikian, apabila pemain yang bersangkutan mengaktifkan opsi `Tampilkan lokasi kota Anda kepada pengguna lain`, maka asal kota mereka juga aakan ditampilkan. Berikut merupakan contoh hasil keluaran perintah:
 
 ```
 13:02 pippi: !where Ephemeral
