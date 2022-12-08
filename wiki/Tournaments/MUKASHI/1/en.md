@@ -110,14 +110,14 @@ This competition has come to an end and resulted in the following podium:
 - Rice
   1. [Alicefekkt - E Jupstyle (aeoliancarp) \[Escape\]](https://osu.ppy.sh/beatmapsets/1436744#mania/2956121)
   2. [leroy - ricky bobby (Shoegazer) \[glitterpop\]](https://osu.ppy.sh/beatmapsets/1626036#mania/3543459)
-  3. [orangentle - A Man In The Mirror (AutotelicBrown) \[NIUQELEAH\]](https://osu.ppy.sh/beatmapsets/1749282#mania/3578445)
+  3. [positive MAD-Crew - Mynarco (Mipha-) \[Addiction\]](https://osu.ppy.sh/beatmapsets/1664054#osu/3397069)
 - LN
-  1. [Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Mipha-) \[Vivid\]](https://osu.ppy.sh/beatmapsets/1545416#mania/3158797)
-  2. [cYsmix - Abandoned Shrine Party (juankristal) \[Stage 3: Outliers\]](https://osu.ppy.sh/beatmapsets/948789#mania/1981397)
+  1. [SYUNN - Sulk (stupud man) \[Stage 3: Bittersweet\]](https://osu.ppy.sh/beatmapsets/1294885#mania/2686796)
+  2. [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Insane Side B\]](https://osu.ppy.sh/beatmapsets/836634#mania/1761189)
 - Hybrid
-  1. [xi - Angel's Ladder (Toaph Daddy) \[Another\]](https://osu.ppy.sh/beatmapsets/1768657#mania/3620488)
+  1. [Wednesday Campanella - Shakushain (Penguinosity) \[Shakushaku 1.1x\]](https://osu.ppy.sh/beatmapsets/1503374#mania/3079991)
 - Tiebreaker
-  1. **[Camellia - Dyscontrolled Galaxy ("Apoptosis" Long ver.) (Toaph Daddy) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1738595#mania/3553471)**
+  1. **[technoplanet - Megastructure \[Extended Mix\] (Nimis) \[Croco's Insane\]](https://osu.ppy.sh/beatmapsets/1568277#mania/3205391)**
 
 ## Match results
 
