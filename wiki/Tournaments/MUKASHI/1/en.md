@@ -103,28 +103,21 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Camellia - Dyscontrolled Galaxy ("Apoptosis" Long ver.) (Toaph Daddy) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1738595#mania/3553471)**
 
-### Semifinals and Quarterfinals
+### Semifinals
 
 **[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
 
-- NoMod
-  1. [Mrs. GREEN APPLE - Blue Ambience (feat. asmi) (Raids) \[I want to be loved!\]](https://osu.ppy.sh/beatmapsets/1801997#osu/3765020)
-  2. [cosMo@BousouP - Oceanus (Broccoly) \[Divinity\]](https://osu.ppy.sh/beatmapsets/267767#osu/609843)
-  3. [ZUTOMAYO - Kan Saete Kuyashiiwa (Nathan) \[geragera\]](https://osu.ppy.sh/beatmapsets/1001507#osu/2096523)
-  4. [NOMA - LOUDER MACHINE (Skystar) \[byfar x Skystar's Collab Extra\]](https://osu.ppy.sh/beatmapsets/483606#osu/1085206)
-  5. [t+pazolite - Hoshikuzu Struck (KKipalt) \[Stardust (Bamboo Ver.)\]](https://osu.ppy.sh/beatmapsets/1478718#osu/3033661)
-- Hidden
-  1. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Ryuusei Aika) \[Skystar's Irregular\]](https://osu.ppy.sh/beatmapsets/740862#osu/1723257)
-  2. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
-- HardRock
-  1. [Mitsukiyo - Luminous Memory (CoLouRed GlazeE) \[Extra\]](https://osu.ppy.sh/beatmapsets/1796025#osu/3681594)
-  2. [ginkiha - EOS (alacat) \[Lycoris\]](https://osu.ppy.sh/beatmapsets/151720#osu/373781)
-- DoubleTime
-  1. [Sakamoto Maaya - Mameshiba (Keqing) \[Seaside\]](https://osu.ppy.sh/beatmapsets/1650679#osu/3371420)
-  2. [Annabel - pedalnote (Agatsu) \[Gibune's Insane\]](https://osu.ppy.sh/beatmapsets/1669381#osu/3409171)
-  3. [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)  
+- Rice
+  1. [Alicefekkt - E Jupstyle (aeoliancarp) \[Escape\]](https://osu.ppy.sh/beatmapsets/1436744#mania/2956121)
+  2. [leroy - ricky bobby (Shoegazer) \[glitterpop\]](https://osu.ppy.sh/beatmapsets/1626036#mania/3543459)
+  3. [orangentle - A Man In The Mirror (AutotelicBrown) \[NIUQELEAH\]](https://osu.ppy.sh/beatmapsets/1749282#mania/3578445)
+- LN
+  1. [Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Mipha-) \[Vivid\]](https://osu.ppy.sh/beatmapsets/1545416#mania/3158797)
+  2. [cYsmix - Abandoned Shrine Party (juankristal) \[Stage 3: Outliers\]](https://osu.ppy.sh/beatmapsets/948789#mania/1981397)
+- Hybrid
+  1. [xi - Angel's Ladder (Toaph Daddy) \[Another\]](https://osu.ppy.sh/beatmapsets/1768657#mania/3620488)
 - Tiebreaker
-  1. **[Asriel - Sequentia (Deca) \[Damnation\]](https://osu.ppy.sh/beatmapsets/1550720#osu/3168834)**
+  1. **[Camellia - Dyscontrolled Galaxy ("Apoptosis" Long ver.) (Toaph Daddy) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1738595#mania/3553471)**
 
 ## Match results
 
