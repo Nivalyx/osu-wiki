@@ -98,10 +98,10 @@ This competition has come to an end and resulted in the following podium:
   1. [Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Mipha-) \[Vivid\]](https://osu.ppy.sh/beatmapsets/1545416#mania/3158797)
   2. [cYsmix - Abandoned Shrine Party (juankristal) \[Stage 3: Outliers\]](https://osu.ppy.sh/beatmapsets/948789#mania/1981397)
 - Hybrid
-  1. [Baru - ResoAlive (knowledgeking) \[Always Trust Me\]](https://osu.ppy.sh/beatmapsets/1703756#osu/3481299)
-  2. [onoken - felys final remix (Miura) \[Another\]](https://osu.ppy.sh/beatmapsets/1304397#osu/2704777)
+  1. [xi - Angel's Ladder (Toaph Daddy) \[Another\]](https://osu.ppy.sh/beatmapsets/1768657#mania/3620488)
+  2. [Kabocha - EmbryO (Gekido-) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/936194#mania/1955790)
 - Tiebreaker
-  1. **[Laur feat. Risa Yuzuki - Megaera (Niva) \[Ascavethia\]](https://osu.ppy.sh/beatmapsets/1841569#osu/3782464)**
+  1. **[Camellia - Dyscontrolled Galaxy ("Apoptosis" Long ver.) (Toaph Daddy) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1738595#mania/3553471)**
 
 ### Semifinals and Quarterfinals
 
