@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | [Skydiver](https://osu.ppy.sh/users/4750008) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/99571190) |
+| Grand Final | **[LuxKooky](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: [\[ -Asriel -\]](https://osu.ppy.sh/users/11829623) | [#1](https://osu.ppy.sh/community/matches/105421255) |
 
 ### 3rd Place Match
 
