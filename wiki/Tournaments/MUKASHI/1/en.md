@@ -8,48 +8,44 @@ tags:
 
 ![osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park logo](img/logo.jpg)
 
-The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was a single-elimination 1v1 open rank osu!mania tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and co-organised by ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), and ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966). It was the second major LAN osu! tournament to ever be held in Indonesia, following the [osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417) event ten years before.
+The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was a single-elimination 1v1 osu!mania LAN tournament hosted by [Perkumpulan Orang Santai Total (POST)](https://santai.web.id/) under the guidance and supervision of ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) and ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) from the Indonesian osu! community. It was the first-ever osu!mania tournament of this scale held by POST, who had previously facilitated tournaments for other games such as Tekken 7.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Technical meeting | 2022-08-29 |
-| Opening | 2022-09-03 (10:00 UTC +7) |
-| Quarterfinal 1 | 2022-09-03 (10:30 UTC +7) |
-| Quarterfinal 2 | 2022-09-03 (11:30 UTC +7) |
-| *Break* | 2022-09-03 (12:30 UTC +7) |
-| Quarterfinal 3 | 2022-09-03 (13:00 UTC +7) |
-| Quarterfinal 4 | 2022-09-03 (14:00 UTC +7) |
-| *Break* | 2022-09-03 (15:00 UTC +7) |
-| Semifinal 1 | 2022-09-03 (15:30 UTC +7) |
-| Semifinal 2 | 2022-09-03 (16:30 UTC +7) |
-| *Break* | 2022-09-03 (17:30 UTC +7) |
-| 3rd Place Match | 2022-09-03 (18:30 UTC +7) |
-| Grand Final | 2022-09-03 (19:30 UTC +7) |
-| Awarding and Closing | 2022-09-03 (20:30 UTC +7) |
+| Technical meeting | 2022-11-30 |
+| Opening | 2022-12-03 (11:00 UTC +7) |
+| Extra Preliminary Match | 2022-12-03 (11:15 UTC +7) |
+| Quarterfinal 1 | 2022-12-03 (10:50 UTC +7) |
+| Quarterfinal 2 | 2022-12-03 (12:25 UTC +7) |
+| Quarterfinal 3 | 2022-12-03 (13:00 UTC +7) |
+| Quarterfinal 4 | 2022-12-03 (13:35 UTC +7) |
+| *Break* | 2022-12-03 (14:00 UTC +7) |
+| Semifinal 1 | 2022-12-03 (14:30 UTC +7) |
+| Semifinal 2 | 2022-12-03 (15:05 UTC +7) |
+| 3rd Place Match | 2022-12-03 (15:40 UTC +7) |
+| Grand Final | 2022-12-03 (16:30 UTC +7) |
+| Closing and Awarding | 2022-12-03 (17:00 UTC +7) |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 500,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 250,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 150,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
-| *4th place* | 100,000 IDR |
-| *5th-8th place* | 75,000 IDR |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 500,000 IDR, commemorative cerficate |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 300,000 IDR, commemorative cerficate |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 200,000 IDR, commemorative cerficate |
 
 ## Organisation
 
-The Ascaveth Invitational Tournament 2022 was run by various osu! community members predominantly hailing from Indonesia.
+The osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park was run by various POST representatives and Indonesian osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) |
-| Organiser | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) |
-| Mappool selector | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548) |
-| Mappool helper | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
-| Streamer | ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
+| Host | ::{ flag=ID }:: Raben (POST), ::{ flag=ID }:: Ijul (POST), ::{ flag=ID }:: Erlangga (POST) |
+| Steering committee | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
+| Mappool selector | ::{ flag=ID }:: [Mipha-](https://osu.ppy.sh/users/5767941), ::{ flag=ID }:: [Symmatrix-](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [IceVee](https://osu.ppy.sh/users/8108213) |
+| Mappool helper | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 | Commentator | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) |
 | Referee | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490) |
 | Logistics and equipment | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
@@ -69,7 +65,7 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 
 ## Participants
 
-Listed below are the players who were invited into the tournament:
+Listed below are the players who were admitted into the tournament:
 
 - ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222)
 - ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635)
@@ -79,8 +75,6 @@ Listed below are the players who were invited into the tournament:
 - ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594)
 - ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633)
 - ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809)
-
-In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was drafted as a back-up player, in case someone had to back out from the event on a short notice.
 
 ## Podium
 
