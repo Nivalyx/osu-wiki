@@ -88,7 +88,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Final and 3rd Place Match
 
-**[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
+**[Download the mappack here! (65 MB)](https://www.mediafire.com/file/tvy5z4ga3n66xlp/MUKASHIFESTIVAL-Final.rar/file)**
 
 - Rice
   1. [Silentroom - Shuu no Hazama \[Rainshower\] (Shoegazer) \[Abendregen\]](https://osu.ppy.sh/beatmapsets/1307803#mania/3135961)
@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
+**[Download the mappack here! (85 MB)](https://www.mediafire.com/file/unkpa9ks3ni640u/MUKASHIFESTIVAL-SF.rar/file)**
 
 - Rice
   1. [Alicefekkt - E Jupstyle (aeoliancarp) \[Escape\]](https://osu.ppy.sh/beatmapsets/1436744#mania/2956121)
@@ -121,7 +121,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Extra Preliminary Match and Quarterfinals
 
-**[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
+**[Download the mappack here! (43 MB)](https://www.mediafire.com/file/sorsz9d3svnapbf/MUKASHIFESTIVAL-QF.rar/file)**
 
 - Rice
   1. [Venetian Snares - Szamar Madar (Shoegazer) \[Misfortune\]](https://osu.ppy.sh/beatmapsets/1567335#osu/3219161)
