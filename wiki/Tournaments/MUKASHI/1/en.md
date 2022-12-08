@@ -173,15 +173,14 @@ This competition has come to an end and resulted in the following podium:
 2. All matches will be played over a single day in at [Senayan Park, Central Jakarta](https://senayanpark.com/en/) (as part of the MUKASHI FESTIVAL ID event) following the Single Elimination system.
    - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the technical meeting.
 3. All matches will be played using the setup provided by the Tournament Management on the spot.
-   - Players are allowed to bring in certain equipments (e.g. keyboard and graphics tablet) and their own device settings should they wish to.
-4. With the exception of the Grand Final tiebreaker, the maps and mappools for the tournament will be announced by the Tournament Management in advance before the event takes place.
+   - Players are allowed to bring in certain equipments (e.g. keyboard and laptop) and their own device settings should they wish to.
+4. All maps and mappools for the tournament will be announced by the Tournament Management in advance before the event takes place.
 5. Match schedules will be predetermined by the Tournament Management.
 6. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, the referee will note the score the player had achieved at the end of the beatmap directly from their PC and adjust the outcome of the pick accordingly.
-9. Lag is not a valid reason to nullify a beatmap.
-10. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
-11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
+7. If a player disconnects, the referee will note the score the player had achieved at the end of the beatmap directly from their PC and adjust the outcome of the pick accordingly.
+8. Lag is not a valid reason to nullify a beatmap.
+9. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
+10. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
     - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the Tournament Management.
     - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
