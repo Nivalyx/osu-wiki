@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Match code  | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 3rd Place Match | **[Crezz](https://osu.ppy.sh/users/7108275)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | [#1](https://osu.ppy.sh/community/matches/103532224) |
+| 3rd Place Match | [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224) ::{ flag=ID }:: | 2 | **4** | ::{ flag=ID }:: **[KinoJourney](https://osu.ppy.sh/users/15798093)** | [#1](https://osu.ppy.sh/community/matches/105421643) |
 
 ### Semifinals
 
