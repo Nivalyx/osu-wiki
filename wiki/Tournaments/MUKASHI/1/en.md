@@ -14,6 +14,7 @@ The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was
 
 | Event | Timestamp |
 | --: | :-- |
+| Registration phase | 2022-11-14/2022-11-27 |
 | Technical meeting | 2022-11-30 |
 | Opening | 2022-12-03 (11:00 UTC +7) |
 | Extra Preliminary Match | 2022-12-03 (11:15 UTC +7) |
@@ -49,31 +50,39 @@ The osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park was run
 | Commentator | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) |
 | Referee | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 | Documentation | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
+| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 | Additional helper | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) |
 
 ## Links
 
 - **[Technical meeting document](https://docs.google.com/presentation/d/14yBMl4KiTAYxBxLrECJgixUlQfMkcKrQsYNi5wx-oOs/edit#slide=id.p)**
-- [Twitter](https://www.twitter.com/AscavethInv)
-- [Livestream](https://www.twitch.tv/osuIndonesia)
-- [Challonge](https://challonge.com/AscavethInv)
+- [POST website](https://santai.web.id/)
+- [MUKASHI FESTIVAL ID Instagram page](https://www.instagram.com/mukashifestival.id/)
+- [Challonge bracket](https://challonge.com/p32pweqh)
 
 ## Participants
 
 Listed below are the players who were admitted into the tournament:
 
-- ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222)
-- ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635)
-- ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275)
-- ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008)
-- ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956)
-- ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594)
-- ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633)
-- ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809)
+- ::{ flag=ID }:: [\[ -Asriel -\]](https://osu.ppy.sh/users/11829623)
+- ::{ flag=ID }:: [LuxKooky](https://osu.ppy.sh/users/4691146)
+- ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093)
+- ::{ flag=ID }:: [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224)
+- ::{ flag=ID }:: [Fansly](https://osu.ppy.sh/users/10410817)
+- ::{ flag=ID }:: [Ihram-san](https://osu.ppy.sh/users/9908055)
+- ::{ flag=ID }:: [youtoo12](https://osu.ppy.sh/users/5110129)
+- ::{ flag=ID }:: [anteiku7](https://osu.ppy.sh/users/7013247)
+- ::{ flag=ID }:: [KarinaKatsuna](https://osu.ppy.sh/users/31669247)
 
 ## Podium
 
-![](img/podium.jpg "Ascaveth Invitational Tournament 2022 podium")
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: **[LuxKooky](https://osu.ppy.sh/users/4691146)** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: **[\[ -Asriel -\]](https://osu.ppy.sh/users/11829623)** |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: **[KinoJourney](https://osu.ppy.sh/users/15798093)**  |
 
 ## Mappools
 
