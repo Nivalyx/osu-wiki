@@ -197,9 +197,9 @@ As the tournament was an invitational, there were no open registrations held for
 2. Each player has to ban **one beatmap** (on the Quarterfinals and the Semifinals) or **two beatmaps** (on the 3rd Place Match and the Grand Final) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own during the grace period before the match commences.
-4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
-   - Playing the tiebreaker map with a mod is *not* mandatory.
+4. Although playing with mods is not mandatory, **all maps (including the tiebreaker) will be played with the FreeMod option enabled.**
+   - Players are allowed to play any map with NoFail, Hidden, FadeIn, Flashlight, and Mirror should they wish to.
 5. Players who can compete in the next round are determined by:
-   - In the Quarterfinals and the Semifinals, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the 3rd Place Match and the Grand Final, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Extra Preliminary Match, the Quarterfinals, and the Semifinals, each player needs to win 3 points in order to win a match. (Best-of-5)
+   - In the 3rd Place Match and the Grand Final, each player needs to win 4 points in order to win a match. (Best-of-7)
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
