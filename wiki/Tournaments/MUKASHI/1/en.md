@@ -165,6 +165,12 @@ This competition has come to an end and resulted in the following podium:
 | Quarterfinal 3 | **[\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [Fansly](https://osu.ppy.sh/users/10410817) | [#1](https://osu.ppy.sh/community/matches/105419216) |
 | Quarterfinal 4 | [KarinaKatsuna](https://osu.ppy.sh/users/31669247) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[\[ -Asriel- \]](https://osu.ppy.sh/users/11829623)** | [#1](https://osu.ppy.sh/community/matches/105419558) |
 
+### Extra Preliminary Match
+
+| Match code | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Extra Preliminary Match | [Ihram-san](https://osu.ppy.sh/users/9908055) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[LuxKooky](https://osu.ppy.sh/users/4691146)** | [#1](https://osu.ppy.sh/community/matches/105418155) |
+
 ## Ruleset
 
 ### General rules
@@ -193,9 +199,8 @@ As the tournament was an invitational, there were no open registrations held for
 1. Each player must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets to pick first.
    - The loser of the `!roll` gets the opposite by default.
-2. Each player has to ban **one beatmap** (on the Quarterfinals and the Semifinals) or **two beatmaps** (on the 3rd Place Match and the Grand Final) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
-   - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
-3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own during the grace period before the match commences.
+2. EMap banning **does not apply** in the entirety of the tournament.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up are expected to do so by their own during the grace period in between the matches.
 4. Although playing with mods is not mandatory, **all maps (including the tiebreaker) will be played with the FreeMod option enabled.**
    - Players are allowed to play any map with NoFail, Hidden, FadeIn, Flashlight, and Mirror should they wish to.
 5. Players who can compete in the next round are determined by:
