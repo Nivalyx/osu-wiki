@@ -90,26 +90,16 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
 
-- NoMod
-  1. [ELFENSJoN - Shiroki Yume wa Madara ni (Volcarona) \[Twilight\]](https://osu.ppy.sh/beatmapsets/1411211#osu/3174011)
-  2. [xi - Blue Zenith (Asphyxia) \[ktgster's Extreme\]](https://osu.ppy.sh/beatmapsets/292301#osu/657917)
-  3. [BlackY feat. Risa Yuzuki - Shuumatsu Kinema (My Angel Jeremy) \[The weekend cinema in my mind\]](https://osu.ppy.sh/beatmapsets/1820113#osu/3734845)
-  4. [ZxNX - Schadenfreude (Realazy) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/1816239#osu/3728042)
-  5. [Igorrr - Unpleasant Sonata (Riene) \[Lyruke's Extreme\]](https://osu.ppy.sh/beatmapsets/1347338#osu/3681518)
-  6. [II-L - LEVEL-DOWN (MrAlpacus) \[OD 9.4\]](https://osu.ppy.sh/beatmapsets/1670983#osu/3459288)
-- Hidden
-  1. [TERRA - EDEN (Mirash) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1171713#osu/2444026)
-  2. [Niko - Made of Fire (lesjuh) \[Oni\]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
-  3. [kanone - The Sea of Memory (waefwerf) \[Amnesia\]](https://osu.ppy.sh/beatmapsets/1347768#osu/2791085)
-- HardRock
+- Rice
+  1. [Silentroom - Shuu no Hazama \[Rainshower\] (Shoegazer) \[Abendregen\]](https://osu.ppy.sh/beatmapsets/1307803#mania/3135961)
+  2. [goreshit - thinking of you (hna) \[love (2021)\]](https://osu.ppy.sh/beatmapsets/1395676#mania/3553231)
+  3. [orangentle - A Man In The Mirror (AutotelicBrown) \[NIUQELEAH\]](https://osu.ppy.sh/beatmapsets/1749282#mania/3578445)
+- LN
+  1. [Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Mipha-) \[Vivid\]](https://osu.ppy.sh/beatmapsets/1545416#mania/3158797)
+  2. [cYsmix - Abandoned Shrine Party (juankristal) \[Stage 3: Outliers\]](https://osu.ppy.sh/beatmapsets/948789#mania/1981397)
+- Hybrid
   1. [Baru - ResoAlive (knowledgeking) \[Always Trust Me\]](https://osu.ppy.sh/beatmapsets/1703756#osu/3481299)
   2. [onoken - felys final remix (Miura) \[Another\]](https://osu.ppy.sh/beatmapsets/1304397#osu/2704777)
-  3. [monet - Noborenai Sakamichi (xHirayuki) \[\:sunflower\:\]](https://osu.ppy.sh/beatmapsets/1555041#osu/3176982)
-- DoubleTime
-  1. [Yousei Teikoku - Torikago (Nagi Hisakawa) \[Immure\]](https://osu.ppy.sh/beatmapsets/1271945#osu/2643135)
-  2. [-45 - System Sun (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1616029#osu/3299371)
-  3. [Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (Azer) \[Collab\]](https://osu.ppy.sh/beatmapsets/179323#osu/431147)
-  4. [Celldweller - Shapeshifter (feat. Styles of Beyond) (PandaHero) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1124906#osu/2776049)
 - Tiebreaker
   1. **[Laur feat. Risa Yuzuki - Megaera (Niva) \[Ascavethia\]](https://osu.ppy.sh/beatmapsets/1841569#osu/3782464)**
 
