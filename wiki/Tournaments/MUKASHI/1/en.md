@@ -119,6 +119,22 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[technoplanet - Megastructure \[Extended Mix\] (Nimis) \[Croco's Insane\]](https://osu.ppy.sh/beatmapsets/1568277#mania/3205391)**
 
+### Extra Preliminary Match and Quarterfinals
+
+**[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
+
+- Rice
+  1. [Alicefekkt - E Jupstyle (aeoliancarp) \[Escape\]](https://osu.ppy.sh/beatmapsets/1436744#mania/2956121)
+  2. [leroy - ricky bobby (Shoegazer) \[glitterpop\]](https://osu.ppy.sh/beatmapsets/1626036#mania/3543459)
+  3. [positive MAD-Crew - Mynarco (Mipha-) \[Addiction\]](https://osu.ppy.sh/beatmapsets/1664054#osu/3397069)
+- LN
+  1. [SYUNN - Sulk (stupud man) \[Stage 3: Bittersweet\]](https://osu.ppy.sh/beatmapsets/1294885#mania/2686796)
+  2. [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Insane Side B\]](https://osu.ppy.sh/beatmapsets/836634#mania/1761189)
+- Hybrid
+  1. [Wednesday Campanella - Shakushain (Penguinosity) \[Shakushaku 1.1x\]](https://osu.ppy.sh/beatmapsets/1503374#mania/3079991)
+- Tiebreaker
+  1. **[technoplanet - Megastructure \[Extended Mix\] (Nimis) \[Croco's Insane\]](https://osu.ppy.sh/beatmapsets/1568277#mania/3205391)**
+
 ## Match results
 
 ### Grand Final
