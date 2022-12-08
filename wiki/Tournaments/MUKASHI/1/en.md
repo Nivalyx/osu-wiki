@@ -46,19 +46,14 @@ The osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park was run
 | Steering committee | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
 | Mappool selector | ::{ flag=ID }:: [Mipha-](https://osu.ppy.sh/users/5767941), ::{ flag=ID }:: [Symmatrix-](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [IceVee](https://osu.ppy.sh/users/8108213) |
 | Mappool helper | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
-| Commentator | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) |
-| Referee | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490) |
-| Logistics and equipment | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
-| Security and permissions | ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031) |
+| Commentator | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) |
+| Referee | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 | Documentation | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
-| Catering | ::{ flag=ID }:: [Nareisk](https://osu.ppy.sh/users/18382879) |
-| Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
-| Additional helper | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Arca 9](https://osu.ppy.sh/users/14042319), ::{ flag=ID }:: [xLipz](https://osu.ppy.sh/users/8358833), ::{ flag=ID }:: Hollowness, ::{ flag=ID }:: Vanties, ::{ flag=ID }:: Aniki, ::{ flag=ID }:: St. Dark\_Pha, ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
+| Additional helper | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) |
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/13UTdhZDn14B8pgZ4KY7V5RQsHMt0qCrAeTXZHZ4eCoY/edit?usp=sharing)**
+- **[Technical meeting document](https://docs.google.com/presentation/d/14yBMl4KiTAYxBxLrECJgixUlQfMkcKrQsYNi5wx-oOs/edit#slide=id.p)**
 - [Twitter](https://www.twitter.com/AscavethInv)
 - [Livestream](https://www.twitch.tv/osuIndonesia)
 - [Challonge](https://challonge.com/AscavethInv)
