@@ -191,9 +191,8 @@ As the tournament was an invitational, there were no open registrations held for
 ### Match instructions
 
 1. Each player must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
-   - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
-   - The loser of the `!roll` gets the opposite by default.
-   - This rule does not apply in the Qualifier lobbies.
+   - The winner of the `!roll` gets to determine who gets to pick first.
+   - The loser of the `!roll` gets to pick second.
 2. Each player has to ban **one beatmap** (on the Quarterfinals and the Semifinals) or **two beatmaps** (on the 3rd Place Match and the Grand Final) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own during the grace period before the match commences.
