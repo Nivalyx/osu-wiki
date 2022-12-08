@@ -170,8 +170,8 @@ This competition has come to an end and resulted in the following podium:
 ### General rules
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
-2. All matches will be played over a single day in an undisclosed location following the Single Elimination system.
-   - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the Technical Meeting.
+2. All matches will be played over a single day in at [Senayan Park, Central Jakarta](https://senayanpark.com/en/) (as part of the MUKASHI FESTIVAL ID event) following the Single Elimination system.
+   - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the technical meeting.
 3. All matches will be played using the setup provided by the Tournament Management on the spot.
    - Players are allowed to bring in certain equipments (e.g. keyboard and graphics tablet) and their own device settings should they wish to.
 4. With the exception of the Grand Final tiebreaker, the maps and mappools for the tournament will be announced by the Tournament Management in advance before the event takes place.
