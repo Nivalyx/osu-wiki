@@ -160,10 +160,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Quarterfinal 1 | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/103525528) |
-| Quarterfinal 2 | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/103526744) |
-| Quarterfinal 3 | [Daffy](https://osu.ppy.sh/users/5968633) ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/103527716) |
-| Quarterfinal 4 | **[Skydiver](https://osu.ppy.sh/users/4750008)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) | [#1](https://osu.ppy.sh/community/matches/103528575) |
+| Quarterfinal 1 | **[LuxKooky](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [youtoo12](https://osu.ppy.sh/users/5110129) | [#1](https://osu.ppy.sh/community/matches/105418603) |
+| Quarterfinal 2 | [anteiku7](https://osu.ppy.sh/users/7013247) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[KinoJourney](https://osu.ppy.sh/users/15798093)** | [#1](https://osu.ppy.sh/community/matches/105418912) |
+| Quarterfinal 3 | **[\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [Fansly](https://osu.ppy.sh/users/10410817) | [#1](https://osu.ppy.sh/community/matches/105419216) |
+| Quarterfinal 4 | [KarinaKatsuna](https://osu.ppy.sh/users/31669247) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[\[ -Asriel- \]](https://osu.ppy.sh/users/11829623)** | [#1](https://osu.ppy.sh/community/matches/105419558) |
 
 ## Ruleset
 
