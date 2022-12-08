@@ -192,7 +192,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Tournament registration
 
-As the tournament was an invitational, there were no open registrations held for the event. However, as always, test players, referees, and mappool selectors may not participate as players in this tournament.
+1. All interested players are required to register into the tournament individually via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfM4bHa5fqs5f9O-bb4SHqqPDTUjNjYvHzDNrZH3siRj_9hyA/closedform).
 
 ### Match instructions
 
