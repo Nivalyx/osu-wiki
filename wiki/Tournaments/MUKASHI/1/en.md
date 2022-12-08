@@ -124,16 +124,16 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
 
 - Rice
-  1. [Alicefekkt - E Jupstyle (aeoliancarp) \[Escape\]](https://osu.ppy.sh/beatmapsets/1436744#mania/2956121)
-  2. [leroy - ricky bobby (Shoegazer) \[glitterpop\]](https://osu.ppy.sh/beatmapsets/1626036#mania/3543459)
-  3. [positive MAD-Crew - Mynarco (Mipha-) \[Addiction\]](https://osu.ppy.sh/beatmapsets/1664054#osu/3397069)
+  1. [Venetian Snares - Szamar Madar (Shoegazer) \[Misfortune\]](https://osu.ppy.sh/beatmapsets/1567335#osu/3219161)
+  2. [P\*Light - SAtAN (riunosk) \[FAMoss' ADVANCED\]](https://osu.ppy.sh/beatmapsets/1358905#mania/2841944)
+  3. [-45 - Aci-L (Mipha-) \[Despair\]](https://osu.ppy.sh/beatmapsets/1504845#mania/3082640)
 - LN
-  1. [SYUNN - Sulk (stupud man) \[Stage 3: Bittersweet\]](https://osu.ppy.sh/beatmapsets/1294885#mania/2686796)
-  2. [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Insane Side B\]](https://osu.ppy.sh/beatmapsets/836634#mania/1761189)
+  1. [Kinjishi vs Kirin feat. Baku - Snakey Kung-fu (stupud man) \[Cobra Kai\]](https://osu.ppy.sh/beatmapsets/1388661#mania/2867956)
+  2. [inabakumori - Kimi ni Kaikisen (Cut Ver.) (Ballistic) \[Commitment\]](https://osu.ppy.sh/beatmapsets/1746291#mania/3572012)
 - Hybrid
-  1. [Wednesday Campanella - Shakushain (Penguinosity) \[Shakushaku 1.1x\]](https://osu.ppy.sh/beatmapsets/1503374#mania/3079991)
+  1. [kors k - Insane Techniques (Madoka2574) \[Reversal\]](https://osu.ppy.sh/beatmapsets/1144083#mania/2388838)
 - Tiebreaker
-  1. **[technoplanet - Megastructure \[Extended Mix\] (Nimis) \[Croco's Insane\]](https://osu.ppy.sh/beatmapsets/1568277#mania/3205391)**
+  1. **[Chroma - lost found melody (AHHHHHHHHHHHHHH) \[insane\]](https://osu.ppy.sh/beatmapsets/1287246#mania/2672609)**
 
 ## Match results
 
