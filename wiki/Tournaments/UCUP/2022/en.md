@@ -89,7 +89,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 | 22 | ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527) | 5.43 |
 | 23 | ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152) | 5.42 |
 | 24 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | 5.41 |
-| 25 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 25 | ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863) | 5.35 |
 | 26 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
 | 27 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
 | 28 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
