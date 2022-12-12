@@ -30,9 +30,9 @@ The **Ulat Cup 2022** (***UCUP 2022***) was a double-elimination 1v1 osu! tourna
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 year of osu!supporter, unique profile badge, customised profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, customised profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, customised profile banner |
 
 ![](img/badge.png "UCUP 2021 winner badge")
 
