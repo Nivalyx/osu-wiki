@@ -70,9 +70,9 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 | 3 | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) | 8.13 |
 | 4 | ::{ flag=SG }:: [Moroha29](https://osu.ppy.sh/users/9182389) | 7.78 |
 | 5 | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) | 7.77 |
-| 6 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
-| 7 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
-| 8 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 6 | ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877) | 7.63 |
+| 7 | ::{ flag=TH }:: [Estella fanboy](https://osu.ppy.sh/users/19052463) | 7.62 |
+| 8 | ::{ flag=SG }:: [Anderwear](https://osu.ppy.sh/users/14429830) | 7.15 |
 | 9 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
 | 10 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
 | 11 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
