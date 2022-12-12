@@ -116,20 +116,20 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [ Sasaki Sayaka - Will of Adamant (Millie) \[Wings\]](https://osu.ppy.sh/beatmapsets/1889553#osu/3891759)
-  2. [Various Artists - Ms. VICTORIA (Game Size) (lushifer) \[#freeiloveuma\]](https://osu.ppy.sh/beatmapsets/1897432#osu/3910634)
+  2. [Various Artists - Ms. VICTORIA (Game Size) (lushifer) \[\#freeiloveuma\]](https://osu.ppy.sh/beatmapsets/1897432#osu/3910634)
   3. [ Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT" (Lasse) \[Affection\]](https://osu.ppy.sh/beatmapsets/1431401#osu/2946497)
   4. [Airots - Tougen Roman (Epsilon Remix) (GIDZ) \[Matha's Exultation\]](https://osu.ppy.sh/beatmapsets/1321446#osu/2757153)
   5. [Yuni (CV: Kohara Konomi), Chieru (CV: Sakura Ayane), Chloe (CV: Tanezaki Atsumi) - Nakayoshi Sensation (Yorita Yoshino) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/1233855#osu/2596270)
   6. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[Amatha's Expert: Yoshino\]](https://osu.ppy.sh/beatmapsets/1404864#osu/2901399)  
 - Hidden
-  1. [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[Yusomi's Luminiferous\]](https://osu.ppy.sh/beatmapsets/902425#osu/2097288)
-  2. [Laur - Metamorphose (verychill) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/1238413#osu/2639428)
-  3. [sokoniraru - Lament Moment (HabiHolic) \[PaRaDogi's Ex\_Death\]](https://osu.ppy.sh/beatmapsets/1288090#osu/2687455)
-  4. [sokoniraru - Lament Moment (HabiHolic) \[PaRaDogi's Ex\_Death\]](https://osu.ppy.sh/beatmapsets/1288090#osu/2687455)  
+  1. [Yousei Teikoku - last moment (IsomirDiAngelo) \[smm's extra\]](https://osu.ppy.sh/beatmapsets/1172342#osu/2460502)
+  2. [SHK - Halloween Party (Hoto Cocoa) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1682134#osu/3436822)
+  3. [xi - Heavenly Blast (PayneTrain) \[CELESTIAL\]](https://osu.ppy.sh/beatmapsets/1478923#osu/3409211)
+  4. [Rita - Tonitrus (FraktureHawkens) \[Beyond The World\]](https://osu.ppy.sh/beatmapsets/926756#osu/1935726)  
 - HardRock
-  1. [Dance Gavin Dance - Son of Robot (Hobbes2) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/1391800#osu/2873706)
-  2. [Balloon - Ame to Petra (Axarious) \[Normal\]](https://osu.ppy.sh/beatmapsets/1351510#osu/2797986)
-  3. [TOMOSUKE - Ergosphere (toybot) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1233027#osu/2563333)
+  1. [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching (CS4 Edit)\]](https://osu.ppy.sh/beatmapsets/1896496#osu/3908495)
+  2. [Aimiya Zero - breath of stella (fnayR) \[Stella (cs edit ver.)\]](https://osu.ppy.sh/beatmapsets/1860434#osu/3880143)
+  3. [solfa feat. Meu Koharu - Aishite Koishite -happy forever- (Shikibe Mayu) \[Happy Go Lucky!\]](https://osu.ppy.sh/beatmapsets/1677698#osu/3427667)
   4. [TOMOSUKE - Ergosphere (toybot) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1233027#osu/2563333)
 - DoubleTime
   1. [FROZEN QUALIA - M'aider (Hishiro Chizuru) \[Collab Blossom\]](https://osu.ppy.sh/beatmapsets/1296276#osu/2689515)
