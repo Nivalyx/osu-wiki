@@ -174,9 +174,9 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (229 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022sf.zip)**
 
 - NoMod
-  1. [Denkishiki Karen Ongaku Shuudan - gemini (Star Stream) \[Extra\]](https://osu.ppy.sh/beatmapsets/182815#osu/438187)
-  2. [Hazuki - Legend of Millennium (Goth Asuka) \[Zecent's Extra\]](https://osu.ppy.sh/beatmapsets/1195065#osu/2541686)
-  3. [Matsushita - Hey Darling! (Shikibe Mayu) \[Toa my beloved\]](https://osu.ppy.sh/beatmapsets/1525401#osu/3120956)
+  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Fall of Fall (Melize) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1870600#osu/3848638)
+  2. [Xi - Densetsu no Sabori Shinigami \~ Make a quick escape (Toumei Dragon) \[Cellina & TD's Collab Extra\]](https://osu.ppy.sh/beatmapsets/1621473#osu/3435049)
+  3. [Roselia - Opera of the wasteland (newton-) \[Counterpoint\]](https://osu.ppy.sh/beatmapsets/918685#osu/1918328)
   4. [Eagle - Hypersonik (Ascended) \[Aistre's Extra\]](https://osu.ppy.sh/beatmapsets/1834293#osu/3836349)
   5. [Zektbach - The Sealer \~A Milia to Milia no Tami\~ (ScubDomino) \[Extra\]](https://osu.ppy.sh/beatmapsets/1414241#osu/2915013)
   6. [-45 - Aci-L (Stick2Glue) \[tourney diff Tourney Diff TOURNEY DIFF\]](https://osu.ppy.sh/beatmapsets/1236026#osu/3839688)  
