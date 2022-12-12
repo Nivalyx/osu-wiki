@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (129 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022ro16sir.zip)**
 
 - NoMod
-  1. [Chitose Sara - Merry Merry Go Round (Usaha) \[Otomeruphose\]](https://osu.ppy.sh/beatmapsets/1664204#osu/3397388)
+  1. [Marie - Clover Day's (-Kirigiri) \[Memory\]](https://osu.ppy.sh/beatmapsets/1505255#osu/3083355)
   2. [Mitsukiyo - Theme 91 (Millie) \[freeuma\]](https://osu.ppy.sh/beatmapsets/1884138#osu/3879314)
   3. [KyoKa - Ouran Romancia (Seolv) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/1530166#osu/3129871)
   4. [onoken feat. Yoko Natsukawa - Sakimori Souka (Sunazuka Akira) \[Extra\]](https://osu.ppy.sh/beatmapsets/1559358#osu/3185234)
