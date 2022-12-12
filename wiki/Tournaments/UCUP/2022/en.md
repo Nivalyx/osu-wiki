@@ -162,13 +162,12 @@ This competition has come to an end and resulted in the following podium:
   3. [YuNa - Torawarebito (PaRaDogi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1666863#osu/3403539)
   4. [Noah - Heavenly caress (-Kemsyt) \[Days of Future Past\]](https://osu.ppy.sh/beatmapsets/1537692#osu/3144021)
 - DoubleTime
-  1. [Ceui - Hoshi Ori Yume Mirai (Millie) \[Memories\]](https://osu.ppy.sh/beatmapsets/1889555#osu/3891762)
-  2. [Daisuke Ishiwatari - Childish Killer (yaspo) \[Like a Rose\]](https://osu.ppy.sh/beatmapsets/1301402#osu/2699262)
-  3. [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
-  4. [zts - dreamenddischarger (Luscent) \[resurrection\]](https://osu.ppy.sh/beatmapsets/1414566#osu/2915636)
-  5. [Mitsukasa Ayase (CV: Sawasawa Sawa) - PERFECT GIRL (DeppyForce) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1358125#osu/2890071)
+  1. [Rin'ca - Kiseki Melody (pnky) \[KoldNoodl's Insane\]](https://osu.ppy.sh/beatmapsets/1754642#osu/3650418)
+  2. [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (Luscent) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1609956#osu/3287252)
+  3. [zts - worldenddominator (deetz) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/897884#osu/1985639)
+  4. [Wakana - Flag (Shurelia) \[Fuyu's Insane\]](https://osu.ppy.sh/beatmapsets/1822388#osu/3743688)
 - Tiebreaker
-  1. **[Ito Kanako - Sky of Twilight (Millie) \[Dusk\]](https://osu.ppy.sh/beatmapsets/1897490#osu/3910774)**  
+  1. **[Denkishiki Karen Ongaku Shuudan - I pray (Icekalt) \[I pray until dying in the dark\]](https://osu.ppy.sh/beatmapsets/755676#osu/1590496)**  
 
 ### Semifinals
 
