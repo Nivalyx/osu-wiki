@@ -104,9 +104,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Rushia** (::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222), ::{ flag=AU }:: [sakamata1](https://osu.ppy.sh/users/7562902)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Surtr S3** (::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635), ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **L9 Hamster** (::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553), ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TH }:: **[chests](https://osu.ppy.sh/users/14806365)** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: **[BlankTap](https://osu.ppy.sh/users/10137131)** |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: **[LouisZpro](https://osu.ppy.sh/users/6231292)** |
 
 ## Mappools
 
