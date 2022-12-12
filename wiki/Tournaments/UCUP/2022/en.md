@@ -177,26 +177,26 @@ This competition has come to an end and resulted in the following podium:
   1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Fall of Fall (Melize) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1870600#osu/3848638)
   2. [Xi - Densetsu no Sabori Shinigami \~ Make a quick escape (Toumei Dragon) \[Cellina & TD's Collab Extra\]](https://osu.ppy.sh/beatmapsets/1621473#osu/3435049)
   3. [Roselia - Opera of the wasteland (newton-) \[Counterpoint\]](https://osu.ppy.sh/beatmapsets/918685#osu/1918328)
-  4. [Eagle - Hypersonik (Ascended) \[Aistre's Extra\]](https://osu.ppy.sh/beatmapsets/1834293#osu/3836349)
-  5. [Zektbach - The Sealer \~A Milia to Milia no Tami\~ (ScubDomino) \[Extra\]](https://osu.ppy.sh/beatmapsets/1414241#osu/2915013)
-  6. [-45 - Aci-L (Stick2Glue) \[tourney diff Tourney Diff TOURNEY DIFF\]](https://osu.ppy.sh/beatmapsets/1236026#osu/3839688)  
+  4. [MYUKKE. - NO ONE YES MAN (captin1) \[Risen's EXTRA\]](https://osu.ppy.sh/beatmapsets/1687287#osu/3695129)
+  5. [Ice - Entrance (Icekalt) \[schoolboy's Extra\]](https://osu.ppy.sh/beatmapsets/1276389#osu/2657055)
+  6. [HOYO-MiX - Any Last Words? (Ascended) \[Scub's Floral Incense\]](https://osu.ppy.sh/beatmapsets/1690574#osu/3498553)  
 - Hidden
-  1. [Falcom Sound Team jdk - Infinity Rage (jonathanlfj) \[Stage 4\]](https://osu.ppy.sh/beatmapsets/1616017#osu/3299353)
-  2. [raito - Blood Drain -Again- (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152554#osu/2405667)
-  3. [ak+q x Street - neo kosmo (arronchu1207) \[extra\]](https://osu.ppy.sh/beatmapsets/1465727#osu/3010336)
-  4. [yozuca\* - LOVING TRIP (Shikibe Mayu) \[running it down\]](https://osu.ppy.sh/beatmapsets/1372743#osu/2837879)
+  1. [Rita - Winter Diamond (ImpurePug) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1459060#osu/2998282)
+  2. [KOTOKO - jihad (Mariko Sakuragi) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1135541#osu/2371574)
+  3. [7 Sequence - Dualrock (NyarkoO) \[Show Me Your S4!!\]](https://osu.ppy.sh/beatmapsets/564820#osu/1193947)
+  4. [t+pazolite - Tempestissimo (Ryuusei Aika) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1291246#osu/2680247)
 - HardRock
-  1. [Various Artists - Irodori Phantasia (lushifer) \[Flowering Phantasia\]](https://osu.ppy.sh/beatmapsets/1703610#osu/3480920)
-  2. [yozuca\* - Ima o Wasurenai (frozz) \[Love Memory\]](https://osu.ppy.sh/beatmapsets/1706160#osu/3486227)
-  3. [YuNa - Torawarebito (PaRaDogi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1666863#osu/3403539)
-  4. [Noah - Heavenly caress (-Kemsyt) \[Days of Future Past\]](https://osu.ppy.sh/beatmapsets/1537692#osu/3144021)
+  1. [Suzuyu - Syndetos (Shikibe Mayu) \[Sophie\]](https://osu.ppy.sh/beatmapsets/1711198#osu/3496518)
+  2. [onoken - Amnolys (Dream117er) \[Koiyuki's Schwarzes Extrem\]](https://osu.ppy.sh/beatmapsets/1069791#osu/2301694)
+  3. [Monster Siren Records - Fading Sky (Bellicose) \[Yugu's Extra\]](https://osu.ppy.sh/beatmapsets/1770637#osu/3745604)
+  4. [Yonekura Chihiro - Smiling-Swinging!! (Shikibe Mayu) \[Expert: Natsume\]](https://osu.ppy.sh/beatmapsets/1568530#osu/3202627)
 - DoubleTime
-  1. [Rin'ca - Kiseki Melody (pnky) \[KoldNoodl's Insane\]](https://osu.ppy.sh/beatmapsets/1754642#osu/3650418)
-  2. [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (Luscent) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1609956#osu/3287252)
-  3. [zts - worldenddominator (deetz) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/897884#osu/1985639)
-  4. [Wakana - Flag (Shurelia) \[Fuyu's Insane\]](https://osu.ppy.sh/beatmapsets/1822388#osu/3743688)
+  1. [Rin'ca - Pleasure garden (fnayR) \[Paradise\]](https://osu.ppy.sh/beatmapsets/1872558#osu/3853165)
+  2. [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Mirash) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/685725#osu/1469159)
+  3. [ARM x Komso feat. Nanahira - Onegai! Kon kon Oinarisama (Len) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/1302044#osu/2718373)
+  4. [Grabbitz - Die For You (AirinCat) \[Insane\]](https://osu.ppy.sh/beatmapsets/1793500#osu/3681813)
 - Tiebreaker
-  1. **[Denkishiki Karen Ongaku Shuudan - I pray (Icekalt) \[I pray until dying in the dark\]](https://osu.ppy.sh/beatmapsets/755676#osu/1590496)**  
+  1. **[sweet ARMS - Installation (\_kotachi\_) \[Zaphkiel\]](https://osu.ppy.sh/beatmapsets/1756743#osu/3595027)**  
 
 ### Quarterfinals
 
