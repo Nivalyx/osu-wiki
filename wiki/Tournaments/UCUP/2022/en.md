@@ -226,29 +226,29 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (95 MB)](https://drive.google.com/u/0/uc?id=1ML0vbOSR_iNh2kuR7SSoohdA0BBzcB3_&export=download)**
+**[Download the mappack here! (129 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022ro16sir.zip)**
 
 - NoMod
-  1. [TrySail - Utsuroi (Mir) \[Confession\]](https://osu.ppy.sh/beatmapsets/1433678#osu/2950420)
-  2. [EBICO - Persephone (FrenZ396) \[Romance\]](https://osu.ppy.sh/beatmapsets/1396151#osu/2943621)
-  3. [Hanabusa Sumireko (CV: Arakawa Miho) - Inochi no Karakuri (Talulah) \[The Queen\]](https://osu.ppy.sh/beatmapsets/1061614#osu/2223096)
-  4. [onoken - unisonote (Firis Mistlud) \[ameth's bel fiore\]](https://osu.ppy.sh/beatmapsets/942224#osu/1971717)
-  5. [Diceros Bicornis - ReviveR (xidorn) \[the third\]](https://osu.ppy.sh/beatmapsets/1530005#osu/3129534)
+  1. [Chitose Sara - Merry Merry Go Round (Usaha) \[Otomeruphose\]](https://osu.ppy.sh/beatmapsets/1664204#osu/3397388)
+  2. [Mitsukiyo - Theme 91 (Millie) \[freeuma\]](https://osu.ppy.sh/beatmapsets/1884138#osu/3879314)
+  3. [KyoKa - Ouran Romancia (Seolv) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/1530166#osu/3129871)
+  4. [onoken feat. Yoko Natsukawa - Sakimori Souka (Sunazuka Akira) \[Extra\]](https://osu.ppy.sh/beatmapsets/1559358#osu/3185234)
+  5. [Shade - Ontology (LMT) \[Zelq's Extra\]](https://osu.ppy.sh/beatmapsets/1050313#osu/2207682)
+  6. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (anna apple) \[Another\]](https://osu.ppy.sh/beatmapsets/1271996#osu/3088664)  
 - Hidden
-  1. [YOASOBI - Kaibutsu (Regou) \[Ex\]](https://osu.ppy.sh/beatmapsets/1349270#osu/2793679)
-  2. [Hijirime Laeria - stlaeria (Hinsvar) \[Salvation\]](https://osu.ppy.sh/beatmapsets/1352739#osu/2800493)
+  1. [Hitachi Mako (CV: Kotorii Yuuka) - Mako no Nichijou (papapa123) \[buhei no Nichijou\]](https://osu.ppy.sh/beatmapsets/859338#osu/2295594)
+  2. [Sakamoto Shoichiro - Eye of Aeon (niii\_san) \[Expert\]](https://osu.ppy.sh/beatmapsets/1543327#osu/3154664)
+  3. [aran - Gate One (Orange\_) \[N/A's Extra\]](https://osu.ppy.sh/beatmapsets/1461230#osu/3015859)
 - HardRock
-  1. [Igorrr - Tout Petit Moineau (fergas) \[Extra\]](https://osu.ppy.sh/beatmapsets/212180#osu/517308)
-  2. [Sound Souler - Bubble Flower (hypercyte) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152177#osu/2404822)
+  1. [i.o - Aoiro Step (dkblaze) \[gazimal's Expert\]](https://osu.ppy.sh/beatmapsets/1733209#osu/3579969)
+  2. [Denkishiki Karen Ongaku Shuudan - Gareki no Yume (PinkHeart) \[imouto's Insane\]](https://osu.ppy.sh/beatmapsets/462267#osu/1277594)
+  3. [Tsumugi Wenders (CV: Iwai Emiri) - Golden Hours (Garden) \[Special\]](https://osu.ppy.sh/beatmapsets/1378712#osu/2848888)
 - DoubleTime
-  1. [Asaka - Eternal Star (Luscent) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/1312114#osu/2885357)
-  2. [Endorfin. - Raindrop Caffe Latte (ImpurePug) \[Insane\]](https://osu.ppy.sh/beatmapsets/1262556#osu/2624225)
-  3. [Hatsuki Yura - Lunicode (GreenHue) \[KKip's Insane\]](https://osu.ppy.sh/beatmapsets/801001#osu/1689336)
-- FreeMod
-  1. [TERRA - EDEN (Mirash) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1171713#osu/2444026)
-  2. [bbn - Identic Conflict (Myxo) \[LMT's Another\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135438)
+  1. [Suzuki Konomi - ALKATALE (Millie) \[Endless Summer (edit ver.)\]](https://osu.ppy.sh/beatmapsets/1882915#osu/3876681)
+  2. [felys feat. Natsukawa Yoko - Celsus (LONG VERSION) (Elcheer) \[Insane\]](https://osu.ppy.sh/beatmapsets/1604680#osu/3276823)
+  3. [yuki - Clammbon (pnky) \[Insane\]](https://osu.ppy.sh/beatmapsets/1737221#osu/3588814)
 - Tiebreaker
-  1. **[Noah - Reflection (Adinda) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1426912#osu/2938138)**   
+  1. **[Ayane - Nageki no Mori (Luscent) \[Elviscent's Matsuri\]](https://osu.ppy.sh/beatmapsets/1108479#osu/2316652)**
 
 ### Round of 32
 
