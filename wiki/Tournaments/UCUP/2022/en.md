@@ -130,15 +130,15 @@ This competition has come to an end and resulted in the following podium:
   1. [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching (CS4 Edit)\]](https://osu.ppy.sh/beatmapsets/1896496#osu/3908495)
   2. [Aimiya Zero - breath of stella (fnayR) \[Stella (cs edit ver.)\]](https://osu.ppy.sh/beatmapsets/1860434#osu/3880143)
   3. [solfa feat. Meu Koharu - Aishite Koishite -happy forever- (Shikibe Mayu) \[Happy Go Lucky!\]](https://osu.ppy.sh/beatmapsets/1677698#osu/3427667)
-  4. [TOMOSUKE - Ergosphere (toybot) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1233027#osu/2563333)
+  4. [Sakuzyo - Imprinting (eiri-) \[Dementation's Extra\]](https://osu.ppy.sh/beatmapsets/1090887#osu/2340914)
 - DoubleTime
-  1. [FROZEN QUALIA - M'aider (Hishiro Chizuru) \[Collab Blossom\]](https://osu.ppy.sh/beatmapsets/1296276#osu/2689515)
-  2. [Rita - Winter Diamond (Kirylin) \[LMT's Insane\]](https://osu.ppy.sh/beatmapsets/1023611#osu/2226227)
-  3. [Chata - Wan (Kalibe) \[Sorrow\]](https://osu.ppy.sh/beatmapsets/922995#osu/1927444)
-  4. [ShinRa-Bansho - MY Heart Rate (UberFazz) \[JAZZ's Lunatic\]](https://osu.ppy.sh/beatmapsets/1237886#osu/2576252)
-  5. [ShinRa-Bansho - MY Heart Rate (UberFazz) \[JAZZ's Lunatic\]](https://osu.ppy.sh/beatmapsets/1237886#osu/2576252)
+  1. [Ceui - Hoshi Ori Yume Mirai (Millie) \[Memories\]](https://osu.ppy.sh/beatmapsets/1889555#osu/3891762)
+  2. [Daisuke Ishiwatari - Childish Killer (yaspo) \[Like a Rose\]](https://osu.ppy.sh/beatmapsets/1301402#osu/2699262)
+  3. [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
+  4. [zts - dreamenddischarger (Luscent) \[resurrection\]](https://osu.ppy.sh/beatmapsets/1414566#osu/2915636)
+  5. [Mitsukasa Ayase (CV: Sawasawa Sawa) - PERFECT GIRL (DeppyForce) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1358125#osu/2890071)
 - Tiebreaker
-  1. **[Noah - Astral tale - Denebold (Deca) \[Woden\]](https://osu.ppy.sh/beatmapsets/1504323#osu/3081825)**  
+  1. **[Ito Kanako - Sky of Twilight (Millie) \[Dusk\]](https://osu.ppy.sh/beatmapsets/1897490#osu/3910774)**  
 
 ### Finals (week 1)
 
