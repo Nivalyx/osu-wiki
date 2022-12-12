@@ -65,7 +65,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 | Seed No. | Player | Z-Sum |
 | :-: | :-- | :-- |
-| 1 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 1 | ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365) | 9.51 |
 | 2 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
 | 3 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
 | 4 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
