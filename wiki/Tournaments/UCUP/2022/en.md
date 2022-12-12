@@ -138,7 +138,7 @@ This competition has come to an end and resulted in the following podium:
   4. [zts - dreamenddischarger (Luscent) \[resurrection\]](https://osu.ppy.sh/beatmapsets/1414566#osu/2915636)
   5. [Mitsukasa Ayase (CV: Sawasawa Sawa) - PERFECT GIRL (DeppyForce) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1358125#osu/2890071)
 - Tiebreaker
-  1. **[Ito Kanako - Sky of Twilight (Millie) \[Dusk\]](https://osu.ppy.sh/beatmapsets/1897490#osu/3910774)**  
+  1. **[Ito Kanako - Sky of Twilight (Millie) \[Dusk\]](https://osu.ppy.sh/beatmapsets/1897490#osu/3910774)**
 
 ### Finals (week 1)
 
@@ -167,38 +167,36 @@ This competition has come to an end and resulted in the following podium:
   3. [zts - worldenddominator (deetz) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/897884#osu/1985639)
   4. [Wakana - Flag (Shurelia) \[Fuyu's Insane\]](https://osu.ppy.sh/beatmapsets/1822388#osu/3743688)
 - Tiebreaker
-  1. **[Denkishiki Karen Ongaku Shuudan - I pray (Icekalt) \[I pray until dying in the dark\]](https://osu.ppy.sh/beatmapsets/755676#osu/1590496)**  
+  1. **[Denkishiki Karen Ongaku Shuudan - I pray (Icekalt) \[I pray until dying in the dark\]](https://osu.ppy.sh/beatmapsets/755676#osu/1590496)**
 
 ### Semifinals
 
-**[Download the mappack here! (143 MB)](https://drive.google.com/u/0/uc?id=1-SBK100mjhMfubNJb5OBhy2B47wNC4-v&export=download)**
+**[Download the mappack here! (229 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022sf.zip)**
 
 - NoMod
-  1. [Manami Numakura - Sakebe (Depths) \[Eternity\]](https://osu.ppy.sh/beatmapsets/630659#osu/1331324)
-  2. [Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu (knowledgeking) \[Tenebrae of Regina\]](https://osu.ppy.sh/beatmapsets/1443880#osu/2970030)
-  3. [Co shu Nie - asphyxia (Gillstar) \[constriction\]](https://osu.ppy.sh/beatmapsets/895512#osu/1871128)
-  4. [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry) \[Neil x Sharu, Syzygy\]](https://osu.ppy.sh/beatmapsets/694402#osu/1469136)
-  5. [Dayum - Gwyn (Shidoni) \[Extreme\]](https://osu.ppy.sh/beatmapsets/985884#osu/2063785)
-  6. [Minamotoya feat. Kuroa* - Hana Kagerou (404 AimNotFound) \[Aery's Special Insane\]](https://osu.ppy.sh/beatmapsets/929130#osu/2004588)  
+  1. [Denkishiki Karen Ongaku Shuudan - gemini (Star Stream) \[Extra\]](https://osu.ppy.sh/beatmapsets/182815#osu/438187)
+  2. [Hazuki - Legend of Millennium (Goth Asuka) \[Zecent's Extra\]](https://osu.ppy.sh/beatmapsets/1195065#osu/2541686)
+  3. [Matsushita - Hey Darling! (Shikibe Mayu) \[Toa my beloved\]](https://osu.ppy.sh/beatmapsets/1525401#osu/3120956)
+  4. [Eagle - Hypersonik (Ascended) \[Aistre's Extra\]](https://osu.ppy.sh/beatmapsets/1834293#osu/3836349)
+  5. [Zektbach - The Sealer \~A Milia to Milia no Tami\~ (ScubDomino) \[Extra\]](https://osu.ppy.sh/beatmapsets/1414241#osu/2915013)
+  6. [-45 - Aci-L (Stick2Glue) \[tourney diff Tourney Diff TOURNEY DIFF\]](https://osu.ppy.sh/beatmapsets/1236026#osu/3839688)  
 - Hidden
-  1. [CustomiZ - COOLEST (Tari) \[Cool\]](https://osu.ppy.sh/beatmapsets/1001283#osu/2096019)
-  2. [sekai - p.h. (Petal) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1461554#osu/3002756)
-  3. [Nanamori-chu * Goraku-bu - Happy Time wa Owaranai (Cut Ver.) (-Keitaro) \[Expert\]](https://osu.ppy.sh/beatmapsets/1057015#osu/2743617)
+  1. [Falcom Sound Team jdk - Infinity Rage (jonathanlfj) \[Stage 4\]](https://osu.ppy.sh/beatmapsets/1616017#osu/3299353)
+  2. [raito - Blood Drain -Again- (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152554#osu/2405667)
+  3. [ak+q x Street - neo kosmo (arronchu1207) \[extra\]](https://osu.ppy.sh/beatmapsets/1465727#osu/3010336)
+  4. [yozuca\* - LOVING TRIP (Shikibe Mayu) \[running it down\]](https://osu.ppy.sh/beatmapsets/1372743#osu/2837879)
 - HardRock
-  1. [sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui (Kalibe) \[Descent\]](https://osu.ppy.sh/beatmapsets/926846#osu/1935864)
-  2. [xi - over the top (Kroytz) \[chaoz's extra\]](https://osu.ppy.sh/beatmapsets/479215#osu/1039801)
-  3. [himmeltengoku - Whisper of Rose (Tsukoyomi) \[Maximum\]](https://osu.ppy.sh/beatmapsets/173614#osu/419487)
+  1. [Various Artists - Irodori Phantasia (lushifer) \[Flowering Phantasia\]](https://osu.ppy.sh/beatmapsets/1703610#osu/3480920)
+  2. [yozuca\* - Ima o Wasurenai (frozz) \[Love Memory\]](https://osu.ppy.sh/beatmapsets/1706160#osu/3486227)
+  3. [YuNa - Torawarebito (PaRaDogi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1666863#osu/3403539)
+  4. [Noah - Heavenly caress (-Kemsyt) \[Days of Future Past\]](https://osu.ppy.sh/beatmapsets/1537692#osu/3144021)
 - DoubleTime
-  1. [Usada Pekora - Discommunication Alien (Yugu) \[pe...peko...\]](https://osu.ppy.sh/beatmapsets/1181343#osu/2463210)
-  2. [lasah - GHOST OF LORELEY (moph) \[wa's Insane\]](https://osu.ppy.sh/beatmapsets/486177#osu/1050849)
-  3. [zts - dreamenddischarger (EvilElvis) \[Love Letter\]](https://osu.ppy.sh/beatmapsets/339615#osu/758298)
-  4. [Hanatan - WAVE (Felter) \[UCUP Edit\]](https://osu.ppy.sh/beatmapsets/1362372#osu/3234231)  
-- FreeMod
-  1. [Rohi - LvC3 (VINXIS) \[Chaos\]](https://osu.ppy.sh/beatmapsets/1231655#osu/2560355)
-  2. [capsule - Teleportation (\_xyliac) \[Eternal\]](https://osu.ppy.sh/beatmapsets/1048608#osu/2191767)
-  3. [Ado - USSEEWA (Ryuusei Aika) \[a\_blue's Extra\]](https://osu.ppy.sh/beatmapsets/1322727#osu/2751787)
+  1. [Rin'ca - Kiseki Melody (pnky) \[KoldNoodl's Insane\]](https://osu.ppy.sh/beatmapsets/1754642#osu/3650418)
+  2. [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (Luscent) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1609956#osu/3287252)
+  3. [zts - worldenddominator (deetz) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/897884#osu/1985639)
+  4. [Wakana - Flag (Shurelia) \[Fuyu's Insane\]](https://osu.ppy.sh/beatmapsets/1822388#osu/3743688)
 - Tiebreaker
-  1. **[Camellia feat. Nanahira - Energy \* Drin-ko Fein-chan! (Camellia's "MONSTERISTIC" D. M. P. Remix) (RLC) \[C8H10N4O2\]](https://osu.ppy.sh/beatmapsets/883595#osu/1847043)**     
+  1. **[Denkishiki Karen Ongaku Shuudan - I pray (Icekalt) \[I pray until dying in the dark\]](https://osu.ppy.sh/beatmapsets/755676#osu/1590496)**  
 
 ### Quarterfinals
 
