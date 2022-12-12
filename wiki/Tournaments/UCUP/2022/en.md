@@ -16,15 +16,15 @@ The **Ulat Cup 2022** (***UCUP 2022***) was a double-elimination 1v1 osu! tourna
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2021-08-11/2021-08-29 |
-| Screening phase | 2021-08-30/2021-09-12 |
-| Qualifiers | 2021-09-13/2021-09-19 |
-| Round of 32 | 2021-09-20/2021-09-26 |
-| Round of 16 | 2021-09-27/2021-10-03 |
-| Quarterfinals | 2021-10-04/2021-10-10 |
-| Semifinals | 2021-10-11/2021-10-17 |
-| Finals (week 1) | 2021-10-18/2021-10-24 |
-| Finals (week 2) | 2021-10-25/2021-10-31 |
+| Registration phase | 2022-09-30/2022-10-16 |
+| Screening phase | 2022-10-16/2022-10-23 |
+| Qualifiers | 2022-10-24/2022-10-30 |
+| Round of 32 | 2022-10-31/2022-11-06 |
+| Round of 16 | 2022-11-07/2022-11-13 |
+| Quarterfinals | 2022-11-14/2022-11-20 |
+| Semifinals | 2022-11-21/2022-11-27 |
+| Finals (week 1) | 2022-11-28/2022-12-04 |
+| Finals (week 2) | 2022-12-05/2022-12-11 |
 
 ## Prizes
 
