@@ -48,7 +48,7 @@ UCUP 2022 was run by various osu! community members predominantly hailing from t
 | Commentator | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988) |
 | Referee | ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=PH }:: [-Pekora-](https://osu.ppy.sh/users/17959882), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418) |
 | Graphic designer | ::{ flag=ID }:: [sho](https://osu.ppy.sh/users/6625422) |
-| Spreadsheet manager | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302) |
+| Spreadsheet manager | ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
