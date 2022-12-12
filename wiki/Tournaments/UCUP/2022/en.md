@@ -53,11 +53,11 @@ UCUP 2022 was run by various osu! community members predominantly hailing from t
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1I47zulcuLSIZQapfI2baqjtsyPGw55AvrHCPivOBX0o/edit#gid=970057979)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1394317)
-- [Discord server](https://discord.gg/rbUySBxy6C)
-- [Challonge brackets](https://challonge.com/UCUP2021)
-- [Livestream channel](https://www.twitch.tv/ulatcuptournament)
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1liYU_m8PQDq1aPSKmXGBCkJruTuomCgb4yJsd1F9K-I/edit#gid=564989794)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1652872)
+- [Discord server](https://discord.gg/xdnRGDHKGV)
+- [Challonge brackets](https://challonge.com/UCUP2022)
+- [Livestream channel](https://www.twitch.tv/ulatournament)
 
 ## Participants
 
