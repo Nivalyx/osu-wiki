@@ -112,32 +112,31 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 2)
 
-**[Download the mappack here! (216 MB)](https://drive.google.com/u/0/uc?id=1lhDqmjCzXYO_nTCpWjwrHi2WRCoV1Xk0&export=download)**
+**[Download the mappack here! (176 MB)](https://drive.google.com/file/d/1ZvF-IjouuQd54VpTxBnEk1FDPk6fPzL-/view)**
 
 - NoMod
-  1. [BUTAOTOME - Mesen (SkyFlame) \[LOOKING\]](https://osu.ppy.sh/beatmapsets/1530517#osu/3130522)
-  2. [Ice - 02: Amber Wishes (knowledgeking) \[HAPPY FOREVER\]](https://osu.ppy.sh/beatmapsets/1537742#osu/3144118)
-  3. [Aitsuki Nakuru & Kabocha - Lilith (Celine) \[Vigor\]](https://osu.ppy.sh/beatmapsets/1261931#osu/3019857)
-  4. [Sober Bear - ODYSSEIA (Ishtiaq) \[Dactylic hexameter\]](https://osu.ppy.sh/beatmapsets/1499780#osu/3073509)
+  1. [ Sasaki Sayaka - Will of Adamant (Millie) \[Wings\]](https://osu.ppy.sh/beatmapsets/1889553#osu/3891759)
+  2. [Various Artists - Ms. VICTORIA (Game Size) (lushifer) \[#freeiloveuma\]](https://osu.ppy.sh/beatmapsets/1897432#osu/3910634)
+  3. [ Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT" (Lasse) \[Affection\]](https://osu.ppy.sh/beatmapsets/1431401#osu/2946497)
+  4. [Airots - Tougen Roman (Epsilon Remix) (GIDZ) \[Matha's Exultation\]](https://osu.ppy.sh/beatmapsets/1321446#osu/2757153)
   5. [Irreversible Mechanism - The Agony (LMT) \[Murder\]](https://osu.ppy.sh/beatmapsets/1569282#osu/3204596)
   6. [NIWASHI - Sapphire on Fire (DeviousPanda) \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1461145#osu/3002063)  
 - Hidden
   1. [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[Yusomi's Luminiferous\]](https://osu.ppy.sh/beatmapsets/902425#osu/2097288)
   2. [Laur - Metamorphose (verychill) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/1238413#osu/2639428)
   3. [sokoniraru - Lament Moment (HabiHolic) \[PaRaDogi's Ex\_Death\]](https://osu.ppy.sh/beatmapsets/1288090#osu/2687455)
+  4. [sokoniraru - Lament Moment (HabiHolic) \[PaRaDogi's Ex\_Death\]](https://osu.ppy.sh/beatmapsets/1288090#osu/2687455)  
 - HardRock
   1. [Dance Gavin Dance - Son of Robot (Hobbes2) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/1391800#osu/2873706)
   2. [Balloon - Ame to Petra (Axarious) \[Normal\]](https://osu.ppy.sh/beatmapsets/1351510#osu/2797986)
   3. [TOMOSUKE - Ergosphere (toybot) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1233027#osu/2563333)
+  4. [TOMOSUKE - Ergosphere (toybot) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1233027#osu/2563333)
 - DoubleTime
   1. [FROZEN QUALIA - M'aider (Hishiro Chizuru) \[Collab Blossom\]](https://osu.ppy.sh/beatmapsets/1296276#osu/2689515)
   2. [Rita - Winter Diamond (Kirylin) \[LMT's Insane\]](https://osu.ppy.sh/beatmapsets/1023611#osu/2226227)
   3. [Chata - Wan (Kalibe) \[Sorrow\]](https://osu.ppy.sh/beatmapsets/922995#osu/1927444)
   4. [ShinRa-Bansho - MY Heart Rate (UberFazz) \[JAZZ's Lunatic\]](https://osu.ppy.sh/beatmapsets/1237886#osu/2576252)
-- FreeMod
-  1. [Tsumiki - Phony (Ryuusei Aika) \[?????????\]](https://osu.ppy.sh/beatmapsets/1533832#osu/3136646)
-  2. [ZUN - Desire Drive (Halfslashed) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1276352#osu/2651838)
-  3. [ELFENSJoN - STYX (Lyruke) \[NOSTALGIC\]](https://osu.ppy.sh/beatmapsets/1554532#osu/3175993)
+  5. [ShinRa-Bansho - MY Heart Rate (UberFazz) \[JAZZ's Lunatic\]](https://osu.ppy.sh/beatmapsets/1237886#osu/2576252)
 - Tiebreaker
   1. **[Noah - Astral tale - Denebold (Deca) \[Woden\]](https://osu.ppy.sh/beatmapsets/1504323#osu/3081825)**  
 
