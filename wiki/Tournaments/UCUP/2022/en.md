@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (136 MB)](https://drive.google.com/u/0/uc?id=1sCmvlLMxPoiw7D7uEniHMMZcc-NyrF-L&export=download)**
+**[Download the mappack here! (111 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022qf.zip)**
 
 - NoMod
   1. [Kurosaki Maon - Setsuna no Kajitsu (SkyFlame) \[Utopia\]](https://osu.ppy.sh/beatmapsets/1580629#osu/3227490)
