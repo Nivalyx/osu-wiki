@@ -86,9 +86,9 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 | 19 | ::{ flag=PH }:: [MarvelWizardKH](https://osu.ppy.sh/users/5356586) | 5.58 |
 | 20 | ::{ flag=PH }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993) | 5.54 |
 | 21 | ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | 5.53 |
-| 22 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
-| 23 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
-| 24 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 22 | ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527) | 5.43 |
+| 23 | ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152) | 5.42 |
+| 24 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | 5.41 |
 | 25 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
 | 26 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
 | 27 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
