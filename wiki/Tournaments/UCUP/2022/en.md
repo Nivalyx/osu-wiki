@@ -152,15 +152,15 @@ This competition has come to an end and resulted in the following podium:
   5. [Zektbach - The Sealer \~A Milia to Milia no Tami\~ (ScubDomino) \[Extra\]](https://osu.ppy.sh/beatmapsets/1414241#osu/2915013)
   6. [-45 - Aci-L (Stick2Glue) \[tourney diff Tourney Diff TOURNEY DIFF\]](https://osu.ppy.sh/beatmapsets/1236026#osu/3839688)  
 - Hidden
-  1. [Yousei Teikoku - last moment (IsomirDiAngelo) \[smm's extra\]](https://osu.ppy.sh/beatmapsets/1172342#osu/2460502)
-  2. [SHK - Halloween Party (Hoto Cocoa) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1682134#osu/3436822)
-  3. [xi - Heavenly Blast (PayneTrain) \[CELESTIAL\]](https://osu.ppy.sh/beatmapsets/1478923#osu/3409211)
-  4. [Rita - Tonitrus (FraktureHawkens) \[Beyond The World\]](https://osu.ppy.sh/beatmapsets/926756#osu/1935726)  
+  1. [Falcom Sound Team jdk - Infinity Rage (jonathanlfj) \[Stage 4\]](https://osu.ppy.sh/beatmapsets/1616017#osu/3299353)
+  2. [raito - Blood Drain -Again- (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152554#osu/2405667)
+  3. [ak+q x Street - neo kosmo (arronchu1207) \[extra\]](https://osu.ppy.sh/beatmapsets/1465727#osu/3010336)
+  4. [yozuca\* - LOVING TRIP (Shikibe Mayu) \[running it down\]](https://osu.ppy.sh/beatmapsets/1372743#osu/2837879)
 - HardRock
-  1. [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching (CS4 Edit)\]](https://osu.ppy.sh/beatmapsets/1896496#osu/3908495)
-  2. [Aimiya Zero - breath of stella (fnayR) \[Stella (cs edit ver.)\]](https://osu.ppy.sh/beatmapsets/1860434#osu/3880143)
-  3. [solfa feat. Meu Koharu - Aishite Koishite -happy forever- (Shikibe Mayu) \[Happy Go Lucky!\]](https://osu.ppy.sh/beatmapsets/1677698#osu/3427667)
-  4. [Sakuzyo - Imprinting (eiri-) \[Dementation's Extra\]](https://osu.ppy.sh/beatmapsets/1090887#osu/2340914)
+  1. [Various Artists - Irodori Phantasia (lushifer) \[Flowering Phantasia\]](https://osu.ppy.sh/beatmapsets/1703610#osu/3480920)
+  2. [raito - Blood Drain -Again- (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152554#osu/2405667)
+  3. [ak+q x Street - neo kosmo (arronchu1207) \[extra\]](https://osu.ppy.sh/beatmapsets/1465727#osu/3010336)
+  4. [yozuca\* - LOVING TRIP (Shikibe Mayu) \[running it down\]](https://osu.ppy.sh/beatmapsets/1372743#osu/2837879)
 - DoubleTime
   1. [Ceui - Hoshi Ori Yume Mirai (Millie) \[Memories\]](https://osu.ppy.sh/beatmapsets/1889555#osu/3891762)
   2. [Daisuke Ishiwatari - Childish Killer (yaspo) \[Like a Rose\]](https://osu.ppy.sh/beatmapsets/1301402#osu/2699262)
