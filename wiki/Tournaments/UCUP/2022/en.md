@@ -90,13 +90,13 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 | 23 | ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152) | 5.42 |
 | 24 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | 5.41 |
 | 25 | ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863) | 5.35 |
-| 26 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
-| 27 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
-| 28 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
-| 29 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
-| 30 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
-| 31 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
-| 32 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 26 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 5.24 |
+| 27 | ::{ flag=ID }:: [-Ayame](https://osu.ppy.sh/users/7128826) | 5.23 |
+| 28 | ::{ flag=ID }:: [Hazui](https://osu.ppy.sh/users/9919208) | 5,19 |
+| 29 | ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) | 5.17 |
+| 30 | ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988) | 5.15 |
+| 31 | ::{ flag=ID }:: [gkyla](https://osu.ppy.sh/users/5638585) | 4.50 |
+| 32 | ::{ flag=PH }:: [Chooga](https://osu.ppy.sh/users/9477784) | 4.43 |
 
 ## Podium
 
