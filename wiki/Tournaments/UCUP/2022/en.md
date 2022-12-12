@@ -158,8 +158,8 @@ This competition has come to an end and resulted in the following podium:
   4. [yozuca\* - LOVING TRIP (Shikibe Mayu) \[running it down\]](https://osu.ppy.sh/beatmapsets/1372743#osu/2837879)
 - HardRock
   1. [Various Artists - Irodori Phantasia (lushifer) \[Flowering Phantasia\]](https://osu.ppy.sh/beatmapsets/1703610#osu/3480920)
-  2. [raito - Blood Drain -Again- (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152554#osu/2405667)
-  3. [ak+q x Street - neo kosmo (arronchu1207) \[extra\]](https://osu.ppy.sh/beatmapsets/1465727#osu/3010336)
+  2. [yozuca\* - Ima o Wasurenai (frozz) \[Love Memory\]](https://osu.ppy.sh/beatmapsets/1706160#osu/3486227)
+  3. [YuNa - Torawarebito (PaRaDogi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1666863#osu/3403539)
   4. [yozuca\* - LOVING TRIP (Shikibe Mayu) \[running it down\]](https://osu.ppy.sh/beatmapsets/1372743#osu/2837879)
 - DoubleTime
   1. [Ceui - Hoshi Ori Yume Mirai (Millie) \[Memories\]](https://osu.ppy.sh/beatmapsets/1889555#osu/3891762)
