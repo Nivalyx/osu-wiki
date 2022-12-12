@@ -81,7 +81,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 | 14 | ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578) | 6.74 |
 | 15 | ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667) | 6.44 |
 | 16 | ::{ flag=PH }:: [miggie](https://osu.ppy.sh/users/12028437) | 6.39 |
-| 17 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 17 | ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439) | 6.25 |
 | 18 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
 | 19 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
 | 20 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
