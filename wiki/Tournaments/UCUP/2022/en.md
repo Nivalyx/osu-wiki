@@ -10,7 +10,7 @@ tags:
 
 ![Ulat Cup 2022 logo](img/logo.jpg)
 
-The **Ulat Cup 2022** (***UCUP 2022***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548). The tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank. Despite yet another format change from its previous iterations, the tournament was formally regarded as the fifth official instalment of the Ulat Bulu Cup tournament series.
+The **Ulat Cup 2022** (***UCUP 2022***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548). The tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) within the #5,000 - #30,000 rank range. Despite yet another format change from its previous iterations, the tournament was formally regarded as the fifth official instalment of the Ulat Bulu Cup tournament series.
 
 ## Tournament schedule
 
