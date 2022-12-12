@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   1. [Sasaki Sayaka - Will of Adamant (Millie) \[Wings\]](https://osu.ppy.sh/beatmapsets/1889553#osu/3891759)
   2. [Various Artists - Ms. VICTORIA (Game Size) (lushifer) \[\#freeiloveuma\]](https://osu.ppy.sh/beatmapsets/1897432#osu/3910634)
-  3. [ Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT" (Lasse) \[Affection\]](https://osu.ppy.sh/beatmapsets/1431401#osu/2946497)
+  3. [Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT" (Lasse) \[Affection\]](https://osu.ppy.sh/beatmapsets/1431401#osu/2946497)
   4. [Airots - Tougen Roman (Epsilon Remix) (GIDZ) \[Matha's Exultation\]](https://osu.ppy.sh/beatmapsets/1321446#osu/2757153)
   5. [Yuni (CV: Kohara Konomi), Chieru (CV: Sakura Ayane), Chloe (CV: Tanezaki Atsumi) - Nakayoshi Sensation (Yorita Yoshino) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/1233855#osu/2596270)
   6. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[Amatha's Expert: Yoshino\]](https://osu.ppy.sh/beatmapsets/1404864#osu/2901399)  
@@ -146,11 +146,11 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [Denkishiki Karen Ongaku Shuudan - gemini (Star Stream) \[Extra\]](https://osu.ppy.sh/beatmapsets/182815#osu/438187)
-  2. [Various Artists - Ms. VICTORIA (Game Size) (lushifer) \[\#freeiloveuma\]](https://osu.ppy.sh/beatmapsets/1897432#osu/3910634)
-  3. [ Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT" (Lasse) \[Affection\]](https://osu.ppy.sh/beatmapsets/1431401#osu/2946497)
-  4. [Airots - Tougen Roman (Epsilon Remix) (GIDZ) \[Matha's Exultation\]](https://osu.ppy.sh/beatmapsets/1321446#osu/2757153)
-  5. [Yuni (CV: Kohara Konomi), Chieru (CV: Sakura Ayane), Chloe (CV: Tanezaki Atsumi) - Nakayoshi Sensation (Yorita Yoshino) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/1233855#osu/2596270)
-  6. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[Amatha's Expert: Yoshino\]](https://osu.ppy.sh/beatmapsets/1404864#osu/2901399)  
+  2. [Hazuki - Legend of Millennium (Goth Asuka) \[Zecent's Extra\]](https://osu.ppy.sh/beatmapsets/1195065#osu/2541686)
+  3. [Matsushita - Hey Darling! (Shikibe Mayu) \[Toa my beloved\]](https://osu.ppy.sh/beatmapsets/1525401#osu/3120956)
+  4. [Eagle - Hypersonik (Ascended) \[Aistre's Extra\]](https://osu.ppy.sh/beatmapsets/1834293#osu/3836349)
+  5. [Zektbach - The Sealer \~A Milia to Milia no Tami\~ (ScubDomino) \[Extra\]](https://osu.ppy.sh/beatmapsets/1414241#osu/2915013)
+  6. [-45 - Aci-L (Stick2Glue) \[tourney diff Tourney Diff TOURNEY DIFF\]](https://osu.ppy.sh/beatmapsets/1236026#osu/3839688)  
 - Hidden
   1. [Yousei Teikoku - last moment (IsomirDiAngelo) \[smm's extra\]](https://osu.ppy.sh/beatmapsets/1172342#osu/2460502)
   2. [SHK - Halloween Party (Hoto Cocoa) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1682134#osu/3436822)
