@@ -160,7 +160,7 @@ This competition has come to an end and resulted in the following podium:
   1. [Various Artists - Irodori Phantasia (lushifer) \[Flowering Phantasia\]](https://osu.ppy.sh/beatmapsets/1703610#osu/3480920)
   2. [yozuca\* - Ima o Wasurenai (frozz) \[Love Memory\]](https://osu.ppy.sh/beatmapsets/1706160#osu/3486227)
   3. [YuNa - Torawarebito (PaRaDogi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1666863#osu/3403539)
-  4. [yozuca\* - LOVING TRIP (Shikibe Mayu) \[running it down\]](https://osu.ppy.sh/beatmapsets/1372743#osu/2837879)
+  4. [Noah - Heavenly caress (-Kemsyt) \[Days of Future Past\]](https://osu.ppy.sh/beatmapsets/1537692#osu/3144021)
 - DoubleTime
   1. [Ceui - Hoshi Ori Yume Mirai (Millie) \[Memories\]](https://osu.ppy.sh/beatmapsets/1889555#osu/3891762)
   2. [Daisuke Ishiwatari - Childish Killer (yaspo) \[Like a Rose\]](https://osu.ppy.sh/beatmapsets/1301402#osu/2699262)
