@@ -61,42 +61,42 @@ UCUP 2022 was run by various osu! community members predominantly hailing from t
 
 ## Participants
 
-Listed below are the teams who managed to qualify into the Round of 32 (along with their respective seed number and average map rank combined from each individual Qualifier beatmaps) out of 54 registered teams in total.
+Listed below are the players who managed to qualify into the Round of 32 (along with their respective seed number and Qualifiers Z-Sum value) out of 73 registered teams in total.
 
-| Seed No. | Team Name | Player 1 (Captain) | Player 2 | Avg. Map Rank |
-| :-: | :-- | :-- | :-- | :-- |
-| 1 | Rushia | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=AU }:: [sakamata1](https://osu.ppy.sh/users/7562902) | 3.8 |
-| 2 | L9 Hamster | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | 3.9 |
-| 3 | CrezzMyMommy | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) | ::{ flag=PH }:: [Rammu](https://osu.ppy.sh/users/10652837) | 4.8 |
-| 4 | Surtr S3 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | 5.0 |
-| 5 | \|l\|l\|l\| | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=SG }:: [Tebi](https://osu.ppy.sh/users/5407620) | 6.0 |
-| 6 | :IofiPanic: | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) | ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637) | 8.3 |
-| 7 | Spacediver | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) | 9.1 |
-| 8 | :hinamizada: | ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) | ::{ flag=PE }:: [Arnold24x24](https://osu.ppy.sh/users/2291265) | 9.7 |
-| 9 | LewaToprak | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | ::{ flag=AT }:: [Farmist](https://osu.ppy.sh/users/11470408) | 10.3 |
-| 10 | oogey rrrratt | ::{ flag=ID }:: [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) | 11.7 |
-| 11 | Venception | ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) | ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593) | 11.8 |
-| 12 | i love tateyama | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) | ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914) | 11.9 |
-| 13 | having fun | ::{ flag=ID }:: [D E L O N](https://osu.ppy.sh/users/11983229) | ::{ flag=ID }:: [MrPotato](https://osu.ppy.sh/users/2787415) | 12.8 |
-| 14 | nama tim | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) | ::{ flag=SG }:: [GSBlank](https://osu.ppy.sh/users/2312106) | 14.8 |
-| 15 | momoteaStans | ::{ flag=ID }:: [Kirinagi](https://osu.ppy.sh/users/5937545) | ::{ flag=US }:: [NekomataOkayu](https://osu.ppy.sh/users/9474976) | 15.9 |
-| 16 | yo | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | ::{ flag=US }:: [xpliq](https://osu.ppy.sh/users/8699529) | 16.5 |
-| 17 | whatdoiputhere | ::{ flag=ID }:: [Zoneeox](https://osu.ppy.sh/users/6596134) | ::{ flag=ID }:: [Tazkiz](https://osu.ppy.sh/users/3738010) | 17.2 |
-| 18 | yoinkysploinky | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) | ::{ flag=MY }:: [Zygody](https://osu.ppy.sh/users/3677251) | 18.8 |
-| 19 | dmk | ::{ flag=ID }:: [DeZpair](https://osu.ppy.sh/users/7518843) | ::{ flag=ID }:: [Castlefrost](https://osu.ppy.sh/users/11736996) | 19.2 |
-| 20 | osu winx club | ::{ flag=ID }:: [fry](https://osu.ppy.sh/users/4917604) | ::{ flag=PH }:: [elki](https://osu.ppy.sh/users/8136525) | 19.9 |
-| 21 | skor buruk | ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176) | ::{ flag=PH }:: [Jariru Tabirizu](https://osu.ppy.sh/users/8218190) | 20.6 |
-| 22 | Miko Bloom | ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) | ::{ flag=GB }:: [TheUltimateBlah](https://osu.ppy.sh/users/12204079) | 24.3 |
-| 23 | taketake\_gif | ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405) | ::{ flag=ID }:: [Picko](https://osu.ppy.sh/users/10459494) | 24.9 |
-| 24 | Shiroyami | ::{ flag=ID }:: [LoidKun](https://osu.ppy.sh/users/6437601) | ::{ flag=ID }:: [Fazurey](https://osu.ppy.sh/users/6548973) | 25.0 |
-| 25 | :markus: | ::{ flag=ID }:: [RealViolence](https://osu.ppy.sh/users/5638585) | ::{ flag=ID }:: [121Brian121](https://osu.ppy.sh/users/6192975) | 25.9 |
-| 26 | idk any | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | ::{ flag=TH }:: [Deppyforce](https://osu.ppy.sh/users/5286213) | 26.0 |
-| 27 | Pegmatite | ::{ flag=ID }:: [Ceress](https://osu.ppy.sh/users/11062015) | ::{ flag=ID }:: [rzkadi](https://osu.ppy.sh/users/2057576) | 27.5 |
-| 28 | Le Skillcapped | ::{ flag=ID }:: [Shiiori](https://osu.ppy.sh/users/13799103) | ::{ flag=ID }:: [nolae](https://osu.ppy.sh/users/8688737) | 27.6 |
-| 29 | kotori | ::{ flag=ID }:: [Egao](https://osu.ppy.sh/users/12419257) | ::{ flag=ID }:: [Hazui](https://osu.ppy.sh/users/9919208) | 28.5 |
-| 30 | marcus fancam | ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579) | ::{ flag=KR }:: [Heilia](https://osu.ppy.sh/users/9823042) | 28.6 |
-| 31 | dead rats | ::{ flag=ID }:: [FishStar](https://osu.ppy.sh/users/12563284) | ::{ flag=ID }:: [LaksPlayz](https://osu.ppy.sh/users/9519657) | 30.3 |
-| 32 | Rokok Lisan | ::{ flag=ID }:: [hikimaruy](https://osu.ppy.sh/users/9510067) | ::{ flag=ID }:: [Cudi](https://osu.ppy.sh/users/9974314) | 30.5 |
+| Seed No. | Player | Z-Sum |
+| :-: | :-- | :-- |
+| 1 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 2 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 3 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 4 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 5 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 6 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 7 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 8 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 9 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 10 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 11 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 12 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 13 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 14 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 15 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 16 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 17 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 18 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 19 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 20 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 21 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 22 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 23 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 24 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 25 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 26 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 27 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 28 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 29 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 30 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 31 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
+| 32 | ::{ flag=ID }:: [Lifeline](https://) | 3.8 |
 
 ## Podium
 
