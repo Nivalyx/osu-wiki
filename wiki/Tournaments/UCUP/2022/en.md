@@ -142,34 +142,33 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 1)
 
-**[Download the mappack here! (126 MB)](https://drive.google.com/u/0/uc?id=1myZcitGg68YqK2MoHLb2xv7USoObZ5Mv&export=download)**
+**[Download the mappack here! (138 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022f.zip)**
 
 - NoMod
-  1. [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
-  2. [xi - Garyou Tensei (knowledgeking) \[Zephyr\]](https://osu.ppy.sh/beatmapsets/1504867#osu/3082675)
-  3. [Jeff Williams feat. Casey Lee Williams & Lamar Hall - Ignite (Sparhten) \[Neon's Extra\]](https://osu.ppy.sh/beatmapsets/1581335#osu/3229026)
-  4. [Zekk - Re\_Construct (Acylica) \[AncuL's Extra(#2)\]](https://osu.ppy.sh/beatmapsets/1318329#osu/2778366)
-  5. [Camellia as "Bang Riot" - Blastix Riotz (xidorn) \[the fifth\]](https://osu.ppy.sh/beatmapsets/1543367#osu/3154742)
-  6. [NIWASHI - Kemuri (Down) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1441911#osu/2966209)  
+  1. [ Sasaki Sayaka - Will of Adamant (Millie) \[Wings\]](https://osu.ppy.sh/beatmapsets/1889553#osu/3891759)
+  2. [Various Artists - Ms. VICTORIA (Game Size) (lushifer) \[\#freeiloveuma\]](https://osu.ppy.sh/beatmapsets/1897432#osu/3910634)
+  3. [ Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT" (Lasse) \[Affection\]](https://osu.ppy.sh/beatmapsets/1431401#osu/2946497)
+  4. [Airots - Tougen Roman (Epsilon Remix) (GIDZ) \[Matha's Exultation\]](https://osu.ppy.sh/beatmapsets/1321446#osu/2757153)
+  5. [Yuni (CV: Kohara Konomi), Chieru (CV: Sakura Ayane), Chloe (CV: Tanezaki Atsumi) - Nakayoshi Sensation (Yorita Yoshino) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/1233855#osu/2596270)
+  6. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[Amatha's Expert: Yoshino\]](https://osu.ppy.sh/beatmapsets/1404864#osu/2901399)  
 - Hidden
-  1. [Tsukuyomi - Konna Inochi ga Nakereba (ponbot) \[Farewell\]](https://osu.ppy.sh/beatmapsets/1277983#osu/2655079)
-  2. [Natsuiro Bikini no Prim - Nagisa no Koakuma Lovely\~Radio (yf\_bmp) \[Lovely Gravity\]](https://osu.ppy.sh/beatmapsets/1435820#osu/2954288)
-  3. [Nardis - Cosmo Memory (YokesPai) \[Forgotten\]](https://osu.ppy.sh/beatmapsets/992232#osu/2075064)
+  1. [Yousei Teikoku - last moment (IsomirDiAngelo) \[smm's extra\]](https://osu.ppy.sh/beatmapsets/1172342#osu/2460502)
+  2. [SHK - Halloween Party (Hoto Cocoa) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1682134#osu/3436822)
+  3. [xi - Heavenly Blast (PayneTrain) \[CELESTIAL\]](https://osu.ppy.sh/beatmapsets/1478923#osu/3409211)
+  4. [Rita - Tonitrus (FraktureHawkens) \[Beyond The World\]](https://osu.ppy.sh/beatmapsets/926756#osu/1935726)  
 - HardRock
-  1. [Katakiri Rekka - Answer (tatemae) \[Differance\]](https://osu.ppy.sh/beatmapsets/1231409#osu/2559900)
-  2. [Kanaria - ENVY BABY (Ryuusei Aika) \[Unready\]](https://osu.ppy.sh/beatmapsets/1575643#osu/3216902)
-  3. [Street vs. Sin:cK - Adamantite (Acylica) \[LCFC's Extra\]](https://osu.ppy.sh/beatmapsets/1265628#osu/2630253)
+  1. [Falcom Sound Team jdk - Seductive Shudder (jonathanlfj) \[Bewitching (CS4 Edit)\]](https://osu.ppy.sh/beatmapsets/1896496#osu/3908495)
+  2. [Aimiya Zero - breath of stella (fnayR) \[Stella (cs edit ver.)\]](https://osu.ppy.sh/beatmapsets/1860434#osu/3880143)
+  3. [solfa feat. Meu Koharu - Aishite Koishite -happy forever- (Shikibe Mayu) \[Happy Go Lucky!\]](https://osu.ppy.sh/beatmapsets/1677698#osu/3427667)
+  4. [Sakuzyo - Imprinting (eiri-) \[Dementation's Extra\]](https://osu.ppy.sh/beatmapsets/1090887#osu/2340914)
 - DoubleTime
-  1. [Himeringo - Yonjuunana (Gottagof4st) \[Northern Star\]](https://osu.ppy.sh/beatmapsets/762282#osu/1602763)
-  2. [07th Expansion - Final Answer (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/26226#osu/88633)
-  3. [Venetian Snares - Shaky Sometimes (fergas) \[Starstorm (AR8.4)\]](https://osu.ppy.sh/beatmapsets/446493#osu/3084550)
-  4. [Ruler (CV: Yoko Hikasa), Swim Swim (CV: Inori Minase) - Betrayal (VINXIS) \[Extra: Adoration\]](https://osu.ppy.sh/beatmapsets/555864#osu/1176384)
-- FreeMod
-  1. [-45 - Midorigo Queen Bee (Frakturehawkens) \[EijiKuinbii\]](https://osu.ppy.sh/beatmapsets/1126144#osu/2352989)
-  2. [Kero Kero Bonito - Flamingo (WTN3 Remix) (Cubby)) \[ar8\]](https://osu.ppy.sh/beatmapsets/1271938#osu/2662957)
-  3. [The Ghost Of 3.13 - Forgotten (Blue Dragon) \[grumd\]](https://osu.ppy.sh/beatmapsets/55560#osu/169841)
+  1. [Ceui - Hoshi Ori Yume Mirai (Millie) \[Memories\]](https://osu.ppy.sh/beatmapsets/1889555#osu/3891762)
+  2. [Daisuke Ishiwatari - Childish Killer (yaspo) \[Like a Rose\]](https://osu.ppy.sh/beatmapsets/1301402#osu/2699262)
+  3. [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
+  4. [zts - dreamenddischarger (Luscent) \[resurrection\]](https://osu.ppy.sh/beatmapsets/1414566#osu/2915636)
+  5. [Mitsukasa Ayase (CV: Sawasawa Sawa) - PERFECT GIRL (DeppyForce) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1358125#osu/2890071)
 - Tiebreaker
-  1. **[Fuki - Sacred Bones Riot (Foxy Grandpa) \[Scars\]](https://osu.ppy.sh/beatmapsets/1221414#osu/2540771)**   
+  1. **[Ito Kanako - Sky of Twilight (Millie) \[Dusk\]](https://osu.ppy.sh/beatmapsets/1897490#osu/3910774)**  
 
 ### Semifinals
 
