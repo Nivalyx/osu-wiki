@@ -119,8 +119,8 @@ This competition has come to an end and resulted in the following podium:
   2. [Various Artists - Ms. VICTORIA (Game Size) (lushifer) \[#freeiloveuma\]](https://osu.ppy.sh/beatmapsets/1897432#osu/3910634)
   3. [ Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT" (Lasse) \[Affection\]](https://osu.ppy.sh/beatmapsets/1431401#osu/2946497)
   4. [Airots - Tougen Roman (Epsilon Remix) (GIDZ) \[Matha's Exultation\]](https://osu.ppy.sh/beatmapsets/1321446#osu/2757153)
-  5. [Irreversible Mechanism - The Agony (LMT) \[Murder\]](https://osu.ppy.sh/beatmapsets/1569282#osu/3204596)
-  6. [NIWASHI - Sapphire on Fire (DeviousPanda) \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1461145#osu/3002063)  
+  5. [Yuni (CV: Kohara Konomi), Chieru (CV: Sakura Ayane), Chloe (CV: Tanezaki Atsumi) - Nakayoshi Sensation (Yorita Yoshino) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/1233855#osu/2596270)
+  6. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[Amatha's Expert: Yoshino\]](https://osu.ppy.sh/beatmapsets/1404864#osu/2901399)  
 - Hidden
   1. [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[Yusomi's Luminiferous\]](https://osu.ppy.sh/beatmapsets/902425#osu/2097288)
   2. [Laur - Metamorphose (verychill) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/1238413#osu/2639428)
