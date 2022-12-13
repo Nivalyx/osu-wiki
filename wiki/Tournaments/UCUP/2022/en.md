@@ -434,5 +434,17 @@ Saturday, 5 November 2022:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[malvon](https://osu.ppy.sh/users/11113661)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Hazui](https://osu.ppy.sh/users/9919208) | [#1](https://osu.ppy.sh/community/matches/104874530) |
 | Upper | [NaFish](https://osu.ppy.sh/users/9974314) ::{ flag=ID }:: | 4 | **5** | ::{ flag=SG }:: **[uniqly](https://osu.ppy.sh/users/8876527)** | [#1](https://osu.ppy.sh/community/matches/104873289) |
+| Upper | **[Estella fanboy](https://osu.ppy.sh/users/19052463)** ::{ flag=TH }:: | **5** | 1 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | [#1](https://osu.ppy.sh/community/matches/104874668) |
+| Upper | **[caetrn](https://osu.ppy.sh/users/18425276)** ::{ flag=PH }:: | **5** | 2 | ::{ flag=MY }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993) | [#1](https://osu.ppy.sh/community/matches/104848226) |
+
+Sunday, 6 November 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[bluezenithgames](https://osu.ppy.sh/users/12681578)** ::{ flag=PH }:: | **5** | 3 | ::{ flag=PH }:: [MarvelWizardKH](https://osu.ppy.sh/users/5356586) | [#1](https://osu.ppy.sh/community/matches/104899284) |
+| Upper | **[xidorn](https://osu.ppy.sh/users/7904667)** ::{ flag=PH }:: | **5** | 3 | ::{ flag=MY }:: [Amatsuka Uto](https://osu.ppy.sh/users/9364594) | [#1](https://osu.ppy.sh/community/matches/104898329) |
+| Upper | [Seox](https://osu.ppy.sh/users/3793938) ::{ flag=ID }:: | 1 | **5** | ::{ flag=SG }:: **[JokThree](https://osu.ppy.sh/users/7713152)** | [#1](https://osu.ppy.sh/community/matches/104899939) |
+| Upper | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988) | [#1](https://osu.ppy.sh/community/matches/104901043) |
+| Upper | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **5** | 3 | ::{ flag=ID }:: [-Ayame](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/104901104) |
 
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
