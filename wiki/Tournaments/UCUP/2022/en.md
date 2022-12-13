@@ -449,3 +449,44 @@ Sunday, 6 November 2022:
 | Upper | **[Moroha29](https://osu.ppy.sh/users/10137131)** ::{ flag=SG }:: | **5** | 0 | ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) | *win by default* |
 | Upper | [Miggie](https://osu.ppy.sh/users/12028437) ::{ flag=PH }:: | 0 | **5** | ::{ flag=ID }:: **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** | *win by default* |
 | Upper | **[-TwiHD](https://osu.ppy.sh/users/5470299)** ::{ flag=SG }:: | **5** | 0 | ::{ flag=ID }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | *win by default* |
+
+## Ruleset
+
+### General rules
+
+1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
+2. All matches will be played over a single day in an undisclosed location following the Single Elimination system.
+   - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the Technical Meeting.
+3. All matches will be played using the setup provided by the Tournament Management on the spot.
+   - Players are allowed to bring in certain equipments (e.g. keyboard and graphics tablet) and their own device settings should they wish to.
+4. With the exception of the Grand Final tiebreaker, the maps and mappools for the tournament will be announced by the Tournament Management in advance before the event takes place.
+5. Match schedules will be predetermined by the Tournament Management.
+6. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
+7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+8. If a player disconnects, the referee will note the score the player had achieved at the end of the beatmap directly from their PC and adjust the outcome of the pick accordingly.
+9. Lag is not a valid reason to nullify a beatmap.
+10. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
+11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
+    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the Tournament Management.
+    - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
+
+### Tournament registration
+
+As the tournament was an invitational, there were no open registrations held for the event. However, as always, test players, referees, and mappool selectors may not participate as players in this tournament.
+
+### Match instructions
+
+1. Each player must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
+   - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
+   - The loser of the `!roll` gets the opposite by default.
+   - This rule does not apply in the Qualifier lobbies.
+2. Each player has to ban **one beatmap** (on the Round of 32 and the Round of 16) or **two beatmaps** (from the Quarterfinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+   - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
+   - Banning does not apply in the Qualifier lobbies.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking to warm up before the match are expected to do so by their own before the match commences.
+4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
+   - Playing the tiebreaker map with a mod is *not* mandatory.
+5. Players who can compete in the next round are determined by:
+   - In the Quarterfinals and the Semifinals, each player needs to win 5 points in order to win a match. (Best-of-9)
+   - In the 3rd Place Match and the Grand Final, each player needs to win 6 points in order to win a match. (Best-of-11)
+6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
