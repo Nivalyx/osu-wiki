@@ -446,5 +446,6 @@ Sunday, 6 November 2022:
 | Upper | [Seox](https://osu.ppy.sh/users/3793938) ::{ flag=ID }:: | 1 | **5** | ::{ flag=SG }:: **[JokThree](https://osu.ppy.sh/users/7713152)** | [#1](https://osu.ppy.sh/community/matches/104899939) |
 | Upper | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988) | [#1](https://osu.ppy.sh/community/matches/104901043) |
 | Upper | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **5** | 3 | ::{ flag=ID }:: [-Ayame](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/104901104) |
-
-| Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
+| Upper | **[Moroha29](https://osu.ppy.sh/users/10137131)** ::{ flag=SG }:: | **5** | 0 | ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) | *win by default* |
+| Upper | [Miggie](https://osu.ppy.sh/users/12028437) ::{ flag=PH }:: | 0 | **5** | ::{ flag=ID }:: **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** | *win by default* |
+| Upper | **[-TwiHD](https://osu.ppy.sh/users/5470299)** ::{ flag=SG }:: | **5** | 0 | ::{ flag=ID }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | *win by default* |
