@@ -424,5 +424,8 @@ Friday, 4 November 2022:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[iraozm](https://osu.ppy.sh/users/12443104)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/104848905) |
+| Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **5** | 0 | ::{ flag=PH }:: [Chooga](https://osu.ppy.sh/users/9477784) | [#1](https://osu.ppy.sh/community/matches/104850024) |
+| Upper | **[Anderwear](https://osu.ppy.sh/users/14429830)** ::{ flag=SG }:: | **5** | 4 | ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863) | [#1](https://osu.ppy.sh/community/matches/104848226) |
+| Upper | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [gkyla](https://osu.ppy.sh/users/5638585) | *win by default* |
 
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
