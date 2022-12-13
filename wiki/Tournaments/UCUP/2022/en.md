@@ -395,4 +395,14 @@ Friday, 11 November 2022:
 | Lower | [gkyla](https://osu.ppy.sh/users/5638585) ::{ flag=ID }:: | 4 | **6** | ::{ flag=MY }:: **[Amatsuka Uto](https://osu.ppy.sh/users/9364594)** | [#1](https://osu.ppy.sh/community/matches/104988029) |
 | Lower | **[Hazui](https://osu.ppy.sh/users/9919208)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | *win by default* |
 
+Friday, 12 November 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **6** | 1 | ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439) | [#1](https://osu.ppy.sh/community/matches/105015077) |
+| Lower | [Caviar-](https://osu.ppy.sh/users/10474988) ::{ flag=ID }:: | 1 | **6** | ::{ flag=PH }:: **[MarvelWizardKH](https://osu.ppy.sh/users/5356586)** | [#1](https://osu.ppy.sh/community/matches/105013739) |
+| Lower | [Chooga](https://osu.ppy.sh/users/9477784) ::{ flag=PH }:: | 0 | **6** | ::{ flag=PH }:: **[Miggie](https://osu.ppy.sh/users/12028437)** | [#1](https://osu.ppy.sh/community/matches/105013687) |
+| Lower | [Grandidierite](https://osu.ppy.sh/users/11976077) ::{ flag=ID }:: | 1 | **6** | ::{ flag=PH }:: **[Hinatsuru Ai](https://osu.ppy.sh/users/10442993)** | [#1](https://osu.ppy.sh/community/matches/105012500) |
+| Lower | **[Azasapag](https://osu.ppy.sh/users/18347666)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) | [#1](https://osu.ppy.sh/community/matches/105012605) |
+
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
