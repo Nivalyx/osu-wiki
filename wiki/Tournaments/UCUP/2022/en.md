@@ -279,16 +279,16 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (110 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022qualis.zip)**
 
 - NoMod
-  1. [yuikonnu - caramel heaven (knowledgeking) \[NashiKari's Extreme\]](https://osu.ppy.sh/beatmapsets/1101604#osu/2314157)
-  2. [Chroma - Sudden Visitor (Fisky) \[nerf (tourney)\]](https://osu.ppy.sh/beatmapsets/1251674#osu/2819791)
-  3. [Kaf - Montage (Sparhten) \[Neon's Extra\]](https://osu.ppy.sh/beatmapsets/1344469#osu/2843299)
-  4. [factal - Flux (Sharu) \[liquid\]](https://osu.ppy.sh/beatmapsets/1190470#osu/2480417)  
+  1. [Duca - Answer (Zekk) \[Mayu's Extra\]](https://osu.ppy.sh/beatmapsets/1768412#osu/3620098)
+  2. [Nekomata Master+ - encounter (Realazy) \[Kotori's Extreme\]](https://osu.ppy.sh/beatmapsets/815758#osu/1710847)
+  3. [nao - Towa naru Kizuna to Omoi no Kiseki (PinkHeart) \[yf's Insane\]](https://osu.ppy.sh/beatmapsets/699819#osu/1558338)
+  4. [Masayoshi Iimori - Non Stop Rock (Fursum) \[Furtonix\]](https://osu.ppy.sh/beatmapsets/1719626#osu/3514299)  
 - Hidden
-  1. [556t - moon (revurii) \[end\]](https://osu.ppy.sh/beatmapsets/1141522#osu/3114426)
-  2. [GRANRODEO - Can Do (TV Size) (Monstrata) \[Extra: Kuroko\]](https://osu.ppy.sh/beatmapsets/493273#osu/1050582)
+  1. [Karen, Koharu Meu, Harukawa Akari - Jounetsu Utopia (Amasugi) \[Falling in Love\]](https://osu.ppy.sh/beatmapsets/1733395#osu/3542989)
+  2. [yuki - Itsuka no Hakuchuumu (Hanakumo Rin) \[Insane\]](https://osu.ppy.sh/beatmapsets/1767260#osu/3626756)
 - HardRock
-  1. [toby fox - Bergentrueckung/ASGORE (Kaitjuh) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/908087#osu/2139172)
-  2. [wa. remixed celas - Suishou-Sekai \~Fracture\~ (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/28984#osu/96358)
+  1. [KOTOKO - Art as <3 (Shikibe Mayu) \[Amateurre's Expert\]](https://osu.ppy.sh/beatmapsets/1399810#osu/2938726)
+  2. [solfa feat. Shimotsuki Haruka - leap in your mind (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/818672#osu/1718542)
 - DoubleTime
-  1. [chelly - Calc. (CoLouRed GlaZeE) \[Delis' Insane '17\]](https://osu.ppy.sh/beatmapsets/1430387#osu/2944586)
-  2. [zts - resurrectedreplayer (-Light-) \[Magic simply cannot exist!\]](https://osu.ppy.sh/beatmapsets/1047159#osu/2188969)
+  1. [Duca - Shiawase no Otoshimono (Kencho) \[sahuang's Insane\]](https://osu.ppy.sh/beatmapsets/559622#osu/1224936)
+  2. [Pedro Silva - World's End Valentine (Ixcors) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1497252#osu/3069014)
