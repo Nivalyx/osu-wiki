@@ -268,11 +268,11 @@ This competition has come to an end and resulted in the following podium:
   2. [25-ji, Nightcord de. - Bitter Choco Decoration (Mononymous) \[Picky Habits\]](https://osu.ppy.sh/beatmapsets/1538879#osu/3146245)
   3. [Utada Hikaru & Skrillex - Face My Fears (Japanese Version) (Lulu-) \[Courage\]](https://osu.ppy.sh/beatmapsets/891609#osu/1863931)
 - DoubleTime
-  1. [Miyuna - ...Sugu Kite ne (Kuse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1236940#osu/2571083)
-  2. [Silver Forest - Todokanai Eien no Kyori (ConsumerOfBean) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1280488#osu/2704351)
-  3. [zts - lastendconductor (Yohanes) \[Intricate\]](https://osu.ppy.sh/beatmapsets/685558#osu/1451093)
+  1. [NANA - Mirai no Kaze ga Fuku (tomatas95) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/1769792#osu/3771158)
+  2. [dj TAKA feat. AiMEE - refrain (Firika) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1440543#osu/2963825)
+  3. [Rita - Suisouka (Fushimi Rio) \[Blossom\]](https://osu.ppy.sh/beatmapsets/656542#osu/1390955)
 - Tiebreaker
-  1. **[Taishi feat. Rita - Into the cosmos (-Tochi) \[Collab of the Cosmos\]](https://osu.ppy.sh/beatmapsets/919412#osu/1919688)**
+  1. **[Nekomata Master feat. Misawa Aki - chrono diver -fragment- (Sarawatlism) \[Chronological\]](https://osu.ppy.sh/beatmapsets/1656851#osu/3381810)**
 
 ### Qualifiers
 
