@@ -395,7 +395,7 @@ Friday, 11 November 2022:
 | Lower | [gkyla](https://osu.ppy.sh/users/5638585) ::{ flag=ID }:: | 4 | **6** | ::{ flag=MY }:: **[Amatsuka Uto](https://osu.ppy.sh/users/9364594)** | [#1](https://osu.ppy.sh/community/matches/104988029) |
 | Lower | **[Hazui](https://osu.ppy.sh/users/9919208)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | *win by default* |
 
-Friday, 12 November 2022:
+Saturday, 12 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -407,5 +407,11 @@ Friday, 12 November 2022:
 | Lower | [Grandidierite](https://osu.ppy.sh/users/11976077) ::{ flag=ID }:: | 1 | **6** | ::{ flag=PH }:: **[Hinatsuru Ai](https://osu.ppy.sh/users/10442993)** | [#1](https://osu.ppy.sh/community/matches/105012500) |
 | Upper | [Estella fanboy](https://osu.ppy.sh/users/19052463) ::{ flag=TH }:: | 5 | **6** | ::{ flag=SG }:: **[JokThree](https://osu.ppy.sh/users/7713152)** | [#1](https://osu.ppy.sh/community/matches/105010897) |
 | Upper | **[Moroha29](https://osu.ppy.sh/users/9182389)** ::{ flag=SG }:: | **6** | 0 | ::{ flag=PH }:: [caetrn](https://osu.ppy.sh/users/18425276) | *win by default* |
+| Lower | **[-Ayame](https://osu.ppy.sh/users/7128826)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [NaFish](https://osu.ppy.sh/users/9974314) | *win by default* |
+
+Sunday, 13 November 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
