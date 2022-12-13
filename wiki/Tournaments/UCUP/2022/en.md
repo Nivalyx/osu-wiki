@@ -367,5 +367,10 @@ Saturday, 19 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [xidorn](https://osu.ppy.sh/users/7904667) ::{ flag=PH }:: | 5 | **6** | ::{ flag=ID }:: **[Hazui](https://osu.ppy.sh/users/9919208)** | [#1](https://osu.ppy.sh/community/matches/105151234) |
+| Lower | **[Anderwear](https://osu.ppy.sh/users/14429830)** ::{ flag=SG }:: | **6** | 2 | ::{ flag=PH }:: [MarvelWizardKH](https://osu.ppy.sh/users/5356586) | [#1](https://osu.ppy.sh/community/matches/105151571) |
+| Lower | [caetrn](https://osu.ppy.sh/users/9182389) ::{ flag=PH }:: | 3 | **6** | ::{ flag=ID }:: **[Azasapag](https://osu.ppy.sh/users/18347666)** | [#1](https://osu.ppy.sh/community/matches/105149108) |
+| Lower | **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [-Ayame](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/105154281) |
+| Lower | [Miggie](https://osu.ppy.sh/users/12028437) ::{ flag=PH }:: | 2 | **6** | ::{ flag=PH }:: **[bluezenithgames](https://osu.ppy.sh/users/12681578)** | [#1](https://osu.ppy.sh/community/matches/105153029) |
 
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
