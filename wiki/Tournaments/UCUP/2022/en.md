@@ -382,5 +382,6 @@ Sunday, 20 November 2022:
 | Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **6** | 2 | ::{ flag=MY }:: [iraozm](https://osu.ppy.sh/users/12443104) | [#1](https://osu.ppy.sh/community/matches/105179796) |
 | Lower | [Anderwear](https://osu.ppy.sh/users/14429830) ::{ flag=SG }:: | 3 | **6** | ::{ flag=ID }:: **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** | [#1](https://osu.ppy.sh/community/matches/105180095) |
 | Upper | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **6** | 1 | ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877) | [#1](https://osu.ppy.sh/community/matches/105180004) |
+| Lower | [malvon](https://osu.ppy.sh/users/11113661) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[Azasapag](https://osu.ppy.sh/users/18347666)** | [#1](https://osu.ppy.sh/community/matches/105175127) |
 
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
