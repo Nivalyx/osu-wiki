@@ -230,25 +230,24 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [Marie - Clover Day's (-Kirigiri) \[Memory\]](https://osu.ppy.sh/beatmapsets/1505255#osu/3083355)
-  2. [Mitsukiyo - Theme 91 (Millie) \[freeuma\]](https://osu.ppy.sh/beatmapsets/1884138#osu/3879314)
-  3. [KyoKa - Ouran Romancia (Seolv) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/1530166#osu/3129871)
-  4. [onoken feat. Yoko Natsukawa - Sakimori Souka (Sunazuka Akira) \[Extra\]](https://osu.ppy.sh/beatmapsets/1559358#osu/3185234)
-  5. [Shade - Ontology (LMT) \[Zelq's Extra\]](https://osu.ppy.sh/beatmapsets/1050313#osu/2207682)
-  6. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (anna apple) \[Another\]](https://osu.ppy.sh/beatmapsets/1271996#osu/3088664)  
+  2. [Ice - 02: Amber Wishes (FrenZ396) \[Shizuku's Extra\]](https://osu.ppy.sh/beatmapsets/801704#osu/1714161)
+  3. [Matsushita - raspberry cube (Primonix) \[Sweet and sour!\]](https://osu.ppy.sh/beatmapsets/1492234#osu/3058850)
+  4. [Pastel\*Palettes - Harumodoki (Asterisk DnB Remix) \[Rakakun- Edit\] (-Mikan) \[Frakturehawkens' Extra\]](https://osu.ppy.sh/beatmapsets/1559358#osu/3185234)
+  5. [monet - Shukufuku Sareta Machi (seros) \[Furenzoku Sonzai\]](https://osu.ppy.sh/beatmapsets/1674128#osu/3419840) 
 - Hidden
-  1. [Hitachi Mako (CV: Kotorii Yuuka) - Mako no Nichijou (papapa123) \[buhei no Nichijou\]](https://osu.ppy.sh/beatmapsets/859338#osu/2295594)
-  2. [Sakamoto Shoichiro - Eye of Aeon (niii\_san) \[Expert\]](https://osu.ppy.sh/beatmapsets/1543327#osu/3154664)
-  3. [aran - Gate One (Orange\_) \[N/A's Extra\]](https://osu.ppy.sh/beatmapsets/1461230#osu/3015859)
+  1. [Ito Kanako - Koko ni Iru kara (Garden) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1357763#osu/2809862) 
+  2. [KOTOKO - Wing my Way (Nekomiya Nono) \[v2b\]](https://osu.ppy.sh/beatmapsets/12035#osu/46827)
+  3. [DJ Genki vs. Gram - Einherjar Joker (IntegerTempest) \[09's Expert\]](https://osu.ppy.sh/beatmapsets/1334152#osu/3049607)
 - HardRock
-  1. [i.o - Aoiro Step (dkblaze) \[gazimal's Expert\]](https://osu.ppy.sh/beatmapsets/1733209#osu/3579969)
-  2. [Denkishiki Karen Ongaku Shuudan - Gareki no Yume (PinkHeart) \[imouto's Insane\]](https://osu.ppy.sh/beatmapsets/462267#osu/1277594)
-  3. [Tsumugi Wenders (CV: Iwai Emiri) - Golden Hours (Garden) \[Special\]](https://osu.ppy.sh/beatmapsets/1378712#osu/2848888)
+  1. [Namihira Ayuko - Kimi e no Kaerimichi (Kuro Fuyusaki) \[Promenade\]](https://osu.ppy.sh/beatmapsets/1681302#osu/3434730)
+  2. [Rita - dorchadas (SMOKELIND) \[lu^3's Insane\]](https://osu.ppy.sh/beatmapsets/1673436#osu/3418608)
+  3. [Honda Mio (CV: Hara Sayuri) - Step! (Sylvarus) \[Need Tomboy\]](https://osu.ppy.sh/beatmapsets/1118717#osu/2336659)
 - DoubleTime
-  1. [Suzuki Konomi - ALKATALE (Millie) \[Endless Summer (edit ver.)\]](https://osu.ppy.sh/beatmapsets/1882915#osu/3876681)
-  2. [felys feat. Natsukawa Yoko - Celsus (LONG VERSION) (Elcheer) \[Insane\]](https://osu.ppy.sh/beatmapsets/1604680#osu/3276823)
-  3. [yuki - Clammbon (pnky) \[Insane\]](https://osu.ppy.sh/beatmapsets/1737221#osu/3588814)
+  1. [Miyuna - ...Sugu Kite ne (Kuse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1236940#osu/2571083)
+  2. [Silver Forest - Todokanai Eien no Kyori (ConsumerOfBean) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1280488#osu/2704351)
+  3. [zts - lastendconductor (Yohanes) \[Intricate\]](https://osu.ppy.sh/beatmapsets/685558#osu/1451093)
 - Tiebreaker
-  1. **[Ayane - Nageki no Mori (Luscent) \[Elviscent's Matsuri\]](https://osu.ppy.sh/beatmapsets/1108479#osu/2316652)**
+  1. **[Taishi feat. Rita - Into the cosmos (-Tochi) \[Collab of the Cosmos\]](https://osu.ppy.sh/beatmapsets/919412#osu/1919688)**
 
 ### Round of 32
 
