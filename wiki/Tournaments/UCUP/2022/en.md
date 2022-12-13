@@ -312,9 +312,18 @@ Monday, 12 December 2022, Grand Final:
 
 ### Finals (week 1)
 
-Thursday. 8 December 2022:
+Saturday. 3 December 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [-TwiHD](https://osu.ppy.sh/users/5470299) ::{ flag=ID }:: | 6 | **7** | ::{ flag=PH }:: **[Yukixo](https://osu.ppy.sh/users/17847877)** | [#1](https://osu.ppy.sh/community/matches/105419682) |
+| Lower | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **7** | 0 | ::{ flag=SG }:: [Moroha29](https://osu.ppy.sh/users/9182389) | *win by default* |
+
+Sunday, 4 December 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Yukixo](https://osu.ppy.sh/users/17847877) ::{ flag=PH }:: | 3 | **7** | ::{ flag=MY }:: **[LouisZPro](https://osu.ppy.sh/users/6231292)** | [#1](https://osu.ppy.sh/community/matches/105451523) |
+| Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **7** | 2 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/105449220) |
 
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
