@@ -347,5 +347,10 @@ Sunday. 27 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Moroha29](https://osu.ppy.sh/users/9182389)** ::{ flag=SG }:: | **7** | 3 | ::{ flag=PH }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993) | [#1](https://osu.ppy.sh/community/matches/105316803) |
+| Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **7** | 2 | ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299) | [#1](https://osu.ppy.sh/community/matches/105313028) |
+| Lower | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **7** | 3 | ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439) | [#1](https://osu.ppy.sh/community/matches/105313354) |
+
+### Quarterfinals
 
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
