@@ -454,14 +454,14 @@ Sunday, 6 November 2022:
 
 ### General rules
 
+
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
-2. All matches will be played over a single day in an undisclosed location following the Single Elimination system.
-   - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the Technical Meeting.
-3. All matches will be played using the setup provided by the Tournament Management on the spot.
-   - Players are allowed to bring in certain equipments (e.g. keyboard and graphics tablet) and their own device settings should they wish to.
-4. With the exception of the Grand Final tiebreaker, the maps and mappools for the tournament will be announced by the Tournament Management in advance before the event takes place.
-5. Match schedules will be predetermined by the Tournament Management.
-6. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
+2. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
+   - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
+3. Match schedules will be predetermined by the Tournament Management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
+4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
+5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
+6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, the referee will note the score the player had achieved at the end of the beatmap directly from their PC and adjust the outcome of the pick accordingly.
 9. Lag is not a valid reason to nullify a beatmap.
