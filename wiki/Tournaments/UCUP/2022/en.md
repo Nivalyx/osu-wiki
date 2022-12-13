@@ -276,7 +276,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (66 MB)](https://drive.google.com/u/0/uc?id=1FO_GdmdpZ0BBqoYAyuqSUS8B3o5RDB-q&export=download)**
+**[Download the mappack here! (110 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022qualis.zip)**
 
 - NoMod
   1. [yuikonnu - caramel heaven (knowledgeking) \[NashiKari's Extreme\]](https://osu.ppy.sh/beatmapsets/1101604#osu/2314157)
