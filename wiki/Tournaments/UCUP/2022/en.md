@@ -260,13 +260,13 @@ This competition has come to an end and resulted in the following podium:
   4. [Frums - Credits (s0m3guy) \[-jordan-'s Another.\]](https://osu.ppy.sh/beatmapsets/1372002#osu/3106850)
   5. [Laur - Viyella's Tears (Avaricious) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078644#osu/2256943)
 - Hidden
-  1. [Ito Kanako - Koko ni Iru kara (Garden) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1357763#osu/2809862) 
-  2. [KOTOKO - Wing my Way (Nekomiya Nono) \[v2b\]](https://osu.ppy.sh/beatmapsets/12035#osu/46827)
-  3. [DJ Genki vs. Gram - Einherjar Joker (IntegerTempest) \[09's Expert\]](https://osu.ppy.sh/beatmapsets/1334152#osu/3049607)
+  1. [Yamamoto Mineko - Cadena (Kazato Asa) \[Meruru Collab\]](https://osu.ppy.sh/beatmapsets/1214274#osu/2527237) 
+  2. [Falcom Sound Team jdk - A-TO-Z (Shurelia) \[Reiji Maigo's Insane\]](https://osu.ppy.sh/beatmapsets/1336633#osu/2877776)
+  3. [Nor - Theme 113 (Raids) \[KAITEN INSANE 22,366,819 AZUSA SANDBAG METHOD?!?\]](https://osu.ppy.sh/beatmapsets/1876276#osu/3861173)
 - HardRock
-  1. [Namihira Ayuko - Kimi e no Kaerimichi (Kuro Fuyusaki) \[Promenade\]](https://osu.ppy.sh/beatmapsets/1681302#osu/3434730)
-  2. [Rita - dorchadas (SMOKELIND) \[lu^3's Insane\]](https://osu.ppy.sh/beatmapsets/1673436#osu/3418608)
-  3. [Honda Mio (CV: Hara Sayuri) - Step! (Sylvarus) \[Need Tomboy\]](https://osu.ppy.sh/beatmapsets/1118717#osu/2336659)
+  1. [iojjj - Torikago (Lanzhu) \[Abyss\]](https://osu.ppy.sh/beatmapsets/1667873#osu/3405779)
+  2. [25-ji, Nightcord de. - Bitter Choco Decoration (Mononymous) \[Picky Habits\]](https://osu.ppy.sh/beatmapsets/1538879#osu/3146245)
+  3. [Utada Hikaru & Skrillex - Face My Fears (Japanese Version) (Lulu-) \[Courage\]](https://osu.ppy.sh/beatmapsets/891609#osu/1863931)
 - DoubleTime
   1. [Miyuna - ...Sugu Kite ne (Kuse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1236940#osu/2571083)
   2. [Silver Forest - Todokanai Eien no Kyori (ConsumerOfBean) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1280488#osu/2704351)
