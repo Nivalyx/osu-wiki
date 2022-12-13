@@ -339,5 +339,13 @@ Saturday. 26 November 2022:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **7** | 3 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | [#1](https://osu.ppy.sh/community/matches/105286576) |
+| Lower | **[Moroha29](https://osu.ppy.sh/users/9182389)** ::{ flag=SG }:: | **7** | 0 | ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578) | [#1](https://osu.ppy.sh/community/matches/105286561) |
+| Lower | [JokThree](https://osu.ppy.sh/users/17847877) ::{ flag=SG }:: | 0 | **7** | ::{ flag=ID }:: **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** | *win by default* |
+| Lower | [iraozm](https://osu.ppy.sh/users/12443104) ::{ flag=MY }:: | 0 | **7** | ::{ flag=PH }:: **[Hinatsuru Ai](https://osu.ppy.sh/users/10442993)** | *win by default* |
+
+Sunday. 27 November 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
