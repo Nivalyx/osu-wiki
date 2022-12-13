@@ -292,3 +292,29 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   1. [Duca - Shiawase no Otoshimono (Kencho) \[sahuang's Insane\]](https://osu.ppy.sh/beatmapsets/559622#osu/1224936)
   2. [Pedro Silva - World's End Valentine (Ixcors) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1497252#osu/3069014)
+
+  ## Match results
+
+### Finals (week 2)
+
+Thursday. 8 December 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **8** | 5 | ::{ flag=MY }:: [LouisZPro](https://osu.ppy.sh/users/6231292) | [#1](https://osu.ppy.sh/community/matches/105519457) |
+
+
+Monday, 12 December 2022, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **8** | 4 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/105599592) |
+
+### Finals (week 1)
+
+Thursday. 8 December 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+
+| Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
