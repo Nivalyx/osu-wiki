@@ -454,7 +454,6 @@ Sunday, 6 November 2022:
 
 ### General rules
 
-
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mappools for each round will be announced by the Tournament Management in advance before the actual matches take place.
    - The mappools will exclusively consist of songs that are originating from (or otherwise tied to) video games.
@@ -478,6 +477,35 @@ Sunday, 6 November 2022:
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
+### Round-specific rules
+
+#### Qualifier rules
+
+1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
+2. In the lobby, all players will have to consecutively play all of the nine Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
+4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
+5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total of all individual Z-Scores in each of the ten Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Scores can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
+6. 32 players with the **highest Z-Sum value** will advance to the knock-out stages.
+   - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
+7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+
+#### Knock-out stage rules
+
+1. The 32 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
+2. Players will compete against each other using the Double Elimination system.
+3. The Double Elimination System works as follows:
+   - Players who lose in the Upper Bracket can still play again on the Lower Bracket.
+   - Players who lose in the Lower Bracket will be eliminated from the tournament.
+   - In the Grand Finals, the winner of the the Upper Bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
+4. Players who can compete in the next round are determined by:
+   - In the Round of 32, each player needs to win 5 points in order to win a match. (Best-of-9)
+   - In the Round of 16 and the Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Semifinals and the first Finals week, each player needs to win 7 points in order to win a match. (Best-of-13)
+   - In the second Finals week, each player needs to win 8 points in order to win a match. (Best-of-15)
+   - Whether there are players who are declared to win the match by default.
+   - Whether there are players who are disqualified from the tournament.
+
 ### Match instructions
 
 1. Each player must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
@@ -490,9 +518,4 @@ Sunday, 6 November 2022:
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. **There will be no FreeMod picks in the tournament.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
-5. Players who can compete in the next round are determined by:
-   - In the Round of 32, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Round of 16 and the Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
-   - In the Semifinals and the first Finals week, each player needs to win 7 points in order to win a match. (Best-of-13)
-   - In the second Finals week, each player needs to win 8 points in order to win a match. (Best-of-15)
-6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+5. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
