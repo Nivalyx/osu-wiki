@@ -484,9 +484,11 @@ As the tournament was an invitational, there were no open registrations held for
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking to warm up before the match are expected to do so by their own before the match commences.
-4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
+4. **There will be no FreeMod picks in the tournament.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 5. Players who can compete in the next round are determined by:
-   - In the Quarterfinals and the Semifinals, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the 3rd Place Match and the Grand Final, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Round of 32, each player needs to win 5 points in order to win a match. (Best-of-9)
+   - In the Round of 16 and the Quarterfinals, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Semifinals and the first Finals week, each player needs to win 7 points in order to win a match. (Best-of-13)
+   - In the second Finals week, each player needs to win 8 points in order to win a match. (Best-of-15)
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
