@@ -433,5 +433,6 @@ Saturday, 5 November 2022:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[malvon](https://osu.ppy.sh/users/11113661)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Hazui](https://osu.ppy.sh/users/9919208) | [#1](https://osu.ppy.sh/community/matches/104874530) |
+| Upper | [NaFish](https://osu.ppy.sh/users/9974314) ::{ flag=ID }:: | 4 | **5** | ::{ flag=SG }:: **[uniqly](https://osu.ppy.sh/users/8876527)** | [#1](https://osu.ppy.sh/community/matches/104873289) |
 
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
