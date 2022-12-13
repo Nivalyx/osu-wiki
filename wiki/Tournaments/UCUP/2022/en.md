@@ -254,8 +254,8 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (180 MB)](https://cdn.discordapp.com/attachments/707858464084328550/1036339626622857266/ucupro32.zip)**
 
 - NoMod
-  1. [Adust Rain - Misery Song (gazimal) \[Misery\]](https://osu.ppy.sh/beatmapsets/1201708#osu/2829681)
-  2. [Plum - Halloween Candystore (knowledgeking) \[Trick or Treat\]](https://osu.ppy.sh/beatmapsets/1491196#osu/3056724)
+  1. [Sagara Kokoro - Hoshizora no Ima (Reillia) \[Kaliren's Extra\]](https://osu.ppy.sh/beatmapsets/880854#osu/1955078)
+  2. [Chroma - Sudden Visitor (PayneTrain) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1551321#osu/3170081)
   3. [mitsukiyo - Dream Leaf (celerih) \[kwk's Extra\]](https://osu.ppy.sh/beatmapsets/892188#osu/1865095)
   4. [Zekk - Duplication (Realazy) \[Extra\]](https://osu.ppy.sh/beatmapsets/1132727#osu/2371698)
   5. [LeaF - Kyouki Ranbu (rollpan) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1369440#osu/2831708)
