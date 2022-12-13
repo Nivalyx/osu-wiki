@@ -353,8 +353,19 @@ Sunday. 27 November 2022:
 
 ### Quarterfinals
 
+Friday, 18 November 2022:
+
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[malvon](https://osu.ppy.sh/users/11113661)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=MY }:: [Amatsuka Uto](https://osu.ppy.sh/users/9364594) | [#1](https://osu.ppy.sh/community/matches/105128014) |
+| Upper | [Moroha29](https://osu.ppy.sh/users/9182389) ::{ flag=SG }:: | 2 | **6** | ::{ flag=ID }:: **[-TwiHD](https://osu.ppy.sh/users/5470299)** | [#1](https://osu.ppy.sh/community/matches/105128910) |
 | Lower | **[bluezenithgames](https://osu.ppy.sh/users/12681578)** ::{ flag=PH }:: | **6** | 5 | ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863) | [#1](https://osu.ppy.sh/community/matches/105128797) |
+| Lower | [uniqly](https://osu.ppy.sh/users/8876527) ::{ flag=SG }:: | 3 | **6** | ::{ flag=PH }:: **[Miggie](https://osu.ppy.sh/users/12028437)** | [#1](https://osu.ppy.sh/community/matches/105125552) |
+| Lower | [Estella fanboy](https://osu.ppy.sh/users/19052463) ::{ flag=TH }:: | 0 | **6** | ::{ flag=PH }:: **[Hinatsuru Ai](https://osu.ppy.sh/users/10442993)** | *win by default* |
+
+Saturday, 19 November 2022:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
