@@ -251,7 +251,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (120 MB)](https://drive.google.com/u/0/uc?id=1i293bLZ6RNqsXVuyqNpn2OlufmLzZpUy&export=download)**
+**[Download the mappack here! (180 MB)](https://cdn.discordapp.com/attachments/707858464084328550/1036339626622857266/ucupro32.zip)**
 
 - NoMod
   1. [Adust Rain - Misery Song (gazimal) \[Misery\]](https://osu.ppy.sh/beatmapsets/1201708#osu/2829681)
