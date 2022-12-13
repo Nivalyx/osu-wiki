@@ -256,8 +256,8 @@ This competition has come to an end and resulted in the following podium:
 - NoMod
   1. [Sagara Kokoro - Hoshizora no Ima (Reillia) \[Kaliren's Extra\]](https://osu.ppy.sh/beatmapsets/880854#osu/1955078)
   2. [Chroma - Sudden Visitor (PayneTrain) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1551321#osu/3170081)
-  3. [mitsukiyo - Dream Leaf (celerih) \[kwk's Extra\]](https://osu.ppy.sh/beatmapsets/892188#osu/1865095)
-  4. [Zekk - Duplication (Realazy) \[Extra\]](https://osu.ppy.sh/beatmapsets/1132727#osu/2371698)
+  3. [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Shizurre's Expert\]](https://osu.ppy.sh/beatmapsets/1579180#osu/3338782)
+  4. [Frums - Credits (s0m3guy) \[-jordan-'s Another.\]](https://osu.ppy.sh/beatmapsets/1372002#osu/3106850)
   5. [LeaF - Kyouki Ranbu (rollpan) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1369440#osu/2831708)
 - Hidden
   1. [Mitsuyoshi Takenobu no Ani - Amphisbaena (toybot) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/576022#osu/1219592)
