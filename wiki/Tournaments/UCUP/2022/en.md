@@ -258,22 +258,21 @@ This competition has come to an end and resulted in the following podium:
   2. [Chroma - Sudden Visitor (PayneTrain) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1551321#osu/3170081)
   3. [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Shizurre's Expert\]](https://osu.ppy.sh/beatmapsets/1579180#osu/3338782)
   4. [Frums - Credits (s0m3guy) \[-jordan-'s Another.\]](https://osu.ppy.sh/beatmapsets/1372002#osu/3106850)
-  5. [LeaF - Kyouki Ranbu (rollpan) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1369440#osu/2831708)
+  5. [Laur - Viyella's Tears (Avaricious) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078644#osu/2256943)
 - Hidden
-  1. [Mitsuyoshi Takenobu no Ani - Amphisbaena (toybot) \[Demonic Another\]](https://osu.ppy.sh/beatmapsets/576022#osu/1219592)
-  2. [MiYAMO - Kapanet Nitori (NachoPiggy) \[saymun's Inflated\]](https://osu.ppy.sh/beatmapsets/16606#osu/59731)
+  1. [Ito Kanako - Koko ni Iru kara (Garden) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1357763#osu/2809862) 
+  2. [KOTOKO - Wing my Way (Nekomiya Nono) \[v2b\]](https://osu.ppy.sh/beatmapsets/12035#osu/46827)
+  3. [DJ Genki vs. Gram - Einherjar Joker (IntegerTempest) \[09's Expert\]](https://osu.ppy.sh/beatmapsets/1334152#osu/3049607)
 - HardRock
-  1. [Nekomata Master - Izanami's wail (Saturnalize) \[AncuL's Another\]](https://osu.ppy.sh/beatmapsets/959449#osu/3051097)
-  2. [Britney Spears - Toxic (Fuma) \[Lust\]](https://osu.ppy.sh/beatmapsets/1093878#osu/2286129)
+  1. [Namihira Ayuko - Kimi e no Kaerimichi (Kuro Fuyusaki) \[Promenade\]](https://osu.ppy.sh/beatmapsets/1681302#osu/3434730)
+  2. [Rita - dorchadas (SMOKELIND) \[lu^3's Insane\]](https://osu.ppy.sh/beatmapsets/1673436#osu/3418608)
+  3. [Honda Mio (CV: Hara Sayuri) - Step! (Sylvarus) \[Need Tomboy\]](https://osu.ppy.sh/beatmapsets/1118717#osu/2336659)
 - DoubleTime
-  1. [Perfume - Sweet Refrain (eiri-) \[Memory\]](https://osu.ppy.sh/beatmapsets/896085#osu/1872256)
-  2. [Hanatan - Kitsune no Yomeiri (Ryafuka) \[Kitsuneko\]](https://osu.ppy.sh/beatmapsets/46070#osu/144387)
-  3. [sekai - Zange Mairi (Yugu) \[Voice's Insane\]](https://osu.ppy.sh/beatmapsets/1176431#osu/2853477)
-- FreeMod
-  1. [ELFENSJoN - Akayake no Majo (Icekalt) \[Nao's Expert\]](https://osu.ppy.sh/beatmapsets/1100484#osu/2311712)
-  2. [Machita Chima - KING (Ayucchi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1306528#osu/2708875)
+  1. [Miyuna - ...Sugu Kite ne (Kuse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1236940#osu/2571083)
+  2. [Silver Forest - Todokanai Eien no Kyori (ConsumerOfBean) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1280488#osu/2704351)
+  3. [zts - lastendconductor (Yohanes) \[Intricate\]](https://osu.ppy.sh/beatmapsets/685558#osu/1451093)
 - Tiebreaker
-  1. **[Shaun Martin - Madiba (over\_loadcode) \[Dynamic\]](https://osu.ppy.sh/beatmapsets/1301789#osu/2700108)**
+  1. **[Taishi feat. Rita - Into the cosmos (-Tochi) \[Collab of the Cosmos\]](https://osu.ppy.sh/beatmapsets/919412#osu/1919688)**
 
 ### Qualifiers
 
