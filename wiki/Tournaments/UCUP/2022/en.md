@@ -391,5 +391,8 @@ Friday, 11 November 2022:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[Contra](https://osu.ppy.sh/users/12011863)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/104987552) |
+| Upper | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **6** | 2 | ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578) | [#1](https://osu.ppy.sh/community/matches/104992308) |
+| Lower | [gkyla](https://osu.ppy.sh/users/5638585) ::{ flag=ID }:: | 4 | **6** | ::{ flag=MY }:: **[Amatsuka Uto](https://osu.ppy.sh/users/9364594)** | [#1](https://osu.ppy.sh/community/matches/104988029) |
+| Lower | **[Hazui](https://osu.ppy.sh/users/9919208)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | *win by default* |
 
 | Lower | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[deeto](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/99299509) |
