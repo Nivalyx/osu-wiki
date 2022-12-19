@@ -34,34 +34,18 @@ Mohon maaf, namun apabila kamu di-*restrict*, maka tim layanan dukungan kami tel
 
 ## Saya menemukan seseorang yang jelas-jelas berbuat curang dari skor/tayangan ulang mereka! Apa yang sebaiknya saya lakukan?
 
-Stay calm and **don't discuss their plays in public chat**. Don't give them undue attention or ask others to spectate them.
-You should report the user and not mention them anywhere. There are three ways to do so.
+Tetap tenang dan **jangan mulai berbicara seputar permainan mereka pada kanal percakapan publik**. Jangan berikan mereka perhatian atau meminta orang lain untuk menyaksikan mereka.
+Kamu disarankan untuk langsung melaporkan pengguna tersebut tanpa menyebut nama mereka secar publik di manapun juga melalui salah satu jalur pelaporan berikut.
 
-## Teman saya telah dibanned karena berbuat curang! Mereka tidak mungkin berbuat seperti itu! Kamu salah!
+### Laman profil pengguna
 
-Ini mungkin sulit untuk kamu terima, tapi kamu harus percaya kepada staf. peppy (dan para staf) tidak mencoba untuk memutuskan kekerabatanmu tapi peppy (dan para staf) tahu bahwa **tidak seorang pun** yang dapat dipercaya. Bahkan mereka yang sangat dekat padamu; mereka yang mungkin tidak pernah kamu duga bahwa mereka hanya berakting di belakangmu atau orang lain.
+**Jalur ini merupakan jalur pelaporan yang paling diutamakan
 
-## Buktikan kalau memang saya/mereka telah berbuat curang! Beritahu kami bagaimana caramu mengetahuinya!
+This is the preferred way for reporting suspected foul play, as it provides the most information to the support team members.**
 
-Para staf tidak dapat berbicara tentang bagaimana cara mereka membuktikan kamu/mereka berbuat curang. Catatan: memberitahukan tolak ukur cheater dapat membuatnya kurang berguna ke depannya dalam mendeteksi para pelaku perbuatan curang.
+On the user's profile, a `Report` button will appear when you click on the three dots next to the `Message` button. Write any information that can prove that the user is doing misbehaviour.
 
-## Saya akan membuat sebuah video untuk membuktikan bahwa saya tak bersalah!
-
-Maaf, tapi jika kamu telah dibanned, mereka telah 100% yakin bahwa kamu telah berbuat curang. Maka walaupun kamu membuat video, itu tidak akan membantu.
-
-## Saya menemukan seseorang yang memang berbuat curang. (Saya bisa mengetahui berdasarkan tayangan ulang/skor mereka!) Apa yang harus saya perbuat?
-
-1. Tetap tenang.
-2. **JANGAN membicarakannya di obrolan publik**. (atau kamu akan mendapatkan spam)
-3. Jangan memberikan mereka perhatian yang tidak layak mereka dapatkan atau mengajak orang lain untuk menonton mereka.
-4. [Klik tautan "Report" di bagian kanan skor mereka pada info beatmap (website)](https://puu.sh/jAwxU/ff27ba387e.png)
-5. Gunakan perintah !report di dalam permainan untuk mengirim pesan ke moderator
-
-`Contoh: !report <username> is suspected to be a cheater.`
-
-Catatan: *Penggunaan perintah !report harus menggunakan bahasa Inggris agar para moderator mengerti laporan yang kamu berikan*
-
-Bantuanmu dalam memberantas perbuatan curang sangat diapresiasi. Kamu juga dapat mengirim surel secara langsung ke [osu@ppy.sh](mailto:osu@ppy.sh) untuk respon yang cukup cepat.
+*Take note of the selected game mode before reporting.*
 
 ## Apakah menggunakan perangkat keras yang dispesialisasikan dihitung sebagai berbuat curang?
 
