@@ -12,7 +12,7 @@ Seorang pengguna dapat di-*restrict* apabila mereka melakukan salah satu hal ber
 
 ## Apa yang dimaksud dengan multi-accounting?
 
-Masing-masing pengguna hanya dapat memiliki **satu** akun. Membuat akun baru sangat dilarang. Para pengguna yang tidak mengindahkan peringatan yang telah diberikan kepada mereka dan terus-menerus membuat akun baru akan di-*restrict*.
+Masing-masing pengguna hanya dapat memiliki **satu** akun. Membuat akun baru sangat dilarang. Para pengguna yang terus-menerus membuat akun baru tanpa mengindahkan peringatan yang telah diberikan kepada mereka akan di-*restrict*.
 
 Each user may only use **one** account. Creating new accounts is strictly forbidden. First offences will be punished with a silence of varying length depending on the number of accounts made. Users that continue creating new accounts despite previous warnings will be restricted.
 
