@@ -57,6 +57,8 @@ Jalur pelaporan ini **tidak disarankan** karena jalur ini pada umumnya dikhususk
 
 Use the `!report` command in any public channel to inform the chat moderators. Other players will not see your reports in chat.
 
+Gunakan perintah `!report` pada kanal percakapan publik manapun melapor kepada moderator. Para pemain lainnya tidak akan dapat melihat laporan Anda pada layar mereka.
+
 ```
 Format: !report <username> <reason>
 Example: !report this_user suspected cheating
