@@ -80,6 +80,6 @@ Nyatanya, ini sulit untuk mengawasi kecuali kami berdiri tepat di sampingmu, tap
 
 Catatan: *Isi surel harus berbahasa Inggris.*
 
-## Bagaimana cara saya menghindari dari silence atau banned?
+## Bagaimana caranya agar saya tidak sampai di-silence atau di-restrict?
 
-Kamu cukup mengikuti peraturan yang tertulis di sini: [Rules](/wiki/Rules)
+Baca dan pahami [peraturan yang berlaku](/wiki/Rules) secara seksama.
