@@ -6,9 +6,13 @@ Seorang pengguna dapat di-*restrict* apabila mereka melakukan salah satu hal ber
 
 - Berperilaku buruk secara terus-menerus terlepas dari berapa banyak pelanggaran yang telah mereka lakukan.
 - Mengelak dari hukuman dengan membuat akun baru.
-- Berbagi akun dengan pengguna lain.
+- Berbagi akun dengan pengguna lain (*multi-accounting*).
 - Menggunakan lebih dari satu akun.
 - Berbuat curang (lihat di bawah).
+
+## Apa-apa saja yang termasuk ke dalam multi-accounting?
+
+Each user may only use **one** account. Creating new accounts is strictly forbidden. First offences will be punished with a silence of varying length depending on the number of accounts made. Users that continue creating new accounts despite previous warnings will be restricted.
 
 ## Apa-apa saja yang termasuk berbuat curang?
 
