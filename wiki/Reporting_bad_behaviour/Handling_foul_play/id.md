@@ -62,31 +62,15 @@ Format: !report <nama pengguna> <alasan>
 Contoh: !report pengguna_ini berbuat curang
 ```
 
-Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninjau setiap laporan yang kami terima, hal ini tidak berarti seluruh laporan yang ada akan ditindaklanjuti lebih lanjut. Kamu dapat mengirim email ke [osu@ppy.sh](mailto:osu@ppy.sh) apabila kamu membutuhkan balasan yang cepat.
+Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninjau setiap laporan yang kami terima, hal ini tidak berarti seluruh laporan yang ada akan secara serta-merta ditindaklanjuti lebih lanjut. Kamu dapat mengirim email ke [osu@ppy.sh](mailto:osu@ppy.sh) apabila kamu membutuhkan balasan yang cepat.
 
 ## Apakah menggunakan perangkat khusus dihitung sebagai perbuatan curang?
 
 Peripherals such as tablets and touchscreens are fine. Anything which decreases the skill required to play (e.g. using fidget spinners on a tablet) or cancels/defeats the effect of the game modifiers are not. This means that using multiple PCs, input splitters or anything of that kind is considered a no-no.
 
-Perangkat seperti tablet dan layar sentuh 
+Penggunaan perangkat seperti tablet dan layar sentuh tidak melanggar peraturan. Meskipun demikian, penggunaan perangkat yang mengurangi keterampilan yang dibutuhkan untuk bermain (seperti *fidget spinner* pada tablet) atau yang menghilangkan efek mod tertentu tidak dibenarkan. Hal ini berarti penggunaan lebih dari satu PC *input splitter* dilarang.
 
-## Apakah menggunakan perangkat keras yang dispesialisasikan dihitung sebagai berbuat curang?
-
-Barang yang dianggap tidak apa-apa:
-
-- Peralatan seperti tablet dan layar sentuh
-
-Barang yang dianggap dapat membuatmu dibanned:
-
-- Apapun yang dapat mengurangi keterampilan yang dibutuhkan untuk bermain TIDAK diperbolehkan SAMA SEKALI.
-  - Menggunakan komputer lebih dari satu secara sekaligus.
-  - Pembagi masukan (input splitter).
-  - Perangkat keras apapun yang secara fisik menjalankan mouse/keyboard/tablet (tap otomatis, dll)
-  - Apapun yang dianggap sebagai sebuah no-no.
-
-Nyatanya, ini sulit untuk mengawasi kecuali kami berdiri tepat di sampingmu, tapi jika kamu telah dituduh, buatlah sebuah video (menggunakan sebuah kamera) permainanmu pada sebuah map mungkin dapat sedikit melegakan.
-
-## Bagaimana cara saya mengajukan sebuah pelepasan status banned?
+## Bagaimana caranya untuk mengajukan banding terhadap status restriction saya?
 
 1. Kirimkan surelmu ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan judul Ban Appeal: \<username\>
 2. Sertakan nama penggunamu ke tiket dan nyatakan bahwa kamu berharap status bannedmu dicabut.
