@@ -59,7 +59,7 @@ Gunakan perintah `!report` pada kanal percakapan publik manapun untuk melapor ke
 
 ```
 Format: !report <nama pengguna> <alasan>
-Contoh: !report pengguna_ini suspected cheating
+Contoh: !report pengguna_ini dicurigai berbuat curang
 ```
 
 Your help in spotting foul play is much appreciated. We review every report we receive, but that does not mean that all of them will lead to us taking action! You can also send an email directly to [osu@ppy.sh](mailto:osu@ppy.sh) for a relatively fast response.
