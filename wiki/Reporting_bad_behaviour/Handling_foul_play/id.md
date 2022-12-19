@@ -76,7 +76,7 @@ Tim layanan dukungan kami akan mengharapkan mereka yang telah melanggar untuk me
 
 *It might take time for us to reply to your appeal, but no appeals will be ignored.*
 
-*
+*Tim kami dapat, namun tidak akan ada ajuan banding yang diabaikan.*
 
 ## Apa yang dapat saya lakukan apabila saya telah melanggar peraturan?
 
