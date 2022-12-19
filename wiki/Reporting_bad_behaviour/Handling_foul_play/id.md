@@ -74,9 +74,7 @@ Tunggu tiga bulan sejak tanggal *restriction* terakhirmu sebelum mengajukan band
 
 Tim layanan dukungan kami akan mengharapkan mereka yang telah melanggar untuk menyertakan rekam jejak pelanggaran yang telah mereka lakukan secara selengkap-lengkapnya beserta alasan mengapa mereka tidak akan lagi melanggar ke depannya.
 
-*It might take time for us to reply to your appeal, but no appeals will be ignored.*
-
-*Tim kami dapat, namun tidak akan ada ajuan banding yang diabaikan.*
+*Tim kami dapat memerlukan waktu untuk dapat membalas banding yang kamu ajukan, namun tidak akan ada ajuan banding yang diabaikan.*
 
 ## Apa yang dapat saya lakukan apabila saya telah melanggar peraturan?
 
