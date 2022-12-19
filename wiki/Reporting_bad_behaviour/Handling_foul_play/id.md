@@ -16,15 +16,9 @@ Masing-masing pengguna hanya dapat memiliki **satu** akun. Pembuatan akun baru s
 
 ## Apa yang dimaksud dengan berbuat curang?
 
-[Peraturan osu!](/wiki/Rules) menerakan bahwa berbagai bentuk manipulasi klien seperti pengaturan skor secara ilegal, penggunaan makro, penggunaan sarana pembidik otomatis (*auto-aim*), dan lain sebagainya termasuk ke dalam perbuatan curang.
+[Peraturan osu!](/wiki/Rules) menerakan bahwa berbagai bentuk manipulasi klien seperti pengaturan skor secara ilegal, penggunaan makro, penggunaan program *auto-aim*, dan lain sebagainya termasuk ke dalam perbuatan curang.
 
-Peraturan ini
-
-This is a one-strike rule. Cheaters will be restricted on their first offence for an indefinite amount of time. The [support team](/wiki/People/The_Team/Account_support_team) may decide to lift their restriction if they successfully appeal.
-
- berbagai bentuk manipulasi pada program; peretasan skor, penggunaan makro untuk kombo penuh (full-combo), dan bidik-otomatis termasuk sebagai berbuat curang.
-
-Ini adalah sebuah peraturan tegas; Pelaku perbuatan curang akan **dibanned secara permanen.**
+Peraturan ini berlaku tanpa ada kompromi. Para pelanggar akan langsung di-*restrict* pada pelanggaran mereka yang pertama hingga jangka waktu yang tidak ditentukan. [Tim layanan dukungan](/wiki/People/The_Team/Account_support_team) osu! dapat mencabut hukuman ini apabila banding mereka diterima.
 
 ## Saya telah dibanned karena berbuat curang. Saya tidak melakukannya!
 
