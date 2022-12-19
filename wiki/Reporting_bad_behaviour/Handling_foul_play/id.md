@@ -72,7 +72,7 @@ Penggunaan perangkat seperti tablet dan layar sentuh tidak melanggar peraturan. 
 
 Tunggu tiga bulan sejak tanggal *restriction* terakhirmu sebelum mengajukan banding. Apabila tiga bulan telah berlalu, kirimkan email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan subjek `Restriction Appeal: <username>`.
 
-Tim layanan dukungan kami akan mengharapkanmu untuk menyertakan rekam jejak pelanggaran yang telah kamu lakukan selengkap mungkin beserta alasan mengapa kamu tidak akan lagi melanggar ke depannya.
+Tim layanan dukungan kami akan mengharapkan mereka yang telah melanggar untuk menyertakan rekam jejak pelanggaran yang telah mereka lakukan selengkap mungkin beserta alasan mengapa mereka tidak akan lagi melanggar ke depannya.
 
 *It might take time for us to reply to your appeal, but no appeals will be ignored.*
 
