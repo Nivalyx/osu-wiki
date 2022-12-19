@@ -16,7 +16,7 @@ Masing-masing pengguna hanya dapat memiliki **satu** akun. Pembuatan akun baru s
 
 ## Apa yang dimaksud dengan berbuat curang?
 
-[Peraturan osu!](/wiki/Rules) menerakan bahwa berbagai bentuk manipulasi klien seperti pengaturan skor secara ilegal, penggunaan makro, penggunaan program *auto-aim*, dan lain sebagainya termasuk ke dalam perbuatan curang.
+[Peraturan osu!](/wiki/Rules) mendefinisikan berbagai bentuk manipulasi klien seperti pengaturan skor secara ilegal, penggunaan makro, penggunaan program *auto-aim*, dan lain sebagainya sebagai perbuatan curang.
 
 Peraturan ini berlaku tanpa ada kompromi. Para pelanggar akan langsung di-*restrict* pada pelanggaran mereka yang pertama hingga jangka waktu yang tidak ditentukan. [Tim layanan dukungan](/wiki/People/The_Team/Account_support_team) kami dapat mencabut hukuman ini apabila mereka berhasil mengajukan banding yang diterima.
 
