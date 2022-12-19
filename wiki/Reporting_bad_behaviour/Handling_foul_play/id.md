@@ -70,7 +70,7 @@ Penggunaan perangkat seperti tablet dan layar sentuh tidak melanggar peraturan. 
 
 ## Bagaimana caranya untuk mengajukan banding terhadap status restriction saya?
 
-Tunggu tiga bulan sejak tanggal *restriction* terakhirmu sebelum mengajukan banding. Setelahnya, kirimkan email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan subjek `Restriction Appeal: <username>`.
+Tunggu tiga bulan sejak tanggal *restriction* terakhirmu sebelum mengajukan banding. Apabila tiga bulan telah berlalu, kirimkan email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan subjek `Restriction Appeal: <username>`.
 
 Tim layanan dukungan kami akan mengharapkanmu untuk menyertakan rekam jejak pelanggaran yang telah kamu lakukan selengkap mungkin beserta alasan mengapa kamu tidak akan lagi melanggar ke depannya.
 
