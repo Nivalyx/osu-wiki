@@ -79,6 +79,7 @@ Tim layanan dukungan kami akan mengharapkan mereka yang telah melanggar untuk me
 ## Apa yang dapat saya lakukan apabila saya telah melanggar peraturan?
 
 If you've broken the rules and you'd like to come clean, please contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain what you've done. Honesty is very much appreciated and this will likely not result in a permanent punishment.
+
 ## Bagaimana caranya agar saya tidak sampai di-silence atau di-restrict?
 
 Baca dan pahami [peraturan yang berlaku](/wiki/Rules) secara seksama.
