@@ -22,7 +22,7 @@ Peraturan ini berlaku tanpa ada kompromi. Para pelanggar akan langsung di-*restr
 
 ## Saya telah di-*restrict* karena dianggap berbuat curang, namun saya tidak melakukan kecurangan apapun!
 
-Dalam menjatuhkan hukuman, osu! menggunakan berbagai parameter dan perhitungan otomatis yang digabungkan dengan konfirmasi manual. Apabila kamu tidak tahu mengapa kamu sampai di-*restrict*, hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Dalam menjatuhkan hukuman, osu! menggunakan berbagai parameter perhitungan otomatis yang digabungkan dengan konfirmasi manual. Apabila kamu tidak tahu mengapa kamu sampai di-*restrict*, hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 ## Buktikan bahwa saya/pengguna lain yang saya kenal telah berbuat curang! Beri tahu kami mengapa kamu sampai bisa tahu!
 
