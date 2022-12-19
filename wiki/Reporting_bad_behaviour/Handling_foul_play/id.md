@@ -53,7 +53,7 @@ Pada laman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang mencur
 
 ### In-game chat
 
-Jalur pelaporan ini **tidak disarankan** karena jalur ini pada umumnya dikhususkan untuk berbagai hal yang terkait dengan percakapan.
+Jalur pelaporan ini **tidak disarankan** karena jalur ini pada dasarnya lebih dikhususkan untuk berbagai hal yang terkait dengan percakapan.
 
 Gunakan perintah `!report` pada kanal percakapan publik manapun untuk melapor kepada moderator. Para pemain lainnya tidak akan dapat melihat laporan Anda pada layar mereka masing-masing.
 
