@@ -47,11 +47,22 @@ Pada laman profil pengguna yang bersangkutan, klik tombol titik tiga yang terdap
 
 ### Laman beatmap
 
-This way of reporting is also as effective as using the profile page for voting, the reports go to the same endpoint.
-
-Jalur pelaporan ini 
+Jalur pelaporan ini juga baik untuk digunakan karena segala laporan yang masuk akan diterima di tempat yang sama.
 
 Pada laman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang mencurigakan pada papan peringkat dengan cara mengklik tombol `Laporkan Skor` yang terdapat pada sisi kanan skor mereka.
+
+### In-game chat
+
+Jalur pelaporan ini **tidak disarankan** karena jalur ini pada umumnya dikhususkan untuk berbagai hal yang terkait dengan percakapan.
+
+Use the `!report` command in any public channel to inform the chat moderators. Other players will not see your reports in chat.
+
+```
+Format: !report <username> <reason>
+Example: !report this_user suspected cheating
+```
+
+Your help in spotting foul play is much appreciated. We review every report we receive, but that does not mean that all of them will lead to us taking action! You can also send an email directly to [osu@ppy.sh](mailto:osu@ppy.sh) for a relatively fast response.
 
 ## Apakah menggunakan perangkat keras yang dispesialisasikan dihitung sebagai berbuat curang?
 
