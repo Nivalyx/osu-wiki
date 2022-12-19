@@ -39,11 +39,17 @@ Kamu disarankan untuk langsung melaporkan pengguna tersebut tanpa menyebut nama 
 
 ### Laman profil pengguna
 
-**Jalur ini merupakan jalur pelaporan yang paling utama untuk melaporkan kecurangan, karena jalur ini memberikan informasi yang paling lengkap ke tim layanan dukungan.**
+**Jalur ini merupakan jalur pelaporan yang paling utama untuk melaporkan kecurangan, karena jalur ini memberikan tim layanan dukungan kami informasi yang paling lengkap seputar kecurangan yang terjadi.**
 
-On the user's profile, a `Report` button will appear when you click on the three dots next to the `Message` button. Write any information that can prove that the user is doing misbehaviour.
+Pada laman profil pengguna yang bersangkutan, klik tombol titik tiga yang terdapat di samping tombol `Kirim pesan` lalu pilih `Laporkan`. Pada kotak dialog yang muncul, tulis segala informasi yang dapat membuktikan kecurangan pemain tersebut.
 
-*Take note of the selected game mode before reporting.*
+*Jangan lupa untuk menentukan mode permainan sebelum melapor.*
+
+### Laman beatmap
+
+This way of reporting is also as effective as using the profile page for voting, the reports go to the same endpoint.
+
+In beatmap pages, you can report a user in the top leaderboards by clicking the `Report` button on the far right of their score.
 
 ## Apakah menggunakan perangkat keras yang dispesialisasikan dihitung sebagai berbuat curang?
 
