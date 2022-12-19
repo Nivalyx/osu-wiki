@@ -55,9 +55,7 @@ Pada laman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang mencur
 
 Jalur pelaporan ini **tidak disarankan** karena jalur ini pada umumnya dikhususkan untuk berbagai hal yang terkait dengan percakapan.
 
-Use the `!report` command in any public channel to inform the chat moderators. Other players will not see your reports in chat.
-
-Gunakan perintah `!report` pada kanal percakapan publik manapun melapor kepada moderator. Para pemain lainnya tidak akan dapat melihat laporan Anda pada layar mereka.
+Gunakan perintah `!report` pada kanal percakapan publik manapun melapor kepada moderator. Para pemain lainnya tidak akan dapat melihat laporan Anda pada layar percakapan mereka.
 
 ```
 Format: !report <username> <reason>
