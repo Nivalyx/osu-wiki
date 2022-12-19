@@ -5,20 +5,10 @@
 Seorang pengguna dapat di-*restrict* apabila mereka melakukan salah satu hal berikut:
 
 - Berperilaku buruk secara terus-menerus terlepas dari berapa banyak pelanggaran yang telah mereka lakukan.
-- M
-- Kamu memberikan akunmu pada orang lain.
-- Menggunakan banyak akun.
+- Mengelak dari hukuman dengan membuat akun baru.
+- Berbagi akun dengan pengguna lain.
+- Menggunakan lebih dari satu akun.
 - Berbuat curang (lihat di bawah).
-
- Why am I restricted?
-
-A user may get restricted if they do any of the following:
-
-- Continuous misbehaviour regardless of how many infringements they accumulate.
-- Circumventing a punishment by making a new account.
-- Sharing their account with other users.
-- Multi-accounting.
-- Hacking or cheating (see below).
 
 ## Apa-apa saja yang termasuk berbuat curang?
 
