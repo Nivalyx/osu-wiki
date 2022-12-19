@@ -64,6 +64,10 @@ Contoh: !report pengguna_ini berbuat curang
 
 Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninjau setiap laporan yang kami terima, hal ini tidak berarti seluruh laporan yang ada akan ditindaklanjuti lebih lanjut. Kamu dapat mengirim email ke [osu@ppy.sh](mailto:osu@ppy.sh) apabila kamu membutuhkan balasan yang cepat.
 
+## Apakah menggunakan perangkat khusus dihitung sebagai berbuat curang?
+
+Peripherals such as tablets and touchscreens are fine. Anything which decreases the skill required to play (e.g. using fidget spinners on a tablet) or cancels/defeats the effect of the game modifiers are not. This means that using multiple PCs, input splitters or anything of that kind is considered a no-no.
+
 ## Apakah menggunakan perangkat keras yang dispesialisasikan dihitung sebagai berbuat curang?
 
 Barang yang dianggap tidak apa-apa:
