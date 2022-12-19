@@ -35,13 +35,11 @@ Mohon maaf, namun apabila kamu di-*restrict*, maka tim layanan dukungan kami tel
 ## Saya menemukan seseorang yang jelas-jelas berbuat curang dari skor/tayangan ulang mereka! Apa yang sebaiknya saya lakukan?
 
 Tetap tenang dan **jangan membicarakan permainan mereka pada kanal percakapan publik**. Jangan berikan mereka perhatian atau meminta orang lain untuk menyaksikan mereka.
-Kamu disarankan untuk langsung melaporkan pengguna tersebut tanpa menyebut nama mereka secara publik di manapun juga melalui salah satu jalur pelaporan berikut.
+Kamu disarankan untuk langsung melaporkan pengguna tersebut tanpa menyebut nama mereka di manapun juga melalui salah satu jalur pelaporan berikut.
 
 ### Laman profil pengguna
 
-**Jalur ini merupakan jalur pelaporan yang paling diutamakan
-
-This is the preferred way for reporting suspected foul play, as it provides the most information to the support team members.**
+**Jalur ini merupakan jalur pelaporan yang paling utama untuk melaporkan kecurangan, karena jalur ini memberikan informasi yang paling lengkap ke tim layanan dukungan.**
 
 On the user's profile, a `Report` button will appear when you click on the three dots next to the `Message` button. Write any information that can prove that the user is doing misbehaviour.
 
