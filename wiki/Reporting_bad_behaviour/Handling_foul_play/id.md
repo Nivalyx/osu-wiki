@@ -1,11 +1,23 @@
-# Menangani Perbuatan Curang
+# Menangani kecurangan
 
-## Mengapa saya dibanned?
+## Mengapa saya di-restrict?
+
+Seorang pengguna dapat di-*restrict* apabila mereka melakukan salah satu hal berikut:
 
 - 10 silence pada akunmu.
 - Kamu memberikan akunmu pada orang lain.
 - Menggunakan banyak akun.
 - Berbuat curang (lihat di bawah).
+
+ Why am I restricted?
+
+A user may get restricted if they do any of the following:
+
+- Continuous misbehaviour regardless of how many infringements they accumulate.
+- Circumventing a punishment by making a new account.
+- Sharing their account with other users.
+- Multi-accounting.
+- Hacking or cheating (see below).
 
 ## Apa-apa saja yang termasuk berbuat curang?
 
