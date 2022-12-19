@@ -76,6 +76,8 @@ Tim layanan dukungan kami akan mengharapkan mereka yang telah melanggar untuk me
 
 *It might take time for us to reply to your appeal, but no appeals will be ignored.*
 
+*
+
 ## Apa yang dapat saya lakukan apabila saya telah melanggar peraturan?
 
 If you've broken the rules and you'd like to come clean, please contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain what you've done. Honesty is very much appreciated and this will likely not result in a permanent punishment.
