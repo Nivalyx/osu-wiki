@@ -49,7 +49,11 @@ Pada laman profil pengguna yang bersangkutan, klik tombol titik tiga yang terdap
 
 This way of reporting is also as effective as using the profile page for voting, the reports go to the same endpoint.
 
+Jalur pelaporan ini 
+
 In beatmap pages, you can report a user in the top leaderboards by clicking the `Report` button on the far right of their score.
+
+Pada laman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang mencurigakan pada papan peringkat dengan cara mengklik tombol `Laporkan Skor` yang terdapat pada sisi kanan skor.
 
 ## Apakah menggunakan perangkat keras yang dispesialisasikan dihitung sebagai berbuat curang?
 
