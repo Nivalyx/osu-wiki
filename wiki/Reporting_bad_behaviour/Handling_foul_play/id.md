@@ -8,7 +8,7 @@ Seorang pengguna dapat di-*restrict* apabila mereka melakukan salah satu hal ber
 - Mengelak dari hukuman dengan membuat akun baru.
 - Membagikan akun mereka dengan pengguna lain.
 - Menggunakan lebih dari satu akun (*multi-accounting*).
-- Berbuat curang (lihat di bawah).
+- Berbuat curang (lihat keterangan lebih lanjut di bawah).
 
 ## Apa yang dimaksud dengan multi-accounting?
 
