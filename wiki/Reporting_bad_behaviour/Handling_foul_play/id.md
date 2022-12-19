@@ -24,7 +24,7 @@ Peraturan ini berlaku tanpa ada kompromi. Para pelanggar akan langsung di-*restr
 
 Dalam menjatuhkan hukuman, osu! menggunakan berbagai parameter otomatis yang digabungkan dengan konfirmasi manual sebagai dasarnya. Apabila kamu tidak tahu mengapa kamu sampai di-*restrict*, hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-## Buktikan bahwa saya/pengguna lain yang saya kenal telah berbuat curang! Beri tahu kami mengapa kamu sampai bisa tahu!
+## Buktikan bahwa saya/pengguna lain yang saya kenal telah berbuat curang! Beri tahu kami mengapa kalian sampai bisa tahu!
 
 Para staf tidak akan pernah menempatkan status banned yang salah untuk perbuatan curang. Mereka telah yakin 100% bahkan mereka mengecek 2 hingga 3 kali sebelum mereka mengambil tindakan apapun.
 
