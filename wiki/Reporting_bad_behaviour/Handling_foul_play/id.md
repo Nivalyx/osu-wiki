@@ -55,11 +55,11 @@ Pada laman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang mencur
 
 Jalur pelaporan ini **tidak disarankan** karena jalur ini pada umumnya dikhususkan untuk berbagai hal yang terkait dengan percakapan.
 
-Gunakan perintah `!report` pada kanal percakapan publik manapun melapor kepada moderator. Para pemain lainnya tidak akan dapat melihat laporan Anda pada layar percakapan mereka.
+Gunakan perintah `!report` pada kanal percakapan publik manapun untuk melapor kepada moderator. Para pemain lainnya tidak akan dapat melihat laporan Anda pada layar permainan mereka.
 
 ```
-Format: !report <username> <reason>
-Example: !report this_user suspected cheating
+Format: !report <nama pengguna> <alasan>
+Contoh: !report pengguna_ini suspected cheating
 ```
 
 Your help in spotting foul play is much appreciated. We review every report we receive, but that does not mean that all of them will lead to us taking action! You can also send an email directly to [osu@ppy.sh](mailto:osu@ppy.sh) for a relatively fast response.
