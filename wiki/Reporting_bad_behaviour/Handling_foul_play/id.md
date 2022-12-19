@@ -26,7 +26,7 @@ Dalam menjatuhkan hukuman, osu! menggunakan berbagai parameter otomatis yang dig
 
 ## Buktikan bahwa saya/pengguna lain yang saya kenal telah berbuat curang! Beri tahu kami mengapa kalian sampai bisa tahu!
 
-Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apapun terkait dengan status *restriction* seseorang, namun seluruh hukuman yang dijatuhkan akan selalu berdasar pada indikasi yang kuat. Kasus di mana kami menjatuhkan hukuman kepada pemain yang bermain secara wajar sangat jarang terjadi.
+Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apapun terkait dengan status *restriction* seseorang, namun seluruh hukuman yang dijatuhkan akan selalu berdasar pada indikasi yang kuat. Kasus di mana kami menjatuhkan hukuman kepada pemain yang tidak berbuat curang sangat jarang terjadi.
 
 ## Saya akan membuat video untuk membuktikan bahwa saya tidak bersalah!
 
