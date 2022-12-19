@@ -16,7 +16,7 @@ Masing-masing pengguna hanya dapat memiliki **satu** akun. Membuat akun baru san
 
 Each user may only use **one** account. Creating new accounts is strictly forbidden. First offences will be punished with a silence of varying length depending on the number of accounts made. Users that continue creating new accounts despite previous warnings will be restricted.
 
-## Apa yang dimaksud dengan perbuatan curang?
+## Apa yang dimaksud dengan berbuat curang?
 
 Seperti yang disebutkan di [Aturan-aturan_Klien](/wiki/Rules), berbagai bentuk manipulasi pada program; peretasan skor, penggunaan makro untuk kombo penuh (full-combo), dan bidik-otomatis termasuk sebagai berbuat curang.
 
