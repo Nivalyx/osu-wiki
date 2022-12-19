@@ -66,16 +66,19 @@ Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninj
 
 ## Apakah menggunakan perangkat khusus dihitung sebagai perbuatan curang?
 
-Penggunaan perangkat seperti tablet dan layar sentuh tidak melanggar peraturan. Meskipun demikian, penggunaan perangkat yang mengurangi keterampilan yang dibutuhkan untuk bermain (seperti *fidget spinner* pada tablet) atau yang menghilangkan efek mod tertentu tidak dibenarkan. Hal ini berarti penggunaan PC ganda, *input splitter*, dan lain sebagainya sangat dilarang.
+Penggunaan perangkat seperti tablet dan layar sentuh tidak melanggar peraturan. Meskipun demikian, penggunaan perangkat yang dapat mengurangi keterampilan yang dibutuhkan untuk bermain (seperti *fidget spinner* pada tablet) atau menghilangkan efek mod tertentu tidak dibenarkan. Hal ini berarti penggunaan PC ganda, *input splitter*, dan lain sebagainya sangat dilarang.
 
 ## Bagaimana caranya untuk mengajukan banding terhadap status restriction saya?
 
-1. Kirimkan surelmu ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan judul Ban Appeal: \<username\>
-2. Sertakan nama penggunamu ke tiket dan nyatakan bahwa kamu berharap status bannedmu dicabut.
-3. Waktu tunggu hingga **lima** hari. Jika kamu membuat sebuah pengajuan dan ditolak, segala pengajuan ke depannya akan ditolak.
+Tunggu tiga bulan sejak tanggal *restriction* terakhirmu sebelum mengajukan banding. Setelahnya, kirimkan email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan subjek `Restriction Appeal: <username>`.
 
-Catatan: *Isi surel harus berbahasa Inggris.*
+Tim layanan dukungan kami akan mengharapkan kamu untuk menyertakan rekam jejak pelanggaran mereka beserta alasan mengapa kamu tidak akan lagi melanggar ke depannya.
 
+*It might take time for us to reply to your appeal, but no appeals will be ignored.*
+
+## What can I do if I've broken the rules?
+
+If you've broken the rules and you'd like to come clean, please contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain what you've done. Honesty is very much appreciated and this will likely not result in a permanent punishment.
 ## Bagaimana caranya agar saya tidak sampai di-silence atau di-restrict?
 
 Baca dan pahami [peraturan yang berlaku](/wiki/Rules) secara seksama.
