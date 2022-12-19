@@ -26,7 +26,9 @@ Dalam menjatuhkan hukuman, osu! menggunakan berbagai parameter otomatis yang dig
 
 ## Buktikan bahwa saya/pengguna lain yang saya kenal telah berbuat curang! Beri tahu kami mengapa kalian sampai bisa tahu!
 
-Para staf tidak akan pernah menempatkan status banned yang salah untuk perbuatan curang. Mereka telah yakin 100% bahkan mereka mengecek 2 hingga 3 kali sebelum mereka mengambil tindakan apapun.
+The support team will not provide any "proof" regarding restrictions, but all are placed with well founded suspicion. Normal users are extremely unlikely to be targeted by such actions.
+
+Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apapun terkait dengan status *restriction* seorang pengguna, namun seluruh hukuman yang dijatuhkan berdasar pada bukti yang kuat.
 
 ## Teman saya telah dibanned karena berbuat curang! Mereka tidak mungkin berbuat seperti itu! Kamu salah!
 
