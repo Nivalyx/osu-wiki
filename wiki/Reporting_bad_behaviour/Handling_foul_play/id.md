@@ -28,7 +28,7 @@ Dalam menjatuhkan hukuman, osu! menggunakan berbagai parameter otomatis yang dig
 
 The support team will not provide any "proof" regarding restrictions, but all are placed with well founded suspicion. Normal users are extremely unlikely to be targeted by such actions.
 
-Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apapun terkait dengan status *restriction* seorang pengguna, namun seluruh hukuman yang dijatuhkan selalu berdasar pada bukti yang kuat.
+Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apapun terkait dengan status *restriction* seseorang, namun seluruh hukuman yang dijatuhkan akan selalu berdasar pada indikasi yang kuat. Para pengguna yang tidak berbuat curang akan 
 
 ## Teman saya telah dibanned karena berbuat curang! Mereka tidak mungkin berbuat seperti itu! Kamu salah!
 
