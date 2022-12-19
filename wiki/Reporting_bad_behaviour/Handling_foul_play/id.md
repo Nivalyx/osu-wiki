@@ -4,7 +4,7 @@
 
 Seorang pengguna dapat di-*restrict* apabila mereka melakukan salah satu hal berikut:
 
-- Berperilaku buruk secara terus-menerus terlepas dari berapa banyak pelanggaran yang telah mereka lakukan.
+- Berperilaku buruk secara terus-menerus terlepas dari berapa banyak pelanggaran yang telah mereka catat.
 - Mengelak dari hukuman dengan membuat akun baru.
 - Berbagi akun dengan pengguna lain (*multi-accounting*).
 - Menggunakan lebih dari satu akun.
