@@ -30,7 +30,7 @@ Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apapun terkait de
 
 ## Saya akan membuat video untuk membuktikan bahwa saya tidak bersalah!
 
-Mohon maaf, namun apabila kamu sampai di-*restrict*, maka tim layanan dukungan kami telah sepenuhnya yakin bahwa kamu berbuat curang. Rekaman video tidak dapat membantumu karena sarana ini dapat dimanipulasi.
+Mohon maaf, namun apabila kamu sampai di-*restrict*, maka tim layanan dukungan kami telah sepenuhnya yakin bahwa kamu berbuat curang. Rekaman video tidak dapat dijadikan bukti karena rawan akan manipulasi.
 
 ## Saya menemukan seseorang yang jelas-jelas berbuat curang. Saya I found someone who is definitely cheating. I can tell by their replay/score! What should I do?
 
