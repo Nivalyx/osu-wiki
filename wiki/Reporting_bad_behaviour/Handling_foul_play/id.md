@@ -4,7 +4,8 @@
 
 Seorang pengguna dapat di-*restrict* apabila mereka melakukan salah satu hal berikut:
 
-- 10 silence pada akunmu.
+- Berperilaku buruk secara terus-menerus terlepas dari berapa banyak pelanggaran yang tercatat atas nama mereka.
+- M
 - Kamu memberikan akunmu pada orang lain.
 - Menggunakan banyak akun.
 - Berbuat curang (lihat di bawah).
