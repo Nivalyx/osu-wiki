@@ -30,7 +30,7 @@ Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apapun terkait de
 
 ## Saya akan membuat video untuk membuktikan bahwa saya tidak bersalah!
 
-Sorry, but if you have been restricted, the support team is already sure you are cheating. A video will not help, because even these can be also doctored.
+Mohon maaf, namun apabila kamu di-*restrict*, maka tim layanan dukungan kami telah sepenuhnya yakin bahwa kamu berbuat curang. Rekaman video tidak dapat dijadikan bukti karena media ini rawan dimanipulasi.
 
 ## Teman saya telah dibanned karena berbuat curang! Mereka tidak mungkin berbuat seperti itu! Kamu salah!
 
