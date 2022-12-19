@@ -34,8 +34,8 @@ Mohon maaf, namun apabila kamu di-*restrict*, maka tim layanan dukungan kami tel
 
 ## Saya menemukan seseorang yang jelas-jelas berbuat curang dari skor/tayangan ulang mereka! Apa yang sebaiknya saya lakukan?
 
-Tetap tenang dan **jangan mulai membicarakan permainan mereka pada kanal percakapan publik**. Jangan berikan mereka perhatian atau meminta orang lain untuk menyaksikan mereka.
-Kamu disarankan untuk langsung melaporkan pengguna tersebut tanpa menyebut nama mereka secar publik di manapun juga melalui salah satu jalur pelaporan berikut.
+Tetap tenang dan **jangan membicarakan permainan mereka pada kanal percakapan publik**. Jangan berikan mereka perhatian atau meminta orang lain untuk menyaksikan mereka.
+Kamu disarankan untuk langsung melaporkan pengguna tersebut tanpa menyebut nama mereka secara publik di manapun juga melalui salah satu jalur pelaporan berikut.
 
 ### Laman profil pengguna
 
