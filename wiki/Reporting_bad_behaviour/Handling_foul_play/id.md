@@ -30,7 +30,12 @@ Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apapun terkait de
 
 ## Saya akan membuat video untuk membuktikan bahwa saya tidak bersalah!
 
-Mohon maaf, namun apabila kamu di-*restrict*, maka tim layanan dukungan kami telah sepenuhnya yakin bahwa kamu berbuat curang. Rekaman video tidak dapat dijadikan bukti karena media ini rawan dimanipulasi.
+Mohon maaf, namun apabila kamu sampai di-*restrict*, maka tim layanan dukungan kami telah sepenuhnya yakin bahwa kamu berbuat curang. Rekaman video tidak dapat membantumu karena sarana ini dapat dimanipulasi.
+
+## Saya menemukan seseorang yang jelas-jelas berbuat curang. Saya I found someone who is definitely cheating. I can tell by their replay/score! What should I do?
+
+Stay calm and **don't discuss their plays in public chat**. Don't give them undue attention or ask others to spectate them.
+You should report the user and not mention them anywhere. There are three ways to do so.
 
 ## Teman saya telah dibanned karena berbuat curang! Mereka tidak mungkin berbuat seperti itu! Kamu salah!
 
