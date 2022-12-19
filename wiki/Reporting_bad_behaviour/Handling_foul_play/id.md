@@ -12,11 +12,11 @@ Seorang pengguna dapat di-*restrict* apabila mereka melakukan salah satu hal ber
 
 ## Apa yang dimaksud dengan multi-accounting?
 
-Masing-masing pengguna hanya dapat memiliki **satu** akun. Membuat akun baru sangat dilarang. Pelanggaran awal akan dihukum dengan *silence* yang durasinya bergantung pada jumlah akun yang telah mereka buat. Para pengguna yang terus-menerus membuat akun baru tanpa mengindahkan peringatan yang telah mereka terima sebelumnya akan di-*restrict*.
+Masing-masing pengguna hanya dapat memiliki **satu** akun. Membuat akun baru sangat dilarang. Para pengguna yang baru pertama kali melanggar akan dihukum dengan *silence* yang durasinya bergantung pada jumlah akun yang telah dibuat. Para pengguna yang terus-menerus membuat akun baru tanpa mengindahkan peringatan yang telah mereka terima sebelumnya akan di-*restrict* secara langsung.
 
 ## Apa yang dimaksud dengan berbuat curang?
 
-Seperti yang disebutkan di [Aturan-aturan_Klien](/wiki/Rules), berbagai bentuk manipulasi pada program; peretasan skor, penggunaan makro untuk kombo penuh (full-combo), dan bidik-otomatis termasuk sebagai berbuat curang.
+[Peraturan osu!](/wiki/Rules), berbagai bentuk manipulasi pada program; peretasan skor, penggunaan makro untuk kombo penuh (full-combo), dan bidik-otomatis termasuk sebagai berbuat curang.
 
 Ini adalah sebuah peraturan tegas; Pelaku perbuatan curang akan **dibanned secara permanen.**
 
