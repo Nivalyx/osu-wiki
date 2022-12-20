@@ -74,11 +74,11 @@ Tunggu tiga bulan sejak tanggal *restriction* terakhirmu sebelum mengajukan band
 
 Tim layanan dukungan kami akan mengharapkan mereka yang telah melanggar untuk menyertakan rekam jejak pelanggaran yang telah mereka lakukan secara selengkap-lengkapnya beserta alasan mengapa mereka tidak akan lagi melanggar ke depannya.
 
-*Tim kami dapat memerlukan waktu untuk membalas banding yang kamu ajukan, namun tidak akan ada banding yang diabaikan.*
+*Tim kami dapat memerlukan waktu untuk memproses banding yang kamu ajukan, namun tidak akan ada banding yang diabaikan.*
 
 ## Apa yang dapat saya lakukan apabila saya telah melanggar peraturan?
 
-If you've broken the rules and you'd like to come clean, please contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain what you've done. Honesty is very much appreciated and this will likely not result in a permanent punishment.
+Apabila kamu telah melanggar peraturan dan ingin mengaku, harap hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan jelaskan segala kesalahan yang telah kamu perbuat. Kejujuranmu sangat dihargai dan kamu tidak akan dijatuhi hukuman yang bersifat permanen.
 
 ## Bagaimana caranya agar saya tidak sampai di-silence atau di-restrict?
 
