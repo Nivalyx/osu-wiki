@@ -71,7 +71,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Multiplayer spectating | ![No][false] | ![Yes][true] |
 | Countdown timers | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
 | Queue modes | ![No][false] | ![Yes][true][^queue-modes] |
-| Multiplayer commands | ![Yes][true] | ![No][false] |
+| Perintah multiplayer | ![Yes][true] | ![No][false] |
 | Mode tag co-op | ![Yes][true] | ![No][false] |
 | Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
 | Updating beatmaps with online changes | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
