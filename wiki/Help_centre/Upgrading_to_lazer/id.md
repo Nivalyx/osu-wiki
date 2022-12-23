@@ -179,7 +179,7 @@ Please run the setup wizard at the top of settings and go through the settings o
 
 We'll do our best to bring back as much of this as we can without blocking new functionality. This will come later on.
 
-#### Can I use my skin cursor in the menus as well?
+#### Apakah saya dapat menggunakan kursor bawaan skin saya di layar menu?
 
 Sehubungan dengan banyaknya permintaan yang telah kami terima, fitur ini kemungkinan akan kembali diperkenalkan di masa yang akan datang.
 
