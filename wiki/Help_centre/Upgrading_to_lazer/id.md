@@ -243,7 +243,7 @@ Di samping itu, para supporter juga dapat menikmati keuntungan berikut:
 
 We do intend to look into new benefits in the future, but our focus is currently on feature parity with stable so please use your supporter tag purchase as a way to... support the game's development!
 
-Kami tentunya ingin menambahkan berbagai keuntungan lainnya di masa yang akan datang, namun untuk saat ini kami masih berfokus pada 
+Kami tentunya ingin menambahkan berbagai keuntungan lainnya di masa yang akan datang, namun untuk saat ini kami fokus kami masih tertuju pada pengembangan lazer itu sendiri. Oleh karenanya, 
 
 #### Apabila saya berbuat curang pada lazer, apakah saya akan dihukum?
 
