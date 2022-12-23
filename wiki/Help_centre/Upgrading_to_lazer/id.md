@@ -227,9 +227,9 @@ Finally, unlike the last iteration, we are putting in the time and diligence to 
 
 We have a huge backlog of user-requested features and improvements that we will continue to push out at the speed of light. For those that have joined us recently and haven't experienced the momentum of osu! development, prepare to be in for a surprise.
 
-#### Bagaimana caranya untuk mengakses folder Songs milik saya?
+#### Bagaimana caranya untuk mengakses folder lagu saya?
 
-lazer tidak memiliki folder Songs! Kami merancang lazer sedemikian rupa karena hal ini memungkinkan kamu untuk dapat memuat ulang daftar beatmap tanpa harus menekan `F5` (karena beatmap tidak akan pernah rusak) dan mengurangi penggunaan ruang hard disk hingga 20-40%. Kamu dapat membaca seputar teknologi penyimpanan berkas kami lebih lanjut [pada tautan berikut](/wiki/Client/Release_stream/Lazer/File_storage).
+lazer tidak memiliki folder lagu! Kami merancang lazer sedemikian rupa karena hal ini memungkinkan kamu untuk dapat memuat ulang daftar beatmap tanpa harus menekan `F5` (karena beatmap tidak akan pernah rusak) dan mengurangi penggunaan ruang hard disk hingga 20-40%. Kamu dapat membaca penjelasan lebih lanjut seputar teknologi penyimpanan berkas yang kami gunakan [pada tautan berikut](/wiki/Client/Release_stream/Lazer/File_storage).
 
 If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
 
