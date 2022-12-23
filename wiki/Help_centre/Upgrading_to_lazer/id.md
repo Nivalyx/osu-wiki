@@ -241,9 +241,7 @@ Di samping itu, para supporter juga dapat menikmati keuntungan berikut:
 
 - Para supporter dapat membuat playlist dengan jangka waktu yang lebih panjang
 
-We do intend to look into new benefits in the future, but our focus is currently on feature parity with stable so please use your supporter tag purchase as a way to... support the game's development!
-
-Kami tentunya ingin menambahkan berbagai keuntungan lainnya di masa yang akan datang, namun untuk saat ini kami fokus kami masih tertuju pada pengembangan lazer itu sendiri. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... mendukung pengembangan osu! itu sendiri.
+Kami tentunya ingin menambahkan berbagai keuntungan lainnya di masa yang akan datang, namun untuk saat ini kami fokus kami masih tertuju pada penambahan berbagai fitur yang saat ini masih belum tersedia pada lazer. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... mendukung osu! agar dapat terus berkembang ke depannya!
 
 #### Apabila saya berbuat curang pada lazer, apakah saya akan dihukum?
 
