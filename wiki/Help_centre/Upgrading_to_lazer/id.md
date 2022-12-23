@@ -179,7 +179,7 @@ Please run the setup wizard at the top of settings and go through the settings o
 
 We'll do our best to bring back as much of this as we can without blocking new functionality. This will come later on.
 
-#### Apakah saya dapat menggunakan kursor milik skin saya di layar menu?
+#### Apakah saya dapat menggunakan kursor milik skin saya pada layar menu?
 
 Berhubung fitur ini merupakan salah satu fitur yang paling banyak diminta, kami kemungkinan akan kembali membawa fitur ini ke lazer pada masa yang akan datang.
 
