@@ -237,7 +237,7 @@ Apabila kamu ingin menyunting konten tertentu pada beatmap, mohon gunakan editor
 
 Untuk saat ini, terdapat beberapa filter tertentu pada laman daftar beatmap yang masih hanya dapat diakses oleh para supporter.
 
-Di samping itu, para supporter juga telah dapat menikmati keuntungan berikut:
+Di samping itu, para supporter juga dapat menikmati keuntungan berikut:
 
 - Para supporter dapat membuat playlist dengan jangka waktu yang lebih panjang
 
