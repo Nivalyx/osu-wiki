@@ -105,7 +105,7 @@ You can find it for download [here](https://github.com/ppy/osu#running-osu). In 
 
 Stable tidak akan dipensiunkan selama masih digunakan secara luas. Setidak-tidaknya, stable masih akan tetap didukung selama beberapa tahun setelah lazer dirilis.
 
-#### Dapatkah saya mengimpor seluruh data saya dari stable ke lazer?
+#### Apakah saya dapat mengimpor seluruh data saya dari stable ke lazer?
 
 Currently, beatmaps, skins, scores, replays and collections can be imported into lazer. Of note, **settings are not yet imported** so you will need to set them up from scratch.
 
