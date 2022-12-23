@@ -217,7 +217,7 @@ Karena "cutting-edge" tidak dirasakan cukup "tajam".
 
 #### Mengapa butuh waktu yang sangat lama sebelum lazer dapat menggantikan stable sebagai versi rilis utama?
 
-Walaupun osu! sekilas terlihat seperti permainan yang sederhana, terdapat sangat banyak fitur dan sistem yang mendukung keberjalanan osu! di belakang layar. Tergantung dari sudut pandang masing-masing, osu! dapat dianggap sebagai permainan yang dapat dimainkan atau yang masih jauh dari kata rampung.
+Walaupun osu! sekilas terlihat seperti permainan yang sederhana, osu! didasari oleh berbagai fitur dan sistem yang jumlahnya tak terhitung. Tergantung dari sudut pandang masing-masing, osu! dapat dianggap sebagai permainan yang dapat dimainkan atau yang masih jauh dari kata rampung.
 
 Another area which has taken a huge amount of effort is historical preservation — making sure that beatmaps behave exactly as they should, including edge cases that weren't originally planned for. osu! is a vibrant ecosystem and users have taken liberty to extend the game far beyond its planned extents, and we are trying our best to embrace and support this going forward.
 
