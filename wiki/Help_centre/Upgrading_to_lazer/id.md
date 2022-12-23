@@ -233,7 +233,7 @@ lazer tidak memiliki folder lagu! Kami merancang lazer sedemikian rupa karena ha
 
 Apabila kamu ingin menyunting konten tertentu pada beatmap, mohon gunakan editor. Ke depannya, editor lazer akan dapat digunakan untuk mengakses isi folder beatmap secara langsung dari dalam permainan, yang memungkinkan kamu untuk menggunakan sarana eksternal dalam hal pembuatan beatmap.
 
-#### Berhubung kini "osu!direct" tersedia bagi seluruh pemain, apakah para supporter akan mendapatkan keuntungan baru?
+#### Berhubung "osu!direct" kini tersedia bagi seluruh pemain, apakah para supporter akan mendapatkan keuntungan baru?
 
 Untuk saat ini, terdapat beberapa filter tertentu pada laman daftar beatmap yang masih hanya tersedia bagi para supporter.
 
