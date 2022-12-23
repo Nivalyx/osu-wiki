@@ -227,7 +227,7 @@ Finally, unlike the last iteration, we are putting in the time and diligence to 
 
 We have a huge backlog of user-requested features and improvements that we will continue to push out at the speed of light. For those that have joined us recently and haven't experienced the momentum of osu! development, prepare to be in for a surprise.
 
-#### Bagaimana caranya untuk mengakses folder lagu saya?
+#### Bagaimana caranya untuk mengakses folder Songs milik saya?
 
 There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
 
