@@ -103,7 +103,7 @@ You can find it for download [here](https://github.com/ppy/osu#running-osu). In 
 
 #### Apakah stable akan dipensiunkan? Apakah saya akan diharuskan untuk berpindah?
 
-Stable tidak akan dipensiunkan selama masih ramai peminat. Setidak-tidaknya, stable masih akan tetap didukung selama beberapa tahun setelah lazer dirilis.
+Stable tidak akan dipensiunkan selama masih digunakan secara luas. Setidak-tidaknya, stable masih akan tetap didukung selama beberapa tahun setelah lazer dirilis.
 
 #### Dapatkah saya mengimpor seluruh data saya dari stable ke lazer?
 
