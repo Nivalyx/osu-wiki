@@ -217,7 +217,7 @@ Karena "cutting-edge" tidak dirasakan cukup "tajam".
 
 #### Mengapa butuh waktu yang sangat lama sebelum lazer dapat menggantikan stable sebagai versi rilis utama?
 
-Walaupun osu! sekilas terlihat seperti permainan yang sederhana, osu! didasari oleh berbagai fitur dan sistem yang jumlahnya tak terhitung. Tergantung dari sudut pandang masing-masing, osu! dapat dianggap sebagai permainan yang telah dirilis atau yang masih jauh dari kata rampung.
+Walaupun osu! sekilas terlihat seperti permainan yang sederhana, osu! didasari oleh berbagai fitur dan sistem yang jumlahnya tak terhitung. Tergantung dari sudut pandang masing-masing, lazer dapat dipandang sebagai versi rilis yang telah siap untuk dimainkan atau yang masih jauh dari kata rampung.
 
 Another area which has taken a huge amount of effort is historical preservation — making sure that beatmaps behave exactly as they should, including edge cases that weren't originally planned for. osu! is a vibrant ecosystem and users have taken liberty to extend the game far beyond its planned extents, and we are trying our best to embrace and support this going forward.
 
@@ -231,7 +231,7 @@ We have a huge backlog of user-requested features and improvements that we will 
 
 lazer tidak memiliki folder lagu! Kami merancang lazer sedemikian rupa karena hal ini memungkinkan kamu untuk  memuat ulang daftar beatmap tanpa harus menekan `F5` (karena beatmap tidak akan pernah rusak) dan mengurangi penggunaan ruang hard disk hingga 20-40%. Kamu dapat membaca penjelasan lebih lanjut seputar teknologi penyimpanan berkas yang kami gunakan [pada tautan berikut](/wiki/Client/Release_stream/Lazer/File_storage).
 
-Apabila kamu ingin menyunting konten tertentu pada beatmap, mohon gunakan editor. Ke depannya, editor lazer akan dapat digunakan untuk mengakses isi folder beatmap secara langsung dari dalam permainan, yang memungkinkan kamu untuk menggunakan sarana eksternal dalam hal pembuatan beatmap.
+Apabila kamu ingin menyunting konten tertentu pada beatmap, mohon gunakan editor. Ke depannya, editor lazer akan dapat digunakan untuk mengakses isi folder beatmap secara langsung dari dalam permainan, yang memungkinkan kamu untuk membuat beatmap dengan bantuan sarana eksternal.
 
 #### Berhubung "osu!direct" kini tersedia bagi seluruh pemain, apakah para supporter akan mendapatkan keuntungan baru?
 
