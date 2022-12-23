@@ -181,7 +181,7 @@ We'll do our best to bring back as much of this as we can without blocking new f
 
 #### Apakah saya dapat menggunakan kursor bawaan skin saya di layar menu?
 
-Sehubungan dengan banyaknya permintaan yang telah kami terima, fitur ini kemungkinan akan kembali diperkenalkan di masa yang akan datang.
+Sehubungan dengan banyaknya permintaan yang telah kami terima, kamu akan dapat melakukan hal ini di masa yang akan datang.
 
 ### Performa
 
