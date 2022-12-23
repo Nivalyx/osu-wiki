@@ -181,7 +181,7 @@ We'll do our best to bring back as much of this as we can without blocking new f
 
 #### Can I use my skin cursor in the menus as well?
 
-We will likely bring back support for this in the future due to popular demand.
+Sehubungan dengan banyaknya permintaan yang telah kami terima, fitur ini kemungkinan besar akan kembali diperkenalkan di masa yang akan datang.
 
 ### Performa
 
