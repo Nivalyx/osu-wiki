@@ -181,7 +181,7 @@ We'll do our best to bring back as much of this as we can without blocking new f
 
 #### Apakah saya dapat menggunakan kursor milik skin saya di layar menu?
 
-Berhubung fitur ini merupakan salah satu fitur yang paling banyak diminta, kami akan hal ini di masa yang akan datang.
+Berhubung fitur ini merupakan salah satu fitur yang paling banyak diminta, kami akan kembali membawa hal ini di masa yang akan datang.
 
 ### Performa
 
