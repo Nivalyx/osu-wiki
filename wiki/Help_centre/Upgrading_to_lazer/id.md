@@ -181,7 +181,7 @@ We'll do our best to bring back as much of this as we can without blocking new f
 
 #### Apakah saya dapat menggunakan kursor milik skin saya pada layar menu?
 
-Berhubung fitur ini merupakan salah satu fitur yang telah banyak diminta, kami kemungkinan akan kembali membawa fitur ini ke lazer pada masa yang akan datang.
+Berhubung fitur ini merupakan salah satu fitur yang banyak diminta, kami kemungkinan akan kembali membawa fitur ini ke lazer pada masa yang akan datang.
 
 ### Performa
 
