@@ -197,7 +197,7 @@ If you are curious about how this affects input latency and test your own percep
 
 The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 Hz for system stability.
 
-#### Performa lazer saya lebih buruk dari stable. Kira-kira apa penyebabnya?
+#### Performa lazer saya lebih buruk dari stable. Apa yang menyebabkan hal ini?
 
 While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support DirectX (aka "compatibility mode" on stable) and Vulkan, which both have better driver support than OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
 
