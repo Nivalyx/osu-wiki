@@ -67,7 +67,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Akses kilat ke laman wiki / berita / riwayat pembaruan / peringkat | ![No][false] | ![Yes][true][^online-content] |
 | Akses kilat ke laman profil pengguna | ![No][false] | ![Yes][true] |
 | Akses kilat ke laman daftar beatmap | ![Partial][partial][^direct-supporter] | ![Yes][true] |
-| Ruangan multiplayer tanpa batasan ukuran | ![No][false][^multi-room-max] | ![Yes][true] |
+| Ruangan multiplayer tanpa batas ukuran | ![No][false][^multi-room-max] | ![Yes][true] |
 | Multiplayer spectating | ![No][false] | ![Yes][true] |
 | Countdown timers | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
 | Queue modes | ![No][false] | ![Yes][true][^queue-modes] |
