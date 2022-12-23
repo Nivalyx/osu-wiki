@@ -203,7 +203,7 @@ While on most modern hardware we see lazer outperform stable, there are always e
 
 ### Memberikan tanggapan
 
-#### Fitur yang selama ini sering saya gunakan belum ada di lazer! / Saya tidak menyukai perubahan yang terjadi! / Saya menemukan bug. Ke mana saya harus melapor?
+#### Fitur yang selama ini sering saya gunakan belum ada di lazer! / Terdapat suatu perubahan yang saya tidak sukai! / Saya menemukan bug. Ke mana saya harus melapor?
 
 There's a very high chance we are already aware of this and tracking it for future implementation! Please search the [issue tracker](https://github.com/ppy/osu/issues) and [discussions page](https://github.com/ppy/osu/discussions). If you can't find any matching threads, feel free to [open a discussion](https://github.com/ppy/osu/discussions/new).
 
@@ -241,7 +241,7 @@ Di samping itu, para supporter juga dapat menikmati keuntungan berikut:
 
 - Para supporter dapat membuat playlist dengan jangka waktu yang lebih panjang
 
-Kami tentunya ingin menambahkan berbagai keuntungan lainnya di masa yang akan datang, namun untuk saat ini kami fokus kami masih tertuju pada pengembangan lazer itu sendiri. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... mendukung osu! agar dapat terus berkembang ke depannya!
+Kami tentunya ingin menambahkan berbagai keuntungan lainnya di masa yang akan datang, namun untuk saat ini kami fokus kami masih tertuju pada pengembangan lazer itu sendiri. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... mendukung osu! agar dapat terus menuju ke arah yang lebih baik!
 
 #### Apabila saya berbuat curang pada lazer, apakah saya akan dihukum?
 
