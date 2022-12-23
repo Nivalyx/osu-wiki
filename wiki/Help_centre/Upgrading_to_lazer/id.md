@@ -201,7 +201,7 @@ The operating system will still poll at the higher rate, although benefits are p
 
 While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support DirectX (aka "compatibility mode" on stable) and Vulkan, which both have better driver support than OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
 
-### Providing feedback
+### Memberikan tanggapan
 
 #### A feature that I depend on is missing! / Something has changed and I don't like it. / I have found a bug, what's the best way to report it?
 
@@ -241,7 +241,7 @@ Di samping itu, para supporter juga dapat menikmati keuntungan berikut:
 
 - Para supporter dapat membuat playlist dengan jangka waktu yang lebih panjang
 
-Kami tentunya ingin menambahkan berbagai keuntungan lainnya di masa yang akan datang, namun untuk saat ini kami fokus kami masih tertuju pada penambahan berbagai fitur yang saat ini masih belum tersedia pada lazer. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... mendukung osu! agar dapat terus berkembang ke depannya!
+Kami tentunya ingin menambahkan berbagai keuntungan lainnya di masa yang akan datang, namun untuk saat ini kami fokus kami masih tertuju pada pengembangan lazer itu sendiri. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... mendukung osu! agar dapat terus berkembang ke depannya!
 
 #### Apabila saya berbuat curang pada lazer, apakah saya akan dihukum?
 
