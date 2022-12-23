@@ -235,7 +235,7 @@ Apabila kamu perlu untuk mengubah sesuatu pada beatmap, mohon gunakan editor. Ke
 
 #### Berhubung kini "osu!direct" tersedia bagi seluruh pemain, apakah para supporter akan mendapatkan keuntungan baru?
 
-Untuk saat ini, filter tertentu pada laman daftar beatmap masih hanya tersedia bagi para supporter.
+Untuk saat ini, terdapat beberapa filter tertentu pada laman daftar beatmap yang masih hanya tersedia bagi pemilik supporter.
 
 There are also some additional benefits already:
 
