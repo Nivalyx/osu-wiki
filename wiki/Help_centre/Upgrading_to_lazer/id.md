@@ -229,11 +229,11 @@ We have a huge backlog of user-requested features and improvements that we will 
 
 #### Bagaimana caranya untuk mengakses folder Songs milik saya?
 
-There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
+lazer tidak memiliki folder Songs! Kami merancang lazer sedemikian rupa karena hal ini memungkinkan kamu untuk memuat ulang daftar beatmap tanpa harus menekan `F5` (karena beatmap tidak akan pernah rusak) dan mengurangi penggunaan ruang hard disk hingga 20-40%. Kamu dapat membaca teknologi penyimpanan berkas kami lebih lanjut [pada tautan berikut](/wiki/Client/Release_stream/Lazer/File_storage).
 
 If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
 
-#### Now that "osu!direct" is available to all players, will supporters have any new benefits?
+#### Berhubung kini "osu!direct" tersedia bagi seluruh pemain, apakah para supporter akan mendapatkan keuntungan baru?
 
 Some filters in the beatmap listing are still supporter-only.
 
