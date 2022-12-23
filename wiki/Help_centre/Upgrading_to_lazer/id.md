@@ -239,7 +239,7 @@ Untuk saat ini, terdapat beberapa filter pada laman daftar beatmap yang masih ha
 
 Di samping itu, para supporter juga dapat menikmati keuntungan berikut:
 
-- Para supporter akan dapat membuat playlist dengan jangka waktu yang lebih panjang
+- Para supporter dapat membuat playlist dengan jangka waktu yang lebih panjang
 
 Kami tentunya ingin menambahkan berbagai keuntungan lainnya di masa yang akan datang, namun untuk saat ini kami fokus kami masih tertuju pada pengembangan lazer itu sendiri. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... mendukung osu! agar dapat terus menuju ke arah yang lebih baik!
 
