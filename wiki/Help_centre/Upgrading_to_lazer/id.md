@@ -233,7 +233,7 @@ lazer tidak memiliki folder Songs! Kami merancang lazer sedemikian rupa karena h
 
 If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
 
-Apabila kamu perlu untuk mengubah sesuatu pada beatmap, mohon gunakan editor. Ke depannya, lazer akan memiliki fitur untuk mengakses folder beatmap dari dalam permainan.
+Apabila kamu perlu untuk mengubah sesuatu pada beatmap, mohon gunakan editor. Ke depannya, editor lazer akan dapat digunakan untuk mengakses isi folder beatmap secara langsung dari dalam permainan, yang memungkinkan kamu untuk 
 
 #### Berhubung kini "osu!direct" tersedia bagi seluruh pemain, apakah para supporter akan mendapatkan keuntungan baru?
 
@@ -241,7 +241,7 @@ Untuk saat ini, filter tertentu pada laman daftar beatmap masih hanya tersedia b
 
 There are also some additional benefits already:
 
-- Supporters can create playlists that last longer
+- Para supporter dapat membuat playlist yang terbuka dalam jangka waktu yang lebih panjang
 
 We do intend to look into new benefits in the future, but our focus is currently on feature parity with stable so please use your supporter tag purchase as a way to... support the game's development!
 
