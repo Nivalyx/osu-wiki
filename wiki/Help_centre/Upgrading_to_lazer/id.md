@@ -257,7 +257,7 @@ osu! tidak menganut sistem mikrotransaksi. Apabila kamu ingin menghabiskan uangm
 
 ### Catatan
 
-[^wine]: Using wine.
+[^wine]: Dengan menggunakan wine.
 [^compatibility-mode]: DirectX via compatibility mode.
 [^coming-soon]: Coming soon.
 [^dll]: Manually via `.dll` files.
