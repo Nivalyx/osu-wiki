@@ -171,7 +171,7 @@ Please try applying the "classic" mod, which will restore much of the old behavi
 
 ### Skinning dan UI
 
-#### Terdapat elemen tampilan tertentu yang terlihat berbeda dengan stable, dan saya tidak menyukainya!
+#### Terdapat elemen tampilan tertentu yang berperilaku berbeda dengan stable, dan saya tidak menyukainya!
 
 Please run the setup wizard at the top of settings and go through the settings on the `Behaviour` screen. A lot of the common settings which have defaults changed are listed here. There's also a single button you can press to apply the old behaviours as a starting point for your lazer journey.
 
