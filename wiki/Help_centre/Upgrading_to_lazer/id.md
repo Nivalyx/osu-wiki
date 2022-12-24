@@ -233,7 +233,7 @@ Kami akan terus menyempurnakan osu! dan menghadirkan berbagai fitur yang telah b
 
 #### Bagaimana caranya untuk mengakses folder lagu saya?
 
-lazer tidak memiliki folder lagu seperti pada stable! Kami merancang lazer sedemikian rupa agar beatmap yang ada dapat dimuat ulang tanpa harus menekan `F5` (karena beatmap tidak akan pernah rusak) dan agar ruang hard disk yang digunakan dapat dikurangi hingga 20-40%. Kamu dapat membaca penjelasan lebih lanjut seputar teknologi penyimpanan berkas yang kami gunakan [pada tautan berikut](/wiki/Client/Release_stream/Lazer/File_storage).
+lazer tidak memiliki folder lagu seperti pada stable! Kami merancang lazer sedemikian rupa agar beatmap yang ada dapat dimuat ulang tanpa harus menekan `F5` (karena beatmap tidak akan pernah rusak) dan ruang hard disk yang digunakan dapat dikurangi hingga 20-40%. Kamu dapat membaca penjelasan lebih lanjut seputar teknologi penyimpanan berkas yang kami gunakan [pada tautan berikut](/wiki/Client/Release_stream/Lazer/File_storage).
 
 Apabila kamu ingin menyunting konten tertentu pada beatmap, mohon gunakan editor. Ke depannya, editor lazer akan dapat digunakan untuk mengakses isi folder beatmap secara langsung dari dalam permainan.
 
