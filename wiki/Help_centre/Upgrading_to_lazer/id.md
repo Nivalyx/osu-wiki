@@ -221,7 +221,7 @@ Karena "cutting-edge" tidak dirasa cukup "tajam".
 
 Di balik tampilannya yang sederhana, osu! tidak dapat berjalan tanpa dukungan ribuan fitur dan sistem yang harus ditulis ulang untuk lazer. Oleh karenanya, tergantung dari sudut pandang masing-masing, lazer saat ini — dengan segala ketidaksempurnaannya  — dapat dianggap sebagai versi osu! yang telah siap untuk dimainkan atau yang masih jauh dari kata rampung.
 
-Di samping itu, lazer juga tidak dapat dirilis apabila masih terdapat beatmap yang tidak didukung olehnya.
+osu! juga memiliki rekam jejak sejarah yang tidak dapat dikesampingkan begitu saja. Saat ini, terdapat berbagai macam beatmap
 
 Another area which has taken a huge amount of effort is historical preservation — making sure that beatmaps behave exactly as they should, including edge cases that weren't originally planned for. osu! is a vibrant ecosystem and users have taken liberty to extend the game far beyond its planned extents, and we are trying our best to embrace and support this going forward.
 
