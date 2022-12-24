@@ -97,9 +97,9 @@ So you've decided you want to give lazer a shot? Great!
 
 You can find it for download [here](https://github.com/ppy/osu#running-osu). In the near future, you will be able to switch to lazer from stable (from the `Release stream` setting) and find the download link on the osu! website.
 
+Apabila kamu baru ingin mencoba lazer untuk pertama kalinya, selamat datang!
 
-
-Kamu dapat mengunduh lazer dari [tautan ini](https://github.com/ppy/osu#running-osu).
+Kamu dapat mengunduh lazer melalui [tautan berikut](https://github.com/ppy/osu#running-osu).
 
 ## Pertanyaan yang umum diajukan
 
