@@ -107,13 +107,15 @@ Stable tidak akan dipensiunkan selama masih ramai akan peminat. Setidak-tidaknya
 
 #### Apakah saya dapat mengimpor seluruh data saya dari stable ke lazer?
 
-Untuk saat ini, kamu hanya dapat mengimpor beatmap, skin, skor, tayangan ulang, dan daftar koleksi yang kamu miliki. Kamu harus **mengatur ulang segala pengaturan yang kamu gunakan dari awal** karena impor pengaturan dari stable ke lazer saat ini belum didukung.
+Untuk saat ini, kamu hanya dapat mengimpor beatmap, skin, skor, tayangan ulang, dan daftar koleksi yang kamu miliki. Kamu **belum dapat mengimpor pengaturan dari stable ke lazer**, dan kamu mengatur ulang segala pengaturan yang kamu gunakan dari awal pada saat kamu pertama menjalankan lazer.
 
-#### Apabila saya mengimpor beatmap yang saya miliki ke lazer, apakah ruang penyimpanan yang digunakan akan berlipat ganda?
+#### Apabila saya mengimpor beatmap yang saya miliki ke lazer, apakah ruang penyimpanan yang digunakan oleh osu! akan berlipat ganda?
 
 If you have both lazer and stable on the same drive, [hard links](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) are used to avoid using extra disk space.
 
-In all other cases, importing beatmaps will use double the disk space.
+Apabila lazer dan stable terinstal pada drive yang sama, ruang penyimpananmu tidak berkat teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) yang osu! gunakan.
+
+Selain itu, ruang penyimpanan yang digunakan oleh osu! akan berlipat ganda.
 
 #### Apabila saya menghapus lazer, apakah instalasi stable saya akan rusak?
 
