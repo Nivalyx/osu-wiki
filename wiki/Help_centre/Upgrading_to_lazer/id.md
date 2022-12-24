@@ -139,7 +139,7 @@ Meskipun demikian, kamu dapat mengimpor skor dan beatmap dari lazer menuju stabl
 
 Skormu akan muncul pada kolom "Rekam Jejak Permainan Terkini", namun tidak akan muncul pada kolom "Performa Terbaik".
 
-#### If I set a score on lazer, will it give performance points?
+#### Apakah saya akan memperoleh pp dari skor yang saya catatkan pada lazer?
 
 Scores will already have performance points calculated (you can see this in the "recently played" section of your profile), but it will not contribute to the total value yet.
 
