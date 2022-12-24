@@ -14,7 +14,7 @@ Pada saatnya nanti, apabila semuanya telah siap, osu!(lazer) akan dirilis sebaga
 
 ## Perbandingan fitur
 
-Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** dengan stable. Harap diperhatikan bahwa segala sesuatunya yang tertera di bawah ini dapat berubah sewaktu-waktu seiring dengan pengembangan lazer dan tanggapan pemain.
+Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** dengan stable. Harap diperhatikan bahwa segala sesuatunya yang tertera di bawah ini akan selalu berubah seiring dengan pengembangan lazer dan tanggapan pemain.
 
 ### Kompatibilitas dan performa
 
@@ -95,7 +95,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 
 Apakah ini pertama kalinya kamu mencoba lazer? Apabila ya, selamat datang di lazer!
 
-Kamu dapat mengunduh lazer melalui [tautan berikut](https://github.com/ppy/osu#running-osu). Ke depannya, kamu akan dapat beralih ke lazer secara langsung dari dalam permainan (melalui pilihan `Versi rilis` yang terdapat pada menu pengaturan) dan memperoleh berkas instalasi lazer dari situs web osu!.
+Kamu dapat mengunduh lazer melalui [tautan berikut](https://github.com/ppy/osu#running-osu). Ke depannya, kamu akan dapat beralih ke lazer secara langsung dari dalam permainan (melalui pilihan `Versi rilis` yang terdapat pada menu pengaturan) dan mengunduh lazer dari situs web osu!.
 
 ## Pertanyaan yang umum diajukan
 
