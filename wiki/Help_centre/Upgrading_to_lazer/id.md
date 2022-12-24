@@ -201,7 +201,7 @@ The operating system will still poll at the higher rate, although benefits are p
 
 While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support DirectX (aka "compatibility mode" on stable) and Vulkan, which both have better driver support than OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
 
-### Memberikan tanggapan
+### Pemberikan tanggapan
 
 #### Fitur yang selama ini sering saya gunakan belum ada di lazer! / Saya tidak menyukai perubahan yang ada! / Saya menemukan bug. Ke mana saya harus melapor?
 
