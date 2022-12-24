@@ -109,7 +109,7 @@ Stable tidak akan dipensiunkan selama masih ramai akan peminat. Setidak-tidaknya
 
 Untuk saat ini, kamu hanya dapat mengimpor beatmap, skin, skor, tayangan ulang, dan daftar koleksi yang kamu miliki. Kamu harus **mengatur ulang segala pengaturan yang kamu gunakan dari awal** karena impor pengaturan dari stable ke lazer saat ini belum didukung.
 
-#### If I import my beatmaps to lazer, will it use double the disk space?
+#### Apabila saya mengimpor beatmap yang saya miliki ke lazer, apakah ruang penyimpanan yang digunakan akan berlipat ganda?
 
 If you have both lazer and stable on the same drive, [hard links](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) are used to avoid using extra disk space.
 
