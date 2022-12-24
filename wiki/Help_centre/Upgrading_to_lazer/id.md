@@ -223,11 +223,11 @@ Another area which has taken a huge amount of effort is historical preservation 
 
 Finally, unlike the last iteration, we are putting in the time and diligence to ensure the code base will serve us well into the future. We have done the groundwork to allow new features to come online at blazing speed going forward. This will include new UI components, new ways to skin the game, new multiplayer systems and let's not forget the ability to load and play all your existing beatmaps on completely new game modes (a.k.a. rulesets)!
 
-#### Ke arah mana selanjutnya osu! akan dikembangkan?
+#### Apa yang akan dilakukan oleh tim osu! selanjutnya setelah lazer dirilis?
 
 We have a huge backlog of user-requested features and improvements that we will continue to push out at the speed of light. For those that have joined us recently and haven't experienced the momentum of osu! development, prepare to be in for a surprise.
 
-Apabila kamu sebelumnya belum pernah mengikuti perkembangan osu! secara mendalam, bersiaplah untuk dihadapkan dengan berbagai kejutan.
+Kami akan. Apabila kamu sebelumnya belum pernah mengikuti perkembangan osu! secara mendalam, bersiaplah untuk dihadapkan dengan berbagai kejutan.
 
 #### Bagaimana caranya untuk mengakses folder lagu saya?
 
