@@ -93,9 +93,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 
 ## Beralih ke lazer
 
-So you've decided you want to give lazer a shot? Great!
-
-Apabila kamu sebelumnya belum pernah mencoba lazer, selamat datang di lazer!
+Apakah ini pertama kalinya kamu mencoba lazer? Apabila ya, selamat datang di lazer!
 
 Kamu dapat mengunduh lazer melalui [tautan berikut](https://github.com/ppy/osu#running-osu). Ke depannya, kamu akan dapat beralih dari stable menuju lazer (melalui pilihan `Versi rilis` yang terdapat di pengaturan) dan mengunduh lazer secara langsung melalui situs web osu!.
 
