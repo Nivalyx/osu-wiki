@@ -181,7 +181,7 @@ We'll do our best to bring back as much of this as we can without blocking new f
 
 #### Apakah saya dapat menggunakan kursor milik skin saya pada layar menu?
 
-Fitur ini saat ini tidak didukung. Meskipun demikian, berhubung fitur ini merupakan salah satu fitur yang banyak diminta, kami kemungkinan akan kembali memperkenalkan fitur ini di masa yang akan datang.
+Fitur ini saat ini tidak didukung. Meskipun demikian, berhubung fitur ini merupakan salah satu fitur yang banyak diminta, kami kemungkinan akan kembali memungkinkan hal ini di masa yang akan datang.
 
 ### Performa
 
