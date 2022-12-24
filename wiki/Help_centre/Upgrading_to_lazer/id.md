@@ -107,7 +107,7 @@ Stable tidak akan dipensiunkan selama masih ramai akan peminat. Setidak-tidaknya
 
 #### Apakah saya dapat mengimpor seluruh data saya dari stable ke lazer?
 
-Untuk saat ini, kamu hanya dapat mengimpor beatmap, skin, skor, tayangan ulang, dan daftar koleksi yang kamu miliki. Kamu **belum dapat mengimpor pengaturan dari stable ke lazer**, sehingga kamu harus mengatur ulang segala pengaturan yang kamu gunakan dari awal pada saat kamu pertama menjalankan lazer.
+Untuk saat ini, kamu hanya dapat mengimpor beatmap, skin, skor, tayangan ulang, dan daftar koleksi yang kamu miliki. Kamu **belum dapat mengimpor pengaturan dari stable ke lazer**, sehingga kamu harus mengatur ulang segala pengaturan yang kamu gunakan dari awal pada saat lazer pertama dijalankan.
 
 #### Apabila saya mengimpor beatmap yang saya miliki ke lazer, apakah ruang penyimpanan yang digunakan oleh osu! akan berlipat ganda?
 
