@@ -262,8 +262,8 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^coming-soon]: Akan segera hadir.
 [^dll]: Secara manual melalui berkas `.dll`.
 [^share-files]: Beatmaps and skins will share files and save on disk space.
-[^gameplay-only]: Gameplay only.
-[^online]: Via online retrieval.
+[^gameplay-only]: Hanya dalam permainan.
+[^online]: Secara online.
 [^normalisation]: This brings beatmap custom combo colours to the same brightness level.
 [^hold-for-hud]: Hold `Ctrl` to view the HUD momentarily while it's hidden.
 [^offset-calibration-stable]: Adjustable manually via key bindings.
