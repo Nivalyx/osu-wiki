@@ -157,7 +157,7 @@ You can actually change the `Score display mode` setting to `Classic` to get bac
 
 While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset or all scores in order to preserve game balance.
 
-#### Will scores set on stable eventually show in lazer?
+#### Apakah skor yang saya catatkan pada stable nantinya juga akan terlihat pada lazer?
 
 Yes. Once we finish balancing the combination of lazer and stable scores, both will be visible.
 
