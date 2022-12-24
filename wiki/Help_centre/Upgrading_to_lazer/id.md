@@ -241,7 +241,7 @@ Di samping itu, keuntungan berikut juga telah tersedia untuk dinikmati:
 
 - Para supporter dapat membuat playlist dengan jangka waktu yang lebih panjang
 
-Kami tentunya ingin menambahkan berbagai keuntungan lainnya di masa yang akan datang, namun untuk saat ini kami masih harus mengembangkan lazer dan menambahkan berbagai fitur yang saat ini masih belum tersedia. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... membawa osu! ke arah yang lebih baik!
+Kami tentunya ingin menambahkan berbagai keuntungan lainnya di masa yang akan datang, namun untuk saat ini fokus kami masih tertuju pada pengembangan lazer dan penambahan berbagai fitur yang saat ini masih belum tersedia. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... membawa osu! ke arah yang lebih baik!
 
 #### Apabila saya berbuat curang pada lazer, apakah saya akan dihukum?
 
