@@ -227,6 +227,8 @@ Finally, unlike the last iteration, we are putting in the time and diligence to 
 
 We have a huge backlog of user-requested features and improvements that we will continue to push out at the speed of light. For those that have joined us recently and haven't experienced the momentum of osu! development, prepare to be in for a surprise.
 
+, bersiaplah untuk terkejut.
+
 #### Bagaimana caranya untuk mengakses folder lagu saya?
 
 lazer tidak memiliki folder lagu! Kami merancang lazer sedemikian rupa agar beatmap dapat dimuat ulang tanpa harus menekan `F5` (karena beatmap tidak akan pernah rusak) dan untuk mengurangi penggunaan ruang hard disk hingga 20-40%. Kamu dapat membaca penjelasan lebih lanjut seputar teknologi penyimpanan berkas yang kami gunakan [pada tautan berikut](/wiki/Client/Release_stream/Lazer/File_storage).
