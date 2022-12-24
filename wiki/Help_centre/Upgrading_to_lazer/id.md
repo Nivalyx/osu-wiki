@@ -205,7 +205,7 @@ While on most modern hardware we see lazer outperform stable, there are always e
 
 #### Fitur yang selama ini sering saya gunakan belum ada di lazer! / Saya tidak menyukai perubahan yang ada! / Saya menemukan bug. Ke mana saya harus melapor?
 
-There's a very high chance we are already aware of this and tracking it for future implementation! Please search the [issue tracker](https://github.com/ppy/osu/issues) and [discussions page](https://github.com/ppy/osu/discussions). If you can't find any matching threads, feel free to [open a discussion](https://github.com/ppy/osu/discussions/new).
+There's a very high chance we are already aware of this and tracking it for future implementation!
 
 Telusuri apakah hal yang ingin kamu sampaikan telah dilaporkan sebelumnya melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [laman diskusi](https://github.com/ppy/osu/discussions) milik repositori GitHub osu!. Apabila kamu tidak menemukan kecocokan apapun, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
 
