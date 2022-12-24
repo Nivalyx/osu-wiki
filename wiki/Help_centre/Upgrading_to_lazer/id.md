@@ -99,7 +99,7 @@ You can find it for download [here](https://github.com/ppy/osu#running-osu). In 
 
 Apabila kamu sebelumnya belum pernah mencoba lazer, selamat datang di lazer!
 
-Kamu dapat mengunduh lazer melalui [tautan berikut](https://github.com/ppy/osu#running-osu).
+Kamu dapat mengunduh lazer melalui [tautan berikut](https://github.com/ppy/osu#running-osu). Ke depannya, kamu akan dapat beralih dari stable menuju lazer 
 
 ## Pertanyaan yang umum diajukan
 
@@ -107,7 +107,7 @@ Kamu dapat mengunduh lazer melalui [tautan berikut](https://github.com/ppy/osu#r
 
 #### Apakah stable akan dipensiunkan? Apakah saya akan diharuskan untuk berpindah?
 
-Stable tidak akan dipensiunkan selama masih ramai akan peminat. Setidak-tidaknya, stable masih akan tetap didukung selama beberapa tahun setelah lazer dirilis.
+Stable tidak akan dipensiunkan selama masih ramai akan peminat. Setidak-tidaknya, stable masih akan tetap didukung hingga beberapa tahun setelah lazer dirilis.
 
 #### Apakah saya dapat mengimpor seluruh data saya dari stable ke lazer?
 
