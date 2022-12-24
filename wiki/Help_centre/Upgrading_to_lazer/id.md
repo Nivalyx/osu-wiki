@@ -215,7 +215,7 @@ Do note that we are already tracking over 1,000 issues of varying priorities, an
 
 #### Mengapa "lazer" dinamakan demikian?
 
-Karena "cutting-edge" tidak dirasa cukup "tajam". Apa yang lebih tajam dari cutting-edge?
+Karena "cutting-edge" tidak dirasa cukup "tajam".
 
 #### Mengapa butuh waktu yang sangat lama sebelum lazer dapat menggantikan stable sebagai versi rilis utama?
 
