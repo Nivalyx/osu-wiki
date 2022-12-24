@@ -173,7 +173,7 @@ Please try applying the "classic" mod, which will restore much of the old behavi
 
 ### Skinning and UI
 
-#### Something is behaving differently to stable and I don't like it!
+#### Terdapat sesuatu yang berperilaku berbeda dengan stable, dan saya tidak menyukainya!
 
 Please run the setup wizard at the top of settings and go through the settings on the `Behaviour` screen. A lot of the common settings which have defaults changed are listed here. There's also a single button you can press to apply the old behaviours as a starting point for your lazer journey.
 
@@ -183,7 +183,7 @@ We'll do our best to bring back as much of this as we can without blocking new f
 
 #### Apakah saya dapat menggunakan kursor milik skin saya pada layar menu?
 
-Berhubung fitur ini merupakan salah satu fitur yang banyak diminta, kami kemungkinan akan kembali membawa fitur ini ke lazer pada masa yang akan datang.
+Berhubung fitur ini merupakan salah satu fitur yang banyak diminta, kami kemungkinan akan kembali memperkenalkan fitur ini pada lazer di masa yang akan datang.
 
 ### Performa
 
