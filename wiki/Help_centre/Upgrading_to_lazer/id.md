@@ -115,7 +115,7 @@ If you have both lazer and stable on the same drive, [hard links](/wiki/Client/R
 
 Apabila lazer dan stable terinstal pada drive yang sama, ruang penyimpananmu tidak berkat teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) yang osu! gunakan.
 
-Selain itu, ruang penyimpanan yang digunakan oleh osu! akan berlipat ganda.
+Apabila tidak, ruang penyimpanan yang digunakan oleh osu! akan berlipat ganda.
 
 #### Apabila saya menghapus lazer, apakah instalasi stable saya akan rusak?
 
