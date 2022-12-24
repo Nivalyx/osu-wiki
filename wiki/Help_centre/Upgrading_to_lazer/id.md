@@ -159,7 +159,7 @@ While we will try to preserve as many scores as possible, we **offer no guarante
 
 #### Apakah skor yang saya catatkan pada stable nantinya juga akan muncul pada lazer?
 
-Ya. Setelah kami selesai membobotkan ulang skor yang tercatat pada stable, seluruh skor akan muncul pada papan peringkat lazer.
+Ya. Setelah kami menyelesaikan proses pembobotan skor antara lazer dan stable, seluruh skor akan muncul pada papan peringkat lazer.
 
 #### Apakah seluruh mod akan diikutsertakan ke dalam papan peringkat?
 
