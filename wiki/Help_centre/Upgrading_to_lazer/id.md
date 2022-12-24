@@ -145,7 +145,7 @@ Scores will already have performance points calculated (you can see this in the 
 
 #### Apakah lazer menggunakan sistem perhitungan ScoreV2?
 
-Lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Sistem ini masih dalam pengembangan dan dapat berubah sewaktu-waktu seiring dengan tanggapan yang kami terima.
+Lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Sistem ini masih berada dalam pengembangan dan dapat berubah sewaktu-waktu seiring dengan tanggapan yang kami terima.
 
 <!-- lint ignore no-heading-punctuation -->
 
