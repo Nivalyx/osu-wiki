@@ -74,7 +74,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Perintah multiplayer | ![Yes][true] | ![No][false] |
 | Mode tag co-op | ![Yes][true] | ![No][false] |
 | Playlist (papan peringkat yang dikurasi oleh pengguna) | ![No][false] | ![Yes][true] |
-| Updating beatmaps with online changes | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
+| Mempe | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
 
 ### Editor
 
@@ -217,7 +217,7 @@ Karena "cutting-edge" tidak dirasa cukup "tajam".
 
 #### Mengapa butuh waktu yang sangat lama sebelum lazer dapat menggantikan stable sebagai versi rilis utama?
 
-Walaupun osu! sekilas terlihat seperti permainan yang sederhana, osu! didasari oleh berbagai fitur dan sistem yang jumlahnya tak terhitung. Tergantung dari kacamata masing-masing, lazer dapat dipandang sebagai permainan yang telah siap untuk dimainkan atau yang masih jauh dari kata rampung.
+Walaupun osu! sekilas terlihat seperti permainan yang sederhana, osu! didasari oleh berbagai fitur dan sistem yang jumlahnya tak terhitung. Tergantung dari kacamata masing-masing, lazer dapat dipandang sebagai versi osu! yang telah siap untuk dirilis atau yang masih jauh dari kata rampung.
 
 Another area which has taken a huge amount of effort is historical preservation — making sure that beatmaps behave exactly as they should, including edge cases that weren't originally planned for. osu! is a vibrant ecosystem and users have taken liberty to extend the game far beyond its planned extents, and we are trying our best to embrace and support this going forward.
 
