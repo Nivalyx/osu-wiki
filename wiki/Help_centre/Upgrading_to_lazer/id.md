@@ -111,7 +111,7 @@ Untuk saat ini, kamu hanya dapat mengimpor beatmap, skin, skor, tayangan ulang, 
 
 #### Apabila saya mengimpor beatmap yang saya miliki ke lazer, apakah ruang penyimpanan yang digunakan oleh osu! akan berlipat ganda?
 
-Apabila lazer dan stable terinstal pada drive yang sama, kamu tidak perlu khawatir karena osu! menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) yang dapat menghemat ruang penyimpanan.
+Apabila lazer dan stable terinstal pada drive yang sama, kamu tidak perlu khawatir karena osu! menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) yang ramah akan ruang penyimpanan.
 
 Apabila tidak, ruang penyimpanan yang digunakan oleh osu! akan berlipat ganda.
 
