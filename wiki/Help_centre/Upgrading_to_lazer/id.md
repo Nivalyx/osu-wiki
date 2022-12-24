@@ -229,7 +229,7 @@ Finally, unlike the last iteration, we are putting in the time and diligence to 
 
 #### Apa yang akan dilakukan oleh tim osu! setelah lazer dirilis?
 
-Kami akan terus mengeluarkan dan menyempurnakan berbagai fitur yang telah banyak diminta secara cepat dan tanggap. Apabila kamu sebelumnya belum pernah mengikuti siklus pengembangan osu!, bersiaplah untuk dihadapkan dengan berbagai kejutan.
+Kami akan terus menghadirkan dan menyempurnakan berbagai fitur yang telah banyak diminta secara cepat dan tanggap. Apabila kamu sebelumnya belum pernah mengikuti siklus pengembangan osu!, bersiaplah untuk dihadapkan dengan berbagai kejutan.
 
 #### Bagaimana caranya untuk mengakses folder lagu saya?
 
