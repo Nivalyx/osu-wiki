@@ -207,7 +207,7 @@ While on most modern hardware we see lazer outperform stable, there are always e
 
 There's a very high chance we are already aware of this and tracking it for future implementation! Please search the [issue tracker](https://github.com/ppy/osu/issues) and [discussions page](https://github.com/ppy/osu/discussions). If you can't find any matching threads, feel free to [open a discussion](https://github.com/ppy/osu/discussions/new).
 
-Telusuri apakah hal yang ingin kamu sampaikan telah dilaporkan sebelumnya melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [laman diskusi](https://github.com/ppy/osu/discussions) milik repositori GitHub osu!.
+Telusuri apakah hal yang ingin kamu sampaikan telah dilaporkan sebelumnya melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [laman diskusi](https://github.com/ppy/osu/discussions) milik repositori GitHub osu!. Apabila kamu tidak menemukan kecocokan apapun, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
 
 Do note that we are already tracking over 1,000 issues of varying priorities, and it may take us some time to fix issues that only affect a small number of users.
 
