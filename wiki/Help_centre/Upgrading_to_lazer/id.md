@@ -103,11 +103,13 @@ You can find it for download [here](https://github.com/ppy/osu#running-osu). In 
 
 #### Apakah stable akan dipensiunkan? Apakah saya akan diharuskan untuk berpindah?
 
-Stable tidak akan dipensiunkan selama masih digunakan secara luas. Setidak-tidaknya, stable masih akan tetap didukung selama beberapa tahun setelah lazer dirilis.
+Stable tidak akan dipensiunkan selama masih ramai akan peminat. Setidak-tidaknya, stable masih akan tetap didukung selama beberapa tahun setelah lazer dirilis.
 
 #### Apakah saya dapat mengimpor seluruh data saya dari stable ke lazer?
 
 Currently, beatmaps, skins, scores, replays and collections can be imported into lazer. Of note, **settings are not yet imported** so you will need to set them up from scratch.
+
+Untuk saat ini, kamu hanya dapat mengimpor beatmap, skin, skor, tayangan ulang, dan daftar koleksi yang kamu miliki. **Pengaturan 
 
 #### If I import my beatmaps to lazer, will it use double the disk space?
 
@@ -137,13 +139,13 @@ Meskipun demikian, kamu dapat mengimpor skor dan beatmap dari lazer menuju stabl
 
 #### Apabila saya mencetak skor pada lazer, apakah skor tersebut akan muncul pada laman profil saya?
 
-Scores will show under "recently played" but not in "best performance" yet.
+Skormu akan muncul pada kolom "Rekam Jejak Permainan Terkini" namun tidak pada kolom "Performa Terbaik".
 
 #### If I set a score on lazer, will it give performance points?
 
 Scores will already have performance points calculated (you can see this in the "recently played" section of your profile), but it will not contribute to the total value yet.
 
-#### Does lazer use ScoreV2?
+#### Apakah lazer menggunakan perhitungan ScoreV2?
 
 Lazer currently uses a new experimental score implementation which is similar to ScoreV2 but not the same. This is still in development and we are looking for more feedback on how it feels in various contexts (solo play, leaderboards, tournaments etc.)
 
