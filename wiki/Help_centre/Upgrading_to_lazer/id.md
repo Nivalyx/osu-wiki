@@ -6,7 +6,7 @@ tags:
 
 # Beralih ke lazer
 
-osu!(lazer) merupakan versi rilisan utama osu! yang akan datang. Versi ini merupakan hasil jerih payah tim kami selama bertahun-tahun dalam mewujudkan osu! yang modern, canggih, dan sepenuhnya baru.
+osu!(lazer) merupakan versi rilisan utama osu! yang akan datang. Versi ini merupakan hasil jerih payah tim kami selama bertahun-tahun dalam mewujudkan versi osu! yang modern, canggih, dan sepenuhnya baru.
 
 Pada saatnya nanti, apabila semuanya telah siap, osu!(lazer) akan dirilis sebagai pembaruan khusus yang menggantikan versi osu! yang saat ini digunakan. Pembaruan ini hanya akan dikeluarkan apabila waktunya dirasa telah tepat oleh **para pemain**, dan versi osu! sebelumnya akan tetap didukung hingga sebagian besar pemain telah beralih ke osu!(lazer).
 
@@ -147,7 +147,7 @@ Scores will already have performance points calculated (you can see this in the 
 
 Lazer currently uses a new experimental score implementation which is similar to ScoreV2 but not the same. This is still in development and we are looking for more feedback on how it feels in various contexts (solo play, leaderboards, tournaments etc.)
 
-Lazer saat ini menggunakan algoritma perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Algoritma ini masih dalam pengembangan dan dapat berubah sewaktu-waktu seiring dengan tanggapan yang kami terima 
+Lazer saat ini menggunakan algoritma perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Algoritma ini masih dalam pengembangan, dan 
 
 <!-- lint ignore no-heading-punctuation -->
 
