@@ -217,7 +217,9 @@ Karena "cutting-edge" tidak dirasa cukup "tajam".
 
 #### Mengapa butuh waktu yang sangat lama sebelum lazer dapat menggantikan stable sebagai versi rilis utama?
 
-Di balik kesederhanaannya, osu! tidak akan dapat berjalan tanpa dukungan berbagai fitur dan sistem yang harus ditulis ulang untuk lazer. Oleh karenanya, tergantung dari sudut pandang masing-masing, lazer saat ini dapat dianggap sebagai versi osu! yang telah siap untuk dirilis atau yang masih jauh dari kata rampung.
+Di balik kesederhanaannya, osu! tidak akan dapat berjalan tanpa dukungan puluhan ribu fitur dan sistem yang harus ditulis ulang untuk lazer. Oleh karenanya, tergantung dari sudut pandang masing-masing, lazer saat ini dapat dianggap sebagai versi osu! yang telah siap untuk dirilis atau yang masih jauh dari kata rampung.
+
+osu! juga rekam jejak sejarah yang panjang.
 
 Another area which has taken a huge amount of effort is historical preservation — making sure that beatmaps behave exactly as they should, including edge cases that weren't originally planned for. osu! is a vibrant ecosystem and users have taken liberty to extend the game far beyond its planned extents, and we are trying our best to embrace and support this going forward.
 
