@@ -268,7 +268,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^hold-for-hud]: Hold `Ctrl` to view the HUD momentarily while it's hidden.
 [^offset-calibration-stable]: Adjustable manually via key bindings.
 [^offset-calibration-lazer]: When retrying a beatmap, you can calibrate the offset based on your last play.
-[^can-disable]: Can be disabled.
+[^can-disable]: Dapat dinonaktifkan.
 [^note-lock]: Still exists, but should not interfere.
 [^score-reset-balance]: Scores will be reset to ensure balance.
 [^score-reset-isolated]: Scores will be reset, currently isolated from stable scores.
