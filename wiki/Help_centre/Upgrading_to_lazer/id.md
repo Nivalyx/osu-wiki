@@ -161,6 +161,8 @@ While we will try to preserve as many scores as possible, we **offer no guarante
 
 Yes. Once we finish balancing the combination of lazer and stable scores, both will be visible.
 
+Ya. Setelah skor dari stable dan lazer dibobotkan dengan seimbang, skor keduanya akan terlihat .
+
 #### Apakah seluruh mod akan diikutsertakan ke dalam papan peringkat?
 
 For now, scores of all mod combinations appear on leaderboards. Whether scores will give performance points with all mods (and if they do, whether there will be a bonus or penalty applied) is still in discussion.
