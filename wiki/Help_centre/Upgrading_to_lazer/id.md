@@ -255,7 +255,7 @@ Laporkan mereka melalui fitur pengiriman laporan sebagaimana pada umumnya.
 
 #### Di mana saya dapat membeli item permainan tertentu?
 
-osu! tidak menganut sistem mikrotransaksi. Apabila kamu ingin menghabiskan uangmu untuk hal yang demikian, kamu berada pada permainan yang salah.
+osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang permainan lainnya.
 
 ### Catatan
 
