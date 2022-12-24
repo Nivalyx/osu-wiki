@@ -159,7 +159,7 @@ While we will try to preserve as many scores as possible, we **offer no guarante
 
 #### Apakah skor yang saya catatkan pada stable nantinya juga akan muncul pada lazer?
 
-Ya. Setelah skor dari stable dan lazer dibobotkan dengan seimbang, skor keduanya akan terlihat secara bersamaan.
+Ya. Setelah kami menyelesaikan proses pembobotan skor antara lazer dan stable, skor keduanya akan terlihat secara bersamaan.
 
 #### Apakah seluruh mod akan diikutsertakan ke dalam papan peringkat?
 
