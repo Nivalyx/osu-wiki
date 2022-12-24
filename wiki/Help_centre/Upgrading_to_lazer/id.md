@@ -169,7 +169,7 @@ For now, scores of all mod combinations appear on leaderboards. Whether scores w
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
 
-### Skinning and UI
+### Skinning dan UI
 
 #### Terdapat elemen tampilan tertentu yang terlihat berbeda dengan stable, dan saya tidak menyukainya!
 
@@ -207,7 +207,7 @@ While on most modern hardware we see lazer outperform stable, there are always e
 
 There's a very high chance we are already aware of this and tracking it for future implementation!
 
-Telusuri apakah hal yang ingin kamu sampaikan telah dilaporkan sebelumnya melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [laman diskusi](https://github.com/ppy/osu/discussions) yang terdapat pada repositori GitHub osu!. Apabila kamu tidak menemukan kecocokan apapun, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
+Telusuri apakah hal yang ingin kamu sampaikan telah dilaporkan sebelumnya melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [laman diskusi](https://github.com/ppy/osu/discussions) yang terdapat pada repositori GitHub osu!. Apabila tidak terdapat laporan yang sesuai, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
 
 Do note that we are already tracking over 1,000 issues of varying priorities, and it may take us some time to fix issues that only affect a small number of users.
 
