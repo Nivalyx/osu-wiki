@@ -260,9 +260,9 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 ### Catatan
 
 [^wine]: Dengan menggunakan wine.
-[^compatibility-mode]: DirectX via compatibility mode.
-[^coming-soon]: Coming soon.
-[^dll]: Manually via `.dll` files.
+[^compatibility-mode]: Dukungan DirectX via mode kompatibilitas.
+[^coming-soon]: Akan segera hadir.
+[^dll]: Secara manual melalui berkas `.dll`.
 [^share-files]: Beatmaps and skins will share files and save on disk space.
 [^gameplay-only]: Gameplay only.
 [^online]: Via online retrieval.
