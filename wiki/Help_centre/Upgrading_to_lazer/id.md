@@ -137,7 +137,7 @@ Meskipun demikian, kamu dapat mengimpor skor dan beatmap dari lazer menuju stabl
 
 #### Apabila saya mencetak skor pada lazer, apakah skor tersebut akan muncul pada laman profil saya?
 
-Skormu akan muncul pada kolom "Rekam Jejak Permainan Terkini", namun tidak akan muncul pada kolom "Performa Terbaik".
+Skormu akan muncul pada kolom "Rekam Jejak Permainan Terkini", namun belum akan muncul pada kolom "Performa Terbaik".
 
 #### Apakah saya akan memperoleh pp dari skor yang saya catatkan pada lazer?
 
