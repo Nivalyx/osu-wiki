@@ -10,7 +10,7 @@ osu!(lazer) merupakan versi rilis utama osu! yang akan datang. Versi ini merupak
 
 Pada saatnya nanti, apabila semuanya telah siap, osu!(lazer) akan dirilis sebagai pembaruan khusus yang menggantikan versi osu! yang saat ini digunakan. Pembaruan ini hanya akan diluncurkan apabila waktunya dirasa telah tepat oleh **para pemain**, dan versi osu! sebelumnya akan tetap didukung hingga sebagian besar pemain telah beralih ke osu!(lazer).
 
-"lazer" sendiri merupakan nama sementara yang nantinya tidak akan lagi digunakan setelah lazer beralih fungsi menjadi rilisan utama. Demi kenyamanan bersama, ke depannya artikel ini akan menyebut osu!(lazer) sebagai "lazer" dan osu!(stable) sebagai "stable".
+"lazer" sendiri merupakan nama sementara yang nantinya tidak akan lagi digunakan setelah lazer beralih menjadi versi rilis utama. Demi kenyamanan bersama, ke depannya artikel ini akan menyebut osu!(lazer) sebagai "lazer" dan osu!(stable) sebagai "stable".
 
 ## Perbandingan fitur
 
