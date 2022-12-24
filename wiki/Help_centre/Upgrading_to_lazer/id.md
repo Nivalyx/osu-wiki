@@ -107,9 +107,7 @@ Stable tidak akan dipensiunkan selama masih ramai akan peminat. Setidak-tidaknya
 
 #### Apakah saya dapat mengimpor seluruh data saya dari stable ke lazer?
 
-Currently, beatmaps, skins, scores, replays and collections can be imported into lazer. Of note, **settings are not yet imported** so you will need to set them up from scratch.
-
-Untuk saat ini, kamu hanya dapat mengimpor beatmap, skin, skor, tayangan ulang, dan daftar koleksi yang kamu miliki. **Pengaturan 
+Untuk saat ini, kamu hanya dapat mengimpor beatmap, skin, skor, tayangan ulang, dan daftar koleksi yang kamu miliki. Kamu harus **mengatur ulang segala pengaturan yang kamu gunakan dari awal** karena impor pengaturan dari stable ke lazer saat ini belum didukung.
 
 #### If I import my beatmaps to lazer, will it use double the disk space?
 
