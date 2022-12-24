@@ -115,7 +115,7 @@ Untuk saat ini, kamu hanya dapat mengimpor beatmap, skin, skor, tayangan ulang, 
 
 #### Apabila saya mengimpor beatmap yang saya miliki ke lazer, apakah ruang penyimpanan yang digunakan oleh osu! akan berlipat ganda?
 
-Apabila lazer dan stable terinstal pada drive yang sama, kamu tidak perlu khawatir karena osu! menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) yang ramah akan ruang penyimpanan.
+Apabila lazer dan stable terinstal pada drive yang sama, kamu tidak perlu khawatir karena osu! menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) yang menghemat ruang penyimpanan yang ada.
 
 Apabila tidak, ruang penyimpanan yang digunakan oleh osu! akan berlipat ganda.
 
@@ -150,6 +150,8 @@ Scores will already have performance points calculated (you can see this in the 
 #### Apakah lazer menggunakan perhitungan ScoreV2?
 
 Lazer currently uses a new experimental score implementation which is similar to ScoreV2 but not the same. This is still in development and we are looking for more feedback on how it feels in various contexts (solo play, leaderboards, tournaments etc.)
+
+Lazer saat ini menggunakan algoritma perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Algoritma ini masih dalam pengembangan dan dapat berubah sewaktu-waktu seiring dengan tanggapan yang kami terima 
 
 <!-- lint ignore no-heading-punctuation -->
 
