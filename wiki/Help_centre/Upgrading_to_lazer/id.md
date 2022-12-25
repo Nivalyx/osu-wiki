@@ -14,7 +14,7 @@ Pada saatnya nanti, apabila semuanya telah siap, osu!(lazer) akan dirilis sebaga
 
 ## Perbandingan fitur
 
-Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** dengan stable. Harap diperhatikan bahwa segala sesuatunya yang tertera di bawah ini akan selalu berubah seiring dengan pengembangan lazer dan tanggapan pemain yang kami terima.
+Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** dengan stable. Harap diperhatikan bahwa segala sesuatunya yang tertera di bawah ini akan selalu berubah seiring dengan tujuan kami untuk menghadirkan berbagai fitur yang diminta pada lazer.
 
 ### Kompatibilitas dan performa
 
@@ -169,7 +169,7 @@ Untuk saat ini, papan peringkat lazer akan menampilkan skor dari seluruh mod yan
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
 
-Cobalah untuk mengaktifkan mod "classic", yang akan memberikan pengalaman bermain yang serupa dengan stable.
+Cobalah untuk mengaktifkan mod "classic", yang akan memberikan   pengalaman bermain yang serupa dengan stable.
 
 ### Skinning dan UI
 
