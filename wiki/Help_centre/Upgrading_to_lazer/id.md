@@ -177,7 +177,7 @@ Cobalah untuk mengaktifkan mod "classic", yang memungkinkan kamu untuk bermain s
 
 Please run the setup wizard at the top of settings and go through the settings on the `Behaviour` screen. A lot of the common settings which have defaults changed are listed here. There's also a single button you can press to apply the old behaviours as a starting point for your lazer journey.
 
-Jalankan panduan pengaturan dasar dan tuju bagian `Perilaku`. Pada layar ini, kamu akan dapat mengatur bagaimana berbagai hal akan berperilaku.
+Jalankan panduan pengaturan dasar dan tuju bagian `Perilaku`. Pada layar ini, kamu akan dapat mengatur perilaku bawaan berbagai hal
 
 #### Apakah skin lama saya akan dapat digunakan pada layar pemilihan lagu dan hasil permainan?
 
