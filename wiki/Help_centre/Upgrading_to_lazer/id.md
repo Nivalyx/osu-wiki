@@ -165,7 +165,7 @@ Ya. Setelah kami menyelesaikan proses pembobotan skor antara lazer dan stable, s
 
 For now, scores of all mod combinations appear on leaderboards. Whether scores will give performance points with all mods (and if they do, whether there will be a bonus or penalty applied) is still in discussion.
 
-Untuk saat ini, papan peringkat lazer menampilkan skor dari seluruh mod. Apakah seluruh mod nantinya akan memberikan performance point (dan apakah akan ada mod tertentu yang nantinya akan memberikan bonus atau penalti) saat ini masih didiskusikan.
+Untuk saat ini, papan peringkat lazer menampilkan skor dari seluruh mod. Apakah seluruh mod nantinya akan memberikan performance point (dan apabila ya, seberapa besar bonus atau penalti yang akan diberikan kepada masing-masing mod) saat ini masih didiskusikan.
 
 #### Saya tidak suka mekanisme permainan yang ada saat ini. Apakah saya dapat bermain dengan mekanisme permainan seperti pada stable?
 
