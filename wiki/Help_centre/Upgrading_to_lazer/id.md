@@ -179,7 +179,7 @@ Please run the setup wizard at the top of settings and go through the settings o
 
 Jalankan panduan pengaturan dasar dan tuju layar `Perilaku`. Pada layar ini, kamu 
 
-#### Will old skins eventually work in song select and results screens?
+#### Apakah skin lama saya akan dapat digunakan pada layar pemilihan lagu dan hasil permainan?
 
 We'll do our best to bring back as much of this as we can without blocking new functionality. This will come later on.
 
