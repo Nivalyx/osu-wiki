@@ -141,7 +141,7 @@ Skormu akan muncul pada kolom "Rekam Jejak Permainan Terkini", namun belum akan 
 
 #### Apakah saya akan memperoleh pp dari skor yang saya catatkan pada lazer?
 
-Skor yang tercatat pada lazer saat ini telah memiliki perhitungan pp-nya tersendiri (yang dapat kamu lihat di bagian "Rekam Jejak Permainan Terkini" pada laman profilmu). Meskipun demikian, skor ini belum akan diikutsertakan ke dalam perhitungan pp secara keeluruhan.
+Skor yang tercatat pada lazer saat ini telah memiliki perhitungan pp-nya tersendiri (yang dapat kamu lihat di bagian "Rekam Jejak Permainan Terkini" pada laman profilmu). Meskipun demikian, skor ini belum akan diikutsertakan ke dalam perhitungan pp secara keseluruhan.
 
 #### Apakah lazer menggunakan sistem perhitungan ScoreV2?
 
@@ -163,7 +163,7 @@ Ya. Setelah kami menyelesaikan proses pembobotan skor antara lazer dan stable, s
 
 #### Apakah skor dari seluruh mod akan ditampilkan pada papan peringkat?
 
-Untuk saat ini, papan peringkat lazer menampilkan skor dari seluruh mod. Apakah seluruh mod nantinya akan memberikan performance point (dan apabila ya, seberapa besar bonus atau penalti yang akan diberikan kepada masing-masing mod) saat ini masih didiskusikan.
+Untuk saat ini, papan peringkat lazer menampilkan skor dari seluruh mod yang ada. Apakah seluruh mod nantinya akan memberikan performance point (dan apabila ya, seberapa besar bonus atau penalti yang akan diberikan kepada masing-masing mod) saat ini masih didiskusikan.
 
 #### Saya tidak suka mekanisme permainan yang ada saat ini. Apakah saya dapat bermain dengan mekanisme permainan yang lama seperti pada stable?
 
