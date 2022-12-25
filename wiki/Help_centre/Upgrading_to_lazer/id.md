@@ -143,7 +143,7 @@ Skormu akan muncul pada kolom "Rekam Jejak Permainan Terkini", namun belum akan 
 
 Skor yang tercatat pada lazer saat ini telah memiliki perhitungan pp-nya tersendiri (yang dapat kamu lihat di bagian "Rekam Jejak Permainan Terkini" pada laman profilmu). Meskipun demikian, skor ini belum akan diikutsertakan ke dalam perhitungan pp secara keseluruhan.
 
-#### Apakah lazer menggunakan sistem perhitungan ScoreV2?
+#### Apakah lazer menggunakan sistem ScoreV2?
 
 Lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Sistem ini masih berada dalam tahap pengembangan dan dapat berubah sewaktu-waktu seiring dengan tanggapan yang kami terima.
 
