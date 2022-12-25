@@ -95,7 +95,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 
 Apakah ini pertama kalinya kamu mencoba lazer? Apabila ya, selamat datang di lazer!
 
-Kamu dapat memperoleh lazer melalui [tautan berikut](https://github.com/ppy/osu#running-osu). Ke depannya, kamu akan dapat beralih ke lazer secara langsung dari dalam permainan (melalui pilihan `Versi rilis` yang terdapat pada menu pengaturan) serta mengunduh lazer dari situs web osu!.
+Kamu dapat memperoleh lazer melalui [tautan berikut](https://github.com/ppy/osu#running-osu). Ke depannya, kamu akan dapat beralih ke lazer secara langsung dari dalam permainan (melalui pilihan `Versi rilis` yang terdapat pada menu pengaturan) dan dari situs web osu!.
 
 ## Pertanyaan yang sering diajukan
 
