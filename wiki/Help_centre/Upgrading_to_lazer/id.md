@@ -209,7 +209,7 @@ While on most modern hardware we see lazer outperform stable, there are always e
 
 Telusuri apakah masalahmu telah dilaporkan sebelumnya oleh pengguna lain melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [laman diskusi](https://github.com/ppy/osu/discussions) pada repositori GitHub osu!. Apabila kamu tidak menemukan laporan yang sesuai, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
 
-Dalam melapor, harap diingat bahwa tim kami dapat melacak hingga beribu-ribu masalah pada setiap waktunya, dan masalah yang menjangkiti banyak pengguna pada umumnya akan lebih diprioritaskan.
+Dalam melapor, harap diingat bahwa tim kami dapat melacak hingga beribu-ribu masalah pada setiap waktunya, dan masalah yang menjangkiti banyak pengguna pada umumnya akan lebih diutamakan.
 
 ### Lainnya
 
