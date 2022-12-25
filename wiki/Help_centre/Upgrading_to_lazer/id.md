@@ -272,8 +272,8 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^offset-calibration-lazer]: Pada saat memulai ulang beatmap, kamu dapat menyesuaikan offset berdasarkan permainan terakhirmu.
 [^can-disable]: Dapat dinonaktifkan.
 [^note-lock]: Masih ada di lazer, namun tidak merugikan pemain seperti pada stable.
-[^score-reset-balance]: Seluruh skor ke depannya akan diatur ulang untuk.
-[^score-reset-isolated]: Scores will be reset, currently isolated from stable scores.
+[^score-reset-balance]: Seluruh skor ke depannya akan diatur ulang untuk menyeimbangkan permainan.
+[^score-reset-isolated]: Seluruh skor saat ini ditempatkan pada papan peringkat terpisah yang ke depannya juga akan diatur ulang.
 [^online-content]: Hampir seluruh konten online dapat diakses dari dalam permainan.
 [^direct-supporter]: osu!direct, osu!supporter-only.
 [^multi-room-max]: Terbatas hanya pada 16 pemain.
