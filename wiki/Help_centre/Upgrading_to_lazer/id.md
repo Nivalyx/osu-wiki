@@ -275,7 +275,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^score-reset-balance]: Seluruh skor ke depannya akan diatur ulang untuk menyeimbangkan permainan.
 [^score-reset-isolated]: Seluruh skor saat ini ditempatkan pada papan peringkat terpisah yang ke depannya juga akan diatur ulang.
 [^online-content]: Hampir seluruh konten online dapat diakses dari dalam permainan.
-[^direct-supporter]: osu!direct, osu!supporter-only.
+[^direct-supporter]: Khusus pemilik osu!supporter melalui fitur osu!direct.
 [^multi-room-max]: Terbatas hanya pada 16 pemain.
 [^map-only]: Khusus untuk map.
 [^all-files]: Seluruh berkas.
