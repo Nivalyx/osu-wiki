@@ -169,7 +169,7 @@ Untuk saat ini, papan peringkat lazer menampilkan skor dari seluruh mod. Apakah 
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
 
-Cobalah untuk bermain dengan menggunakan mod "classic"
+Cobalah untuk mengaktifkan mod "classic", yang memungkinkan kamu untuk bermain seperti pada stable.
 
 ### Skinning dan UI
 
@@ -181,7 +181,7 @@ Jalankan panduan pengaturan dasar dan tuju layar `Perilaku`. Pada layar ini, kam
 
 #### Apakah skin lama saya akan dapat digunakan pada layar pemilihan lagu dan hasil permainan?
 
-We'll do our best to bring back as much of this as we can without blocking new functionality. This will come later on.
+Kami akan berusaha untuk memungkinkan hal ini tanpa menghalang-halangi fungsi baru. Fitur ini akan hadir di masa yang akan datang.
 
 #### Apakah saya dapat menggunakan kursor milik skin saya pada layar menu?
 
