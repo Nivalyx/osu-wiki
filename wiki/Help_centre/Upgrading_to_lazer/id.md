@@ -268,7 +268,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^online]: Melalui data yang diterima secara online.
 [^normalisation]: This brings beatmap custom combo colours to the same brightness level.
 [^hold-for-hud]: Tahan `Ctrl` untuk menampilkan manu HUD yang tersembunyi.
-[^offset-calibration-stable]: Dapat diatur secara manual melalui kombinasi tombol pada keyboard.
+[^offset-calibration-stable]: Dapat diatur secara manual melalui kombinasi tombol tertentu.
 [^offset-calibration-lazer]: When retrying a beatmap, you can calibrate the offset based on your last play.
 [^can-disable]: Dapat dinonaktifkan.
 [^note-lock]: Still exists, but should not interfere.
