@@ -205,9 +205,7 @@ While on most modern hardware we see lazer outperform stable, there are always e
 
 #### Fitur yang selama ini sering saya gunakan belum ada di lazer! / Saya tidak menyukai perubahan yang ada! / Saya menemukan bug. Ke mana saya harus melapor?
 
-There's a very high chance we are already aware of this and tracking it for future implementation!
-
-Telusuri apakah hal yang ingin kamu sampaikan telah dilaporkan sebelumnya melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [laman diskusi](https://github.com/ppy/osu/discussions) pada repositori GitHub osu!. Apabila kamu tidak menemukan laporan yang sesuai dengan masalahmu, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
+Telusuri apakah hal yang ingin kamu sampaikan telah dilaporkan sebelumnya melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [laman diskusi](https://github.com/ppy/osu/discussions) pada repositori GitHub osu!. Apabila kamu tidak menemukan laporan yang sesuai, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
 
 Do note that we are already tracking over 1,000 issues of varying priorities, and it may take us some time to fix issues that only affect a small number of users.
 
@@ -219,7 +217,7 @@ Karena "cutting-edge" tidak dirasa cukup "tajam".
 
 #### Mengapa butuh waktu yang sangat lama sebelum lazer dapat menggantikan stable sebagai versi rilis utama?
 
-Di balik kesederhanaannya, osu! tidak dapat berjalan tanpa dukungan ribuan fitur dan sistem yang harus ditulis ulang untuk lazer. Proses ini memakan waktu yang tidak sebentar, dan walaupun lazer saat ini telah dapat dimainkan, lazer masih jauh dari kata rampung.
+Di balik kesederhanaannya, osu! tidak dapat berjalan tanpa dukungan berbagai fitur dan sistem yang harus ditulis ulang untuk lazer. Proses ini memakan waktu yang tidak sebentar, dan walaupun lazer saat ini telah dapat digunakan, pengembangan lazer masih jauh dari kata rampung.
 
 Another area which has taken a huge amount of effort is historical preservation — making sure that beatmaps behave exactly as they should, including edge cases that weren't originally planned for. osu! is a vibrant ecosystem and users have taken liberty to extend the game far beyond its planned extents, and we are trying our best to embrace and support this going forward.
 
