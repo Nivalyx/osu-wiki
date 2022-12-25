@@ -269,7 +269,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^normalisation]: This brings beatmap custom combo colours to the same brightness level.
 [^hold-for-hud]: Tahan `Ctrl` untuk menampilkan manu HUD yang tersembunyi.
 [^offset-calibration-stable]: Dapat diatur secara manual melalui kombinasi tombol tertentu.
-[^offset-calibration-lazer]: Pada saat memulai ulang beatmap, kamu dapat menyesuaikan offset beatmap berdasarkan permainan terakhirmu.
+[^offset-calibration-lazer]: Pada saat memulai ulang beatmap, kamu dapat menyesuaikan offset berdasarkan permainan terakhirmu.
 [^can-disable]: Dapat dinonaktifkan.
 [^note-lock]: Still exists, but should not interfere.
 [^score-reset-balance]: Scores will be reset to ensure balance.
