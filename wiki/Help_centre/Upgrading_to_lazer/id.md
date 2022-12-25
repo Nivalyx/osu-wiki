@@ -163,11 +163,13 @@ Ya. Setelah kami menyelesaikan proses pembobotan skor antara lazer dan stable, s
 
 #### Apakah skor dari seluruh mod akan ditampilkan pada papan peringkat?
 
-Untuk saat ini, skor dari seluruh mod akan ditampilkan pada papan peringkat lazer. Apakah seluruh mod nantinya akan memberikan performance point (dan apabila ya, seberapa besar bonus atau penalti yang akan diberikan kepada masing-masing mod) saat ini masih didiskusikan.
+Untuk saat ini, papan peringkat lazer menampilkan skor dari seluruh mod. Apakah seluruh mod nantinya akan memberikan performance point (dan apabila ya, seberapa besar bonus atau penalti yang akan diberikan kepada masing-masing mod) saat ini masih didiskusikan.
 
 #### Saya tidak suka mekanisme permainan yang ada saat ini. Apakah saya dapat bermain dengan mekanisme permainan yang lama seperti pada stable?
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
+
+Cobalah untuk bermain dengan menggunakan mod "classic"
 
 ### Skinning dan UI
 
@@ -183,7 +185,7 @@ We'll do our best to bring back as much of this as we can without blocking new f
 
 #### Apakah saya dapat menggunakan kursor milik skin saya pada layar menu?
 
-Fitur ini saat ini tidak didukung. Meskipun demikian, sehubungan dengan banyaknya permintaan yang masuk, kami kemungkinan akan kembali memunculkan fitur ini di masa yang akan datang.
+Fitur ini saat ini tidak didukung. Meskipun demikian, sehubungan dengan banyaknya permintaan yang telah kami terima, kami kemungkinan akan kembali menghadirkan fitur ini di masa yang akan datang.
 
 ### Performa
 
