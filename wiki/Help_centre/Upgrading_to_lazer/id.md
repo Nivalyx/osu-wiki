@@ -69,7 +69,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Akses kilat ke laman daftar beatmap | ![Partial][partial][^direct-supporter] | ![Yes][true] |
 | Ruangan multiplayer tanpa batas ukuran | ![No][false][^multi-room-max] | ![Yes][true] |
 | Multiplayer spectating | ![No][false] | ![Yes][true] |
-| Countdown timers | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
+| Waktu hitungan mundur | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
 | Queue modes | ![No][false] | ![Yes][true][^queue-modes] |
 | Perintah multiplayer | ![Yes][true] | ![No][false] |
 | Mode tag co-op | ![Yes][true] | ![No][false] |
