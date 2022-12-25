@@ -277,11 +277,11 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^online-content]: Native access to most online content.
 [^direct-supporter]: osu!direct, osu!supporter-only.
 [^multi-room-max]: Terbatas hanya pada 16 pemain.
-[^map-only]: Khusus unutk map.
+[^map-only]: Khusus untuk map.
 [^all-files]: Seluruh berkas.
 [^editor-precise-rotation]: Missing precise angle rotation.
 [^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
-[^stable-chat]: Messages can take up to 15 seconds to arrive.
+[^stable-chat]: Pesan dapat memerlukan waktu hingga 15 detik untuk sampai.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
 [^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
