@@ -279,7 +279,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^multi-room-max]: Terbatas hanya pada 16 pemain.
 [^map-only]: Khusus untuk map.
 [^all-files]: Seluruh berkas.
-[^editor-precise-rotation]: Missing precise angle rotation.
+[^editor-precise-rotation]: Pemutaran dengan sudut yang presisi belum dapat dilakukan.
 [^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
 [^stable-chat]: Pesan dapat memerlukan waktu hingga 15 detik untuk terkirim.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.
