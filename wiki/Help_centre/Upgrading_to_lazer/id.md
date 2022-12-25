@@ -277,7 +277,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang memikirkan permai
 [^online-content]: Hampir seluruh konten online yang ada dapat diakses dari dalam permainan.
 [^direct-supporter]: Khusus pemilik osu!supporter melalui fitur osu!direct.
 [^multi-room-max]: Terbatas hanya pada 16 pemain.
-[^map-only]: Khusus untuk map.
+[^map-only]: Hanya terbatas pada berkas beatmap.
 [^all-files]: Seluruh berkas.
 [^editor-precise-rotation]: Pemutaran dengan sudut yang presisi saat ini masih belum tersedia.
 [^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
