@@ -153,11 +153,11 @@ Lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tid
 
 You can actually change the `Score display mode` setting to `Classic` to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
 
-#### If I set a score on lazer, will it remain forever? Apabila saya
+#### Apabila saya mencetak skor pada lazer, apakah skor tersebut akan tetap ada selama-lamanya?
 
 While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset or all scores in order to preserve game balance.
 
-#### Apakah skor yang saya catatkan pada stable nantinya juga akan muncul pada lazer?
+#### Apakah skor yang saya cetak pada stable nantinya juga akan muncul pada lazer?
 
 Ya. Setelah kami menyelesaikan proses pembobotan skor antara lazer dan stable, seluruh skor akan muncul pada papan peringkat lazer.
 
