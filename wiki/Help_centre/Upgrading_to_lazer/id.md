@@ -169,7 +169,7 @@ Untuk saat ini, papan peringkat lazer menampilkan skor dari seluruh mod. Apakah 
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
 
-Cobalah untuk mengaktifkan mod "classic", yang memungkinkan kamu untuk bermain seperti pada stable.
+Cobalah untuk mengaktifkan mod "classic", yang memungkinkan kamu untuk bermain dengan berbagai mekanisme permainan stable.
 
 ### Skinning dan UI
 
@@ -207,11 +207,11 @@ While on most modern hardware we see lazer outperform stable, there are always e
 
 #### Fitur yang selama ini sering saya gunakan belum ada di lazer! / Saya tidak menyukai perubahan yang ada! / Saya menemukan bug. Ke mana saya harus melapor?
 
-Telusuri apakah hal yang ingin kamu sampaikan telah dilaporkan sebelumnya melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [laman diskusi](https://github.com/ppy/osu/discussions) pada repositori GitHub osu!. Apabila kamu tidak menemukan laporan yang sesuai, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
+Telusuri apakah masalah yang ingin kamu sampaikan telah dilaporkan sebelumnya melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [laman diskusi](https://github.com/ppy/osu/discussions) pada repositori GitHub osu!. Apabila kamu tidak menemukan laporan yang sesuai, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
 
 Do note that we are already tracking over 1,000 issues of varying priorities, and it may take us some time to fix issues that only affect a small number of users.
 
-Harap diperhatikan bahwa kami melacak lebih dari 1000 masalah pada setiap waktunya, dan kami 
+Harap diperhatikan bahwa kami melacak lebih dari 1000 masalah pada setiap waktunya, dan kami akan lebih memprioritaskan masalah
 
 ### Lainnya
 
