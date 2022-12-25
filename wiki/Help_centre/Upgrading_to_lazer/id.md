@@ -84,7 +84,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Editor osu!catch | ![No][false] | ![Yes][true] |
 | Editor osu!mania | ![Yes][true] | ![Yes][true] |
 | Akses ke tingkat kesulitan lain sebagai bahan rujukan | ![Yes][true] | ![No][false] |
-| SV / volume per objek | ![No][false] | ![Yes][true] |
+| Penentuan SV / volume per objek | ![No][false] | ![Yes][true] |
 | Rotasi pattern | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
 | Perubahan skala pattern | ![No][false] | ![Yes][true] |
 | Submisi beatmap | ![Yes][true] | ![No][false] |
