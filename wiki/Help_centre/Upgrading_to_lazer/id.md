@@ -141,7 +141,7 @@ Skormu akan muncul pada kolom "Rekam Jejak Permainan Terkini", namun belum akan 
 
 #### Apakah saya akan memperoleh pp dari skor yang saya catatkan pada lazer?
 
-Skor yang tercatat pada lazer saat ini telah memiliki perhitungan pp-nya tersendiri (yang dapat kamu lihat di bagian "Rekam Jejak Permainan Terkini" pada laman profilmu). Meskipun demikian, skor ini tidak akan dihitung ke dalam perhitungan pp secara keeluruhan.
+Skor yang tercatat pada lazer saat ini telah memiliki perhitungan pp-nya tersendiri (yang dapat kamu lihat di bagian "Rekam Jejak Permainan Terkini" pada laman profilmu). Meskipun demikian, skor ini tidak akan diikutsertakan ke dalam perhitungan pp secara keeluruhan.
 
 #### Apakah lazer menggunakan sistem perhitungan ScoreV2?
 
