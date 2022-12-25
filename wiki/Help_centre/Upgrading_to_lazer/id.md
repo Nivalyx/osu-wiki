@@ -266,7 +266,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^share-files]: Beatmap dan skin akan saling berbagi berkas dan menghemat penggunaan ruang hard disk.
 [^gameplay-only]: Hanya dalam permainan.
 [^online]: Melalui data yang diterima secara online.
-[^normalisation]: This brings beatmap custom combo colours to the same brightness level.
+[^normalisation]: Pilihan untuk menyamaratakan warna kombo bawaaan beatmap.
 [^hold-for-hud]: Tahan `Ctrl` untuk menampilkan manu HUD yang tersembunyi.
 [^offset-calibration-stable]: Dapat diatur secara manual melalui kombinasi tombol tertentu.
 [^offset-calibration-lazer]: Pada saat memulai ulang beatmap, kamu dapat menyesuaikan offset berdasarkan permainan terakhirmu.
