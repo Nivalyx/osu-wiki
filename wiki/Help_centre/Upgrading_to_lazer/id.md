@@ -165,7 +165,7 @@ Ya. Setelah kami menyelesaikan proses pembobotan skor antara lazer dan stable, s
 
 Untuk saat ini, skor dari seluruh mod akan ditampilkan pada papan peringkat lazer. Apakah seluruh mod nantinya akan memberikan performance point (dan apabila ya, seberapa besar bonus atau penalti yang akan diberikan kepada masing-masing mod) saat ini masih didiskusikan.
 
-#### Saya tidak suka mekanisme permainan yang ada saat ini. Apakah saya dapat bermain dengan mekanisme permainan yang lama seperti pada stable?
+#### Saya tidak suka mekanisme permainan yang ada saat ini. Apakah saya dapat bermain dengan mekanisme permainan yang terdapat pada stable?
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
 
