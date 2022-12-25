@@ -63,7 +63,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Statistik profil | ![Yes][true] | ![Yes][true] |
 | Medali | ![Yes][true] | ![No][false] |
 | Performance point | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
-| Percakapan yang berlangsung secara *real-time* | ![Partial][partial][^stable-chat] | ![Yes][true] |
+| Percakapan yang berlangsung secara real-time | ![Partial][partial][^stable-chat] | ![Yes][true] |
 | Akses kilat ke laman wiki / berita / riwayat pembaruan / peringkat | ![No][false] | ![Yes][true][^online-content] |
 | Akses kilat ke laman profil pengguna | ![No][false] | ![Yes][true] |
 | Akses kilat ke laman daftar beatmap | ![Partial][partial][^direct-supporter] | ![Yes][true] |
