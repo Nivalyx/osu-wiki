@@ -14,7 +14,7 @@ Pada saatnya nanti, apabila semuanya telah siap, osu!(lazer) akan dirilis sebaga
 
 ## Perbandingan fitur
 
-Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** dengan stable. Harap diperhatikan bahwa segala sesuatunya yang tertera di bawah ini akan selalu berubah seiring dengan ambisi kami untuk terus melengkapi lazer dengan berbagai macam fitur.
+Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** dengan stable. Harap diperhatikan bahwa segala sesuatunya yang tertera di bawah ini akan selalu berubah seiring dengan ambisi kami untuk terus menghadirkan berbagai fitur unggulan pada lazer.
 
 ### Kompatibilitas dan performa
 
