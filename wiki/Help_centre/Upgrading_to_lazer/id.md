@@ -274,7 +274,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang memikirkan permai
 [^note-lock]: Note lock masih ada di lazer, namun tidak lagi merugikan pemain seperti pada stable.
 [^score-reset-balance]: Seluruh skor ke depannya akan diatur ulang untuk menyeimbangkan permainan.
 [^score-reset-isolated]: Seluruh skor saat ini ditempatkan pada papan peringkat terpisah yang ke depannya juga akan diatur ulang.
-[^online-content]: Hampir seluruh konten online dapat diakses dari dalam permainan.
+[^online-content]: Hampir seluruh konten online yang ada dapat diakses dari dalam permainan.
 [^direct-supporter]: Khusus pemilik osu!supporter melalui fitur osu!direct.
 [^multi-room-max]: Terbatas hanya pada 16 pemain.
 [^map-only]: Khusus untuk map.
