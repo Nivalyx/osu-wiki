@@ -86,7 +86,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Akses ke tingkat kesulitan lain sebagai bahan rujukan | ![Yes][true] | ![No][false] |
 | Pengaturan SV / volume per objek | ![No][false] | ![Yes][true] |
 | Rotasi pattern | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
-| Perubahan skala pattern | ![No][false] | ![Yes][true] |
+| Perubahan ukuran pattern | ![No][false] | ![Yes][true] |
 | Submisi beatmap | ![Yes][true] | ![No][false] |
 | Editor storyboard | ![Yes][true] | ![No][false] |
 | Kompatibilitas silang | ![Yes][true] | ![Partial][partial][^incompatibilities] |
