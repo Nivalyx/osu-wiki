@@ -165,6 +165,8 @@ Ya. Setelah kami menyelesaikan proses pembobotan skor antara lazer dan stable, s
 
 For now, scores of all mod combinations appear on leaderboards. Whether scores will give performance points with all mods (and if they do, whether there will be a bonus or penalty applied) is still in discussion.
 
+Untuk saat ini, papan peringkat lazer menyertakan skor dari seluruh mod. Mod mana saja yang ke depannya akan memberikan performance point (dan saat ini masih didiskusikan.
+
 #### I don't like the new gameplay mechanics. Can I restore the old gameplay mechanics like on stable?
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
@@ -174,6 +176,8 @@ Please try applying the "classic" mod, which will restore much of the old behavi
 #### Terdapat elemen tampilan tertentu yang berperilaku berbeda dengan stable, dan saya tidak menyukainya!
 
 Please run the setup wizard at the top of settings and go through the settings on the `Behaviour` screen. A lot of the common settings which have defaults changed are listed here. There's also a single button you can press to apply the old behaviours as a starting point for your lazer journey.
+
+Harap jalankan pengaturan dasar melalui menu dan tuju layar `Perilaku`. 
 
 #### Will old skins eventually work in song select and results screens?
 
@@ -208,6 +212,8 @@ While on most modern hardware we see lazer outperform stable, there are always e
 Telusuri apakah hal yang ingin kamu sampaikan telah dilaporkan sebelumnya melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [laman diskusi](https://github.com/ppy/osu/discussions) pada repositori GitHub osu!. Apabila kamu tidak menemukan laporan yang sesuai, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
 
 Do note that we are already tracking over 1,000 issues of varying priorities, and it may take us some time to fix issues that only affect a small number of users.
+
+Harap diperhatikan bahwa kami melacak lebih dari 1000 masalah pada setiap waktunya, dan kami 
 
 ### Lainnya
 
