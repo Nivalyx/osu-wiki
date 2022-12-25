@@ -169,7 +169,7 @@ Untuk saat ini, skor dari seluruh mod akan ditampilkan pada papan peringkat laze
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
 
-Cobalah untuk mengaktifkan mod "classic", yang memungkinkan kamu untuk bermain dengan berbagai mekanisme permainan yang stable miliki. 
+Cobalah untuk mengaktifkan mod "classic" agar kamu dapat bermain seperti pada stable. 
 
 ### Skinning dan UI
 
