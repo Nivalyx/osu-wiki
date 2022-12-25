@@ -149,7 +149,7 @@ Lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tid
 
 <!-- lint ignore no-heading-punctuation -->
 
-#### I prefer the classic scoring display, where scores get really big.
+#### Saya lebih menyukai sistem skor yang lama, di mana skor besar.
 
 You can actually change the `Score display mode` setting to `Classic` to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
 
