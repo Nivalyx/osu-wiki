@@ -263,7 +263,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^compatibility-mode]: Dukungan DirectX via mode kompatibilitas.
 [^coming-soon]: Akan segera hadir.
 [^dll]: Secara manual melalui berkas `.dll`.
-[^share-files]: Beatmap dan skin akan saling berbagi berkas, yang menghemat penggunaan ruang pada hard disk.
+[^share-files]: Beatmap dan skin akan saling berbagi berkas dan menghemat penggunaan ruang hard disk.
 [^gameplay-only]: Hanya dalam permainan.
 [^online]: Melalui data yang diterima secara online.
 [^normalisation]: This brings beatmap custom combo colours to the same brightness level.
