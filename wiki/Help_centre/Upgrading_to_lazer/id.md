@@ -141,7 +141,7 @@ Skormu akan muncul pada kolom "Rekam Jejak Permainan Terkini", namun belum akan 
 
 #### Apakah saya akan memperoleh pp dari skor yang saya catatkan pada lazer?
 
-Skor yang tercatat pada lazer saat ini telah memiliki perhitungan pp-nya tersendiri (yang dapat kamu lihat di bagian "Rekam Jejak Permainan Terkini" pada laman profilmu). Meskipun demikian, skor ini belum dimasukkan ke dalam perhitungan pp secara keeluruhan.
+Skor yang tercatat pada lazer saat ini telah memiliki perhitungan pp-nya tersendiri (yang dapat kamu lihat di bagian "Rekam Jejak Permainan Terkini" pada laman profilmu). Meskipun demikian, skor ini tidak akan dihitung ke dalam perhitungan pp secara keeluruhan.
 
 #### Apakah lazer menggunakan sistem perhitungan ScoreV2?
 
@@ -173,9 +173,9 @@ Cobalah untuk mengaktifkan mod "classic", yang memungkinkan kamu untuk bermain d
 
 ### Skinning dan UI
 
-#### Terdapat elemen tampilan tertentu yang berperilaku berbeda dengan stable, dan saya tidak menyukainya!
+#### Terdapat aspek permainan tertentu yang berperilaku berbeda dengan stable, dan saya tidak menyukainya!
 
-Jalankan panduan pengaturan dasar dan tuju bagian `Perilaku`. Pada layar ini, kamu akan dapat mengatur perilaku bawaan berbagai elemen tampilan yang telah berubah antara stable dan lazer. Apabila diinginkan, kamu juga dapat mengatur agar seluruh elemen tampilan lazer dapat berperilaku seperti stable hanya dengan sekali klik.
+Jalankan panduan pengaturan dasar dan tuju bagian `Perilaku`. Pada layar ini, kamu akan dapat mengatur perilaku bawaan berbagai aspek permainan yang telah diubah antara stable dan lazer. Apabila diinginkan, kamu juga dapat mengatur agar seluruh elemen tampilan lazer dapat berperilaku seperti stable hanya dengan sekali klik.
 
 #### Apakah skin lama saya akan dapat digunakan pada layar pemilihan lagu dan hasil permainan?
 
