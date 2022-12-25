@@ -143,6 +143,8 @@ Skormu akan muncul pada kolom "Rekam Jejak Permainan Terkini", namun belum akan 
 
 Scores will already have performance points calculated (you can see this in the "recently played" section of your profile), but it will not contribute to the total value yet.
 
+Skor yang tercatat pada lazer saat ini sudah memiliki perhitungan pp-nya tersendiri (yang dapat kamu lihat pada bagian "Rekam Jejak Permainan Terkini" di laman profilmu).
+
 #### Apakah lazer menggunakan sistem perhitungan ScoreV2?
 
 Lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Sistem ini masih berada dalam tahap pengembangan dan dapat berubah sewaktu-waktu seiring dengan tanggapan yang kami terima.
@@ -169,7 +171,7 @@ Untuk saat ini, papan peringkat lazer menampilkan skor dari seluruh mod. Apakah 
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
 
-Cobalah untuk mengaktifkan mod "classic", yang memungkinkan kamu untuk bermain dengan berbagai mekanisme permainan stable.
+Cobalah untuk mengaktifkan mod "classic", yang memungkinkan kamu untuk bermain dengan berbagai mekanisme permainan stable. 
 
 ### Skinning dan UI
 
