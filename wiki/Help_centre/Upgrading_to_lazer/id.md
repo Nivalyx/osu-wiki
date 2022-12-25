@@ -149,7 +149,7 @@ Lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tid
 
 <!-- lint ignore no-heading-punctuation -->
 
-#### Saya rindu sistem skor yang lama, dan saya ingin kembali melihat skor saya mencapai puluhan bahkan ratusan juta dengan sangat cepat.
+#### Saya rindu sistem skor yang lama, dan saya ingin kembali melihat skor saya mencapai puluhan bahkan ratusan juta dengan sangat cepat!
 
 You can actually change the `Score display mode` setting to `Classic` to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
 
