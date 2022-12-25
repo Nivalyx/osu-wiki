@@ -276,9 +276,9 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^score-reset-isolated]: Scores will be reset, currently isolated from stable scores.
 [^online-content]: Native access to most online content.
 [^direct-supporter]: osu!direct, osu!supporter-only.
-[^multi-room-max]: 16 players max.
-[^map-only]: Map only.
-[^all-files]: All files.
+[^multi-room-max]: Terbatas hanya pada 16 pemain.
+[^map-only]: Khusus unutk map.
+[^all-files]: Seluruh berkas.
 [^editor-precise-rotation]: Missing precise angle rotation.
 [^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
 [^stable-chat]: Messages can take up to 15 seconds to arrive.
