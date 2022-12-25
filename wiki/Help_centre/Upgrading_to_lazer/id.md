@@ -177,7 +177,7 @@ Cobalah untuk bermain dengan menggunakan mod "classic"
 
 Please run the setup wizard at the top of settings and go through the settings on the `Behaviour` screen. A lot of the common settings which have defaults changed are listed here. There's also a single button you can press to apply the old behaviours as a starting point for your lazer journey.
 
-Harap jalankan pengaturan dasar melalui menu dan tuju layar `Perilaku`. 
+Kamu dapat mengatur perilaku berbagai hal pada jendela `Perilaku` yang terdapat pada menu pengaturan dasar. 
 
 #### Will old skins eventually work in song select and results screens?
 
