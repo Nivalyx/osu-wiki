@@ -139,9 +139,9 @@ Meskipun demikian, kamu dapat mengimpor skor dan beatmap dari lazer menuju stabl
 
 Skormu akan muncul pada kolom "Rekam Jejak Permainan Terkini", namun belum akan muncul pada kolom "Performa Terbaik".
 
-#### Apakah saya akan memperoleh pp dari skor yang saya catatkan pada lazer?
+#### Apakah saya akan memperoleh pp dari skor yang saya cetak pada lazer?
 
-Skor yang tercatat pada lazer saat ini telah memiliki perhitungan pp-nya tersendiri (yang dapat kamu lihat di bagian "Rekam Jejak Permainan Terkini" pada laman profilmu). Meskipun demikian, skor ini tidak akan diikutsertakan ke dalam perhitungan pp secara keseluruhan.
+Skor yang dicetak pada lazer saat ini telah memiliki perhitungan pp-nya tersendiri (yang dapat kamu lihat di bagian "Rekam Jejak Permainan Terkini" pada laman profilmu). Meskipun demikian, skor ini tidak akan diikutsertakan ke dalam perhitungan pp secara keseluruhan.
 
 #### Apakah lazer menggunakan sistem ScoreV2?
 
@@ -153,7 +153,7 @@ Lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tid
 
 You can actually change the `Score display mode` setting to `Classic` to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
 
-#### If I set a score on lazer, will it remain forever?
+#### If I set a score on lazer, will it remain forever? Apabila saya
 
 While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset or all scores in order to preserve game balance.
 
