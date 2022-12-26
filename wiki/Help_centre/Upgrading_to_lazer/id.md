@@ -175,7 +175,7 @@ Kamu dapat mengaktifkan mod "classic" untuk memperoleh pengalaman bermain yang s
 
 #### Terdapat aspek permainan tertentu yang berperilaku berbeda dengan stable, dan saya tidak menyukainya!
 
-Jalankan panduan pengaturan dasar dan tuju bagian `Perilaku`. Di sini, kamu akan dapat melihat daftar berbagai aspek permainan yang perilaku bawaannya telah berubah antara stable dan lazer. Kamu dapat mengatur agar segala hal yang ada berperilaku seperti stable hanya dengan sekali klik.
+Jalankan panduan pengaturan dasar dan tuju bagian `Perilaku`. Pada jendela yang muncul, kamu akan dapat melihat daftar berbagai aspek permainan yang perilaku bawaannya telah berubah antara stable dan lazer. Kamu dapat mengatur agar segala hal yang ada berperilaku seperti stable hanya dengan sekali klik.
 
 #### Apakah skin lama saya akan dapat digunakan pada layar pemilihan lagu dan hasil permainan?
 
