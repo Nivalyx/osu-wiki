@@ -177,7 +177,7 @@ Jalankan panduan pengaturan dasar dan tuju bagian `Perilaku`. Pada layar yang mu
 
 #### Apakah skin lama saya akan dapat digunakan pada layar pemilihan lagu dan hasil permainan?
 
-Kami akan mengupayakan agar skin lama yang kamu miliki dapat digunakan di lazer tanpa menghalangi kegunaan berbagai fitur baru yang tersedia. Dukungan untuk hal ini akan hadir di masa yang akan datang.
+Kami akan mengupayakan agar skin lama yang kamu miliki dapat digunakan pada lazer tanpa menghalangi kegunaan berbagai fitur baru yang tersedia. Dukungan untuk hal ini akan hadir di masa yang akan datang.
 
 #### Apakah saya dapat menggunakan kursor milik skin saya pada layar menu?
 
