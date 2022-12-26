@@ -151,7 +151,7 @@ Lazer menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) 
 
 #### Saya rindu dengan model skor yang lama, dan saya ingin kembali melihat skor saya menembus puluhan bahkan ratusan juta dengan sangat cepat!
 
-Kamu dapat mengatur pilihan `Mode tampilan skor` ke `Klasik` untuk menampilkan model skor yang "eksplosif" seperti pada stable. Walaupun tidak persis sama, model ini memiliki perilaku yang serupa dengan stable dan dapat diterapkan pada mode permainan mana pun.
+Kamu dapat mengatur pilihan `Mode tampilan skor` ke `Klasik` untuk menampilkan model skor yang "eksplosif" seperti pada stable. Walaupun tidak persis sama, model ini memiliki perilaku yang serupa dengan stable dan dapat digunakan pada mode permainan mana pun.
 
 #### Apabila saya mencetak skor pada lazer, apakah skor tersebut akan tetap ada selama-lamanya?
 
