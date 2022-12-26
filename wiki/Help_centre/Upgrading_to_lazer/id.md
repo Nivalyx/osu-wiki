@@ -20,76 +20,76 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Dukungan untuk Windows 8.0 atau lebih rendah | ![Yes][true] | ![No][false] |
-| Dukungan untuk macOS / Linux | ![Parsial][partial][^wine] | ![Yes][true] |
+| Dukungan untuk Windows 8.0 atau lebih rendah | ![Ya][true] | ![No][false] |
+| Dukungan untuk macOS / Linux | ![Parsial][partial][^wine] | ![Ya][true] |
 | Dukungan DirectX / Vulkan | ![Partial][partial][^compatibility-mode] | ![No][false][^coming-soon] |
-| Dukungan untuk perangkat mobile | ![No][false] | ![Yes][true] |
-| Arsitektur multi-thread| ![No][false] | ![Yes][true] |
-| Pemutaran video dengan akselerasi hardware | ![No][false] | ![Yes][true] |
-| Skala antarmuka | ![No][false] | ![Yes][true] |
+| Dukungan untuk perangkat mobile | ![No][false] | ![Ya][true] |
+| Arsitektur multi-thread| ![No][false] | ![Ya][true] |
+| Pemutaran video dengan akselerasi hardware | ![No][false] | ![Ya][true] |
+| Skala antarmuka | ![No][false] | ![Ya][true] |
 | Ruleset (mode permainan) khusus | ![No][false] | ![Partial][partial][^dll] |
-| Sistem penyimpanan berkas tunggal | ![No][false] | ![Yes][true][^share-files] |
-| Pengaturan area tablet | ![No][false] | ![Yes][true] |
+| Sistem penyimpanan berkas tunggal | ![No][false] | ![Ya][true][^share-files] |
+| Pengaturan area tablet | ![No][false] | ![Ya][true] |
 
 ### Antarmuka dan skinning
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Dukungan skin | ![Yes][true] | ![Partial][partial][^gameplay-only] |
-| Pengelompokan lagu berdasarkan mode dan kategori tertentu | ![Yes][true] | ![No][false] |
-| Pengaturan skin / tampilan antarmuka secara langsung dari dalam permainan | ![No][false] | ![Yes][true] |
+| Dukungan skin | ![Ya][true] | ![Partial][partial][^gameplay-only] |
+| Pengelompokan lagu berdasarkan mode dan kategori tertentu | ![Ya][true] | ![No][false] |
+| Pengaturan skin / tampilan antarmuka secara langsung dari dalam permainan | ![No][false] | ![Ya][true] |
 
 ### Permainan dan skinning
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Tampilan performance point yang akurat | ![Partial][partial][^online] | ![Yes][true] |
-| Preset mod | ![No][false] | ![Yes][true] |
-| Pengaturan khusus per mod | ![No][false] | ![Yes][true] |
-| Mod "fun" baru | ![No][false] | ![Yes][true] |
-| Normalisasi warna kombo[^normalisation] | ![No][false] | ![Yes][true] |
-| Tombol untuk memunculkan HUD secara kilat | ![No][false] | ![Yes][true][^hold-for-hud] |
-| Kalibrasi offset | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
-| Jalur slider yang meluruh ketika dimainkan | ![No][false] | ![Yes][true][^can-disable] |
-| Mekanisme "note lock" yang tidak merugikan pemain | ![No][false] | ![Yes][true][^note-lock] |
-| Warna not osu!mania yang berdasar pada waktu | ![No][false] | ![Yes][true] |
+| Tampilan performance point yang akurat | ![Partial][partial][^online] | ![Ya][true] |
+| Preset mod | ![No][false] | ![Ya][true] |
+| Pengaturan khusus per mod | ![No][false] | ![Ya][true] |
+| Mod "fun" baru | ![No][false] | ![Ya][true] |
+| Normalisasi warna kombo[^normalisation] | ![No][false] | ![Ya][true] |
+| Tombol untuk memunculkan HUD secara kilat | ![No][false] | ![Ya][true][^hold-for-hud] |
+| Kalibrasi offset | ![Partial][partial][^offset-calibration-stable] | ![Ya][true][^offset-calibration-lazer] |
+| Jalur slider yang meluruh ketika dimainkan | ![No][false] | ![Ya][true][^can-disable] |
+| Mekanisme "note lock" yang tidak merugikan pemain | ![No][false] | ![Ya][true][^note-lock] |
+| Warna not osu!mania yang berdasar pada waktu | ![No][false] | ![Ya][true] |
 
 ### Sistem online
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Submisi skor | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
-| Papan peringkat beatmap| ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
-| Statistik profil | ![Yes][true] | ![Yes][true] |
-| Medali | ![Yes][true] | ![No][false] |
-| Performance point | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
-| Percakapan yang berlangsung secara real-time | ![Partial][partial][^stable-chat] | ![Yes][true] |
-| Akses kilat ke laman wiki / berita / riwayat pembaruan / peringkat | ![No][false] | ![Yes][true][^online-content] |
-| Akses kilat ke laman profil pengguna | ![No][false] | ![Yes][true] |
-| Akses kilat ke laman daftar beatmap | ![Partial][partial][^direct-supporter] | ![Yes][true] |
-| Ukuran ruang multiplayer yang tidak terbatas | ![No][false][^multi-room-max] | ![Yes][true] |
-| Mode spectate untuk pertandingan multiplayer | ![No][false] | ![Yes][true] |
-| Waktu hitungan mundur | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
-| Mode antrian | ![No][false] | ![Yes][true][^queue-modes] |
-| Perintah multiplayer | ![Yes][true] | ![No][false] |
-| Mode tag co-op | ![Yes][true] | ![No][false] |
-| Playlist (papan peringkat yang dikurasi oleh pengguna) | ![No][false] | ![Yes][true] |
-| Pembaruan beatmap dari dalam permainan | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
+| Submisi skor | ![Ya][true] | ![Partial][partial][^score-reset-balance] |
+| Papan peringkat beatmap| ![Ya][true] | ![Partial][partial][^score-reset-isolated] |
+| Statistik profil | ![Ya][true] | ![Ya][true] |
+| Medali | ![Ya][true] | ![No][false] |
+| Performance point | ![Ya][true] | ![Partial][partial][^score-reset-isolated] |
+| Percakapan yang berlangsung secara real-time | ![Partial][partial][^stable-chat] | ![Ya][true] |
+| Akses kilat ke laman wiki / berita / riwayat pembaruan / peringkat | ![No][false] | ![Ya][true][^online-content] |
+| Akses kilat ke laman profil pengguna | ![No][false] | ![Ya][true] |
+| Akses kilat ke laman daftar beatmap | ![Partial][partial][^direct-supporter] | ![Ya][true] |
+| Ukuran ruang multiplayer yang tidak terbatas | ![No][false][^multi-room-max] | ![Ya][true] |
+| Mode spectate untuk pertandingan multiplayer | ![No][false] | ![Ya][true] |
+| Waktu hitungan mundur | ![Partial][partial][^countdown-timers-stable] | ![YaYes][true][^countdown-timers-lazer] |
+| Mode antrian | ![No][false] | ![Ya][true][^queue-modes] |
+| Perintah multiplayer | ![Ya][true] | ![No][false] |
+| Mode tag co-op | ![Ya][true] | ![No][false] |
+| Playlist (papan peringkat yang dikurasi oleh pengguna) | ![No][false] | ![Ya][true] |
+| Pembaruan beatmap dari dalam permainan | ![Partial][partial][^map-only] | ![Ya][true][^all-files] |
 
 ### Editor
 
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
-| Editor osu!taiko | ![No][false] | ![Yes][true] |
-| Editor osu!catch | ![No][false] | ![Yes][true] |
-| Editor osu!mania | ![Yes][true] | ![Yes][true] |
-| Akses ke tingkat kesulitan lain sebagai bahan rujukan | ![Yes][true] | ![No][false] |
-| Pengaturan SV / volume per objek | ![No][false] | ![Yes][true] |
-| Rotasi pattern | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
-| Perubahan ukuran pattern | ![No][false] | ![Yes][true] |
-| Submisi beatmap | ![Yes][true] | ![No][false] |
-| Editor storyboard | ![Yes][true] | ![No][false] |
-| Kompatibilitas silang | ![Yes][true] | ![Partial][partial][^incompatibilities] |
+| Editor osu!taiko | ![No][false] | ![Ya][true] |
+| Editor osu!catch | ![No][false] | ![Ya][true] |
+| Editor osu!mania | ![Ya][true] | ![Ya][true] |
+| Akses ke tingkat kesulitan lain sebagai bahan rujukan | ![Ya][true] | ![No][false] |
+| Pengaturan SV / volume per objek | ![No][false] | ![Ya][true] |
+| Rotasi pattern | ![Ya][true] | ![Partial][partial][^editor-precise-rotation] |
+| Perubahan ukuran pattern | ![No][false] | ![Ya][true] |
+| Submisi beatmap | ![Ya][true] | ![No][false] |
+| Editor storyboard | ![Ya][true] | ![No][false] |
+| Kompatibilitas silang | ![Ya][true] | ![Partial][partial][^incompatibilities] |
 
 ## Beralih ke lazer
 
