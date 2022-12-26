@@ -280,7 +280,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^map-only]: Hanya terbatas pada berkas beatmap.
 [^all-files]: Seluruh berkas.
 [^editor-precise-rotation]: Pemutaran dengan sudut yang presisi saat ini belum didukung.
-[^incompatibilities]: Fitur editor tertentu dapat menyebabkan beatmap untuk tidak tampil sebagaimana semestinya ketika dimainkan di stable. Hal ini akan segera diperbaiki.
+[^incompatibilities]: Fitur editor tertentu dapat menyebabkan beatmap untuk tidak tampil sebagaimana mestinya ketika dimainkan di stable. Hal ini akan segera diperbaiki.
 [^stable-chat]: Pesan dapat memerlukan waktu hingga 15 detik untuk terkirim.
 [^countdown-timers-stable]: Waktu hitungan mundur hanya dapat diatur melalui perintah khusus, dan permainan tidak dapat dimulai secara otomatis.
 [^countdown-timers-lazer]: Waktu hitungan mundur dapat diatur melalui antarmuka dalam permainan.
