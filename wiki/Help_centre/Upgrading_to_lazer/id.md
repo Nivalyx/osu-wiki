@@ -153,7 +153,7 @@ lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tid
 
 You can actually change the `Score display mode` setting to `Classic` to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
 
-Kamu dapat mengatur pilihan `Mode tampilan skor` ke `Klasik` untuk menampilkan model skor yang "eksplosif" seperti pada stable. Walaupun model ini tidak sama persis dengan yang ada di stable, model ini dan berlaku secara universal.
+Kamu dapat mengatur pilihan `Mode tampilan skor` ke `Klasik` untuk menampilkan model skor yang "eksplosif" seperti pada stable. Walaupun model ini tidak sama persis dengan yang ada di stable, model ini berperilaku seperti model stable dan berlaku secara universal.
 
 #### Apabila saya mencetak skor pada lazer, apakah skor tersebut akan tetap ada selama-lamanya?
 
