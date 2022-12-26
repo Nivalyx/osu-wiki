@@ -145,7 +145,7 @@ Skor yang dicetak pada lazer saat ini telah memiliki perhitungan pp-nya tersendi
 
 #### Apakah lazer menggunakan sistem ScoreV2?
 
-lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Sistem ini masih berada dalam tahap pengembangan, dan kami akan sangat mengapresiasi segala saran dan masukan terkait dengan sistem ini ke depannya baik dalam permainan solo, turnamen, multiplayer, ataupun yang lainnya.
+lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Sistem ini masih berada dalam tahap pengembangan, dan kami akan sangat mengapresiasi segala saran dan masukan terkait dengan penerapan sistem ini dalam permainan solo, turnamen, multiplayer, ataupun yang lainnya.
 
 <!-- lint ignore no-heading-punctuation -->
 
