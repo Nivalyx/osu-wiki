@@ -67,7 +67,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Akses kilat ke laman wiki / berita / riwayat pembaruan / peringkat | ![No][false] | ![Yes][true][^online-content] |
 | Akses kilat ke laman profil pengguna | ![No][false] | ![Yes][true] |
 | Akses kilat ke laman daftar beatmap | ![Partial][partial][^direct-supporter] | ![Yes][true] |
-| Ukuran ruangan multiplayer yang tidak terbatas | ![No][false][^multi-room-max] | ![Yes][true] |
+| Ukuran ruang multiplayer yang tidak terbatas | ![No][false][^multi-room-max] | ![Yes][true] |
 | Mode spectate untuk pertandingan multiplayer | ![No][false] | ![Yes][true] |
 | Waktu hitungan mundur | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
 | Mode antrian | ![No][false] | ![Yes][true][^queue-modes] |
@@ -284,7 +284,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^stable-chat]: Pesan dapat memerlukan waktu hingga 15 detik untuk terkirim.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
-[^queue-modes]: Aktifkan pilihan ini agar masing-masing pemain dapat mengantrikan beatmap pada lobi multiplayer secara silih berganti (atau yang lebih dikenal dengan istilah "host rotate".)
+[^queue-modes]: Aktifkan pilihan ini agar masing-masing pemain dapat mengantrikan beatmap pada ruang multiplayer secara silih berganti (atau yang lebih dikenal dengan istilah "host rotate".)
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
