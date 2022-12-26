@@ -284,7 +284,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^stable-chat]: Pesan dapat memerlukan waktu hingga 15 detik untuk terkirim.
 [^countdown-timers-stable]: Waktu hitungan mundur hanya dapat diatur melalui perintah khusus, dan permainan multiplayer tidak dapat dimulai secara otomatis.
 [^countdown-timers-lazer]: Permainan multiplayer dapat dimulai secara otomatis melalui waktu hitungan mundur yang dapat diatur melalui menu antarmuka yang tersedia.
-[^queue-modes]: Aktifkan pilihan ini agar masing-masing pemain dapat mengantrikan beatmap pada ruang multiplayer secara silih berganti (atau yang lebih dikenal dengan istilah "host rotate".)
+[^queue-modes]: Aktifkan mode ini agar masing-masing pemain dapat mengantrikan beatmap pada ruang multiplayer secara silih berganti (atau yang lebih dikenal dengan istilah "host rotate".)
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
