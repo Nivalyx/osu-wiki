@@ -279,10 +279,10 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^multi-room-max]: Terbatas hanya pada 16 pemain.
 [^map-only]: Hanya terbatas pada berkas beatmap.
 [^all-files]: Seluruh berkas.
-[^editor-precise-rotation]: Pemutaran dengan sudut yang presisi saat ini masih belum dapat dilakukan.
-[^incompatibilities]: Sebagian fitur editor dapat menyebabkan beatmap untuk tidak tampil dengan benar ketika dimainkan di stable. Hal ini akan segera diperbaiki.
+[^editor-precise-rotation]: Pemutaran dengan sudut yang presisi saat ini belum didukung.
+[^incompatibilities]: Fitur editor tertentu dapat menyebabkan beatmap untuk tidak tampil sebagaimana semestinya ketika dimainkan di stable. Hal ini akan segera diperbaiki.
 [^stable-chat]: Pesan dapat memerlukan waktu hingga 15 detik untuk terkirim.
-[^countdown-timers-stable]: Waktu hitungan mundur hanya dapat diatur melalui perintah khusus dan tidak dapat dimulai secara otomatis.
+[^countdown-timers-stable]: Waktu hitungan mundur hanya dapat diatur melalui perintah khusus, dan permainan tidak dapat dimulai secara otomatis.
 [^countdown-timers-lazer]: Waktu hitungan mundur dapat diatur melalui antarmuka dalam permainan.
 [^queue-modes]: Aktifkan pilihan ini agar masing-masing pemain dapat mengantrikan beatmap pada ruang multiplayer secara silih berganti (atau yang lebih dikenal dengan istilah "host rotate".)
 
