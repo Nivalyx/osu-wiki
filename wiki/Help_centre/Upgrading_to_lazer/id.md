@@ -169,7 +169,7 @@ Untuk saat ini, papan peringkat lazer akan menampilkan skor dari seluruh mod yan
 
 #### Saya tidak suka mekanisme permainan yang ada saat ini. Apakah saya dapat bermain dengan mekanisme permainan yang stable miliki?
 
-Kamu dapat mengaktifkan mod "classic" untuk memperoleh pengalaman bermain yang serupa dengan stable. Pastikan juga kamu memeriksa berbagai pengaturan yang dimiliki oleh mod ini, karena kamu dapat menentukan sendiri mekanisme mana saja yang telah barubah antara lazer dan stable.
+Kamu dapat mengaktifkan mod "classic" untuk memperoleh pengalaman bermain yang serupa dengan stable. Pastikan juga kamu memeriksa berbagai pengaturan yang dimiliki oleh mod ini, karena kamu dapat menentukan sendiri mekanisme permainan mana saja yang ingin kamu hadirkan kembali.
 
 ### Skinning dan UI
 
