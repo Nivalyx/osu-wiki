@@ -73,7 +73,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Mode antrian | ![Tidak][false] | ![Ya][true][^queue-modes] |
 | Perintah multiplayer | ![Ya][true] | ![Tidak][false] |
 | Mode tag co-op | ![Ya][true] | ![Tidak][false] |
-| Playlist (papan peringkat yang dikurasi oleh pengguna) | ![Tidak][false] | ![Ya][true] |
+| Playlist (papan peringkat yang disusun oleh pengguna) | ![Tidak][false] | ![Ya][true] |
 | Pembaruan beatmap dari dalam permainan | ![Parsial][partial][^map-only] | ![Ya][true][^all-files] |
 
 ### Editor
