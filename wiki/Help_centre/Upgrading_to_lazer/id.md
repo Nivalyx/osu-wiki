@@ -153,7 +153,7 @@ lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tid
 
 You can actually change the `Score display mode` setting to `Classic` to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
 
-Kamu dapat mengatur pilihan `Mode tampilan skor` ke `Klasik` untuk memunculkan skor
+Kamu dapat mengatur pilihan `Mode tampilan skor` ke `Klasik` untuk memunculkan mode skor yang bertambah dengan sangat cepat. Mode tampilan ini tidak sama persis dengan yang ada di stable, namun 
 
 #### Apabila saya mencetak skor pada lazer, apakah skor tersebut akan tetap ada selama-lamanya?
 
@@ -171,7 +171,7 @@ Untuk saat ini, papan peringkat lazer akan menampilkan skor dari seluruh mod yan
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
 
-Kamu dapat mengaktifkan mod "classic" untuk memperoleh pengalaman bermain yang serupa dengan stable. Kamu juga dapat mengatur apa-apa saja yang akan oleh mod ini.
+Kamu dapat mengaktifkan mod "classic" untuk memperoleh pengalaman bermain yang serupa dengan stable. Mod ini memiliki berbagai pengaturan yang dapat kamu atur, yang memungkinkanmu untuk me
 
 ### Skinning dan UI
 
