@@ -52,7 +52,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Kalibrasi offset | ![Parsial][partial][^offset-calibration-stable] | ![Ya][true][^offset-calibration-lazer] |
 | Jalur slider yang meluruh ketika dimainkan | ![Tidak][false] | ![Ya][true][^can-disable] |
 | Mekanisme "note lock" yang tidak merugikan pemain | ![Tidak][false] | ![Ya][true][^note-lock] |
-| Warna not osu!mania yang berdasar pada waktu | ![Tidak][false] | ![Ya][true] |
+| Sistem pewarnaan not osu!mania yang berdasar pada waktu | ![Tidak][false] | ![Ya][true] |
 
 ### Sistem online
 
