@@ -145,7 +145,7 @@ Skor yang dicetak pada lazer saat ini telah memiliki perhitungan pp-nya tersendi
 
 #### Apakah lazer menggunakan sistem ScoreV2?
 
-Lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Sistem ini masih berada dalam tahap pengembangan, dan kami akan sangat mengapresiasi segala saran dan masukan mengenai sistem ini ke depannya.
+lazer saat ini menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Sistem ini masih berada dalam tahap pengembangan, dan kami akan sangat mengapresiasi segala saran dan masukan mengenai sistem ini ke depannya.
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -171,7 +171,7 @@ Untuk saat ini, papan peringkat lazer akan menampilkan skor dari seluruh mod yan
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
 
-Kamu dapat mengaktifkan mod "classic" yang akan memberikan pengalaman bermain yang serupa dengan stable.
+Kamu dapat mengaktifkan mod "classic" untuk memperoleh pengalaman bermain yang serupa dengan stable. Kamu juga dapat mengatur apa-apa saja yang akan oleh mod ini.
 
 ### Skinning dan UI
 
