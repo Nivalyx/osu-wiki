@@ -197,7 +197,7 @@ Lazer polls for input at 1000 Hz regardless of FPS limiter, which is why the max
 
 If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
 
-#### If input is only polled at 1000 Hz, what about my 8000 Hz gaming mouse?
+#### Apabila input yang osu! terima terbatas hanya pada 1000 Hz, bagaimana dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
 
 The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 Hz for system stability.
 
