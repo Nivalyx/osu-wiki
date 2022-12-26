@@ -171,7 +171,7 @@ Untuk saat ini, papan peringkat lazer akan menampilkan skor dari seluruh mod yan
 
 Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
 
-Kamu dapat mengaktifkan mod "classic" untuk memperoleh pengalaman bermain yang serupa dengan stable. Mod ini memiliki berbagai pengaturan yang dapat kamu atur, yang memungkinkanmu untuk me
+Cobalah untuk mengaktifkan mod "classic", yang akan memberikan pengalaman bermain yang serupa dengan stable. Pastikan juga kamu me yang dimiliki oleh mod ini, yang memungkinkanmu untuk menentukan mekanisme mana saja yang 
 
 ### Skinning dan UI
 
