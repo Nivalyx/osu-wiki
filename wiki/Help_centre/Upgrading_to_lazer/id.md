@@ -283,7 +283,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^incompatibilities]: Fitur editor tertentu dapat menyebabkan beatmap untuk tidak muncul sebagaimana mestinya ketika dimainkan di stable. Hal ini akan segera diperbaiki.
 [^stable-chat]: Pesan dapat memerlukan waktu hingga 15 detik untuk terkirim.
 [^countdown-timers-stable]: Waktu hitungan mundur hanya dapat diatur melalui perintah khusus, dan permainan tidak dapat dimulai secara otomatis.
-[^countdown-timers-lazer]: Permainan dapat dimulai secara otomatis melalui waktu hitungan mundur yang dapat diatur secara langsung dari dalam permainan.
+[^countdown-timers-lazer]: Permainan dapat dimulai secara otomatis melalui waktu hitungan mundur yang dapat diatur secara langsung melalui antarmuka yang tersedia.
 [^queue-modes]: Aktifkan pilihan ini agar masing-masing pemain dapat mengantrikan beatmap pada ruang multiplayer secara silih berganti (atau yang lebih dikenal dengan istilah "host rotate".)
 
 [true]: /wiki/shared/true.png
