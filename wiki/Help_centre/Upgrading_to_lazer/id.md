@@ -157,6 +157,8 @@ You can actually change the `Score display mode` setting to `Classic` to get bac
 
 While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset or all scores in order to preserve game balance.
 
+Kami tentunya akan berusaha agar tidak ada skor yang terhapus, namun kami **tidak menjamin bahwa ke depannya
+
 #### Apakah skor yang saya cetak pada stable nantinya juga akan muncul pada lazer?
 
 Ya. Setelah kami menyelesaikan proses pembobotan skor antara lazer dan stable, seluruh skor akan muncul pada papan peringkat lazer.
