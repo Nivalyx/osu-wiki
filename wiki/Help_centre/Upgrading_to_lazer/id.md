@@ -155,7 +155,7 @@ You can actually change the `Score display mode` setting to `Classic` to get bac
 
 #### Apabila saya mencetak skor pada lazer, apakah skor tersebut akan tetap ada selama-lamanya?
 
-Kami tentunya akan berusaha agar tidak ada skor yang terhapus, namun kami **tidak menjamin bahwa ke depannya skor yang ada tidak akan dihapus**. Kami dapat sewaktu-waktu menghapus skor yang ada pada lazer untuk menyeimbangkan permainan.
+Kami tentunya akan berusaha agar tidak ada skor yang terhapus, namun kami **tidak menjamin bahwa skor yang terdapat pada lazer saat ini akan tetap ada selama-lamanya**. Kami dapat sewaktu-waktu menghapus skor yang ada pada lazer untuk menyeimbangkan permainan.
 
 #### Apakah skor yang saya cetak pada stable nantinya juga akan muncul pada lazer?
 
