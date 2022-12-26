@@ -282,8 +282,8 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^editor-precise-rotation]: Pemutaran dengan sudut yang presisi saat ini masih belum dapat dilakukan.
 [^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
 [^stable-chat]: Pesan dapat memerlukan waktu hingga 15 detik untuk terkirim.
-[^countdown-timers-stable]: Set a countdown using a command, no automatic start.
-[^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
+[^countdown-timers-stable]: Waktu hitungan mundur hanya dapat diatur melalui perintah khusus dan tidak dapat dimulai secara otomatis.
+[^countdown-timers-lazer]: Waktu hitungan mundur dapat diatur melalui antarmuka dalam permainan.
 [^queue-modes]: Aktifkan pilihan ini agar masing-masing pemain dapat mengantrikan beatmap pada ruang multiplayer secara silih berganti (atau yang lebih dikenal dengan istilah "host rotate".)
 
 [true]: /wiki/shared/true.png
