@@ -195,7 +195,7 @@ Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang terdapat p
 
 #### Apabila input yang osu! ambil terbatas hanya pada 1000 Hz, apa yang akan terjadi dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
 
-Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi, namun kamu tidak akan dapat merasakan perbedaannya. Berhubung frekuensi input yang berlebihan dapat menyebabkan berbagai masalah yang tidak diinginkan, kami menyarankanmu untuk membatasi frekuensi inputmu pada 1000 Hz.
+Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi, namun kamu tidak akan dapat merasakan perbedaan yang ada. Berhubung frekuensi input yang berlebihan dapat menyebabkan berbagai masalah yang tidak diinginkan, kami menyarankanmu untuk membatasi frekuensi inputmu pada 1000 Hz.
 
 #### Performa lazer saya lebih buruk dari stable. Apa penyebabnya?
 
