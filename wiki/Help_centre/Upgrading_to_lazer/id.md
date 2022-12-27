@@ -223,6 +223,8 @@ Hal lainnya yang menjadi bahan pertimbangan kami adalah kompatibilitas beatmap. 
 
 Finally, unlike the last iteration, we are putting in the time and diligence to ensure the code base will serve us well into the future. We have done the groundwork to allow new features to come online at blazing speed going forward. This will include new UI components, new ways to skin the game, new multiplayer systems and let's not forget the ability to load and play all your existing beatmaps on completely new game modes (a.k.a. rulesets)!
 
+Terakhir,
+
 #### Apa yang akan dilakukan oleh tim osu! setelah lazer dirilis?
 
 Kami akan terus menyempurnakan osu! serta menghadirkan berbagai fitur yang telah banyak diminta secara cepat dan tanggap. Apabila kamu sebelumnya belum pernah mengikuti siklus pengembangan osu!, bersiaplah untuk dihadapkan dengan berbagai kejutan.
