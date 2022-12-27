@@ -191,7 +191,7 @@ Setelah melewati ambang batas tertentu, FPS yang berlebihan hanya akan menghambu
 
 Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FPS yang aktif. Oleh karenanya, lazer membatasi FPS yang ada hanya pada 1000 FPS.
 
-Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang terdapat pada berbagai FPS, kamu dapat menjalakan program "Latency Certifier" yang terdapat pada menu pengaturan.
+Apabila kamu ingin merasakan sendiri perbedaan jeda input antar berbagai FPS, kamu dapat menjalakan program "Latency Certifier" yang terdapat pada menu pengaturan.
 
 #### Apabila input yang osu! ambil terbatas hanya pada 1000 Hz, apa yang akan terjadi dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
 
