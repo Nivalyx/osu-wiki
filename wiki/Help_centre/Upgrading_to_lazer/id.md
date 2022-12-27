@@ -187,7 +187,7 @@ Fitur ini saat ini tidak didukung. Meskipun demikian, sehubungan dengan banyakny
 
 #### Mengapa saya tidak dapat menjalankan lazer tanpa batasan FPS?
 
-Setelah melewati ambang batas tertentu, FPS yang berlebihan tidak akan membawa kelebihan apapun. Agar sumber daya yang ada dapat digunakan secara optimal, lazer memanfaatkan berbagai teknologi mutakhir agar jeda input yang muncul dapat diminimalisir bahkan pada FPS yang rendah sekalipun.
+Setelah melewati ambang batas tertentu, FPS yang berlebihan hanya akan menghambur-hamburkan sumber daya yang ada. Untuk mencegah hal ini, lazer menggunakan berbagai teknologi mutakhir agar jeda input yang muncul dapat diminimalisir bahkan pada FPS yang rendah sekalipun.
 
 Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FPS yang aktif. Oleh karenanya, lazer membatasi FPS yang ada hanya pada 1000 FPS.
 
@@ -220,8 +220,6 @@ Karena "cutting-edge" tidak dirasa cukup "tajam".
 Di balik kesederhanaannya, osu! tidak dapat berjalan tanpa dukungan berbagai fitur dan sistem yang harus ditulis ulang untuk lazer. Proses ini memakan waktu yang tidak sebentar, dan walaupun lazer saat ini telah dapat digunakan, pengembangan lazer masih jauh dari kata rampung.
 
 Another area which has taken a huge amount of effort is historical preservation — making sure that beatmaps behave exactly as they should, including edge cases that weren't originally planned for. osu! is a vibrant ecosystem and users have taken liberty to extend the game far beyond its planned extents, and we are trying our best to embrace and support this going forward.
-
-Hal lain yang 
 
 Finally, unlike the last iteration, we are putting in the time and diligence to ensure the code base will serve us well into the future. We have done the groundwork to allow new features to come online at blazing speed going forward. This will include new UI components, new ways to skin the game, new multiplayer systems and let's not forget the ability to load and play all your existing beatmaps on completely new game modes (a.k.a. rulesets)!
 
