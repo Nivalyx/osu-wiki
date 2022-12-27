@@ -197,9 +197,9 @@ Lazer mengambil input dalam rentang 1000 Hz terlepas dari nilai FPS yang aktif. 
 
 If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
 
-Apabila kamu ingin mengetahui lebih lanjut seputar bagaimana hal ini memengaruhi jeda input yang ada
+Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang ada pada satu FPS dengan yang lainnya, kamu dapat menjalakan yang terdapat pada menu pengaturan.
 
-#### Apabila input yang osu! terima terbatas hanya pada 1000 Hz, apa yang akan terjadi dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
+#### Apabila input yang osu! ambil terbatas hanya pada 1000 Hz, apa yang akan terjadi dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
 
 The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 Hz for system stability.
 
