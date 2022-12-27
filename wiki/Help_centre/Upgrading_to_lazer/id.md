@@ -193,7 +193,7 @@ Setelah melewati ambang batas tertentu, nilai FPS yang berlebihan tidak akan mem
 
 Lazer polls for input at 1000 Hz regardless of FPS limiter, which is why the maximum limiter setting will also limit to 1000 FPS.
 
-Lazer mengambil input dalam rentang 1000 Hz terlepas dari nilai FPS yang aktif. Oleh karenanya, batasan FPS maksimum yang dimiliki juga 1000 FPS.
+Lazer mengambil input dalam rentang 1000 Hz terlepas dari nilai FPS yang aktif. Oleh karenanya, lazer membatasi FPS maksimum dalam permainan pada angka 1000 FPS.
 
 If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
 
