@@ -197,7 +197,7 @@ Lazer mengambil input dalam rentang 1000 Hz terlepas dari nilai FPS yang aktif. 
 
 If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
 
-Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang ada di berbagai FPS, kamu dapat menjalakan yang terdapat pada menu pengaturan.
+Apabila kamu ingin merasakan sendiri perbedaan antara jeda input terdapat pada di berbagai FPS, kamu dapat menjalakan yang terdapat pada menu pengaturan.
 
 #### Apabila input yang osu! ambil terbatas hanya pada 1000 Hz, apa yang akan terjadi dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
 
