@@ -187,7 +187,7 @@ Fitur ini saat ini tidak didukung. Meskipun demikian, sehubungan dengan banyakny
 
 #### Mengapa saya tidak dapat menjalankan lazer tanpa batasan FPS?
 
-Setelah melewati ambang batas tertentu, FPS yang berlebihan tidak akan membawa keuntungan apapun. Agar sumber daya yang ada dapat dioptimalkan, lazer menggunakan berbagai teknologi mutakhir agar jeda input yang muncul dapat diminimalisir bahkan pada FPS yang rendah sekalipun.
+Setelah melewati ambang batas tertentu, FPS yang berlebihan tidak akan membawa keuntungan apapun. Agar sumber daya yang ada dapat dimanfaatkan secara optimal, lazer menggunakan berbagai teknologi mutakhir agar jeda input yang muncul dapat diminimalisir bahkan pada FPS yang rendah sekalipun.
 
 Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FPS yang aktif. Oleh karenanya, lazer membatasi FPS yang ada hanya pada 1000 FPS.
 
