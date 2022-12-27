@@ -189,7 +189,7 @@ Fitur ini saat ini tidak didukung. Meskipun demikian, sehubungan dengan banyakny
 
 Setelah melewati ambang batas tertentu, FPS yang berlebihan tidak akan mendatangkan keuntungan apapun. Lazer menggunakan berbagai teknologi mutakhir untuk memastikan jeda input yang ada dapat diminimalkan tanpa harus menampilkan FPS yang tinggi.
 
-Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FPS yang aktif. Oleh karenanya, lazer membatasi FPS yang ada hanya pada angka 1000 FPS.
+Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FPS yang aktif. Oleh karenanya, lazer membatasi FPS yang ada hanya pada 1000 FPS.
 
 Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang terdapat pada berbagai FPS, kamu dapat menjalakan program "Latency Certifier" yang terdapat pada menu pengaturan.
 
@@ -197,7 +197,7 @@ Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang terdapat p
 
 The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 Hz for system stability.
 
-Sistem operasi kamu akan tetap menerima input dalam rentang frekuensi yang lebih tinggi, namun kamu tidak akan dapat merasakan perbedaannya.
+Sistem operasi kamu akan tetap menerima input pada frekuensi yang lebih tinggi, namun kamu tidak akan dapat merasakan perbedaannya. Berhubung frekuensi input yang berlebihan dapat menyebabkan berbagai masalah yang tidak diinginkan, kami menyarankanmu untuk membatasi frekuensi input yang kamu gunakan pada 1000 Hz.
 
 #### Performa lazer saya lebih buruk dari stable. Apa penyebabnya?
 
