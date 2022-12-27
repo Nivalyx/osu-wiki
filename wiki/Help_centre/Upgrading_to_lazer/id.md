@@ -191,7 +191,7 @@ Above a certain threshold there is no reason to run at higher frame rates. Lazer
 
 Setelah melewati ambang batas tertentu, nilai FPS yang berlebihan tidak akan membawa keuntungan apapun. Lazer menggunakan berbagai teknologi mutakhir untuk memastikan jeda input yang ada dapat diminimalkan tanpa FPS yang tinggi.
 
-Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari nilai batasan FPS yang aktif. Oleh karenanya, lazer hanya membatasi FPS dalam permainan pada angka 1000 FPS.
+Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari nilai batasan FPS yang aktif. Oleh karenanya, lazer tidak mendukung penggunaan yang melebihi 1000 FPS.
 
 Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang terdapat pada satu FPS dengan yang lainnya, kamu dapat menjalakan program "Latency Certifier" yang terdapat pada menu pengaturan.
 
