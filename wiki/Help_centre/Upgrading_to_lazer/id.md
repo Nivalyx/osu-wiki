@@ -193,9 +193,9 @@ Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FP
 
 Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang terdapat pada berbagai FPS, kamu dapat menjalakan program "Latency Certifier" yang terdapat pada menu pengaturan.
 
-#### Apabila input yang osu! terima terbatas hanya pada 1000 Hz, apa yang akan terjadi dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
+#### Apabila input yang osu! ambil terbatas hanya pada 1000 Hz, apa yang akan terjadi dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
 
-Sistem operasi kamu akan tetap menerima input pada frekuensi yang lebih tinggi, namun kamu tidak akan dapat merasakan perbedaannya. Berhubung frekuensi input yang berlebihan dapat menyebabkan masalah yang tidak diinginkan, kami menyarankanmu untuk membatasi frekuensi input yang kamu gunakan pada 1000 Hz.
+Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi, namun kamu tidak akan dapat merasakan perbedaannya. Berhubung frekuensi input yang berlebihan dapat menyebabkan berbagai masalah yang tidak diinginkan, kami menyarankanmu untuk membatasi frekuensi inputmu pada 1000 Hz.
 
 #### Performa lazer saya lebih buruk dari stable. Apa penyebabnya?
 
