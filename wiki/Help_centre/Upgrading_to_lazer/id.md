@@ -219,7 +219,7 @@ Karena "cutting-edge" tidak dirasa cukup "tajam".
 
 Di balik kesederhanaannya, osu! tidak dapat berjalan tanpa dukungan berbagai fitur dan sistem yang harus ditulis ulang untuk lazer. Proses ini memakan waktu yang tidak sebentar, dan walaupun lazer saat ini telah dapat digunakan, pengembangan lazer masih jauh dari kata rampung.
 
-Hal lainnya yang menjadi bahan pertimbangan kami adalah kompatibilitas beatmap. Sebagai permainan yang membebaskan para penggunanya untuk berkarya, osu! saat ini memiliki berbagai beatmap yang dibuat dengan beraneka jenis rancangan dan tujuan yang tidak umum. Sebelum kami merilis lazer, kami ingin memastikan bahwa seluruh beatmap yang ada dapat dimainkan di lazer tanpa masalah.
+Hal lainnya yang menjadi bahan pertimbangan kami adalah kompatibilitas beatmap. Sebagai permainan yang membebaskan para penggunanya untuk berkarya, osu! saat ini memiliki beraneka macam beatmap yang dibuat dengan berbagai jenis rancangan dan tujuan yang tidak umum. Sebelum kami merilis lazer, kami ingin memastikan bahwa seluruh beatmap yang ada dapat dimainkan di lazer tanpa masalah.
 
 Finally, unlike the last iteration, we are putting in the time and diligence to ensure the code base will serve us well into the future. We have done the groundwork to allow new features to come online at blazing speed going forward. This will include new UI components, new ways to skin the game, new multiplayer systems and let's not forget the ability to load and play all your existing beatmaps on completely new game modes (a.k.a. rulesets)!
 
