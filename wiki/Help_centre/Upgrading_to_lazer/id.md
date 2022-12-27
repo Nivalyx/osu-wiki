@@ -187,7 +187,7 @@ Fitur ini saat ini tidak didukung. Meskipun demikian, sehubungan dengan banyakny
 
 #### Mengapa saya tidak dapat menjalankan lazer tanpa batasan FPS?
 
-Setelah melewati ambang batas tertentu, FPS yang berlebihan tidak akan mendatangkan keuntungan apapun. Lazer menggunakan berbagai teknologi mutakhir untuk memastikan jeda input yang ada dapat diminimalkan tanpa FPS yang terlewat tinggi.
+Setelah melewati ambang batas tertentu, FPS yang berlebihan tidak akan mendatangkan keuntungan apapun. Lazer menggunakan berbagai teknologi mutakhir untuk memastikan jeda input yang ada dapat diminimalkan tanpa melebih-lebihkan FPS yang dibutuhkan.
 
 Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FPS yang aktif. Oleh karenanya, lazer membatasi FPS yang ada hanya pada angka 1000 FPS.
 
@@ -197,7 +197,7 @@ Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang terdapat p
 
 The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 Hz for system stability.
 
-Sistem operasi kamu
+Sistem operasi kamu akan tetap mengambil imput dalam rentang
 
 #### Performa lazer saya lebih buruk dari stable. Apa penyebabnya?
 
