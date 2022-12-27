@@ -197,7 +197,7 @@ Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang terdapat p
 
 The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 Hz for system stability.
 
-Sistem operasi kamu akan tetap mengambil input dalam rentang
+Sistem operasi kamu akan tetap mengambil input dalam rentang frekuensi yang lebih tinggi, namun kamu tidak akan dapat merasakan perbedaannya.
 
 #### Performa lazer saya lebih buruk dari stable. Apa penyebabnya?
 
