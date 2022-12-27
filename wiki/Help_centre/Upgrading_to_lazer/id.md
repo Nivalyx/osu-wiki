@@ -207,7 +207,7 @@ Walaupun pada umumnya performa lazer sudah lebih baik dari stable, terdapat bebe
 
 Telusuri apakah masalahmu telah dilaporkan sebelumnya oleh pengguna lain melalui fitur [pelacak masalah](https://github.com/ppy/osu/issues) dan [kolom diskusi](https://github.com/ppy/osu/discussions) yang terdapat pada repositori GitHub osu!. Apabila kamu tidak menemukan laporan yang sesuai, silakan [buat topik diskusi baru](https://github.com/ppy/osu/discussions/new).
 
-Dalam melapor, harap diingat bahwa tim kami dapat melacak hingga beribu-ribu masalah setiap waktunya, dan masalah yang menjangkiti banyak pengguna pada umumnya akan lebih diutamakan.
+Dalam melapor, harap diingat bahwa tim kami dapat melacak hingga beribu-ribu masalah setiap waktunya, dan masalah yang telah menjangkiti banyak pengguna pada umumnya akan lebih diutamakan.
 
 ### Lainnya
 
