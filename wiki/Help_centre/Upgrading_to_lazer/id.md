@@ -187,7 +187,7 @@ Fitur ini saat ini tidak didukung. Meskipun demikian, sehubungan dengan banyakny
 
 #### Mengapa saya tidak dapat menjalankan lazer tanpa batasan FPS?
 
-Setelah melewati ambang batas tertentu, FPS yang berlebihan tidak akan mendatangkan keuntungan apapun. Lazer menggunakan berbagai teknologi mutakhir untuk memastikan jeda input yang ada dapat diminimalkan tanpa harus menampilkan FPS yang tinggi.
+Setelah melewati ambang batas tertentu, FPS yang berlebihan tidak akan mendatangkan keuntungan apapun. Lazer menggunakan berbagai teknologi mutakhir untuk memastikan jeda input yang ada dapat diminimalkan bahkan pada FPS yang rendah sekalipun.
 
 Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FPS yang aktif. Oleh karenanya, lazer membatasi FPS yang ada hanya pada 1000 FPS.
 
@@ -200,6 +200,8 @@ Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi,
 #### Performa lazer saya lebih buruk dari stable. Apa penyebabnya?
 
 While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support DirectX (aka "compatibility mode" on stable) and Vulkan, which both have better driver support than OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
+
+
 
 ### Pemberian tanggapan
 
