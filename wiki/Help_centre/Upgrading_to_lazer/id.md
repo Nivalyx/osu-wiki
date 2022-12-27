@@ -189,7 +189,7 @@ Fitur ini saat ini tidak didukung. Meskipun demikian, sehubungan dengan banyakny
 
 Above a certain threshold there is no reason to run at higher frame rates. Lazer employs various new technologies to ensure the lowest latency is achievable without requiring high frame rates. This will continue to improve going forward as we still have a few improvements left to implement.
 
-Setelah melewati ambang batas tertentu, nilai FPS yang berlebihan tidak akan membawa keuntungan apapun. Lazer menggunakan berbagai teknologi mutakhir untuk memperoleh jeda input yang sedikit-dikitnya tanpa FPS yang terlampau tinggi.
+Setelah melewati ambang batas tertentu, nilai FPS yang berlebihan tidak akan membawa keuntungan apapun. Lazer menggunakan berbagai teknologi mutakhir untuk memperoleh jeda input sesedikit mungkin tanpa FPS yang terlampau tinggi.
 
 Lazer polls for input at 1000 Hz regardless of FPS limiter, which is why the maximum limiter setting will also limit to 1000 FPS.
 
