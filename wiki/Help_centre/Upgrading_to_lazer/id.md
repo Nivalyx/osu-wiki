@@ -195,9 +195,7 @@ Lazer polls for input at 1000 Hz regardless of FPS limiter, which is why the max
 
 Lazer mengambil input dalam rentang 1000 Hz terlepas dari nilai FPS yang aktif. Oleh karenanya, lazer hanya membatasi FPS dalam permainan pada angka 1000 FPS.
 
-If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
-
-Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang terdapat pada berbagai FPS, kamu dapat menjalakan program "Latency Certifier" yang terdapat pada menu pengaturan.
+Apabila kamu ingin merasakan sendiri perbedaan antara jeda input yang terdapat pada satu FPS dengan yang lainnya, kamu dapat menjalakan program "Latency Certifier" yang terdapat pada menu pengaturan.
 
 #### Apabila input yang osu! ambil terbatas hanya pada 1000 Hz, apa yang akan terjadi dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
 
