@@ -201,7 +201,7 @@ Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi,
 
 While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support DirectX (aka "compatibility mode" on stable) and Vulkan, which both have better driver support than OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
 
-Walaupun pada sebagian besar hardware modern performa lazer lebih baik dari stable, terdapat beberapa konfigurasi hardware di mana kinerja lazer masih terhambat. Dalam waktu dekat, kami akan mengupayakan dukungan DirectX (atau yang dikenal pada stable dengan istilah "compatibility mode") dan Vulkan, yang memiliki dukungan lintas hardware yang lebih baik dibanding OpenGL. Setelah keduanya didukung, chipset Intel yang terintegrasi
+Walaupun pada sebagian besar hardware modern performa lazer lebih baik dari stable, terdapat beberapa konfigurasi hardware di mana kinerja lazer masih terhambat. Dalam waktu dekat, kami berencana untuk memecahkan masalah ini dengan menghadirkan dukungan DirectX (atau yang dikenal pada stable dengan istilah "compatibility mode") dan Vulkan, yang memiliki dukungan lintas hardware yang lebih baik dibanding OpenGL. Setelah keduanya didukung, chipset Intel yang terintegrasi
 
 ### Pemberian tanggapan
 
