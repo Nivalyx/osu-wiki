@@ -189,7 +189,7 @@ Fitur ini saat ini tidak didukung. Meskipun demikian, sehubungan dengan banyakny
 
 Setelah melewati ambang batas tertentu, FPS yang berlebihan hanya akan menghambur-hamburkan sumber daya yang ada. Untuk mencegah hal ini, lazer dirancang sedemikian rupa agar jeda input yang muncul dapat diminimalisir tanpa harus menampilkan FPS yang berlebihan.
 
-Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FPS yang aktif. Oleh karenanya, lazer membatasi FPS yang ada hanya pada 1000 FPS.
+Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FPS yang digunakan. Oleh karenanya, lazer membatasi FPS yang ada hanya pada 1000 FPS.
 
 Apabila kamu ingin merasakan sendiri perbedaan jeda input antar berbagai FPS, kamu dapat menjalakan program "Latency Certifier" yang terdapat pada menu pengaturan.
 
