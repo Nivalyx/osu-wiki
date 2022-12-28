@@ -74,7 +74,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Perintah multiplayer | ![Ya][true] | ![Tidak][false] |
 | Mode tag co-op | ![Ya][true] | ![Tidak][false] |
 | Playlist (papan peringkat yang disusun oleh pengguna) | ![Tidak][false] | ![Ya][true] |
-| Pembaruan beatmap ke versi terbaru secara online | ![Parsial][partial][^map-only] | ![Ya][true][^all-files] |
+| Memperbarui beatmap ke versi terbaru secara online | ![Parsial][partial][^map-only] | ![Ya][true][^all-files] |
 
 ### Editor
 
