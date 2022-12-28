@@ -243,7 +243,7 @@ Di samping itu, keuntungan berikut juga telah tersedia untuk dinikmati:
 
 - Para supporter dapat membuat playlist dengan jangka waktu yang lebih panjang
 
-Kami tentunya ingin menghadirkan berbagai keuntungan lainnya di masa yang akan datang, namun sayangnya untuk saat ini fokus kami masih harus tertuju kepada pengembangan lazer itu sendiri. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... mendukung pengembangan yang ada!
+Kami tentunya ingin menghadirkan berbagai keuntungan lainnya di masa yang akan datang, namun sayangnya untuk saat ini fokus kami masih harus tertuju kepada pengembangan lazer itu sendiri. Oleh karenanya, mohon niatkan pembelian supporter tag kamu untuk... mendukung pengembangan ini!
 
 #### Apabila saya berbuat curang pada lazer, apakah saya akan dihukum?
 
