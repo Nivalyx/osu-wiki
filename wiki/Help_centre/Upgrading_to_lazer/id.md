@@ -199,7 +199,7 @@ Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi,
 
 #### Performa lazer saya lebih buruk dari stable. Apa penyebabnya?
 
-Walaupun pada umumnya performa lazer lebih baik dari stable, terdapat beberapa konfigurasi hardware tertentu yang belum memungkinkan lazer untuk dapat berjalan secara optimal. Dalam waktu dekat, kami berencana untuk memecahkan masalah ini dengan menghadirkan dukungan API DirectX (atau yang dikenal pada stable dengan istilah "compatibility mode") dan Vulkan pada lazer. Kedua API ini memiliki dukungan lintas hardware yang lebih baik dibanding OpenGL dan dapat meningkatkan performa lazer pada hardware dengan chipset Intel yang terintegrasi.
+Walaupun pada umumnya performa lazer sudah lebih baik dari stable, terdapat beberapa konfigurasi hardware tertentu yang belum memungkinkan lazer untuk dapat berjalan secara optimal. Dalam waktu dekat, kami berencana untuk memecahkan masalah ini dengan menghadirkan dukungan API DirectX (atau yang dikenal pada stable dengan istilah "compatibility mode") dan Vulkan pada lazer. Kedua API ini memiliki dukungan lintas hardware yang lebih baik dibanding OpenGL dan dapat meningkatkan performa lazer pada hardware dengan chipset Intel yang terintegrasi.
 
 ### Pemberian tanggapan
 
