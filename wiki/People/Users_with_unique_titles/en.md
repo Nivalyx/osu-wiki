@@ -177,10 +177,9 @@ Since 2020, members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_No
 
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
 - ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
-- ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
 - ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
-- ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196)
+- ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433)
 - ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379)
 - ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)
 - ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453)
