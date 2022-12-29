@@ -6,14 +6,15 @@ User titles are typically associated with [user groups](/wiki/People/The_Team#us
 
 Each year, winners of the [official World Cups](/wiki/Tournaments#official-world-cups) are bestowed with the **osu!/osu!taiko/osu!catch/osu!mania Champion** user title which lasts until the conclusion of the next corresponding World Cup iteration.
 
-Winners of [OWC 2021](/wiki/Tournaments/OWC/2021) with the **osu! Champion** user title:
+Winners of [OWC 2022](/wiki/Tournaments/OWC/2022) with the **osu! Champion** user title:
 
-- ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010)
-- ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095)
-- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687)
+- ::{ flag=US }:: [Decaten](https://osu.ppy.sh/users/5645231)
 - ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153)
-- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
 - ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650)
+- ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013)
+- ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296)
+- ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848)
 - ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211)
 - ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553)
 
@@ -67,9 +68,10 @@ Winners of previous osu! World Cups with the **Former osu! Champion** user title
 | [OWC 2015](/wiki/Tournaments/OWC/2015) | Former osu! Champion: 2015 | ::{ flag=US }:: [0120](https://osu.ppy.sh/users/1901534), ::{ flag=US }:: [Kitteh](https://osu.ppy.sh/users/2162669), ::{ flag=US }:: [Seouless](https://osu.ppy.sh/users/3328676), ::{ flag=IL }:: [Xilver15](https://osu.ppy.sh/users/3099689), ::{ flag=US }:: [Zodiaack](https://osu.ppy.sh/users/3096229) |
 | [OWC 2016](/wiki/Tournaments/OWC/2016) | Former osu! Champion: 2016 | ::{ flag=US }:: [Axarious](https://osu.ppy.sh/users/2614511), ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802), ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596), ::{ flag=US }:: [mniminwoo](https://osu.ppy.sh/users/3929529), ::{ flag=US }:: [Ritzeh](https://osu.ppy.sh/users/1028387) |
 | [OWC 2017](/wiki/Tournaments/OWC/2017) | Former osu! Champion: 2017 | ::{ flag=PL }:: [Astar](https://osu.ppy.sh/users/27055), ::{ flag=PL }:: [MrBoom](https://osu.ppy.sh/users/1837989), ::{ flag=PL }:: [Piggey](https://osu.ppy.sh/users/4163860), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=PL }:: [Wakson](https://osu.ppy.sh/users/3048222), ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758) |
-| [OWC 2018](/wiki/Tournaments/OWC/2018) | Former osu! Champion: 2018 | ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013) |
+| [OWC 2018](/wiki/Tournaments/OWC/2018) | Former osu! Champion: 2018 | *N/A* |
 | [OWC 2019](/wiki/Tournaments/OWC/2019) | Former osu! Champion: 2019 | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315), ::{ flag=US }:: [t\[-\_-t\]](https://osu.ppy.sh/users/2644828), ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) |
 | [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
+| [OWC 2021](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
 
 Winners of previous osu!taiko World Cups with the **Former osu!taiko Champion** user title:
 
@@ -100,6 +102,7 @@ Winners of previous osu!catch World Cups with the **Former osu!catch Champion** 
 | [CWC 2018](/wiki/Tournaments/CWC/2018) | Former osu!catch Champion: 2018 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210), ::{ flag=CN }:: [KagamineRin02](https://osu.ppy.sh/users/518503), ::{ flag=CN }:: [Kasumi](https://osu.ppy.sh/users/2331531), ::{ flag=CN }:: [Sakurano  Kurimu](https://osu.ppy.sh/users/1338103) |
 | [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 | *N/A* |
 | [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
+| [CWC 2020](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=KR }:: [qwhj1027](https://osu.ppy.sh/users/7547506) |
 
 Winners of previous osu!mania World Cups with the **Former osu!mania Champion** user title:
 
