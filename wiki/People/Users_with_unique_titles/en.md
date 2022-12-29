@@ -36,14 +36,14 @@ Winners of [CWC 2022](/wiki/Tournaments/CWC/2022) with the **osu!catch Champion*
 - ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519)
 - ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
 
-Winners of [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) with the **osu!mania 4K Champion** user title:
+Winners of [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) with the **osu!mania 4K Champion** user title:
 
-- ::{ flag=BR }:: [Amerom](https://osu.ppy.sh/users/5691061)
-- ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829)
-- ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579)
-- ::{ flag=BR }:: [Liight00](https://osu.ppy.sh/users/13601876)
-- ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019)
-- ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363)
+- ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095)
+- ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131)
+- ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661)
+- ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031)
+- ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923)
+- ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868)
 
 Winners of [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) with the **osu!mania 7K Champion** user title:
 
