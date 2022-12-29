@@ -27,7 +27,7 @@ Winners of [TWC 2022](/wiki/Tournaments/TWC/2022) with the **osu!taiko Champion*
 - ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695)
 - ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 
-Winners of [CWC 2021](/wiki/Tournaments/CWC/2021) with the **osu!catch Champion** user title:
+Winners of [CWC 2022](/wiki/Tournaments/CWC/2022) with the **osu!catch Champion** user title:
 
 - ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304)
 - ::{ flag=KR }:: [Berea](https://osu.ppy.sh/users/3657951)
@@ -102,7 +102,7 @@ Winners of previous osu!catch World Cups with the **Former osu!catch Champion** 
 | [CWC 2018](/wiki/Tournaments/CWC/2018) | Former osu!catch Champion: 2018 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210), ::{ flag=CN }:: [KagamineRin02](https://osu.ppy.sh/users/518503), ::{ flag=CN }:: [Kasumi](https://osu.ppy.sh/users/2331531), ::{ flag=CN }:: [Sakurano  Kurimu](https://osu.ppy.sh/users/1338103) |
 | [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 | *N/A* |
 | [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
-| [CWC 2020](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=KR }:: [qwhj1027](https://osu.ppy.sh/users/7547506) |
+| [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=KR }:: [qwhj1027](https://osu.ppy.sh/users/7547506) |
 
 Winners of previous osu!mania World Cups with the **Former osu!mania Champion** user title:
 
