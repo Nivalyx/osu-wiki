@@ -474,7 +474,7 @@ Sunday, 6 November 2022:
 1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/8E5YcC4LbropHEnz6).
    - In order to be eligible to play in the tournament, a player must Have the flag of any of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) displayed on their profile.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
-3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the Registration phase has ended.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Round-specific rules
