@@ -223,7 +223,7 @@ Hal lainnya yang menjadi bahan pertimbangan kami adalah kompatibilitas beatmap. 
 
 Finally, unlike the last iteration, we are putting in the time and diligence to ensure the code base will serve us well into the future. We have done the groundwork to allow new features to come online at blazing speed going forward. This will include new UI components, new ways to skin the game, new multiplayer systems and let's not forget the ability to load and play all your existing beatmaps on completely new game modes (a.k.a. rulesets)!
 
-Terakhir, tidak seperti stable, kami juga ingin memastikan agar kode program lazer dapat terus digunakan ke depannya. Dengan merancang ulang kode yang ada dari awal, kami dapat menghadirkan berbagai fitur baru secara cepat yang ke depannya akan meliputi komponen UI baru, sistem multiplayer baru, dan 
+Terakhir, tidak seperti stable, kami juga ingin memastikan agar kode program lazer dapat terus digunakan ke depannya. Dengan merancang ulang kode yang ada dari awal, kami dapat menghadirkan berbagai fitur baru secara cepat yang ke depannya akan meliputi berbagai komponen UI baru, sistem multiplayer baru, dan kemampuan untuk memainkan beatmap pada berbagai ruleset (mode permainan) baru.
 
 #### Apa yang akan dilakukan oleh tim osu! setelah lazer dirilis?
 
