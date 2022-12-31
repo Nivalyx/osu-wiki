@@ -221,7 +221,7 @@ Di balik kesederhanaannya, osu! tidak akan dapat berjalan tanpa dukungan berbaga
 
 Hal lainnya yang menjadi bahan pertimbangan kami adalah kompatibilitas beatmap. Sebagai permainan yang membebaskan para penggunanya untuk berkarya, osu! saat ini memiliki beraneka ragam beatmap yang sebagian di antaranya dirancang secara tidak umum. Sebelum kami merilis lazer, kami ingin memastikan bahwa seluruh beatmap yang ada dapat dimainkan di lazer tanpa masalah.
 
-Terakhir, tidak seperti stable, kami juga ingin memastikan agar kode program lazer dapat terus digunakan ke depannya. Dengan merancang ulang kode yang ada, kami dapat menghadirkan berbagai fitur baru yang ke depannya akan meliputi komponen UI baru, metode skinning baru, sistem multiplayer baru, dan kemampuan untuk memainkan beatmap pada berbagai ruleset (mode permainan) baru.
+Terakhir, tidak seperti stable, kami juga ingin memastikan agar kode program lazer dapat terus digunakan ke depannya. Dengan merancang ulang kode yang ada, kami dapat menghadirkan berbagai fitur khusus yang ke depannya akan meliputi komponen UI baru, metode skinning baru, sistem multiplayer baru, dan kemampuan untuk memainkan beatmap pada berbagai ruleset (mode permainan) baru.
 
 #### Apa yang akan dilakukan oleh tim osu! setelah lazer dirilis?
 
