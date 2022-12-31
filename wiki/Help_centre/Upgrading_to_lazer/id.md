@@ -217,7 +217,7 @@ Karena "cutting-edge" tidak dirasa cukup "tajam".
 
 #### Mengapa butuh waktu yang sangat lama sebelum lazer dapat menggantikan stable sebagai versi rilis utama?
 
-Di balik kesederhanaannya, osu! tidak dapat berjalan tanpa dukungan berbagai fitur dan sistem yang harus ditulis ulang untuk lazer. Proses ini memakan waktu yang tidak sebentar, dan walaupun lazer saat ini telah dapat digunakan, pengembangan lazer masih jauh dari kata rampung.
+Di balik kesederhanaannya, osu! tidak akan dapat berjalan tanpa dukungan berbagai fitur dan sistem yang harus ditulis ulang untuk lazer. Proses ini memakan waktu yang tidak sebentar, dan walaupun lazer saat ini telah dapat digunakan, pengembangan lazer masih jauh dari kata rampung.
 
 Hal lainnya yang menjadi bahan pertimbangan kami adalah kompatibilitas beatmap. Sebagai permainan yang membebaskan para penggunanya untuk berkarya, osu! saat ini memiliki beraneka ragam beatmap yang sebagian di antaranya dirancang secara tidak umum. Sebelum kami merilis lazer, kami ingin memastikan bahwa seluruh beatmap yang ada dapat dimainkan di lazer tanpa masalah.
 
