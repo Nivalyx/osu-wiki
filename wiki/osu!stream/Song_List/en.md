@@ -34,7 +34,7 @@ See also:
 
 Price: **Free**
 
-This song pack features two variety songs that come free of charge by musicians haru☆ and Garbled Waves.
+This song pack features two variety songs that come free of charge by haru☆ and Garbled Waves.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -64,7 +64,7 @@ See also:
 
 Price: **Free**
 
-This song pack features two variety songs that come free of charge by musicians Bomb Boy and daniwellP.
+This song pack features two variety songs that come free of charge by Bomb Boy and daniwellP.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
