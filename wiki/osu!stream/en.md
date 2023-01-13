@@ -1,5 +1,7 @@
 # osu!stream
 
+*For the list of songs featured in the game, see: [osu!stream song list](/wiki/osu!stream/Song_List/)*
+
 ![](img/Os-Logo.jpg "osu!stream logo")
 
 **osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only. An [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port was planned and nearly completed, but has yet to be released due to audio latency issues in Android causing an unenjoyable gameplay experience.
