@@ -218,10 +218,6 @@ The background colour is Purple and the lights will darken depending on current 
 
 ---
 
-## Song list
-
-***[Click for full list](Song_List)***
-
 ## Scoring
 
 *Notice: The leaderboard can still be viewed in-game, but no new scores will be accepted.*
