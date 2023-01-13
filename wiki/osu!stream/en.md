@@ -6,7 +6,7 @@
 
 **osu!stream** is a special version of osu! made for mobile [iOS](http://en.wikipedia.org/wiki/IOS) and [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) devices. It is available for download from the [App Store](https://apps.apple.com/us/app/osu-stream/id436952197) and [Play Store](https://play.google.com/store/apps/details?id=sh.ppy.osustream&pli=1) (Android) free of charge.
 
-Unlike regular osu!, osu!stream introduced a completely new gameplay system, with new gameplay elements such as hold circles and connected beats. It does not support classic osu! beatmaps without manual conversion. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a [stricter level of standards](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
+Unlike regular osu!, osu!stream features a completely new gameplay system, with new gameplay elements such as hold circles and connected beats. It does not support classic osu! beatmaps without manual conversion. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a [stricter level of standards](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
 [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
