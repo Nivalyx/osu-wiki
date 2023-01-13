@@ -132,7 +132,7 @@ See also:
 
 Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-This song pack features four electronic-oriented songs by select musicians.
+This song pack features four electronic-oriented songs from select musicians.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
