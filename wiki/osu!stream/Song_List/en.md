@@ -34,7 +34,7 @@ See also:
 
 Price: **Free**
 
-This song pack features two songs of different variety by haru☆ and Garbled Waves respectively.
+This song pack features two variety songs by haru☆ and Garbled Waves.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
