@@ -14,7 +14,7 @@ osu!stream's development began in 2011 as an attempt to introduce a version of o
 
 The game was first teased through [a cryptic YouTube video] on June 2011. Following its public release a couple of months later, the behind-the-scenes of the game were elaborated in [osu!monthly \#5](https://osu.ppy.sh/community/forums/topics/59924) along with an interview.
 
-Development for this version ended in 2020. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release. The source code along with beatmap conversion and testing tools has been made available in the same year under a permissive licence on [GitHub](https://github.com/ppy/osu-stream) for anyone curious, and all previously paid maps are now available for free from the in-game "Store".
+Development for osu!stream fully ceased in 2020. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release. The source code along with beatmap conversion and testing tools has been made available in the same year under a permissive licence on [GitHub](https://github.com/ppy/osu-stream) for anyone curious, and all previously paid maps are now available for free from the in-game "Store".
 
 ## Installation
 
