@@ -10,7 +10,7 @@ Unlike regular osu!, osu!stream features a completely new gameplay system, with 
 
 ## History
 
-osu!stream's development began in 2011 as an attempt to introduce osu! to the 
+osu!stream's development began in 2011 as an attempt to introduce osu! to the mobile market following the abandoned [osu! iPhone](https://github.com/ppy/osu-iPhone) project.
 
 [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
