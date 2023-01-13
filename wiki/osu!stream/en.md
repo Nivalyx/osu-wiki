@@ -8,6 +8,10 @@
 
 Unlike regular osu!, osu!stream features a completely new gameplay system, with new gameplay elements such as hold circles and connected beats. It does not support classic osu! beatmaps without manual conversion. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a [stricter level of standards](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
+## History
+
+osu!stream's development began in 2011 as an 
+
 [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
 Development for this version ended in 2020. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release. The source code along with beatmap conversion and testing tools has been made available in the same year under a permissive licence on [GitHub](https://github.com/ppy/osu-stream) for anyone curious, and all previously paid maps are now available for free from the in-game "Store".
