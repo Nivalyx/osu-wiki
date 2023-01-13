@@ -208,10 +208,10 @@ Initially, this song pack was included in the base game's launch with a price ta
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
-| Amane - Eternal Fullmoon | *unknown* | *unknown* |
+| Amane - Eternal Fullmoon | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | ![0/10](img/dif0.png "0/10") |
 | Amane - Snow, White, Echo | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | *unknown* |
 | sou1 - The Maid's Blood and the Pocket Watch | ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993) | *unknown* |
-| Lix - Phantom Ensemble -Ark Trance mix- | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | *unknown* |
+| Lix - Phantom Ensemble -Ark Trance mix- | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | ![4/10](img/dif4.png "4/10") |
 
 See also:
 
