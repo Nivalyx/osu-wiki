@@ -64,7 +64,7 @@ See also:
 
 Price: **Free**
 
-This song pack features two songs of different variety by Bomb Boy and daniwellP respectively.
+This song pack features two variety songs by Bomb Boy and daniwellP.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -132,7 +132,7 @@ See also:
 
 Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-This song pack features four electronic-oriented songs by various musicians from across the world.
+This song pack features four electronic-oriented songs by select musicians.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
