@@ -230,9 +230,9 @@ Initially, this song pack was included in the base game's launch with a price ta
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
 | Lix - Electro Magnetic Pulse | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | ![3/10](img/dif3.png "3/10") |
-| haru☆ - Septette for the Dead Princess | ::{ flag=US }:: [Lybydose](https://osu.ppy.sh/users/64501) | *unknown* |
-| Amane - BOOZEHOUND (DJ mix) | ::{ flag=FR }:: [Sushi](https://osu.ppy.sh/users/43108) | *unknown* |
-| Amane - Being Proof | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | *unknown* |
+| haru☆ - Septette for the Dead Princess | ::{ flag=US }:: [Lybydose](https://osu.ppy.sh/users/64501) | ![4/10](img/dif4.png "4/10") |
+| Amane - BOOZEHOUND (DJ mix) | ::{ flag=FR }:: [Sushi](https://osu.ppy.sh/users/43108) | ![2/10](img/dif2.png "2/10") |
+| Amane - Being Proof | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | ![3/10](img/dif3.png "3/10") |
 
 See also:
 
