@@ -115,7 +115,7 @@ See also:
 
 Price: **Free** / **USD$2.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-This song pack features four songs provided by the independent recording label Tsundere Recordings.
+This song pack features four songs provided by the internet recording label Tsundere Recordings.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -132,7 +132,7 @@ See also:
 
 Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-This song pack features four electronic-oriented songs from select musicians.
+This song pack features four electronic-oriented songs from select independent musicians.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
