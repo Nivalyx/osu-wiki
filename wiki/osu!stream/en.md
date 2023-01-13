@@ -10,9 +10,9 @@ Unlike regular osu!, osu!stream features a completely new gameplay system, with 
 
 ## History
 
-osu!stream's development began in 2011 as an attempt to introduce a version of osu! that can be played on-the-go following the abandoned [osu! iPhone](https://github.com/ppy/osu-iPhone) project.
+osu!stream's development began in 2011 as an attempt to introduce a version of osu! that can be played on-the-go following the abandoned [osu! iPhone](https://github.com/ppy/osu-iPhone) project. 
 
-[osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
+The game was first teased publicly through [a cryptic YouTube video] on June 2011. [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
 Development for this version ended in 2020. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release. The source code along with beatmap conversion and testing tools has been made available in the same year under a permissive licence on [GitHub](https://github.com/ppy/osu-stream) for anyone curious, and all previously paid maps are now available for free from the in-game "Store".
 
