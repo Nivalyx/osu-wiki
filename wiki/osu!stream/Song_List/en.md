@@ -98,7 +98,7 @@ See also:
 
 Price: **Free** / **USD$1.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-This song pack features four songs by American rock band OK Go.
+This song pack features four songs by the American rock band OK Go.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
