@@ -206,8 +206,8 @@ This competition has come to an end and resulted in the following podium:
   1. [LiSA - Rally Go Round (FrostxE) \[Extra\]](https://osu.ppy.sh/beatmapsets/317275#fruits/740692)
   2. [Yunomi feat. TORIENA - Bamboo Disco (Alden) \[\| D \| I \| S \| C \| O \|\]](https://osu.ppy.sh/beatmapsets/809345#fruits/1698363)
   3. [DJ Witch Girl Miracle - Mafain (Nelitoru) \[Neli's Extra : OwO AwA\]](https://osu.ppy.sh/beatmapsets/1599270#fruits/3266273)
-  4. [onoken feat. Yoko Natsukawa - Sakimori Souka (Sunazuka Akira) \[Extra\]](https://osu.ppy.sh/beatmapsets/1559358#osu/3185234)
-  5. [Shade - Ontology (LMT) \[Zelq's Extra\]](https://osu.ppy.sh/beatmapsets/1050313#osu/2207682)
+  4. [TAG underground - POSSESSION (pewdekz) \[CHALLENGE\]](https://osu.ppy.sh/beatmapsets/1691083#fruits/3455732)
+  5. [Black Eyed Peas - Boom Boom Pow (mrowswares) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1263837#fruits/2626918)
 - Hidden
   1. [Hitachi Mako (CV: Kotorii Yuuka) - Mako no Nichijou (papapa123) \[buhei no Nichijou\]](https://osu.ppy.sh/beatmapsets/859338#osu/2295594)
   2. [Sakamoto Shoichiro - Eye of Aeon (niii\_san) \[Expert\]](https://osu.ppy.sh/beatmapsets/1543327#osu/3154664)
