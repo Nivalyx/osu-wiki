@@ -268,10 +268,10 @@ This competition has come to an end and resulted in the following podium:
   3. [Shade - Rebirth the edge (Astom) \[Nyo\]](https://osu.ppy.sh/beatmapsets/34277#fruits/121195)
 - DoubleTime
   1. [Train - 50 Ways to Say Goodbye (mancusojuanmattos) \[Insane\]](https://osu.ppy.sh/beatmapsets/92893#fruits/250926)
-  2. [dj TAKA feat. AiMEE - refrain (Firika) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1440543#osu/2963825)
-  3. [Rita - Suisouka (Fushimi Rio) \[Blossom\]](https://osu.ppy.sh/beatmapsets/656542#osu/1390955)
+  2. [DECO\*27 - Reversible Campaign (tutuhaha) \[Hard\]](https://osu.ppy.sh/beatmapsets/616482#fruits/1309271)
+  3. [KIRA - Circles (feat. GUMI) (Niva) \[3.14\]](https://osu.ppy.sh/beatmapsets/854098#fruits/1784877)
 - Tiebreaker
-  1. **[Nekomata Master feat. Misawa Aki - chrono diver -fragment- (Sarawatlism) \[Chronological\]](https://osu.ppy.sh/beatmapsets/1656851#osu/3381810)**
+  1. **[t+pazolite - Pump up UR NRG (RLC) \[Kinetic\]](https://osu.ppy.sh/beatmapsets/541226#fruits/1147647)**
 
 ### Qualifiers
 
