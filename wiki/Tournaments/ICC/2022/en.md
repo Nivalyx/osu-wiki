@@ -251,14 +251,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-**[Download the mappack here! (180 MB)](https://cdn.discordapp.com/attachments/707858464084328550/1036339626622857266/ucupro32.zip)**
+**[Download the mappack here! (95 MB)](https://drive.google.com/file/d/11R4g0vJXUl466w_m2_Iykw5eGqyeeqm9/view)**
 
 - NoMod
   1. [Sagara Kokoro - Hoshizora no Ima (Reillia) \[Kaliren's Extra\]](https://osu.ppy.sh/beatmapsets/880854#osu/1955078)
   2. [Chroma - Sudden Visitor (PayneTrain) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1551321#osu/3170081)
   3. [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Shizurre's Expert\]](https://osu.ppy.sh/beatmapsets/1579180#osu/3338782)
   4. [Frums - Credits (s0m3guy) \[-jordan-'s Another.\]](https://osu.ppy.sh/beatmapsets/1372002#osu/3106850)
-  5. [Laur - Viyella's Tears (Avaricious) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078644#osu/2256943)
 - Hidden
   1. [Yamamoto Mineko - Cadena (Kazato Asa) \[Meruru Collab\]](https://osu.ppy.sh/beatmapsets/1214274#osu/2527237) 
   2. [Falcom Sound Team jdk - A-TO-Z (Shurelia) \[Reiji Maigo's Insane\]](https://osu.ppy.sh/beatmapsets/1336633#osu/2877776)
@@ -288,8 +287,8 @@ This competition has come to an end and resulted in the following podium:
   1. [mary x jon-YAKITORY - Koko de Ikiteru (Amateurre) \[Yogurre's Insane\]](https://osu.ppy.sh/beatmapsets/1541131#fruits/3152525)
   2. [Amuro vs Killer - Mei (Acylica) \[Muya's Another\]](https://osu.ppy.sh/beatmapsets/1148799#fruits/2411485d)
 - DoubleTime
-  1. [Duca - Shiawase no Otoshimono (Kencho) \[sahuang's Insane\]](https://osu.ppy.sh/beatmapsets/559622#osu/1224936)
-  2. [Pedro Silva - World's End Valentine (Ixcors) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1497252#osu/3069014)
+  1. [Hikasa Yoko - Listen!! (CDFA) \[Collab\]](https://osu.ppy.sh/beatmapsets/24610#fruits/83603)
+  2. [Starving Trancer feat. Maki - Agony (Nagi Hisakawa) \[Insane\]](https://osu.ppy.sh/beatmapsets/1262428#fruits/2623973)
 
 ## Match results
 
