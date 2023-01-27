@@ -209,19 +209,19 @@ This competition has come to an end and resulted in the following podium:
   4. [TAG underground - POSSESSION (pewdekz) \[CHALLENGE\]](https://osu.ppy.sh/beatmapsets/1691083#fruits/3455732)
   5. [Black Eyed Peas - Boom Boom Pow (mrowswares) \[Ultra\]](https://osu.ppy.sh/beatmapsets/1263837#fruits/2626918)
 - Hidden
-  1. [Hitachi Mako (CV: Kotorii Yuuka) - Mako no Nichijou (papapa123) \[buhei no Nichijou\]](https://osu.ppy.sh/beatmapsets/859338#osu/2295594)
-  2. [Sakamoto Shoichiro - Eye of Aeon (niii\_san) \[Expert\]](https://osu.ppy.sh/beatmapsets/1543327#osu/3154664)
-  3. [aran - Gate One (Orange\_) \[N/A's Extra\]](https://osu.ppy.sh/beatmapsets/1461230#osu/3015859)
+  1. [MIHARU - Yakkami-Okami (Irohas) \[Expert\]](https://osu.ppy.sh/beatmapsets/1798704#fruits/3687258)
+  2. [Blacklolita - Praeteritum (JeZag) \[Anachronism\]](https://osu.ppy.sh/beatmapsets/651006#fruits/2406944)
+  3. [Newton - Arcade Love (feat. KNVWN) (Alvearia) \[Insane\]](https://osu.ppy.sh/beatmapsets/1794829#fruits/3678828)
 - HardRock
-  1. [i.o - Aoiro Step (dkblaze) \[gazimal's Expert\]](https://osu.ppy.sh/beatmapsets/1733209#osu/3579969)
-  2. [Denkishiki Karen Ongaku Shuudan - Gareki no Yume (PinkHeart) \[imouto's Insane\]](https://osu.ppy.sh/beatmapsets/462267#osu/1277594)
-  3. [Tsumugi Wenders (CV: Iwai Emiri) - Golden Hours (Garden) \[Special\]](https://osu.ppy.sh/beatmapsets/1378712#osu/2848888)
+  1. [BAND-MAID - CROSS (keevy) \YUKIYO'S INSANE\]](https://osu.ppy.sh/beatmapsets/1221201#fruits/2672135)
+  2. [daisan - -+ (RikiH\_) \[Extra\]](https://osu.ppy.sh/beatmapsets/135094#fruits/338544)
+  3. [MYUKKE. - The 89's Momentum (Akareh) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1361463#fruits/2863365)
 - DoubleTime
-  1. [Suzuki Konomi - ALKATALE (Millie) \[Endless Summer (edit ver.)\]](https://osu.ppy.sh/beatmapsets/1882915#osu/3876681)
-  2. [felys feat. Natsukawa Yoko - Celsus (LONG VERSION) (Elcheer) \[Insane\]](https://osu.ppy.sh/beatmapsets/1604680#osu/3276823)
-  3. [yuki - Clammbon (pnky) \[Insane\]](https://osu.ppy.sh/beatmapsets/1737221#osu/3588814)
+  1. [HO-KAGO TEA TIME - Singing! (CDFA) \[Insane\]](https://osu.ppy.sh/beatmapsets/54083#fruits/164603)
+  2. [Utada Hikaru - Beautiful World (tutuhaha) \[Beautiful\]](https://osu.ppy.sh/beatmapsets/240627#fruits/556052)
+  3. [Lia - Toki o Kizamu Uta (Dada) \[Epilogue\]](https://osu.ppy.sh/beatmapsets/1550603#fruits/3168616)
 - Tiebreaker
-  1. **[Ayane - Nageki no Mori (Luscent) \[Elviscent's Matsuri\]](https://osu.ppy.sh/beatmapsets/1108479#osu/2316652)**   
+  1. **[Roselia - FIRE BIRD (Kowari) \[CONFLAGRATION\]](https://osu.ppy.sh/beatmapsets/1451503#fruits/2984644)**   
 
 ### Round of 16
 
