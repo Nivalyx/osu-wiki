@@ -8,7 +8,7 @@ tags:
 
 ![Indonesia Convert Cup Open 2022 logo](img/logo.jpg)
 
-The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-hosted by ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) in which all the maps were osu! converts. Despite its name, the tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) as well as ::{ flag=TL }:: Timor-Leste, ::{ flag=NZ }:: New Zealand, and ::{ flag=AU }:: Australia with 3,000 playcounts or more in the osu!catch game mode to their name. It was regarded as the third official instalment of the Indonesia Convert Cup tournament series.
+The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-hosted by ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) in which all the maps were osu! converts. Despite its name, the tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) as well as ::{ flag=TL }:: Timor-Leste, ::{ flag=NZ }:: New Zealand, and ::{ flag=AU }:: Australia with 3,000 playcounts or more in the osu!catch game mode to their name. It was regarded as the third instalment of the Indonesia Convert Cup tournament series.
 
 ## Tournament schedule
 
@@ -40,11 +40,11 @@ ICCO 2022 was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548) |
-| Organiser | ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [honeymint](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302) |
-| Mappool selector | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag_=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174) |
-| Mappool helper | ::{ flag=ID }:: [i love uma](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [Ryzen-dono](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) |
-| Streamer | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Arca 9](https://osu.ppy.sh/users/14042319) |
+| Host | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
+| Co-host | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
+| Mappool selector | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) |
+| Playtester | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036), ::{ flag=NL }:: [Selo](https://osu.ppy.sh/users/3212806), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
+| Streamer | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Arca 9](https://osu.ppy.sh/users/14042319), ::{ flag=AU }:: [Kureiji Ollie](https://osu.ppy.sh/users/11435502), ::{ flag=AU }:: [wangwangg](https://osu.ppy.sh/users/6416920) |
 | Commentator | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988) |
 | Referee | ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=PH }:: [-Pekora-](https://osu.ppy.sh/users/17959882), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418) |
 | Graphic designer | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) |
