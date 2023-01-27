@@ -234,13 +234,13 @@ This competition has come to an end and resulted in the following podium:
   3. [aran - L.F.O (Pipuuko) \[Orange's Extra\]](https://osu.ppy.sh/beatmapsets/1377112#fruits/3206318)
   4. [bbno$ & Rich Brian - edamame (Bakugo-) \[hanging low\]](https://osu.ppy.sh/beatmapsets/1557107#fruits/3180981)
 - Hidden
-  1. [Ito Kanako - Koko ni Iru kara (Garden) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1357763#osu/2809862) 
-  2. [KOTOKO - Wing my Way (Nekomiya Nono) \[v2b\]](https://osu.ppy.sh/beatmapsets/12035#osu/46827)
-  3. [DJ Genki vs. Gram - Einherjar Joker (IntegerTempest) \[09's Expert\]](https://osu.ppy.sh/beatmapsets/1334152#osu/3049607)
+  1. [Alvaro Soler - El Mismo Sol (Mosebye) \[Expert\]](https://osu.ppy.sh/beatmapsets/1696649#fruits/3466532) 
+  2. [cYsmix - Classic Pursuit (-kevincela-) \[Expert\]](https://osu.ppy.sh/beatmapsets/488238#fruits/1040942)
+  3. [Ito Kanako - Tsuisou no Despair (Phynta) \[Insane\]](https://osu.ppy.sh/beatmapsets/1691178#fruits/3644675)
 - HardRock
-  1. [Namihira Ayuko - Kimi e no Kaerimichi (Kuro Fuyusaki) \[Promenade\]](https://osu.ppy.sh/beatmapsets/1681302#osu/3434730)
-  2. [Rita - dorchadas (SMOKELIND) \[lu^3's Insane\]](https://osu.ppy.sh/beatmapsets/1673436#osu/3418608)
-  3. [Honda Mio (CV: Hara Sayuri) - Step! (Sylvarus) \[Need Tomboy\]](https://osu.ppy.sh/beatmapsets/1118717#osu/2336659)
+  1. [HO-KAGO TEA TIME - Fuwa Fuwa Time (VNtXDDD) \[Dream Night!!\]](https://osu.ppy.sh/beatmapsets/1337320#fruits/2770271)
+  2. [m108 - Shinku no Senkou (Leader) \[Extra\]](https://osu.ppy.sh/beatmapsets/1551011#fruits/3169485)
+  3. [Lil Nas X - THATS WHAT I WANT (KaedaharaKazuha) \[DESIRE\]](https://osu.ppy.sh/beatmapsets/1632817#fruits/3332931)
 - DoubleTime
   1. [Miyuna - ...Sugu Kite ne (Kuse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1236940#osu/2571083)
   2. [Silver Forest - Todokanai Eien no Kyori (ConsumerOfBean) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1280488#osu/2704351)
