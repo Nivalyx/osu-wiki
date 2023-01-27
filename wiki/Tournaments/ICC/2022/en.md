@@ -19,10 +19,10 @@ The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1
 | Qualifiers | 2022-10-10/2022-10-16 |
 | Round of 32 | 2022-10-17/2022-10-23 |
 | Round of 16 | 2022-10-24/2022-10-30 |
-| Quarterfinals | 2022-11-14/2022-11-20 |
-| Semifinals | 2022-11-21/2022-11-27 |
-| Finals (week 1) | 2022-11-28/2022-12-04 |
-| Finals (week 2) | 2022-12-05/2022-12-11 |
+| Quarterfinals | 2022-10-31/2022-11-06 |
+| Semifinals | 2022-11-07/2022-11-13 |
+| Finals (week 1) | 2022-11-14/2022-11-20 |
+| Finals (week 2) | 2022-11-21/2022-11-27 |
 
 ## Prizes
 
