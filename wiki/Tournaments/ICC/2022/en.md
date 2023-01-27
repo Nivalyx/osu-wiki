@@ -53,11 +53,11 @@ ICCO 2022 was run by various osu! community members from Indonesia and beyond.
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1liYU_m8PQDq1aPSKmXGBCkJruTuomCgb4yJsd1F9K-I/edit#gid=564989794)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1652872)
-- [Discord server](https://discord.gg/xdnRGDHKGV)
-- [Challonge brackets](https://challonge.com/UCUP2022)
-- [Livestream channel](https://www.twitch.tv/ulatournament)
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRLbMRr5JVXAYJx5l7DY-Vecwo7ESaLgmFieo8rQwbAqlmC_o9SRo072JadnxcSzAbG0eWncroKBq91/pubhtml#)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1649090)
+- [Discord server](https://discord.gg/7g6TAj2)
+- [Challonge brackets](https://challonge.com/ICCO_2022)
+- [Livestream channel](https://www.twitch.tv/osucatchid)
 
 ## Participants
 
@@ -276,15 +276,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (110 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022qualis.zip)**
+**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/17fE2rOp0bIq6WlhxOqVlz6thykSXHoEx/view)**
 
 - NoMod
-  1. [Duca - Answer (Zekk) \[Mayu's Extra\]](https://osu.ppy.sh/beatmapsets/1768412#osu/3620098)
-  2. [Nekomata Master+ - encounter (Realazy) \[Kotori's Extreme\]](https://osu.ppy.sh/beatmapsets/815758#osu/1710847)
-  3. [nao - Towa naru Kizuna to Omoi no Kiseki (PinkHeart) \[yf's Insane\]](https://osu.ppy.sh/beatmapsets/699819#osu/1558338)
-  4. [Masayoshi Iimori - Non Stop Rock (Fursum) \[Furtonix\]](https://osu.ppy.sh/beatmapsets/1719626#osu/3514299)  
+  1. [Dreamcatcher - Sleep-walking (Natsu) \[Midnight\]](https://osu.ppy.sh/beatmapsets/645655#fruits/1368107)
+  2. [DWMw - Shirayama Hime no Kami (Luscent) \[DeviousPanda's Extravaganza\]](https://osu.ppy.sh/beatmapsets/1367344#fruits/2983174) 
 - Hidden
-  1. [Karen, Koharu Meu, Harukawa Akari - Jounetsu Utopia (Amasugi) \[Falling in Love\]](https://osu.ppy.sh/beatmapsets/1733395#osu/3542989)
+  1. [King Gizzard & The Lizard Wizard - Wah Wah (Kowari) \[Bizarre\]](https://osu.ppy.sh/beatmapsets/1769472#fruits/3622214)
   2. [yuki - Itsuka no Hakuchuumu (Hanakumo Rin) \[Insane\]](https://osu.ppy.sh/beatmapsets/1767260#osu/3626756)
 - HardRock
   1. [KOTOKO - Art as <3 (Shikibe Mayu) \[Amateurre's Expert\]](https://osu.ppy.sh/beatmapsets/1399810#osu/2938726)
