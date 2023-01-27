@@ -8,17 +8,17 @@ tags:
 
 ![Indonesia Convert Cup Open 2022 logo](img/logo.jpg)
 
-The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-hosted by ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) in which all the beatmaps were converts. Despite its name, the tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) as well as ::{ flag=TL }:: Timor-Leste, ::{ flag=NZ }:: New Zealand, and ::{ flag=AU }:: Australia with 3,000 playcounts or more in the osu!catch game mode to their name. It was regarded as the third instalment of the Indonesia Convert Cup tournament series.
+The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-hosted by ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) in which all the beatmaps were osu! converts. Despite its name, the tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) as well as ::{ flag=TL }:: Timor-Leste, ::{ flag=NZ }:: New Zealand, and ::{ flag=AU }:: Australia with 3,000 playcounts or more in the osu!catch game mode to their name. It was regarded as the third instalment of the Indonesia Convert Cup tournament series.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2022-09-30/2022-10-16 |
-| Screening phase | 2022-10-16/2022-10-23 |
-| Qualifiers | 2022-10-24/2022-10-30 |
-| Round of 32 | 2022-10-31/2022-11-06 |
-| Round of 16 | 2022-11-07/2022-11-13 |
+| Registration phase | 2022-09-22/2022-10-02 |
+| Screening phase | 2022-10-03/2022-10-09 |
+| Qualifiers | 2022-10-10/2022-10-16 |
+| Round of 32 | 2022-10-17/2022-10-23 |
+| Round of 16 | 2022-10-24/2022-10-30 |
 | Quarterfinals | 2022-11-14/2022-11-20 |
 | Semifinals | 2022-11-21/2022-11-27 |
 | Finals (week 1) | 2022-11-28/2022-12-04 |
