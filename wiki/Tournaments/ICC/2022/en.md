@@ -171,7 +171,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (229 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022sf.zip)**
+**[Download the mappack here! (97 MB)](https://drive.google.com/file/d/1LMQv6bS0AbYc-eCND4IF6UvTp-gmU1HA/view)**
 
 - NoMod
   1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Fall of Fall (Melize) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1870600#osu/3848638)
