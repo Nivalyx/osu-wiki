@@ -242,7 +242,7 @@ This competition has come to an end and resulted in the following podium:
   2. [m108 - Shinku no Senkou (Leader) \[Extra\]](https://osu.ppy.sh/beatmapsets/1551011#fruits/3169485)
   3. [Lil Nas X - THATS WHAT I WANT (KaedaharaKazuha) \[DESIRE\]](https://osu.ppy.sh/beatmapsets/1632817#fruits/3332931)
 - DoubleTime
-  1. [Miyuna - ...Sugu Kite ne (Kuse) \[Insane\]](https://osu.ppy.sh/beatmapsets/1236940#osu/2571083)
+  1. [Another Infinity feat. Mayumi Morinaga - kotone (Leader) \[Insane\]](https://osu.ppy.sh/beatmapsets/838991#fruits/1756434)
   2. [Silver Forest - Todokanai Eien no Kyori (ConsumerOfBean) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1280488#osu/2704351)
   3. [zts - lastendconductor (Yohanes) \[Intricate\]](https://osu.ppy.sh/beatmapsets/685558#osu/1451093)
 - Tiebreaker
