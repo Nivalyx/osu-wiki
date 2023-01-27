@@ -36,7 +36,7 @@ The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1
 
 ## Organisation
 
-ICCO 2022 was run by various osu! community members predominantly hailing from the South East Asia region.
+ICCO 2022 was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
