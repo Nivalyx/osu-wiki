@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
   3. [cosMo@BousouP - For UltraPlayers (rui) \[N a s y a's EXHAUST\]](https://osu.ppy.sh/beatmapsets/137969#fruits/462157)
   4. [sekai - p.h. (Petal) \[Namki's Extreme\]](https://osu.ppy.sh/beatmapsets/1461554#fruits/3155890)
 - Hidden
-  1. [Yamamoto Mineko - Cadena (Kazato Asa) \[Meruru Collab\]](https://osu.ppy.sh/beatmapsets/1214274#osu/2527237) 
+  1. [Far East Movement feat. The Cataracs, DEV - Like A G6 (wafer) \[Batatin's E4\]](https://osu.ppy.sh/beatmapsets/1566608#fruits/3213072) 
   2. [Falcom Sound Team jdk - A-TO-Z (Shurelia) \[Reiji Maigo's Insane\]](https://osu.ppy.sh/beatmapsets/1336633#osu/2877776)
   3. [Nor - Theme 113 (Raids) \[KAITEN INSANE 22,366,819 AZUSA SANDBAG METHOD?!?\]](https://osu.ppy.sh/beatmapsets/1876276#osu/3861173)
 - HardRock
