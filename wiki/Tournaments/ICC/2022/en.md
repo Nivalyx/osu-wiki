@@ -229,11 +229,10 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (81 MB)](https://drive.google.com/file/d/10oWZmh9838C_DcxjwZMMnDWptnPT7dzJ/view)**
 
 - NoMod
-  1. [Marie - Clover Day's (-Kirigiri) \[Memory\]](https://osu.ppy.sh/beatmapsets/1505255#osu/3083355)
-  2. [Ice - 02: Amber Wishes (FrenZ396) \[Shizuku's Extra\]](https://osu.ppy.sh/beatmapsets/801704#osu/1714161)
-  3. [Matsushita - raspberry cube (Primonix) \[Sweet and sour!\]](https://osu.ppy.sh/beatmapsets/1492234#osu/3058850)
-  4. [Pastel\*Palettes - Harumodoki (Asterisk DnB Remix) \[Rakakun- Edit\] (-Mikan) \[Frakturehawkens' Extra\]](https://osu.ppy.sh/beatmapsets/1559358#osu/3185234)
-  5. [monet - Shukufuku Sareta Machi (seros) \[Furenzoku Sonzai\]](https://osu.ppy.sh/beatmapsets/1674128#osu/3419840) 
+  1. [Eve - Kaikai Kitan (AirinCat) \[Extra\]](https://osu.ppy.sh/beatmapsets/1273536#fruits/2646355)
+  2. [REAPER - HEATSEEKER (keevy) \[DETERMINATION\]](https://osu.ppy.sh/beatmapsets/1739056#fruits/3554263)
+  3. [aran - L.F.O (Pipuuko) \[Orange's Extra\]](https://osu.ppy.sh/beatmapsets/1377112#fruits/3206318)
+  4. [bbno$ & Rich Brian - edamame (Bakugo-) \[hanging low\]](https://osu.ppy.sh/beatmapsets/1557107#fruits/3180981)
 - Hidden
   1. [Ito Kanako - Koko ni Iru kara (Garden) \[Miracle\]](https://osu.ppy.sh/beatmapsets/1357763#osu/2809862) 
   2. [KOTOKO - Wing my Way (Nekomiya Nono) \[v2b\]](https://osu.ppy.sh/beatmapsets/12035#osu/46827)
