@@ -243,10 +243,10 @@ This competition has come to an end and resulted in the following podium:
   3. [Lil Nas X - THATS WHAT I WANT (KaedaharaKazuha) \[DESIRE\]](https://osu.ppy.sh/beatmapsets/1632817#fruits/3332931)
 - DoubleTime
   1. [Another Infinity feat. Mayumi Morinaga - kotone (Leader) \[Insane\]](https://osu.ppy.sh/beatmapsets/838991#fruits/1756434)
-  2. [Silver Forest - Todokanai Eien no Kyori (ConsumerOfBean) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1280488#osu/2704351)
-  3. [zts - lastendconductor (Yohanes) \[Intricate\]](https://osu.ppy.sh/beatmapsets/685558#osu/1451093)
+  2. [dj TAKA - V -conclusion- (toybot) \[Another\]](https://osu.ppy.sh/beatmapsets/1829276#fruits/3754397)
+  3. [Rihanna ft. Jay-Z - Umbrella (Agent Spin Here) \[Insane\]](https://osu.ppy.sh/beatmapsets/9873#fruits/38971)
 - Tiebreaker
-  1. **[Taishi feat. Rita - Into the cosmos (-Tochi) \[Collab of the Cosmos\]](https://osu.ppy.sh/beatmapsets/919412#osu/1919688)**
+  1. **[lapix - Live Nor Die feat. Kanae Asaba (Nhato Remix) (Shiguri) \[Breaking Free\]](https://osu.ppy.sh/beatmapsets/898690#fruits/1877363)**
 
 ### Round of 32
 
