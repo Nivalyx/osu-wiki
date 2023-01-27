@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (111 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022qf.zip)**
+**[Download the mappack here! (90 MB)](https://drive.google.com/file/d/1Qa3iNncl4UuxsCryqScgD7xrlSTsPDps/view)**
 
 - NoMod
   1. [Chitose Sara - Merry Merry Go Round (Usaha) \[Otomeruphose\]](https://osu.ppy.sh/beatmapsets/1664204#osu/3397388)
@@ -208,7 +208,6 @@ This competition has come to an end and resulted in the following podium:
   3. [KyoKa - Ouran Romancia (Seolv) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/1530166#osu/3129871)
   4. [onoken feat. Yoko Natsukawa - Sakimori Souka (Sunazuka Akira) \[Extra\]](https://osu.ppy.sh/beatmapsets/1559358#osu/3185234)
   5. [Shade - Ontology (LMT) \[Zelq's Extra\]](https://osu.ppy.sh/beatmapsets/1050313#osu/2207682)
-  6. [BEMANI Sound Team "Nekomata Master" - Life is beautiful (anna apple) \[Another\]](https://osu.ppy.sh/beatmapsets/1271996#osu/3088664)  
 - Hidden
   1. [Hitachi Mako (CV: Kotorii Yuuka) - Mako no Nichijou (papapa123) \[buhei no Nichijou\]](https://osu.ppy.sh/beatmapsets/859338#osu/2295594)
   2. [Sakamoto Shoichiro - Eye of Aeon (niii\_san) \[Expert\]](https://osu.ppy.sh/beatmapsets/1543327#osu/3154664)
