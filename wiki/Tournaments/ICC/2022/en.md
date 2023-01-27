@@ -260,14 +260,14 @@ This competition has come to an end and resulted in the following podium:
   4. [sekai - p.h. (Petal) \[Namki's Extreme\]](https://osu.ppy.sh/beatmapsets/1461554#fruits/3155890)
 - Hidden
   1. [Far East Movement feat. The Cataracs, DEV - Like A G6 (wafer) \[Batatin's E4\]](https://osu.ppy.sh/beatmapsets/1566608#fruits/3213072) 
-  2. [Falcom Sound Team jdk - A-TO-Z (Shurelia) \[Reiji Maigo's Insane\]](https://osu.ppy.sh/beatmapsets/1336633#osu/2877776)
-  3. [Nor - Theme 113 (Raids) \[KAITEN INSANE 22,366,819 AZUSA SANDBAG METHOD?!?\]](https://osu.ppy.sh/beatmapsets/1876276#osu/3861173)
+  2. [nora2r - B.B.K.K.B.K.K (rezoons) \[Another\]](https://osu.ppy.sh/beatmapsets/153920#fruits/378178)
+  3. [Aimer - L-O-V-E (yuuya\_ke) \[sunset serenade\]](https://osu.ppy.sh/beatmapsets/974709#fruits/2040225)
 - HardRock
-  1. [iojjj - Torikago (Lanzhu) \[Abyss\]](https://osu.ppy.sh/beatmapsets/1667873#osu/3405779)
-  2. [25-ji, Nightcord de. - Bitter Choco Decoration (Mononymous) \[Picky Habits\]](https://osu.ppy.sh/beatmapsets/1538879#osu/3146245)
-  3. [Utada Hikaru & Skrillex - Face My Fears (Japanese Version) (Lulu-) \[Courage\]](https://osu.ppy.sh/beatmapsets/891609#osu/1863931)
+  1. [Foreground Eclipse - From Under Cover (Caught Up In A Love Song) (Seni) \[Hard\]](https://osu.ppy.sh/beatmapsets/462386#fruits/1053802)
+  2. [cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll (Zoli) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/1606218#fruits/3312872)
+  3. [Shade - Rebirth the edge (Astom) \[Nyo\]](https://osu.ppy.sh/beatmapsets/34277#fruits/121195)
 - DoubleTime
-  1. [NANA - Mirai no Kaze ga Fuku (tomatas95) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/1769792#osu/3771158)
+  1. [Train - 50 Ways to Say Goodbye (mancusojuanmattos) \[Insane\]](https://osu.ppy.sh/beatmapsets/92893#fruits/250926)
   2. [dj TAKA feat. AiMEE - refrain (Firika) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1440543#osu/2963825)
   3. [Rita - Suisouka (Fushimi Rio) \[Blossom\]](https://osu.ppy.sh/beatmapsets/656542#osu/1390955)
 - Tiebreaker
