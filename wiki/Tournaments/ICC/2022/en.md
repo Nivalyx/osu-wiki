@@ -47,8 +47,8 @@ ICCO 2022 was run by various osu! community members from Indonesia and beyond.
 | Streamer | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=TH }:: [Azuna](https://osu.ppy.sh/users/32623340), ::{ flag=AU }:: [Kureiji Ollie](https://osu.ppy.sh/users/11435502), ::{ flag=AU }:: [wangwangg](https://osu.ppy.sh/users/6416920) |
 | Commentator | ::{ flag=ID }:: [Juragan\_Piscok1](https://osu.ppy.sh/users/15507280), ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157), ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=TH }:: [RAISE MY SWORD](https://osu.ppy.sh/users/17385454), ::{ flag=AU }:: [Kureiji Ollie](https://osu.ppy.sh/users/11435502), ::{ flag=AU }:: [wangwangg](https://osu.ppy.sh/users/6416920), ::{ flag=AU }:: [Corrosion](https://osu.ppy.sh/users/16899553), ::{ flag=AU }:: [CrimsonPleaseee](https://osu.ppy.sh/users/3743985), ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036)  |
 | Referee | ::{ flag=ID }:: [Lunatier](https://osu.ppy.sh/users/27913451), ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469), ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [nabirra](https://osu.ppy.sh/users/16053739), ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533), ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) |
-| Graphic designer | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) |
-| Spreadsheet manager | ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
+| Graphic designer | ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
+| Spreadsheet manager | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
