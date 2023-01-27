@@ -254,10 +254,10 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (95 MB)](https://drive.google.com/file/d/11R4g0vJXUl466w_m2_Iykw5eGqyeeqm9/view)**
 
 - NoMod
-  1. [Sagara Kokoro - Hoshizora no Ima (Reillia) \[Kaliren's Extra\]](https://osu.ppy.sh/beatmapsets/880854#osu/1955078)
-  2. [Chroma - Sudden Visitor (PayneTrain) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1551321#osu/3170081)
-  3. [Yonekura Chihiro - DEAR MY WAKER (Skystar) \[Shizurre's Expert\]](https://osu.ppy.sh/beatmapsets/1579180#osu/3338782)
-  4. [Frums - Credits (s0m3guy) \[-jordan-'s Another.\]](https://osu.ppy.sh/beatmapsets/1372002#osu/3106850)
+  1. [HO-KAGO TEA TIME - U&I (bossandy) \[Graduation\]](https://osu.ppy.sh/beatmapsets/976322#fruits/2155854)
+  2. [cranky - R176 (Skull Kid) \[Insane\]](https://osu.ppy.sh/beatmapsets/359740#fruits/791016)
+  3. [cosMo@BousouP - For UltraPlayers (rui) \[N a s y a's EXHAUST\]](https://osu.ppy.sh/beatmapsets/137969#fruits/462157)
+  4. [sekai - p.h. (Petal) \[Namki's Extreme\]](https://osu.ppy.sh/beatmapsets/1461554#fruits/3155890)
 - Hidden
   1. [Yamamoto Mineko - Cadena (Kazato Asa) \[Meruru Collab\]](https://osu.ppy.sh/beatmapsets/1214274#osu/2527237) 
   2. [Falcom Sound Team jdk - A-TO-Z (Shurelia) \[Reiji Maigo's Insane\]](https://osu.ppy.sh/beatmapsets/1336633#osu/2877776)
