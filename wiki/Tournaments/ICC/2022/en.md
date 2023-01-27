@@ -226,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (129 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022ro16sir.zip)**
+**[Download the mappack here! (81 MB)](https://drive.google.com/file/d/10oWZmh9838C_DcxjwZMMnDWptnPT7dzJ/view)**
 
 - NoMod
   1. [Marie - Clover Day's (-Kirigiri) \[Memory\]](https://osu.ppy.sh/beatmapsets/1505255#osu/3083355)
