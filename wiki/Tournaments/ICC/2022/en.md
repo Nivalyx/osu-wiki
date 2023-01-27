@@ -8,7 +8,7 @@ tags:
 
 ![ndonesia Convert Cup Open 2022 logo](img/logo.jpg)
 
-The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-hosted by ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221). The tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) within the #5,000 - #30,000 rank range. It was regarded as the third official instalment of the Indonesia Convert Cup tournament series.
+The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-hosted by ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) where all mappools were exclusively made of converted osu! beatmaps. The tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) within the #5,000 - #30,000 rank range. It was regarded as the third official instalment of the Indonesia Convert Cup tournament series.
 
 ## Tournament schedule
 
