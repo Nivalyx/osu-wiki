@@ -6,7 +6,7 @@ tags:
 
 # Indonesia Convert Cup Open 2022
 
-![ndonesia Convert Cup Open 2022 logo](img/logo.jpg)
+![Indonesia Convert Cup Open 2022 logo](img/logo.jpg)
 
 The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) in which all the maps were converts from the osu! game mode. Despite its name, the tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) as well as ::{ flag=TL }:: Timor-Leste, ::{ flag=NZ }:: New Zealand, and ::{ flag=AU }:: Australia with 3,000 playcounts or more in the osu!catch game mode to their name. It was regarded as the third official instalment of the Indonesia Convert Cup tournament series.
 
@@ -32,7 +32,7 @@ The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, customised profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, customised profile banner |
 
-![](img/badge.png "UCUP 2022 winner badge")
+![](img/badge.png "Indonesia Convert Cup Open 2022 winner badge")
 
 ## Organisation
 
