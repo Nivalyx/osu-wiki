@@ -283,10 +283,10 @@ This competition has come to an end and resulted in the following podium:
   2. [DWMw - Shirayama Hime no Kami (Luscent) \[DeviousPanda's Extravaganza\]](https://osu.ppy.sh/beatmapsets/1367344#fruits/2983174) 
 - Hidden
   1. [King Gizzard & The Lizard Wizard - Wah Wah (Kowari) \[Bizarre\]](https://osu.ppy.sh/beatmapsets/1769472#fruits/3622214)
-  2. [yuki - Itsuka no Hakuchuumu (Hanakumo Rin) \[Insane\]](https://osu.ppy.sh/beatmapsets/1767260#osu/3626756)
+  2. [Ryokuoushoku Shakai - LADYBUG (RLC) \[Rebirth\]](https://osu.ppy.sh/beatmapsets/1441587#fruits/2965623)
 - HardRock
-  1. [KOTOKO - Art as <3 (Shikibe Mayu) \[Amateurre's Expert\]](https://osu.ppy.sh/beatmapsets/1399810#osu/2938726)
-  2. [solfa feat. Shimotsuki Haruka - leap in your mind (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/818672#osu/1718542)
+  1. [mary x jon-YAKITORY - Koko de Ikiteru (Amateurre) \[Yogurre's Insane\]](https://osu.ppy.sh/beatmapsets/1541131#fruits/3152525)
+  2. [Amuro vs Killer - Mei (Acylica) \[Muya's Another\]](https://osu.ppy.sh/beatmapsets/1148799#fruits/2411485d)
 - DoubleTime
   1. [Duca - Shiawase no Otoshimono (Kencho) \[sahuang's Insane\]](https://osu.ppy.sh/beatmapsets/559622#osu/1224936)
   2. [Pedro Silva - World's End Valentine (Ixcors) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1497252#osu/3069014)
