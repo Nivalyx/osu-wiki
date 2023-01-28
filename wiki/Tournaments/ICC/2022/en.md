@@ -410,10 +410,12 @@ Saturday, 22 October 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[malvon](https://osu.ppy.sh/users/11113661)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Hazui](https://osu.ppy.sh/users/9919208) | [#1](https://osu.ppy.sh/community/matches/104874530) |
-| Upper | [NaFish](https://osu.ppy.sh/users/9974314) ::{ flag=ID }:: | 4 | **5** | ::{ flag=SG }:: **[uniqly](https://osu.ppy.sh/users/8876527)** | [#1](https://osu.ppy.sh/community/matches/104873289) |
-| Upper | **[Estella fanboy](https://osu.ppy.sh/users/19052463)** ::{ flag=TH }:: | **5** | 1 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | [#1](https://osu.ppy.sh/community/matches/104874668) |
-| Upper | **[caetrn](https://osu.ppy.sh/users/18425276)** ::{ flag=PH }:: | **5** | 2 | ::{ flag=MY }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993) | [#1](https://osu.ppy.sh/community/matches/104848226) |
+| Upper | [Galaxi](https://osu.ppy.sh/users/2552435) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[Zvenx](https://osu.ppy.sh/users/14613788)** | [#1](https://osu.ppy.sh/community/matches/104580816) |
+| Upper | **[Shurelia](https://osu.ppy.sh/users/3807986)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=MY }:: [Asteristia](https://osu.ppy.sh/users/9434933) | [#1](https://osu.ppy.sh/community/matches/104574555) |
+| Upper | **[Chiya--](https://osu.ppy.sh/users/7934854)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=PH }:: [HyperDream](https://osu.ppy.sh/users/12410693) | [#1](https://osu.ppy.sh/community/matches/104575328) |
+| Upper | **[Golterboose](https://osu.ppy.sh/users/4327130)** ::{ flag=AU }:: | **5** | 0 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | [#1](https://osu.ppy.sh/community/matches/104575849) |
+| Upper | [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) ::{ flag=MY }:: | 2 | **5** | ::{ flag=AU }:: **[pandaBear](https://osu.ppy.sh/users/107553)** | [#1](https://osu.ppy.sh/community/matches/104576028) |
+| Upper | **[TheTixTop](https://osu.ppy.sh/users/19236870)** ::{ flag=AU }:: | **5** | 0 | ::{ flag=TH }:: [Kukkai](https://osu.ppy.sh/users/7811952) | *win by default* |
 
 Sunday, 6 November 2022:
 
