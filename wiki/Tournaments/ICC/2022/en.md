@@ -174,17 +174,15 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (97 MB)](https://drive.google.com/file/d/1LMQv6bS0AbYc-eCND4IF6UvTp-gmU1HA/view)**
 
 - NoMod
-  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Fall of Fall (Melize) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1870600#osu/3848638)
-  2. [Xi - Densetsu no Sabori Shinigami \~ Make a quick escape (Toumei Dragon) \[Cellina & TD's Collab Extra\]](https://osu.ppy.sh/beatmapsets/1621473#osu/3435049)
-  3. [Roselia - Opera of the wasteland (newton-) \[Counterpoint\]](https://osu.ppy.sh/beatmapsets/918685#osu/1918328)
-  4. [MYUKKE. - NO ONE YES MAN (captin1) \[Risen's EXTRA\]](https://osu.ppy.sh/beatmapsets/1687287#osu/3695129)
-  5. [Ice - Entrance (Icekalt) \[schoolboy's Extra\]](https://osu.ppy.sh/beatmapsets/1276389#osu/2657055)
-  6. [HOYO-MiX - Any Last Words? (Ascended) \[Scub's Floral Incense\]](https://osu.ppy.sh/beatmapsets/1690574#osu/3498553)  
+  1. [HO-KAGO TEA TIME - Kira Kira Days (Keqing) \[Ram's Expert\]](https://osu.ppy.sh/beatmapsets/1234080#fruits/2859961)
+  2. [sekai - God-ish (seros) \[?\]](https://osu.ppy.sh/beatmapsets/1759764#fruits/3601681)
+  3. [UNDEAD - Melody in the Dark (kakifly) \[Resurgence\]](https://osu.ppy.sh/beatmapsets/1620141#fruits/3307859)
+  4. [xi - Angel's Ladder (iljaaz) \[Arcana\]](https://osu.ppy.sh/beatmapsets/1850924#fruits/3802317)
+  5. [Spire - Somnambulism (verychill) \[Sleep Terror\]](https://osu.ppy.sh/beatmapsets/1171893#fruits/2444332)
 - Hidden
-  1. [Rita - Winter Diamond (ImpurePug) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1459060#osu/2998282)
-  2. [KOTOKO - jihad (Mariko Sakuragi) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1135541#osu/2371574)
-  3. [7 Sequence - Dualrock (NyarkoO) \[Show Me Your S4!!\]](https://osu.ppy.sh/beatmapsets/564820#osu/1193947)
-  4. [t+pazolite - Tempestissimo (Ryuusei Aika) \[Beyond\]](https://osu.ppy.sh/beatmapsets/1291246#osu/2680247)
+  1. [senya - Kowareta Unmei o Tsumuide (Satellite) \[Koume's Extra\]](https://osu.ppy.sh/beatmapsets/935811#fruits/2109559)
+  2. [BEMANI Sound Team "Nekomata Gekidan" - Afterimage d'automne (Lulu-) \[Decaying Foliage\]](https://osu.ppy.sh/beatmapsets/1083051#fruits/2271628)
+  3. [Brymir - Nephilim (LMT) \[Unholy Ritualus\]](https://osu.ppy.sh/beatmapsets/1271973#fruits/2643166)
 - HardRock
   1. [Suzuyu - Syndetos (Shikibe Mayu) \[Sophie\]](https://osu.ppy.sh/beatmapsets/1711198#osu/3496518)
   2. [onoken - Amnolys (Dream117er) \[Koiyuki's Schwarzes Extrem\]](https://osu.ppy.sh/beatmapsets/1069791#osu/2301694)
