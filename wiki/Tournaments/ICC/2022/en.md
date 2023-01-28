@@ -373,7 +373,7 @@ Friday, 28 October 2022:
 | Upper | **[EpanPan](https://osu.ppy.sh/users/13194580)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Kinora](https://osu.ppy.sh/users/20571283) | *win by default* |
 | Lower | **[Galaxi](https://osu.ppy.sh/users/2552435)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410) | *win by default* |
 
-Saturday, 12 November 2022:
+Saturday, 29 October 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
