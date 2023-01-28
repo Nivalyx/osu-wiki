@@ -65,8 +65,8 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 | Seed No. | Player | Avg. Map Rank |
 | :-: | :-- | :-- |
-| 1 | ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365) | 9.51 |
-| 2 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.69 |
+| 1 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | 2.88 |
+| 2 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | 3.75 |
 | 3 | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) | 8.13 |
 | 4 | ::{ flag=SG }:: [Moroha29](https://osu.ppy.sh/users/9182389) | 7.78 |
 | 5 | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) | 7.77 |
