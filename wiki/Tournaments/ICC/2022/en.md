@@ -276,17 +276,18 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ### Finals (week 2)
 
-Thursday. 8 December 2022:
+Saturday. 26 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **8** | 5 | ::{ flag=MY }:: [LouisZPro](https://osu.ppy.sh/users/6231292) | [#1](https://osu.ppy.sh/community/matches/105519457) |
+| Lower | **[Henrick](https://osu.ppy.sh/users/8840982)** ::{ flag=CA }:: (::{ flag=PH }::) | **7** | 1 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/105294799) |
 
-Monday, 12 December 2022, Grand Final:
+Sunday, 27 November 2022, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **8** | 4 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/105599592) |
+| Grand Final | [Netamaru](https://osu.ppy.sh/users/1830361) ::{ flag=ID }:: | 5 | **7** | ::{ flag=CA }:: (::{ flag=PH }::) **[Henrick](https://osu.ppy.sh/users/8840982)** | [#1](https://osu.ppy.sh/community/matches/105310232) |
+| Grand Final (Bracket Reset) | [Henrick](https://osu.ppy.sh/users/8840982) ::{ flag=CA }:: (::{ flag=PH }::) | 3 | **7** | ::{ flag=ID }:: **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/105311285) |
 
 ### Finals (week 1)
 
