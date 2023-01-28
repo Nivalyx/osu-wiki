@@ -130,13 +130,11 @@ This competition has come to an end and resulted in the following podium:
   2. [Otsukisama Koukyoukyoku - ultima Thule (Hey lululu) \[2014 MU9\]](https://osu.ppy.sh/beatmapsets/1507229#fruits/3087082)
   3. [Streetlight Manifesto - Punk Rock Girl (Milan-) \[pishi's Extra\]](https://osu.ppy.sh/beatmapsets/577394#fruits/1225554)
 - DoubleTime
-  1. [Ceui - Hoshi Ori Yume Mirai (Millie) \[Memories\]](https://osu.ppy.sh/beatmapsets/1889555#osu/3891762)
-  2. [Daisuke Ishiwatari - Childish Killer (yaspo) \[Like a Rose\]](https://osu.ppy.sh/beatmapsets/1301402#osu/2699262)
-  3. [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
-  4. [zts - dreamenddischarger (Luscent) \[resurrection\]](https://osu.ppy.sh/beatmapsets/1414566#osu/2915636)
-  5. [Mitsukasa Ayase (CV: Sawasawa Sawa) - PERFECT GIRL (DeppyForce) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1358125#osu/2890071)
+  1. [Yousei Teikoku - Astral Dogma (Net0) \[Saten's Dogma\]](https://osu.ppy.sh/beatmapsets/1008085#fruits/2109844)
+  2. [Sakurakou K-ON Bu - Cagayake!GIRLS (TheShadowOfDark) \[Never-Ending Girls' Song (ICCO Edit)\]](https://osu.ppy.sh/beatmapsets/1888638#fruits/3889637)
+  3. [Shimotsuki Haruka & Yamamoto Mineko - Masterpiece! (Nana Abe) \[Lydie\]](https://osu.ppy.sh/beatmapsets/1259704#fruits/2618969)
 - Tiebreaker
-  1. **[Ito Kanako - Sky of Twilight (Millie) \[Dusk\]](https://osu.ppy.sh/beatmapsets/1897490#osu/3910774)**
+  1. **[	Sad Keyboard Guy, sleepless & Myntian - Alter//Strife feat. vally.exe (Alvearia) \[Sharded Memories Into Spaces Once Gone\]](https://osu.ppy.sh/beatmapsets/1881706#fruits/3873990)**
 
 ### Finals (week 1)
 
