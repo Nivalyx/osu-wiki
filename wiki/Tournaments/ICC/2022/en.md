@@ -118,8 +118,8 @@ This competition has come to an end and resulted in the following podium:
   1. [Sasaki Sayaka - FEELxALIVE (KuranteMelodii) \[BAKUON AR9.7\]](https://osu.ppy.sh/beatmapsets/477628#fruits/1020297)
   2. [Umeboshi Chazuke - Galaxy in Toybox (DC update ver.) (Star Stream) \[\Expert\]](https://osu.ppy.sh/beatmapsets/1155525#fruits/2411404)
   3. [sasakure.UK - Xlo (Yusomi) \[Another AR9.7\]](https://osu.ppy.sh/beatmapsets/1018087#fruits/2130633)
-  4. [Airots - Tougen Roman (Epsilon Remix) (GIDZ) \[Matha's Exultation\]](https://osu.ppy.sh/beatmapsets/1321446#osu/2757153)
-  5. [Yuni (CV: Kohara Konomi), Chieru (CV: Sakura Ayane), Chloe (CV: Tanezaki Atsumi) - Nakayoshi Sensation (Yorita Yoshino) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/1233855#osu/2596270)
+  4. [USAO - Cthugha (Otosaka-Yu) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1370925#fruits/2834637)
+  5. [Iyowa feat. KAFU - Kyu-kurarin (0ugi) \[0pp's Tecxpert\]](https://osu.ppy.sh/beatmapsets/1591460#fruits/3405314)
   6. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[Amatha's Expert: Yoshino\]](https://osu.ppy.sh/beatmapsets/1404864#osu/2901399)  
 - Hidden
   1. [Yousei Teikoku - last moment (IsomirDiAngelo) \[smm's extra\]](https://osu.ppy.sh/beatmapsets/1172342#osu/2460502)
