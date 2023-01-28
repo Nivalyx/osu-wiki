@@ -142,7 +142,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 1)
 
-**[Download the mappack here! (138 MB)](https://mappack.yewonkim.tk/download?filename=ucup2022f.zip)**
+**[Download the mappack here! (119 MB)](https://drive.google.com/file/d/1b0h1imFzbma3UyGYq2kdrNyUt7JnHsQ4/view)**
 
 - NoMod
   1. [Denkishiki Karen Ongaku Shuudan - gemini (Star Stream) \[Extra\]](https://osu.ppy.sh/beatmapsets/182815#osu/438187)
