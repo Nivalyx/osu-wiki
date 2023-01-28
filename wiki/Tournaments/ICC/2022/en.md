@@ -145,16 +145,16 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (119 MB)](https://drive.google.com/file/d/1b0h1imFzbma3UyGYq2kdrNyUt7JnHsQ4/view)**
 
 - NoMod
-  1. [Denkishiki Karen Ongaku Shuudan - gemini (Star Stream) \[Extra\]](https://osu.ppy.sh/beatmapsets/182815#osu/438187)
-  2. [Hazuki - Legend of Millennium (Goth Asuka) \[Zecent's Extra\]](https://osu.ppy.sh/beatmapsets/1195065#osu/2541686)
-  3. [Matsushita - Hey Darling! (Shikibe Mayu) \[Toa my beloved\]](https://osu.ppy.sh/beatmapsets/1525401#osu/3120956)
-  4. [Eagle - Hypersonik (Ascended) \[Aistre's Extra\]](https://osu.ppy.sh/beatmapsets/1834293#osu/3836349)
-  5. [Zektbach - The Sealer \~A Milia to Milia no Tami\~ (ScubDomino) \[Extra\]](https://osu.ppy.sh/beatmapsets/1414241#osu/2915013)
-  6. [-45 - Aci-L (Stick2Glue) \[tourney diff Tourney Diff TOURNEY DIFF\]](https://osu.ppy.sh/beatmapsets/1236026#osu/3839688)  
+  1. [HO-KAGO TEA TIME - Girls in Wonderland (TheShadowOfDark) \[Walao's Extra\]](https://osu.ppy.sh/beatmapsets/1266700#fruits/2659748)
+  2. [A-One feat. ayaponzu\* - Justice Monster (Chizu-kun) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1513750#fruits/3099250)
+  3. [Roselia - Shin'ai (-Aqua) \[Agony\]](https://osu.ppy.sh/beatmapsets/765499#fruits/1674700)
+  4. [EmoCosine - MAGENTA POTION (short ver. (Starfy) \[Hallucination\]](https://osu.ppy.sh/beatmapsets/1079970#fruits/3075536)
+  5. [Yooh - Decoy (fanzhen0019) \[D\]](https://osu.ppy.sh/beatmapsets/1074610#fruits/2248810)
+  6. [Nei Kino - Usan no Kaori (Parachute) \[Insane\]](https://osu.ppy.sh/beatmapsets/189625#fruits/451764)  
 - Hidden
-  1. [Falcom Sound Team jdk - Infinity Rage (jonathanlfj) \[Stage 4\]](https://osu.ppy.sh/beatmapsets/1616017#osu/3299353)
-  2. [raito - Blood Drain -Again- (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1152554#osu/2405667)
-  3. [ak+q x Street - neo kosmo (arronchu1207) \[extra\]](https://osu.ppy.sh/beatmapsets/1465727#osu/3010336)
+  1. [Dirtyphonics - Night Ride (Halgoh) \[Ultimate Drift\]](https://osu.ppy.sh/beatmapsets/1621891#fruits/3311337)
+  2. [SHK - Death Moon (Musty) \[SHD\]](https://osu.ppy.sh/beatmapsets/497027#fruits/1058054)
+  3. [Aitsuki Nakuru - Daisan no Shinzou (captin1) \[nakuru\]](https://osu.ppy.sh/beatmapsets/1833750#fruits/3764586)
   4. [yozuca\* - LOVING TRIP (Shikibe Mayu) \[running it down\]](https://osu.ppy.sh/beatmapsets/1372743#osu/2837879)
 - HardRock
   1. [Various Artists - Irodori Phantasia (lushifer) \[Flowering Phantasia\]](https://osu.ppy.sh/beatmapsets/1703610#osu/3480920)
