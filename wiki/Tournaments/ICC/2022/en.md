@@ -401,10 +401,12 @@ Friday, 21 October 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[-Rustyy](https://osu.ppy.sh/users/16355636)** ::{ flag=PH }:: | **5** | 1 | ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410) | [#1](https://osu.ppy.sh/community/matches/104553434) |
+| Upper | **[EpanPan](https://osu.ppy.sh/users/13194580)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772) | [#1](https://osu.ppy.sh/community/matches/104555143) |
 | Upper | [KWYJIBO](https://osu.ppy.sh/users/7178386) ::{ flag=AU }:: | 3 | **5** | ::{ flag=TH }:: **[RAISE MY SWORD](https://osu.ppy.sh/users/17385454)** | [#1](https://osu.ppy.sh/community/matches/104552114) |
+| Upper | **[-Rustyy](https://osu.ppy.sh/users/16355636)** ::{ flag=PH }:: | **5** | 1 | ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410) | [#1](https://osu.ppy.sh/community/matches/104553434) |
+| Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Cera-](https://osu.ppy.sh/users/1974131) | [#1](https://osu.ppy.sh/community/matches/104556216) |
 
-Saturday, 5 November 2022:
+Saturday, 22 October 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
