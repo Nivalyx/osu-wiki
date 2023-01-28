@@ -49,6 +49,7 @@ ICCO 2022 was run by various osu! community members from Indonesia and beyond.
 | Referee | ::{ flag=ID }:: [Lunatier](https://osu.ppy.sh/users/27913451), ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469), ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [nabirra](https://osu.ppy.sh/users/16053739), ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533), ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) |
 | Graphic designer | ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
 | Spreadsheet manager | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
+| Sponsor | ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=MY }:: [Moeruattack](https://osu.ppy.sh/users/4480237) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
@@ -84,19 +85,19 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 | 17 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | 17.88 |
 | 18 | ::{ flag=TH }:: [Kukkai](https://osu.ppy.sh/users/7811952) | 17.88 |
 | 19 | ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/3031177) | 17.88 |
-| 20 | ::{ flag=PH }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993) | 5.54 |
-| 21 | ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | 5.53 |
-| 22 | ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527) | 5.43 |
-| 23 | ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152) | 5.42 |
-| 24 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | 5.41 |
-| 25 | ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863) | 5.35 |
-| 26 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 5.24 |
-| 27 | ::{ flag=ID }:: [-Ayame](https://osu.ppy.sh/users/7128826) | 5.23 |
-| 28 | ::{ flag=ID }:: [Hazui](https://osu.ppy.sh/users/9919208) | 5,19 |
-| 29 | ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) | 5.17 |
-| 30 | ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988) | 5.15 |
-| 31 | ::{ flag=ID }:: [gkyla](https://osu.ppy.sh/users/5638585) | 4.50 |
-| 32 | ::{ flag=PH }:: [Chooga](https://osu.ppy.sh/users/9477784) | 4.43 |
+| 20 | ::{ flag=AU }:: [Geniance](https://osu.ppy.sh/users/4229240) | 18.63 |
+| 21 | ::{ flag=TH }:: [RAISE MY SWORD](https://osu.ppy.sh/users/17385454) | 19.75 |
+| 22 | ::{ flag=ID}:: [Mixuri](https://osu.ppy.sh/users/9153772) | 19.88 |
+| 23 | ::{ flag=MY }:: [Asteristia](https://osu.ppy.sh/users/9434933) | 21.00 |
+| 24 | ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410) | 22.75 |
+| 25 | ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788) | 23.13 |
+| 26 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | 23.13 |
+| 27 | ::{ flag=ID }:: [Kinora](https://osu.ppy.sh/users/20571283) | 26.25 |
+| 28 | ::{ flag=PH }:: [-HyperDream](https://osu.ppy.sh/users/12410693) | 26.25 |
+| 29 | ::{ flag=ID }:: [Fisicia](https://osu.ppy.sh/users/6556054) | 26.63 |
+| 30 | ::{ flag=PH }:: [-Isla-](https://osu.ppy.sh/users/17745759) | 29.13 |
+| 31 | ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865) | 29.25 |
+| 32 | ::{ flag=ID }:: [Cera-](https://osu.ppy.sh/users/1974131) | 29.75 |
 
 ## Podium
 
