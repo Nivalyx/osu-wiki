@@ -422,14 +422,11 @@ Sunday, 23 October 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[bluezenithgames](https://osu.ppy.sh/users/12681578)** ::{ flag=PH }:: | **5** | 3 | ::{ flag=PH }:: [MarvelWizardKH](https://osu.ppy.sh/users/5356586) | [#1](https://osu.ppy.sh/community/matches/104899284) |
-| Upper | **[xidorn](https://osu.ppy.sh/users/7904667)** ::{ flag=PH }:: | **5** | 3 | ::{ flag=MY }:: [Amatsuka Uto](https://osu.ppy.sh/users/9364594) | [#1](https://osu.ppy.sh/community/matches/104898329) |
-| Upper | [Seox](https://osu.ppy.sh/users/3793938) ::{ flag=ID }:: | 1 | **5** | ::{ flag=SG }:: **[JokThree](https://osu.ppy.sh/users/7713152)** | [#1](https://osu.ppy.sh/community/matches/104899939) |
-| Upper | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988) | [#1](https://osu.ppy.sh/community/matches/104901043) |
-| Upper | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **5** | 3 | ::{ flag=ID }:: [-Ayame](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/104901104) |
-| Upper | **[Moroha29](https://osu.ppy.sh/users/10137131)** ::{ flag=SG }:: | **5** | 0 | ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) | *win by default* |
-| Upper | [Miggie](https://osu.ppy.sh/users/12028437) ::{ flag=PH }:: | 0 | **5** | ::{ flag=ID }:: **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** | *win by default* |
-| Upper | **[-TwiHD](https://osu.ppy.sh/users/5470299)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | *win by default* |
+| Upper | [Sololiquy](https://osu.ppy.sh/users/4350087) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[Mamat](https://osu.ppy.sh/users/3031177)** | [#1](https://osu.ppy.sh/community/matches/104605679) |
+| Upper | **[chickennando](https://osu.ppy.sh/users/5818665)** ::{ flag=AU }:: | **5** | 0 | ::{ flag=PH }:: [-Isla-](https://osu.ppy.sh/users/17745759) | [#1](https://osu.ppy.sh/community/matches/104603795) |
+| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865) | [#1](https://osu.ppy.sh/community/matches/104601630) |
+| Upper | **[Dedot](https://osu.ppy.sh/users/8805157)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=AU }:: [Geniance](https://osu.ppy.sh/users/4229240) | [#1](https://osu.ppy.sh/community/matches/104601420) |
+
 
 ## Ruleset
 
