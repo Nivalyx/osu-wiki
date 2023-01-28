@@ -61,7 +61,7 @@ ICCO 2022 was run by various osu! community members from Indonesia and beyond.
 
 ## Participants
 
-Listed below are the players who managed to qualify into the Round of 32 (along with their seed number and average map rank tallied across each Qualifier beatmap) out of 39 registered players in total.
+Listed below are the players who managed to qualify into the Round of 32 (along with their seed number and average map rank combined across each individual Qualifier beatmap) out of 39 registered players in total.
 
 | Seed No. | Player | Avg. Map Rank |
 | :-: | :-- | :-- |
