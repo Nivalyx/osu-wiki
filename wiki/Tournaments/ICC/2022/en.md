@@ -364,20 +364,19 @@ Sunday, 20 November 2022:
 
 ### Round of 16
 
-Friday, 11 November 2022:
+Friday, 28 October 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Contra](https://osu.ppy.sh/users/12011863)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/104987552) |
-| Upper | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **6** | 2 | ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578) | [#1](https://osu.ppy.sh/community/matches/104992308) |
-| Lower | [gkyla](https://osu.ppy.sh/users/5638585) ::{ flag=ID }:: | 4 | **6** | ::{ flag=MY }:: **[Amatsuka Uto](https://osu.ppy.sh/users/9364594)** | [#1](https://osu.ppy.sh/community/matches/104988029) |
-| Lower | **[Hazui](https://osu.ppy.sh/users/9919208)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | *win by default* |
+| Lower | [Cera-](https://osu.ppy.sh/users/1974131) ::{ flag=ID }:: | 0 | **5** | ::{ flag=MY }:: **[\[MY\]error\_exe](https://osu.ppy.sh/users/6056288)** | [#1](https://osu.ppy.sh/community/matches/104700021) |
+| Lower | [-HyperDream](https://osu.ppy.sh/users/12410693) ::{ flag=PH }:: | 0 | **5** | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)** | [#1](https://osu.ppy.sh/community/matches/104693315) |
+| Upper | **[EpanPan](https://osu.ppy.sh/users/13194580)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Kinora](https://osu.ppy.sh/users/20571283) | *win by default* |
+| Lower | **[Galaxi](https://osu.ppy.sh/users/2552435)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410) | *win by default* |
 
 Saturday, 12 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Chooga](https://osu.ppy.sh/users/9477784) ::{ flag=PH }:: | 0 | **6** | ::{ flag=PH }:: **[Miggie](https://osu.ppy.sh/users/12028437)** | [#1](https://osu.ppy.sh/community/matches/105013687) |
 | Lower | **[Azasapag](https://osu.ppy.sh/users/18347666)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) | [#1](https://osu.ppy.sh/community/matches/105012605) |
 | Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **6** | 1 | ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439) | [#1](https://osu.ppy.sh/community/matches/105015077) |
 | Lower | [Caviar-](https://osu.ppy.sh/users/10474988) ::{ flag=ID }:: | 1 | **6** | ::{ flag=PH }:: **[MarvelWizardKH](https://osu.ppy.sh/users/5356586)** | [#1](https://osu.ppy.sh/community/matches/105013739) |
