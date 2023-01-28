@@ -112,7 +112,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 2)
 
-**[Download the mappack here! (176 MB)](https://drive.google.com/file/d/1ZvF-IjouuQd54VpTxBnEk1FDPk6fPzL-/view)**
+**[Download the mappack here! (199 MB)](https://drive.google.com/file/d/170v1au8ewGDINsSHNFm3qiyK-ZZFX1PA/view)**
 
 - NoMod
   1. [Sasaki Sayaka - Will of Adamant (Millie) \[Wings\]](https://osu.ppy.sh/beatmapsets/1889553#osu/3891759)
