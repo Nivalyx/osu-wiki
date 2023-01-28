@@ -105,7 +105,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Team |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: **[Netamaru](https://osu.ppy.sh/users/1830361)** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: **[Henrick](https://osu.ppy.sh/users/8840982)** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: (::{ flag=PH }::) **[Henrick](https://osu.ppy.sh/users/8840982)** |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: **[Chroneko](https://osu.ppy.sh/users/5472877)** |
 
 ## Mappools
