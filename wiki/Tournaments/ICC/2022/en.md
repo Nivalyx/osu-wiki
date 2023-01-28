@@ -155,19 +155,16 @@ This competition has come to an end and resulted in the following podium:
   1. [Dirtyphonics - Night Ride (Halgoh) \[Ultimate Drift\]](https://osu.ppy.sh/beatmapsets/1621891#fruits/3311337)
   2. [SHK - Death Moon (Musty) \[SHD\]](https://osu.ppy.sh/beatmapsets/497027#fruits/1058054)
   3. [Aitsuki Nakuru - Daisan no Shinzou (captin1) \[nakuru\]](https://osu.ppy.sh/beatmapsets/1833750#fruits/3764586)
-  4. [yozuca\* - LOVING TRIP (Shikibe Mayu) \[running it down\]](https://osu.ppy.sh/beatmapsets/1372743#osu/2837879)
 - HardRock
-  1. [Various Artists - Irodori Phantasia (lushifer) \[Flowering Phantasia\]](https://osu.ppy.sh/beatmapsets/1703610#osu/3480920)
-  2. [yozuca\* - Ima o Wasurenai (frozz) \[Love Memory\]](https://osu.ppy.sh/beatmapsets/1706160#osu/3486227)
-  3. [YuNa - Torawarebito (PaRaDogi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1666863#osu/3403539)
-  4. [Noah - Heavenly caress (-Kemsyt) \[Days of Future Past\]](https://osu.ppy.sh/beatmapsets/1537692#osu/3144021)
+  1. [memex - Influence Exception (Akebana Yukio) \[Heartless\]](https://osu.ppy.sh/beatmapsets/1342856#fruits/2781552)
+  2. [Hakushi Hasegawa - Doku (zglock) \[Expert\]](https://osu.ppy.sh/beatmapsets/1674871#fruits/3539717)
+  3. [Chroma - Black Emperor (Azer) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/297744#fruits/668301)
 - DoubleTime
-  1. [Rin'ca - Kiseki Melody (pnky) \[KoldNoodl's Insane\]](https://osu.ppy.sh/beatmapsets/1754642#osu/3650418)
-  2. [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (Luscent) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1609956#osu/3287252)
-  3. [zts - worldenddominator (deetz) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/897884#osu/1985639)
-  4. [Wakana - Flag (Shurelia) \[Fuyu's Insane\]](https://osu.ppy.sh/beatmapsets/1822388#osu/3743688)
+  1. [R96neko - Uso no Hibana (keevy) \[Insane\]](https://osu.ppy.sh/beatmapsets/1347368#fruits/2884129)
+  2. [Sakaue Nachi - Crazy Hot (Satellite) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1850048#fruits/3800326)
+  3. [iojjj - Torikago (Lanzhu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1667873#fruits/3407910)
 - Tiebreaker
-  1. **[Denkishiki Karen Ongaku Shuudan - I pray (Icekalt) \[I pray until dying in the dark\]](https://osu.ppy.sh/beatmapsets/755676#osu/1590496)**
+  1. **[Release Hallucination - I.F. (Livermorium) \[My Loneliness Grows as the Moment of Farewell Surrounds Us\]](https://osu.ppy.sh/beatmapsets/1575103#fruits/3215934)**
 
 ### Semifinals
 
