@@ -397,14 +397,12 @@ Sunday, 13 November 2022:
 
 ### Round of 32
 
-Friday, 4 November 2022:
+Friday, 21 October 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[iraozm](https://osu.ppy.sh/users/12443104)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/104848905) |
-| Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **5** | 0 | ::{ flag=PH }:: [Chooga](https://osu.ppy.sh/users/9477784) | [#1](https://osu.ppy.sh/community/matches/104850024) |
-| Upper | **[Anderwear](https://osu.ppy.sh/users/14429830)** ::{ flag=SG }:: | **5** | 4 | ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863) | [#1](https://osu.ppy.sh/community/matches/104848226) |
-| Upper | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [gkyla](https://osu.ppy.sh/users/5638585) | *win by default* |
+| Upper | **[-Rustyy](https://osu.ppy.sh/users/16355636)** ::{ flag=PH }:: | **5** | 1 | ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410) | [#1](https://osu.ppy.sh/community/matches/104553434) |
+| Upper | [KWYJIBO](https://osu.ppy.sh/users/7178386) ::{ flag=AU }:: | 3 | **5** | ::{ flag=TH }:: **[RAISE MY SWORD](https://osu.ppy.sh/users/17385454)** | [#1](https://osu.ppy.sh/community/matches/104552114) |
 
 Saturday, 5 November 2022:
 
