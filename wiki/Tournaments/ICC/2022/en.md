@@ -415,9 +415,10 @@ Saturday, 22 October 2022:
 | Upper | **[Chiya--](https://osu.ppy.sh/users/7934854)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=PH }:: [HyperDream](https://osu.ppy.sh/users/12410693) | [#1](https://osu.ppy.sh/community/matches/104575328) |
 | Upper | **[Golterboose](https://osu.ppy.sh/users/4327130)** ::{ flag=AU }:: | **5** | 0 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | [#1](https://osu.ppy.sh/community/matches/104575849) |
 | Upper | [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) ::{ flag=MY }:: | 2 | **5** | ::{ flag=AU }:: **[pandaBear](https://osu.ppy.sh/users/107553)** | [#1](https://osu.ppy.sh/community/matches/104576028) |
+| Upper | **[Henrick](https://osu.ppy.sh/users/8840982)** ::{ flag=CA }:: (::{ flag=PH }::) | **5** | 1 | ::{ flag=ID }:: [Fisicia](https://osu.ppy.sh/users/6556054) | [#1](https://osu.ppy.sh/community/matches/104581140) |
 | Upper | **[TheTixTop](https://osu.ppy.sh/users/19236870)** ::{ flag=AU }:: | **5** | 0 | ::{ flag=TH }:: [Kukkai](https://osu.ppy.sh/users/7811952) | *win by default* |
 
-Sunday, 6 November 2022:
+Sunday, 23 October 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
