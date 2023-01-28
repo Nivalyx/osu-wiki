@@ -73,9 +73,9 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 | 6 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | 8.88 |
 | 7 | ::{ flag=AU }:: [Golterboose](https://osu.ppy.sh/users/4327130) | 9.25 |
 | 8 | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | 10.25 |
-| 9 | ::{ flag=MY }:: [iraozm](https://osu.ppy.sh/users/12443104) | 6.97 |
-| 10 | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) | 6.95 |
-| 11 | ::{ flag=ID }:: [NaFish](https://osu.ppy.sh/users/9974314) | 6.94 |
+| 9 | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | 11.63 |
+| 10 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | 12.25 |
+| 11 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | 12.88 |
 | 12 | ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299) | 6.91 |
 | 13 | ::{ flag=PH }:: [caetrn](https://osu.ppy.sh/users/18425276) | 6.77 |
 | 14 | ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578) | 6.74 |
