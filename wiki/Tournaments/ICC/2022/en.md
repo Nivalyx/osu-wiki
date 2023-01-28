@@ -115,9 +115,9 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (199 MB)](https://drive.google.com/file/d/170v1au8ewGDINsSHNFm3qiyK-ZZFX1PA/view)**
 
 - NoMod
-  1. [Sasaki Sayaka - Will of Adamant (Millie) \[Wings\]](https://osu.ppy.sh/beatmapsets/1889553#osu/3891759)
-  2. [Various Artists - Ms. VICTORIA (Game Size) (lushifer) \[\#freeiloveuma\]](https://osu.ppy.sh/beatmapsets/1897432#osu/3910634)
-  3. [Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT" (Lasse) \[Affection\]](https://osu.ppy.sh/beatmapsets/1431401#osu/2946497)
+  1. [Sasaki Sayaka - FEELxALIVE (KuranteMelodii) \[BAKUON AR9.7\]](https://osu.ppy.sh/beatmapsets/477628#fruits/1020297)
+  2. [Umeboshi Chazuke - Galaxy in Toybox (DC update ver.) (Star Stream) \[\Expert\]](https://osu.ppy.sh/beatmapsets/1155525#fruits/2411404)
+  3. [sasakure.UK - Xlo (Yusomi) \[Another AR9.7\]](https://osu.ppy.sh/beatmapsets/1018087#fruits/2130633)
   4. [Airots - Tougen Roman (Epsilon Remix) (GIDZ) \[Matha's Exultation\]](https://osu.ppy.sh/beatmapsets/1321446#osu/2757153)
   5. [Yuni (CV: Kohara Konomi), Chieru (CV: Sakura Ayane), Chloe (CV: Tanezaki Atsumi) - Nakayoshi Sensation (Yorita Yoshino) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/1233855#osu/2596270)
   6. [KOTOKO - Koi Kou Enishi (Shikibe Mayu) \[Amatha's Expert: Yoshino\]](https://osu.ppy.sh/beatmapsets/1404864#osu/2901399)  
