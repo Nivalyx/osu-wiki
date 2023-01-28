@@ -184,17 +184,15 @@ This competition has come to an end and resulted in the following podium:
   2. [BEMANI Sound Team "Nekomata Gekidan" - Afterimage d'automne (Lulu-) \[Decaying Foliage\]](https://osu.ppy.sh/beatmapsets/1083051#fruits/2271628)
   3. [Brymir - Nephilim (LMT) \[Unholy Ritualus\]](https://osu.ppy.sh/beatmapsets/1271973#fruits/2643166)
 - HardRock
-  1. [Suzuyu - Syndetos (Shikibe Mayu) \[Sophie\]](https://osu.ppy.sh/beatmapsets/1711198#osu/3496518)
-  2. [onoken - Amnolys (Dream117er) \[Koiyuki's Schwarzes Extrem\]](https://osu.ppy.sh/beatmapsets/1069791#osu/2301694)
-  3. [Monster Siren Records - Fading Sky (Bellicose) \[Yugu's Extra\]](https://osu.ppy.sh/beatmapsets/1770637#osu/3745604)
-  4. [Yonekura Chihiro - Smiling-Swinging!! (Shikibe Mayu) \[Expert: Natsume\]](https://osu.ppy.sh/beatmapsets/1568530#osu/3202627)
+  1. [S	Higuchi Madoka (CV: Tsuchiya Rio) - Itsudatte Bokura wa (Higuchi Madoka ver.) (\[Boy\]DaLat) \[Hikan's Extra\]](https://osu.ppy.sh/beatmapsets/1747715#fruits/3587675)
+  2. [LeaF - Calamity Fortune (Frostings) \[Cataclysm\]](https://osu.ppy.sh/beatmapsets/359168#fruits/789752)
+  3. [-45 - Aci-L (Luscent) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1783108#fruits/3651716) 
 - DoubleTime
-  1. [Rin'ca - Pleasure garden (fnayR) \[Paradise\]](https://osu.ppy.sh/beatmapsets/1872558#osu/3853165)
-  2. [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Mirash) \[PandaHero's Insane\]](https://osu.ppy.sh/beatmapsets/685725#osu/1469159)
-  3. [ARM x Komso feat. Nanahira - Onegai! Kon kon Oinarisama (Len) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/1302044#osu/2718373)
-  4. [Grabbitz - Die For You (AirinCat) \[Insane\]](https://osu.ppy.sh/beatmapsets/1793500#osu/3681813)
+  1. [SHIKI - Lapis (JeZag) \[Another\]](https://osu.ppy.sh/beatmapsets/1543395#fruits/3154788)
+  2. [mafumafu feat. soraru - ROKI (AirinCat) \[Insane.\]](https://osu.ppy.sh/beatmapsets/1587613#fruits/3242402)
+  3. [Wanuka - Tipsy (climbx3145) \[Mature\]](https://osu.ppy.sh/beatmapsets/1611451#fruits/3290120)
 - Tiebreaker
-  1. **[sweet ARMS - Installation (\_kotachi\_) \[Zaphkiel\]](https://osu.ppy.sh/beatmapsets/1756743#osu/3595027)**  
+  1. **[Yunosuke - Loop Memory (Tycani) \[Repeating Repetitive Repetition\]](https://osu.ppy.sh/beatmapsets/1703935#fruits/3481651)**  
 
 ### Quarterfinals
 
