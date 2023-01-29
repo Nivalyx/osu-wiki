@@ -457,7 +457,7 @@ Sunday, 23 October 2022:
 
 1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/G3dJovwbmR5kwQhk6).
    - In order to be eligible to play in the tournament, a player must either:
-     - Have the flag of any of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, ::{ flag=VN }:: Vietnam) or either the flag of ::{ flag=TL }:: Timor-Leste, ::{ flag=NZ }:: New Zealand, and ::{ flag=AU }:: Australia on their profile, ***or***
+     - Have the flag of any of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, ::{ flag=VN }:: Vietnam) or the flag of either ::{ flag=TL }:: Timor-Leste, ::{ flag=NZ }:: New Zealand, and ::{ flag=AU }:: Australia on their profile, ***or***
      - Be in possession of a valid identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
@@ -471,9 +471,9 @@ Sunday, 23 October 2022:
 2. In the lobby, all players will have to consecutively play all of the nine Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifiers, players will be ranked based on their Z-Sum value (which is the total of all individual Z-Scores in each of the ten Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Scores can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
-6. 32 players with the **highest Z-Sum value** will advance to the knock-out stages.
-   - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
+5. Based on their performance in the Qualifiers, players will be ranked based on their average rank combined across each Qualifier beatmap.
+6. 32 players with the **highest average rank overall** will advance to the knock-out stages.
+   - If there are two (or more) players who share the same average rank, the player holding the higher total score combined from all eight Qualifier beatmaps will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
