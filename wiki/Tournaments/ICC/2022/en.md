@@ -356,6 +356,7 @@ Sunday, 20 November 2022:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[Shurelia](https://osu.ppy.sh/users/3807986)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=AU }:: [Geniance](https://osu.ppy.sh/users/4229240) | [#1](https://osu.ppy.sh/community/matches/104871756) |
 | Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | [#1](https://osu.ppy.sh/community/matches/104898873) |
+| Upper | **[Henrick](https://osu.ppy.sh/users/8840982)** ::{ flag=CA }:: (::{ flag=PH }::) | **6** | 0 | ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) | [#1](https://osu.ppy.sh/community/matches/104902058) |
 | Lower | [TheTixTop](https://osu.ppy.sh/users/19236870) ::{ flag=AU }:: | 1 | **6** | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)** | [#1](https://osu.ppy.sh/community/matches/104893860) |
 | Lower | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772) | [#1](https://osu.ppy.sh/community/matches/104895860) |
 | Upper | **[chickennando](https://osu.ppy.sh/users/5818665)** ::{ flag=AU }:: | **6** | 2 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/104896466) |
