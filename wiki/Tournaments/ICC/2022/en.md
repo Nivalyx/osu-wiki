@@ -311,16 +311,17 @@ Friday. 11 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Chiya--](https://osu.ppy.sh/users/7934854)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/6231292) | [#1](https://osu.ppy.sh/community/matches/104987406) |
+| Lower | **[Chiya--](https://osu.ppy.sh/users/7934854)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/6231292) | [#1](https://osu.ppy.sh/community/matches/104987406) |
+| Lower | [-Rustyy](https://osu.ppy.sh/users/16355636) ::{ flag=PH }:: | 2 | **6** | ::{ flag=ID }:: **[Shurelia](https://osu.ppy.sh/users/3807986)** | [#1](https://osu.ppy.sh/community/matches/104988289) |
 
-Saturday. 26 November 2022:
+Saturday. 12 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **7** | 3 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | [#1](https://osu.ppy.sh/community/matches/105286576) |
-| Lower | **[Moroha29](https://osu.ppy.sh/users/9182389)** ::{ flag=SG }:: | **7** | 0 | ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578) | [#1](https://osu.ppy.sh/community/matches/105286561) |
-| Lower | [JokThree](https://osu.ppy.sh/users/17847877) ::{ flag=SG }:: | 0 | **7** | ::{ flag=ID }:: **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** | *win by default* |
-| Lower | [iraozm](https://osu.ppy.sh/users/12443104) ::{ flag=MY }:: | 0 | **7** | ::{ flag=PH }:: **[Hinatsuru Ai](https://osu.ppy.sh/users/10442993)** | *win by default* |
+| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=AU }:: [chickennando](https://osu.ppy.sh/users/5818665) | [#1](https://osu.ppy.sh/community/matches/105010824) |
+| Lower | **[EpanPan](https://osu.ppy.sh/users/13194580)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=TH }:: [RAISE MY SWORD](https://osu.ppy.sh/users/17385454) | [#1](https://osu.ppy.sh/community/matches/105010684) |
+| Lower | **[Chiya--](https://osu.ppy.sh/users/7934854)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | [#1](https://osu.ppy.sh/community/matches/105012786) |
+| Lower | [Golterboose](https://osu.ppy.sh/users/12443104) ::{ flag=AU }:: | 0 | **6** | ::{ flag=ID }:: **[Sololiquy](https://osu.ppy.sh/users/4350087)** | *win by default* |
 
 Sunday. 27 November 2022:
 
