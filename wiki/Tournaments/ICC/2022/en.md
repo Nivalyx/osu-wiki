@@ -488,7 +488,7 @@ Sunday, 23 October 2022:
    - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
    - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
    - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
-   - Whether there are players who are determined to win the match by default.
+   - Whether there are players who are declared to win the match by default.
    - Whether there are players who are disqualified from the tournament.
 
 ### Match instructions
