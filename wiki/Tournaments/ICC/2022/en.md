@@ -390,9 +390,11 @@ Sunday, 30 October 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [malvon](https://osu.ppy.sh/users/11113661) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[-TwiHD](https://osu.ppy.sh/users/5470299)** | [#1](https://osu.ppy.sh/community/matches/105041119) |
-| Upper | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667) | [#1](https://osu.ppy.sh/community/matches/105038415) |
-| Upper | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **3** | 4 | ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527) | [#1](https://osu.ppy.sh/community/matches/105041215) |
+| Upper | **[Chiya--](https://osu.ppy.sh/users/7934854)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=TH }:: [RAISE MY SWORD](https://osu.ppy.sh/users/17385454) | [#1](https://osu.ppy.sh/community/matches/104749476) |
+| Lower | [Fisicia](https://osu.ppy.sh/users/6556054) ::{ flag=ID }:: | 2 | **5** | ::{ flag=AU }:: **[Geniance](https://osu.ppy.sh/users/4229240)** | [#1](https://osu.ppy.sh/community/matches/104745815) |
+| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | [#1](https://osu.ppy.sh/community/matches/104745580) |
+| Upper | [Zvenx](https://osu.ppy.sh/users/14613788) ::{ flag=ID }:: | 1 | **5** | ::{ flag=PH }:: **[-Rustyy](https://osu.ppy.sh/users/16355636)** | [#1](https://osu.ppy.sh/community/matches/104750724) |
+| Upper | **[chickennando](https://osu.ppy.sh/users/5818665)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/3031177) | [#1](https://osu.ppy.sh/community/matches/104746875) |
 
 ### Round of 32
 
