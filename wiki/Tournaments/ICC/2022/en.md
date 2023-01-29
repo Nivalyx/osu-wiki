@@ -297,12 +297,12 @@ Saturday. 19 November 2022:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/105151605) |
 
-Sunday, 4 December 2022:
+Sunday, 20 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Yukixo](https://osu.ppy.sh/users/17847877) ::{ flag=PH }:: | 3 | **7** | ::{ flag=MY }:: **[LouisZPro](https://osu.ppy.sh/users/6231292)** | [#1](https://osu.ppy.sh/community/matches/105451523) |
-| Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **7** | 2 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/105449220) |
+| Upper | [Henrick](https://osu.ppy.sh/users/8840982) ::{ flag=CA }:: (::{ flag=PH }::) | 1 | **7** | ::{ flag=ID }:: **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/105172280) |
+| Lower | **[chickennando](https://osu.ppy.sh/users/5818665)** ::{ flag=AU }:: | **7** | 0 | ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) | [#1](https://osu.ppy.sh/community/matches/105175822) |
 
 ### Semifinals
 
