@@ -291,12 +291,11 @@ Sunday, 27 November 2022, Grand Final:
 
 ### Finals (week 1)
 
-Saturday. 3 December 2022:
+Saturday. 19 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [-TwiHD](https://osu.ppy.sh/users/5470299) ::{ flag=ID }:: | 6 | **7** | ::{ flag=PH }:: **[Yukixo](https://osu.ppy.sh/users/17847877)** | [#1](https://osu.ppy.sh/community/matches/105419682) |
-| Lower | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **7** | 0 | ::{ flag=SG }:: [Moroha29](https://osu.ppy.sh/users/9182389) | *win by default* |
+| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/105151605) |
 
 Sunday, 4 December 2022:
 
