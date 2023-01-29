@@ -502,7 +502,7 @@ Sunday, 23 October 2022:
    - Banning does not apply in the Qualifier lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited. 
    - Warm-ups do not apply in the Qualifier lobbies.
-4. **There will be no dedicated FreeMod picks in the tournament.** However, when playing a map from the HardRock or Double Time pool, Hidden can be used optionally by any player.
+4. **There will be no dedicated FreeMod picks in the tournament.** However, when playing a map from the HardRock or Double Time pool, Hidden can be used optionally on top of the corresponding mods by any player.
 5. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with Easy, HardRock, Hidden, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
