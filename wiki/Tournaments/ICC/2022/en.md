@@ -501,6 +501,7 @@ Sunday, 23 October 2022:
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking to warm up before the match are expected to do so by their own before the match commences.
-4. **There will be no dedicated FreeMod picks in the tournament.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
+4. **There will be no dedicated FreeMod picks in the tournament.** However, FreeMod will be allowed on DT and HR picks
+5. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
-5. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
