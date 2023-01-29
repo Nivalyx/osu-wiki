@@ -307,11 +307,11 @@ Sunday, 4 December 2022:
 
 ### Semifinals
 
-Friday. 25 November 2022:
+Friday. 11 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=MY }:: [LouisZPro](https://osu.ppy.sh/users/6231292) | [#1](https://osu.ppy.sh/community/matches/105267805) |
+| Upper | **[Chiya--](https://osu.ppy.sh/users/7934854)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/6231292) | [#1](https://osu.ppy.sh/community/matches/104987406) |
 
 Saturday. 26 November 2022:
 
