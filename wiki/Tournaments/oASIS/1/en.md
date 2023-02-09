@@ -108,12 +108,15 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 - Hidden
   1. [Alvaro Soler - El Mismo Sol (Mosebye) \[Expert\]](https://osu.ppy.sh/beatmapsets/1696649#fruits/3466532) 
   2. [cYsmix - Classic Pursuit (-kevincela-) \[Expert\]](https://osu.ppy.sh/beatmapsets/488238#fruits/1040942)
-  3. [Ito Kanako - Tsuisou no Despair (Phynta) \[Insane\]](https://osu.ppy.sh/beatmapsets/1691178#fruits/3644675)
 - HardRock
   1. [HO-KAGO TEA TIME - Fuwa Fuwa Time (VNtXDDD) \[Dream Night!!\]](https://osu.ppy.sh/beatmapsets/1337320#fruits/2770271)
   2. [m108 - Shinku no Senkou (Leader) \[Extra\]](https://osu.ppy.sh/beatmapsets/1551011#fruits/3169485)
   3. [Lil Nas X - THATS WHAT I WANT (KaedaharaKazuha) \[DESIRE\]](https://osu.ppy.sh/beatmapsets/1632817#fruits/3332931)
 - DoubleTime
+  1. [Another Infinity feat. Mayumi Morinaga - kotone (Leader) \[Insane\]](https://osu.ppy.sh/beatmapsets/838991#fruits/1756434)
+  2. [dj TAKA - V -conclusion- (toybot) \[Another\]](https://osu.ppy.sh/beatmapsets/1829276#fruits/3754397)
+  3. [Rihanna ft. Jay-Z - Umbrella (Agent Spin Here) \[Insane\]](https://osu.ppy.sh/beatmapsets/9873#fruits/38971)
+- FreeMod
   1. [Another Infinity feat. Mayumi Morinaga - kotone (Leader) \[Insane\]](https://osu.ppy.sh/beatmapsets/838991#fruits/1756434)
   2. [dj TAKA - V -conclusion- (toybot) \[Another\]](https://osu.ppy.sh/beatmapsets/1829276#fruits/3754397)
   3. [Rihanna ft. Jay-Z - Umbrella (Agent Spin Here) \[Insane\]](https://osu.ppy.sh/beatmapsets/9873#fruits/38971)
