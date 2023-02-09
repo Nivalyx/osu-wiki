@@ -8,21 +8,19 @@ tags:
 
 ![osu! Amateur Solo Indonesia Showdown logo](img/logo.jpg)
 
-The **osu! Amateur Solo Indonesia Showdown** (***oASIS***) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548). The tournament was open to all players from Indonesia with a global rank of #10,000 or lower in the osu! game mode to their name. It was the first instalment of the osu! Amateur Solo Indonesia Showdown tournament series.
+The **osu! Amateur Solo Indonesia Showdown** (***oASIS***) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548). The tournament was open to all players from Indonesia with a global rank of #10,000 or lower. It was the first instalment of the osu! Amateur Solo Indonesia Showdown tournament series.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2022-09-22/2022-10-02 |
-| Screening phase | 2022-10-03/2022-10-09 |
-| Qualifiers | 2022-10-10/2022-10-16 |
-| Round of 32 | 2022-10-17/2022-10-23 |
-| Round of 16 | 2022-10-24/2022-10-30 |
-| Quarterfinals | 2022-10-31/2022-11-06 |
-| Semifinals | 2022-11-07/2022-11-13 |
-| Finals (week 1) | 2022-11-14/2022-11-20 |
-| Finals (week 2) | 2022-11-21/2022-11-27 |
+| Registration phase | 2023-01-30/2023-02-05 |
+| Qualifiers | 2023-02-06/2023-02-12 |
+| Round of 16 | 2023-02-13/2023-02-19 |
+| Quarterfinals | 2023-02-20/2023-02-26 |
+| Semifinals | 2023-02-27/2023-03-05 |
+| Finals (week 1) | 2023-03-06/2023-03-12 |
+| Finals (week 2) | 2023-03-13/2023-13-19 |
 
 ## Prizes
 
