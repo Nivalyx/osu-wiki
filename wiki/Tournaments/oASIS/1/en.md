@@ -126,16 +126,19 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 - NoMod
   1. [yanaginagi - Zoetrope (Asphyxia) \[Erisu's Extra\]](https://osu.ppy.sh/beatmapsets/181681#osu/3711197)
-  2. [DWMw - Shirayama Hime no Kami (Luscent) \[DeviousPanda's Extravaganza\]](https://osu.ppy.sh/beatmapsets/1367344#fruits/2983174) 
+  2. [m108 - Sunflower (Leader) \[Expert\]](https://osu.ppy.sh/beatmapsets/1403962#osu/2895675)
+  3. [Takanashi Kiara - SPARKS (PotatoDew) \[don't stop!\]](https://osu.ppy.sh/beatmapsets/1693861#osu/3461183)
+  4. [Zekk - Feelsleft0ut (Ascended) \[Cubby's Extra\]](https://osu.ppy.sh/beatmapsets/1811658#osu/3716153)
 - Hidden
-  1. [King Gizzard & The Lizard Wizard - Wah Wah (Kowari) \[Bizarre\]](https://osu.ppy.sh/beatmapsets/1769472#fruits/3622214)
-  2. [Ryokuoushoku Shakai - LADYBUG (RLC) \[Rebirth\]](https://osu.ppy.sh/beatmapsets/1441587#fruits/2965623)
+  1. [BUTAOTOME - Sharekoube (moph) \[Expert\]](https://osu.ppy.sh/beatmapsets/1597784#osu/3894799)
+  2. [ICE - Majestic Phoenix (Zetera) \[Deramok's Lit Insane\]](https://osu.ppy.sh/beatmapsets/845094#osu/1772022)
 - HardRock
-  1. [mary x jon-YAKITORY - Koko de Ikiteru (Amateurre) \[Yogurre's Insane\]](https://osu.ppy.sh/beatmapsets/1541131#fruits/3152525)
-  2. [Amuro vs Killer - Mei (Acylica) \[Muya's Another\]](https://osu.ppy.sh/beatmapsets/1148799#fruits/2411485d)
+  1. [BUTAOTOME - Kurukuru Tsukai (Entry) \[Elcheer's Another\]](https://osu.ppy.sh/beatmapsets/1032027#osu/2164424)
+  2. [Mitsukiyo - Luminous Memory (CoLouRed GlaZeE) \[Kuse's Insane\]](https://osu.ppy.sh/beatmapsets/1796025#osu/3681704)
 - DoubleTime
-  1. [Hikasa Yoko - Listen!! (CDFA) \[Collab\]](https://osu.ppy.sh/beatmapsets/24610#fruits/83603)
-  2. [Starving Trancer feat. Maki - Agony (Nagi Hisakawa) \[Insane\]](https://osu.ppy.sh/beatmapsets/1262428#fruits/2623973)
+  1. [Eri Sasaki - Ring of Fortune (CelsiusLK) \[Insane\]](https://osu.ppy.sh/beatmapsets/317236#osu/706798)
+  2. [SHK - SO HOT (Remix by SHK) (AngelHoney) \[Hard\]](https://osu.ppy.sh/beatmapsets/40086#osu/127409)
+  3. [HyuN - Illusion of Inflict (Icekalt) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/968923#osu/2041171)
 
 ## Match results
 
