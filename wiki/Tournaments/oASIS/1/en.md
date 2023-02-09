@@ -101,13 +101,13 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 **[Download the mappack here! (81 MB)](https://drive.google.com/file/d/10oWZmh9838C_DcxjwZMMnDWptnPT7dzJ/view)**
 
 - NoMod
-  1. [Eve - Kaikai Kitan (AirinCat) \[Extra\]](https://osu.ppy.sh/beatmapsets/1273536#fruits/2646355)
-  2. [REAPER - HEATSEEKER (keevy) \[DETERMINATION\]](https://osu.ppy.sh/beatmapsets/1739056#fruits/3554263)
-  3. [aran - L.F.O (Pipuuko) \[Orange's Extra\]](https://osu.ppy.sh/beatmapsets/1377112#fruits/3206318)
-  4. [bbno$ & Rich Brian - edamame (Bakugo-) \[hanging low\]](https://osu.ppy.sh/beatmapsets/1557107#fruits/3180981)
+  1. [angela - Otome no Route wa Hitotsu Janai! (verychill) \[Shady's Extra\]](https://osu.ppy.sh/beatmapsets/1153303#osu/2420209)
+  2. [RYO - Shuffle Heaven (Kurashina Asuka) \[Extra\]](https://osu.ppy.sh/beatmapsets/1349060#osu/2793277)
+  3. [Nanahoshi Kangengakudan - MAKE A LOSER (inst) (Keqing) \[Ayamateurre's Insane\]](https://osu.ppy.sh/beatmapsets/1504828#osu/3169833)
+  4. [Street vs. Sin:cK - Adamantite (Acylica) \[vikala's Another\]](https://osu.ppy.sh/beatmapsets/1265628#osu/2630256)
 - Hidden
-  1. [Alvaro Soler - El Mismo Sol (Mosebye) \[Expert\]](https://osu.ppy.sh/beatmapsets/1696649#fruits/3466532) 
-  2. [cYsmix - Classic Pursuit (-kevincela-) \[Expert\]](https://osu.ppy.sh/beatmapsets/488238#fruits/1040942)
+  1. [F.E.L - Yours (Mir) \[XO\]](https://osu.ppy.sh/beatmapsets/805921#osu/1691606) 
+  2. [Rin'ca - Darling-go-round (Bellicose) \[Promise\]](https://osu.ppy.sh/beatmapsets/1501758#osu/3077032)
 - HardRock
   1. [HO-KAGO TEA TIME - Fuwa Fuwa Time (VNtXDDD) \[Dream Night!!\]](https://osu.ppy.sh/beatmapsets/1337320#fruits/2770271)
   2. [m108 - Shinku no Senkou (Leader) \[Extra\]](https://osu.ppy.sh/beatmapsets/1551011#fruits/3169485)
