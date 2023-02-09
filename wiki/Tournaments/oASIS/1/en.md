@@ -32,20 +32,19 @@ The **osu! Amateur Solo Indonesia Showdown** (***oASIS***) is a double-eliminati
 
 ## Organisation
 
-oASIS was run by various osu! community members from Indonesia and beyond.
+oASIS is run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
-| Co-host | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
-| Mappool selector | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) |
-| Playtester | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036), ::{ flag=NL }:: [Selo](https://osu.ppy.sh/users/3212806), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
-| Streamer | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533), ::{ flag=AU }:: [Kureiji Ollie](https://osu.ppy.sh/users/11435502), ::{ flag=AU }:: [wangwangg](https://osu.ppy.sh/users/6416920) |
-| Commentator | ::{ flag=ID }:: [Juragan\_Piscok1](https://osu.ppy.sh/users/15507280), ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157), ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=TH }:: [RAISE MY SWORD](https://osu.ppy.sh/users/17385454), ::{ flag=AU }:: [Kureiji Ollie](https://osu.ppy.sh/users/11435502), ::{ flag=AU }:: [wangwangg](https://osu.ppy.sh/users/6416920), ::{ flag=AU }:: [Corrosion](https://osu.ppy.sh/users/16899553), ::{ flag=AU }:: [CrimsonPleaseee](https://osu.ppy.sh/users/3743985), ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) |
-| Referee | ::{ flag=ID }:: [Lunatier](https://osu.ppy.sh/users/27913451), ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469), ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [nabirra](https://osu.ppy.sh/users/16053739), ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533), ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) |
-| Graphic designer | ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241) |
-| Spreadsheet manager | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
-| Sponsor | ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=MY }:: [Moeruattack](https://osu.ppy.sh/users/4480237) |
+| Host | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548) |
+| Mappool selector | ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
+| Mappool helper | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
+| Playtester | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
+| Streamer | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
+| Commentator | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
+| Referee | ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=ID }:: [Vincent A](https://osu.ppy.sh/users/11050632), ::{ flag=MY }:: [Kokoro Amamiya](https://osu.ppy.sh/users/9534110), ::{ flag=PH }:: [-Pekora-](https://osu.ppy.sh/users/17959882), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
+| Graphic designer | ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
+| Spreadsheet manager | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
