@@ -26,15 +26,13 @@ The **osu! Amateur Solo Indonesia Showdown** (***oASIS***) is a double-eliminati
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 30 USD, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20 USD |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10 USD |
-
-![](img/badge.png "Indonesia Convert Cup Open 2022 winner badge")
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter, customised profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Customised profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Customised profile banner |
 
 ## Organisation
 
-ICCO 2022 was run by various osu! community members from Indonesia and beyond.
+oASIS was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
