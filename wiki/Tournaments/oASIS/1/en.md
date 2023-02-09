@@ -122,7 +122,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ### Qualifiers
 
-**[Download the mappack here! (56 MB)](https://drive.google.com/file/d/17fE2rOp0bIq6WlhxOqVlz6thykSXHoEx/view)**
+**[Download the mappack here! (67 MB)](https://drive.google.com/file/d/1zC0x2zbBZmUsKPypUvm7FE69u-708ton/view)**
 
 - NoMod
   1. [yanaginagi - Zoetrope (Asphyxia) \[Erisu's Extra\]](https://osu.ppy.sh/beatmapsets/181681#osu/3711197)
