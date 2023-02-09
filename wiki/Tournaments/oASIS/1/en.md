@@ -165,7 +165,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/5fDFGVCuUE6g5etc8).
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
-    - Although the tournament is not undergoing an official screening process, the tournament management
+    - Although the tournament is not undergoing an official screening process, the tournament management reserves the right to not include any player into the tournament.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
