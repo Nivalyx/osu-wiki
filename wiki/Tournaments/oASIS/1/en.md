@@ -49,11 +49,11 @@ oASIS is run by various osu! community members from Indonesia and beyond.
 
 ## Links
 
-- **[Main spreadsheet](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRLbMRr5JVXAYJx5l7DY-Vecwo7ESaLgmFieo8rQwbAqlmC_o9SRo072JadnxcSzAbG0eWncroKBq91/pubhtml#)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1649090)
-- [Discord server](https://discord.gg/7g6TAj2)
-- [Challonge brackets](https://challonge.com/ICCO_2022)
-- [Livestream channel](https://www.twitch.tv/osucatchid)
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1lPWXj5JwDwwP-KgHheXKP4jbGITcJgkU984yS6xMuxk/edit?usp=sharing)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1714567)
+- [Discord server](https://discord.gg/XkxJm53naR)
+- Challonge brackets *(TBD)*
+- [Livestream channel](https://www.twitch.tv/osuIndonesia)
 
 ## Participants
 
