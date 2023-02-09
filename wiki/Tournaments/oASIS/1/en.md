@@ -109,19 +109,18 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   1. [F.E.L - Yours (Mir) \[XO\]](https://osu.ppy.sh/beatmapsets/805921#osu/1691606) 
   2. [Rin'ca - Darling-go-round (Bellicose) \[Promise\]](https://osu.ppy.sh/beatmapsets/1501758#osu/3077032)
 - HardRock
-  1. [HO-KAGO TEA TIME - Fuwa Fuwa Time (VNtXDDD) \[Dream Night!!\]](https://osu.ppy.sh/beatmapsets/1337320#fruits/2770271)
-  2. [m108 - Shinku no Senkou (Leader) \[Extra\]](https://osu.ppy.sh/beatmapsets/1551011#fruits/3169485)
-  3. [Lil Nas X - THATS WHAT I WANT (KaedaharaKazuha) \[DESIRE\]](https://osu.ppy.sh/beatmapsets/1632817#fruits/3332931)
+  1. [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#osu/290733)
+  2. [iru1919 - Tenko (Seto Kousuke) \[Insane\]](https://osu.ppy.sh/beatmapsets/840826#osu/1759876)
 - DoubleTime
-  1. [Another Infinity feat. Mayumi Morinaga - kotone (Leader) \[Insane\]](https://osu.ppy.sh/beatmapsets/838991#fruits/1756434)
-  2. [dj TAKA - V -conclusion- (toybot) \[Another\]](https://osu.ppy.sh/beatmapsets/1829276#fruits/3754397)
-  3. [Rihanna ft. Jay-Z - Umbrella (Agent Spin Here) \[Insane\]](https://osu.ppy.sh/beatmapsets/9873#fruits/38971)
+  1. [BiBi - Cutie Panther (happy623) \[Fycho's Hard\]](https://osu.ppy.sh/beatmapsets/152112#osu/384521)
+  2. [Suzaku - VANESSA (La Cataline) \[Another\]](https://osu.ppy.sh/beatmapsets/27862#osu/97663)
+  3. [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night (Assertive Hardcore Bootleg) (Minorsonek) \[Mathew's Hard\]](https://osu.ppy.sh/beatmapsets/734135#osu/1567978)
 - FreeMod
-  1. [Another Infinity feat. Mayumi Morinaga - kotone (Leader) \[Insane\]](https://osu.ppy.sh/beatmapsets/838991#fruits/1756434)
-  2. [dj TAKA - V -conclusion- (toybot) \[Another\]](https://osu.ppy.sh/beatmapsets/1829276#fruits/3754397)
-  3. [Rihanna ft. Jay-Z - Umbrella (Agent Spin Here) \[Insane\]](https://osu.ppy.sh/beatmapsets/9873#fruits/38971)
+  1. [Nekrogoblikon - The Skin Thief (LMT) \[Insane\]](https://osu.ppy.sh/beatmapsets/1061535#osu/2223742)
+  2. [Aishuu Mania - the lost dedicated (Matrix) \[rolniczy's insane\]](https://osu.ppy.sh/beatmapsets/1596341#osu/3262088)
+  3. [xi - Beatrice (Gordon) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1664961#osu/3477124)
 - Tiebreaker
-  1. **[lapix - Live Nor Die feat. Kanae Asaba (Nhato Remix) (Shiguri) \[Breaking Free\]](https://osu.ppy.sh/beatmapsets/898690#fruits/1877363)**
+  1. **[wakaG - Yozora ni Saita Hana (Reillia) \[Sakura\]](https://osu.ppy.sh/beatmapsets/810188#osu/1699930)**
 
 ### Qualifiers
 
