@@ -184,14 +184,14 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 #### Knock-out stage rules
 
-1. The 32 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
+1. The 16 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
 2. Players will compete against each other using the double-elimination system.
 3. The double-elimination system works as follows:
    - Players who lose in the upper bracket can still play again on the lower bracket.
    - Players who lose in the lower bracket will be eliminated from the tournament.
    - In the Grand Final, the winner of the the upper bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* against their opponent in order to claim the championship title.
 4. Players who can compete in the next round are determined by:
-   - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
+   - In the the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
    - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
    - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
    - Whether there are players who are declared to win the match by default.
