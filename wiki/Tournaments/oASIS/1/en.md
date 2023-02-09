@@ -165,7 +165,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/5fDFGVCuUE6g5etc8).
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
-    - Although the tournament is not undergoing an official screening process, the tournament management reserves the right to not include any players they deemed dubious into the tournament.
+    - Although the tournament is not undergoing an official screening process, the tournament management reserves the right to not include any players they deem dubious into the tournament.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
@@ -178,7 +178,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifiers, players will be ranked based on their average rank combined across each Qualifier beatmap.
-6. 32 players with the **highest average rank overall** will advance to the knock-out stages.
+6. 16 players with the **highest average rank overall** will advance to the knock-out stages.
    - If there are two (or more) players who share the same average rank, the player holding the higher total score combined from all eight Qualifier beatmaps will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
