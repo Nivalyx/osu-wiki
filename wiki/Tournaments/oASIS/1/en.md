@@ -142,167 +142,6 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [SHK - SO HOT (Remix by SHK) (AngelHoney) \[Hard\]](https://osu.ppy.sh/beatmapsets/40086#osu/127409)
   3. [HyuN - Illusion of Inflict (Icekalt) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/968923#osu/2041171)
 
-## Match results
-
-### Finals (week 2)
-
-Saturday. 26 November 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Henrick](https://osu.ppy.sh/users/8840982)** ::{ flag=CA }:: (::{ flag=PH }::) | **7** | 1 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/105294799) |
-
-Sunday, 27 November 2022, Grand Final:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | [Netamaru](https://osu.ppy.sh/users/1830361) ::{ flag=ID }:: | 5 | **7** | ::{ flag=CA }:: (::{ flag=PH }::) **[Henrick](https://osu.ppy.sh/users/8840982)** | [#1](https://osu.ppy.sh/community/matches/105310232) |
-| Grand Final (bracket reset) | [Henrick](https://osu.ppy.sh/users/8840982) ::{ flag=CA }:: (::{ flag=PH }::) | 3 | **7** | ::{ flag=ID }:: **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/105311285) |
-
-### Finals (week 1)
-
-Saturday. 19 November 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/105151605) |
-
-Sunday, 20 November 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Henrick](https://osu.ppy.sh/users/8840982) ::{ flag=CA }:: (::{ flag=PH }::) | 1 | **7** | ::{ flag=ID }:: **[Netamaru](https://osu.ppy.sh/users/1830361)** | [#1](https://osu.ppy.sh/community/matches/105172280) |
-| Lower | **[chickennando](https://osu.ppy.sh/users/5818665)** ::{ flag=AU }:: | **7** | 0 | ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) | [#1](https://osu.ppy.sh/community/matches/105175822) |
-
-Monday, 21 November 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [chickennando](https://osu.ppy.sh/users/5818665) ::{ flag=AU }:: | 5 | **7** | ::{ flag=ID }:: **[Chroneko](https://osu.ppy.sh/users/5472877)** | [#1](https://osu.ppy.sh/community/matches/105177488) |
-
-### Semifinals
-
-Friday, 11 November 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Chiya--](https://osu.ppy.sh/users/7934854)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/6231292) | [#1](https://osu.ppy.sh/community/matches/104987406) |
-| Lower | [-Rustyy](https://osu.ppy.sh/users/16355636) ::{ flag=PH }:: | 2 | **6** | ::{ flag=ID }:: **[Shurelia](https://osu.ppy.sh/users/3807986)** | [#1](https://osu.ppy.sh/community/matches/104988289) |
-
-Saturday, 12 November 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=AU }:: [chickennando](https://osu.ppy.sh/users/5818665) | [#1](https://osu.ppy.sh/community/matches/105010824) |
-| Lower | **[EpanPan](https://osu.ppy.sh/users/13194580)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=TH }:: [RAISE MY SWORD](https://osu.ppy.sh/users/17385454) | [#1](https://osu.ppy.sh/community/matches/105010684) |
-| Lower | **[Chiya--](https://osu.ppy.sh/users/7934854)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | [#1](https://osu.ppy.sh/community/matches/105012786) |
-| Lower | [Golterboose](https://osu.ppy.sh/users/12443104) ::{ flag=AU }:: | 0 | **6** | ::{ flag=ID }:: **[Sololiquy](https://osu.ppy.sh/users/4350087)** | *win by default* |
-
-Sunday, 13 November 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[EpanPan](https://osu.ppy.sh/users/13194580)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087) | [#1](https://osu.ppy.sh/community/matches/105037142) |
-| Upper | [Chroneko](https://osu.ppy.sh/users/5472877) ::{ flag=ID }:: | 1 | **6** | ::{ flag=CA }:: (::{ flag=PH }::) **[Henrick](hhttps://osu.ppy.sh/users/8840982)** | [#1](https://osu.ppy.sh/community/matches/105034444) |
-
-### Quarterfinals
-
-Friday, 4 November 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[RAISE MY SWORD](https://osu.ppy.sh/users/17385454)** ::{ flag=TH }:: | **6** | 5 | ::{ flag=TH }:: [Kukkai](https://osu.ppy.sh/users/7811952) | [#1](https://osu.ppy.sh/community/matches/104848826) |
-| Lower | [Dedot](https://osu.ppy.sh/users/8805157) ::{ flag=ID }:: | 5 | **6** | ::{ flag=MY }:: **[Asteristia](https://osu.ppy.sh/users/9434933)** | [#1](https://osu.ppy.sh/community/matches/104851554) |
-| Lower | **[Mamat](https://osu.ppy.sh/users/3031177)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | *win by default* |
-| Lower | [Kinora](https://osu.ppy.sh/users/20571283) ::{ flag=ID }:: | 0 | **6** | ::{ flag=MY }:: **[\[MY\]error\_exe](https://osu.ppy.sh/users/6056288)** | *win by default* |
-
-Saturday, 5 November 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [pandaBear](https://osu.ppy.sh/users/107553) ::{ flag=AU }:: | 3 | **6** | ::{ flag=ID }:: **[Mixuri](https://osu.ppy.sh/users/9153772)** | [#1](https://osu.ppy.sh/community/matches/104869313) |
-| Lower | [Zvenx](https://osu.ppy.sh/users/14613788) ::{ flag=ID }:: | 1 | **6** | ::{ flag=ID }:: **[Sololiquy](https://osu.ppy.sh/users/4350087)** | [#1](https://osu.ppy.sh/community/matches/104873875) |
-| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=AU }:: [Golterboose](https://osu.ppy.sh/users/4327130) | [#1](https://osu.ppy.sh/community/matches/104897865) |
-| Lower | [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) ::{ flag=MY }:: | 3 | **6** | ::{ flag=ID }:: **[Mamat](https://osu.ppy.sh/users/3031177)** | [#1](https://osu.ppy.sh/community/matches/104874441) |
-
-Sunday, 20 November 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Shurelia](https://osu.ppy.sh/users/3807986)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=AU }:: [Geniance](https://osu.ppy.sh/users/4229240) | [#1](https://osu.ppy.sh/community/matches/104871756) |
-| Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | [#1](https://osu.ppy.sh/community/matches/104898873) |
-| Upper | **[Henrick](https://osu.ppy.sh/users/8840982)** ::{ flag=CA }:: (::{ flag=PH }::) | **6** | 0 | ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) | [#1](https://osu.ppy.sh/community/matches/104902058) |
-| Lower | [TheTixTop](https://osu.ppy.sh/users/19236870) ::{ flag=AU }:: | 1 | **6** | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)** | [#1](https://osu.ppy.sh/community/matches/104893860) |
-| Lower | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772) | [#1](https://osu.ppy.sh/community/matches/104895860) |
-| Upper | **[chickennando](https://osu.ppy.sh/users/5818665)** ::{ flag=AU }:: | **6** | 2 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/104896466) |
-| Lower | **[Shurelia](https://osu.ppy.sh/users/3807986)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | [#1](https://osu.ppy.sh/community/matches/104895208) |
-| Lower | **[RAISE MY SWORD](https://osu.ppy.sh/users/3031177)** ::{ flag=TH }:: | **6** | 0 | ::{ flag=MY }:: [Asteristia](https://osu.ppy.sh/users/9434933) | *win by default* |
-
-### Round of 16
-
-Friday, 28 October 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Cera-](https://osu.ppy.sh/users/1974131) ::{ flag=ID }:: | 0 | **5** | ::{ flag=MY }:: **[\[MY\]error\_exe](https://osu.ppy.sh/users/6056288)** | [#1](https://osu.ppy.sh/community/matches/104700021) |
-| Lower | [-HyperDream](https://osu.ppy.sh/users/12410693) ::{ flag=PH }:: | 0 | **5** | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)** | [#1](https://osu.ppy.sh/community/matches/104693315) |
-| Upper | **[EpanPan](https://osu.ppy.sh/users/13194580)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Kinora](https://osu.ppy.sh/users/20571283) | *win by default* |
-| Lower | **[Galaxi](https://osu.ppy.sh/users/2552435)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410) | *win by default* |
-
-Saturday, 29 October 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | [#1](https://osu.ppy.sh/community/matches/104721252) |
-| Lower | [Mochi -](https://osu.ppy.sh/users/20424806) ::{ flag=ID }:: | 0 | **5** | ::{ flag=MY }:: **[Asteristia](https://osu.ppy.sh/users/9434933)** | [#1](https://osu.ppy.sh/community/matches/104721000) |
-| Upper | **[Henrick](https://osu.ppy.sh/users/8840982)** ::{ flag=CA }:: (::{ flag=PH }::) | **5** | 0 | ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157) | [#1](https://osu.ppy.sh/community/matches/104727567) |
-| Lower | [Chloebe](https://osu.ppy.sh/users/4577865) ::{ flag=PH }:: | 2 | **5** | ::{ flag=TH }:: **[Kukkai](https://osu.ppy.sh/users/7811952)** | [#1](https://osu.ppy.sh/community/matches/104722619) |
-| Upper | **[Golterboose](https://osu.ppy.sh/users/4327130)** ::{ flag=AU }:: | **5** | 3 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | [#1](https://osu.ppy.sh/community/matches/104723770) |
-| Lower | **[Mixuri](https://osu.ppy.sh/users/9153772)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | *win by default* |
-| Lower | **[Sololiquy](https://osu.ppy.sh/users/4350087)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=PH }:: [-Isla-](https://osu.ppy.sh/users/17745759) | *win by default* |
-
-Sunday, 30 October 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Chiya--](https://osu.ppy.sh/users/7934854)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=TH }:: [RAISE MY SWORD](https://osu.ppy.sh/users/17385454) | [#1](https://osu.ppy.sh/community/matches/104749476) |
-| Lower | [Fisicia](https://osu.ppy.sh/users/6556054) ::{ flag=ID }:: | 2 | **5** | ::{ flag=AU }:: **[Geniance](https://osu.ppy.sh/users/4229240)** | [#1](https://osu.ppy.sh/community/matches/104745815) |
-| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | [#1](https://osu.ppy.sh/community/matches/104745580) |
-| Upper | [Zvenx](https://osu.ppy.sh/users/14613788) ::{ flag=ID }:: | 1 | **5** | ::{ flag=PH }:: **[-Rustyy](https://osu.ppy.sh/users/16355636)** | [#1](https://osu.ppy.sh/community/matches/104750724) |
-| Upper | **[chickennando](https://osu.ppy.sh/users/5818665)** ::{ flag=AU }:: | **5** | 0 | ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/3031177) | [#1](https://osu.ppy.sh/community/matches/104746875) |
-
-### Round of 32
-
-Friday, 21 October 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[EpanPan](https://osu.ppy.sh/users/13194580)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772) | [#1](https://osu.ppy.sh/community/matches/104555143) |
-| Upper | [KWYJIBO](https://osu.ppy.sh/users/7178386) ::{ flag=AU }:: | 3 | **5** | ::{ flag=TH }:: **[RAISE MY SWORD](https://osu.ppy.sh/users/17385454)** | [#1](https://osu.ppy.sh/community/matches/104552114) |
-| Upper | **[-Rustyy](https://osu.ppy.sh/users/16355636)** ::{ flag=PH }:: | **5** | 1 | ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410) | [#1](https://osu.ppy.sh/community/matches/104553434) |
-| Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Cera-](https://osu.ppy.sh/users/1974131) | [#1](https://osu.ppy.sh/community/matches/104556216) |
-
-Saturday, 22 October 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Galaxi](https://osu.ppy.sh/users/2552435) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[Zvenx](https://osu.ppy.sh/users/14613788)** | [#1](https://osu.ppy.sh/community/matches/104580816) |
-| Upper | **[Shurelia](https://osu.ppy.sh/users/3807986)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=MY }:: [Asteristia](https://osu.ppy.sh/users/9434933) | [#1](https://osu.ppy.sh/community/matches/104574555) |
-| Upper | **[Chiya--](https://osu.ppy.sh/users/7934854)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=PH }:: [HyperDream](https://osu.ppy.sh/users/12410693) | [#1](https://osu.ppy.sh/community/matches/104575328) |
-| Upper | **[Golterboose](https://osu.ppy.sh/users/4327130)** ::{ flag=AU }:: | **5** | 0 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | [#1](https://osu.ppy.sh/community/matches/104575849) |
-| Upper | [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) ::{ flag=MY }:: | 2 | **5** | ::{ flag=AU }:: **[pandaBear](https://osu.ppy.sh/users/107553)** | [#1](https://osu.ppy.sh/community/matches/104576028) |
-| Upper | **[Henrick](https://osu.ppy.sh/users/8840982)** ::{ flag=CA }:: (::{ flag=PH }::) | **5** | 1 | ::{ flag=ID }:: [Fisicia](https://osu.ppy.sh/users/6556054) | [#1](https://osu.ppy.sh/community/matches/104581140) |
-| Upper | **[TheTixTop](https://osu.ppy.sh/users/19236870)** ::{ flag=AU }:: | **5** | 0 | ::{ flag=TH }:: [Kukkai](https://osu.ppy.sh/users/7811952) | *win by default* |
-
-Sunday, 23 October 2022:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Sololiquy](https://osu.ppy.sh/users/4350087) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[Mamat](https://osu.ppy.sh/users/3031177)** | [#1](https://osu.ppy.sh/community/matches/104605679) |
-| Upper | **[chickennando](https://osu.ppy.sh/users/5818665)** ::{ flag=AU }:: | **5** | 0 | ::{ flag=PH }:: [-Isla-](https://osu.ppy.sh/users/17745759) | [#1](https://osu.ppy.sh/community/matches/104603795) |
-| Upper | **[Netamaru](https://osu.ppy.sh/users/1830361)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865) | [#1](https://osu.ppy.sh/community/matches/104601630) |
-| Upper | **[Dedot](https://osu.ppy.sh/users/8805157)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=AU }:: [Geniance](https://osu.ppy.sh/users/4229240) | [#1](https://osu.ppy.sh/community/matches/104601420) |
-
 ## Ruleset
 
 ### General rules
@@ -324,11 +163,9 @@ Sunday, 23 October 2022:
 
 ### Tournament registration
 
-1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/G3dJovwbmR5kwQhk6).
-   - In order to be eligible to play in the tournament, a player must either:
-     - Have the flag of any of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) or the flag of either ::{ flag=TL }:: Timor-Leste, ::{ flag=NZ }:: New Zealand, and ::{ flag=AU }:: Australia bound to their osu! account, ***or***
-     - Be in possession of a valid identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
+1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/5fDFGVCuUE6g5etc8).
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
+    - Although the tournament is not undergoing an official screening process, the tournament management
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
@@ -337,7 +174,7 @@ Sunday, 23 October 2022:
 #### Qualifier rules
 
 1. Each player will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
-2. In the lobby, all players will have to consecutively play all of the eight Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+2. In the lobby, all players will have to consecutively play all of the eleven Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifiers, players will be ranked based on their average rank combined across each Qualifier beatmap.
