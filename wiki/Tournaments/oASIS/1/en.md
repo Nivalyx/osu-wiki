@@ -70,13 +70,13 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 | 7 | ::{ flag=ID }:: [AlanEt](https://osu.ppy.sh/users/15037088) | 8.825 |
 | 8 | ::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227) | 8.788 |
 | 9 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | 8.630 |
-| 10 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | 12.25 |
-| 11 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | 12.88 |
-| 12 | ::{ flag=ID }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | 13.38 |
-| 13 | ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157) | 14.50 |
-| 14 | ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087) | 14.63 |
-| 15 | ::{ flag=ID }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | 16.75 |
-| 16 | ::{ flag=ID }:: [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) | 17.50 |
+| 10 | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | 8.533 |
+| 11 | ::{ flag=ID }:: [cerena](https://osu.ppy.sh/users/5411734) | 8.345 |
+| 12 | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) | 7.996 |
+| 13 | ::{ flag=ID }:: [Honoka-Chan](https://osu.ppy.sh/users/11912828) | 7.768 |
+| 14 | ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | 7.710 |
+| 15 | ::{ flag=ID }:: [HyuugaDesuka](https://osu.ppy.sh/users/22684871) | 7.705 |
+| 16 | ::{ flag=ID }:: [-Lunix](https://osu.ppy.sh/users/12964890) | 7.550 |
 
 ## Mappools  
 
