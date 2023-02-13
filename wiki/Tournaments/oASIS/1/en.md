@@ -57,48 +57,32 @@ oASIS is run by various osu! community members from Indonesia and beyond.
 
 ## Participants
 
-Listed below are the players who managed to qualify into the Round of 32 (along with their seed number and average map rank combined across each Qualifier beatmap) out of 39 registered players in total.
+Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and Qualifiers Z-Sum value) out of 69 registered teams in total.
 
-| Seed no. | Player | Avg. map rank |
+| Seed no. | Player | Z-Sum |
 | :-: | :-- | :-- |
-| 1 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | 2.88 |
-| 2 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | 3.75 |
-| 3 | ::{ flag=AU }:: [chickennando](https://osu.ppy.sh/users/5818665) | 4.88 |
-| 4 | ::{ flag=CA }:: (::{ flag=PH }::) [Henrick](https://osu.ppy.sh/users/8840982) | 6.13 |
-| 5 | ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) | 6.75 |
-| 6 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | 8.88 |
-| 7 | ::{ flag=AU }:: [Golterboose](https://osu.ppy.sh/users/4327130) | 9.25 |
+| 1 | ::{ flag=ID }:: [im a cute bunny](https://osu.ppy.sh/users/12578000) | 10.566 |
+| 2 | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) | 10.337 |
+| 3 | ::{ flag=ID }:: [nsfuu](https://osu.ppy.sh/users/10849159) | 10.154 |
+| 4 | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | 9.258 |
+| 5 | ::{ flag=ID }:: [Icun](https://osu.ppy.sh/users/17908427) | 9.114 |
+| 6 | ::{ flag=ID }:: [Zoont](https://osu.ppy.sh/users/7109269) | 8.832 |
+| 7 | ::{ flag=ID }:: [AlanEt](https://osu.ppy.sh/users/15037088) | 8.825 |
 | 8 | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | 10.25 |
-| 9 | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | 11.63 |
+| 9 | ::{ flag=ID }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | 11.63 |
 | 10 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | 12.25 |
 | 11 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | 12.88 |
-| 12 | ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | 13.38 |
+| 12 | ::{ flag=ID }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | 13.38 |
 | 13 | ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157) | 14.50 |
 | 14 | ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087) | 14.63 |
-| 15 | ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | 16.75 |
-| 16 | ::{ flag=MY }:: [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) | 17.50 |
-| 17 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | 17.88 |
-| 18 | ::{ flag=TH }:: [Kukkai](https://osu.ppy.sh/users/7811952) | 17.88 |
-| 19 | ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/3031177) | 17.88 |
-| 20 | ::{ flag=AU }:: [Geniance](https://osu.ppy.sh/users/4229240) | 18.63 |
-| 21 | ::{ flag=TH }:: [RAISE MY SWORD](https://osu.ppy.sh/users/17385454) | 19.75 |
-| 22 | ::{ flag=ID}:: [Mixuri](https://osu.ppy.sh/users/9153772) | 19.88 |
-| 23 | ::{ flag=MY }:: [Asteristia](https://osu.ppy.sh/users/9434933) | 21.00 |
-| 24 | ::{ flag=MY }:: [DTNLRiki](https://osu.ppy.sh/users/12382410) | 22.75 |
-| 25 | ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788) | 23.13 |
-| 26 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | 23.13 |
-| 27 | ::{ flag=ID }:: [Kinora](https://osu.ppy.sh/users/20571283) | 26.25 |
-| 28 | ::{ flag=PH }:: [-HyperDream](https://osu.ppy.sh/users/12410693) | 26.25 |
-| 29 | ::{ flag=ID }:: [Fisicia](https://osu.ppy.sh/users/6556054) | 26.63 |
-| 30 | ::{ flag=PH }:: [-Isla-](https://osu.ppy.sh/users/17745759) | 29.13 |
-| 31 | ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865) | 29.25 |
-| 32 | ::{ flag=ID }:: [Cera-](https://osu.ppy.sh/users/1974131) | 29.75 |
+| 15 | ::{ flag=ID }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | 16.75 |
+| 16 | ::{ flag=ID }:: [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) | 17.50 |
 
 ## Mappools  
 
 ### Round of 16
 
-**[Download the mappack here! (81 MB)](https://drive.google.com/file/d/10oWZmh9838C_DcxjwZMMnDWptnPT7dzJ/view)**
+**[Download the mappack here! (95 MB)](https://mappack.yewonkim.tk/download?filename=oasis2023ro161676211079792.zip)**
 
 - NoMod
   1. [angela - Otome no Route wa Hitotsu Janai! (verychill) \[Shady's Extra\]](https://osu.ppy.sh/beatmapsets/1153303#osu/2420209)
@@ -106,7 +90,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   3. [Nanahoshi Kangengakudan - MAKE A LOSER (inst) (Keqing) \[Ayamateurre's Insane\]](https://osu.ppy.sh/beatmapsets/1504828#osu/3169833)
   4. [Street vs. Sin:cK - Adamantite (Acylica) \[vikala's Another\]](https://osu.ppy.sh/beatmapsets/1265628#osu/2630256)
 - Hidden
-  1. [F.E.L - Yours (Mir) \[XO\]](https://osu.ppy.sh/beatmapsets/805921#osu/1691606) 
+  1. [Sound Souler - Bubble Flower (Sylas) \[\_Epreus' Extra\]](https://osu.ppy.sh/beatmapsets/1152182#osu/2438031) 
   2. [Rin'ca - Darling-go-round (Bellicose) \[Promise\]](https://osu.ppy.sh/beatmapsets/1501758#osu/3077032)
 - HardRock
   1. [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (grumd) \[Insane\]](https://osu.ppy.sh/beatmapsets/111825#osu/290733)
