@@ -68,8 +68,8 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 | 5 | ::{ flag=ID }:: [Icun](https://osu.ppy.sh/users/17908427) | 9.114 |
 | 6 | ::{ flag=ID }:: [Zoont](https://osu.ppy.sh/users/7109269) | 8.832 |
 | 7 | ::{ flag=ID }:: [AlanEt](https://osu.ppy.sh/users/15037088) | 8.825 |
-| 8 | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | 10.25 |
-| 9 | ::{ flag=ID }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | 11.63 |
+| 8 | ::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227) | 8.788 |
+| 9 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | 8.630 |
 | 10 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | 12.25 |
 | 11 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | 12.88 |
 | 12 | ::{ flag=ID }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | 13.38 |
