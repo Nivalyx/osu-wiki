@@ -80,6 +80,37 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 ## Mappools
 
+### Finals (week 1)
+
+**[Download the mappack here! (164 MB)](https://mappack.yewonkim.tk/download?filename=oasis2023sf1677415305247.zip)**
+
+- NoMod
+  1. [Yorushika - Matasaburo (Rosiie) \[Summer Wind\]](https://osu.ppy.sh/beatmapsets/1485959#osu/3047001)
+  2. [Xi - Youyoumu \~ Run or Dash (GYGY) \[Extra\]](https://osu.ppy.sh/beatmapsets/1782703#osu/3650832)
+  3. [Akatsuki Records - HANIPAGANDA (Night Mare) \[ZELQ'S EXTRA STAGE\]](https://osu.ppy.sh/beatmapsets/1083844#osu/2309567)
+  4. [onoken - felys final remix (Elayue) \[Acylica's Extreme\]](https://osu.ppy.sh/beatmapsets/1319560#osu/2771203)
+  5. [Hataya Naofumi - Looting the Louvre (oneplusone) \[Invasion du musee du Louvre\]](https://osu.ppy.sh/beatmapsets/1893902#osu/3902785)
+- Hidden
+  1. [Risa Yuzuki - S'il Vous President (gazimal) \[P, P, President\]](https://osu.ppy.sh/beatmapsets/1736708#osu/3549507)
+  2. [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmapsets/50429#osu/154988)
+  3. [Official HIGE DANdism - Mixed Nuts (Amateurre) \[Liyuuchie's Ascent Extra\]](https://osu.ppy.sh/beatmapsets/1802422#osu/3695972)
+- HardRock
+  1. [t+pazolite - cheatreal (caren\_sk) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/88180#osu/442170)
+  2. [Anamanaguchi - John Hughes (Bonsai) \[Sushi's Insane\]](https://osu.ppy.sh/beatmapsets/655256#osu/1388633)
+  3. [tomatoism - Someone Special (Jiysea) \[L e c a n d y ' s E x p e r t\]](https://osu.ppy.sh/beatmapsets/1282080#osu/2662928)
+- DoubleTime
+  1. [Shimotsuki Haruka - Kaleidoscope (Shurelia) \[Insane\]](https://osu.ppy.sh/beatmapsets/169622#osu/410798)
+  2. [45 - System 0 (Doomsdaddy) \[Witchcraft\]](https://osu.ppy.sh/beatmapsets/1778456#osu/3642351)
+  3. [Yuyoyuppe - AiAe (Fort) \[Insane\]](https://osu.ppy.sh/beatmapsets/257793#osu/663881)
+  4. [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh's Hard\]](https://osu.ppy.sh/beatmapsets/6997#osu/129876)
+- FreeMod
+  1. [FOLiACETATE - Heterochromia Iridis (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/106443#osu/279607)
+  2. [NIWASHI - Sapphire On Fire (DeviousPanda) \[Feiri's Another\]](https://osu.ppy.sh/beatmapsets/1461145#osu/3022593)
+  3. [inabakumori - Tokoshizume (xyperX) \[Kard's Insane\]](https://osu.ppy.sh/beatmapsets/1777533#osu/3657734)
+  4. [Thaehan - Never Give Up (verychill) \[Nowa's Extra\]](https://osu.ppy.sh/beatmapsets/1048705#osu/2699387)
+- Tiebreaker
+  1. **[Krik/Krak - Archetype no Ido no Kaibutsu (Adinda) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1654863#osu/3377955)**
+
 ### Semifinals
 
 **[Download the mappack here! (164 MB)](https://mappack.yewonkim.tk/download?filename=oasis2023sf1677415305247.zip)**
