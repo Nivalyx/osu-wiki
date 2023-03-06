@@ -104,12 +104,12 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   3. [ALiCE'S EMOTiON - Tag (Hardbeat Remix) (Takos) \[Patchouli\]](https://osu.ppy.sh/beatmapsets/28991#osu/96525)
   4. [Kakichoco - Barbed Eye (Starfy) \[Chaoz's Insane\]](https://osu.ppy.sh/beatmapsets/482726#osu/1047447)
 - FreeMod
-  1. [FOLiACETATE - Heterochromia Iridis (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/106443#osu/279607)
-  2. [NIWASHI - Sapphire On Fire (DeviousPanda) \[Feiri's Another\]](https://osu.ppy.sh/beatmapsets/1461145#osu/3022593)
-  3. [inabakumori - Tokoshizume (xyperX) \[Kard's Insane\]](https://osu.ppy.sh/beatmapsets/1777533#osu/3657734)
-  4. [Thaehan - Never Give Up (verychill) \[Nowa's Extra\]](https://osu.ppy.sh/beatmapsets/1048705#osu/2699387)
+  1. [UNDEAD CORPORATION - BLOW (hehe) \[Extra\]](https://osu.ppy.sh/beatmapsets/1019640#osu/3325194)
+  2. [Komiya Mao - Yozakura (melloe) \[Seasons\]](https://osu.ppy.sh/beatmapsets/477903#osu/1020839)
+  3. [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/24177#osu/87223)
+  4. [BUTAOTOME - Gensou no Satellite (ScubDomino) \[add me on genshin 800950001\]](https://osu.ppy.sh/beatmapsets/1109181#osu/2317907)
 - Tiebreaker
-  1. **[Krik/Krak - Archetype no Ido no Kaibutsu (Adinda) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1654863#osu/3377955)**
+  1. **[Shaun Martin - Madiba (over\_loadcode) \[Dynamic\]](https://osu.ppy.sh/beatmapsets/1301789#osu/2700108)**
 
 ### Semifinals
 
