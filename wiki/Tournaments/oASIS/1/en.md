@@ -82,7 +82,7 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 ### Finals (week 1)
 
-**[Download the mappack here! (164 MB)](https://mappack.yewonkim.tk/download?filename=oasis2023sf1677415305247.zip)**
+**[Download the mappack here! (159 MB)](https://mappack.yewonkim.tk/download?filename=oasis2023f1678040967898.zip)**
 
 - NoMod
   1. [Yorushika - Matasaburo (Rosiie) \[Summer Wind\]](https://osu.ppy.sh/beatmapsets/1485959#osu/3047001)
@@ -249,6 +249,7 @@ Monday, 6 March 2023:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[nsfuu](https://osu.ppy.sh/users/10849159)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | [#1](https://osu.ppy.sh/community/matches/107197662) |
+| Upper | **[akebono](https://osu.ppy.sh/users/1815316)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [cerena](https://osu.ppy.sh/users/5411734) | [#1](https://osu.ppy.sh/community/matches/107210408) |
 
 ### Quarterfinals
 
