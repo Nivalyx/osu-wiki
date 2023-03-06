@@ -100,9 +100,9 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   3. [tomatoism - Someone Special (Jiysea) \[L e c a n d y ' s E x p e r t\]](https://osu.ppy.sh/beatmapsets/1282080#osu/2662928)
 - DoubleTime
   1. [Shimotsuki Haruka - Kaleidoscope (Shurelia) \[Insane\]](https://osu.ppy.sh/beatmapsets/169622#osu/410798)
-  2. [45 - System 0 (Doomsdaddy) \[Witchcraft\]](https://osu.ppy.sh/beatmapsets/1778456#osu/3642351)
-  3. [Yuyoyuppe - AiAe (Fort) \[Insane\]](https://osu.ppy.sh/beatmapsets/257793#osu/663881)
-  4. [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh's Hard\]](https://osu.ppy.sh/beatmapsets/6997#osu/129876)
+  2. [DIANA - Beethoven Virus (Orkay) \[Insane\]](https://osu.ppy.sh/beatmapsets/1724615#osu/3524604)
+  3. [ALiCE'S EMOTiON - Tag (Hardbeat Remix) (Takos) \[Patchouli\]](https://osu.ppy.sh/beatmapsets/28991#osu/96525)
+  4. [Kakichoco - Barbed Eye (Starfy) \[Chaoz's Insane\]](https://osu.ppy.sh/beatmapsets/482726#osu/1047447)
 - FreeMod
   1. [FOLiACETATE - Heterochromia Iridis (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/106443#osu/279607)
   2. [NIWASHI - Sapphire On Fire (DeviousPanda) \[Feiri's Another\]](https://osu.ppy.sh/beatmapsets/1461145#osu/3022593)
