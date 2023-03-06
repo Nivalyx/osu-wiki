@@ -221,6 +221,35 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 ## Match results
 
+### Semifinals
+
+Friday, 3 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[nsfuu](https://osu.ppy.sh/users/10849159)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/107153567) |
+
+Saturday, 4 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [-CircleParadox-](https://osu.ppy.sh/users/10423227) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[Zoont](https://osu.ppy.sh/users/7109269)** | [#1](https://osu.ppy.sh/community/matches/107172717) |
+| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Icun](https://osu.ppy.sh/users/17908427) | [#1](https://osu.ppy.sh/community/matches/107171437) |
+| Lower | **[fnayR](https://osu.ppy.sh/users/2800253)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/107175274) |
+| Lower | **[SDKO](https://osu.ppy.sh/users/4858555)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [HyuugaDesuka](https://osu.ppy.sh/users/22684871) | [#1](https://osu.ppy.sh/community/matches/107174242) |
+
+Sunday, 5 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[SDKO](https://osu.ppy.sh/users/4858555)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Zoont](https://osu.ppy.sh/users/7109269) | [#1](https://osu.ppy.sh/community/matches/107197629) |
+
+Monday, 6 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[nsfuu](https://osu.ppy.sh/users/10849159)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | [#1](https://osu.ppy.sh/community/matches/107197662) |
+
 ### Quarterfinals
 
 Friday, 24 February 2023:
