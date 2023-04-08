@@ -1,6 +1,6 @@
 # osu!monthly
 
-**osu!monthly** merupakan buletin berita bulanan yang dikelola oleh [tim osu!monthly](/wiki/People/osu!monthly_team). Buletin ini merangkum berbagai peristiwa, acara, berita, pengumuman, dan berbagai topik hangat lainnya pada setiap bulannya. Walaupun dalam sejarahnya osu!monthly telah beberapa kali berganti redaksi, setiap edisi osu!monthly selalu menjunjung tujuan yang sama: yaitu untuk mengabarkan segala sesuatunya yang terjadi di osu! kepada khalayak umum.
+**osu!monthly** merupakan buletin berita bulanan yang dikelola oleh [tim osu!monthly](/wiki/People/osu!monthly_team). Buletin ini merangkum berbagai peristiwa, acara, berita, pengumuman, dan berbagai topik hangat lainnya pada setiap bulannya. Walaupun dalam sejarahnya osu!monthly telah beberapa kali berganti redaksi, setiap edisi osu!monthly selalu menjunjung tujuan yang sama: yaitu untuk mengabarkan segala sesuatunya yang terjadi di seputar komunitas osu! kepada khalayak umum.
 
 ## Memberikan kontribusi
 
