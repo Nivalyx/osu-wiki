@@ -8,7 +8,7 @@ osu!monthly merupakan proyek komunitas yang terbuka bagi siapa pun yang ingin me
 
 ## Sejarah
 
-Pada awal penerbitannya, osu!monthly dikelola dan diorganisir oleh ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985), ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), dan kawan-kawan dari bulan Maret 2011 hingga bulan Oktober 2011. Selama masa terbitnya, osu!monthly versi ini dirilis dalam bentuk PDF dengan berbagai artikel menarik di dalamnya.
+Pada awal penerbitannya, osu!monthly dikelola dan diorganisir oleh ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985), ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), dan kawan-kawan dari bulan Maret 2011 hingga bulan Oktober 2011. Selama masa terbitnya, osu!monthly versi ini dirilis dalam bentuk PDF dengan berbagai artikel penting di dalamnya.
 
 Terinspirasi oleh osu!monthly yang pernah ada, ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) dan ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) kemudian berinisiatif untuk membentuk tim osu!monthly baru yang aktif dari bulan Oktober 2017 hingga bulan Februari 2018. Pada musim keduanya ini, osu!monthly tetap dirilis dalam bentuk PDF, namun dengan gaya penyajian yang lebih konsisten dan elegan.
 
