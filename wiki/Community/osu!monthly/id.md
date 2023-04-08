@@ -1,6 +1,6 @@
 # osu!monthly
 
-**osu!monthly** merupakan buletin berita bulanan yang dikelola oleh [tim osu!monthly](/wiki/People/osu!monthly_team). Buletin ini membahas berbagai peristiwa, acara, berita, pengumuman, dan berbagai topik hangat lainnya di sekitar komunitas osu! setiap bulannya. Walaupun dalam sejarahnya osu!monthly telah beberapa kali berganti redaksi, setiap edisi osu!monthly selalu menjunjung tujuan yang sama, yaitu untuk mengabarkan segala sesuatunya yang terjadi di osu! kepada para pemain.
+**osu!monthly** merupakan buletin berita bulanan yang dikelola oleh [tim osu!monthly](/wiki/People/osu!monthly_team). Buletin ini membahas berbagai peristiwa, acara, berita, pengumuman, dan berbagai topik hangat lainnya di sekitar komunitas osu! setiap bulannya. Walaupun dalam sejarahnya osu!monthly telah beberapa kali berganti redaksi, setiap edisi osu!monthly selalu menjunjung tujuan yang sama: yaitu untuk mengabarkan segala sesuatunya yang terjadi di osu! kepada para pemain.
 
 ## Memberikan kontribusi
 
@@ -10,7 +10,7 @@ osu!monthly merupakan proyek komunitas yang terbuka bagi siapa pun yang ingin me
 
 Pada awal penerbitannya, osu!monthly dikelola dan diorganisir oleh ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985), ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), dan kawan-kawan dari bulan Maret 2011 hingga bulan Oktober 2011. Selama masa terbitnya, osu!monthly versi ini dirilis dalam format PDF dengan berbagai informasi penting seputar komunitas osu! di dalamnya.
 
-Terinspirasi oleh osu!monthly yang pernah ada, ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) dan ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) kemudian berinisiatif untuk membentuk tim osu!monthly baru yang aktif dari bulan Oktober 2017 hingga bulan Februari 2018. Pada musim keduanya ini, osu!monthly tetap dirilis dalam format PDF namun dengan desain yang lebih indah dan menyegarkan.
+Terinspirasi oleh osu!monthly yang pernah ada, ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) dan ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) kemudian berinisiatif untuk membentuk tim osu!monthly baru yang aktif dari bulan Oktober 2017 hingga bulan Februari 2018. Pada musim keduanya ini, osu!monthly tetap dirilis dalam format PDF namun dengan gaya penyajian yang lebih konsisten dan elegan.
 
 Dengan keinginan untuk menghidupkan kembali proyek ini, [tim osu!monthly](/wiki/People/osu!monthly_team) akhirnya dibentuk kembali oleh ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) yang juga bertindak selaku pemimpin proyek. Berbeda dengan edisi sebelumnya, osu!monthly kali ini dipublikasikan dalam bentuk artikel berita pada laman beranda osu!. Versi osu!monthly ini merupakan versi osu!monthly yang saat ini rutin diterbitkan setiap bulannya.
 
