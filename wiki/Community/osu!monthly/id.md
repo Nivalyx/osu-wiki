@@ -37,7 +37,7 @@ Informasi lebih lanjut mengenai osu!monthly versi pertama dapat dilihat pada [si
 | [osu!monthly #2](https://osumonthly.com/pdf/osu!monthly-2017-11.pdf) | 2017-12-26 |
 | [osu!monthly #3](https://osumonthly.com/pdf/osu!monthly-2018-02.pdf) | 2018-02-17 |
 
-Informasi lebih lanjut mengenai osu!monthly versi kedua dapat dilihat pada [situs web resmi osu!monthly berikut](https://osumonthly.com/), yang juga mengandung informasi seputar tim liputan yang bertugas dan arsip edisi terdahulu di dalamnya.
+Informasi lebih lanjut mengenai osu!monthly versi kedua dapat dilihat pada [situs web resmi osu!monthly berikut](https://osumonthly.com/), yang juga mengandung informasi seputar tim liputan yang bertugas dan arsip edisi terdahulu.
 
 ### Versi ketiga (2022–sekarang)
 
