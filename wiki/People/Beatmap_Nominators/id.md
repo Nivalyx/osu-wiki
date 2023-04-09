@@ -237,5 +237,5 @@ Tabel berikut menerakan mode permainan yang terhubung dengan masing-masing anggo
 ## Sejarah
 
 - Beatmap Nominator pada awalnya dikenal dengan nama *Beatmap Appreciation Team* (BAT).
-- Pada tanggal 22 Agustus 2014, BAT tidak lagi menjadi bagian dari tim staf. Seiring dengan perubahan ini, kemampuan moderasi dan warna pengguna khusus yang mereka miliki di dalam permainan dan forum ikut dicabut.
-- Pada tanggal 1 Januari 2015, nama *Beatmap Appreciation Team* diubah menjadi *Beatmap Nomination Group* yang kemudian menjelma menjadi Beatmap Nominator sebagaimana yang kita kenal saat ini.
+- Pada tanggal 22 Agustus 2014, BAT tidak lagi menjadi bagian dari staf. Seiring dengan perubahan ini, kemampuan moderasi dan warna pengguna khusus yang mereka miliki di dalam permainan dan forum ikut dicabut.
+- Pada tanggal 1 Januari 2015, nama *Beatmap Appreciation Team* diubah menjadi *Beatmap Nomination Group* yang kemudian menjelma menjadi Beatmap Nominator sebagaimana yang kita kenal sekarang ini.
