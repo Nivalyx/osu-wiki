@@ -48,7 +48,7 @@ Tabel berikut menerakan mode permainan yang terhubung dengan masing-masing anggo
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
+| ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Tagalog |
 | ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesia |
 | ::{ flag=BY }:: [-Mikan](https://osu.ppy.sh/users/9063995) | Rusia, Belarusia |
 | ::{ flag=JP }:: [-Rei](https://osu.ppy.sh/users/8200707) | Jepang |
@@ -179,7 +179,7 @@ Tabel berikut menerakan mode permainan yang terhubung dengan masing-masing anggo
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Tionghoa, Kanton |
 | ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korea |
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Korea |
-| ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
+| ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Tagalog |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Tionghoa |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Korea |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Belanda |
