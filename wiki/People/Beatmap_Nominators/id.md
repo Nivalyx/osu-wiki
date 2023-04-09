@@ -32,13 +32,13 @@ Probationary Beatmap Nominator (Probationary BN) merupakan para anggota Beatmap 
 
 Anggota Beatmap Nominator baru akan ditempatkan pada masa percobaan selama satu bulan. Apabila berdasarkan hasil [evaluasi](wiki/People/Nomination_Assessment_Team/Evaluations) rekam jejak mereka dinilai memuaskan, mereka akan dipromosikan menjadi Full BN. Apabila tidak, mereka akan kembali ditempatkan pada masa percobaan tambahan selama satu bulan atau dikeluarkan dari Beatmap Nominator secara langsung.
 
-Pada saat seorang Full BN telah ditempatkan pada masa percobaan, mereka tidak akan lagi dapat diturunkan menjadi Probationary BN dengan alasan yang sama. Sebagai contoh, apabila seorang Beatmap Nominator yang sebelumnya pernah ditempatkan pada masa percobaan karena perilaku mereka yang buruk kembali berulah, mereka akan dikeluarkan dari Beatmap Nominator secara langsung meskipun saat itu mereka berposisi sebagai Full Beatmap Nominator.
+Pada saat seorang Full BN telah ditempatkan pada masa percobaan, mereka tidak akan lagi dapat diturunkan menjadi Probationary BN dengan alasan yang sama. Sebagai contoh, apabila seorang Beatmap Nominator yang sebelumnya pernah ditempatkan pada masa percobaan karena perilaku mereka yang buruk mengulangi per, mereka akan dikeluarkan dari Beatmap Nominator secara langsung meskipun saat itu mereka berposisi sebagai Full Beatmap Nominator.
 
 ## Anggota tim
 
 Daftar anggota Beatmap Nominator selengkapnya dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
-Tabel berikut menerakan mode permainan masing-masing anggota Beatmap Nominator. *Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi secara fasih dalam Bahasa Inggris di samping bahasa tambahan mereka.*
+Tabel berikut menerakan daftar seluruh anggota Beatmap Nominator beserta dengan mode permainan mereka masing-masing. *Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi secara fasih dalam Bahasa Inggris di samping bahasa tambahan mereka.*
 
 ### Full Beatmap Nominator
 
