@@ -1,6 +1,6 @@
 # Pedoman identitas merek
 
-Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian ketentuan yang mengatur tata cara penggunaan merek osu! pada proyek. Seluruh aset yang osu! miliki dapat digunakan tanpa membutuhkan persetujuan dari pihak mana pun terlebih dahulu.
+Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian ketentuan yang mengatur tata cara penggunaan merek dagang osu! pada proyek. Seluruh aset yang osu! miliki dapat digunakan tanpa membutuhkan persetujuan dari pihak mana pun terlebih dahulu.
 
 [Perangkat desain osu! dapat diunduh melalui tautan berikut.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) Harap diperhatikan bahwa perangkat desain ini mengandung aset yang sudah tidak lagi digunakan. Di samping itu, berhubung PDF yang disertakan pada perangkat juga telah usang, mohon gunakan laman ini sebagai referensi utama.
 
