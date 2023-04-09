@@ -32,7 +32,7 @@ Probationary Beatmap Nominator (Probationary BN) merupakan para anggota Beatmap 
 
 Anggota Beatmap Nominator baru akan ditempatkan pada masa percobaan selama satu bulan. Apabila berdasarkan hasil [evaluasi](wiki/People/Nomination_Assessment_Team/Evaluations) rekam jejak mereka dinilai memuaskan, mereka akan dipromosikan menjadi Full BN. Apabila tidak, mereka akan kembali ditempatkan pada masa percobaan tambahan selama satu bulan atau dikeluarkan dari Beatmap Nominator secara langsung.
 
-Pada saat seorang Beatmap Nominator telah ditempatkan dalam masa percobaan, mereka tidak akan lagi dapat ditempatkan pada masa percobaan dengan alasan yang sama. Sebagai contoh, apabila seorang Beatmap Nominator yang sebelumnya pernah ditempatkan dalam masa percobaan karena perilaku mereka yang buruk kembali berulah, mereka akan dikeluarkan dari Beatmap Nominator secara langsung meskipun saat itu mereka berposisi sebagai Full Beatmap Nominator.
+Pada saat seorang Beatmap Nominator telah ditempatkan dalam masa percobaan, mereka tidak akan lagi dapat ditempatkan pada masa percobaan dengan alasan yang sama. Sebagai contoh, apabila seorang Beatmap Nominator yang sebelumnya pernah ditempatkan pada masa percobaan karena perilaku mereka yang buruk kembali berulah, mereka akan dikeluarkan dari Beatmap Nominator secara langsung meskipun saat itu mereka berposisi sebagai Full Beatmap Nominator.
 
 ## Anggota tim
 
