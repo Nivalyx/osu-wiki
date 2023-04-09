@@ -31,7 +31,7 @@ For all other terms, osu! must be treated as a [qualifying noun](https://en.wiki
 
 Versi ini merupakan versi warna tunggal (*single colour*) dari logo osu! cookie. Versi logo ini sangat fleksibel dan dapat dipadukan dengan berbagai gaya desain.
 
-Mohon gunakan berkas asli yang disediakan pada perangkat desain di atas sebagai dasar desain yang kamu buat alih-alih membuat ulang logo osu! dari awal.
+Mohon gunakan berkas asli yang disediakan pada perangkat di atas sebagai dasar desain yang kamu buat alih-alih membuat ulang logo osu! dari awal.
 
 #### Warna penuh
 
