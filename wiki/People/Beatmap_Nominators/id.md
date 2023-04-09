@@ -18,7 +18,7 @@ Para anggota Beatmap Nominator bertanggung jawab untuk mengecek kelayakan [beatm
 
 Di samping itu, seluruh anggota Beatmap Nominator diharapkan untuk dapat selalu melayani komunitas secara bijak dalam berbagai situasi, antara lain dengan mengecek berbagai beatmap yang ada tanpa mengesampingkan mapper atau jenis beatmap tertentu serta terus berusaha untuk meningkatkan keahlian mereka sebagaimana yang diuraikan dalam [artikel Ekspektasi bagi Beatmap Nominator](Expectations).
 
-Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi dua kelompok, yakni Full Beatmap Nominator (Full BN/anggota penuh) dan Probationary Beatmap Nominator (Probationary BN/anggota percobaan).
+Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi dua kelompok, yakni Full Beatmap Nominator (Full BN, *anggota penuh*) dan Probationary Beatmap Nominator (Probationary BN, *anggota percobaan*).
 
 ### Full Beatmap Nominator
 
