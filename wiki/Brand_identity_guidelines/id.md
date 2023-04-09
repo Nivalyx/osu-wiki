@@ -13,7 +13,7 @@ Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian kete
 - Layanan dan aplikasi: `osu!direct`, `osu!store`, `osu!stream`, `osu!tourney`
 - Produk dan cendera mata: `osu!keyboard`, `osu!supporter`, `osu!tablet`
 
-Untuk istilah yang merangkap sebagai kata benda, "osu!" harus ditulis sebagai [kata awalan terpisah (*qualifying noun*)](https://en.wikipedia.org/wiki/Noun_adjunct) yang diikuti dengan spasi dan kata benda yang bersangkutan. Sebagai contoh:
+Untuk istilah lainnya yang merangkap sebagai kata benda, "osu!" harus ditulis sebagai [kata awalan terpisah (*qualifying noun*)](https://en.wikipedia.org/wiki/Noun_adjunct) yang diikuti dengan spasi dan kata benda yang bersangkutan. Sebagai contoh:
 
 - `osu! tournaments`
 - `osu! community`
@@ -86,4 +86,4 @@ Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! c
 - **Jangan** menambahkan gradasi apa pun pada cookie.
 - **Jangan** ubah warna cookie menjadi warna lain.
 - **Jangan** menambahkan apa pun ke dalam cookie.
-- **Jangan** mengubah elemen cookie manapun menjadi sesuatu yang lain.
+- **Jangan** mengubah elemen cookie mana pun menjadi sesuatu yang lain.
