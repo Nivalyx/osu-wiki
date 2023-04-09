@@ -22,7 +22,7 @@ Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi
 
 Full Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang memiliki kuasa penuh akan seluruh hak BN. Di samping mengecek dan menominasikan beatmap, Full BN juga dapat mendiskualifikasi beatmap Qualified yang bermasalah. Mereka juga dapat berpartisipasi dalam proses evaluasi calon anggota Beatmap Nominator baru apabila mereka tertarik untuk bergabung ke Nomination Assessment Team ke depannya.
 
-Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nominasi masing-masing Full BN akan dievaluasi oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Apabila nominasi mereka sering dianulir karena alasan yang fatal atau perilaku mereka dipandang kurang baik, status keanggotaan mereka dapat diturunkan menjadi Probationary Beatmap Nominator.
+Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nominasi masing-masing Full BN akan dievaluasi oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Apabila nominasi mereka sering dianulir karena alasan yang fatal atau perilaku mereka dinilai kurang baik, status keanggotaan mereka dapat diturunkan menjadi Probationary Beatmap Nominator.
 
 Para Full BN yang tidak memenuhi persyaratan jumlah nominasi minimum per bulannya tidak akan langsung ditempatkan sebagai Probationary Beatmap Nominator, namun mereka beresiko untuk dikeluarkan dari Beatmap Nominator apabila aktivitas mereka tidak kunjung meningkat.
 
