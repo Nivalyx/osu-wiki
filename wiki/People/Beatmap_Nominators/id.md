@@ -28,7 +28,7 @@ Para Full BN yang tidak memenuhi persyaratan jumlah nominasi minimum per bulanny
 
 ### Probationary Beatmap Nominator
 
-Probationary Beatmap Nominator (Probationary BN) merupakan para anggota Beatmap Nominator yang berada dalam masa percobaan dan tidak memiliki kuasa penuh akan seluruh hak BN. Tujuan utama dari posisi ini adalah untuk mengukuhkan nilai dasar Beatmap Nominator kepada para anggotanya, di mana satu-satunya tugas dan kuasa yang mereka miliki adalah untuk menominasikan beatmap. Di samping itu, berhubung proses ranking harus melibatkan setidaknya satu Full Beatmap Nominator, Probationary BN tidak dapat memberikan nominasi kedua pada beatmap yang sebelumnya telah dinominasikan oleh Probationary BN lainnya.
+Probationary Beatmap Nominator (Probationary BN) merupakan para anggota Beatmap Nominator yang berada dalam masa percobaan dan tidak memiliki kuasa penuh akan seluruh hak BN. Tujuan utama dari posisi ini adalah untuk mengukuhkan nilai dasar Beatmap Nominator kepada para anggotanya, di mana satu-satunya tugas dan kuasa yang mereka miliki adalah untuk menominasikan beatmap. Di samping itu, berhubung proses ranking harus melibatkan setidaknya satu Full BN, anggota Probationary BN tidak dapat memberikan nominasi kedua pada beatmap yang sebelumnya telah dinominasikan oleh Probationary BN lainnya.
 
 Anggota Beatmap Nominator baru akan ditempatkan dalam masa percobaan selama satu bulan. Apabila berdasarkan hasil [evaluasi](wiki/People/Nomination_Assessment_Team/Evaluations) rekam jejak mereka dinilai memuaskan, mereka akan dipromosikan menjadi Full BN. Apabila tidak, mereka akan kembali ditempatkan pada masa percobaan tambahan selama satu bulan atau dikeluarkan dari Beatmap Nominator secara langsung.
 
