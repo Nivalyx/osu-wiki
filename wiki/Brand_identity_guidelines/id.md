@@ -6,7 +6,7 @@ Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian kete
 
 ## osu!
 
-"osu!" selaku nama permainan tidak boleh diawali dengan huruf besar. The osu! official branding must not use any spaces:
+"osu!" selaku nama permainan tidak boleh ditulis dengan huruf besar. The osu! official branding must not use any spaces:
 
 - Mode permainan: `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
 - Proyek: `osu!academy`, `osu!talk`
