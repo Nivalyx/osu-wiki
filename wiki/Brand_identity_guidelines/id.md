@@ -21,7 +21,7 @@ For all other terms, osu! must be treated as a [qualifying noun](https://en.wiki
 - `osu! client`
 - `osu! wiki`
 
-## Cookie osu!
+## Logo osu! cookie
 
 ### Batasan penggunaan cookie
 
