@@ -32,11 +32,11 @@ Probationary Beatmap Nominator (Probationary BN) merupakan para anggota Beatmap 
 
 Anggota Beatmap Nominator baru akan ditempatkan dalam masa percobaan selama satu bulan. Apabila berdasarkan hasil [evaluasi](wiki/People/Nomination_Assessment_Team/Evaluations) rekam jejak mereka dinilai memuaskan, mereka akan dipromosikan menjadi Full BN. Apabila tidak, mereka akan kembali ditempatkan pada masa percobaan tambahan selama satu bulan atau dikeluarkan dari Beatmap Nominator secara langsung.
 
-Pada saat seorang Beatmap Nominator telah ditempatkan dalam masa percobaan, mereka tidak akan lagi dapat ditempatkan dalam masa percobaan dengan alasan yang sama. Sebagai contoh, apabila seorang Beatmap Nominator sebelumnya pernah ditempatkan dalam masa percobaan karena perilaku mereka yang buruk, mereka akan dikeluarkan dari Beatmap Nominator apabila mereka kembali berulah meskipun saat itu mereka berposisi sebagai Full Beatmap Nominator.
+Pada saat seorang Beatmap Nominator telah ditempatkan dalam masa percobaan, mereka tidak akan lagi dapat ditempatkan pada masa percobaan dengan alasan yang sama. Sebagai contoh, apabila seorang Beatmap Nominator sebelumnya pernah ditempatkan dalam masa percobaan karena perilaku mereka yang buruk, mereka akan dikeluarkan dari Beatmap Nominator apabila mereka kembali berulah meskipun saat itu mereka berposisi sebagai Full Beatmap Nominator.
 
 ## Anggota tim
 
-Di samping tabel di bawah ini, daftar anggota Beatmap Nominator selengkapnya juga dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
+Daftar anggota Beatmap Nominator selengkapnya dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
 Tabel berikut menerakan mode permainan masing-masing anggota Beatmap Nominator. *Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi secara fasih dalam Bahasa Inggris di samping bahasa tambahan mereka.*
 
