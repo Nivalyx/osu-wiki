@@ -18,11 +18,11 @@ Para anggota Beatmap Nominator bertanggung jawab untuk mengecek kelayakan [beatm
 
 Di samping itu, seluruh anggota Beatmap Nominator diharapkan untuk dapat selalu melayani komunitas secara bijak dalam berbagai situasi, antara lain dengan mengecek berbagai beatmap yang ada tanpa mengesampingkan mapper atau jenis beatmap tertentu serta terus berusaha untuk meningkatkan keahlian mereka sebagaimana yang diuraikan dalam [artikel Ekspektasi bagi Beatmap Nominator](Expectations).
 
-Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi dua kelompok yakni Full Beatmap Nominator (Full BN) dan Probationary Beatmap Nominator (Probationary BN).
+Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi dua kelompok, yakni Full Beatmap Nominator (Full BN/anggota penuh) dan Probationary Beatmap Nominator (Probationary BN/anggota percobaan).
 
 ### Full Beatmap Nominator
 
-Full Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang memiliki kuasa penuh akan seluruh hak BN. Di samping mengecek dan menominasikan beatmap, para anggota Full BN juga dapat mendiskualifikasi beatmap Qualified yang dipandang bermasalah. Mereka juga dapat  berpartisipasi dalam proses evaluasi calon anggota Beatmap Nominator baru apabila mereka tertarik untuk bergabung ke Nomination Assessment Team ke depannya.
+Full Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang memiliki kuasa penuh akan seluruh hak BN. Di samping mengecek dan menominasikan beatmap, para Full BN juga dapat mendiskualifikasi beatmap Qualified yang dipandang bermasalah. Mereka juga dapat  berpartisipasi dalam proses evaluasi calon anggota Beatmap Nominator baru apabila mereka tertarik untuk bergabung ke Nomination Assessment Team ke depannya.
 
 Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nominasi para anggota Full Beatmap Nominator akan dinilai oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Apabila nominasi mereka sering dianulir karena alasan yang fatal atau mereka melakukan sesuatu yang tidak dapat diterima, status keanggotaan mereka dapat diturunkan menjadi Probationary Beatmap Nominator.
 
