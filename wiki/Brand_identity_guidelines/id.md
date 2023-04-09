@@ -13,8 +13,7 @@ Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian kete
 - Layanan dan aplikasi: `osu!direct`, `osu!store`, `osu!stream`, `osu!tourney`
 - Produk dan cendera mata: `osu!keyboard`, `osu!supporter`, `osu!tablet`
 
-Untuk istilah lainnya, osu! harus dianggap sebagai [kata benda](https://en.wikipedia.org/wiki/Noun_adjunct)
-For all other terms, osu! must be treated as a [qualifying noun](https://en.wikipedia.org/wiki/Noun_adjunct), which means adding a space between osu! and the noun it modifies. Examples:
+Untuk istilah lainnya, osu! harus diperlakukan sebagai [kata awalan terpisah (*qualifying noun*)](https://en.wikipedia.org/wiki/Noun_adjunct) yang diikuti dengan spasi dan kata benda setelahnya. Sebagai contoh:
 
 - `osu! tournaments`
 - `osu! community`
