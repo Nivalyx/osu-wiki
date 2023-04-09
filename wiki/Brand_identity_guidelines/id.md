@@ -9,7 +9,24 @@ Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian stan
 
 [Perangkat desain osu! dapat diunduh melalui tautan berikut.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) Harap diperhatikan bahwa perangkat desain tersebut mengandung beberapa aset yang sudah tidak lagi digunakan. Di samping itu, berhubung PDF yang disertakan juga telah usang, mohon gunakan laman ini sebagai referensi utama.
 
-## Logo osu! cookie
+## osu!
+
+The name of the game, osu!, must not be capitalised. The osu! official branding must not use any spaces:
+
+- Mode permainan: `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
+- Proyek: `osu!academy`, `osu!talk`
+- Layanan dan aplikasi: `osu!direct`, `osu!store`, `osu!stream`, `osu!tourney`
+- Produk dan cendera mata: `osu!keyboard`, `osu!supporter`, `osu!tablet`
+
+For all other terms, osu! must be treated as a [qualifying noun](https://en.wikipedia.org/wiki/Noun_adjunct), which means adding a space between osu! and the noun it modifies. Examples:
+
+- `osu! tournaments`
+- `osu! community`
+- `osu! chat`
+- `osu! client`
+- `osu! wiki`
+
+## Cookie osu!
 
 ### Batasan penggunaan cookie
 
