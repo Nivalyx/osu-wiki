@@ -49,7 +49,7 @@ Mohon beri cookie jarak yang memadai dengan elemen desain lainnya. Gunakan huruf
 
 ### Batasan penggunaan cookie warna tunggal
 
-Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana,  serbaguna, dan dapat diterapkan ke dalam berbagai gaya desain dengan mudah. osu! tidak membatasi warna yang dapat digunakan untuk cookie.
+Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! cookie dirancang sedemikian rupa agar sederhana, serbaguna, dan dapat diterapkan ke dalam berbagai gaya desain dengan mudah. osu! tidak membatasi warna yang dapat digunakan untuk cookie.
 
 ![](img/restrictions-good-single.png)
 
