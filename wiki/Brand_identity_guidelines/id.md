@@ -6,7 +6,7 @@ Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian kete
 
 ## osu!
 
-"osu!" selaku nama permainan tidak boleh ditulis dengan diawali oleh huruf besar. Penggunaan kata "osu!" sebagai merek dagang harus ditulis tanpa spasi sebagaimana yang dicontohkan sebagai berikut:
+"osu!" selaku nama permainan tidak boleh ditulis dengan diawali oleh huruf besar. Penggunaan kata "osu!" sebagai merek dagang harus ditulis tanpa spasi sebagaimana pada contoh-contoh berikut:
 
 - Mode permainan: `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
 - Proyek: `osu!academy`, `osu!talk`
