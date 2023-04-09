@@ -12,7 +12,7 @@ tags:
 
 ## Peran dan tanggung jawab
 
-Para anggota Beatmap Nominator bertanggung jawab untuk mengecek kelayakan [beatmap yang berstatus Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) melalui proses [modding](/wiki/Modding). Mereka juga merupakan tempat bertanya bagi pengguna yang membutuhkan arahan seputar mapping atau modding. Masing-masing Beatmap Nominator dapat menempatkan [veto](Beatmap_Veto) pada beatmap yang telah dinominasikan sebelumnya apabila mereka merasa bahwa beatmap tersebut memiliki masalah di luar Ranking Criteria yang harus diperbaiki.
+Para anggota Beatmap Nominator bertanggung jawab untuk mengecek kelayakan [beatmap yang berstatus Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) melalui proses [modding](/wiki/Modding). Mereka juga merupakan tempat bertanya bagi mereka yang membutuhkan arahan seputar mapping atau modding. Masing-masing Beatmap Nominator dapat menempatkan [veto](Beatmap_Veto) pada beatmap yang telah dinominasikan sebelumnya apabila mereka merasa bahwa beatmap tersebut memiliki masalah di luar Ranking Criteria yang harus diperbaiki.
 
 Di balik peran yang mereka miliki, para anggota Beatmap Nominator dituntut untuk dapat selalu melayani komunitas secara bijak dalam berbagai situasi. Mereka juga diharapkan untuk dapat mengecek berbagai beatmap yang ada tanpa mengesampingkan mapper atau jenis beatmap tertentu serta untuk terus meningkatkan keahlian mereka sebagaimana yang tertera pada [artikel Ekspektasi bagi Beatmap Nominator](Expectations).
 
@@ -24,7 +24,7 @@ Full Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang m
 
 Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nominasi masing-masing Full BN akan dievaluasi oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Apabila nominasi mereka sering dianulir karena alasan yang fatal atau perilaku mereka dinilai kurang baik, status keanggotaan mereka dapat diturunkan menjadi Probationary BN.
 
-Para Full BN yang tidak memenuhi persyaratan jumlah nominasi minimum per bulannya tidak akan langsung ditempatkan sebagai Probationary BN. Meskipun demikian, mereka beresiko untuk dikeluarkan dari Beatmap Nominator apabila aktivitas mereka tidak kunjung meningkat.
+Para Full BN yang tidak memenuhi persyaratan jumlah nominasi minimum per bulannya tidak akan langsung ditempatkan sebagai Probationary BN. Meskipun demikian, mereka dapat dikeluarkan dari Beatmap Nominator apabila aktivitas mereka tidak kunjung meningkat.
 
 ### Probationary Beatmap Nominator
 
