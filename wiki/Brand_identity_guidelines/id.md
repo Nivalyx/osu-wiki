@@ -82,7 +82,7 @@ Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! c
 ![](img/restrictions-bad-full.png)
 
 - **Jangan** gunakan cookie versi lama.
-- **Jangan** gunakan warna pink yang berbeda.
+- **Jangan** gunakan warna pink yang berbeda pada cookie.
 - **Jangan** menambahkan gradasi apa pun pada cookie.
 - **Jangan** ubah warna cookie menjadi warna lain.
 - **Jangan** menambahkan apa pun ke dalam cookie.
