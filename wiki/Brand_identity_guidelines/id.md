@@ -77,7 +77,7 @@ Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! c
 
 ### Batasan penggunaan cookie warna penuh
 
-Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana,  serbaguna, dan dapat diterapkan ke dalam berbagai gaya desain dengan mudah. Mohon gunakan logo yang kami sediakan apa adanya tanpa modifikasi apa pun. Seluruh batasan yang berlaku pada versi warna tunggal juga berlaku pada versi warna penuh.
+Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan dapat diterapkan ke dalam berbagai gaya desain dengan mudah. Mohon gunakan logo yang kami sediakan apa adanya tanpa modifikasi apa pun. Seluruh batasan yang berlaku pada versi warna tunggal juga berlaku pada versi warna penuh.
 
 ![](img/restrictions-bad-full.png)
 
