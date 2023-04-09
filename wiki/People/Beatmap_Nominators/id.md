@@ -24,7 +24,7 @@ Full Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang m
 
 Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nominasi masing-masing Full BN akan dinilai oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Apabila nominasi mereka sering dianulir karena alasan yang fatal atau perilaku mereka dipandang kurang baik, status keanggotaan mereka dapat diturunkan menjadi Probationary Beatmap Nominator.
 
-Para anggota Full Beatmap Nominator yang tidak memenuhi persyaratan jumlah nominasi minimum per bulannya tidak akan langsung ditempatkan sebagai Probationary Beatmap Nominator, namun mereka beresiko untuk dikeluarkan dari Beatmap Nominator apabila aktivitas mereka tidak kunjung meningkat.
+Para Full BN yang tidak memenuhi persyaratan jumlah nominasi minimum per bulannya tidak akan langsung ditempatkan sebagai Probationary Beatmap Nominator, namun mereka beresiko untuk dikeluarkan dari Beatmap Nominator apabila aktivitas mereka tidak kunjung meningkat.
 
 ### Probationary Beatmap Nominator
 
@@ -36,7 +36,7 @@ Pada saat seorang Beatmap Nominator telah ditempatkan dalam masa percobaan, mere
 
 ## Anggota tim
 
-Daftar anggota Beatmap Nominator selengkapnya dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
+Di samping tabel di bawah ini, daftar anggota Beatmap Nominator selengkapnya juga dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
 Tabel berikut menerakan mode permainan yang terhubung dengan masing-masing anggota Beatmap Nominator. *Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi secara fasih dalam Bahasa Inggris di samping bahasa tambahan mereka.*
 
