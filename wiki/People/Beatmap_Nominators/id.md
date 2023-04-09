@@ -40,7 +40,7 @@ Pada saat seorang Beatmap Nominator telah ditempatkan dalam masa percobaan, mere
 
 Daftar anggota Beatmap Nominator selengkapnya dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
-Tabel nerikut menerakan mode permainan yang terhubung dengan masing-masing anggota Beatmap Nominator. *Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi secara fasih dalam Bahasa Inggris di samping bahasa tambahan mereka.*
+Tabel berikut menerakan mode permainan yang terhubung dengan masing-masing anggota Beatmap Nominator. *Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi secara fasih dalam Bahasa Inggris di samping bahasa tambahan mereka.*
 
 ### Full Beatmap Nominator
 
@@ -56,7 +56,7 @@ Tabel nerikut menerakan mode permainan yang terhubung dengan masing-masing anggo
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Italia |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
 | ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Korea |
-| ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | Polski |
+| ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | Polandia |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Korea |
 | ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
 | ::{ flag=ID }:: [Creamy Candy](https://osu.ppy.sh/users/9769199) | Indonesia |
@@ -109,7 +109,7 @@ Tabel nerikut menerakan mode permainan yang terhubung dengan masing-masing anggo
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
-| ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | Suomi, sedikit Swedia |
+| ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | Finlandia, sedikit Swedia |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Tionghoa |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Tionghoa, Kanton |
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Turki |
@@ -133,7 +133,7 @@ Tabel nerikut menerakan mode permainan yang terhubung dengan masing-masing anggo
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Jepang |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Jerman, sedikit Perancis |
-| ::{ flag=PL }:: [yurishe](https://osu.ppy.sh/users/14890963) | Polski |
+| ::{ flag=PL }:: [yurishe](https://osu.ppy.sh/users/14890963) | Polandia |
 
 #### osu!catch
 
@@ -141,7 +141,7 @@ Tabel nerikut menerakan mode permainan yang terhubung dengan masing-masing anggo
 | :-- | :-- |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Kanton |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
-| ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polski |
+| ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polandia |
 | ::{ flag=ZA }:: [Pieter](https://osu.ppy.sh/users/29282944) | Afrikaans, Belanda |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Korea |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
@@ -232,7 +232,7 @@ Tabel nerikut menerakan mode permainan yang terhubung dengan masing-masing anggo
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
 | ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Dansk |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Denmark |
 
 ## Sejarah
 
