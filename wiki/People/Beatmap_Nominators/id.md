@@ -38,7 +38,7 @@ Apabila seorang Full BN pernah diturunkan menjadi Probationary BN sebelumnya, me
 
 Daftar anggota Beatmap Nominator selengkapnya dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
-Tabel berikut menerakan daftar seluruh anggota Beatmap Nominator beserta dengan mode permainan mereka masing-masing. *Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi secara fasih dalam Bahasa Inggris di samping bahasa tambahan mereka.*
+Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode permainanmya masing-masing. *Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi secara fasih dalam Bahasa Inggris di samping bahasa tambahan mereka.*
 
 ### Full Beatmap Nominator
 
