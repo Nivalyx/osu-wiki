@@ -55,7 +55,7 @@ Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! c
 
 - Gambar cookie harus tetap terlihat tajam dalam situasi apapun.
 - Kamu dapat menggunakan warna apapun sebagai warna dasar cookie.
-- Kamu dapat menambahkan gradasi linier pada cookie. Gradasi radial tidak disarankan karena lingkaran luar dan bagian tengah cookie dapat terlihat seolah-olah mereka tidak menyatu.
+- Kamu dapat menambahkan gradasi linier pada cookie. Gradasi radial tidak disarankan karena lingkaran luar dan bagian tengah cookie dapat terlihat seolah-olah tidak menyatu.
 - Kamu dapat menempatkan gambar lain sebagai tekstur pada cookie melalui teknik *masking*. Meskipun demikian, kontras antara cookie dan latar belakang harus tetap terjaga.
 
 ---
