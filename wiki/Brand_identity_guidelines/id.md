@@ -39,7 +39,7 @@ Mohon gunakan berkas asli yang disediakan pada perangkat di atas sebagai dasar d
 
 Versi ini merupakan versi warna penuh (*full colour*) dari logo osu! cookie. Efek bayangan (*drop shadow*) yang tertera merupakan bagian dari logo.
 
-Mohon gunakan berkas asli yang disediakan pada perangkat desain di atas sebagai dasar desain yang kamu buat tanpa modifikasi apa pun.
+Mohon gunakan berkas asli yang disediakan pada perangkat di atas sebagai dasar desain yang kamu buat tanpa modifikasi apa pun.
 
 ### Area dan jarak antar logo
 
@@ -73,7 +73,7 @@ Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! c
 - **Jangan** menambahkan efek yang terlalu mewah atau berlebihan pada cookie.
 - **Jangan** menambahkan elemen tambahan di dalam cookie.
 - **Jangan** menambahkan garis luar (*outline*) pada cookie. Gunakan warna cookie yang berbeda.
-- **Jangan** pernah berpikir untuk mengubah elemen cookie manapun. Ayolah. Logo resmi kami bahkan sama sekali tidak terlihat seperti itu. Alih-alih membuat cookie baruu yang diakui secara resmi, kamu hanya menempatkan teks di dalam lingkaran.
+- **Jangan** pernah berpikir untuk mengubah elemen cookie manapun. Ayolah. Logo resmi kami bahkan sama sekali tidak terlihat seperti itu. Alih-alih membuat cookie baru, kamu hanya menempatkan teks di dalam lingkaran.
 
 ### Batasan penggunaan cookie warna penuh
 
