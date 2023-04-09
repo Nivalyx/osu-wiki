@@ -14,7 +14,7 @@ tags:
 
 Para anggota Beatmap Nominator bertanggung jawab untuk mengecek kelayakan [beatmap yang berstatus Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) melalui proses [modding](/wiki/Modding). Mereka juga merupakan tempat bertanya bagi para pengguna yang membutuhkan arahan seputar mapping atau modding. Masing-masing Beatmap Nominator dapat menempatkan [veto](Beatmap_Veto) pada beatmap yang telah dinominasikan sebelumnya apabila mereka merasa bahwa beatmap tersebut memiliki masalah di luar Ranking Criteria yang harus diperbaiki.
 
-Di samping itu, seluruh anggota Beatmap Nominator diharapkan untuk dapat selalu melayani komunitas secara bijak dalam berbagai situasi, antara lain dengan mengecek berbagai beatmap yang ada tanpa mengesampingkan mapper atau jenis beatmap tertentu serta terus berusaha untuk meningkatkan keahlian mereka sebagaimana yang diuraikan dalam [artikel Ekspektasi bagi Beatmap Nominator](Expectations).
+Bersama dengan tanggung jawab ini, seluruh anggota Beatmap Nominator diharapkan untuk dapat selalu melayani komunitas secara bijak dalam berbagai situasi, antara lain dengan mengecek berbagai beatmap yang ada tanpa mengesampingkan mapper atau jenis beatmap tertentu serta terus berusaha untuk meningkatkan keahlian mereka sebagaimana yang diuraikan dalam [artikel Ekspektasi bagi Beatmap Nominator](Expectations).
 
 Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi dua kelompok, yakni Full Beatmap Nominator (Full BN, *anggota penuh*) dan Probationary Beatmap Nominator (Probationary BN, *anggota percobaan*).
 
