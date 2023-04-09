@@ -45,7 +45,7 @@ Mohon gunakan berkas asli yang disediakan pada perangkat di atas sebagai dasar d
 
 ![](img/clear-space-area.png)
 
-Mohon beri cookie jarak yang memadai dengan elemen desain lainnya. Gunakan huruf "o" dalam kata "osu!" sebagai referensi ukuran jarak.
+Mohon beri cookie jarak yang memadai dengan elemen desain lainnya. Gunakan huruf "o" dalam kata "osu!" sebagai pedoman ukuran jarak.
 
 ### Batasan penggunaan cookie warna tunggal
 
