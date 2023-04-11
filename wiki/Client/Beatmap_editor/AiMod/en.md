@@ -57,7 +57,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| Your beatmap has no background image. | *Self-explanatory* | Find a suitable image and use it as the background image. | Note that videos don't count as background images because the user isn't required to download them. |
+| Your beatmap has no background image. | *Self-explanatory* | Find a suitable image and use it as the background image. | Videos don't count as background images because the user isn't required to download them. |
 | File missing:{0} | Your beatmap is missing certain files. | Recover the missing files or make sure the beatmap is not trying to use non-existent files. | |
 
 #### Timing
@@ -70,7 +70,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| Drain time should be over 30 seconds. | The length of your map from start to end, not including breaks times, is under 30 seconds. | Try using a spinner to end the map if your song supports it. Otherwise, your song may be too short. In such case, try to extend your .mp3 file in order to reach the 30 second mark. |  Note that AiMod does not detect spinners which may extend over the 30 second drain time mark.
+| Drain time should be over 30 seconds. | The length of your map from start to end, not including breaks times, is under 30 seconds. | Try using a spinner to end the map if your song supports it. Otherwise, your song may be too short. In such case, try to extend your .mp3 file in order to reach the 30 second mark. | AiMod does not detect spinners which may extend over the 30 second drain time mark. |
 
 ### Warnings
 
