@@ -55,10 +55,10 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 #### Design
 
-| Message | Explanation | Solution |
-| :-- | :-- | :-- |
-| Your beatmap has no background image. | The current difficulty doesn't have a background image! Note that videos don't count as background images because the user isn't required to download them. | Find a suitable image and use it as the background image. |
-| File missing:{0} | Your beatmap is missing files. | Recover the missing files or make sure the beatmap is not trying to use non-existent files. |
+| Message | Explanation | Solution | Notes |
+| :-- | :-- | :-- |  :-- |
+| Your beatmap has no background image. | *Self-explanatory* | Find a suitable image and use it as the background image. | Note that videos don't count as background images because the user isn't required to download them. |
+| File missing:{0} | Your beatmap is missing files. | Recover the missing files or make sure the beatmap is not trying to use non-existent files. | |
 
 #### Timing
 
