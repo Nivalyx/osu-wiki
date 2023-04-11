@@ -47,11 +47,11 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | These two objects are less than 10ms apart! | Two objects are placed very close to each other timeline-wise. This means that the player will need to click both objects at an alarmingly fast rate! | Find the two hit objects either move or delete one of them. | |
 | These two objects exist at the same point in time! | Two objects are on top of each other. This will make the map impossible to rank! | Find the two hit objects and either move or delete one of them. | |
 | There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps. | *Self-explanatory* | Hitsound the map using whistles, claps and finishes. | |
-| This spinner appears onscreen later than objects which follow it. | Objects appear while the spinner is active. This could be caused by having low AR and/or placing objects too close (time-wise) to the spinner. | Change the length of the spinner and/or remove the following objects |
-| This hold note is less than 10ms long! | osu!mania maps only! This will require the player to press and release the key at a very quick rate, making your map impossible to obtain an SS. | Increase length of the hold note or remove it. |
-| This object overlaps with another object. | osu!mania maps only! | Remove one of the overlapping objects. |
-| This object is stacked on top of another object. | osu!mania maps only! The specified keys and/or hold notes are on top of each other. This will make your map impossible to obtain an SS! | Find the key or hold note and fix it or delete it. |
-| More than 6 notes simultaneously is not allowed. | osu!mania maps only! Most keyboards can allow up to 6 key presses at once. | Check your beatmap to make sure that each column has at most 6 note presses. |
+| This spinner appears onscreen later than objects which follow it. | Objects appear while the spinner is active. This could be caused by having low AR and/or placing objects too close (timeline-wise) to the spinner. | Change the length of the spinner and/or remove the following objects. | |
+| This hold note is less than 10ms long! | This will require the player to press and release the key at a very quick rate, making your map impossible to obtain an SS. | Increase length of the hold note or remove it. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
+| This object overlaps with another object. | osu!mania maps only! | Remove one of the overlapping objects. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
+| This object is stacked on top of another object. | The specified keys and/or hold notes are on top of each other. This will make your map impossible to obtain an SS! | Find the key or hold note and fix it or delete it. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
+| More than 6 notes simultaneously is not allowed. | This is prohibited by the [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania) as most keyboards can only allow up to 6 key presses at once due to a phenomenon known as [ghosting](https://nelson-miller.com/what-is-keyboard-ghosting-and-how-do-you-prevent-it/). | Check your beatmap to make sure that each column has at most 6 note presses. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
 
 #### Design
 
