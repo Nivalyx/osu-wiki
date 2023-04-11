@@ -86,7 +86,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | This object is too close to the previous object. | *Self-explanatory* | Move the object further away from the previous one. | Only visible with the `Check distance snap` option enabled. |
 | This object is too far from the previous object. | *Self-explanatory* | Move the object closer to the previous one. | Only visible with the `Check distance snap` option enabled. |
 | This spinner is too short. Auto must achieve at least 1000 bonus points on spinners. | The specified spinner is too short, rendering it unable to properly function as a spinner. | Extend the length of the spinner. | |
-| Spinners must have a new combo. |  |  |
+| Spinners must have a new combo. | *Self-explanatory* | Manually add a new combo to the spinner. | |
 | <!-- Potential removal? Wasn't able to make an actual object (not including slider ends) go offscreen as editor forced it back in again -->Object isn't snapped! | The specified object isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
 | Object's end is not snapped! | The specified object's end isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
 
