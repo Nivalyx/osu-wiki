@@ -70,7 +70,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| Drain time should be over 30 seconds. | The length of your map from start to end, not including breaks times, is under 30 seconds. | Try using a spinner to end the map if your song supports it. Otherwise, your song may be too short. In such case, try to extend your .mp3 file in order to reach the 30 second mark. | AiMod does not detect spinners which may extend over the 30 second drain time mark. |
+| Drain time should be over 30 seconds. | The length of your map from start to end, not including breaks times, is under 30 seconds. | Try to extend the end of the map by using a spinner if your song supports it. Otherwise, your song may be too short. In such case, try to extend your .mp3 file in order to reach the 30 second mark. | AiMod does not detect spinners which may extend over the 30 second drain time mark. |
 
 ### Warnings
 
@@ -80,7 +80,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | :-- | :-- | :-- |  :-- |
 | <!-- Not sure how to test this one -->This slider moves in an abnormal way. | The slider moves in a way that overlaps itself by going straight back into the track where it came from (otherwise known as a [burai slider](/wiki/Beatmapping/Mapping_techniques/Unrankable#burai-sliders)). | Make sure that the slider doesn't perfectly overlap itself on its path. | |
 | Slider has an absurdly large amount of points! | *Self-explanatory* | Remove some of the anchor points from your slider. | This warning can be safely ignored if the design of the slider in question is intentional, e.g. on complex [slider arts](http://osu.ppy.sh/community/forums/topics/689531) or sliders made using [Mapping Tools](https://mappingtools.github.io/)' Tumour Generator plugin. |
-| This combo is very long. Consider splitting it up. | *Self-explanatory* | Split the long combo chain into several group of combos. It is preferred that length of the combos are, at most, 15-18 objects each. | Most notable in osu!catch maps, where fruits will continue to ramp up on the catcher's plate as long as the combo chain remains intact (therefore potentially impairing visibility). This warning can be safely ignored if the usage of the long combo chain in question is intentional. |
+| This combo is very long. Consider splitting it up. | *Self-explanatory* | Split the long combo chain into several group of combos. It is preferred that length of the combos are, at most, 15-18 objects each. | Most notable in ![](/wiki/shared/mode/catch.png) osu!catch maps, where fruits will continue to ramp up on the catcher's plate as long as the combo chain remains intact (therefore potentially impairing visibility). This warning can be safely ignored if the usage of the long combo chain in question is intentional. |
 | Object's end is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. This may not always be accurate, so do check using a 4:3 aspect ratio resolution. | Remove or move the object's end. |
 | Object is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. | Remove or move the object. |
 | This object is too close to the previous object. | "Check distance snap" must be checked. | Move the object further away from the previous one. |
