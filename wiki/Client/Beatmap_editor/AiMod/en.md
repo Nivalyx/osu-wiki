@@ -78,7 +78,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| <!-- Not sure how to test this one -->This slider moves in an abnormal way. | The slider moves in a way that overlaps itself by going straight back into the track from where he came | Make sure that the slider doesn't | |
+| <!-- Not sure how to test this one -->This slider moves in an abnormal way. | The slider moves in a way that overlaps itself by going straight back into the track from where it come. | Make sure that the slider doesn't | |
 | Slider has an absurdly large amount of points! | *Self-explanatory* | Remove some of the anchor points from your slider. | This warning can be safely ignored if the design of the slider in question is intentional, e.g. on complex [slider arts](http://osu.ppy.sh/community/forums/topics/689531) or sliders made using [Mapping Tools](https://mappingtools.github.io/)' Tumour Generator plugin. |
 | This combo is very long. Consider splitting it up. | The length of combos can affect the difficulty of the map, as well as the amount of fruits that will be stacked on the catcher's plate. | Go to the offending combos and decide where to start the new combo (It is preferred that length of combos are, at most, 15-18). | This warning can be safely ignored if the usage of the long combo chain in question is intentional. |
 | Object's end is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. This may not always be accurate, so do check using a 4:3 aspect ratio resolution. | Remove or move the object's end. |
