@@ -78,7 +78,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| <!-- Not sure how to test this one -->This slider moves in an abnormal way. | The slider moves in a way that overlaps itself by going straight back into the track where it came from (otherwise known as a [burai slider](/wiki/Beatmapping/Mapping_techniques/Unrankable#burai-sliders)). | Make sure that the slider doesn't perfectly overlap itself on its path. | |
+| This slider moves in an abnormal way. | The slider moves in a way that overlaps itself by going straight back into the track where it came from (otherwise known as a [burai slider](/wiki/Beatmapping/Mapping_techniques/Unrankable#burai-sliders)). | Make sure that the slider doesn't perfectly overlap itself on its path. | |
 | Slider has an absurdly large amount of points! | *Self-explanatory* | Remove some of the anchor points from your slider. | This warning can be safely ignored if the design of the slider in question is intentional, e.g. on complex [slider arts](http://osu.ppy.sh/community/forums/topics/689531) or sliders made using [Mapping Tools](https://mappingtools.github.io/)' Tumour Generator plugin. |
 | This combo is very long. Consider splitting it up. | *Self-explanatory* | Split the long combo chain into several group of combos. It is preferred that length of the combos are, at most, 15-18 objects each. | Most notable in ![](/wiki/shared/mode/catch.png) osu!catch maps, where fruits will continue to ramp up on the catcher's plate as long as the combo chain remains intact (therefore potentially impairing visibility). This warning can be safely ignored if the usage of the long combo chain in question is intentional. |
 | Object's end is offscreen! | The object's end is not on-screen (whether fully or partially) on 4:3 resolution. | Remove the object or move the position of the object's end. | AiMod doesn't always detect the upper bounds of the playfield properly, so make sure to verify whether the object's end in question is actually offscreen or not from time to time. |
@@ -92,18 +92,18 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 #### Design
 
-| Message | Explanation | Solution |
-| :-- | :-- | :-- |
+| Message | Explanation | Solution | Notes |
+| :-- | :-- | :-- |  :-- |
 | Background image is larger than 2560x1440. | *Self-explanatory* | Resize or replace the background image. |
 | This map may need an epilepsy warning, as it contains frequently toggled storyboards. | The storyboard elements change very quickly. | Enable the `Display epilepsy warning (storyboard has quick strobing)` option in the Design tab of the [song setup](/wiki/Client/Beatmap_editor/Song_Setup). |
-| <!-- Not sure how to test this one -->{0}'s dimensions must be {1}x{1} |  |  |
+| <!-- Not sure how to test this one -->{0}'s dimensions must be {1}x{1} | The dimension of the specified design element does not match its intended default. | Resize the design element in question to its proper resolution. |
 | Your video's dimensions must not exceed 1024x768 for the 4:3 format. | *Self-explanatory* | Resize or replace the background video. |
 | Your video's dimensions must not exceed 1280x720 for the 16:9 format. | *Self-explanatory* | Resize or replace the background video. |
 
 #### Timing
 
-| Message | Explanation | Solution |
-| :-- | :-- | :-- |
+| Message | Explanation | Solution | Notes |
+| :-- | :-- | :-- |  :-- |
 | This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. |  |  |
 | Your beatmap is shorter than 45 seconds. Consider making it longer. |  |  |
 | <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file -->Audio bitrate is higher than 192kbps. Consider recompressing to CBR 192kbps or VBR ~1.0. |  |  |
@@ -124,8 +124,8 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 #### Meta
 
-| Message | Explanation | Solution |
-| :-- | :-- | :-- |
+| Message | Explanation | Solution | Notes |
+| :-- | :-- | :-- |  :-- |
 | [Stack leniency](/wiki/Beatmap/Stack_leniency) is larger than 0.9 or smaller than 0.3. | The Stack Leniency slider in the Advanced tab of Song Setup is set to either 2 or 10. | Set the slider so that it is between 3 and 9. |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised artist contains unicode. |  |  |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised title contains unicode. |  |  |
@@ -140,8 +140,8 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 #### Mapset
 
-| Message | Explanation | Solution |
-| :-- | :-- | :-- |
+| Message | Explanation | Solution | Notes |
+| :-- | :-- | :-- |  :-- |
 | Artist conflicts with {0} diff. |  |  |
 | Audio file conflicts with {0} diff. |  |  |
 | Countdown conflicts with {0} diff. |  |  |
