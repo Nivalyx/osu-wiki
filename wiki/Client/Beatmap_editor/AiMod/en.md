@@ -70,15 +70,15 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| Drain time should be over 30 seconds. | The length of your map from start to end, not including breaks times, is under 30 seconds. | Try using a spinner to end the map if your song supports it. Otherwise, your song may be too short. In such case, try to extend your .mp3 in order to reach the 30 second mark. |  Note that AiMod does not detect spinners which may extend over the 30 second drain time mark.
+| Drain time should be over 30 seconds. | The length of your map from start to end, not including breaks times, is under 30 seconds. | Try using a spinner to end the map if your song supports it. Otherwise, your song may be too short. In such case, try to extend your .mp3 file in order to reach the 30 second mark. |  Note that AiMod does not detect spinners which may extend over the 30 second drain time mark.
 
 ### Warnings
 
 #### Compose
 
-| Message | Explanation | Solution |
-| :-- | :-- | :-- |
-| <!-- Not sure how to test this one -->This slider moves in an abnormal way. |  |  |
+| Message | Explanation | Solution | Notes |
+| :-- | :-- | :-- |  :-- |
+| <!-- Not sure how to test this one -->This slider moves in an abnormal way. | *Self-explanatory*  | M | |
 | Slider has an absurdly large amount of points! | *Self-explanatory* | Remove some of the anchor points from your slider. |
 | This combo is very long. Consider splitting it up. | The length of combos can affect the difficulty of the map, as well as the amount of fruits that will be stacked on the catcher's plate. | Go to the offending combos and decide where to start the new combo (It is preferred that length of combos are, at most, 15-18). |
 | Object's end is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. This may not always be accurate, so do check using a 4:3 aspect ratio resolution. | Remove or move the object's end. |
