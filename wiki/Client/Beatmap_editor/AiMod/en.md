@@ -62,9 +62,9 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 #### Timing
 
-| Message | Explanation | Solution |
-| :-- | :-- | :-- |
-| All timing sections have a volume below 5%. | *Self-explanatory* | Set at least one timing section to have a hitsound volume of 5% or higher. |
+| Message | Explanation | Solution | Notes |
+| :-- | :-- | :-- |  :-- |
+| All timing sections have a volume below 5%. | *Self-explanatory* | Set at least one timing section to have a hitsound volume of 5% or higher. | |
 
 #### Meta
 
