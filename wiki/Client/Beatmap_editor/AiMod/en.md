@@ -27,7 +27,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- | :-- |
-| No problems were found in this map! | *Self-explanatory* | Your beatmap is good to go! You may upload your beatmap using BSS to allow modders to find other mistakes and issues with your beatmap. | - |
+| No problems were found in this map! | *Self-explanatory* | Your beatmap is good to go! You may upload your beatmap using BSS to allow modders to find other mistakes and issues with your beatmap. |  |
 
 #### Meta
 
