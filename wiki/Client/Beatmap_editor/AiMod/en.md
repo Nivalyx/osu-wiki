@@ -27,14 +27,14 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- | :-- |
-| No problems were found in this map! | *Self-explanatory*  | You could upload your beatmap using BSS to allow osu!modders to find other mistakes and issues with your beatmap. | - |
+| No problems were found in this map! | *Self-explanatory* | Your beatmap is good to go! You may upload your beatmap using BSS to allow modders to find other mistakes and issues with your beatmap. | - |
 
 #### Meta
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| HP rate for Easy/Normal is suggested to be at least 4. | *Self-explanatory*  | Go to Song Settings and set HP rate to 4 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
-| HP rate for Hard and up is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set HP rate to 7 or higher. |
+| HP rate for Easy/Normal is suggested to be at least 4. | *Self-explanatory* | Go to Song Settings and set HP rate to 4 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
+| HP rate for Hard and up is suggested to be at least 7. | *Self-explanatory* | Go to Song Settings and set HP rate to 7 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
 | OD rate for maps with few sliders is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set OD rate to 7 or higher. |
 | The Slider Velocity should be 1.40 or 1.60. | osu!taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60. |
 
