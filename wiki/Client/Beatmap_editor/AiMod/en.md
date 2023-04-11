@@ -68,9 +68,9 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 #### Meta
 
-| Message | Explanation | Solution |
-| :-- | :-- | :-- |
-| Drain time should be over 30 seconds. | The length of your map from start to end, not including breaks times, is under 30 seconds. AiMod does not detect spinners which may extend over the 30 second drain time mark. | Try using a spinner to end the map if your song supports it. Otherwise, your song may be too short. It is rankable to extend your mp3 in order to reach the 30 second mark. |
+| Message | Explanation | Solution | Notes |
+| :-- | :-- | :-- |  :-- |
+| Drain time should be over 30 seconds. | The length of your map from start to end, not including breaks times, is under 30 seconds. | Try using a spinner to end the map if your song supports it. Otherwise, your song may be too short. It is rankable to extend your mp3 in order to reach the 30 second mark. |  Note that AiMod does not detect spinners which may extend over the 30 second drain time mark.
 
 ### Warnings
 
