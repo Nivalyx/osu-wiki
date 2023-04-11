@@ -45,7 +45,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
 | These two objects are less than 10ms apart! | Two objects are placed very close to each other timeline-wise, requiring the player to click both objects almost simultaneously. | Find the two objects and either move or delete one of them. | |
-| These two objects exist at the same point in time! | Two objects are placed exactly on top of each other timeline-wise. | Find the two objects and either move or delete one of them. | |
+| These two objects exist at the same point in time! | Two objects are placed exactly on top of each other timeline-wise, requiring the player to click both objects almost simultaneously. | Find the two objects and either move or delete one of them. | |
 | There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps. | *Self-explanatory* | Hitsound the map using whistles, claps and finishes. | |
 | This spinner appears onscreen later than objects which follow it. | Objects appear while the spinner is active. This could be caused by having low AR and/or placing objects too close (timeline-wise) to the spinner. | Change the length of the spinner and/or remove the following objects. | |
 | This hold note is less than 10ms long! | A hold note is , rendering the map impossible to SS. | Increase the length of the hold note or remove it. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
