@@ -44,7 +44,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| These two objects are less than 10ms apart! | Two objects are placed very close to each other timeline-wise. This means that the player will need to click both objects at an alarmingly quick rate! | Find the two hit objects either move or delete one of them. | |
+| These two objects are less than 10ms apart! | Two objects are placed very close to each other timeline-wise. This means that the player will need to click both objects at an alarmingly fast rate! | Find the two hit objects either move or delete one of them. | |
 | These two objects exist at the same point in time! | Two objects are on top of each other. This will make the map impossible to rank! | Find the two hit objects and either move or delete one of them. | |
 | There are no hitsounds on any objects. Hitsounds are required for rankable beatmaps. | *Self-explanatory* | Hitsound the map using whistles, claps and finishes. | |
 | This spinner appears onscreen later than objects which follow it. | Objects appear while the spinner is active. This could be caused by having low AR and/or placing objects too close (time-wise) to the spinner. | Change the length of the spinner and/or remove the following objects |
