@@ -119,7 +119,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Kiai isn't snapped! | The specified kiai's starting point isn't snapped onto the timeline. | Snap the kiai's starting point properly to its intended position on the timeline. |
 | Kiai's end isn't snapped! | The specified kiai's ending point isn't snapped onto the timeline. | Snap the kiai's ending point properly to its intended position on the timeline. |
 | Breaktime is not suggested for mania maps. | *Self-explanatory* | Map out the part where the break time occurs. | ![](/wiki/shared/mode/mania.png) osu!mania maps only. This warning can safely be ignored if the usage of the break time in question is intended, or if the section of the song is otherwise unmappable. |
-| <!-- Can't confirm -->Easy/Normal diff contains too many speed changes. |  |  | |
+| <!-- Can't confirm -->Easy/Normal diff contains too many speed changes. | The Easy/Normal difficulty contains of slider velocity changes, which is discouraged by the [ranking criteria](/wiki/Ranking_Criteria). | Reduce the number of slider velocity changes on the Easy/Normal difficulty in question. | |
 | <!-- Can't confirm -->Kiai is toggled very frequently! | *Self-explanatory* | Reduce the number of kiai occurrences throughout the map. | Also known as *kiai flashes*. This warning can safely be ignored if the kiai usage in question is intended. |
 
 #### Meta
