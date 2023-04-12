@@ -95,7 +95,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
 | Background image is larger than 2560x1440. | *Self-explanatory* | Resize or replace the background image. | |
-| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | The storyboard contains elements that appear repeatedly in a very short time, possibly causing harm to uninitiated people who are prone to [seizure](https://en.wikipedia.org/wiki/Seizure). | Enable the `Display epilepsy warning (storyboard has quick strobing)` option in the Design tab of the [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). | |
+| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | The storyboard contains elements that appear repeatedly in a very short time, possibly causing harm to uninitiated people who are prone to [seizure](https://en.wikipedia.org/wiki/Seizure). | Enable the `Display epilepsy warning (storyboard has quick strobing)` option in the Design tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). | |
 | <!-- Not sure how to test this one -->{0}'s dimensions must be {1}x{1} | The dimension of the specified design element does not match its intended default. | Resize the design element in question to its proper resolution. | |
 | Your video's dimensions must not exceed 1024x768 for the 4:3 format. | *Self-explanatory* | Resize or replace the background video. | |
 | Your video's dimensions must not exceed 1280x720 for the 16:9 format. | *Self-explanatory* | Resize or replace the background video. | |
@@ -126,10 +126,10 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| [Stack leniency](/wiki/Beatmap/Stack_leniency) is larger than 0.9 or smaller than 0.3. | The Stack Leniency slider in the Advanced tab of Song Setup is set to either less than 3 or greater than 9. | Set the Stack Leniency slider so that it is between 3 and 9. | This warning can safely be ignored if the usage of the stack leniency in question is intentional. |
-| <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised artist contains unicode. |  |  | |
+| [Stack leniency](/wiki/Beatmap/Stack_leniency) is larger than 0.9 or smaller than 0.3. | The Stack Leniency slider in the Advanced tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) is set to either less than 3 or greater than 9. | Set the Stack Leniency slider so that it is between 3 and 9. | This warning can safely be ignored if the usage of the stack leniency in question is intentional. |
+| <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised artist contains unicode. | The `Romanised Artist` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) contains [non-standard Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters). | Romanise the name of the artist in the `Romanised Artist` field following the [ranking criteria's standardisation and romanisation rules](/wiki/en/Ranking_Criteria#metadata). | |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised title contains unicode. |  |  |
-| Countdown is not allowed in mania mode. | *Self-explanatory* | Uncheck `Enable countdown` in the "Design" tab in Song Setup. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
+| Countdown is not allowed in mania mode. | *Self-explanatory* | Uncheck `Enable countdown` in the "Design" tab in [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
 | Letterboxing is not allowed in mania mode. | osu!mania maps only! | Uncheck `Letterbox during breaks` in the "Design" tab in Song Setup. |
 | OD rate is suggested to be at least 5. | osu!mania maps only! | Set `Overall Difficulty` in the "Difficulty" tab in Song Setup to 5 or higher. |
 | OD rate for maps with very few sliders is suggested to be at least 7. | osu!mania maps only! |  |
