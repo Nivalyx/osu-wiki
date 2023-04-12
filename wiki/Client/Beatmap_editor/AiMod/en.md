@@ -129,7 +129,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | [Stack leniency](/wiki/Beatmap/Stack_leniency) is larger than 0.9 or smaller than 0.3. | The Stack Leniency slider in the Advanced tab of Song Setup is set to either less than 3 or greater than 9. | Set the Stack Leniency slider so that it is between 3 and 9. | This warning can safely be ignored if the usage of the stack leniency in question is intentional. |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised artist contains unicode. |  |  | |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised title contains unicode. |  |  |
-| Countdown is not allowed in mania mode. | osu!mania maps only! | Uncheck `Enable countdown` in the "Design" tab in Song Setup. |
+| Countdown is not allowed in mania mode. | *Self-explanatory* | Uncheck `Enable countdown` in the "Design" tab in Song Setup. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
 | Letterboxing is not allowed in mania mode. | osu!mania maps only! | Uncheck `Letterbox during breaks` in the "Design" tab in Song Setup. |
 | OD rate is suggested to be at least 5. | osu!mania maps only! | Set `Overall Difficulty` in the "Difficulty" tab in Song Setup to 5 or higher. |
 | OD rate for maps with very few sliders is suggested to be at least 7. | osu!mania maps only! |  |
