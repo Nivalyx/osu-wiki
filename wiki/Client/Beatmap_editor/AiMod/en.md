@@ -149,7 +149,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Letterbox in breaks conflicts with {0} diff. | The `Letterbox during breaks` option in the Design tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Letterbox during breaks` option is set to the same setting across all difficulties. | |
 | Audio preview time conflicts with {0} diff. | The audio preview point differs between one difficulty and another. | Manually set each difficulty's preview point by clicking `Timing` » `Set Current Position as Preview Point` so that they all land on the same spot across all difficulties. | |
 | Source conflicts with {0} diff. | The `Source` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Source` field is consistent across all difficulties. | |
-| Tags conflict with {0} diff. |  |  |
+| Tags conflict with {0} diff. | The `Tags` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Tags` field is consistent across all difficulties. | |
 | Title conflicts with {0} diff. |  |  |
 | Unicode artist conflicts with {0} diff. |  |  |
 | Unicode title conflicts with {0} diff. |  |  |
