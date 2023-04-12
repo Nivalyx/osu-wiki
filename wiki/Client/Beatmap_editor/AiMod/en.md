@@ -144,7 +144,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | :-- | :-- | :-- |  :-- |
 | Artist conflicts with {0} diff. | The `Artist` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Artist` field is consistent across all difficulties. | |
 | Audio file conflicts with {0} diff. | The .mp3 file differs between one difficulty and another. | Make sure that the .mp3 file used as the base of the map is the same across all difficulties. | |
-| Countdown conflicts with {0} diff. | The `Enable countdown` option in the Design tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Enable countdown` option is consistent across all difficulties (whether they're all enabled or they're all disabled). |
+| Countdown conflicts with {0} diff. | The `Enable countdown` option in the Design tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Enable countdown` setting is consistent across all difficulties. |
 | Audio lead-in conflicts with {0} diff. |  |  | Now deprecated as the value of audio lead-in is no longer manually determinable. |
 | Letterbox in breaks conflicts with {0} diff. |  |  |
 | Audio preview time conflicts with {0} diff. |  |  |
