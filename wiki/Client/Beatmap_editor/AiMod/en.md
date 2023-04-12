@@ -147,8 +147,8 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Countdown conflicts with {0} diff. | The `Enable countdown` option in the Design tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Enable countdown` option is set to the same setting across all difficulties. |
 | Audio lead-in conflicts with {0} diff. | The value of audio lead-in differs between one difficulty and another. | Open all the difficulties separately in Notepad (by clicking `File` » `Open .osu in Notepad`), and then make sure that the value of `AudioLeadIn:` is consistent across all difficulties. | Now deprecated as the value of audio lead-in is no longer manually determinable. |
 | Letterbox in breaks conflicts with {0} diff. | The `Letterbox during breaks` option in the Design tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Letterbox during breaks` option is set to the same setting across all difficulties. | |
-| Audio preview time conflicts with {0} diff. |  |  |
-| Source conflicts with {0} diff. |  |  |
+| Audio preview time conflicts with {0} diff. | The audio preview point differs between one difficulty and another. | Manually set each difficulty's preview point to the same spot by clicking `Timing` » Set Current Position as Preview Point` for each difficulty individually. | |
+| Source conflicts with {0} diff. | The `Source` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Source` field is consistent across all difficulties. | |
 | Tags conflict with {0} diff. |  |  |
 | Title conflicts with {0} diff. |  |  |
 | Unicode artist conflicts with {0} diff. |  |  |
