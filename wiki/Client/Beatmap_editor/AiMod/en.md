@@ -33,10 +33,10 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| HP rate for Easy/Normal is suggested to be at least 4. | *Self-explanatory* | Go to Song Settings and set HP rate to 4 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
-| HP rate for Hard and up is suggested to be at least 7. | *Self-explanatory* | Go to Song Settings and set HP rate to 7 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
-| OD rate for maps with few sliders is suggested to be at least 7. | *Self-explanatory* | Go to Song Settings and set OD rate to 7 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
-| The Slider Velocity should be 1.40 or 1.60. | *Self-explanatory* | Go to Timing tab and change Slider Velocity to 1.40 or 1.60. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
+| HP rate for Easy/Normal is suggested to be at least 4. | *Self-explanatory* | Set the `HP Drain Rate` in the Difficulty tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) to 4 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
+| HP rate for Hard and up is suggested to be at least 7. | *Self-explanatory* | Set the `HP Drain Rate` in the Difficulty tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) to 7 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
+| OD rate for maps with few sliders is suggested to be at least 7. | *Self-explanatory* | Set the `Overall Difficulty` in the Difficulty tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) to 4 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
+| The Slider Velocity should be 1.40 or 1.60. | *Self-explanatory* | Go to Timing tab and set the `Slider Velocity:` to 1.40 or 1.60. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
 
 ### Errors
 
