@@ -142,17 +142,17 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| Artist conflicts with {0} diff. | The `Artist` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Artist` field is consistent across all difficulties. | |
+| Unicode artist conflicts with {0} diff. |  |  |
+| Artist conflicts with {0} diff. | The `Romanised Artist` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Romanised Artist` field is consistent across all difficulties. | |
+| Unicode title conflicts with {0} diff. |  |  |
+| Title conflicts with {0} diff. |  |  |
+| Source conflicts with {0} diff. | The `Source` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Source` field is consistent across all difficulties. | |
+| Tags conflict with {0} diff. | The `Tags` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Tags` field is consistent across all difficulties. | |
 | Audio file conflicts with {0} diff. | The .mp3 file used in the map differs between one difficulty and another. | Make sure that all difficulties use the same .mp3 file as their base. | |
 | Countdown conflicts with {0} diff. | The `Enable countdown` option in the Design tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Enable countdown` option is set to the same setting across all difficulties. |
 | Audio lead-in conflicts with {0} diff. | The value of audio lead-in differs between one difficulty and another. | Open all the difficulties separately in Notepad (by clicking `File` » `Open .osu in Notepad`), and then make sure that the value of `AudioLeadIn:` is consistent across all difficulties. | Now deprecated as the value of audio lead-in is no longer manually determinable. |
 | Letterbox in breaks conflicts with {0} diff. | The `Letterbox during breaks` option in the Design tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Letterbox during breaks` option is set to the same setting across all difficulties. | |
 | Audio preview time conflicts with {0} diff. | The audio preview point differs between one difficulty and another. | Manually set each difficulty's preview point by clicking `Timing` » `Set Current Position as Preview Point` so that they all land on the same spot across all difficulties. | |
-| Source conflicts with {0} diff. | The `Source` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Source` field is consistent across all difficulties. | |
-| Tags conflict with {0} diff. | The `Tags` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Tags` field is consistent across all difficulties. | |
-| Title conflicts with {0} diff. |  |  |
-| Unicode artist conflicts with {0} diff. |  |  |
-| Unicode title conflicts with {0} diff. |  |  |
 | This mapset cannot have an Insane diff without a Hard diff. | *Self-explanatory* | Create a Hard difficulty for the set. | |
 | Beatmap exceeds allowed upload size ({0}kb allowed) | The zipped `.osz` file is too large. |  |
 | This mapset needs an easier difficulty |  |  |
