@@ -105,17 +105,17 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
 | This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. | *Self-explanatory* | Add more breaks into the beatmap or cut the song. | This warning can safely be ignored if the length of the map in question is intended. |
-| Your beatmap is shorter than 45 seconds. Consider making it longer. | *Self-explanatory* | Map out more parts of the song or extend it. | This warning can safely be ignored if the length of the map in question is intended. |
+| Your beatmap is shorter than 45 seconds. Consider making it longer. | *Self-explanatory* | Map out more parts of the song. | This warning can safely be ignored if the length of the map in question is intended. |
 | <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file -->Audio bitrate is higher than 192kbps. Consider recompressing to CBR 192kbps or VBR ~1.0. | The beatmap's .mp3 file is encoded in a [bit rate](https://en.wikipedia.org/wiki/Bit_rate) that is higher than 192kbps, which goes above the [Ranking Criteria](/wiki/en/Ranking_Criteria)'s allowance. | Re-encode the .mp3 file so that its bit rate is between 128kbps and 192kbps (with 192kbps being the recommended option). | |
 | <!-- Same as above -->Audio bitrate is lower than 128kbps. Consider finding a better quality source. | The beatmap's .mp3 file is encoded in a [bit rate](https://en.wikipedia.org/wiki/Bit_rate) that is lower than 128kbps, which goes below the [Ranking Criteria](/wiki/en/Ranking_Criteria)'s allowance. | Change the .mp3 file to one with a higher bit rate. | |
-| Kiai time is toggled on for less than 15 seconds. | *Self-explanatory* | Extend the duration of Kiai time to longer than 15 seconds. |
+| Kiai time is toggled on for less than 15 seconds. | *Self-explanatory* | Extend the duration of kiai time to longer than 15 seconds. | This warning can safely be ignored if the kiai usage in question is intended. |
 | The mp3 you are using is a lot longer than the part which is mapped. Consider cropping it to reduce filesize. | *Self-explanatory* | Extend the beatmap or cut the song. |
-| Kiai needs an end time point. |  |  |
-| A preview point for this map is not set. Consider setting one from the Timing menu. |  |  |
-| Two timing points exist at the same time! |  |  |
-| {0} out of {1} timing sections have a volume below 5%. |  |  |
-| More than 1/3 of the map is Kiai time. Consider reducing this. |  |  |
-| More than 1/2 of the TV Size map is Kiai time. Consider reducing this. |  |  |
+| Kiai needs an end time point. | *Self-explanatory* | Add a new inherited timing point to serve as the kiai's endpoint. | |
+| A preview point for this map is not set. Consider setting one from the Timing menu. | *Self-explanatory* | Set out a preview point for the map by clicking `Timing` » `Set Current Position as Preview Point`. | |
+| Two timing points exist at the same time! | *Self-explanatory* | Remove one of the conflicting timing sections. | |
+| {0} out of {1} timing sections have a volume below 5%. | *Self-explanatory* | Set the hitsound volume of the timing sections to 5% or higher. | |
+| More than 1/3 of the map is Kiai time. Consider reducing this. | *Self-explanatory* | Reduce the kiai usage throughout the map. | This warning can safely be ignored if the kiai usage in question is intended. |
+| More than 1/2 of the TV Size map is Kiai time. Consider reducing this. | *Self-explanatory* | Reduce the kiai usage throughout the map. |  This warning can safely be ignored if the kiai usage in question is intended. |
 | Kiai isn't snapped! |  |  |
 | Kiai's end isn't snapped! |  |  |
 | Breaktime is not suggested for mania maps. | osu!mania maps only! | Insert notes where the break time occurs. |
