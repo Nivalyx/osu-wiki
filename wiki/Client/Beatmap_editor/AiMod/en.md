@@ -154,8 +154,8 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Letterbox in breaks conflicts with {0} diff. | The `Letterbox during breaks` option in the Design tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) differs between one difficulty and another. | Make sure that the `Letterbox during breaks` option is set to the same setting across all difficulties. | |
 | Audio preview time conflicts with {0} diff. | The audio preview point differs between one difficulty and another. | Manually set each difficulty's preview point by clicking `Timing` » `Set Current Position as Preview Point` so that they all land on the same spot across all difficulties. | |
 | This mapset cannot have an Insane diff without a Hard diff. | *Self-explanatory* | Create a Hard difficulty for the set. | This warning is based on an ancient ranking criteria rule which has since rendered obsolete. Thus, it can safely be ignored as long as the map follows the [current ranking criteria's spread requirement](wiki/Ranking_Criteria#beatmap). |
-| Beatmap exceeds allowed upload size ({0}kb allowed) | The zipped `.osz` file is too large. | Remove unused files from the map. | |
-| This mapset needs an easier difficulty, |  |  |
+| Beatmap exceeds allowed upload size ({0}kb allowed) | The zipped `.osz` file is too large. | Remove any unused files from the map's folder, or compress any files that are bloated in size. | Refer to [this article](wiki/Beatmapping/Beatmap_submission#limitations) for more information on osu!'s submission limitations. |
+| This mapset needs an easier difficulty. | *Self-explanatory* | Create an easier difficulty for the set. | This warning is based on an ancient ranking criteria rule which has since rendered obsolete. Thus, it can safely be ignored as long as the map follows the [current ranking criteria's spread requirement](wiki/Ranking_Criteria#beatmap). |
 | This mapset is missing diff: {0} |  |  |
 | This mapset needs at least 2 osu!catch diffs. | osu!catch maps only! |  |
 | This mapset needs at least 1 Easy/Normal diff. |  |  |
