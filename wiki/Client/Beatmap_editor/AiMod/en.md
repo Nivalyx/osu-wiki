@@ -95,16 +95,16 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
 | Background image is larger than 2560x1440. | *Self-explanatory* | Resize or replace the background image. | |
-| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | The storyboard contains elements that are flashing, strobing, or otherwise appearing repeatedly in a very short time, possibly causing harm to people who are prone to seizures. | Enable the `Display epilepsy warning (storyboard has quick strobing)` option in the Design tab of the [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). |
-| <!-- Not sure how to test this one -->{0}'s dimensions must be {1}x{1} | The dimension of the specified design element does not match its intended default. | Resize the design element in question to its proper resolution. |
-| Your video's dimensions must not exceed 1024x768 for the 4:3 format. | *Self-explanatory* | Resize or replace the background video. |
-| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | *Self-explanatory* | Resize or replace the background video. |
+| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | The storyboard contains elements that appear repeatedly in a very short time, possibly causing harm to uninitiated people who are prone to [seizure](https://en.wikipedia.org/wiki/Seizure). | Enable the `Display epilepsy warning (storyboard has quick strobing)` option in the Design tab of the [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). | |
+| <!-- Not sure how to test this one -->{0}'s dimensions must be {1}x{1} | The dimension of the specified design element does not match its intended default. | Resize the design element in question to its proper resolution. | |
+| Your video's dimensions must not exceed 1024x768 for the 4:3 format. | *Self-explanatory* | Resize or replace the background video. | |
+| Your video's dimensions must not exceed 1280x720 for the 16:9 format. | *Self-explanatory* | Resize or replace the background video. | |
 
 #### Timing
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. |  |  |
+| This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. |  |  | |
 | Your beatmap is shorter than 45 seconds. Consider making it longer. |  |  |
 | <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file -->Audio bitrate is higher than 192kbps. Consider recompressing to CBR 192kbps or VBR ~1.0. |  |  |
 | <!-- Same as above -->Audio bitrate is lower than 128kbps. Consider finding a better quality source. |  |  |
