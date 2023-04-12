@@ -104,9 +104,9 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. |  |  | |
-| Your beatmap is shorter than 45 seconds. Consider making it longer. |  |  |
-| <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file -->Audio bitrate is higher than 192kbps. Consider recompressing to CBR 192kbps or VBR ~1.0. |  |  |
+| This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. | *Self-explanatory* |  | |
+| Your beatmap is shorter than 45 seconds. Consider making it longer. | *Self-explanatory* |  | |
+| <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file -->Audio bitrate is higher than 192kbps. Consider recompressing to CBR 192kbps or VBR ~1.0. | The beatmap's .mp3 file is encoded in a [bit rate](https://en.wikipedia.org/wiki/Bit_rate) that is higher than 192kbps, which goes above the [Ranking Criteria](/wiki/en/Ranking_Criteria)'s allowance. | Re-encode the .mp3 file so that its bit rate is between 128kbps to 192kbps. | |
 | <!-- Same as above -->Audio bitrate is lower than 128kbps. Consider finding a better quality source. |  |  |
 | Kiai time is toggled on for less than 15 seconds. | *Self-explanatory* | Extend the duration of Kiai time to longer than 15 seconds. |
 | The mp3 you are using is a lot longer than the part which is mapped. Consider cropping it to reduce filesize. | *Self-explanatory* | Extend the beatmap or cut the song. |
