@@ -153,7 +153,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Title conflicts with {0} diff. |  |  |
 | Unicode artist conflicts with {0} diff. |  |  |
 | Unicode title conflicts with {0} diff. |  |  |
-| This mapset cannot have an Insane diff without a Hard diff. | *Self-explanatory* | Map a Hard difficulty. |
+| This mapset cannot have an Insane diff without a Hard diff. | *Self-explanatory* | Create a Hard difficulty for the mapset. | |
 | Beatmap exceeds allowed upload size ({0}kb allowed) | The zipped `.osz` file is too large |  |
 | This mapset needs an easier difficulty |  |  |
 | This mapset is missing diff: {0} |  |  |
