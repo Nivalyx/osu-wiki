@@ -95,7 +95,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
 | Background image is larger than 2560x1440. | *Self-explanatory* | Resize or replace the background image. | |
-| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | The storyboard contains elements that appear repeatedly in a very short time, possibly causing harm to those uninitiated who are prone to [seizures](https://en.wikipedia.org/wiki/Seizure). | Enable the `Display epilepsy warning (storyboard has quick strobing)` option in the Design tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). | |
+| This map may need an epilepsy warning, as it contains frequently toggled storyboards. | The storyboard contains elements that appear repeatedly in a very short time, possibly causing harm to uninitiated players who are prone to [seizures](https://en.wikipedia.org/wiki/Seizure). | Enable the `Display epilepsy warning (storyboard has quick strobing)` option in the Design tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). | |
 | <!-- Not sure how to test this one -->{0}'s dimensions must be {1}x{1} | The dimension of the specified design element does not match its intended default. | Resize the design element in question to its proper resolution. | |
 | Your video's dimensions must not exceed 1024x768 for the 4:3 format. | *Self-explanatory* | Resize or replace the background video. | |
 | Your video's dimensions must not exceed 1280x720 for the 16:9 format. | *Self-explanatory* | Resize or replace the background video. | |
