@@ -142,7 +142,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
-| Artist conflicts with {0} diff. |  |  |
+| Artist conflicts with {0} diff. | The `Artist` field in the General tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) isn't consistent across all difficulties. |  | |
 | Audio file conflicts with {0} diff. |  |  |
 | Countdown conflicts with {0} diff. |  |  |
 | Audio lead-in conflicts with {0} diff. |  |  |
