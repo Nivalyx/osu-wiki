@@ -115,12 +115,12 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Two timing points exist at the same time! | *Self-explanatory* | Remove one of the conflicting timing sections. | |
 | {0} out of {1} timing sections have a volume below 5%. | *Self-explanatory* | Set the hitsound volume of the quiet timing sections to 5% or higher. | |
 | More than 1/3 of the map is Kiai time. Consider reducing this. | *Self-explanatory* | Reduce the kiai usage throughout the map. | This warning can safely be ignored if the kiai usage in question is intended. |
-| More than 1/2 of the TV Size map is Kiai time. Consider reducing this. | *Self-explanatory* | Reduce the kiai usage throughout the map. |  This warning can safely be ignored if the kiai usage in question is intended. |
+| More than 1/2 of the TV Size map is Kiai time. Consider reducing this. | *Self-explanatory* | Reduce the kiai usage throughout the map. | This warning can safely be ignored if the kiai usage in question is intended. |
 | Kiai isn't snapped! | The specified kiai's starting point isn't snapped onto the timeline. | Snap the kiai's starting point properly to its intended position on the timeline. |
 | Kiai's end isn't snapped! | The specified kiai's ending point isn't snapped onto the timeline. | Snap the kiai's ending point properly to its intended position on the timeline. |
 | Breaktime is not suggested for mania maps. | *Self-explanatory* | Map out the part where the break time occurs. | ![](/wiki/shared/mode/mania.png) osu!mania maps only. This warning can safely be ignored if the usage of the break time in question is intended, or if the section of the song is otherwise unmappable. |
 | <!-- Can't confirm -->Easy/Normal diff contains too many speed changes. |  |  | |
-| <!-- Can't confirm -->Kiai is toggled very frequently! |  |  |
+| <!-- Can't confirm -->Kiai is toggled very frequently! | *Self-explanatory* | Reduce the number of kiai occurrences throughout the map. | Also known as *kiai flashes.*. This warning can safely be ignored if the kiai usage in question is intended. |
 
 #### Meta
 
