@@ -118,8 +118,8 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | More than 1/2 of the TV Size map is Kiai time. Consider reducing this. | *Self-explanatory* | Reduce the kiai usage throughout the map. |  This warning can safely be ignored if the kiai usage in question is intended. |
 | Kiai isn't snapped! | The specified kiai's starting point isn't snapped onto the timeline. | Snap the kiai's starting point properly to its intended position on the timeline. |
 | Kiai's end isn't snapped! | The specified kiai's ending point isn't snapped onto the timeline. | Snap the kiai's ending point properly to its intended position on the timeline. |
-| Breaktime is not suggested for mania maps. | *Self-explanatory* | Map out the part where the break time occurs. | ![](/wiki/shared/mode/mania.png) osu!mania maps only. This warning can safely be ignored if the break in question is intended, or if the section of the song is otherwise unmappable. |
-| <!-- Can't confirm -->Easy/Normal diff contains too many speed changes. |  |  |
+| Breaktime is not suggested for mania maps. | *Self-explanatory* | Map out the part where the break time occurs. | ![](/wiki/shared/mode/mania.png) osu!mania maps only. This warning can safely be ignored if the usage of the break time in question is intended, or if the section of the song is otherwise unmappable. |
+| <!-- Can't confirm -->Easy/Normal diff contains too many speed changes. |  |  | |
 | <!-- Can't confirm -->Kiai is toggled very frequently! |  |  |
 
 #### Meta
@@ -127,7 +127,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Message | Explanation | Solution | Notes |
 | :-- | :-- | :-- |  :-- |
 | [Stack leniency](/wiki/Beatmap/Stack_leniency) is larger than 0.9 or smaller than 0.3. | The Stack Leniency slider in the Advanced tab of Song Setup is set to either less than 3 or greater than 9. | Set the Stack Leniency slider so that it is between 3 and 9. | This warning can safely be ignored if the usage of the stack leniency in question is intentional. |
-| <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised artist contains unicode. |  |  |
+| <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised artist contains unicode. |  |  | |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised title contains unicode. |  |  |
 | Countdown is not allowed in mania mode. | osu!mania maps only! | Uncheck `Enable countdown` in the "Design" tab in Song Setup. |
 | Letterboxing is not allowed in mania mode. | osu!mania maps only! | Uncheck `Letterbox during breaks` in the "Design" tab in Song Setup. |
