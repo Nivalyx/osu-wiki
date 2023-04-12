@@ -155,7 +155,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Audio preview time conflicts with {0} diff. | The audio preview point differs between one difficulty and another. | Manually set each difficulty's preview point by clicking `Timing` » `Set Current Position as Preview Point` so that they all land on the same spot across all difficulties. | |
 | This mapset cannot have an Insane diff without a Hard diff. | *Self-explanatory* | Create a Hard difficulty for the set. | |
 | Beatmap exceeds allowed upload size ({0}kb allowed) | The zipped `.osz` file is too large. |  |
-| This mapset needs an easier difficulty |  |  |
+| This mapset needs an easier difficulty, |  |  |
 | This mapset is missing diff: {0} |  |  |
 | This mapset needs at least 2 osu!catch diffs. | osu!catch maps only! |  |
 | This mapset needs at least 1 Easy/Normal diff. |  |  |
