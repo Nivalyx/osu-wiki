@@ -22,7 +22,7 @@ Walaupun serial osu!mapping tidak lagi dilanjutkan secara rutin sejak bulan Janu
 ## Tautan
 
 - **[Kanal Youtube](https://www.youtube.com/user/Pishifat)**
-- [Patreon](https://www.patreon.com/pishifat) (saat ini ditutup)
+- [Patreon](https://www.patreon.com/pishifat) (saat ini tidak aktif)
 - [Twitter](https://twitter.com/pishifat)
 
 ## Sejarah
