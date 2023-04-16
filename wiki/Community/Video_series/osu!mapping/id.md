@@ -17,7 +17,7 @@ tags:
 
 Serial ini merupakan serial banyak direkomendasikan kepada para mapper baru. [osu! team](/wiki/People/osu!_team) bahkan memberikan pishifat lencana [Kontributor Komunitas](/wiki/People/Community_Contributors) atas "kontribusi teladan dalam pembuatan dan pengetahuan mengenai beatmap" sebagai bentuk apresiasi atas usaha dan kerja kerasnya dalam proyek ini.
 
-Unggahan terjadwal osu!mapping berakhir pada bulan Januari tahun 2019, tetapi pishifat masih memiliki rencana untuk menambah topik lagi ke dalam serinya nanti.
+Walaupun serial osu!mapping tidak lagi dilanjutkan secara rutin Januari tahun 2019, pishifat masih memiliki rencana untuk menambah topik lagi ke dalam serinya nanti.
 
 ## Tautan
 
