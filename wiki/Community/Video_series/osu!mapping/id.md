@@ -17,7 +17,7 @@ tags:
 
 Serial ini merupakan serial yang populer dan banyak direkomendasikan kepada para mapper baru. Berkat dampak positif yang ditimbulkan oleh serial ini, [osu! team](/wiki/People/osu!_team) menganugerahi pishifat lencana [kontributor komunitas](/wiki/People/Community_Contributors) atas "kontribusi teladan dalam pembuatan dan edukasi beatmap" sebagai bentuk apresiasi atas usaha dan kerja kerasnya dalam proyek ini.
 
-Walaupun episode baru osu!mapping tidak lagi diunggah secara rutin sejak bulan Januari 2019, ke depannya serial ini masih direncanakan untuk akan tetap hadir dengan berbagai topik bahasan baru.
+Walaupun episode baru osu!mapping tidak lagi diunggah secara rutin sejak bulan Januari 2019, ke depannya serial ini masih direncanakan untuk akan tetap hadir dengan berbagai topik bahasan baru dari waktu ke waktu.
 
 ## Tautan
 
