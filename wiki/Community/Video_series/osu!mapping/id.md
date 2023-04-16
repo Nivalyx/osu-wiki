@@ -15,9 +15,9 @@ tags:
 
 **osu!mapping** merupakan serial video mingguan yang dibuat oleh ::{ flag=US }:: **[pishifat](https://osu.ppy.sh/users/3178418)** dan mengusung berbagai topik seputar mapping dan modding. Serial ini dirilis pada [kanal YouTube pribadi pishifat](https://www.youtube.com/user/Pishifat), di mana serial ini umum dikenal dengan sebutan "pishifat videos" atau "pishi videos".
 
-Serial ini merupakan serial yang tergolong populer dan banyak direkomendasikan kepada para mapper baru. Berkat dampak positif [osu! team](/wiki/People/osu!_team) bahkan memberikan pishifat lencana [Kontributor Komunitas](/wiki/People/Community_Contributors) atas "kontribusi teladan dalam pembuatan dan pengetahuan mengenai beatmap" sebagai bentuk apresiasi atas usaha dan kerja kerasnya dalam proyek ini.
+Serial ini merupakan serial yang tergolong populer dan banyak direkomendasikan kepada para mapper baru. Berkat dampak positif yang ditimbulkan ole[osu! team](/wiki/People/osu!_team) bahkan memberikan pishifat lencana [Kontributor Komunitas](/wiki/People/Community_Contributors) atas "kontribusi teladan dalam pembuatan dan pengetahuan mengenai beatmap" sebagai bentuk apresiasi atas usaha dan kerja kerasnya dalam proyek ini.
 
-Walaupun serial osu!mapping tidak lagi dilanjutkan secara rutin sejak bulan Januari 2019, pishifat masih memiliki rencana untuk menambah topik lagi ke dalam serinya nanti.
+Walaupun episode baru osu!mapping tidak lagi diunggah secara rutin sejak bulan Januari 2019, pishifat masih memiliki rencana untuk menambah topik lagi ke dalam serinya nanti.
 
 ## Tautan
 
