@@ -31,7 +31,7 @@ Proyek osu!mapping dimulai sebagai tanggapan dari sebuah [posting di reddit](htt
 
 Serial ini awalnya berfokus di format konten bergaya tutorial, tetapi dalam beberapa bulan telah mulai bercabang dan memasukkan format diskusi tentang keadaan mapping dan modding saat ini, ulasan pribadi/penyampaian pendapat, dan wawancana dengan mapper lain. Ada juga beberapa proyek penelitian yang disajikan ke dalam bentuk video seri osu!mapping, terutama [studi tentang pengaruh mapper (a study of mappers' influences)](https://www.youtube.com/watch?v=TigwDc5iOcw).
 
-## Episode
+## Daftar episode
 
 1. [concepts](https://www.youtube.com/watch?v=oL3az8FhlB4)
 2. [spacing emphasis](https://www.youtube.com/watch?v=rAYm50d6XMw)
