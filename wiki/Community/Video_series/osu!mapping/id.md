@@ -17,7 +17,7 @@ tags:
 
 Serial ini merupakan serial yang populer dan banyak direkomendasikan kepada para mapper baru. Berkat dampak positif yang ditimbulkan oleh serial ini, [osu! team](/wiki/People/osu!_team) menganugerahi pishifat lencana [kontributor komunitas](/wiki/People/Community_Contributors) atas "kontribusi teladan dalam pembuatan dan edukasi beatmap" sebagai bentuk apresiasi atas usaha dan kerja kerasnya dalam proyek ini.
 
-Walaupun episode baru osu!mapping tidak lagi diunggah secara rutin sejak bulan Januari 2019, ke depannya serial ini masih direncanakan untuk akan tetap hadir dengan berbagai topik bahasan baru.
+Walaupun episode baru osu!mapping tidak lagi diunggah secara rutin sejak bulan Januari 2019, ke depannya serial ini masih direncanakan untuk tetap hadir dengan berbagai topik bahasan baru seiring waktunya.
 
 ## Tautan
 
@@ -27,7 +27,7 @@ Walaupun episode baru osu!mapping tidak lagi diunggah secara rutin sejak bulan J
 
 ## Sejarah
 
-Proyek osu!mapping dimulai sebagai tanggapan dari [post Reddit](https://www.reddit.com/r/osugame/comments/4upysl/request_for_mappers_of_this_sub/) yang meminta para mapper untuk membuat video ulasan bertopik mapping. Pada tanggal 31 Juli 2016, pishifat mengunggah video pertamanya: [osu!mapping: concepts](https://www.youtube.com/watch?v=oL3az8FhlB4). Dalam video itu, ia menjelaskan bagaimana ia akan membuat jenis video ulasan seperti yang disarankan *redditor*, tetapi pada akhirnya ia memutuskan untuk tidak melakukannya karena format video ulasan yang diminta tidak akan efektif untuk mengenalkan proses dan konsep mapping kepada mapper baru. Sebagai gantinya, ia memilih untuk memulai sebuah seri di mana dalam setiap episode, ia akan memilih topik untuk membahas konsep tertentu, menggali kegunaan dan kepentingan mereka dalam mapping secara terpisah.
+Proyek osu!mapping dimulai sebagai tanggapan dari [post Reddit](https://www.reddit.com/r/osugame/comments/4upysl/request_for_mappers_of_this_sub/) yang meminta para mapper untuk membuat video ulasan mapping. Pada tanggal 31 Juli 2016, pishifat mengunggah video pertamanya: [osu!mapping: concepts](https://www.youtube.com/watch?v=oL3az8FhlB4). Dalam video itu, ia menjelaskan bagaimana ia akan membuat jenis video ulasan seperti yang disarankan *redditor*, tetapi pada akhirnya ia memutuskan untuk tidak melakukannya karena format video ulasan yang diminta tidak akan efektif untuk mengenalkan proses dan konsep mapping kepada mapper baru. Sebagai gantinya, ia memilih untuk memulai sebuah seri di mana dalam setiap episode, ia akan memilih topik untuk membahas konsep tertentu, menggali kegunaan dan kepentingan mereka dalam mapping secara terpisah.
 
 Serial ini awalnya berfokus di format konten bergaya tutorial, tetapi dalam beberapa bulan telah mulai bercabang dan memasukkan format diskusi tentang keadaan mapping dan modding saat ini, ulasan pribadi/penyampaian pendapat, dan wawancana dengan mapper lain. Ada juga beberapa proyek penelitian yang disajikan ke dalam bentuk video seri osu!mapping, terutama [studi tentang pengaruh mapper (a study of mappers' influences)](https://www.youtube.com/watch?v=TigwDc5iOcw).
 
