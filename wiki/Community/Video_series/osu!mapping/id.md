@@ -11,7 +11,7 @@ tags:
 
 # osu!mapping
 
-*Artikel ini memiliki konteks bahasan yang berbeda dengan [Beatmapping](/wiki/Beatmapping).*
+*Artikel ini mengusung konteks bahasan yang berbeda dengan [Beatmapping](/wiki/Beatmapping).*
 
 **osu!mapping** merupakan serial video mingguan yang dibuat oleh ::{ flag=US }:: **[pishifat](https://osu.ppy.sh/users/3178418)** yang membahas seputar berbagai topik terkait mapping dan modding. Serial ini dirilis pada [kanal YouTube pribadi pishifat](https://www.youtube.com/user/Pishifat), di mana sebagian besar orang mengetahuinya hanya sebagai "pishifat videos" atau "pishi videos".
 
