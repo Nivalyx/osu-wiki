@@ -13,7 +13,7 @@ tags:
 
 *Artikel ini memiliki konteks bahasan yang berbeda dengan [Beatmapping](/wiki/Beatmapping).*
 
-**osu!mapping** merupakan serial video mingguan yang dibuat oleh ::{ flag=US }:: **[pishifat](https://osu.ppy.sh/users/3178418)** bertopik seputar mapping dan modding. Serial ini dirilis pada [kanal YouTube pribadi pishifat](https://www.youtube.com/user/Pishifat), di mana sebagian besar orang mengetahuinya hanya sebagai "pishifat videos" atau "pishi videos".
+**osu!mapping** merupakan serial video mingguan yang dibuat oleh ::{ flag=US }:: **[pishifat](https://osu.ppy.sh/users/3178418)** yang membahas seputar berbagai topik terkait mapping dan modding. Serial ini dirilis pada [kanal YouTube pribadi pishifat](https://www.youtube.com/user/Pishifat), di mana sebagian besar orang mengetahuinya hanya sebagai "pishifat videos" atau "pishi videos".
 
 Serial ini merupakan serial banyak direkomendasikan kepada para mapper baru. [osu! team](/wiki/People/osu!_team) bahkan memberikan pishifat lencana [Kontributor Komunitas](/wiki/People/Community_Contributors) atas "kontribusi teladan dalam pembuatan dan pengetahuan mengenai beatmap" sebagai bentuk apresiasi atas usaha dan kerja kerasnya dalam proyek ini.
 
