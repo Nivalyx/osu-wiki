@@ -13,7 +13,7 @@ People new to the server are encouraged to introduce themselves in the `#introdu
 
 ## Channels
 
-The osu!dev Discord server features a number of channels, many of which are.
+The osu!dev Discord server features a number of channels, many of which are ce.
 
 ### General
 
@@ -46,18 +46,17 @@ The osu!dev Discord server features a number of channels, many of which are.
 
 | Channel | Project |
 | :-- | :-- |
+| `#featured-artists` | [Featured Artist](/wiki/People/Featured_Artists) beatmap creation |
+| `#mappers-guild` | The [Mappers' Guild](/wiki/Community/Mappers_Guild) |
+| `#osu-spotlights` | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| `#osu-wiki` | [osu! wiki](/wiki/osu!_wiki) |
+| `#osu-news` | [osu!monthly](/wiki/Community/osu!monthly) |
+| `#osu-loved` | [Project Loved](/wiki/Community/Project_Loved) |
+| `#tournaments` | [Tournaments](/wiki/Tournaments) and [official tournament support](/wiki/Tournaments/Official_support) |
+| `#community-meetings` | [osu! community meetings](/wiki/Community/osu!_community_meetings) |
 
 ### Archived
 
 | Channel | Project |
 | :-- | :-- |
 | `#modding` | [Modding v2](/wiki/Beatmap_discussion) and the [beatmap ranking system](Beatmap_ranking_procedure) |
-
-
-| [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
-| [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
-| [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
-| [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
-| [osu! community meetings](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
-| [Modding](/wiki/Modding) discussion and [NAT meetings](/wiki/People/Nomination_Assessment_Team/NAT_meetings) | `#modding` |
-| [Mappers' Guild](/wiki/Community/Mappers_Guild) | `#mappers-guild` |
