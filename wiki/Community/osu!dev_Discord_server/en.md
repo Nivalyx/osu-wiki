@@ -35,6 +35,13 @@ The osu!dev Discord server features a number of channels, each with its own proj
 
 ### Diffcalc
 
+| Channel | Project |
+| :-- | :-- |
+| `#difficulty-osu` | [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points) calculation |
+| `#difficulty-taiko` | [osu!taiko](/wiki/Game_mode/osu!taiko) star rating and performance points calculation |
+| `#difficulty-catch` | [osu!catch](/wiki/Game_mode/osu!catch) star rating and performance points calculation |
+| `#difficulty-mania` | [osu!mania](/wiki/Game_mode/osu!mania) star rating and performance points calculation |
+
 ### Community
 
 ### Archived
@@ -43,15 +50,7 @@ The osu!dev Discord server features a number of channels, each with its own proj
 | :-- | :-- |
 | `#modding` | [Modding v2](/wiki/Beatmap_discussion) and the [beatmap ranking system](Beatmap_ranking_procedure) |
 
-| Project | Channel |
-| :-- | :-- |
-| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
-| [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
-| [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
-| [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points) | `#difficulty-osu` |
-| [osu!taiko](/wiki/Game_mode/osu!taiko) star rating and performance points | `#difficulty-taiko` |
-| [osu!catch](/wiki/Game_mode/osu!catch) star rating and performance points | `#difficulty-catch` |
-| [osu!mania](/wiki/Game_mode/osu!mania) star rating and performance points | `#difficulty-mania` |
+
 | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki) | `#osu-wiki` |
 | [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
