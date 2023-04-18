@@ -31,7 +31,9 @@ The osu!dev Discord server features a number of channels, each with its own proj
 | `#osu-framework` | [osu!framework](https://github.com/ppy/osu-framework) |
 | `#osu-web` | [osu!web](https://github.com/ppy/osu-web) |
 | `#github-feed` | *N/A* |
-| `Meetings` (Stage channel) | [osu! commnity meetings](/wiki/Community/osu!_community_meetings) |
+| `Meetings` (Stage channel) | [osu! community meetings](/wiki/Community/osu!_community_meetings) |
+
+### Diffcalc
 
 ### Community
 
