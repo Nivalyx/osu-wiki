@@ -9,11 +9,11 @@ tags:
 
 The permanent invite link is <https://discord.gg/ppy>.
 
-People new to the server may feel free to introduce themselves in the `#introductions` channel, but doing so is not a requirement to interact with the rest of the server.
+People new to the server are encouraged to introduce themselves in the `#introductions` channel, but doing so is not a requirement to interact with the rest of the server.
 
 ## Channels
 
-The osu!dev Discord server features a number of channels, each with its own projects as its focus.
+The osu!dev Discord server features a number of channels, many of which are.
 
 ### General
 
