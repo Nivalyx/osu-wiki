@@ -13,7 +13,7 @@ People new to the server are encouraged to introduce themselves in the `#introdu
 
 ## Channels
 
-The osu!dev Discord server features a number of channels, many of which are ce.
+The osu!dev Discord server features a number of channels, many of which are centered around the development of a specific project or two.
 
 ### General
 
