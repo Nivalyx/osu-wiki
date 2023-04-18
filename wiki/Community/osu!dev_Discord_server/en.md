@@ -17,11 +17,21 @@ The osu!dev Discord server features a number of channels, each with its own focu
 
 ### General
 
-| Channel | Description |
+| Channel | Project |
 | :-- | :-- |
 | `#welcome` | a |
 | `#introduction` | a |
 | `#general` | a |
+
+### Client / Web
+
+### Community
+
+### Archived
+
+| Channel | Project |
+| :-- | :-- |
+| `#modding` | [Modding v2](/wiki/Beatmap_discussion) and the [beatmap ranking system](Beatmap_ranking_procedure) |
 
 | Project | Channel |
 | :-- | :-- |
