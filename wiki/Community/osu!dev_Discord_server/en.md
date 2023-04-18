@@ -27,9 +27,11 @@ The osu!dev Discord server features a number of channels, each with its own proj
 
 | Channel | Project |
 | :-- | :-- |
-| `#welcome` | *N/A* |
-| `#introduction` | *N/A* |
-| `#general` | *N/A* |
+| `#osu` | [osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
+| `#osu-framework` | *N/A* |
+| `#osu-web` | *N/A* |
+| `#github-feed` | *N/A* |
+| `Meetings` (Stage channel) | *N/A* |
 
 ### Community
 
