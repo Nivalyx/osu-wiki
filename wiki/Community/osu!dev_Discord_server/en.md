@@ -19,7 +19,7 @@ The osu!dev Discord server features a number of channels, each with its own focu
 
 | Channel | Project |
 | :-- | :-- |
-| `#welcome` | a |
+| `#welcome` | *N/A* |
 | `#introduction` | a |
 | `#general` | a |
 
