@@ -44,6 +44,9 @@ The osu!dev Discord server features a number of channels, each with its own proj
 
 ### Community
 
+| Channel | Project |
+| :-- | :-- |
+
 ### Archived
 
 | Channel | Project |
