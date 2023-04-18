@@ -11,9 +11,17 @@ The permanent invite link is <https://discord.gg/ppy>.
 
 People new to the server may feel free to introduce themselves in the `#introductions` channel, but doing so is not a requirement to interact with the rest of the server.
 
-## Projects
+## Channels
 
 Each main development discussed in the server has its own channel:
+
+### General
+
+| Channel | Description |
+| :-- | :-- |
+| `#welcome` | a |
+| `#introduction` | a |
+| `#general` | a |
 
 | Project | Channel |
 | :-- | :-- |
