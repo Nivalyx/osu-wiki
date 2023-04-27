@@ -175,6 +175,14 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://soundcloud.com/jcoreslicer/average-mental-state-of-the-music-producer) | [#1](https://osu.ppy.sh/beatmapsets/1744775) | Grand Finals NM1 |
 | [onumi & Akira Complex - Ethereal Cyber Angel XV](https://www.youtube.com/watch?v=tsMQJbRBTxc)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1744942) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2023](/wiki/Tournaments/TWC/2023)
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| 7\_7 feat. kasane vavzed - 7D | [#1](https://osu.ppy.sh/beatmapsets/1980743) | Grand Finals NM3 |
+| Gram - Sigrdrifa | [#1](https://osu.ppy.sh/beatmapsets/1981053) | Grand Finals tiebreaker |
+| LV.4 feat. Mawata Spica - Vortex of Sorrow | [#1](https://osu.ppy.sh/beatmapsets/1980701) | Grand Finals FM3 |
+
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
 | Song | Beatmap | Notes |
@@ -237,6 +245,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Imaginary Reality vs. HowToPlayLN - Throughout The Memories](https://soundcloud.com/indekkusu/throughout-the-memories) |  | Cutscene background music |
 | [takehirotei vs. HowToPlayLN - Essence](https://soundcloud.com/indekkusu/essence) | [#1](https://osu.ppy.sh/beatmapsets/1943786#mania/4021083) | Grand Finals tiebreaker |
 | [takehirotei vs. HowToPlayLN - Essence \~among the constellations\~](https://soundcloud.com/indekkusu/essence-among-the-constellations) |  | Ending credits theme |
+
+#### ![](/wiki/shared/mode/osu.png) 5 Digit osu! World Cup 2023
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Sydosys - MALEVOLENT VORTEX](https://www.youtube.com/watch?v=IiRuU6X0d14) | [#1](https://osu.ppy.sh/beatmapsets/1968202) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Advanced Global Taiko Showdown 2022](/wiki/Tournaments/GTS/AGTS_2022)
 
