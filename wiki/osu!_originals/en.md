@@ -179,9 +179,11 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| 7\_7 feat. kasane vavzed - 7D | [#1](https://osu.ppy.sh/beatmapsets/1980743) | Grand Finals NM3 |
-| Gram - Sigrdrifa | [#1](https://osu.ppy.sh/beatmapsets/1981053) | Grand Finals tiebreaker |
-| LV.4 feat. Mawata Spica - Vortex of Sorrow | [#1](https://osu.ppy.sh/beatmapsets/1980701) | Grand Finals FM3 |
+| 7\_7 feat. kasane vavzed - 7D[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1980743) | Grand Finals NM3 |
+| Aquestion - Umami Blaze[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1976814) | Finals NM3 |
+| Gram - Sigrdrifa[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1981053) | Grand Finals tiebreaker |
+| LV.4 feat. Mawata Spica - Vortex of Sorrow[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1980701) | Grand Finals FM3 |
+| Toromaru - Sleight of Hand[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1972518) | Semifinals NM2 |
 
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
@@ -246,7 +248,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [takehirotei vs. HowToPlayLN - Essence](https://soundcloud.com/indekkusu/essence) | [#1](https://osu.ppy.sh/beatmapsets/1943786#mania/4021083) | Grand Finals tiebreaker |
 | [takehirotei vs. HowToPlayLN - Essence \~among the constellations\~](https://soundcloud.com/indekkusu/essence-among-the-constellations) |  | Ending credits theme |
 
-#### ![](/wiki/shared/mode/osu.png) 5 Digit osu! World Cup 2023
+#### ![](/wiki/shared/mode/osu.png) 5 Digit World Cup 2023
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
