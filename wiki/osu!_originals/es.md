@@ -175,6 +175,16 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://soundcloud.com/jcoreslicer/average-mental-state-of-the-music-producer) | [#1](https://osu.ppy.sh/beatmapsets/1744775) | Gran final NM1 |
 | [onumi & Akira Complex - Ethereal Cyber Angel XV](https://www.youtube.com/watch?v=tsMQJbRBTxc)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1744942) | Desempate de la gran final |
 
+#### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2023](/wiki/Tournaments/TWC/2023)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| 7\_7 feat. kasane vavzed - 7D[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1980743) | Gran final NM3 |
+| Aquestion - Umami Blaze[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1976814) | Final NM3 |
+| Gram - Sigrdrifa[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1981053) | Desempate de la gran final |
+| LV.4 feat. Mawata Spica - Vortex of Sorrow[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1980701) | Gran final FM3 |
+| Toromaru - Sleight of Hand[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1972518) | Semifinales NM2 |
+
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
 | Canción | Beatmap | Notas |
@@ -237,6 +247,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Imaginary Reality vs. HowToPlayLN - Throughout The Memories](https://soundcloud.com/indekkusu/throughout-the-memories) |  | Canción de intervalo |
 | [takehirotei vs. HowToPlayLN - Essence](https://soundcloud.com/indekkusu/essence) | [#1](https://osu.ppy.sh/beatmapsets/1943786#mania/4021083) | Desempate de la gran final |
 | [takehirotei vs. HowToPlayLN - Essence \~among the constellations\~](https://soundcloud.com/indekkusu/essence-among-the-constellations) |  | Canción de los créditos |
+
+#### ![](/wiki/shared/mode/osu.png) 5 Digit World Cup 2023
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [Sydosys - MALEVOLENT VORTEX](https://www.youtube.com/watch?v=IiRuU6X0d14) | [#1](https://osu.ppy.sh/beatmapsets/1968202) | Desempate de la gran final |
 
 #### ![](/wiki/shared/mode/taiko.png) [Advanced Global Taiko Showdown 2022](/wiki/Tournaments/GTS/AGTS_2022)
 
