@@ -4,7 +4,7 @@ Laman ini diperuntukkan untuk turnamen-turnamen yang ada di osu!. Turnamen memil
 
 Silakan kunjungi halaman [dukungan resmi turnamen](/wiki/Tournaments/Official_support) untuk memperoleh informasi seputar cara mengajukan permintaan dukungan resmi untuk turnamenmu (lencana, proses *screening*, dll.).
 
-## Turnamen Resmi
+## Turnamen World Cup resmi
 
 Turnamen resmi yang diselenggarakan oleh Pengelola Turnamen.
 
@@ -84,7 +84,7 @@ osu! World Cup merupakan turnamen antar negara yang menganut sistem pertandingan
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 2022-07-07 | 2022-09-18 | ::{ flag=KR }:: Korea Selatan | ::{ flag=BR }:: Brazil | ::{ flag=US }:: Amerika Serikat |
 | [osu!mania 7K World Cup 2023](MWC/2023_7K) | 2022-12-15 | 2023-02-18 | ::{ flag=PH }:: Filipina | ::{ flag=KR }:: Korea Selatan | ::{ flag=MY }:: Malaysia |
 
-## Komunitas
+## Turnamen komunitas
 
 Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
@@ -779,7 +779,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 | [Touhou Project Mania Cup 1st](TMC/1st) | 2020-09-14 | 2020-12-06 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 | [Touhou Project Mania Cup 2nd](TMC/2nd) | 2021-12-20 | 2022-03-20 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 
-### Mode permainan beragam
+### Mode campuran
 
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 
