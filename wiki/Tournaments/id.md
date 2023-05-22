@@ -10,8 +10,6 @@ Berikut merupakan berbagai turnamen resmi yang diselenggarakan oleh tim osu!.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-osu! World Cup merupakan turnamen antar negara yang menganut sistem pertandingan *team versus* 4v4 dengan aturan eliminasi ganda (*double elimination*). Turnamen ini merupakan ajang internasional yang diselenggarakan setiap tahunnya oleh para anggota komunitas dari seluruh dunia yang saling bekerja sama untuk menciptakan turnamen yang kompetitif.
-
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! World Cup #1](OWC/1) | 2011-01-31 | 2011-04-08 | ::{ flag=TW }:: Taiwan | ::{ flag=NL }:: Belanda | ::{ flag=KR }:: Korea Selatan |
