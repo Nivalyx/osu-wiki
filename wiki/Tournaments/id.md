@@ -10,7 +10,7 @@ Berikut merupakan berbagai turnamen resmi yang diselenggarakan oleh tim osu!.
 
 ### ![](/wiki/shared/mode/osu.png) osu! World Cup
 
-osu! World Cup merupakan turnamen antar negara yang menganut sistem pertandingan *team versus* 4v4 dengan aturan eliminasi ganda (*double elimination*). Turnamen ini merupakan ajang internasional yang diselenggarakan setahun sekali oleh para anggota komunitas osu! dari seluruh dunia yang saling bekerja sama untuk menciptakan turnamen yang kompetitif.
+osu! World Cup merupakan turnamen antar negara yang menganut sistem pertandingan *team versus* 4v4 dengan aturan eliminasi ganda (*double elimination*). Turnamen ini merupakan ajang internasional yang diselenggarakan setahun sekali oleh para anggota komunitas dari seluruh dunia yang saling bekerja sama untuk menciptakan turnamen yang kompetitif.
 
 | Nama | Mulai | Selesai | ![Mahkota Emas][GCrown] | ![Mahkota Perak][SCrown] | ![Mahkota Perunggu][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -779,7 +779,7 @@ Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan o
 | [Touhou Project Mania Cup 1st](TMC/1st) | 2020-09-14 | 2020-12-06 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
 | [Touhou Project Mania Cup 2nd](TMC/2nd) | 2021-12-20 | 2022-03-20 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 
-### Mode campuran
+### Mode permainan campuran
 
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 
