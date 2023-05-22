@@ -86,7 +86,7 @@ osu! World Cup merupakan turnamen antar negara yang menganut sistem pertandingan
 
 ## Turnamen komunitas
 
-Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
+Berikut merupakan berbagai turnamen/kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
