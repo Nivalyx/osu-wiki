@@ -2,7 +2,7 @@
 
 # BBCode
 
-BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan sebagian besar forum lainnya di internet. Bahasa ini berfungsi untuk rich text formatting, yang terdiri dari tag-tag yang mengelilingi teks untuk menandakan pemformatan, atribut, embed, dan lainnya. Pada situs web osu!, BBCode digunakan pada berbagai area seperti postingan forum, tanda tangan (*signature*), laman pengguna (*user page*), dan kolom deskripsi beatmap.
+BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan sebagian besar forum lainnya di internet. Bahasa ini berfungsi untuk menampilkan teks pada format (*rich text*) melalui berbagai tag yang menandakan pemformatan, atribut, embed, dan lainnya. Pada situs web osu!, BBCode digunakan pada berbagai area seperti postingan forum, tanda tangan (*signature*), laman pengguna (*user page*), dan kolom deskripsi beatmap.
 
 ![Kotak dialog pembuatan postingan forum beserta dengan tombol-tombolnya](img/editor-id.jpg "Kotak dialog editor post pada forum osu!")  
 
@@ -17,9 +17,9 @@ Serangkaian penggunaan tag berlapis yang benar dan salah dijelaskan di bawah ini
 - `[centre][b]teks[/b][/centre]` benar
 - `[b][centre]teks[/b][/centre]` salah
 
-## Tag-tag
+## Tag
 
-BBCode, seperti banyak sintaks markup lainnya, pemformatan teks menggunakan sistem tag, yang ditunjukkan dengan sepasang tanda kurung siku (`[]`). Tag ini dibagi menjadi tag "pembuka" dan tag "penutup", yang dibedakan melalui penyertaan garis miring (`/`). Secara khusus, tag penutup berisi garis miring tepat setelah kurung dibuka, sedangkan tag terbuka tidak disertakan.
+BBCode, sebagaimana bahasa *markup* lainnya, pemformatan teks menggunakan sistem tag, yang ditunjukkan dengan sepasang tanda kurung siku (`[]`). Tag ini dibagi menjadi tag "pembuka" dan tag "penutup", yang dibedakan melalui penyertaan garis miring (`/`). Secara khusus, tag penutup berisi garis miring tepat setelah kurung dibuka, sedangkan tag terbuka tidak disertakan.
 
 Penting juga dicatat bahwa, tag terbuka terkadang menyertakan tanda sama dengan (`=`) di dalamnya untuk menunjukkan URL, ukuran huruf, dan elemen sejenis lainnya yang akan dibahas selanjutnya.
 
@@ -269,7 +269,7 @@ teks
 
 Tag `[notice]` digunakan untuk menempatkan paragraf ke dalam kotak besar dengan garis tepi berwarna body gelap. Tombol ini utamanya digunakan untuk menunjukkan pemberitahuan atau peringatan mengenai subjek tertentu di situs web.
 
-## Warisan
+## Tag lama yang tidak lagi digunakan
 
 Berikut ini adalah tag BBCode yang pernah digunakan di berbagai tempat di situs web osu!, tetapi sekarang tidak tersedia untuk digunakan. Penggunaan dan sintaksnya dijelaskan di bawah ini untuk tujuan historis.
 
