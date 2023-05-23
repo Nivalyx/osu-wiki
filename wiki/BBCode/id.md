@@ -31,7 +31,7 @@ Tag-tag BBCode yang didukung di situs web osu!, terdaftar dan dijelaskan secara 
 [b]teks[/b]
 ```
 
-Tag `[b]` atau *cetak tebal* digunakan untuk penekanan teks melalui penggunaan huruf tebal. Huruf tebal BBCode tidak memengaruhi ukuran huruf.
+Tag `[b]` atau *cetak tebal* digunakan untuk memberikan penekanan pada teks melalui penggunaan huruf yang dicetak tebal. Ketebalan huruf ini tidak memengaruhi ukuran huruf.
 
 Tombol pada toolbar: ![Tombol Bold](img/bold.png "Bold")
 
