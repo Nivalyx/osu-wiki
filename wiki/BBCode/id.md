@@ -303,5 +303,5 @@ Tag *Heading (v2)* adalah sebuah tag usang yang pernah digunakan di forum osu! u
 
 - Artikel ini diadaptasi dari utas forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) yang ditulis oleh [Stefan](https://osu.ppy.sh/users/626907).
 - Dahulu kala, terdapat sebuah bug yang memungkinkan pengguna untuk membuat teks transparan dengan mencantumkan warna "transparent" pada [tag colour](#colour) (`colour=transparent`).
-  - Untuk saat ini, teks yang ada akan kembali ke warna *default* (putih) pada saat tag ini digunakan.
+  - Untuk saat ini, teks yang ada akan kembali ke warna *default* (putih) pada saat warna ini dipilih.
 - Sebelum tag `imagemap` diberlakukan, it was possible to add a hyperlink to an image by combining the url and img tags, however, only one hyperlink can be set per image. This would require slicing the original image into several pieces (i.e. for each link one partial image) and arranging them horizontally side by side.
