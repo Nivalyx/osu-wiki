@@ -302,5 +302,5 @@ Tag *Heading (v2)* adalah sebuah tag usang yang pernah digunakan di forum osu! u
 ## Trivia
 
 - Artikel ini diadaptasi dari utas forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) yang ditulis oleh [Stefan](https://osu.ppy.sh/users/626907).
-- Dulu ada sebuah bug yang memungkinkan pengguna membuat teks transparan dengan menggunakan [tag warna](#colour) dan mengetik "transparent" setelah tanda sama dengan (`=`).
+- Dahulu kala, terdapat sebuah bug yang memungkinkan pengguna membuat teks transparan dengan menggunakan [tag warna](#colour) dan mengetik "transparent" setelah tanda sama dengan (`=`).
   - Untuk saat ini, teks akan kembali ke warna default (putih) saat itu terjadi.
