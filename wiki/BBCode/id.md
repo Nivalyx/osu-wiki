@@ -2,7 +2,7 @@
 
 # BBCode
 
-BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan sebagian besar forum lainnya di internet. Bahasa ini berfungsi untuk menampilkan teks pada format *rich text* melalui berbagai tag yang menandakan pemformatan, atribut, penyematan konten, dan lainnya. Pada situs web osu!, BBCode digunakan pada berbagai tempat seperti postingan forum, tanda tangan (*signature*), laman pengguna (*user page*), dan kolom deskripsi beatmap.
+BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan sebagian besar forum lainnya di internet. Bahasa ini berfungsi untuk menampilkan teks pada format *rich text* melalui berbagai tag yang menandakan pemformatan, atribut, penyematan konten, dan lain sebagainya. Pada situs web osu!, BBCode digunakan pada berbagai tempat seperti postingan forum, tanda tangan (*signature*), laman pengguna (*user page*), dan kolom deskripsi beatmap.
 
 ![Kotak dialog editor post beserta dengan tombol-tombolnya](img/editor-id.jpg "Kotak dialog editor post pada forum osu!")  
 
