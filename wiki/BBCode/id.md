@@ -2,11 +2,11 @@
 
 # BBCode
 
-BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan sebagian besar forum lainnya di internet. Hampir keseluruhan forum osu! telah mendukung rich text formatting, yang terdiri dari tag-tag yang mengelilingi teks untuk menandakan pemformatan, atribut, embed, dan lainnya. BBCode telah digunakan di berbagai area di situs web osu!, seperti postingan forum, signature, user page, dan deskripsi beatmap.
+BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan sebagian besar forum lainnya di internet. Hampir keseluruhan forum osu! telah mendukung rich text formatting, yang terdiri dari tag-tag yang mengelilingi teks untuk menandakan pemformatan, atribut, embed, dan lainnya. Pada situs web osu!, BBCode digunakan pada berbagai area seperti postingan forum, tanda tangan (*signature*), laman pengguna (*user page*), dan kolom deskripsi beatmap.
 
 ![Antarmuka kotak dialog pembuatan postingan forum beserta dengan tombol-tombolnya](img/editor-id.jpg "Boks editor post pada forum osu!")  
 
-## Upaya tindakan
+## Perilaku
 
 Mengklik tombol markup tanpa menyeleksi teks apa pun akan membuat serangkaian tag terbuka dan tertutup di sekitar teks pada editor postingan. Menyeleksi teks sebelum mengklik tombol markup akan menjadikan teks tersebut diapit oleh tag yang diinginkan.
 
