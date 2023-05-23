@@ -2,7 +2,7 @@
 
 # BBCode
 
-BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan forum internet lain pada umumnya. Bahasa ini berfungsi untuk menampilkan teks pada format *rich text* melalui berbagai tag yang menandakan pemformatan, atribut, penyematan konten, dan lain sebagainya. Pada situs web osu!, BBCode digunakan pada berbagai tempat seperti postingan forum, tanda tangan (*signature*), laman pengguna (*user page*), dan kolom deskripsi beatmap.
+BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan forum internet lain pada umumnya. Bahasa ini berfungsi untuk menampilkan teks dalam format *rich text* melalui berbagai tag yang menandakan pemformatan, atribut, penyematan konten, dan lain sebagainya. Pada situs web osu!, BBCode digunakan pada berbagai tempat seperti postingan forum, tanda tangan (*signature*), laman pengguna (*user page*), dan kolom deskripsi beatmap.
 
 ![Kotak dialog editor post beserta dengan tombol-tombolnya](img/editor-id.jpg "Kotak dialog editor post pada forum osu!")  
 
@@ -301,6 +301,6 @@ Tag *Heading (v2)* adalah sebuah tag usang yang pernah digunakan di forum osu! u
 
 ## Trivia
 
-- Artikel wiki ini diadaptasi dari ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) utas forum milik [Stefan](https://osu.ppy.sh/users/626907).
+- Artikel  ini diadaptasi dari utas forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) yang ditulis oleh [Stefan](https://osu.ppy.sh/users/626907).
 - Dulu ada sebuah bug yang memungkinkan pengguna membuat teks transparan dengan menggunakan [tag warna](#colour) dan mengetik "transparent" setelah tanda sama dengan (`=`).
   - Untuk saat ini, teks akan kembali ke warna default (putih) saat itu terjadi.
