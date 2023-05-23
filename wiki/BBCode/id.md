@@ -4,7 +4,7 @@
 
 BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan sebagian besar forum lainnya di internet. Hampir keseluruhan forum osu! telah mendukung rich text formatting, yang terdiri dari tag-tag yang mengelilingi teks untuk menandakan pemformatan, atribut, embed, dan lainnya. BBCode telah digunakan di berbagai area di situs web osu!, seperti postingan forum, signature, user page, dan deskripsi beatmap.
 
-![postingan forum dengan tombol-tombolnya](img/editor-id.jpg "kotak edit postingan di dalam forum osu!")  
+![Ilustrasi antarmuka postingan forum dengan tombol-tombolnya](img/editor-id.jpg "Boks editor post pada forum osu!")  
 
 ## Upaya tindakan
 
