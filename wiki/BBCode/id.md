@@ -41,7 +41,7 @@ Tombol pada toolbar: ![Tombol Bold](img/bold.png "Bold")
 [i]teks[/i]
 ```
 
-Tag `[i]` atau *cetak miring* digunakan untuk memberi penekanan ringan pada teks dengan memiringkan teks ke depan (yaitu, miring).
+Tag `[i]` atau *cetak miring* digunakan untuk memberikan penekanan ringan pada tulisan melalui penggunaan huruf yang dicetak miring.
 
 Tombol pada toolbar: ![Tombol Italic](img/italic.png "Italic")
 
