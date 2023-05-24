@@ -95,7 +95,7 @@ Tombol pada toolbar: ![Pengaturan Ukuran Huruf](img/font-size-id.png "Font size"
 [spoiler]teks[/spoiler]
 ```
 
-*Jangan disamakan dengan [Spoilerbox](#spoilerbox).*
+*Tag ini tidak sama dengan tag [Spoilerbox](#spoilerbox).*
 
 Tag `[spoiler]` atau *penutup teks* digunakan untuk menutupi informasi sensitif dengan latar depan hitam pekat yang menampilkan teks di belakangnya saat diseleksi. Jika ditumpuk dengan tag [`[color]`](#colour), penutup berwarna hitam tidak akan berpengaruh. Namun, teks di belakang penutup hitam tersebut tetap berwarna, baik dapat dibaca atau tidak.
 
