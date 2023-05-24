@@ -137,7 +137,7 @@ teks
 [/quote]
 ```
 
-Tag `[quote]` atau *kutipan* digunakan untuk gaya pemformatan kutipan panjang, (alias "tanda kutip blok") melalui penggunaan indentasi, pewarnaan, cetak tebal, dan pemisahan teks melalui garis vertikal merah muda. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAME` menentukan penulis kutipan (meskipun ini opsional). Teks di dalam tanda kutip akan membuat spasi dan jeda baris.
+Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam gaya kutipan (alias "tanda kutip blok") melalui penggunaan indentasi, pewarnaan, cetak tebal, dan pemisahan teks melalui garis vertikal merah muda. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAME` menentukan penulis kutipan (meskipun ini opsional). Teks di dalam tanda kutip akan membuat spasi dan jeda baris.
 
 *Catatan: Argumen `NAME` pada tag ini wajib ditulis dengan tanda kutip (`"`).*
 
