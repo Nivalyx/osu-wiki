@@ -99,7 +99,7 @@ Tombol pada toolbar: ![Pengaturan Ukuran Huruf](img/font-size-id.png "Font size"
 
 Tag `[spoiler]` digunakan untuk menutupi teks yang berisi informasi sensitif dengan latar berwarna hitam. pekat yang menampilkan teks di belakangnya saat diseleksi. Apabila dipadukan dengan tag [`[color]`](#colour), penutup berwarna hitam tidak akan berpengaruh. Namun, teks di belakang penutup hitam tersebut tetap berwarna, baik dapat dibaca atau tidak.
 
-Tag ini pada umumnya digunakan untuk menyembunyikan informasi seputar acara TV, film, atau media lainnya agar tidak sampai bocor ke yang belum menonton. Di samping itu, tag ini juga terkadang digunakan untuk efek komedi atau penekanan. 
+Tag ini pada umumnya digunakan untuk menyembunyikan informasi seputar acara TV, film, atau media lainnya agar tidak sampai bocor. Terkadang, tag ini juga digunakan untuk menekankan sesuatu atau hanya untuk guyonan belaka.
 
 ### Box
 
