@@ -19,7 +19,7 @@ Serangkaian penggunaan tag berlapis yang benar dan salah dijelaskan di bawah ini
 
 ## Tag
 
-BBCode, sebagaimana bahasa *markup* lainnya, yang ditandai dengan karakter kurung siku (`[]`). Tag ini dibagi menjadi tag "pembuka" dan tag "penutup", yang dibedakan melalui penyertaan garis miring (`/`). Secara khusus, tag penutup berisi garis miring tepat setelah kurung dibuka, sedangkan tag terbuka tidak disertakan.
+BBCode, sebagaimana bahasa *markup* lainnya, memformat teks dengan sistem tag yang ditandai oleh karakter kurung siku (`[]`). Tag ini dibagi menjadi tag "pembuka" dan tag "penutup", yang dibedakan melalui penyertaan garis miring (`/`). Secara khusus, tag penutup berisi garis miring tepat setelah kurung dibuka, sedangkan tag terbuka tidak disertakan.
 
 Penting juga dicatat bahwa, tag terbuka terkadang menyertakan tanda sama dengan (`=`) di dalamnya untuk menunjukkan URL, ukuran huruf, dan elemen sejenis lainnya yang akan dibahas selanjutnya.
 
