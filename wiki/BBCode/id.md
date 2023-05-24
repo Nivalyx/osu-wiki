@@ -68,24 +68,24 @@ Tombol pada toolbar: ![Tombol Strike](img/strike.png "Strikethrough")
 ### Colour
 
 ```
-[color=HEXCODE]teks[/color]
+[color=KODE HEX]teks[/color]
 ```
 
 *Untuk daftar nama warna yang didukung oleh tag ini, kunjungi laman [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)*.
 
-Tag `[color]` atau *pewarnaan* digunakan untuk mewarnai teks dengan warna yang ramah web (*web-safe colours*). Tag ini menggunakan format [kode HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) dalam pewarnaannya, meskipun warna yang ada juga dapat ditentukan secara langsung melalui nama umumnya seperti "Red" atau "Green". Untuk mewarnai teks, ubah argumen `HEXCODE` pada contoh di atas dengan kode HEX atau nama warna yang sesuai.
+Tag `[color]` atau *pewarnaan* digunakan untuk mewarnai teks dengan warna yang ramah web (*web-safe colours*). Tag ini menggunakan format [kode HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) dalam pewarnaannya, meskipun warna yang ada juga dapat ditentukan secara langsung melalui nama umumnya seperti "Red" atau "Green". Untuk mewarnai teks, ubah argumen `KODE HEX` pada contoh di atas dengan kode HEX atau nama warna yang sesuai.
 
-Argumen warna pada tag ini tidak menyertakan tanda kutip (`"`) serta tidak memiliki warna *default*. Apabila tidak ada argumen yang ditentukan atau apabila warna yang ada ditulis dengan tanda kutip, tag tidak akan diuraikan sebagai tag BBCode.
+Argumen warna pada tag ini tidak menyertakan tanda kutip (`"`) serta tidak memiliki warna *default*. Apabila tidak ada argumen yang ditentukan atau apabila warna yang ada ditulis dengan tanda kutip, tag tidak akan diuraikan sebagai tag BBCode yang sah.
 
 ### Font size
 
 ```
-[size=NUMBER]teks[/size]
+[size=UKURAN]teks[/size]
 ```
 
-Tag `[size]` atau *ukuran huruf* digunakan untuk mengatur gaya teks melalui penggunaan ukuran huruf yang berbeda. Saat ini, ada empat ukuran yang didukung oleh situs web osu!: 50, 85, 100, dan 150. Ukuran secara internal disebut sebagai "mungil", "kecil", "normal", dan "besar".
+Tag `[size]` atau *ukuran huruf* digunakan untuk mengubah ukuran huruf pada teks. Saat ini, terdapat empat ukuran huruf yang didukung oleh situs web osu!, yakni 50, 85, 100, dan 150. Ukuran secara internal disebut sebagai "mungil", "kecil", "normal", dan "besar".
 
-Argumen `NUMBER` tidak menerima tanda kutip, dan hanya menerima salah satu dari empat ukuran yang didukung. Jika memasukkan angka yang bukan salah satu dari empat yang didukung, format teks akan kembali ke ukuran default.
+Argumen `UKURAN` tidak menerima tanda kutip, dan hanya menerima salah satu dari empat ukuran yang didukung. Jika memasukkan angka yang bukan salah satu dari empat yang didukung, format teks akan kembali ke ukuran default.
 
 Tombol pada toolbar: ![Pengaturan Ukuran Huruf](img/font-size-id.png "Font size")
 
