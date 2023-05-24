@@ -85,7 +85,7 @@ Argumen warna pada tag ini tidak ditulis dengan tanda kutip (`"`) serta tidak me
 
 Tag `[size]` atau *ukuran huruf* digunakan untuk mengubah ukuran huruf pada teks. Saat ini, terdapat empat ukuran huruf yang didukung oleh situs web osu!: 50, 85, 100, dan 150, atau yang dikenal juga dengan nama "Mungil", "Kecil", "Normal", dan "Besar".
 
-Argumen `UKURAN` tidak pada tag ini tidak ditulis dengan tanda kutip dan hanya dapat diisi oleh salah satu dari empat ukuran huruf yang didukung. Apabila ukuran huruf yang dimasukkan bukan merupakan salah satu dari empat nilai ukuran di atas, teks akan ditulis dalam ukuran normal.
+Argumen `UKURAN` pada tag ini tidak ditulis dengan tanda kutip dan hanya dapat diisi oleh salah satu dari empat ukuran huruf yang didukung. Apabila ukuran huruf yang dimasukkan bukan merupakan salah satu dari empat nilai ukuran di atas, teks akan ditulis dalam ukuran normal.
 
 Tombol pada toolbar: ![Pengaturan Ukuran Huruf](img/font-size-id.png "Font size")
 
@@ -97,7 +97,7 @@ Tombol pada toolbar: ![Pengaturan Ukuran Huruf](img/font-size-id.png "Font size"
 
 *Tag ini tidak sama dengan [Spoilerbox](#spoilerbox).*
 
-Tag `[spoiler]` digunakan untuk menutupi teks yang berisi informasi sensitif dengan latar berwarna hitam. Teks yang tertutup tag spoiler hanya akan terlihat apabila diseleksi oleh pengguna. Apabila dipadukan dengan tag [`[color]`](#colour), latar hitam yang ada tidak akan terpengaruh, namun teks yang ditutupi akan tetap berubah warna.
+Tag `[spoiler]` digunakan untuk menutupi teks yang berisi informasi sensitif dengan latar berwarna hitam. Teks yang tertutup tag spoiler hanya akan terlihat pada saat diseleksi oleh pengguna. Apabila dipadukan dengan tag [`[color]`](#colour), latar hitam yang ada tidak akan terpengaruh, namun teks asli yang ditutupi oleh tag ini akan tetap berubah warna.
 
 Tag ini pada umumnya digunakan untuk menyembunyikan informasi penting/sensitif seputar acara TV, film, atau media lainnya. Terkadang, tag ini juga digunakan untuk menekankan sesuatu atau sekadar untuk guyonan belaka.
 
