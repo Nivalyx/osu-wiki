@@ -271,7 +271,7 @@ Tag `[notice]` atau *pemberitahuan* digunakan untuk menempatkan paragraf ke dala
 
 ## Tag lama yang tidak lagi digunakan
 
-Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!. Meskipun tidak lagi digunakan, fungsi dan tata cara penulisan masing-masing tag tersebut turut didokumentasikan di bawah ini untuk keperluan sejarah.
+Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!. Meskipun tidak lagi digunakan, fungsi dan tata cara penulisan tag-tag berikut turut didokumentasikan di bawah ini untuk keperluan sejarah.
 
 ### Google
 
