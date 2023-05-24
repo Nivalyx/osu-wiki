@@ -59,7 +59,7 @@ Tag `[u]` atau *garis bawah* digunakan untuk memberikan penekanan pada teks mela
 [strike]teks[/strike]
 ```
 
-*Juga dikenal sebagai **strike**.*
+*Dikenal juga sebagai **strike**.*
 
 Tag `[strike]` atau *coret* digunakan untuk menunjukkan asumsi penghapusan teks yang sebelumnya dimasukkan melalui penggunaan garis horizontal yang "mencoret" teks (yaitu "coret").
 
