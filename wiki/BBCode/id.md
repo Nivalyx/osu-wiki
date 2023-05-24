@@ -85,7 +85,7 @@ Argumen warna pada tag ini tidak ditulis dengan tanda kutip (`"`) serta tidak me
 
 Tag `[size]` atau *ukuran huruf* digunakan untuk mengubah ukuran huruf pada teks. Saat ini, terdapat empat ukuran huruf yang didukung oleh situs web osu!: 50, 85, 100, dan 150, atau yang dikenal juga dengan nama "mungil", "kecil", "normal", dan "besar".
 
-Argumen `UKURAN` tidak pada tag ini tidak ditulis dengan tanda kutip dan hanya dapat diisi oleh salah satu dari empat ukuran huruf yang didukung. Apabila angka yang dimasukkan bukan merupakan salah satu dari empat angka yang didukung, teks akan ditulis dalam ukuran normal.
+Argumen `UKURAN` tidak pada tag ini tidak ditulis dengan tanda kutip dan hanya dapat diisi oleh salah satu dari empat ukuran huruf yang didukung. Apabila ukuran huruf yang dimasukkan bukan merupakan salah satu dari empat nilai ukuran di atas, teks akan ditulis dalam ukuran normal.
 
 Tombol pada toolbar: ![Pengaturan Ukuran Huruf](img/font-size-id.png "Font size")
 
