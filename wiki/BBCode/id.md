@@ -19,7 +19,7 @@ Serangkaian penggunaan tag berlapis yang benar dan salah dijelaskan di bawah ini
 
 ## Tag
 
-BBCode, sebagaimana bahasa *markup* lain pada umumnya, memformat teks melalui sistem tag yang ditandai oleh sepasang tanda kurung siku (`[]`). Tag ini dibagi menjadi tag "pembuka" dan "penutup" yang dibedakan melalui penyertaan garis miring (`/`). Secara khusus, tag penutup berisi garis miring tepat setelah kurung dibuka, sedangkan tag terbuka tidak disertakan.
+BBCode, sebagaimana bahasa *markup* lain pada umumnya, memformat teks melalui sistem tag yang ditandai oleh sepasang tanda kurung siku (`[]`). Tag ini dibagi menjadi tag "pembuka" dan "penutup", yang masing-masingya dibedakan melalui penyertaan garis miring (`/`). Secara khusus, tag penutup berisi garis miring tepat setelah kurung dibuka, sedangkan tag terbuka tidak disertakan.
 
 Penting juga dicatat bahwa, tag terbuka terkadang menyertakan tanda sama dengan (`=`) di dalamnya untuk menunjukkan URL, ukuran huruf, dan elemen sejenis lainnya yang akan dibahas selanjutnya.
 
@@ -61,7 +61,7 @@ Tag `[u]` atau *garis bawah* digunakan untuk memberikan penekanan pada teks mela
 
 *Dikenal juga sebagai **strike**.*
 
-Tag `[strike]` atau *coret* digunakan untuk memberikan kesan bahwa teks yang bersangkutan seolah-olah akan dihapus melalui penggunaan garis horizontal yang "mencoret" teks.
+Tag `[strike]` atau *coret* digunakan untuk memberikan kesan bahwa teks yang bersangkutan seolah-olah akan dihapus melalui paparan garis horizontal yang "mencoret" teks.
 
 Tombol pada toolbar: ![Tombol Strike](img/strike.png "Strikethrough")
 
