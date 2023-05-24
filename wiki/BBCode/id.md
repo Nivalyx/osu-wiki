@@ -19,9 +19,9 @@ Serangkaian penggunaan tag berlapis yang benar dan salah dijelaskan di bawah ini
 
 ## Tag
 
-BBCode, sebagaimana bahasa *markup* lain pada umumnya, memformat teks melalui sistem tag yang ditandai oleh sepasang tanda kurung siku (`[]`). Tag ini terbagi menjadi tag "pembuka" dan "penutup", di mana tag pembuka ditulis tanpa garis miring (`/`) dan tag penutup ditulis dengan garis miring.
+BBCode, sebagaimana bahasa *markup* lain pada umumnya, memformat teks melalui sistem tag yang ditandai oleh sepasang tanda kurung siku (`[]`). Tag ini terbagi menjadi tag "pembuka" dan "penutup", di mana tag pembuka ditulis tanpa tanda garis miring (`/`) dan tag penutup ditulis dengan tanda garis miring.
 
-Pada sebagian tag, terdapat argumen tambahan yang disampirkan pada tag pembuka melalui tanda sama dengan (`=`). di dalamnya untuk menunjukkan URL, ukuran huruf, dan elemen sejenis lainnya yang akan dibahas selanjutnya.
+Pada sebagian tag, terdapat argumen tambahan yang disampirkan pada tag pembuka melalui tanda sama dengan (`=`). Argumen ini digunakan untuk menunjukkan URL, ukuran huruf, dan berbagai elemen lainnya yang akan dibahas selanjutnya.
 
 Berikut merupakan daftar tag BBCode yang didukung pada situs web osu! beserta penjelasannya.  
 
