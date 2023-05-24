@@ -269,7 +269,7 @@ teks
 
 Tag `[notice]` atau *pemberitahuan* digunakan untuk menempatkan paragraf ke dalam kotak besar dengan garis tepi berwarna body gelap. Tombol ini utamanya digunakan untuk menunjukkan pemberitahuan atau peringatan mengenai subjek tertentu di situs web.
 
-## Tag lama yang tidak lagi digunakan
+## Tag lawas yang tidak lagi digunakan
 
 Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!. Meskipun tidak lagi digunakan, fungsi dan tata cara penulisan tag-tag berikut turut didokumentasikan di bawah ini untuk keperluan sejarah.
 
