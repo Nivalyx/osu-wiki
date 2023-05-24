@@ -75,7 +75,7 @@ Tombol pada toolbar: ![Tombol Strike](img/strike.png "Strikethrough")
 
 Tag `[color]` atau *pewarnaan* digunakan untuk mewarnai teks dengan warna yang ramah web (*web-safe colours*). Tag ini menggunakan format [kode HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) dalam pewarnaannya, meskipun warna yang ada juga dapat ditentukan secara langsung melalui nama umumnya seperti "Red" atau "Green". Untuk mewarnai teks, ubah argumen `KODE HEX` pada contoh di atas dengan kode HEX atau nama warna yang sesuai.
 
-Argumen warna pada tag ini tidak menyertakan tanda kutip (`"`) serta tidak memiliki warna *default*. Apabila tidak ada argumen yang ditentukan atau apabila warna yang ada ditulis dengan tanda kutip, tag tidak akan diuraikan sebagai tag BBCode yang sah.
+Argumen warna pada tag ini tidak ditulis dengan kutip (`"`) serta tidak memiliki nilai *default*. Apabila argumen ini dikosongkan atau apabila warna yang ada ditulis dengan tanda kutip, tag tidak akan diuraikan sebagai tag BBCode yang sah.
 
 ### Font size
 
