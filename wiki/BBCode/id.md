@@ -2,7 +2,7 @@
 
 # BBCode
 
-BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan forum internet lain pada umumnya. Bahasa ini berfungsi untuk menampilkan tulisan dalam format *rich text* melalui berbagai tag, di mana masing-masing tag memiliki fungsinya tersendiri seperti memformat tulisan, memberikan atribut, menyematkan konten, dan lain sebagainya. Pada situs web osu!, BBCode digunakan pada berbagai tempat seperti postingan forum, tanda tangan (*signature*), laman pengguna (*user page*), dan kolom deskripsi beatmap.
+BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan forum internet lain pada umumnya. Bahasa ini berfungsi untuk menampilkan teks dalam format *rich text* melalui berbagai tag, di mana masing-masing tag memiliki fungsinya tersendiri seperti memformat teks, memberikan atribut, menyematkan konten, dan lain sebagainya. Pada situs web osu!, BBCode digunakan pada berbagai tempat seperti postingan forum, tanda tangan (*signature*), laman pengguna (*user page*), dan kolom deskripsi beatmap.
 
 ![Kotak dialog editor post beserta dengan tombol-tombolnya](img/editor-id.jpg "Kotak dialog editor post pada forum osu!")  
 
@@ -31,7 +31,7 @@ Tag-tag BBCode yang didukung di situs web osu!, terdaftar dan dijelaskan secara 
 [b]teks[/b]
 ```
 
-Tag `[b]` atau *cetak tebal* digunakan untuk menguatkan tulisan melalui penggunaan huruf yang dicetak tebal. Ketebalan huruf ini tidak memengaruhi ukuran huruf.
+Tag `[b]` atau *cetak tebal* digunakan untuk menguatkan teks melalui penggunaan huruf yang dicetak tebal. Ketebalan huruf ini tidak memengaruhi ukuran huruf.
 
 Tombol pada toolbar: ![Tombol Bold](img/bold.png "Bold")
 
@@ -41,7 +41,7 @@ Tombol pada toolbar: ![Tombol Bold](img/bold.png "Bold")
 [i]teks[/i]
 ```
 
-Tag `[i]` atau *cetak miring* digunakan untuk memberikan penekanan ringan pada tulisan melalui penggunaan huruf yang dicetak miring.
+Tag `[i]` atau *cetak miring* digunakan untuk memberikan penekanan ringan pada teks melalui penggunaan huruf yang dicetak miring.
 
 Tombol pada toolbar: ![Tombol Italic](img/italic.png "Italic")
 
