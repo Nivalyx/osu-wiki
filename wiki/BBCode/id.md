@@ -115,7 +115,7 @@ Tag `[box]` atau *kotak spoiler* digunakan untuk menyembunyikan teks dan gambar 
 
 Tag ini memiliki argumen `NAME` yang digunakan untuk menentukan judul boks. Apabila argumen ini dikosongkan, tag `[box]` akan menghasilkan kotak spoiler tanpa keterangan judul di dalamnya. Argumen ini tidak ditulis dengan tanda kutip (`"`), dan judul yang tertera akan didahului oleh spasi.
 
-Tag ini sering digunakan untuk menyembunyikan teks panjang dan gambar berukuran besar pada postingan forum. Paling dikenal di FAQ atau [skin](/wiki/Skinning).
+Tag ini pada umumnya digunakan untuk menyembunyikan teks panjang dan gambar berukuran besar pada postingan forum. Tag ini juga sering dijumpai pada laman FAQ atau utas forum [skinning](/wiki/Skinning).
 
 *Catatan: Pada toolbar, tombol BBCode yang berfungsi untuk membuat kotak spoiler memiliki nama "spoiler box". Meskipun demikian, tombol ini tidak menghasilkan tag `[spoilerbox]`.*
 
@@ -139,7 +139,7 @@ teks
 
 Tag `[quote]` atau *kutipan* digunakan untuk gaya pemformatan kutipan panjang, (alias "tanda kutip blok") melalui penggunaan indentasi, pewarnaan, cetak tebal, dan pemisahan teks melalui garis vertikal merah muda. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAME` menentukan penulis kutipan (meskipun ini opsional). Teks di dalam tanda kutip akan membuat spasi dan jeda baris.
 
-*Perhatikan: Argumen `NAME` wajib diapit dengan tanda kutip (`"`).*
+*Catatan: Argumen `NAME` pada tag ini wajib ditulis dengan tanda kutip (`"`).*
 
 Kutipan panjang biasanya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Bagaimanapun, di dalam forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain, yang dapat dilakukan melalui tombol `Kutip posting untuk balasan` dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan (ditampilkan di bawah). Namun, tombol ini **hanya akan muncul jika kursor berada di dekatnya**.
 
