@@ -127,7 +127,7 @@ Tombol pada toolbar: ![Tombol Box](img/spoilerbox.png "Box")
 [spoilerbox]teks[/spoilerbox]
 ```
 
-Spoilerbox adalah jenis kotak BBCode khusus yang tidak memiliki argumen `NAME` untuk dispesifikasikan. Nama spoilerbox selalu ditampilkan sebagai `SPOILER`. Spoilerbox memiliki tag sendiri (`[spoilerbox]`) tetapi secara fungsional identik dengan BBCode [boxes](#box).
+Spoilerbox merupakan tag BBCode yang serupa dengan `[box]` namun tidak memiliki argumen `NAME`. Nama spoilerbox selalu ditampilkan sebagai `SPOILER`. Walaupun spoilerbox memiliki tag-nya tersendiri (`[spoilerbox]`), secara fungsi tag ini identik dengan tag [box](#box).
 
 ### Quote
 
