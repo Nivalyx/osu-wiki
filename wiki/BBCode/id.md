@@ -12,7 +12,7 @@ Mengklik tombol markup tanpa menyeleksi teks apa pun akan membuat serangkaian ta
 
 Pengguna yang ingin menggabungkan pemformatan ke dalam satu bagian teks, dapat melakukannya dengan menempatkan tag BBCode satu sama lain. Namun, urutan dan tingkatan tag yang diinginkan, **wajib kenali** saat digabungkan. Kegagalan menerapkannya akan merusak pemformatan.
 
-Serangkaian penggunaan tag berlapis yang benar dan salah dijelaskan di bawah ini:
+Berikut merupakan contoh penggunaan tag bersarang yang benar dan salah:
 
 - `[centre][b]teks[/b][/centre]` benar
 - `[b][centre]teks[/b][/centre]` salah
