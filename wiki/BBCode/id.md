@@ -21,7 +21,7 @@ Berikut merupakan contoh penulisan tag bersarang yang benar dan salah:
 
 BBCode, sebagaimana bahasa *markup* lain pada umumnya, digunakan untuk memformat teks dengan menggunakan tag yang ditempatkan di antara sepasang tanda kurung siku (`[]`). Setiap tag terdiri dari tag "pembuka" dan "penutup", di mana tag pembuka ditulis tanpa tanda garis miring (`/`) dan tag penutup ditulis dengan tanda garis miring.
 
-Beberapa tag memiliki argumen tambahan yang dapat dibubuhkan pada tag pembuka dengan menggunakan tanda sama dengan (=). Argumen ini digunakan untuk menunjukkan URL, ukuran huruf, atau elemen lain yang berkaitan dengan tag tersebut.
+Beberapa tag memiliki argumen tambahan yang dapat dibubuhkan pada tag pembuka dengan menggunakan tanda sama dengan (`=`). Argumen ini digunakan untuk menunjukkan URL, ukuran huruf, atau elemen lain yang berkaitan dengan tag tersebut.
 
 Berikut merupakan daftar tag BBCode yang didukung oleh situs web osu! beserta penjelasannya.  
 
@@ -267,11 +267,11 @@ teks
 [/notice]
 ```
 
-Tag `[notice]` digunakan untuk menempatkan paragraf ke dalam kotak besar dengan garis tepi berwarna body gelap. Tombol ini utamanya digunakan untuk menunjukkan pemberitahuan atau peringatan mengenai subjek tertentu di situs web.
+Tag `[notice]` atau *pemberitahuan* digunakan untuk menempatkan paragraf ke dalam kotak besar dengan garis tepi berwarna body gelap. Tombol ini utamanya digunakan untuk menunjukkan pemberitahuan atau peringatan mengenai subjek tertentu di situs web.
 
 ## Tag lama yang tidak lagi digunakan
 
-Berikut ini adalah tag BBCode yang pernah digunakan di berbagai tempat di situs web osu!, tetapi sekarang tidak tersedia untuk digunakan. Penggunaan dan sintaksnya dijelaskan di bawah ini untuk tujuan historis.
+Berikut merupakan daftar tag BBCode yang pernah digunakan di berbagai tempat pada situs web osu!, namun sekarang tidak lagi tersedia untuk digunakan. Penggunaan dan sintaksnya dijelaskan di bawah ini untuk tujuan historis.
 
 ### Google
 
