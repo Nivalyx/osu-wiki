@@ -271,7 +271,7 @@ Tag `[notice]` atau *pemberitahuan* digunakan untuk menempatkan paragraf ke dala
 
 ## Tag lama yang tidak lagi digunakan
 
-Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!. Meskipun tidak lagi digunakan, fungsi dan tata penulisan masing-masing tag tersebut turut didokumentasikan di bawah ini untuk keperluan sejarah.
+Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!. Meskipun tidak lagi digunakan, fungsi dan tata cara penulisan masing-masing tag tersebut turut didokumentasikan di bawah ini untuk keperluan sejarah.
 
 ### Google
 
@@ -279,7 +279,7 @@ Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!.
 [google]kueri pencarian[/google]
 ```
 
-Tag `[google]` merupakan tag lawas yang dahulu digunakan di forum osu! untuk menautkan ke kueri penelusuran Google menggunakan teks yang tersedia di antara dua tag.
+Tag `[google]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menautkan ke kueri penelusuran Google menggunakan teks yang tersedia di antara dua tag.
 
 Tag akan mengarahkan pengguna ke pencarian Google melalui akun mereka, yang berarti bahwa hasil yang sama persis tidak akan diberikan kepada semua orang, karena Google mempersonalisasi hasil pengguna. Demikian pula, beberapa hasil penelusuran akan disembunyikan untuk pengguna tertentu karena batasan bahasa atau negara.
 
