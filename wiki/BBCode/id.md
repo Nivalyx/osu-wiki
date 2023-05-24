@@ -51,7 +51,7 @@ Tombol pada toolbar: ![Tombol Italic](img/italic.png "Italic")
 [u]teks[/u]
 ```
 
-Tag `[u]` atau *garis bawah* digunakan untuk memberikan penekanan pada teks melalui garis horizontal di bawah teks (garis bawah). Garis yng tergambar dapat dipengaruhi oleh tag lain seperti [bold](#bold) dan [italic](#italic).
+Tag `[u]` atau *garis bawah* digunakan untuk memberikan penekanan pada teks melalui penggunaan garis bawah. Garis yang tergambar dapat dipengaruhi oleh tag lain seperti [bold](#bold) dan [italic](#italic).
 
 ### Strikethrough
 
