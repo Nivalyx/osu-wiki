@@ -75,7 +75,7 @@ Tombol pada toolbar: ![Tombol Strike](img/strike.png "Strikethrough")
 
 Tag `[color]` atau *pewarnaan* digunakan untuk mewarnai teks dengan warna yang ramah web (*web-safe colours*). Tag ini menggunakan format [kode HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) dalam pewarnaannya, meskipun warna yang ada juga dapat ditentukan secara langsung melalui nama umumnya seperti "Red" atau "Green". Untuk mewarnai teks, ubah argumen `KODE HEX` pada contoh di atas dengan kode HEX atau nama warna yang sesuai.
 
-Argumen warna pada tag ini tidak ditulis dengan kutip (`"`) serta tidak memiliki nilai *default*. Apabila argumen ini dikosongkan atau apabila warna yang ada ditulis dengan tanda kutip, tag ini tidak akan diuraikan sebagai tag BBCode yang sah.
+Argumen warna pada tag ini tidak ditulis dengan tanda kutip (`"`) serta tidak memiliki nilai *default*. Apabila argumen ini dikosongkan atau apabila warna yang ada ditulis dengan tanda kutip, tag ini tidak akan diuraikan sebagai tag BBCode yang sah.
 
 ### Font size
 
@@ -85,7 +85,7 @@ Argumen warna pada tag ini tidak ditulis dengan kutip (`"`) serta tidak memiliki
 
 Tag `[size]` atau *ukuran huruf* digunakan untuk mengubah ukuran huruf pada teks. Saat ini, terdapat empat ukuran huruf yang didukung oleh situs web osu!: 50, 85, 100, dan 150. Ukuran secara internal disebut sebagai "mungil", "kecil", "normal", dan "besar".
 
-Argumen `UKURAN` tidak menerima tanda kutip, dan hanya menerima salah satu dari empat ukuran yang didukung. Apabila angka yang dimasukkan bukan merupakan salah satu dari empat angka yang didukung, teks akan kembali ke ukuran normal.
+Argumen `UKURAN` tidak pada tag ini tidak ditulis dengan tanda kutip dan hanya menerima salah satu dari empat ukuran yang didukung. Apabila angka yang dimasukkan bukan merupakan salah satu dari empat angka yang didukung, teks akan ditulis dalam ukuran normal.
 
 Tombol pada toolbar: ![Pengaturan Ukuran Huruf](img/font-size-id.png "Font size")
 
