@@ -271,7 +271,7 @@ Tag `[notice]` atau *pemberitahuan* digunakan untuk menempatkan paragraf ke dala
 
 ## Tag lama yang tidak lagi digunakan
 
-Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!. Penggunaan dan sintaksisnya didokumentasikan di bawah ini untuk keperluan sejarah.
+Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!. Penggunaan dan tata penulisan masing-masing tag di bawah ini didokumentasikan untuk keperluan sejarah.
 
 ### Google
 
@@ -279,7 +279,7 @@ Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!.
 [google]kueri pencarian[/google]
 ```
 
-Tag `[google]` adalah sebuah tag usang yang dahulu digunakan di forum osu! untuk menautkan ke kueri penelusuran Google menggunakan teks yang tersedia di antara dua tag.
+Tag `[google]` merupakan tag lawas yang dahulu digunakan di forum osu! untuk menautkan ke kueri penelusuran Google menggunakan teks yang tersedia di antara dua tag.
 
 Tag akan mengarahkan pengguna ke pencarian Google melalui akun mereka, yang berarti bahwa hasil yang sama persis tidak akan diberikan kepada semua orang, karena Google mempersonalisasi hasil pengguna. Demikian pula, beberapa hasil penelusuran akan disembunyikan untuk pengguna tertentu karena batasan bahasa atau negara.
 
@@ -289,7 +289,7 @@ Tag akan mengarahkan pengguna ke pencarian Google melalui akun mereka, yang bera
 [lucky]kueri pencarian[/lucky]
 ```
 
-Tag `[lucky]` adalah sebuah tag usang yang pernah digunakan di forum osu! untuk menautkan ke situs web  yang mengarah ke tombol `Saya Lagi Beruntung` menggunakan teks yang tersedia. Situs web yang ditautkan melalui tag ini tidak akan sama untuk semua orang karena sifat tombol itu sendiri.
+Tag `[lucky]` merupakan tag lawas yang pernah digunakan di forum osu! untuk menautkan ke situs web  yang mengarah ke tombol `Saya Lagi Beruntung` menggunakan teks yang tersedia. Situs web yang ditautkan melalui tag ini tidak akan sama untuk semua orang karena sifat tombol itu sendiri.
 
 ### Heading (v2)
 
