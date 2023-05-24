@@ -111,7 +111,7 @@ teks
 
 *Tag ini tidak sama dengan [Spoilerbox](#spoilerbox).*
 
-Tag `[box]` atau *kotak spoiler* digunakan untuk menyembunyikan teks dan gambar di dalam boks yang dapat dibuka dan ditutup. Pada saat diklik, konten yang terdapat di dalam boks akan terungkap mirip dengan menu dropdown.
+Tag `[box]` atau *kotak spoiler* digunakan untuk menyembunyikan teks dan gambar di dalam boks yang dapat dibuka dan ditutup. Pada saat diklik, konten yang terdapat di dalam boks akan tersingkap sebagaimana pada menu *dropdown* yang ada pada umumnya.
 
 Teks hyperlink kustom dilambangkan dengan argumen `NAME`. Menggunakan argumen `NAME` akan membuat teks judul mengikuti di dalam kotak, dan akan menyesuaikan ukuran kotak yang sesuai. Apabila argumen ini dikosongkan, tag `[box]` akan membuat kotak tanpa teks tanpa keterangan judul di dalamnya. Argumen ini tidak ditulis dengan tanda kutip (`"`), dan akan membuat spasi kosong.
 
