@@ -279,7 +279,7 @@ Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!.
 [google]kueri pencarian[/google]
 ```
 
-Tag `[google]` adalah sebuah tag usang yang pernah digunakan di forum osu! untuk menautkan ke kueri penelusuran Google menggunakan teks yang tersedia di antara dua tag.
+Tag `[google]` adalah sebuah tag usang yang dahulu digunakan di forum osu! untuk menautkan ke kueri penelusuran Google menggunakan teks yang tersedia di antara dua tag.
 
 Tag akan mengarahkan pengguna ke pencarian Google melalui akun mereka, yang berarti bahwa hasil yang sama persis tidak akan diberikan kepada semua orang, karena Google mempersonalisasi hasil pengguna. Demikian pula, beberapa hasil penelusuran akan disembunyikan untuk pengguna tertentu karena batasan bahasa atau negara.
 
