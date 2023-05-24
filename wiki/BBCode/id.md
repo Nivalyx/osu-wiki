@@ -19,7 +19,7 @@ Berikut merupakan contoh penulisan tag bersarang yang benar dan salah:
 
 ## Tag
 
-BBCode, sebagaimana bahasa *markup* lain pada umumnya, memformat teks melalui sistem tag yang ditandai oleh sepasang tanda kurung siku (`[]`). Tag ini terbagi menjadi tag "pembuka" dan "penutup", di mana tag pembuka ditulis tanpa tanda garis miring (`/`) dan tag penutup ditulis dengan tanda garis miring.
+BBCode, sebagaimana bahasa *markup* lain pada umumnya, memformat teks melalui sistem tag yang ditandai oleh sepasang tanda kurung siku (`[]`). Tag ini terbagi dua menjadi bagian "pembuka" dan "penutup", di mana tag pembuka ditulis tanpa tanda garis miring (`/`) dan tag penutup ditulis dengan tanda garis miring.
 
 Pada sebagian tag, terdapat argumen tambahan yang disampirkan pada tag pembuka melalui tanda sama dengan (`=`). Argumen ini digunakan untuk menandakan URL, ukuran huruf, atau elemen lainnya yang berhubungan dengan tag yang bersangkutan.
 
