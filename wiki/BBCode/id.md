@@ -115,7 +115,7 @@ Tag `[box]` atau *kotak spoiler* digunakan untuk menyembunyikan teks dan gambar 
 
 Tag ini memiliki argumen `NAME` yang digunakan untuk menentukan judul boks. Apabila argumen ini dikosongkan, tag `[box]` akan menghasilkan kotak spoiler tanpa keterangan judul di dalamnya. Argumen ini tidak ditulis dengan tanda kutip (`"`) dan judul yang tertera akan didahului oleh karakter spasi.
 
-Tag ini pada umumnya digunakan untuk menyembunyikan teks yang panjang dan gambar yang berukuran besar pada postingan forum, terutama pada laman FAQ atau utas forum perilisan [skin](/wiki/Skinning).
+Tag ini pada umumnya digunakan untuk menyembunyikan teks yang panjang dan gambar yang berukuran besar pada postingan forum, terutama pada laman FAQ atau utas forum [skin](/wiki/Skinning).
 
 *Catatan: Pada toolbar, tombol BBCode yang berfungsi untuk membuat kotak spoiler memiliki nama "spoiler box". Meskipun demikian, tombol ini tidak menghasilkan tag `[spoilerbox]`.*
 
@@ -127,7 +127,7 @@ Tombol pada toolbar: ![Tombol Box](img/spoilerbox.png "Box")
 [spoilerbox]teks[/spoilerbox]
 ```
 
-Spoilerbox merupakan tag BBCode yang serupa dengan `[box]` namun tidak memiliki argumen `NAME`. Kotak spoiler yang dihasilkan oleh tag `[spoilerbox]` akan selalu berjudul `SPOILER`. Walaupun spoilerbox memiliki tag-nya tersendiri, secara fungsi tag ini identik dengan tag [box](#box).
+Spoilerbox merupakan tag BBCode yang serupa dengan `[box]`, namun tanpa argumen `NAME`. Kotak spoiler yang dihasilkan oleh tag `[spoilerbox]` akan selalu mengusung `SPOILER` sebagai judulnya. Walaupun spoilerbox memiliki tag-nya tersendiri, secara fungsi tag ini identik dengan tag [box](#box).
 
 ### Quote
 
