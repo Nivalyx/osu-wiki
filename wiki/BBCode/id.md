@@ -71,7 +71,7 @@ Tombol pada toolbar: ![Tombol Strike](img/strike.png "Strikethrough")
 [color=HEXCODE]teks[/color]
 ```
 
-*Untuk daftar dari semua nama warna, kunjungi [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)*
+*Untuk daftar seluruh nama warna yang didukung, kunjungi [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)*.
 
 Tag `[color]` atau *pewarnaan* digunakan untuk mengatur gaya teks melalui berbagai jenis warna web-safe. Tag ini menggunakan format [kode HEX](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) untuk menentukan warna, meskipun juga dapat ditentukan melalui nama warna HTML seperti "Red" atau "Green". Untuk menggunakannya, ganti argumen `HEXCODE` dengan kode HEX atau nama HTML warna yang sesuai.
 
