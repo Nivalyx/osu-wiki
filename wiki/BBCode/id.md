@@ -165,9 +165,9 @@ teks
 [/code]
 ```
 
-Tag `[code]` atau *blok kode* digunakan untuk menampilkan teks dalam bentuk *blok kode yang telah diformat sebelumnya* (*preformatted text*). Pada situs web osu!, tag `[code]` akan menempatkan teks ke dalam kotak abu-abu semi transparan dengan jenis huruf monospace. Pemformatan teks di dalam kode blok akan memberi tahu editor untuk memperlakukan teks di antara tag tersebut secara harfiah, sehingga mencegah konversi tag atau kode sumber apa pun menjadi sesuatu yang lain.
+Tag `[code]` atau *blok kode* digunakan untuk menampilkan teks secara mentah *dalam bentuk aslinya* (*preformatted text*). Pada situs web osu!, tag `[code]` akan menempatkan teks ke dalam kotak abu-abu semi transparan dengan jenis huruf monospace. ditampilkan sebagaimana adanya, sehingga mencegah konversi tag atau kode sumber apa pun menjadi sesuatu yang lain.
 
-Tag ini pada umumnya digunakan untuk memposting kode sumber [storyboard](/wiki/Storyboard) atau untuk menampilkan sintaks tag, perintah, atau kode tertentu pada utas tutorial.
+Tag ini pada umumnya digunakan untuk memposting kode sumber [storyboard](/wiki/Storyboard) atau untuk menampilkan sintaks tag, perintah, dan kode program tertentu pada utas tutorial.
 
 ### Centre
 
