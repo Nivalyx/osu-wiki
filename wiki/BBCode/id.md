@@ -213,18 +213,18 @@ Apabila tag ini digunakan hanya dengan ID pengguna sebagai acuannya, teks yang b
 [/list]
 ```
 
-Tag `[list]` atau *daftar* digunakan untuk membuat daftar pada forum osu!, baik itu yang diurutkan dengan poin (*bulleted list*) atau dengan angka (*numbered list*). Masing-masing item dalam daftar dipisahkan oleh simbol bintang yang ditempatkan di antara dua tanda kurung (`[*]`) sebagaimana yang dicontohkan di atas. 
+Tag `[list]` atau *daftar* digunakan untuk membuat daftar pada forum osu!, baik itu yang diurutkan dengan poin (*bulleted list*) atau dengan angka (*numbered list*). Setiap item dalam daftar dinyatakan oleh simbol bintang yang ditempatkan di antara dua tanda kurung (`[*]`) sebagaimana yang dicontohkan di atas. 
 
 Secara *default*, apabila argumen `JENIS` tidak ditentukan, tag ini akan menghasilkan daftar yang diurutkan dengan poin. Sebaliknya, apabila argumen ini diisi dengan sesuatu (terlepas dari apapun itu isinya), tag ini akan menghasilkan daftar yang diurutkan dengan angka.
 
-*Perhatian: Daftar BBCode berformat dapat ditumpuk satu sama lain dan bisa ditempatkan di dalam satu sama lain, meskipun diketahui menyebabkan masalah pada pemformatan.*
+*Perhatian: Daftar yang ada dapat saling ditumpuk antar dan ditempatkan dalam satu sama lain, meskipun diketahui menyebabkan masalah pada pemformatan.*
 
 Tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol daftar berurut angka](img/list-numbered.png "Daftar berurut angka")
 
 ### Image
 
 ```
-[img]ADDRESS[/img]
+[img]ALAMAT[/img]
 ```
 
 Tag `[img]` atau *gambar* digunakan untuk menyematkan tautan gambar berekstensi dari online ke dalam postingan forum osu!. Untuk menggunakan tag, pengguna harus menempelkan alamat gambar langsung (diwakili oleh argumen `ADDRESS` di atas) yang bersumber dari situs web. Jalur file lokal. Menggunakan tautan langsung dari komputer (*offline*), (misalnya, `C:\Users\Name\Pictures\image.jpg`), **tidak akan berfungsi**.
