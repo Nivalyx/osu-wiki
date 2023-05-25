@@ -137,11 +137,11 @@ teks
 [/quote]
 ```
 
-Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan ("*block quote*") melalui penggunaan indentasi, pewarnaan, huruf yang cetak tebal, dan garis vertikal merah muda yang memisahkan teks. Untuk menggunakan tag ini, tempatkan teks yang ingin dikutip di antara tag pembuka dan penutup dan isi argumen `NAMA` dengan nama penulis kutipan (walaupun argumen ini tidak wajib diisi). Teks yang dikutip akan tampil dengan didahului oleh spasi dan jeda baris.
+Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan ("*block quote*") melalui penggunaan indentasi, pewarnaan, huruf yang cetak tebal, dan garis vertikal merah muda yang memisahkan teks. Untuk menggunakan tag ini, tempatkan teks yang ingin dikutip di antara tag pembuka dan penutup dan isi argumen `NAMA` dengan nama penulis kutipan (walaupun argumen ini tidak wajib diisi). Teks yang dikutip akan muncul pada post dengan didahului oleh spasi dan jeda baris.
 
 *Catatan: Argumen `NAMA` pada tag ini wajib ditulis dengan tanda kutip (`"`).*
 
-Kutipan panjang pada umumnya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Bagaimanapun, di dalam forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain, yang dapat dilakukan melalui tombol `Kutip posting untuk balasan` dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan (ditampilkan di bawah). Namun, tombol ini **hanya akan muncul jika kursor berada di dekatnya**.
+Kutipan panjang pada umumnya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Pada forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain, yang dapat dilakukan melalui tombol `Kutip posting untuk balasan` dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan (ditampilkan di bawah). Tombol ini **hanya akan muncul jika kursor berada di dekatnya**.
 
 ![Tombol Quote reply](img/quotereply.png "Kutip posting untuk balasan")
 
