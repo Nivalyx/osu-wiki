@@ -187,7 +187,7 @@ Tag `[TAUTAN]` atau *tautan* digunakan untuk mengubah teks menjadi tautan yang d
 
 *Catatan: Tag ini tidak diperlukan apabila teks yang dimaksud sudah merupakan sebuah tautan, karena forum osu! akan mengurai URL yang valid menjadi tautan secara otomatis.*
 
-Untuk membuat tautan dengan tag `[url]`, pengguna harus menentukan dua argumen: teks yang akan ditampilkan sebagai tautan, dan URL situs web yang ingin ditautkan. Argumen pertama harus ditempatkan di antara tag pembuka dan penutup, sedangkan argumen kedua harus diberikan sebagai argumen `TAUTAN` tanpa tanda kutip (`"`). Apabila tidak ada teks yang dimasukkan, nama URL akan digunakan sebagai teks tautan.
+Untuk membuat tautan dengan tag `[url]`, pengguna harus menentukan dua argumen: teks yang akan ditampilkan sebagai tautan, dan URL situs web yang ingin ditautkan. Argumen pertama harus ditempatkan di antara tag pembuka dan penutup, sedangkan argumen kedua harus diberikan sebagai argumen `TAUTAN` tanpa tanda kutip (`"`). Apabila tidak ada teks yang dimasukkan, maka nama URL akan digunakan sebagai teks tautan.
 
 Tombol pada toolbar: ![tombol URL](img/url.png "URL")
 
