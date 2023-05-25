@@ -141,7 +141,7 @@ Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok 
 
 *Catatan: Argumen `NAMA` pada tag ini wajib ditulis dengan tanda kutip (`"`).*
 
-Tag ini dapat digunakan untuk menampilkan kutipan panjang/*long quote* (yang pada umumnya digunakan pada tulisan yang lebih formal) ataupun kutipan sebaris/*in-line quote* (yang pada umumnya hanya terdiri dari tiga patah kalimat). Pada forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain melalui tombol `Kutip posting untuk balasan` (sebagaimana yang tertera di bawah). Tombol ini dapat dimunculkan dengan cara menyeret kursor ke pojok kanan atas postingan milik pengguna lain dan **hanya akan muncul apabila didekati oleh kursor**.
+Tag ini dapat digunakan untuk menampilkan kutipan panjang/*long quote* (yang pada umumnya digunakan pada tulisan yang lebih formal) ataupun kutipan sebaris/*inline quote* (yang pada umumnya hanya terdiri dari beberapa patah kalimat). Pada forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain melalui tombol `Kutip posting untuk balasan` (sebagaimana yang tertera di bawah). Tombol ini dapat dimunculkan dengan cara menyeret kursor ke pojok kanan atas postingan milik pengguna lain dan **hanya akan muncul apabila didekati oleh kursor**.
 
 ![Tombol Quote reply](img/quotereply.png "Kutip posting untuk balasan")
 
@@ -155,7 +155,7 @@ Tag ini dapat digunakan untuk menampilkan kutipan panjang/*long quote* (yang pad
 
 Tag `[c]` atau *baris kode* digunakan untuk menyorot teks melalui penggunaan jenis huruf monospace. Pada situs web osu!, teks yang berada dalam tag ini akan muncul di dalam boks berwarna abu-abu. Tidak seperti tag [code block](#code-block), tag ini hanya dapat digunakan untuk menyoroti satu baris tulisan.
 
-Pada forum osu!, tag ini berguna untuk memberikan penekanan kepada hal-hal seperti pintasan keyboard atau deskripsi tombol.
+Tg ini berguna untuk memberikan penekanan kepada hal-hal seperti pintasan keyboard atau deskripsi tombol.
 
 ### Code block
 
@@ -165,7 +165,7 @@ teks
 [/code]
 ```
 
-Tag `[code]` atau *blok kode* digunakan untuk memunculkan *kode blok yang telah diformat sebelumnya* (*preformatted text*). Di situs web osu!, tag `[code]` akan memformat teks dalam font monospace di dalam kotak abu-abu semi transparan. Pemformatan teks di dalam kode blok akan memberi tahu editor untuk memperlakukan teks di antara tag tersebut secara harfiah, sehingga mencegah konversi tag atau kode sumber apa pun menjadi sesuatu yang lain.
+Tag `[code]` atau *blok kode* digunakan untuk menampilkan teks dalam bentuk *blokkode yang telah diformat sebelumnya* (*preformatted text*). Pada situs web osu!, tag `[code]` akan menempatkan teks ke dalam kotak abu-abu semi transparan dengan jenis huruf monospace. Pemformatan teks di dalam kode blok akan memberi tahu editor untuk memperlakukan teks di antara tag tersebut secara harfiah, sehingga mencegah konversi tag atau kode sumber apa pun menjadi sesuatu yang lain.
 
 Pada forum osu!, tag ini paling sering digunakan untuk memposting source code untuk [storyboard](/wiki/Storyboard), atau dalam tutorial yang mengharuskan menampilkan sintaks untuk tag, perintah, atau source code.
 
@@ -183,7 +183,7 @@ Tag `[centre]` atau *rata tengah* digunakan untuk meratakan teks ke tengah. Tag 
 [url=LINK]teks[/url]
 ```
 
-Tag `[URL]` atau *tautan* digunakan untuk mengubah teks biasa menjadi hyperlink yang dapat diklik.
+Tag `[URL]` atau *tautan* digunakan untuk mengubah teks menjadi *hyperlink* yang dapat diklik.
 
 *Catatan: Tag ini tidak diperlukan jika seseorang tidak ingin menggunakan teks hyperlink kustom, karena editor forum mengurai URL yang tepat menjadi link secara otomatis.*
 
