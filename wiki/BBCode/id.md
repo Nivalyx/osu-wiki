@@ -153,9 +153,7 @@ Tag ini dapat digunakan untuk menampilkan kutipan panjang/*long quote* (yang pad
 [c]teks[/c]
 ```
 
-Tag `[c]` atau *baris kode* digunakan untuk meng-*highlight* teks dengan jenis huruf monospace.
-
- allows for highlighting inline text in a monospace font. On the osu! website, the text will be formatted with a grey box around it. In contrary to [code blocks](#code-block), the tag may only be placed in single lines.
+Tag `[c]` atau *baris kode* digunakan untuk meng-*highlight* teks dengan jenis huruf monospace di dalam kotak berwarna abu-abu. Tidak seperti [code block](#code-block), tag ini hanya dapat ditempatkan dalam satu baris.
 
 Pada forum osu!, tag ini berguna untuk memberikan penekanan kepada hal-hal seperti pintasan keyboard atau deskripsi tombol.
 
