@@ -153,7 +153,7 @@ Tag ini dapat digunakan untuk menampilkan kutipan panjang/*long quote* (yang pad
 [c]teks[/c]
 ```
 
-Tag `[c]` atau *baris kode* digunakan untuk menyoroti teks dengan jenis huruf monospace. Pada situs web osu!, teks akan ditampilkan di dalam kotak berwarna abu-abu. Tidak seperti tag [code block](#code-block), tag ini hanya dapat digunakan untuk menyoroti satu baris tulisan.
+Tag `[c]` atau *baris kode* digunakan untuk menyoroti teks dengan jenis huruf monospace. Pada situs web osu!, teks yang berada dalam tag ini akan muncul di dalam boks berwarna abu-abu. Tidak seperti tag [code block](#code-block), tag ini hanya dapat digunakan untuk menyoroti satu baris tulisan.
 
 Pada forum osu!, tag ini berguna untuk memberikan penekanan kepada hal-hal seperti pintasan keyboard atau deskripsi tombol.
 
@@ -175,7 +175,7 @@ Pada forum osu!, tag ini paling sering digunakan untuk memposting source code un
 [centre]teks[/centre]
 ```
 
-Tag `[centre]` atau *rata tengah* digunakan untuk meratakan teks ke tengah. Tag ini pada umumnya digunakan untuk memperindah teks judul, tajuk, atau puisi. Apabila tag ini ditempatkan di dalam atau di sekitar tag [`[quote]`](#quote), teks yang dikutip akan tertulis secara rata tengah, namun elemen blok kutipan lainnya (seperti garis pemisah) tidak akan ikut diratakan ke tengah.
+Tag `[centre]` atau *rata tengah* digunakan untuk meratakan teks ke tengah. Tag ini pada umumnya digunakan untuk memperindah teks judul, tajuk, atau puisi. Apabila tag ini ditempatkan di dalam atau di sekitar tag [`[quote]`](#quote), teks yang dikutip akan muncul secara rata tengah, namun elemen blok kutipan lainnya (seperti garis pemisah) tidak akan ikut diratakan ke tengah.
 
 ### URL
 
