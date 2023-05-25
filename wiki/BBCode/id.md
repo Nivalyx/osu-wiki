@@ -137,7 +137,7 @@ teks
 [/quote]
 ```
 
-Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan (*block quote*) melalui penggunaan indentasi, pewarnaan, huruf yang cetak tebal, dan garis vertikal merah muda yang memisahkan teks. Untuk menggunakan tag ini, tempatkan teks yang ingin dikutip di antara tag pembuka dan penutup dan isi argumen `NAMA` dengan nama penulis kutipan (walaupun argumen ini tidak wajib diisi). Teks yang dikutip akan muncul pada post dengan didahului oleh spasi dan jeda baris.
+Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan (*block quote*) melalui penggunaan indentasi, pewarnaan, huruf yang cetak tebal, dan garis vertikal merah muda yang memisahkan teks. Untuk menggunakan tag ini, tempatkan teks yang ingin dikutip di antara tag pembuka dan penutup serta isi argumen `NAMA` dengan nama penulis kutipan (walaupun argumen ini tidak wajib diisi). Teks yang dikutip akan muncul pada post dengan didahului oleh spasi dan jeda baris.
 
 *Catatan: Argumen `NAMA` pada tag ini wajib ditulis dengan tanda kutip (`"`).*
 
@@ -153,11 +153,11 @@ Tag ini dapat digunakan untuk menampilkan kutipan panjang/*long quote* (yang pad
 [c]teks[/c]
 ```
 
-Tag `[c]` atau *baris kode*
+Tag `[c]` atau *baris kode* digunakan untuk 
 
  allows for highlighting inline text in a monospace font. On the osu! website, the text will be formatted with a grey box around it. In contrary to [code blocks](#code-block), the tag may only be placed in single lines.
 
-Within the osu! forums, this is useful for emphasising e.g. keyboard shortcuts or button descriptions.
+Pada forum osu!, tag ini berguna untuk memberikan penekanan kepada hal-hal seperti pintasan keyboard atau deskripsi tombol.
 
 ### Code block
 
@@ -177,7 +177,7 @@ Di dalam forum osu!, kode blok paling sering digunakan untuk memposting source c
 [centre]teks[/centre]
 ```
 
-Tag `[centre]` atau *rata tengah* digunakan untuk meratakan teks ke tengah kotak. Tag ini paling sering digunakan untuk efek gaya dalam judul, tajuk, atau puisi. Jika ditempatkan di dalam atau di sekitar tag [`[quote]`](#quote), teks di dalam blok kutipan akan dipusatkan, tetapi tidak untuk garis gaya dan semacamnya.
+Tag `[centre]` atau *rata tengah* digunakan untuk meratakan teks ke tengah. Tag ini paling sering digunakan untuk menulis judul, tajuk, atau puisi. Apabila tag ini ditempatkan di dalam atau di sekitar tag [`[quote]`](#quote), teks yang dikutip akan tertulis rata tengah, namun elemen blok kutipan lainnya (seperti garis) tidak akan ikut diratakan ke tengah.
 
 ### URL
 
