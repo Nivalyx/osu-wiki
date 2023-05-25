@@ -127,7 +127,7 @@ Tombol pada toolbar: ![Tombol Box](img/spoilerbox.png "Box")
 [spoilerbox]teks[/spoilerbox]
 ```
 
-Spoilerbox merupakan tag BBCode yang serupa dengan `[box]`, namun tanpa argumen `JUDUL`. Kotak spoiler yang dihasilkan oleh tag `[spoilerbox]` akan selalu mengusung `SPOILER` sebagai judulnya. Walaupun spoilerbox memiliki tag-nya tersendiri, tag ini memiliki fungsi yang serupa dengan tag [box](#box).
+Spoilerbox merupakan tag BBCode yang serupa dengan `[box]`, namun tanpa argumen `JUDUL`. Kotak spoiler yang dihasilkan oleh tag `[spoilerbox]` akan selalu mengusung `SPOILER` sebagai judulnya. Walaupun spoilerbox memiliki tag-nya tersendiri, secara fungsi tag ini serupa dengan tag [box](#box).
 
 ### Quote
 
@@ -141,7 +141,7 @@ Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok 
 
 *Catatan: Argumen `NAMA` pada tag ini wajib ditulis dengan tanda kutip (`"`).*
 
-Kutipan panjang pada umumnya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Pada forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain melalui tombol `Kutip posting untuk balasan` dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan (ditampilkan di bawah). Tombol ini **hanya akan muncul apabila didekati oleh kursor**.
+Kutipan panjang pada umumnya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Pada forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain melalui tombol `Kutip posting untuk balasan`. Tombol ini dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan (ditampilkan di bawah). Tombol ini **hanya akan muncul apabila didekati oleh kursor**.
 
 ![Tombol Quote reply](img/quotereply.png "Kutip posting untuk balasan")
 
