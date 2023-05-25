@@ -221,6 +221,16 @@ Secara *default*, apabila argumen `JENIS` tidak ditentukan, tag ini akan menghas
 
 Tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol daftar berurut angka](img/list-numbered.png "Daftar berurut angka")
 
+### Email
+
+```
+[email=ADDRESS]text[/email]
+```
+
+The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
+
+In order to create a link, two arguments need to be specified: the `ADDRESS` argument needs to be a valid email address, while `text` is the displayed text that serves as a hyperlink. If the `text` argument is not defined, the hyperlink will not be created correctly.
+
 ### Image
 
 ```
