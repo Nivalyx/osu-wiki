@@ -137,13 +137,25 @@ teks
 [/quote]
 ```
 
-Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan ("*block quote*") melalui penggunaan indentasi, pewarnaan, huruf yang cetak tebal, dan garis vertikal merah muda yang memisahkan teks. Untuk menggunakan tag ini, tempatkan teks yang ingin dikutip di antara tag pembuka dan penutup dan isi argumen `NAMA` dengan nama penulis kutipan (walaupun argumen ini tidak wajib diisi). Teks yang dikutip akan muncul pada post dengan didahului oleh spasi dan jeda baris.
+Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan (*block quote*) melalui penggunaan indentasi, pewarnaan, huruf yang cetak tebal, dan garis vertikal merah muda yang memisahkan teks. Untuk menggunakan tag ini, tempatkan teks yang ingin dikutip di antara tag pembuka dan penutup dan isi argumen `NAMA` dengan nama penulis kutipan (walaupun argumen ini tidak wajib diisi). Teks yang dikutip akan muncul pada post dengan didahului oleh spasi dan jeda baris.
 
 *Catatan: Argumen `NAMA` pada tag ini wajib ditulis dengan tanda kutip (`"`).*
 
-Kutipan panjang pada umumnya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Pada forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain melalui tombol `Kutip posting untuk balasan`. Tombol ini dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan (ditampilkan di bawah). Tombol ini **hanya akan muncul apabila didekati oleh kursor**.
+Kutipan panjang pada umumnya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Pada forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain melalui tombol `Kutip posting untuk balasan` (sebagaimana yang tertera di bawah). Tombol ini dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan dan **hanya akan muncul apabila didekati oleh kursor**.
 
 ![Tombol Quote reply](img/quotereply.png "Kutip posting untuk balasan")
+
+### Inline code
+
+*Tag ini tidak sama dengan [Code block](#code-block).*
+
+```
+[c]text[/c]
+```
+
+The `[c]` tag allows for highlighting inline text in a monospace font. On the osu! website, the text will be formatted with a grey box around it. In contrary to [code blocks](#code-block), the tag may only be placed in single lines.
+
+Within the osu! forums, this is useful for emphasising e.g. keyboard shortcuts or button descriptions.
 
 ### Code block
 
