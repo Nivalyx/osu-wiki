@@ -191,7 +191,7 @@ Tag `[profile]` atau *profil* digunakan untuk menautkan halaman profil pengguna 
 
 Jika ditentukan melalui ID penggunanya, teks diantara tag terbuka dan tag tertutup tidak akan diurai dan akan ditampilkan sebagai nama pengguna pengguna sekarang. Namun, jika ditentukan hanya melalui nama pengguna, dan pengguna tersebut mengubah nama pengguna mereka, tautan akan berhenti berfungsi.
 
-### Formatted lists
+### Formatted list
 
 ```
 [list=TYPE]
@@ -297,7 +297,7 @@ Tag `[lucky]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk me
 [teks]
 ```
 
-Tag *Heading (v2)* merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menampilkan teks sebagai tajuk (*heading*) berwarna ungu dengan garis horizontal. Penggunaan tag ini terbatas pada forum Beatmaps, dan hanya muncul setelah posting (tidak di pratinjau). Tag ini tidak memiliki tombol khusus dan hanya dilambangkan dengan tanda kurung buka dan kurung tutup (tanpa tag pembuka dan penutup).
+Tag *Heading (v2)* merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menampilkan teks sebagai tajuk (*heading*) berwarna ungu dengan garis horizontal. Penggunaan tag ini terbatas pada forum Beatmaps, dan teks yang bersangkutan hanya akan muncul sebagai tajuk setelah di-post (tidak di pratinjau). Tag ini tidak memiliki tombol khusus dan hanya dilambangkan dengan tanda kurung buka dan kurung tutup (tanpa tag pembuka dan penutup).
 
 ## Trivia
 
