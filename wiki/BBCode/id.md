@@ -289,7 +289,7 @@ Tag ini akan mengarahkan pengguna ke laman pencarian Google melalui akun mereka.
 [lucky]kueri pencarian[/lucky]
 ```
 
-Tag `[lucky]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menautkan teks ke situs web berdasarkan hasil pencarian tombol `Saya Lagi Beruntung` (*I'm Feeling Lucky*) milik Google. Karena sifat dari tombol ini, situs web yang ditautkan oleh tag ini tidak akan sama untuk semua orang.
+Tag `[lucky]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menautkan teks ke situs web yang ditentukan oleh tombol `Saya Lagi Beruntung` (*I'm Feeling Lucky*) milik Google. Karena sifat dari tombol ini, situs web yang ditautkan oleh tag ini tidak akan sama untuk semua orang.
 
 ### Heading (v2)
 
