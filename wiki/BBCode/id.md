@@ -177,7 +177,7 @@ Di dalam forum osu!, kode blok paling sering digunakan untuk memposting source c
 [centre]teks[/centre]
 ```
 
-Tag `[centre]` atau *rata tengah* digunakan untuk meratakan teks ke tengah. Tag ini paling sering digunakan untuk menulis judul, tajuk, atau puisi. Apabila tag ini ditempatkan di dalam atau di sekitar tag [`[quote]`](#quote), teks yang dikutip akan tertulis rata tengah, namun elemen blok kutipan lainnya (seperti garis) tidak akan ikut diratakan ke tengah.
+Tag `[centre]` atau *rata tengah* digunakan untuk meratakan teks ke tengah. Tag ini paling sering digunakan untuk memperindah teks judul, tajuk, atau puisi. Apabila tag ini ditempatkan di dalam atau di sekitar tag [`[quote]`](#quote), teks yang dikutip akan tertulis secara rata tengah, namun elemen blok kutipan lainnya (seperti garis pemisah) tidak akan ikut diratakan ke tengah.
 
 ### URL
 
