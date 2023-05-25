@@ -165,7 +165,7 @@ teks
 [/code]
 ```
 
-Tag `[code]` atau *blok kode* digunakan untuk menampilkan teks secara mentah *dalam bentuk aslinya* (*preformatted text*). Sebagaimana tag `[c]`, tag `[code]` akan menampilkan teks di dalam boks abu-abu semi transparan dengan jenis huruf monospace. Teks yang diapit oleh tag ini akan ditampilkan sebagaimana adanya, dan kode serta tag lain yang ada di dalam teks akan diabaikan.
+Tag `[code]` atau *blok kode* digunakan untuk menampilkan teks secara mentah *dalam bentuk aslinya* (*preformatted text*). Sebagaimana tag `[c]`, tag `[code]` akan menampilkan teks di dalam boks abu-abu semi transparan dengan jenis huruf monospace. Teks yang dikelilingi oleh tag ini akan ditampilkan sebagaimana adanya, dan kode serta tag lain yang terdapat dalam teks tersebut akan diabaikan.
 
 Tag ini pada umumnya digunakan untuk memposting kode sumber [storyboard](/wiki/Storyboard) atau untuk menampilkan sintaks tag, perintah, dan kode pada utas tutorial.
 
@@ -180,14 +180,14 @@ Tag `[centre]` atau *rata tengah* digunakan untuk meratakan teks ke tengah. Tag 
 ### URL
 
 ```
-[url=LINK]teks[/url]
+[url=TAUTAN]teks[/url]
 ```
 
-Tag `[URL]` atau *tautan* digunakan untuk mengubah teks menjadi tautan yang dapat diklik.
+Tag `[TAUTAN]` atau *tautan* digunakan untuk mengubah teks menjadi tautan yang dapat diklik.
 
 *Catatan: Tag ini tidak diperlukan apabila teks yang dimaksud sudah merupakan sebuah tautan, karena forum osu! akan mengurai URL yang valid menjadi tautan secara otomatis.*
 
-Untuk membuat tautan dengan tag `[url]`, pengguna harus menentukan dua argumen: teks yang akan ditampilkan sebagai tautan, dan URL situs web yang akan ditautkan. Yang pertama harus ditentukan antara tag terbuka dan tertutup, dan yang terakhir harus ditentukan sebagai argumen `LINK`, tanpa tanda kutip (`"`). Jika tidak ada teks yang dimasukkan, teks akan berubah ke default nama URL.
+Untuk membuat tautan dengan tag `[url]`, pengguna harus menentukan dua argumen: teks yang akan ditampilkan sebagai tautan, dan URL situs web yang ingin ditautkan. Argumen pertama harus ditempatkan di antara tag pembuka dan penutup, sedangkan argumen kedua harus diberikan sebagai argumen `TAUTAN` tanpa tanda kutip (`"`). Apabila tidak ada teks yang dimasukkan, nama URL akan digunakan sebagai teks tautan.
 
 Tombol pada toolbar: ![tombol URL](img/url.png "URL")
 
