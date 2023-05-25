@@ -104,7 +104,7 @@ Tag ini pada umumnya digunakan untuk menyembunyikan informasi penting/sensitif s
 ### Box
 
 ```
-[box=NAME]
+[box=JUDUL]
 teks
 [/box]
 ```
@@ -113,7 +113,7 @@ teks
 
 Tag `[box]` atau *kotak spoiler* digunakan untuk menyembunyikan teks dan gambar di dalam boks yang dapat dibuka dan ditutup. Pada saat diklik, konten yang terdapat di dalam boks akan tersingkap seperti layaknya pada menu *dropdown*.
 
-Tag ini memiliki argumen `NAME` yang digunakan untuk menentukan judul boks. Apabila argumen ini dikosongkan, tag `[box]` akan menghasilkan kotak spoiler tanpa keterangan judul di dalamnya. Argumen ini tidak ditulis dengan tanda kutip (`"`) dan judul yang tertera akan didahului oleh karakter spasi.
+Tag ini memiliki argumen `JUDUL` yang digunakan untuk menentukan judul boks. Apabila argumen ini dikosongkan, tag `[box]` akan menghasilkan kotak spoiler tanpa keterangan judul di dalamnya. Argumen ini tidak ditulis dengan tanda kutip (`"`) dan judul yang tertera akan didahului oleh karakter spasi.
 
 Tag ini pada umumnya digunakan untuk menyembunyikan teks yang panjang dan gambar yang berukuran besar pada postingan forum, terutama pada laman FAQ atau utas forum [skin](/wiki/Skinning).
 
@@ -127,19 +127,19 @@ Tombol pada toolbar: ![Tombol Box](img/spoilerbox.png "Box")
 [spoilerbox]teks[/spoilerbox]
 ```
 
-Spoilerbox merupakan tag BBCode yang serupa dengan `[box]`, namun tanpa argumen `NAME`. Kotak spoiler yang dihasilkan oleh tag `[spoilerbox]` akan selalu mengusung `SPOILER` sebagai judulnya. Walaupun spoilerbox memiliki tag-nya tersendiri, secara fungsi tag ini identik dengan tag [box](#box).
+Spoilerbox merupakan tag BBCode yang serupa dengan `[box]`, namun tanpa argumen `JUDUL`. Kotak spoiler yang dihasilkan oleh tag `[spoilerbox]` akan selalu mengusung `SPOILER` sebagai judulnya. Walaupun spoilerbox memiliki tag-nya tersendiri, secara fungsi tag ini identik dengan tag [box](#box).
 
 ### Quote
 
 ```
-[quote="NAME"]
+[quote="NAMA"]
 teks
 [/quote]
 ```
 
-Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan ("*block quote*") melalui penggunaan indentasi, pewarnaan, cetak tebal, dan pemisahan teks melalui garis vertikal merah muda. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAME` menentukan penulis kutipan (meskipun ini opsional). Teks di dalam tanda kutip akan membuat spasi dan jeda baris.
+Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan ("*block quote*") melalui penggunaan indentasi, pewarnaan, cetak tebal, dan pemisahan teks melalui garis vertikal merah muda. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAMA` menentukan penulis kutipan (meskipun ini opsional). Teks di dalam tanda kutip akan membuat spasi dan jeda baris.
 
-*Catatan: Argumen `NAME` pada tag ini wajib ditulis dengan tanda kutip (`"`).*
+*Catatan: Argumen `NAMA` pada tag ini wajib ditulis dengan tanda kutip (`"`).*
 
 Kutipan panjang biasanya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Bagaimanapun, di dalam forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain, yang dapat dilakukan melalui tombol `Kutip posting untuk balasan` dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan (ditampilkan di bawah). Namun, tombol ini **hanya akan muncul jika kursor berada di dekatnya**.
 
