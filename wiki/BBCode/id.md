@@ -297,7 +297,7 @@ Tag `[lucky]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk me
 [teks]
 ```
 
-Tag *Heading (v2)* merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menampilkan teks sebagai tajuk (*heading*) berwarna ungu dengan garis horizontal. Penggunaan tag ini terbatas pada forum Beatmaps dan hanya muncul setelah posting (bukan di pratinjau). Tag ini tidak memiliki tombol khusus dan hanya dilambangkan dengan tanda kurung buka dan kurung tutup (tanpa tag pembuka dan penutup).
+Tag *Heading (v2)* merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menampilkan teks sebagai tajuk (*heading*) berwarna ungu dengan garis horizontal. Penggunaan tag ini terbatas pada forum Beatmaps, dan hanya muncul setelah posting (tidak di pratinjau). Tag ini tidak memiliki tombol khusus dan hanya dilambangkan dengan tanda kurung buka dan kurung tutup (tanpa tag pembuka dan penutup).
 
 ## Trivia
 
