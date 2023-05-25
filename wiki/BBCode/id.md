@@ -153,7 +153,7 @@ Tag ini dapat digunakan untuk menampilkan kutipan panjang/*long quote* (yang pad
 [c]teks[/c]
 ```
 
-Tag `[c]` atau *baris kode* digunakan untuk menyorot teks dengan boks berwarna abu-abu dan jenis huruf monospace. Tidak seperti tag [code block](#code-block), tag ini hanya dapat digunakan untuk menyorot satu baris tulisan.
+Tag `[c]` atau *baris kode* digunakan untuk menampilkan teks di dalam boks berwarna abu-abu dengan jenis huruf monospace. Tidak seperti tag [code block](#code-block), tag ini hanya dapat digunakan untuk menyorot satu baris tulisan.
 
 Pada forum osu!, tag ini berguna untuk memberikan penekanan kepada hal-hal seperti pintasan keyboard atau deskripsi tombol.
 
