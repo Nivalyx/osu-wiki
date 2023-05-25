@@ -137,11 +137,11 @@ teks
 [/quote]
 ```
 
-Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan ("*block quote*") melalui penggunaan indentasi, pewarnaan, huruf yang cetak tebal, dan garis vertikal merah muda yang memisahkan teks. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAMA` menentukan penulis kutipan (meskipun ini opsional). Teks yang dikutip akan tampil dengan didahului oleh spasi dan jeda baris.
+Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan ("*block quote*") melalui penggunaan indentasi, pewarnaan, huruf yang cetak tebal, dan garis vertikal merah muda yang memisahkan teks. Untuk menggunakan tag ini, tempatkan teks yang ingin dikutip di antara tag pembuka dan penutup dan isi argumen `NAMA` dengan nama penulis kutipan (walaupun argumen ini tidak wajib diisi). Teks yang dikutip akan tampil dengan didahului oleh spasi dan jeda baris.
 
 *Catatan: Argumen `NAMA` pada tag ini wajib ditulis dengan tanda kutip (`"`).*
 
-Kutipan panjang biasanya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Bagaimanapun, di dalam forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain, yang dapat dilakukan melalui tombol `Kutip posting untuk balasan` dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan (ditampilkan di bawah). Namun, tombol ini **hanya akan muncul jika kursor berada di dekatnya**.
+Kutipan panjang pada umumnya digunakan dalam tulisan yang lebih formal sebagai pengganti kutipan sebaris ketika biasanya menggunakan tiga baris atau lebih. Bagaimanapun, di dalam forum osu!, tag ini paling sering digunakan untuk membalas komentar pengguna lain, yang dapat dilakukan melalui tombol `Kutip posting untuk balasan` dengan cara menyeret mouse ke area postingan, terletak di kanan atas komentar yang diinginkan (ditampilkan di bawah). Namun, tombol ini **hanya akan muncul jika kursor berada di dekatnya**.
 
 ![Tombol Quote reply](img/quotereply.png "Kutip posting untuk balasan")
 
@@ -153,7 +153,7 @@ teks
 [/code]
 ```
 
-Tag `[code]` atau *balok kode* digunakan untuk membuat *kode blok yang telah diformat sebelumnya*. Di situs web osu!, tag `[code]` akan memformat teks dalam font monospace di dalam kotak abu-abu semi transparan. Pemformatan teks di dalam kode blok akan memberi tahu editor untuk memperlakukan teks di antara tag tersebut secara harfiah, sehingga mencegah konversi tag atau kode sumber apa pun menjadi sesuatu yang lain.
+Tag `[code]` atau *blok kode* digunakan untuk membuat *kode blok yang telah diformat sebelumnya*. Di situs web osu!, tag `[code]` akan memformat teks dalam font monospace di dalam kotak abu-abu semi transparan. Pemformatan teks di dalam kode blok akan memberi tahu editor untuk memperlakukan teks di antara tag tersebut secara harfiah, sehingga mencegah konversi tag atau kode sumber apa pun menjadi sesuatu yang lain.
 
 Di dalam forum osu!, kode blok paling sering digunakan untuk memposting source code untuk [storyboard](/wiki/Storyboard), atau dalam tutorial yang mengharuskan menampilkan sintaks untuk tag, perintah, atau source code.
 
