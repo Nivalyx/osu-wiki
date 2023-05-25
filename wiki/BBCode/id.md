@@ -224,12 +224,12 @@ Tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol daftar ber
 ### Email
 
 ```
-[email=ADDRESS]text[/email]
+[email=ALAMAT]text[/email]
 ```
 
 The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
 
-In order to create a link, two arguments need to be specified: the `ADDRESS` argument needs to be a valid email address, while `text` is the displayed text that serves as a hyperlink. If the `text` argument is not defined, the hyperlink will not be created correctly.
+In order to create a link, two arguments need to be specified: the `ALAMAT` argument needs to be a valid email address, while `text` is the displayed text that serves as a hyperlink. If the `text` argument is not defined, the hyperlink will not be created correctly.
 
 ### Image
 
