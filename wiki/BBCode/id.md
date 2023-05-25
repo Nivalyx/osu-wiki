@@ -217,7 +217,7 @@ Tag `[list]` atau *daftar* digunakan untuk membuat daftar pada forum osu!, baik 
 
 Secara *default*, apabila argumen `JENIS` tidak ditentukan, tag ini akan menghasilkan daftar yang diurutkan dengan poin. Sebaliknya, apabila argumen ini diisi dengan sesuatu (terlepas dari apapun itu isinya), tag ini akan menghasilkan daftar yang diurutkan dengan angka.
 
-*Catatan: Daftar yang ada dapat saling ditumpuk dan ditempatkan di dalam satu sama lain, meskipun hal ini diketahui dapat menyebabkan masalah dengan format penulisan BBCode yang ada.*
+*Catatan: Daftar yang ada dapat saling ditumpuk dan ditempatkan di dalam satu sama lain, meskipun hal ini diketahui dapat menyebabkan masalah dengan format daftar yang dihasilkan.*
 
 Tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol daftar berurut angka](img/list-numbered.png "Daftar berurut angka")
 
