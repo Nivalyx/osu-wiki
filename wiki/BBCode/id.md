@@ -183,9 +183,9 @@ Tag `[centre]` atau *rata tengah* digunakan untuk meratakan teks ke tengah. Tag 
 [url=LINK]teks[/url]
 ```
 
-Tag `[URL]` atau *tautan* digunakan untuk mengubah teks menjadi *hyperlink* yang dapat diklik.
+Tag `[URL]` atau *tautan* digunakan untuk mengubah teks menjadi tautan yang dapat diklik.
 
-*Catatan: Tag ini tidak diperlukan jika seseorang tidak ingin menggunakan teks hyperlink kustom, karena forum osu! mengurai URL yang tepat menjadi link secara otomatis.*
+*Catatan: Tag ini tidak diperlukan apabila teks yang dimaksud sudah merupakan sebuah tautan, karena forum osu! mengurai URL yang valid menjadi tautan secara otomatis.*
 
 Untuk membuat hyperlink dengan tag `[url]`, pengguna harus menentukan dua argumen: teks yang ditautkan untuk ditampilkan dan URL situs web spesifik yang akan dinavigasikan. Yang pertama harus ditentukan antara tag terbuka dan tertutup, dan yang terakhir harus ditentukan sebagai argumen `LINK`, tanpa tanda kutip (`"`). Jika tidak ada teks yang dimasukkan, teks akan berubah ke default nama URL.
 
