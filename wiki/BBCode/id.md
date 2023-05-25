@@ -281,7 +281,7 @@ Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!.
 
 Tag `[google]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menautkan teks ke kueri pencarian Google.
 
-Tag ini akan mengarahkan pengguna ke laman pencarian Google melalui akun mereka. Berhubung Google mempersonalisasi hasil pencarian masing-masing pengguna, yang berarti bahwa hasil yang sama persis tidak akan diberikan kepada semua orang. Karena hal ini pula, beberapa hasil penelusuran tidak akan muncul bagi pengguna tertentu karena batasan bahasa atau negara.
+Tag ini akan mengarahkan pengguna ke laman pencarian Google melalui akun mereka. Berhubung Google mempersonalisasi hasil pencarian masing-masing pengguna, hasil pencarian yang diperoleh tidak akan sama persis untuk semua orang. Karena hal ini pula, beberapa hasil tidak akan muncul bagi pengguna tertentu karena batasan bahasa atau negara.
 
 ### Lucky
 
