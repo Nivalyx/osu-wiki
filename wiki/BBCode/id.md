@@ -213,7 +213,7 @@ Apabila tag ini digunakan hanya dengan ID pengguna sebagai acuannya, teks yang b
 [/list]
 ```
 
-Tag `[list]` atau *daftar berurut* digunakan untuk pemformatan berbagai jenis daftar di seluruh forum osu! dengan menggunakan tanda bintang yang diapit tanda kurung (`[*]`) untuk menunjukkan item baru dalam daftar (ditampilkan di atas) secara otomatis. Umumnya, menggunakan tag ini akan menjadikan daftar poin lebih jelas.
+Tag `[list]` atau *daftar berurut* digunakan untuk membuat daftar melalui bintang yang diapit tanda kurung (`[*]`) (sebagaimana yang dicontohkan di atas). Umumnya, menggunakan tag ini akan menjadikan daftar poin lebih jelas.
 
 Gaya daftar pada poin lainnya dapat diformat dengan menetapkan argumen `JENIS` sebagai `1`, `a`, `A`, `i`, atau `I`, yang akan memformat daftar point sebagai bernomor, berhuruf (huruf kecil), berhuruf (huruf besar), angka romawi (huruf kecil), dan angka romawi (huruf besar).
 
