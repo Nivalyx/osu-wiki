@@ -197,11 +197,11 @@ Tombol pada toolbar: ![tombol URL](img/url.png "URL")
 [profile=userid]nama pengguna[/profile]
 ```
 
-Tag `[profile]` atau *profil* digunakan untuk menautkan laman profil pengguna osu! berdasarkan nama atau ID pengguna mereka. Penggunaan tag `[profile]` memiliki perbadaan dengan tag [`[url]`](#url), karena pada saat menggunakan tag `[profile]`, kartu pengguna akan ditampilkan saat kursor mengarah ke tautan yang dibuat oleh tag tersebut.
+Tag `[profile]` atau *profil* digunakan untuk menautkan laman profil pengguna osu! berdasarkan nama atau ID pengguna mereka. Penggunaan tag `[profile]` memiliki perbadaan dengan tag [`[url]`](#url), karena pada saat menggunakan tag `[profile]`, kartu pengguna (*user card*) milik pengguna yang bersangkutan akan ditampilkan pada saat kursor diarahkan ke tautan yang dihasilkan.
 
-*Catatan: ID pengguna merupakan rangkaian angka yang mengikuti `/users/` di akhir URL laman profil masing-masing pengguna.*
+*Catatan: ID pengguna merupakan rangkaian angka yang mengikuti `/users/` pada URL laman profil masing-masing pengguna.*
 
-Jika ditentukan melalui ID penggunanya, teks diantara tag terbuka dan tag tertutup tidak akan diurai dan akan ditampilkan sebagai nama pengguna pengguna sekarang. Namun, jika ditentukan hanya melalui nama pengguna, dan pengguna tersebut mengubah nama pengguna mereka, tautan akan berhenti berfungsi.
+Apabila tag ini digunakan dengan ID pengguna sebagai acuannya, teks yang berada di antara tag pembuka dan penutup tidak akan diurai dan akan ditampilkan sebagai nama pengguna pengguna sekarang. Di sisi lain, apabila tag ini digunakan dengan nama pengguna sebagai acuannya, dan pengguna tersebut mengubah nama pengguna mereka, tautan akan berhenti berfungsi.
 
 ### Formatted list
 
