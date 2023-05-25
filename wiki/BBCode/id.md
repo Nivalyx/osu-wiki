@@ -281,7 +281,7 @@ Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!.
 
 Tag `[google]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menautkan teks ke kueri pencarian Google.
 
-Tag ini akan mengarahkan pengguna ke laman pencarian Google melalui akun mereka. Berhubung Google mempersonalisasi hasil pencarian masing-masing pengguna, hasil pencarian yang diperoleh tidak akan sama untuk semua orang. Karena hal ini pula, beberapa hasil pencarian tidak akan muncul bagi pengguna tertentu karena batasan bahasa atau negara.
+Tag ini akan mengarahkan pengguna ke laman pencarian Google melalui akun mereka. Berhubung Google mempersonalisasi hasil pencarian masing-masing pengguna, hasil pencarian yang ditampilkan tidak akan sama untuk semua orang. Karena hal ini pula, beberapa hasil pencarian tidak akan muncul bagi pengguna tertentu karena batasan bahasa atau negara.
 
 ### Lucky
 
@@ -289,7 +289,7 @@ Tag ini akan mengarahkan pengguna ke laman pencarian Google melalui akun mereka.
 [lucky]kueri pencarian[/lucky]
 ```
 
-Tag `[lucky]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menautkan teks ke situs web yang mengarah ke tombol `Saya Lagi Beruntung` (*I'm Feeling Lucky*) milik Google. Situs web yang ditautkan melalui tag ini tidak akan sama untuk semua orang karena sifat tombol itu sendiri.
+Tag `[lucky]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menautkan teks ke situs web tertentu berdasarkan hasil tombol `Saya Lagi Beruntung` (*I'm Feeling Lucky*) milik Google. Situs web yang ditautkan melalui tag ini tidak akan sama untuk semua orang karena sifat tombol itu sendiri.
 
 ### Heading (v2)
 
