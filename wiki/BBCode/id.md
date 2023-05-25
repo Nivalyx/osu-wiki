@@ -201,7 +201,7 @@ Tag `[profile]` atau *profil* digunakan untuk menautkan laman profil pengguna os
 
 *Catatan: ID pengguna merupakan rangkaian angka yang mengikuti `/users/` pada URL laman profil masing-masing pengguna.*
 
-Apabila tag ini digunakan hanya dengan ID pengguna sebagai acuannya, teks yang berada di antara tag pembuka dan penutup tidak akan dianggap. Di sisi lain, apabila tag ini digunakan hanya dengan nama pengguna sebagai acuannya, tautan yang dihasilkan tidak akan lagi berfungsi sebagaimana mestinya apabila pengguna yang bersangkutan mengubah nama penggunanya.
+Apabila tag ini digunakan hanya dengan ID pengguna sebagai acuannya, teks yang berada di antara tag pembuka dan penutup akan diabaikan. Di sisi lain, apabila tag ini digunakan hanya dengan nama pengguna sebagai acuannya, tautan yang dihasilkan tidak akan lagi berfungsi sebagaimana mestinya apabila pengguna yang bersangkutan mengubah nama penggunanya.
 
 ### Formatted list
 
@@ -213,9 +213,9 @@ Apabila tag ini digunakan hanya dengan ID pengguna sebagai acuannya, teks yang b
 [/list]
 ```
 
-Tag `[list]` atau *daftar berurut* digunakan untuk membuat daftar melalui bintang yang diapit tanda kurung (`[*]`) (sebagaimana yang dicontohkan di atas). Umumnya, menggunakan tag ini akan menjadikan daftar poin lebih jelas.
+Tag `[list]` atau *daftar* digunakan untuk membuat daftar melalui bintang yang diapit tanda kurung (`[*]`) (sebagaimana yang dicontohkan di atas). Umumnya, menggunakan tag ini akan menjadikan daftar poin lebih jelas.
 
-Gaya daftar pada poin lainnya dapat diformat dengan menetapkan argumen `JENIS` sebagai `1`, `a`, `A`, `i`, atau `I`, yang akan memformat daftar point sebagai bernomor, berhuruf (huruf kecil), berhuruf (huruf besar), angka romawi (huruf kecil), dan angka romawi (huruf besar).
+Apabila argumen `JENIS` pada tag ini tidak dikosongkan (terlepas dari apapun itu isinya), tag ini akan menghasilkan daftar yang diurutkan dengan angka (*numbered list*).
 
 *Perhatian: Daftar BBCode berformat dapat ditumpuk satu sama lain dan bisa ditempatkan di dalam satu sama lain, meskipun diketahui menyebabkan masalah pada pemformatan.*
 
