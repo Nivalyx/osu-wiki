@@ -187,7 +187,7 @@ Tag `[TAUTAN]` atau *tautan* digunakan untuk mengubah teks menjadi tautan yang d
 
 *Catatan: Tag ini tidak diperlukan apabila teks yang dimaksud sudah merupakan sebuah tautan, karena forum osu! akan mengurai URL yang valid menjadi tautan secara otomatis.*
 
-Untuk membuat tautan dengan tag `[url]`, pengguna harus menentukan dua argumen: teks yang akan ditampilkan sebagai tautan, dan URL situs web yang ingin ditautkan. Argumen pertama harus ditempatkan di antara tag pembuka dan penutup, sedangkan argumen kedua harus diberikan sebagai argumen `TAUTAN` tanpa tanda kutip (`"`). Apabila tidak ada teks yang dimasukkan, maka nama URL akan digunakan sebagai teks tautan.
+Untuk membuat tautan dengan tag `[url]`, pengguna harus menentukan dua argumen: teks yang akan ditampilkan sebagai tautan, dan URL situs web yang ingin ditautkan. Argumen pertama harus ditempatkan di antara tag pembuka dan penutup, sedangkan argumen kedua harus ditulis sebagai argumen `TAUTAN` tanpa tanda kutip (`"`). Apabila tidak ada teks yang dimasukkan, maka nama URL akan digunakan sebagai teks tautan.
 
 Tombol pada toolbar: ![tombol URL](img/url.png "URL")
 
@@ -197,16 +197,16 @@ Tombol pada toolbar: ![tombol URL](img/url.png "URL")
 [profile=userid]nama pengguna[/profile]
 ```
 
-Tag `[profile]` atau *profil* digunakan untuk menautkan laman profil pengguna osu! berdasarkan nama atau ID pengguna mereka. Penggunaan tag `[profile]` memiliki perbadaan dengan tag [`[url]`](#url), karena pada saat menggunakan tag `[profile]`, kartu pengguna (*user card*) milik pengguna yang bersangkutan akan ditampilkan pada saat kursor diarahkan ke tautan yang dihasilkan.
+Tag `[profile]` atau *profil* digunakan untuk menautkan laman profil pengguna osu! berdasarkan nama atau ID pengguna mereka. Tautan yang dihasilkan oleh tag `[profile]` berbeda dengan tautan yang dihasilkan oleh tag [`[url]`](#url), karena tautan dari tag ini akan menampilkan kartu pengguna (*user card*) milik pengguna yang bersangkutan pada saat kursor diarahkan ke tautan tersebut.
 
 *Catatan: ID pengguna merupakan rangkaian angka yang mengikuti `/users/` pada URL laman profil masing-masing pengguna.*
 
-Apabila tag ini digunakan dengan ID pengguna sebagai acuannya, teks yang berada di antara tag pembuka dan penutup tidak akan diurai dan akan ditampilkan sebagai nama pengguna pengguna sekarang. Di sisi lain, apabila tag ini digunakan dengan nama pengguna sebagai acuannya, dan pengguna tersebut mengubah nama pengguna mereka, tautan akan berhenti berfungsi.
+Apabila tag ini digunakan hanya dengan ID pengguna sebagai acuannya, teks yang berada di antara tag pembuka dan penutup tidak akan dianggap. Di sisi lain, apabila tag ini digunakan hanya dengan nama pengguna sebagai acuannya, tautan yang dihasilkan tidak akan lagi berfungsi sebagaimana mestinya apabila pengguna yang bersangkutan mengubah nama penggunanya.
 
 ### Formatted list
 
 ```
-[list=TYPE]
+[list=JENIS]
 [*]item 1
 [*]item 2
 [*]item 3
@@ -215,11 +215,11 @@ Apabila tag ini digunakan dengan ID pengguna sebagai acuannya, teks yang berada 
 
 Tag `[list]` atau *daftar berurut* digunakan untuk pemformatan berbagai jenis daftar di seluruh forum osu! dengan menggunakan tanda bintang yang diapit tanda kurung (`[*]`) untuk menunjukkan item baru dalam daftar (ditampilkan di atas) secara otomatis. Umumnya, menggunakan tag ini akan menjadikan daftar poin lebih jelas.
 
-Gaya daftar pada poin lainnya dapat diformat dengan menetapkan argumen `TYPE` sebagai `1`, `a`, `A`, `i`, atau `I`, yang akan memformat daftar point sebagai bernomor, berhuruf (huruf kecil), berhuruf (huruf besar), angka romawi (huruf kecil), dan angka romawi (huruf besar).
+Gaya daftar pada poin lainnya dapat diformat dengan menetapkan argumen `JENIS` sebagai `1`, `a`, `A`, `i`, atau `I`, yang akan memformat daftar point sebagai bernomor, berhuruf (huruf kecil), berhuruf (huruf besar), angka romawi (huruf kecil), dan angka romawi (huruf besar).
 
 *Perhatian: Daftar BBCode berformat dapat ditumpuk satu sama lain dan bisa ditempatkan di dalam satu sama lain, meskipun diketahui menyebabkan masalah pada pemformatan.*
 
-Tombol-tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol numbered list](img/list-numbered.png "Daftar bernomor")
+Tombol pada toolbar: ![Tombol daftar berurut](img/list.png "Daftar berurut") ![Tombol daftar berurut angka](img/list-numbered.png "Daftar berurut angka")
 
 ### Image
 
