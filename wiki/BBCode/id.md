@@ -197,7 +197,7 @@ Tombol pada toolbar: ![tombol URL](img/url.png "URL")
 [profile=userid]nama pengguna[/profile]
 ```
 
-Tag `[profile]` atau *profil* digunakan untuk menautkan laman profil pengguna osu! berdasarkan nama atau ID pengguna mereka. Penggunaan tag `[profile]` berbeda dengan penggunaan tag [`[url]`](#url), karena tag `[profile]` menampilkan kartu pengguna saat mengarahkan kursor ke tautan yang dibuat oleh tag.
+Tag `[profile]` atau *profil* digunakan untuk menautkan laman profil pengguna osu! berdasarkan nama atau ID pengguna mereka. Penggunaan tag `[profile]` memiliki perbadaan dengan tag [`[url]`](#url), karena pada saat menggunakan tag `[profile]`, kartu pengguna akan ditampilkan saat kursor mengarah ke tautan yang dibuat oleh tag tersebut.
 
 *Catatan: ID pengguna merupakan rangkaian angka yang mengikuti `/users/` di akhir URL laman profil masing-masing pengguna.*
 
@@ -213,7 +213,7 @@ Jika ditentukan melalui ID penggunanya, teks diantara tag terbuka dan tag tertut
 [/list]
 ```
 
-Tag `[list]` atau *daftar* digunakan untuk pemformatan berbagai jenis daftar di seluruh forum osu! dengan menggunakan tanda bintang yang diapit tanda kurung (`[*]`) untuk menunjukkan item baru dalam daftar (ditampilkan di atas) secara otomatis. Umumnya, menggunakan tag ini akan menjadikan daftar poin lebih jelas.
+Tag `[list]` atau *daftar berurut* digunakan untuk pemformatan berbagai jenis daftar di seluruh forum osu! dengan menggunakan tanda bintang yang diapit tanda kurung (`[*]`) untuk menunjukkan item baru dalam daftar (ditampilkan di atas) secara otomatis. Umumnya, menggunakan tag ini akan menjadikan daftar poin lebih jelas.
 
 Gaya daftar pada poin lainnya dapat diformat dengan menetapkan argumen `TYPE` sebagai `1`, `a`, `A`, `i`, atau `I`, yang akan memformat daftar point sebagai bernomor, berhuruf (huruf kecil), berhuruf (huruf besar), angka romawi (huruf kecil), dan angka romawi (huruf besar).
 
