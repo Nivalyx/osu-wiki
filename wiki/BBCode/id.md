@@ -137,7 +137,7 @@ teks
 [/quote]
 ```
 
-Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan ("*block quote*") melalui penggunaan indentasi, pewarnaan, cetak tebal, dan pemisahan teks melalui garis vertikal merah muda. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAMA` menentukan penulis kutipan (meskipun ini opsional). Teks di dalam tanda kutip akan membuat spasi dan jeda baris.
+Tag `[quote]` atau *kutipan* digunakan untuk menampilkan teks dalam bentuk blok kutipan ("*block quote*") melalui penggunaan indentasi, pewarnaan, huruf yang cetak tebal, dan pemisahan teks melalui garis vertikal merah muda. Isi dari kutipan ditempatkan di antara tag terbuka dan tertutup, sedangkan argumen `NAMA` menentukan penulis kutipan (meskipun ini opsional). Teks di dalam tanda kutip akan membuat spasi dan jeda baris.
 
 *Catatan: Argumen `NAMA` pada tag ini wajib ditulis dengan tanda kutip (`"`).*
 
@@ -201,7 +201,7 @@ Jika ditentukan melalui ID penggunanya, teks diantara tag terbuka dan tag tertut
 [/list]
 ```
 
-Tag `[list]` atau *uraian/daftar* digunakan untuk pemformatan berbagai jenis daftar di seluruh forum osu! dengan menggunakan tanda bintang yang diapit tanda kurung (`[*]`) untuk menunjukkan item baru dalam daftar (ditampilkan di atas) secara otomatis. Umumnya, menggunakan tag ini akan menjadikan daftar poin lebih jelas.
+Tag `[list]` atau *daftar* digunakan untuk pemformatan berbagai jenis daftar di seluruh forum osu! dengan menggunakan tanda bintang yang diapit tanda kurung (`[*]`) untuk menunjukkan item baru dalam daftar (ditampilkan di atas) secara otomatis. Umumnya, menggunakan tag ini akan menjadikan daftar poin lebih jelas.
 
 Gaya daftar pada poin lainnya dapat diformat dengan menetapkan argumen `TYPE` sebagai `1`, `a`, `A`, `i`, atau `I`, yang akan memformat daftar point sebagai bernomor, berhuruf (huruf kecil), berhuruf (huruf besar), angka romawi (huruf kecil), dan angka romawi (huruf besar).
 
