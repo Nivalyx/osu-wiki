@@ -153,7 +153,7 @@ Tag ini dapat digunakan untuk menampilkan kutipan panjang/*long quote* (yang pad
 [c]teks[/c]
 ```
 
-Tag `[c]` atau *baris kode* digunakan untuk meng-*highlight* teks dengan jenis huruf monospace di dalam kotak berwarna abu-abu. Tidak seperti [code block](#code-block), tag ini hanya dapat digunakan untuk satu baris tulisan.
+Tag `[c]` atau *baris kode* digunakan untuk menyoroti teks dengan jenis huruf monospace. Pada situs web osu!, teks akan ditampilkan di dalam kotak berwarna abu-abu. Tidak seperti tag [code block](#code-block), tag ini hanya dapat digunakan untuk menyoroti satu baris tulisan.
 
 Pada forum osu!, tag ini berguna untuk memberikan penekanan kepada hal-hal seperti pintasan keyboard atau deskripsi tombol.
 
@@ -165,7 +165,7 @@ teks
 [/code]
 ```
 
-Tag `[code]` atau *blok kode* digunakan untuk membuat *kode blok yang telah diformat sebelumnya*. Di situs web osu!, tag `[code]` akan memformat teks dalam font monospace di dalam kotak abu-abu semi transparan. Pemformatan teks di dalam kode blok akan memberi tahu editor untuk memperlakukan teks di antara tag tersebut secara harfiah, sehingga mencegah konversi tag atau kode sumber apa pun menjadi sesuatu yang lain.
+Tag `[code]` atau *blok kode* digunakan untuk memunculkan *kode blok yang telah diformat sebelumnya* (*preformatted text*). Di situs web osu!, tag `[code]` akan memformat teks dalam font monospace di dalam kotak abu-abu semi transparan. Pemformatan teks di dalam kode blok akan memberi tahu editor untuk memperlakukan teks di antara tag tersebut secara harfiah, sehingga mencegah konversi tag atau kode sumber apa pun menjadi sesuatu yang lain.
 
 Pada forum osu!, tag ini paling sering digunakan untuk memposting source code untuk [storyboard](/wiki/Storyboard), atau dalam tutorial yang mengharuskan menampilkan sintaks untuk tag, perintah, atau source code.
 
