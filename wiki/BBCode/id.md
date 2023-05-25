@@ -209,7 +209,7 @@ Gaya daftar pada poin lainnya dapat diformat dengan menetapkan argumen `TYPE` se
 
 Tombol-tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol numbered list](img/list-numbered.png "Daftar bernomor")
 
-### Images
+### Image
 
 ```
 [img]ADDRESS[/img]
