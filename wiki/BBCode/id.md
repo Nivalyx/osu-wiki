@@ -165,7 +165,7 @@ teks
 [/code]
 ```
 
-Tag `[code]` atau *blok kode* digunakan untuk menampilkan teks secara mentah *dalam bentuk aslinya* (*preformatted text*). Sebagaimana tag `[c]`, tag `[code]` akan menampilkan teks di dalam boks abu-abu semi transparan dengan jenis huruf monospace. Teks yang dikelilingi oleh tag ini akan ditampilkan sebagaimana adanya, dan kode serta tag lain yang terdapat dalam teks tersebut akan diabaikan.
+Tag `[code]` atau *blok kode* digunakan untuk menampilkan teks secara mentah *dalam bentuk aslinya* (*preformatted text*). Sebagaimana tag `[c]`, tag `[code]` akan menampilkan teks di dalam boks abu-abu dengan jenis huruf monospace. Teks yang dikelilingi oleh tag ini akan ditampilkan sebagaimana adanya, dan kode serta tag lain yang terdapat dalam teks tersebut akan diabaikan.
 
 Tag ini pada umumnya digunakan untuk memposting kode sumber [storyboard](/wiki/Storyboard) atau untuk menampilkan sintaks tag, perintah, dan kode pada utas tutorial.
 
@@ -217,7 +217,7 @@ Tag `[list]` atau *daftar* digunakan untuk membuat daftar pada forum osu!, baik 
 
 Secara *default*, apabila argumen `JENIS` tidak ditentukan, tag ini akan menghasilkan daftar yang diurutkan dengan poin. Sebaliknya, apabila argumen ini diisi dengan sesuatu (terlepas dari apapun itu isinya), tag ini akan menghasilkan daftar yang diurutkan dengan angka.
 
-*Perhatian: Daftar yang ada dapat saling ditumpuk dan ditempatkan di dalam satu sama lain, meskipun hal ini dapat menyebabkan masalah.*
+*Catatan: Daftar yang ada dapat saling ditumpuk dan ditempatkan di dalam satu sama lain, meskipun hal ini diketahui dapat menyebabkan masalah dengan pemformatan.*
 
 Tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol daftar berurut angka](img/list-numbered.png "Daftar berurut angka")
 
