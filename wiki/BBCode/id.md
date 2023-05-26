@@ -61,7 +61,7 @@ Tag `[u]` atau *garis bawah* digunakan untuk memberikan penekanan pada teks mela
 
 *Dikenal juga sebagai **strike**.*
 
-Tag `[strike]` atau *coret* digunakan untuk memberikan kesan bahwa teks yang bersangkutan seolah-olah akan dihapus melalui paparan garis horizontal yang "mencoret" teks.
+Tag `[strike]` atau *coret* digunakan untuk memberikan kesan "salah ketik" pada teks melalui paparan garis horizontal yang mencoret teks.
 
 Tombol pada toolbar: ![Tombol Strike](img/strike.png "Strikethrough")
 
