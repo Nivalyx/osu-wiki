@@ -241,7 +241,7 @@ Tag `[img]` atau *gambar* digunakan untuk menyisipkan gambar dari situs web lain
 
 *Catatan: URL situs web **tidak sama** dengan alamat gambar.*
 
-Untuk memperoleh alamat gambar, pengguna perlu untuk menjelajah ke situs web sumber, mengarahkan kursor ke gambar, mengklik kanan gambar, dan memilih `Salin alamat gambar` (`Copy image address`). Setelahnya, alamat ini dapat disisipkan ke dalam tag.
+Untuk memperoleh alamat gambar, pengguna harus menjelajah ke situs web sumber, mengarahkan kursor ke gambar, mengklik kanan gambar, dan memilih `Salin alamat gambar` (`Copy image address`). Setelahnya, alamat ini dapat disisipkan ke dalam tag.
 
 Walaupun gambar untuk tag ini dapat bersumber dari situs web mana pun, osu! menyarankan agar gambar yang digunakan berasal dari situs *file sharing* ternama seperti [Imgur](https://imgur.com). Hal ini dikarenakan terdapat beberapa situs web yang tidak mengizinkan gambar mereka untuk digunakan oleh situs web lain (atau yang dikenal dengan istilah "*hotlink*").
 
