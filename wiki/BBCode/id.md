@@ -241,7 +241,7 @@ Tag `[img]` atau *gambar* digunakan untuk menyisipkan gambar dari situs web lain
 
 *Catatan: URL situs web **tidak sama** dengan alamat gambar.*
 
-Untuk memperoleh alamat gambar, pengguna harus membuka situs web tempat gambar tersebut berasal, mengarahkan kursor mereka ke gambar, mengklik kanan gambar, dan memilih `Salin alamat gambar` (`Copy image address`). Setelahnya, alamat ini dapat disisipkan ke dalam tag.
+Untuk memperoleh alamat gambar, pengguna harus membuka situs web tempat gambar tersebut berasal, mengarahkan kursor ke gambar, mengklik kanan gambar, dan memilih `Salin alamat gambar` (`Copy image address`). Setelahnya, alamat ini dapat disisipkan ke dalam tag.
 
 Walaupun gambar untuk tag ini dapat bersumber dari situs web mana pun, osu! menyarankan agar gambar yang digunakan berasal dari situs *file sharing* ternama seperti [Imgur](https://imgur.com). Hal ini dikarenakan terdapat beberapa situs web yang tidak mengizinkan gambar mereka untuk digunakan oleh situs web lain (atau yang dikenal dengan istilah "*hotlink*").
 
@@ -255,7 +255,7 @@ Tombol pada toolbar: ![Tombol Image](img/image.png "Image")
 
 Tag `[youtube]` digunakan untuk menyematkan video [YouTube](https://youtube.com) ke situs web osu!. Pengguna diharuskan untuk memasukkan hanya ID video (**bukan** seluruh URL) di antara kedua tag (diwakili oleh argumen `VIDEO_ID` di atas).
 
-ID video YouTube terletak di URL video YouTube dan merupakan string 11 karakter *tepat setelah* huruf `v=`.
+ID video YouTube sendiri merupakan 11 karakter yang *mengikuti* huruf `v=` pada URL video.
 
 ### Audio
 
