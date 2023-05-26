@@ -12,7 +12,7 @@ Tag BBCode dapat dimunculkan dengan mengklik tombol *markup* yang tertera pada t
 
 Tag BBCode yang ada dapat saling digabungkan dan ditempatkan satu sama lain. Namun, urutan dan tingkatan tag yang diinginkan, **wajib kenali** saat digabungkan. Kegagalan menerapkannya akan merusak pemformatan.
 
-Berikut merupakan contoh penulisan tag bersarang yang benar dan salah:
+Berikut merupakan contoh penggabungan tag BBCode yang benar dan salah:
 
 - `[centre][b]teks[/b][/centre]` benar
 - `[b][centre]teks[/b][/centre]` salah
