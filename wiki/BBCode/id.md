@@ -224,12 +224,14 @@ Tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol daftar ber
 ### Email
 
 ```
-[email=ALAMAT]text[/email]
+[email=ALAMAT]teks[/email]
 ```
+
+Tag `[email]` digunakan untuk menghasilkan tautan email yang akan membuka program email pada saat diklik.
 
 The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
 
-In order to create a link, two arguments need to be specified: the `ALAMAT` argument needs to be a valid email address, while `text` is the displayed text that serves as a hyperlink. If the `text` argument is not defined, the hyperlink will not be created correctly.
+Untuk membuat tautan email, terdapat dua argumen yang harus diisi: argumen `ALAMAT` yang berisi alamat email yang ingin ditautkan, dan argumen `teks` yang berisi tulisan yang ingin ditampilkan sebagai tautan. Apabila argumen `teks` ini tidak diisi, tautan email tidak akan muncul sebagaimana mestinya.
 
 ### Image
 
