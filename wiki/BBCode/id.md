@@ -318,7 +318,7 @@ Berikut merupakan daftar tag BBCode yang telah dipensiunkan dari situs web osu!.
 [google]kueri pencarian[/google]
 ```
 
-Tag `[google]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menautkan teks ke kueri pencarian Google.
+Tag `[google]` merupakan tag lawas yang dahulu digunakan untuk menautkan teks ke kueri pencarian Google.
 
 Tag ini akan mengarahkan pengguna ke laman pencarian Google melalui akun mereka. Berhubung Google menyesuaikan hasil pencarian masing-masing penggunanya, hasil pencarian yang ditampilkan tidak akan sama untuk semua orang. Karena hal ini pula, sebagian hasil pencarian dapat tidak muncul bagi pengguna tertentu karena batasan bahasa atau negara.
 
@@ -328,7 +328,7 @@ Tag ini akan mengarahkan pengguna ke laman pencarian Google melalui akun mereka.
 [lucky]kueri pencarian[/lucky]
 ```
 
-Tag `[lucky]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menautkan teks ke situs web yang ditentukan oleh tombol `Saya Lagi Beruntung` (*I'm Feeling Lucky*) milik Google. Karena sifat dari tombol ini, situs web yang ditautkan oleh tag ini tidak akan sama untuk semua orang.
+Tag `[lucky]` merupakan tag lawas yang dahulu digunakan untuk menautkan teks ke situs web yang ditentukan oleh tombol `Saya Lagi Beruntung` (*I'm Feeling Lucky*) milik Google. Karena sifat dari tombol ini, situs web yang ditautkan oleh tag ini tidak akan sama untuk semua orang.
 
 ### Heading (v2)
 
@@ -336,7 +336,7 @@ Tag `[lucky]` merupakan tag lawas yang dahulu digunakan pada forum osu! untuk me
 [teks]
 ```
 
-Tag *Heading (v2)* merupakan tag lawas yang dahulu digunakan pada forum osu! untuk menampilkan teks sebagai tajuk (*heading*) berwarna ungu dengan garis horizontal. Penggunaan tag ini terbatas pada forum Beatmaps, dan teks yang bersangkutan hanya akan muncul sebagai tajuk setelah post diterbitkan (tidak di pratinjau). Tag ini tidak memiliki tombol khusus dan hanya dilambangkan dengan tanda kurung buka dan kurung tutup (tanpa tag pembuka dan penutup).
+Tag *Heading (v2)* merupakan tag lawas yang dahulu digunakan untuk menampilkan teks sebagai tajuk (*heading*) berwarna ungu dengan garis horizontal. Penggunaan tag ini terbatas pada forum Beatmaps, dan teks yang bersangkutan hanya akan muncul sebagai tajuk setelah post diterbitkan (tidak di pratinjau). Tag ini tidak memiliki tombol khusus dan hanya dilambangkan dengan tanda kurung buka dan kurung tutup (tanpa tag pembuka dan penutup).
 
 ## Trivia
 
