@@ -270,7 +270,7 @@ Tombol pada toolbar: ![Tombol imagemap](img/imagemap.png "Imagemap")
 [youtube]VIDEO_ID[/youtube]
 ```
 
-Tag `[youtube]` digunakan untuk menyematkan video [YouTube](https://youtube.com) ke situs web osu!. Pengguna diharuskan untuk memasukkan hanya ID video (**bukan** seluruh URL) di antara kedua tag (diwakili oleh argumen `VIDEO_ID` di atas).
+Tag `[youtube]` digunakan untuk menyematkan video [YouTube](https://youtube.com) ke situs web osu!. Tag ini mengharuskan pengguna untuk hanya memasukkan ID video (**bukan** seluruh URL) pada argumen `VIDEO_ID` di atas.
 
 ID video YouTube merupakan 11 karakter yang *mengikuti* huruf `v=` pada URL video.
 
