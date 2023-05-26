@@ -227,9 +227,7 @@ Tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol daftar ber
 [email=ALAMAT]teks[/email]
 ```
 
-Tag `[email]` digunakan untuk menghasilkan tautan email yang akan membuka program email pada saat diklik.
-
-The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
+Tag `[email]` digunakan untuk menghasilkan tautan email yang akan membuka email baru pada program email pada saat diklik, dengan kolom alamat yang telah diisi sebelumnya.
 
 Untuk membuat tautan email, terdapat dua argumen yang harus diisi: argumen `ALAMAT` yang berisi alamat email yang ingin ditautkan, dan argumen `teks` yang berisi tulisan yang ingin ditampilkan sebagai tautan. Apabila argumen `teks` ini tidak diisi, tautan email tidak akan muncul sebagaimana mestinya.
 
@@ -239,9 +237,9 @@ Untuk membuat tautan email, terdapat dua argumen yang harus diisi: argumen `ALAM
 [img]ALAMAT[/img]
 ```
 
-Tag `[img]` atau *gambar* digunakan untuk menyematkan tautan gambar berekstensi dari online ke dalam postingan forum osu!. Untuk menggunakan tag, pengguna harus menempelkan alamat gambar langsung (diwakili oleh argumen `ADDRESS` di atas) yang bersumber dari situs web. Jalur file lokal. Menggunakan tautan langsung dari komputer (*offline*), (misalnya, `C:\Users\Name\Pictures\image.jpg`), **tidak akan berfungsi**.
+Tag `[img]` atau *gambar* digunakan untuk menampilkan gambar pada post. Untuk menggunakan tag ini, pengguna harus menempelkan alamat gambar langsung (diwakili oleh argumen `ALAMAT` di atas) yang bersumber dari situs web. Tautan yang bersifat lokal, (semisal `C:\Users\Name\Pictures\image.jpg`), **tidak dapat digunakan untuk tag ini**.
 
-*Perhatikan: URL situs web **tidak** sama dengan alamat gambar.*
+*Catatan: URL situs web **tidak sama** dengan alamat gambar.*
 
 Untuk mendapatkan alamat suatu gambar, pengguna harus menavigasi ke sumber situs web, mengarahkan mouse ke gambar, klik kanan pada gambar, dan pilih `Salin alamat gambar`. Kemudian, alamat yang telah disalin, ditempel di antara tag.
 
