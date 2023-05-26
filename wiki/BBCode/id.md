@@ -8,7 +8,7 @@ BBCode merupakan [bahasa *markup*](https://en.wikipedia.org/wiki/Markup_language
 
 ## Perilaku
 
-Tag BBCode dapat dimunculkan dengan mengklik tombol *markup* yang tertera pada toolbar editor post. Mengklik tombol markup tanpa menyeleksi teks apa pun akan membuat serangkaian tag terbuka dan tertutup di sekitar teks pada editor postingan. Sebaliknya, enyeleksi teks sebelum mengklik tombol markup akan menjadikan teks tersebut diapit oleh tag yang diinginkan.
+Tag BBCode dapat dimunculkan dengan mengklik tombol *markup* yang tertera pada toolbar editor post. Pada saat tombol ini diklik tanpa ada teks yang terseleksi, akan membuat serangkaian tag terbuka dan tertutup di sekitar teks pada editor postingan. Sebaliknya, enyeleksi teks sebelum mengklik tombol markup akan menjadikan teks tersebut diapit oleh tag yang diinginkan.
 
 Tag BBCode yang ada dapat saling digabungkan dan ditempatkan di dalam satu sama lain. Meskipun demikian, dalam prosesnya, urutan dan tingkatan tag yang digunakan **tidak boleh saling tertukar**. Apabila hal ini sampai terjadi, teks yang muncul tidak akan terformat dengan benar.
 
