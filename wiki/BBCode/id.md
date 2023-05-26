@@ -237,13 +237,13 @@ Untuk membuat tautan email, terdapat dua argumen yang harus diisi: argumen `ALAM
 [img]ALAMAT[/img]
 ```
 
-Tag `[img]` atau *gambar* digunakan untuk menyematkan gambar dari situs web lain pada post. Untuk menggunakan tag ini, pengguna harus menyertakan alamat gambar pada argumen `ALAMAT` yang ada pada tag ini. Alamat yang bersifat lokal (semisal `C:\Users\Name\Pictures\image.jpg`), **tidak dapat digunakan untuk tag ini**.
+Tag `[img]` atau *gambar* digunakan untuk menyematkan gambar dari situs web lain pada post. Untuk menggunakan tag ini, pengguna harus menyertakan alamat *online* gambar pada argumen `ALAMAT` yang terdapat pada tag ini. Alamat yang bersifat lokal/*offline* (semisal `C:\Users\Name\Pictures\image.jpg`), **tidak dapat digunakan untuk tag ini**.
 
 *Catatan: URL situs web **tidak sama** dengan alamat gambar.*
 
 Untuk mendapatkan alamat suatu gambar, pengguna harus menavigasi ke sumber situs web, mengarahkan mouse ke gambar, klik kanan pada gambar, dan pilih `Salin alamat gambar`. Kemudian, alamat yang telah disalin, ditempel di antara tag.
 
-Walaupun gambar untuk tag ini dapat bersumber dari situs web mana pun, osu! menyarankan agar gambar yang digunakan berasal dari situs *file sharing* ternama seperti [Imgur](https://imgur.com). Hal ini dikarenakan beberapa situs web tidak mengizinkan gambar mereka untuk digunakan oleh situs web lain (atau yang dikenal dengan istilah "*hotlink*").
+Walaupun gambar untuk tag ini dapat bersumber dari situs web mana pun, osu! menyarankan agar gambar yang digunakan berasal dari situs *file sharing* ternama seperti [Imgur](https://imgur.com). Hal ini dikarenakan situs web tertentu tidak mengizinkan gambar mereka untuk digunakan oleh situs web lain (atau yang dikenal dengan istilah "*hotlink*").
 
 Tombol pada toolbar: ![Tombol Image](img/image.png "Image")
 
