@@ -255,7 +255,7 @@ Tombol pada toolbar: ![Tombol Image](img/image.png "Image")
 
 Tag `[youtube]` digunakan untuk menyematkan video [YouTube](https://youtube.com) ke situs web osu!. Pengguna diharuskan untuk memasukkan hanya ID video (**bukan** seluruh URL) di antara kedua tag (diwakili oleh argumen `VIDEO_ID` di atas).
 
-ID video YouTube sendiri merupakan 11 karakter yang *mengikuti* huruf `v=` pada URL video.
+ID video YouTube merupakan 11 karakter yang *mengikuti* huruf `v=` pada URL video.
 
 ### Audio
 
