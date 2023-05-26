@@ -237,7 +237,7 @@ Untuk membuat tautan email, terdapat dua argumen yang harus diisi: argumen `ALAM
 [img]ALAMAT[/img]
 ```
 
-Tag `[img]` atau *gambar* digunakan untuk menampilkan gambar pada post. Untuk menggunakan tag ini, pengguna harus menempelkan alamat gambar langsung (diwakili oleh argumen `ALAMAT` di atas) yang bersumber dari situs web. Tautan yang bersifat lokal, (semisal `C:\Users\Name\Pictures\image.jpg`), **tidak dapat digunakan untuk tag ini**.
+Tag `[img]` atau *gambar* digunakan untuk menampilkan gambar pada post. Untuk menggunakan tag ini, pengguna harus menyertakan alamat gambar pada argumen `ALAMAT` dari situs web lain. Sumber lokal (semisal `C:\Users\Name\Pictures\image.jpg`), **tidak dapat digunakan untuk tag ini**.
 
 *Catatan: URL situs web **tidak sama** dengan alamat gambar.*
 
