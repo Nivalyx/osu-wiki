@@ -247,6 +247,23 @@ Walaupun gambar untuk tag ini dapat bersumber dari situs web mana pun, osu! meny
 
 Tombol pada toolbar: ![Tombol Image](img/image.png "Image")
 
+### Imagemap
+
+```
+[imagemap]
+IMAGE_URL
+X Y WIDTH HEIGHT REDIRECT TITLE
+[/imagemap]
+```
+
+The `[imagemap]` tag is used to integrate one or more hyperlinks into an image in rectangular areas.
+
+The image, which is embedded on the website, is represented by the `IMAGE_URL` argument. It needs to directly refer to an image hosted on a website.
+
+To add a clickable area, a new line containing the x and y position of the area, the width and the height of the area as well as a link to redirect to needs to be inserted after the `IMAGE_URL` argument. Additionally, an optional `TITLE` argument will be shown on hovering the area if it is specified. A link may be specified with the `REDIRECT` argument, or omitted with a `#`. Every size unit (`X`, `Y`, `WIDTH`, and `HEIGHT`) is a percentage (0–100) without a percent sign.
+
+Tombol pada toolbar: ![Tombol imagemap](img/imagemap.png "Imagemap")
+
 ### YouTube
 
 ```
