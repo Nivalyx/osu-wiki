@@ -237,7 +237,7 @@ Untuk membuat tautan email, terdapat dua argumen yang harus diisi: argumen `ALAM
 [img]ALAMAT[/img]
 ```
 
-Tag `[img]` atau *gambar* digunakan untuk menyisipkan gambar dari situs web lain pada post. Untuk menggunakan tag ini, pengguna harus menyertakan alamat *online* gambar yang ingin disisipkan pada argumen `ALAMAT` di atas. Gambar yang berasal dari sumber lokal/*offline* (semisal `C:\Users\Name\Pictures\image.jpg`), **tidak dapat digunakan untuk tag ini**.
+Tag `[img]` atau *gambar* digunakan untuk menyisipkan gambar dari situs web lain pada post. Untuk menggunakan tag ini, pengguna harus menyertakan alamat *online* gambar yang ingin disisipkan pada argumen `ALAMAT` di atas. Gambar yang berasal dari sumber lokal/*offline* (semisal `C:\Users\Name\Pictures\image.jpg`) **tidak dapat digunakan untuk tag ini**.
 
 *Catatan: URL situs web **tidak sama** dengan alamat gambar.*
 
@@ -280,7 +280,7 @@ Pada YouTube, ID video merupakan 11 karakter yang *secara langsung* mengikuti `v
 [audio]URL[/audio]
 ```
 
-Tag `[audio]` digunakan untuk menyematkan audio dari dari situs web lain melalui pemutar audio [HTML5](https://en.wikipedia.org/wiki/HTML5) berekstensi dari berbagai sumber audio online. File audio dapat bersumber dari mana saja, selama file tersebut terdapat URL tertentu. Menggunakan jalur file lokal dari komputer (*offline*), (misalnya, `C:\Users\Name\Music\audio.mp3`) **tidak akan berfungsi**.
+Tag `[audio]` digunakan untuk menyematkan audio dari dari situs web lain melalui pemutar audio [HTML5](https://en.wikipedia.org/wiki/HTML5). File audio dapat bersumber dari mana saja, selama file tersebut terdapat URL tertentu. Audio yang berasal dari sumber lokal/*offline* (semisal `C:\Users\Name\Music\audio.mp3`) **tidak dapat digunakan untuk tag ini**.
 
 *Perhatian: Karena masalah pembajakan musik, tidak semua layanan berbagi file mendukung file audio ripping. osu! tidak bertanggung jawab atas masalah hak cipta yang mungkin ditemui pengguna dalam hal tersebut.*
 
