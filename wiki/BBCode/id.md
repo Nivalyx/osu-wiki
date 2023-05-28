@@ -227,7 +227,7 @@ Tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol daftar ber
 [email=ALAMAT]teks[/email]
 ```
 
-Tag `[email]` digunakan untuk menghasilkan tautan email yang akan membuka email baru pada program email pada saat diklik, dengan kolom alamat yang telah diisi sebelumnya.
+Tag `[email]` digunakan untuk menghasilkan tautan email yang akan membuka draf email baru pada program email pada saat diklik, dengan kolom alamat yang telah diisi sebelumnya.
 
 Untuk membuat tautan email, terdapat dua argumen yang harus diisi: argumen `ALAMAT` yang berisi alamat email yang ingin ditautkan, dan argumen `teks` yang berisi tulisan yang ingin ditampilkan sebagai tautan. Apabila argumen `teks` ini tidak diisi, tautan email tidak akan muncul sebagaimana mestinya.
 
@@ -243,7 +243,7 @@ Tag `[img]` atau *gambar* digunakan untuk menyematkan gambar dari situs web lain
 
 Untuk memperoleh alamat gambar, pengguna harus membuka situs web tempat gambar tersebut berasal, mengarahkan kursor ke gambar, mengklik kanan gambar, dan memilih `Salin alamat gambar` (`Copy image address`). Setelahnya, alamat ini dapat disisipkan ke dalam tag.
 
-Walaupun gambar untuk tag ini dapat bersumber dari situs web mana pun, osu! menyarankan agar gambar yang digunakan berasal dari situs *file sharing* ternama seperti [Imgur](https://imgur.com). Hal ini dikarenakan terdapat beberapa situs web yang tidak mengizinkan gambar mereka untuk digunakan oleh situs web lain (atau yang dikenal dengan istilah "*hotlink*").
+Walaupun gambar yang disematkan pada tag ini dapat bersumber dari situs web mana pun, osu! menyarankan agar gambar yang digunakan berasal dari situs *file sharing* ternama seperti [Imgur](https://imgur.com). Hal ini dikarenakan terdapat beberapa situs web yang tidak mengizinkan gambar mereka untuk digunakan oleh situs web lain (atau yang dikenal dengan istilah "*hotlink*").
 
 Tombol pada toolbar: ![Tombol Image](img/image.png "Image")
 
