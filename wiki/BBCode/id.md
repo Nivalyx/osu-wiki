@@ -256,7 +256,7 @@ X Y WIDTH HEIGHT REDIRECT TITLE
 [/imagemap]
 ```
 
-Tag `[imagemap]` atau *peta gambar* digunakan untuk menyematkan satu atua lebih tautan pada area gambar tertentu.
+Tag `[imagemap]` atau *peta gambar* digunakan untuk menyematkan satu atau lebih tautan pada area gambar tertentu.
 
 The image, which is embedded on the website, is represented by the `IMAGE_URL` argument. It needs to directly refer to an image hosted on a website.
 
