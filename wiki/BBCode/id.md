@@ -251,8 +251,8 @@ Tombol pada toolbar: ![Tombol Image](img/image.png "Image")
 
 ```
 [imagemap]
-IMAGE_URL
-X Y WIDTH HEIGHT REDIRECT TITLE
+URL_GAMBAR
+X Y LEBAR TINGGI TAUTAN JUDUL
 [/imagemap]
 ```
 
