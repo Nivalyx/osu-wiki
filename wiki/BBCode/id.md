@@ -294,7 +294,7 @@ Untuk menyematkan file audio melalui metode ini, pengguna harus menempelkan sumb
 [heading]teks[/heading]
 ```
 
-Tag `[heading]` atau *tajuk* digunakan untuk menampilkan teks sebagai tulisan tajuk besar berwarna merah jambu. Tag ini tidak mendukung penggunaan tajuk bertingkat (*multi-level header*) dan tidak dapat ditautkan.
+Tag `[heading]` atau *tajuk* digunakan untuk menampilkan teks sebagai tulisan tajuk besar berwarna merah jambu. Tag ini tidak mendukung penggunaan tajuk bertingkat (*multi-level header*), dan tulisan tajuk yang dihasilkan tidak dapat ditautkan.
 
 Tombol pada toolbar: ![Tombol Heading](img/heading.png "Heading")
 
