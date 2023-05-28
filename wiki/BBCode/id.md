@@ -260,7 +260,7 @@ Tag `[imagemap]` atau *peta gambar* digunakan untuk menyisipkan satu atau lebih 
 
 Pada tag ini, URL gambar diinputkan pada argumen `IMAGE_URL`. Sama seperti tag `[image]`, gambar yang disertakan harus berasal dari sumber *online* agar tag ini dapat berfungsi.
 
-Untuk menambahkan area yang dapat diklik pada gambar, masukkan posisi x dan y area tautan, lebar dan tinggi area tautan, serta situs yang ingin ditautkan pada baris baru di bawah argumen `IMAGE_URL`. Walaupun tidak wajib, argumen `TITLE` dapat ditambahkan untuk menampilkan teks tertentu pada saat kursor dilayangkan di atas area tautan. Masing-masing unit ukuran (`X`, `Y`, `LEBAR`, dan `TINGGI`) ditulis sebagai persentase (0-100) tanpa tanda persen.
+Untuk menambahkan area yang dapat diklik pada gambar, masukkan posisi x dan y area tautan, lebar dan tinggi area tautan, serta situs yang ingin ditautkan pada baris baru di bawah argumen `IMAGE_URL`. Walaupun tidak wajib, argumen `JUDUL` dapat ditambahkan untuk menampilkan teks tertentu pada saat kursor dilayangkan di atas area tautan. Masing-masing unit ukuran (`X`, `Y`, `LEBAR`, dan `TINGGI`) ditulis sebagai persentase (0-100) tanpa tanda persen.
 
 Tombol pada toolbar: ![Tombol imagemap](img/imagemap.png "Imagemap")
 
