@@ -282,7 +282,7 @@ Pada YouTube, ID video merupakan 11 karakter yang *secara langsung* mengikuti `v
 
 Tag `[audio]` digunakan untuk menyematkan audio dari situs web lain melalui pemutar audio [HTML5](https://en.wikipedia.org/wiki/HTML5). Berkas audio yang digunakan untuk tag ini dapat berasal dari sumber *online* mana pun, selama berkas tersebut memiliki URL-nya tersendiri yang dapat ditautkan. Audio yang berasal dari sumber lokal/*offline* (semisal `C:\Users\Name\Music\audio.mp3`) **tidak dapat digunakan untuk tag ini**.
 
-*Perhatian: Karena masalah pembajakan musik, tidak semua layanan file-sharing mendukung pemutaran audio langsung dari situs mereka. osu! tidak bertanggung jawab terhadap masalah pelanggaran hak cipta yang dapat mengganjal pengguna dalam penggunaan tag ini.*
+*Perhatian: Karena masalah pembajakan lagu, tidak semua layanan file-sharing mendukung pemutaran audio secara langsung dari situs web mereka. osu! tidak bertanggung jawab atas masalah hak cipta yang dapat ditimbulkan oleh penggunaan tag ini.*
 
 Untuk menyematkan file audio melalui tag ini, pengguna harus menempelkan sumber URL berekstensi (misalnya `https://www.example.com/example.mp3`) di antara dua tag `[audio]`.
 
