@@ -284,7 +284,7 @@ Tag `[audio]` digunakan untuk menyematkan audio dari situs web lain melalui pemu
 
 *Perhatian: Karena masalah pembajakan lagu, tidak semua layanan file sharing mendukung pemutaran audio secara langsung dari situs web mereka. osu! tidak bertanggung jawab atas masalah hak cipta yang dapat ditimbulkan oleh penggunaan tag ini.*
 
-Untuk menyematkan file audio melalui tag ini, pengguna harus menempelkan sumber URL berekstensi (misalnya `https://www.example.com/example.mp3`) di antara dua tag `[audio]`.
+Untuk menyematkan audio melalui tag ini, pengguna harus menempelkan URL berkas audio yang bersangkutan lengkap dengan ekstensinya (smeisal `https://www.example.com/example.mp3`) di antara dua tag `[audio]`.
 
 <!-- Contoh URL file audio online untuk editor wiki: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg -->
 
