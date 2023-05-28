@@ -260,7 +260,7 @@ Tag `[imagemap]` atau *peta gambar* digunakan untuk menyisipkan satu atau lebih 
 
 Pada tag ini, URL gambar diinputkan pada argumen `IMAGE_URL`. Sama seperti tag `[image]`, gambar yang disertakan harus berasal dari sumber *online* agar tag ini dapat berfungsi.
 
-Untuk menambahkan area yang dapat diklik pada gambar, masukkan posisi x dan y area tautan, lebar dan tinggi area tautan, serta situs yang ingin ditautkan pada baris baru di bawah argumen `IMAGE_URL`. Walaupun tidak wajib, argumen `JUDUL` dapat ditambahkan untuk menampilkan teks tertentu pada saat kursor dilayangkan di atas area tautan. Masing-masing unit ukuran (`X`, `Y`, `LEBAR`, dan `TINGGI`) ditulis sebagai persentase (0-100) tanpa tanda persen.
+Untuk menambahkan area yang dapat diklik pada gambar, masukkan posisi x dan y area tautan, lebar dan tinggi area tautan, serta situs yang ingin ditautkan pada baris baru di bawah argumen `IMAGE_URL`. Walaupun tidak wajib, argumen `JUDUL` dapat ditambahkan untuk menampilkan teks tertentu pada saat kursor dilayangkan di atas area tautan. Masing-masing argumen ukuran (`X`, `Y`, `LEBAR`, dan `TINGGI`) ditulis sebagai persentase (0-100) tanpa tanda persen.
 
 Tombol pada toolbar: ![Tombol imagemap](img/imagemap.png "Imagemap")
 
@@ -284,7 +284,7 @@ Tag `[audio]` digunakan untuk menyematkan audio dari situs web lain melalui pemu
 
 *Perhatian: Karena masalah pembajakan lagu, tidak semua layanan file sharing mendukung pemutaran audio secara langsung dari situs web mereka. osu! tidak bertanggung jawab atas masalah hak cipta yang dapat ditimbulkan oleh penggunaan tag ini.*
 
-Untuk menyematkan audio melalui tag ini, pengguna harus menempelkan URL berkas audio yang bersangkutan lengkap dengan ekstensinya (smeisal `https://www.example.com/example.mp3`) di antara dua tag `[audio]`.
+Untuk menyematkan audio melalui tag ini, pengguna harus memasukkan URL berkas audio yang bersangkutan lengkap dengan ekstensinya (semisal `https://www.example.com/example.mp3`) di antara dua tag `[audio]`.
 
 <!-- Contoh URL file audio online untuk editor wiki: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg -->
 
