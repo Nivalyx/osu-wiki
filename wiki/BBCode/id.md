@@ -227,7 +227,7 @@ Tombol pada toolbar: ![Tombol daftar](img/list.png "Daftar") ![Tombol daftar ber
 [email=ALAMAT]teks[/email]
 ```
 
-Tag `[email]` digunakan untuk menghasilkan tautan email yang akan membuka draf email baru pada program email pada saat diklik, dengan kolom alamat yang telah diisi sebelumnya.
+Tag `[email]` digunakan untuk menghasilkan tautan email yang akan membuka draf email baru yang tertuju pada alamat yang diinginkan pada program email pada saat diklik.
 
 Untuk membuat tautan email, terdapat dua argumen yang harus diisi: argumen `ALAMAT` yang berisi alamat email yang ingin ditautkan, dan argumen `teks` yang berisi tulisan yang ingin ditampilkan sebagai tautan. Apabila argumen `teks` ini tidak diisi, tautan email tidak akan muncul sebagaimana mestinya.
 
