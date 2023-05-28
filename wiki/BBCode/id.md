@@ -306,7 +306,7 @@ teks
 [/notice]
 ```
 
-Tag `[notice]` atau *pemberitahuan* digunakan untuk menempatkan paragraf ke dalam kotak besar berwarna gelap. Tag ini pada umumnya digunakan untuk menampilkan pemberitahuan atau peringatan mengenai subjek tertentu di situs web.
+Tag `[notice]` atau *pemberitahuan* digunakan untuk menempatkan paragraf ke dalam kotak besar berwarna gelap. Tag ini pada umumnya digunakan untuk menampilkan pemberitahuan atau peringatan mengenai topik bahasan tertentu.
 
 ## Tag lawas yang tidak lagi digunakan
 
