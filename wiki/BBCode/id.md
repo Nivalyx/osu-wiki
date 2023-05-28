@@ -237,7 +237,7 @@ Untuk membuat tautan email, terdapat dua argumen yang harus diisi: argumen `ALAM
 [img]ALAMAT[/img]
 ```
 
-Tag `[img]` atau *gambar* digunakan untuk menyisipkan gambar dari situs web lain pada post. Untuk menggunakan tag ini, pengguna harus menyertakan alamat *online* gambar yang ingin disisipkan pada argumen `ALAMAT` di atas. Gambar yang berasal dari sumber lokal/*offline* (semisal `C:\Users\Name\Pictures\image.jpg`) **tidak dapat digunakan untuk tag ini**.
+Tag `[img]` atau *gambar* digunakan untuk menyematkan gambar dari situs web lain. Untuk menggunakan tag ini, pengguna harus menyertakan alamat *online* gambar yang ingin disematkan pada argumen `ALAMAT` di atas. Gambar yang berasal dari sumber lokal/*offline* (semisal `C:\Users\Name\Pictures\image.jpg`) **tidak dapat digunakan untuk tag ini**.
 
 *Catatan: URL situs web **tidak sama** dengan alamat gambar.*
 
@@ -280,9 +280,9 @@ Pada YouTube, ID video merupakan 11 karakter yang *secara langsung* mengikuti `v
 [audio]URL[/audio]
 ```
 
-Tag `[audio]` digunakan untuk menyematkan audio dari dari situs web lain melalui teknologi pemutar audio [HTML5](https://en.wikipedia.org/wiki/HTML5). Berkas audio yang digunakan untuk tag ini dapat berasal dari sumber *online* mana pun, selama berkas tersebut memiliki URL-nya tersendiri yang dapat ditautkan. Audio yang berasal dari sumber lokal/*offline* (semisal `C:\Users\Name\Music\audio.mp3`) **tidak dapat digunakan untuk tag ini**.
+Tag `[audio]` digunakan untuk menyematkan audio dari situs web lain melalui pemutar audio [HTML5](https://en.wikipedia.org/wiki/HTML5). Berkas audio yang digunakan untuk tag ini dapat berasal dari sumber *online* mana pun, selama berkas tersebut memiliki URL-nya tersendiri yang dapat ditautkan. Audio yang berasal dari sumber lokal/*offline* (semisal `C:\Users\Name\Music\audio.mp3`) **tidak dapat digunakan untuk tag ini**.
 
-*Perhatian: Karena masalah pembajakan musik, tidak semua layanan berbagi file mendukung file audio ripping. osu! tidak bertanggung jawab atas masalah hak cipta yang mungkin ditemui pengguna dalam penggunaan tag ini.*
+*Perhatian: Karena masalah pembajakan musik, tidak semua layanan file-sharing mendukung pemutaran audio langsung dari situs mereka. osu! tidak bertanggung jawab terhadap masalah pelanggaran hak cipta yang dapat mengganjal pengguna dalam penggunaan tag ini.*
 
 Untuk menyematkan file audio melalui tag ini, pengguna harus menempelkan sumber URL berekstensi (misalnya `https://www.example.com/example.mp3`) di antara dua tag `[audio]`.
 
