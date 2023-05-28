@@ -256,7 +256,7 @@ X Y WIDTH HEIGHT REDIRECT TITLE
 [/imagemap]
 ```
 
-The `[imagemap]` tag is used to integrate one or more hyperlinks into an image in rectangular areas.
+Tag `[imagemap]` atau *peta gambar* digunakan untuk menyematkan satu atua lebih tautan pada area gambar tertentu.
 
 The image, which is embedded on the website, is represented by the `IMAGE_URL` argument. It needs to directly refer to an image hosted on a website.
 
@@ -294,7 +294,7 @@ Untuk menyematkan file audio melalui metode ini, pengguna harus menempelkan sumb
 [heading]teks[/heading]
 ```
 
-Tag `[heading]` atau *tajuk* digunakan untuk pemformatan teks menjadi header besar berwarna merah jambu. Tag ini tidak mendukung tajuk multi-level, dan tidak dapat ditautkan secara khusus.
+Tag `[heading]` atau *tajuk* digunakan untuk menampilkan teks sebagai tulisan tajuk besar berwarna merah jambu. Tag ini tidak mendukung tajuk multi-level, dan tidak dapat ditautkan secara khusus.
 
 Tombol pada toolbar: ![Tombol Heading](img/heading.png "Heading")
 
