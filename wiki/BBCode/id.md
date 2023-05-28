@@ -258,9 +258,9 @@ X Y LEBAR TINGGI TAUTAN JUDUL
 
 Tag `[imagemap]` atau *peta gambar* digunakan untuk menyisipkan satu atau lebih tautan di berbagai area pada gambar.
 
-Pada tag ini, gambar yang akan disematkan dilambangkan dengan argumen `IMAGE_URL`. Agar gambar dapat disematkan, argumen ini harus diisi dengan URL gambar secara lengkap.
+Pada tag ini, URL gambar diinputkan pada argumen `IMAGE_URL`. Sama seperti tag `[image]`, gambar yang disertakan harus berasal dari sumber *online* agar tag ini dapat berfungsi.
 
-Untuk menambahkan area yang dapat diklik pada gambar, a new line containing the x and y position of the area, the width and the height of the area as well as a link to redirect to needs to be inserted after the `IMAGE_URL` argument. Additionally, an optional `TITLE` argument will be shown on hovering the area if it is specified. A link may be specified with the `REDIRECT` argument, or omitted with a `#`. Every size unit (`X`, `Y`, `WIDTH`, and `HEIGHT`) is a percentage (0–100) without a percent sign.
+Untuk menambahkan area yang dapat diklik pada gambar, masukkan posisi x dan y area tautan, lebar dan tinggi area tautan, serta situs yang ingin ditautkan pada baris baru di bawah argumen `IMAGE_URL`. Walaupun tidak wajib, argumen `TITLE` dapat ditambahkan untuk menampilkan teks tertentu pada saat kursor dilayangkan di atas area tautan. Tautan dapat ditentukan dengan argumen `REDIRECT` atau dikosongkan dengan tanda `#`. Masing-masing unit ukuran (`X`, `Y`, `LEBAR`, dan `TINGGI`) ditulis sebagai persentase (0-100) tanpa tanda persen.
 
 Tombol pada toolbar: ![Tombol imagemap](img/imagemap.png "Imagemap")
 
