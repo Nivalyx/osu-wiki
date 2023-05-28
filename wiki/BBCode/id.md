@@ -256,9 +256,9 @@ X Y LEBAR TINGGI TAUTAN JUDUL
 [/imagemap]
 ```
 
-Tag `[imagemap]` atau *peta gambar* digunakan untuk menyematkan satu atau lebih tautan di berbagai area pada gambar.
+Tag `[imagemap]` atau *peta gambar* digunakan untuk menyisipkan satu atau lebih tautan di berbagai area pada gambar.
 
-The image, which is embedded on the website, is represented by the `IMAGE_URL` argument. It needs to directly refer to an image hosted on a website.
+Gambar yang akan disematkan dilambangkan dengan argumen `IMAGE_URL`. Agar gambar dapat disematkan, argumen ini harus diisi dengan URL gambar secara lengkap.
 
 To add a clickable area, a new line containing the x and y position of the area, the width and the height of the area as well as a link to redirect to needs to be inserted after the `IMAGE_URL` argument. Additionally, an optional `TITLE` argument will be shown on hovering the area if it is specified. A link may be specified with the `REDIRECT` argument, or omitted with a `#`. Every size unit (`X`, `Y`, `WIDTH`, and `HEIGHT`) is a percentage (0–100) without a percent sign.
 
