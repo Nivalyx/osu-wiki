@@ -36,7 +36,7 @@ The **osu! Indonesia Tournament #12 (2023)** (***OIT 2022***) is an Indonesian d
 
 ## Organisation
 
-osu! Indonesia Tournament #13 (2023) is run by various osu! community members from Indonesia and beyond.
+The osu! Indonesia Tournament #13 (2023) is run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
