@@ -40,7 +40,7 @@ The osu! Indonesia Tournament #13 (2023) is run by various osu! community member
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Arca 9](https://osu.ppy.sh/users/14042319), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) |
+| Host | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548) |
 | Co-host | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Senritsu](https://osu.ppy.sh/users/1165368), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174) |
 | Mappool selector | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
 | Playtester | ::{ flag=ID }:: [Pancoz](https://osu.ppy.sh/users/13156137), ::{ flag=ID }:: [honeymint](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [MasterfulNote5](https://osu.ppy.sh/users/7247988), ::{ flag=ID }:: [\[-Yukari-\]](https://osu.ppy.sh/users/8780223), ::{ flag=ID }:: [Zoneeox](https://osu.ppy.sh/users/6596134), ::{ flag=PH }:: [Rammu](https://osu.ppy.sh/users/10652837), ::{ flag=AU }:: [Enumi](https://osu.ppy.sh/users/10625283) |
