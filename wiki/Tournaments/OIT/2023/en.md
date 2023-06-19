@@ -28,15 +28,15 @@ The **osu! Indonesia Tournament #12 (2023)** (***OIT 2022***) is an Indonesian d
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2,000,000 IDR + 50% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1,000,000 IDR + 30% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500,000 IDR + 20% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 60% of the raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)) |
 
-![](img/badge.png "OIT 2022 winner badge")
+![](img/badge.png "OIT 2023 winner badge")
 
 ## Organisation
 
-The osu! Indonesia Tournament #12 (2022) was run by various osu! community members predominantly hailing from Indonesia.
+The osu! Indonesia Tournament #13 (2023) is run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
