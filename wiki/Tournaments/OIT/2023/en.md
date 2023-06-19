@@ -14,15 +14,14 @@ The **osu! Indonesia Tournament #12 (2023)** (***OIT 2022***) is an Indonesian d
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2022-01-08/2022-01-30 |
-| Screening phase | 2022-01-31/2022-02-14 |
-| Qualifiers | 2022-02-15/2022-02-20 |
-| Round of 32 | 2022-02-21/2022-02-27 |
-| Round of 16 | 2022-02-28/2022-03-06 |
-| Quarterfinals | 2022-03-07/2022-03-13 |
-| Semifinals | 2022-03-14/2022-03-20 |
-| Finals week 1 | 2022-03-21/2022-03-27 |
-| Finals week 2 | 2022-03-28/2022-04-03 |
+| Registration phase | 2023-05-17/2023-06-11 |
+| Screening phase | 2023-06-12/2023-06-18 |
+| Qualifiers | 2023-06-19/2023-06-25 |
+| Round of 16 | 2023-06-26/2023-07-02 |
+| Quarterfinals | 2023-07-03/2023-07-09 |
+| Semifinals | 2023-07-10/2023-07-16 |
+| Finals week 1 | 2023-07-17/2023-07-23 |
+| Finals week 2 | 2023-07-24/2023-07-30 |
 
 ## Prizes
 
@@ -45,7 +44,7 @@ The osu! Indonesia Tournament #13 (2023) is run by various osu! community member
 | Admin | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465) |
 | Mappool selector | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=MY }:: [LouisZPro](https://osu.ppy.sh/users/6231292), ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) |
 | Mappool helper | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302) |
-| Custom mapper | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [Shinjuko](https://osu.ppy.sh/users/10558466), ::{ flag=ID }:: [Adinda](https://osu.ppy.sh/users/15959751), ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007), ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579), ::{ flag=ID }:: [Riene](https://osu.ppy.sh/users/8549009), ::{ flag=ID }:: [Ciyus Miapah](https://osu.ppy.sh/users/2805457), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [araran](https://osu.ppy.sh/users/8937198), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=ID }:: [Melize](https://osu.ppy.sh/users/10778215), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=KR }:: [cotton\_\_123](https://osu.ppy.sh/users/9823042) |
+| Custom mapper | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [Shinjuko](https://osu.ppy.sh/users/10558466), ::{ flag=ID }:: [Adinda](https://osu.ppy.sh/users/15959751), ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007), ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579), ::{ flag=ID }:: [Riene](https://osu.ppy.sh/users/8549009), ::{ flag=ID }:: [Ciyus Miapah](https://osu.ppy.sh/users/2805457), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [araran](https://osu.ppy.sh/users/8937198), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=ID }:: [Melize](https://osu.ppy.sh/users/10778215), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=KR }:: [cotton\_\_123](https://osu.ppy.sh/users/9823042), ::{ flag=RS } [Seolv](https://osu.ppy.sh/users/8067876) |
 | Playtester | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577) |
 | Streamer | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612) |
 | Commentator | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [-Kiichirou-](https://osu.ppy.sh/users/5791467), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
