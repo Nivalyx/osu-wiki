@@ -65,7 +65,7 @@ The osu! Indonesia Tournament #13 (2023) is run by various osu! community member
 
 ### Qualifiers
 
-**[Download the mappack here! (94 MB)](http://drive.google.com/u/0/uc?id=1fQnhr4IUPDbS1e2MNupM61S89Y3MB2dy&export=download)**
+**[Download the mappack here! (76 MB)](https://mappack.yewonkim.tk/download/iuNG59Xn)**
 
 - NoMod
   1. [Ayalis - Ai o Chikaishi Hime Kazari (handsome) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/506155#osu/1082145)
