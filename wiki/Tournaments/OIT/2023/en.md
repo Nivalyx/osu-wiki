@@ -68,19 +68,20 @@ The osu! Indonesia Tournament #13 (2023) is run by various osu! community member
 **[Download the mappack here! (76 MB)](https://mappack.yewonkim.tk/download/iuNG59Xn)**
 
 - NoMod
-  1. [Ayalis - Ai o Chikaishi Hime Kazari (handsome) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/506155#osu/1082145)
-  2. [celas- Azul (Remix) (IOException) \[Expert\]](https://osu.ppy.sh/beatmapsets/1416065#osu/2918272)
-  3. [Tsukuyomi - Moonlight at midday (Seros) \[Extra\]](https://osu.ppy.sh/beatmapsets/1537310#osu/3143258)
-  4. [ginkiha - Paved Garden (Smug Nanachi) \[fiore\]](https://osu.ppy.sh/beatmapsets/1131098#osu/2362655)
+  1. [ChouCho - reincarnation (Enon) \[starting over\]](https://osu.ppy.sh/beatmapsets/1833871#osu/3773824)
+  2. [Xi - Densetsu no Sabori Shinigami \~ Make a quick escape (Toumei Dragon) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1621473#osu/3310526)
+  3. [POLKADOT STINGRAY - Otoshimae (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1301330#osu/2699135)
+  4. [jioyi attacked by mirror - I lost my flp (Felter) \[i lost my petal of wander\]](https://osu.ppy.sh/beatmapsets/2005360#osu/4170562)
 - Hidden
-  1. [kurubukkochan - Rain (Reincarnation) \[Rein\]](https://osu.ppy.sh/beatmapsets/886147#osu/1852501)
-  2. [Various Artists - Netsuretsu Kangei Wonderland (Mirash) \[PandaHero's Extra\]](https://osu.ppy.sh/beatmapsets/1604477#osu/3333126)
+  1. [Kuhaku Gokko - Lil'b (Petal) \[Inexplicable\]](https://osu.ppy.sh/beatmapsets/1561567#osu/3189187)
+  2. [ELFENSJoN - DAWN (Kuro Fuyusaki) \[Eternity\]](https://osu.ppy.sh/beatmapsets/2002634#osu/4164614)
 - HardRock
-  1. [Kanzaki Elza starring ReoNa - Independence (Maot) \[Masquerade CS4\]](https://osu.ppy.sh/beatmapsets/1557099#osu/3448344)
-  2. [SWAN K feat. Asuka M - LOVE B.B.B (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmapsets/48537#osu/150488)
+  1. [LiSA - traumerei (Wen) \[Revitalizing Love\]](https://osu.ppy.sh/beatmapsets/1821202#osu/3736979)
+  2. [James Landino - Arsene's Bazaar (allein) \[Expert\]](https://osu.ppy.sh/beatmapsets/1972126#osu/4092128)
 - DoubleTime
-  1. [sakanaction - Shin Takarajima (Fixxis) \[Insane\]](https://osu.ppy.sh/beatmapsets/1188206#osu/2476090)
-  2. [rerulili feat. Dancing Dolls - Kami no Manima Ni (Sephira) \[RLC's Insane\]](https://osu.ppy.sh/beatmapsets/1182518#osu/2465404)
+  1. [JUNNA - Vai! Ya! Vai! (Yohanes) \[Insane\]](https://osu.ppy.sh/beatmapsets/1088269#osu/2275555)
+  2. [Tsukino - Dohna Dohna no Uta (gazimal) \[Koori's Insane\]](https://osu.ppy.sh/beatmapsets/1459224#osu/3082198)
+  3. [Maon Kurosaki - Magic World (Dada) \[Continuum\]](https://osu.ppy.sh/beatmapsets/1833693#osu/3764472)
 
 ## Ruleset
 
