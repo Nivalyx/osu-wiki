@@ -25,6 +25,8 @@ The **osu! Indonesia Tournament #12 (2023)** (***OIT 2022***) is an Indonesian d
 
 ## Prizes
 
+The osu! Indonesia Tournament #13 (2023) offers an initial prize pool of 3,000,000 IDR as generously donated by ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) and ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). This prize pool can be further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
+
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 60% of the raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner, unique profile badge |
