@@ -35,6 +35,8 @@ The osu! Indonesia Tournament #13 (2023) offers an initial prize pool of 3,000,0
 
 ![](img/badge.png "OIT 2023 winner badge")
 
+As with other previous osu! Indonesia Tournament iterations, the osu! Indonesia Tournament #13 (2023) is not run for profit. 
+
 ## Organisation
 
 The osu! Indonesia Tournament #13 (2023) is run by various osu! community members from Indonesia and beyond.
