@@ -63,26 +63,13 @@ The SEA Summer Suiji Showdown 3  is run by various osu! community members from t
 
 ## Participants
 
-Listed below are the participating teams in SSSS 3 and their respective team members, with players in **bold** acting as team captains.
+Listed below are the teams participating in SSSS 3 along with their respective team members, with players in **bold** acting as team captains.
 
 | Team name | Seed S player | Seed A player | Seed B player #1 | Seed B player #2 | Seed C player #1 | Seed C player #2 |
-| :-- | :-- | :-- |
-| 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | 10.36 |
-| 2 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.22 |
-| 3 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | 9.57 |
-| 4 | ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) | 9.56 |
-| 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 9.54 |
-| 6 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 9.45 |
-| 7 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | 9.18 |
-| 8 | ::{ flag=ID }:: [adyoz](https://osu.ppy.sh/users/2454767) | 8.62 |
-| 9 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 8.32 |
-| 10 | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | 7.96 |
-| 11 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 7.84 |
-| 12 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 7.70 |
-| 13 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | 7.63 |
-| 14 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 7.47 |
-| 15 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 7.31 |
-| 16 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | 7.28 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Ang Pogi mo Oodriin | ::{ flag=PH }:: **[OsuSeulgiDragon](https://osu.ppy.sh/users/6073492)** | ::{ flag=ID }:: [Egao](https://osu.ppy.sh/users/12419257) | ::{ flag=MY }:: [TequilaWolf](https://osu.ppy.sh/users/3633477) | ::{ flag=SG }:: [\_kaie](https://osu.ppy.sh/users/8876938) | ::{ flag=PH }:: [Oooodriiin](https://osu.ppy.sh/users/7223737) | ::{ flag=MY }:: [niksx](https://osu.ppy.sh/users/24442298) |
+| Fuuka Motor | ::{ flag=ID }:: **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** | ::{ flag=MY }:: [RyzenPP](https://osu.ppy.sh/users/16391241) | ::{ flag=ID }:: [WhiteCab](https://osu.ppy.sh/users/11849244) | ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577) | ::{ flag=BN }:: [FourCan](https://osu.ppy.sh/users/7779545) | ::{ flag=PH }:: [MPDisplay](https://osu.ppy.sh/users/15424137) |
+| Fuuka Motor | ::{ flag=ID }:: **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** | ::{ flag=MY }:: [RyzenPP](https://osu.ppy.sh/users/16391241) | ::{ flag=ID }:: [WhiteCab](https://osu.ppy.sh/users/11849244) | ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577) | ::{ flag=BN }:: [FourCan](https://osu.ppy.sh/users/7779545) | ::{ flag=PH }:: [MPDisplay](https://osu.ppy.sh/users/15424137) |
 
 ## Mappools
 
