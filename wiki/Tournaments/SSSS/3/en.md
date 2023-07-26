@@ -183,7 +183,7 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 
 ### Quarterfinals
 
-**[Download the mappack here! (186 MB)](https://mappack.yewonkim.tk/download/jsg5BykO)**
+**[Download the mappack here! (151 MB)](https://drive.google.com/file/d/1orv1TzXYwG8F_gxZNgUycVirMxIB-qph/view?usp=sharing)**
 
 - NoMod
   1. [Falcom Sound Team jdk - Unmitigated Evil (jonathanlfj) \[Darkness\]](https://osu.ppy.sh/beatmapsets/1846382#osu/3792864)
@@ -191,6 +191,7 @@ Listed below are the teams participating in SSSS 3 along with their respective t
   3. [KINEMA106 - IMPERIAL PARADE (Atalanta) \[WORSHIP ME!!!\]](https://osu.ppy.sh/beatmapsets/1569800#osu/3205635)
   4. [Renpul - Alxaid (Cubby) \[Forlorn Dream\]](https://osu.ppy.sh/beatmapsets/1943263#osu/4019749)
   5. [Frums - theyaremanycolors (ScubDomino) \[akariexpert\]](https://osu.ppy.sh/beatmapsets/1533352#osu/4052453)  
+  6. [Frums - theyaremanycolors (ScubDomino) \[akariexpert\]](https://osu.ppy.sh/beatmapsets/1533352#osu/4052453)    
 - Hidden
   1. [Tsukuyomi - Konna Inochi ga Nakereba (Deca) \[ailv's Extra\]](https://osu.ppy.sh/beatmapsets/1317808#osu/2730291)
   2. [paraoka feat. haru*nya - Manimani (Cut ver.) (Cellina) \[hananoiro\]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280)
