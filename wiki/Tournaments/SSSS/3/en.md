@@ -157,16 +157,16 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 **[Download the mappack here! (177 MB)](https://drive.google.com/file/d/1StL2cyAjXQMqVm0w64uoQS_sWH0Jjlce/view?usp=sharing)**
 
 - NoMod
-  1. [KAF - Tatoeba (Rtyzen) \[Light\]](https://osu.ppy.sh/beatmapsets/1850935#osu/3802333)
-  2. [xi - Fiat Lux (knowledgeking) \[Let There Be Light\]](https://osu.ppy.sh/beatmapsets/1764633#osu/3612033)
-  3. [Jimmy Weckl - Get Happy (Saturnalize) \[Festive\]](https://osu.ppy.sh/beatmapsets/1098547#osu/2295195)
-  4. [USAO - Cthugha (Raids) \[Raids x Shinjuko's Flamedweller ft. Celine\]](http://osu.ppy.sh/beatmapsets/2018170#osu/4202376)
-  5. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (ScubDomino) \[Lemon\]](https://osu.ppy.sh/beatmapsets/866401#osu/1857321)  
-  6. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (ScubDomino) \[Lemon\]](https://osu.ppy.sh/beatmapsets/866401#osu/1857321)   
+  1. [Oozora Subaru - Do My Best! (Bokamin) \[Shuba!Shuba!Shuba!\]](https://osu.ppy.sh/beatmapsets/1108769#osu/2317140)
+  2. [technoplanet - Intuition (MegaMK) \[Blossom\]](https://osu.ppy.sh/beatmapsets/2013382#osu/4189819)
+  3. [Ushirokara Haiyoritai G - Koi wa Chaos no Shimobenari (Amamya) \[Rihan's Extra\]](https://osu.ppy.sh/beatmapsets/1717491#osu/3529703)
+  4. [Akira Complex - LVL.99 (Cubby) \[Expert;\]](https://osu.ppy.sh/beatmapsets/2017797#osu/4201371)
+  5. [Silentroom - NULCTRL (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/1969316#osu/4084958)  
+  6. [MANY THANKS! feat. Setsunan - Banka (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1939593#osu/4010164)   
 - Hidden
-  1. [Uso to Chameleon - Karakuri Destruction (Surgis\_) \[Flake's Ekstreme\]](https://osu.ppy.sh/beatmapsets/1968237#osu/4115109)
-  2. [Yorushika - Matasaburo (Aragon) \[Raijodo & a\_blue's Collab Expert\]](https://osu.ppy.sh/beatmapsets/1566187#osu/3614534)
-  3. [kors k - Insane Techniques (Plasma) \[Yokes' EX\]](https://osu.ppy.sh/beatmapsets/1783252#osu/3664066)  
+  1. [momosu momosu - Esoa (Dailycare) \[Love\]](https://osu.ppy.sh/beatmapsets/2001099#osu/4160997)
+  2. [DECO*27 - Cinderella (\[Jameson\]) \[Reading Challenge\]](https://osu.ppy.sh/beatmapsets/1969911#osu/4086893)
+  3. [Abuse - Flower War (Shiny Braixen) \[Shunionuu\]](https://osu.ppy.sh/beatmapsets/1840853#osu/3792912)  
 - HardRock
   1. [Komame - Nostalgia feat. GUMI (Suzuaki\_Rin) \[Nostalgic\]](https://osu.ppy.sh/beatmapsets/1891143#osu/3896479)
   2. [Brandy - Cross Time !! (Leader) \[Muya's XX\]](https://osu.ppy.sh/beatmapsets/973162#osu/2150750)
