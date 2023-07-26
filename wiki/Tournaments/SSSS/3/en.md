@@ -8,7 +8,7 @@ tags:
 
 ![SSSS 3 logo](img/logo.jpg)
 
-The **SEA Summer Suiji Showdown 3** (***SSSS 3***) is a South East Asian team-based (3v3) osu! tournament hosted by ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/3484548) and ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244) in which the teams are formed at random based on each player's [BWS rank](wiki/Tournaments/Badge-weighted_seeding). The tournament is open to all players from Indonesia with 6,000 pp or above in the osu! game mode to their name. It is the thirteenth iteration of the osu! Indonesia Tournament.
+The **SEA Summer Suiji Showdown 3** (***SSSS 3***) is a South East Asian team-based (3v3) osu! tournament hosted by ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/3484548) and ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/8926244) featuring random teams that are assigned at the start of the tournament based on each player's [BWS rank](wiki/Tournaments/Badge-weighted_seeding). The tournament is open to all players from all ten [ASEAN member states](https://asean.org/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) as well as ::{ flag=TL }:: Timor-Leste regardless of rank. It is the third iteration of the SEA Summer Suiji Showdown.
 
 ## Tournament schedule
 
