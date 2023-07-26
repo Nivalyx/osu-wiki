@@ -54,17 +54,18 @@ The SEA Summer Suiji Showdown 3  is run by various osu! community members from t
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1AKBByLWsIBtWDaZI8osmhs0gR0-AIfyFrIi2IT498kE)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1764769)
-- [Discord server](https://discordapp.com/invite/CHRFffH)
-- [Livestream channel](https://www.twitch.tv/osuindonesia)
-- [Challonge brackets](https://challonge.com/OIT2023)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1_YHvCM0lrQeOORkuAIUksC9V-PP4KW7P_lVMJkk4ifo/edit?usp=sharing)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1761142)
+- [Discord server](https://discord.gg/9jA9r3bd7N)
+- [Livestream channel](https://www.twitch.tv/osusea)
+- [Challonge brackets](https://challonge.com/seasuiji3)
+- [Statistics document](https://drive.google.com/drive/folders/1PLz2mP2KXECKjJ536gZDnhA4EhiTQ_xl)
 
 ## Participants
 
-Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and Qualifier Z-Sum value) out of 61 registered players in total.
+Listed below are the participating teams in SSSS 3 and their respective members, with players named in **bold** acting as team captains.
 
-| Seed No. | Player | Z-Sum |
+| Team name | Seed S player | Seed A player | Seed B player #1 | Seed B player #2 | Seed C player #1 | Seed C player #2 |
 | :-- | :-- | :-- |
 | 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | 10.36 |
 | 2 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.22 |
