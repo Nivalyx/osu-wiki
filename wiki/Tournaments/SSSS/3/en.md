@@ -14,14 +14,17 @@ The **SEA Summer Suiji Showdown 3** (***SSSS 3***) is a South East Asian team-ba
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-05-17/2023-06-11 |
-| Screening phase | 2023-06-12/2023-06-18 |
-| Qualifiers | 2023-06-19/2023-06-25 |
+| Registration phase | 2023-05-07/2023-05-22 |
+| Screening phase | 2023-05-23/2023-05-28 |
+| Team drawing | 2023-05-28 (14:00 UTC) |
+| Swiss round (week 1) | 2023-06-05/2023-06-11 |
+| Swiss round (week 2) | 2023-06-12/2023-06-18 |
+| Swiss round (week 3) | 2023-06-19/2023-06-25 |
 | Round of 16 | 2023-06-26/2023-07-02 |
 | Quarterfinals | 2023-07-03/2023-07-09 |
 | Semifinals | 2023-07-10/2023-07-16 |
-| Finals week 1 | 2023-07-17/2023-07-23 |
-| Finals week 2 | 2023-07-24/2023-07-30 |
+| Finals (week 1) | 2023-07-17/2023-07-23 |
+| Finals (week 2) | 2023-07-24/2023-07-30 |
 
 ## Prizes
 
