@@ -90,6 +90,37 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 
 ## Mappools
 
+### Finals (week 2)
+
+**[Download the mappack here! (160 MB)](https://cdn.discordapp.com/attachments/1093554466885738558/1132682381510324366/Downloads.zip)**
+
+- NoMod
+  1. [Kakusei no Prim - Kurui Sake Homura no Hana (keevy) \[I'm losing my braincells\]](https://osu.ppy.sh/beatmapsets/2028089#osu/4226165)
+  2. [cosMo@BousouP - Sekai no Owari ni Aimashou (knowledgeking) \[Eternal Ending 0.95x spaced\]](https://osu.ppy.sh/beatmapsets/1382556#osu/2856401)
+  3. [DragonForce - Symphony Of The Night (val0108) \[Valiant, A Legend 0vercomes 1nsurmountable 0dds 8loriously\]](https://osu.ppy.sh/beatmapsets/1957291#osu/4054809)
+  4. [PSYQUI - Endless (Mameyudoufu Remix) (hehe) \[Unlimited\]](https://osu.ppy.sh/beatmapsets/1963914#osu/4070881)
+  5. [Shittypedia - my dad after hearing my mom was pregnant: (Down) \[run\]](https://osu.ppy.sh/beatmapsets/1897281#osu/3910307)
+  6. [Unknown Artist - Spelunker (IOException) \[Prece Enter Key\]](https://osu.ppy.sh/beatmapsets/1145452#osu/2655982)
+- Hidden
+  1. [Omoi - Chiisana Koi no Uta (Synth Rock Cover) (val0108) \[Extreme\]](https://osu.ppy.sh/beatmapsets/609189#osu/1382021)
+  2. [SICK HACK - Watashi Dake Yuurei (Amateurre) \[sober\]](https://osu.ppy.sh/beatmapsets/1982264#osu/4116789)
+  3. [onumi - Spider Tank (Capu) \[Impeccable Essence\]](https://osu.ppy.sh/beatmapsets/1129044#osu/2358718)
+  4. [Yonder Voice - Shrine Maiden - Eien no Miko (\_\_Ag) \[Sanzen Sekai Yori Rinne Miko\]](https://osu.ppy.sh/beatmapsets/1607795#osu/3283179)
+- HardRock
+  1. [RADWIMPS - Hyperventilation (seros) \[What are you gonna do to my booze?\]](https://osu.ppy.sh/beatmapsets/1924212#osu/3972485)
+  2. [ZUN - Mottomo Sumiwataru Sora to Umi (Nyanaro) \[Nyanaro & Parachute's 53-minute conversation\]](https://osu.ppy.sh/beatmapsets/1961523#osu/4115513)
+  3. [Monster Siren Records - Fading Sky (Bellicose) \[Flaming Edge\]](https://osu.ppy.sh/beatmapsets/1770637#osu/3624614)
+  4. [PRASTIK DANCEFLOOR - Cansei de S NIK (Icekalt) \[Ayaya's Extra\]](https://osu.ppy.sh/beatmapsets/1229581#osu/2584902)  
+- DoubleTime
+  1. [Aimer - twoface (toybot) \[captin & niva's another\]](https://osu.ppy.sh/beatmapsets/1968432#osu/4094568)
+  2. [rei sirose - Hakidasu (Lunicia) \[fooders' Insane\]](https://osu.ppy.sh/beatmapsets/1759673#osu/3685433)
+  3. [MYUKKE. - ViViTAL MONO (Laquarius) \[InsAnE\]](https://osu.ppy.sh/beatmapsets/1753391#osu/3589908)
+  4. [Nekomata Master feat. Nagayama Maki - Watari Sousou (fanzhen0019) \[Flourish\]](https://osu.ppy.sh/beatmapsets/1461782#osu/3003163)
+- FreeMod
+  1. [inabakumori - Tsukuri Kake no Shinshou (Tycani) \[whitegungachungablebusiness collab\]](https://osu.ppy.sh/beatmapsets/1842666#osu/3784873)
+  2. [takehirotei - Chocolate Scramble (alden) \[Wisteria\]](https://osu.ppy.sh/beatmapsets/1968809#osu/4083618)
+  3. [xi - Heavenly Blast (xidorn) \[The Fourth\]](https://osu.ppy.sh/beatmapsets/1537452#osu/3143545)
+
 ### Finals (week 1)
 
 **[Download the mappack here! (223 MB)](https://cdn.discordapp.com/attachments/402765520610394132/1130189950973919362/oit2023f.zip)**
@@ -118,8 +149,6 @@ Listed below are the teams participating in SSSS 3 along with their respective t
   2. [Kero Kero Bonito - Flamingo (WTN3 Remix) (Cubby) \[Edit\]](https://osu.ppy.sh/beatmapsets/1271938#osu/4167251)
   3. [Dark PHOENiX - Taketori Hishou (cotton\_\_123) \[Lunatic Princess\]](https://osu.ppy.sh/beatmapsets/1893810#osu/3902585)
   4. [NIWASHI & taiyo - Nami/Oto you-shi (mezelyus) \[Ubiquitous\]](https://osu.ppy.sh/beatmapsets/1833621#osu/3764329)
-- Tiebreaker
-  1. **[Tokyo.MeltiMelt - the Beautiful Cure (Melize) \[Ave\]](https://osu.ppy.sh/beatmapsets/2027735#osu/4225364)**
 
 ### Semifinals
 
