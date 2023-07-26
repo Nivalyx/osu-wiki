@@ -123,18 +123,20 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 
 ### Finals (week 1)
 
-**[Download the mappack here! (223 MB)](https://cdn.discordapp.com/attachments/402765520610394132/1130189950973919362/oit2023f.zip)**
+**[Download the mappack here! (169 MB)](https://drive.google.com/file/d/18LRpaR1sX2wzenKcaVLUC9y7iOk9qxkB/view?usp=sharing)**
 
 - NoMod
-  1. [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
-  2. [SHADOW OF INTENT - Gravesinger (riot1133) \[Fairytale\]](https://osu.ppy.sh/beatmapsets/1912270#osu/4166422)
-  3. [BlackY feat. Risa Yuzuki - Imitator (Elayue)) \[shenyu\]](https://osu.ppy.sh/beatmapsets/1846713#osu/3793494)
-  4. [RB.H x lihound x Setsunan - Lost Petal's Wander (Felter) \[Wither\]](https://osu.ppy.sh/beatmapsets/2022611#osu/4212648)
-  5. [TAROLIN feat. Katakiri Rekka - Cardinal Rave (Yusomi) \[Landed in the Dogwood\]](https://osu.ppy.sh/beatmapsets/1116399#osu/2332178)  
+  1. [sungazer - Sequence Start (dsco) \[Play\]](https://osu.ppy.sh/beatmapsets/647360#osu/1371397)
+  2. [Demetori - Strawberry Crisis!! (jonathanlfj) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1833730#osu/3764532)
+  3. [Hanon x Kotoha - (Not) A Devil (Kotoha) \[(Not) Inting\]](https://osu.ppy.sh/beatmapsets/1937425#osu/4004882)
+  4. [LucaProject - Nidhoggr (iLyne) \[Revelation 13:1\]](https://osu.ppy.sh/beatmapsets/1947987#osu/4031447)
+  5. [Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass (feat. Yunomi) (UberFazz) \[Maximum\]](https://osu.ppy.sh/beatmapsets/1709206#osu/3492611)  
+  6. [Shibayan feat. Ichimatsu Tsubaki - Wo Qin Ai Kui Lei (UberFazz) \[Desire\]](https://osu.ppy.sh/beatmapsets/1359291#osu/2969884) 
 - Hidden
   1. [YurryCanon feat. GUMI - humanly (Petal) \[#$!@*&^%\]](https://osu.ppy.sh/beatmapsets/1886627#osu/3884985)
   2. [Pixel Terror - Millennia (Asphyxia) \[DeviousPanda's Expert\]](https://osu.ppy.sh/beatmapsets/1708547#osu/3592328)
   3. [96neko - Buriki no Dance (CallieCube) \[Tango\]](https://osu.ppy.sh/beatmapsets/1332410#osu/3046047)  
+  4. [96neko - Buriki no Dance (CallieCube) \[Tango\]](https://osu.ppy.sh/beatmapsets/1332410#osu/3046047)    
 - HardRock
   1. [Imy - Seimei no Tomoshibi (KKipalt) \[Reflection\]](https://osu.ppy.sh/beatmapsets/1276373#osu/2651864)
   2. [Okui Masami - God Speed (Anxient) \[Torque\]](https://osu.ppy.sh/beatmapsets/1972419#osu/4092879)
