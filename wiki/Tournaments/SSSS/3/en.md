@@ -168,21 +168,18 @@ Listed below are the teams participating in SSSS 3 along with their respective t
   2. [DECO*27 - Cinderella (\[Jameson\]) \[Reading Challenge\]](https://osu.ppy.sh/beatmapsets/1969911#osu/4086893)
   3. [Abuse - Flower War (Shiny Braixen) \[Shunionuu\]](https://osu.ppy.sh/beatmapsets/1840853#osu/3792912)  
 - HardRock
-  1. [Komame - Nostalgia feat. GUMI (Suzuaki\_Rin) \[Nostalgic\]](https://osu.ppy.sh/beatmapsets/1891143#osu/3896479)
-  2. [Brandy - Cross Time !! (Leader) \[Muya's XX\]](https://osu.ppy.sh/beatmapsets/973162#osu/2150750)
-  3. [Mitsukiyo - Constant Moderato (araran) \[Pino's Lateran\]](https://osu.ppy.sh/beatmapsets/1640689#osu/3373417)
+  1. [Petit Rabbit's - Daydream cafe(you Remix) (M o k o r i) \[ExtRabbit's\]](https://osu.ppy.sh/beatmapsets/205660#osu/560522)
+  2. [iojjj - Deus Ex Machina (Flowziee) \[PaRaDogi's Extra\]](https://osu.ppy.sh/beatmapsets/1314583#osu/2782516)
+  3. [BlackY - Sakura Ranman Cleopatra (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/1595193#osu/3258136)
 - DoubleTime
-  1. [sana - Senpai. (Kyuukai) \[litoluna's Insane\]](https://osu.ppy.sh/beatmapsets/637706#osu/1384674)
-  2. [seleP - Scarlet Rose (Amamya) \[Heilia's Scarlet Insane\]](https://osu.ppy.sh/beatmapsets/1936956#osu/4090500)
-  3. [Utsu-P - Imperfect Animals (kuyusu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1377324#osu/2861696)
-  4. [Diskoria, Laleilmanino, Eva Celia - C.H.R.I.S.Y.E. (Raids) \[Roses\]](https://osu.ppy.sh/beatmapsets/1853565#osu/3808761)
+  1. [Ceui - Rainbow Day (Shikibe Mayu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1181354#osu/2464147)
+  2. [Shiiba Tsumugi (CV: Kurosaki Sora) - Sweet Sweet Alice (Shikibe Mayu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1039725#osu/2173284)
+  3. [Yonekura Chihiro - Harutoki \~Spring Moment\~ (Shikibe Mayu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1447866#osu/3263292)
+  4. [Suzuyu - Syndetos (Shikibe Mayu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1711198#osu/3510636)
 - FreeMod
-  1. [The Ritual Aura - Ectoplasm (Mazzerin) \[Synthetic Absolutism - Original\]](https://osu.ppy.sh/beatmapsets/1563639#osu/3193037)
-  2. [kors k - SigSig (AJT) \[Dream\]](https://osu.ppy.sh/beatmapsets/1615650#osu/3298591)
-  3. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) \[Expert\]](https://osu.ppy.sh/beatmapsets/935707#osu/1954858)
-  4. [lapix - Flamenco House (Luminiscental) \[Extra\]](https://osu.ppy.sh/beatmapsets/1865291#osu/3853301)
-- Tiebreaker
-  1. **[OctagonCollaboration - The Glorious Octagon of Destiny (FAW) \[f4uz4n's hard ft. raids\]](https://osu.ppy.sh/beatmapsets/2016959#osu/4199136)**
+  1. [Doin - Vacuum Cleaner (PandaHero) \[Expert\]](https://osu.ppy.sh/beatmapsets/1972519#osu/4097217)
+  2. [Rabbit House - das Leben nach dem Tode (Rentia) \[Unterwelt\]](https://osu.ppy.sh/beatmapsets/1733348#osu/3542916)
+  3. [Ocelot - IROHA (feat. Hatsune Miku) (Axaptice) \[ABC\]](https://osu.ppy.sh/beatmapsets/1670972#osu/3412767)
 
 ### Quarterfinals
 
