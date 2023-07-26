@@ -133,28 +133,28 @@ Listed below are the teams participating in SSSS 3 along with their respective t
   5. [Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass (feat. Yunomi) (UberFazz) \[Maximum\]](https://osu.ppy.sh/beatmapsets/1709206#osu/3492611)  
   6. [Shibayan feat. Ichimatsu Tsubaki - Wo Qin Ai Kui Lei (UberFazz) \[Desire\]](https://osu.ppy.sh/beatmapsets/1359291#osu/2969884) 
 - Hidden
-  1. [YurryCanon feat. GUMI - humanly (Petal) \[#$!@*&^%\]](https://osu.ppy.sh/beatmapsets/1886627#osu/3884985)
-  2. [Pixel Terror - Millennia (Asphyxia) \[DeviousPanda's Expert\]](https://osu.ppy.sh/beatmapsets/1708547#osu/3592328)
-  3. [96neko - Buriki no Dance (CallieCube) \[Tango\]](https://osu.ppy.sh/beatmapsets/1332410#osu/3046047)  
-  4. [96neko - Buriki no Dance (CallieCube) \[Tango\]](https://osu.ppy.sh/beatmapsets/1332410#osu/3046047)    
+  1. [Hanon x Megu x Kotoha - Shiroi Yuki no Princess wa (-karUpA-) \[Happiness\]](https://osu.ppy.sh/beatmapsets/1707021#osu/3488032)
+  2. [Narjahanam - Taht Alamat Al Nujoom (TheKingHenry) \[Wara'a Al Yawm Al Mawti\]](https://osu.ppy.sh/beatmapsets/1623074#osu/3313945)
+  3. [niki x EZFG feat. Reol - WAVE (Sparhten) \[ar8 test\]](https://osu.ppy.sh/beatmapsets/1922218#osu/3967816)  
+  4. [Masqed Pierrot - THE FAUST (fanzhen0019) \[PaRaDogi's cheesecake\]](https://osu.ppy.sh/beatmapsets/1418075#osu/2924836)    
 - HardRock
-  1. [Imy - Seimei no Tomoshibi (KKipalt) \[Reflection\]](https://osu.ppy.sh/beatmapsets/1276373#osu/2651864)
-  2. [Okui Masami - God Speed (Anxient) \[Torque\]](https://osu.ppy.sh/beatmapsets/1972419#osu/4092879)
-  3. [MYUKKE. - The 89's Momentum (Cubby) \[Cubby & Yusomi Extreme\]](https://osu.ppy.sh/beatmapsets/1235496#osu/2568326)
+  1. [Reol - Saisaki ( cRyo\[iceeicee\]) \[Extra\]](https://osu.ppy.sh/beatmapsets/858075#osu/1793422)
+  2. [Nor - Usagi Flap (syuq) \[Bunny Flap\]](https://osu.ppy.sh/beatmapsets/1966862#osu/4078680)
+  3. [Kotoha - Zecchou Sanka (achyoo) \[Climax\]](https://osu.ppy.sh/beatmapsets/1862243#osu/3828999)
+  4. [Tove Styrke - Sway (schoolboy) \[Are We Gonna Stay Up?\]](https://osu.ppy.sh/beatmapsets/1316289#osu/2727565)  
 - DoubleTime
-  1. [Maeda Jun x yanaginagi - Kimi to Iu Shinwa (Sunohara Shun) \[30 days (ft. Crezz)\]](https://osu.ppy.sh/beatmapsets/2022618#osu/4212658)
-  2. [A-One feat. Shihori - Magic Girl !! (YokesPai) \[Insane\]](https://osu.ppy.sh/beatmapsets/1740099#osu/3557309)
-  3. [Synthamesk - Suspirious (fergas) \[AfteraLL\]](https://osu.ppy.sh/beatmapsets/1312111#osu/2719407)
-  4. [Nisshoku Natsuko - Rogumaropu (Seikatu) \[Collab\]](https://osu.ppy.sh/beatmapsets/666499#osu/1410681)
+  1. [HoneyWorks feat. Hanon x Kotoha - Sis x Love (Ayucchi) \[I LOVE my sister!\]](https://osu.ppy.sh/beatmapsets/1358634#osu/2828061)
+  2. [DJ Mashiro - Prismatic Lollipops (PayneTrain) \[Insane\]](https://osu.ppy.sh/beatmapsets/1565432#osu/3196642)
+  3. [ZUN - Voyage 1970 (Shurelia) \[Aeril's Lunatic\]](https://osu.ppy.sh/beatmapsets/1913796#osu/4006919)
+  4. [Blacklolita - Praeteritum (JeZag) \[Another\]](https://osu.ppy.sh/beatmapsets/651006#osu/1515012)
 - FreeMod
-  1. [UNDEAD CORPORATION - One Second (Zelq) \[Blink of an Eye\]](https://osu.ppy.sh/beatmapsets/1580859#osu/3227911)
-  2. [Kero Kero Bonito - Flamingo (WTN3 Remix) (Cubby) \[Edit\]](https://osu.ppy.sh/beatmapsets/1271938#osu/4167251)
-  3. [Dark PHOENiX - Taketori Hishou (cotton\_\_123) \[Lunatic Princess\]](https://osu.ppy.sh/beatmapsets/1893810#osu/3902585)
-  4. [NIWASHI & taiyo - Nami/Oto you-shi (mezelyus) \[Ubiquitous\]](https://osu.ppy.sh/beatmapsets/1833621#osu/3764329)
+  1. [Ryu\* - Mind Mapping (kors k mix) (AJT) \[Callie's EXTREME\]](https://osu.ppy.sh/beatmapsets/1774369#osu/4019804)
+  2. [Noah - Celestial stinger (Kroytz) \[PoNo's GRAVITY\]](https://osu.ppy.sh/beatmapsets/687129#osu/1454089)
+  3. [Mitsukiyo - Future Bossa (Stompy\_) \[Shurelia Sensei's Special Lesson\]](https://osu.ppy.sh/beatmapsets/1981110#osu/4113746)
 
 ### Semifinals
 
-**[Download the mappack here! (193 MB)](https://mappack.yewonkim.tk/download/jE8MBuvr)**
+**[Download the mappack here! (177 MB)](https://drive.google.com/file/d/1StL2cyAjXQMqVm0w64uoQS_sWH0Jjlce/view?usp=sharing)**
 
 - NoMod
   1. [KAF - Tatoeba (Rtyzen) \[Light\]](https://osu.ppy.sh/beatmapsets/1850935#osu/3802333)
@@ -162,6 +162,7 @@ Listed below are the teams participating in SSSS 3 along with their respective t
   3. [Jimmy Weckl - Get Happy (Saturnalize) \[Festive\]](https://osu.ppy.sh/beatmapsets/1098547#osu/2295195)
   4. [USAO - Cthugha (Raids) \[Raids x Shinjuko's Flamedweller ft. Celine\]](http://osu.ppy.sh/beatmapsets/2018170#osu/4202376)
   5. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (ScubDomino) \[Lemon\]](https://osu.ppy.sh/beatmapsets/866401#osu/1857321)  
+  6. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (ScubDomino) \[Lemon\]](https://osu.ppy.sh/beatmapsets/866401#osu/1857321)   
 - Hidden
   1. [Uso to Chameleon - Karakuri Destruction (Surgis\_) \[Flake's Ekstreme\]](https://osu.ppy.sh/beatmapsets/1968237#osu/4115109)
   2. [Yorushika - Matasaburo (Aragon) \[Raijodo & a\_blue's Collab Expert\]](https://osu.ppy.sh/beatmapsets/1566187#osu/3614534)
