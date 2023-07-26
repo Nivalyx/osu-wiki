@@ -63,7 +63,7 @@ The SEA Summer Suiji Showdown 3  is run by various osu! community members from t
 
 ## Participants
 
-Listed below are the participating teams in SSSS 3 and their respective members, with players named in **bold** acting as team captains.
+Listed below are the participating teams in SSSS 3 and their respective members, with players in **bold** acting as team captains.
 
 | Team name | Seed S player | Seed A player | Seed B player #1 | Seed B player #2 | Seed C player #1 | Seed C player #2 |
 | :-- | :-- | :-- |
