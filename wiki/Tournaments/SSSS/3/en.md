@@ -407,6 +407,8 @@ Sunday, 2 July 2023:
 | 8 | Stelle x Trash Can | 3 | 3 | 0 | 3 | +3 |
 | 9 | Rumah Makan Padang | 3 | 2 | 2 | 2 | +3 |
 | 10 | Fuuka Motor | 3 | 3 | 0 | 3 | +1 |
+| 11 | ryowari da | 3 | 2 | 2 | 2 | +1 |
+| 12 | hina motor | 3 | 2 | 2 | 2 | 0 |
 
 #### Swiss week 3
 
