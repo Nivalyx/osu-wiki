@@ -266,28 +266,28 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 
 ### Swiss round (week 2)
 
-**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1oOdvlJxYzAB9HHu-CIO9R_2WL1e87JuP/view?usp=sharing)**
+**[Download the mappack here! (124 MB)](https://drive.google.com/file/d/1XJUuBSf0Fxfi0LuTYMeDHdJ9nmUgDAPV/view?usp=sharing)**
 
 - NoMod
-  1. [Marcin Maliszewski, Marek Krejzler - Beyblade: Metal Masters - Polish Opening (Wraith) \[5d's UCHWYC GO\]](https://osu.ppy.sh/beatmapsets/1956682#osu/4053406)
-  2. [Leah Kate - 10 Things I Hate About You (Sped Up & Cut Ver.) (Log Off Now) \[Mommy Issues\]](https://osu.ppy.sh/beatmapsets/1881428#osu/3873445)
-  3. [Polyphia - ABC feat. Sophia Black (HinaMommy) \[Wanpachi's aiue(xpert)o\]](https://osu.ppy.sh/beatmapsets/1931669#osu/3997326)
-  4. [xaev - pronoun picker sing berdlycore (wafer) \[Oh Um Oh Uh It It's Oh Well Um Mmm It's How Do I Put This Very... ... Smart\]](https://osu.ppy.sh/beatmapsets/1961676#osu/4129460)
-  5. [Igorrr - Unpleasant Sonata (Sieg) \[Pagli's Sonata\]](https://osu.ppy.sh/beatmapsets/90385#osu/262302)       
+  1. [Maid-chan (CV: Horie Yui) - Maid-chan yori. (Yakisoba\_Pan) \[rollpan's Extra\]](https://osu.ppy.sh/beatmapsets/369623#osu/809914)
+  2. [DJ Genki feat. yukacco - Ready Go(2017 Updata MIX) (Abelia) \[ULTRA HAPPY!!!\]](https://osu.ppy.sh/beatmapsets/1105263#osu/2310075)
+  3. [Perfume - Daijobanai (\_derp) \[Daijobu\]](https://osu.ppy.sh/beatmapsets/659613#osu/1396912)
+  4. [Getty vs. DJ DiA - Ops:Code -Rapture- (Realazy) \[sahuang's Extra\]](https://osu.ppy.sh/beatmapsets/776328#osu/1656233)
+  5. [YUC'e - Night Club Junkie (Nathan) \[fanzhen's Extra\]](https://osu.ppy.sh/beatmapsets/756066#osu/1723473)       
 - Hidden
-  1. [IOSYS - Qualia (wetdog123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1213880#osu/2526517)
-  2. [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/25922#osu/87728)
+  1. [PSYQUI - Still in my heart feat. Punipuni Denki (Typ4) \[Insane the Tea\]](https://osu.ppy.sh/beatmapsets/961460#osu/2072692)
+  2. [Rokudenashi - Tada Koe Hitotsu (Aruyy) \[he\]](https://osu.ppy.sh/beatmapsets/1950993#osu/4039753)
 - HardRock
-  1. [NewJeans - Ditto (Nijika Ijichi) \[1e-9\]](https://osu.ppy.sh/beatmapsets/1940274#osu/4011742)
-  2. [Malk De Koijn - Vi Tager Fuglen Paa Dig (waefwerf) \[Strider's Insane\]](https://osu.ppy.sh/beatmapsets/1143263#osu/2410524)
+  1. [Mitsukiyo - Kimi to Boku no Sekai (feat. \*namirin) (Kingo) \[You and my World\]](https://osu.ppy.sh/beatmapsets/2002760#osu/4164898)
+  2. [Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta) (SeeL) \[The passing seasons\]](https://osu.ppy.sh/beatmapsets/1040769#osu/2175175)
 - DoubleTime
-  1. [Hanyuu Miina - Koi Dayori (Iceluin) \[Love Letter\]](https://osu.ppy.sh/beatmapsets/1966286#osu/4077338)
-  2. [Tomoya Ohtani - Undefeatable (feat. Kellin Quinn) (Voli) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/1892271#osu/3900704)
-  3. [Lia - Light colors (azuki) \[Alazy\]](https://osu.ppy.sh/beatmapsets/7124#osu/32233)
+  1. [convolk - i fucked up (Gordon123) \[riffy's insane\]](https://osu.ppy.sh/beatmapsets/1212361#osu/2523524)
+  2. [Circle of Dust - Humanarchy (Cut Ver.) (Riana) \[Hyper\]](https://osu.ppy.sh/beatmapsets/1212361#osu/2523524)
+  3. [King Gnu - BOY (MetroDiver) \[Insane\]](https://osu.ppy.sh/beatmapsets/1630078#osu/3327762)
 - FreeMod
-  1. [Tsukino x Kurousagi Uru - Mental Chainsaw (MuChin) \[Paranoid\]](https://osu.ppy.sh/beatmapsets/1806660#osu/3705040)
-  2. [IOSYS - Alice wa Taihen na Kashi Wo Urooboe Deshita (Zekira) \[DJWho?\]](https://osu.ppy.sh/beatmapsets/11076#osu/42683)
-  3. [15 Voices - Non-breath oblige (Delis) \[allein's no slider extra\]](https://osu.ppy.sh/beatmapsets/1919446#osu/3962346)    
+  1. [katagiri - Scattered Pancakes (Saika0k1) \[Pancake Batter\]](https://osu.ppy.sh/beatmapsets/1530055#osu/3129616)
+  2. [Tu Tu Wan - Jin Ke La Mei Ri Fei K Ge Jin Qu CD (Pata-Mon) \[Kela-Mon\]](https://osu.ppy.sh/beatmapsets/1246036#osu/2590006)
+  3. [1Mitsukiyo - Hifumi Daisuki (Setu) \[Kyuuteurre's Extraordinary\]](https://osu.ppy.sh/beatmapsets/1883263#osu/3899162)    
 
 ## Match results
 
