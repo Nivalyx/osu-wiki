@@ -316,6 +316,27 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 
 ## Match results
 
+### Finals (week 1)
+
+Friday, 21 July 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | kisaki motor | 7 | **8** | **Fuuka Motor** | [#1](https://osu.ppy.sh/community/matches/109606923) |
+
+Sunday, 23 July 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | maimai | 1 | **8** | **Tingyun Motor** | [#1](https://osu.ppy.sh/community/matches/109624801) |
+| Lower | **Schale** | **8** | 0 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/109634101) |
+
+Wednesday, 26 July 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **Schale** | **8** | 1 | Fuuka Motor | [#1](https://osu.ppy.sh/community/matches/109687062) |
+
 ### Semifinals
 
 Friday, 14 July 2023:
