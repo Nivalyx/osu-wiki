@@ -401,6 +401,9 @@ Sunday, 2 July 2023:
 | 2 | kisaki motor | 5 | 5 | 0 | 1 | +16 |
 | 3 | Tingyun Motor | 5 | 5 | 0 | 1 | +10 |
 | 4 | maimai | 4.5 | 4 | 1 | 1 | +12 |
+| 5 | geoguessr | 4 | 4 | 0 | 2 | +6 |
+| 6 | blind people | 3.5 | 3 | 1 | 2 | +3 |
+| 7 | Spacediver | 3 | 3 | 3 | 0 | +4 |
 
 #### Swiss week 3
 
