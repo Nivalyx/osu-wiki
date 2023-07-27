@@ -420,10 +420,17 @@ Sunday, 2 July 2023:
 
 #### Swiss week 3
 
-Sunday, 2 July 2023:
+Thursday, 22 June 2023:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| 3-19 | Chicken Rice | 3 | **5** | **Team** | [#1](https://osu.ppy.sh/community/matches/109146573) |
+
+Friday, 23 June 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 3-4 | geoguessr | 0 | **5** | **Schale** | [#1](https://osu.ppy.sh/community/matches/109131210) |
 
 #### Swiss week 2
 
