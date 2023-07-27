@@ -80,7 +80,7 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 | maimai | ::{ flag=SG }:: **[Eagle5324](https://osu.ppy.sh/users/11987104)** | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | ::{ flag=SG }:: [moroha29](https://osu.ppy.sh/users/9182389) | ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681) | ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527) | ::{ flag=VN }:: [smthelse](https://osu.ppy.sh/users/13238121) |
 | Mika Motor | ::{ flag=SG }:: [dlwlrma-](https://osu.ppy.sh/users/7908994) | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | ::{ flag=MY }:: [not\_aweeb](https://osu.ppy.sh/users/9375317) | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/13626098)** | ::{ flag=MY }:: [LITFAM123](https://osu.ppy.sh/users/13584478) | ::{ flag=SG }:: [Touruu](https://osu.ppy.sh/users/9484080) |
 | Rumah Makan Padang | ::{ flag=ID }:: **[Daffy](https://osu.ppy.sh/users/5968633)** | ::{ flag=TH }:: [SakaIndy](https://osu.ppy.sh/users/2165622) | ::{ flag=VN }:: [thanh792001](https://osu.ppy.sh/users/10029074) | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | ::{ flag=SG }:: [Robed](https://osu.ppy.sh/users/11258741) | ::{ flag=SG }:: [Baechuu](https://osu.ppy.sh/users/13988393) |
-| ryowari da | ::{ flag=US }:: (::{ flag=PH }::) **[SilenceSuzuka](https://osu.ppy.sh/users/7249644)** | ::{ flag=PH }:: [Blemishki](https://osu.ppy.sh/users/14664996) | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) | ::{ flag=SG }:: [ProjectGreat](https://osu.ppy.sh/users/15516059) | ::{ flag=SG }:: [Definition](https://osu.ppy.sh/users/7819055) | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) |
+| ryowari da | ::{ flag=US }:: (::{ flag=PH }::) **[SilenceSuzuka](https://osu.ppy.sh/users/7249644)**[^flag-note-1] | ::{ flag=PH }:: [Blemishki](https://osu.ppy.sh/users/14664996) | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) | ::{ flag=SG }:: [ProjectGreat](https://osu.ppy.sh/users/15516059) | ::{ flag=SG }:: [Definition](https://osu.ppy.sh/users/7819055) | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) |
 | Schale | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490) | ::{ flag=VN }:: **[Chipperonio](https://osu.ppy.sh/users/13141032)** | ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877) | ::{ flag=VN }:: [MisonoMika](https://osu.ppy.sh/users/16583941) | ::{ flag=SG }:: [hollowknees](https://osu.ppy.sh/users/15195364) |
 | Spacediver | ::{ flag=SG }:: **[megumic](https://osu.ppy.sh/users/7537133)** | ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377) | ::{ flag=SG }:: [kirkirs](https://osu.ppy.sh/users/9902622) | ::{ flag=TH }:: [Iyori](https://osu.ppy.sh/users/2659707) | ::{ flag=TH }:: [Goaw2551](https://osu.ppy.sh/users/16055740) | ::{ flag=PH }:: [Dunn](https://osu.ppy.sh/users/7241691) |
 | Stelle x Trash Can | ::{ flag=TH }:: **[Lesperry](https://osu.ppy.sh/users/18092331)** | ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) | ::{ flag=PH }:: [Desmond823](https://osu.ppy.sh/users/14582737) | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548) | ::{ flag=SG }:: [Can Never FC](https://osu.ppy.sh/users/8420023) | ::{ flag=PH }:: [Setsoku](https://osu.ppy.sh/users/10888411) |
@@ -395,9 +395,10 @@ Sunday, 2 July 2023:
 
 #### Overall standings
 
-| Rank | Team name | Points | Wins | Draws | Losses | Maps Difference |
+| Rank | Team name | Points | Wins | Draws | Losses | Maps difference |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | Schale | 5 | 5 | 0 | 1 | +17 |
+| 2 | kisaki motor | 5 | 5 | 0 | 1 | +16 |
 
 #### Swiss week 3
 
@@ -474,3 +475,7 @@ Sunday, 2 July 2023:
 5. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with Easy, HardRock, Hidden, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+
+## Notes
+
+[^flag-note-1]: Despite having the ::{ flag=US }:: American flag, [SilenceSuzuka](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as the player in possession of a ::{ flag=PH }:: [Philippine passport](https://en.wikipedia.org/wiki/Philippine_passport).
