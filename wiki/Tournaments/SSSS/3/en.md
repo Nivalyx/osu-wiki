@@ -592,11 +592,11 @@ Sunday, 11 June 2023:
 
 1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/xzFzErPtCe989xHY6).
    - In order to be eligible to play in the tournament, a player must:
-     - Have the ::{ flag=ID }:: Indonesian flag displayed on their profile, **and**
-     - Be in possession of at least 6,000 pp in the osu! game mode at the time of registration.
+     - Have the flag of any of the ten ASEAN member states (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) displayed on their profile. **or**
+     - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
-4. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
+4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Round-specific rules
 
