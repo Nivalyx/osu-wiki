@@ -594,13 +594,15 @@ Sunday, 11 June 2023:
    - In order to be eligible to play in the tournament, a player must:
      - Have the flag of any of the ten ASEAN member states (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) displayed on their profile. ***or***
      - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
-2. The tournament management reserves the right to decline players who are [blacklisted from SSSS](https://cdn.discordapp.com/attachments/548378597476532236/1134159205897601174/image.png) due to their misconduct in previous South East Asia regional tournaments (including, but not limited to, [oSEAT 5](/wiki/Tournaments/oSEAT/5) and [UCUP 2022](/wiki/Tournaments/UCUP/2022)) from competing.     
+2. The tournament management reserves the right to decline players who are [blacklisted from SSSS 3](https://cdn.discordapp.com/attachments/548378597476532236/1134159205897601174/image.png) due to their misconduct in previous South East Asia regional tournaments (including, but not limited to, [oSEAT 5](/wiki/Tournaments/oSEAT/5) and [UCUP 2022](/wiki/Tournaments/UCUP/2022)) from competing.     
 3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 4. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 5. As the tournament features no Qualifiers, only the **top 144 players** based on their [BWS rank](wiki/Tournaments/Badge-weighted_seeding) will be admitted into the tournament.
 6. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Team matchmaking
+
+1. The 144 players who made it through the registration process will be divided into four seeds based on their [BWS rank](wiki/Tournaments/Badge-weighted_seeding).
 
 ### Round-specific rules
 
