@@ -427,10 +427,17 @@ Sunday, 2 July 2023:
 
 #### Swiss week 2
 
-Sunday, 2 July 2023:
+Tuesday, 13 July 2023:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| 2-7 | TTZida | 0 | **5** | **maimai** | [#1](https://osu.ppy.sh/community/matches/108984334) |
+
+Thursday, 15 July 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 2-6 | Kageno | 0 | **5** | **maimai** | [#1](https://osu.ppy.sh/community/matches/109014554) |
 
 #### Swiss week 1
 
