@@ -602,7 +602,7 @@ Sunday, 11 June 2023:
 
 ### Team matchmaking
 
-1. The 144 players who made it through the registration process will be divided into four seeds based on their [BWS rank](wiki/Tournaments/Badge-weighted_seeding).
+1. The 144 players who made it through the registration process will be divided into four seeds based on their [BWS rank](wiki/Tournaments/Badge-weighted_seeding) as follows:
 
 ### Round-specific rules
 
