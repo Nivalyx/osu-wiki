@@ -585,5 +585,5 @@ Sunday, 11 June 2023:
 
 ## Notes
 
-[^flag-note]: Despite having the ::{ flag=US }:: American flag, [SilenceSuzuka](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as the player in possession of a ::{ flag=PH }:: [Philippine passport](https://en.wikipedia.org/wiki/Philippine_passport).
+[^flag-note]: Despite having the ::{ flag=US }:: American flag, [SilenceSuzuka](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as the player is in possession of a ::{ flag=PH }:: [Philippine passport](https://en.wikipedia.org/wiki/Philippine_passport).
 [^three-way-tie-note]: Three-way head-to-head points: TTZida 1.5, Ang Pogi mo Oodriin 1, kedama milk 0.5.
