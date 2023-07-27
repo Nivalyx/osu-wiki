@@ -443,7 +443,34 @@ Friday, 16 July 2023:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| 2-19 | **Stelle x Trash Can** | **5** | 2 | Team | [#1](https://osu.ppy.sh/community/matches/109063959) |
+
+Saturday, 17 July 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 2-5 | **Rumah Makan Padang** | **5** | 1 | TTzida | [#1](https://osu.ppy.sh/community/matches/109049102) |
+| 2-16 | Banana | 4 | 4 | hina motor | [#1](https://osu.ppy.sh/community/matches/109046237) |
+| 2-9 | Mika Motor | 0 | **5** | **geoguessr** | [#1](https://osu.ppy.sh/community/matches/109046983) |
+| 2-13 | Chicken Rice | 2 | **5** | **blind people** | [#1](https://osu.ppy.sh/community/matches/109048575) |
+| 2-4 | **kisaki motor** | **5** | 1 | Kageno | [#1](https://osu.ppy.sh/community/matches/109050308) |
+| 2-17 | **hina motor** | **5** | 1 | Ang Pogi mo Oodriin | [#1](https://osu.ppy.sh/community/matches/109049098) |
+| 2-14 | **ryowari da** | **5** | 3 | Banana | [#1](https://osu.ppy.sh/community/matches/109047152) |
 | 2-3 | **Tingyun Motor** | **5** | 3 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/109031407) |
+| 2-10 | kedama milk | 0 | **5** | **geoguessr** | [#1](https://osu.ppy.sh/community/matches/109064998) |
+| 2-2 | Spacediver | 1 | **5** | **kisaki motor** | [#1](https://osu.ppy.sh/community/matches/109065070) |
+| 2-18 | Stelle x Trash Can | 3 | **5** | **Fuuka Motor** | [#1](https://osu.ppy.sh/community/matches/109063244) |
+
+Sunday, 18 July 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 2-20 | **Fuuka Motor** | **5** | 0 | Team | [#1](https://osu.ppy.sh/community/matches/109065079) |
+| 2-8 | Mika Motor | 1 | **5** | **kisaki motor** | [#1](https://osu.ppy.sh/community/matches/109065602) |
+| 2-1 | Spacediver | 3 | **5** | **Tingyun Motor** | [#1](https://osu.ppy.sh/community/matches/109065857) |
+| 2-12 | kedama milk | 0 | **5** | **blind people** | [#1](https://osu.ppy.sh/community/matches/109066860) |
+| 2-11 | **Schale** | **5** | 2 | Chicken Rice | [#1](https://osu.ppy.sh/community/matches/109066832) |
+| 2-15 | ryowari da | 2 | **5** | **Ang Pogi mo Oodriin** | [#1](https://osu.ppy.sh/community/matches/109065934) |
 
 #### Swiss week 1
 
