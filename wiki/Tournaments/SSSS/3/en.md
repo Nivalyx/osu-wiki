@@ -411,7 +411,7 @@ Sunday, 2 July 2023:
 | 12 | hina motor | 3 | 2 | 2 | 2 | 0 |
 | 13 | Banana | 2.5 | 1 | 3 | 2 | -3 |
 | 14 | Kageno | 2.5 | 1 | 3 | 2 | -5 |
-| 15 | TTZida | 2 | 1 | 2 | 3 | -11[^three-way-tie-note] |
+| 15 | TTzida | 2 | 1 | 2 | 3 | -11[^three-way-tie-note] |
 | 16 | Ang Pogi mo Oodriin | 2 | 1 | 2 | 3 | -11[^three-way-tie-note] |
 | 17 | kedama milk | 2 | 2 | 0 | 4 | -11[^three-way-tie-note] |
 | 18 | Mika Motor | 1.5 | 1 | 1 | 4 | -8 |
@@ -432,13 +432,34 @@ Friday, 23 June 2023:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 3-4 | geoguessr | 0 | **5** | **Schale** | [#1](https://osu.ppy.sh/community/matches/109131210) |
 
+Saturday, 24 June 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 3-14 | Kageno | 4 | 4 | Mika Motor | [#1](https://osu.ppy.sh/community/matches/109163121) |
+| 3-8 | **Spacediver** | **5** | 2 | Fuuka Motor | [#1](https://osu.ppy.sh/community/matches/109162442) |
+| 3-5 | **geoguessr** | **5** | 3 | blind people | [#1](https://osu.ppy.sh/community/matches/109164190) |
+| 3-10 | **Fuuka Motor** | **5** | 2 | hina motor | [#1](https://osu.ppy.sh/community/matches/109163097) |
+| 3-9 | Spacediver | 2 | **5** | **hina motor** | [#1](https://osu.ppy.sh/community/matches/109165166) |
+
+Sunday, 25 June 2023:
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 3-7 | blind people | 4 | 4 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/109181363) |
+| 3-12 | **ryowari da** | **5** | 1 | TTzida | [#1](https://osu.ppy.sh/community/matches/109177733) |
+| 3-15 | Ang Pogi mo Oodriin | 0 | **5** | **Stelle x Trash Can** | [#1](https://osu.ppy.sh/community/matches/109179339) |
+| 3-17 | Banana | 4 | 4 | Chicken Rice | [#1](https://osu.ppy.sh/community/matches/109179398) |
+| 3-6 | **Schale** | **5** | 1 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/109177736) |
+| 3-16 | **Stelle x Trash Can** | **5** | 3 | Mika Motor | [#1](https://osu.ppy.sh/community/matches/109180113) |
+| 3-13 | Ang Pogi mo Oodriin | 4 | 4 | TTzida | [#1](https://osu.ppy.sh/community/matches/109180078) |
+
 #### Swiss week 2
 
 Tuesday, 13 July 2023:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 2-7 | TTZida | 0 | **5** | **maimai** | [#1](https://osu.ppy.sh/community/matches/108984334) |
+| 2-7 | TTzida | 0 | **5** | **maimai** | [#1](https://osu.ppy.sh/community/matches/108984334) |
 
 Thursday, 15 July 2023:
 
@@ -508,13 +529,13 @@ Sunday, 11 June 2023:
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 1-20 | **Tingyun Motor** | **5** | 1 | Fuuka Motor | [#1](https://osu.ppy.sh/community/matches/108951643) |
-| 1-14 | TTZida | 4 | 4 | Banana | [#1](https://osu.ppy.sh/community/matches/108947523) |
+| 1-14 | TTzida | 4 | 4 | Banana | [#1](https://osu.ppy.sh/community/matches/108947523) |
 | 1-17 | Mika Motor | 3 | **5** | **kedama milk** | [#1](https://osu.ppy.sh/community/matches/108951482) |
 | 1-17 | Schale | 3 | **5** | **kisaki motor** | [#1](https://osu.ppy.sh/community/matches/108948097) |
 | 1-4 | **Chicken Rice** | **5** | 3 | ryowari da | [#1](https://osu.ppy.sh/community/matches/108951470) |
 | 1-19 | Team | 1 | **5** | **Tingyun Motor** | [#1](https://osu.ppy.sh/community/matches/108949803) |
 | 1-2 | maimai | 4 | 4 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/108952598) |
-| 1-10 | kedama milk | 3 | **5** | **TTZida** | [#1](https://osu.ppy.sh/community/matches/108948106) |
+| 1-10 | kedama milk | 3 | **5** | **TTzida** | [#1](https://osu.ppy.sh/community/matches/108948106) |
 
 ## Ruleset
 
@@ -593,4 +614,4 @@ Sunday, 11 June 2023:
 ## Notes
 
 [^flag-note]: Despite having the ::{ flag=US }:: American flag, [SilenceSuzuka](https://osu.ppy.sh/users/7249644) is eligible to participate in the tournament as the player is in possession of a ::{ flag=PH }:: [Philippine passport](https://en.wikipedia.org/wiki/Philippine_passport).
-[^three-way-tie-note]: Three-way head-to-head points: TTZida 1.5, Ang Pogi mo Oodriin 1, kedama milk 0.5.
+[^three-way-tie-note]: Three-way head-to-head points: TTzida 1.5, Ang Pogi mo Oodriin 1, kedama milk 0.5.
