@@ -454,10 +454,10 @@ Sunday, 25 June 2023:
 | 3-6 | **Schale** | **5** | 1 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/109177736) |
 | 3-8 | **Spacediver** | **5** | 2 | Fuuka Motor | [#1](https://osu.ppy.sh/community/matches/109162442) |
 | 3-16 | **Stelle x Trash Can** | **5** | 3 | Mika Motor | [#1](https://osu.ppy.sh/community/matches/109180113) |
-| 3-2 | **Kisaki Motor** | **5** | 1 | maimai | [#1](https://osu.ppy.sh/community/matches/109180501) |
+| 3-2 | **kisaki motor** | **5** | 1 | maimai | [#1](https://osu.ppy.sh/community/matches/109180501) |
 | 3-13 | Ang Pogi mo Oodriin | 4 | 4 | TTzida | [#1](https://osu.ppy.sh/community/matches/109180078) |
 | 3-11 | ryowari da | 4 | 4 | Kageno | [#1](https://osu.ppy.sh/community/matches/109180904) |
-| 3-1 | Kisaki Motor | 3 | **5** | **Tingyun Motor** | [#1](https://osu.ppy.sh/community/matches/109181357) |
+| 3-1 | kisaki motor | 3 | **5** | **Tingyun Motor** | [#1](https://osu.ppy.sh/community/matches/109181357) |
 
 #### Swiss week 2
 
