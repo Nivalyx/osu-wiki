@@ -318,52 +318,47 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 
 ### Semifinals
 
-Thursday, 13 July 2023:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109473585) |
-| Lower | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/109472911) |
-
 Friday, 14 July 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109490570) |
+| Lower | **Kageno** | **7** | 3 | Spacediver | [#1](https://osu.ppy.sh/community/matches/109490486) |
 
 Saturday, 15 July 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Anhydrous](https://osu.ppy.sh/users/11272510) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/109505402) |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/109506277) |
-| Lower | [DeathHydra](https://osu.ppy.sh/users/7457788) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** | [#1](https://osu.ppy.sh/community/matches/109506204) |
+| Lower | **Rumah Makan Padang** | **7** | 5 | hina motor | [#1](https://osu.ppy.sh/community/matches/109522492) |
+| Upper | Schale | 5 | **7** | **maimai** | [#1](https://osu.ppy.sh/community/matches/109507599) |
+| Lower | **blind people** | **7** | 3 | Stelle x Trash Can | [#1](https://osu.ppy.sh/community/matches/109508192) |
+ Lower | **Fuuka Motor** | **7** | 5 | geoguessr | [#1](https://osu.ppy.sh/community/matches/109507591) |
 
 Sunday, 16 July 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[NazunaAmemiya](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/109521317) |
-| Lower | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | [#1](https://osu.ppy.sh/community/matches/109525652) |
+| Lower | **Rumah Makan Padang** | **7** | 1 | Kageno | [#1](https://osu.ppy.sh/community/matches/109523923) |
+| Lower | **Fuuka Motor** | **7** | 3 | blind people | [#1](https://osu.ppy.sh/community/matches/109521475) |
+| Upper | kisaki motor | 4 | **7** | **Tingyun Motor** | [#1](https://osu.ppy.sh/community/matches/109523610) |
 
 ### Quarterfinals
 
 Friday, 7 July 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **Schale** | **7** | 5 | blind people | [#1](https://osu.ppy.sh/community/matches/109375324) |
 
 Saturday, 8 July 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | ryowari da | 3 | **7** | **Spacediver** | [#1](https://osu.ppy.sh/community/matches/109392063) |
 | Upper | **Tingyun Motor** | **7** | 6 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/109393098) |
 
 Sunday, 9 July 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | TTzida | 5 | **7** | **geoguessr** | [#1](https://osu.ppy.sh/community/matches/109407675) |
 | Lower | Banana | 0 | **7** | **hina motor** | [#1](https://osu.ppy.sh/community/matches/109408430) |
@@ -371,7 +366,7 @@ Sunday, 9 July 2023:
 
 Monday, 10 July 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | Ang Pogi mo Oodriin | 1 | **7** | **Stelle x Trash Can** | [#1](https://osu.ppy.sh/community/matches/109423930) |
 | Upper | **maimai** | **7** | 6 | Fuuka Motor | [#1](https://osu.ppy.sh/community/matches/109424639) |
@@ -380,13 +375,13 @@ Monday, 10 July 2023:
 
 Friday, 30 June 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **maimai** | **7** | 2 | ryowari da | [#1](https://osu.ppy.sh/community/matches/109264326) |
 
 Saturday, 1 July 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | Spacediver | 4 | **7** | **Fuuka Motor** | [#1](https://osu.ppy.sh/community/matches/109278932) |
 | Upper | **Schale** | **7** | 0 | Banana | [#1](https://osu.ppy.sh/community/matches/109281450) |
@@ -396,7 +391,7 @@ Saturday, 1 July 2023:
 
 Sunday, 2 July 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | Stelle x Trash Can | 6 | **7** | **Rumah Makan Padang** | [#1](https://osu.ppy.sh/community/matches/109297739) |
 | Upper | **Tingyun Motor** | **7** | 2 | Ang Pogi mo Oodriin | [#1](https://osu.ppy.sh/community/matches/109297655) |
