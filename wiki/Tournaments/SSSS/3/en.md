@@ -391,6 +391,16 @@ Sunday, 2 July 2023:
 | Upper | [rHO](https://osu.ppy.sh/users/1629553) ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **[Anhydrous](https://osu.ppy.sh/users/11272510)** | [#1](https://osu.ppy.sh/community/matches/109296248) |
 | Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/109298415) |
 
+### Swiss round
+
+#### Overall standings
+
+| Rank | Team name | Points | Wins | Draws | Losses | Maps Difference |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | Schale | 5 | 5 | 0 | 1 | +17 |
+
+#### Swiss week 3
+
 ## Ruleset
 
 ### General rules
