@@ -436,22 +436,28 @@ Saturday, 24 June 2023:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| 3-18 | **Banana** | **5** | 2 | kedama milk | [#1](https://osu.ppy.sh/community/matches/109180460) |
 | 3-14 | Kageno | 4 | 4 | Mika Motor | [#1](https://osu.ppy.sh/community/matches/109163121) |
-| 3-8 | **Spacediver** | **5** | 2 | Fuuka Motor | [#1](https://osu.ppy.sh/community/matches/109162442) |
-| 3-5 | **geoguessr** | **5** | 3 | blind people | [#1](https://osu.ppy.sh/community/matches/109164190) |
 | 3-10 | **Fuuka Motor** | **5** | 2 | hina motor | [#1](https://osu.ppy.sh/community/matches/109163097) |
+| 3-5 | **geoguessr** | **5** | 3 | blind people | [#1](https://osu.ppy.sh/community/matches/109164190) |
+| 3-20 | **kedama milk** | **5** | 3 | Team | [#1](https://osu.ppy.sh/community/matches/109182705) |
 | 3-9 | Spacediver | 2 | **5** | **hina motor** | [#1](https://osu.ppy.sh/community/matches/109165166) |
 
 Sunday, 25 June 2023:
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 3-7 | blind people | 4 | 4 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/109181363) |
+| 3-3 | Tingyun Motor | 1 | **5** | **maimai** | [#1](https://osu.ppy.sh/community/matches/109182233) |
 | 3-12 | **ryowari da** | **5** | 1 | TTzida | [#1](https://osu.ppy.sh/community/matches/109177733) |
 | 3-15 | Ang Pogi mo Oodriin | 0 | **5** | **Stelle x Trash Can** | [#1](https://osu.ppy.sh/community/matches/109179339) |
 | 3-17 | Banana | 4 | 4 | Chicken Rice | [#1](https://osu.ppy.sh/community/matches/109179398) |
 | 3-6 | **Schale** | **5** | 1 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/109177736) |
+| 3-8 | **Spacediver** | **5** | 2 | Fuuka Motor | [#1](https://osu.ppy.sh/community/matches/109162442) |
 | 3-16 | **Stelle x Trash Can** | **5** | 3 | Mika Motor | [#1](https://osu.ppy.sh/community/matches/109180113) |
+| 3-2 | **Kisaki Motor** | **5** | 1 | maimai | [#1](https://osu.ppy.sh/community/matches/109180501) |
 | 3-13 | Ang Pogi mo Oodriin | 4 | 4 | TTzida | [#1](https://osu.ppy.sh/community/matches/109180078) |
+| 3-11 | ryowari da | 4 | 4 | Kageno | [#1](https://osu.ppy.sh/community/matches/109180904) |
+| 3-1 | Kisaki Motor | 3 | **5** | **Tingyun Motor** | [#1](https://osu.ppy.sh/community/matches/109181357) |
 
 #### Swiss week 2
 
