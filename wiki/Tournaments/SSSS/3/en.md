@@ -241,29 +241,53 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 
 ### Swiss round (week 3)
 
-**[Download the mappack here! (76 MB)](https://mappack.yewonkim.tk/download/iuNG59Xn)**
+**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1oOdvlJxYzAB9HHu-CIO9R_2WL1e87JuP/view?usp=sharing)**
 
 - NoMod
-  1. [ChouCho - reincarnation (Enon) \[starting over\]](https://osu.ppy.sh/beatmapsets/1833871#osu/3773824)
-  2. [Xi - Densetsu no Sabori Shinigami \~ Make a quick escape (Toumei Dragon) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1621473#osu/3310526)
-  3. [POLKADOT STINGRAY - Otoshimae (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1301330#osu/2699135)
-  4. [jioyi attacked by mirror - I lost my flp (Felter) \[i lost my petal of wander\]](https://osu.ppy.sh/beatmapsets/2005360#osu/4170562)
-  5. [Feryquitous feat. Aitsuki Nakuru - Tsukuyomi ni Naru (captin1) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/1699172#osu/3471908)  
-  6. [Silver Forest - Tsurupettan (NekuMagetsu) \[Flat Chest\]](https://osu.ppy.sh/beatmapsets/1562683#osu/3191129)      
+  1. [Marcin Maliszewski, Marek Krejzler - Beyblade: Metal Masters - Polish Opening (Wraith) \[5d's UCHWYC GO\]](https://osu.ppy.sh/beatmapsets/1956682#osu/4053406)
+  2. [Leah Kate - 10 Things I Hate About You (Sped Up & Cut Ver.) (Log Off Now) \[Mommy Issues\]](https://osu.ppy.sh/beatmapsets/1881428#osu/3873445)
+  3. [Polyphia - ABC feat. Sophia Black (HinaMommy) \[Wanpachi's aiue(xpert)o\]](https://osu.ppy.sh/beatmapsets/1931669#osu/3997326)
+  4. [xaev - pronoun picker sing berdlycore (wafer) \[Oh Um Oh Uh It It's Oh Well Um Mmm It's How Do I Put This Very... ... Smart\]](https://osu.ppy.sh/beatmapsets/1961676#osu/4129460)
+  5. [Igorrr - Unpleasant Sonata (Sieg) \[Pagli's Sonata\]](https://osu.ppy.sh/beatmapsets/90385#osu/262302)       
 - Hidden
-  1. [Kuhaku Gokko - Lil'b (Petal) \[Inexplicable\]](https://osu.ppy.sh/beatmapsets/1561567#osu/3189187)
-  2. [ELFENSJoN - DAWN (Kuro Fuyusaki) \[Eternity\]](https://osu.ppy.sh/beatmapsets/2002634#osu/4164614)
+  1. [IOSYS - Qualia (wetdog123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1213880#osu/2526517)
+  2. [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/25922#osu/87728)
 - HardRock
-  1. [LiSA - traumerei (Wen) \[Revitalizing Love\]](https://osu.ppy.sh/beatmapsets/1821202#osu/3736979)
-  2. [James Landino - Arsene's Bazaar (allein) \[Expert\]](https://osu.ppy.sh/beatmapsets/1972126#osu/4092128)
+  1. [NewJeans - Ditto (Nijika Ijichi) \[1e-9\]](https://osu.ppy.sh/beatmapsets/1940274#osu/4011742)
+  2. [Malk De Koijn - Vi Tager Fuglen Paa Dig (waefwerf) \[Strider's Insane\]](https://osu.ppy.sh/beatmapsets/1143263#osu/2410524)
 - DoubleTime
-  1. [JUNNA - Vai! Ya! Vai! (Yohanes) \[Insane\]](https://osu.ppy.sh/beatmapsets/1088269#osu/2275555)
-  2. [Tsukino - Dohna Dohna no Uta (gazimal) \[Koori's Insane\]](https://osu.ppy.sh/beatmapsets/1459224#osu/3082198)
-  3. [Maon Kurosaki - Magic World (Dada) \[Continuum\]](https://osu.ppy.sh/beatmapsets/1833693#osu/3764472)
+  1. [Hanyuu Miina - Koi Dayori (Iceluin) \[Love Letter\]](https://osu.ppy.sh/beatmapsets/1966286#osu/4077338)
+  2. [Tomoya Ohtani - Undefeatable (feat. Kellin Quinn) (Voli) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/1892271#osu/3900704)
+  3. [Lia - Light colors (azuki) \[Alazy\]](https://osu.ppy.sh/beatmapsets/7124#osu/32233)
 - FreeMod
-  1. [ZUN feat. Lady Gaga - Night of Gaga (SapphireGhost) \[Gaga\]](https://osu.ppy.sh/beatmapsets/27320#osu/91674)
-  2. [KAMELOT - Veil of Elysium (LMT) \[ar9\]](https://osu.ppy.sh/beatmapsets/1252853#osu/2761040)
-  3. [kessoku band - Seiza ni Naretara (TV Size) (Mizunashi Akari) \[LIVE at Shukasai (Extra)\]](https://osu.ppy.sh/beatmapsets/1919446#osu/3962346)  
+  1. [Tsukino x Kurousagi Uru - Mental Chainsaw (MuChin) \[Paranoid\]](https://osu.ppy.sh/beatmapsets/1806660#osu/3705040)
+  2. [IOSYS - Alice wa Taihen na Kashi Wo Urooboe Deshita (Zekira) \[DJWho?\]](https://osu.ppy.sh/beatmapsets/11076#osu/42683)
+  3. [15 Voices - Non-breath oblige (Delis) \[allein's no slider extra\]](https://osu.ppy.sh/beatmapsets/1919446#osu/3962346)
+
+### Swiss round (week 2)
+
+**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1oOdvlJxYzAB9HHu-CIO9R_2WL1e87JuP/view?usp=sharing)**
+
+- NoMod
+  1. [Marcin Maliszewski, Marek Krejzler - Beyblade: Metal Masters - Polish Opening (Wraith) \[5d's UCHWYC GO\]](https://osu.ppy.sh/beatmapsets/1956682#osu/4053406)
+  2. [Leah Kate - 10 Things I Hate About You (Sped Up & Cut Ver.) (Log Off Now) \[Mommy Issues\]](https://osu.ppy.sh/beatmapsets/1881428#osu/3873445)
+  3. [Polyphia - ABC feat. Sophia Black (HinaMommy) \[Wanpachi's aiue(xpert)o\]](https://osu.ppy.sh/beatmapsets/1931669#osu/3997326)
+  4. [xaev - pronoun picker sing berdlycore (wafer) \[Oh Um Oh Uh It It's Oh Well Um Mmm It's How Do I Put This Very... ... Smart\]](https://osu.ppy.sh/beatmapsets/1961676#osu/4129460)
+  5. [Igorrr - Unpleasant Sonata (Sieg) \[Pagli's Sonata\]](https://osu.ppy.sh/beatmapsets/90385#osu/262302)       
+- Hidden
+  1. [IOSYS - Qualia (wetdog123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1213880#osu/2526517)
+  2. [Swan Lake Orchestra - Hakuchou no Mizuumi (AngelHoney) \[Another\]](https://osu.ppy.sh/beatmapsets/25922#osu/87728)
+- HardRock
+  1. [NewJeans - Ditto (Nijika Ijichi) \[1e-9\]](https://osu.ppy.sh/beatmapsets/1940274#osu/4011742)
+  2. [Malk De Koijn - Vi Tager Fuglen Paa Dig (waefwerf) \[Strider's Insane\]](https://osu.ppy.sh/beatmapsets/1143263#osu/2410524)
+- DoubleTime
+  1. [Hanyuu Miina - Koi Dayori (Iceluin) \[Love Letter\]](https://osu.ppy.sh/beatmapsets/1966286#osu/4077338)
+  2. [Tomoya Ohtani - Undefeatable (feat. Kellin Quinn) (Voli) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/1892271#osu/3900704)
+  3. [Lia - Light colors (azuki) \[Alazy\]](https://osu.ppy.sh/beatmapsets/7124#osu/32233)
+- FreeMod
+  1. [Tsukino x Kurousagi Uru - Mental Chainsaw (MuChin) \[Paranoid\]](https://osu.ppy.sh/beatmapsets/1806660#osu/3705040)
+  2. [IOSYS - Alice wa Taihen na Kashi Wo Urooboe Deshita (Zekira) \[DJWho?\]](https://osu.ppy.sh/beatmapsets/11076#osu/42683)
+  3. [15 Voices - Non-breath oblige (Delis) \[allein's no slider extra\]](https://osu.ppy.sh/beatmapsets/1919446#osu/3962346)    
 
 ## Match results
 
