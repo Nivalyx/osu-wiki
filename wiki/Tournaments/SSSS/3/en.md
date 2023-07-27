@@ -439,6 +439,12 @@ Thursday, 15 July 2023:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 2-6 | Kageno | 0 | **5** | **maimai** | [#1](https://osu.ppy.sh/community/matches/109014554) |
 
+Friday, 16 July 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 2-3 | **Tingyun Motor** | **5** | 3 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/109031407) |
+
 #### Swiss week 1
 
 Thursday, 8 June 2023:
