@@ -438,14 +438,36 @@ Thursday, 8 June 2023:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 1-15 | **blind people** | **5** | 3 | Stelle x Trash Can | [#1](https://osu.ppy.sh/community/matches/108898547) |
+| 1-3 | **Rumah Makan Padang** | **5** | 0 | Chicken Rice | [#1](https://osu.ppy.sh/community/matches/108948102) |
 
 Saturday, 10 June 2023:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 1-13 | geoguessr | 0 | **5** | **Spacediver** | [#1](https://osu.ppy.sh/community/matches/108932554) |
+| 1-15 | **blind people** | **5** | 3 | Stelle x Trash Can | [#1](https://osu.ppy.sh/community/matches/108898547) |
 | 1-5 | ryowari da | 4 | 4 | hina motor | [#1](https://osu.ppy.sh/community/matches/108928577) |
+| 1-8 | Ang Pogi mo Oodriin | 0 | **5** | **Mika Motor** | [#1](https://osu.ppy.sh/community/matches/108932632) |
+| 1-6 | hina motor | 1 | **5** | **Kageno** | [#1](https://osu.ppy.sh/community/matches/108932985) |
+| 1-18 | **Kisaki Motor** | **5** | 1 | Team | [#1](https://osu.ppy.sh/community/matches/108933545) |
+| 1-12 | Banana | 1 | **5** | **geoguessr** | [#1](https://osu.ppy.sh/community/matches/108933472) |
+| 1-14 | **Spacediver** | **5** | 0 | blind people | [#1](https://osu.ppy.sh/community/matches/108934656) |
+| 1-7 | Kageno | 4 | 4 | Ang Pogi mo Oodriin | [#1](https://osu.ppy.sh/community/matches/108934769) |
+| 1-1 | Fuuka Motor | 3 | **5** | **maimai** | [#1](https://osu.ppy.sh/community/matches/108935940) |
+| 1-16 | Stelle x Trash Can | 2 | **5** | **Schale** | [#1](https://osu.ppy.sh/community/matches/108946964) |
+
+Sunday, 11 June 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 1-20 | **Tingyun Motor** | **5** | 1 | Fuuka Motor | [#1](https://osu.ppy.sh/community/matches/108951643) |
+| 1-14 | TTZida | 4 | 4 | Banana | [#1](https://osu.ppy.sh/community/matches/108947523) |
+| 1-17 | Mika Motor | 3 | **5** | **kedama milk** | [#1](https://osu.ppy.sh/community/matches/108951482) |
+| 1-17 | Schale | 3 | **5** | **kisaki motor** | [#1](https://osu.ppy.sh/community/matches/108948097) |
+| 1-4 | **Chicken Rice** | **5** | 3 | ryowari da | [#1](https://osu.ppy.sh/community/matches/108951470) |
+| 1-19 | Team | 1 | **5** | **Tingyun Motor** | [#1](https://osu.ppy.sh/community/matches/108949803) |
+| 1-2 | maimai | 4 | 4 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/108952598) |
+| 1-10 | kedama milk | 3 | **5** | **TTZida** | [#1](https://osu.ppy.sh/community/matches/108948106) |
 
 ## Ruleset
 
