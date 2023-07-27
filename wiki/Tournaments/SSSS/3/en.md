@@ -597,7 +597,7 @@ Sunday, 11 June 2023:
 2. The tournament management reserves the right to decline players who are [blacklisted from SSSS](https://cdn.discordapp.com/attachments/548378597476532236/1134159205897601174/image.png) due to their misconduct in previous South East Asia regional tournaments (including, but not limited to, [oSEAT 5](/wiki/Tournaments/oSEAT/5) and [UCUP 2022](/wiki/Tournaments/UCUP/2022)) from competing.     
 3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 4. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
-5. As the tournament features no Qualifiers, only the **top 144 players tournament based on their [BWS rank](wiki/Tournaments/Badge-weighted_seeding)** will be admitted into the tournament.
+5. As the tournament features no Qualifiers, only the **top 144 players** based on their [BWS rank](wiki/Tournaments/Badge-weighted_seeding) will be admitted into the tournament.
 6. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Team matchmaking
