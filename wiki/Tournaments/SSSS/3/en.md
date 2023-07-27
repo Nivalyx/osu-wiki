@@ -590,7 +590,7 @@ Sunday, 11 June 2023:
 
 ### Tournament registration
 
-1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/xzFzErPtCe989xHY6).
+1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/E4R7kvcUED4r2bSGA).
    - In order to be eligible to play in the tournament, a player must:
      - Have the flag of any of the ten ASEAN member states (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) displayed on their profile. ***or***
      - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
