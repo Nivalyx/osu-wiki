@@ -594,9 +594,12 @@ Sunday, 11 June 2023:
    - In order to be eligible to play in the tournament, a player must:
      - Have the flag of any of the ten ASEAN member states (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) displayed on their profile. ***or***
      - Be in possession of a valid primary national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
-2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
-3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
-4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
+2. The tournament management reserves the right to decline players who are [listed in the SSSS blacklist](https://cdn.discordapp.com/attachments/548378597476532236/1134159205897601174/image.png) from competing.     
+3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
+4. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
+5. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
+
+### Team matchmaking
 
 ### Round-specific rules
 
