@@ -412,6 +412,11 @@ Sunday, 2 July 2023:
 | 13 | Banana | 2.5 | 1 | 3 | 2 | -3 |
 | 14 | Kageno | 2.5 | 1 | 3 | 2 | -5 |
 | 15 | TTZida | 2 | 1 | 2 | 3 | -11[^three-way-tie-note] |
+| 16 | Ang Pogi mo Oodriin | 2 | 1 | 2 | 3 | -11[^three-way-tie-note] |
+| 17 | kedama milk | 2 | 2 | 0 | 4 | -11[^three-way-tie-note] |
+| 18 | Mika Motor | 1.5 | 1 | 1 | 4 | -8 |
+| 19 | Chicken Rice | 1.5 | 1 | 1 | 4 | -11 |
+| 20 | Team | 1 | 1 | 0 | 5 | -16 |
 
 #### Swiss week 3
 
