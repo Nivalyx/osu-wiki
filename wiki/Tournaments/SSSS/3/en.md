@@ -403,7 +403,10 @@ Sunday, 2 July 2023:
 | 4 | maimai | 4.5 | 4 | 1 | 1 | +12 |
 | 5 | geoguessr | 4 | 4 | 0 | 2 | +6 |
 | 6 | blind people | 3.5 | 3 | 1 | 2 | +3 |
-| 7 | Spacediver | 3 | 3 | 3 | 0 | +4 |
+| 7 | Spacediver | 3 | 3 | 0 | 3 | +4 |
+| 8 | Stelle x Trash Can | 3 | 3 | 0 | 3 | +3 |
+| 9 | Rumah Makan Padang | 3 | 2 | 2 | 2 | +3 |
+| 10 | Fuuka Motor | 3 | 3 | 0 | 3 | +1 |
 
 #### Swiss week 3
 
