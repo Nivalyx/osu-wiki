@@ -434,10 +434,18 @@ Sunday, 2 July 2023:
 
 #### Swiss week 1
 
-Sunday, 2 July 2023:
+Thursday, 8 June 2023:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| 1-15 | **blind people** | **5** | 3 | Stelle x Trash Can | [#1](https://osu.ppy.sh/community/matches/108898547) |
+
+Saturday, 10 June 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 1-13 | geoguessr | 0 | **5** | **Spacediver** | [#1](https://osu.ppy.sh/community/matches/108932554) |
+| 1-5 | ryowari da | 4 | 4 | hina motor | [#1](https://osu.ppy.sh/community/matches/108928577) |
 
 ## Ruleset
 
