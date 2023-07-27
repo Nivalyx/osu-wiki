@@ -212,34 +212,34 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 
 ### Round of 16
 
-**[Download the mappack here! (153 MB)](https://mappack.yewonkim.tk/download/JoR2CVSZ)**
+**[Download the mappack here! (152 MB)](https://drive.google.com/file/d/1IhkNT52D7Xl-ND-jAR9k6lFwE4FAxURA/view?usp=sharing)**
 
 - NoMod
-  1. [Ranji x Omiki - Psycho (Remix) ft. Aviva (-Inyafaze-) \[2nd Drop\]](https://osu.ppy.sh/beatmapsets/1409610#osu/2935638)
-  2. [yuikonnu - Gigantic O.T.N (Camo) \[Climax\]](https://osu.ppy.sh/beatmapsets/1362797#osu/2819481)
-  3. [LiSA - REALiZE (Pepekcz) \[Spider-Verse N°42\]](https://osu.ppy.sh/beatmapsets/2010962#osu/4184551)
-  4. [nora2r - Memory Of Sunrise (KogumaX) \[Genshin Impact\]](https://osu.ppy.sh/beatmapsets/1503674#osu/3080649)
-  5. [will.i.am - \#thatPOWER feat. Justin Bieber (Woey) \[\#thatINSANE\]](https://osu.ppy.sh/beatmapsets/1995162#osu/4146360)  
-  6. [Yakushimaru Etsuko - I'm Humanity (DeppyForce) \[ATATCCGGGAATTGATATGTACAATTTCGGATAGGCCCATTAATGGATTAACAATGAATTTCGGACCTACGCAGGCTAAA\]](https://osu.ppy.sh/beatmapsets/1945582#osu/4025180)    
+  1. [katagiri - ch3rry (Julaaaan) \[Big Bloom\]](https://osu.ppy.sh/beatmapsets/1620594#osu/3308920)
+  2. [cosMo@BousouP feat. Hatsune Miku - Hyper LATiON (-Tynamo) \[Expert\]](https://osu.ppy.sh/beatmapsets/1281410#osu/4126156)
+  3. [EZFG - Hurting for a Very Hurtful Pain (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/46848#osu/145669)
+  4. [Wowkie Zhang - Yang Guang Cai Hong Xiao Bai Ma (JustALeaf) \[the good\]](https://osu.ppy.sh/beatmapsets/1351033#osu/2797076)
+  5. [Feryquitous feat. Aitsuki Nakuru - Tsukuyomi ni Naru (captin1) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/1699172#osu/3471908)  
+  6. [Silver Forest - Tsurupettan (NekuMagetsu) \[Flat Chest\]](https://osu.ppy.sh/beatmapsets/1562683#osu/3191129)    
 - Hidden
-  1. [Crystal Castles - Vietnam (Spork Lover) \[A journey to a sinister past\]](https://osu.ppy.sh/beatmapsets/1015980#osu/2126494)
-  2. [x0o0x\_ - '''''' (Ryuusei Aika) \[....\]](https://osu.ppy.sh/beatmapsets/1922665#osu/3968917)
-  3. [Rohi - Virtual Angel (verychill) \[Extra\]](https://osu.ppy.sh/beatmapsets/2014090#osu/4195129)  
+  1. [Minato Aqua - Take Over (09kami) \[buhei & Yoshino's Collab Extra\]](https://osu.ppy.sh/beatmapsets/1286115#osu/2671440)
+  2. [subeteanatanoseidesu. - N (wafer) \[ii\]](https://osu.ppy.sh/beatmapsets/1909071#osu/3937516)
+  3. [Maoto Naka - Chicken Game (Chris Jasorka) \[Don't look at this Chicken\]](https://osu.ppy.sh/beatmapsets/1764011#osu/3610547)  
 - HardRock
-  1. [Chikamori Kayako - Kigurumi Sungeki (Mirash) \[KogumaX's Extra\]](https://osu.ppy.sh/beatmapsets/1312079#osu/2921013)
-  2. [Islet - Yukidoke (feat. isui) (\_Epreus) \[apart\]](https://osu.ppy.sh/beatmapsets/1963156#osu/4068898)
-  3. [Crazy Frog - Axel F (TV Size) (Mismagius) \[Epic Win\]](https://osu.ppy.sh/beatmapsets/1264993#osu/2629059)
+  1. [Hatsune Miku - FINGERCONTROL SPEED BENCHMARK (Seamob) \[227 (+DT 340)\]](https://osu.ppy.sh/beatmapsets/1850180#osu/3800698)
+  2. [Monster Siren Records - Magic Theorem (CebollaVladimir) \[A theorem of a fantasy\]](https://osu.ppy.sh/beatmapsets/1856763#osu/3816056)
+  3. [Nanahira - Pasta Scat (Snow Note) \[Snother\]](https://osu.ppy.sh/beatmapsets/1426422#osu/2937351)
 - DoubleTime
-  1. [King Gnu - Sakayume (godhorsekun) \[Masayume\]](https://osu.ppy.sh/beatmapsets/1666570#osu/3402870)
-  2. [Cuvelia - Tenkuu no Yoake (THORWAVE) \[Insane\]](https://osu.ppy.sh/beatmapsets/1715521#osu/3505346)
-  3. [mikeneko - drop (Rentia) \[rushtai\]](https://osu.ppy.sh/beatmapsets/1925910#osu/3985150)
-  4. [Renegade Masterz - Nasty Girl (Nightcore Mix) (ztrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/23940#osu/81668)
+  1. [Scop - Irony (Siae) \[baka ar9\]](https://osu.ppy.sh/beatmapsets/638444#osu/2207037)
+  2. [Feryquitous - Ordirehv (JeZag) \[Insane\]](https://osu.ppy.sh/beatmapsets/935602#osu/2154187)
+  3. [KARUT - Glitch Street (Shurelia) \[Kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1817644#osu/3783845)
+  4. [RURUTIA - Little in my Little (Deppyforce) \[Score Synthesis\]](https://osu.ppy.sh/beatmapsets/2009979#osu/4182223)
 - FreeMod
-  1. [Chisanahana - BREAKTHE\*\*\*\*\*\*\*WORLD (verychill) \[EX\*\*\*\*\*\*\*TRA\]](https://osu.ppy.sh/beatmapsets/1985468#osu/4124003)
-  2. [Kashii Moimi feat. KAFU - Cat loving (covered by Kotoha) (FlasTEH) \[tu prends ta hd2 (covered by Kotoha)\]](https://osu.ppy.sh/beatmapsets/1888538#osu/3889378)
-  3. [Nhato - Magic (Azer) \[Harmonious\]](https://osu.ppy.sh/beatmapsets/371315#osu/813588)
+  1. [ZUN feat. Lady Gaga - Night of Gaga (SapphireGhost) \[Gaga\]](https://osu.ppy.sh/beatmapsets/27320#osu/91674)
+  2. [KAMELOT - Veil of Elysium (LMT) \[ar9\]](https://osu.ppy.sh/beatmapsets/1252853#osu/2761040)
+  3. [kessoku band - Seiza ni Naretara (TV Size) (Mizunashi Akari) \[LIVE at Shukasai (Extra)\]](https://osu.ppy.sh/beatmapsets/1919446#osu/3962346)
 
-### Qualifiers
+### Swiss round (week 3)
 
 **[Download the mappack here! (76 MB)](https://mappack.yewonkim.tk/download/iuNG59Xn)**
 
@@ -248,6 +248,8 @@ Listed below are the teams participating in SSSS 3 along with their respective t
   2. [Xi - Densetsu no Sabori Shinigami \~ Make a quick escape (Toumei Dragon) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1621473#osu/3310526)
   3. [POLKADOT STINGRAY - Otoshimae (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1301330#osu/2699135)
   4. [jioyi attacked by mirror - I lost my flp (Felter) \[i lost my petal of wander\]](https://osu.ppy.sh/beatmapsets/2005360#osu/4170562)
+  5. [Feryquitous feat. Aitsuki Nakuru - Tsukuyomi ni Naru (captin1) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/1699172#osu/3471908)  
+  6. [Silver Forest - Tsurupettan (NekuMagetsu) \[Flat Chest\]](https://osu.ppy.sh/beatmapsets/1562683#osu/3191129)      
 - Hidden
   1. [Kuhaku Gokko - Lil'b (Petal) \[Inexplicable\]](https://osu.ppy.sh/beatmapsets/1561567#osu/3189187)
   2. [ELFENSJoN - DAWN (Kuro Fuyusaki) \[Eternity\]](https://osu.ppy.sh/beatmapsets/2002634#osu/4164614)
@@ -258,6 +260,10 @@ Listed below are the teams participating in SSSS 3 along with their respective t
   1. [JUNNA - Vai! Ya! Vai! (Yohanes) \[Insane\]](https://osu.ppy.sh/beatmapsets/1088269#osu/2275555)
   2. [Tsukino - Dohna Dohna no Uta (gazimal) \[Koori's Insane\]](https://osu.ppy.sh/beatmapsets/1459224#osu/3082198)
   3. [Maon Kurosaki - Magic World (Dada) \[Continuum\]](https://osu.ppy.sh/beatmapsets/1833693#osu/3764472)
+- FreeMod
+  1. [ZUN feat. Lady Gaga - Night of Gaga (SapphireGhost) \[Gaga\]](https://osu.ppy.sh/beatmapsets/27320#osu/91674)
+  2. [KAMELOT - Veil of Elysium (LMT) \[ar9\]](https://osu.ppy.sh/beatmapsets/1252853#osu/2761040)
+  3. [kessoku band - Seiza ni Naretara (TV Size) (Mizunashi Akari) \[LIVE at Shukasai (Extra)\]](https://osu.ppy.sh/beatmapsets/1919446#osu/3962346)  
 
 ## Match results
 
