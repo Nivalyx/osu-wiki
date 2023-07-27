@@ -287,7 +287,32 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 - FreeMod
   1. [katagiri - Scattered Pancakes (Saika0k1) \[Pancake Batter\]](https://osu.ppy.sh/beatmapsets/1530055#osu/3129616)
   2. [Tu Tu Wan - Jin Ke La Mei Ri Fei K Ge Jin Qu CD (Pata-Mon) \[Kela-Mon\]](https://osu.ppy.sh/beatmapsets/1246036#osu/2590006)
-  3. [1Mitsukiyo - Hifumi Daisuki (Setu) \[Kyuuteurre's Extraordinary\]](https://osu.ppy.sh/beatmapsets/1883263#osu/3899162)    
+  3. [Mitsukiyo - Hifumi Daisuki (Setu) \[Kyuuteurre's Extraordinary\]](https://osu.ppy.sh/beatmapsets/1883263#osu/3899162)
+
+### Swiss round (week 1)
+
+**[Download the mappack here! (136 MB)](https://drive.google.com/file/d/1M5Nr6XOymrwhy4XJDjDwf5JyAtjbiGO1/view?usp=sharing)**
+
+- NoMod
+  1. [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[Lami x lit120's Extra\]](https://osu.ppy.sh/beatmapsets/902425#osu/1947619)
+  2. [Feint - Tower Of Heaven (You Are Slaves) (eLy) \[Heaven\]](https://osu.ppy.sh/beatmapsets/128931#osu/845391)
+  3. [Criticrista - Kyu Kyu Kyun Heart Shaker (TV Size) (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1449815#osu/2980818)
+  4. [REOL - VIORA (Sparhten) \[Addiction\]](https://osu.ppy.sh/beatmapsets/989745#osu/2070365)
+  5. [Minstrel - Yotogibanashi no Kamikakushi (Ryuusei Aika) \[Garden's Expert\]](https://osu.ppy.sh/beatmapsets/1900605#osu/3917717)       
+- Hidden
+  1. [ELECTROCUTICA feat. EVO+ - Moon Seeker (Lulu-) \[Lulu x Bonzi — Pulsation\]](https://osu.ppy.sh/beatmapsets/1235544#osu/2568398)
+  2. [Kali Uchis - telepatia (mnyui) \[my bed is empty\]](https://osu.ppy.sh/beatmapsets/1575809#osu/3217272)
+- HardRock
+  1. [senya - Iro wa Jou e to Izanau (Okoratu) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1579161#osu/3224505)
+  2. [Pastel\*Palettes - Happy Synthesizer (ktgster) \[Expert\]](https://osu.ppy.sh/beatmapsets/932654#osu/1989147)
+- DoubleTime
+  1. [Minami - Kono Machi ni Hare wa Konai (Mimiliaa) \[Shady's Insane\]](https://osu.ppy.sh/beatmapsets/1683871#osu/3442054)
+  2. [Ryu\* - Sakura Mirage (STARLiGHT Mix) (Jean-Michel Jr) \[gtfo's Light Insane\]](https://osu.ppy.sh/beatmapsets/765795#osu/1610037)
+  3. [U1 overground - Endorphin (Yooh) \[Kalindraz's DIFFICULT\]](https://osu.ppy.sh/beatmapsets/1043723#osu/2257307)
+- FreeMod
+  1. [HOYO-MiX - Termination of Desires (ScubDomino) \[Musou no Hitotachi\]](https://osu.ppy.sh/beatmapsets/1585145#osu/3237780)
+  2. [ginkiha - EOS (Cytusine) \[Extra\]](https://osu.ppy.sh/beatmapsets/1754349#osu/3590175)
+  3. [Isekai Joucho - Kyoukankaku Obake (Calvaria) \[melloe's Desperation\]](https://osu.ppy.sh/beatmapsets/1141909#osu/2385598)     
 
 ## Match results
 
