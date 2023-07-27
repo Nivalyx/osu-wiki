@@ -420,6 +420,25 @@ Sunday, 2 July 2023:
 
 #### Swiss week 3
 
+Sunday, 2 July 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+
+#### Swiss week 2
+
+Sunday, 2 July 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+
+#### Swiss week 1
+
+Sunday, 2 July 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+
 ## Ruleset
 
 ### General rules
