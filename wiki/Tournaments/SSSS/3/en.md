@@ -78,7 +78,7 @@ Listed below are the teams participating in SSSS 3 along with their respective t
 | kedama milk | ::{ flag=TH }:: [-Kedama](https://osu.ppy.sh/users/12147277) | ::{ flag=SG }:: [Armadayeet](https://osu.ppy.sh/users/18974182) | ::{ flag=SG }:: [LDerpy](https://osu.ppy.sh/users/3100799) | ::{ flag=MY }:: **[AkariAoi](https://osu.ppy.sh/users/14067834)** | ::{ flag=MY }:: [GodKnows](https://osu.ppy.sh/users/11058193) | ::{ flag=VN }:: [dngcheng](https://osu.ppy.sh/users/12351533) |
 | kisaki motor | ::{ flag=SG }:: **[Tebi](https://osu.ppy.sh/users/5407620)** | ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694) | ::{ flag=MY }:: [Zygody](https://osu.ppy.sh/users/3677251) | ::{ flag=ID }:: [xHirayuki](https://osu.ppy.sh/users/3245206) | ::{ flag=MY }:: [Blethz](https://osu.ppy.sh/users/11918602) | ::{ flag=MY }:: [Hanami-](https://osu.ppy.sh/users/8703188) |
 | maimai | ::{ flag=SG }:: **[Eagle5324](https://osu.ppy.sh/users/11987104)** | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | ::{ flag=SG }:: [moroha29](https://osu.ppy.sh/users/9182389) | ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681) | ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527) | ::{ flag=VN }:: [smthelse](https://osu.ppy.sh/users/13238121) |
-| Mika Motor | ::{ flag=SG }:: [dlwlrma-](https://osu.ppy.sh/users/7908994) | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | ::{ flag=MY }:: [not\_aweeb](https://osu.ppy.sh/users/9375317) | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/13626098)** | ::{ flag=MY }:: [LITFAM123](https://osu.ppy.sh/users/13584478) | ::{ flag=SG }:: [Touruu](https://osu.ppy.sh/users/9484080) |
+| Mica Motor | ::{ flag=SG }:: [dlwlrma-](https://osu.ppy.sh/users/7908994) | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | ::{ flag=MY }:: [not\_aweeb](https://osu.ppy.sh/users/9375317) | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/13626098)** | ::{ flag=MY }:: [LITFAM123](https://osu.ppy.sh/users/13584478) | ::{ flag=SG }:: [Touruu](https://osu.ppy.sh/users/9484080) |
 | Rumah Makan Padang | ::{ flag=ID }:: **[Daffy](https://osu.ppy.sh/users/5968633)** | ::{ flag=TH }:: [SakaIndy](https://osu.ppy.sh/users/2165622) | ::{ flag=VN }:: [thanh792001](https://osu.ppy.sh/users/10029074) | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | ::{ flag=SG }:: [Robed](https://osu.ppy.sh/users/11258741) | ::{ flag=SG }:: [Baechuu](https://osu.ppy.sh/users/13988393) |
 | ryowari da | ::{ flag=US }:: (::{ flag=PH }::) **[SilenceSuzuka](https://osu.ppy.sh/users/7249644)**[^flag-note] | ::{ flag=PH }:: [Blemishki](https://osu.ppy.sh/users/14664996) | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) | ::{ flag=SG }:: [ProjectGreat](https://osu.ppy.sh/users/15516059) | ::{ flag=SG }:: [Definition](https://osu.ppy.sh/users/7819055) | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) |
 | Schale | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490) | ::{ flag=VN }:: **[Chipperonio](https://osu.ppy.sh/users/13141032)** | ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877) | ::{ flag=VN }:: [MisonoMika](https://osu.ppy.sh/users/16583941) | ::{ flag=SG }:: [hollowknees](https://osu.ppy.sh/users/15195364) |
@@ -372,24 +372,24 @@ Friday, 30 June 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[DeathHydra](https://osu.ppy.sh/users/7457788)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/109260584) |
-| Upper | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | [#1](https://osu.ppy.sh/community/matches/109263529) |
+| Upper | **maimai** | **7** | 2 | ryowari da | [#1](https://osu.ppy.sh/community/matches/109264326) |
 
 Saturday, 1 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[NazunaAmemiya](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/109276960) |
-| Upper | [adyoz](https://osu.ppy.sh/users/2454767) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/109281328) |
-| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/109282423) |
+| Upper | Spacediver | 4 | **7** | **Fuuka Motor** | [#1](https://osu.ppy.sh/community/matches/109278932) |
+| Upper | **Schale** | **7** | 0 | Banana | [#1](https://osu.ppy.sh/community/matches/109281450) |
+| Upper | geoguessr | 4 | **7** | **Kageno** | [#1](https://osu.ppy.sh/community/matches/109279210) |
+| Upper | **blind people** | **7** | 4 | hina motor | [#1](https://osu.ppy.sh/community/matches/109280735) |
+| Upper | **kisaki motor** | **7** | 1 | TTzida | [#1](https://osu.ppy.sh/community/matches/109281388) |
 
 Sunday, 2 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/109294580) |
-| Upper | [rHO](https://osu.ppy.sh/users/1629553) ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **[Anhydrous](https://osu.ppy.sh/users/11272510)** | [#1](https://osu.ppy.sh/community/matches/109296248) |
-| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/109298415) |
+| Upper | Stelle x Trash Can | 6 | **7** | **Rumah Makan Padang** | [#1](https://osu.ppy.sh/community/matches/109297739) |
+| Upper | **Tingyun Motor** | **7** | 2 | Ang Pogi mo Oodriin | [#1](https://osu.ppy.sh/community/matches/109297655) |
 
 ### Swiss round
 
@@ -414,7 +414,7 @@ Sunday, 2 July 2023:
 | 15 | TTzida | 2 | 1 | 2 | 3 | -11[^three-way-tie-note] |
 | 16 | Ang Pogi mo Oodriin | 2 | 1 | 2 | 3 | -11[^three-way-tie-note] |
 | 17 | kedama milk | 2 | 2 | 0 | 4 | -11[^three-way-tie-note] |
-| 18 | Mika Motor | 1.5 | 1 | 1 | 4 | -8 |
+| 18 | Mica Motor | 1.5 | 1 | 1 | 4 | -8 |
 | 19 | Chicken Rice | 1.5 | 1 | 1 | 4 | -11 |
 | 20 | Team | 1 | 1 | 0 | 5 | -16 |
 
@@ -437,7 +437,7 @@ Saturday, 24 June 2023:
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 3-18 | **Banana** | **5** | 2 | kedama milk | [#1](https://osu.ppy.sh/community/matches/109180460) |
-| 3-14 | Kageno | 4 | 4 | Mika Motor | [#1](https://osu.ppy.sh/community/matches/109163121) |
+| 3-14 | Kageno | 4 | 4 | Mica Motor | [#1](https://osu.ppy.sh/community/matches/109163121) |
 | 3-10 | **Fuuka Motor** | **5** | 2 | hina motor | [#1](https://osu.ppy.sh/community/matches/109163097) |
 | 3-5 | **geoguessr** | **5** | 3 | blind people | [#1](https://osu.ppy.sh/community/matches/109164190) |
 | 3-20 | **kedama milk** | **5** | 3 | Team | [#1](https://osu.ppy.sh/community/matches/109182705) |
@@ -453,8 +453,8 @@ Sunday, 25 June 2023:
 | 3-17 | Banana | 4 | 4 | Chicken Rice | [#1](https://osu.ppy.sh/community/matches/109179398) |
 | 3-6 | **Schale** | **5** | 1 | Rumah Makan Padang | [#1](https://osu.ppy.sh/community/matches/109177736) |
 | 3-8 | **Spacediver** | **5** | 2 | Fuuka Motor | [#1](https://osu.ppy.sh/community/matches/109162442) |
-| 3-16 | **Stelle x Trash Can** | **5** | 3 | Mika Motor | [#1](https://osu.ppy.sh/community/matches/109180113) |
-| 3-2 | **kisaki motor** | **5** | 1 | maimai | [#1](https://osu.ppy.sh/community/matches/109180501) |
+| 3-16 | **Stelle x Trash Can** | **5** | 3 | Mica Motor | [#1](https://osu.ppy.sh/community/matches/109180113) |
+| 3-2 | **Kisaki Motor** | **5** | 1 | maimai | [#1](https://osu.ppy.sh/community/matches/109180501) |
 | 3-13 | Ang Pogi mo Oodriin | 4 | 4 | TTzida | [#1](https://osu.ppy.sh/community/matches/109180078) |
 | 3-11 | ryowari da | 4 | 4 | Kageno | [#1](https://osu.ppy.sh/community/matches/109180904) |
 | 3-1 | kisaki motor | 3 | **5** | **Tingyun Motor** | [#1](https://osu.ppy.sh/community/matches/109181357) |
@@ -485,7 +485,7 @@ Saturday, 17 July 2023:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 2-5 | **Rumah Makan Padang** | **5** | 1 | TTzida | [#1](https://osu.ppy.sh/community/matches/109049102) |
 | 2-16 | Banana | 4 | 4 | hina motor | [#1](https://osu.ppy.sh/community/matches/109046237) |
-| 2-9 | Mika Motor | 0 | **5** | **geoguessr** | [#1](https://osu.ppy.sh/community/matches/109046983) |
+| 2-9 | Mica Motor | 0 | **5** | **geoguessr** | [#1](https://osu.ppy.sh/community/matches/109046983) |
 | 2-13 | Chicken Rice | 2 | **5** | **blind people** | [#1](https://osu.ppy.sh/community/matches/109048575) |
 | 2-4 | **kisaki motor** | **5** | 1 | Kageno | [#1](https://osu.ppy.sh/community/matches/109050308) |
 | 2-17 | **hina motor** | **5** | 1 | Ang Pogi mo Oodriin | [#1](https://osu.ppy.sh/community/matches/109049098) |
@@ -500,7 +500,7 @@ Sunday, 18 July 2023:
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 2-20 | **Fuuka Motor** | **5** | 0 | Team | [#1](https://osu.ppy.sh/community/matches/109065079) |
-| 2-8 | Mika Motor | 1 | **5** | **kisaki motor** | [#1](https://osu.ppy.sh/community/matches/109065602) |
+| 2-8 | Mica Motor | 1 | **5** | **kisaki motor** | [#1](https://osu.ppy.sh/community/matches/109065602) |
 | 2-1 | Spacediver | 3 | **5** | **Tingyun Motor** | [#1](https://osu.ppy.sh/community/matches/109065857) |
 | 2-12 | kedama milk | 0 | **5** | **blind people** | [#1](https://osu.ppy.sh/community/matches/109066860) |
 | 2-11 | **Schale** | **5** | 2 | Chicken Rice | [#1](https://osu.ppy.sh/community/matches/109066832) |
@@ -521,7 +521,7 @@ Saturday, 10 June 2023:
 | 1-13 | geoguessr | 0 | **5** | **Spacediver** | [#1](https://osu.ppy.sh/community/matches/108932554) |
 | 1-15 | **blind people** | **5** | 3 | Stelle x Trash Can | [#1](https://osu.ppy.sh/community/matches/108898547) |
 | 1-5 | ryowari da | 4 | 4 | hina motor | [#1](https://osu.ppy.sh/community/matches/108928577) |
-| 1-8 | Ang Pogi mo Oodriin | 0 | **5** | **Mika Motor** | [#1](https://osu.ppy.sh/community/matches/108932632) |
+| 1-8 | Ang Pogi mo Oodriin | 0 | **5** | **Mica Motor** | [#1](https://osu.ppy.sh/community/matches/108932632) |
 | 1-6 | hina motor | 1 | **5** | **Kageno** | [#1](https://osu.ppy.sh/community/matches/108932985) |
 | 1-18 | **Kisaki Motor** | **5** | 1 | Team | [#1](https://osu.ppy.sh/community/matches/108933545) |
 | 1-12 | Banana | 1 | **5** | **geoguessr** | [#1](https://osu.ppy.sh/community/matches/108933472) |
@@ -536,7 +536,7 @@ Sunday, 11 June 2023:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 1-20 | **Tingyun Motor** | **5** | 1 | Fuuka Motor | [#1](https://osu.ppy.sh/community/matches/108951643) |
 | 1-14 | TTzida | 4 | 4 | Banana | [#1](https://osu.ppy.sh/community/matches/108947523) |
-| 1-17 | Mika Motor | 3 | **5** | **kedama milk** | [#1](https://osu.ppy.sh/community/matches/108951482) |
+| 1-17 | Mica Motor | 3 | **5** | **kedama milk** | [#1](https://osu.ppy.sh/community/matches/108951482) |
 | 1-17 | Schale | 3 | **5** | **kisaki motor** | [#1](https://osu.ppy.sh/community/matches/108948097) |
 | 1-4 | **Chicken Rice** | **5** | 3 | ryowari da | [#1](https://osu.ppy.sh/community/matches/108951470) |
 | 1-19 | Team | 1 | **5** | **Tingyun Motor** | [#1](https://osu.ppy.sh/community/matches/108949803) |
