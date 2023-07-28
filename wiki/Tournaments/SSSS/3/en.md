@@ -609,7 +609,7 @@ Sunday, 11 June 2023:
    - #97 - #144: Seed C
 2. During the team matchmaking stream, players will be assigned into twenty different teams at random with each team consisting of one Seed S player, one seed A player, two seed B players, and two seed C players respectively.
 3. All teams are required to nominate a player as their captain and submit a team name to the tournament management within one week of the team matchmaking stream.
-   - Picking a team name is not allowed.
+   - Picking an inappropriate team name is not allowed.
 
 ### Round-specific rules
 
