@@ -629,7 +629,7 @@ Sunday, 11 June 2023:
    - Number of wins
    - Sum of wins of the tied team’s opponents
    - The result of an extra play-off match (if needed)
-6. Forfeiting a match will be treated as an instant loss with -5 maps difference.   
+6. Forfeiting a match will be treated as an instant loss with -5 maps difference to the forfeiting team's name.   
 7. The top 16 teams based on the Swiss round standings will advance into the knock-out stage.
 
 #### Knock-out stage rules
