@@ -646,7 +646,7 @@ Sunday, 11 June 2023:
 4. Players who can compete in the next round are determined by:
    - In the the Round of 16, the Quarterfinals,and the Semifinals, each team needs to win 7 points in order to win a match. (Best of 13)
    - In both of the Finals weeks, excluding the Grand Final match, each team needs to win 8 points in order to win a match. (Best of 15)
-   - In the Grand Final match, each player needs to win 9 points in order to win a match (Best of 17) with the winner of the upper bracket given a 2-points advantage at the start of the amtch.
+   - In the Grand Final match, each player needs to win 9 points in order to win a match (Best of 17) with the winner of the upper bracket given a 2-points advantage at the start of the match.
    - Whether there are teams who are declared to win the match by default.
    - Whether there are teams who are disqualified from the tournament.
 
