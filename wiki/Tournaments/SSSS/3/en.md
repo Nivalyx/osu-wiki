@@ -656,7 +656,7 @@ Sunday, 11 June 2023:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
 2. Each team has to ban **one beatmap** prior to the start of the match and **one other beatmap** prior to the third round of picks (that are yet to be banned or picked at that point) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
-3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking to warm up before the match are expected to do so by their own before the match commences.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players and teams who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, HardRock, Hidden, or any possible combinations of the three mods.
    - Playing a FreeMod pick without any mods applied is not allowed.
    - Players opting to play with Easy will have their scores multiplied by `x1.85` up to a maximum of 900,000 points.
