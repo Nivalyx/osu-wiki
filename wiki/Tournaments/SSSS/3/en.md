@@ -655,14 +655,13 @@ Sunday, 11 June 2023:
 1. Each team captain must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
-2. Each player has to ban **one beatmap** (on the Round of 16) and **two beatmaps** (from the Quarterfinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
-   - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
-   - Banning does not apply in the Qualifier lobbies.
+2. Each team has to ban **one beatmap** prior to the start of the match and **one other beatmap** prior to the third round of picks (that are yet to be banned or picked at that point) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, HardRock, Hidden, or any possible combinations of the three mods.
    - Playing a FreeMod pick without any mods applied is not allowed.
    - Players opting to play with Easy will have their scores multiplied by `x1.85` up to a maximum of 900,000 points.
-5. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with Easy, HardRock, Hidden, or any possible combinations of the three mods should they wish to.
+5. The tiebreaking system works as follows:
+   - In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with Easy, HardRock, Hidden, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
