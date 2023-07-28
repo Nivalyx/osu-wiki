@@ -630,16 +630,18 @@ Sunday, 11 June 2023:
    - Sum of wins of the tied team’s opponents
    - The result of an extra play-off match (if needed)
 6. Forfeiting a match will be treated as an instant loss with -5 maps difference.   
-5. The top 16 teams based on the Swiss round standings will advance into the knock-out stage.
+7. The top 16 teams based on the Swiss round standings will advance into the knock-out stage.
 
 #### Knock-out stage rules
 
-1. The 16 teams who managed to get through from the Swiss round will be matched to each other based on their Qualifier seeding.
-2. Players will compete against each other using the double-elimination system.
+1. The 16 teams who managed to get through from the Swiss round will be matched to each other based on the following system:
+   - The top 4 teams in order will be given the first choice to pick their Round of 16 opponent among the 9th-16th place teams.
+   - The 5th-8th placed teams will then be faced against the unchosen teams based on reverse placement order in the Round of 16.
+2. Teams will compete against each other using the double-elimination system.
 3. The double-elimination system works as follows:
-   - Players who lose in the upper bracket can still play again in the lower bracket.
-   - Players who lose in the lower bracket will be eliminated from the tournament.
-   - In the Grand Final, the winner of the the upper bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* against their opponent in order to claim the championship title.
+   - Teams who lose in the upper bracket can still play again in the lower bracket.
+   - Teams who lose in the lower bracket will be eliminated from the tournament.
+   - In the Grand Final, the winner of the upper bracket will be given a 2-points advantage against the winner of the lower bracket. **There will be no bracket reset in the tournament**.
 4. Players who can compete in the next round are determined by:
    - In the the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
    - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
