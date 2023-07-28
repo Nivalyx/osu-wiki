@@ -616,7 +616,7 @@ Sunday, 11 June 2023:
 #### Swiss round rules
 
 1. The Swiss round will be commenced over the course of three weeks, with each Swiss round week featuring a different mappool.
-2. During each week of the Swiss round, each team will play 2 matches.
+2. During each week, each team will play 2 matches against an opponent determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
 
 #### Knock-out stage rules
 
