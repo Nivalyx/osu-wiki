@@ -615,14 +615,8 @@ Sunday, 11 June 2023:
 
 #### Swiss round rules
 
-1. Each player will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
-2. In the lobby, all players will have to consecutively play all of the eleven Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
-3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
-4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total amount of Z-Score across all eleven Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
-6. 16 players with the **highest Z-Sum value** will advance to the knock-out stages. 
-   - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
-7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+1. The Swiss round will be commenced over the course of three weeks, with each Swiss round week featuring a different mappool.
+2. During each week of the Swiss round, each team will play 2 matches.
 
 #### Knock-out stage rules
 
