@@ -616,19 +616,20 @@ Sunday, 11 June 2023:
 #### Swiss round rules
 
 1. The Swiss round will be commenced over the course of three weeks, with each Swiss round week featuring a different mappool.
-2. During each week, each team will play 2 matches against an opponent determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
-3. Based on their performance in a match, each team will be awarded point that will contribute to their Swiss round standings as follows:
+2. During each week, each team will play 2 matches against opponents determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
+3. The Swiss round features **no tiebreaker**. Instead, when a match reaches 4-4, it will be considered as a *draw*.
+4. Based on their performance in a match, each team will be awarded points that contribute to their Swiss round standings as follows:
    - Winning a match: +1 point
    - Drawing a match: +0.5 points
    - Losing a match: 0 points
-4. Forfeiting a match will count as an instant loss with -5 maps difference.
-4. The Swiss round standings are determined by (in order):
+5. The Swiss round standings are determined by (in order):
    - Points accumulated
    - Maps difference (# of maps won - # of maps lost)
    - Head-to-head records between the tied teams
    - Number of wins
    - Sum of wins of the tied team’s opponents
    - The result of an extra play-off match (if needed)
+6. Forfeiting a match will be treated as an instant loss with -5 maps difference.   
 5. The top 16 teams based on the Swiss round standings will advance into the knock-out stage.
 
 #### Knock-out stage rules
