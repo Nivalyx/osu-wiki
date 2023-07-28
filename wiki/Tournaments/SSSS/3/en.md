@@ -617,8 +617,7 @@ Sunday, 11 June 2023:
 
 1. The Swiss round will be commenced over the course of three weeks with a different mappool for each week.
 2. During each week, each team will play 2 matches against opponents determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
-3. Each match in the Swiss round will only be played to up to 8 maps with **no tiebreaker**.
-   - Winning 
+3. Matches in the Swiss round will only be played until either team scores 5 points or or up to 8 maps at most with **no tiebreakers**.
    - When a match extends to the 4-4 mark, it will be considered as a *draw*.
 4. Based on their performance in a match, each team will be awarded points that go to their Swiss round standings as follows:
    - Winning a match: +1 point
