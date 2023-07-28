@@ -663,7 +663,8 @@ Sunday, 11 June 2023:
     - NoMod is treated as a mod combination of its own, in which NoMod scores will be mutiplied by `x0.7`.
     - For balancing reasons, HardRock along with Hidden+HardRock as well as Easy along with Easy+Hidden are not considered as an unique combination.
 6. The tiebreaking system works as follows:
-    - As the mappool for each stage is tailored so that the tiebreak occurs when there's exactly three maps left, during the tiebreaker, each team captain will be discreetly asked to ban 1 of the 3 remaining available beatmaps from the mappool.
+    - As the mappool for each stage is tailored so that the tiebreak occurs when there's exactly three maps left available to pick, during the tiebreaker, both team captains will be discreetly asked by the referee to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker. 
+    - If both team captains ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining possible maps will be played as the tiebreaker.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
 ## Notes
