@@ -625,10 +625,11 @@ Sunday, 11 June 2023:
    - Number of wins
    - Sum of wins of the tied team’s opponents
    - The result of an extra play-off match (if needed)
+5. Only the Top 16 teams will advance to the next round.
 
 #### Knock-out stage rules
 
-1. The 16 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifier seeding.
+1. The 16 teams who managed to get through from the Swiss round will be matched to each other based on their Qualifier seeding.
 2. Players will compete against each other using the double-elimination system.
 3. The double-elimination system works as follows:
    - Players who lose in the upper bracket can still play again in the lower bracket.
