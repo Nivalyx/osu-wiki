@@ -575,11 +575,11 @@ Sunday, 11 June 2023:
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the tournament management. If there are any players who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
+5. If a team fails to field the required amount of players within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 9. Lag is not a valid reason to nullify a beatmap.
@@ -603,6 +603,11 @@ Sunday, 11 June 2023:
 ### Team matchmaking
 
 1. The 144 players who made it through the registration process will be divided into four seeds based on their [BWS rank](wiki/Tournaments/Badge-weighted_seeding) as follows:
+   - #1 - #24: Seed S
+   - #25 - #48: Seed A
+   - #49 - #96: Seed B
+   - #97 - #144: Seed C
+2. A
 
 ### Round-specific rules
 
