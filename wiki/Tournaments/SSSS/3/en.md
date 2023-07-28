@@ -608,11 +608,12 @@ Sunday, 11 June 2023:
    - #49 - #96: Seed B
    - #97 - #144: Seed C
 2. During the team matchmaking stream, players will be assigned into twenty different teams at random with each team consisting of one Seed S player, one seed A player, two seed B players, and two seed C players respectively.
-3. All teams are required to designate a captain and submit a team name to the tournament management within one week of the team matchmaking stream. 
+3. All teams are required to nominate a player as their captain and submit a team name to the tournament management within one week of the team matchmaking stream.
+   - Picking a team name is not allowed.
 
 ### Round-specific rules
 
-#### Qualifier rules
+#### Swiss round rules
 
 1. Each player will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
 2. In the lobby, all players will have to consecutively play all of the eleven Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
