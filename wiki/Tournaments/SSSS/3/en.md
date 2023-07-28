@@ -663,8 +663,7 @@ Sunday, 11 June 2023:
    - NoMod is treated as a mod combination of its own, in which NoMod scores will be mutiplied by `x0.7`.
    - For balancing reasons, HardRock along with Hidden+HardRock as well as Easy along with Easy+Hidden are not considered as an unique combination.
 6. The tiebreaking system works as follows:
-   - In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with Easy, HardRock, Hidden, or any possible combinations of the three mods should they wish to.
-   - Playing the tiebreaker map with a mod is *not* mandatory.
+   - As the mappool for each stage is tailored so that
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
 ## Notes
