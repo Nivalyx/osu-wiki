@@ -644,18 +644,17 @@ Sunday, 11 June 2023:
    - Teams who lose in the lower bracket will be eliminated from the tournament.
    - In the Grand Final, the winner of the upper bracket will be given a 2-points advantage against the winner of the lower bracket. **There will be no bracket reset in the tournament**.
 4. Players who can compete in the next round are determined by:
-   - In the the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
-   - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
-   - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
-   - Whether there are players who are declared to win the match by default.
-   - Whether there are players who are disqualified from the tournament.
+   - In the the Round of 16, the Quarterfinals,and the Semifinals, each team needs to win 7 points in order to win a match. (Best of 13)
+   - In both of the Finals weeks, excluding the Grand Final match, each team needs to win 8 points in order to win a match. (Best of 15)
+   - In the Grand Final match, each player needs to win 9 points in order to win a match (Best of 17) with the winner of the upper bracket given a 2-points advantage at the start of the amtch.
+   - Whether there are teams who are declared to win the match by default.
+   - Whether there are teams who are disqualified from the tournament.
 
 ### Match regulations
 
-1. Each player must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
+1. Each team captain must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
-   - This rule does not apply in the Qualifier lobbies.
 2. Each player has to ban **one beatmap** (on the Round of 16) and **two beatmaps** (from the Quarterfinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
    - Banning does not apply in the Qualifier lobbies.
