@@ -657,7 +657,7 @@ Sunday, 11 June 2023:
    - The loser of the `!roll` gets the opposite by default.
 2. Each team has to ban **one beatmap** prior to the start of the match and **one other beatmap** prior to the third round of picks (that are yet to be banned or picked at that point) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
 3. For each map, each team is required to field either **1 Seed B player and 1 Seed C player** or **2 Seed C players** at minimum.
-   - If a team is missing or otherwise not able to ready their lower seed players, they are still allowed to continue playing with a player disadvantage (2v3) should they wish to.
+   - If a team is missing or otherwise not able to field their lower seed players, they are still allowed to continue playing with a player disadvantage (2v3) should they wish to.
 4. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players and teams who are looking to warm up before the match are expected to do so by their own before the match commences.
 5. In a FreeMod pick, each team has to apply at least two unique mod combinations to play the beatmap with. Allowed mods are either NoMod or Easy, HardRock, Hidden, Flashlight, or any possible combinations of the four.
    - NoMod is treated as a mod combination of its own, in which NoMod scores will be mutiplied by `x0.7`.
