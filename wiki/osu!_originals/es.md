@@ -426,7 +426,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| HowToPlayLN - Eternal Bliss | [#1](https://osu.ppy.sh/beatmapsets/1635183) | Selección LN de la final |
+| [HowToPlayLN - Eternal Bliss](https://howtoplayln.bandcamp.com/track/eternal-bliss) | [#1](https://osu.ppy.sh/beatmapsets/1635183) | Selección LN de la final |
 
 #### ![](/wiki/shared/mode/osu.png) Duo Cup: Korea 2022
 
