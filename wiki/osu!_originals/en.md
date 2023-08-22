@@ -648,6 +648,8 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
+| [7\_7 - Watch Your Back](https://www.youtube.com/watch?v=C49g7mOk-_I)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2024209) | Semifinals tiebreaker |
+| [celtix - Neural Shatter](https://www.youtube.com/watch?v=bVTgU-MtKJw) | [#1](https://osu.ppy.sh/beatmapsets/2020185) | Quarterfinals tiebreaker |
 | [Kagetora. - The enormous](https://soundcloud.com/kagetora0610/the-enormous) | [#1](https://osu.ppy.sh/beatmapsets/2032518) | Grand Finals tiebreaker |
 | [Krimek - Beneath The Surface](https://soundcloud.com/krimek/beneath-the-surface)[^fa] |  | Livestream BGM |
 | [Krimek - Revival Of A New Master](https://krimek.bandcamp.com/track/revival-of-a-new-master)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2028363) | Finals NM4 |
