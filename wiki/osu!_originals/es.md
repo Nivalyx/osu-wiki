@@ -648,9 +648,17 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
+| [7\_7 - Watch Your Back](https://www.youtube.com/watch?v=C49g7mOk-_I)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2024209) | Desempate de las semifinales |
+| [celtix - Neural Shatter](https://www.youtube.com/watch?v=bVTgU-MtKJw) | [#1](https://osu.ppy.sh/beatmapsets/2020185) | Desempate de cuartos de final |
+| [Kagetora. - The enormous](https://soundcloud.com/kagetora0610/the-enormous) | [#1](https://osu.ppy.sh/beatmapsets/2032518) | Desempate de la gran final |
 | [Krimek - Beneath The Surface](https://soundcloud.com/krimek/beneath-the-surface)[^fa] |  | Música de fondo de la transmisión en vivo |
+| [Krimek - Revival Of A New Master](https://krimek.bandcamp.com/track/revival-of-a-new-master)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2028363) | Final NM4 |
 | [Krimek - Song Of The Submerged](https://soundcloud.com/krimek/song-of-the-submerged)[^fa] |  | Música de fondo de la transmisión en vivo |
+| [MYUKKE. - Friendly Gigant Fire](https://soundcloud.com/myukke/friendly-gigant-fire-from-resurrection-cup-2023)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2032460) | Gran final FM2 |
+| [Raytoly - C.r.y.s.t.a.l-A.x.i.s-P.r.o.t.o.t.y.p.e](https://www.youtube.com/watch?v=_x5mhHXyQ5g) | [#1](https://osu.ppy.sh/beatmapsets/2028374) | Final HD3 |
 | [takehirotei as "Infinite Limit" - The Everlasting Star of Yearning](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-the-everlasting-star-of-yearning) | [#1](https://osu.ppy.sh/beatmapsets/2016077) | Desempate de octavos de final |
+| [tn-shi vs. AZALI - to dust thou shalt return](https://www.youtube.com/watch?v=6_tfys0CP4k) | [#1](https://osu.ppy.sh/beatmapsets/2032508) | Gran final FM4 |
+| [Xyris - Reikoku Assassins](https://soundcloud.com/itsxyris/reikoku-assassins-from-resurrection-cup-2023-finals-tb) | [#1](https://osu.ppy.sh/beatmapsets/2028400) | Desempate de la final|
 
 #### ![](/wiki/shared/mode/taiko.png) [Rising Global Taiko Showdown 2021](/wiki/Tournaments/GTS/RGTS_2021)
 
