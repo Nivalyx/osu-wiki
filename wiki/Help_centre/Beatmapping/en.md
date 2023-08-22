@@ -43,7 +43,7 @@ If you are still having issues or want more information on this, have a read thr
 
 **Please file a DMCA claim to [copyright@ppy.sh](mailto:copyright@ppy.sh) as per the [osu! copyright policy](https://osu.ppy.sh/legal/en/Copyright).**
 
-Stolen beatmaps are treated as a form of copyright infringement, and as such, their removal is subject to legal procedures. Please do **not** file your report through the [conventional reporting methods](/wiki/Reporting_bad_behaviour) as members of the [NAT](https://osu.ppy.sh/wiki/en/People/Nomination_Assessment_Team) or [GMT](/wiki/People/Global_Moderation_Team) at the other end of the report are not in the capacity to handle legal matters.
+Stolen beatmaps are treated as a form of copyright infringement, and as such, their removal is subject to legal procedures. Please do **not** file your report through [conventional reporting methods](/wiki/Reporting_bad_behaviour) as members of the [NAT](https://osu.ppy.sh/wiki/en/People/Nomination_Assessment_Team) or [GMT](/wiki/People/Global_Moderation_Team) at the other end of the report are not in the capacity to handle legal matters.
 
 ## How can I delete my beatmap? {id=delete-beatmap}
 
