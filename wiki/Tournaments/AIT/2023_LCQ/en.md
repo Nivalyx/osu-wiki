@@ -358,6 +358,16 @@ The detailed standings for the Qualifier stage can be found in the following [sp
 | 8 | ::{ flag=ID }:: **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** | 6.59 |
 | 9 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 6.55 |
 | 10 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 5.92 |
+| 11 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 5.80 |
+| 12 | ::{ flag=ID }:: [Kirinagi](https://osu.ppy.sh/users/5937545) | 5.25 |
+| 13 | ::{ flag=ID }:: [timing](https://osu.ppy.sh/users/12763134) | 5.03 |
+| 14 | ::{ flag=ID }:: [\[u\_u\]](https://osu.ppy.sh/users/8688737) | 4.97 |
+| 15 | ::{ flag=ID }:: [Sirius Symboli](https://osu.ppy.sh/users/11025519) | 4.48 |
+| 16 | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) | 3.23 |
+| 17 | ::{ flag=ID }:: [MaxNoLimit](https://osu.ppy.sh/users/13415030) | 2.65 |
+| 18 | ::{ flag=ID }:: [GabenRipAim](https://osu.ppy.sh/users/19036792) | 1.22 |
+| 19 | ::{ flag=ID }:: [NasiGaPakeNasi](https://osu.ppy.sh/users/17519250) | 1.14 |
+| 20 | ::{ flag=ID }:: [Alvin\_Gaming](https://osu.ppy.sh/users/29999134) | 0.70 |
 
 ## Ruleset
 
