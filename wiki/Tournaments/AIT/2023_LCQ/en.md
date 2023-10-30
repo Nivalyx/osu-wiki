@@ -60,8 +60,8 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 The detailed standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1QRFSqm6Ww_DTAId1VguAvN_VAW_tr1T83QNtTvJtyUI/edit#gid=736924332).
 
 | Seed No. | Player | Z-Sum |
-| :-- | :-- | :-- |
-| 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | 10.36 |
+| :-: | :-- | :-- |
+| 1 | ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) | 9.84 |
 | 2 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.22 |
 | 3 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | 9.57 |
 | 4 | ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) | 9.56 |
