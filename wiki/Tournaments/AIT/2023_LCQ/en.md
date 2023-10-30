@@ -49,11 +49,11 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1AKBByLWsIBtWDaZI8osmhs0gR0-AIfyFrIi2IT498kE)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1764769)
-- [Discord server](https://discordapp.com/invite/CHRFffH)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1IUsFvFCPmrbCTLi9a1g3hYi1Y3I1xXuzq675yUcKrN8/edit#gid=0)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1816139)
+- [Discord server](https://discord.gg/qgD6y8zmq)
 - [Livestream channel](https://www.twitch.tv/osuindonesia)
-- [Challonge brackets](https://challonge.com/OIT2023)
+- [Challonge brackets](https://challonge.com/AIT2023LCQ)
 
 ## Participants
 
