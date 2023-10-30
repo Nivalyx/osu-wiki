@@ -84,36 +84,36 @@ The full list of participating players can be found in the following [spreadshee
   2. [ginkiha, TEA - Haruka (Short Ver.) (Hinsvar) \[Expert\]](https://osu.ppy.sh/beatmapsets/1110461#osu/2320392)
   3. [MYUKKE. - The 89's Momentum (KogumaX) \[slow mapping\]](https://osu.ppy.sh/beatmapsets/1271021#osu/2641328)
 - DoubleTime
-  1. [Hana - Sakura no Uta (Melize) \[Naruto & Sasuke Collab\]](https://osu.ppy.sh/beatmapsets/2027467#osu/4224716)
-  2. [goreshit - resynth (Gordon) \[amalgamation\]](https://osu.ppy.sh/beatmapsets/1499764#osu/3095034)
-  3. [my sound life - AIR (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/1814686#osu/3722666)
-  4. [sekai - Zange Mairi (Yugu) \[Repentance\]](https://osu.ppy.sh/beatmapsets/1176431#osu/2453711)
+  1. [YOASOBI - Shukufuku (Kanui) \[Blessing\]](https://osu.ppy.sh/beatmapsets/1891195#osu/3896589)
+  2. [fiend - FEVER DREAM (feat. yzzyx) (Niva) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1405913#osu/2916771)
+  3. [Electro.muster feat. Rita - Dream Walker (Amamya) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1907777#osu/3983420)
+  4. [Britney Spears - Toxic (schoolboy) \[Emilia's Expert\]](https://osu.ppy.sh/beatmapsets/1061947#osu/2251926)
 - FreeMod
-  1. [Brymir - Hails from the Edge (LMT) \[War Cry\]](https://osu.ppy.sh/beatmapsets/1312066#osu/2719305)
-  2. [MuryokuP - Catastrophe (yaspo) \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/1850971#osu/3802467)
-  3. [Mandragora, 4i20 - Evil Away (Ciyus Miapah) \[Evil Here\]](https://osu.ppy.sh/beatmapsets/2027998#osu/4225952)
-  4. [onoken - ZADAMGA (Down) \[Black Seal\]](https://osu.ppy.sh/beatmapsets/1492550#osu/3169730)
+  1. [Irreversible Mechanism - The Agony (Gabdu09) \[Extreme\]](https://osu.ppy.sh/beatmapsets/958345#osu/2006819)
+  2. [Hana - Sakura no Uta (PandaHero) \[Extra\]](https://osu.ppy.sh/beatmapsets/1889701#osu/3892194)
+  3. [Annabel - lilac slumber -cosmic ver.- (PandaHero) \[fall\]](https://osu.ppy.sh/beatmapsets/1593278#osu/3254177)
+  4. [Tokyo Incidents - Jusui Negai -The Suicide- (mnyui) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/1754872#osu/3591270)
 - Tiebreaker
-  1. **[ZxNX+Delaina - False Fairy Tale (Raids) \[The White Rabbit\]](https://osu.ppy.sh/beatmapsets/2027735#osu/4225364)**
+  1. **[HISATOMI - lullaby (feat. KIRA) (uet Remix) (she luv lando) \[one more before i go...\]](https://osu.ppy.sh/beatmapsets/1513975#osu/3099626)**
 
-### Finals (week 1)
+### Finals
 
-**[Download the mappack here! (223 MB)](https://cdn.discordapp.com/attachments/402765520610394132/1130189950973919362/oit2023f.zip)**
+**[Download the mappack here! (157 MB)](https://cdn.discordapp.com/attachments/1133393884613980230/1161297170528489595/vance_minta_pack.zip?ex=6537c945&is=65255445&hm=b4d61a7710b14920648f9bd4f6aeb31109b8384a43c811e740d22f9986e3cee6&)**
 
 - NoMod
-  1. [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
-  2. [SHADOW OF INTENT - Gravesinger (riot1133) \[Fairytale\]](https://osu.ppy.sh/beatmapsets/1912270#osu/4166422)
-  3. [BlackY feat. Risa Yuzuki - Imitator (Elayue) \[shenyu\]](https://osu.ppy.sh/beatmapsets/1846713#osu/3793494)
-  4. [RB.H x lixound x Setsunan - Lost Petal's Wander (Felter) \[Wither\]](https://osu.ppy.sh/beatmapsets/2022611#osu/4212648)
-  5. [TAROLIN feat. Katakiri Rekka - Cardinal Rave (Yusomi) \[Landed in the Dogwood\]](https://osu.ppy.sh/beatmapsets/1116399#osu/2332178)  
+  1. [paraoka feat. haru*nya - Tyranny (jiwoas) \[sad\]](https://osu.ppy.sh/beatmapsets/2071128#osu/4333632)
+  2. [xi - Vanitas (Anxient) \[Vanity of Vanities\]](https://osu.ppy.sh/beatmapsets/1815879#osu/4063445)
+  3. [THE BINARY mido - Ego mo Id mo Tanjun ni (kuyusu) \[Expert\]](https://osu.ppy.sh/beatmapsets/1268824#osu/2636826)
+  4. [Nekomata Master+ - squall (atlas-) \[lugu's Prodigal Extreme\]](https://osu.ppy.sh/beatmapsets/1783378#osu/3654092)
+  5. [Mitsukiyo - Future Bossa (Stompy\_) \[Shurelia Sensei's Special Lesson\]](https://osu.ppy.sh/beatmapsets/1981110#osu/4113746)  
 - Hidden
-  1. [YurryCanon feat. GUMI - humanly (Petal) \[#$!@*&^%\]](https://osu.ppy.sh/beatmapsets/1886627#osu/3884985)
-  2. [Pixel Terror - Millennia (Asphyxia) \[DeviousPanda's Expert\]](https://osu.ppy.sh/beatmapsets/1708547#osu/3592328)
-  3. [96neko - Buriki no Dance (CallieCube) \[Tango\]](https://osu.ppy.sh/beatmapsets/1332410#osu/3046047)  
+  1. [Yorushika - Yuunagi, Bou, Hana Madoi (Deca) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1029377#osu/2152484)
+  2. [Misumi - Alter Ego feat. Hatsune Miku (Ryuusei Aika) \[Mono's Extra\]](https://osu.ppy.sh/beatmapsets/1680588#osu/3458266)
+  3. [U-ske feat. Natsume Itsuki - Iza, Mairimasu (August) \[Full Bloom Expert\]](https://osu.ppy.sh/beatmapsets/1839317#osu/3777414)  
 - HardRock
-  1. [Imy - Seimei no Tomoshibi (KKipalt) \[Reflection\]](https://osu.ppy.sh/beatmapsets/1276373#osu/2651864)
-  2. [Okui Masami - God Speed (Anxient) \[Torque\]](https://osu.ppy.sh/beatmapsets/1972419#osu/4092879)
-  3. [MYUKKE. - The 89's Momentum (Cubby) \[Cubby & Yusomi Extreme\]](https://osu.ppy.sh/beatmapsets/1235496#osu/2568326)
+  1. [May'n - Belief (-Hitomi) \[Believer\]](https://osu.ppy.sh/beatmapsets/1604959#osu/3277371)
+  2. [S3RL feat Harri Rush - Nostalgic (Nightcore Mix) (nold\_1702) \[Kloyd's Extra\]](https://osu.ppy.sh/beatmapsets/591442#osu/1308993)
+  3. [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (Crystal) \[Yoru's Expert\]](https://osu.ppy.sh/beatmapsets/405167#osu/890915)
 - DoubleTime
   1. [Maeda Jun x yanaginagi - Kimi to Iu Shinwa (Sunohara Shun) \[30 days (ft. Crezz)\]](https://osu.ppy.sh/beatmapsets/2022618#osu/4212658)
   2. [A-One feat. Shihori - Magic Girl !! (YokesPai) \[Insane\]](https://osu.ppy.sh/beatmapsets/1740099#osu/3557309)
