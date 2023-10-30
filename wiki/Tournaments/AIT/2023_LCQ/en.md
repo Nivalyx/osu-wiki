@@ -62,9 +62,9 @@ The detailed standings for the Qualifier stage can be found in the following [sp
 | Seed No. | Player | Z-Sum |
 | :-: | :-- | :-- |
 | 1 | ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) | 9.84 |
-| 2 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.22 |
-| 3 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | 9.57 |
-| 4 | ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) | 9.56 |
+| 2 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 8.70 |
+| 3 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | 7.91 |
+| 4 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | 7.49 |
 | 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 9.54 |
 | 6 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 9.45 |
 | 7 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | 9.18 |
