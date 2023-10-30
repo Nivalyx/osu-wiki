@@ -26,7 +26,7 @@ The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 202
 
 ## Prizes
 
-The Ascaveth Invitational Tournament 2023: Last Chance Qualifier offered d
+The Ascaveth Invitational Tournament 2023: Last Chance Qualifier offered two player spots in the upcoming 
 
 ## Organisation
 
