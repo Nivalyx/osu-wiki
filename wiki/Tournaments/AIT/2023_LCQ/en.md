@@ -57,7 +57,7 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 
 ## Participants
 
-Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and Qualifier Z-Sum value) out of 61 registered players in total.
+The detailed standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1QRFSqm6Ww_DTAId1VguAvN_VAW_tr1T83QNtTvJtyUI/edit#gid=736924332).
 
 | Seed No. | Player | Z-Sum |
 | :-- | :-- | :-- |
