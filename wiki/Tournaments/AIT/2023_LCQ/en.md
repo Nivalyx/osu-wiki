@@ -9,7 +9,7 @@ tags:
 
 ![AIT 2023: LCQ banner](img/banner.png)
 
-The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 2023: LCQ***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). The tournament was open to all players from Indonesia as a way to qualify to the main [Ascaveth Invitational Tournament](/wiki/Tournaments/AIT). It was the first Last Chance Qualifier event to be held in the history of the Ascaveth Invitational Tournament.
+The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 2023: LCQ***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). The tournament was open to all players from Indonesia as a way to qualify to the main [Ascaveth Invitational](/wiki/Tournaments/AIT) LAN tournament. It was the first Last Chance Qualifier event to be held in the history of the Ascaveth Invitational Tournament.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 202
 
 ## Prizes
 
-The Ascaveth Invitational Tournament 2023: Last Chance Qualifier offered two player spots in the upcoming 
+The Ascaveth Invitational Tournament 2023: Last Chance Qualifier offered two player spots in the upcoming Ascaveth Invitational Tournament 2023 main event.
 
 ## Organisation
 
