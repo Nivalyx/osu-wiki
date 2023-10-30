@@ -21,8 +21,8 @@ The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 202
 | Quarterfinals | 2023-09-24/2023-09-30 |
 | Semifinals | 2023-10-01/2023-10-08 |
 | Finals | 2023-10-09/2023-10-15 |
-| Grand finals (week 1) | 2023-10-17/2023-10-22 |
-| Grand finals (week 2) | 2023-10-23/2023-10-29 |
+| Grand Finals (week 1) | 2023-10-17/2023-10-22 |
+| Grand Finals (week 2) | 2023-10-23/2023-10-29 |
 
 ## Prizes
 
@@ -65,20 +65,20 @@ The full list of participating players can be found in the following [spreadshee
 
 ## Mappools
 
-### Finals (week 2)
+### Grand Finals (week 1 and 2)
 
-**[Download the mappack here! (206 MB)](https://cdn.discordapp.com/attachments/402765520610394132/1133028509200171180/oit2023gf.zip)**
+**[Download the mappack here! (173 MB)](https://mappack.yewonkim.tk/download/UW5DYiyu)**
 
 - NoMod
-  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Blood on the EDGE (SupaV) \[PRIMOGENITOR\]](https://osu.ppy.sh/beatmapsets/2030033#osu/4230323)
-  2. [UNDEAD CORPORATION - Kasha no Sakebu Yoru ni (Cut Ver.) (monzuul) \[Lullaby\]](https://osu.ppy.sh/beatmapsets/2008164#osu/4177202)
-  3. [M2U remixed celas - Legend of Seeker (Celine) \[Overjoy\]](https://osu.ppy.sh/beatmapsets/2027742#osu/4225408)
-  4. [BEMANI Sound Team "L.E.D." - GRAVITON (Ishtiaq) \[Nulspace perihelion\]](https://osu.ppy.sh/beatmapsets/1846696#osu/3793473)
-  5. [sasakure.UK x TJ.hangneil - World Ender (Hey lululu) \[Drop's Beyond\]](https://osu.ppy.sh/beatmapsets/1804812#osu/3819028)  
+  1. [sana - Packet Hero (Fuccho) \[Ruthless\]](https://osu.ppy.sh/beatmapsets/404910#osu/880321)
+  2. [LeaF - Paraclete (Kroytz) \[Serendipity\]](https://osu.ppy.sh/beatmapsets/455109#osu/975588)
+  3. [Mio Yamazaki - Byoushin Zenkai Girl (Sparhten) \[Keep Going Forward\]](https://osu.ppy.sh/beatmapsets/1402550#osu/2893305)
+  4. [Function Phantom - Index (feat. Thinktec) (PaRaDogi) \[Halgoh's Extra\]](https://osu.ppy.sh/beatmapsets/1493791#osu/3111046)
+  5. [Official HIGE DANdism - Cry Baby (hehe) \[Revenge!\]](https://osu.ppy.sh/beatmapsets/1636657#osu/3340134)  
 - Hidden
-  1. [KikuoHana - God of Longevity (Icekalt) \[Langlebigkeit\]](https://osu.ppy.sh/beatmapsets/1507370#osu/3087337)
-  2. [Shouyu - Redemptor (Digital Universum ver.) (ImpurePug) \[Special\]](https://osu.ppy.sh/beatmapsets/1453412#osu/2988041)
-  3. [Hakushi Hasegawa - Doku (Halgoh) \[Halgoh & Sharu's Symbiotic Torrent\]](https://osu.ppy.sh/beatmapsets/1670363#osu/3411617)  
+  1. [Hana to Onyx - Ariadne (Milan-) \[Extra\]](https://osu.ppy.sh/beatmapsets/665886#osu/2228961)
+  2. [Kairiki bear feat. Hatsune Miku - BUG (sukii) \[Lost Extra\]](https://osu.ppy.sh/beatmapsets/1796464#osu/4058452)
+  3. [ETIA. - Singularity (Realazy) \[pocket's Extra\]](https://osu.ppy.sh/beatmapsets/1271931#osu/3047810)  
 - HardRock
   1. [Various Artists - GIRLS' LEGEND U (lushifer) \[Don't Stop! No, Don't Stop 'til Finish! (2023)\]](https://osu.ppy.sh/beatmapsets/1785665#osu/4145932)
   2. [SHIKI - BABYLON (Niva) \[Queen of Sheba\]](https://osu.ppy.sh/beatmapsets/2027996#osu/4225948)
