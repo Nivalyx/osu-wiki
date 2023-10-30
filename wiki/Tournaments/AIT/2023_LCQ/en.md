@@ -70,6 +70,7 @@ The detailed standings for the Qualifier stage can be found in the following [sp
 | 7 | ::{ flag=ID }:: **[Suikami](https://osu.ppy.sh/users/1929336)** | 6.76 |
 | 8 | ::{ flag=ID }:: **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** | 6.59 |
 | 9 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 6.55 |
+| 10 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 5.92 |
 
 ## Podium
 
