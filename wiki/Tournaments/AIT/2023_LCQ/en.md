@@ -80,9 +80,9 @@ The full list of participating players can be found in the following [spreadshee
   2. [Kairiki bear feat. Hatsune Miku - BUG (sukii) \[Lost Extra\]](https://osu.ppy.sh/beatmapsets/1796464#osu/4058452)
   3. [ETIA. - Singularity (Realazy) \[pocket's Extra\]](https://osu.ppy.sh/beatmapsets/1271931#osu/3047810)  
 - HardRock
-  1. [Various Artists - GIRLS' LEGEND U (lushifer) \[Don't Stop! No, Don't Stop 'til Finish! (2023)\]](https://osu.ppy.sh/beatmapsets/1785665#osu/4145932)
-  2. [SHIKI - BABYLON (Niva) \[Queen of Sheba\]](https://osu.ppy.sh/beatmapsets/2027996#osu/4225948)
-  3. [Hatsuki Yura - Yasou Kagerou (KKipalt) \[nonsquareable\]](https://osu.ppy.sh/beatmapsets/1850954#osu/3802403)
+  1. [senya - Iro wa Jou e to Izanau (Okoratu) \[Phantasm Stage\]](https://osu.ppy.sh/beatmapsets/1579161#osu/3224506)
+  2. [ginkiha, TEA - Haruka (Short Ver.) (Hinsvar) \[Expert\]](https://osu.ppy.sh/beatmapsets/1110461#osu/2320392)
+  3. [MYUKKE. - The 89's Momentum (KogumaX) \[slow mapping\]](https://osu.ppy.sh/beatmapsets/1271021#osu/2641328)
 - DoubleTime
   1. [Hana - Sakura no Uta (Melize) \[Naruto & Sasuke Collab\]](https://osu.ppy.sh/beatmapsets/2027467#osu/4224716)
   2. [goreshit - resynth (Gordon) \[amalgamation\]](https://osu.ppy.sh/beatmapsets/1499764#osu/3095034)
