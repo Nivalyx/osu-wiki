@@ -61,7 +61,7 @@ The full list of participating players can be found in the following [spreadshee
 
 ## Podium
 
-![](img/podium.jpg "OIT 2023 podium")
+![](img/podium.png "AIT 2023: LCQ podium")
 
 ## Mappools
 
