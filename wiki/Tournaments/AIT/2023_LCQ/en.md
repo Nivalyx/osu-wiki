@@ -30,7 +30,7 @@ The Ascaveth Invitational Tournament 2023: Last Chance Qualifier offered two pla
 
 ## Organisation
 
-The osu! Indonesia Tournament #13 (2023) was run by various osu! community members from Indonesia and beyond.
+The Ascaveth Invitational Tournament 2023 was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
