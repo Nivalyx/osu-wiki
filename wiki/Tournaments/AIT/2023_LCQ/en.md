@@ -18,25 +18,15 @@ The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 202
 | Registration phase | 2023-09-01/2023-09-08 |
 | Screening phase | 2023-09-09/2023-09-15 |
 | Qualifiers | 2023-09-16/2023-09-23 |
-| Round of 16 | 2023-09-24/2023-09-30 |
-| Quarterfinals | 2023-10-01/2023-10-08 |
-| Semifinals | 2023-07-10/2023-07-16 |
-| Finals week 1 | 2023-07-17/2023-07-23 |
-| Finals week 2 | 2023-07-24/2023-07-30 |
+| Quarterfinals | 2023-09-24/2023-09-30 |
+| Semifinals | 2023-10-01/2023-10-08 |
+| Finals | 2023-10-09/2023-10-15 |
+| Grand finals (week 1) | 2023-10-17/2023-10-22 |
+| Grand finals (week 2) | 2023-10-23/2023-10-29 |
 
 ## Prizes
 
-The osu! Indonesia Tournament #13 (2023) offered an initial prize pool of 3,000,000 IDR as generously donated by ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) and ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
-
-| Placing | Prize(s) |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 60% of the raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), customised profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the additional raised prize pool, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)) |
-
-![](img/badge.png "OIT 2023 winner badge")
-
-As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #13 (2023) was not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discordapp.com/invite/CHRFffH) for transparency.
+The Ascaveth Invitational Tournament 2023: Last Chance Qualifier offered d
 
 ## Organisation
 
