@@ -9,17 +9,17 @@ tags:
 
 ![AIT 2023: LCQ banner](img/banner.png)
 
-The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 2023: LCQ***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). The tournament was open to all players from Indonesia as a way to qualify to the main LAN tournament held later. It was the first Last Chance Qualifier event to be held in the history of the Ascaveth Invitational Tournament.
+The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 2023: LCQ***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). The tournament was open to all players from Indonesia as a way to qualify to the main [Ascaveth Invitational Tournament](/wiki/Tournaments/AIT). It was the first Last Chance Qualifier event to be held in the history of the Ascaveth Invitational Tournament.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-05-17/2023-06-11 |
-| Screening phase | 2023-06-12/2023-06-18 |
-| Qualifiers | 2023-06-19/2023-06-25 |
-| Round of 16 | 2023-06-26/2023-07-02 |
-| Quarterfinals | 2023-07-03/2023-07-09 |
+| Registration phase | 2023-09-01/2023-09-08 |
+| Screening phase | 2023-09-09/2023-09-15 |
+| Qualifiers | 2023-09-16/2023-09-23 |
+| Round of 16 | 2023-09-24/2023-09-30 |
+| Quarterfinals | 2023-10-01/2023-10-08 |
 | Semifinals | 2023-07-10/2023-07-16 |
 | Finals week 1 | 2023-07-17/2023-07-23 |
 | Finals week 2 | 2023-07-24/2023-07-30 |
