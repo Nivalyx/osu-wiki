@@ -57,7 +57,7 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 
 ## Participants
 
-The detailed standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1QRFSqm6Ww_DTAId1VguAvN_VAW_tr1T83QNtTvJtyUI/edit#gid=736924332).
+Listed below are the full Qualifier results, with players who made it into the bracket stage listed in **bold**. The detailed standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1QRFSqm6Ww_DTAId1VguAvN_VAW_tr1T83QNtTvJtyUI/edit#gid=736924332). 
 
 | Seed No. | Player | Z-Sum |
 | :-: | :-- | :-- |
