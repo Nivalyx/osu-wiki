@@ -61,22 +61,15 @@ The detailed standings for the Qualifier stage can be found in the following [sp
 
 | Seed No. | Player | Z-Sum |
 | :-: | :-- | :-- |
-| 1 | ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) | 9.84 |
-| 2 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 8.70 |
-| 3 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | 7.91 |
-| 4 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | 7.49 |
-| 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 9.54 |
-| 6 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 9.45 |
-| 7 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | 9.18 |
-| 8 | ::{ flag=ID }:: [adyoz](https://osu.ppy.sh/users/2454767) | 8.62 |
-| 9 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 8.32 |
-| 10 | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | 7.96 |
-| 11 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 7.84 |
-| 12 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 7.70 |
-| 13 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | 7.63 |
-| 14 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 7.47 |
-| 15 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 7.31 |
-| 16 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | 7.28 |
+| 1 | ::{ flag=ID }:: **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** | 9.84 |
+| 2 | ::{ flag=ID }:: **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** | 8.70 |
+| 3 | ::{ flag=ID }:: **[DeathHydra](https://osu.ppy.sh/users/7457788)** | 7.91 |
+| 4 | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | 7.49 |
+| 5 | ::{ flag=ID }:: **[BlankTap](https://osu.ppy.sh/users/10137131)** | 7.24 |
+| 6 | ::{ flag=ID }:: **[XenoitesBadPog](https://osu.ppy.sh/users/11461426)** | 7.09 |
+| 7 | ::{ flag=ID }:: **[Suikami](https://osu.ppy.sh/users/1929336)** | 6.76 |
+| 8 | ::{ flag=ID }:: **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** | 6.59 |
+| 9 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 6.55 |
 
 ## Podium
 
