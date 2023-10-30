@@ -57,20 +57,7 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 
 ## Participants
 
-Listed below are the full Qualifier results, with players who made it into the bracket stage listed in **bold**. The detailed standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1QRFSqm6Ww_DTAId1VguAvN_VAW_tr1T83QNtTvJtyUI/edit#gid=736924332). 
-
-| Seed No. | Player | Z-Sum |
-| :-: | :-- | :-- |
-| 1 | ::{ flag=ID }:: **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** | 9.84 |
-| 2 | ::{ flag=ID }:: **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** | 8.70 |
-| 3 | ::{ flag=ID }:: **[DeathHydra](https://osu.ppy.sh/users/7457788)** | 7.91 |
-| 4 | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | 7.49 |
-| 5 | ::{ flag=ID }:: **[BlankTap](https://osu.ppy.sh/users/10137131)** | 7.24 |
-| 6 | ::{ flag=ID }:: **[XenoitesBadPog](https://osu.ppy.sh/users/11461426)** | 7.09 |
-| 7 | ::{ flag=ID }:: **[Suikami](https://osu.ppy.sh/users/1929336)** | 6.76 |
-| 8 | ::{ flag=ID }:: **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** | 6.59 |
-| 9 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 6.55 |
-| 10 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 5.92 |
+The full list of participating players can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1IUsFvFCPmrbCTLi9a1g3hYi1Y3I1xXuzq675yUcKrN8/edit#gid=1258671161).
 
 ## Podium
 
@@ -354,6 +341,23 @@ Sunday, 2 July 2023:
 | Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/109294580) |
 | Upper | [rHO](https://osu.ppy.sh/users/1629553) ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **[Anhydrous](https://osu.ppy.sh/users/11272510)** | [#1](https://osu.ppy.sh/community/matches/109296248) |
 | Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/109298415) |
+
+### Qualifiers
+
+The detailed standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1QRFSqm6Ww_DTAId1VguAvN_VAW_tr1T83QNtTvJtyUI/edit#gid=736924332). 
+
+| Seed No. | Player | Z-Sum |
+| :-: | :-- | :-- |
+| 1 | ::{ flag=ID }:: **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** | 9.84 |
+| 2 | ::{ flag=ID }:: **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** | 8.70 |
+| 3 | ::{ flag=ID }:: **[DeathHydra](https://osu.ppy.sh/users/7457788)** | 7.91 |
+| 4 | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | 7.49 |
+| 5 | ::{ flag=ID }:: **[BlankTap](https://osu.ppy.sh/users/10137131)** | 7.24 |
+| 6 | ::{ flag=ID }:: **[XenoitesBadPog](https://osu.ppy.sh/users/11461426)** | 7.09 |
+| 7 | ::{ flag=ID }:: **[Suikami](https://osu.ppy.sh/users/1929336)** | 6.76 |
+| 8 | ::{ flag=ID }:: **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** | 6.59 |
+| 9 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 6.55 |
+| 10 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 5.92 |
 
 ## Ruleset
 
