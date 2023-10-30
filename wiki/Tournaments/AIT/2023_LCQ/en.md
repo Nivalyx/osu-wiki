@@ -115,21 +115,21 @@ The full list of participating players can be found in the following [spreadshee
   2. [S3RL feat Harri Rush - Nostalgic (Nightcore Mix) (nold\_1702) \[Kloyd's Extra\]](https://osu.ppy.sh/beatmapsets/591442#osu/1308993)
   3. [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (Crystal) \[Yoru's Expert\]](https://osu.ppy.sh/beatmapsets/405167#osu/890915)
 - DoubleTime
-  1. [Maeda Jun x yanaginagi - Kimi to Iu Shinwa (Sunohara Shun) \[30 days (ft. Crezz)\]](https://osu.ppy.sh/beatmapsets/2022618#osu/4212658)
-  2. [A-One feat. Shihori - Magic Girl !! (YokesPai) \[Insane\]](https://osu.ppy.sh/beatmapsets/1740099#osu/3557309)
-  3. [Synthamesk - Suspirious (fergas) \[AfteraLL\]](https://osu.ppy.sh/beatmapsets/1312111#osu/2719407)
-  4. [Nisshoku Natsuko - Rogumaropu (Seikatu) \[Collab\]](https://osu.ppy.sh/beatmapsets/666499#osu/1410681)
+  1. [Momokurotei Ichimon - Nippon Egao Hyakkei (alden) \[smile)\]](https://osu.ppy.sh/beatmapsets/1614390#osu/3295947)
+  2. [solfa - Battle 3: Shiryoku no Kagiri -The force of mortality- (Lasse) \[Garden's Insane\]](https://osu.ppy.sh/beatmapsets/2042113#osu/4261144)
+  3. [Yousei Teikou - Deep Sea (ent) \[Another\]](https://osu.ppy.sh/beatmapsets/1758918#osu/3995918)
+  4. [Yasutaka Nakata - Crazy Crazy (feat. Charli XCX & Kyary Pamyu Pamyu) (VINXIS) \[sammish's Another\]](https://osu.ppy.sh/beatmapsets/972538#osu/2043224)
 - FreeMod
-  1. [UNDEAD CORPORATION - One Second (Zelq) \[Blink of an Eye\]](https://osu.ppy.sh/beatmapsets/1580859#osu/3227911)
-  2. [Kero Kero Bonito - Flamingo (WTN3 Remix) (Cubby) \[Edit\]](https://osu.ppy.sh/beatmapsets/1271938#osu/4167251)
-  3. [Dark PHOENiX - Taketori Hishou (cotton\_\_123) \[Lunatic Princess\]](https://osu.ppy.sh/beatmapsets/1893810#osu/3902585)
-  4. [NIWASHI & taiyo - Nami/Oto you-shi (mezelyus) \[Ubiquitous\]](https://osu.ppy.sh/beatmapsets/1833621#osu/3764329)
+  1. [Nekrogoblikon - The Skin Thief (LMT) \[SILENCE PLAYER & Hectic's Extra\]](https://osu.ppy.sh/beatmapsets/1061535#osu/2279004)
+  2. [Scott Brown - Go Berzerk (Luscent) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1596950#osu/3261566)
+  3. [TJ.hangneil - Kamui (Cellina) \[Nasmoeb's SHD\]](https://osu.ppy.sh/beatmapsets/2008761#osu/4181631)
+  4. [xi - World Fragments II (PaRaDogi) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/1666263#osu/3403127)
 - Tiebreaker
-  1. **[Tokyo.MeltiMelt - the Beautiful Cure (Melize) \[Ave\]](https://osu.ppy.sh/beatmapsets/2027735#osu/4225364)**
+  1. **[Yousei Teikoku - Fata Morgana (jiwoas) \[Valhalla\]](https://osu.ppy.sh/beatmapsets/2072219#osu/4336505)**
 
 ### Semifinals
 
-**[Download the mappack here! (193 MB)](https://mappack.yewonkim.tk/download/jE8MBuvr)**
+**[Download the mappack here! (163 MB)](https://mappack.yewonkim.tk/download/G9JGONqi)**
 
 - NoMod
   1. [KAF - Tatoeba (Rtyzen) \[Light\]](https://osu.ppy.sh/beatmapsets/1850935#osu/3802333)
