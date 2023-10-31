@@ -339,13 +339,12 @@ The detailed standings for the Qualifier stage can be found in the following [sp
 
 ### Tournament registration
 
-1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/xzFzErPtCe989xHY6).
-   - In order to be eligible to play in the tournament, a player must:
-     - Have the ::{ flag=ID }:: Indonesian flag displayed on their profile, **and**
-     - Be in possession of at least 6,000 pp in the osu! game mode at the time of registration.
+1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/eqK3fzt1XcvCpAc88).
+   - In order to be eligible to play in the tournament, a player must have the ::{ flag=ID }:: Indonesian flag displayed on their profile.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
-4. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
+4. The following players are not eligible to participate in the Last Chance Qualifiers as they have qualified to Ascaveth Invitational 2023:
+5. Testplayers, referees, custom mappers, and mappool selectors may also not participate as players in this tournament.
 
 ### Round-specific rules
 
