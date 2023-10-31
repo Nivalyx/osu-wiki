@@ -369,15 +369,14 @@ The detailed standings for the Qualifier stage can be found in the following [sp
 #### Knock-out stage rules
 
 1. The 16 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifier seeding.
-2. Players will compete against each other using the double-elimination system.
-3. The double-elimination system works as follows:
+2. Players will compete against each other using a **modified** double-elimination system.
+3. The modified double-elimination system works as follows:
    - Players who lose in the upper bracket can still play again in the lower bracket.
    - Players who lose in the lower bracket will be eliminated from the tournament.
-   - In the Grand Final, the winner of the the upper bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* against their opponent in order to claim the championship title.
+   - In the Grand Finals, instead of the usual bracket reset system,
 4. Players who can compete in the next round are determined by:
-   - In the the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
    - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
-   - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
+   - In the Finals and both of the Grand Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
    - Whether there are players who are declared to win the match by default.
    - Whether there are players who are disqualified from the tournament.
 
@@ -387,7 +386,7 @@ The detailed standings for the Qualifier stage can be found in the following [sp
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** (on the Round of 16) and **two beatmaps** (from the Quarterfinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+2. Each player has to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking to warm up before the match are expected to do so by their own before the match commences.
