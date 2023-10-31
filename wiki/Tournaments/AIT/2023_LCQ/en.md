@@ -377,7 +377,7 @@ The detailed standings for the Qualifier stage can be found in the following [sp
    
    ![Modified Grand Finals bracket](img/gf-bracket.png)
 
-   - The winners of the matches `GF-1` and `NGF-2` will qualify into Ascaveth Invitational Tournament 2023.   
+   - The winner of the matches `GF-1` and `NGF-2` will qualify into Ascaveth Invitational Tournament 2023.   
 4. Players who can compete in the next round are determined by:
    - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
    - In the Finals and both of the Grand Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
