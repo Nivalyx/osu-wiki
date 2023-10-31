@@ -225,7 +225,7 @@ Sunday, 22 October 2023:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | GF-1 | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/110986762) |
 
-***ThatNOOBGuy** q*
+::{ flag=ID }:: ***[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** qualified for Ascaveth Invitational Tournament 2023.*
 
 ### Finals
 
