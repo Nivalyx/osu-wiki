@@ -340,9 +340,9 @@ The detailed standings for the Qualifier stage can be found in the following [sp
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/eqK3fzt1XcvCpAc88).
-   - In order to be eligible to participate in the tournament, a player must have the ::{ flag=ID }:: Indonesian flag displayed on their profile.
+   - In order to be eligible to play in the tournament, a player must have the ::{ flag=ID }:: Indonesian flag displayed on their profile.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
-3. The list of players who are deemed to be eligible to participate in the tournament will be published by the tournament management after the registration phase has ended.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. The following players are not eligible to participate in the Last Chance Qualifier as they have managed to qualify into Ascaveth Invitational Tournament 2023 through other means:
    - ::{ flag=ID } **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** (*[Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) winner*)
    - ::{ flag=ID } **[Skydiver](https://osu.ppy.sh/users/4750008)** (*[Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) runner-up*)
