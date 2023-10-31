@@ -211,19 +211,21 @@ The full list of participating players can be found in the following [spreadshee
 
 ## Match results
 
-### Finals (week 2)
+### Grand Finals (week 1)
 
-Saturday, 29 July 2023:
+Saturday, 21 October 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109737714) |
+| LGF-1 | [DeathHydra](https://osu.ppy.sh/users/7457788) ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/7457788)** | [#1](https://osu.ppy.sh/community/matches/110970349) |
 
-Sunday, 30 July 2023, Grand Final:
+Sunday, 22 October 2023:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | [#1](https://osu.ppy.sh/community/matches/109750968) |
+| GF-1 | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/110986762) |
+
+***ThatNOOBGuy** q*
 
 ### Finals
 
