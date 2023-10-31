@@ -221,6 +221,11 @@ Sunday, 29 October 2023:
 
 Monday, 30 October 2023:
 
+| Match code | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| NGF-2 | **[DEETO](https://osu.ppy.sh/users/7457788)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/111099149) |
+
+::{ flag=ID }:: ***[DEETO](https://osu.ppy.sh/users/7457788)** went on to qualify for the Ascaveth Invitational Tournament 2023 as the second winner of the Last Chance Qualifier.*
 
 ### Grand Finals (week 1)
 
