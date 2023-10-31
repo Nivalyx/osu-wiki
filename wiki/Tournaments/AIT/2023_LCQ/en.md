@@ -26,7 +26,7 @@ The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 202
 
 ## Prizes
 
-The Ascaveth Invitational Tournament 2023: Last Chance Qualifier offered two player spots in the upcoming Ascaveth Invitational Tournament 2023 main event.
+The Ascaveth Invitational Tournament 2023: Last Chance Qualifier offered two player spots on the upcoming Ascaveth Invitational Tournament 2023 main event for the winners.
 
 ## Organisation
 
@@ -211,6 +211,17 @@ The full list of participating players can be found in the following [spreadshee
 
 ## Match results
 
+### Grand Finals (week 2)
+
+Sunday, 29 October 2023:
+
+| Match code | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| NGF-1 | **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/111072284) |
+
+Monday, 30 October 2023:
+
+
 ### Grand Finals (week 1)
 
 Saturday, 21 October 2023:
@@ -225,7 +236,7 @@ Sunday, 22 October 2023:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | GF-1 | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/110986762) |
 
-::{ flag=ID }:: ***[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** qualified for Ascaveth Invitational Tournament 2023.*
+::{ flag=ID }:: ***[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** went on to qualify for the Ascaveth Invitational Tournament 2023 as the first winner of the Last Chance Qualifier.*
 
 ### Finals
 
