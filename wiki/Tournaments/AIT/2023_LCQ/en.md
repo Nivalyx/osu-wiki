@@ -281,17 +281,11 @@ Saturday, 30 September 2023:
 | Upper | **[DEETO](https://osu.ppy.sh/users/7457788)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/110677568) |
 | Upper | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | *win by default* |
 
-Sunday, 9 July 2023:
+Sunday, 1 October 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/109407517) |
-| Upper | [Anhydrous](https://osu.ppy.sh/users/11272510) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/109408858) |
-| Lower | **[XenoitesBadPog](https://osu.ppy.sh/users/11461426)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/109409404) |
-| Upper | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/109407605) |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/109405757) |
-| Upper | **[NazunaAmemiya](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/109409917) |
-| Lower | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [adyoz](https://osu.ppy.sh/users/2454767) | [#1](https://osu.ppy.sh/community/matches/109410214) |
+| Upper | **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/110698374) |
 
 ### Qualifiers
 
