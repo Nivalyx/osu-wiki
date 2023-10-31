@@ -26,7 +26,7 @@ The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 202
 
 ## Prizes
 
-The Ascaveth Invitational Tournament 2023: Last Chance Qualifier offered two player spots on the upcoming Ascaveth Invitational Tournament 2023 main event for the winners.
+The Ascaveth Invitational Tournament 2023: Last Chance Qualifier offered two player spots in the upcoming Ascaveth Invitational Tournament 2023 main event for the winners.
 
 ## Organisation
 
@@ -343,7 +343,7 @@ The detailed standings for the Qualifier stage can be found in the following [sp
    - In order to be eligible to participate in the tournament, a player must have the ::{ flag=ID }:: Indonesian flag displayed on their profile.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to participate in the tournament will be published by the tournament management after the registration phase has ended.
-4. The following players are not eligible to participate in the Last Chance Qualifier as they have managed to qualify into the main tournament through other means:
+4. The following players are not eligible to participate in the Last Chance Qualifier as they have managed to qualify into Ascaveth Invitational Tournament 2023 through other means:
    - ::{ flag=ID } **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** (*[Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) winner*)
    - ::{ flag=ID } **[Skydiver](https://osu.ppy.sh/users/4750008)** (*[Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) runner-up*)
    - ::{ flag=ID } **[lifeline](https://osu.ppy.sh/users/11367222)** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) winner*)
@@ -351,7 +351,7 @@ The detailed standings for the Qualifier stage can be found in the following [sp
    - ::{ flag=ID } **[NazunaAmemiya](https://osu.ppy.sh/users/12159899)** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) 3rd-place finisher*)
    - ::{ flag=ID } **[Fuma](https://osu.ppy.sh/users/1501956)** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) best non-podium finisher*)
 5. Testplayers, referees, custom mappers, and mappool selectors may also not participate as players in this tournament.
-6. By registering into the tournament, the player acknowledges that they are willing and able to participate in the upcoming Ascaveth Invitational Tournament LAN event should they qualify from the Last Chance Qualifier.
+6. By registering into the tournament, the player acknowledges that they are willing and able to participate in the upcoming Ascaveth Invitational Tournament 2023 should they qualify from the Last Chance Qualifier.
 
 ### Round-specific rules
 
@@ -362,7 +362,7 @@ The detailed standings for the Qualifier stage can be found in the following [sp
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total amount of Z-Score across all eleven Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
-6. 16 players with the **highest Z-Sum value** will advance to the knock-out stages. 
+6. 8 players with the **highest Z-Sum value** will advance to the knock-out stages. 
    - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
