@@ -10,7 +10,7 @@ Join in the excitement as Indonesia's flagship LAN tournament kicks off for a se
 
 LAN tournaments are no stranger to the Indonesian osu! community. Way back in 2012, before osu! conventions were a staple, the old guards of the community had hosted "[osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417)" — a vast osu! competition held in the middle of a shopping mall which was among the first (if not the first) LAN event of its kind.
 
-Now, more than a decade and [one successful small-scale iteration](/wiki/Tournaments/AIT/2022) later, osu! Indonesia is ready to present a spiritual successor to the event that rocked the world and [even peppy himself](http://web.facebook.com/osugame/photos/pb.100064751018669.-2207520000/10151075128588282/?type=3) eons ago — Ascaveth Invitational Tournament 2023!
+Now, more than a decade and [one successful smaller-scale iteration](/wiki/Tournaments/AIT/2022) later, osu! Indonesia is ready to present a spiritual successor to the event that rocked the world and [even peppy himself](http://web.facebook.com/osugame/photos/pb.100064751018669.-2207520000/10151075128588282/?type=3) eons ago — Ascaveth Invitational Tournament 2023!
 
 ## Tournament
 
@@ -25,9 +25,15 @@ Ascaveth Invitational Tournament 2023 is a double-elimination 1v1 osu! tournamen
 - ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594)
 - ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909)
 
-Due to logistical and other concerns,
+The entirety of the tournament is scheduled to commence at **Saturday, December 9th** on **01:00 UTC** (08:00 local time). Unfortunately however, due to logistical and some other concerns, the tournament isn't open for public attendance. But fear not! As
 
-## Booth activities
+Check out the trailer for the tournament below:
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/COMINGSOON" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Merchandise
 
 The tournament isn't the only thing that's in store for the attendees! If the burning flames of the competition is not their thing, there are other activities as well: for community members that want to meet up with their friends or for those meeting for the first time, this is their chance to create new memories and friends at the booth's Player Hub! Newcomers and those already familiar with the game will also be able to play osu!(lazer) at the booth as well.
 
