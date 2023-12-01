@@ -8,7 +8,7 @@ Join in the excitement as Indonesia's flagship LAN tournament kicks off for a se
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-The Indonesian osu! community is no stranger to LAN tournaments. 
+LAN tournaments are no stranger to the Indonesian osu! community. Way back in 2012, before big-name tournaments were a staple, the old guards 
 
 ## Tournament
 
