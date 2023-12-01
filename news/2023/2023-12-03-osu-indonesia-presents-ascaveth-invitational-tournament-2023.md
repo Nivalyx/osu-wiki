@@ -37,7 +37,7 @@ Check out the trailer for the tournament below:
 
 But wait, there's more!
 
-If you're in Indonesia, you're able to support the tournament by purchasing exclusive merchandise products all starring the official mascot of the tournament, Stella Eirua.
+If you're in Indonesia, you're also able to support the tournament by purchasing exclusive merchandises featuring the official mascot of the event, Stella Eirua.
 
 Check out the trailer for the tournament below:
 
