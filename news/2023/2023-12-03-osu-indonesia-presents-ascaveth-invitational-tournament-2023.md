@@ -10,15 +10,22 @@ Join in the excitement as Indonesia's flagship LAN tournament kicks off for a se
 
 LAN tournaments are no stranger to the Indonesian osu! community. Way back in 2012, before osu! conventions were a staple, the old guards of the community had hosted "[osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417)" — a large-scale osu! competition held in the middle of a shopping mall which was among the first (if not the first) LAN event of its kind.
 
-Now, eleven years and [one successful iteration](/wiki/Tournaments/AIT/2022) later, osu! Indonesia is ready to present the spiritual successor of the event that rocked the world and [even peppy himself](http://web.facebook.com/osugame/photos/pb.100064751018669.-2207520000/10151075128588282/?type=3) eons ago — Ascaveth Invitational Tournament 2023!
+Now, eleven years and [one successful iteration](/wiki/Tournaments/AIT/2022) later, osu! Indonesia is ready to present a spiritual successor to the event that rocked the world and [even peppy himself](http://web.facebook.com/osugame/photos/pb.100064751018669.-2207520000/10151075128588282/?type=3) eons ago — Ascaveth Invitational Tournament 2023!
 
 ## Tournament
 
 Ascaveth Invitational Tournament 2023 is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and members of the Indonesian osu! community. The tournament features a lineup of eight top osu! players from all across Indonesia who have qualified from the [Last Chance Qualifiers (LCQ)](http://osu.ppy.sh/wiki/en/Tournaments/AIT/2023_LCQ) and other means as follows:
 
 - ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635)
-- ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635)
+- ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008)
+- ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222)
+- ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553)
+- ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899)
+- ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956)
+- ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594)
+- ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909)
 
+Due to logistical and other concerns,
 
 ## Booth activities
 
