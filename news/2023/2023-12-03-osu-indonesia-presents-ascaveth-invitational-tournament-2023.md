@@ -8,13 +8,13 @@ Join in the excitement as Indonesia's flagship LAN tournament kicks off for a se
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-LAN tournaments are no stranger to the Indonesian osu! community. Way back in 2012, before big-name tournaments were a staple, the old guards 
+LAN tournaments are no stranger to the Indonesian osu! community. Way back in 2012, before osu! conventions were a staple, the old guards of the community had hosted "[osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417)" — a large-scale osu! competition held in the middle of a shopping mall which was among the first (if not the first) LAN event of its kind.
 
 ## Tournament
 
-The main event of the space is the **osu! Philippines Quickfire Showdown 2023**. A lineup of confirmed players will go through a LAN tournament featuring a *Super Smash Bros.*–styled brawl format. The tournament will take place on day 1 and day 2, with prizes in store!
+Ascaveth Invitational Tournament 2023 is a double-elimination tournament. The tournament features a lineup of e as follows:
 
-For more information about the tournament, refer to [this wiki article](/wiki/Tournaments/oPQS/2).
+- 
 
 ## Booth activities
 
