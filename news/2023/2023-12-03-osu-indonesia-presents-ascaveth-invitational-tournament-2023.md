@@ -25,7 +25,7 @@ Ascaveth Invitational Tournament 2023 is a double-elimination 1v1 osu! tournamen
 - ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594)
 - ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909)
 
-The entirety of the tournament is scheduled to commence at **Saturday, December 9th** on **01:00 UTC** (08:00 local time). Unfortunately however, due to logistical and some other concerns, the tournament isn't open for public attendance. But fear not! As with o
+The entirety of the tournament is scheduled to commence at **Saturday, December 9th** on **01:00 UTC** (08:00 local time). Unfortunately however, due to logistical and some other concerns, the tournament isn't open for public attendance. But fear not! As you might already expect, the whole event will be streamed live over at **[the osuIndonesia Twitch channel](https://www.twitch.tv/osuIndonesia)** as well as **[lifeline's Twitch channel](https://www.twitch.tv/lifeline)**.
 
 Check out the trailer for the tournament below:
 
@@ -38,6 +38,14 @@ Check out the trailer for the tournament below:
 But wait, there's more!
 
 If you're in Indonesia,
+
+Check out the trailer for the tournament below:
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3J8BuScGRSY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Do note that Ascaveth Invitational 2023 is entirely non-profit,
 
 See you there!
 
