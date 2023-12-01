@@ -45,7 +45,7 @@ Check out the trailer for the tournament below:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3J8BuScGRSY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Do note that Ascaveth Invitational 2023 is wholly run at a non-profit basis, and all proceedings will be used
+Do note that Ascaveth Invitational 2023 is fully run at a non-profit basis, and all proceedings will be used to fund the prize pool and other tournament needs.
 
 See you there, and feel free to follow [@AscavethInv](https://twitter.com/ascavethinv) on Twitter for updates on the tournament and beyond!
 
