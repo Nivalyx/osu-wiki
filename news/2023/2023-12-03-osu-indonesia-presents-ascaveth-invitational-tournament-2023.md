@@ -39,6 +39,6 @@ But wait, there's more!
 
 If you're in Indonesia,
 
-See you there — whether on stream or in person!
+See you there!
 
-—topecnz
+—Niva
