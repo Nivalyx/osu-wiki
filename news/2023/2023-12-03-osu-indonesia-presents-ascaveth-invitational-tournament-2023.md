@@ -4,11 +4,11 @@ title: "osu! Indonesia Presents: Ascaveth Invitational 2023"
 date: 2023-12-03 12:30:00 +0000
 ---
 
-The osu! Philippines Community is excited to announce its second (unofficial) community-run osu! space at [CONQuest Festival 2023](https://conquestph.com), which will be held at the SMX Convention Centre in Pasay City, Philippines!
+Join in the excitement as Indonesia's flagship LAN tournament kicks off for a second season this weekend on Saturday, December 9th!
 
-![](/wiki/Tournaments/oPQS/2/img/banner.png)
+![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-The osu! booth will have games, goodies, and more as the Filipino community, players and non-players alike, get to know and enjoy osu! more!
+The Indonesian osu! community is no stranger to LAN tournaments. 
 
 ## Tournament
 
