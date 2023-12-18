@@ -8,7 +8,7 @@ tags:
 
 ![Ascaveth Invitational Tournament 2023 logo](img/logo.jpg)
 
-The **Ascaveth Invitational Tournament 2023** was a double-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and co-organised by ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), and ::{ flag=ID }:: [shunling](https://osu.ppy.sh/users/3484548). It was the third major LAN osu! tournament to ever be held in Indonesia, as well as the second one [Ascaveth Invitational Tournament](/wiki/Tournaments/AIT) namesake.
+The **Ascaveth Invitational Tournament 2023** was a double-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and co-organised by ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), and ::{ flag=ID }:: [shunling](https://osu.ppy.sh/users/3484548). It was the third major LAN osu! tournament to ever be held in Indonesia, as well as the second one carrying the [Ascaveth Invitational Tournament](/wiki/Tournaments/AIT) namesake.
 
 ## Tournament schedule
 
