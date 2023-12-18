@@ -17,17 +17,16 @@ The **Ascaveth Invitational Tournament 2023** was a double-elimination 1v1 invit
 | Technical meeting | 2023-12-02 |
 | Opening | 2023-12-09 (08:00 UTC +7) |
 | Match 1 + Match 2 | 2023-12-09 (09:00 UTC +7) |
-| Quarterfinal 2 | 2022-09-03 (11:30 UTC +7) |
-| *Break* | 2022-09-03 (12:30 UTC +7) |
-| Quarterfinal 3 | 2022-09-03 (13:00 UTC +7) |
-| Quarterfinal 4 | 2022-09-03 (14:00 UTC +7) |
-| *Break* | 2022-09-03 (15:00 UTC +7) |
-| Semifinal 1 | 2022-09-03 (15:30 UTC +7) |
-| Semifinal 2 | 2022-09-03 (16:30 UTC +7) |
-| *Break* | 2022-09-03 (17:30 UTC +7) |
-| 3rd Place Match | 2022-09-03 (18:30 UTC +7) |
-| Grand Final | 2022-09-03 (19:30 UTC +7) |
-| Awarding and Closing | 2022-09-03 (20:30 UTC +7) |
+| Match 3 + Match 4 | 2023-12-09 (10:30 UTC +7) |
+| *Break* | 2023-12-09 (11:30 UTC +7) |
+| Match 5U + Match 6U | 2023-12-09 (13:00 UTC +7) |
+| Match 7L + Match 8L | 2023-12-09 (14:15 UTC +7) |
+| Match 9L + Match 10L | 2023-12-09 (15:30 UTC +7) |
+| Match 11L + Match 12U | 2023-12-09 (16:45 UTC +7) |
+| *Break* | 2023-12-09 (18:00 UTC +7) |
+| Match 13L | 2023-12-09 (19:00 UTC +7) |
+| Match 14 (Grand Final) | 2023-12-09 (20:30 UTC +7) |
+| Awarding and Closing | 2023-12-09 (22:00 UTC +7) |
 
 ## Prizes
 
