@@ -28,6 +28,8 @@ The **Ascaveth Invitational Tournament 2023** was a double-elimination 1v1 invit
 | Match 14 (Grand Final) | 2023-12-09 (20:30 UTC +7) |
 | Awarding and Closing | 2023-12-09 (22:00 UTC +7) |
 
+For a visual representation, refer to [this chart](https://cdn.discordapp.com/attachments/548378597476532236/1186188416887558184/image.png?ex=6592570c&is=657fe20c&hm=35c8f49f33416d7097f54ec783e5bccdd8726b400c74049b388350de6884fee3&),
+
 ## Prizes
 
 | Placing | Prize(s) |
