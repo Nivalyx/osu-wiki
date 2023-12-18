@@ -42,7 +42,7 @@ For a visual representation of the structure of the matches, refer to [this char
 
 ## Organisation
 
-The Ascaveth Invitational Tournament 2022 was run by various osu! community members predominantly hailing from Indonesia.
+The Ascaveth Invitational Tournament 2022 was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
