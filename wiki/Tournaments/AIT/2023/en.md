@@ -14,8 +14,8 @@ The **Ascaveth Invitational Tournament 2023** was a double-elimination 1v1 invit
 
 | Event | Timestamp |
 | --: | :-- |
-| Technical meeting | 2022-08-29 |
-| Opening | 2022-09-03 (10:00 UTC +7) |
+| Technical meeting | 2023-12-02 |
+| Opening | 2023-12-09 (10:00 UTC +7) |
 | Quarterfinal 1 | 2022-09-03 (10:30 UTC +7) |
 | Quarterfinal 2 | 2022-09-03 (11:30 UTC +7) |
 | *Break* | 2022-09-03 (12:30 UTC +7) |
