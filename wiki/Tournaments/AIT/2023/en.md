@@ -166,7 +166,7 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
   2. [senya - Kimiiro Subliminal (Satellite) \[Luscent's Lunatic\]](https://osu.ppy.sh/beatmapsets/1959309#osu/4086545)
   3. [Yumi Arai - Hikouki Gumo (el poco maro DnB EDIT) (Monstrata) \[Insane\]](https://osu.ppy.sh/beatmapsets/357161#osu/806019)
 - Tiebreaker
-  1. **[seatrus+Metalliz - Bu++erfly EffecT (penguinlol) \[Rhopalocera Aftermath\]](https://osu.ppy.sh/beatmapsets/1914292#osu/3949189)**
+  1. **[Oreore-Usagi - Drain ReD rain (AdveNt) \[Paradise of Pretense\]](https://osu.ppy.sh/beatmapsets/1622347#osu/3312446)**
 
 ## Match results
 
