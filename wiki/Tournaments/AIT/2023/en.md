@@ -95,11 +95,11 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 
 - NoMod
   1. [Omoi - Snow Drive(01.23) (Kroytz) \[Arigatou\]](https://osu.ppy.sh/beatmapsets/478405#osu/1083052)
-  2. [xi - Blue Zenith (Asphyxia) \[ktgster's Extreme\]](https://osu.ppy.sh/beatmapsets/292301#osu/657917)
-  3. [BlackY feat. Risa Yuzuki - Shuumatsu Kinema (My Angel Jeremy) \[The weekend cinema in my mind\]](https://osu.ppy.sh/beatmapsets/1820113#osu/3734845)
-  4. [ZxNX - Schadenfreude (Realazy) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/1816239#osu/3728042)
-  5. [Igorrr - Unpleasant Sonata (Riene) \[Lyruke's Extreme\]](https://osu.ppy.sh/beatmapsets/1347338#osu/3681518)
-  6. [II-L - LEVEL-DOWN (MrAlpacus) \[OD 9.4\]](https://osu.ppy.sh/beatmapsets/1670983#osu/3459288)
+  2. [Xi - Rokujuu-nen Me no Shinsoku Saiban \~ Rapidity is a justice (Camo) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1999204#osu/4156030)
+  3. [Falcom Sound Team jdk - Belief (Deca) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1569794#osu/3205628)
+  4. [kamome sano - init() (Celine) \[arif jual pempek\]](https://osu.ppy.sh/beatmapsets/1884134#osu/3879302)
+  5. [AAAA vs. Frums - beepbit \* futures (toybot) \[rekytgons \* expert\]](https://osu.ppy.sh/beatmapsets/1633221#osu/4041465)
+  6. [455-38B - G e n g a o z o - f o o n (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/869649#osu/1817464)
 - Hidden
   1. [TERRA - EDEN (Mirash) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1171713#osu/2444026)
   2. [Niko - Made of Fire (lesjuh) \[Oni\]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
