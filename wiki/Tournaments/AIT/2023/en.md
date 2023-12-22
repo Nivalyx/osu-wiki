@@ -145,6 +145,29 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 - Tiebreaker
   1. **[seatrus+Metalliz - Bu++erfly EffecT (penguinlol) \[Rhopalocera Aftermath\]](https://osu.ppy.sh/beatmapsets/1914292#osu/3949189)**
 
+### Semifinals
+
+- NoMod
+  1. [Youth Never Dies - Going Under (ft. Forever Still and ONLAP) (Nightcore) (ReaL motion) \[banger\]](https://osu.ppy.sh/beatmapsets/2072226#osu/4336524)
+  2. [Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu (knowledgeking) \[Tenebrae of Regina\]](https://osu.ppy.sh/beatmapsets/1443880#osu/2970030)
+  3. [hitorie - Nichijou to Chikyuu no Gakubuchi (wowaka x Hatsune Miku Edit) (flake) \[take care.\]](https://osu.ppy.sh/beatmapsets/1985060#osu/4122999)
+  4. [RAM - Mertvetsy (Mazzerin) \[Requiem\]](https://osu.ppy.sh/beatmapsets/1627456#osu/3322526)
+  5. [cosMo\@bousouP feat. Hatsune Miku, GUMI - Monochrome Voice (rollpan) \[Anti the "OJT" HOLIC\]](https://osu.ppy.sh/beatmapsets/1395882#osu/2881155)
+- Hidden
+  1. [AZKi - Fake.Fake.Fake (Luscent) \[Flame Haze/s 3X\]](https://osu.ppy.sh/beatmapsets/1611987#osu/3560365)
+  2. [DECO*27 - Two Breaths Walking (Reloaded) feat. Hatsune Miku (CallieCube) \[Special\]](https://osu.ppy.sh/beatmapsets/1608216#osu/3283965)
+  3. [Camellia feat. Nanahira - POLKAMANIA (Mir) \[LASSE'S POLKANOTHER\]](https://osu.ppy.sh/beatmapsets/1409478#osu/2907086)
+- HardRock
+  1. [DJ C++ - Samayou (ponbot) \[The Fall of Leazas\]](https://osu.ppy.sh/beatmapsets/2017141#osu/4199616)
+  2. [Mori Calliope - end of a life (871) \[dream of a past left behind\]](https://osu.ppy.sh/beatmapsets/1618840#osu/3305251)
+  3. [Children Of Bodom - If You Want Peace... Prepare for War (CallieCube) \[Val's Expert\]](https://osu.ppy.sh/beatmapsets/1511463#osu/3343662)  
+- DoubleTime
+  1. [Tapimiru - Hakkensha wa Watash (sbsonic) \[Dustinati's Insane\]](https://osu.ppy.sh/beatmapsets/1258918#osu/2667608)
+  2. [senya - Kimiiro Subliminal (Satellite) \[Luscent's Lunatic\]](https://osu.ppy.sh/beatmapsets/1959309#osu/4086545)
+  3. [Yumi Arai - Hikouki Gumo (el poco maro DnB EDIT) (Monstrata) \[Insane\]](https://osu.ppy.sh/beatmapsets/357161#osu/806019)
+- Tiebreaker
+  1. **[seatrus+Metalliz - Bu++erfly EffecT (penguinlol) \[Rhopalocera Aftermath\]](https://osu.ppy.sh/beatmapsets/1914292#osu/3949189)**
+
 ## Match results
 
 ### Grand Final
