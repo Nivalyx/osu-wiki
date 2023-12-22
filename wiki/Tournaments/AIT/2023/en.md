@@ -89,12 +89,12 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 
 ## Mappools
 
-### Grand Final and 3rd Place Match
+**[Download all the maps from the tournament below in a single pack here! (548 MB)](https://drive.google.com/file/d/1ncQRP2LcWLUEV-rRN226pZYQNJE0MIpQ/view)**
 
-**[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
+### Grand Finals
 
 - NoMod
-  1. [ELFENSJoN - Shiroki Yume wa Madara ni (Volcarona) \[Twilight\]](https://osu.ppy.sh/beatmapsets/1411211#osu/3174011)
+  1. [Omoi - Snow Drive(01.23) (Kroytz) \[Arigatou\]](https://osu.ppy.sh/beatmapsets/478405#osu/1083052)
   2. [xi - Blue Zenith (Asphyxia) \[ktgster's Extreme\]](https://osu.ppy.sh/beatmapsets/292301#osu/657917)
   3. [BlackY feat. Risa Yuzuki - Shuumatsu Kinema (My Angel Jeremy) \[The weekend cinema in my mind\]](https://osu.ppy.sh/beatmapsets/1820113#osu/3734845)
   4. [ZxNX - Schadenfreude (Realazy) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/1816239#osu/3728042)
