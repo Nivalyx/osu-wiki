@@ -121,23 +121,29 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 ### Finals
 
 - NoMod
-  1. [Mrs. GREEN APPLE - Blue Ambience (feat. asmi) (Raids) \[I want to be loved!\]](https://osu.ppy.sh/beatmapsets/1801997#osu/3765020)
-  2. [cosMo@BousouP - Oceanus (Broccoly) \[Divinity\]](https://osu.ppy.sh/beatmapsets/267767#osu/609843)
-  3. [ZUTOMAYO - Kan Saete Kuyashiiwa (Nathan) \[geragera\]](https://osu.ppy.sh/beatmapsets/1001507#osu/2096523)
-  4. [NOMA - LOUDER MACHINE (Skystar) \[byfar x Skystar's Collab Extra\]](https://osu.ppy.sh/beatmapsets/483606#osu/1085206)
-  5. [t+pazolite - Hoshikuzu Struck (KKipalt) \[Stardust (Bamboo Ver.)\]](https://osu.ppy.sh/beatmapsets/1478718#osu/3033661)
+  1. [Youth Never Dies - Going Under (ft. Forever Still and ONLAP) (Nightcore) (ReaL motion) \[banger\]](https://osu.ppy.sh/beatmapsets/2072226#osu/4336524)
+  2. [Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu (knowledgeking) \[Tenebrae of Regina\]](https://osu.ppy.sh/beatmapsets/1443880#osu/2970030)
+  3. [hitorie - Nichijou to Chikyuu no Gakubuchi (wowaka x Hatsune Miku Edit) (flake) \[take care.\]](https://osu.ppy.sh/beatmapsets/1985060#osu/4122999)
+  4. [RAM - Mertvetsy (Mazzerin) \[Requiem\]](https://osu.ppy.sh/beatmapsets/1627456#osu/3322526)
+  5. [cosMo\@bousouP feat. Hatsune Miku, GUMI - Monochrome Voice (rollpan) \[Anti the "OJT" HOLIC\]](https://osu.ppy.sh/beatmapsets/1395882#osu/2881155)
+  6. [Towa Tei with Sheena Ringo - APPLE (fanzhen0019) \[PaRaDogi's Expert\]](https://osu.ppy.sh/beatmapsets/1851719#osu/3941000)
 - Hidden
-  1. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Ryuusei Aika) \[Skystar's Irregular\]](https://osu.ppy.sh/beatmapsets/740862#osu/1723257)
-  2. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/513731#osu/1350672)
+  1. [AZKi - Fake.Fake.Fake (Luscent) \[Flame Haze/s 3X\]](https://osu.ppy.sh/beatmapsets/1611987#osu/3560365)
+  2. [DECO*27 - Two Breaths Walking (Reloaded) feat. Hatsune Miku (CallieCube) \[Special\]](https://osu.ppy.sh/beatmapsets/1608216#osu/3283965)
+  3. [Camellia feat. Nanahira - POLKAMANIA (Mir) \[LASSE'S POLKANOTHER\]](https://osu.ppy.sh/beatmapsets/1409478#osu/2907086)
+  4. [40mP feat. chano - Yuugure One Room (Pseudonymous) \[Uberzolik & Axaptice's Expert\]](https://osu.ppy.sh/beatmapsets/1790796#osu/3845952)
 - HardRock
-  1. [Mitsukiyo - Luminous Memory (CoLouRed GlazeE) \[Extra\]](https://osu.ppy.sh/beatmapsets/1796025#osu/3681594)
-  2. [ginkiha - EOS (alacat) \[Lycoris\]](https://osu.ppy.sh/beatmapsets/151720#osu/373781)
+  1. [DJ C++ - Samayou (ponbot) \[The Fall of Leazas\]](https://osu.ppy.sh/beatmapsets/2017141#osu/4199616)
+  2. [Mori Calliope - end of a life (871) \[dream of a past left behind\]](https://osu.ppy.sh/beatmapsets/1618840#osu/3305251)
+  3. [Children Of Bodom - If You Want Peace... Prepare for War (CallieCube) \[Val's Expert\]](https://osu.ppy.sh/beatmapsets/1511463#osu/3343662)
+  4. [Ocelot - TSUBAKI (Hollow Wings) \[fanzhen's Extreme\]](https://osu.ppy.sh/beatmapsets/364574#osu/848061)  
 - DoubleTime
-  1. [Sakamoto Maaya - Mameshiba (Keqing) \[Seaside\]](https://osu.ppy.sh/beatmapsets/1650679#osu/3371420)
-  2. [Annabel - pedalnote (Agatsu) \[Gibune's Insane\]](https://osu.ppy.sh/beatmapsets/1669381#osu/3409171)
-  3. [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)
+  1. [Hana - Sakura to Kotori (Giralda) \[Laurier's Insane\]](https://osu.ppy.sh/beatmapsets/427688#osu/923244)
+  2. [Endorfin. - Cotton Candy Wonderland (Elcheer) \[Dream\]](https://osu.ppy.sh/beatmapsets/1838294#osu/3774968)
+  3. [BUTAOTOME - Tanoshii Sensou no Uta (Kowari) \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1870597#osu/3848634)
+  4. [lapix - Amazing Mirage (Extended) (Chaoslitz) \[Cubby's Insane\]](https://osu.ppy.sh/beatmapsets/608572#osu/3245457)
 - Tiebreaker
-  1. **[Asriel - Sequentia (Deca) \[Damnation\]](https://osu.ppy.sh/beatmapsets/1550720#osu/3168834)**
+  1. **[Noah - Resonance (jiwoas) \[Illusion\]](https://osu.ppy.sh/beatmapsets/2100842#osu/4407298)**
 
 ## Match results
 
