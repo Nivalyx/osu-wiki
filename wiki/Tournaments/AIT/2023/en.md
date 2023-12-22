@@ -138,12 +138,12 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
   3. [Children Of Bodom - If You Want Peace... Prepare for War (CallieCube) \[Val's Expert\]](https://osu.ppy.sh/beatmapsets/1511463#osu/3343662)
   4. [Ocelot - TSUBAKI (Hollow Wings) \[fanzhen's Extreme\]](https://osu.ppy.sh/beatmapsets/364574#osu/848061)  
 - DoubleTime
-  1. [Hana - Sakura to Kotori (Giralda) \[Laurier's Insane\]](https://osu.ppy.sh/beatmapsets/427688#osu/923244)
-  2. [Endorfin. - Cotton Candy Wonderland (Elcheer) \[Dream\]](https://osu.ppy.sh/beatmapsets/1838294#osu/3774968)
-  3. [BUTAOTOME - Tanoshii Sensou no Uta (Kowari) \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1870597#osu/3848634)
-  4. [lapix - Amazing Mirage (Extended) (Chaoslitz) \[Cubby's Insane\]](https://osu.ppy.sh/beatmapsets/608572#osu/3245457)
+  1. [Tapimiru - Hakkensha wa Watash (sbsonic) \[Dustinati's Insane\]](https://osu.ppy.sh/beatmapsets/1258918#osu/2667608)
+  2. [senya - Kimiiro Subliminal (Satellite) \[Luscent's Lunatic\]](https://osu.ppy.sh/beatmapsets/1959309#osu/4086545)
+  3. [Yumi Arai - Hikouki Gumo (el poco maro DnB EDIT) (Monstrata) \[Insane\]](https://osu.ppy.sh/beatmapsets/357161#osu/806019)
+  4. [MYTH & ROID - STYX HELIX (mnyui) \[MEMORIES\]](https://osu.ppy.sh/beatmapsets/1809117#osu/3710570)
 - Tiebreaker
-  1. **[Noah - Resonance (jiwoas) \[Illusion\]](https://osu.ppy.sh/beatmapsets/2100842#osu/4407298)**
+  1. **[seatrus+Metalliz - Bu++erfly EffecT (penguinlol) \[Rhopalocera Aftermath\]](https://osu.ppy.sh/beatmapsets/1914292#osu/3949189)**
 
 ## Match results
 
