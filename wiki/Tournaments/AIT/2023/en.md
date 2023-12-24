@@ -32,6 +32,8 @@ For a visual representation of the structure of the matches, refer to [this char
 
 ## Prizes
 
+The Ascaveth Invitational Tournament 2023 offered a prize pool of 3,000,000 IDR as generously donated by Raids and Ascaveth. This prize pool was further increased from community donations through Saweria and Streamlabs.
+
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 500,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
