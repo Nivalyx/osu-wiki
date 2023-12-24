@@ -59,7 +59,7 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 | Security and permissions | ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031) |
 | Documentation | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
 | Catering | ::{ flag=ID }:: [Nareisk](https://osu.ppy.sh/users/18382879) |
-| Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/6155896), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Zaald](https://osu.ppy.sh/users/12088808) |
+| Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/6155896), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Zaald](https://osu.ppy.sh/users/12088808), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 | Merch artist | ::{ flag=ID }:: satomiz [(↗)](https://web.facebook.com/stmzu), ::{ flag=ID }:: aikovio [(↗)](https://twitter.com/aikovio), ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore) | 
 | Special thanks | ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) |
