@@ -32,7 +32,7 @@ For a visual representation of the structure of the matches, refer to [this char
 
 ## Prizes
 
-The Ascaveth Invitational Tournament 2023 offered a prize pool that was built upon community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip) as well as.
+The Ascaveth Invitational Tournament 2023 offered a prize pool that was built upon community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip) as well as [merchandise sales](https://www.youtube.com/watch?v=3J8BuScGRSY).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -41,6 +41,8 @@ The Ascaveth Invitational Tournament 2023 offered a prize pool that was built up
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 150,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
 | *4th place* | 100,000 IDR |
 | *5th-8th place* | 75,000 IDR |
+
+As with most osu! tournaments in general, the Ascaveth Invitational Tournament 2023 was not run or marked for profit.
 
 ## Organisation
 
