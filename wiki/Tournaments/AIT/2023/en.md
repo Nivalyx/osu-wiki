@@ -90,7 +90,13 @@ In addition, the Tournament Management also included ::{ flag=ID }:: [Suikami](h
 
 ## Podium
 
-![](img/podium.jpg "Ascaveth Invitational Tournament 2022 podium")
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
 
 ## Mappools
 
