@@ -199,11 +199,12 @@ In addition, the Tournament Management also included ::{ flag=ID }:: [Suikami](h
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Grand Final | [Skydiver](https://osu.ppy.sh/users/4750008) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/99571190) |
 
-### 3rd Place Match
+### Finals
 
 | Match code  | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 3rd Place Match | **[Crezz](https://osu.ppy.sh/users/7108275)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | [#1](https://osu.ppy.sh/community/matches/103532224) |
+| Lower/Match 9L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/111639091) |
+| Lower/Match 10L | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111639131) |
 
 ### Semifinals
 
