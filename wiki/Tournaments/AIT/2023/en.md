@@ -69,7 +69,8 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 - **[News post](https://osu.ppy.sh/home/news/2023-12-03-osu-indonesia-presents-ascaveth-invitational-tournament-2023)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1843821)
 - [Twitter](https://www.twitter.com/AscavethInv)
-- [Livestream](https://www.twitch.tv/osuIndonesia)
+- [Livestream (main channel)](https://www.twitch.tv/osuIndonesia)
+- [Livestream (secondary channel)](https://www.twitch.tv/lifeline)
 - [Challonge brackets](https://challonge.com/AIT2023)
 
 ## Participants
