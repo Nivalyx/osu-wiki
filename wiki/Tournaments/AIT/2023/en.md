@@ -59,7 +59,7 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 | Security and permissions | ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031) |
 | Documentation | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
 | Catering | ::{ flag=ID }:: [Nareisk](https://osu.ppy.sh/users/18382879) |
-| Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592) |
+| Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/6155896), ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/5865319) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 | Additional helper | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Arca 9](https://osu.ppy.sh/users/14042319), ::{ flag=ID }:: [xLipz](https://osu.ppy.sh/users/8358833), ::{ flag=ID }:: Hollowness, ::{ flag=ID }:: Vanties, ::{ flag=ID }:: Aniki, ::{ flag=ID }:: St. Dark\_Pha, ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
 
