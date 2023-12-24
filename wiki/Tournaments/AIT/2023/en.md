@@ -61,6 +61,7 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 | Catering | ::{ flag=ID }:: [Nareisk](https://osu.ppy.sh/users/18382879) |
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/6155896), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Merch artist | ::{ flag=MY }:: th_nore [🔗](https://twitter.com/th_nore), 
 | Special thanks | ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) |
 
 ## Links
