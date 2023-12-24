@@ -264,7 +264,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Tournament registration
 
-As the tournament was an invitational, there were no open registrations held for the event. However, as always, test players, referees, and mappool selectors may not participate as players in this tournament.
+As the tournament was an invitational, there were no open registrations held for the event. However, as always, testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Match instructions
 
@@ -272,7 +272,7 @@ As the tournament was an invitational, there were no open registrations held for
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** (on the Quarterfinals and the Semifinals) or **two beatmaps** (on the 3rd Place Match and the Grand Final) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+2. Each player has to ban **one beatmap** (on the Quarterfinals and the Semifinals) or **two beatmaps** (on the Finals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own during the grace period before the match commences.
 4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
