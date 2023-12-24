@@ -181,13 +181,13 @@ In addition, the Tournament Management also included ::{ flag=ID }:: [Suikami](h
   2. [MIMI - Kuu ni Naru (CoLouRed GlaZeE) \[Insane\]](https://osu.ppy.sh/beatmapsets/2009473#osu/4180530)
   3. [TAG - Astral Stranger (Niva) \[Expert\]](https://osu.ppy.sh/beatmapsets/2069040#osu/4329099)
 - HardRock
-  1. [la la larks - Massive Passive (Kalibe) \[Existence\]](https://osu.ppy.sh/beatmapsets/1092295#osu/2283327)
-  2. [School Food Punishment - fiction nonfiction (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1829347#osu/3754547)
-  3. [Freezer feat. Kiichigo - Himatoii no Yoi (KKipalt) \[Future\]](https://osu.ppy.sh/beatmapsets/1755231#osu/3591934)  
+  1. [FELT - Oblivion (MaridiuS) \[Far Away\]](https://osu.ppy.sh/beatmapsets/814101#osu/1707318)
+  2. [Mitsukiyo - Future Bossa (Stompy\_) \[Welcome to Kivotos, Sensei!\]](https://osu.ppy.sh/beatmapsets/1981110#osu/4113742)
+  3. [fallen shepherd feat. RabbiTon Strings - ENDYMION (Acylica) \[Realazy(Frenchcore)\]](https://osu.ppy.sh/beatmapsets/1291409#osu/2680522)  
 - DoubleTime
-  1. [Sasaki Sayaka - Yume to Iro de Dekiteiru (eringiRa) \[Everlasting Memories\]](https://osu.ppy.sh/beatmapsets/2071480#osu/4334582)
-  2. [KOTOKO - -> unfinished -> (Cellina) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2081896#osu/4360066)
-  3. [Polyphia - O.D. (Mir) \[Insane\]](https://osu.ppy.sh/beatmapsets/1378026#osu/2880808)
+  1. [Narae - SPiCa (timemon) \[Insane\]](https://osu.ppy.sh/beatmapsets/664636#osu/1406645)
+  2. [Hatsune Miku - Netoge Haijin Sprechchor (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
+  3. [sakuzyo - Senkyou Ranbu (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/460516#osu/1042025)
 - Tiebreaker
   1. **[Halozy - Sentimental Skyscraper (Hollow Wings) \[Myouren Hijiri\]](https://osu.ppy.sh/beatmapsets/100348#osu/412288)**  
 
