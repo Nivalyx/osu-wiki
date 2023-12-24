@@ -205,6 +205,8 @@ In addition, the Tournament Management also included ::{ flag=ID }:: [Suikami](h
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower/Match 9L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/111639091) |
 | Lower/Match 10L | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111639131) |
+| Lower/Match 11L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/111639900) |
+| Upper/Match 12U | [Lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111639683) |
 
 ### Semifinals
 
