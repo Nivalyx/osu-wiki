@@ -32,7 +32,7 @@ For a visual representation of the structure of the matches, refer to [this char
 
 ## Prizes
 
-The Ascaveth Invitational Tournament 2023 offered a prize pool of 3,000,000 IDR as generously donated by Raids and Ascaveth. This prize pool was further increased from community donations through Saweria and Streamlabs.
+The Ascaveth Invitational Tournament 2023 offered a prize pool that was built upon community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip) as well as.
 
 | Placing | Prize(s) |
 | :-: | :-- |
