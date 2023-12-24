@@ -193,26 +193,27 @@ In addition, the Tournament Management also included ::{ flag=ID }:: [Suikami](h
 
 ## Match results
 
-### Grand Final
+### Grand Finals
 
-| Match code | Player 1 |  |  | Player 2 | Match link |
+| Bracket/Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | [Skydiver](https://osu.ppy.sh/users/4750008) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/99571190) |
+| Lower/Match 13L | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111641719) |
+| Grand Final/Match 14 | **[rHO](https://osu.ppy.sh/users/1629553)** ::{ flag=ID }:: | **7** | 6 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/111642879) |
 
 ### Finals
 
-| Match code  | Player 1 |  |  | Player 2 | Match link |
+| Bracket/Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower/Match 9L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/111639091) |
 | Lower/Match 10L | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111639131) |
 | Lower/Match 11L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/111639900) |
-| Upper/Match 12U | [Lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111639683) |
+| Upper/Match 12U | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111639683) |
 
 ### Semifinals
 
 | Bracket/Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper/Match 5U | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/111638406) |
+| Upper/Match 5U | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/111638406) |
 | Upper/Match 6U | [DEETO](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111638367) |
 | Lower/Match 7L | [Skydiver](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[NazunaAmemiya](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111637354) |
 | Lower/Match 8L | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111637200) |
@@ -221,7 +222,7 @@ In addition, the Tournament Management also included ::{ flag=ID }:: [Suikami](h
 
 | Bracket/Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper/Match 1 | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/111636056) |
+| Upper/Match 1 | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/111636056) |
 | Upper/Match 2 | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/111636028) |
 | Upper/Match 3 | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
 | Upper/Match 4 | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111636056) | [#1](https://osu.ppy.sh/community/matches/111636611) |
