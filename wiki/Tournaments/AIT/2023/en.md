@@ -162,11 +162,34 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
   2. [School Food Punishment - fiction nonfiction (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1829347#osu/3754547)
   3. [Freezer feat. Kiichigo - Himatoii no Yoi (KKipalt) \[Future\]](https://osu.ppy.sh/beatmapsets/1755231#osu/3591934)  
 - DoubleTime
-  1. [Tapimiru - Hakkensha wa Watash (sbsonic) \[Dustinati's Insane\]](https://osu.ppy.sh/beatmapsets/1258918#osu/2667608)
-  2. [senya - Kimiiro Subliminal (Satellite) \[Luscent's Lunatic\]](https://osu.ppy.sh/beatmapsets/1959309#osu/4086545)
-  3. [Yumi Arai - Hikouki Gumo (el poco maro DnB EDIT) (Monstrata) \[Insane\]](https://osu.ppy.sh/beatmapsets/357161#osu/806019)
+  1. [Sasaki Sayaka - Yume to Iro de Dekiteiru (eringiRa) \[Everlasting Memories\]](https://osu.ppy.sh/beatmapsets/2071480#osu/4334582)
+  2. [KOTOKO - -> unfinished -> (Cellina) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2081896#osu/4360066)
+  3. [Polyphia - O.D. (Mir) \[Insane\]](https://osu.ppy.sh/beatmapsets/1378026#osu/2880808)
 - Tiebreaker
   1. **[Oreore-Usagi - Drain ReD rain (AdveNt) \[Paradise of Pretense\]](https://osu.ppy.sh/beatmapsets/1622347#osu/3312446)**
+
+### Quarterfinals
+
+- NoMod
+  1. [DracoVirgo - FLY (Flame Haze) \[To Flourish is To Fall\]](https://osu.ppy.sh/beatmapsets/1838488#osu/3775437)
+  2. [Iron Attack! - Final Revenge (alden) \[Vengeance\]](https://osu.ppy.sh/beatmapsets/1557525#osu/3181702)
+  3. [RADWIMPS - Hyperventilation (seros) \[What are you gonna do to my b\*\*bs?\]](https://osu.ppy.sh/beatmapsets/1924212#osu/3972485)
+  4. [seatrus - ILLEGAL LEGACY (IntegerTempest) \[colicen's EXPERT\]](https://osu.ppy.sh/beatmapsets/1932951#osu/4057648)
+  5. [Umeboshi Chazuke - Bison Chargee (Nao Tomori) \[Flask's Extreme\]](https://osu.ppy.sh/beatmapsets/894701#osu/1900116)
+- Hidden
+  1. [sekai - Sensei no Koto Suki ni Nacchau (Petal) \[!\~!\]](https://osu.ppy.sh/beatmapsets/1865173#osu/3836427)
+  2. [Brandy - Cross Time !! (Saika0k1) \[:pensive: :fist:\]](https://osu.ppy.sh/beatmapsets/1065928#osu/2232002)
+  3. [Fuki - Zinger Ringer Gang Love (Frakturehawkens) \[Seven Colors\]](https://osu.ppy.sh/beatmapsets/1621919#osu/3311393)
+- HardRock
+  1. [la la larks - Massive Passive (Kalibe) \[Existence\]](https://osu.ppy.sh/beatmapsets/1092295#osu/2283327)
+  2. [School Food Punishment - fiction nonfiction (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1829347#osu/3754547)
+  3. [Freezer feat. Kiichigo - Himatoii no Yoi (KKipalt) \[Future\]](https://osu.ppy.sh/beatmapsets/1755231#osu/3591934)  
+- DoubleTime
+  1. [Sasaki Sayaka - Yume to Iro de Dekiteiru (eringiRa) \[Everlasting Memories\]](https://osu.ppy.sh/beatmapsets/2071480#osu/4334582)
+  2. [KOTOKO - -> unfinished -> (Cellina) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2081896#osu/4360066)
+  3. [Polyphia - O.D. (Mir) \[Insane\]](https://osu.ppy.sh/beatmapsets/1378026#osu/2880808)
+- Tiebreaker
+  1. **[Oreore-Usagi - Drain ReD rain (AdveNt) \[Paradise of Pretense\]](https://osu.ppy.sh/beatmapsets/1622347#osu/3312446)**  
 
 ## Match results
 
