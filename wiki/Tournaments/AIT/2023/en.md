@@ -81,14 +81,14 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 
 Listed below are the players who were invited into the tournament:
 
-- ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222)
-- ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635)
-- ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275)
-- ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008)
-- ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956)
-- ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594)
-- ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633)
-- ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809)
+- ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) *([Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) winner)*
+- ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) *([Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) runner-up)*
+- ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) winner)*
+- ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) runner-up)*
+- ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) 3rd-place finisher)*
+- ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) best non-podium finisher)*
+- ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) *([Last Chance Qualifier](/wiki/Tournaments/AIT/LCQ_2023) winner)*
+- ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) *([Last Chance Qualifier](/wiki/Tournaments/AIT/LCQ_2023) runner-up)*
 
 In addition, the Tournament Management also included ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) as a reserve player in case someone had to withdraw from the event on short notice.
 
