@@ -214,12 +214,12 @@ In addition, the Tournament Management also included ::{ flag=ID }:: [Suikami](h
 
 ### Quarterfinals
 
-| Match code | Player 1 |  |  | Player 2 | Match link |
+| Bracket/Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Quarterfinal 1 | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/103525528) |
-| Quarterfinal 2 | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/103526744) |
-| Quarterfinal 3 | [Daffy](https://osu.ppy.sh/users/5968633) ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/103527716) |
-| Quarterfinal 4 | **[Skydiver](https://osu.ppy.sh/users/4750008)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) | [#1](https://osu.ppy.sh/community/matches/103528575) |
+| Upper/Match 1 | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/111636056) |
+| Upper/Match 2 | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/111636028) |
+| Upper/Match 3 | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
+| Upper/Match 4 | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111636056) | [#1](https://osu.ppy.sh/community/matches/111636611) |
 
 ## Ruleset
 
