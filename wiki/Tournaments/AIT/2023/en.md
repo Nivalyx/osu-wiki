@@ -189,7 +189,7 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
   2. [KOTOKO - -> unfinished -> (Cellina) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2081896#osu/4360066)
   3. [Polyphia - O.D. (Mir) \[Insane\]](https://osu.ppy.sh/beatmapsets/1378026#osu/2880808)
 - Tiebreaker
-  1. **[Oreore-Usagi - Drain ReD rain (AdveNt) \[Paradise of Pretense\]](https://osu.ppy.sh/beatmapsets/1622347#osu/3312446)**  
+  1. **[Halozy - Sentimental Skyscraper (Hollow Wings) \[Myouren Hijiri\]](https://osu.ppy.sh/beatmapsets/100348#osu/412288)**  
 
 ## Match results
 
