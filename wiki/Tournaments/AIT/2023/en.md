@@ -178,8 +178,8 @@ In addition, the Tournament Management also included ::{ flag=ID }:: [Suikami](h
   5. [Ado - Show (Nevertary) \[A Colorful Butterfly in the Middle of the Party\]](https://osu.ppy.sh/beatmapsets/2098188#osu/4401089)
 - Hidden
   1. [tricot - E (tin frog) \[tin frog x ClumsyRwby x starfly x HFIG; Salvation\]](https://osu.ppy.sh/beatmapsets/1923239#osu/3970238)
-  2. [Brandy - Cross Time !! (Saika0k1) \[:pensive: :fist:\]](https://osu.ppy.sh/beatmapsets/1065928#osu/2232002)
-  3. [Fuki - Zinger Ringer Gang Love (Frakturehawkens) \[Seven Colors\]](https://osu.ppy.sh/beatmapsets/1621919#osu/3311393)
+  2. [MIMI - Kuu ni Naru (CoLouRed GlaZeE) \[Insane\]](https://osu.ppy.sh/beatmapsets/2009473#osu/4180530)
+  3. [TAG - Astral Stranger (Niva) \[Expert\]](https://osu.ppy.sh/beatmapsets/2069040#osu/4329099)
 - HardRock
   1. [la la larks - Massive Passive (Kalibe) \[Existence\]](https://osu.ppy.sh/beatmapsets/1092295#osu/2283327)
   2. [School Food Punishment - fiction nonfiction (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1829347#osu/3754547)
