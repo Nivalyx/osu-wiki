@@ -50,8 +50,8 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 | Organiser | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [shunling](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
 | Mappool selector | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [shunling](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) |
 | Custom mapper | ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [Riene](https://osu.ppy.sh/users/8549009), ::{ flag=ID }:: [Adinda](https://osu.ppy.sh/users/15959751)  |
-| Playtester |
-| Streamer | ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
+| Playtester | ::{ flag=ID }:: [i love uma](https://osu.ppy.sh/users/7108275), ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
+| Streamer | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
 | Commentator | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) |
 | Referee | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490) |
 | Logistics and equipment | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
