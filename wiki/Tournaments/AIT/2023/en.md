@@ -148,15 +148,15 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 ### Semifinals
 
 - NoMod
-  1. [Youth Never Dies - Going Under (ft. Forever Still and ONLAP) (Nightcore) (ReaL motion) \[banger\]](https://osu.ppy.sh/beatmapsets/2072226#osu/4336524)
-  2. [Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu (knowledgeking) \[Tenebrae of Regina\]](https://osu.ppy.sh/beatmapsets/1443880#osu/2970030)
-  3. [hitorie - Nichijou to Chikyuu no Gakubuchi (wowaka x Hatsune Miku Edit) (flake) \[take care.\]](https://osu.ppy.sh/beatmapsets/1985060#osu/4122999)
-  4. [RAM - Mertvetsy (Mazzerin) \[Requiem\]](https://osu.ppy.sh/beatmapsets/1627456#osu/3322526)
-  5. [cosMo\@bousouP feat. Hatsune Miku, GUMI - Monochrome Voice (rollpan) \[Anti the "OJT" HOLIC\]](https://osu.ppy.sh/beatmapsets/1395882#osu/2881155)
+  1. [DracoVirgo - FLY (Flame Haze) \[To Flourish is To Fall\]](https://osu.ppy.sh/beatmapsets/1838488#osu/3775437)
+  2. [Iron Attack! - Final Revenge (alden) \[Vengeance\]](https://osu.ppy.sh/beatmapsets/1557525#osu/3181702)
+  3. [RADWIMPS - Hyperventilation (seros) \[What are you gonna do to my b\*\*bs?\]](https://osu.ppy.sh/beatmapsets/1924212#osu/3972485)
+  4. [seatrus - ILLEGAL LEGACY (IntegerTempest) \[colicen's EXPERT\]](https://osu.ppy.sh/beatmapsets/1932951#osu/4057648)
+  5. [Umeboshi Chazuke - Bison Chargee (Nao Tomori) \[Flask's Extreme\]](https://osu.ppy.sh/beatmapsets/894701#osu/1900116)
 - Hidden
-  1. [AZKi - Fake.Fake.Fake (Luscent) \[Flame Haze/s 3X\]](https://osu.ppy.sh/beatmapsets/1611987#osu/3560365)
-  2. [DECO*27 - Two Breaths Walking (Reloaded) feat. Hatsune Miku (CallieCube) \[Special\]](https://osu.ppy.sh/beatmapsets/1608216#osu/3283965)
-  3. [Camellia feat. Nanahira - POLKAMANIA (Mir) \[LASSE'S POLKANOTHER\]](https://osu.ppy.sh/beatmapsets/1409478#osu/2907086)
+  1. [sekai - Sensei no Koto Suki ni Nacchau (Petal) \[!\~!\]](https://osu.ppy.sh/beatmapsets/1865173#osu/3836427)
+  2. [Brandy - Cross Time !! (Saika0k1) \[:pensive: :fist:\]](https://osu.ppy.sh/beatmapsets/1065928#osu/2232002)
+  3. [Fuki - Zinger Ringer Gang Love (Frakturehawkens) \[Seven Colors\]](https://osu.ppy.sh/beatmapsets/1621919#osu/3311393)
 - HardRock
   1. [DJ C++ - Samayou (ponbot) \[The Fall of Leazas\]](https://osu.ppy.sh/beatmapsets/2017141#osu/4199616)
   2. [Mori Calliope - end of a life (871) \[dream of a past left behind\]](https://osu.ppy.sh/beatmapsets/1618840#osu/3305251)
