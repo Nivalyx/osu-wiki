@@ -57,7 +57,7 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 | Logistics and equipment | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633), ::{ flag=ID }:: [Pmy](https://osu.ppy.sh/users/9083094), ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302) |
 | Merchandising | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) |
 | Security and permissions | ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031) |
-| Documentation | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
+| Documentation | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
 | Catering | ::{ flag=ID }:: [Nareisk](https://osu.ppy.sh/users/18382879) |
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
