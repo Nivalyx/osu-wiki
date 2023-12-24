@@ -279,5 +279,8 @@ As the tournament was an invitational, there were no open registrations held for
    - Playing the tiebreaker map with a mod is *not* mandatory.
 5. Players who can compete in the next round are determined by:
    - In the Quarterfinals and the Semifinals, each player needs to win 5 points in order to win a match. (Best-of-9)
-   - In the 3rd Place Match and the Grand Final, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Finals, each player needs to win 6 points in order to win a match. (Best-of-11)
+   - In the Grand Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
+   - Whether there are players who are declared to win the match by default.
+   - Whether there are players who are disqualified from the tournament.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
