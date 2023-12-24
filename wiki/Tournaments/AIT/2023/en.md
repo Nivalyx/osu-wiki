@@ -37,10 +37,10 @@ The Ascaveth Invitational Tournament 2023 offered a prize pool that was built up
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 35% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 250,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 150,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
-| *4th place* | 100,000 IDR |
-| *5th-8th place* | 75,000 IDR |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
+| *4th place* | 10% of the accumulated prize pool, exclusive players-only merch set |
+| *5th-8th place* | 5% of the accumulated prize pool, exclusive players-only merch set |
 
 As with other osu! tournaments in general, the Ascaveth Invitational Tournament 2023 was not  marked for profit, with all donations and proceeds going directly into the prize pool.
 
