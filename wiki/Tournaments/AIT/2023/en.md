@@ -171,13 +171,13 @@ In addition, the Tournament Management also included ::{ flag=ID }:: [Suikami](h
 ### Quarterfinals
 
 - NoMod
-  1. [DracoVirgo - FLY (Flame Haze) \[To Flourish is To Fall\]](https://osu.ppy.sh/beatmapsets/1838488#osu/3775437)
-  2. [Iron Attack! - Final Revenge (alden) \[Vengeance\]](https://osu.ppy.sh/beatmapsets/1557525#osu/3181702)
-  3. [RADWIMPS - Hyperventilation (seros) \[What are you gonna do to my b\*\*bs?\]](https://osu.ppy.sh/beatmapsets/1924212#osu/3972485)
-  4. [seatrus - ILLEGAL LEGACY (IntegerTempest) \[colicen's EXPERT\]](https://osu.ppy.sh/beatmapsets/1932951#osu/4057648)
-  5. [Umeboshi Chazuke - Bison Chargee (Nao Tomori) \[Flask's Extreme\]](https://osu.ppy.sh/beatmapsets/894701#osu/1900116)
+  1. [Falcom Sound Team jdk - NORSE WIND (Moete) \[COLLAB CONQUEROR\]](https://osu.ppy.sh/beatmapsets/1773734#osu/3756517)
+  2. [Yu_Asahina ft. Ritsuka - HAELE III \~Angel Worlds\~ (Cellina) \[HAELEQUIN\]](https://osu.ppy.sh/beatmapsets/1829277#osu/3754398)
+  3. [hitorie - NONSENSE (Kine) \[Gochisousama\]](https://osu.ppy.sh/beatmapsets/1963004#osu/4068544)
+  4. [Eagle - Hypersonik (Ascended) \[Jason^2's Ultra\]](https://osu.ppy.sh/beatmapsets/1834293#osu/3832950)
+  5. [Ado - Show (Nevertary) \[A Colorful Butterfly in the Middle of the Party\]](https://osu.ppy.sh/beatmapsets/2098188#osu/4401089)
 - Hidden
-  1. [sekai - Sensei no Koto Suki ni Nacchau (Petal) \[!\~!\]](https://osu.ppy.sh/beatmapsets/1865173#osu/3836427)
+  1. [tricot - E (tin frog) \[tin frog x ClumsyRwby x starfly x HFIG; Salvation\]](https://osu.ppy.sh/beatmapsets/1923239#osu/3970238)
   2. [Brandy - Cross Time !! (Saika0k1) \[:pensive: :fist:\]](https://osu.ppy.sh/beatmapsets/1065928#osu/2232002)
   3. [Fuki - Zinger Ringer Gang Love (Frakturehawkens) \[Seven Colors\]](https://osu.ppy.sh/beatmapsets/1621919#osu/3311393)
 - HardRock
