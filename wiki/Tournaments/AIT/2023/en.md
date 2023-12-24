@@ -42,7 +42,7 @@ The Ascaveth Invitational Tournament 2023 offered a prize pool that was built up
 | *4th place* | 100,000 IDR |
 | *5th-8th place* | 75,000 IDR |
 
-As with other osu! tournaments in general, the Ascaveth Invitational Tournament 2023 was not run or marked for profit. All of the proceedings went 
+As with other osu! tournaments in general, the Ascaveth Invitational Tournament 2023 was not run or marked for profit. All of the proceedings from above went into the prize pool.
 
 ## Organisation
 
