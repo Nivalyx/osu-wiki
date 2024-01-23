@@ -53,12 +53,11 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 
 ## Links
 
-- **[News post](https://osu.ppy.sh/home/news/2023-12-03-osu-indonesia-presents-ascaveth-invitational-tournament-2023)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1843821)
-- [Twitter account](https://www.twitter.com/AscavethInv)
-- [Livestream (main channel)](https://www.twitch.tv/osuIndonesia)
-- [Livestream (secondary channel)](https://www.twitch.tv/lifeline)
-- [Challonge brackets](https://challonge.com/AIT2023)
+- **[Official website](https://wybin.xyz/tournaments/o!c-convert-open-2023/home)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1838266)
+- [Discord server](https://discord.gg/PDVF3tbhY8)
+- [Challonge brackets](https://challonge.com/OCCO2023)
+- [Livestream channel](https://www.twitch.tv/osucatchid)
 
 ## Participants
 
