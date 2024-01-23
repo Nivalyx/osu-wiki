@@ -6,7 +6,7 @@ tags:
 
 # osu!catch Convert Cup Open 2023
 
-![osu!catch Convert Cup Open 2023 banner](img/banner.png)
+![osu!catch Convert Cup Open 2023 banner](img/banner.jpg)
 
 The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elimination osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-organised by ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) and ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first event to be held under the "Convert Cup Open" branding, the tournament was considered as an expansion of the previously held [Indonesia Convert Cup](/wiki/en/Tournaments/ICC) series.
 
@@ -32,19 +32,17 @@ The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elim
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 35% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
-| *4th place* | 10% of the accumulated prize pool, exclusive players-only merch set |
-| *5th–8th place* | 5% of the accumulated prize pool, exclusive players-only merch set |
 
 ![](img/badge.jpg "o!cCO 2023 winner badge")
 
 ## Organisation
 
-The Ascaveth Invitational Tournament 2023 was run by various osu! community members from Indonesia and beyond.
+The Ascaveth Invitational Tournament 2023 was run by various osu! community members from the Asia-Pacific region and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) |
-| Organiser | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
+| Host | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
+| Co-host | ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
 | Mappool selector | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) |
 | Custom mapper | ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [Riene](https://osu.ppy.sh/users/8549009), ::{ flag=ID }:: [Adinda](https://osu.ppy.sh/users/15959751) |
 | Playtester | ::{ flag=ID }:: [i love uma](https://osu.ppy.sh/users/7108275), ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
