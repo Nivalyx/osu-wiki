@@ -37,7 +37,7 @@ The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elim
 
 ## Organisation
 
-The Ascaveth Invitational Tournament 2023 was run by various osu! community members from the Asia-Pacific region and beyond.
+The osu!catch Convert Cup Open 2023 was run by various osu! community members from the Asia-Pacific region and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
