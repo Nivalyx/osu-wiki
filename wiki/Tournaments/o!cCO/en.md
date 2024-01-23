@@ -8,7 +8,7 @@ tags:
 
 ![osu!catch Convert Cup Open 2023 banner](img/banner.png)
 
-The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elimination osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-organised by ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) and ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first to be held under the "Convert Cup Open" branding, the tournament was considered as an expansion of the previously held [Indonesia Convert Cup](/wiki/en/Tournaments/ICC) series.
+The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elimination osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-organised by ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) and ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first event to be held under the "Convert Cup Open" branding, the tournament was considered as an expansion of the previously held [Indonesia Convert Cup](/wiki/en/Tournaments/ICC) series.
 
 ## Tournament schedule
 
@@ -17,18 +17,13 @@ The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elim
 | Registration phase | 2023-10-29/2023-11-05 |
 | Screening phase | 2023-11-06/2023-11-19 |
 | Qualifiers | 2023-11-20/2023-11-26 |
-| Match 3 + match 4 | 2023-12-09 (10:30) |
-| *Break* | 2023-12-09 (11:30) |
-| Match 5U + match 6U | 2023-12-09 (13:00) |
-| Match 7L + match 8L | 2023-12-09 (14:15) |
-| Match 9L + match 10L | 2023-12-09 (15:30) |
-| Match 11L + match 12U | 2023-12-09 (16:45) |
-| *Break* | 2023-12-09 (18:00) |
-| Match 13L | 2023-12-09 (19:00) |
-| Match 14 (Grand Final) | 2023-12-09 (20:30) |
-| Awarding and closing | 2023-12-09 (22:00) |
-
-For a visual representation of the structure of the matches, refer to [this chart](img/BracketStructure.png).
+| Round of 32 | 2023-11-27/2023-12-03 |
+| Round of 16 | 2023-12-04/2023-12-10 |
+| Quarterfinals | 2023-12-11/2023-12-17 |
+| *Winter break* | 2023-12-18/2023-12-31 |
+| Semifinals | 2024-01-01/2024-01-07 |
+| Finals (week 1) | 2024-01-08/2024-01-14 |
+| Finals (week 2) | 2024-01-15/2024-01-22 |
 
 ## Prizes
 
