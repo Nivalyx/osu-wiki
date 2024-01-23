@@ -29,9 +29,9 @@ The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 35% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter for each team member, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter for each team member |
 
 ![](img/badge.jpg "o!cCO 2023 winner badge")
 
