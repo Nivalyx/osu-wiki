@@ -8,7 +8,7 @@ tags:
 
 ![osu!catch Convert Cup Open 2023 banner](img/banner.jpg)
 
-The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elimination osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-organised by ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) and ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first event to be held under the "Convert Cup Open" branding, the tournament was considered as an expansion of the previously held [Indonesia Convert Cup](/wiki/en/Tournaments/ICC) series.
+The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elimination osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-organised by ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) and ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first  to be held under the "Convert Cup Open" branding, the tournament was considered as an expansion of the previously held [Indonesia Convert Cup](/wiki/en/Tournaments/ICC) series.
 
 ## Tournament schedule
 
