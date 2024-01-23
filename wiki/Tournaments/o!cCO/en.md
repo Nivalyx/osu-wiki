@@ -27,8 +27,6 @@ The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elim
 
 ## Prizes
 
-The Ascaveth Invitational Tournament 2023 offered a prize pool that was built upon community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip) as well as [merchandise sales](https://www.youtube.com/watch?v=3J8BuScGRSY).
-
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 35% of the accumulated prize pool, physical trophy (courtesy of [Wellen Print](https://wellenprint.com/)), commemorative medal, exclusive players-only merch set |
@@ -37,7 +35,7 @@ The Ascaveth Invitational Tournament 2023 offered a prize pool that was built up
 | *4th place* | 10% of the accumulated prize pool, exclusive players-only merch set |
 | *5th–8th place* | 5% of the accumulated prize pool, exclusive players-only merch set |
 
-As with other osu! tournaments in general, the Ascaveth Invitational Tournament 2023 was not marked for profit, with all donations and proceeds going directly into the prize pool.
+![](img/badge.jpg "o!cCO 2023 winner badge")
 
 ## Organisation
 
