@@ -12,11 +12,11 @@ The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elim
 
 ## Tournament schedule
 
-| Event | Timestamp (UTC+07) |
+| Event | Timestamp |
 | --: | :-- |
-| Technical meeting | 2023-12-02 |
-| Opening | 2023-12-09 (08:00) |
-| Match 1 + match 2 | 2023-12-09 (09:00) |
+| Registration phase | 2023-10-29/2023-11-05 |
+| Screening phase | 2023-11-06/2023-11-19 |
+| Qualifiers | 2023-11-20/2023-11-26 |
 | Match 3 + match 4 | 2023-12-09 (10:30) |
 | *Break* | 2023-12-09 (11:30) |
 | Match 5U + match 6U | 2023-12-09 (13:00) |
