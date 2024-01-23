@@ -8,7 +8,7 @@ tags:
 
 ![osu!catch Convert Cup Open 2023 banner](img/banner.png)
 
-The **Ascaveth Invitational Tournament 2023** was a double-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and co-organised by ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), and ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677). The tournament was the third major LAN osu! tournament to ever be held in Indonesia, as well as the second one to be run under the [Ascaveth Invitational Tournament](/wiki/Tournaments/AIT) banner.
+The **Aosu!catch Convert Cup Open 2023** (**o!cCO 2023**) was a team-based double-elimination osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-organised by ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) and ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221). The tournament was open to all osu!catch with at least one player being geographically located in Asia or Oceania.
 
 ## Tournament schedule
 
