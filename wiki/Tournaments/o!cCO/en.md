@@ -181,7 +181,7 @@ This competition has come to an end and resulted in the following podium:
   4. [Andy Gillion - Insert Coin (-Sylvari) \[8-bit Expert\]](https://osu.ppy.sh/beatmapsets/1842568#fruits/3784708)
 - Hidden
   1. [TJ.hangneil - Kamui (Cellina) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/2008761#fruits/4184497)
-  2. [schwarzekugel - $trange Attraktor (Alvearia) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/2019997#fruits/4206731)
+  2. [schwarzekugel - \$trange Attraktor (Alvearia) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/2019997#fruits/4206731)
   3. [KOTOKO - INFINITE SKY (Kurashina Asuka) \[fick dich malvin\]](https://osu.ppy.sh/beatmapsets/1396158#fruits/2881614)
 - HardRock
   1. [UNDEAD CORPORATION - Frozen (Daycore) \[allein's Extreme\]](https://osu.ppy.sh/beatmapsets/1268344#fruits/2635971)
