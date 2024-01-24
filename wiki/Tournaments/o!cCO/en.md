@@ -166,11 +166,11 @@ This competition has come to an end and resulted in the following podium:
   3. [TUYU - Dorei Janai nara Nan Desu ka? (Woood13) \[Condemned\]](https://osu.ppy.sh/beatmapsets/1519920#fruits/3110914)
   4. [Dark PHOENiX - Shoujo ga Mita Nihon no Genfuukei (iljaaz) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1889104#fruits/3890682)
 - MixedMod
-  1. [YURRY CANON - Suicide Parade (kwk) \[ailv's Absurdity\]](https://osu.ppy.sh/beatmapsets/854503#fruits/18570031)
-  2. [II-L - PIONEER-4 (oatm) \[DEVIOUSPANDA'S BEYOND\]](https://osu.ppy.sh/beatmapsets/2100532#fruits/4413454)
-  3. [nui - Mayday (sukii) \[Senseless\]](https://osu.ppy.sh/beatmapsets/2044442#fruits/4267100)  
+  1. [Feryquitous vs. xi - Orca (lcfc) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/1166748#fruits/2565154)
+  2. [Pixel Terror - Millennia (Asphyxia) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/1708547#fruits/3592328)
+  3. [lapix - Flamenco House (Luminiscental) \[Extra\]](https://osu.ppy.sh/beatmapsets/1865291#fruits/3853301)  
 - Tiebreaker
-  1. **[Sad Keyboard Guy & Gardens - Waking Shadows feat. eili (pocket-) \[Dawn Chorus\]](https://osu.ppy.sh/beatmapsets/2048051#fruits/4276057)**
+  1. **[nm-y as "Vanquisher" - Chronodivinity (DeviousPanda) \[Panda & Camo's Chronos\]](https://osu.ppy.sh/beatmapsets/2023031#fruits/4213728)**
 
 ### Semifinals
 
