@@ -188,16 +188,14 @@ This competition has come to an end and resulted in the following podium:
   2. [BLOOD STAIN CHILD - MOON LIGHT WAVE (Silleth) \[Extra\]](https://osu.ppy.sh/beatmapsets/296543#fruits/1041934)
   3. [beatMARIO - Night of Knights (Anxient) \[TRUE 2009 STAGE\]](https://osu.ppy.sh/beatmapsets/530702#fruits/1125657)
 - DoubleTime
-  1. [nano.RIPE - Kagefumi (Mirash) \[Delisa and Miranda womanitized collab\]](https://osu.ppy.sh/beatmapsets/1633147#fruits/3333570)
-  2. [kors k, Cranky - Phalanx -RS2018 Edit- (Alvearia) \[DT\]](https://osu.ppy.sh/beatmapsets/1169995#fruits/3204736)
-  3. [TUYU - Dorei Janai nara Nan Desu ka? (Woood13) \[Condemned\]](https://osu.ppy.sh/beatmapsets/1519920#fruits/3110914)
-  4. [Dark PHOENiX - Shoujo ga Mita Nihon no Genfuukei (iljaaz) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1889104#fruits/3890682)
+  1. [Annabel - Signal Graph (Rizia) \[Insane\]](https://osu.ppy.sh/beatmapsets/310508#fruits/693966)
+  2. [David Guetta - Where Them Girls At feat. Nicki Minaj, Flo Rida (AJT) \[Avena's Insane\]](https://osu.ppy.sh/beatmapsets/1266351#fruits/2632192)
+  3. [Aiko Kayo - Hitomi no Naka no Meikyuu (Reiji Maigo) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1933416#fruits/3994999)
 - MixedMod
-  1. [Feryquitous vs. xi - Orca (lcfc) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/1166748#fruits/2565154)
-  2. [Pixel Terror - Millennia (Asphyxia) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/1708547#fruits/3592328)
-  3. [lapix - Flamenco House (Luminiscental) \[Extra\]](https://osu.ppy.sh/beatmapsets/1865291#fruits/3853301)  
+  1. [POLKADOT STINGRAY - Otoshimae (moph) \[Mindmaster's Extra\]](https://osu.ppy.sh/beatmapsets/1301330#fruits/2782643)
+  2. [sakuzyo - Laplace (Hakurei Yoru) \[Vert's Expert\]](https://osu.ppy.sh/beatmapsets/431924#fruits/948386)
 - Tiebreaker
-  1. **[nm-y as "Vanquisher" - Chronodivinity (DeviousPanda) \[Panda & Camo's Chronos\]](https://osu.ppy.sh/beatmapsets/2023031#fruits/4213728)**
+  1. **[Alfakyun. - Shinu Toki Shineba Ii (iljaaz) \[Sorrow\]](https://osu.ppy.sh/beatmapsets/1156021#fruits/2412506)**
 
 ### Quarterfinals
 
