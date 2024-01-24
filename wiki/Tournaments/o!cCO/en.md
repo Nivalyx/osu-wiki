@@ -72,6 +72,7 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 | AMQ Player | ::{ flag=TW }:: **[Tomoriru](https://osu.ppy.sh/users/10457920)**, ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766), ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) |
 | capoo so cute | ::{ flag=JP }:: **[Molqus](https://osu.ppy.sh/users/19271930)**, ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/2389481) |
 | C𝓔LεNG𓃟β∀L4P  | ::{ flag=ID }:: **[Copano\_Lucky](https://osu.ppy.sh/users/26377086)**, ::{ flag=ID }:: [Kanoponzu](https://osu.ppy.sh/users/11582543), ::{ flag=ID }:: [Nekomiru](https://osu.ppy.sh/users/17514687) |
+| CS=convert suck| ::{ flag=TW }:: **[VaMePiRe](https://osu.ppy.sh/users/8411195)**, ::{ flag=CN }:: [Nene Sakura](https://osu.ppy.sh/users/6701104), ::{ flag=TW }:: [gensouyume](https://osu.ppy.sh/users/14782787) |
 | CTB RAIMON | ::{ flag=CA }:: **[Katsuragi](https://osu.ppy.sh/users/3616480)**, ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481) |
 | degens, truly | ::{ flag=MY }:: **[kokomi on osu](https://osu.ppy.sh/users/12382410)**, ::{ flag=SE }:: [hypnospirA](https://osu.ppy.sh/users/1352257), ::{ flag=MY }:: [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) |
 | draft issue | ::{ flag=HK }:: **[my angel auto](https://osu.ppy.sh/users/29503627)**, ::{ flag=FI }:: [Leinou](https://osu.ppy.sh/users/7024526), ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) |
@@ -83,6 +84,7 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 | Rhodes Island | ::{ flag=MY }:: **[Asteristia](https://osu.ppy.sh/users/9434933)**, ::{ flag=MY }:: [leaf89](https://osu.ppy.sh/users/19346652), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270) |
 | roflcopter | ::{ flag=KR }:: **[Syine](https://osu.ppy.sh/users/4795737)**, ::{ flag=IT }:: [Sakhalin79](https://osu.ppy.sh/users/11158870), ::{ flag=KR }:: [Zellen](https://osu.ppy.sh/users/17405762) |
 | SUNBOY | ::{ flag=RU }:: **[liquid\_boba](https://osu.ppy.sh/users/11694783)**, ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479), ::{ flag=RU }:: [dark rainbow](https://osu.ppy.sh/users/10557830) |
+| TAG4 | ::{ flag=ID }:: **[Zvenx](https://osu.ppy.sh/users/14613788)**, ::{ flag=IT }:: [Camme79](https://osu.ppy.sh/users/5220794) |
 | TATAPCTAH | ::{ flag=UA }:: **[Morusya](https://osu.ppy.sh/users/13681464)**, ::{ flag=RU }:: [yuinn](https://osu.ppy.sh/users/11239593), ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) |
 | Timezone Issue | ::{ flag=SG }:: **[\[Eun\]](https://osu.ppy.sh/users/3788536)**, ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597), ::{ flag=ID }:: [Strict\_Lane](https://osu.ppy.sh/users/24810703) |
 | We hate convert | ::{ flag=KR }:: **[DevilFace](https://osu.ppy.sh/users/2253026)**, ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951) |
