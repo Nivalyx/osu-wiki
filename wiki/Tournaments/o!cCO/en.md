@@ -180,7 +180,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Lunatic Sounds - Drop down (Otosaka-Yu) \[new\]](https://osu.ppy.sh/beatmapsets/1260568#fruits/2659442)
   4. [Andy Gillion - Insert Coin (-Sylvari) \[8-bit Expert\]](https://osu.ppy.sh/beatmapsets/1842568#fruits/3784708)
 - Hidden
-  1. [TJ.hangneil - Kamui (Cellina) \[TJ.hangneil - Kamui\]](https://osu.ppy.sh/beatmapsets/2008761#fruits/4184497)
+  1. [TJ.hangneil - Kamui (Cellina) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/2008761#fruits/4184497)
   2. [schwarzekugel - $trange Attraktor (Alvearia) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/2019997#fruits/4206731)
   3. [KOTOKO - INFINITE SKY (Kurashina Asuka) \[fick dich malvin\]](https://osu.ppy.sh/beatmapsets/1396158#fruits/2881614)
 - HardRock
@@ -200,25 +200,27 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 - NoMod
-  1. [Falcom Sound Team jdk - NORSE WIND (Moete) \[COLLAB CONQUEROR\]](https://osu.ppy.sh/beatmapsets/1773734#osu/3756517)
-  2. [Yu_Asahina ft. Ritsuka - HAELE III \~Angel Worlds\~ (Cellina) \[HAELEQUIN\]](https://osu.ppy.sh/beatmapsets/1829277#osu/3754398)
-  3. [hitorie - NONSENSE (Kine) \[Gochisousama\]](https://osu.ppy.sh/beatmapsets/1963004#osu/4068544)
-  4. [Eagle - Hypersonik (Ascended) \[Jason^2's Ultra\]](https://osu.ppy.sh/beatmapsets/1834293#osu/3832950)
-  5. [Ado - Show (Nevertary) \[A Colorful Butterfly in the Middle of the Party\]](https://osu.ppy.sh/beatmapsets/2098188#osu/4401089)
+  1. [ESQUARIA - Butterfly Delusion - Nhato remix - (MaridiuS) \[Illusion\]](https://osu.ppy.sh/beatmapsets/907792#fruits/1894426)
+  2. [Rei sirose - Lost umbrella (Tolyan) \[huh?\]](https://osu.ppy.sh/beatmapsets/1165080#fruits/2430014)
+  3. [S3RL feat. Emi - Escape (Zero-Sama) \[Z\]](https://osu.ppy.sh/beatmapsets/1072112#fruits/4307866)
+  4. [sky\_delta - Kreuz (Side) \[Irre's Extra\]](https://osu.ppy.sh/beatmapsets/347551#fruits/832346)
 - Hidden
-  1. [tricot - E (tin frog) \[tin frog x ClumsyRwby x starfly x HFIG; Salvation\]](https://osu.ppy.sh/beatmapsets/1923239#osu/3970238)
-  2. [MIMI - Kuu ni Naru (CoLouRed GlaZeE) \[Insane\]](https://osu.ppy.sh/beatmapsets/2009473#osu/4180530)
-  3. [TAG - Astral Stranger (Niva) \[Expert\]](https://osu.ppy.sh/beatmapsets/2069040#osu/4329099)
+  1. [Minagu feat. Aitsuki Nakuru - Enamel no Butoukai (iRedi) \[Lustrous Elegance\]](https://osu.ppy.sh/beatmapsets/1929891#fruits/3986513)
+  2. [Mamonis - The Sampling Paradise (rrtyui) \[Another\]](https://osu.ppy.sh/beatmapsets/61912#fruits/184250)
+  3. [Disturbed - Decadence (Shurelia) \[aishiteiru's Extra\]](https://osu.ppy.sh/beatmapsets/1994915#fruits/4166035)
 - HardRock
-  1. [FELT - Oblivion (MaridiuS) \[Far Away\]](https://osu.ppy.sh/beatmapsets/814101#osu/1707318)
-  2. [Mitsukiyo - Future Bossa (Stompy\_) \[Welcome to Kivotos, Sensei!\]](https://osu.ppy.sh/beatmapsets/1981110#osu/4113742)
-  3. [fallen shepherd feat. RabbiTon Strings - ENDYMION (Acylica) \[Realazy(Frenchcore)\]](https://osu.ppy.sh/beatmapsets/1291409#osu/2680522)  
+  1. [Kagamine Rin - Black Rebel (Yudragen) \[Immoral Incarnation\]](https://osu.ppy.sh/beatmapsets/1624743#fruits/3317318)
+  2. [litmus\* - Good Life (Niva) \[difficulty (convert cup edit)\]](https://osu.ppy.sh/beatmapsets/2102098#fruits/4409954)
+  3. [HyuN feat. LyuU - Cross Revolution (Kaguya\_Sama) \[mayle's Extra\]](https://osu.ppy.sh/beatmapsets/1563524#fruits/3342480)
 - DoubleTime
-  1. [Narae - SPiCa (timemon) \[Insane\]](https://osu.ppy.sh/beatmapsets/664636#osu/1406645)
-  2. [Hatsune Miku - Netoge Haijin Sprechchor (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
-  3. [sakuzyo - Senkyou Ranbu (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/460516#osu/1042025)
+  1. [Hatsuki Yura - Kyokou no Rakuen (KKipalt) \[Calvaria's Insane\]](https://osu.ppy.sh/beatmapsets/1257566#fruits/3377490)
+  2. [Falcom Sound Team jdk - GENESIS BEYOND THE BEGINNING (Mariko Sakuragi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1032441#fruits/2223544)
+  3. [Camellia feat Nanahira - Bassline Yatteru (Flukekiki) \[Insane\]](https://osu.ppy.sh/beatmapsets/1828629#fruits/3758188)
+- MixedMod
+  1. [My Chemical Romance - Dead! (wafer) \[Collab Extra!\]](https://osu.ppy.sh/beatmapsets/1881387#fruits/4052088)
+  2. [II-L - VANGUARD-3 (Feiri) \[Expert\]](https://osu.ppy.sh/beatmapsets/1556539#fruits/3179793)
 - Tiebreaker
-  1. **[Halozy - Sentimental Skyscraper (Hollow Wings) \[Myouren Hijiri\]](https://osu.ppy.sh/beatmapsets/100348#osu/412288)**  
+  1. **[Aqours - Deep Resonance (Wien Margarete) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/2043278#fruits/4264203)**
 
 ## Match results
 
