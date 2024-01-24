@@ -8,7 +8,7 @@ tags:
 
 ![osu!catch Convert Cup Open 2023 banner](img/banner.jpg)
 
-The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a double-elimination 2v2 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), in which all the beatmaps are osu! converts. The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first event to be held under the "Convert Cup Open" branding, the tournament was considered as an expansion of the previously held [Indonesia Convert Cup](/wiki/en/Tournaments/ICC) series.
+The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a double-elimination 2v2 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) in which all the beatmaps were [converts from the osu! game mode](/wiki/en/Game_mode/osu%21). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first event to be held under the "Convert Cup Open" branding, the tournament was considered as an expansion of the previously held [Indonesia Convert Cup](/wiki/en/Tournaments/ICC) series.
 
 ## Tournament schedule
 
@@ -129,17 +129,20 @@ This competition has come to an end and resulted in the following podium:
   2. [KINEMA106 - IMPERIAL PARADE (Deramok) \[Extra\]](https://osu.ppy.sh/beatmapsets/1799280#fruits/3688501)
   3. [HITOMI SHIMATANI - ANGELUS (TV Size) (Mint) \[AR7\]](https://osu.ppy.sh/beatmapsets/1350825#fruits/2798712)
 - HardRock
-  1. [nonoc - Relive (SkyFlame) \[Testament\]](https://osu.ppy.sh/beatmapsets/1658910#osu/3386365)
-  2. [\*wakadori - NightTheater (Cellina) \[regou's extra\]](https://osu.ppy.sh/beatmapsets/1668038#osu/3419879)
-  3. [Xect. - Emptiness (Heilia) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1210804#osu/2520609)
-  4. [KARUT - Glitch Street (Shurelia) \[Arius\]](https://osu.ppy.sh/beatmapsets/1817644#osu/3806985)  
+  1. [Siinamota - Young Girl A (N0vl40k) \[zswtr's Janpingu Demo N\]](https://osu.ppy.sh/beatmapsets/1703001#fruits/4272586)
+  2. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Moecho's Delusional Echo Extra\]](https://osu.ppy.sh/beatmapsets/513731#fruits/1266192)
+  3. [Mr. Saturn - Saturn (Azer) \[Another\]](https://osu.ppy.sh/beatmapsets/1181010#fruits/2462486)
 - DoubleTime
-  1. [Hana - Sakura to Kotori (Giralda) \[Laurier's Insane\]](https://osu.ppy.sh/beatmapsets/427688#osu/923244)
-  2. [Endorfin. - Cotton Candy Wonderland (Elcheer) \[Dream\]](https://osu.ppy.sh/beatmapsets/1838294#osu/3774968)
-  3. [BUTAOTOME - Tanoshii Sensou no Uta (Kowari) \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/1870597#osu/3848634)
-  4. [lapix - Amazing Mirage (Extended) (Chaoslitz) \[Cubby's Insane\]](https://osu.ppy.sh/beatmapsets/608572#osu/3245457)
+  1. [Kuraki Mai - Barairo no Jinsei (arronchu1207) \[Scarlet\]](https://osu.ppy.sh/beatmapsets/1705890#fruits/3485691)
+  2. [JUNNA - Dear (Yudragen) \[My beloved\]](https://osu.ppy.sh/beatmapsets/1998896#fruits/4155280)
+  3. [BLANKFIELD - Far From Truth (Hey lululu) \[Isomir's Insane\]](https://osu.ppy.sh/beatmapsets/1171995#fruits/2450799)
+  4. [pazi - Shoujorei (Kawashiro) \[That summer, I was always with you.\]](https://osu.ppy.sh/beatmapsets/1769050#fruits/3733503)
+- MixedMod
+  1. [YURRY CANON - Suicide Parade (kwk) \[ailv's Absurdity\]](https://osu.ppy.sh/beatmapsets/854503#fruits/18570031)
+  2. [II-L - PIONEER-4 (oatm) \[DEVIOUSPANDA'S BEYOND\]](https://osu.ppy.sh/beatmapsets/2100532#fruits/4413454)
+  3. [nui - Mayday (sukii) \[Senseless\]](https://osu.ppy.sh/beatmapsets/2044442#fruits/4267100)  
 - Tiebreaker
-  1. **[Noah - Resonance (jiwoas) \[Illusion\]](https://osu.ppy.sh/beatmapsets/2100842#osu/4407298)**
+  1. **[Sad Keyboard Guy & Gardens - Waking Shadows feat. eili (pocket-) \[Dawn Chorus\]](https://osu.ppy.sh/beatmapsets/2048051#fruits/4276057)**
 
 ### Finals
 
