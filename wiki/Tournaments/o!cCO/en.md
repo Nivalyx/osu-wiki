@@ -100,6 +100,7 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 | Timezone Issue | ::{ flag=SG }:: **[\[Eun\]](https://osu.ppy.sh/users/3788536)**, ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597), ::{ flag=ID }:: [Strict\_Lane](https://osu.ppy.sh/users/24810703) |
 | We hate convert | ::{ flag=KR }:: **[DevilFace](https://osu.ppy.sh/users/2253026)**, ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951) |
 | what is convert | ::{ flag=TW }:: **[Extricate](https://osu.ppy.sh/users/4787989)**, ::{ flag=TW }:: [Ayanory](https://osu.ppy.sh/users/5138760), ::{ flag=TW }:: [Kotoba 0701](https://osu.ppy.sh/users/12598463) |
+| ДШРГ Русичи | ::{ flag=UA }:: **[Metalia](https://osu.ppy.sh/users/15558360)**, ::{ flag=RU }:: [\_Insomnia](https://osu.ppy.sh/users/8928855), ::{ flag=RU }:: [Rebbel](https://osu.ppy.sh/users/4595355) |
 
 ## Podium
 
