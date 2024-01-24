@@ -63,18 +63,10 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 
 ## Participants
 
-Listed below are the players who were invited into the tournament:
-
-- ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) *([Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) winner)*
-- ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) *([Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) runner-up)*
-- ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) winner)*
-- ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) runner-up)*
-- ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) 3rd-place finisher)*
-- ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) best non-podium finisher)*
-- ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/2023_LCQ) winner)*
-- ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/2023_LCQ) runner-up)*
-
-In addition, the tournament management also included ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) as a reserve player in case someone had to withdraw from the event on short notice.
+| Team name | Members |
+| :-: | :-- |
+| ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | ::{ flag=ID }:: **[Destroid](https://osu.ppy.sh/users/5097844)**, ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) |
+| 4DIGITS RISE UP | ::{ flag=TH }:: **[EzyS](https://osu.ppy.sh/users/16271283)**, ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552), ::{ flag=US }:: [Prince Zariel](https://osu.ppy.sh/users/7293637) |
 
 ## Podium
 
