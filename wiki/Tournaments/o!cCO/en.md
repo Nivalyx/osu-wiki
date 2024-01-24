@@ -84,8 +84,10 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 | flag issue | ::{ flag=SG }:: **[Ekseff](https://osu.ppy.sh/users/13966422)**, ::{ flag=ID }:: [Serestia](https://osu.ppy.sh/users/30511396), ::{ flag=PL }:: [Jakkubon](https://osu.ppy.sh/users/3396013) |
 | fuit gummy | ::{ flag=MA }:: **[OSUjanaiKATSURAda](https://osu.ppy.sh/users/13966422)**, ::{ flag=KR }:: [Ruiz](https://osu.ppy.sh/users/10095644), ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865) |
 | Korean PC | ::{ flag=US }:: **[Dahcreeper](https://osu.ppy.sh/users/6926006)**, ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
+| kururin spin | ::{ flag=PL }:: **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)**, ::{ flag=TW }:: [ZX123456](https://osu.ppy.sh/users/489271), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
 | NZ gamers | ::{ flag=NZ }:: **[Wettham77](https://osu.ppy.sh/users/14476098)**, ::{ flag=NZ }:: [CTB Sakamata1](https://osu.ppy.sh/users/11735313), ::{ flag=NZ }:: [Starwide](https://osu.ppy.sh/users/9926856) |
 | pls dont ban DT | ::{ flag=JP }:: **[giru HD](https://osu.ppy.sh/users/707456)**, ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=JP }:: [Snowwind](https://osu.ppy.sh/users/2163585) |
+| Polanezja | ::{ flag=PL }:: **[madcin](https://osu.ppy.sh/users/2957534)**, ::{ flag=ID }:: [Intention](https://osu.ppy.sh/users/3416858), ::{ flag=ID }:: [\[ Mephisto \]](https://osu.ppy.sh/users/3027065) |
 | Rhodes Island | ::{ flag=MY }:: **[Asteristia](https://osu.ppy.sh/users/9434933)**, ::{ flag=MY }:: [leaf89](https://osu.ppy.sh/users/19346652), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270) |
 | roflcopter | ::{ flag=KR }:: **[Syine](https://osu.ppy.sh/users/4795737)**, ::{ flag=IT }:: [Sakhalin79](https://osu.ppy.sh/users/11158870), ::{ flag=KR }:: [Zellen](https://osu.ppy.sh/users/17405762) |
 | Samurai Team | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)**, ::{ flag=JP }:: [eisuke0530](https://osu.ppy.sh/users/9814770), ::{ flag=AR }:: [Naarkz](https://osu.ppy.sh/users/19490380) |
@@ -93,6 +95,7 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 | SUNBOY | ::{ flag=RU }:: **[liquid\_boba](https://osu.ppy.sh/users/11694783)**, ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479), ::{ flag=RU }:: [dark rainbow](https://osu.ppy.sh/users/10557830) |
 | TAG4 | ::{ flag=ID }:: **[Zvenx](https://osu.ppy.sh/users/14613788)**, ::{ flag=IT }:: [Camme79](https://osu.ppy.sh/users/5220794) |
 | TATAPCTAH | ::{ flag=UA }:: **[Morusya](https://osu.ppy.sh/users/13681464)**, ::{ flag=RU }:: [yuinn](https://osu.ppy.sh/users/11239593), ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) |
+| The Team | ::{ flag=AU }:: **[BluBoy](https://osu.ppy.sh/users/21368709)**, ::{ flag=AU }:: [roykey](https://osu.ppy.sh/users/26870032) |
 | Timezone Issue | ::{ flag=SG }:: **[\[Eun\]](https://osu.ppy.sh/users/3788536)**, ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597), ::{ flag=ID }:: [Strict\_Lane](https://osu.ppy.sh/users/24810703) |
 | We hate convert | ::{ flag=KR }:: **[DevilFace](https://osu.ppy.sh/users/2253026)**, ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951) |
 | what is convert | ::{ flag=TW }:: **[Extricate](https://osu.ppy.sh/users/4787989)**, ::{ flag=TW }:: [Ayanory](https://osu.ppy.sh/users/5138760), ::{ flag=TW }:: [Kotoba 0701](https://osu.ppy.sh/users/12598463) |
