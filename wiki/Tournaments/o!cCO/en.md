@@ -78,6 +78,7 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 | CS=convert suck| ::{ flag=TW }:: **[VaMePiRe](https://osu.ppy.sh/users/8411195)**, ::{ flag=CN }:: [Nene Sakura](https://osu.ppy.sh/users/6701104), ::{ flag=TW }:: [gensouyume](https://osu.ppy.sh/users/14782787) |
 | CTB RAIMON | ::{ flag=CA }:: **[Katsuragi](https://osu.ppy.sh/users/3616480)**, ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481) |
 | degens, truly | ::{ flag=MY }:: **[kokomi on osu](https://osu.ppy.sh/users/12382410)**, ::{ flag=SE }:: [hypnospirA](https://osu.ppy.sh/users/1352257), ::{ flag=MY }:: [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) |
+| ditinggal ps3 | ::{ flag=ID }:: **[Suikami](https://osu.ppy.sh/users/1929336)**, ::{ flag=PL }:: [-Filow-](https://osu.ppy.sh/users/3157472), ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) |
 | draft issue | ::{ flag=HK }:: **[my angel auto](https://osu.ppy.sh/users/29503627)**, ::{ flag=FI }:: [Leinou](https://osu.ppy.sh/users/7024526), ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) |
 | DreStarkari | ::{ flag=CL }:: **[Stark](https://osu.ppy.sh/users/1565036)**, ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164), ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057) |
 | eurasia mid seed | ::{ flag=RU }:: **[KitsunIvy](https://osu.ppy.sh/users/7055384)**, ::{ flag=IS }:: [Ash Ketchum](https://osu.ppy.sh/users/7297777), ::{ flag=RU }:: [ti gnida](https://osu.ppy.sh/users/14254962) |
