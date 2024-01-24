@@ -222,7 +222,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Aqours - Deep Resonance (Wien Margarete) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/2043278#fruits/4264203)**
 
-  ### Round of 16
+### Round of 16
 
 - NoMod
   1. [ESQUARIA - Butterfly Delusion - Nhato remix - (MaridiuS) \[Illusion\]](https://osu.ppy.sh/beatmapsets/907792#fruits/1894426)
