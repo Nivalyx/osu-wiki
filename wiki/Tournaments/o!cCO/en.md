@@ -49,7 +49,9 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 | Commentator |::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=SG }:: [wongwongg](https://osu.ppy.sh/users/16859546), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=SE }:: [Nellie](https://osu.ppy.sh/users/2037562), ::{ flag=SE }:: [Aceon](https://osu.ppy.sh/users/4452911), ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) |
 | Referee | ::{ flag=VN }:: [-\[SnowFlakes\]-](https://osu.ppy.sh/users/19207842), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469), ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=CL }:: [Des9](https://osu.ppy.sh/users/5404711), ::{ flag=PA }:: [Jafett](https://osu.ppy.sh/users/2317102), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | Graphic designer | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
+| Discord and chat moderator | ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Sponsor | ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) |
 
 ## Links
 
