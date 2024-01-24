@@ -67,6 +67,8 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 | :-: | :-- |
 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | ::{ flag=ID }:: **[Destroid](https://osu.ppy.sh/users/5097844)**, ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) |
 | 4DIGITS RISE UP | ::{ flag=TH }:: **[EzyS](https://osu.ppy.sh/users/16271283)**, ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552), ::{ flag=US }:: [Prince Zariel](https://osu.ppy.sh/users/7293637) |
+| 5 digits | ::{ flag=SG }:: **[sukidayo-](https://osu.ppy.sh/users/16870002)**, ::{ flag=US }:: [bvyans](https://osu.ppy.sh/users/7789926), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
+
 
 ## Podium
 
