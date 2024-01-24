@@ -68,6 +68,8 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | ::{ flag=ID }:: **[Destroid](https://osu.ppy.sh/users/5097844)**, ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) |
 | 4DIGITS RISE UP | ::{ flag=TH }:: **[EzyS](https://osu.ppy.sh/users/16271283)**, ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552), ::{ flag=US }:: [Prince Zariel](https://osu.ppy.sh/users/7293637) |
 | 5 digits | ::{ flag=SG }:: **[sukidayo-](https://osu.ppy.sh/users/16870002)**, ::{ flag=US }:: [bvyans](https://osu.ppy.sh/users/7789926), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
+| Ad Matai | ::{ flag=IL }:: **[Nendus](https://osu.ppy.sh/users/22005940)**, ::{ flag=IL }:: [muya-](https://osu.ppy.sh/users/12883611), ::{ flag=IL }:: [gal1](https://osu.ppy.sh/users/9424481) |
+| Ad Matai Bad | ::{ flag=GI }:: **[CirnUwU](https://osu.ppy.sh/users/11713317)**, ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339), ::{ flag=IL }:: [LiL L1ghtMare](https://osu.ppy.sh/users/16782179) |
 | am nyam | ::{ flag=RU }:: **[cosilgam](https://osu.ppy.sh/users/15960747)**, ::{ flag=UA }:: [Shadowbolts1](https://osu.ppy.sh/users/13962882), ::{ flag=RU }:: [1k1](https://osu.ppy.sh/users/10119963) |
 | AMQ Player | ::{ flag=TW }:: **[Tomoriru](https://osu.ppy.sh/users/10457920)**, ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766), ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) |
 | Ateshiiii | ::{ flag=CA }:: **[Boltico](https://osu.ppy.sh/users/5297904)**, ::{ flag=JP }:: [Melu](https://osu.ppy.sh/users/2624179), ::{ flag=JP }:: [S B K](https://osu.ppy.sh/users/29783499) |
