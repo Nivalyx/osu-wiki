@@ -8,7 +8,7 @@ tags:
 
 ![osu!catch Convert Cup Open 2023 banner](img/banner.jpg)
 
-The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a 2v2 double-elimination osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) and co-organised by ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) and ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first event to be held under the "Convert Cup Open" branding, the tournament was considered as an expansion of the previously held [Indonesia Convert Cup](/wiki/en/Tournaments/ICC) series.
+The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a double-elimination 2v2 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), in which all the beatmaps are osu! converts. The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first event to be held under the "Convert Cup Open" branding, the tournament was considered as an expansion of the previously held [Indonesia Convert Cup](/wiki/en/Tournaments/ICC) series.
 
 ## Tournament schedule
 
@@ -116,22 +116,18 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-**[Download all the maps from the tournament below in a single pack here! (548 MB)](https://drive.google.com/file/d/1ncQRP2LcWLUEV-rRN226pZYQNJE0MIpQ/view)**
-
-### Grand Finals
+### Finals (week 2)
 
 - NoMod
-  1. [Omoi - Snow Drive(01.23) (Kroytz) \[Arigatou\]](https://osu.ppy.sh/beatmapsets/478405#osu/1083052)
-  2. [Xi - Rokujuu-nen Me no Shinsoku Saiban \~ Rapidity is a justice (Camo) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1999204#osu/4156030)
-  3. [Falcom Sound Team jdk - Belief (Deca) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/1569794#osu/3205628)
-  4. [kamome sano - init() (Celine) \[arif jual pempek\]](https://osu.ppy.sh/beatmapsets/1884134#osu/3879302)
-  5. [AAAA vs. Frums - beepbit \* futures (toybot) \[rekytgons \* expert\]](https://osu.ppy.sh/beatmapsets/1633221#osu/4041465)
-  6. [455-38B - G e n g a o z o - f o o n (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/869649#osu/1817464)
+  1. [PinocchioP - Mune Ippai no Dame o (AruOtta) \[DAME\]](https://osu.ppy.sh/beatmapsets/502545#fruits/3747158)
+  2. [Camellia - The King of Lions (AtHeoN) \[Rex Leones\]](https://osu.ppy.sh/beatmapsets/722502#fruits/1525311)
+  3. [BEMANI Sound Team "HuMeR" feat.Fernweh - Sakazuki (Luna Flina) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1682971#fruits/3619184)
+  4. [IZ\*ONE - Secret Story of the Swan (emilia) \[baekjo\]](https://osu.ppy.sh/beatmapsets/1323112#fruits/2740609)
+  5. [Ruby My Dear - A Dada (fergas) \[Release The Quacken!\]](https://osu.ppy.sh/beatmapsets/1846684#fruits/3793488)
 - Hidden
-  1. [isekaijoucho - Replica (LeeGod) \[Utae\]](https://osu.ppy.sh/beatmapsets/1879663#osu/3869617)
-  2. [ES-TRUS - Despair Refrain (Lasse) \[Extra\]](https://osu.ppy.sh/beatmapsets/2076527#osu/4347684)
-  3. [ZxNX vs HyuN - Nemesis (JeZag) \[Crux\]](https://osu.ppy.sh/beatmapsets/1872055#osu/3851851)
-  4. [MAISONdes - Tokyo Shandy Rendez-vous feat. KAF, Tsumiki (Asahina Momoko) \[Take on me!!\]](https://osu.ppy.sh/beatmapsets/1942294#osu/4253482)
+  1. [Cyte - idk Kagamine Rin well (NekoShabeta) \[idk Neko well (o!CCO Ver.)\]](https://osu.ppy.sh/beatmapsets/1990397#fruits/4135076)
+  2. [KINEMA106 - IMPERIAL PARADE (Deramok) \[Extra\]](https://osu.ppy.sh/beatmapsets/1799280#fruits/3688501)
+  3. [HITOMI SHIMATANI - ANGELUS (TV Size) (Mint) \[AR7\]](https://osu.ppy.sh/beatmapsets/1350825#fruits/2798712)
 - HardRock
   1. [nonoc - Relive (SkyFlame) \[Testament\]](https://osu.ppy.sh/beatmapsets/1658910#osu/3386365)
   2. [\*wakadori - NightTheater (Cellina) \[regou's extra\]](https://osu.ppy.sh/beatmapsets/1668038#osu/3419879)
