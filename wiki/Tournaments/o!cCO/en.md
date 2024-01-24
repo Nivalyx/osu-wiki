@@ -175,25 +175,29 @@ This competition has come to an end and resulted in the following podium:
 ### Semifinals
 
 - NoMod
-  1. [DracoVirgo - FLY (Flame Haze) \[To Flourish is To Fall\]](https://osu.ppy.sh/beatmapsets/1838488#osu/3775437)
-  2. [Iron Attack! - Final Revenge (alden) \[Vengeance\]](https://osu.ppy.sh/beatmapsets/1557525#osu/3181702)
-  3. [RADWIMPS - Hyperventilation (seros) \[What are you gonna do to my b\*\*bs?\]](https://osu.ppy.sh/beatmapsets/1924212#osu/3972485)
-  4. [seatrus - ILLEGAL LEGACY (IntegerTempest) \[colicen's EXPERT\]](https://osu.ppy.sh/beatmapsets/1932951#osu/4057648)
-  5. [Umeboshi Chazuke - Bison Chargee (Nao Tomori) \[Flask's Extreme\]](https://osu.ppy.sh/beatmapsets/894701#osu/1900116)
+  1. [Wagakki Band - Hanabi (toybot) \[Ex\]](https://osu.ppy.sh/beatmapsets/1214150#fruits/2527026)
+  2. [Eliminate - Walk Away (Tanger Remix) (NKMS) \[Full Flavor\]](https://osu.ppy.sh/beatmapsets/2050980#fruits/4282861)
+  3. [Lunatic Sounds - Drop down (Otosaka-Yu) \[new\]](https://osu.ppy.sh/beatmapsets/1260568#fruits/2659442)
+  4. [Andy Gillion - Insert Coin (-Sylvari) \[8-bit Expert\]](https://osu.ppy.sh/beatmapsets/1842568#fruits/3784708)
 - Hidden
-  1. [sekai - Sensei no Koto Suki ni Nacchau (Petal) \[!\~!\]](https://osu.ppy.sh/beatmapsets/1865173#osu/3836427)
-  2. [Brandy - Cross Time !! (Saika0k1) \[:pensive: :fist:\]](https://osu.ppy.sh/beatmapsets/1065928#osu/2232002)
-  3. [Fuki - Zinger Ringer Gang Love (Frakturehawkens) \[Seven Colors\]](https://osu.ppy.sh/beatmapsets/1621919#osu/3311393)
+  1. [TJ.hangneil - Kamui (Cellina) \[TJ.hangneil - Kamui\]](https://osu.ppy.sh/beatmapsets/2008761#fruits/4184497)
+  2. [schwarzekugel - $trange Attraktor (Alvearia) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/2019997#fruits/4206731)
+  3. [KOTOKO - INFINITE SKY (Kurashina Asuka) \[fick dich malvin\]](https://osu.ppy.sh/beatmapsets/1396158#fruits/2881614)
 - HardRock
-  1. [la la larks - Massive Passive (Kalibe) \[Existence\]](https://osu.ppy.sh/beatmapsets/1092295#osu/2283327)
-  2. [School Food Punishment - fiction nonfiction (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1829347#osu/3754547)
-  3. [Freezer feat. Kiichigo - Himatoii no Yoi (KKipalt) \[Future\]](https://osu.ppy.sh/beatmapsets/1755231#osu/3591934)  
+  1. [UNDEAD CORPORATION - Frozen (Daycore) \[allein's Extreme\]](https://osu.ppy.sh/beatmapsets/1268344#fruits/2635971)
+  2. [BLOOD STAIN CHILD - MOON LIGHT WAVE (Silleth) \[Extra\]](https://osu.ppy.sh/beatmapsets/296543#fruits/1041934)
+  3. [beatMARIO - Night of Knights (Anxient) \[TRUE 2009 STAGE\]](https://osu.ppy.sh/beatmapsets/530702#fruits/1125657)
 - DoubleTime
-  1. [Sasaki Sayaka - Yume to Iro de Dekiteiru (eringiRa) \[Everlasting Memories\]](https://osu.ppy.sh/beatmapsets/2071480#osu/4334582)
-  2. [KOTOKO - -> unfinished -> (Cellina) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2081896#osu/4360066)
-  3. [Polyphia - O.D. (Mir) \[Insane\]](https://osu.ppy.sh/beatmapsets/1378026#osu/2880808)
+  1. [nano.RIPE - Kagefumi (Mirash) \[Delisa and Miranda womanitized collab\]](https://osu.ppy.sh/beatmapsets/1633147#fruits/3333570)
+  2. [kors k, Cranky - Phalanx -RS2018 Edit- (Alvearia) \[DT\]](https://osu.ppy.sh/beatmapsets/1169995#fruits/3204736)
+  3. [TUYU - Dorei Janai nara Nan Desu ka? (Woood13) \[Condemned\]](https://osu.ppy.sh/beatmapsets/1519920#fruits/3110914)
+  4. [Dark PHOENiX - Shoujo ga Mita Nihon no Genfuukei (iljaaz) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1889104#fruits/3890682)
+- MixedMod
+  1. [Feryquitous vs. xi - Orca (lcfc) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/1166748#fruits/2565154)
+  2. [Pixel Terror - Millennia (Asphyxia) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/1708547#fruits/3592328)
+  3. [lapix - Flamenco House (Luminiscental) \[Extra\]](https://osu.ppy.sh/beatmapsets/1865291#fruits/3853301)  
 - Tiebreaker
-  1. **[Oreore-Usagi - Drain ReD rain (AdveNt) \[Paradise of Pretense\]](https://osu.ppy.sh/beatmapsets/1622347#osu/3312446)**
+  1. **[nm-y as "Vanquisher" - Chronodivinity (DeviousPanda) \[Panda & Camo's Chronos\]](https://osu.ppy.sh/beatmapsets/2023031#fruits/4213728)**
 
 ### Quarterfinals
 
