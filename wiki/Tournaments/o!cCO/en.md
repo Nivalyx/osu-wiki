@@ -68,9 +68,13 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | ::{ flag=ID }:: **[Destroid](https://osu.ppy.sh/users/5097844)**, ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) |
 | 4DIGITS RISE UP | ::{ flag=TH }:: **[EzyS](https://osu.ppy.sh/users/16271283)**, ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552), ::{ flag=US }:: [Prince Zariel](https://osu.ppy.sh/users/7293637) |
 | 5 digits | ::{ flag=SG }:: **[sukidayo-](https://osu.ppy.sh/users/16870002)**, ::{ flag=US }:: [bvyans](https://osu.ppy.sh/users/7789926), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
+| capoo so cute | ::{ flag=JP }:: **[Molqus](https://osu.ppy.sh/users/19271930)**, ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/2389481) |
 | CTB RAIMON | ::{ flag=CA }:: **[Katsuragi](https://osu.ppy.sh/users/3616480)**, ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481) |
 | draft issue | ::{ flag=HK }:: **[my angel auto](https://osu.ppy.sh/users/29503627)**, ::{ flag=FI }:: [Leinou](https://osu.ppy.sh/users/7024526), ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) |
+| NZ gamers | ::{ flag=NZ }:: **[Wettham77](https://osu.ppy.sh/users/14476098)**, ::{ flag=NZ }:: [CTB Sakamata1](https://osu.ppy.sh/users/11735313), ::{ flag=NZ }:: [Starwide](https://osu.ppy.sh/users/9926856) |
+| pls dont ban DT | ::{ flag=JP }:: **[giru HD](https://osu.ppy.sh/users/707456)**, ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=JP }:: [Snowwind](https://osu.ppy.sh/users/2163585) |
 | roflcopter | ::{ flag=KR }:: **[Syine](https://osu.ppy.sh/users/4795737)**, ::{ flag=IT }:: [Sakhalin79](https://osu.ppy.sh/users/11158870), ::{ flag=KR }:: [Zellen](https://osu.ppy.sh/users/17405762) |
+| SUNBOY | ::{ flag=RU }:: **[liquid\_boba](https://osu.ppy.sh/users/11694783)**, ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479), ::{ flag=RU }:: [dark rainbow](https://osu.ppy.sh/users/10557830) |
 
 
 ## Podium
