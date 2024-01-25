@@ -509,7 +509,9 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 4. The list of players and teams who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 5. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
-### Match instructions
+### Round-specific rules
+
+### Match regulations
 
 1. Prior to starting the match, representatives from each team must run the `!roll` command in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
