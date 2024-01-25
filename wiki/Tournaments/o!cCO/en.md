@@ -225,15 +225,15 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 - NoMod
-  1. [ESQUARIA - Butterfly Delusion - Nhato remix - (MaridiuS) \[Illusion\]](https://osu.ppy.sh/beatmapsets/907792#fruits/1894426)
-  2. [Rei sirose - Lost umbrella (Tolyan) \[huh?\]](https://osu.ppy.sh/beatmapsets/1165080#fruits/2430014)
-  3. [S3RL feat. Emi - Escape (Zero-Sama) \[Z\]](https://osu.ppy.sh/beatmapsets/1072112#fruits/4307866)
-  4. [sky\_delta - Kreuz (Side) \[Irre's Extra\]](https://osu.ppy.sh/beatmapsets/347551#fruits/832346)
+  1. [HO-KA-GO CLIMAX GIRLS - Hanasaka Sai Sai (kiddly) \[Ag's Extra\]](https://osu.ppy.sh/beatmapsets/2094935#fruits/4399750)
+  2. [Camellia - Kono Hoshi de.... (Krimek) \[Arbane's Extra\]](https://osu.ppy.sh/beatmapsets/511759#fruits/1116417)
+  3. [Markus Schukowski - What It Feels Like (Zardonic Remix) (kowari) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/2052103#fruits/4286007)
+  4. [Kaskade & Skrillex - Lick It (Cut Ver.) (GRR SNARL GROWL) \[chonk mini\]](https://osu.ppy.sh/beatmapsets/2004289#fruits/4168141)
 - Hidden
-  1. [Minagu feat. Aitsuki Nakuru - Enamel no Butoukai (iRedi) \[Lustrous Elegance\]](https://osu.ppy.sh/beatmapsets/1929891#fruits/3986513)
-  2. [Mamonis - The Sampling Paradise (rrtyui) \[Another\]](https://osu.ppy.sh/beatmapsets/61912#fruits/184250)
+  1. [TheFatRat - Unity (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/218274#fruits/511717)
+  2. [Masque:Rade - Love Destiny (Snow Note) \[MASTER\]](https://osu.ppy.sh/beatmapsets/706004#fruits/1660120)
 - HardRock
-  1. [Kagamine Rin - Black Rebel (Yudragen) \[Immoral Incarnation\]](https://osu.ppy.sh/beatmapsets/1624743#fruits/3317318)
+  1. [Utsu-P feat. Kagamine Rin - Tokyo Teddy Bear (Dudamesh) \[Insane\]](https://osu.ppy.sh/beatmapsets/1332820#fruits/2845190)
   2. [litmus\* - Good Life (Niva) \[difficulty (convert cup edit)\]](https://osu.ppy.sh/beatmapsets/2102098#fruits/4409954)
 - DoubleTime
   1. [Hatsuki Yura - Kyokou no Rakuen (KKipalt) \[Calvaria's Insane\]](https://osu.ppy.sh/beatmapsets/1257566#fruits/3377490)
