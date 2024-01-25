@@ -357,7 +357,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 | #30 | C𝓔LεNG𓃟β∀L4P | 28.50 |
 | #31 | what is convert | 28.75 |
 | #32 | fuit gummy | 28.88 |
-| #33 | Timezone Issue | 31.13 |
+| #33 | Timezone Issue | 31.13 |f
 | #34 | The Team | 34.00 |
 | N/A | Ad Matai | *DNP* |
 | N/A | am nyam | *DNP* |
