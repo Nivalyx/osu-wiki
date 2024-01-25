@@ -324,7 +324,7 @@ This competition has come to an end and resulted in the following podium:
 Detailed information on the standings of the Qualifier stage can be found in [the following spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR4ul4qg76H3ziPIy8cNRNqSk3tgyracrqbfWJhYhlnDUs-u5MnI5-8OZ8-QpQVBwQDUg2koGjxzEB_/pubhtml).
 
 | Seed | Team name | Avg. rank |
-| :-: | --: | :-: |
+| :-: | :-- | :-- |
 | #1 | Korean PC | 2.75 |
 | #2 | converts ec | 3.38 |
 | #3 | eurasia mid seed | 4.75 |
