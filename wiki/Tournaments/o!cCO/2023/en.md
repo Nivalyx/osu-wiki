@@ -555,6 +555,6 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
-[^qual-note-1]: Average score out of all eight Qualifier beatmaps: CTB RAIMON 1,903,488, DreStarkari 1,892,753.
-[^qual-note-2]: Average score out of all eight Qualifier beatmaps: Signal Graph 1,613,901, Ban Mods 1,608,756.
-[^qual-note-3]: Average score out of all eight Qualifier beatmaps: Rhodes Island 1,516,625, Ban Mods 1,506,365.
+[^qual-note-1]: Average score across all eight Qualifier beatmaps: CTB RAIMON 1,903,488, DreStarkari 1,892,753.
+[^qual-note-2]: Average score across all eight Qualifier beatmaps: Signal Graph 1,613,901, Ban Mods 1,608,756.
+[^qual-note-3]: Average score across all eight Qualifier beatmaps: Rhodes Island 1,516,625, Ban Mods 1,506,365.
