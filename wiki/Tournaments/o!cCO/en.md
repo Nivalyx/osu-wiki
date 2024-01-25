@@ -325,6 +325,11 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 | Seed | Team name | Avg. rank |
 | :-: | --: | :-: |
+| #1 | Korean PC | 2.75 |
+| #2 | converts ec | 3.38 |
+| #3 | eurasia mid seed | 4.75 |
+| #4 | Capoo so cute | 5.50 |
+| #5 | CTB RAIMON | 6.00 |
 
 ## Ruleset
 
