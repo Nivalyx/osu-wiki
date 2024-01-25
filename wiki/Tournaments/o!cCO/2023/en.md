@@ -503,9 +503,10 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 1. Players are required to form a team and register into the tournament as a team through [the tournament's website](https://wybin.xyz/tournaments/o!c-convert-open-2023/home).
    - In order to be eligible to play in the tournament, each team must have at least one player from [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania) in their roster.
    - For the sake of simplification, the Asian parts of certain trans-continental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia counts as Asia.
-2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
-3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
-4. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
+2. A   
+3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
+4. The list of players and teams who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
+5. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Match instructions
 
