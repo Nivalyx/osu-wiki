@@ -520,9 +520,11 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 2. Each team has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. Each team will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
-   - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
-4. **There will be no FreeMod pick in the mappool.** 
-
+   - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to. 
+4. Excluding the Qualifiers, each stage of the tournament will feature a **MixedMod pool** that goes as follows:
+   - The MixedMod pool will be played with FreeMod activated.
+   - During a MixedMod pick, one player from each team will have to play the map with the Hidden mod activated, while the other player will have to play with either HardRock or Hidden+HardRock under their belt.
+5. When playing a map from the HardRock or DoubleTime pool, the Hidden modification may be optionally used by any player.
 5. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with Hidden, HardRock, or Hidden+HardRock should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 6. Players who can compete in the next round are determined by:
