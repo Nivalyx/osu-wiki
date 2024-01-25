@@ -319,6 +319,13 @@ This competition has come to an end and resulted in the following podium:
 | Upper/match 3 | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
 | Upper/match 4 | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
 
+### Qualifiers
+
+Detailed information on the standings of the Qualifier stage can be found in [the following spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR4ul4qg76H3ziPIy8cNRNqSk3tgyracrqbfWJhYhlnDUs-u5MnI5-8OZ8-QpQVBwQDUg2koGjxzEB_/pubhtml).
+
+| Seed | Team name | Avg. rank |
+| :-: | --: | :-: |
+
 ## Ruleset
 
 ### General rules
