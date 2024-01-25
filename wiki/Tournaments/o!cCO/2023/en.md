@@ -500,8 +500,6 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 ### Tournament registration
 
-### Tournament registration
-
 1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/xzFzErPtCe989xHY6).
    - In order to be eligible to play in the tournament, a player must:
      - Have the ::{ flag=ID }:: Indonesian flag displayed on their profile, **and**
