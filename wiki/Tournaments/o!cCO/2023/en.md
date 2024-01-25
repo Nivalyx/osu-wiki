@@ -521,15 +521,17 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. Each team will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
-4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
+4. **There will be no FreeMod pick in the mappool.** 
+
+5. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with Hidden, HardRock, or Hidden+HardRock should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
-5. Players who can compete in the next round are determined by:
+6. Players who can compete in the next round are determined by:
    - In the Quarterfinals and the Semifinals, each player needs to win 5 points in order to win a match. (Best of 9)
    - In the Finals, each player needs to win 6 points in order to win a match. (Best of 11)
    - In the Grand Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
    - Whether there are players who are declared to win the match by default.
    - Whether there are players who are disqualified from the tournament.
-6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
 [^qual-note-1]: Average score out of all eight Qualifier beatmaps: CTB RAIMON 1,903,488, DreStarkari 1,892,753.
 [^qual-note-2]: Average score out of all eight Qualifier beatmaps: Signal Graph 1,613,901, Ban Mods 1,608,756.
