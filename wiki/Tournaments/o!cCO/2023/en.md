@@ -504,7 +504,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - In order to be eligible to play in the tournament, each team must have at least one player from [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania) in their roster.
    - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extends to the Asian continent are considered as a part of Asia.
 2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
-   - Team names may not violate the [osu! community rules](http://osu.ppy.sh/wiki/en/Rules).
+   - Team names may not violate the [osu! community rules](/wiki/Rules#community-rules).
 3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 4. The list of players and teams who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 5. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
