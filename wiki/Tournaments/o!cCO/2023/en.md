@@ -285,6 +285,36 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### Finals (week 2)
+
+Saturday, 20 January 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **converts ec** | **7** | 1 | CTB RAIMON | [#1](https://osu.ppy.sh/community/matches/112292407) |
+
+Sunday, 21 January 2024, Grand Final:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **Korean PC** | **7** | 4 | converts ec | [#1](https://osu.ppy.sh/community/matches/112308890) |
+
+### Finals (week 1)
+
+Saturday, 13 January 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **CTB RAIMON** | **7** | 1 | We hate convert | [#1](https://osu.ppy.sh/community/matches/112182424) |
+| Lower | **DreStarkari** | **7** | 3 | Capoo so cute | [#1](https://osu.ppy.sh/community/matches/112180168) |
+
+Sunday, 14 January 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **Korean PC** | **7** | 4 | converts ec | [#1](https://osu.ppy.sh/community/matches/112199683) |
+| Lower | DreStarkari | 4 | **7** | **CTB RAIMON** | [#1](https://osu.ppy.sh/community/matches/112200779) |
+
 ### Semifinals
 
 Saturday, 6 January 2024:
