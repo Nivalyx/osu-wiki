@@ -285,12 +285,30 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Grand Finals
+### Semifinals
 
-| Bracket/match code | Player 1 |  |  | Player 2 | Match link |
+Saturday, 6 January 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower/match 13L | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111641719) |
-| Grand Final/match 14 | **[rHO](https://osu.ppy.sh/users/1629553)** ::{ flag=ID }:: | **7** | 6 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/111642879) |
+| Lower | Polanezja | 5 | **6** | **roflcopter** | [#1](https://osu.ppy.sh/community/matches/112080315) |
+| Lower | **We hate convert** | **6** | 4 | 4DIGITS RISE UP | [#1](https://osu.ppy.sh/community/matches/112080291) |
+| Lower | **eurasia mid seed** | **6** | 0 | draft issue | *win by default* |
+
+Sunday, 7 January 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **converts ec** | **6** | 0 | DreStarkari | [#1](https://osu.ppy.sh/community/matches/112096182) |
+| Lower | **Capoo so cute** | **6** | 0 | AMQ Player | [#1](https://osu.ppy.sh/community/matches/112094333) |
+| Upper | **Korean PC** | **6** | 3 | CTB RAIMON | [#1](https://osu.ppy.sh/community/matches/112094244) |
+| Lower | **Capoo so cute** | **6** | 1 | roflcopter | [#1](https://osu.ppy.sh/community/matches/112095497) |
+
+Monday, 8 January 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | eurasia mid seed | 5 | **6** | **We hate convert** | [#1](https://osu.ppy.sh/community/matches/112095513) |
 
 ### Quarterfinals
 
@@ -315,7 +333,7 @@ Sunday, 17 December 2023:
 | Upper | Capoo so cute | 3 | **6** | **CTB RAIMON** | [#1](https://osu.ppy.sh/community/matches/111767629) |
 | Lower | **roflcopter** | **6** | 2 | flag issue | [#1](https://osu.ppy.sh/community/matches/111770266) |
 | Lower | **draft issue** | **6** | 3 | kururin spin | [#1](https://osu.ppy.sh/community/matches/111750869) |
-| Upper | **converts ec** | **6** | 3 | we hate convert | [#1](https://osu.ppy.sh/community/matches/111768251) |
+| Upper | **converts ec** | **6** | 3 | We hate convert | [#1](https://osu.ppy.sh/community/matches/111768251) |
 | Upper | **Korean PC** | **6** | 0 | Polanezja | [#1](https://osu.ppy.sh/community/matches/111769546) |
 | Upper | Ateshiiii | 4 | **6** | **AMQ Player** | [#1](https://osu.ppy.sh/community/matches/111763481) |
 
@@ -345,7 +363,7 @@ Sunday, 10 December 2023:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | Rhodes Island | 0 | **5** | **Signal Graph** | [#1](https://osu.ppy.sh/community/matches/111663743) |
-| Upper | **we hate convert** | **5** | 2 | roflcopter | [#1](https://osu.ppy.sh/community/matches/111660942) |
+| Upper | **We hate convert** | **5** | 2 | roflcopter | [#1](https://osu.ppy.sh/community/matches/111660942) |
 | Upper | **eurasia mid seed** | **5** | 2 | AMQ Player | [#1](https://osu.ppy.sh/community/matches/111661744) |
 | Lower | C𝓔LεNG𓃟β∀L4P | 0 | **5** | **Samurai Team** | [#1](https://osu.ppy.sh/community/matches/111659707) |
 | Upper | **CTB RAIMON** | **5** | 2 | draft issue | [#1](https://osu.ppy.sh/community/matches/111658881) |
