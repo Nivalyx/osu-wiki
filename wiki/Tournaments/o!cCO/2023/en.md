@@ -331,7 +331,34 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 | #4 | Capoo so cute | 5.50 |
 | #5 | CTB RAIMON | 6.00[^qual-note-1] |
 | #6 | DreStarkari | 6.00[^qual-note-1] |
-| #7 | 
+| #7 | We hate convert | 7.38 |
+| #8 | Polanezja | 10.13 |
+| #9 | 4DIGITS RISE UP | 10.25 |
+| #10 | roflcopter | 10.75 |
+| #11 | Ateshiiii | 11.63 |
+| #12 | draft issue | 11.88 |
+| #13 | kururin spin | 12.88 |
+| #14 | AMQ Player | 13.13 |
+| #15 | flag issue | 15.50 |
+| #16 | TAG4 | 15.75 |
+| #17 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | 16.25 |
+| #18 | plz dont ban DT | 17.25 |
+| #19 | Samurai Team | 17.63 |
+| #20 | SUNBOY | 20.13 |
+| #21 | Degens, truly | 21.75 |
+| #22 | Signal Graph | 22.00[^qual-note-2] |
+| #23 | Ban Mods | 22.00[^qual-note-2] |
+| #24 | TATAPCTAH | 25.25 |
+| #25 | CS=convert suck | 25.63 |
+| #26 | NZ gamers | 26.38 |
+| #27 | Rhodes Island | 27.00[^qual-note-3] |
+| #28 | Ad Matai Bad | 27.00[^qual-note-3] |
+| #29 | 5 digits | 27.75 |
+| #30 | C𝓔LεNG𓃟β∀L4P | 28.50 |
+| #31 | what is convert | 28.75 |
+| #32 | fuit gummy | 28.88 |
+| #33 | Timezone Issue | 31.13 |
+| #34 | The Team | 34.00 |
 
 ## Ruleset
 
