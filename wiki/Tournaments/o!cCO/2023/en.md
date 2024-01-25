@@ -522,6 +522,21 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all eight Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
+#### Knock-out stage rules
+
+1. The 32 teams who got through from the Qualifiers will be matched against each other based on their Qualifier seeding (e.g. Seed #1 vs. Seed #32, Seed #2 vs. Seed #31, and so on).
+2. Teams will compete against each other using the double-elimination system.
+3. The double-elimination system works as follows:
+   - Teams who lose in the upper bracket can still play again in the lower bracket.
+   - Teams who lose in the lower bracket will be eliminated from the tournament.
+   - In the Grand Final, the winner of the the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
+4. Players who can compete in the next round are determined by:
+   - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
+   - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
+   - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
+   - Whether there are players who are declared to win the match by default.
+   - Whether there are players who are disqualified from the tournament.
+
 ### Match regulations
 
 1. Prior to starting the match, representatives from each team must run the `!roll` command in order to determine the banning and picking order.
@@ -536,14 +551,8 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - The MixedMod pool will be played with FreeMod activated.
    - During a MixedMod pick, one player from each team will have to play the map with the Hidden mod activated, while the other player will have to play with either HardRock or Hidden+HardRock under their belt.
 5. When playing a map from the HardRock or DoubleTime pool, the Hidden modification may be optionally used by any player.
-5. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with Hidden, HardRock, or Hidden+HardRock should they wish to.
+6. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with Hidden, HardRock, or Hidden+HardRock should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
-6. Players who can compete in the next round are determined by:
-   - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
-   - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
-   - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
-   - Whether there are players who are declared to win the match by default.
-   - Whether there are players who are disqualified from the tournament.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
 [^qual-note-1]: Average score out of all eight Qualifier beatmaps: CTB RAIMON 1,903,488, DreStarkari 1,892,753.
