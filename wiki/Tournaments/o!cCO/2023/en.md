@@ -359,6 +359,10 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 | #32 | fuit gummy | 28.88 |
 | #33 | Timezone Issue | 31.13 |
 | #34 | The Team | 34.00 |
+| N/A | Ad Matai | *DNP* |
+| N/A | am nyam | *DNP* |
+| N/A | ditinggal ps3 | *DNP* |
+| N/A | ДШРГ Русичи | *DNP* |
 
 ## Ruleset
 
