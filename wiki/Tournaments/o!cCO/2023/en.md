@@ -376,6 +376,6 @@ As the tournament is an invitational, there are no open registrations held for t
    - Whether there are players who are disqualified from the tournament.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
-[^qual-note-1]: Average score of all Qualifier beatmaps: CTB RAIMON 1,903,488, DreStarkari 1,892,753.
-[^qual-note-2]: Average score of all Qualifier beatmaps: Signal Graph 1,613,901, Ban Mods 1,608,756.
-[^qual-note-3]: Average score of all Qualifier beatmaps: Rhodes Island 1,516,625, Ban Mods 1,506,365.
+[^qual-note-1]: Average score out of all eight Qualifier beatmaps: CTB RAIMON 1,903,488, DreStarkari 1,892,753.
+[^qual-note-2]: Average score out of all eight Qualifier beatmaps: Signal Graph 1,613,901, Ban Mods 1,608,756.
+[^qual-note-3]: Average score out of all eight Qualifier beatmaps: Rhodes Island 1,516,625, Ban Mods 1,506,365.
