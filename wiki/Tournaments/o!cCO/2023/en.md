@@ -329,8 +329,8 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 | #2 | converts ec | 3.38 |
 | #3 | eurasia mid seed | 4.75 |
 | #4 | Capoo so cute | 5.50 |
-| #5 | CTB RAIMON | 6.00 |
-| #6 | DreStarkari | 6.00 |
+| #5 | CTB RAIMON | 6.00[^qual-note-1] |
+| #6 | DreStarkari | 6.00[^qual-note-1] |
 | #7 | 
 
 ## Ruleset
@@ -375,3 +375,5 @@ As the tournament is an invitational, there are no open registrations held for t
    - Whether there are players who are declared to win the match by default.
    - Whether there are players who are disqualified from the tournament.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+
+[^qual-note-1]: Average Qualifier score: CTB RAIMON 1,903,488, DreStarkari 1,892,753.
