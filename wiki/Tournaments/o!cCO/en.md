@@ -248,25 +248,42 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 32
 
 - NoMod
-  1. [HO-KA-GO CLIMAX GIRLS - Hanasaka Sai Sai (kiddly) \[Ag's Extra\]](https://osu.ppy.sh/beatmapsets/2094935#fruits/4399750)
-  2. [Camellia - Kono Hoshi de.... (Krimek) \[Arbane's Extra\]](https://osu.ppy.sh/beatmapsets/511759#fruits/1116417)
-  3. [Markus Schukowski - What It Feels Like (Zardonic Remix) (kowari) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/2052103#fruits/4286007)
-  4. [Kaskade & Skrillex - Lick It (Cut Ver.) (GRR SNARL GROWL) \[chonk mini\]](https://osu.ppy.sh/beatmapsets/2004289#fruits/4168141)
+  1. [ShinRa-Bansho - Uchouten Dreamers (Kurashina Asuka) \[Extra\]](https://osu.ppy.sh/beatmapsets/1146136#fruits/2445799)
+  2. [Rina Sawayama - Comme Des Garcons (Like The Boys) (fooders) \[I'm so confident!\]](https://osu.ppy.sh/beatmapsets/1799181#fruits/3688318)
+  3. [Pegboard Nerds - Gunslinga (feat. MC Mota) (Sylas) \[Plaudible's Extra\]](https://osu.ppy.sh/beatmapsets/1234094#fruits/2622409)
+  4. [Marguerite du Pre - Marie Antoinette (CrimmiSkye) \[Black Another\]](https://osu.ppy.sh/beatmapsets/450147#fruits/967923)
 - Hidden
-  1. [TheFatRat - Unity (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/218274#fruits/511717)
-  2. [Masque:Rade - Love Destiny (Snow Note) \[MASTER\]](https://osu.ppy.sh/beatmapsets/706004#fruits/1660120)
+  1. [Arizona Zervas - ROXANNE (wafer) \[Top\]](https://osu.ppy.sh/beatmapsets/1930291#fruits/3987358)
+  2. [boa - Duvet (Aranel) \[Insane\]](https://osu.ppy.sh/beatmapsets/2034265#fruits/4241261)
 - HardRock
-  1. [Utsu-P feat. Kagamine Rin - Tokyo Teddy Bear (Dudamesh) \[Insane\]](https://osu.ppy.sh/beatmapsets/1332820#fruits/2845190)
-  2. [Chicala Lpis - Blackest Luxury Car (Ongaku) \[vikala's INSANE\]](https://osu.ppy.sh/beatmapsets/1058850#fruits/2589142)
+  1. [Green Day - American Idiot (Sotarks) \[Nymphe's Insane\]](https://osu.ppy.sh/beatmapsets/1818185#fruits/3737442)
+  2. [C-Show - ERROR CODE (Lude) \[0028:C0011E36\]](https://osu.ppy.sh/beatmapsets/1930682#fruits/3988338)
 - DoubleTime
-  1. [Itou Masumi - Yume no Naka no Watashi no Yume (RLC) \[Coda\]](https://osu.ppy.sh/beatmapsets/668664#fruits/1414553)
-  2. [FictionJunction - Yakusoku (Maot) \[Awaiting Promise\]](https://osu.ppy.sh/beatmapsets/1928050#fruits/3981702)
-  3. [EYE\_RH - The Red Coronation (Parachute) \[Insane\]](https://osu.ppy.sh/beatmapsets/1033460#fruits/2174643)
+  1. [BRIGHT - Ichinen Nikagetsu Hatsuka (wafer) \[Unbreakable Resolve Collab\]](https://osu.ppy.sh/beatmapsets/1652328#fruits/3373029)
+  2. [Avril Lavigne - Hello Heartache (Squirrel) \[Zero's Insane\]](https://osu.ppy.sh/beatmapsets/133492#fruits/420234)
+  3. [Paramore - Decode (Attendant) \[Another\]](https://osu.ppy.sh/beatmapsets/1888967#fruits/4036946)
 - MixedMod
-  1. [Tsukimi Eiko (CV: 96neko) - Sakuranbo (Suzuaki\_Rin) \[Cherry\]](https://osu.ppy.sh/beatmapsets/1778030#fruits/3641404)
-  2. [James Landino & Akira Complex - Hydra (DreaM117er) \[dahkjdas's Extra\]](https://osu.ppy.sh/beatmapsets/1256865#fruits/3141593)
+  1. [Nowlu - Stuck on you (EdgyKing) \[Heartache\]](https://osu.ppy.sh/beatmapsets/1910970#fruits/3941735)
+  2. [pm04034 - Nonspeed (bob) \[ar8 for psychopaths\]](https://osu.ppy.sh/beatmapsets/1863752#fruits/3832752)
 - Tiebreaker
-  1. **[Hayakore Tatsumi - Wedding of the Goodbye (\_KcuD) \[Promise\]](https://osu.ppy.sh/beatmapsets/1799402#fruits/3688741)**  
+  1. **[XS Project vs Hard Bass School - Zakladki (hackSL) \[TLZ02\]](https://osu.ppy.sh/beatmapsets/775287#fruits/1629204)**
+
+### Qualifiers
+
+- NoMod
+  1. [ShinRa-Bansho - Uchouten Dreamers (Kurashina Asuka) \[Extra\]](https://osu.ppy.sh/beatmapsets/1146136#fruits/2445799)
+  2. [Rina Sawayama - Comme Des Garcons (Like The Boys) (fooders) \[I'm so confident!\]](https://osu.ppy.sh/beatmapsets/1799181#fruits/3688318)
+  3. [Pegboard Nerds - Gunslinga (feat. MC Mota) (Sylas) \[Plaudible's Extra\]](https://osu.ppy.sh/beatmapsets/1234094#fruits/2622409)
+  4. [Marguerite du Pre - Marie Antoinette (CrimmiSkye) \[Black Another\]](https://osu.ppy.sh/beatmapsets/450147#fruits/967923)
+- Hidden
+  1. [Arizona Zervas - ROXANNE (wafer) \[Top\]](https://osu.ppy.sh/beatmapsets/1930291#fruits/3987358)
+  2. [boa - Duvet (Aranel) \[Insane\]](https://osu.ppy.sh/beatmapsets/2034265#fruits/4241261)
+- HardRock
+  1. [Green Day - American Idiot (Sotarks) \[Nymphe's Insane\]](https://osu.ppy.sh/beatmapsets/1818185#fruits/3737442)
+  2. [C-Show - ERROR CODE (Lude) \[0028:C0011E36\]](https://osu.ppy.sh/beatmapsets/1930682#fruits/3988338)
+- DoubleTime
+  1. [BRIGHT - Ichinen Nikagetsu Hatsuka (wafer) \[Unbreakable Resolve Collab\]](https://osu.ppy.sh/beatmapsets/1652328#fruits/3373029)
+  2. [Avril Lavigne - Hello Heartache (Squirrel) \[Zero's Insane\]](https://osu.ppy.sh/beatmapsets/133492#fruits/420234)  
 
 ## Match results
 
