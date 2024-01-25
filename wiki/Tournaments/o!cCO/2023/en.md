@@ -517,7 +517,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - This rule does not apply in the Qualifier lobbies.
 2. Each team has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
-3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own during the grace period before the match commences.
+3. Each team will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
 4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 5. Players who can compete in the next round are determined by:
