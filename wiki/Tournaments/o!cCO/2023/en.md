@@ -501,7 +501,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 ### Tournament registration
 
 1. In order to participate, players are required to form a team and register into the tournament as a team through [the tournament's website](https://wybin.xyz/tournaments/o!c-convert-open-2023/home).
-   - In order to be eligible to play in the tournament, each team must have at least one player from [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania) in their roster.
+   - Each team is required to have least one player from [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania) in their roster.
    - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extends to the Asian continent are considered as a part of Asia.
 2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
    - Team names may not violate the [osu! community rules](/wiki/Rules#community-rules).
