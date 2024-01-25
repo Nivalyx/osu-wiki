@@ -292,14 +292,38 @@ This competition has come to an end and resulted in the following podium:
 | Lower/match 13L | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111641719) |
 | Grand Final/match 14 | **[rHO](https://osu.ppy.sh/users/1629553)** ::{ flag=ID }:: | **7** | 6 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/111642879) |
 
-### Finals
+### Quarterfinals
 
-| Bracket/match code | Player 1 |  |  | Player 2 | Match link |
+Saturday, 16 December 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower/match 9L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/111639091) |
-| Lower/match 10L | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111639131) |
-| Lower/match 11L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/111639900) |
-| Upper/match 12U | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111639683) |
+| Lower | **flag issue** | **6** | 0 | Degens, truly | [#1](https://osu.ppy.sh/community/matches/111753136) |
+| Lower | **draft issue** | **6** | 5 | plz dont ban DT | [#1](https://osu.ppy.sh/community/matches/111747366) |
+| Lower | **AMQ Player** | **6** | 1 | TATAPCTAH | [#1](https://osu.ppy.sh/community/matches/111746801) |
+| Lower | **4DIGITS RISE UP** | **6** | 1 | Samurai Team | [#1](https://osu.ppy.sh/community/matches/111749926) |
+| Lower | **kururin spin** | **6** | 0 | NZ Gamers | [#1](https://osu.ppy.sh/community/matches/111748430) |
+| Lower | **Ateshiiii** | **6** | 0 | TAG4 | *win by default* |
+| Lower | **roflcopter** | **6** | 0 | SUNBOY | *win by default* |
+
+Sunday, 17 December 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | eurasia mid seed | 2 | **6** | **DreStarkari** | [#1](https://osu.ppy.sh/community/matches/111769489) |
+| Lower | **꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂** | **6** | 3 | Signal Graph | [#1](https://osu.ppy.sh/community/matches/111765871) |
+| Upper | Capoo so cute | 3 | **6** | **CTB RAIMON** | [#1](https://osu.ppy.sh/community/matches/111767629) |
+| Lower | **roflcopter** | **6** | 2 | flag issue | [#1](https://osu.ppy.sh/community/matches/111770266) |
+| Lower | **draft issue** | **6** | 3 | kururin spin | [#1](https://osu.ppy.sh/community/matches/111750869) |
+| Upper | **converts ec** | **6** | 3 | we hate convert | [#1](https://osu.ppy.sh/community/matches/111768251) |
+| Upper | **Korean PC** | **6** | 0 | Polanezja | [#1](https://osu.ppy.sh/community/matches/111769546) |
+| Upper | Ateshiiii | 4 | **6** | **AMQ Player** | [#1](https://osu.ppy.sh/community/matches/111763481) |
+
+Monday, 18 December 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **4DIGITS RISE UP** | **6** | 3 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | [#1](https://osu.ppy.sh/community/matches/111772669) |
 
 ### Round of 16
 
