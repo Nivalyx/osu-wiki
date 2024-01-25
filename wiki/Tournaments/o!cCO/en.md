@@ -271,19 +271,17 @@ This competition has come to an end and resulted in the following podium:
 ### Qualifiers
 
 - NoMod
-  1. [ShinRa-Bansho - Uchouten Dreamers (Kurashina Asuka) \[Extra\]](https://osu.ppy.sh/beatmapsets/1146136#fruits/2445799)
-  2. [Rina Sawayama - Comme Des Garcons (Like The Boys) (fooders) \[I'm so confident!\]](https://osu.ppy.sh/beatmapsets/1799181#fruits/3688318)
-  3. [Pegboard Nerds - Gunslinga (feat. MC Mota) (Sylas) \[Plaudible's Extra\]](https://osu.ppy.sh/beatmapsets/1234094#fruits/2622409)
-  4. [Marguerite du Pre - Marie Antoinette (CrimmiSkye) \[Black Another\]](https://osu.ppy.sh/beatmapsets/450147#fruits/967923)
+  1. [nano feat. MY FIRST STORY - SAVIOR OF SONG (Kurashina Asuka) \[OUR FUTURE\]](https://osu.ppy.sh/beatmapsets/1179677#fruits/2459904)
+  2. [lapix - Debug Dance (Super Arrow) \[Livia's Dance\]](https://osu.ppy.sh/beatmapsets/603561#fruits/1274730)
 - Hidden
-  1. [Arizona Zervas - ROXANNE (wafer) \[Top\]](https://osu.ppy.sh/beatmapsets/1930291#fruits/3987358)
-  2. [boa - Duvet (Aranel) \[Insane\]](https://osu.ppy.sh/beatmapsets/2034265#fruits/4241261)
+  1. [Gorilla Attack - Gorilla Step (hehe) \[Gorilla Map\]](https://osu.ppy.sh/beatmapsets/1876103#fruits/3860846)
+  2. [Nanawo Akari - Ai ga Aru You de Nai You de Aru (Suzuaki\_Rin) \[Buzz\]](https://osu.ppy.sh/beatmapsets/1907766#fruits/3934020)
 - HardRock
-  1. [Green Day - American Idiot (Sotarks) \[Nymphe's Insane\]](https://osu.ppy.sh/beatmapsets/1818185#fruits/3737442)
-  2. [C-Show - ERROR CODE (Lude) \[0028:C0011E36\]](https://osu.ppy.sh/beatmapsets/1930682#fruits/3988338)
+  1. [Shiena Nishizawa - Meaning (kowari) \[wkyik's Extra\]](https://osu.ppy.sh/beatmapsets/1755119#fruits/3591718)
+  2. [NeLiME - Snapdragon (Elzix) \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/2074879#fruits/4343235)
 - DoubleTime
-  1. [BRIGHT - Ichinen Nikagetsu Hatsuka (wafer) \[Unbreakable Resolve Collab\]](https://osu.ppy.sh/beatmapsets/1652328#fruits/3373029)
-  2. [Avril Lavigne - Hello Heartache (Squirrel) \[Zero's Insane\]](https://osu.ppy.sh/beatmapsets/133492#fruits/420234)  
+  1. [LiLA'c Records - Maze of Vapor (Brutal Core mix) (-Kemsyt) \[Mirash's Extra\]](https://osu.ppy.sh/beatmapsets/1752523#fruits/3586373)
+  2. [yanaginagi - landscape (\[Vincent\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/244001#fruits/563370)  
 
 ## Match results
 
