@@ -495,7 +495,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 9. Lag is not a valid reason to nullify a beatmap.
 10. If any problems during the match occur, the tournament management will make a decision based on the referee's report.
 11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
-    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the tournament management.
+    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player or their team may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the tournament management.
     - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
 ### Tournament registration
