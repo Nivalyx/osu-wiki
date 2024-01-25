@@ -511,6 +511,17 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 ### Round-specific rules
 
+#### Qualifier rules
+
+1. Each team will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
+2. In the lobby, all teams will have to consecutively play all of the eight Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
+4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
+5. Based on their performance in the Qualifier, teams will be ranked based on their average rank combined from each individual Qualifier beatmaps.
+6. 32 teams with the **highest average rank** according to the above criteria will advance to the knock-out stages.
+   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all eight Qualifier beatmaps.
+7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+
 ### Match regulations
 
 1. Prior to starting the match, representatives from each team must run the `!roll` command in order to determine the banning and picking order.
