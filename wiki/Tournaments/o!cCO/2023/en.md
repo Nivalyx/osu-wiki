@@ -500,21 +500,22 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 ### Tournament registration
 
-1. Players are required to form a team and register into the tournament as a team through [the tournament's website](https://wybin.xyz/tournaments/o!c-convert-open-2023/home).
+1. In order to participate, players are required to form a team and register into the tournament as a team through [the tournament's website](https://wybin.xyz/tournaments/o!c-convert-open-2023/home).
    - In order to be eligible to play in the tournament, each team must have at least one player from [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania) in their roster.
    - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extends to the Asian continent are considered as a part of Asia.
-2. A   
+2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
+   - Team names may not violate the [osu! community rules](http://osu.ppy.sh/wiki/en/Rules).
 3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 4. The list of players and teams who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 5. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Match instructions
 
-1. Each player must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
+1. Upon entering the lobby, representatives from each team must run the `!roll` command in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** (on the Quarterfinals and the Semifinals) or **two beatmaps** (from the Finals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+2. Each team has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up before the match are expected to do so by their own during the grace period before the match commences.
 4. **There will be no FreeMod pick in the mappool.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
