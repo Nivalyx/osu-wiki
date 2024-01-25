@@ -310,14 +310,38 @@ This competition has come to an end and resulted in the following podium:
 | Lower/match 7L | [Skydiver](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[NazunaAmemiya](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111637354) |
 | Lower/match 8L | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111637200) |
 
-### Quarterfinals
+### Round of 32
 
-| Bracket/match code | Player 1 |  |  | Player 2 | Match link |
+Thursday, 30 November 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper/match 1 | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/111636056) |
-| Upper/match 2 | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/111636028) |
-| Upper/match 3 | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
-| Upper/match 4 | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111636056) |
+| Upper | **roflcopter** | **5** | 0 | ban mods | [#1](https://osu.ppy.sh/community/matches/111509501) |
+
+Saturday, 2 December 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **kururin spin** | **5** | 0 | SUNBOY | [#1](https://osu.ppy.sh/community/matches/111539753) |
+| Upper | TAG4 | 1 | **5** | **꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂** | [#1](https://osu.ppy.sh/community/matches/111539733) |
+| Upper | **Korean PC** | **5** | 1 | fuit gummy | [#1](https://osu.ppy.sh/community/matches/111538870) |
+| Upper | **DreStarkari** | **5** | 0 | Rhodes Island | [#1](https://osu.ppy.sh/community/matches/111539836) |
+| Upper | **flag issue** | **5** | 0 | pls dont ban DT | [#1](https://osu.ppy.sh/community/matches/111539151) |
+| Upper | **4DIGITS RISE UP** | **5** | 0 | TATAPCTAH | [#1](https://osu.ppy.sh/community/matches/111540713) |
+| Upper | **CTB RAIMON** | **5** | 1 | Ad Matai Bad | [#1](https://osu.ppy.sh/community/matches/111543836) |
+| Upper | **Capoo so cute** | **5** | 0 | 5 digits | [#1](https://osu.ppy.sh/community/matches/111542828) |
+
+Sunday, 3 December 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **AMQ Player** | **5** | 3 | Samurai Team | [#1](https://osu.ppy.sh/community/matches/111558516) |
+| Upper | **Polanezja** | **5** | 1 | CS=convert suck | [#1](https://osu.ppy.sh/community/matches/111559351) |
+| Upper | **converts ec** | **5** | 0 | what is convert | [#1](https://osu.ppy.sh/community/matches/111559351) |
+| Upper | **Ateshiiii** | **5** | 0 | Signal Graph | [#1](https://osu.ppy.sh/community/matches/111562787) |
+| Upper | **eurasia mid seed** | **5** | 0 | C𝓔LεNG𓃟β∀L4P | [#1](https://osu.ppy.sh/community/matches/111559406) |
+| Upper | **draft issue** | **5** | 0 | Degens, truly | [#1](https://osu.ppy.sh/community/matches/111560269) |
+| Upper | **We hate convert** | **5** | 0 | NZ Gamers | [#1](https://osu.ppy.sh/community/matches/111557287) |
 
 ### Qualifiers
 
@@ -357,7 +381,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 | #30 | C𝓔LεNG𓃟β∀L4P | 28.50 |
 | #31 | what is convert | 28.75 |
 | #32 | fuit gummy | 28.88 |
-| #33 | Timezone Issue | 31.13 |f
+| #33 | Timezone Issue | 31.13 |
 | #34 | The Team | 34.00 |
 | N/A | Ad Matai | *DNP* |
 | N/A | am nyam | *DNP* |
