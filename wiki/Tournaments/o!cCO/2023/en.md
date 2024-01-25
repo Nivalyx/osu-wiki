@@ -89,7 +89,7 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 | Korean PC | ::{ flag=US }:: **[Dahcreeper](https://osu.ppy.sh/users/6926006)**, ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
 | kururin spin | ::{ flag=PL }:: **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)**, ::{ flag=TW }:: [ZX123456](https://osu.ppy.sh/users/489271), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
 | NZ gamers | ::{ flag=NZ }:: **[Wettham77](https://osu.ppy.sh/users/14476098)**, ::{ flag=NZ }:: [CTB Sakamata1](https://osu.ppy.sh/users/11735313), ::{ flag=NZ }:: [Starwide](https://osu.ppy.sh/users/9926856) |
-| pls dont ban DT | ::{ flag=JP }:: **[giru HD](https://osu.ppy.sh/users/707456)**, ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=JP }:: [Snowwind](https://osu.ppy.sh/users/2163585) |
+| plz dont ban DT | ::{ flag=JP }:: **[giru HD](https://osu.ppy.sh/users/707456)**, ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=JP }:: [Snowwind](https://osu.ppy.sh/users/2163585) |
 | Polanezja | ::{ flag=PL }:: **[madcin](https://osu.ppy.sh/users/2957534)**, ::{ flag=ID }:: [Intention](https://osu.ppy.sh/users/3416858), ::{ flag=ID }:: [\[ Mephisto \]](https://osu.ppy.sh/users/3027065) |
 | Rhodes Island | ::{ flag=MY }:: **[Asteristia](https://osu.ppy.sh/users/9434933)**, ::{ flag=MY }:: [leaf89](https://osu.ppy.sh/users/19346652), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270) |
 | roflcopter | ::{ flag=KR }:: **[Syine](https://osu.ppy.sh/users/4795737)**, ::{ flag=IT }:: [Sakhalin79](https://osu.ppy.sh/users/11158870), ::{ flag=KR }:: [Zellen](https://osu.ppy.sh/users/17405762) |
@@ -301,14 +301,33 @@ This competition has come to an end and resulted in the following podium:
 | Lower/match 11L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/111639900) |
 | Upper/match 12U | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111639683) |
 
-### Semifinals
+### Round of 16
 
-| Bracket/match code | Player 1 |  |  | Player 2 | Match link |
+Saturday, 9 December 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper/match 5U | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/111638406) |
-| Upper/match 6U | [DEETO](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111638367) |
-| Lower/match 7L | [Skydiver](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[NazunaAmemiya](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111637354) |
-| Lower/match 8L | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111637200) |
+| Lower | fuit gummy | 1 | **5** | **TAG4** | [#1](https://osu.ppy.sh/community/matches/111642904) |
+| Upper | **Polanezja** | **5** | 0 | 4DIGITS RISE UP | [#1](https://osu.ppy.sh/community/matches/111644023) |
+| Lower | CS=convert suck | 0 | **5** | **TATAPCTAH** | [#1](https://osu.ppy.sh/community/matches/111645018) |
+| Lower | **NZ gamers** | **5** | 1 | ban mods | [#1](https://osu.ppy.sh/community/matches/111639502) |
+| Lower | Ad Matai Bad | 2 | **5** | **Degens, truly** | [#1](https://osu.ppy.sh/community/matches/111642058) |
+| Upper | **Capoo so cute** | **5** | 0 | kururin spin | [#1](https://osu.ppy.sh/community/matches/111644060) |
+| Lower | 5 digits | 0 | **5** | **SUNBOY** | [#1](https://osu.ppy.sh/community/matches/111645003) |
+| Upper | **DreStarkari** | **5** | 1 | Ateshiiii | [#1](https://osu.ppy.sh/community/matches/111642913) |
+
+Sunday, 10 December 2023:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Rhodes Island | 0 | **5** | **Signal Graph** | [#1](https://osu.ppy.sh/community/matches/111663743) |
+| Upper | **we hate convert** | **5** | 2 | roflcopter | [#1](https://osu.ppy.sh/community/matches/111660942) |
+| Upper | **eurasia mid seed** | **5** | 2 | AMQ Player | [#1](https://osu.ppy.sh/community/matches/111661744) |
+| Lower | C𝓔LεNG𓃟β∀L4P | 0 | **5** | **Samurai Team** | [#1](https://osu.ppy.sh/community/matches/111659707) |
+| Upper | **CTB RAIMON** | **5** | 2 | draft issue | [#1](https://osu.ppy.sh/community/matches/111658881) |
+| Lower | what is convert | 0 | **5** | **plz dont ban DT** | [#1](https://osu.ppy.sh/community/matches/111659707) |
+| Upper | **Korean PC** | **5** | 0 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | [#1](https://osu.ppy.sh/community/matches/111655306) |
+| Upper | **converts ec** | **5** | 2 | flag issue | [#1](https://osu.ppy.sh/community/matches/111661735) |
 
 ### Round of 32
 
@@ -326,7 +345,7 @@ Saturday, 2 December 2023:
 | Upper | TAG4 | 1 | **5** | **꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂** | [#1](https://osu.ppy.sh/community/matches/111539733) |
 | Upper | **Korean PC** | **5** | 1 | fuit gummy | [#1](https://osu.ppy.sh/community/matches/111538870) |
 | Upper | **DreStarkari** | **5** | 0 | Rhodes Island | [#1](https://osu.ppy.sh/community/matches/111539836) |
-| Upper | **flag issue** | **5** | 0 | pls dont ban DT | [#1](https://osu.ppy.sh/community/matches/111539151) |
+| Upper | **flag issue** | **5** | 0 | plz dont ban DT | [#1](https://osu.ppy.sh/community/matches/111539151) |
 | Upper | **4DIGITS RISE UP** | **5** | 0 | TATAPCTAH | [#1](https://osu.ppy.sh/community/matches/111540713) |
 | Upper | **CTB RAIMON** | **5** | 1 | Ad Matai Bad | [#1](https://osu.ppy.sh/community/matches/111543836) |
 | Upper | **Capoo so cute** | **5** | 0 | 5 digits | [#1](https://osu.ppy.sh/community/matches/111542828) |
