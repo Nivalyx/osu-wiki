@@ -10,7 +10,7 @@ tags:
 
 In osu! gameplay, **converts** (or *converted beatmaps*) are [beatmaps](/wiki/Beatmap) from a specific game mode that are "converted" by the game in order to be playable in another [game mode](/wiki/Game_mode/) for which they were not originally created. All converts are automatically generated based on certain parameters present on the base beatmap.
 
-As it stands, osu! supports conversions of beatmaps from the [osu! game mode](/wiki/Game_mode/osu!) into osu!taiko, osu!catch, and osu!mania.
+As it stands, osu! supports conversions of beatmaps from the [osu! game mode](/wiki/Game_mode/osu!) into [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania).
 
 ## Conversions
 
