@@ -39,3 +39,5 @@ Converts between osu! and osu!catch are generated according to the rhythm and th
 - Spinners are converted as *bananas*.
 
 ### osu! to osu!mania conversion
+
+Converts between osu! and osu!catch are generated only according to the rhythm of the beatmap, and are supposedly much more random then the other two modes.
