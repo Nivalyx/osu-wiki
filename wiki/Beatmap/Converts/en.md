@@ -40,4 +40,6 @@ Converts between osu! and osu!catch are generated according to the rhythm and th
 
 ### osu! to osu!mania conversion
 
-Converts between osu! and osu!catch are generated mainly only according to the rhythm of the beatmap, and are supposedly much more random then the other two
+Converts between osu! and osu!mania are generated mainly only according to the rhythm of the beatmap, and are supposedly much more random then the other two
+
+In addition to the above, osu!mania converts are unique in a sense that 
