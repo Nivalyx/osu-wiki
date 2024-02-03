@@ -24,5 +24,7 @@ Converts between osu! and osu!taiko are generated according to the rhythms, hits
 - Circles, slider heads, slider tails, and slider repeats that are hitsounded with a whistle, a clap, or both are converted as *blue notes* (Katu).
 - Circles, slider heads, slider tails, and slider repeats that are hitsounded with a finish are converted as *large red notes*.
 - Circles, slider heads, slider tails, and slider repeats that are hitsounded with a finish AND a whistle, a clap, or both are converted as *large blue notes*.
-- Very long sliders are converted as *drumrolls*.
+- Sliders with significant lengths are converted as *drumrolls*.
 - Spinners are converted as *osu!taiko spinners* (dendens/shakers).
+
+### osu! to osu!catch conversion
