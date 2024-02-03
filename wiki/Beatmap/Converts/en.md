@@ -18,7 +18,7 @@ As it stands, osu! supports conversions of beatmaps from the [osu! game mode](/w
 
 *See also: [osu!taiko mapping/osu! conversion notes](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)*
 
-Converts between osu! and osu!taiko are generated according to the rhythms, hitsounds, and slider velocity changes present in the base beatmap. Depending on how each object's hitsounds, the conversion between the two modes generally goes as follows:
+Converts between osu! and osu!taiko are generated according to the rhythms, hitsounds, and slider velocity changes present in the base beatmap. Depending on how objects are being hitsounded, the conversion between the two modes generally goes as follows:
 
-- a
-- b
+- Circles and slider parts that bear no additive hitsounds (e.g. no whistle, clap, or finish) are converted as a *Don*.
+- Circles and slider parts that are hitsounded with whistle, clap, or a combination of both are converted as a *Katu*.
