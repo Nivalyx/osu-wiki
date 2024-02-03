@@ -18,7 +18,7 @@ As it stands, osu! supports conversions of beatmaps from the [osu! game mode](/w
 
 *See also: [osu!taiko mapping/osu! conversion notes](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)*
 
-Converts between osu! and osu!taiko accounts for rhythms, hitsounds, and slider velocity changes present in the base beatmap. Depending on how each object's hitsounds, the conversion between the two modes generally goes as follows:
+Converts between osu! and osu!taiko are generated according to the rhythms, hitsounds, and slider velocity changes present in the base beatmap. Depending on how each object's hitsounds, the conversion between the two modes generally goes as follows:
 
 - a
 - b
