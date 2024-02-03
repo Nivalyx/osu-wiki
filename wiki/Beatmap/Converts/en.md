@@ -28,3 +28,7 @@ Converts between osu! and osu!taiko are generated according to the rhythms, hits
 - Spinners are converted as *osu!taiko spinners* (dendens/shakers).
 
 ### osu! to osu!catch conversion
+
+*See also: [osu!catch mapping/osu! conversion notes](/wiki/Game_mode/osu!catch#osu!-conversion-notes)*
+
+Converts between osu! and osu!catch are generated according to the rhythms and the horizontal placements of the hit objects present in the base beatmap. The conversion between the two modes goes as follows:
