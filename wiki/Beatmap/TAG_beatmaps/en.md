@@ -6,11 +6,13 @@ tags:
 
 # TAG beatmaps
 
-![The \"Show converted\" toggle in osu!(lazer)](img/show-converted-button.png "The \"Show converted\" toggle in osu!(lazer)")
+![An example of a TAG beatmap](img/tag-beatmap-example.png "An example of a TAG beatmap")
 
-**TAG beatmaps** (or just *TAG*) is a term used to describe [multiplayer](/wiki/Client/Interface/Multiplayer) team modes named [Tag Coop or Tag Team Vs](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) where players try to complete a [beatmap](/wiki/Beatmap) cooperatively. Beatmaps that are specifically designed for those modes are usually referred to as **TAG beatmaps/difficulties**.
+*Not to be confused with Tags, which is a [part of a beatmap's metadata](/wiki/Client/Beatmap_editor/Song_setup).*
 
-In these modes, each player is responsible for one [comboset](/wiki/Beatmapping/Combo), and throughout the song, players switch between combosets. For this reason, TAG beatmaps are designed in such a way that their combosets are placed much farther apart and more complex than usually, making it nearly impossible for the beatmap to be played by a single player.
+**TAG beatmaps** (or just *TAG*) are beatmaps that are specifically made for [Tag co-op or Tag-team VS play](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) in [multiplayer lobbies](/wiki/Client/Interface/Multiplayer). As such, these beatmaps often require cooperative play between players in order to be completed.
+
+In these modes, each player is responsible for one [combo chain](/wiki/Beatmapping/Combo), and throughout the song, players switch between combosets. For this reason, TAG beatmaps are designed in such a way that their combosets are placed much farther apart and more complex than usually, making it nearly impossible for the beatmap to be played by a single player.
 
 TAG [difficulties](/wiki/Beatmap/Difficulty) are usually denoted by the use of the term "TAG" in the beatmap difficulty name. Most often "TAG" will be followed by a number, which typically denotes how many players the difficulty is meant for (e.g. "TAG2" for two players or "TAG4" for four players).
 
