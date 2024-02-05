@@ -16,4 +16,4 @@ In these modes, each player is responsible for one [combo chain](/wiki/Beatmappi
 
 TAG [difficulties](/wiki/Beatmap/Difficulty) are most commonly denoted by the use of the term `TAG` in its difficulty name. Most often this `TAG` will be followed by a number, which typically denotes how many players the difficulty is meant for (e.g. `TAG2` for two players or `TAG4` for four players).
 
-Due to their nature, TAG difficulties are either unranked or [Loved](/wiki/Beatmap/Category#loved), because they are intentionally designed to be near-impossible for a single player.
+Due to their nature, TAG difficulties are most commonly be unranked, [Approved](/wiki/Beatmap/Category#loved), or [Loved](/wiki/Beatmap/Category#loved). because they are intentionally designed to be near-impossible for a single player.
