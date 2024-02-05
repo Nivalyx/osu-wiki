@@ -14,6 +14,6 @@ tags:
 
 In these modes, each player is responsible for one [combo chain](/wiki/Beatmapping/Combo), and throughout the song, players switch between combo chains. For this reason, TAG beatmaps are often designed in such a way that their combo chains are placed very far apart towards each other, making it nearly impossible for the beatmap to be cleared by a single player.
 
-TAG [difficulties](/wiki/Beatmap/Difficulty) are most commonly denoted by the use of the term "TAG" in the beatmap difficulty name. Most often "TAG" will be followed by a number, which typically denotes how many players the difficulty is meant for (e.g. "TAG2" for two players or "TAG4" for four players).
+TAG [difficulties](/wiki/Beatmap/Difficulty) are most commonly denoted by the use of the term `TAG` in its difficulty name. Most often this `TAG` will be followed by a number, which typically denotes how many players the difficulty is meant for (e.g. `TAG2` for two players or `TAG4` for four players).
 
 Due to their nature, TAG difficulties are either unranked or [Loved](/wiki/Beatmap/Category#loved), because they are intentionally designed to be near-impossible for a single player.
