@@ -4,9 +4,11 @@ tags:
   - co-op
 ---
 
-# TAG
+# TAG beatmaps
 
-**TAG** is a term used to describe [multiplayer](/wiki/Client/Interface/Multiplayer) team modes named [Tag Coop or Tag Team Vs](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) where players try to complete a [beatmap](/wiki/Beatmap) cooperatively. Beatmaps that are specifically designed for those modes are usually referred to as **TAG beatmaps/difficulties**.
+![The \"Show converted\" toggle in osu!(lazer)](img/show-converted-button.png "The \"Show converted\" toggle in osu!(lazer)")
+
+**TAG beatmaps** (or just *TAG*) is a term used to describe [multiplayer](/wiki/Client/Interface/Multiplayer) team modes named [Tag Coop or Tag Team Vs](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) where players try to complete a [beatmap](/wiki/Beatmap) cooperatively. Beatmaps that are specifically designed for those modes are usually referred to as **TAG beatmaps/difficulties**.
 
 In these modes, each player is responsible for one [comboset](/wiki/Beatmapping/Combo), and throughout the song, players switch between combosets. For this reason, TAG beatmaps are designed in such a way that their combosets are placed much farther apart and more complex than usually, making it nearly impossible for the beatmap to be played by a single player.
 
