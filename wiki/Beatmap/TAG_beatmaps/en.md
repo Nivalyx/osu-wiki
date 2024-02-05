@@ -12,7 +12,7 @@ tags:
 
 **TAG beatmaps** (or just *TAG*) are beatmaps that are specifically made for [Tag co-op or Tag-team VS mode](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) in [multiplayer lobbies]((/wiki/Client/Interface/Multiplayer)). As such, these beatmaps often require cooperative play between two or more players in the lobby in order to be completed.
 
-In these modes, each player is responsible for one [combo chain](/wiki/Beatmapping/Combo), and throughout the song, players switch between combosets. For this reason, TAG beatmaps are often designed in such a way that their combo chains are placed much farther apart and more complex than usually, making it nearly impossible for the beatmap to be played by a single player.
+In these modes, each player is responsible for one [combo chain](/wiki/Beatmapping/Combo), and throughout the song, players switch between combo chains. For this reason, TAG beatmaps are often designed in such a way that their combo chains are placed much farther apart and more complex than usually, making it nearly impossible for the beatmap to be played by a single player.
 
 TAG [difficulties](/wiki/Beatmap/Difficulty) are usually denoted by the use of the term "TAG" in the beatmap difficulty name. Most often "TAG" will be followed by a number, which typically denotes how many players the difficulty is meant for (e.g. "TAG2" for two players or "TAG4" for four players).
 
