@@ -61,7 +61,7 @@ Ragam kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Beat
 
 Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebut harus melewati proses ranking beatmap yang berlaku di osu!. Ketahui bagaimana proses ini berlangsung dan seperti apa prosedur kontrol kualitas beatmap (*quality control*) yang osu! terapkan.
 
-[Pengunggahan beatmap](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[Submisi](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Prosedur ranking](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [Ranking criteria](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
@@ -72,7 +72,7 @@ Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebu
 
 Kenali berbagai ketentuan hukum dan peraturan komunitas yang berlaku di osu!, mulai dari proses lisensi musik, pedoman penggunaan konten, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
 
-[Peraturan](/wiki/Rules) • [Kode etik Contributor Covenant](/wiki/Rules/Contributor_code_of_conduct) • [Kode etik dalam modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
+[Peraturan](/wiki/Rules) • [Kode Etik Contributor Covenant](/wiki/Rules/Contributor_code_of_conduct) • [Kode etik dalam modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
 Peraturan media: [Pedoman penggunaan konten](/wiki/Rules/Content_usage_guidelines) • [Proses pengkajian konten](/wiki/Rules/Content_voting_process) • [Konten eksplisit](/wiki/Rules/Explicit_content) • [Aturan konten musik](/wiki/Rules/Song_content_rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_content_considerations)
 
