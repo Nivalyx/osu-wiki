@@ -129,7 +129,7 @@ Berbagai hal yang sekiranya dapat berguna bagi mereka yang ingin turut serta dal
 </div>
 <div class="wiki-main-page-panel">
 
-# Seputar wiki dan hal meta lainnya
+# Wiki dan hal meta lainnya
 
 Sama seperti berbagai hal lainnya yang terdapat di osu!, osu! wiki juga dikembangkan dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke wiki ini, silakan kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
 
