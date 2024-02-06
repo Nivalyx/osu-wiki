@@ -70,7 +70,7 @@ Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebu
 
 # Aturan dan hukum
 
-Kenali berbagai prosedur dan ketentuan hukum yang menjaga agar osu! dan komunitasnya tetap aman, mulai dari proses lisensi musik, pedoman penggunaan media, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
+Kenali berbagai prosedur dan ketentuan yang menjaga agar osu! dan komunitasnya tetap aman, mulai dari proses lisensi musik, pedoman penggunaan media, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
 
 [Peraturan](/wiki/Rules) • [Kode Etik Contributor Covenant](/wiki/Rules/Contributor_code_of_conduct) • [Kode etik dalam modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
