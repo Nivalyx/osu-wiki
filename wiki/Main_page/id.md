@@ -113,7 +113,7 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang telah banyak mendukung kami dalam berbagai hal: upaya, dedikasi, dan jerih payah mereka memungkinkan kami untuk terus tumbuh dan berkembang.
 
-[Tim inti](/wiki/People/osu!_team) • [Developer](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
+[Tim osu!](/wiki/People/osu!_team) • [Pengembang](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
 [Kontributor komunitas](/wiki/People/Community_Contributors) • [Elite Nominator](/wiki/People/Elite_Nominators) • [Kelompok pengguna](/wiki/People/User_group) • [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Centurion](/wiki/People/Centurions) • [Completionist](/wiki/People/Completionists) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
 
@@ -122,7 +122,7 @@ osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang tela
 
 # Untuk pengembang
 
-Berbagai artikel yang berguna bagi mereka yang ingin berinteraksi dengan osu! melalui aplikasi dan media eksternal atau mengembangkan osu! secara umum.
+Berbagai artikel yang berguna bagi para pengembang yang ingin berinteraksi dengan osu! melalui aplikasi dan media eksternal atau mengembangkan osu! secara umum.
 
 [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
 
