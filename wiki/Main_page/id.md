@@ -46,13 +46,13 @@ Segalanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, k
 
 # [Editor beatmap](/wiki/Client/Beatmap_editor)
 
-Seluruh beatmap yang ada di osu! merupakan hasil karya para anggota komunitasnya. Apakah kamu ingin membuat beatmap, namun masih belum tahu caranya? Pelajari berbagai artikel berikut agar kamu dapat menjadi mapper yang ulung.
+Seluruh beatmap yang ada di osu! merupakan hasil karya para anggota komunitasnya. Apakah kamu ingin membuat beatmap, namun masih belum tahu caranya? Pelajari berbagai artikel berikut agar kamu dapat menguasai editor osu! dan menjadi seorang mapper yang handal.
 
 Bagian: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)
 
 Komponen: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_load) • [Timeline](/wiki/Client/Beatmap_editor/Timelines)
 
-Ragam kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
+Ragam aktivitas: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -122,7 +122,7 @@ osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang tela
 
 # Untuk pengembang
 
-Berbagai hal yang berguna bagi mereka yang ingin berinteraksi dengan osu! melalui aplikasi dan media eksternal atau mengembangkan osu! secara umum.
+Berbagai artikel yang berguna bagi mereka yang ingin berinteraksi dengan osu! melalui aplikasi dan media eksternal atau mengembangkan osu! secara umum.
 
 [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
 
