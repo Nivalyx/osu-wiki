@@ -13,7 +13,7 @@ Selamat datang di osu! wiki, basis pengetahuan open-source yang mengandung berba
 
 # Pendahuluan
 
-Berikut merupakan berbagai artikel dan panduan penting yang akan memandu kamu untuk memulai permainanmu. Apabila kamu menemui masalah tertentu atau merasa ragu akan suatu hal, jangan sungkan untuk mengunjungi [sub-forum Help](https://osu.ppy.sh/forum/5).
+Berikut merupakan berbagai artikel dan panduan penting yang akan membantu kamu untuk mengenali osu! lebih dekat. Apabila kamu menemui masalah tertentu atau merasa ragu akan suatu hal, jangan sungkan untuk mengunjungi [sub-forum Help](https://osu.ppy.sh/forum/5).
 
 [Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_centre)
 
