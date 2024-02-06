@@ -122,7 +122,7 @@ osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang tela
 
 # Untuk pengembang
 
-Berbagai hal yang sekiranya dapat berguna bagi mereka yang ingin turut serta dalam pengembangan osu!, baik dalam ruang lingkup pemrograman ataupun media.
+Berbagai hal yang berguna bagi mereka yang ingin berinteraksi dengan osu! melalui aplikasi dan media eksternal atau mengembangkan osu! secara umum.
 
 [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
 
@@ -131,7 +131,7 @@ Berbagai hal yang sekiranya dapat berguna bagi mereka yang ingin turut serta dal
 
 # Wiki dan hal meta lainnya
 
-Sama seperti berbagai hal lainnya yang terdapat di osu!, osu! wiki juga dikembangkan dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke wiki ini, silakan kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
+Sama seperti berbagai hal lainnya yang terdapat di osu!, osu! wiki juga ditulis dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke wiki ini, silakan kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
 
 [Sejarah osu!](/wiki/History_of_osu!) • [Sejarah peringkat online](/wiki/History_of_osu!/Online_rankings) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
