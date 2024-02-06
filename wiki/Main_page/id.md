@@ -122,7 +122,7 @@ osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang tela
 
 # Untuk pengembang
 
-Berbagai artikel yang berguna bagi para pengembang yang ingin berinteraksi dengan osu! melalui aplikasi dan media eksternal atau mengembangkan osu! secara umum.
+Berbagai panduan seputar cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksternal atau mengembangkan osu! secara umum.
 
 [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
 
