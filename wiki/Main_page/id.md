@@ -111,7 +111,7 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 # [Orang-orang](/wiki/People)
 
-osu! tidak akan dapat berada pada titik ini tanpa dukungan dari berbagai pengguna yang telah banyak mendukung kami dalam berbagai hal: upaya, dedikasi, dan jerih payah mereka memungkinkan permainan ini untuk dapat terus tumbuh dan berkembang.
+osu! tidak akan dapat berada pada titik ini tanpa dukungan dari berbagai pengguna yang telah mendukung kami dalam berbagai hal: upaya, dedikasi, dan jerih payah mereka memungkinkan permainan ini untuk dapat terus tumbuh dan berjalan.
 
 [Tim osu!](/wiki/People/osu!_team) • [Pengembang](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
@@ -122,7 +122,7 @@ osu! tidak akan dapat berada pada titik ini tanpa dukungan dari berbagai penggun
 
 # Untuk pengembang
 
-Ketahui cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksternal serta seluk-beluk pengembangan osu! secara umum.
+Ketahui cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksternal, atau bantu osu! untuk berkembang.
 
 [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
 
