@@ -120,7 +120,7 @@ osu! tidak akan dapat berada pada titik ini tanpa dukungan dari berbagai penggun
 </div>
 <div class="wiki-main-page-panel">
 
-# Untuk para pengembang
+# Untuk pengembang
 
 Berbagai artikel seputar cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksternal serta pengembangan osu! secara umum.
 
