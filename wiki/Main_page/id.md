@@ -76,14 +76,14 @@ Kenali berbagai ketentuan hukum dan peraturan komunitas yang berlaku di osu!, mu
 
 Peraturan media: [Pedoman penggunaan konten](/wiki/Rules/Content_usage_guidelines) • [Proses pengkajian konten](/wiki/Rules/Content_voting_process) • [Konten eksplisit](/wiki/Rules/Explicit_content) • [Aturan konten musik](/wiki/Rules/Song_content_rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_content_considerations)
 
-[Artikel legal](/wiki/Legal): [Ketentuan layanan](/wiki/Legal/Terms) • [Privasi](/wiki/Legal/Privacy) • [Hak cipta (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_licensing)
+[Artikel hukum](/wiki/Legal): [Ketentuan layanan](/wiki/Legal/Terms) • [Privasi](/wiki/Legal/Privacy) • [Hak cipta (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_licensing)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Bantuan
 
-Temukan jawaban atas berbagai pertanyaan yang umum diajukan di bawah ini.
+Temukan jawaban atas berbagai pertanyaan yang umum diajukan pada rangkaian artikel di bawah ini.
 
 [Pusat bantuan](/wiki/Help_centre) • [Pemecahan masalah kinerja](/wiki/Performance_troubleshooting) • [Tim dukungan akun](/wiki/People/Account_support_team) • [Sub-forum Help](https://osu.ppy.sh/forum/5)
 
