@@ -39,14 +39,14 @@ Segalanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, k
 
 [Mode permainan](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [Skor](/wiki/Gameplay/Score) • [Tayangan ulang](/wiki/Gameplay/Replay) • [Medali](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Objek permainan](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [Skor](/wiki/Gameplay/Score) • [Tayangan ulang](/wiki/Gameplay/Replay) • [Medali](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # [Editor beatmap](/wiki/Client/Beatmap_editor)
 
-Seluruh beatmap yang tersedia di osu! merupakan hasil karya para anggota komunitasnya. Apakah kamu ingin membuat beatmap, namun masih belum tahu caranya? Pelajari berbagai artikel berikut agar kamu dapat menjadi mapper yang ulung.
+Seluruh beatmap yang ada di osu! merupakan hasil karya para anggota komunitasnya. Apakah kamu ingin membuat beatmap, namun masih belum tahu caranya? Pelajari berbagai artikel berikut agar kamu dapat menjadi mapper yang ulung.
 
 Bagian: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)
 
@@ -70,7 +70,7 @@ Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebu
 
 # Aturan dan hukum
 
-Kenali berbagai ketentuan hukum dan peraturan komunitas yang berlaku di osu!, mulai dari proses lisensi musik, pedoman penggunaan konten, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
+Kenali berbagai ketentuan hukum dan peraturan komunitas yang berlaku di osu!, mulai dari proses lisensi musik, pedoman penggunaan media, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
 
 [Peraturan](/wiki/Rules) • [Kode Etik Contributor Covenant](/wiki/Rules/Contributor_code_of_conduct) • [Kode etik dalam modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
