@@ -72,7 +72,7 @@ Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebu
 
 Kenali berbagai prosedur dan ketentuan yang menjaga agar osu! dan komunitasnya tetap aman, mulai dari proses lisensi musik, pedoman penggunaan media, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
 
-[Peraturan](/wiki/Rules) • [Kode Etik Contributor Covenant](/wiki/Rules/Contributor_code_of_conduct) • [Kode etik dalam modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
+[Peraturan](/wiki/Rules) • [Kode Etik Contributor Covenant](/wiki/Rules/Contributor_code_of_conduct) • [Kode etik modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
 Peraturan media: [Pedoman penggunaan konten](/wiki/Rules/Content_usage_guidelines) • [Proses pengkajian konten](/wiki/Rules/Content_voting_process) • [Konten eksplisit](/wiki/Rules/Explicit_content) • [Aturan konten musik](/wiki/Rules/Song_content_rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_content_considerations)
 
@@ -111,7 +111,7 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 # [Orang-orang](/wiki/People)
 
-osu! tidak akan dapat berjalan tanpa dukungan dari para pengguna yang membantu dalam hal pengembangan, pengelolaan, dan manajemen komunitas: upaya, jerih payah, dan dedikasi mereka memungkinkan permainan ini untuk dapat terus tumbuh dan berjalan.
+osu! tidak akan dapat berjalan tanpa dukungan dari para pengguna yang membantu dalam hal pengembangan, pengelolaan, dan manajemen komunitas: upaya, jerih payah, dan dedikasi mereka memungkinkan permainan ini untuk dapat terus tumbuh dan berkembang.
 
 [Tim osu!](/wiki/People/osu!_team) • [Pengembang](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
