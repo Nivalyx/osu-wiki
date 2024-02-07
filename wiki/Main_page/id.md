@@ -111,7 +111,7 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 # [Orang-orang](/wiki/People)
 
-osu! tidak akan dapat berjalan tanpa dukungan dari para pengguna yang membantu dalam hal: upaya, dedikasi, dan jerih payah mereka memungkinkan permainan ini untuk dapat terus tumbuh dan berjalan.
+osu! tidak akan dapat berjalan tanpa dukungan dari para pengguna yang membantu dalam hal pengembangan, pengelolaan, dan manajemen komunitas: upaya, jerih payah, dan dedikasi mereka memungkinkan permainan ini untuk dapat terus tumbuh dan berjalan.
 
 [Tim osu!](/wiki/People/osu!_team) • [Pengembang](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
@@ -129,7 +129,7 @@ Ketahui cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksternal
 </div>
 <div class="wiki-main-page-panel">
 
-# Wiki dan hal meta lainnya
+# Wiki dan halaman meta
 
 Sama seperti berbagai hal lainnya yang terdapat di osu!, osu! wiki juga ditulis dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke wiki ini, silakan kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
 
