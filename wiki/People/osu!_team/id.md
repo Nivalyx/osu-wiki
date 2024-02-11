@@ -59,7 +59,7 @@ Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](/wiki/Peopl
 
 | Nama | Peran |
 | :-- | :-- |
-| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Pengasuh dan a umum, ilustrator chibi |
+| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Pengasuh dan asisten umum, ilustrator chibi |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | Penasihat bidang pengembangan dan moderasi komunitas |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Penata audio, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Pengurus dan penyelenggara World Cup |
