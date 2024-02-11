@@ -62,7 +62,8 @@ Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](/wiki/Peopl
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Pengasuh dan asisten umum, ilustrator chibi |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Moderator](/wiki/People/Global_Moderation_Team), penasihat bidang moderasi komunitas |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Penata suara, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
-| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Pengurus dan penyelenggara World Cup |
+| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
+| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Pengurus dan pengelola [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Pengasuh umum, manajer komunitas |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, perancang sistem IRC yang terintegrasi dengan *in-game chat*, pengasuh umum situs. [Blog](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Pembawa acara osu! Coffee Hour, penyiar World Cup, penyelenggara turnamen |
