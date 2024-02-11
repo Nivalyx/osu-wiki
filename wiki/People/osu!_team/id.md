@@ -48,44 +48,10 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Desainer grafis |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Pengembang infrastruktur osu! |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, layanan dukungan turnamen |
-| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Pengasuh umum, broom sweeper |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Penasihat bidang pengembangan dan moderasi komunitas |
+| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Pengasuh umum, pembersih sampah |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Ketua [GMT](/wiki/People/Global_Moderation_Team), manajer [Beatmap Spotlights](/wiki/Beatmap_Spotlights), sekretaris Hivie |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Pembina wiki](/wiki/People/osu!_wiki_maintainers), penyunting berita |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
-
-| :-- | :-- |
-| ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)** | **Project lead** |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Modding and mapping scene advisor |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | [World Cup](/wiki/Tournaments#official-world-cups) organiser and administrator |
-| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | [World Cup](/wiki/Tournaments#official-world-cups) organiser and administrator |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | [Moderator](/wiki/People/Global_Moderation_Team), technical support |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderator](/wiki/People/Global_Moderation_Team), technical support |
-| ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | osu! developer |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Project and community maintainer, [Featured Artist](/wiki/People/Featured_Artists) outreach |
-| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Design lead, resident Creative Cloud watcher |
-| ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu! developer |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [NAT](/wiki/People/Nomination_Assessment_Team) leader, [Project Loved](/wiki/Community/Project_Loved) manager, Venix's secretary |
-| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | [World Cup](/wiki/Tournaments#official-world-cups) organiser and administrator |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [Featured Artist](/wiki/People/Featured_Artists) outreach, [World Cup](/wiki/Tournaments#official-world-cups) secretary |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu! developer, technical support |
-| ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeper, moderation advisor |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Modding and mapping scene advisor |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web developer, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), modding and mapping scene advisor |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube channel](https://www.youtube.com/@osugame) host, [Mappers' Guild](/wiki/Community/Mappers_Guild) organiser, [Featured Artist](/wiki/People/Featured_Artists) outreach |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Modding and mapping scene advisor |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [wiki maintainer](/wiki/People/osu!_wiki_maintainers) |
-| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | General housekeeper |
-| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! developer |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Designer |
-| ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! infrastructure developer |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament support |
-| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | General housekeeper, broom sweeper |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [GMT](/wiki/People/Global_Moderation_Team) leader, [Beatmap Spotlights](/wiki/Beatmap_Spotlights) manager, Hivie's secretary |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Wiki maintainer](/wiki/People/osu!_wiki_maintainers), news editor |
-| ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
 Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) (*account support team*) yang bergerak secara terpisah untuk menangani berbagai permasalahan yang bersifat pribadi.
 
