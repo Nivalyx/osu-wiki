@@ -81,7 +81,7 @@ Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](/wiki/Peopl
 | ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, pengelola [Mappers' Guild](/wiki/Community/Mappers_Guild) |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Penasihat bidang moderasi komunitas |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Perancang forum |
-| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, sosok yang luar biasa menawan |
+| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, perancang serba bisa |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Pemimpin tim desain dan perancang konsep awal pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masanya, kontributor utama panel diskusi Meeting Minutes dan artikel FAQ |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan sistem *performance point* (pp) |
