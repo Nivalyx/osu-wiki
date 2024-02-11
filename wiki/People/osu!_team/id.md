@@ -70,7 +70,7 @@ Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](/wiki/Peopl
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Pembawa acara osu! Coffee Hour, penyiar World Cup, pengelola turnamen |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, perancang infrastruktur *backend* sistem osz2 dan p2p |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Penasihat bidang mapping dan modding |
-| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Perancang asli situs, penyedia layanan *hosting* pada awal mula berdirinya osu! |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Perancang asli situs, penyedia layanan *hosting* pada tahun-tahun pertama berdirinya osu! |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Pengurus dan penyelenggara World Cup |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Pengurus dan penyelenggara World Cup, pemimpin QAT, manajer komunitas |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Perancang skin ulung, kontributor utama skin *default* dan set ikon bawaan osu! pada masanya. [DeviantArt](https://luigihann.deviantart.com/) |
