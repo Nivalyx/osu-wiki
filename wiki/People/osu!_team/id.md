@@ -74,11 +74,11 @@ Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](/wiki/Peopl
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups), pemimpin [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders), manajer komunitas |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Perancang skin ulung, kontributor skin dan set ikon bawaan osu! |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Penasihat bidang mapping dan modding |
+| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Pemimpin [NAT](/wiki/People/Nomination_Assessment_Team) |
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, perancang algoritma mm slider |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Penasihat bidang modding and mapping |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Pengembang osu! iPhone |
-| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, pengelola Mappers' Guild |
+| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, pengelola [Mappers' Guild](/wiki/Community/Mappers_Guild) |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Penasihat bidang mapping dan modding |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Perancang forum |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, sosok yang luar biasa menawan |
