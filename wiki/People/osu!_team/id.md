@@ -31,7 +31,6 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Pengembang osu! |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Ketua [NAT](/wiki/People/Nomination_Assessment_Team), manajer [Project Loved](/wiki/Community/Project_Loved), sekretaris Venix |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups) |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Pendukung turnamen, koordinator program Featured Artist |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists), sekretaris [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Pengembang osu!, dukungan teknis |
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Pengembang situs web osu! (osu!web) |
@@ -39,6 +38,7 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Penasihat bidang modding dan mapping |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Pengembang situs web osu! (osu!web), [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang situs web osu! (osu!web) |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), penasihat bidang mapping dan modding |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Penasihat bidang mapping dan modding, pengelola Mappers' Guild, koordinator program Featured Artist |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Penasihat bidang modding dan mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Pengasuh umum, pemelihara osu!wiki |
@@ -85,7 +85,7 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 
 Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) (*account support team*) yang bergerak secara terpisah untuk menangani berbagai permasalahan yang bersifat pribadi.
 
-## Anggota tim inti osu! yang kini sudah tidak lagi aktif
+## Mantan anggota inti tim osu! yang sudah tidak lagi aktif
 
 | Nama | Peran |
 | :-- | :-- |
