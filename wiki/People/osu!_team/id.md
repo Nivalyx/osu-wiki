@@ -26,7 +26,7 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | [Moderator](/wiki/People/Global_Moderation_Team), dukungan teknis |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderator](/wiki/People/Global_Moderation_Team), dukungan teknis |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | Pengembang osu! |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Pengelola komunitas dan proyek, koordinator program [Featured Artist](/wiki/People/Featured_Artists) |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Pengelola proyek dan komunitas, koordinator program [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin tim desain, pemerhati Creative Cloud |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Penasihat bidang modding dan mapping |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Pengurus dan penyelenggara World Cup |
