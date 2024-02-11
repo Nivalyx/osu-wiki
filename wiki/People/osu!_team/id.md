@@ -23,11 +23,12 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Penasihat bidang mapping dan modding |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Penyelenggara dan administrator [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Penyelenggara dan administrator [World Cup](/wiki/Tournaments#official-world-cups) |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | [Moderator](/wiki/People/Global_Moderation_Team), dukungan teknis |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderator](/wiki/People/Global_Moderation_Team), dukungan teknis |
+| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | [Moderator](/wiki/People/Global_Moderation_Team), anggota tim dukungan teknis |
+| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderator](/wiki/People/Global_Moderation_Team), anggota tim dukungan teknis |
 | ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | Pengembang osu! |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Pengelola proyek dan komunitas, koordinator program [Featured Artist](/wiki/People/Featured_Artists) |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Pengelola proyek dan komunitas, pembina hubungan [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Pemimpin tim desain, pemerhati Creative Cloud |
+| ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Pengembang osu! |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Penasihat bidang modding dan mapping |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Pengurus dan penyelenggara World Cup |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Pendukung turnamen, koordinator program Featured Artist |
