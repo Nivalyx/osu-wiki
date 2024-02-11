@@ -79,7 +79,7 @@ Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](/wiki/Peopl
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Penasihat bidang modding and mapping |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Pengembang osu! iPhone |
 | ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, pengelola [Mappers' Guild](/wiki/Community/Mappers_Guild) |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Penasihat bidang mapping dan modding |
+| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Penasihat bidang moderasi komunitas |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Perancang forum |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, sosok yang luar biasa menawan |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Pemimpin tim desain dan perancang konsep awal pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
