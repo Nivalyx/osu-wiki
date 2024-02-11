@@ -39,12 +39,16 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Pengembang situs web osu! (osu!web), [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Pengembang situs web osu! (osu!web) |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Moderator](/wiki/People/Global_Moderation_Team), penasihat bidang mapping dan modding |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Host [kanal YouTube osu!](https://www.youtube.com/@osugame), pengelola [Mappers' Guild](/wiki/Community/Mappers_Guild), pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Pembawa acara [kanal YouTube osu!](https://www.youtube.com/@osugame), pengelola [Mappers' Guild](/wiki/Community/Mappers_Guild), pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Penasihat bidang modding dan mapping |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [pengasuh wiki](/wiki/People/osu!_wiki_maintainers) |
-| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Pembina umum |
+| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [pembina wiki](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Pengasuh umum |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, pecinta osu!mania, penumpas *bug* |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, penyelenggara turnamen |
+ ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Pengembang osu! |
+| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Desainer grafis |
+| ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Pengembang infrastruktur osu! |
+| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, layanan dukungan turnamen |
+| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Pengasuh umum, broom sweeper |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Penasihat bidang pengembangan dan moderasi komunitas |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
