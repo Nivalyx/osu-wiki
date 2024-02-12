@@ -57,9 +57,9 @@ The [account support team](/wiki/People/Account_support_team) is also there to h
 
 In addition to the core osu! team, there are [many other volunteer teams](/wiki/People) which keep the game running.
 
-osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang untuk menangani berbagai permasalahan yang bersifat pribadi.
+osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu untuk menangani berbagai permasalahan yang bersifat pribadi.
 
-Di samping tim inti di atas,
+Di samping tim inti ini, terdapat juga berbagai [tim sukarelawan](/wiki/People) yang membantu osu! tetap berjalan.
 
 ## Anggota inti yang sudah tidak lagi aktif
 
