@@ -53,7 +53,7 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Pembina wiki](/wiki/People/osu!_wiki_maintainers), penyunting berita |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
-osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu untuk menangani berbagai permasalahan yang bersifat pribadi.
+osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu untuk menangani berbagai masalah yang bersifat pribadi.
 
 Di samping tim inti ini, terdapat juga berbagai [tim sukarelawan](/wiki/People) yang menjalankan osu! dengan perannya masing-masing.
 
