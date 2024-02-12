@@ -53,9 +53,9 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang memiliki tanggun
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Pembina wiki](/wiki/People/osu!_wiki_maintainers), penyunting berita |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
-osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu dalam menangani berbagai permasalahan yang bersifat pribadi.
+Di samping nama-nama ini, osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu dalam menangani berbagai permasalahan yang bersifat pribadi.
 
-Di samping tim ini, terdapat pula berbagai [tim sukarelawan lainnya](/wiki/People) yang menjaga osu! tetap berjalan dengan perannya masing-masing.
+Selain itu, terdapat pula berbagai [tim sukarelawan lainnya](/wiki/People) yang menjaga osu! tetap berjalan dengan perannya masing-masing.
 
 ## Anggota inti tim yang sudah tidak lagi aktif
 
