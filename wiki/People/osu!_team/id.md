@@ -13,7 +13,7 @@ outdated_translation: true
 outdated_since: 6b280c8bceae0f3d6fd6d62fb8e47f060a632106
 ---
 
-# Tim
+# Tim osu!
 
 Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama bertanggung jawab untuk menjadikan osu! permainan yang istimewa bagi semua.
 
