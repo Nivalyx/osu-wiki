@@ -55,7 +55,7 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 
 osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu dalam menangani berbagai permasalahan yang bersifat pribadi.
 
-Di samping tim inti ini, terdapat berbagai [tim sukarelawan lainnya](/wiki/People) yang menjaga osu! tetap berjalan dengan perannya masing-masing.
+Di samping tim inti osu! ini, terdapat berbagai [tim sukarelawan lainnya](/wiki/People) yang menjaga osu! tetap berjalan dengan perannya masing-masing.
 
 ## Anggota inti tim yang sudah tidak lagi aktif
 
