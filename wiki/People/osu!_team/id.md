@@ -15,7 +15,7 @@ outdated_since: 6b280c8bceae0f3d6fd6d62fb8e47f060a632106
 
 # Tim osu!
 
-Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama bertanggung jawab untuk menjadikan osu! permainan yang istimewa bagi semua.
+Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang memiliki tanggung jawab utama untuk menjadikan osu! permainan yang istimewa bagi semua.
 
 | Nama | Peran |
 | :-- | :-- |
@@ -55,9 +55,9 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 
 osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu dalam menangani berbagai permasalahan yang bersifat pribadi.
 
-Di samping tim inti osu! ini, terdapat berbagai [tim sukarelawan lainnya](/wiki/People) yang menjaga osu! tetap berjalan dengan perannya masing-masing.
+Di samping tim ini, terdapat pula berbagai [tim sukarelawan lainnya](/wiki/People) yang menjaga osu! tetap berjalan dengan perannya masing-masing.
 
-## Anggota tim inti yang sudah tidak aktif
+## Anggota inti tim yang sudah tidak lagi aktif
 
 | Nama | Peran |
 | :-- | :-- |
