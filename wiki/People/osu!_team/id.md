@@ -91,4 +91,4 @@ Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](/wiki/Peopl
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups), [pembina wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Pengembang osu!, pencipta mode osu!mania |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Manajer [osu!store](https://osu.ppy.sh/store/listing) |
-| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/Community/Video_series/osu!academy), perancang media dan karakter |
+| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/Community/Video_series/osu!academy), perancang media dan karakter maskot |
