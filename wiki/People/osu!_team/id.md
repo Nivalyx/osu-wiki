@@ -57,7 +57,7 @@ osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang m
 
 Di samping tim inti ini, terdapat juga berbagai [tim sukarelawan](/wiki/People) yang menjalankan osu! dengan perannya masing-masing.
 
-## Anggota tim inti yang  tidak lagi aktif
+## Anggota tim inti yang sudah tidak lagi aktif
 
 | Nama | Peran |
 | :-- | :-- |
