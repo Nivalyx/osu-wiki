@@ -26,7 +26,7 @@ Rangkaian peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komuni
 
 ## Peraturan forum
 
-1. **Pastikan postingan kamu mengandung konten/bahan diskusi yang menarik, berfaedah, atau.** Inti penting dalam berforum terletak pada diskusi yang dihasilkan, jadi pastikan kamu tidak menyia-nyiakan waktu pengguna lain dengan mengangkat topik yang tidak berbobot.
+1. **Pastikan postingan kamu mengandung konten/bahan diskusi yang menarik atau berbobot.** Inti penting dalam berforum terletak pada diskusi yang dihasilkan, jadi pastikan kamu tidak menyia-nyiakan waktu pengguna lain dengan mengangkat topik yang tidak bermanfaat.
 2. **Jagalah agar postingan dan balasan yang kamu kirim aman bagi segala usia.** Pergunakanlah pesan pribadi apabila kamu ingin membahas sesuatu yang menjurus ke arah NSFW dengan pengguna lain.
 3. **Dalam mengkritisi sesuatu, berikanlah kritik yang membangun tanpa menyinggung hal apa pun yang bersifat pribadi.** Kritik yang baik dapat digunakan sebagai bahan evaluasi yang bermanfaat. Meskipun demikian, apabila kamu sampai menyinggung hal yang bersifat pribadi untuk mendukung argumenmu, maka kamu telah menyalahi norma dan etika dalam berdialog.
 4. **Pastikan topik bahasan yang kamu buat sesuai dengan tajuk forum yang bersangkutan, dan usahakan untuk tidak mengirimkan balasan baru pada topik yang telah terbengkalai.** Apabila kamu menemukan topik bahasan yang tidak tersentuh selama bertahun-tahun, maka topik tersebut sebaiknya tidak kamu ungkit kembali. Buatlah topik bahasan baru atau telusuri apakah pertanyaanmu telah terjawab oleh pengguna lain sebelumnya.
