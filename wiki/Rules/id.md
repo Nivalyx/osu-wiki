@@ -47,7 +47,7 @@ Peraturan berikut berlaku bagi seluruh beatmap yang diunggah dengan [Beatmap Sub
 
 ## Apa yang akan terjadi apabila saya melanggar peraturan?
 
-Apabila kamu terbukti melanggar satu atau lebih peraturan yang tertera di atas, kamu dapat dihadapkan dengan berbagai macam hukuman.
+Apabila kamu terbukti melanggar peraturan komunitas yang berlaku, kamu dapat dihadapkan dengan berbagai macam hukuman.
 
 Hukuman ini termasuk (*namun tidak terbatas pada*):
 
