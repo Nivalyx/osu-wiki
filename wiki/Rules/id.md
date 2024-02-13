@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Peraturan
 
 Rangkaian peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komunitas osu! yang ramah dan terbuka bagi semua.
