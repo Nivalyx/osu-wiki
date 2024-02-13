@@ -32,7 +32,7 @@ Rangkaian peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komuni
 4. **Pastikan topik yang kamu buat sesuai dengan tajuk forum dan usahakan untuk tidak mengirimkan balasan baru pada topik yang telah terbengkalai.** Apabila suatu topik telah tidak tersentuh selama bertahun-tahun, maka topik tersebut sudah tidak relevan dan sebaiknya tidak kamu ungkit kembali. Buatlah topik bahasan baru atau telusuri apakah pertanyaanmu telah terjawab oleh pengguna lain.
 5. **Pergunakanlah tanda tangan *(signature)* dan avatar yang tidak berlebihan.** Apabila kamu menggunakan gambar yang beranimasi, pastikan agar animasi yang ada tidak memicu epilepsi. Berkas gambar yang kamu gunakan sebaiknya tidak terlalu besar (di bawah setengah MB/500 KB apabila memungkinkan), sehingga kamu tidak sampai membebani pengguna lain.
 6. **Jangan mengirimkan iklan, tautan rujukan, atau konten intrusif lainnya dalam bentuk apa pun.** Postingan yang tidak diinginkan hanya akan mengganggu pengguna lain. Peraturan ini juga meliputi konten *autoplay* yang dapat termuat dengan sendirinya.
-7. **Jangan mengirimkan tautan yang tertuju pada berkas aplikasi yang ilegal atau mencurigakan.** Sederhananya, apabila kamu ragu apakah suatu aplikasi legal atau tidak, maka aplikasi tersebut sebaiknya tidak dibahas lebih lanjut.
+7. **Jangan mengirimkan tautan yang tertuju pada aplikasi yang mencurigakan.** Sederhananya, apabila kamu ragu apakah suatu aplikasi legal atau tidak, maka aplikasi tersebut sebaiknya tidak dibahas lebih lanjut.
 
 ## Peraturan pengunggahan beatmap
 
