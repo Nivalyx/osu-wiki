@@ -10,7 +10,7 @@ Rangkaian peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komuni
 4. **Jangan bersikap kurang ajar.** Apabila kamu tidak yakin apakah kamu telah melanggar aturan ini, mungkin saja secara tidak sadar kamu telah bertindak melampaui batas.
 5. **Kami merupakan komunitas yang terbuka bagi semua usia.** Hal ini berarti segala konten yang tergolong 18+/[NSFW](https://id.wikipedia.org/wiki/Not_safe_for_work) seperti penggunaan obat-obatan terlarang dan percakapan yang bernada seksual tidak dibenarkan di sini.
 6. **Hindari perbuatan yang tidak senonoh.** osu! bukan tempat yang ditujukan untuk mencari jodoh atau menggoda pengguna lain. Segala tutur kata, gambar, dan bentuk rayuan yang tidak pantas TIDAK dibenarkan baik di depan umum maupun pada ranah pribadi. Apabila kamu merasa tidak nyaman dengan cara seseorang mendekatimu, [segera laporkan kepada kami secara rahasia](/wiki/Reporting_bad_behaviour/Abuse) agar kami dapat membantumu (dan mencegah orang lain untuk ikut menjadi korban).
-7. **Pada saat terdapat sesuatu yang tidak terliput oleh peraturan ini, segala sesuatunya akan diputuskan berdasarkan akal sehat dan logika *(common sense)*.** Dalam situasi yang demikian, tim kami berhak untuk mengambil tindakan yang dirasa sesuai dengan situasi dan kondisi yang ada.
+7. **Pada saat tidak memungkinan peraturan yang ada untuk diterapkan, segala sesuatunya akan diputuskan berdasarkan akal sehat dan logika *(common sense)*.** Dalam kondisi yang demikian, tim kami berhak untuk mengambil tindakan yang dirasa sesuai dengan situasi dan kondisi yang ada.
 
 ## Peraturan in-game chat
 
