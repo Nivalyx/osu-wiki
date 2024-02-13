@@ -1,6 +1,6 @@
 # Peraturan
 
-Rangkaian peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komunitas osu! yang ramah dan terbuka bagi semua.
+Rangkaian peraturan di bawah ini merupakan pedoman dasar kami dalam mewujudkan komunitas osu! yang ramah dan terbuka bagi semua.
 
 ## Peraturan komunitas
 
