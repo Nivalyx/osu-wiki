@@ -1,10 +1,10 @@
 # Peraturan
 
-Rangkaian peraturan berikut merupakan pedoman dasar kami dalam menjaga komunitas osu! sebagai tempat yang ramah dan terbuka bagi semua.
+Rangkaian peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komunitas osu! yang ramah dan terbuka bagi semua.
 
 ## Peraturan komunitas
 
-1. **Masing-masing pemain hanya diperbolehkan untuk memiliki *SATU* akun.** Akun *pertama* yang kamu buat adalah satu-satunya akun osu! milikmu yang sah terhitung dari detik pertama akun tersebut didaftarkan. Akun ini adalah KAMU. Bukan orang lain — bukan saudaramu, ibumu, kakakmu, temanmu — akun ini hanya milik KAMU. Jangan bagikan akunmu dengan siapa pun juga. Kamu tidak dibenarkan untuk membuat akun baru apabila karena satu dan lain hal kamu tidak lagi dapat mengakses akunmu. Jagalah akunmu sebaik-baiknya.
+1. **Setiap pemain hanya diperbolehkan untuk memiliki *SATU* akun.** Akun *pertama* yang kamu buat adalah satu-satunya akun osu! milikmu yang sah, terhitung dari detik pertama akun ini didaftarkan. Akun ini adalah KAMU. Bukan orang lain — bukan saudaramu, ibumu, kakakmu, temanmu — akun ini hanya milik KAMU. Jangan bagikan akunmu dengan siapa pun juga. Kamu tidak dibenarkan untuk membuat akun baru apabila kamu kehilangan akses menuju akunmu. Jagalah akunmu sebaik-baiknya.
 2. **Bermainlah secara sportif.** Penggunaan sarana ilegal apa pun yang dapat membuatmu bermain secara tidak adil sangat tidak dibenarkan. Hal ini meliputi program makro, *aim assist*, modifikasi waktu, dan lain sebagainya. Apabila kamu berbuat curang, kamu akan sangat bersalah terhadap mereka yang bermain secara jujur!
 3. **Bersikap baiklah terhadap pengguna lain.** Segala bentuk pelecehan dan tindakan lainnya yang dapat merendahkan martabat orang lain tidak dibenarkan dalam komunitas osu!. Kita di sini untuk bermain mengikuti irama musik, memukul drum, menangkap buah, dan menekan tuts keyboard, bukan untuk menjadi orang yang menyinggung perasaan orang lain.
 4. **Jangan bersikap kurang ajar.** Apabila kamu tidak yakin apakah kamu telah melanggar aturan ini, mungkin saja secara tidak sadar kamu telah bertindak melampaui batas.
