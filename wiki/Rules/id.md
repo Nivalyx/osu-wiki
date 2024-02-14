@@ -29,14 +29,14 @@ Peraturan berikut merupakan pedoman dasar kami dalam mewujudkan komunitas osu! y
 1. **Pastikan postingan yang kamu kirim mengandung konten/bahan diskusi yang menarik atau berbobot.** Inti penting dalam berforum terletak pada diskusi yang dihasilkan, jadi pastikan kamu tidak menyia-nyiakan waktu pengguna lain dengan mengangkat topik yang tidak berguna.
 2. **Jagalah agar postingan dan balasan yang kamu kirim aman bagi segala usia.** Pergunakanlah pesan pribadi apabila kamu ingin membahas sesuatu yang menjurus ke arah NSFW dengan pengguna lain.
 3. **Dalam mengkritisi sesuatu, berikanlah kritik yang membangun tanpa menyinggung hal yang bersifat pribadi.** Kritik yang baik dapat digunakan sebagai bahan evaluasi yang bermanfaat. Meskipun demikian, apabila kamu sampai menyinggung hal yang bersifat pribadi untuk mendukung argumenmu, maka kamu telah menyalahi norma dan etika dalam berdialog.
-4. **Pastikan topik yang kamu buat sesuai dengan tajuk forum, dan usahakan untuk tidak mengirim balasan baru pada topik yang telah terbengkalai.** Apabila suatu topik telah tidak tersentuh selama bertahun-tahun, maka topik tersebut sudah tidak relevan dan sebaiknya tidak kamu ungkit kembali. Buatlah topik baru atau telusuri apakah pertanyaanmu telah terjawab oleh pengguna lain.
+4. **Pastikan topik yang kamu buat sesuai dengan tajuk forum, dan usahakan untuk tidak mengirim balasan baru pada topik yang telah terbengkalai.** Apabila suatu topik telah tidak tersentuh selama bertahun-tahun, maka topik tersebut sudah tidak relevan dan sebaiknya tidak diungkit kembali. Buatlah topik baru atau telusuri apakah pertanyaanmu telah terjawab oleh pengguna lain.
 5. **Pergunakanlah tanda tangan *(signature)* dan avatar yang tidak berlebihan.** Apabila kamu menggunakan gambar yang beranimasi, pastikan agar animasi yang ada tidak memicu epilepsi. Gunakanlah berkas gambar yang tidak berukuran terlalu besar (di bawah 500 KB apabila memungkinkan) agar kamu tidak sampai membebani pengguna lain.
 6. **Jangan mengirimkan iklan, tautan rujukan, atau konten intrusif lainnya dalam bentuk apa pun.** Postingan yang tidak diinginkan hanya akan mengganggu pengguna lain. Peraturan ini juga meliputi konten *autoplay* yang dapat termuat dengan sendirinya.
 7. **Jangan mengirimkan tautan yang tertuju pada aplikasi atau program yang mencurigakan.** Sederhananya, apabila kamu ragu akan legalitas suatu aplikasi, maka aplikasi tersebut tidak layak untuk ditautkan.
 
 ## Peraturan pengunggahan beatmap
 
-*Catatan: Peraturan berikut berlaku untuk **seluruh beatmap yang diunggah** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk peraturan yang lebih spesifik seputar beatmap Ranked, kunjungi [Ranking Criteria](/wiki/Ranking_criteria).*
+*Catatan: Peraturan berikut berlaku untuk **seluruh beatmap yang diunggah** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk peraturan yang lebih spesifik mengenai beatmap Ranked, kunjungi [Ranking Criteria](/wiki/Ranking_criteria).*
 
 Peraturan berikut berlaku bagi seluruh beatmap yang diunggah dengan [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Pada saat beatmap diunggah melalui [editor](/wiki/Client/Beatmap_editor), osu! akan secara otomatis membuat halaman diskusi baru untuk beatmap yang bersangkutan.
 
