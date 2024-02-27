@@ -15,7 +15,7 @@ Kami tidak membenarkan segala bentuk tindakan atau rayuan seksual yang tidak dii
 
 Akun email penyalahgunaan kami hanya dapat diakses [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!).
 
-Segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan pernah dibagikan dengan siapa pun juga tanpa terkecuali.
+Segala sesuatunya yang kamu kirimkan ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan pernah dibagikan dengan siapa pun juga selain peppy sendiri.
 
 ## Seseorang membuat rayuan atau komentar seksual yang tidak sepantasnya terhadap saya!
 
@@ -23,7 +23,7 @@ Ikuti instruksi di bawah ini yang sesuai dengan lokasi tindak kejadian perkara y
 
 ### Dalam in-game chat
 
-Segera blokir pengguna tersebut dengan mengklik kanan *username* mereka dan memilih `Abaikan Pengguna`.
+Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan memilih `Abaikan Pengguna`.
 
 Kamu juga harus segera melaporkan pengguna tersebut dengan mengklik tombol `Laporkan Pengguna` dan mengisi formulir yang tertera.
 
