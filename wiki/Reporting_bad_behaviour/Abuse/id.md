@@ -73,6 +73,6 @@ Kami akan menindaklanjuti laporanmu dengan segera.
 
 ## Seseorang yang saya kenal dilecehkan oleh salah seorang anggota tim sukarelawan (NAT, GMT), namun mereka terlalu takut untuk angkat bicara!
 
-Harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan segala informasi dan bukti yang kamu ketahui.
+Kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan segala informasi dan bukti yang kamu ketahui.
 
-Apabila kamu tidak memiliki bukti apapun, atau apabila informasi yang kamu ketahui hanya berasal dari desas-desus yang beredar, jangan sungkan untuk tetap melapor kepada kami. Kami menanggapi segala laporan yang kami terima dengan sungguh-sungguh dan akan memeriksa kasusmu secara lebih mendalam apabila dirasa perlu.
+Apabila kamu tidak memiliki bukti apapun dan informasi yang kamu ketahui hanya berasal dari desas-desus yang beredar, jangan sungkan untuk tetap melapor kepada kami. Kami menanggapi segala laporan yang kami terima dengan sungguh-sungguh dan akan memeriksa seluruh laporan yang masuk secara mendalam.
