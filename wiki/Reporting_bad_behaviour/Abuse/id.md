@@ -33,11 +33,11 @@ Apabila kamu merasa bahwa komentar/rayuan yang kamu terima sudah sangat tidak pa
 
 Laporkan postingan tersebut kepada para anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) kami sesegera mungkin.
 
-Untuk mengirimkan laporanmu, klik salah satu nama GMT yang tertera pada laman tersebut. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
+Untuk melapor, klik salah satu nama GMT yang tertera pada halaman tersebut. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
 
 Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar pesan obrolan pribadi (*private message*) akan terbuka.
 
-Salin tautan postingan yang bermasalah tersebut pada kolom *chat* yang muncul dan ceritakan kepada anggota GMT yang bersangkutan seputar apa yang terjadi. Mereka akan menghapus postingan tersebut untukmu sesegera mungkin.
+Salin tautan postingan yang bermasalah tersebut pada kolom *chat* yang muncul dan ceritakan apa yang terjadi kepada anggota GMT yang bersangkutan. Mereka akan menghapus postingan tersebut untukmu sesegera mungkin.
 
 Di samping itu, kamu juga dapat melaporkan postingan tersebut dengan cara mengetik `!report <nama pengguna> <permasalahan>` pada *in-game chat*, di mana `<nama pengguna>` hendaknya kamu isi dengan nama pengguna yang berulah dan `<permasalahan>` hendaknya kamu isi dengan tautan serta penjelasan singkat seputar postingan yang bermasalah tersebut. Apabila nama pengguna yang akan kamu laporkan mengandung spasi, ganti seluruh spasi yang ada pada nama pengguna mereka dengan garis bawah (`_`).
 
