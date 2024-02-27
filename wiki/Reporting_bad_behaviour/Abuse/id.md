@@ -67,7 +67,7 @@ Apabila tweet tersebut berasal dari akun Twitter yang tertaut pada laman profil 
 
 Kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya.
 
-Apabila kamu ingin melampirkan sesuatu yang dapat membuatmu malu, mohon kosongkan bagian yang mengandung aib. Hal ini meliputi tangkapan layar, *chat log*, dan apa pun itu yang dapat dilampirkan melalui email.
+Apabila kamu ingin melampirkan sesuatu yang dapat membuatmu malu, mohon kosongkan bagian yang mengandung aib dari laporanmu. Hal ini meliputi tangkapan layar, *chat log*, dan apa pun itu yang dapat dilampirkan melalui email.
 
 Kami akan menindaklanjuti laporanmu dengan segera.
 
