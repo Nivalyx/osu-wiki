@@ -7,18 +7,15 @@ outdated_since: e2b7d14ed888df1d0027f3acec928c9fd55e60a5
 
 ## Saya merasa dilecehkan, namun saya tidak yakin apakah saya harus melaporkannya atau tidak
 
-Harap laporkan.
+Mohon laporkan.
 
-Apabila kamu merasa tidak nyaman sampai-sampai kamu harus merujuk pada artikel ini, harap segera hubungi kami di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan rincian yang selengkap-lengkapnya seputar apa yang kamu alami.
+Apabila kamu merasa tidak nyaman sampai-sampai kamu harus merujuk pada artikel ini, mohon segera hubungi kami di [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan rincian yang selengkap-lengkapnya seputar apa yang kamu alami.
 
 Kami tidak membenarkan segala bentuk tindakan atau rayuan seksual yang tidak diinginkan di dalam komunitas kami.
 
-Akun email penyalahgunaan kami hanya dapat diakses oleh kedua nama berikut:
+Akun email penyalahgunaan kami hanya dapat diakses [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!).
 
-- [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!)
-- [Ephemeral](https://osu.ppy.sh/users/102335) (selaku manajer komunitas osu!)
-
-Selain kedua nama di atas, segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dapat dibaca oleh siapapun juga tanpa terkecuali.
+Segala sesuatu yang kamu kirim ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan dibagikan dengan siapa pun juga tanpa terkecuali.
 
 ## Seseorang membuat rayuan atau komentar seksual yang tidak sepantasnya terhadap saya!
 
