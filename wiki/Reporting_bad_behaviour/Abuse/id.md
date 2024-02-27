@@ -65,7 +65,7 @@ Apabila tweet tersebut berasal dari akun Twitter yang tertaut pada laman profil 
 
 ## Salah seorang anggota tim sukarelawan (NAT, GMT) mendekati/berbicara/bertindak secara tidak senonoh terhadap saya!
 
-Harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya.
+Kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya.
 
 Apabila kamu ingin melampirkan suatu bukti (baik itu berupa *screenshot*, *chat log*, ataupun yang lainnya) namun kamu merasa malu atau tidak enak hati kepada pihak-pihak tertentu, kamu dapat menyensornya terlebih dahulu.
 
