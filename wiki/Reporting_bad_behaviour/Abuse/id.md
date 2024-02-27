@@ -15,7 +15,7 @@ Kami tidak membenarkan segala bentuk tindakan atau rayuan seksual yang tidak dii
 
 Akun email penyalahgunaan kami hanya dapat diakses [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!).
 
-Segala sesuatunya yang kamu kirimkan ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan pernah dibagikan dengan siapa pun juga selain peppy sendiri.
+Segala sesuatunya yang kamu kirimkan ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan pernah dapat dibaca oleh siapa pun juga selain peppy sendiri.
 
 ## Seseorang membuat rayuan atau komentar seksual yang tidak sepantasnya terhadap saya!
 
@@ -31,7 +31,7 @@ Apabila kamu merasa bahwa komentar/rayuan yang kamu terima sudah sangat tidak pa
 
 ### Dalam postingan publik pada forum osu!
 
-Harap laporkan postingan tersebut kepada para anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) kami sesegera mungkin.
+Laporkan postingan tersebut kepada para anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) kami sesegera mungkin.
 
 Untuk mengirimkan laporanmu, klik salah satu nama GMT yang tertera pada laman tersebut. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung melapor ke Ephemeral](https://osu.ppy.sh/users/102335).
 
