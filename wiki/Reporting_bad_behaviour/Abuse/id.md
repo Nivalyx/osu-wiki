@@ -55,7 +55,7 @@ Di samping itu, apabila kamu mengetahui nama akun osu! milik orang yang mengusik
 
 ### Dalam akun Twitter yang tertaut pada laman profil pengguna
 
-Klik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang bermasalah dan klik 'Laporkan Tweet'. Pastikan untuk membaca dan mengikuti petunjuk yang disediakan dengan seksama di kala kamu melapor. Untuk informasi lebih lanjut seputar proses ini, kamu dapat merujuk pada [panduan Twitter berikut](https://help.twitter.com/id/safety-and-security/report-abusive-behavior) yang membahas seputar tata cara untuk melaporkan perilaku-perilaku yang bersifat menghina.
+Klik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang bermasalah dan klik `Laporkan Tweet`. Pastikan untuk membaca dan mengikuti petunjuk yang disediakan dengan seksama di kala kamu melapor. Untuk informasi lebih lanjut seputar proses ini, kamu dapat merujuk pada [panduan Twitter berikut](https://help.twitter.com/id/safety-and-security/report-abusive-behavior) yang membahas seputar tata cara untuk melaporkan perilaku-perilaku yang bersifat menghina.
 
 Setelah itu, blokir atau bisukan (*mute*) pengguna yang bersangkutan dengan mengeklik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang sama melalui *browser* atau aplikasi Twitter milikmu. Lihat [panduan Twitter berikut](https://help.twitter.com/id/using-twitter/blocking-and-unblocking-accounts) untuk informasi lebih lanjut.
 
