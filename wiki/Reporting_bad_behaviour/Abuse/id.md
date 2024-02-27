@@ -53,7 +53,7 @@ Apabila tindak pelecehan yang kamu alami terus berlanjut dan para administrator 
 
 Di samping itu, apabila kamu mengetahui nama akun osu! milik orang yang mengusikmu, mohon kirimkan email kepada kami pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya agar kasusmu dapat segera kami selidiki.
 
-### Dalam akun Twitter yang tertaut pada laman profil pengguna
+### Dalam akun Twitter yang tertaut pada halaman profil pengguna
 
 Klik tombol titik tiga yang terdapat pada pojok kanan atas tweet yang bermasalah dan klik `Laporkan Tweet`. Pastikan untuk membaca dan mengikuti petunjuk yang disediakan dengan seksama di kala kamu melapor. Untuk informasi lebih lanjut seputar proses ini, kamu dapat merujuk pada [panduan Twitter berikut](https://help.twitter.com/id/safety-and-security/report-abusive-behavior) yang membahas seputar tata cara untuk melaporkan perilaku-perilaku yang bersifat menghina.
 
@@ -61,7 +61,7 @@ Setelah itu, blokir atau bisukan (*mute*) pengguna yang bersangkutan dengan meng
 
 Mohon diperhatikan bahwa para pengguna yang telah diblokir tidak akan lagi dapat melihat isi profil Twittermu ke depannya. Apabila kamu khawatir hal ini hanya akan memperkeruh suasana, bisukan (*mute*) orang tersebut. Tindakan ini akan menyembunyikan tweet-tweet mereka dari *timeline*-mu tanpa menghalangi mereka untuk dapat melihat dan mengomentari tweet-tweet yang kamu kirimkan seperti pada umumnya.
 
-Apabila tweet tersebut berasal dari akun Twitter yang tertaut pada laman profil osu! mereka masing-masing (yang terdapat di bawah avatar dan tanggal bergabung, di samping ikon burung), harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan salinan atau *screenshot* tweet yang bersangkutan beserta informasi-informasi lain yang sekiranya dapat berguna.
+Apabila tweet tersebut berasal dari akun Twitter yang tertaut pada halaman profil osu! mereka masing-masing (yang terdapat di bawah avatar dan tanggal bergabung, di samping ikon burung), harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan salinan atau *screenshot* tweet yang bersangkutan beserta informasi-informasi lain yang sekiranya dapat berguna.
 
 ## Salah seorang anggota tim sukarelawan (NAT, GMT) mendekati/berbicara/bertindak secara tidak senonoh terhadap saya!
 
