@@ -15,7 +15,7 @@ Kami tidak membenarkan segala bentuk tindakan atau rayuan seksual yang tidak dii
 
 Akun email penyalahgunaan kami hanya dapat diakses [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!).
 
-Segala sesuatunya yang kamu kirimkan ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan pernah dapat dibaca oleh siapa pun juga selain peppy sendiri.
+Segala sesuatunya yang kamu kirimkan ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan pernah dibagikan dengan siapa pun juga kecuali peppy sendiri.
 
 ## Seseorang membuat rayuan atau komentar seksual yang tidak sepantasnya terhadap saya!
 
