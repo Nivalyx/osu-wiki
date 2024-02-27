@@ -47,11 +47,11 @@ Apabila postingan tersebut masih belum juga dihapus setelah sekian waktu, mohon 
 
 Segera blokir pengguna tersebut dengan mengeklik kanan nama pengguna mereka dan memilih `Block` pada menu *drop-down* yang muncul.
 
-Setelahnya, laporkan kejadian ini kepada para administrator server yang pada umumnya dapat dijumpai pada bagian atas daftar pengguna. Apabila kamu tidak tahu siapa-siapa saja yang merupakan administrator server, temukan pengguna yang memiliki logo mahkota di samping namanya — mereka merupakan pemilik server dan secara langsung bertanggung jawab atas apa-apa saja yang terjadi di dalam server mereka.
+Setelahnya, laporkan kejadian ini kepada para administrator server yang nama-namanya dapat dijumpai pada bagian atas daftar pengguna. Apabila kamu tidak tahu siapa-siapa saja yang merupakan administrator server, temukan pengguna yang memiliki logo mahkota di samping namanya — mereka merupakan pemilik server dan secara langsung bertanggung jawab atas apa-apa saja yang terjadi di dalam server mereka.
 
 Apabila tindak pelecehan yang kamu alami terus berlanjut dan para administrator server terus mengabaikan laporanmu, [mohon laporkan kejadian yang kamu alami kepada tim Trust & Safety Discord melalui formulir berikut](https://dis.gd/request).
 
-Di samping itu, apabila kamu mengetahui nama akun osu! milik orang yang mengusikmu, mohon kirimkan email kepada kami pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya dan kami akan menyelidiki laporanmu dengan segera.
+Di samping itu, apabila kamu mengetahui nama akun osu! milik orang yang mengusikmu, mohon kirimkan email kepada kami pada alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya agar kasusmu dapat segera kami selidiki.
 
 ### Dalam akun Twitter yang tertaut pada laman profil pengguna
 
