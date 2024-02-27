@@ -25,9 +25,9 @@ Ikuti instruksi di bawah ini yang sesuai dengan lokasi tindak kejadian perkara y
 
 Segera blokir pengguna tersebut dengan mengklik kanan nama pengguna mereka dan memilih `Abaikan Pengguna`.
 
-Kamu juga harus segera melaporkan pengguna tersebut dengan mengklik tombol `Laporkan Pengguna` dan mengisi formulir yang tertera.
+Kamu juga disarankan untuk segera melaporkan pengguna tersebut dengan mengklik tombol `Laporkan Pengguna` dan mengisi formulir yang tertera.
 
-Apabila kamu masih di bawah umur atau kamu merasa bahwa komentar/rayuan tersebut sudah sangat tidak pantas, harap kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
+Apabila kamu merasa bahwa komentar/rayuan yang kamu terima sudah sangat tidak pantas atau kamu masih di bawah umur, mohon kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) dengan menyertakan informasi yang selengkap-lengkapnya.
 
 ### Dalam postingan publik pada forum osu!
 
