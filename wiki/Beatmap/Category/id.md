@@ -12,9 +12,9 @@ Beatmap dari kategori [Work in Progress dan Pending](#wip-and-pending) akan seca
 
 ### Work in Progress dan Pending {id=wip-and-pending}
 
-Work in Progress (atau *WIP*) dan Pending merupakan dua kategori yang disematkan kepada beatmap pada saat pertama kali diunggah. Beatmap dalam kedua kategori ini dapat berpindah ke kategori [Qualified](#qualified) apabila [dinominasikan](/wiki/Beatmap_ranking_procedure#nominasi) oleh setidaknya dua orang anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators). Proses ini pada umumnya meliputi pengkajian para [*modder*](/wiki/Modding/Modder) melalui proses [*modding*](/wiki/Modding). Beatmap Work in Progress dan Pending tidak memiliki papan peringkatnya tersendiri, namun akan tetap berkontribusi terhadap [statistik permainanmu](#statistik-beatmap-unranked). Beatmap dalam kategori ini juga ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) pada [layar pemilihan lagu](/wiki/Client/Interface#song-select).
+Work in Progress (atau *WIP*) dan Pending merupakan dua kategori yang disematkan kepada beatmap pada saat pertama kali diunggah. Beatmap dalam kedua kategori ini dapat berpindah ke kategori [Qualified](#qualified) apabila [dinominasikan](/wiki/Beatmap_ranking_procedure#nominasi) oleh setidaknya dua orang anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators). Proses ini pada umumnya meliputi pengkajian para [*modder*](/wiki/Modding/Modder) melalui proses [*modding*](/wiki/Modding). Beatmap Work in Progress dan Pending tidak memiliki papan peringkatnya tersendiri, namun akan tetap berkontribusi terhadap [statistik permainanmu](#statistik-beatmap-unranked). Beatmap dalam kedua kategori ini juga ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) pada [layar pemilihan lagu](/wiki/Client/Interface#song-select).
 
-Sebagaimana yang telah dijelaskan sebelumnya, suatu beatmap yang berstatus Work in Progress dan Pending akan secara otomatis berpindah ke dalam [Graveyard](#graveyard) apabila beatmap yang bersangkutan tidak diperbarui selama 4 minggu.
+Beatmap dalam kedua kategori ke dalam [Graveyard](#graveyard) apabila beatmap yang bersangkutan tidak diperbarui selama 4 minggu.
 
 ### Qualified {id=qualified}
 
