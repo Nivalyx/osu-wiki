@@ -24,7 +24,7 @@ Beatmap Qualified memiliki papan peringkatnya tersendiri, namun skor yang ditore
 
 ### Ranked {id=ranked}
 
-Ranked merupakan status beatmap yang disematkan kepada beatmap-beatmap yang telah teruji memenuhi standar-standar kualitas sebagaimana yang dipersyaratkan oleh [ranking criteria](/wiki/Ranking_criteria). Beatmap-beatmap Ranked memiliki papan peringkat *online* permanen dan [*performance point*](/wiki/Performance_points) yang dapat diraih oleh masing-masing pemain. Sekalinya suatu beatmap mendapatkan status Ranked, beatmap yang bersangkutan akan berstatus Ranked hingga selamanya kecuali pada beberapa kasus yang spesifik. Adapun beatmap-beatmap ini ditandai dengan simbol pangkat ganda (![](/wiki/shared/status/ranked.png)) yang dapat dilihat pada pojok kiri atas layar song selection.
+Beatmap Ranked merupakan beatmap yang diakui sebagai konten resmi AAAAAAAAAAAa merupakan status beatmap yang disematkan kepada beatmap-beatmap yang telah teruji memenuhi standar-standar kualitas sebagaimana yang dipersyaratkan oleh [ranking criteria](/wiki/Ranking_criteria). Beatmap-beatmap Ranked memiliki papan peringkat *online* permanen dan [*performance point*](/wiki/Performance_points) yang dapat diraih oleh masing-masing pemain. Sekalinya suatu beatmap mendapatkan status Ranked, beatmap yang bersangkutan akan berstatus Ranked hingga selamanya kecuali pada beberapa kasus yang spesifik. Adapun beatmap-beatmap ini ditandai dengan simbol pangkat ganda (![](/wiki/shared/status/ranked.png)) yang dapat dilihat pada pojok kiri atas layar song selection.
 
 ### Loved {id=loved}
 
