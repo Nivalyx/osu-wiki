@@ -6,9 +6,9 @@
 
 ### Graveyard {id=graveyard}
 
-Graveyard merupakan tempat peristirahatan bagi beatmap yang telah diabaikan oleh [pembuatnya](/wiki/Beatmap/Beatmap_host). Beatmap yang ter-Graveyard tidak memiliki papan peringkat *online*, dan tidak berpengaruh terhadap statistik permainan yang muncul di halaman profil pemain, namun tetap dapat diunduh dan dimainkan seperti biasa. Beatmap dalam kategori ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) pada [layar pemilihan lagu](/wiki/Client/Interface#song-select).
+Graveyard merupakan tempat peristirahatan bagi beatmap yang telah diabaikan oleh [pembuatnya](/wiki/Beatmap/Beatmap_host). Beatmap yang berstatus Graveyard tidak memiliki papan peringkat *online*, namun tetap dapat diunduh, dimainkan seperti biasa. Beatmap dalam kategori ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) pada [layar pemilihan lagu](/wiki/Client/Interface#song-select).
 
-Suatu beatmap yang berstatus [Work in Progress dan Pending](#wip-and-pending) akan secara otomatis berpindah ke dalam graveyard apabila beatmap yang bersangkutan sudah tidak diperbarui selama 4 minggu. Suatu beatmap yang telah jatuh ke dalam Graveyard akan secara otomatis kembali ke status [Pending atau Work in Progress](#wip-and-pending) apabila beatmap tersebut diperbarui melalui [*beatmap submission system*](/wiki/Beatmapping/Beatmap_submission).
+Beatmap yang berstatus [Work in Progress dan Pending](#wip-and-pending) akan secara otomatis dipindahkan ke Graveyard apabila beatmap tersebut tidak diperbarui selama 4 minggu. Beatmap yang telah jatuh ke dalam Graveyard akan secara otomatis kembali ke status [Pending atau Work in Progress](#wip-and-pending) apabila beatmap tersebut diperbarui melalui [*beatmap submission system*](/wiki/Beatmapping/Beatmap_submission).
 
 ### Work in Progress dan Pending {id=wip-and-pending}
 
