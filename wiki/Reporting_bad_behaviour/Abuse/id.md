@@ -67,7 +67,7 @@ Apabila tweet tersebut berasal dari akun Twitter yang tertaut pada halaman profi
 
 Kirimkan email ke alamat [abuse@ppy.sh](mailto:abuse@ppy.sh) **sesegera mungkin** dengan menyertakan informasi yang selengkap-lengkapnya.
 
-Apabila dalam sesuatu yang ingin kamu lampirkan terdapat hal yang membuatmu malu, mohon kosongkan bagian yang mengandung aib dari laporanmu. Hal ini meliputi tangkapan layar, *chat log*, dan apa pun itu yang dapat dilampirkan melalui email.
+Apabila dalam sesuatu yang ingin kamu lampirkan terdapat hal yang membuatmu merasa malu, mohon kosongkan bagian yang mengandung aib dari laporanmu. Hal ini meliputi tangkapan layar, *chat log*, dan apa pun itu yang dapat dilampirkan melalui email.
 
 Kami akan menindaklanjuti laporanmu dengan segera.
 
