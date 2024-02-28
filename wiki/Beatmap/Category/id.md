@@ -1,6 +1,6 @@
 # Kategori beatmap
 
-[Beatmap-beatmap](/wiki/Beatmap) yang diunggah ke situs web osu! terbagi menjadi beberapa kategori berdasarkan waktu aktivitas terbarunya, status [nominasinya](/wiki/Beatmap_ranking_procedure#nominasi), dan popularitasnya.
+[Beatmap](/wiki/Beatmap) yang diunggah ke situs web osu! terbagi menjadi beberapa kategori berdasarkan aktivitas terkininya, status [nominasinya](/wiki/Beatmap_ranking_procedure#nominasi), dan popularitasnya.
 
 ## Kategori yang ada saat ini
 
