@@ -32,7 +32,7 @@ Sekalinya suatu beatmap berstatus Ranked, status beatmap ini tidak akan lagi dap
 
 *Untuk informasi lebih lanjut seputar sejarah kategori Loved, kunjungi: [Sejarah Loved](/wiki/History_of_osu!/History_of_Loved)*
 
-Beatmap Loved merupakan beatmap yang *dicintai (loved)* oleh komunitas berdasarkan hasil pemungutan suara yang diselenggarakan oleh tim [Project Loved](/wiki/Community/Project_Loved) terlepas dari apakah beatmap tersebut memenuhi standar [kriteria ranking](/wiki/Ranking_criteria) atau tidak. Beatmap Loved memiliki papan peringkatnya tersendiri, namun tidak akan memberikan [*performance point*](/wiki/Performance_points) dan skor yang ada dapat sewaktu-waktu dihapus apabila beatmap tersebut dicabut dari kategori Loved. Beatmap dalam kategori ini ditandai dengan simbol hati (![](/wiki/shared/status/loved.png)) pada layar pemilihan lagu.
+Beatmap Loved merupakan beatmap yang *dicintai (loved)* oleh komunitas berdasarkan hasil pemungutan suara [Project Loved](/wiki/Community/Project_Loved) terlepas dari apakah beatmap tersebut memenuhi standar [kriteria ranking](/wiki/Ranking_criteria) atau tidak. Beatmap Loved memiliki papan peringkatnya tersendiri, namun tidak akan memberikan [*performance point*](/wiki/Performance_points) dan skor yang ada dapat sewaktu-waktu dihapus apabila beatmap tersebut dicabut dari kategori Loved. Beatmap dalam kategori ini ditandai dengan simbol hati (![](/wiki/shared/status/loved.png)) pada layar pemilihan lagu.
 
 ## Sejarah
 
