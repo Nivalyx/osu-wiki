@@ -20,11 +20,11 @@ Beatmap Work in Progress dan Pending yang sudah tidak aktif selama 4 minggu akan
 
 Qualified merupakan tahapan terakhir pada [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure). Beatmap pada kategori ini telah dinominasikan oleh setidaknya dua anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators), yang memastikan bahwa beatmap tersebut memenuhi standar [kriteria ranking](/wiki/Ranking_criteria) yang berlaku. Beatmap yang memasuki kategori Qualified akan ditempatkan pada [antrian ranking](/wiki/Beatmap_ranking_procedure/Ranking_queue), dan akan secara otomatis berpindah ke kategori [Ranked](#ranked) apabila beatmap tersebut tidak [didiskualifikasi](/wiki/Beatmap_ranking_procedure#penganuliran-nominasi-(nomination-reset)) hingga akhir masa antriannya. Oleh karenanya, kategori ini merupakan ujung tombak yang menjaga agar segala kekurangan dan kesalahan yang sekiranya masih terdapat pada beatmap dapat diperbaiki sebelum terlambat.
 
-Beatmap Qualified memiliki papan peringkatnya tersendiri, namun skor yang ditorehkan tidak akan memberikan [*performance point*](/wiki/Performance_points) dan akan dihapus pada saat beatmap yang bersangkutan keluar dari kategori Qualified. Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/status/qualified.png)) pada layar pemilihan lagu.
+Beatmap Qualified memiliki papan peringkatnya tersendiri, namun skor yang diraih tidak akan memberikan [*performance point*](/wiki/Performance_points) dan akan dihapus pada saat beatmap yang bersangkutan keluar dari kategori Qualified. Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/status/qualified.png)) pada layar pemilihan lagu.
 
 ### Ranked {id=ranked}
 
-Beatmap Ranked merupakan beatmap yang telah memenuhi standar [kriteria ranking](/wiki/Ranking_criteria) dan diakui sebagai konten resmi. Beatmap pada kategori ini memungkinkan para pemain untuk saling bersaing dalam papan peringkatnya masing-masing dan memperoleh [*performance point*](/wiki/Performance_points) dari skor yang ditorehkan. Beatmap Ranked ditandai dengan simbol pangkat ganda (![](/wiki/shared/status/ranked.png)) pada layar pemilihan lagu.
+Beatmap Ranked merupakan beatmap yang telah memenuhi standar [kriteria ranking](/wiki/Ranking_criteria) dan diakui sebagai konten resmi. Beatmap pada kategori ini memungkinkan para pemain untuk saling bersaing dalam papan peringkatnya masing-masing dan memperoleh [*performance point*](/wiki/Performance_points) dari skor yang diraih. Beatmap Ranked ditandai dengan simbol pangkat ganda (![](/wiki/shared/status/ranked.png)) pada layar pemilihan lagu.
 
 Sekalinya suatu beatmap berstatus Ranked, status beatmap ini tidak akan lagi dapat berubah kecuali pada kasus-kasus tertentu.
 
