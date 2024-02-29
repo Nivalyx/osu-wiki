@@ -50,4 +50,4 @@ Kategori [Qualified](#qualified) pertama kali diperkenalkan pada bulan Agustus 2
 
 ### Statistik beatmap non-Ranked
 
-Per tanggal [7 Agustus 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), beatmap [Graveyard](#graveyard) serta [Work in Progress dan Pending](#wip-and-pending) turut diikutsertakan pada jumlah permainan dan skor total masing-masing pemain. Seiring dengan perubahan ini, beatmap dalam ketiga kategori ini juga memperoleh statistik permainannya tersendiri (jumlah permainan, tingkat keberhasilan, dan titik-titik kegagalan) yang sebelumnya hanya tersedia pada beatmap [Qualified](#qualified) dan [Ranked](#ranked).
+Per tanggal [7 Agustus 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), beatmap [Graveyard](#graveyard) serta [Work in Progress dan Pending](#wip-and-pending) turut diikutsertakan pada jumlah permainan dan total skor masing-masing pemain. Seiring dengan perubahan ini, beatmap dalam ketiga kategori ini juga memperoleh statistik permainannya tersendiri (jumlah permainan, tingkat keberhasilan, dan titik-titik kegagalan) yang sebelumnya hanya tersedia pada beatmap [Qualified](#qualified) dan [Ranked](#ranked).
