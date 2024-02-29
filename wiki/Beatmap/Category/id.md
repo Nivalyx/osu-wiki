@@ -18,7 +18,7 @@ Beatmap Work in Progress dan Pending yang sudah tidak aktif selama 4 minggu akan
 
 ### Qualified {id=qualified}
 
-Qualified merupakan tahapan terakhir pada [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure). Beatmap pada kategori ini telah dinominasikan oleh setidaknya dua anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators), yang memastikan bahwa beatmap tersebut memenuhi standar [kriteria ranking](/wiki/Ranking_criteria) yang berlaku. Beatmap yang memasuki kategori Qualified akan ditempatkan pada [antrian ranking](/wiki/Beatmap_ranking_procedure/Ranking_queue), dan akan secara otomatis berpindah ke kategori [Ranked](#ranked) apabila beatmap tersebut tidak [didiskualifikasi](/wiki/Beatmap_ranking_procedure#penganuliran-nominasi-(nomination-reset)) hingga akhir masa antriannya. Oleh karenanya, kategori ini merupakan ujung tombak yang menjaga agar segala kekurangan dan kesalahan yang sekiranya masih terdapat pada beatmap dapat diperbaiki sebelum terlambat.
+Qualified merupakan tahapan terakhir pada [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure). Beatmap pada kategori ini telah dinominasikan oleh setidaknya dua anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators) yang memastikan bahwa beatmap tersebut memenuhi standar [kriteria ranking](/wiki/Ranking_criteria) yang berlaku. Beatmap yang memasuki kategori Qualified akan ditempatkan pada [antrian ranking](/wiki/Beatmap_ranking_procedure/Ranking_queue), dan akan secara otomatis berpindah ke kategori [Ranked](#ranked) apabila beatmap tersebut tidak [didiskualifikasi](/wiki/Beatmap_ranking_procedure#penganuliran-nominasi-(nomination-reset)) hingga akhir masa antriannya. Oleh karenanya, kategori ini merupakan ujung tombak yang menjaga agar segala kekurangan dan kesalahan yang sekiranya masih terdapat pada beatmap dapat diperbaiki sebelum terlambat.
 
 Beatmap Qualified memiliki papan peringkatnya tersendiri, namun skor yang diraih tidak akan memberikan [*performance point*](/wiki/Performance_points) dan akan dihapus pada saat beatmap yang bersangkutan keluar dari kategori Qualified. Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/status/qualified.png)) pada layar pemilihan lagu.
 
@@ -38,7 +38,7 @@ Beatmap Loved merupakan beatmap yang *dicintai (loved)* oleh komunitas berdasark
 
 ### Approved {id=approved}
 
-Approved merupakan kategori beatmap yang digunakan antara tahun 2008 dan 2014 untuk mengelompokkan beatmap yang tidak memenuhi batasan durasi dan skor maksimum yang terdapat pada [ranking criteria](/wiki/Ranking_criteria) pada saat itu.
+Approved merupakan kategori beatmap yang digunakan antara tahun 2008 dan 2014 untuk mengelompokkan beatmap yang tidak memenuhi batasan durasi dan skor maksimum yang terdapat pada [kriteria ranking](/wiki/Ranking_criteria) pada saat itu.
 
 Beatmap Approved pada awalnya tidak berpengaruh terhadap total skor masing-masing pemain. Setelah osu! bertransisi dari sistem *score ranking* menuju sistem [*performance point*](/wiki/Performance_points), batasan skor ini pun dihapus dan kategori Approved kemudian dikhususkan untuk menandai beatmap yang memiliki [*drain time*](/wiki/Beatmap/Drain_time) 6 menit atau lebih.
 
