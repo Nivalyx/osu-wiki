@@ -24,13 +24,13 @@ Beatmap Qualified memiliki papan peringkatnya tersendiri, namun skor yang ditore
 
 ### Ranked {id=ranked}
 
-Beatmap Ranked merupakan beatmap yang telah memenuhi standar [kriteria ranking](/wiki/Ranking_criteria) dan diakui sebagai konten resmi. Beatmap dalam kategori ini memungkinkan para pemain untuk saling bersaing pada papan peringkatnya masing-masing dan memperoleh [*performance point*](/wiki/Performance_points) dari skor yang ditorehkan. Sekalinya suatu beatmap berstatus Ranked, status beatmap ini tidak akan lagi dapat berubah kecuali pada kasus-kasus tertentu. Beatmap Ranked ditandai dengan simbol pangkat ganda (![](/wiki/shared/status/ranked.png)) pada layar pemilihan lagu.
+Beatmap Ranked merupakan beatmap yang telah memenuhi standar [kriteria ranking](/wiki/Ranking_criteria) dan diakui sebagai konten resmi. Beatmap pada kategori ini memungkinkan para pemain untuk saling bersaing dalam papan peringkatnya masing-masing dan memperoleh [*performance point*](/wiki/Performance_points) dari skor yang ditorehkan. Sekalinya suatu beatmap berstatus Ranked, status beatmap ini tidak akan lagi dapat berubah kecuali pada kasus-kasus tertentu. Beatmap Ranked ditandai dengan simbol pangkat ganda (![](/wiki/shared/status/ranked.png)) pada layar pemilihan lagu.
 
 ### Loved {id=loved}
 
 *Untuk informasi lebih lanjut seputar sejarah kategori Loved, kunjungi: [Sejarah Loved](/wiki/History_of_osu!/History_of_Loved)*
 
-Loved merupakan status beatmap yang disematkan kepada beatmap-beatmap yang *dicintai (loved)* oleh anggota-anggota komunitas berdasarkan hasil pemungutan suara yang diselenggarakan oleh tim [Project Loved](/wiki/Community/Project_Loved) terlepas dari apakah beatmap-beatmap tersebut memenuhi standar [ranking criteria](/wiki/Ranking_criteria) ataupun tidak. Beatmap-beatmap pada kategori ini tidak memberikan [*performance point*](/wiki/Performance_points) apapun, namun memiliki papan peringkat *online* yang dapat sewaktu-waktu dihapus apabila beatmap-beatmap yang bersangkutan dicabut dari kategori Loved karena satu dan lain hal. Adapun beatmap-beatmap ini ditandai dengan simbol hati (![](/wiki/shared/status/loved.png)) yang dapat dilihat pada pojok kiri atas layar song selection.
+Beatmap Loved merupakan beatmap yang tidak selalu memenuhi [kriteria ranking](/wiki/Ranking_criteria), *dicintai (loved)* oleh anggota-anggota komunitas berdasarkan hasil pemungutan suara yang diselenggarakan oleh tim [Project Loved](/wiki/Community/Project_Loved) terlepas dari apakah beatmap-beatmap tersebut memenuhi standar [ranking criteria](/wiki/Ranking_criteria) ataupun tidak. Beatmap-beatmap pada kategori ini tidak memberikan [*performance point*](/wiki/Performance_points) apapun, namun memiliki papan peringkat *online* yang dapat sewaktu-waktu dihapus apabila beatmap-beatmap yang bersangkutan dicabut dari kategori Loved karena satu dan lain hal. Adapun beatmap-beatmap ini ditandai dengan simbol hati (![](/wiki/shared/status/loved.png)) yang dapat dilihat pada pojok kiri atas layar song selection.
 
 ## Sejarah
 
