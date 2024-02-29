@@ -46,7 +46,7 @@ Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/stat
 
 ### Kemunculan kategori Qualified
 
-Kategori [Qualified](#qualified) pertama kali diperkenalkan pada bulan Agustus 2014 dalam rangka [restrukturisasi BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) agar beatmap yang baru Ranked dapat lebih tersorot. Apabila beatmap dalam kategori Qualified perlu untuk didiskualifikasi dan dikembalikan ke Pending, hal tersebut tidak akan mempengaruhi statistik pemain, karena kategori tersebut sudah didesain dari awal untuk tidak mencatat skor. Kemunculan kategori ini disambut dengan baik karena pemain dapat mencoba dan menentukan apakah map tersebut sudah memenuhi ekspektasi atau belum.
+Kategori [Qualified](#qualified) pertama kali diperkenalkan pada bulan Agustus 2014 dalam rangka [restrukturisasi BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) agar beatmap yang baru Ranked dapat lebih tersorot. Apabila beatmap yang berstatus Qualified perlu untuk didiskualifikasi dan dikembalikan ke Pending, hal tersebut tidak akan mempengaruhi statistik pemain, karena kategori tersebut sudah didesain dari awal untuk tidak mencatat skor. Kemunculan kategori ini disambut dengan baik karena pemain dapat mencoba dan menentukan apakah map tersebut sudah memenuhi ekspektasi atau belum.
 
 ### Statistik beatmap unranked
 
