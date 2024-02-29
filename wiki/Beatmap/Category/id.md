@@ -46,8 +46,8 @@ Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/stat
 
 ### Kemunculan kategori Qualified
 
-Kategori [Qualified](#qualified) pertama kali diperkenalkan pada bulan Agustus 2014 dalam rangka [restrukturisasi BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat). Kategori ini dibuat agar beatmap yang baru memasuki Ranked dapat lebih tersorot. Apabila beatmap yang berstatus Qualified perlu untuk didiskualifikasi dan dikembalikan ke Pending, statistik pemain tidak akan terpengaruh, karena kategori ini sudah dirancang dari awal untuk tidak mencatat skor secara permanen. Kemunculan kategori ini disambut dengan baik karena pemain dapat mencoba dan menentukan apakah map tersebut sudah memenuhi ekspektasi atau belum.
+Kategori [Qualified](#qualified) pertama kali diperkenalkan pada bulan Agustus 2014 dalam rangka [restrukturisasi BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat). Kategori ini dibuat agar beatmap yang baru memasuki Ranked dapat lebih tersorot. Apabila beatmap yang berstatus Qualified perlu untuk didiskualifikasi dan dikembalikan ke Pending, statistik pemain tidak akan terpengaruh, karena kategori ini sudah dirancang dari awal untuk tidak mencatat skor secara permanen. Kemunculan kategori ini disambut dengan baik karena pemain dapat mencoba dan menentukan apakah map tersebut sudah memenuhi ekspektasi atau belum serta mengurangi sentimen negatif.
 
-### Statistik beatmap unranked
+### Statistik beatmap non-Ranked
 
 Per tanggal [7 Agustus 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), beatmap yang berada pada [Graveyard](#graveyard) serta [Work in Progress dan Pending](#wip-and-pending) turut berkontribusi terhadap jumlah permainan dan skor total pemain. Beatmap-beatmap yang berada pada kedua kategori tersebut juga kini memiliki statistik permainannya tersendiri (yang meliputi antara lain jumlah permainan, tingkat keberhasilan, dan titik-titik kegagalan) yang sebelumnya hanya dapat dilihat pada beatmap-beatmap [Qualified](#qualified) dan [Ranked](#ranked).
