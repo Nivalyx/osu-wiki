@@ -4,7 +4,7 @@ legal: true
 
 # Kebijakan hak cipta osu!
 
-osu! merupakan permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan hasil ciptaan dan unggahan para anggota komunitas, yang sering kalinya diterbitkan tanpa seizin pemilik hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten-konten ini secara langsung, di mana sumber dana osu! satu-satunya adalah donasi pengguna yang kami terima.
+osu! merupakan permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan hasil ciptaan dan unggahan para anggota komunitas, yang sering kalinya diterbitkan tanpa seizin pemilik hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten-konten ini secara langsung, dan sumber dana osu! satu-satunya adalah donasi pengguna yang kami terima.
 
 Sebagian besar dari uang donasi tersebut kami sisihkan kembali untuk keperluan [lisensi musik](/wiki/Legal/Music_licensing). Segala pertanyaan terkait lisensi musik dapat dikirimkan ke alamat [music@ppy.sh](mailto:music@ppy.sh).
 
@@ -23,12 +23,12 @@ Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui 
 
 1. Tanda tangan fisik atau elektronik dari pihak yang berwenang untuk bertindak atas nama pemilik hak cipta yang disinyalir telah dilanggar;
 2. Bentuk identifikasi karya yang hak ciptanya disinyalir telah dilanggar, atau apabila terdapat beberapa karya berhak cipta yang tertera pada satu situs yang dapat dirangkum ke dalam satu laporan, sebuah daftar yang mewakili seluruh karya pada situs tersebut;
-3. Bentuk identifikasi materi-materi yang disinyalir melanggar hak cipta atau menjadi subjek dari aktivitas pelanggaran dan yang akan dihapus atau ditutup aksesnya, serta informasi yang memadai bagi osu! untuk dapat menemukan materi-materi yang bersangkutan;
+3. Bentuk identifikasi materi yang disinyalir melanggar hak cipta atau menjadi subjek dari aktivitas pelanggaran dan yang akan dihapus atau ditutup aksesnya, serta informasi yang memadai bagi osu! untuk dapat menemukan materi yang bersangkutan;
 4. Informasi kontak pelapor, seperti alamat, nomor telepon, dan jika ada, alamat email;
 5. Pernyataan bahwa pelapor meyakini bahwa penggunaan materi yang diadukan tidak diizinkan oleh pemilik hak cipta, agennya, atau hukum; dan
 6. Pernyataan bahwa seluruh hal yang diterakan pada notifikasi yang bersangkutan tepat adanya, yang disertai oleh sumpah yang menyatakan bahwa pihak yang melapor benar-benar memiliki kewenangan untuk dapat bertindak atas nama pemilik hak cipta yang disinyalir telah dilanggar.
 
-Setelah laporan klaim pelanggaran hak cipta yang telah terisi dengan lengkap dan benar diterima oleh Designated Agent kami, atau apabila osu! merasa telah memiliki cukup bukti bahwa memang terdapat suatu berkas pada layanan osu! yang mengandung materi yang melanggar hak cipta, maka:
+Setelah Designated Agent kami menerima laporan klaim pelanggaran hak cipta yang telah terisi dengan lengkap dan benar, atau apabila osu! merasa telah memiliki cukup bukti bahwa memang terdapat suatu berkas pada layanan osu! yang mengandung materi yang melanggar hak cipta, maka:
 
 Berikut adalah kebijakan osu! untuk:
 
