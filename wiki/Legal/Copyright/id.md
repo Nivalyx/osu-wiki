@@ -33,7 +33,7 @@ Setelah Designated Agent kami menerima laporan klaim pelanggaran hak cipta yang 
 Berikut adalah kebijakan osu! untuk:
 
 1. menghapus atau menutup akses menuju konten yang diidentifikasi dalam laporan klaim pelanggaran;
-2. memberitahukan kepada pihak penyedia konten, anggota, atau pengguna yang bersangkutan bahwa konten yang mereka unggah tersebut telah dihapus dan ditutup aksesnya; dan
+2. memberitahukan kepada pihak penyedia konten, anggota, atau pengguna yang bersangkutan bahwa konten yang mereka unggah telah dihapus dan ditutup aksesnya; dan
 3. menonaktifkan pengguna layanan dan pemegang akun yang telah berulang kali melanggar.
 
 ## Mengirimkan tanggapan balasan (counter-notice)
