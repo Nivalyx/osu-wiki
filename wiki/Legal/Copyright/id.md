@@ -10,7 +10,7 @@ Sebagian besar dari uang donasi tersebut kami sisihkan kembali untuk keperluan [
 
 Apabila tidak ada kesepakatan lisensi yang berhasil dicapai, osu! telah mengadopsi kebijakan berikut yang sesuai dengan undang-undang perlindungan hak cipta Digital Millennium Copyright Act, 17 U.S.C. 512 yang berlaku.
 
-Informasi kontak pihak penerima notifikasi pelanggaran hak cipta (*Designated Agent to Receive Notification of Claimed Infringement*/"Designated Agent") osu! dapat ditemukan pada akhir kebijakan ini, yang kami terakan sebagaimana dengan yang terdaftar pada kantor hak cipta Amerika Serikat (<https://www.copyright.gov/dmca-directory/>). osu! menghormati segala bentuk hak cipta dan hak kekayaan intelektual lainnya dengan sangat serius.
+Informasi kontak pihak penerima notifikasi pelanggaran hak cipta (*Designated Agent to Receive Notification of Claimed Infringement*/"Designated Agent") osu! dapat ditemukan pada akhir kebijakan ini, yang kami terakan sebagaimana dengan yang terdaftar pada kantor hak cipta Amerika Serikat (<https://www.copyright.gov/dmca-directory/>). osu! menghormati segala hak cipta dan hak kekayaan intelektual lainnya dengan sangat serius.
 
 Berikut adalah kebijakan osu! untuk:
 
