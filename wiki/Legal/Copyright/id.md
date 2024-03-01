@@ -38,7 +38,7 @@ Berikut adalah kebijakan osu! untuk:
 
 ## Mengirimkan tanggapan balasan (counter-notice)
 
-Apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa mereka telah memiliki izin untuk dapat menyebarluaskan dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau secara hukum, maka pihak penyedia konten, anggota atau pengguna yang terdampak dapat mengirim tanggapan balasan (*counter-notice*) yang mengandung rangkaian inforamsi berikut kepada Designated Agent kami sebagaimana yang tertera di bawah:
+Apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa mereka telah memiliki izin untuk dapat menyebarluaskan dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau secara hukum, maka pihak penyedia konten, anggota atau pengguna yang terdampak dapat mengirim tanggapan balasan (*counter-notice*) yang mengandung rangkaian informasi berikut kepada Designated Agent kami sebagaimana yang tertera di bawah:
 
 1. Tanda tangan fisik atau elektronik dari pihak penyedia konten, anggota, atau pengguna;
 2. Bentuk identifikasi konten-konten yang telah dihapus atau yang ditutup aksesnya serta lokasi di mana materi-materi tersebut berada sebelum dihapus atau ditutup aksesnya;
