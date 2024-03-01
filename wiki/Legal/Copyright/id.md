@@ -4,11 +4,11 @@ legal: true
 
 # Kebijakan hak cipta osu!
 
-osu! merupakan permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan hasil ciptaan dan unggahan para anggota komunitas kami, yang sering kali diterbitkan tanpa seizin pemilik hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten yang diunggah secara langsung, di mana osu! sepenuhnya didanai dari donasi pengguna yang kami terima.
+osu! merupakan permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan hasil ciptaan dan unggahan para anggota komunitas kami, yang sering kali diterbitkan tanpa seizin pemilik hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten yang diunggah secara langsung, di mana sumber dana osu! satu-satunya adalah donasi yang kami terima dari para pengguna kami.
 
-Sebagian besar dari uang donasi tersebut kami sisihkan kembali untuk keperluan [lisensi musik](/wiki/Legal/Music_licensing). Segala permintaan seputar lisensi musik dapat dikirimkan ke alamat email [music@ppy.sh](mailto:music@ppy.sh).
+Sebagian besar dari uang donasi tersebut kami sisihkan kembali untuk keperluan [lisensi musik](/wiki/Legal/Music_licensing). Segala permintaan lisensi musik dapat dikirimkan ke alamat email [music@ppy.sh](mailto:music@ppy.sh).
 
-Apabila tidak ada kesepakatan hukum yang berhasil dicapai, osu! telah mengadopsi kebijakan berikut yang sesuai dengan undang-undang perlindungan hak cipta Digital Millennium Copyright Act, 17 U.S.C. 512 yang berlaku.
+Apabila tidak ada kesepakatan lisensi yang berhasil dicapai, osu! telah mengadopsi kebijakan berikut yang sesuai dengan undang-undang perlindungan hak cipta Digital Millennium Copyright Act, 17 U.S.C. 512 yang berlaku.
 
 Informasi kontak pihak penerima notifikasi pelanggaran hak cipta (*Designated Agent to Receive Notification of Claimed Infringement*/"Designated Agent") osu! dapat ditemukan pada akhir kebijakan ini, yang kami terakan sebagaimana dengan yang terdaftar pada kantor hak cipta Amerika Serikat (<https://www.copyright.gov/dmca-directory/>). osu! menangani segala bentuk pelanggaran hak cipta dan hak kekayaan intelektual lainnya dengan sungguh-sungguh.
 
