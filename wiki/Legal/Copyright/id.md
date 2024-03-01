@@ -36,16 +36,16 @@ Berikut adalah kebijakan osu! untuk:
 2. memberitahukan kepada pihak penyedia konten, anggota, atau pengguna yang bersangkutan bahwa konten yang mereka unggah telah dihapus dan ditutup aksesnya; dan
 3. menonaktifkan pengguna layanan dan pemegang akun yang telah berulang kali melanggar.
 
-## Mengirimkan tanggapan balasan (counter-notice)
+## Mengirimkan notifikasi sanggahan (counter-notice)
 
-Apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa mereka telah memiliki izin untuk dapat menyebarluaskan dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau secara hukum, maka pihak penyedia konten, anggota atau pengguna yang terdampak dapat mengirim tanggapan balasan (*counter-notice*) yang mengandung rangkaian informasi berikut kepada Designated Agent kami sebagaimana yang tertera di bawah:
+Apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa konten yang dihapus atau yang ditutup aksesnya tidak melanggar, atau apabila pihak penyedia konten, anggota, atau pengguna yang terdampak yakin bahwa mereka telah memiliki izin untuk dapat menyebarluaskan dan menggunakan konten tersebut dari pemilik hak cipta, dari agen pemilik hak cipta, atau secara hukum, maka pihak penyedia konten, anggota atau pengguna yang terdampak dapat mengirim notifikasi sanggahan (*counter-notice*) yang mengandung rangkaian informasi berikut kepada Designated Agent kami sebagaimana yang tertera di bawah:
 
 1. Tanda tangan fisik atau elektronik dari pihak penyedia konten, anggota, atau pengguna;
 2. Bentuk identifikasi konten-konten yang telah dihapus atau yang ditutup aksesnya serta lokasi di mana materi-materi tersebut berada sebelum dihapus atau ditutup aksesnya;
 3. Pernyataan tersumpah bahwa pihak penyedia konten, anggota, atau pengguna merasa penghapusan atau penutupan konten-konten yang bersangkutan merupakan sebuah kesalahan atau dampak dari misidentifikasi materi; dan
 4. Nama, alamat, nomor telepon, dan jika ada, alamat email dari pihak penyedia konten, anggota, atau pengguna yang dilengkapi dengan pernyataan bahwa mereka (atau pihak yang mewakili mereka) bersedia untuk mengikuti segala ketentuan hukum yang berlaku pada Pengadilan Distrik Federal untuk distrik yudisial di mana alamat pihak penyedia konten, anggota, atau pengguna berlokasi, atau apabila alamat pihak penyedia konten, anggota, atau pengguna berlokasi di luar Amerika Serikat, untuk mengikuti segala ketentuan hukum yang berlaku pada wilayah Los Angeles, California, serta pernyataan bahwa mereka bersedia untuk mengikuti segala prosedur hukum yang berlaku bersama dengan pihak pelapor atau pihak yang mewakili pelapor.
 
-Apabila Designated Agent kami menerima tanggapan balasan, osu! dapat mengirim salinan tanggapan ini kepada pihak pelapor untuk memberitahukan bahwa mereka dapat mengganti konten yang terdampak atau mencabut laporan mereka dalam 10 hari kerja. Kecuali pihak pelapor mengajukan tuntutan pengadilan kepada pihak penyedia konten, anggota, atau pengguna yang bersangkutan, osu! berhak untuk mengganti atau memulihkan akses konten yang terdampak secara sepihak dalam 10 hingga 14 hari kerja setelah tanggapan balasan ini diterima.
+Apabila Designated Agent kami menerima notifikasi sanggahan, osu! dapat mengirim salinan tanggapan ini kepada pihak pelapor untuk memberitahukan bahwa mereka dapat mengganti konten yang terdampak atau mencabut laporan mereka dalam 10 hari kerja. Kecuali pihak pelapor mengajukan tuntutan pengadilan kepada pihak penyedia konten, anggota, atau pengguna yang bersangkutan, osu! berhak untuk mengganti atau memulihkan akses konten yang terdampak secara sepihak dalam 10 hingga 14 hari kerja setelah tanggapan balasan ini diterima.
 
 ## Detail kontak Designated Agent
 
