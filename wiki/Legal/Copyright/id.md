@@ -4,7 +4,7 @@ legal: true
 
 # Kebijakan hak cipta osu!
 
-osu! merupakan permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan hasil ciptaan dan unggahan para anggota komunitas kami, yang sering kali dipublikasikan tanpa seizin pemilik hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten yang diunggah secara langsung, di mana osu! sepenuhnya didanai dari donasi yang kami terima dari para pengguna kami.
+osu! merupakan permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan hasil ciptaan dan unggahan para anggota komunitas kami, yang sering kali diterbitkan tanpa seizin pemilik hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten yang diunggah secara langsung, di mana osu! sepenuhnya didanai dari donasi pengguna yang kami terima.
 
 Sebagian besar dari uang donasi tersebut kami sisihkan kembali untuk keperluan [lisensi musik](/wiki/Legal/Music_licensing). Segala permintaan seputar lisensi musik dapat dikirimkan ke alamat email [music@ppy.sh](mailto:music@ppy.sh).
 
