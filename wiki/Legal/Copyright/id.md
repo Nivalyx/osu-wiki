@@ -4,9 +4,9 @@ legal: true
 
 # Kebijakan hak cipta osu!
 
-osu! merupakan permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan hasil ciptaan dan unggahan para anggota komunitas, yang sering kali dipublikasikan tanpa seizin para pemegang hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten tersebut secara langsung, dan sumber pemasukan osu! satu-satunya adalah uang donasi yang kami terima dari para pengguna kami.
+osu! merupakan permainan yang sangat berorientasi pada komunitas. Seluruh level permainan (beatmap) yang ada di osu! merupakan hasil karya para anggota komunitas kami, yang sering kali diunggah tanpa seizin para pemegang hak cipta yang bersangkutan. Oleh karenanya, kami tidak mengiklankan atau mengkomersilkan konten yang diunggah secara langsung, dan sumber pemasukan osu! satu-satunya adalah uang donasi yang kami terima dari para pengguna kami.
 
-Sebagian besar dari uang donasi tersebut kami sisihkan kembali untuk keperluan [lisensi musik](/wiki/Legal/Music_licensing). Segala bentuk permintaan seputar lisensi musik dapat dikirimkan ke alamat email [music@ppy.sh](mailto:music@ppy.sh).
+Sebagian besar dari uang donasi tersebut kami sisihkan kembali untuk keperluan [lisensi musik](/wiki/Legal/Music_licensing). Segala permintaan seputar lisensi musik dapat dikirimkan ke alamat email [music@ppy.sh](mailto:music@ppy.sh).
 
 Apabila tidak ada kesepakatan hukum yang berhasil dicapai, osu! telah mengadopsi kebijakan berikut yang sesuai dengan undang-undang perlindungan hak cipta Digital Millennium Copyright Act, 17 U.S.C. 512 yang berlaku.
 
@@ -19,7 +19,7 @@ Berikut adalah kebijakan osu! untuk:
 
 ## Melaporkan pelanggaran hak cipta
 
-Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui situs web atau layanan osu! yang melanggar hak cipta Anda, harap kirimi kami notifikasi seputar klaim pelanggaran hak cipta yang mengandung informasi-informasi berikut kepada Designated Agent kami sebagaimana yang tertera di bawah (Anda dapat merujuk pada konsultan hukum Anda atau pada pasal 17 U.S.C. 512(c) untuk mengonfirmasi keabsahan persyaratan-persyaratan berikut):
+Apabila Anda yakin bahwa terdapat konten yang berada atau dapat diakses melalui situs web atau layanan osu! yang melanggar hak cipta Anda, mohon kirimkan kami notifikasi klaim pelanggaran hak cipta yang mengandung informasi berikut kepada Designated Agent kami sebagaimana yang tertera di bawah (Anda dapat merujuk pada konsultan hukum Anda atau pada pasal 17 U.S.C. 512(c) untuk mengonfirmasi keabsahan persyaratan berikut):
 
 1. Tanda tangan fisik atau elektronik dari pihak yang berwenang untuk bertindak atas nama pemilik hak cipta yang disinyalir telah dilanggar;
 2. Bentuk identifikasi karya-karya yang hak ciptanya disinyalir telah dilanggar, atau apabila terdapat beberapa karya berhak cipta yang tertera pada satu situs yang dapat dirangkum ke dalam satu laporan, sebuah daftar yang mewakili seluruh karya pada situs tersebut;
