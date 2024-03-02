@@ -20,7 +20,7 @@ Walaupun tidak diwajibkan, para anggota yang baru bergabung disarankan untuk mem
 
 ## Daftar kanal
 
-Server Discord osu! memiliki sejumlah kanal yang masing-masingnya berpusat pada pengembangan proyek tertentu.
+Server Discord osu! memiliki sejumlah kanal yang masing-masingnya dikhususkan bagi pengembangan proyek tertentu.
 
 | Proyek | Channel |
 | :-- | :-- |
