@@ -39,7 +39,7 @@ Server Discord osu! memiliki sejumlah kanal yang masing-masingnya dikhususkan ba
 | `#osu-framework` | [osu!framework](https://github.com/ppy/osu-framework) |
 | `#osu-web` | [osu!web](https://github.com/ppy/osu-web) |
 | `#github-feed` | Uraian aktivitas (*event feed*) untuk berbagai [repositori GitHub ppy](https://github.com/ppy) |
-| `Meetings` (Kanal Stage) | [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) dan pertemuan kemajuan pengembang |
+| `Meetings` (Kanal Stage) | [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) dan pertemuan laporan kemajuan pengembang |
 
 ### Diffcalc
 
