@@ -22,16 +22,16 @@ Walaupun tidak diwajibkan, para anggota yang baru bergabung disarankan untuk mem
 
 Server Discord osu! memiliki sejumlah kanal yang masing-masingnya dikhususkan bagi pengembangan proyek tertentu.
 
-### General
+### Umum
 
 | Kanal | Deskripsi |
 | :-- | :-- |
-| `#welcome` | Server information |
-| `#announcements` | Server announcements |
-| `#introductions` | Self-introductions |
+| `#welcome` | Informasi server |
+| `#announcements` | Pengumuman server |
+| `#introductions` | Pengenalan diri |
 | `#general` | General discussion and troubleshooting related to osu! |
 
-### Client / Web
+### Klien / Web
 
 | Kanal | Deskripsi |
 | :-- | :-- |
