@@ -12,15 +12,15 @@ The permanent invite link for the server is <https://discord.gg/ppy>.
 
 People new to the server are encouraged to introduce themselves in the `#introductions` channel, but doing so is not a requirement to interact with the rest of the server. 
 
-Server Discord **osu!**, yang sebelumnya dikenal dengan nama **osu!dev**, merupakan server [Discord](https://discord.com/) resmi milik osu! yang ditujukan untuk keperluan pengembangan.
+Server Discord **osu!**, yang sebelumnya dikenal dengan nama **osu!dev**, merupakan server [Discord](https://discord.com/) resmi milik osu! yang ditujukan untuk berbagai keperluan terkait pengembangan.
 
 Tautan undangan permanen untuk server ini adalah <https://discord.gg/ppy>.
 
-Walaupun tidak diwajibkan, para anggota baru dapat memperkenalkan diri mereka masing-masing pada kanal `#introductions`.
+Walaupun tidak diwajibkan, para anggota yang baru bergabung disarankan untuk memperkenalkan diri mereka masing-masing pada kanal `#introductions`.
 
 ## Kanal
 
-Server Discord osu! memiliki berbagai kanal yang masing-masingnya berpusat pada pengembangan proyek tertentu.
+Server Discord osu! memiliki sejumlah kanal yang masing-masingnya berpusat pada pengembangan proyek tertentu.
 
 | Proyek | Channel |
 | :-- | :-- |
