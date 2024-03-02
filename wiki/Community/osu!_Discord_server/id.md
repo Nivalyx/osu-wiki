@@ -46,9 +46,9 @@ Server Discord osu! memiliki sejumlah kanal yang masing-masingnya dikhususkan ba
 | Kanal | Deskripsi |
 | :-- | :-- |
 | `#difficulty-osu` | Perhitungan [*star rating*](/wiki/Beatmap/Star_rating) dan [*performance point*](/wiki/Performance_points) [osu!](/wiki/Game_mode/osu!) |
-| `#difficulty-taiko` | [osu!taiko](/wiki/Game_mode/osu!taiko) star rating and performance points calculation |
-| `#difficulty-catch` | [osu!catch](/wiki/Game_mode/osu!catch) star rating and performance points calculation |
-| `#difficulty-mania` | [osu!mania](/wiki/Game_mode/osu!mania) star rating and performance points calculation |
+| `#difficulty-taiko` | Perhitungan *star rating* dan *performance point* [osu!taiko](/wiki/Game_mode/osu!taiko) |
+| `#difficulty-catch` | Perhitungan *star rating* dan *performance point* [osu!catch](/wiki/Game_mode/osu!catch) |
+| `#difficulty-mania` | Perhitungan *star rating* dan *performance point* [osu!mania](/wiki/Game_mode/osu!mania) |
 
 ### Komunitas
 
