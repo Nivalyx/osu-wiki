@@ -14,7 +14,7 @@ People new to the server are encouraged to introduce themselves in the `#introdu
 
 Server Discord **osu!**, yang sebelumnya dikenal dengan nama **osu!dev**, merupakan server [Discord](https://discord.com/) resmi milik osu! yang ditujukan untuk keperluan pengembangan.
 
-Tautan undangan permanen untuk masuk ke dalam server bisa diakses dengan <https://discord.gg/ppy>.
+Tautan undangan permanen untuk server ini adalah <https://discord.gg/ppy>.
 
 Walaupun tidak diwajibkan, para anggota yang baru masuk dapat memperkenalkan dirinya masing-masing pada saluran `#introductions` yang tersedia.
 
