@@ -16,7 +16,7 @@ Server Discord **osu!**, yang sebelumnya dikenal dengan nama **osu!dev**, merupa
 
 Tautan undangan permanen untuk server ini adalah <https://discord.gg/ppy>.
 
-Walaupun tidak diwajibkan, para anggota baru dapat memperkenalkan dirinya masing-masing pada saluran `#introductions` yang tersedia.
+Walaupun tidak diwajibkan, para anggota baru dapat memperkenalkan diri mereka masing-masing pada kanal `#introductions`.
 
 ## Proyek
 
