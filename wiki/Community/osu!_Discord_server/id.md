@@ -18,7 +18,7 @@ Tautan undangan permanen untuk server ini adalah <https://discord.gg/ppy>.
 
 Walaupun tidak diwajibkan, para anggota yang baru bergabung disarankan untuk memperkenalkan diri mereka masing-masing pada kanal `#introductions`.
 
-## Kanal
+## Daftar kanal
 
 Server Discord osu! memiliki sejumlah kanal yang masing-masingnya berpusat pada pengembangan proyek tertentu.
 
