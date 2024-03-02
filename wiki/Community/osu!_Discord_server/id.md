@@ -54,7 +54,7 @@ Server Discord osu! memiliki sejumlah kanal yang masing-masingnya dikhususkan ba
 
 | Kanal | Deskripsi |
 | :-- | :-- |
-| `#featured-artists` | [Featured Artist](/wiki/People/Featured_Artists) beatmap creations, projects, and playlists |
+| `#featured-artists` | Pembuatan beatmap, proyek, dan playlist [Featured Artist](/wiki/People/Featured_Artists) |
 | `#mappers-guild` | [Mappers' Guild](/wiki/Community/Mappers_Guild) |
 | `#osu-spotlights` | [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 | `#osu-wiki` | [osu! wiki](/wiki/osu!_wiki) |
