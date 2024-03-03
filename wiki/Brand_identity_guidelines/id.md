@@ -53,7 +53,7 @@ Mohon beri cookie jarak yang memadai dengan elemen desain lainnya. Gunakan huruf
 
 ### Batasan penggunaan cookie warna tunggal
 
-Karena osu! merupakan permainan yang berorientasi pada komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan dapat diterapkan ke dalam berbagai gaya desain dengan mudah. osu! tidak membatasi warna yang dapat digunakan untuk cookie.
+Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan dapat diterapkan ke dalam berbagai gaya desain dengan mudah. osu! tidak membatasi warna yang dapat digunakan untuk cookie.
 
 ![](img/restrictions-good-single.png "Berbagai contoh hasil modifikasi logo osu! warna tunggal yang diperkenankan")
 
@@ -81,7 +81,7 @@ Karena osu! merupakan permainan yang berorientasi pada komunitas, logo osu! cook
 
 ### Batasan penggunaan cookie warna penuh
 
-Karena osu! merupakan permainan yang berorientasi pada komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan ramah untuk berbagai gaya desain. Mohon gunakan logo yang kami sediakan apa adanya tanpa modifikasi apa pun. Seluruh batasan yang berlaku pada versi warna tunggal juga berlaku pada versi warna penuh.
+Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan ramah untuk berbagai gaya desain. Mohon gunakan logo yang kami sediakan apa adanya tanpa modifikasi apa pun. Seluruh batasan yang berlaku pada versi warna tunggal juga berlaku pada versi warna penuh.
 
 ![](img/restrictions-bad-full.png "Berbagai contoh hasil modifikasi logo osu! warna penuh yang tidak diperkenankan")
 
