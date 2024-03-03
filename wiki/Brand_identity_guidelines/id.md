@@ -57,7 +57,7 @@ Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cooki
 
 ![](img/restrictions-good-single.png "Berbagai contoh hasil modifikasi logo osu! warna tunggal yang diperkenankan")
 
-- Gambar cookie harus tetap terlihat tajam dalam situasi apapun.
+- Gambar cookie harus terlihat tajam dalam situasi apapun.
 - Kamu dapat menggunakan warna apapun sebagai warna dasar cookie.
 - Kamu dapat menambahkan gradasi linier pada cookie. Gradasi radial tidak disarankan karena lingkaran luar dan bagian tengah cookie dapat terlihat seolah-olah tidak menyatu.
 - Kamu dapat menempatkan gambar lain sebagai tekstur pada cookie melalui teknik *masking*. Meskipun demikian, kontras antara cookie dan latar belakang harus tetap terjaga.
@@ -67,16 +67,16 @@ Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cooki
 ![](img/restrictions-bad-single.png "Berbagai contoh hasil modifikasi logo osu! warna tunggal yang tidak diperkenankan")
 
 - **Jangan** ubah rasio aspek cookie.
-- **Jangan** memutar cookie. Orientasi cookie harus sejajar dengan mata pembaca.
-- **Jangan** mengubah elemen cookie mana pun menjadi sesuatu yang lain.
-- **Jangan** menghapus elemen mana pun yang terdapat pada cookie.
-- **Jangan** mengubah ukuran elemen cookie mana pun secara terpisah.
-- **Jangan** memodifikasi elemen cookie mana pun.
-- **Jangan** mengatur ulang tata letak elemen cookie mana pun.
+- **Jangan** putar cookie. Orientasi cookie harus sejajar dengan mata pembaca.
+- **Jangan** ubah elemen cookie mana pun menjadi sesuatu yang lain.
+- **Jangan** hapus elemen mana pun yang terdapat pada cookie.
+- **Jangan** ubah ukuran elemen cookie mana pun secara terpisah.
+- **Jangan** modifikasi elemen cookie mana pun.
+- **Jangan** atur ulang tata letak elemen cookie mana pun.
 - Gambar cookie harus terlihat tajam setiap saat. Apabila kamu menempatkan cookie osu! sebagai bagian dari material promosi yang kamu buat, mohon sertakan logo lain dengan kontras yang memadai.
-- **Jangan** menambahkan efek yang terlalu mewah atau berlebihan pada cookie.
-- **Jangan** menambahkan elemen tambahan di dalam cookie.
-- **Jangan** menambahkan garis luar (*outline*) pada cookie. Gunakan warna cookie yang berbeda.
+- **Jangan** tambahkan efek yang terlalu mewah atau berlebihan pada cookie.
+- **Jangan** tambahkan elemen tambahan di dalam cookie.
+- **Jangan** tambahkan garis luar (*outline*) pada cookie. Gunakan warna cookie yang berbeda.
 - **Jangan** pernah berpikir untuk mengubah elemen cookie mana pun. Ayolah. Logo resmi kami bahkan sama sekali tidak terlihat seperti itu. Alih-alih membuat cookie baru, kamu hanya menempatkan teks di dalam lingkaran.
 
 ### Batasan penggunaan cookie warna penuh
@@ -89,5 +89,5 @@ Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cooki
 - **Jangan** gunakan warna merah jambu yang berbeda pada cookie.
 - **Jangan** tambahkan gradasi apa pun pada cookie.
 - **Jangan** ubah warna cookie menjadi warna lain.
-- **Jangan** tambahkan unsur apa pun ke dalam cookie.
+- **Jangan** tambahkan apa pun ke dalam cookie.
 - **Jangan** ubah elemen cookie mana pun menjadi sesuatu yang lain.
