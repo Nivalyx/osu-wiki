@@ -66,7 +66,7 @@ Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cooki
 
 ![](img/restrictions-bad-single.png "Berbagai contoh hasil modifikasi logo osu! warna tunggal yang tidak diperkenankan")
 
-- **Jangan** mengubah rasio aspek cookie.
+- **Jangan** ubah rasio aspek cookie.
 - **Jangan** memutar cookie. Orientasi cookie harus sejajar dengan mata pembaca.
 - **Jangan** mengubah elemen cookie mana pun menjadi sesuatu yang lain.
 - **Jangan** menghapus elemen mana pun yang terdapat pada cookie.
@@ -87,7 +87,7 @@ Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cooki
 
 - **Jangan** gunakan cookie versi lama.
 - **Jangan** gunakan warna merah jambu yang berbeda pada cookie.
-- **Jangan** menambahkan gradasi apa pun pada cookie.
+- **Jangan** tambahkan gradasi apa pun pada cookie.
 - **Jangan** ubah warna cookie menjadi warna lain.
-- **Jangan** menambahkan apa pun ke dalam cookie.
+- **Jangan** tambahkan unsur apa pun ke dalam cookie.
 - **Jangan** ubah elemen cookie mana pun menjadi sesuatu yang lain.
