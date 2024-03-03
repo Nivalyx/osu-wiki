@@ -8,7 +8,7 @@ tags:
 
 The **osu!** Discord server, previously known as **osu!dev**, is osu!'s official [Discord](https://discord.com/) server for development-related purposes. The server functions as a hub for people to discuss and work on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the [osu! team](/wiki/People/osu!_team).
 
-Server Discord **osu!**, yang sebelumnya dikenal dengan nama **osu!dev**, merupakan server [Discord](https://discord.com/) resmi milik osu! yang ditujukan untuk berbagai keperluan terkait pengembangan. Server ini berfungsi sebagai sarana bagi orang-orang untuk saling berdiskusi dan mengembangkan berbagai proyek yang ada di osu!, baik itu proyek *open-source* maupun proyek komunitas, serta sebagai tempat untuk berkomunikasi dengan [tim osu!](/wiki/People/osu!_team).
+Server Discord **osu!**, yang sebelumnya dikenal dengan nama **osu!dev**, merupakan server [Discord](https://discord.com/) resmi milik osu! yang ditujukan untuk berbagai keperluan terkait pengembangan. Server ini berfungsi sebagai sarana bagi orang-orang untuk saling berdiskusi dan berkontribusi terhadap berbagai proyek *open-source* dan komunitas yang osu! miliki. Server ini adalah tempat utama untuk dapat berkontribusi terhadap pengembangan osu! serta untuk dapat berkomunikasi dengan [tim osu!](/wiki/People/osu!_team).
 
 Tautan undangan permanen untuk server ini adalah <https://discord.gg/ppy>.
 
