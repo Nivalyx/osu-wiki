@@ -4,7 +4,7 @@ no_native_review: true
 
 # Pedoman identitas merek
 
-Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian ketentuan yang mengatur tata cara penggunaan merek osu!. Selama pedoman ini dipatuhi, seluruh penggunaan merek osu! tidak memerlukan persetujuan hukum apa pun.
+Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian ketentuan yang mengatur tata cara penggunaan merek osu!. Selama pedoman ini dipatuhi, merek osu! dapat digunakan secara bebas tanpa persetujuan hukum apa pun.
 
 [Perangkat desain osu! dapat diunduh melalui tautan berikut](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing). Mohon diperhatikan bahwa perangkat desain ini mengandung aset lama yang sudah tidak lagi digunakan. Di samping itu, berhubung PDF yang disertakan pada perangkat juga telah usang, mohon gunakan halaman ini sebagai referensi utama.
 
@@ -81,7 +81,7 @@ Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cooki
 
 ### Batasan penggunaan cookie warna penuh
 
-Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan ramah untuk berbagai gaya desain. Mohon gunakan logo yang kami sediakan sebagaimana adanya tanpa modifikasi apa pun. Seluruh batasan yang berlaku pada versi warna tunggal juga berlaku pada versi warna penuh.
+Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan ramah untuk berbagai gaya desain. Mohon gunakan logo yang kami sediakan sebagaimana adanya tanpa modifikasi apa pun. Seluruh batasan yang berlaku pada cookie warna tunggal juga berlaku pada cookie warna penuh.
 
 ![](img/restrictions-bad-full.png "Berbagai contoh hasil modifikasi logo osu! warna penuh yang tidak diperkenankan")
 
