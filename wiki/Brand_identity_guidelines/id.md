@@ -75,7 +75,7 @@ Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cooki
 - **Jangan** atur ulang tata letak elemen cookie mana pun.
 - Gambar cookie harus terlihat tajam setiap saat. Apabila kamu menempatkan cookie osu! sebagai bagian dari material promosi yang kamu buat, mohon sertakan logo lain dengan kontras yang memadai.
 - **Jangan** tambahkan efek yang terlalu mewah atau berlebihan pada cookie.
-- **Jangan** tambahkan elemen tambahan di dalam cookie.
+- **Jangan** tambahkan elemen ekstra pada cookie.
 - **Jangan** tambahkan garis luar (*outline*) pada cookie. Gunakan warna cookie yang berbeda.
 - **Jangan** pernah berpikir untuk mengubah elemen cookie mana pun. Ayolah. Logo resmi kami bahkan sama sekali tidak terlihat seperti itu. Alih-alih membuat cookie baru, kamu hanya menempatkan teks di dalam lingkaran.
 
