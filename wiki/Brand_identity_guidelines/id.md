@@ -81,7 +81,7 @@ Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cooki
 
 ### Batasan penggunaan cookie warna penuh
 
-Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan ramah untuk berbagai gaya desain. Mohon gunakan logo yang kami sediakan sebagaimana adanya tanpa modifikasi apa pun. Seluruh batasan yang berlaku pada cookie warna tunggal juga berlaku pada cookie warna penuh.
+Berhubung osu! merupakan permainan yang didorong oleh komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan ramah untuk berbagai gaya desain. Mohon gunakan logo yang kami sediakan sebagaimana adanya tanpa modifikasi apa pun. Seluruh batasan yang berlaku pada cookie warna tunggal juga berlaku bagi cookie warna penuh.
 
 ![](img/restrictions-bad-full.png "Berbagai contoh hasil modifikasi logo osu! warna penuh yang tidak diperkenankan")
 
