@@ -8,7 +8,7 @@ tags:
 
 ![Contoh tampilan lencana kelompok pengguna](img/user-group-badge.png "Lencana kelompok pengguna pada halaman profil pengguna")
 
-Berikut merupakan daftar **kelompok pengguna**, yang sebagian besarnya tersusun atas para anggota komunitas yang membantu untuk memelihara osu!. Pada umumnya, kelompok pengguna ini dapat dikenali dari warna [forum](/wiki/Community/Forum), warna [*in-game chat*](/wiki/Client/Interface/Chat_console), [gelar pengguna](/wiki/Community/User_title), dan/atau lencana kelompok pengguna mereka.
+Berikut merupakan daftar **kelompok pengguna** yang sebagian besarnya tersusun atas para anggota komunitas yang membantu untuk memelihara osu!. Pada umumnya, kelompok pengguna ini dapat dikenali dari warna [forum](/wiki/Community/Forum), warna [*in-game chat*](/wiki/Client/Interface/Chat_console), [gelar pengguna](/wiki/Community/User_title), dan/atau lencana kelompok pengguna mereka.
 
 Clicking the badges will lead to the respective group listings, while the names link to the wiki articles.
 
@@ -21,7 +21,7 @@ Mengeklik lencana di bawah ini akan membawamu ke halaman daftar anggota masing-m
 | 11 | [![DEV](/wiki/shared/group/DEV.png?20231028)](https://osu.ppy.sh/groups/11) | [Developers](/wiki/People/Developers) | Menjadikan osu! istimewa dengan menambahkan berbagai fitur baru dan menumpas berbagai *bug* |
 | 16 | [![ALM](/wiki/shared/group/ALM.png)](https://osu.ppy.sh/groups/16) | [osu! Alumni](/wiki/People/osu!_Alumni) | Mereka yang dikenal akan kontribusinya dan telah pensiun |
 | 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Technical Support Team](/wiki/People/Technical_Support_Team) | Bantuan dan pertolongan |
-| 26 |  | Tournament Staff[^private] | Users with extended [tournament management commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) |
+| 26 |  | Tournament Staff[^private] | Para pengguna dengan akses [perintah manajemen turnamen](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) lanjutan |
 | 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Users going above and beyond the call to ensure beatmaps get qualified |
 | 29 | ![BOT](/wiki/shared/group/BOT.png) | [Chat Bots](/wiki/Bot_account)[^private] | Special accounts run by automated services instead of real people |
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Recognising the beatmaps that the community loves most |
