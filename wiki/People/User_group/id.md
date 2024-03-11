@@ -22,7 +22,7 @@ Mengeklik lencana di bawah ini akan membawamu ke halaman daftar anggota masing-m
 | 16 | [![ALM](/wiki/shared/group/ALM.png)](https://osu.ppy.sh/groups/16) | [osu! Alumni](/wiki/People/osu!_Alumni) | Mereka yang dikenal akan kontribusinya pada masa baktinya masing-masing |
 | 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Technical Support Team](/wiki/People/Technical_Support_Team) | Bantuan dan pertolongan |
 | 26 |  | Tournament Staff[^private] | Para pengguna dengan akses [perintah manajemen turnamen](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) tingkat lanjut |
-| 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Para pengguna Users going above and beyond the call to ensure beatmaps get qualified |
+| 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Para pengguna yang memastikan beatmap memasuki kategori Qualified |
 | 29 | ![BOT](/wiki/shared/group/BOT.png) | [Chat Bots](/wiki/Bot_account)[^private] | Akun khusus yang dijalankan oleh layanan otomatis alih-alih manusia |
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Memberikan apresiasi terhadap berbagai beatmap yang paling dicintai oleh komunitas |
 | 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Beatmap Nominators (Probationary)](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) | Probationary BN that await a positive evaluation to confirm their presence in the team as a full member. |
