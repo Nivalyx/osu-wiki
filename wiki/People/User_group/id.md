@@ -33,4 +33,4 @@ Clicking the badges will lead to the respective group listings, while the names 
 
 ## Notes
 
-[^private]: This group's user listing is not public.
+[^private]: Daftar pengguna grup ini tidak bersifat publik.
