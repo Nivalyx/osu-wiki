@@ -21,9 +21,9 @@ Mengeklik lencana di bawah ini akan membawamu ke halaman daftar anggota masing-m
 | 11 | [![DEV](/wiki/shared/group/DEV.png?20231028)](https://osu.ppy.sh/groups/11) | [Developers](/wiki/People/Developers) | Menjadikan osu! istimewa dengan menambahkan berbagai fitur baru dan menumpas berbagai *bug* |
 | 16 | [![ALM](/wiki/shared/group/ALM.png)](https://osu.ppy.sh/groups/16) | [osu! Alumni](/wiki/People/osu!_Alumni) | Mereka yang dikenal akan kontribusinya dan telah pensiun |
 | 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Technical Support Team](/wiki/People/Technical_Support_Team) | Bantuan dan pertolongan |
-| 26 |  | Tournament Staff[^private] | Para pengguna dengan akses [perintah manajemen turnamen](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) lanjutan |
+| 26 |  | Tournament Staff[^private] | Para pengguna dengan akses [perintah manajemen turnamen](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) tingkat lanjut |
 | 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Users going above and beyond the call to ensure beatmaps get qualified |
-| 29 | ![BOT](/wiki/shared/group/BOT.png) | [Chat Bots](/wiki/Bot_account)[^private] | Special accounts run by automated services instead of real people |
+| 29 | ![BOT](/wiki/shared/group/BOT.png) | [Chat Bots](/wiki/Bot_account)[^private] | Akun khusus yang dijalankan oleh layanan otomatis alih-alih manusia |
 | 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Recognising the beatmaps that the community loves most |
 | 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Beatmap Nominators (Probationary)](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) | Probationary BN that await a positive evaluation to confirm their presence in the team as a full member. |
 | 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy | Dikhususkan untuk [peppy](/wiki/People/peppy), sang pencipta osu! |
