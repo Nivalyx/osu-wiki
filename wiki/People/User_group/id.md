@@ -12,7 +12,7 @@ Berikut merupakan daftar **kelompok pengguna** yang sebagian besarnya tersusun a
 
 Clicking the badges will lead to the respective group listings, while the names link to the wiki articles.
 
-Mengeklik lencana di bawah ini akan membawamu ke halaman daftar anggota masing-masing grup, sedangkan n
+Mengeklik lencana akan membawamu ke halaman daftar anggota masing-masing grup, sedangkan n
 
 | ID | Lencana | Nama | Deskripsi |
 | :-: | :-: | :-- | :-- |
