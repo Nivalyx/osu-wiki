@@ -18,7 +18,7 @@ Mengeklik lencana akan membawamu ke halaman daftar anggota masing-masing grup, s
 | :-: | :-: | :-- | :-- |
 | 4 | [![GMT](/wiki/shared/group/GMT.png)](https://osu.ppy.sh/groups/4) | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Mengawasi forum dan *in-game chat* |
 | 7 | [![NAT](/wiki/shared/group/NAT.png?20231028)](https://osu.ppy.sh/groups/7) | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) | Mengelola Beatmap Nominator |
-| 11 | [![DEV](/wiki/shared/group/DEV.png?20231028)](https://osu.ppy.sh/groups/11) | [Developers](/wiki/People/Developers) | Membuat osu! menjadi luar biasa dengan menambahkan berbagai fitur baru dan menumpas berbagai *bug* |
+| 11 | [![DEV](/wiki/shared/group/DEV.png?20231028)](https://osu.ppy.sh/groups/11) | [Developers](/wiki/People/Developers) | Menjadikan osu! luar biasa dengan menambahkan berbagai fitur baru dan menumpas berbagai *bug* |
 | 16 | [![ALM](/wiki/shared/group/ALM.png)](https://osu.ppy.sh/groups/16) | [osu! Alumni](/wiki/People/osu!_Alumni) | Mereka yang dikenal akan kontribusinya pada masa baktinya masing-masing |
 | 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Technical Support Team](/wiki/People/Technical_Support_Team) | Bantuan dan pertolongan |
 | 26 |  | Tournament Staff[^private] | Para pengguna dengan akses [perintah manajemen turnamen](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) tingkat lanjut |
