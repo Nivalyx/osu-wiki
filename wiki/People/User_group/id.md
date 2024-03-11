@@ -14,6 +14,8 @@ Berikut merupakan daftar **kelompok pengguna** yang ada di osu!, yang pada umumn
 
 Clicking the badges will lead to the respective group listings, while the names link to the wiki articles.
 
+Mengeklik lencana di bawah ini akan membawamu ke halaman daftar anggota masing-masing grup, sedangkan n
+
 | ID | Lencana | Nama | Deskripsi |
 | :-: | :-: | :-- | :-- |
 | 4 | [![GMT](/wiki/shared/group/GMT.png)](https://osu.ppy.sh/groups/4) | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Mengawasi forum dan *in-game chat* |
