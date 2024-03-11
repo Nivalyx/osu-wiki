@@ -28,7 +28,7 @@ Mengeklik lencana di bawah ini akan membawamu ke halaman daftar anggota masing-m
 | 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Beatmap Nominators (Probationary)](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) | Probationary BN that await a positive evaluation to confirm their presence in the team as a full member. |
 | 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy | Dikhususkan untuk [peppy](/wiki/People/peppy), sang pencipta osu! |
 | 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Jajaran musisi yang telah bekerja sama dengan osu! |
-| 47 |  | Announce[^private] | Para pengguna yang memiliki izin untuk mengirimkan [pengumuman melalui *in-game chat*](/wiki/Announcement_messages) |
+| 47 |  | Announce[^private] | Para pengguna yang memiliki izin untuk mengirimkan [pesan pengumuman melalui *chat*](/wiki/Announcement_messages) |
 | 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) | Responsible for selecting high-quality maps for the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 
 ## Notes
