@@ -29,7 +29,7 @@ Mengeklik lencana di bawah ini akan membawamu ke halaman daftar anggota masing-m
 | 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy | Dikhususkan untuk [peppy](/wiki/People/peppy), sang pencipta osu! |
 | 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Jajaran musisi yang telah bekerja sama dengan osu! |
 | 47 |  | Announce[^private] | Para pengguna yang memiliki izin untuk mengirimkan [pesan pengumuman melalui *chat*](/wiki/Announcement_messages) |
-| 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) | Bertanggung jawab memilih berbagai beatmap berkualitas tinggi untuk [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| 48 | [![BSC](/wiki/shared/group/BSC.png)](https://osu.ppy.sh/groups/48) | [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) | Bertanggung jawab memilih berbagai beatmap berkualitas untuk diikutsertakan pada [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
 
 ## Notes
 
