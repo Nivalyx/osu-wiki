@@ -10,7 +10,7 @@ tags:
 
 Listed below are **user groups**, most of which are made up of osu! community members that help maintain osu!. Most of these user groups can be recognised by their [forum](/wiki/Community/Forum) colours, [in-game chat](/wiki/Client/Interface/Chat_console) colours, [user titles](/wiki/Community/User_title), and/or user group badges.
 
-Berikut merupakan daftar **kelompok pengguna**. Sebagian besar kelompok pengguna ini dapat dikenali dari warna [forum](/wiki/Community/Forum), warna [*in-game chat*](/wiki/Client/Interface/Chat_console), [gelar pengguna](/wiki/Community/User_title), dan/atau lencana kelompok pengguna mereka.
+Berikut merupakan daftar **kelompok pengguna** yang ada di osu!, yang pada umumnya tersusun atas para anggota komunitas yang membantu untuk memelihara osu!. Sebagian besar kelompok pengguna ini dapat dikenali dari warna [forum](/wiki/Community/Forum), warna [*in-game chat*](/wiki/Client/Interface/Chat_console), [gelar pengguna](/wiki/Community/User_title), dan/atau lencana kelompok pengguna mereka.
 
 Clicking the badges will lead to the respective group listings, while the names link to the wiki articles.
 
