@@ -17,7 +17,7 @@ Berikut merupakan berbagai rekaman sejarah osu! yang tersedia pada osu! wiki.
 | [2013](2013) | Perombakan ulang tampilan antarmuka, skin dengan resolusi HD, dukungan layar lebar yang ditingkatkan, editor osu!mania, fitur koleksi, pengenalan moddingV2, Disqus, osu!api, *overlay* akurasi, Comic Fiesta 2013, unduhan tanpa batas, dan osu! versi cuttingedge (khusus osu!supporter) |
 | [2014](2014) | Kecepatan gulir not osu!mania yang mengikuti BPM (*BPM scrolling*), rangkaian intro/outro dalam permainan, osu! versi cuttingedge (untuk seluruh pengguna) |
 | [2015](2015) | osu!web yang dirancang ulang, osu!weekly, dan osu!coin |
-| [2016](2016) | scorev2, pengumuman akan hadirnya osu! versi "lazer" baru yang dirilis secara *open-source* (yang sebelumnya dikenal dengan nama "osu!lazer"), dan perombakan ulang osu! wiki |
+| [2016](2016) | scorev2, pengumuman akan hadirnya osu! versi "lazer" baru yang tersedia secara *open-source* (yang sebelumnya dikenal dengan nama "osu!lazer"), dan perombakan ulang osu! wiki |
 | [2017](2017) | Rilisan pertama osu! versi lazer dan integrasi Discord pada klien versi stable |
 | [2018](2018) | osu!next, pemberhentian masa bakti situs web lama, tampilan waktu bermain secara keseluruhan |
 | 2019–2021 | *Tidak terdokumentasikan* |
