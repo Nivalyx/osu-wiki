@@ -16,7 +16,7 @@ Brbagai rekaman sejarah osu! yang keseluruhannya tersedia pada osu! wiki.
 | 2010 | *Tidak terdokumentasikan* |
 | [2011](2011) | osu! wiki |
 | [2012](2012) | Hari jadi osu! yang ke-5, osu!mania, dukungan layar lebar, dan menu pengaturan visual |
-| [2013](2013) | UI overhaul, HD skins, improved widescreen support, osu!mania editor, in-game collections, introduction of moddingV2, Disqus, osu!api, accuracy overlays, Comic Fiesta 2013, unrestricted downloads, and osu!cuttingedge (osu!supporter-only) |
+| [2013](2013) | Perombakan ulang tampilan antarmuka, skin dengan resolusi HD, dukungan layar lebar yang ditingkatkan, editor osu!mania, fitur koleksi, pengenalan moddingV2, Disqus, osu!api, *overlay* akurasi, Comic Fiesta 2013, unduhan tanpa batas, dan osu!cuttingedge (khusus osu!supporter) |
 | [2014](2014) | osu!mania BPM scrolling, in-game intro/outro sequences, osu!cuttingedge (for everyone) |
 | [2015](2015) | osu!web redesign, osu!weekly, and osu!coins |
 | [2016](2016) | scorev2, announcement of a new open-source "lazer" version of osu! (previously known as "osu!lazer"), and an osu! wiki overhaul |
