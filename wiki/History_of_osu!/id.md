@@ -6,7 +6,7 @@ outdated: true
 
 Records of osu!'s history, all in the osu! wiki.
 
-Berbagai rekaman sejarah osu! yang tersedia pada osu! wiki.
+Berikut merupakan berbagai rekaman sejarah osu! yang tersedia pada osu! wiki.
 
 | Year | Description |
 | :-: | :-- |
