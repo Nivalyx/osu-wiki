@@ -10,7 +10,7 @@ Brbagai rekaman sejarah osu! yang keseluruhannya tersedia pada osu! wiki.
 
 | Year | Description |
 | :-: | :-- |
-| [2007](2007) | Pembuatan awal permainan |
+| [2007](2007) | Versi rilis awal permainan |
 | [2008](2008) | osu!taiko, osu!catch, more mods, and major improvements |
 | [2009](2009) | osu! iPhone |
 | 2010 | *Tidak terdokumentasikan* |
