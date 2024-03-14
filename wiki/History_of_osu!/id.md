@@ -11,7 +11,7 @@ Brbagai rekaman sejarah osu! yang keseluruhannya tersedia pada osu! wiki.
 | Year | Description |
 | :-: | :-- |
 | [2007](2007) | Versi rilis awal permainan |
-| [2008](2008) | osu!taiko, osu!catch, berbagai mod baru, dan rangkaian perbaikan berskala besar |
+| [2008](2008) | osu!taiko, osu!catch, berbagai mod baru, dan rangkaian penyempurnaan berskala besar |
 | [2009](2009) | osu! iPhone |
 | 2010 | *Tidak terdokumentasikan* |
 | [2011](2011) | osu! wiki |
@@ -20,7 +20,7 @@ Brbagai rekaman sejarah osu! yang keseluruhannya tersedia pada osu! wiki.
 | [2014](2014) | Kecepatan gulir not osu!mania yang mengikuti BPM (*BPM scrolling*), rangkaian intro/outro dalam permainan, osu! versi cuttingedge (untuk seluruh pengguna) |
 | [2015](2015) | osu!web yang dirancang ulang, osu!weekly, dan osu!coin |
 | [2016](2016) | scorev2, pengumuman akan hadirnya osu! versi "lazer" baru yang dirilis secara *open-source* (yang sebelumnya dikenal dengan nama "osu!lazer"), dan perombakan ulang osu! wiki |
-| [2017](2017) | rilisan pertama osu! versi lazer dan integrasi Discord pada klien versi stable |
+| [2017](2017) | Rilisan pertama osu! versi lazer dan integrasi Discord pada klien versi stable |
 | [2018](2018) | osu!next, pemberhentian masa bakti situs web lama, tampilan waktu bermain secara keseluruhan |
 | 2019–2021 | *Tidak terdokumentasikan* |
 | [2022](2022) | Hari jadi osu! yang ke-15, serial berita osu!monthly baru |
