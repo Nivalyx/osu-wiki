@@ -6,18 +6,16 @@ outdated: true
 
 Records of osu!'s history, all in the osu! wiki.
 
-Berikut merupakan berbagai rekaman sejarah osu!
-
-Catatan sejarah osu!, dapat diakses semua di osu! wiki.
+Brbagai rekaman sejarah osu! yang keseluruhannya tersedia pada osu! wiki.
 
 | Year | Description |
 | :-: | :-- |
-| [2007](2007) | Initial game build |
+| [2007](2007) | Rilis awal permainan |
 | [2008](2008) | osu!taiko, osu!catch, more mods, and major improvements |
 | [2009](2009) | osu! iPhone |
-| 2010 | *Undocumented* |
+| 2010 | *Tidak terdokumentasikan* |
 | [2011](2011) | osu! wiki |
-| [2012](2012) | Five years of osu!, osu!mania, widescreen support, and visual settings |
+| [2012](2012) | Hari jadi osu! yang ke-5, osu!mania, dukungan layar lebar, dan menu pengaturan visual |
 | [2013](2013) | UI overhaul, HD skins, improved widescreen support, osu!mania editor, in-game collections, introduction of moddingV2, Disqus, osu!api, accuracy overlays, Comic Fiesta 2013, unrestricted downloads, and osu!cuttingedge (osu!supporter-only) |
 | [2014](2014) | osu!mania BPM scrolling, in-game intro/outro sequences, osu!cuttingedge (for everyone) |
 | [2015](2015) | osu!web redesign, osu!weekly, and osu!coins |
