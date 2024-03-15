@@ -8,7 +8,7 @@
 
 Tim ini **hanya** dapat dihubungi dengan mengirimkan email pada alamat [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), atau [privacy@ppy.sh](mailto:privacy@ppy.sh). Identitas para anggota tim ini sengaja dirahasiakan untuk melindungi mereka dari perhatian yang tidak diinginkan.
 
-Pada umumnya, tim dukungan akun akan memerlukan waktu beberapa hari untuk memproses email yang masuk. Apabila tidak ada tanggapan dalam waktu seminggu, ada baiknya untuk mengirimkan ulang pesan tersebut.
+Pada umumnya, tim dukungan akun akan memerlukan waktu beberapa hari untuk memproses email yang masuk. Apabila tidak ada tanggapan dalam waktu seminggu, ada baiknya kamu mengirimkan ulang pesan tersebut.
 
 ## Peran dan tugas
 
@@ -41,7 +41,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Permintaan data](/wiki/Legal/Privacy#pengelola-data) dan kekhawatiran seputar privasi.
+- [Permintaan data](/wiki/Legal/Privacy#pengelola-data) dan pertanyaan seputar privasi.
 - [Permintaan penghapusan akun](/wiki/Legal/Privacy#hak-dan-kendali-anda) secara **permanen**.
 
 ### [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
