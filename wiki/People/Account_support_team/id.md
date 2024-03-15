@@ -28,6 +28,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 - [Kehilangan akses ke email](/wiki/Help_centre/Account#sign-in) yang terhubung dengan akun osu! kamu, atau saat akun kamu dicuri.
 - [Mengembalikan nama pengguna menjadi yang sebelumnya dan sedikit koreksi ejaan pada nama pengguna](/wiki/Help_centre/Account#name-changes).
 - [Pendaftaran akun bot](/wiki/Bot_account).
+- Permintaan untuk mengakses fitur [pesan pengumuman](/wiki/Announcement_messages).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
