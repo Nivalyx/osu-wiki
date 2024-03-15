@@ -19,7 +19,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Banding terhadap berbagai pembatasan yang diberlakukan pada akunmu](/wiki/Help_centre/Account_restrictions), yang meliputi:
+- [Pengajuan banding terhadap berbagai pembatasan yang diberlakukan pada akunmu](/wiki/Help_centre/Account_restrictions), yang meliputi:
   - *silence*;
   - penghapusan konten profil;
   - penghapusan beatmap;
