@@ -8,7 +8,7 @@
 
 Tim ini **hanya** dapat dihubungi dengan mengirimkan email pada alamat [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), atau [privacy@ppy.sh](mailto:privacy@ppy.sh). Identitas para anggota tim ini sengaja dirahasiakan untuk melindungi mereka dari perhatian yang tidak diinginkan.
 
-Pada umumnya, tim dukungan akun akan memerlukan waktu beberapa hari untuk memproses email yang masuk. Apabila emailmu tidak dibalas setelah satu minggu, ada baiknya kamu mengirimkan email baru yang meminta ditindaklanjuti.
+Pada umumnya, tim dukungan akun akan memerlukan waktu beberapa hari untuk memproses email yang masuk. Apabila emailmu belum dibalas setelah satu minggu, ada baiknya kamu mengirimkan email baru yang meminta ditindaklanjuti.
 
 ## Peran dan tugas
 
@@ -34,10 +34,10 @@ Kamu disarankan untuk menghubungi tim ini apabila terdapat masalah seputar akun 
 
 *Catatan: Untuk melaporkan perilaku buruk yang sudah melebihi batas dan tindak pelecehan dari pengguna mana pun (termasuk moderator), kunjungi halaman [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse).*
 
-- Kekhawatiran terhadap perilaku buruk dari seorang moderator.
-- Kekhawatiran terhadap seorang moderator yang melanggar [Kode Etik Kontributor](/wiki/Rules/Contributor_code_of_conduct).
+- Kekhawatiran terhadap perilaku buruk dari moderator.
+- Kekhawatiran terhadap moderator yang melanggar [Kode Etik Kontributor](/wiki/Rules/Contributor_code_of_conduct).
 - [Masalah pembayaran](/wiki/Help_centre/Account#supporter) terhadap pesanan dari [osu!store](https://osu.ppy.sh/store/listing).
-- Masalah teknis yang tidak dapat atau belum diselesaikan di [forum Help](https://osu.ppy.sh/community/forums/5), termasuk [masalah konektivitas](/wiki/Help_centre/Client#online-features).
+- Masalah teknis yang tidak dapat atau belum diselesaikan di [forum Help](https://osu.ppy.sh/community/forums/5), seperti [masalah konektivitas](/wiki/Help_centre/Client#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
