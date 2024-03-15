@@ -24,7 +24,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
   - penghapusan konten profil;
   - penghapusan beatmap;
   - penghapusan postingan dan komentar forum.
-- Perilaku buruk yang [ingin kamu akui](/wiki/Reporting_bad_behaviour/Handling_foul_play#apa-yang-dapat-saya-lakukan-apabila-saya-telah-melanggar-peraturan?).
+- Pengakuan seputar [perilaku buruk yang telah kamu lakukan](/wiki/Reporting_bad_behaviour/Handling_foul_play#apa-yang-dapat-saya-lakukan-apabila-saya-telah-melanggar-peraturan?).
 - [Kehilangan akses ke email](/wiki/Help_centre/Account#sign-in) yang terhubung dengan akun osu! kamu, atau saat akun kamu dicuri.
 - [Pengembalian dan pengoreksian ejaan nama pengguna](/wiki/Help_centre/Account#name-changes).
 - [Pendaftaran akun bot](/wiki/Bot_account).
