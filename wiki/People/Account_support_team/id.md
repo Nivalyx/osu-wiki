@@ -6,7 +6,7 @@
 
 ## Kontak
 
-Tim ini **hanya** dapat dihubungi dengan mengirimkan email pada alamat [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), atau [privacy@ppy.sh](mailto:privacy@ppy.sh). Identitas para anggota tim ini sengaja dirahasiakan untuk melindungi mereka dari hal-hal yang tidak diinginkan.
+Tim ini **hanya** dapat dihubungi dengan mengirimkan email pada alamat [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), atau [privacy@ppy.sh](mailto:privacy@ppy.sh). Identitas para anggota tim ini sengaja dirahasiakan untuk melindungi mereka dari perhatian yang tidak diinginkan.
 
 Pada umumnya dibutuhkan waktu beberapa hari bagi Support Team untuk mendapatkan email. Jika tidak ada tanggapan dalam waktu seminggu, ada baiknya untuk mengirimkan ulang pesan tersebut.
 
