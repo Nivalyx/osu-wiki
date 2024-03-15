@@ -25,7 +25,7 @@ Kamu disarankan untuk menghubungi tim ini apabila terdapat masalah seputar akun 
   - penghapusan beatmap;
   - penghapusan postingan dan komentar forum.
 - Pengakuan seputar [perilaku buruk yang telah kamu lakukan](/wiki/Reporting_bad_behaviour/Handling_foul_play#apa-yang-dapat-saya-lakukan-apabila-saya-telah-melanggar-peraturan?).
-- [Kehilangan akses ke email](/wiki/Help_centre/Account#sign-in) yang terhubung dengan akun osu! kamu, atau saat akun kamu dicuri.
+- Pelaporan [hilangnya akses email](/wiki/Help_centre/Account#sign-in) yang terhubung dengan akun osu! milikmu atau saat akun kamu dicuri.
 - [Pengembalian dan perbaikan ejaan nama pengguna](/wiki/Help_centre/Account#name-changes).
 - [Pendaftaran akun bot](/wiki/Bot_account).
 - Permintaan untuk mengakses fitur [pesan pengumuman](/wiki/Announcement_messages).
