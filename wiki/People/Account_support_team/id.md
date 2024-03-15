@@ -15,7 +15,7 @@ Pada umumnya, tim dukungan akun akan memerlukan waktu beberapa hari untuk mempro
 *Halaman utama: [Pusat Bantuan](/wiki/Help_centre)*\
 *Lihat juga: [Restriction](/wiki/Help_centre/Account_restrictions)*
 
-Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang berada di luar kendali kamu. Perlu diingat untuk menjelaskan sedetail mungkin tentang masalah kamu dan kirim email tersebut melalui email yang terhubung dengan akun osu! kamu.
+Kamu disarankan untuk menghubungi tim ini apabila terdapat masalah seputar akun yang berada di luar kendalimu. Mohon sertakan
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
@@ -32,7 +32,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Catatan: Untuk melaporkan perilaku buruk yang sudah melebihi batas dan tindak pelecehan dari pengguna mana pun (termasuk dari para moderator), kunjungi halaman [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse).*
+*Catatan: Untuk melaporkan perilaku buruk yang sudah melebihi batas dan tindak pelecehan dari pengguna mana pun (termasuk moderator), kunjungi halaman [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Kekhawatiran terhadap perilaku buruk dari seorang moderator.
 - Kekhawatiran terhadap seorang moderator yang melanggar [Kode Etik Kontributor](/wiki/Rules/Contributor_code_of_conduct).
