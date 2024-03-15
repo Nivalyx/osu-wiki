@@ -2,11 +2,11 @@
 
 *Untuk tim yang memoderasi sub-forum tertentu, kunjungi: [Tim dukungan teknis](/wiki/People/Support_Team)*
 
-**Tim dukungan akun** (*account support team*) merupakansekelompok orang yang mengelola akun yang dimiliki oleh para pengguna osu!, serta menerima banding jika akun kamu terkena silence dan restrict.
+**Tim dukungan akun** (*account support team*) merupakan kelompok pengguna yang bertanggung jawab untuk mengelola akun yang dimiliki oleh para pengguna osu!, serta menerima banding jika akun kamu terkena silence dan restrict.
 
 ## Kontak
 
-Tim ini **hanya** dapat dihubungi melalui email pada alamat [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), atau [privacy@ppy.sh](mailto:privacy@ppy.sh). Adapun identitas para anggotanya sengaja dirahasiakan untuk melindungi mereka semua dari hal-hal yang tidak diinginkan.
+Tim ini **hanya** dapat dihubungi dengan mengirimkan email pada alamat [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), atau [privacy@ppy.sh](mailto:privacy@ppy.sh). Identitas para anggota tim ini sengaja dirahasiakan untuk melindungi mereka dari hal-hal yang tidak diinginkan.
 
 Biasanya dibutuhkan waktu beberapa hari bagi Support Team untuk mendapatkan email. Jika tidak ada tanggapan dalam waktu seminggu, ada baiknya untuk mengirimkan ulang pesan tersebut.
 
