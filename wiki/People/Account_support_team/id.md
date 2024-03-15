@@ -15,7 +15,7 @@ Pada umumnya, tim dukungan akun akan memerlukan waktu beberapa hari untuk mempro
 *Halaman utama: [Pusat Bantuan](/wiki/Help_centre)*\
 *Lihat juga: [Restriction](/wiki/Help_centre/Account_restrictions)*
 
-Kamu disarankan untuk menghubungi tim ini apabila terdapat masalah seputar akun yang berada di luar kendalimu. Mohon sertakan
+Kamu disarankan untuk menghubungi tim ini apabila terdapat masalah seputar akun yang berada di luar kendalimu. Mohon sertakan informasi yang selengkap-lengkapnya dalam emailmu, dan pastikan kamu mengirimkan email ini dari alamat email yang terhubung dengan akun osu! milikmu.
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
