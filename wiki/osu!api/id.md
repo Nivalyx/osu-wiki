@@ -12,4 +12,4 @@ Otentikasi untuk API yang baru mengikuti [protokol OAuth 2](https://oauth.net/2/
 
 ## Lihat juga
 
-- Kiriman asli dari forum: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) oleh [peppy](https://osu.ppy.sh/users/2)
+- Postingan forum asli: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) oleh [peppy](https://osu.ppy.sh/users/2)
