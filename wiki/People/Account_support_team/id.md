@@ -15,7 +15,7 @@ Pada umumnya, tim dukungan akun akan memerlukan waktu beberapa hari untuk mempro
 *Halaman utama: [Pusat Bantuan](/wiki/Help_centre)*\
 *Lihat juga: [Restriction](/wiki/Help_centre/Account_restrictions)*
 
-Kamu disarankan untuk menghubungi tim ini apabila terdapat masalah seputar akun yang berada di luar kendalimu. Mohon sertakan informasi yang selengkap-lengkapnya seputar masalah yang kamu alami dalam laporanmu, dan pastikan kamu mengirim laporan ini dari alamat email yang terhubung dengan akun osu! milikmu.
+Kamu disarankan untuk menghubungi tim ini apabila terdapat masalah seputar akun yang berada di luar kendalimu. Mohon sertakan informasi yang selengkap-lengkapnya seputar masalah yang kamu alami dalam laporanmu, dan pastikan kamu mengirimkan laporan ini dari alamat email yang terhubung dengan akun osu! milikmu.
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
@@ -34,7 +34,7 @@ Kamu disarankan untuk menghubungi tim ini apabila terdapat masalah seputar akun 
 
 *Catatan: Untuk melaporkan perilaku buruk yang sudah melebihi batas dan tindak pelecehan dari pengguna mana pun (termasuk moderator), kunjungi halaman [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse).*
 
-- Kekhawatiran terhadap perilaku buruk dari moderator.
+- Pelaporan seputar perilaku buruk dari moderator.
 - Kekhawatiran terhadap moderator yang melanggar [kode etik kontributor](/wiki/Rules/Contributor_code_of_conduct).
 - Permintaan dukungan seputar [masalah pembayaran](/wiki/Help_centre/Account#supporter) pada pesanan [osu!store](https://osu.ppy.sh/store/listing).
 - Permintaan dukungan seputar masalah teknis yang tidak dapat atau belum diselesaikan pada [forum Help](https://osu.ppy.sh/community/forums/5), seperti [masalah konektivitas](/wiki/Help_centre/Client#online-features).
