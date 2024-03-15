@@ -42,3 +42,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 
 - [Permintaan data](/wiki/Legal/Privacy#pengelola-data) dan masalah privasi.
 - [Permintaan penghapusan akun](/wiki/Legal/Privacy#hak-dan-kendali-anda) secara **permanen**.
+
+### [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
+
+- Permintaan [dukungan turnamen resmi](/wiki/Tournaments/Official_support) dan pertanyaan umum seputar turnamen melalui konsultasi dengan tim [Komite Turnamen](/wiki/People/Tournament_Committee).
