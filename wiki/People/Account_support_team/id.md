@@ -32,7 +32,7 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Catatan: Untuk melaporkan kasus yang sudah tidak dapat ditoleransi lagi dan pelecehan seksual yang ekstrim dari pengguna mana pun, termasuk dari moderator, silakan kunjungi artikel [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse).*
+*Catatan: Untuk melaporkan perilaku buruk yang sudah melebihi batas dan tindak pelecehan dari pengguna mana pun (termasuk para moderator), kunjungi [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Kekhawatiran terhadap perilaku buruk dari seorang moderator.
 - Kekhawatiran terhadap seorang moderator yang melanggar [Kode Etik Kontributor](/wiki/Rules/Contributor_code_of_conduct).
