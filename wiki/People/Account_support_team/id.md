@@ -2,7 +2,7 @@
 
 *Untuk tim yang memoderasi sub-forum tertentu, kunjungi: [Tim dukungan teknis](/wiki/People/Support_Team)*
 
-**Tim dukungan akun** (*account support team*) merupakan kelompok pengguna yang bertanggung jawab untuk mengelola akun pengguna serta menerima banding terhadap hukuman *silence* dan *restriction* yang diterima.
+**Tim dukungan akun** (*account support team*) merupakan kelompok pengguna yang bertanggung jawab untuk mengelola akun pengguna serta menerima banding terhadap hukuman *silence* dan *restriction* yang dijatuhkan.
 
 ## Kontak
 
