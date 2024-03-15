@@ -6,7 +6,7 @@ Kamu dapat menemukan dokumentasi API ini pada [halaman wiki osu-api](https://git
 
 ---
 
-Versi ke-2 dari osu!api saat ini sedang dikembangkan pada repositori [osu-web](https://github.com/ppy/osu-web), yang dirancang untuk dapat lebih tangguh dan fleksibel dibanding pendahulunya. Dokumentasi API versi baru ini (walaupun tidak dijamin terbaru) dapat ditemukan di [halaman referensi terkaitnya](https://docs.ppy.sh).
+Versi ke-2 dari osu!api saat ini sedang dikembangkan pada repositori [osu-web](https://github.com/ppy/osu-web), yang dirancang untuk dapat lebih tangguh dan fleksibel dibanding pendahulunya. Dokumentasi API versi baru ini (walaupun tidak selalu dijamin terkini) dapat ditemukan di [halaman referensi terkaitnya](https://docs.ppy.sh).
 
 Proses autentikasi untuk API versi baru berlangsung mengikuti [protokol OAuth 2](https://oauth.net/2/). Klien yang dibuat dapat dikelola melalui [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit).
 
