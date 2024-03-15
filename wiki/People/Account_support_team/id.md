@@ -19,11 +19,11 @@ Kamu harus menghubungi tim ini mengenai topik yang berhubungan dengan akun yang 
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Banding atas restriction yang diberlakukan pada akun kamu](/wiki/Help_centre/Account_restrictions), termasuk:
-  - silence;
+- [Banding terhadap berbagai pembatasan yang diberlakukan pada akunmu](/wiki/Help_centre/Account_restrictions), yang meliputi:
+  - *silence*;
   - penghapusan konten profil;
   - penghapusan beatmap;
-  - penghapusan postingan dan komentar di forum.
+  - penghapusan postingan dan komentar forum.
 - Perilaku buruk yang [ingin kamu akui](/wiki/Reporting_bad_behaviour/Handling_foul_play#apa-yang-dapat-saya-lakukan-apabila-saya-telah-melanggar-peraturan?).
 - [Kehilangan akses ke email](/wiki/Help_centre/Account#sign-in) yang terhubung dengan akun osu! kamu, atau saat akun kamu dicuri.
 - [Mengembalikan nama pengguna menjadi yang sebelumnya dan sedikit koreksi ejaan pada nama pengguna](/wiki/Help_centre/Account#name-changes).
