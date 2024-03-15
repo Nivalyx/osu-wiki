@@ -8,7 +8,7 @@
 
 Tim ini **hanya** dapat dihubungi dengan mengirimkan email pada alamat [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), atau [privacy@ppy.sh](mailto:privacy@ppy.sh). Identitas para anggota tim ini sengaja dirahasiakan untuk melindungi mereka dari perhatian yang tidak diinginkan.
 
-Pada umumnya, tim dukungan akun akan memerlukan waktu beberapa hari untuk memproses email yang masuk. Apabila tidak ada tanggapan dalam waktu seminggu, ada baiknya kamu mengirimkan ulang pesan tersebut.
+Pada umumnya, tim dukungan akun akan memerlukan waktu beberapa hari untuk memproses email yang masuk. Apabila kamu tidak menerima tanggapan dalam waktu satu minggu, ada baiknya kamu mengirimkan email baru
 
 ## Peran dan tugas
 
