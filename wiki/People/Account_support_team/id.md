@@ -1,13 +1,8 @@
----
-outdated_translation: true
-outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
----
+# Tim dukungan akun
 
-# Account support team
+*Untuk tim yang memoderasi sub-forum tertentu, kunjungi: [Tim dukungan teknis](/wiki/People/Support_Team)*
 
-*Untuk tim yang memoderasi sub-forum tertentu, kunjungi: [Support Team](/wiki/People/Support_Team)*
-
-**Account support team** adalah sekelompok orang yang mengelola akun yang dimiliki oleh para pengguna osu!, serta menerima banding jika akun kamu terkena silence dan restrict.
+**Tim dukungan akun** (*account support team*) merupakansekelompok orang yang mengelola akun yang dimiliki oleh para pengguna osu!, serta menerima banding jika akun kamu terkena silence dan restrict.
 
 ## Kontak
 
