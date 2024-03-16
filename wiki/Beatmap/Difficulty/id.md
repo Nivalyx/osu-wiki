@@ -59,11 +59,11 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
-## Star rating
+## Tingkat kesulitan dan star rating
 
-Mulai dari 27 Juli 2021, situs web osu! secara otomatis menetapkan warna pada sebuah tingkat kesulitan beatmap berdasarkan *star rating* yang merujuk kepada spektrum berikut:
+Per tanggal 27 Juli 2021, situs web osu! secara otomatis menetapkan warna pada sebuah tingkat kesulitan beatmap berdasarkan *star rating*-nya masing-masing berdasarkan spektrum berikut:
 
-![spektrum warna peringkat kesulitan osu!](/wiki/shared/star-rating/spectrum.png)
+![Spektrum warna peringkat kesulitan osu!](/wiki/shared/star-rating/spectrum.png)
 
 Dalam beberapa kasus, seperti [*AIMod*](/wiki/Client/Beatmap_editor/AiMod), tingkat kesulitan dikelompokkan dalam enam rentang level berdasarkan *star rating* sebagai berikut:
 
