@@ -61,7 +61,7 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 
 ## Tingkat kesulitan dan star rating
 
-Per tanggal 27 Juli 2021, situs web osu! secara otomatis menetapkan warna pada sebuah tingkat kesulitan beatmap berdasarkan *star rating*-nya masing-masing berdasarkan spektrum berikut:
+Per tanggal 27 Juli 2021, situs web osu! secara otomatis menetapkan warna tingkat kesulitan beatmap berdasarkan *star rating*-nya masing-masing sesuai dengan spektrum berikut:
 
 ![Spektrum warna peringkat kesulitan osu!](/wiki/shared/star-rating/spectrum.png)
 
