@@ -21,11 +21,11 @@ Dari perspektif pendengar, sebuah tingkat kesulitan dapat memperkuat lagu dengan
 
 [Komponen visual](/wiki/Beatmap) dari sebuah tingkat kesulitan berbeda dengan polanya, dan dapat memberikan pengalaman tambahan selama bermain. Komponen visual tersebut sebagian besar dapat dinonaktifkan melalui menu [*visual setting*](/wiki/Client/Interface/Visual_settings). Sementara itu, beberapa diantaranya seperti [*storyboard*](/wiki/Storyboard) atau [*custom skin*](/wiki/Skinning) dari sebuah beatmap secara keseluruhan, sebagian besar komponen visual tersebut dapat bervariasi pada masing-masing tingkat kesulitan (contohnya, bagian [kiai](/wiki/Gameplay/Kiai_time) dan [warna kombo](/wiki/Beatmapping/Combo_colour)).
 
-## Nama-nama tingkat kesulitan
+## Rentang tingkat kesulitan
 
 *Lihat juga: [Penamaan tingkat kesulitan](/wiki/Ranking_criteria/Difficulty_naming)*
 
-Berikut merupakan nama-nama tingkat kesulitan yang umum digunakan oleh beatmap. Definisi tiap-tiap tingkat kesulitan beserta panduan tata cara pemakaiannya dapat dilihat pada halaman [kriteria ranking](/wiki/Ranking_criteria) masing-masing mode permainan.
+Berikut merupakan berbagai rentang tingkat kesulitan yang umum digunakan oleh beatmap. Definisi tiap-tiap tingkat kesulitan beserta panduan tata cara pemakaiannya dapat dilihat pada halaman [kriteria ranking](/wiki/Ranking_criteria) masing-masing mode permainan.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
