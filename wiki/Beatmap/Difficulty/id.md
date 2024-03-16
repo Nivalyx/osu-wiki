@@ -19,7 +19,7 @@ Objek permainan yang terdapat pada suatu tingkat kesulitan akan membentuk berbag
 
 Dari segi audio, suatu tingkat kesulitan dapat memperkaya lagu yang ada melalui penggunaan satu atau lebih sampel audio ([*hitsound*](/wiki/Beatmapping/Hitsound)) yang akan memberikan umpan balik tambahan di dalam permainan.
 
-Meskipun demikian, tidak seperti pola yang terkandung, [komponen visual](/wiki/Beatmap) suatu tingkat kesulitan (seperti gambar dan video latar) hanya akan memberikan pengalaman tambahan ketika bermain dan sebagian besarnya dapat dinonaktifkan melalui menu [Visual Settings](/wiki/Client/Interface/Visual_settings). Sementara itu, beberapa diantaranya seperti [*storyboard*](/wiki/Storyboard) atau [*custom skin*](/wiki/Skinning) dari sebuah beatmap secara keseluruhan, sebagian besar komponen visual tersebut dapat bervariasi pada masing-masing tingkat kesulitan (contohnya, bagian [kiai](/wiki/Gameplay/Kiai_time) dan [warna kombo](/wiki/Beatmapping/Combo_colour)).
+Meskipun demikian, tidak seperti pola yang ada, [komponen visual](/wiki/Beatmap) suatu tingkat kesulitan (seperti gambar dan video latar) hanya akan memberikan pengalaman tambahan ketika bermain dan sebagian besarnya dapat dinonaktifkan melalui menu [Visual Settings](/wiki/Client/Interface/Visual_settings). Walaupun sebagian komponen ini, seperti [storyboard](/wiki/Storyboard) atau [skin](/wiki/Skinning), merupakan bagian dari beatmap itu sendiri secara keseluruhan, sebagian besar komponen visual tersebut dapat bervariasi pada masing-masing tingkat kesulitan (contohnya, bagian [kiai](/wiki/Gameplay/Kiai_time) dan [warna kombo](/wiki/Beatmapping/Combo_colour)).
 
 ## Klasifikasi tingkat kesulitan
 
