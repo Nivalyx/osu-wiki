@@ -74,4 +74,4 @@ Dalam kasus-kasus tertentu, seperti pada menu [*AIMod*](/wiki/Client/Beatmap_edi
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ atau lebih
 
-Mohon diingat bahwa walaupun dari sebagian besar beatmap sesuai dengan warna atau rentang level yang diberikan, tetapi juga terdapat beberapa yang menyimpang secara signifikan karena faktor-faktor tertentu. Inilah mengapa [*ranking criteria*](/wiki/Ranking_criteria) memberikan aturan dasar yang lebih sesuai untuk menentukan penamaan tingkat kesulitan beatmap dan pembagiannya tanpa harus terpaku dengan *star rating*-nya.
+Mohon diingat bahwa walaupun sebagian besar beatmap memiliki tingkat kesulitan yang sesuai dengan warna atau rentang level yang dimilikinya, terdapat juga beberapa beatmap yang tingkat kesulitannya jauh menyimpang karena faktor tertentu. Inilah mengapa [*ranking criteria*](/wiki/Ranking_criteria) memberikan aturan dasar yang lebih sesuai untuk menentukan penamaan tingkat kesulitan beatmap dan pembagiannya tanpa harus terpaku dengan *star rating*-nya.
