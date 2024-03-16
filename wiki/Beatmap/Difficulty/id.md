@@ -65,7 +65,7 @@ Per tanggal 27 Juli 2021, situs web osu! secara otomatis menetapkan warna tingka
 
 ![Spektrum warna tingkat kesulitan osu!](/wiki/shared/star-rating/spectrum.png)
 
-Dalam kasus-kasus tertentu seperti pada menu [*AIMod*](/wiki/Client/Beatmap_editor/AiMod), tingkat kesulitan dikelompokkan ke dalam enam rentang level berdasarkan *star rating* sebagai berikut:
+Dalam kasus-kasus tertentu, seperti pada menu [*AIMod*](/wiki/Client/Beatmap_editor/AiMod), tingkat kesulitan dikelompokkan ke dalam enam jenjang level berdasarkan *star rating* yang tertera sebagai berikut:
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
@@ -74,4 +74,4 @@ Dalam kasus-kasus tertentu seperti pada menu [*AIMod*](/wiki/Client/Beatmap_edit
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ atau lebih
 
-Perlu diperhatikan bahwa terdapat beberapa tingkat kesulitan dari sebagian besar beatmap sesuai dengan warna atau rentang level yang diberikan, tetapi juga terdapat beberapa yang menyimpang secara signifikan karena faktor-faktor tertentu. Inilah mengapa [*ranking criteria*](/wiki/Ranking_criteria) memberikan aturan dasar yang lebih sesuai untuk menentukan penamaan tingkat kesulitan beatmap dan pembagiannya tanpa harus terpaku dengan *star rating*-nya.
+Mohon diingat bahwa walaupun dari sebagian besar beatmap sesuai dengan warna atau rentang level yang diberikan, tetapi juga terdapat beberapa yang menyimpang secara signifikan karena faktor-faktor tertentu. Inilah mengapa [*ranking criteria*](/wiki/Ranking_criteria) memberikan aturan dasar yang lebih sesuai untuk menentukan penamaan tingkat kesulitan beatmap dan pembagiannya tanpa harus terpaku dengan *star rating*-nya.
