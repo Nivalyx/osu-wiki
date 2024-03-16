@@ -25,7 +25,7 @@ Dari perspektif pendengar, sebuah tingkat kesulitan dapat memperkuat lagu dengan
 
 *Lihat juga: [Penamaan tingkat kesulitan](/wiki/Ranking_criteria/Difficulty_naming)*
 
-Berikut merupakan berbagai rentang tingkat kesulitan yang umum digunakan untuk mengkategorikan suatu beatmap. Definisi dan persyaratan khusus untuk setiap tingkat kesulitan dapat dilihat pada halaman [kriteria ranking](/wiki/Ranking_criteria) mode permainannya masing-masing.
+Berikut merupakan berbagai rentang tingkat kesulitan yang umum digunakan untuk mengkategorikan suatu beatmap. Definisi dan persyaratan khusus untuk setiap rentang tingkat kesulitan dapat dilihat pada halaman [kriteria ranking](/wiki/Ranking_criteria) mode permainannya masing-masing.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -74,4 +74,4 @@ Dalam kasus-kasus tertentu, seperti pada menu [*AIMod*](/wiki/Client/Beatmap_edi
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ atau lebih
 
-Mohon diingat bahwa walaupun sebagian besar beatmap memiliki tingkat kesulitan yang sesuai dengan nama atau warna yang disandangnya, terdapat juga beberapa beatmap yang tingkat kesulitannya jauh menyimpang karena berbagai faktor tertentu. Inilah sebabnya mengapa [kriteria ranking](/wiki/Ranking_criteria) yang berlaku memiliki pedomannya tersendiri untuk menentukan tingkat kesulitan beatmap yang sesungguhnya terlepas dari *star rating* yang ada.
+Mohon diingat bahwa walaupun sebagian besar beatmap memiliki tingkat kesulitan yang sesuai dengan nama atau warna yang disandangnya, terdapat juga beberapa beatmap yang tingkat kesulitannya jauh menyimpang karena satu dan lain hal. Inilah sebabnya mengapa [kriteria ranking](/wiki/Ranking_criteria) yang berlaku memiliki pedomannya tersendiri untuk menentukan tingkat kesulitan beatmap yang sesungguhnya terlepas dari *star rating* yang ada.
