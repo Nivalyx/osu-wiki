@@ -5,11 +5,13 @@ tags:
   - SR
   - star rating
   - stars
+  - tingkat kesulitan
+  - nama tingkat kesulitan
 ---
 
 # Tingkat kesulitan
 
-*Berbeda konteks dengan [Beatmap](/wiki/Beatmap).*
+*Artikel ini mengusung konteks bahasan yang berbeda dengan [Beatmap](/wiki/Beatmap).*
 
 Sebuah **tingkat kesulitan beatmap** adalah sebuah level permainan yang tersimpan dalam bentuk teks di sebuah file dengan [ekstensi `.osu`](/wiki/Client/File_formats/osu_(file_format)). Masing-masing level berisikan [*hit object*](/wiki/Gameplay/Hit_object) berdasarkan [mode permainan](/wiki/Game_mode) terkait yang diatur sesuai dengan [waktu (*timing*)](/wiki/Client/Beatmap_editor/Timing) yang telah ditentukan. Masing-masing tingkat kesulitan memiliki aspek yang berbeda, yang secara langsung dapat memengaruhi pengalaman pemain. Nama dari sebuah tingkat kesulitan dan [*star rating*](/wiki/Beatmap/Star_rating) biasanya memberikan cukup informasi bagi pemain, apakah ini menantang atau tidak.
 
