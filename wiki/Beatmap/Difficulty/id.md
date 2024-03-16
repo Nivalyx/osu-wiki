@@ -61,11 +61,11 @@ Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu be
 
 ## Tingkat kesulitan dan star rating
 
-Per tanggal 27 Juli 2021, situs web osu! secara otomatis menetapkan warna tingkat kesulitan masing-masing beatmap berdasarkan *star rating*-nya sesuai dengan spektrum berikut:
+Per tanggal 27 Juli 2021, situs web osu! secara otomatis menetapkan warna tingkat kesulitan masing-masing beatmap sesuai dengan *star rating*-nya berdasarkan spektrum berikut:
 
-![Spektrum warna peringkat kesulitan osu!](/wiki/shared/star-rating/spectrum.png)
+![Spektrum warna tingkat kesulitan osu!](/wiki/shared/star-rating/spectrum.png)
 
-Dalam beberapa kasus, seperti [*AIMod*](/wiki/Client/Beatmap_editor/AiMod), tingkat kesulitan dikelompokkan dalam enam rentang level berdasarkan *star rating* sebagai berikut:
+Dalam kasus-kasus tertentu, seperti pada jendela [*AIMod*](/wiki/Client/Beatmap_editor/AiMod), tingkat kesulitan dikelompokkan dalam enam rentang level berdasarkan *star rating* sebagai berikut:
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
