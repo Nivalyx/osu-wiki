@@ -25,7 +25,7 @@ Dari perspektif pendengar, sebuah tingkat kesulitan dapat memperkuat lagu dengan
 
 *Lihat juga: [Penamaan tingkat kesulitan](/wiki/Ranking_criteria/Difficulty_naming)*
 
-Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu beatmap. Definisi tiap-tiap tingkat kesulitan beserta panduan tata cara pemakaiannya dapat dilihat pada laman [*ranking criteria*](/wiki/Ranking_criteria) masing-masing mode permainan.
+Berikut merupakan berbagai nama tingkat kesulitan yang umum dipergunakan oleh beatmap. Definisi tiap-tiap tingkat kesulitan beserta panduan tata cara pemakaiannya dapat dilihat pada halaman [kriteria ranking](/wiki/Ranking_criteria) masing-masing mode permainan.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
