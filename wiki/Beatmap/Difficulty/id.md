@@ -65,7 +65,7 @@ Per tanggal 27 Juli 2021, situs web osu! secara otomatis menetapkan warna tingka
 
 ![Spektrum warna tingkat kesulitan osu!](/wiki/shared/star-rating/spectrum.png)
 
-Dalam kasus-kasus tertentu, seperti pada menu [*AIMod*](/wiki/Client/Beatmap_editor/AiMod), tingkat kesulitan dikelompokkan ke dalam enam jenjang tingkatan berdasarkan *star rating* yang tertera sebagai berikut:
+Dalam kasus tertentu, seperti pada menu [*AIMod*](/wiki/Client/Beatmap_editor/AiMod), tingkat kesulitan dikelompokkan ke dalam enam jenjang tingkatan berdasarkan *star rating* yang tertera sebagai berikut:
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
