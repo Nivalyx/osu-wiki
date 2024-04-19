@@ -2,16 +2,16 @@
 
 *Artikel ini mengusung konteks bahasan yang berbeda dengan [Tim dukungan akun](/wiki/People/Account_support_team)*.
 
-**Support Team**, juga dikenal sebagai **Support Team Redux**, adalah anggota staf osu! yang berfokus pada moderasi forum atau pada sub-forum: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (tidak termasuk [Tournaments](https://osu.ppy.sh/community/forums/55) dan [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), dan [Help](https://osu.ppy.sh/community/forums/5).
+**Tim dukungan teknis** (*technical support team*, atau yang sebelumnya dikenal sebagai *Support Team* serta *Support Team Redux*) merupakan kelompok pengguna yang beranggotakan para staf osu! yang berfokus memoderasi rangkaian sub-forum berikut: [Development](https://osu.ppy.sh/community/forums/2), [Feature Requests](https://osu.ppy.sh/community/forums/4), dan [Help](https://osu.ppy.sh/community/forums/5).
 
 ## Peran dan tanggung jawab
 
 Tim dukungan teknis bertanggung jawab untuk:
 
 1. Menguji dan/atau mengonfirmasi laporan *bug* agar para pengembang dapat mengetahui dan memperbaiki *bug* yang bersangkutan.
-2. Mengorganisir topik pada forum [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dengan menyematkan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added*.
+2. Mengorganisir topik pada subforum [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dengan menyematkan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added*.
 
-Apabila terdapat pengguna yang memerlukan bantuan pada salah satu forum di atas, para anggota tim ini akan siap untuk membantu.
+Apabila terdapat pengguna yang memerlukan bantuan pada salah satu subforum di atas, para anggota tim ini akan siap untuk membantu.
 
 ## Anggota tim
 
