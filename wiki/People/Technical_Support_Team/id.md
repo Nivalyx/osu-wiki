@@ -15,7 +15,7 @@ Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, anggota dari ti
 
 ## Anggota Tim
 
-*Catatan: Kecuali diterangkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi dalam Bahasa Inggris di samping bahasa tambahan mereka.*
+*Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi dalam Bahasa Inggris di samping bahasa tambahan mereka.*
 
 Daftar anggota tim dukungan teknis selengkapnya juga dapat dilihat pada [halaman grup tim dukungan teknis](https://osu.ppy.sh/groups/22).
 
