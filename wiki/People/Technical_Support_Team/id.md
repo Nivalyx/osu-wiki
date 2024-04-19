@@ -15,9 +15,7 @@ Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, anggota dari ti
 
 ## Anggota Tim
 
-*Note: All Technical Support Team members speak English in addition to the language(s) listed below unless noted otherwise.*
-
-*Catatan: Seluruh angggota tim dukungan teknis kecuali diterakan lebih lanjut.*
+*Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi dalam Bahasa Inggris di samping bahasa tambahan mereka.*
 
 Daftar anggota tim dukungan teknis selengkapnya juga dapat dilihat pada [halaman grup tim dukungan teknis]](https://osu.ppy.sh/groups/22).
 
