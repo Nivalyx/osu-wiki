@@ -9,9 +9,9 @@
 Tim dukungan teknis bertanggung jawab untuk:
 
 1. Menguji dan/atau mengonfirmasi laporan *bug* agar para pengembang dapat mengetahui dan memperbaiki *bug* yang bersangkutan.
-2. Mengorganisir topik pada forum [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dengan menyematkan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added* pada topik yang bersangkutan.
+2. Mengorganisir topik pada forum [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dengan menyematkan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added*.
 
-Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, anggota dari tim ini bersedia untuk membantu.
+Apabila terdapat pengguna yang memerlukan bantuan pada salah satu sub-forum tersebut, para anggota tim ini akan siap turun tangan untuk membantu.
 
 ## Anggota tim
 
