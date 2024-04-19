@@ -2,7 +2,7 @@
 
 *Artikel ini mengusung konteks bahasan yang berbeda dengan [Tim dukungan akun](/wiki/People/Account_support_team)*.
 
-**Tim dukungan teknis** (*technical support team*, atau yang sebelumnya dikenal sebagai *Support Team* serta *Support Team Redux*) merupakan kumpulan staf osu! yang berfokus untuk memoderasi rangkaian sub-forum berikut: [Development](https://osu.ppy.sh/community/forums/2), [Feature Requests](https://osu.ppy.sh/community/forums/4), dan [Help](https://osu.ppy.sh/community/forums/5).
+**Tim dukungan teknis** (*technical support team*, atau yang sebelumnya dikenal sebagai *Support Team* serta *Support Team Redux*) merupakan kelompok pengguna yang beranggotakan para staf osu! yang berfokus untuk memoderasi rangkaian sub-forum berikut: [Development](https://osu.ppy.sh/community/forums/2), [Feature Requests](https://osu.ppy.sh/community/forums/4), dan [Help](https://osu.ppy.sh/community/forums/5).
 
 ## Peran dan tanggung jawab
 
