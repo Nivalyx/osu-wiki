@@ -1,9 +1,4 @@
----
-outdated_translation: true
-outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
----
-
-# Support Team
+# Tim dukungan teknis
 
 *Untuk tim yang mengelola akun, kunjungi: [Account support team](/wiki/People/Account_support_team)*
 
