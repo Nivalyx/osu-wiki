@@ -1,6 +1,6 @@
 # Tim dukungan teknis
 
-*Untuk tim yang mengelola akun, kunjungi: [Account support team](/wiki/People/Account_support_team)*
+*Artikel ini mengusung konteks bahasan yang berbeda dengan [Tim dukungan akun](/wiki/People/Account_support_team)*.
 
 **Support Team**, juga dikenal sebagai **Support Team Redux**, adalah anggota staf osu! yang berfokus pada moderasi forum atau pada sub-forum: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (tidak termasuk [Tournaments](https://osu.ppy.sh/community/forums/55) dan [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), dan [Help](https://osu.ppy.sh/community/forums/5).
 
@@ -8,8 +8,8 @@
 
 Tim dukungan teknis bertanggung jawab untuk:
 
-1. Menguji dan/atau mengonfirmasi laporan *bug* sehingga developer tahu dan diperbaiki oleh mereka.
-2. Memoderasi thread pada forum [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dan memberikan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added* pada thread tersebut.
+1. Menguji dan/atau mengonfirmasi laporan *bug* agar para pengembang tahu dan diperbaiki oleh mereka.
+2. Mengorganisir topik pada forum [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dan memberikan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added* pada thread tersebut.
 
 Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, anggota dari tim ini bersedia untuk membantu.
 
