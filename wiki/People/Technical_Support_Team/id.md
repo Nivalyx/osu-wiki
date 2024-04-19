@@ -6,7 +6,7 @@
 
 ## Peran dan Tanggung Jawab
 
-Support Team bertanggung Jawab atas:
+Tim dukungan teknis bertanggung jawab untuk:
 
 1. Mengetes dan/atau mengonfirmasikan bug sehingga developer tahu dan diperbaiki oleh mereka.
 2. Memoderasi thread pada forum [Feature Requests](https://osu.ppy.sh/community/forums/4) dan [Help](https://osu.ppy.sh/community/forums/5) dan memberikan label *Resolved*, *Confirmed*, *Invalid*, *Duplicate* dan/atau *Added* pada thread tersebut.
@@ -16,6 +16,8 @@ Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, anggota dari ti
 ## Anggota Tim
 
 *Note: All Technical Support Team members speak English in addition to the language(s) listed below unless noted otherwise.*
+
+*Catatan: Seluruh angggota tim dukungan teknis kecuali diterakan lebih lanjut.*
 
 Daftar anggota tim dukungan teknis selengkapnya juga dapat dilihat pada [halaman grup tim dukungan teknis]](https://osu.ppy.sh/groups/22).
 
