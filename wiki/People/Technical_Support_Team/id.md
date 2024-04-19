@@ -15,13 +15,13 @@ Jika seseorang membutuhkan bantuan di bagian sub-forum tersebut, anggota dari ti
 
 ## Anggota Tim
 
-Halaman daftar [Support Team](https://osu.ppy.sh/groups/22).
+*Note: All Technical Support Team members speak English in addition to the language(s) listed below unless noted otherwise.*
 
-*Catatan: Semua Support Team berbicara dengan bahasa Inggris selain bahasa yang tercantum dibawah ini, kecuali yang tidak tercatat.*
+Daftar anggota tim dukungan teknis selengkapnya juga dapat dilihat pada [halaman grup tim dukungan teknis]](https://osu.ppy.sh/groups/22).
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Tagalog |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Spanyol |
