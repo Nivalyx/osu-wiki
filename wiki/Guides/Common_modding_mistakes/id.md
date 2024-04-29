@@ -6,9 +6,7 @@ Panduan ini akan menerakan berbagai kesalahan umum yang sering dilakukan oleh pa
 
 The points introduced below are formatted such that an example of poor modding is shown above, and an explanation as to why it is a mistake below.
 
-While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping context, they may also be applied to other [game modes](/wiki/Game_mode).
-
-Walaupun rangkaian contoh berikut ditulis dengan mengasumsikan, contoh-contoh ini juga dapat diterapkan pada [mode permainan](/wiki/Game_mode) lainnya.
+Walaupun rangkaian contoh berikut ditulis dengan konteks yang spesifik untuk mode permainan [osu!](/wiki/Game_mode/osu!), contoh-contoh ini juga dapat diterapkan pada [mode permainan](/wiki/Game_mode) lainnya.
 
 ---
 
