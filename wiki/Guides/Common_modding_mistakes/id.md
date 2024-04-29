@@ -53,14 +53,14 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 
 **When pointing out an issue, be clear and formal to avoid miscommunication.** You should always state what the problem is even if it seems obvious.
 
-**Pada saat menyampaikan suatu masalah,**.
+**Pada saat menyampaikan suatu masalah, tuliskan masalahmu secara jelas dan formal untuk menghindari kesalahpahaman**.
 
 ---
 
 ```md
-00:00:000 - Why is this slider so curved?
-00:01:000 - Here it is again.
-00:02:000 - Appears in kiai too.
+00:00:000 - Mengapa slider ini begitu melengkung?
+00:01:000 - Slider ini juga.
+00:02:000 - Begitu pula dengan di bagian kiai.
 ```
 
 **If something is seemingly all over the map, it may actually be intentional.** In these cases, either explain thoroughly why you think it is wrong, or make sure they are appearing at similar moments in the song. If they are inconsistent and there is seemingly no pattern, it might be worth questioning.
