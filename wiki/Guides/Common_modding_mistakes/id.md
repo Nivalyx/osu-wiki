@@ -103,8 +103,8 @@ Your mapping style is really bad; just map like everyone else.
 ```md
 00:00:000 - Ini adalah ritme yang buruk.
 00:01:000 - I really think you can improve this slider art a bit, try using some more aesthetic shape.
-00:02:000 - You should try something more elaborate here, this feels too simple for what the song suggests.
-00:03:000 - The flow is bad here.
+00:02:000 - Kamu sebaiknya menempatkan sesuatu yang lebih rumit di sini, karena pola yang kamu miliki saat ini terasa terlalu sederhana dibanding lagunya.
+00:03:000 - Map ini mengalir dengan buruk pada bagian ini.
 ```
 
 **While pointing out an issue is important, it is also important to provide suggestions and alternatives.** By doing this, the mapper will see what you have in mind and can also apply it directly to the map. It is especially helpful when the mapper knows of an issue but cannot resolve it themselves.
@@ -112,7 +112,7 @@ Your mapping style is really bad; just map like everyone else.
 ---
 
 ```md
-You should probably just remap this tbh.
+Kalau boleh jujur, mungkin akan lebih baik kalau kamu membuat ulang map ini dari awal saja.
 ```
 
 **If you really think the mapper should remap, you have to tell them where they are going wrong and why.** There is no point in remapping if there is nothing to learn from it, so it is something you should cover in your mod. Remember to give examples!
