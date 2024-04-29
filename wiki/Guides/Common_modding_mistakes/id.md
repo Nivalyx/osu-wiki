@@ -53,6 +53,8 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 
 **When pointing out an issue, be clear and formal to avoid miscommunication.** You should always state what the problem is even if it seems obvious.
 
+**Pada saat menyampaikan suatu masalah,**.
+
 ---
 
 ```md
