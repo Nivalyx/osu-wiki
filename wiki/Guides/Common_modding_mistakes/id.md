@@ -51,7 +51,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:03:000 - jangan lakukan hal ini
 ```
 
-**Pada saat menyampaikan suatu masalah, tuliskan masalahmu secara jelas dan formal untuk menghindari kesalahpahaman**. Kamu harus selalu menyatakan apa masalah yang ingin kamu angkat, bahkan ketika masalah ini tampak jelas sekalipun.
+**Pada saat menyampaikan suatu masalah, tuliskan masalahmu secara jelas dan formal untuk menghindari terdapatnya kesalahpahaman**. Kamu harus selalu menyatakan apa masalah yang ingin kamu angkat, bahkan ketika masalah ini tampak jelas sekalipun.
 
 ---
 
