@@ -80,7 +80,7 @@ Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memil
 00:02:000 - Pindahkan ke atas sejauh 1 pixel.
 ```
 
-**Inti dari proses modding adalah untuk membuat suatu map menjadi lebih baik, bukan untuk mengubah map tersebut hanya karena memang ada sesuatu yang dapat diubah**. Apabila perubahan yang kamu sarankan hanya memiliki dampak yang teramat sangat kecil, renungkanlah terlebih dahulu apakah perubahan ini akan dapat memperbaiki map yang kamu tinjau secara signifikan. Apabila tidak, hal ini mungkin sebaiknya tidak kamu angkat.
+**Inti dari proses modding adalah untuk membuat suatu map menjadi lebih baik, bukan untuk mengubah map tersebut hanya karena memang ada sesuatu yang dapat diubah**. Apabila perubahan yang kamu sarankan hanya memiliki dampak yang teramat sangat kecil, renungkanlah terlebih dahulu apakah perubahan ini akan meningkatkan map yang kamu tinjau secara signifikan. Apabila tidak, hal ini mungkin sebaiknya tidak perlu kamu angkat.
 
 ---
 
