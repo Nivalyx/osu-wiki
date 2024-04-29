@@ -69,7 +69,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 Secara umum, objek permainan harus ditempatkan pada suara yang jelas pada lagu agar suara tersebut dapat direpresentasikan dengan baik. Menjaga agar tingkat kepadatan ritme setara dengan intensitas lagu adalah /.../
 ```
 
-**Always include at least one example, and at very least a timestamp.** Without giving an example in the map you are modding, the mapper will likely be confused as to where and what the problems are. As a modder you may find yourself speaking too broadly, mostly rambling rather than trying to improve the map itself.
+**Selalu sertakan setidaknya satu contoh, atau sekurang-kurangnya satu buah keterangan waktu (*timestamp*)**. Without giving an example in the map you are modding, the mapper will likely be confused as to where and what the problems are. As a modder you may find yourself speaking too broadly, mostly rambling rather than trying to improve the map itself.
 
 ---
 
