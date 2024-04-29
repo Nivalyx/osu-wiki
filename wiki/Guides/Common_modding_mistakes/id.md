@@ -13,8 +13,8 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 ```md
 00:00:000 - Hapus slider ini.
 00:01:000 - Tambahkan circle.
-00:02:000 - Kurangi jarak antar objek.
-00:02:000 - Buat agar mengalir lebih tajam.
+00:02:000 - Kurangi jarak antar objek di sekitar sini.
+00:02:000 - Tajamkan aliran (flow) di bagian ini.
 00:04:000 - Ctrl+G.
 00:05:000 - Pindahkan ke (100:200).
 00:06:000 - NC.
