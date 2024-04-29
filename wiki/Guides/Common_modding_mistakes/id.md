@@ -20,8 +20,6 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:06:000 - NC.
 ```
 
-**Unless the context is clear, always state why you think changes should be made.** Leaving the mapper guessing could easily lead to misunderstandings, and as such hinder the map from potential improvements.
-
 **Kecuali terdapat konteks yang jelas, selalu terakan mengapa kamu merasa saran yang kamu ajukan perlu untuk diterapkan.** Membiarkan mapper menebak-nebak maksud dan tujuan suatu mod akan dapat menimbulkan kesalahpahaman, yang pada ujungnya akan menghambat map yang bersangkutan untuk berkembang.
 
 ---
@@ -43,6 +41,8 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 ```
 
 **Avoid saying or suggesting that something is unrankable unless the [ranking criteria](/wiki/Ranking_criteria) explicitly says that it is.** This may cause serious confusion for newer mappers. If something is unrankable, it means it cannot progress further through the [ranking process](/wiki/Beatmap_ranking_procedure), without exception, so use this phrase with care.
+
+**Hindari untuk menyatakan atau menyarankan bahwa sesuatu 
 
 ---
 
