@@ -37,7 +37,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 ---
 
 ```md
-00:00:000 - Objek-objek ini ditempatkan secara tidak lazim dan mungkin tidak akan dapat di-rank.
+00:00:000 - Objek-objek ini ditempatkan secara aneh dan mungkin tidak akan dapat di-rank.
 00:01:000 - Jarak antar objek ini tidak dapat di-rank.
 00:02:000 - Saya tidak merasa ritme ini dapat di-rank.
 ```
