@@ -22,7 +22,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 
 **Unless the context is clear, always state why you think changes should be made.** Leaving the mapper guessing could easily lead to misunderstandings, and as such hinder the map from potential improvements.
 
-**Kecuali terdapat konteks yang jelas, selalu terakan mengapa kamu merasa saran yang kamu ajukan perlu untuk diterapkan.** Membiarkan mapper menebak-nebak akan dapat menimbulkan kesalahpahaman, yang pada ujungnya akan menghambat map tersebut untuk dapat berkembang.
+**Kecuali terdapat konteks yang jelas, selalu terakan mengapa kamu merasa saran yang kamu ajukan perlu untuk diterapkan.** Membiarkan mapper menebak-nebak maksud dan tujuan suatu mod akan dapat menimbulkan kesalahpahaman, yang pada ujungnya akan menghambat map yang bersangkutan untuk berkembang.
 
 ---
 
