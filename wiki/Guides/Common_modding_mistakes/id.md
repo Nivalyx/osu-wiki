@@ -20,7 +20,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:06:000 - NC.
 ```
 
-**Kecuali terdapat konteks yang jelas, selalu berikan alasan mengapa kamu merasa mod yang kamu ajukan perlu untuk diterapkan.** Membiarkan mapper menebak-nebak maksud dan tujuan suatu mod akan dapat menimbulkan kesalahpahaman, yang pada ujungnya akan menghambat map yang bersangkutan untuk berkembang.
+**Kecuali terdapat konteks yang jelas, selalu berikan alasan mengapa kamu merasa saran yang kamu ajukan perlu untuk diterapkan.** Membiarkan mapper menebak-nebak maksud dan tujuan suatu mod akan dapat menimbulkan kesalahpahaman, yang pada ujungnya akan menghambat map yang bersangkutan untuk berkembang.
 
 ---
 
