@@ -32,7 +32,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 
 **For recurring issues, consider grouping them into one general point with some examples instead.** If you still feel that pointing everything out is absolutely necessary, then either the mapper does not know what they are doing or your explanation likely is not good enough.
 
-**Untuk masalah yang berulang, pertimbangkan untuk mengelompokkan rangkaian masalah yang ada ke dalam satu poin umum beserta dengan beberapa contohnya**. Apabila kamu masih merasa kamu benar-benar harus menjabarkan segala sesuatunya secara satu per satu, maka
+**Untuk masalah yang berulang, pertimbangkan untuk mengelompokkan rangkaian masalah yang ada ke dalam satu poin umum beserta dengan beberapa contohnya**. Apabila kamu masih merasa kamu benar-benar harus menjabarkan segala sesuatunya secara satu per satu, maka tidak atau penjelasanmu tidak cukup bagus.
 
 ---
 
@@ -50,9 +50,9 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 
 ```md
 00:00:000 - lol
-00:01:000 - this looks stupid
+00:01:000 - ini terlihat konyol
 00:02:000 - wow xD
-00:03:000 - don't do this
+00:03:000 - jangan lakukan hal ini
 ```
 
 **When pointing out an issue, be clear and formal to avoid miscommunication.** You should always state what the problem is even if it seems obvious.
