@@ -2,7 +2,7 @@
 
 *Lihat juga: [Menjadi seoarng Beatmap Nominator § Ekspektasi modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
 
-Panduan ini akan menerakan berbagai kesalahan umum yang sering dibuat oleh para [modders](/wiki/Modding/Modder) pemula ketika mereka memberikan [mod](/wiki/Modding) pada suatu [beatmap](/wiki/Beatmap).
+Panduan ini akan menerakan berbagai kesalahan umum yang sering dilakukan oleh para [modder](/wiki/Modding/Modder) pemula ketika mereka memberikan [mod](/wiki/Modding) pada suatu [beatmap](/wiki/Beatmap).
 
 The points introduced below are formatted such that an example of poor modding is shown above, and an explanation as to why it is a mistake below.
 
