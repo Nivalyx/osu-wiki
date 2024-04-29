@@ -61,7 +61,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:02:000 - Begitu pula dengan di bagian kiai.
 ```
 
-**Apabila suatu hal muncul secara berulang di dalam suatu  map, hal tersebut mungkin memang sengaja dimaksudkan secara demikian**. Dalam kasus yang seperti ini, jelaskanlah secara seksama mengapa kamu merasa bahwa kemunculan ini merupakan suatu kesalahan, atau pastikan bahwa hal ini selalu muncul pada bagian-bagian lagu yang serupa. Apabila kemunculan yang kamu temukan tidak konsisten dan seakan-akan terlihat acak, hal ini mungkin memang patut untuk kamu pertanyakan.
+**Apabila suatu hal muncul secara berulang di dalam suatu  map, hal tersebut mungkin memang disengaja**. Dalam kasus yang demikian, jelaskanlah secara seksama mengapa kamu merasa bahwa kemunculan ini merupakan suatu kesalahan, atau pastikan bahwa hal ini selalu muncul pada bagian-bagian lagu yang serupa. Apabila kemunculan yang kamu temukan tidak konsisten dan seakan-akan terlihat acak, hal ini mungkin memang patut untuk kamu pertanyakan.
 
 ---
 
