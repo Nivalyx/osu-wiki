@@ -40,9 +40,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:02:000 - Saya tidak merasa ritme ini dapat di-rank.
 ```
 
-**Avoid saying or suggesting that something is unrankable unless the [ranking criteria](/wiki/Ranking_criteria) explicitly says that it is.** This may cause serious confusion for newer mappers. If something is unrankable, it means it cannot progress further through the [ranking process](/wiki/Beatmap_ranking_procedure), without exception, so use this phrase with care.
-
-**Hindari untuk menyatakan bahwa suatu hal tidak dapat di-rank (*unrankable*) kecuali [kriteria ranking](/wiki/Ranking_criteria) menerangkan secara gamblang bahwa hal tersebut memang tidak dapat di-rank**. Hal ini dapat membuat bingung para mapper pemula. Apabila sesuatu bersifat *unrankable*, 
+**Hindari untuk menyatakan bahwa suatu hal tidak dapat di-rank (*unrankable*) kecuali [kriteria ranking](/wiki/Ranking_criteria) menerangkan secara gamblang bahwa hal tersebut memang tidak dapat di-rank**. Hal ini dapat membuat bingung para mapper pemula. Apabila suatu hal bersifat *unrankable*, hal ini berarti bahwa hal tersebut tidak dapat melewati [proses ranking](/wiki/Beatmap_ranking_procedure) yang berlaku tanpa kecuali, jadi gunakanlah kata ini secara hati-hati.
 
 ---
 
