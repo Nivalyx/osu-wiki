@@ -8,6 +8,8 @@ The points introduced below are formatted such that an example of poor modding i
 
 While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping context, they may also be applied to other [game modes](/wiki/Game_mode).
 
+Walaupun contoh
+
 ---
 
 ```md
@@ -61,7 +63,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:02:000 - Begitu pula dengan di bagian kiai.
 ```
 
-**Apabila suatu hal muncul secara berulang kali di dalam suatu map, kemunculan hal tersebut mungkin memang disengaja**. Dalam kasus yang demikian, jelaskanlah secara seksama mengapa kamu merasa bahwa kemunculan ini merupakan suatu kesalahan, atau pastikan bahwa hal ini selalu muncul pada bagian-bagian lagu yang serupa. Apabila kemunculan yang kamu temukan tidak konsisten dan seakan-akan terlihat acak, hal ini mungkin memang patut untuk kamu pertanyakan.
+**Apabila suatu hal muncul secara berulang kali di dalam suatu map, bisa jadi kemunculan hal tersebut memang disengaja**. Dalam kasus yang demikian, jelaskanlah secara seksama mengapa kamu merasa bahwa kemunculan ini merupakan suatu kesalahan, atau pastikan bahwa hal ini selalu muncul pada bagian-bagian lagu yang serupa. Apabila kemunculan yang kamu temukan tidak konsisten dan seakan-akan terlihat acak, hal ini mungkin memang patut untuk kamu pertanyakan.
 
 ---
 
