@@ -66,7 +66,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 ---
 
 ```md
-In general, notes should be mapped to distinct sounds in the song in order to properly reflect it. Keeping the rhythm density in level with the intensity of the song is /.../
+Secara umum, objek permainan harus ditempatkan pada suara yang jelas pada lagu agar suara tersebut dapat direpresentasikan dengan baik. Menjaga agar tingkat kepadatan ritme setara dengan intensitas lagu adalah /.../
 ```
 
 **Always include at least one example, and at very least a timestamp.** Without giving an example in the map you are modding, the mapper will likely be confused as to where and what the problems are. As a modder you may find yourself speaking too broadly, mostly rambling rather than trying to improve the map itself.
@@ -75,9 +75,9 @@ In general, notes should be mapped to distinct sounds in the song in order to pr
 
 ```md
 Widescreen support is inconsistent and your map doesn't have a storyboard, so disable it for all difficulties.
-00:00:000 - Blanket is 2 pixels off.
+00:00:000 - Blanket ini melenceng sejauh 2 pixel.
 00:01:000 - The preview point is unsnapped, could snap it.
-00:02:000 - Move up by 1px.
+00:02:000 - Pindahkan ke atas sejauh 1 pixel.
 ```
 
 **Modding is about improving the map, not changing it because it can be changed.** If the change you are suggesting is extremely small, take a step back and ask whether it is actually improving the map in any significant way. If not, it may not even be worth mentioning.
