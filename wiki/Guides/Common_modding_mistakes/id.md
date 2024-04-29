@@ -1,6 +1,6 @@
 # Kesalahan modding umum
 
-*Lihat juga: [Menjadi seoarng Beatmap Nominator § Ekspektasi modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+*Lihat juga: [Menjadi seorang Beatmap Nominator § Ekspektasi modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
 
 Panduan ini akan menerakan berbagai kesalahan umum yang sering dilakukan oleh para [modder](/wiki/Modding/Modder) pemula pada saat memberikan [mod](/wiki/Modding) bagi suatu [beatmap](/wiki/Beatmap).
 
@@ -30,9 +30,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:02:000 - Sama seperti #72727
 ```
 
-**For recurring issues, consider grouping them into one general point with some examples instead.** If you still feel that pointing everything out is absolutely necessary, then either the mapper does not know what they are doing or your explanation likely is not good enough.
-
-**Untuk masalah yang berulang, pertimbangkan untuk mengelompokkan rangkaian masalah yang ada ke dalam satu poin umum beserta dengan beberapa contohnya**. Apabila kamu masih merasa kamu benar-benar harus menjabarkan segala sesuatunya secara satu per satu, maka tidak atau penjelasanmu tidak cukup bagus.
+**Untuk masalah yang berulang, pertimbangkan untuk mengelompokkan rangkaian masalah yang ada ke dalam satu poin umum beserta dengan beberapa contohnya**. Apabila kamu masih merasa kamu benar-benar harus menjabarkan segala sesuatunya secara satu per satu, maka mapper tersebut tidak tahu apa yang mereka lakukan atau penjelasanmu tidak cukup bagus.
 
 ---
 
@@ -50,7 +48,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 
 ```md
 00:00:000 - lol
-00:01:000 - ini terlihat konyol
+00:01:000 - ini terkesan bodoh
 00:02:000 - wow xD
 00:03:000 - jangan lakukan hal ini
 ```
