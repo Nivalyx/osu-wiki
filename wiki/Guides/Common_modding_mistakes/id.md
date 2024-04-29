@@ -76,7 +76,7 @@ Secara umum, objek permainan harus ditempatkan pada suara yang jelas pada lagu a
 ```md
 Widescreen support is inconsistent and your map doesn't have a storyboard, so disable it for all difficulties.
 00:00:000 - Blanket ini melenceng sejauh 2 pixel.
-00:01:000 - The preview point is unsnapped, could snap it.
+00:01:000 - Titik pratinjau ini tidak terletak pada bilah ketukan tertentu. Cobalah untuk menempatkan titik ini sesuai dengan ketukan.
 00:02:000 - Pindahkan ke atas sejauh 1 pixel.
 ```
 
