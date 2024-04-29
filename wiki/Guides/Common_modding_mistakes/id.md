@@ -20,7 +20,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:06:000 - NC.
 ```
 
-**Kecuali terdapat konteks yang jelas, selalu terakan mengapa kamu merasa saran yang kamu ajukan perlu untuk diterapkan.** Membiarkan mapper menebak-nebak maksud dan tujuan suatu mod akan dapat menimbulkan kesalahpahaman, yang pada ujungnya akan menghambat map yang bersangkutan untuk berkembang.
+**Kecuali terdapat konteks yang jelas, selalu berikan alasan mengapa kamu merasa saran yang kamu ajukan perlu untuk diterapkan.** Membiarkan mapper menebak-nebak maksud dan tujuan suatu mod akan dapat menimbulkan kesalahpahaman, yang pada ujungnya akan menghambat map yang bersangkutan untuk berkembang.
 
 ---
 
@@ -35,14 +35,14 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 ---
 
 ```md
-00:00:000 - These objects are placed weirdly and it's probably unrankable.
-00:01:000 - This spacing is unrankable.
-00:02:000 - I don't think this rhythm is rankable.
+00:00:000 - Objek-objek ini ditempatkan secara tidak lazim dan mungkin tidak dapat di-rank.
+00:01:000 - Jarak antar objek ini tidak dapat di-rank.
+00:02:000 - Saya tidak merasa ritme ini dapat di-rank.
 ```
 
 **Avoid saying or suggesting that something is unrankable unless the [ranking criteria](/wiki/Ranking_criteria) explicitly says that it is.** This may cause serious confusion for newer mappers. If something is unrankable, it means it cannot progress further through the [ranking process](/wiki/Beatmap_ranking_procedure), without exception, so use this phrase with care.
 
-**Hindari untuk menyatakan atau menyarankan bahwa sesuatu 
+**Usahakan untuk tidak menyatakan bahwa sesuatu hal tidak dapat di-rank (*unrankable*) kecuali [kriteria ranking](/wiki/Ranking_criteria) memang menyatakan secara gamblang bahwa hal tersebut tidak dapat di-rank**.
 
 ---
 
