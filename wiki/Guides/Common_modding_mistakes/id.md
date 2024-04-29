@@ -103,7 +103,7 @@ Your mapping style is really bad; just map like everyone else.
 **The goal of modding is to help improve the map.** It is not to force your opinions on the mapper. If the mapper is denying things you believe would improve the map, then that is on them. In these cases, just accept it and move on, but consider their reasoning and try predicting this in similar future cases.
 
 ```md
-00:00:000 - This is bad rhythm.
+00:00:000 - Ini adalah ritme yang buruk.
 00:01:000 - I really think you can improve this slider art a bit, try using some more aesthetic shape.
 00:02:000 - You should try something more elaborate here, this feels too simple for what the song suggests.
 00:03:000 - The flow is bad here.
