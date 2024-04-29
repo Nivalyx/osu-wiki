@@ -32,7 +32,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 
 **For recurring issues, consider grouping them into one general point with some examples instead.** If you still feel that pointing everything out is absolutely necessary, then either the mapper does not know what they are doing or your explanation likely is not good enough.
 
-**Untuk masalah yang berulang, pertimbangkan untuk mengelompokkan rangkaian masalah yang ada ke dalam satu poin umum beserta dengan beberapa contohnya**.
+**Untuk masalah yang berulang, pertimbangkan untuk mengelompokkan rangkaian masalah yang ada ke dalam satu poin umum beserta dengan beberapa contohnya**. Apabila kamu masih merasa kamu benar-benar harus menjabarkan segala masalah yang ada satu per satu, maka
 
 ---
 
