@@ -61,9 +61,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:02:000 - Begitu pula dengan di bagian kiai.
 ```
 
-**If something is seemingly all over the map, it may actually be intentional.** In these cases, either explain thoroughly why you think it is wrong, or make sure they are appearing at similar moments in the song. If they are inconsistent and there is seemingly no pattern, it might be worth questioning.
-
-**Apabila suatu hal muncul secara berulang kali di dalam  map, hal ini mungkin memang disengaja**. Dalam kasus yang demikian, jelaskanlah secara seksama mengapa kamu merasa bahwa hal ini merupakan sesuatu yang salah, atau pastikan bahwa hal ini selalu muncul pada momen yang serupa pada lagu. Apabila, hal ini mungkin memang patut untuk dipertanyakan.
+**Apabila suatu hal muncul secara berulang kali di dalam  map, hal ini mungkin memang disengaja**. Dalam kasus yang demikian, jelaskanlah secara seksama mengapa kamu merasa bahwa hal ini merupakan sesuatu yang salah, atau pastikan bahwa hal ini selalu muncul pada bagian-bagian lagu yang serupa. Apabila kemunculan hal ini tidak konsisten dan seakan terlihat acak, hal ini mungkin memang patut untuk dipertanyakan.
 
 ---
 
