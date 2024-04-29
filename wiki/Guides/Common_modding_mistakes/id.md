@@ -8,7 +8,7 @@ The points introduced below are formatted such that an example of poor modding i
 
 While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping context, they may also be applied to other [game modes](/wiki/Game_mode).
 
-Walaupun contoh
+Walaupun rangkaian contoh berikut ditulis dengan mengasumsikan, contoh-contoh ini juga dapat diterapkan pada [mode permainan](/wiki/Game_mode) lainnya.
 
 ---
 
