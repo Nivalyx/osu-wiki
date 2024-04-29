@@ -11,9 +11,9 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 ---
 
 ```md
-00:00:000 - Remove this slider
-00:01:000 - Add circle.
-00:02:000 - Reduce the spacing here.
+00:00:000 - Hapus slider ini.
+00:01:000 - Tambahkan circle.
+00:02:000 - Kurangi jarak antar objek di sekitar sini.
 00:02:000 - Make this sharper flow.
 00:04:000 - Ctrl+G
 00:05:000 - Move to (100:200)
