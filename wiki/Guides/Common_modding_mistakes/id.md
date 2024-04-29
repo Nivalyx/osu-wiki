@@ -30,7 +30,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:02:000 - Sama seperti #72727
 ```
 
-**Untuk masalah yang berulang, pertimbangkan untuk mengelompokkan rangkaian masalah yang ada ke dalam satu poin umum beserta dengan beberapa contohnya**. Apabila kamu masih merasa kamu benar-benar harus menjabarkan segala sesuatunya secara satu per satu, maka mapper yang bersangkutan tidak tahu apa yang mereka lakukan atau mungkin penjelasanmu masih belum cukup bagus.
+**Untuk masalah yang berulang, pertimbangkan untuk mengelompokkan rangkaian masalah yang ada ke dalam satu poin umum beserta dengan beberapa contohnya**. Apabila kamu masih merasa bahwa kamu harus benar-benar menjabarkan segala sesuatunya satu per satu, maka mapper yang bersangkutan memang tidak tahu apa yang mereka lakukan atau mungkin penjelasanmu masih belum cukup bagus.
 
 ---
 
