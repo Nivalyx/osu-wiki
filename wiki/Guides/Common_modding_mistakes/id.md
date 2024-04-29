@@ -20,7 +20,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 00:06:000 - NC.
 ```
 
-**Kecuali terdapat konteks yang jelas, selalu berikan alasan mengapa kamu merasa saran yang kamu ajukan perlu untuk diterapkan.** Membiarkan mapper menebak-nebak maksud dan tujuan suatu mod akan dapat menimbulkan kesalahpahaman, yang pada ujungnya akan menghambat map yang bersangkutan untuk berkembang.
+**Kecuali terdapat konteks yang jelas, selalu berikan alasan mengapa kamu merasa mod yang kamu ajukan perlu untuk diterapkan.** Membiarkan mapper menebak-nebak maksud dan tujuan suatu mod akan dapat menimbulkan kesalahpahaman, yang pada ujungnya akan menghambat map yang bersangkutan untuk berkembang.
 
 ---
 
@@ -32,6 +32,8 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 
 **For recurring issues, consider grouping them into one general point with some examples instead.** If you still feel that pointing everything out is absolutely necessary, then either the mapper does not know what they are doing or your explanation likely is not good enough.
 
+**Untuk masalah yang berulang, pertimbangkan untuk mengelompokkan rangkaian masalah yang ada ke dalam satu poin umum beserta dengan beberapa contohnya**.
+
 ---
 
 ```md
@@ -42,7 +44,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 
 **Avoid saying or suggesting that something is unrankable unless the [ranking criteria](/wiki/Ranking_criteria) explicitly says that it is.** This may cause serious confusion for newer mappers. If something is unrankable, it means it cannot progress further through the [ranking process](/wiki/Beatmap_ranking_procedure), without exception, so use this phrase with care.
 
-**Usahakan untuk tidak menyatakan bahwa sesuatu hal tidak dapat di-rank (*unrankable*) kecuali [kriteria ranking](/wiki/Ranking_criteria) memang menyatakan secara gamblang bahwa hal tersebut tidak dapat di-rank**.
+**Usahakan untuk tidak menyatakan bahwa sesuatu hal tidak dapat di-rank (*unrankable*) kecuali [kriteria ranking](/wiki/Ranking_criteria) menyatakan secara gamblang bahwa hal tersebut tidak dapat di-rank**.
 
 ---
 
