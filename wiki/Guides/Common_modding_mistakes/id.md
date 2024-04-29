@@ -2,7 +2,7 @@
 
 *Lihat juga: [Menjadi seoarng Beatmap Nominator § Ekspektasi modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
 
-This guide will show examples of common mistakes beginner [modders](/wiki/Modding/Modder) often make when they [mod](/wiki/Modding) a [beatmap](/wiki/Beatmap).
+Panduan ini akan menerakan berbagai kesalahan umum yang sering dibuat oleh para [modders](/wiki/Modding/Modder) pemula ketika mereka memberikan [mod](/wiki/Modding) pada suatu [beatmap](/wiki/Beatmap).
 
 The points introduced below are formatted such that an example of poor modding is shown above, and an explanation as to why it is a mistake below.
 
@@ -13,7 +13,7 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 ```md
 00:00:000 - Hapus slider ini.
 00:01:000 - Tambahkan circle.
-00:02:000 - Kurangi jarak antar objek di sekitar sini.
+00:02:000 - Kurangi jarak antar objek.
 00:02:000 - Tajamkan aliran (flow) di bagian ini.
 00:04:000 - Ctrl+G.
 00:05:000 - Pindahkan ke (100:200).
