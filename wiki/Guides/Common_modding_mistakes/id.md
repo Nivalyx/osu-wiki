@@ -74,7 +74,7 @@ Secara umum, objek permainan harus ditempatkan pada suara yang jelas pada lagu a
 ---
 
 ```md
-Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memiliki storyboard, jadi nonaktifkan pilihan ini pada seluruh tingkat kesulitan.
+Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memiliki storyboard. Nonaktifkan pilihan ini pada seluruh tingkat kesulitan.
 00:00:000 - Blanket ini melenceng sejauh 2 pixel.
 00:01:000 - Titik pratinjau ini tidak terletak pada bilah ketukan tertentu. Cobalah untuk menempatkan titik ini sesuai dengan ketukan.
 00:02:000 - Pindahkan ke atas sejauh 1 pixel.
