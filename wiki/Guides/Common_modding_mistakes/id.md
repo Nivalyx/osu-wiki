@@ -25,9 +25,9 @@ While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping 
 ---
 
 ```md
-00:00:000 - Same as #72727
-00:01:000 - Same as #72727
-00:02:000 - Same as #72727
+00:00:000 - Sama seperti #72727
+00:01:000 - Sama seperti #72727
+00:02:000 - Sama seperti #72727
 ```
 
 **For recurring issues, consider grouping them into one general point with some examples instead.** If you still feel that pointing everything out is absolutely necessary, then either the mapper does not know what they are doing or your explanation likely is not good enough.
