@@ -69,7 +69,7 @@ Walaupun contoh-contoh di bawah ini ditulis dengan konteks mapping yang spesifik
 Secara umum, objek permainan harus ditempatkan pada suara yang jelas pada lagu agar suara tersebut dapat direpresentasikan dengan baik. Menjaga agar tingkat kepadatan ritme setara dengan intensitas lagu adalah /.../
 ```
 
-**Selalu sertakan setidaknya satu contoh dan satu buah keterangan waktu (*timestamp*)**. Tanpa mencantumkan contoh pada map yang kamu mod, mapper yang bersangkutan mungkin akan merasa kebingungan seputar apa masalah yang kamu ungkit dan di mana letak masalah tersebut. Sebagai seorang modder, kamu dapat menemukan dirimu berbicara secara terlalu luas dan bertele-tele (alih-alih meningkatkan map) apabila kamu tidak berhati-hati.
+**Selalu sertakan setidaknya satu contoh dan satu buah keterangan waktu (*timestamp*)**. Tanpa mencantumkan contoh pada map yang kamu mod, mapper yang bersangkutan mungkin akan merasa kebingungan seputar apa masalah yang ingin kamu ungkit dan di mana letak masalah tersebut. Sebagai seorang modder, kamu dapat menemukan dirimu berbicara secara terlalu luas dan bertele-tele (alih-alih meningkatkan map) apabila kamu tidak berhati-hati.
 
 ---
 
@@ -80,7 +80,7 @@ Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memil
 00:02:000 - Pindahkan ke atas sejauh 1 pixel.
 ```
 
-**Inti dari proses modding adalah untuk membuat suatu map menjadi lebih baik, bukan untuk mengubah map tersebut hanya karena memang ada sesuatu yang dapat diubah**. Apabila perubahan yang kamu sarankan hanya memiliki dampak yang teramat sangat kecil, renungkanlah terlebih dahulu apakah perubahan ini akan meningkatkan map yang kamu tinjau secara signifikan. Apabila tidak, hal ini mungkin sebaiknya tidak perlu kamu angkat.
+**Inti dari proses modding adalah untuk membuat suatu map menjadi lebih baik, bukan untuk mengubah map tersebut hanya karena memang ada sesuatu yang dapat diubah**. Apabila perubahan yang kamu sarankan hanya memiliki dampak yang teramat sangat kecil, renungkanlah terlebih dahulu apakah perubahan ini akan meningkatkan map yang kamu tinjau secara pesat. Apabila tidak, hal ini mungkin sebaiknya tidak perlu kamu angkat.
 
 ---
 
