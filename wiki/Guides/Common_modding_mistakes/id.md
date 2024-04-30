@@ -109,6 +109,8 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 
 **While pointing out an issue is important, it is also important to provide suggestions and alternatives.** By doing this, the mapper will see what you have in mind and can also apply it directly to the map. It is especially helpful when the mapper knows of an issue but cannot resolve it themselves.
 
+**Pada saat memaparkan masalah yang penting, juga tidak kalah penting**.
+
 ---
 
 ```md
@@ -117,7 +119,7 @@ Kalau boleh jujur, mungkin akan lebih baik apabila kamu membuat ulang map ini da
 
 **If you really think the mapper should remap, you have to tell them where they are going wrong and why.** There is no point in remapping if there is nothing to learn from it, so it is something you should cover in your mod. Remember to give examples!
 
-**Apabila kamu benar-benar merasa bahwa mapper yang bersangkutan perlu untuk membuat ulang map mereka dari awal (*remap*), kamu harus memberi tahu di mana dan atas dasar apa mereka berbuat salah**. Tidak ada gunanya membuat ulang map tanpa ada pelajaran yang dapat dipetik, Ingatlah untuk selalu memberikan contoh!
+**Apabila kamu benar-benar merasa bahwa mapper yang bersangkutan perlu untuk membuat ulang map mereka dari awal (*remap*), kamu harus memberi tahu di mana dan atas dasar apa mereka berbuat salah**. Tidak ada gunanya membuat ulang map tanpa ada pelajaran yang dapat dipetik, dan maka dari itu Ingatlah untuk selalu memberikan contoh!
 
 **Remaps should also be left as a last resort.** Avoid suggesting to do this unless the map's concept is fundamentally flawed, and remapping would impose less effort on the mapper than improving the current map.
 
