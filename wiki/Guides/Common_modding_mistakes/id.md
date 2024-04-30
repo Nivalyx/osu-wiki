@@ -14,7 +14,7 @@ Walaupun contoh-contoh di bawah ini ditulis dengan konteks mapping yang spesifik
 00:00:000 - Hapus slider ini.
 00:01:000 - Tambahkan circle.
 00:02:000 - Kurangi jarak antar objek.
-00:02:000 - Tajamkan aliran (flow) di bagian ini.
+00:02:000 - Tajamkan flow di bagian ini.
 00:04:000 - Ctrl+G.
 00:05:000 - Pindahkan ke (100:200).
 00:06:000 - NC.
@@ -85,7 +85,7 @@ Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memil
 ---
 
 ```md
-00:00:000 - Sudut antara rangkaian circle ini terlalu lebar. Kamu harusThe angle between these circles is too wide, you should try to use sharp angles for these circles instead. This is because sharp angles are more comfortable to play, especially when it comes to following circular flow. Sharp angles allow the player to snap to each object more smoothly, because the momentum of the cursor...
+00:00:000 - Sudut antara rangkaian circle ini terlalu lebar. Kamu sebaiknya mencoba untuk menempatkan sudut yang tajam di antara circle-circle ini. Hal ini karena sudut yang tajam akan lebih nyaman untuk dimainkan, terutama apabila ditempatkan mengikuti flow yang melingkar. Sudut yang tajam memungkinkan para pemain untuk menjentikkan kursor mereka ke masing-masing objek secara lebih natural, karena momentum kursor...
 ```
 
 **Keep things as short as possible while still giving the necessary information.** Too much unnecessary filler or using uncommon buzz words leads to confusion, and the mapper is more likely to misunderstand the suggestion.
