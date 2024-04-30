@@ -126,8 +126,8 @@ Kalau boleh jujur, mungkin akan lebih baik kalau kamu membuat ulang map ini dari
 ---
 
 ```md
-My mod is of better quality because I have better experience than you, you must apply it no matter what!
-You don't know what quality is, just apply my mod because I know what quality is.
+Mod saya lebih baik karena saya lebih berpengalaman darimu. Kamu harus menerapkannya apa pun yang terjadi!
+Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis apa itu kualitas.
 ```
 
 **Whether a mod is of quality or not is up to the mapper.** Solely looking at a mod will not really say much. To tell whether it is good or not, you have to put yourself into the mapper's perspective. Would they apply these suggestions? Are they actually useful? Will the mapper understand the reasoning?
