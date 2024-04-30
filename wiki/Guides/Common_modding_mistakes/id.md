@@ -164,8 +164,8 @@ Estetika itu subjektif, jadi saya akan mengabaikan hal ini.
 ---
 
 ```md
-00:00:000 - bro apakah map yang kamu buat selalu seburuk ini
-learn how to map first and then I can mod this properly
+00:00:000 - ayolah bung, apakah map yang kamu buat selalu seburuk ini
+belajar dulu cara nge-map yang benar sana, baru nanti saya bisa mod map kamu dengan layak
 map ini akan terlihat bagus di kotak sampah
 ```
 
