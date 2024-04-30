@@ -107,7 +107,7 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 00:03:000 - Map ini mengalir dengan buruk pada bagian ini.
 ```
 
-**Sepenting-pentingnya kamu perlu untuk menunjukkan letak permasalahan yang ada, memberikan saran dan alternatif untuk masalah tersebut juga tidak kalah penting**. Dengan melakukan hal ini, mapper yang bersangkutan akan dapat melihat solusi apa yang kamu miliki dan menerapkannya secara langsung ke map mereka. Hal ini berguna terutama pada saat mapper yang bersangkutan sadar bahwa map mereka bermasalah namun tidak tahu cara untuk memperbaikinya.
+**Sepenting-pentingnya kamu perlu untuk menunjukkan letak permasalahan yang ada, memberikan saran dan alternatif untuk masalah tersebut juga tidak kalah penting**. Dengan melakukan hal ini, mapper yang bersangkutan akan dapat melihat solusi apa yang kamu miliki dan menerapkannya secara langsung ke map mereka. Hal ini berguna terutama apabila mapper yang bersangkutan sadar bahwa map mereka bermasalah namun tidak tahu cara untuk memperbaikinya.
 
 ---
 
