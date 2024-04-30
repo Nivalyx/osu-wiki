@@ -88,9 +88,7 @@ Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memil
 00:00:000 - Sudut antara rangkaian circle ini terlalu lebar. Kamu sebaiknya mencoba untuk menempatkan sudut yang tajam di antara circle-circle ini. Hal ini karena sudut yang tajam akan lebih nyaman untuk dimainkan, terutama apabila ditempatkan mengikuti flow yang melingkar. Sudut yang tajam memungkinkan para pemain untuk menjentikkan kursor mereka ke masing-masing objek secara lebih halus, karena momentum kursor...
 ```
 
-**Keep things as short as possible while still giving the necessary information.** Too much unnecessary filler or using uncommon buzz words leads to confusion, and the mapper is more likely to misunderstand the suggestion.
-
-**Uraikan segala sesuatunya sesingkat dan sepadat mungkin tanpa mengesampingkan informasi yang penting**. atau jargon teknis (*buzzword*) yang terlalu berlebihan dapat menyebabkan kebingungan, dan mapper yang bersangkutan akan lebih berkemungkinan unutk salah memahami saranmu.
+**Uraikan segala sesuatunya sesingkat dan sepadat mungkin tanpa mengesampingkan informasi yang penting**. Penggunaan kata-kata pengiring atau jargon teknis (*buzzword*) yang terlalu berlebihan hanya akan menyebabkan kebingungan, dan mapper yang bersangkutan akan lebih berkemungkinan untuk salah memahami saranmu.
 
 ---
 
