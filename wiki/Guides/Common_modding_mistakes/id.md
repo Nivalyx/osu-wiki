@@ -117,9 +117,7 @@ Kalau boleh jujur, mungkin akan lebih baik apabila kamu membuat ulang map ini da
 
 **Apabila kamu benar-benar merasa bahwa mapper yang bersangkutan perlu untuk membuat ulang map mereka dari awal (*remap*), kamu harus memberi tahu di mana dan atas dasar apa mereka berbuat salah**. Tidak ada gunanya menyuruh orang lain membuat ulang map mereka tanpa ada pelajaran yang dapat mereka petik, dan oleh karenanya kedua hal ini merupakan sesuatu yang harus kamu cakup dalam mod yang kamu tulis. Ingatlah untuk selalu memberikan contoh!
 
-**Remaps should also be left as a last resort.** Avoid suggesting to do this unless the map's concept is fundamentally flawed, and remapping would impose less effort on the mapper than improving the current map.
-
-**Remap juga sebaiknya hanya dijadikan solusi terakhir ketika segala sesuatunya sudah tidak tertolong**. Hindari untuk menyarankan hal ini kecuali apabila konsep map yang kamu mod cacat secara mendasar dan membuat ulang map akan lebih mudah dibanding menyelesaikan masalah yang ada.
+**Remap juga sebaiknya hanya dijadikan solusi terakhir ketika segala sesuatunya sudah tidak tertolong**. Hindari untuk menyarankan hal ini kecuali apabila konsep map yang kamu mod cacat secara mendasar, dan membuat ulang map akan lebih memudahkan mapper yang bersangkutan dibanding menyelesaikan masalah yang ada.
 
 ---
 
