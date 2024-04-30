@@ -115,9 +115,7 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 Kalau boleh jujur, mungkin akan lebih baik apabila kamu membuat ulang map ini dari awal saja.
 ```
 
-**If you really think the mapper should remap, you have to tell them where they are going wrong and why.** There is no point in remapping if there is nothing to learn from it, so it is something you should cover in your mod. Remember to give examples!
-
-**Apabila kamu benar-benar merasa bahwa mapper yang bersangkutan perlu untuk membuat ulang map mereka dari awal (*remap*), kamu harus memberi tahu di mana dan atas dasar apa mereka berbuat salah**. Tidak ada gunanya membuat ulang map tanpa ada pelajaran yang dapat dipetik, dan maka dari itu Ingatlah untuk selalu memberikan contoh!
+**Apabila kamu benar-benar merasa bahwa mapper yang bersangkutan perlu untuk membuat ulang map mereka dari awal (*remap*), kamu harus memberi tahu di mana dan atas dasar apa mereka berbuat salah**. Tidak ada gunanya membuat ulang map tanpa ada pelajaran yang dapat dipetik, dan maka dari itu hal ini merupakan sesuatu yang harus kamu cakup dalam mod yang kamu tulis. Ingatlah untuk selalu memberikan contoh!
 
 **Remaps should also be left as a last resort.** Avoid suggesting to do this unless the map's concept is fundamentally flawed, and remapping would impose less effort on the mapper than improving the current map.
 
