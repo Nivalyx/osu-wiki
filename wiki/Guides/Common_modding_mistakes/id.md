@@ -51,7 +51,7 @@ Walaupun contoh-contoh di bawah ini ditulis dengan konteks mapping yang spesifik
 00:03:000 - jangan lakukan hal ini
 ```
 
-**Pada saat menyampaikan suatu masalah, tuliskan masalahmu secara jelas dan formal untuk menghindari terdapatnya kesalahpahaman**. Kamu harus selalu menyatakan apa masalah yang ingin kamu angkat, bahkan ketika masalah ini tampak jelas sekalipun.
+**Pada saat menyampaikan suatu masalah, tuliskan masalahmu secara jelas dan formal untuk menghindari terdapatnya kesalahpahaman**. Kamu harus selalu menyatakan apa masalah yang ingin kamu angkat, bahkan ketika masalah ini tampak mentereng sekalipun.
 
 ---
 
