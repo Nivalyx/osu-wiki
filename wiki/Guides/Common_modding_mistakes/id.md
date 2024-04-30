@@ -119,7 +119,7 @@ Kalau boleh jujur, mungkin akan lebih baik apabila kamu membuat ulang map ini da
 
 **Remaps should also be left as a last resort.** Avoid suggesting to do this unless the map's concept is fundamentally flawed, and remapping would impose less effort on the mapper than improving the current map.
 
-**Remap juga sebaiknya hanya dijadikan solusi pamungkas ketika segala sesuatunya sudah tidak tertolong**. Hindari untuk menyarankan hal ini kecuali apabila konsep map yang kamu mod cacat secara mendasar dan
+**Remap juga sebaiknya hanya dijadikan solusi pamungkas ketika segala sesuatunya sudah tidak tertolong**. Hindari untuk menyarankan hal ini kecuali apabila konsep map yang kamu mod cacat secara mendasar, dan
 
 ---
 
@@ -143,7 +143,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 
 **When posting an issue, avoid vague words like "good" and "bad".** Not everyone is on the same page about what is good and what is not, especially in terms of situational and subjective aspects like [flow](/wiki/Beatmapping/Mapping_techniques/Flow). Try to use more objective terms like "comfortable/uncomfortable", "calm/intense", etc. Remember to add examples to your mods where possible.
 
-**Pada saat menerakan masalah, hindari penggunaan kata yang dapat berarti samar seperti "baik" dan "buruk"**.
+**Pada saat memposting suatu masalah, hindari penggunaan kata yang dapat berarti samar seperti "baik" dan "buruk"**.
 
 ---
 
