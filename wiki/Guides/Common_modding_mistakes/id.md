@@ -96,11 +96,13 @@ Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memil
 
 ```md
 Mod ini memerlukan waktu 10 jam untuk saya selesaikan. Kamu sebaiknya menerapkan saran saya.
-Gaya mapping-mu sungguh buruk; buatlah map seperti para mapper lainnya.
+Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 00:00:000 - Why are there giant sliders all over? Map these sections properly.
 ```
 
 **The goal of modding is to help improve the map.** It is not to force your opinions on the mapper. If the mapper is denying things you believe would improve the map, then that is on them. In these cases, just accept it and move on, but consider their reasoning and try predicting this in similar future cases.
+
+**Tujuan dari modding adalah untuk membantu meningkatkan kualitas map yang di-mod**.
 
 ```md
 00:00:000 - Ini adalah ritme yang buruk.
