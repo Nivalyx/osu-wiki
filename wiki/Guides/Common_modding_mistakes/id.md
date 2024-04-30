@@ -88,7 +88,7 @@ Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memil
 00:00:000 - Sudut antara rangkaian circle ini terlalu lebar. Kamu sebaiknya mencoba untuk menempatkan sudut yang tajam di antara circle-circle ini. Hal ini karena sudut yang tajam akan lebih nyaman untuk dimainkan, terutama apabila ditempatkan mengikuti flow yang melingkar. Sudut yang tajam memungkinkan para pemain untuk menjentikkan kursor mereka ke masing-masing objek secara lebih halus, karena momentum kursor...
 ```
 
-**Uraikan segala sesuatunya sesingkat dan sepadat mungkin tanpa mengesampingkan informasi yang penting**. Penggunaan kata-kata pengiring atau jargon teknis (*buzzword*) yang terlalu berlebihan hanya akan menyebabkan kebingungan, dan mapper yang bersangkutan akan lebih berkemungkinan untuk salah memahami saranmu.
+**Uraikan segala sesuatunya sesingkat mungkin tanpa mengesampingkan informasi yang penting**. Penggunaan kata-kata pengiring atau jargon teknis (*buzzword*) yang terlalu berlebihan hanya akan menyebabkan kebingungan, dan mapper yang bersangkutan akan lebih berkemungkinan untuk salah memahami saranmu.
 
 ---
 
@@ -107,9 +107,7 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 00:03:000 - Map ini mengalir dengan buruk pada bagian ini.
 ```
 
-**While pointing out an issue is important, it is also important to provide suggestions and alternatives.** By doing this, the mapper will see what you have in mind and can also apply it directly to the map. It is especially helpful when the mapper knows of an issue but cannot resolve it themselves.
-
-**Sepenting-pentingnya kamu perlu untuk menunjukkan letak permasalahan yang ada, memberikan saran dan alternatif untuk masalah tersebut juga tidak kalah penting**. Dengan melakukan hal ini, mapper yang bersangkutan akan dapat melihat solusi apa yang kamu miliki dan menerapkannya secara langsung ke map mereka. 
+**Sepenting-pentingnya kamu perlu untuk menunjukkan letak permasalahan yang ada, memberikan saran dan alternatif untuk masalah tersebut juga tidak kalah penting**. Dengan melakukan hal ini, mapper yang bersangkutan akan dapat melihat solusi apa yang kamu miliki dan menerapkannya secara langsung ke map mereka. Hal ini berguna terutama pada saat mapper yang bersangkutan namun tidak tahu cara untuk menyelesaikannya.
 
 ---
 
