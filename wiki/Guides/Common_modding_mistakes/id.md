@@ -80,7 +80,7 @@ Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memil
 00:02:000 - Pindahkan ke atas sejauh 1 pixel.
 ```
 
-**Inti dari proses modding adalah untuk membuat suatu map menjadi lebih baik, bukan untuk mengubah map tersebut hanya karena memang ada sesuatu yang dapat diubah**. Apabila perubahan yang kamu sarankan hanya memiliki dampak yang teramat kecil, renungkanlah terlebih dahulu apakah perubahan ini akan dapat membenahi map yang kamu tinjau secara pesat. Apabila tidak, hal ini mungkin sebaiknya tidak perlu kamu angkat.
+**Inti dari proses modding adalah untuk membuat suatu map menjadi lebih baik, bukan untuk mengubah map tersebut hanya karena memang ada sesuatu yang dapat diubah**. Apabila perubahan yang kamu sarankan hanya memiliki dampak yang teramat kecil, renungkanlah terlebih dahulu apakah perubahan ini akan dapat meningkatkan map yang kamu tinjau secara pesat. Apabila tidak, hal ini mungkin sebaiknya tidak perlu kamu angkat.
 
 ---
 
@@ -102,7 +102,7 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 
 **The goal of modding is to help improve the map.** It is not to force your opinions on the mapper. If the mapper is denying things you believe would improve the map, then that is on them. In these cases, just accept it and move on, but consider their reasoning and try predicting this in similar future cases.
 
-**Tujuan dari modding adalah untuk membantu membenahi map yang di-mod**, bukan untuk memaksakan pendapatmu kepada mapper yang bersangkutan. maka mereka sendirilah yang akan menanggung risikonya.
+**Tujuan dari modding adalah untuk membantu membenahi map yang di-mod**, bukan untuk memaksakan pendapatmu kepada mapper yang bersangkutan. Apabila mapper tersebut menolak untuk menerapkan hal yang kamu yakini dapat meningkatkan map mereka, maka mereka sendirilah yang akan menanggung risikonya. Dalam kasus yang demikian, terima saja hal ini dan jangan perpanjang perkara
 
 ```md
 00:00:000 - Ini adalah ritme yang buruk.
@@ -120,6 +120,8 @@ Kalau boleh jujur, mungkin akan lebih baik kalau kamu membuat ulang map ini dari
 ```
 
 **If you really think the mapper should remap, you have to tell them where they are going wrong and why.** There is no point in remapping if there is nothing to learn from it, so it is something you should cover in your mod. Remember to give examples!
+
+**Apabila kamu benar-benar merasa bahwa mapper yang bersangkutan perlu untuk membuat ulang map mereka dari awal (*remap*), kamu harus memberi tahu di mana dan atas dasar apa mereka berbuat salah**.
 
 **Remaps should also be left as a last resort.** Avoid suggesting to do this unless the map's concept is fundamentally flawed, and remapping would impose less effort on the mapper than improving the current map.
 
