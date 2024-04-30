@@ -85,12 +85,12 @@ Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memil
 ---
 
 ```md
-00:00:000 - The angle between these circles is too wide, you should try to use sharp angles for these circles instead. This is because sharp angles are more comfortable to play, especially when it comes to following circular flow. Sharp angles allow the player to snap to each object more smoothly, because the momentum of the cursor...
+00:00:000 - Sudut antara rangkaian circle ini terlalu lebar. Kamu harusThe angle between these circles is too wide, you should try to use sharp angles for these circles instead. This is because sharp angles are more comfortable to play, especially when it comes to following circular flow. Sharp angles allow the player to snap to each object more smoothly, because the momentum of the cursor...
 ```
 
 **Keep things as short as possible while still giving the necessary information.** Too much unnecessary filler or using uncommon buzz words leads to confusion, and the mapper is more likely to misunderstand the suggestion.
 
-**Tuliskan segala sesuatunya sesingkat mungkin selagi tetap mengandung informasi yang penting**. 
+**Uraikan segala sesuatunya sesingkat dan sepadat mungkin tanpa mengesampingkan informasi yang penting**. 
 
 ---
 
