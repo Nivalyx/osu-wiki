@@ -144,9 +144,9 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 ---
 
 ```md
-00:00:000 - why would you do this?
-00:01:000 - why did you place this here?
-00:02:000 - what is this rhythm?
+00:00:000 - mengapa kamu melakukan hal ini?
+00:01:000 - mengapa kamu menempatkan hal ini di sini?
+00:02:000 - ritme macam apa ini?
 ```
 
 **Formulating points as questions is generally impolite and a bad habit.** If you do not understand some part of the map, tell them why it is confusing and what you expected to see. You can still ask them if you must, but at least include this information first.
