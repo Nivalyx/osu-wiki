@@ -164,9 +164,9 @@ Estetika itu subjektif, jadi saya akan mengabaikan hal ini.
 ---
 
 ```md
-00:00:000 - dude is your mapping always this bad
+00:00:000 - bro apakah map yang kamu buat selalu seburuk ini
 learn how to map first and then I can mod this properly
-this map would look great in the trash can
+map ini akan terlihat bagus di kotak sampah
 ```
 
 **Refrain from making rude or sarcastic remarks when modding.** This sort of behaviour is what would eventually get you [silenced](/wiki/Silence), and not something others would end up liking you for. Be sure to always follow the [Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) when modding for a better modding environment for everyone.
