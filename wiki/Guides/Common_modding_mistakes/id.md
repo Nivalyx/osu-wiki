@@ -135,7 +135,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 ---
 
 ```md
-00:00:000 - buat flow ini menjadi halus
+00:00:000 - perbaiki flow ini
 00:01:000 - hal ini dapat dibuat lebih baik
 00:02:000 - struktur buruk
 00:03:000 - ritme ini buruk
