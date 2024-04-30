@@ -135,10 +135,10 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 ---
 
 ```md
-00:00:000 - make this good flow
-00:01:000 - this can be better
-00:02:000 - bad structure
-00:03:000 - rhythm is bad
+00:00:000 - buat flow ini menjadi halus
+00:01:000 - hal ini dapat dibuat lebih baik
+00:02:000 - struktur buruk
+00:03:000 - ritme ini buruk
 ```
 
 **When posting an issue, avoid vague words like "good" and "bad".** Not everyone is on the same page about what is good and what is not, especially in terms of situational and subjective aspects like [flow](/wiki/Beatmapping/Mapping_techniques/Flow). Try to use more objective terms like "comfortable/uncomfortable", "calm/intense", etc. Remember to add examples to your mods where possible.
