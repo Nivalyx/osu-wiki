@@ -115,11 +115,11 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 Kalau boleh jujur, mungkin akan lebih baik apabila kamu membuat ulang map ini dari awal saja.
 ```
 
-**Apabila kamu benar-benar merasa bahwa mapper yang bersangkutan perlu untuk membuat ulang map mereka dari awal (*remap*), kamu harus memberi tahu di mana dan atas dasar apa mereka berbuat salah**. Tidak ada gunanya menyuruh orang lain membuat ulang map mereka tanpa adanya pelajaran yang dapat dipetik, dan oleh karenanya kedua hal ini merupakan sesuatu yang harus kamu cakup dalam mod yang kamu tulis. Ingatlah untuk selalu memberikan contoh!
+**Apabila kamu benar-benar merasa bahwa mapper yang bersangkutan perlu untuk membuat ulang map mereka dari awal (*remap*), kamu harus memberi tahu di mana dan atas dasar apa mereka berbuat salah**. Tidak ada gunanya menyuruh orang lain membuat ulang map mereka tanpa ada pelajaran yang dapat mereka petik, dan oleh karenanya kedua hal ini merupakan sesuatu yang harus kamu cakup dalam mod yang kamu tulis. Ingatlah untuk selalu memberikan contoh!
 
 **Remaps should also be left as a last resort.** Avoid suggesting to do this unless the map's concept is fundamentally flawed, and remapping would impose less effort on the mapper than improving the current map.
 
-**Remap juga harus solusi terakhir**.
+**Remap juga sebaiknya hanya dijadikan solusi terakhir ketika segala sesuatunya sudah tidak tertolong**. Hindari untuk menyarankan hal ini
 
 ---
 
@@ -130,7 +130,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 
 **Whether a mod is of quality or not is up to the mapper.** Solely looking at a mod will not really say much. To tell whether it is good or not, you have to put yourself into the mapper's perspective. Would they apply these suggestions? Are they actually useful? Will the mapper understand the reasoning?
 
-**Apakah suatu mod dianggap berkualitas atau tidak adalah hak dari masing-masing mapper**.
+**Apakah suatu mod berkualitas tergantung pada mapper-nya masing-masing**.
 
 ---
 
