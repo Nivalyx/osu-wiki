@@ -35,7 +35,7 @@ Walaupun contoh-contoh di bawah ini ditulis dengan konteks mapping yang spesifik
 ---
 
 ```md
-00:00:000 - Objek-objek ini ditempatkan secara aneh dan mungkin tidak akan dapat di-rank.
+00:00:000 - Objek-objek ini ditempatkan secara tidak wajar dan mungkin tidak akan dapat di-rank.
 00:01:000 - Jarak antar objek ini tidak dapat di-rank.
 00:02:000 - Saya tidak merasa ritme ini dapat di-rank.
 ```
