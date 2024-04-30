@@ -90,7 +90,7 @@ Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memil
 
 **Keep things as short as possible while still giving the necessary information.** Too much unnecessary filler or using uncommon buzz words leads to confusion, and the mapper is more likely to misunderstand the suggestion.
 
-**Tuliskan segala sesuatunya sesingkat mungkin 
+**Tuliskan segala sesuatunya sesingkat mungkin selagi tetap mengandung informasi yang penting**. 
 
 ---
 
