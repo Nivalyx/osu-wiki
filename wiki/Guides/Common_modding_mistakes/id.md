@@ -102,7 +102,7 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 
 **The goal of modding is to help improve the map.** It is not to force your opinions on the mapper. If the mapper is denying things you believe would improve the map, then that is on them. In these cases, just accept it and move on, but consider their reasoning and try predicting this in similar future cases.
 
-**Tujuan dari modding adalah untuk membantu menyempurnakan map yang di-mod**, bukan untuk memaksakan pendapatmu kepada mapper yang bersangkutan. maka mereka sendirilah yang akan menanggung risikonya.
+**Tujuan dari modding adalah untuk membantu membenahi map yang di-mod**, bukan untuk memaksakan pendapatmu kepada mapper yang bersangkutan. maka mereka sendirilah yang akan menanggung risikonya.
 
 ```md
 00:00:000 - Ini adalah ritme yang buruk.
