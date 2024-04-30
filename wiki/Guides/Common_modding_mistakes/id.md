@@ -130,6 +130,8 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 
 **Whether a mod is of quality or not is up to the mapper.** Solely looking at a mod will not really say much. To tell whether it is good or not, you have to put yourself into the mapper's perspective. Would they apply these suggestions? Are they actually useful? Will the mapper understand the reasoning?
 
+**Apakah suatu mod dianggap berkualitas atau tidak adalah hak dari masing-masing mapper**.
+
 ---
 
 ```md
