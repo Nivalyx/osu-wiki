@@ -90,11 +90,13 @@ Opsi "Widescreen support" tidak diatur secara konsisten dan map kamu tidak memil
 
 **Keep things as short as possible while still giving the necessary information.** Too much unnecessary filler or using uncommon buzz words leads to confusion, and the mapper is more likely to misunderstand the suggestion.
 
+**Tuliskan segala sesuatunya sesingkat mungkin 
+
 ---
 
 ```md
-This mod took me 10 hours to complete, you better apply my suggestions.
-Your mapping style is really bad; just map like everyone else.
+Mod ini memerlukan waktu 10 jam untuk saya selesaikan. Kamu sebaiknya menerapkan saran saya.
+Gaya mapping-mu sungguh buruk; buatlah map seperti para mapper lainnya.
 00:00:000 - Why are there giant sliders all over? Map these sections properly.
 ```
 
