@@ -158,7 +158,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 ---
 
 ```md
-Aesthetics is subjective so I'll ignore that.
+Estetika itu subjektif, jadi saya akan mengabaikan hal ini.
 ```
 
 **What you may think is objective to you is in fact still subjective to a certain degree.** It is best to avoid thinking that subjectivity is black and white, and just mention anything you believe would help the map.
