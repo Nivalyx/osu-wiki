@@ -112,7 +112,7 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 ---
 
 ```md
-Kalau boleh jujur, mungkin akan lebih baik kalau kamu membuat ulang map ini dari awal saja.
+Kalau boleh jujur, mungkin akan lebih baik apabila kamu membuat ulang map ini dari awal saja.
 ```
 
 **If you really think the mapper should remap, you have to tell them where they are going wrong and why.** There is no point in remapping if there is nothing to learn from it, so it is something you should cover in your mod. Remember to give examples!
