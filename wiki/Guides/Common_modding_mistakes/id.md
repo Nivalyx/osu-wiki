@@ -109,7 +109,7 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 
 **While pointing out an issue is important, it is also important to provide suggestions and alternatives.** By doing this, the mapper will see what you have in mind and can also apply it directly to the map. It is especially helpful when the mapper knows of an issue but cannot resolve it themselves.
 
-**Pada saat memaparkan masalah yang penting, juga tidak kalah penting**.
+**Sepenting-pentingnya kamu perlu untuk menunjukkan letak permasalahan yang ada, memberikan saran dan alternatif untuk masalah tersebut juga tidak kalah penting**. Dengan melakukan hal ini, mapper yang bersangkutan
 
 ---
 
