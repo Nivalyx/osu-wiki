@@ -106,7 +106,7 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 
 ```md
 00:00:000 - Ini adalah ritme yang buruk.
-00:01:000 - I really think you can improve this slider art a bit, try using some more aesthetic shape.
+00:01:000 - Saya kira kamu dapat membuat slider art ini menjadi sedikit lebih cantik. Cobalah untuk menggunakan bentuk yang lebih estetik.
 00:02:000 - Kamu sebaiknya menempatkan sesuatu yang lebih rumit di sini, karena pola yang kamu miliki saat ini terasa terlalu sederhana dibanding lagunya.
 00:03:000 - Map ini mengalir dengan buruk pada bagian ini.
 ```
