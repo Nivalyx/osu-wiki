@@ -69,9 +69,7 @@ Walaupun contoh-contoh di bawah ini ditulis dengan konteks mapping yang spesifik
 Secara umum, objek permainan harus ditempatkan pada suara yang jelas pada lagu agar suara tersebut dapat direpresentasikan dengan baik. Menjaga agar tingkat kepadatan ritme setara dengan intensitas lagu adalah /.../
 ```
 
-**Selalu sertakan setidaknya satu contoh dan satu buah keterangan waktu (*timestamp*)**. Tanpa mencantumkan contoh pada map yang kamu mod, mapper yang bersangkutan mungkin akan merasa kebingungan seputar apa dan di mana letak masalah yang kamu ungkit. Sebagai seorang modder, kamu dapat menemukan dirimu berbicara secra terlalu luas dan bertele-tela apabila kamu tidak berhati-hati.
-
-Without giving an example in the map you are modding, the mapper will likely be confused as to where and what the problems are. As a modder you may find yourself speaking too broadly, mostly rambling rather than trying to improve the map itself.
+**Selalu sertakan setidaknya satu contoh dan satu buah keterangan waktu (*timestamp*)**. Tanpa mencantumkan contoh pada map yang kamu mod, mapper yang bersangkutan mungkin akan merasa kebingungan seputar apa masalah yang kamu ungkit dan di mana letak masalah tersebut. Sebagai seorang modder, kamu dapat menemukan dirimu berbicara secara terlalu luas dan bertele-tele (alih-alih meningkatkan map) apabila kamu tidak berhati-hati.
 
 ---
 
