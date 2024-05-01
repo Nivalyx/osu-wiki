@@ -159,6 +159,8 @@ Estetika itu subjektif, jadi saya akan mengabaikan hal ini.
 
 **What you may think is objective to you is in fact still subjective to a certain degree.** It is best to avoid thinking that subjectivity is black and white, and just mention anything you believe would help the map.
 
+**Apa yang kamu pikir objektif sesungguhnya masih bersifat subjektif hingga batas tertentu**.
+
 ---
 
 ```md
