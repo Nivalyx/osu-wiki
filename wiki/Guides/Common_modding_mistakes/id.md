@@ -128,7 +128,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 
 **Whether a mod is of quality or not is up to the mapper.** Solely looking at a mod will not really say much. To tell whether it is good or not, you have to put yourself into the mapper's perspective. Would they apply these suggestions? Are they actually useful? Will the mapper understand the reasoning?
 
-**Berkualitas atau tidaknya suatu mod bergantung pada penilaian masing-masing mapper**. 
+**Berkualitas atau tidaknya suatu mod bergantung pada penilaian masing-masing mapper**. Kamu tidak akan dapat menyimpulkan banyak hal hanya dengan melihat suatu mod. Untuk dapat menilai apakah suatu mod baik atau tidak, kamu harus menempatkan dirimu dari sudut pandang mapper yang bersangkutan dan bertanya: Apakah mereka akan mengikuti saran saya? Apakah hal-hal yang saya sarankan berguna? Akankah mereka mengerti alasan mengapa saya menyarankan hal ini?
 
 ---
 
@@ -167,7 +167,7 @@ belajar dulu cara nge-map yang benar sana, baru nanti saya bisa mod map kamu den
 map ini akan terlihat bagus di kotak sampah
 ```
 
-**Jangan membuat pernyataan yang kasar atau sarkastik pada saat memberikan mod**. Tindakan seperti ini akan membuatmu ter-[*silence*](/wiki/Silence) dan tidak disukai oleh para pengguna lainnya. Pastkan untuk selalu mengikuti [kode etik yang berlaku](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) pada saat memberikan mod demi menciptakan lingkungan modding yang lebih nyaman bagi semua.
+**Jangan membuat pernyataan yang kasar atau sarkastik pada saat memberikan mod**. Tindakan seperti ini akan membuatmu ter-[*silence*](/wiki/Silence) dan tidak disukai oleh para pengguna lainnya. Pastikan untuk selalu mengikuti [kode etik yang berlaku](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) pada saat memberikan mod demi menciptakan lingkungan modding yang lebih nyaman bagi semua.
 
 ---
 
