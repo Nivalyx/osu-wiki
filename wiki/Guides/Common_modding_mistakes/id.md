@@ -126,8 +126,6 @@ Mod saya lebih baik karena saya lebih berpengalaman darimu. Kamu harus menerapka
 Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis apa itu kualitas.
 ```
 
-**Whether a mod is of quality or not is up to the mapper.** Solely looking at a mod will not really say much. To tell whether it is good or not, you have to put yourself into the mapper's perspective. Would they apply these suggestions? Are they actually useful? Will the mapper understand the reasoning?
-
 **Berkualitas atau tidaknya suatu mod bergantung pada penilaian masing-masing mapper**. Kamu tidak akan dapat menyimpulkan banyak hal hanya dengan melihat suatu mod. Untuk dapat menilai apakah suatu mod baik atau tidak, kamu harus menempatkan dirimu dari sudut pandang mapper yang bersangkutan dan bertanya: Apakah mereka akan mengikuti saran saya? Apakah hal-hal yang saya sarankan berguna? Akankah mereka mengerti alasan mengapa saya menyarankan hal ini?
 
 ---
