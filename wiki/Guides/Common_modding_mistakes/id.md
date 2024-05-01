@@ -149,7 +149,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 00:02:000 - ritme macam apa ini?
 ```
 
-**Merumuskan poin dalam bentuk pertanyaan pada umumnya merupakan sesuatu yang tidak sopan**. Apabila kamu tidak memahami bagian tertentu pada map, beritahukan mapper yang bersangkutan mengapa bagian tersebut terasa membingungkan dan hal seperti apa yang kamu harapkan sebagai gantinya. Kamu tetap dapat bertanya apabila dirasa perlu, namun setidaknya sertakan informasi ini terlebih dahulu.
+**Merumuskan poin modding dalam bentuk pertanyaan pada umumnya merupakan sesuatu yang tidak sopan**. Apabila kamu tidak memahami bagian tertentu pada map, beritahukan mapper yang bersangkutan mengapa bagian tersebut terasa membingungkan dan hal seperti apa yang kamu harapkan sebagai gantinya. Kamu tetap dapat bertanya apabila dirasa perlu, namun setidaknya sertakan informasi ini terlebih dahulu.
 
 ---
 
