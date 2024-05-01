@@ -157,9 +157,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 Estetika itu subjektif, jadi saya akan mengabaikan hal ini.
 ```
 
-**What you may think is objective to you is in fact still subjective to a certain degree.** It is best to avoid thinking that subjectivity is black and white, and just mention anything you believe would help the map.
-
-**Apa yang kamu pikir objektif sesungguhnya masih bersifat subjektif hingga batasan tertentu**. Akan lebih baik apabila kamu berhenti berpikir bahwa segala hal dan mulai menyebutkan segala hal yang kamu yakini dapat meningkatkan map yang kamu mod.
+**Apa yang kamu pikir objektif sesungguhnya masih bersifat subjektif hingga batasan tertentu**. Akan lebih baik apabila kamu berhenti berpikir bahwa subjektivitas itu hitam dan putih dan mulai menyebutkan segala hal yang kamu yakini dapat meningkatkan map yang kamu mod.
 
 ---
 
@@ -179,4 +177,4 @@ map ini akan terlihat bagus di kotak sampah
 00:02:000 - Akan lebih keren apabila kamu melakukan hal yang sama seperti pada 00:00:500.
 ```
 
-**Preferensi pribadi bukan merupakan pembenaran yang valid**. Alih-alih sekadar menyatakan bahwa kamu merasa saranmu lebih baik, jelaskan *mengapa* menurutmu saran tersebut lebih baik. Sebagai contoh, menjelaskan bahwa saranmu akan dapat menjadikan suatu hal lebih konsisten atau lebih sejalan dengan hal lainnya merupakan pembenaran yang lebih dapat diterima.
+**Preferensi pribadi bukan merupakan pembenaran yang valid**. Alih-alih sekadar menyatakan bahwa kamu merasa saranmu lebih baik, jelaskan *mengapa* menurutmu saran tersebut lebih baik. Sebagai contoh, menjelaskan bahwa saranmu dapat menjadikan suatu hal lebih konsisten atau lebih sejalan dengan hal lainnya akan menghasilkan pembenaran yang lebih dapat diterima.
