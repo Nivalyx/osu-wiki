@@ -8,7 +8,7 @@ The points introduced below are formatted such that an example of poor modding i
 
 contoh modding yang buruk, yang disertai dengan penjelasan mengapa hal tersebut merupakan suatu kesalahan di bawahnya.
 
-Walaupun contoh-contoh di bawah ini ditulis dengan konteks mapping yang spesifik untuk mode permainan [osu!](/wiki/Game_mode/osu!), contoh-contoh ini juga dapat diterapkan pada [mode permainan](/wiki/Game_mode) lainnya.
+Walaupun contoh-contoh berikut ditulis dengan konteks mapping yang spesifik untuk mode permainan [osu!](/wiki/Game_mode/osu!), contoh-contoh ini juga dapat diterapkan pada [mode permainan](/wiki/Game_mode) lainnya.
 
 ---
 
