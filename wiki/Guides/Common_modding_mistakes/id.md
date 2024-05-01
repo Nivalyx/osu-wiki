@@ -159,7 +159,7 @@ Estetika itu subjektif, jadi saya akan mengabaikan hal ini.
 
 **What you may think is objective to you is in fact still subjective to a certain degree.** It is best to avoid thinking that subjectivity is black and white, and just mention anything you believe would help the map.
 
-**Apa yang kamu pikir objektif sesungguhnya masih bersifat subjektif hingga batasan tertentu**. 
+**Apa yang kamu pikir objektif sesungguhnya masih bersifat subjektif hingga batasan tertentu**. Akan lebih baik apabila kamu berhenti berpikir bahwa segala hal dan mulai menyebutkan segala hal yang kamu yakini dapat meningkatkan map yang kamu mod.
 
 ---
 
