@@ -126,7 +126,7 @@ Mod saya lebih baik karena saya lebih berpengalaman darimu. Kamu harus menerapka
 Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis apa itu kualitas.
 ```
 
-**Berkualitas atau tidaknya suatu mod bergantung pada penilaian masing-masing mapper**. Kamu tidak akan dapat menyimpulkan banyak hal hanya dengan melihat suatu mod. Untuk dapat menilai apakah suatu mod baik atau tidak, kamu perlu untuk menempatkan dirimu dari sudut pandang mapper yang bersangkutan dan bertanya: Apakah mereka akan mengikuti saran saya? Apakah hal-hal yang saya sarankan berguna? Akankah mereka mengerti alasan mengapa saya menyarankan hal ini?
+**Berkualitas atau tidaknya suatu mod bergantung pada penilaian masing-masing mapper**. Kamu tidak akan dapat menyimpulkan banyak hal hanya dengan melihat suatu mod. Untuk dapat menilai apakah suatu mod baik atau tidak, kamu perlu untuk menempatkan dirimu dari sudut pandang mapper yang bersangkutan dan bertanya: Apakah mereka akan mengikuti saran saya? Apakah hal yang saya sarankan berguna? Akankah mereka mengerti alasan mengapa saya menyarankan hal ini?
 
 ---
 
