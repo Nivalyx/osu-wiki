@@ -14,7 +14,7 @@ Walaupun contoh-contoh berikut ditulis dengan konteks mapping yang spesifik untu
 
 ```md
 00:00:000 - Hapus slider ini.
-00:01:000 - Tambahkan circle baru.
+00:01:000 - Letakkan circle baru.
 00:02:000 - Kurangi jarak antar objek.
 00:02:000 - Tajamkan flow di bagian ini.
 00:04:000 - Ctrl+G.
