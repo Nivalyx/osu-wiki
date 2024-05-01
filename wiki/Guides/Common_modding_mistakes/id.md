@@ -169,6 +169,8 @@ map ini akan terlihat bagus di kotak sampah
 
 **Refrain from making rude or sarcastic remarks when modding.** This sort of behaviour is what would eventually get you [silenced](/wiki/Silence), and not something others would end up liking you for. Be sure to always follow the [Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) when modding for a better modding environment for everyone.
 
+**Hindari membuat pernyataan yang kasar atau sarkastik pada saat memberikan mod**. Tindakan ini akan dapat kamu ter-[*silence*](/wiki/Silence), yang
+
 ---
 
 ```md
