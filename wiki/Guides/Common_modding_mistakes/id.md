@@ -139,7 +139,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 00:03:000 - ritme ini buruk
 ```
 
-**Pada saat memposting suatu masalah, hindari penggunaan kata-kata yang dapat berarti samar seperti "baik" dan "buruk"**. Tidak semua orang sependapat akan apa-apa saja yang tergolong baik dan buruk, terutama pada hal-hal yang bersifat situasional dan subjektif seperti [*flow*](/wiki/Beatmapping/Mapping_techniques/Flow). Cobalah untuk menggunakan terminologi yang lebih objektif seperti "nyaman/tidak nyaman", "tenang/intens", dan lain sebagainya. Ingatlah untuk selalu mencantumkan contoh pada mod kamu apabila memungkinkan.
+**Pada saat memposting suatu masalah, hindari penggunaan kata-kata yang dapat berarti samar seperti "baik" dan "buruk"**. Tidak semua orang sependapat akan apa-apa saja yang tergolong baik dan buruk, terutama pada hal-hal yang bersifat situasional dan subjektif seperti [*flow*](/wiki/Beatmapping/Mapping_techniques/Flow). Cobalah untuk menggunakan kosakata yang lebih objektif, seperti "nyaman/tidak nyaman", "tenang/intens", dan lain sebagainya. Ingatlah untuk selalu mencantumkan contoh pada mod kamu apabila memungkinkan.
 
 ---
 
@@ -177,4 +177,4 @@ map ini akan terlihat bagus di kotak sampah
 00:02:000 - Akan lebih keren apabila kamu melakukan hal yang sama seperti pada 00:00:500.
 ```
 
-**Preferensi pribadi bukan merupakan pembenaran yang valid**. Alih-alih sekadar menyatakan bahwa kamu merasa saranmu lebih baik, jelaskan *mengapa* menurutmu saran tersebut lebih baik. Sebagai contoh, menjelaskan bahwa saranmu dapat menjadikan suatu hal lebih konsisten atau lebih sejalan dengan hal lainnya akan menghasilkan pembenaran yang lebih dapat diterima.
+**Preferensi pribadi bukan merupakan pembenaran yang valid**. Alih-alih sekadar menyatakan bahwa kamu merasa saranmu lebih baik, jelaskan *mengapa* menurutmu saran tersebut lebih baik. Sebagai contoh, menjelaskan bahwa saranmu dapat menjadikan suatu hal lebih konsisten atau lebih sejalan dengan hal lainnya merupakan pembenaran yang lebih dapat diterima.
