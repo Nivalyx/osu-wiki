@@ -175,4 +175,4 @@ map ini akan terlihat bagus di kotak sampah
 00:02:000 - Akan lebih keren apabila kamu melakukan hal yang sama seperti pada 00:00:500.
 ```
 
-**Preferensi pribadi bukan merupakan pembenaran yang valid**. Alih-alih sekadar menyatakan bahwa kamu merasa saranmu lebih baik, jelaskan *mengapa* menurutmu saran tersebut lebih baik. Sebagai contoh, menjelaskan bahwa saranmu akan dapat menjadikan sesuatu lebih konsisten atau lebih sejalan dengan hal lainnya merupakan pembenaran yang lebih dapat diterima.
+**Preferensi pribadi bukan merupakan pembenaran yang valid**. Alih-alih sekadar menyatakan bahwa kamu merasa saranmu lebih baik, jelaskan *mengapa* menurutmu saran tersebut lebih baik. Sebagai contoh, menjelaskan bahwa saranmu dapat menjadikan suatu hal lebih konsisten atau lebih sejalan dengan hal lainnya akan membuat saran ini lebih dapat diterima.
