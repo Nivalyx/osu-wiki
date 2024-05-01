@@ -40,7 +40,7 @@ Walaupun contoh-contoh di bawah ini ditulis dengan konteks mapping yang spesifik
 00:02:000 - Saya tidak merasa ritme ini dapat di-rank.
 ```
 
-**Jangan nyatakan bahwa suatu hal tidak dapat di-rank (*unrankable*) kecuali [kriteria ranking](/wiki/Ranking_criteria) memang menerangkan demikian secara gamblang**. Hal ini dapat membuat bingung para mapper pemula. Apabila suatu hal bersifat *unrankable*, hal ini berarti bahwa hal tersebut tidak dapat melewati [proses ranking](/wiki/Beatmap_ranking_procedure) yang berlaku tanpa terkecuali. Oleh karenanya, pergunakanlah kata-kata ini secara hati-hati.
+**Hindari untuk menerangkan bahwa suatu hal tidak dapat di-rank (*unrankable*) kecuali [kriteria ranking](/wiki/Ranking_criteria) memang menyatakan demikian secara gamblang**. Hal ini dapat membuat bingung para mapper pemula. Apabila suatu hal bersifat *unrankable*, hal ini berarti bahwa hal tersebut tidak dapat melewati [proses ranking](/wiki/Beatmap_ranking_procedure) yang berlaku tanpa terkecuali. Oleh karenanya, pergunakanlah kata-kata ini secara hati-hati.
 
 ---
 
