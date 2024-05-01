@@ -157,7 +157,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 Estetika itu subjektif, jadi saya akan mengabaikan hal ini.
 ```
 
-**Apa yang kamu pikir objektif sesungguhnya masih bersifat subjektif hingga batasan tertentu**. Akan lebih baik apabila kamu berhenti berpikir bahwa subjektivitas itu hitam dan putih, dan mulai langsung menyebutkan saja segala hal yang kamu yakini dapat meningkatkan map yang kamu mod tanpa harus mengkhawatirkan hal ini.
+**Apa yang kamu pikir objektif sesungguhnya masih bersifat subjektif hingga batasan tertentu**. Akan lebih baik apabila kamu berhenti berpikir bahwa subjektivitas itu bak hitam dan putih, dan mulai langsung menyebutkan saja segala hal yang kamu yakini dapat meningkatkan map yang kamu mod tanpa harus mengkhawatirkan hal ini.
 
 ---
 
