@@ -40,7 +40,7 @@ Walaupun contoh-contoh di bawah ini ditulis dengan konteks mapping yang spesifik
 00:02:000 - Saya tidak merasa ritme ini dapat di-rank.
 ```
 
-**Hindari untuk menerangkan bahwa suatu hal tidak dapat di-rank (*unrankable*) kecuali [kriteria ranking](/wiki/Ranking_criteria) memang menyatakan demikian secara gamblang**. Hal ini dapat membuat bingung para mapper pemula. Apabila suatu hal bersifat *unrankable*, hal ini berarti bahwa hal tersebut tidak dapat melewati [proses ranking](/wiki/Beatmap_ranking_procedure) yang berlaku tanpa terkecuali. Oleh karenanya, pergunakanlah kata-kata ini secara hati-hati.
+**Jangan nyatakan bahwa suatu hal tidak dapat di-rank (*unrankable*) kecuali [kriteria ranking](/wiki/Ranking_criteria) memang menerangkan demikian secara gamblang**. Hal ini dapat membuat bingung para mapper pemula. Apabila suatu hal bersifat *unrankable*, hal ini berarti bahwa hal tersebut tidak dapat melewati [proses ranking](/wiki/Beatmap_ranking_procedure) yang berlaku tanpa terkecuali. Oleh karenanya, pergunakanlah kata-kata ini secara hati-hati.
 
 ---
 
@@ -169,7 +169,7 @@ map ini akan terlihat bagus di kotak sampah
 
 **Refrain from making rude or sarcastic remarks when modding.** This sort of behaviour is what would eventually get you [silenced](/wiki/Silence), and not something others would end up liking you for. Be sure to always follow the [Code of Conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) when modding for a better modding environment for everyone.
 
-**Hindari membuat pernyataan yang kasar atau sarkastik pada saat memberikan mod**. Tindakan ini akan dapat kamu ter-[*silence*](/wiki/Silence), yang
+**Jangan membuat pernyataan yang kasar atau sarkastik pada saat memberikan mod**. Tindakan ini akan dapat membuatmu ter-[*silence*](/wiki/Silence), yang
 
 ---
 
