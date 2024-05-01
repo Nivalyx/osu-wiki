@@ -177,6 +177,6 @@ map ini akan terlihat bagus di kotak sampah
 00:02:000 - Akan lebih keren apabila kamu melakukan hal yang sama seperti pada 00:00:500.
 ```
 
-**Preferensi pribadi bukan merupakan pembenaran yang valid**.
+**Preferensi pribadi bukan merupakan pembenaran yang valid**. Alih-alih menyatakan mengapa kamu merasa saranmu lebih baik, jelaskan *mengapa* kamu merasa saran tersebut lebih baik.
 
 **Preference is not valid justification.** Rather than just saying that you think your suggestion is better, explain *why* you think it is better. Explaining that it is more consistent or is parallel with some other object etc. would be a more reasonable justification, for example.
