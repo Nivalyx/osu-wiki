@@ -174,7 +174,7 @@ map ini akan terlihat bagus di kotak sampah
 ```md
 00:00:000 - Memutar slider ini sejauh 90 derajat akan membuat slider ini tampak lebih baik.
 00:01:000 - Saya lebih menyukai apabila kamu menempatkan ritme yang seperti ini.
-00:02:000 - Would be cool if you did this like 00:00:500.
+00:02:000 - Akan lebih keren apabila kamu melakukan hal yang sama seperti pada 00:00:500.
 ```
 
 **Preferensi pribadi bukan merupakan pembenaran yang valid**.
