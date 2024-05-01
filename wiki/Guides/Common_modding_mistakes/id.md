@@ -139,7 +139,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 00:03:000 - ritme ini buruk
 ```
 
-**Pada saat memposting suatu masalah, hindari penggunaan kata-kata yang dapat berarti samar seperti "baik" dan "buruk"**. Tidak semua orang sependapat akan apa-apa saja yang tergolong baik dan buruk, terutama pada hal-hal yang bersifat situasional dan subjektif seperti [*flow*](/wiki/Beatmapping/Mapping_techniques/Flow). Cobalah untuk menggunakan istilah yang lebih objektif seperti "nyaman/tidak nyaman", "tenang/intens", dan lain sebagainya. Ingatlah untuk selalu mencantumkan contoh pada mod yang kamu tulis apabila memungkinkan.
+**Pada saat memposting suatu masalah, hindari penggunaan kata-kata yang dapat berarti samar seperti "baik" dan "buruk"**. Tidak semua orang sependapat akan apa-apa saja yang tergolong baik dan buruk, terutama pada hal-hal yang bersifat situasional dan subjektif seperti [*flow*](/wiki/Beatmapping/Mapping_techniques/Flow). Cobalah untuk menggunakan terminologi yang lebih objektif seperti "nyaman/tidak nyaman", "tenang/intens", dan lain sebagainya. Ingatlah untuk selalu mencantumkan contoh pada mod yang kamu tulis apabila memungkinkan.
 
 ---
 
