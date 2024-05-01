@@ -149,9 +149,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 00:02:000 - ritme macam apa ini?
 ```
 
-**Formulating points as questions is generally impolite and a bad habit.** If you do not understand some part of the map, tell them why it is confusing and what you expected to see. You can still ask them if you must, but at least include this information first.
-
-**Merumuskan poin dalam bentuk pertanyaan pada 
+**Merumuskan poin dalam bentuk pertanyaan pada umumnya merupakan suatu kebiasaan buruk yang tidak sopan**. Apabila kamu tidak memahami bagian map tertentu, beritahukan mapper yang bersangkutan mengapa bagian ini membingungkan dan hal seperti apa yang kamu harapkan pada bagian teresbut. Kamu tetap dapat bertanya apabila dirasa perlu, namun setidaknya sertakan informasi ini terlebih dahulu.
 
 ---
 
