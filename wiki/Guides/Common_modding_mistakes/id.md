@@ -98,7 +98,7 @@ Gaya mapping-mu sangat buruk; buatlah map seperti para mapper lainnya.
 00:00:000 - Mengapa di bagian ini banyak sekali slider yang berukuran raksasa? Petakanlah bagian ini dengan benar.
 ```
 
-**Tujuan dari modding adalah untuk membantu membenahi map yang di-mod**, bukan untuk memaksakan pendapatmu kepada mapper lain. Apabila mapper yang bersangkutan menolak untuk menerapkan hal yang kamu yakini dapat meningkatkan map mereka, maka mereka sendirilah yang akan menanggung risikonya. Dalam situasi yang demikian, terima saja keputusan mereka dan jangan singgung hal ini lagi. Pelajari alasan penolakan mereka dan cobalah untuk memprediksi respon ini pada kasus yang serupa ke depannya.
+**Tujuan dari modding adalah untuk membantu membenahi map yang di-mod**, bukan untuk memaksakan pendapatmu kepada mapper lain. Apabila mapper yang bersangkutan menolak untuk menerapkan suatu hal yang kamu yakini dapat meningkatkan map mereka, maka mereka sendirilah yang akan menanggung risikonya. Dalam situasi yang demikian, terima saja keputusan mereka dan jangan singgung hal ini lagi. Pelajari alasan penolakan mereka dan cobalah untuk memprediksi respon ini pada kasus yang serupa ke depannya.
 
 ```md
 00:00:000 - Ini adalah ritme yang buruk.
