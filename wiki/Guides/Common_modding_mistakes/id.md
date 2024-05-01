@@ -4,11 +4,9 @@
 
 Panduan ini akan menerakan berbagai kesalahan umum yang sering dilakukan oleh para [modder](/wiki/Modding/Modder) pemula pada saat memberikan [mod](/wiki/Modding) bagi suatu [beatmap](/wiki/Beatmap).
 
-The points introduced below are formatted such that an example of poor modding is shown above, and an explanation as to why it is a mistake below.
+Pada panduan ini, masing-masing poin yang dibahas akan diawali dengan berbagai contoh kesalahan yang bersangkutan, yang disertai dengan penjelasan mengapa hal tersebut merupakan suatu kesalahan di bawahnya.
 
-contoh modding yang buruk, yang disertai dengan penjelasan mengapa hal tersebut merupakan suatu kesalahan di bawahnya.
-
-Walaupun contoh-contoh berikut ditulis dengan konteks mapping yang spesifik untuk mode permainan [osu!](/wiki/Game_mode/osu!), contoh-contoh ini juga dapat diterapkan pada [mode permainan](/wiki/Game_mode) lainnya.
+Walaupun contoh-contoh ini ditulis dengan konteks mapping yang spesifik untuk mode permainan [osu!](/wiki/Game_mode/osu!), contoh-contoh ini juga dapat diterapkan pada [mode permainan](/wiki/Game_mode) lainnya.
 
 ---
 
