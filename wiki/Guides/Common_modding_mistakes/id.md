@@ -149,7 +149,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 00:02:000 - ritme macam apa ini?
 ```
 
-**Merumuskan poin dalam bentuk pertanyaan pada umumnya merupakan kebiasaan buruk yang tidak sopan**. Apabila kamu tidak memahami bagian tertentu pada map, beritahukan mapper yang bersangkutan mengapa bagian tersebut membingungkan dan hal seperti apa yang kamu harapkan sebagai gantinya. Kamu tetap dapat bertanya apabila dirasa perlu, namun setidaknya sertakan informasi ini terlebih dahulu.
+**Merumuskan poin dalam bentuk pertanyaan pada umumnya merupakan sesuatu yang tidak sopan**. Apabila kamu tidak memahami bagian tertentu pada map, beritahukan mapper yang bersangkutan mengapa bagian tersebut membingungkan dan hal seperti apa yang kamu harapkan sebagai gantinya. Kamu tetap dapat bertanya apabila dirasa perlu, namun setidaknya sertakan informasi ini terlebih dahulu.
 
 ---
 
@@ -157,7 +157,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 Estetika itu subjektif, jadi saya akan mengabaikan hal ini.
 ```
 
-**Apa yang kamu pikir objektif sesungguhnya masih bersifat subjektif hingga batasan tertentu**. Akan lebih baik apabila kamu berhenti berpikir bahwa subjektivitas itu hitam dan putih, dan mulai menyebutkan saja segala hal yang kamu yakini dapat meningkatkan map yang kamu mod.
+**Apa yang kamu pikir objektif sesungguhnya masih bersifat subjektif hingga batasan tertentu**. Akan lebih baik apabila kamu berhenti berpikir bahwa subjektivitas itu hitam dan putih, dan mulai langsung menyebutkan segala hal yang kamu yakini dapat meningkatkan map yang kamu mod.
 
 ---
 
@@ -177,4 +177,4 @@ map ini akan terlihat bagus di kotak sampah
 00:02:000 - Akan lebih keren apabila kamu melakukan hal yang sama seperti pada 00:00:500.
 ```
 
-**Preferensi pribadi bukan merupakan pembenaran yang valid**. Alih-alih sekadar menyatakan bahwa kamu merasa saranmu lebih baik, jelaskan *mengapa* menurutmu saran tersebut lebih baik. Sebagai contoh, menjelaskan bahwa saranmu dapat menjadikan suatu hal lebih konsisten atau lebih sejalan dengan hal lainnya merupakan pembenaran yang lebih dapat diterima.
+**Preferensi pribadi bukan merupakan pembenaran yang valid**. Alih-alih sekadar menyatakan bahwa kamu merasa saranmu lebih baik, jelaskan *mengapa* menurutmu saran tersebut lebih baik. Sebagai contoh, dengan menjelaskan bahwa saranmu dapat menjadikan suatu hal lebih konsisten atau lebih sejalan dengan hal lainnya, kamu telah memberikan pembenaran yang lebih dapat diterima.
