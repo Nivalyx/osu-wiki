@@ -128,7 +128,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 
 **Whether a mod is of quality or not is up to the mapper.** Solely looking at a mod will not really say much. To tell whether it is good or not, you have to put yourself into the mapper's perspective. Would they apply these suggestions? Are they actually useful? Will the mapper understand the reasoning?
 
-**Berkualitas atau tidaknya suatu mod bergantung pada penilaian masing-masing mapper**.
+**Berkualitas atau tidaknya suatu mod bergantung pada penilaian masing-masing mapper**. 
 
 ---
 
@@ -139,9 +139,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 00:03:000 - ritme ini buruk
 ```
 
-**When posting an issue, avoid vague words like "good" and "bad".** Not everyone is on the same page about what is good and what is not, especially in terms of situational and subjective aspects like [flow](/wiki/Beatmapping/Mapping_techniques/Flow). Try to use more objective terms like "comfortable/uncomfortable", "calm/intense", etc. Remember to add examples to your mods where possible.
-
-**Pada saat memposting suatu masalah, hindari penggunaan kata-kata yang dapat berarti samar seperti "baik" dan "buruk"**.
+**Pada saat memposting suatu masalah, hindari penggunaan kata-kata yang dapat berarti samar seperti "baik" dan "buruk"**. Tidak semua orang sependapat akan apa-apa saja yang tergolong baik dan buruk, terutama pada hal-hal yang bersifat situasional dan subjektif seperti [*flow*](/wiki/Beatmapping/Mapping_techniques/Flow). Cobalah untuk menggunakan istilah yang lebih objektif seperti "nyaman/tidak nyaman", "tenang/intens", dan lain sebagainya. Ingatlah untuk selalu mencantumkan contoh pada mod yang kamu tulis apabila memungkinkan.
 
 ---
 
