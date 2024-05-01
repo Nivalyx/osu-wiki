@@ -61,7 +61,7 @@ Walaupun contoh-contoh di bawah ini ditulis dengan konteks mapping yang spesifik
 00:02:000 - Begitu pula dengan di bagian kiai.
 ```
 
-**Apabila suatu hal muncul secara berulang kali di dalam suatu map, bisa jadi kemunculan hal tersebut memang disengaja**. Dalam situasi yang demikian, jelaskanlah secara seksama mengapa kamu merasa bahwa kemunculan ini merupakan suatu kesalahan, atau pastikan bahwa hal ini selalu muncul pada bagian-bagian lagu yang serupa. Apabila kemunculan yang kamu temukan tidak konsisten dan seakan-akan terlihat acak, hal ini mungkin memang patut untuk kamu pertanyakan.
+**Apabila suatu hal muncul secara berulang kali di dalam suatu map, bisa jadi kemunculan ini memang disengaja**. Dalam situasi yang demikian, jelaskanlah secara seksama mengapa kamu merasa bahwa kemunculan ini merupakan suatu kesalahan, atau pastikan bahwa hal yang dimaksud selalu muncul pada bagian-bagian lagu yang serupa. Apabila kemunculan yang kamu temukan tidak konsisten dan seakan-akan terlihat acak, hal ini mungkin memang patut untuk kamu pertanyakan.
 
 ---
 
