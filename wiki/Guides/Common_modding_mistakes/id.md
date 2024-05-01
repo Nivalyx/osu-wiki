@@ -149,7 +149,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 00:02:000 - ritme macam apa ini?
 ```
 
-**Merumuskan poin dalam bentuk pertanyaan pada umumnya merupakan suatu kebiasaan buruk yang tidak sopan**. Apabila kamu tidak memahami bagian map tertentu, beritahukan mapper yang bersangkutan mengapa bagian ini membingungkan dan hal seperti apa yang kamu harapkan pada bagian teresbut. Kamu tetap dapat bertanya apabila dirasa perlu, namun setidaknya sertakan informasi ini terlebih dahulu.
+**Merumuskan poin dalam bentuk pertanyaan pada umumnya merupakan suatu kebiasaan buruk yang tidak sopan**. Apabila kamu tidak memahami bagian map tertentu, beritahukan mapper yang bersangkutan mengapa bagian tersebut membingungkan dan hal seperti apa yang kamu harapkan sebagai gantinya. Kamu tetap dapat bertanya apabila dirasa perlu, namun setidaknya sertakan informasi ini terlebih dahulu.
 
 ---
 
@@ -176,5 +176,7 @@ map ini akan terlihat bagus di kotak sampah
 00:01:000 - Saya lebih menyukai apabila kamu menempatkan ritme yang seperti ini.
 00:02:000 - Would be cool if you did this like 00:00:500.
 ```
+
+**Preferensi pribadi bukan merupakan pembenaran yang valid**.
 
 **Preference is not valid justification.** Rather than just saying that you think your suggestion is better, explain *why* you think it is better. Explaining that it is more consistent or is parallel with some other object etc. would be a more reasonable justification, for example.
