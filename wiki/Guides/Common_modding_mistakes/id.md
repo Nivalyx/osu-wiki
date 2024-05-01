@@ -167,7 +167,7 @@ belajar dulu cara nge-map yang benar sana, baru nanti saya bisa mod map kamu den
 map ini akan terlihat bagus di kotak sampah
 ```
 
-**Jangan membuat pernyataan yang kasar atau sarkastik pada saat memberikan mod**. Tindakan seperti ini akan membuatmu ter-[*silence*](/wiki/Silence) dan tidak disukai oleh para pengguna lainnya. Pastkan untuk selalu mengikuti [kode etik yang berlaku](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) pada saat memberikan mod untuk lingkung modding yang lebih baik bagi semua.
+**Jangan membuat pernyataan yang kasar atau sarkastik pada saat memberikan mod**. Tindakan seperti ini akan membuatmu ter-[*silence*](/wiki/Silence) dan tidak disukai oleh para pengguna lainnya. Pastkan untuk selalu mengikuti [kode etik yang berlaku](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#making-a-mod-post) pada saat memberikan mod untuk lingkung modding yang lebih nyaman bagi semua.
 
 ---
 
