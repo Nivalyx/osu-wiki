@@ -149,7 +149,7 @@ Kamu tidak tahu apa itu kualitas. Terapkan saja mod saya karena saya tahu persis
 00:02:000 - ritme macam apa ini?
 ```
 
-**Merumuskan poin dalam bentuk pertanyaan pada umumnya merupakan suatu kebiasaan buruk yang tidak sopan**. Apabila kamu tidak memahami bagian map tertentu, beritahukan mapper yang bersangkutan mengapa bagian tersebut membingungkan dan hal seperti apa yang kamu harapkan sebagai gantinya. Kamu tetap dapat bertanya apabila dirasa perlu, namun setidaknya sertakan informasi ini terlebih dahulu.
+**Merumuskan poin dalam bentuk pertanyaan pada umumnya merupakan kebiasaan buruk yang tidak sopan**. Apabila kamu tidak memahami bagian tertentu pada map, beritahukan mapper yang bersangkutan mengapa bagian tersebut membingungkan dan hal seperti apa yang kamu harapkan sebagai gantinya. Kamu tetap dapat bertanya apabila dirasa perlu, namun setidaknya sertakan informasi ini terlebih dahulu.
 
 ---
 
@@ -159,7 +159,7 @@ Estetika itu subjektif, jadi saya akan mengabaikan hal ini.
 
 **What you may think is objective to you is in fact still subjective to a certain degree.** It is best to avoid thinking that subjectivity is black and white, and just mention anything you believe would help the map.
 
-**Apa yang kamu pikir objektif sesungguhnya masih bersifat subjektif hingga batas tertentu**.
+**Apa yang kamu pikir objektif sesungguhnya masih bersifat subjektif hingga batas tertentu**. 
 
 ---
 
