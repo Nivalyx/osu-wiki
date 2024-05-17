@@ -36,4 +36,4 @@ osu! hanya akan menawarkan kontrak dengan ketentuan-ketentuan lisensi yang bersi
 
 If you are interested in negotiating licensing of your work within osu!, please contact us using the email address above with samples of your work. We will decide if your music is a good fit for osu! and elaborate on the terms of the licence.
 
-Apabila Anda tertarik untuk menegosiasikan lisensi atas karya-karya Anda kepada kami, harap hubungi kami melalui alamat email di atas dengan menyertakan contoh lagu-lagu yang Anda ciptakan. Kami akan mempertimbangkan apakah lagu-lagu yang Anda kirimkan sekiranya cocok dengan kebutuhan komunitas kami serta menjelaskan seputar syarat dan ketentuan lisensi yang berlaku secara lebih rinci.
+Apabila Anda tertarik untuk menegosiasikan lisensi atas karya Anda di dalam lingkungan osu!, harap hubungi kami melalui alamat email di atas dengan menyertakan contoh lagu-lagu yang Anda ciptakan. Kami akan mempertimbangkan apakah lagu-lagu yang Anda kirimkan sekiranya cocok dengan kebutuhan komunitas kami serta menjelaskan seputar syarat dan ketentuan lisensi yang berlaku secara lebih rinci.
