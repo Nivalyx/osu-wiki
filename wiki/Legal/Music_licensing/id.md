@@ -4,11 +4,7 @@ legal: true
 
 # Lisensi musik osu!
 
-100% of osu!'s content (generally known as "beatmaps" or game levels) is user uploaded. Although we try to guide users to correctly obtain permission, there are often cases of uploaded music/artwork without correctly obtaining permission.
-
 100% konten yang osu! miliki (yang pada umumnya dikenal sebagai "[beatmap](/wiki/Beatmap)" atau level permainan) merupakan hasil unggahan pengguna. Walaupun kami telah berupaya memandu para pengguna kami untuk memperoleh izin yang memadai sebelum mengunggah, sering kali terdapat kasus di mana musik/karya seni yang diunggah tidak memiliki izin guna yang memadai.
-
-osu! has never been about profit – we go out of our way to not advertise or profit directly from uploaded content (as to not exploit such uploaded content), but we understand that this is often not considered enough.
 
 osu! tidak pernah ditujukan untuk memperoleh keuntungan — kami tidak mengiklankan atau mengambil pendapatan secara langsung dari konten yang diunggah (agar kami tidak mengeksploitasi konten yang diunggah). Meskipun demikian, kami paham bahwa hal ini sering kali sering dianggap kurang cukup.
 
