@@ -6,11 +6,11 @@ legal: true
 
 100% of osu!'s content (generally known as "beatmaps" or game levels) is user uploaded. Although we try to guide users to correctly obtain permission, there are often cases of uploaded music/artwork without correctly obtaining permission.
 
-100% konten yang osu! miliki (yang pada umumnya dikenal sebagai "[beatmap](/wiki/Beatmap)" atau level permainan) merupakan hasil unggahan pengguna. Walaupun kami telah berupaya memandu para pengguna kami untuk memperoleh izin yang memadai sebelum mengunggah konten, sering kali terdapat kasus di mana musik/karya seni yang diunggah tidak memiliki izin guna yang sesuai.
+100% konten yang osu! miliki (yang pada umumnya dikenal sebagai "[beatmap](/wiki/Beatmap)" atau level permainan) merupakan hasil unggahan pengguna. Walaupun kami telah berupaya memandu para pengguna kami untuk memperoleh izin yang memadai sebelum mengunggah, sering kali terdapat kasus di mana musik/karya seni yang diunggah tidak memiliki izin guna yang memadai.
 
 osu! has never been about profit – we go out of our way to not advertise or profit directly from uploaded content (as to not exploit such uploaded content), but we understand that this is often not considered enough.
 
-osu! tidak pernah ditujukan untuk memperoleh keuntungan — kami tidak mengiklankan atau mengambil pendapatan secara langsung dari konten yang diunggah, dan kami juga tidak mengeksploitasi konten-konten tersebut dari segi apapun. Meskipun demikian, kami paham bahwa hal ini sering kali dianggap tidak cukup oleh sebagian orang.
+osu! tidak pernah ditujukan untuk memperoleh keuntungan — kami tidak mengiklankan atau mengambil pendapatan secara langsung dari konten yang diunggah, dan kami juga tidak mengeksploitasi konten-konten tersebut dari segi apapun. Meskipun demikian, kami paham bahwa hal ini sering kali sering dianggap kurang cukup.
 
 Oleh karenanya, sebagai bentuk balas jasa kami kepada para musisi yang telah membentuk osu! seperti sekarang ini, seluruh laba yang kami peroleh dari hasil donasi pengguna akan kami sisihkan kembali untuk keperluan lisensi musik. Kami senantiasa menjangkau para musisi di seluruh belahan dunia (baik yang karya-karyanya telah dipergunakan di osu! sebelumnya maupun yang belum pernah) untuk membeli hak guna karya-karya mereka dan menawarkan kesempatan bagi mereka untuk dapat bergabung ke dalam program [Featured Artist](/wiki/People/Featured_Artists) kami.
 
