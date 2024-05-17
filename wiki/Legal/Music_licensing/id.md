@@ -10,7 +10,7 @@ legal: true
 
 osu! has never been about profit – we go out of our way to not advertise or profit directly from uploaded content (as to not exploit such uploaded content), but we understand that this is often not considered enough.
 
-osu! tidak pernah ditujukan untuk memperoleh keuntungan — kami tidak mengiklankan atau mengambil pendapatan secara langsung dari konten yang diunggah, dan kami juga tidak mengeksploitasi konten-konten tersebut dari segi apapun. Meskipun demikian, kami paham bahwa hal ini sering kali sering dianggap kurang cukup.
+osu! tidak pernah ditujukan untuk memperoleh keuntungan — kami tidak mengiklankan atau mengambil pendapatan secara langsung dari konten yang diunggah (agar kami tidak mengeksploitasi konten yang diunggah). Meskipun demikian, kami paham bahwa hal ini sering kali sering dianggap kurang cukup.
 
 Oleh karenanya, sebagai bentuk balas jasa kami kepada para musisi yang telah membentuk osu! seperti sekarang ini, seluruh laba yang kami peroleh dari hasil donasi pengguna akan kami sisihkan kembali untuk keperluan lisensi musik. Kami senantiasa menjangkau para musisi di seluruh belahan dunia (baik yang karya-karyanya telah dipergunakan di osu! sebelumnya maupun yang belum pernah) untuk membeli hak guna karya-karya mereka dan menawarkan kesempatan bagi mereka untuk dapat bergabung ke dalam program [Featured Artist](/wiki/People/Featured_Artists) kami.
 
