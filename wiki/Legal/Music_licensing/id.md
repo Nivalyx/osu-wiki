@@ -16,7 +16,7 @@ Para musisi yang tertarik untuk bergabung ke program Featured Artist kami disara
 
 ## Penggunaan musik di osu!
 
-Sebagai permainan yang berbasis pada ritme (*rhythm game*), seluruh level unggahan pengguna akan berdasar pada ritme lagu-lagu yang digunakan.
+Sebagai permainan yang berbasis pada ritme (*rhythm game*), seluruh level unggahan pengguna tersinkron dengan ritme lagu yang digunakan.
 
 Para pengguna dapat mencari dan mengunduh level-level yang dibuat oleh pengguna-pengguna lainnya pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan mengetikkan nama musisi, judul, atau informasi-informasi lainnya yang terkait. Pada umumnya, suatu level akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek-efek suara tertentu di dalamnya.
 
