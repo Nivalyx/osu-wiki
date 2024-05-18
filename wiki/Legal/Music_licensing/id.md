@@ -8,8 +8,6 @@ legal: true
 
 osu! tidak pernah ditujukan untuk memperoleh keuntungan — kami tidak mengiklankan atau mengambil pendapatan secara langsung dari konten yang diunggah (agar konten ini tidak sampai tersalahgunakan). Meskipun demikian, kami paham bahwa hal ini sering kali masih dianggap kurang cukup.
 
-To do our best to support the artists that make this game what it is, any excess funds coming from user donations are reinvested in music licensing efforts. We are in the ongoing process of reaching out to artists (featured in existing user uploads and new alike) to obtain licensing and spread awareness under our Featured Artist program.
-
 Demi mendukung para musisi yang telah membentuk osu! seperti sekarang ini, kami menyisihkan kembali seluruh laba yang kami peroleh dari hasil donasi pengguna untuk keperluan lisensi musik. Kami terus berupaya untuk menjangkau berbagai musisi (baik yang karyanya telah dipergunakan di osu! maupun yang belum) untuk memperoleh lisensi dan memperkenalkan program [Featured Artist](/wiki/People/Featured_Artists) kami.
 
 Para musisi yang tertarik untuk bergabung ke program Featured Artist kami disarankan untuk menghubungi osu! guna menegosiasikan lisensi.
@@ -18,9 +16,13 @@ Para musisi yang tertarik untuk bergabung ke program Featured Artist kami disara
 
 Sebagai permainan yang berbasis pada ritme (*rhythm game*), seluruh level unggahan pengguna tersinkron dengan irama lagu yang digunakan.
 
+Users can search for and download levels from the beatmap listing by inputting a song's artist, title, or other relevant information. Most level downloads include a song, user-created level data, a background image, and gameplay sound effects.
+
 Para pengguna dapat mencari dan mengunduh level-level yang dibuat oleh pengguna-pengguna lainnya pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan mengetikkan nama musisi, judul, atau informasi-informasi lainnya yang terkait. Pada umumnya, suatu level akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek-efek suara tertentu di dalamnya.
 
-Di samping itu, pada saat suatu level hendak diunggah untuk pertama kalinya, kami akan terlebih dahulu mengingatkan pembuat level yang bersangkutan untuk memeriksa kembali apakah seluruh aset yang hendak diunggah tidak melanggar hak cipta sebagaimana yang tertera pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) kami.
+When submitting levels, creators are encouraged to receive permission for all assets from relevant copyright holders as per our Content Usage Guidelines.
+
+Pada saat menggunggah level permainan, kami akan terlebih dahulu mengingatkan pembuat level yang bersangkutan untuk memeriksa kembali apakah seluruh aset yang hendak diunggah tidak melanggar hak cipta sebagaimana yang tertera pada [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) kami.
 
 ## Ketentuan lisensi Featured Artist
 
