@@ -16,9 +16,7 @@ Para musisi yang tertarik untuk bergabung ke program Featured Artist kami disara
 
 Sebagai permainan yang berbasis pada ritme (*rhythm game*), seluruh level unggahan pengguna tersinkron dengan irama lagu yang digunakan.
 
-Users can search for and download levels from the beatmap listing by inputting a song's artist, title, or other relevant information. Most level downloads include a song, user-created level data, a background image, and gameplay sound effects.
-
-Para pengguna dapat mencari dan mengunduh level permainan tertentu dengan mengetikkan nama musisi, judul lagu, atau informasi lainnya yang terkait pada halaman [daftar beatmap](https://osu.ppy.sh/beatmapsets). Pada umumnya, suatu level akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek-efek suara tertentu di dalamnya.
+Para pengguna dapat mencari dan mengunduh level permainan tertentu dengan mengetikkan nama musisi, judul lagu, atau informasi lainnya yang terkait pada halaman [daftar beatmap](https://osu.ppy.sh/beatmapsets). Sebagian besar unduhan level akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek suara permainan di dalamnya.
 
 When submitting levels, creators are encouraged to receive permission for all assets from relevant copyright holders as per our Content Usage Guidelines.
 
