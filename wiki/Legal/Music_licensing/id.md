@@ -18,13 +18,19 @@ Sebagai permainan yang berbasis pada ritme (*rhythm game*), seluruh level unggah
 
 Para pengguna dapat mencari dan mengunduh level permainan tertentu dengan mengetikkan nama musisi, judul lagu, atau informasi lainnya yang terkait pada halaman [daftar beatmap](https://osu.ppy.sh/beatmapsets). Pada umumnya, level yang diunduh akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek suara permainan di dalamnya.
 
-Pada saat menggunggah level permainan, para perancang level disarankan untuk memperoleh izin yang memadai atas seluruh aset yang digunakan sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) kami.
+Pada saat menggunggah, para pembuat level disarankan untuk memperoleh izin yang memadai atas seluruh aset yang tertera sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) kami.
 
 ## Ketentuan lisensi Featured Artist
 
+Music licensed by osu! is freely available for download from the Featured Artist listing in .osz files, which are beatmap templates. A one-minute automatically generated preview of each track is available for streaming on its artist's page. Because songs are used as a catalogue for community members to create beatmaps, some of them may not be immediately used as in-game content.
+
 Lagu-lagu yang telah dilisensikan oleh osu! akan dapat diunduh secara gratis pada [laman Featured Artist](https://osu.ppy.sh/beatmaps/artists) dalam bentuk berkas `.osz` yang merupakan dasar (*template*) sebuah beatmap. Sistem kami akan secara otomatis menggubah pratinjau berdurasi satu menit untuk masing-masing lagu yang dapat didengarkan pada laman artis terkait. Berhubung lagu-lagu tersebut akan disediakan sebagai bahan bagi para anggota komunitas kami dalam proses pembuatan beatmap, beberapa di antaranya mungkin tidak akan langsung dipergunakan sebagai level permainan.
 
+We look to cover usage within the game, related website and video content. Note that this does not necessarily cover further usage on other platforms in cases where profit is involved. Some artists may request profit share in such cases (where the platform allows for it, e.g. user uploads to YouTube).
+
 Kami berupaya untuk mencakup penggunaan lagu-lagu yang kami lisensi di dalam permainan kami serta situs-situs web dan konten-konten video yang terkait dengan osu!. Perlu diperhatikan bahwa hal ini tidak serta-merta mencakup izin penggunaan lagu-lagu tersebut pada *platform-platform* lainnya di luar osu! yang dapat digunakan oleh pihak-pihak lain untuk memperoleh keuntungan (semisal YouTube). Dalam kasus-kasus demikian, para musisi dapat mengajukan klausul pembagian hasil apabila dikehendaki.
+
+osu! licenses all music under non-exclusive terms, allowing simultaneous licensing with other platforms (it is our belief that we should not be limiting good music to only our platform). We generally prefer to negotiate licences on perpetual terms due to the nature of usage (users expect their creations to stay available indefinitely). Payment is provided as a fixed negotiable once-off royalty.
 
 osu! hanya akan menawarkan kontrak dengan ketentuan-ketentuan lisensi yang bersifat non-eksklusif (*non-exclusive terms*), yang memungkinkan lagu-lagu yang terkait untuk dapat dilisensikan kembali secara bersamaan pada *platform-platform* lainnya di kemudian waktu (kami beritikad untuk tidak membatasi penggunaan lagu-lagu yang telah kami lisensi pada *platform* kami semata). Berhubung para pengguna kami pada umumnya mengharapkan agar hasil karya mereka dapat tetap tersedia selama-lamanya, kami lebih mengutamakan lisensi yang tidak terikat waktu. Pembayaran akan diberikan dalam bentuk royalti tunggal (*once-off royalty*) yang besarnya dapat dinegosiasikan.
 
