@@ -18,7 +18,7 @@ Sebagai permainan yang berbasis pada ritme (*rhythm game*), seluruh level unggah
 
 Para pengguna dapat mencari dan mengunduh level permainan tertentu dengan mengetikkan nama musisi, judul lagu, atau informasi lainnya yang terkait pada halaman [daftar beatmap](https://osu.ppy.sh/beatmapsets). Pada umumnya, level yang diunduh mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek suara permainan di dalamnya.
 
-Pada saat menggunggah, para pembuat level disarankan untuk memperoleh izin yang memadai atas seluruh aset yang digunakan sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) kami.
+Pada saat menggunggah, para pembuat level dianjurkan untuk memperoleh izin yang memadai atas seluruh aset yang digunakan sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) kami.
 
 ## Ketentuan lisensi Featured Artist
 
@@ -28,7 +28,7 @@ Lagu yang telah dilisensi oleh osu! tersedia untuk diunduh secara bebas pada [ha
 
 Kami berupaya untuk mencakup izin penggunaan ini di dalam permainan kami, situs web yang terkait, serta konten video yang diunggah. Mohon diperhatikan bahwa hal ini tidak serta-merta mencakup izin penggunaan lebih lanjut pada platform lainnya dalam situasi yang melibatkan keuntungan finansial. Pada kasus yang demikian, para musisi dapat meminta bagian dari keuntungan yang diperoleh (apabila platform yang bersangkutan mengizinkan, semisal pada unggahan pengguna di YouTube).
 
-osu! melisensi seluruh lagu dengan ketentuan yang bersifat non-eksklusif, yang memungkinkan lisensi yang simultan dengan platform lainnya (kami memercayai bahwa kami tidak seharusnya membatasi penggunaan lagu yang berkualitas hanya pada platform kami semata). Kami pada umumnya lebih mengutamakan lisensi yang tidak terikat waktu karena sifat penggunaan konten yang ada (para pengguna mengharapkan hasil karya mereka untuk tetap tersedia selama-lamanya). Pembayaran akan disediakan dalam bentuk royalti tunggal (*once-off royalty*) yang nilainya dapat dinegosiasikan.
+osu! melisensi seluruh lagu dengan ketentuan yang bersifat non-eksklusif, yang memungkinkan lisensi yang simultan dengan platform lainnya (kami memercayai bahwa kami tidak seharusnya membatasi penggunaan lagu yang berkualitas hanya pada platform kami semata). Kami pada umumnya lebih mengutamakan lisensi yang tidak terikat waktu karena sifat penggunaan konten ini (para pengguna mengharapkan hasil karya mereka untuk tetap tersedia selama-lamanya). Pembayaran akan disediakan dalam bentuk royalti tunggal (*once-off royalty*) yang nilainya dapat dinegosiasikan.
 
 ## Kontak
 
