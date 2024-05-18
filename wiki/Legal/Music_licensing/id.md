@@ -32,7 +32,7 @@ Kami berupaya untuk mencakup lisensi penggunaan di dalam permainan kami serta si
 
 osu! licenses all music under non-exclusive terms, allowing simultaneous licensing with other platforms (it is our belief that we should not be limiting good music to only our platform). We generally prefer to negotiate licences on perpetual terms due to the nature of usage (users expect their creations to stay available indefinitely). Payment is provided as a fixed negotiable once-off royalty.
 
-osu! hanya akan menawarkan kontrak dengan ketentuan-ketentuan lisensi yang bersifat non-eksklusif (*non-exclusive terms*), yang memungkinkan lagu-lagu yang terkait untuk dapat dilisensikan kembali secara bersamaan pada *platform-platform* lainnya di kemudian waktu (kami beritikad untuk tidak membatasi penggunaan lagu-lagu yang telah kami lisensi pada *platform* kami semata). Berhubung para pengguna kami pada umumnya mengharapkan agar hasil karya mereka dapat tetap tersedia selama-lamanya, kami lebih mengutamakan lisensi yang tidak terikat waktu. Pembayaran akan diberikan dalam bentuk royalti tunggal (*once-off royalty*) yang besarnya dapat dinegosiasikan.
+osu! melisensikan seluruh lagu dengan lisensi yang bersifat non-eksklusif (*non-exclusive terms*), yang memungkinkan lagu yang ada untuk dilisensikan secara bersamaan pada platform lainnya (kami memercayai untuk tidak membatasi penggunaan lagu-lagu yang telah kami lisensi pada *platform* kami semata). Berhubung para pengguna kami pada umumnya mengharapkan agar hasil karya mereka dapat tetap tersedia selama-lamanya, kami lebih mengutamakan lisensi yang tidak terikat waktu. Pembayaran akan diberikan dalam bentuk royalti tunggal (*once-off royalty*) yang besarnya dapat dinegosiasikan.
 
 ## Kontak
 
