@@ -10,7 +10,7 @@ osu! tidak pernah ditujukan untuk memperoleh keuntungan — kami tidak mengiklan
 
 To do our best to support the artists that make this game what it is, any excess funds coming from user donations are reinvested in music licensing efforts. We are in the ongoing process of reaching out to artists (featured in existing user uploads and new alike) to obtain licensing and spread awareness under our Featured Artist program.
 
-Demi mendukung para musisi yang telah membentuk osu! seperti sekarang ini, kami menyisihkan kembali seluruh laba yang kami peroleh dari hasil donasi pengguna untuk keperluan lisensi musik. Kami senantiasa menjangkau para musisi di seluruh belahan dunia (baik yang karya-karyanya telah dipergunakan di osu! sebelumnya maupun yang belum pernah) untuk membeli hak guna karya-karya mereka dan menawarkan kesempatan bagi mereka untuk dapat bergabung ke dalam program [Featured Artist](/wiki/People/Featured_Artists) kami.
+Demi mendukung para musisi yang telah membentuk osu! seperti sekarang ini, kami menyisihkan kembali seluruh laba yang kami peroleh dari hasil donasi pengguna untuk keperluan lisensi musik. Kami senantiasa menjangkau berbagai musisi (baik yang karya-karyanya telah dipergunakan di osu! sebelumnya maupun yang belum pernah) untuk memperoleh hak guna yang sesuai dan memperkenalkan program [Featured Artist](/wiki/People/Featured_Artists) kami.
 
 Para musisi yang tertarik untuk bergabung ke program Featured Artist kami disarankan untuk menghubungi osu! guna menegosiasikan lisensi.
 
