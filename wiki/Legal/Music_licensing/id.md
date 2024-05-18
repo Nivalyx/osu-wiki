@@ -18,7 +18,7 @@ Sebagai permainan yang berbasis pada ritme (*rhythm game*), seluruh level unggah
 
 Para pengguna dapat mencari dan mengunduh level permainan tertentu dengan mengetikkan nama musisi, judul lagu, atau informasi lainnya yang terkait pada halaman [daftar beatmap](https://osu.ppy.sh/beatmapsets). Pada umumnya, level yang diunduh mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek suara permainan di dalamnya.
 
-Pada saat menggunggah, para pembuat level disarankan untuk memperoleh izin yang memadai atas seluruh aset yang tertera sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) kami.
+Pada saat menggunggah, para pembuat level disarankan untuk memperoleh izin yang memadai atas seluruh aset yang digunakan sesuai dengan [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) kami.
 
 ## Ketentuan lisensi Featured Artist
 
