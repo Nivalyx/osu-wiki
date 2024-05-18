@@ -28,7 +28,7 @@ Lagu yang telah dilisensi oleh osu! tersedia untuk diunduh secara bebas pada [ha
 
 We look to cover usage within the game, related website and video content. Note that this does not necessarily cover further usage on other platforms in cases where profit is involved. Some artists may request profit share in such cases (where the platform allows for it, e.g. user uploads to YouTube).
 
-Kami berupaya untuk mencakup lisensi penggunaan ini di dalam permainan kami, situs web yang terkait, serta konten video yang diunggah. Mohon diperhatikan bahwa hal ini tidak serta-merta mencakup izin penggunaan lagu-lagu tersebut pada *platform-platform* lainnya di luar osu! yang dapat digunakan oleh pihak-pihak lain untuk memperoleh keuntungan (semisal YouTube). Dalam kasus-kasus demikian, para musisi dapat mengajukan klausul pembagian hasil apabila dikehendaki.
+Kami berupaya untuk mencakup lisensi penggunaan ini di dalam permainan kami, situs web yang terkait, serta konten video yang diunggah. Mohon diperhatikan bahwa hal ini tidak serta-merta mencakup izin penggunaan lebih lanjut di platform lainnya pada situasi yang melibatkan keuntungan finansial. (semisal pada unggahan pengguna di YouTube).
 
 osu! melisensikan seluruh lagu dengan ketentuan yang bersifat non-eksklusif, yang memungkinkan lisensi yang simultan dengan platform lainnya (kami memercayai bahwa kami tidak seharusnya membatasi penggunaan lagu berkualitas hanya pada platform kami semata). Sejalan dengan sifat penggunaan konten yang ada, kami pada umumnya lebih mengutamakan lisensi yang tidak terikat waktu (para pengguna mengharapkan hasil karya mereka untuk tetap tersedia selama-lamanya). Pembayaran akan disediakan dalam bentuk royalti tunggal (*once-off royalty*) yang besarnya dapat dinegosiasikan.
 
