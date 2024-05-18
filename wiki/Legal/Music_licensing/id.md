@@ -30,7 +30,7 @@ We look to cover usage within the game, related website and video content. Note 
 
 Kami berupaya untuk mencakup lisensi penggunaan di dalam permainan kami serta situs-situs web dan konten-konten video yang terkait dengan osu!. Perlu diperhatikan bahwa hal ini tidak serta-merta mencakup izin penggunaan lagu-lagu tersebut pada *platform-platform* lainnya di luar osu! yang dapat digunakan oleh pihak-pihak lain untuk memperoleh keuntungan (semisal YouTube). Dalam kasus-kasus demikian, para musisi dapat mengajukan klausul pembagian hasil apabila dikehendaki.
 
-osu! melisensikan seluruh lagu dengan ketentuan yang bersifat non-eksklusif, yang memungkinkan lisensi yang simultan dengan platform lainnya (kami memercayai bahwa kami tidak seharusnya membatasi penggunaan lagu tertentu hanya pada platform kami semata). Kami pada umumnya lebih mengutamakan lisensi yang tidak terikat waktu karena sifat penggunaan konten pada layanan kami (para pengguna mengharapkan hasil karya mereka untuk tetap tersedia selama-lamanya). Pembayaran disediakan dalam bentuk royalti tunggal (*once-off royalty*) yang besarnya dapat dinegosiasikan.
+osu! melisensikan seluruh lagu dengan ketentuan yang bersifat non-eksklusif, yang memungkinkan lisensi yang simultan dengan platform lainnya (kami memercayai bahwa kami tidak seharusnya membatasi penggunaan suatu lagu hanya pada platform kami semata). Kami pada umumnya lebih mengutamakan lisensi yang tidak terikat waktu karena sifat penggunaan konten pada layanan kami (para pengguna mengharapkan hasil karya mereka untuk tetap tersedia selama-lamanya). Pembayaran disediakan dalam bentuk royalti tunggal (*once-off royalty*) yang besarnya dapat dinegosiasikan.
 
 ## Kontak
 
