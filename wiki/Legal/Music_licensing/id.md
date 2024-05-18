@@ -8,7 +8,7 @@ legal: true
 
 osu! tidak pernah ditujukan untuk memperoleh keuntungan — kami tidak mengiklankan atau mengambil pendapatan secara langsung dari konten yang diunggah (agar konten ini tidak sampai tersalahgunakan). Meskipun demikian, kami paham bahwa hal ini sering kali masih dianggap kurang cukup.
 
-Demi mendukung para musisi yang telah membentuk osu! seperti sekarang ini, kami menyisihkan kembali seluruh laba yang kami peroleh dari hasil donasi pengguna untuk keperluan lisensi musik. Kami terus berupaya untuk menjangkau berbagai musisi (baik yang karyanya telah dipergunakan di osu! maupun yang belum) untuk memperoleh lisensi ini dan memperkenalkan program [Featured Artist](/wiki/People/Featured_Artists) kami.
+Demi mendukung para musisi yang telah membentuk osu! seperti sekarang ini, kami menyisihkan kembali seluruh laba yang kami peroleh dari hasil donasi pengguna untuk keperluan lisensi musik. Kami terus berupaya untuk menjangkau berbagai musisi (baik yang karyanya telah dipergunakan di osu! maupun yang belum) untuk memperoleh lisensi dan memperkenalkan program [Featured Artist](/wiki/People/Featured_Artists) kami.
 
 Para musisi yang tertarik untuk bergabung ke program Featured Artist kami disarankan untuk menghubungi osu! guna menegosiasikan lisensi.
 
@@ -18,7 +18,7 @@ Sebagai permainan yang berbasis pada ritme (*rhythm game*), seluruh level unggah
 
 Users can search for and download levels from the beatmap listing by inputting a song's artist, title, or other relevant information. Most level downloads include a song, user-created level data, a background image, and gameplay sound effects.
 
-Para pengguna dapat mencari dan mengunduh level-level yang dibuat oleh pengguna-pengguna lainnya pada laman [daftar beatmap](https://osu.ppy.sh/beatmapsets) dengan mengetikkan nama musisi, judul, atau informasi-informasi lainnya yang terkait. Pada umumnya, suatu level akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek-efek suara tertentu di dalamnya.
+Para pengguna dapat mencari dan mengunduh level permainan tertentu dengan mengetikkan nama musisi, judul lagu, atau informasi lainnya yang terkait pada halaman [daftar beatmap](https://osu.ppy.sh/beatmapsets). Pada umumnya, suatu level akan mengandung berkas lagu, data level yang dibuat oleh pengguna, gambar latar, dan efek-efek suara tertentu di dalamnya.
 
 When submitting levels, creators are encouraged to receive permission for all assets from relevant copyright holders as per our Content Usage Guidelines.
 
