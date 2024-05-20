@@ -36,7 +36,7 @@ The body of the email should contain the following:
 
 ## Mengirimkan pesan pengumuman
 
-In order to send a chat announcement, open the [chat page](https://osu.ppy.sh/community/chat) and click the `create announcement` button. Input the channel name, description[^note-desc], list of recipients, and the intended message. Finally, click the `create` button to send the announcement.
+Untuk mengirimkan pesan pengumuman, buka [halaman *chat*](https://osu.ppy.sh/community/chat) dan klik tombol `buat pengumuman`. Pada layar yang terbuka, masukkan nama kanal, deskripsi[^note-desc], daftar penerima, dan isi pesan yang akan dikirim. Terakhir, klik tombol `kirim` untuk mengirim pengumuman.
 
 ![Halaman pembuatan pengumuman](img/page.jpg "Halaman pembuatan pesan pengumuman")
 
