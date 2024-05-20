@@ -43,7 +43,7 @@ Untuk mengirimkan pesan pengumuman, buka [halaman *chat*](https://osu.ppy.sh/com
 
 - Pesan pengumuman ditujukan sebagai pengganti dari pesan [forum](/wiki/Community/Forum) lawas.
 - [Implementasi dasar](https://github.com/ppy/osu-web/pull/8418) sistem pengumuman ini diterapkan ke situs web pada tanggal 26 Januari 2022. Hal ini meliputi kelompok pengguna Announce dan kemampuan untuk mengirim pesan melalui API. Menu antarmuka pengiriman pesan, beserta dengan perizinan bagi moderator untuk mengirimkan pesan, baru [ditambahkan](https://github.com/ppy/osu-web/pull/8747) setelahnya pada tanggal 1 Juni 2022.
-- Kelompok pengguna Announce memiliki nomor ID 47. Kelompok ini tidak memiliki lencana grup atau warna khususnya tersendiri, dan daftar anggota kelompok ini bersifat privat.
+- Kelompok pengguna Announce memiliki nomor ID 47. Kelompok ini tidak memiliki lencana grup atau warna khususnya tersendiri, dan daftar anggotanya bersifat privat.
 
 ## Notes
 
