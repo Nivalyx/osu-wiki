@@ -26,10 +26,10 @@ Sending and replying to announcement messages through the website requires membe
 
 Siapa pun dapat mengajukan permintaan untuk bergabung ke kelompok pengguna Announce dengan mengirimkan email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan subjek `Announce Usergroup Request`. Email ini harus dikirim dari alamat email yang terhubung ke akun osu! pemohon.
 
-Isi email yang dikirim harus mengandung hal-hal berikut:
+Badan email yang dikirim harus mengandung hal-hal berikut:
 
 - Nama akun osu! pemohon.
-- Penjelasan yang menguraikan alasan mengapa pengiriman pesan ini dibutuhkan, serta seberapa sering pesan ini akan dikirim.
+- Penjelasan yang menguraikan alasan mengapa pengiriman pesan ini dibutuhkan, serta seberapa sering fitur pengumuman ini akan digunakan.
 
 [Tim dukungan akun](/wiki/People/Account_support_team) akan mengkaji permintaan ini dan menginformasikan keputusan mereka kepada pemohon yang bersangkutan.
 
