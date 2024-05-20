@@ -10,7 +10,7 @@ tags:
 
 ![Notifikasi pengumuman](img/notification.png "Pesan notifikasi pengumuman")
 
-**Pesan pengumuman** merupakan jenis pesan khusus yang ditujukan untuk mengirim pesan yang lebih panjang dan terformat kepada banyak pengguna secara bersamaan. Tidak seperti pesan *chat* biasa, pesan pengumuman memiliki beberapa kelebihan dan perbedaan yang antara lainnya meliputi:
+**Pesan pengumuman** merupakan jenis pesan khusus yang ditujukan untuk mengirim pesan yang lebih panjang dan terformat kepada banyak pengguna secara bersamaan. Tidak seperti pesan *chat* biasa, pesan pengumuman memiliki beberapa perbedaan yang antara lainnya meliputi:
 
 - Batas jumlah 1024 karakter pada pesan (alih-alih 450 karakter)
 - Dukungan sintaks markdown[^note-images] untuk pemformatan teks
