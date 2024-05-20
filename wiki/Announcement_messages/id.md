@@ -16,7 +16,7 @@ tags:
 - Dukungan sintaks markdown[^note-images] untuk pemformatan teks
 - Pengiriman pesan yang berlangsung ke banyak pengguna secara bersamaan
 - Kemampuan untuk mengabaikan pengaturan `blokir pesan pribadi dari pengguna yang tidak berada dalam daftar temanmu`
-- Pesan yang dikirim hanya dapat dibalas oleh pengguna yang juga memiliki izin untuk mengirimkan pesan pengumuman
+- Pesan yang dikirim hanya dapat dibalas oleh pengguna yang juga memiliki izin untuk membuat pengumuman
 
 ## Eligibilitas
 
