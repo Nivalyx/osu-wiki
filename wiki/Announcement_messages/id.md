@@ -12,10 +12,10 @@ tags:
 
 **Pesan pengumuman** merupakan jenis pesan khusus yang ditujukan untuk mengirim pesan yang lebih panjang dan terformat kepada banyak pengguna secara bersamaan. Perbedaan utama antara pesan pengumuman dan pesan *chat* biasa meliputi:
 
-- A 1024 character limit instead of 450
+- Batas jumlah 1024 karakter pada pesan (alih-alih 450)
 - Dukungan sintaks markdown[^note-images] untuk pemformatan teks
 - Pengiriman pesan kepada banyak pengguna secara bersamaan
-- Ability to bypass the `block private messages from people not on your friends list` setting
+- Kemampuan untuk mengabaikan pengaturan `blokir pesan pribadi dari pengguna yang tidak berada dalam daftar temanmu`
 - Only users that can send announcement messages are able to reply to them
 
 ## Eligibilitas
@@ -26,10 +26,11 @@ Sending and replying to announcement messages through the website requires membe
 
 Anyone can file a request to join the announce user group by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject `Announce Usergroup Request`. This must be sent from the email address attached to the user's osu! account.
 
+
+
 The body of the email should contain the following:
 
 - Nama akun osu! pemohon.
-- An explanation outlining the reason for needing announcement messages, and how frequently they will be used.
 - Penjelasan yang menguraikan alasan mengapa pengiriman pesan ini dibutuhkan, serta seberapa sering pesan ini akan dikirim.
 
 [Tim dukungan akun](/wiki/People/Account_support_team) kami akan mengkaji permintaan ini dan menginformasikan keputusan mereka kepada pemohon yang bersangkutan.
