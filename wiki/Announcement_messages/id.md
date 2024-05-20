@@ -12,6 +12,8 @@ tags:
 
 An **announcement message** is a special type of message that's intended for sending longer and formatted messages to multiple users at once. The key differences between announcement messages and regular chat messages are:
 
+**Pesan pengumuman** merupakan jenis pesan khusus yang diperuntukkan untuk mengirim pesan yang lebih panjang dan terformat kepada banyak pengguna secara bersamaan.
+
 - A 1024 character limit instead of 450
 - Markdown syntax support[^note-images] for text formatting
 - Delivery to multiple users at once
