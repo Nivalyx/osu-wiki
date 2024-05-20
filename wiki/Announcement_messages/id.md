@@ -12,7 +12,7 @@ tags:
 
 **Pesan pengumuman** merupakan jenis pesan khusus yang ditujukan untuk mengirim pesan yang lebih panjang dan terformat kepada banyak pengguna secara bersamaan. Perbedaan utama antara pesan pengumuman dan pesan *chat* biasa meliputi:
 
-- Batas jumlah 1024 karakter pada pesan (alih-alih 450)
+- Batas jumlah 1024 karakter pada pesan (alih-alih 450 karakter)
 - Dukungan sintaks markdown[^note-images] untuk pemformatan teks
 - Pengiriman pesan kepada banyak pengguna secara bersamaan
 - Kemampuan untuk mengabaikan pengaturan `blokir pesan pribadi dari pengguna yang tidak berada dalam daftar temanmu`
