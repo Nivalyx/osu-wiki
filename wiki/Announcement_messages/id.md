@@ -30,8 +30,7 @@ The body of the email should contain the following:
 
 - Nama akun osu! pemohon.
 - An explanation outlining the reason for needing announcement messages, and how frequently they will be used.
-
-The [account support team](/wiki/People/Account_support_team) will review the request and inform the user of their decision.
+- Penjelasan yang menjabarkan alasan mengapa  serta seberapa sering pesan ini akan dikirim.
 
 [Tim dukungan akun](/wiki/People/Account_support_team) kami akan mengkaji permintaan ini dan menginformasikan keputusan mereka kepada pemohon yang bersangkutan.
 
@@ -39,7 +38,7 @@ The [account support team](/wiki/People/Account_support_team) will review the re
 
 In order to send a chat announcement, open the [chat page](https://osu.ppy.sh/community/chat) and click the `create announcement` button. Input the channel name, description[^note-desc], list of recipients, and the intended message. Finally, click the `create` button to send the announcement.
 
-![Announcement creation page](img/page.jpg "The announcement creation page")
+![Halaman pembuatan pengumuman](img/page.jpg "Halaman pembuatan pesan pengumuman")
 
 ## Trivia
 
