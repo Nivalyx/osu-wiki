@@ -14,7 +14,7 @@ tags:
 
 - Batas jumlah 1024 karakter pada pesan (alih-alih 450 karakter)
 - Dukungan sintaks markdown[^note-images] untuk pemformatan teks
-- Pengiriman pesan yang berlangsung secara massal pada saat yang bersamaan
+- Pengiriman pesan yang berlangsung secara massal dalam satu waktu
 - Kemampuan untuk mengabaikan pengaturan `blokir pesan pribadi dari pengguna yang tidak berada dalam daftar temanmu`
 - Pesan yang dikirim hanya akan dapat dibalas oleh pengguna yang juga memiliki izin untuk mengirimkan pesan pengumuman
 
