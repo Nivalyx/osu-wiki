@@ -30,7 +30,7 @@ The body of the email should contain the following:
 
 - Nama akun osu! pemohon.
 - An explanation outlining the reason for needing announcement messages, and how frequently they will be used.
-- Penjelasan yang menjabarkan alasan mengapa  serta seberapa sering pesan ini akan dikirim.
+- Penjelasan yang menguraikan alasan mengapa pengiriman pesan ini dibutuhkan, serta seberapa sering pesan ini akan dikirim.
 
 [Tim dukungan akun](/wiki/People/Account_support_team) kami akan mengkaji permintaan ini dan menginformasikan keputusan mereka kepada pemohon yang bersangkutan.
 
