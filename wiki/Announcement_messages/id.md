@@ -24,11 +24,9 @@ Sending and replying to announcement messages through the website requires membe
 
 ### Mengajukan permintaan
 
-Anyone can file a request to join the announce user group by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject `Announce Usergroup Request`. This must be sent from the email address attached to the user's osu! account.
+Siapa pun dapat mengajukan permintaan untuk bergabung ke kelompok pengguna Announce dengan mengirimkan email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan subjek `Announce Usergroup Request`. Email ini harus dikirim dari alamat email yang terhubung ke akun osu! pemohon.
 
-
-
-The body of the email should contain the following:
+Isi email yang dikirim harus mengandung hal-hal berikut:
 
 - Nama akun osu! pemohon.
 - Penjelasan yang menguraikan alasan mengapa pengiriman pesan ini dibutuhkan, serta seberapa sering pesan ini akan dikirim.
