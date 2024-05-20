@@ -16,7 +16,7 @@ tags:
 - Dukungan sintaks markdown[^note-images] untuk pemformatan teks
 - Pengiriman pesan yang berlangsung ke banyak pengguna secara bersamaan
 - Kemampuan untuk mengabaikan pengaturan `blokir pesan pribadi dari pengguna yang tidak berada dalam daftar temanmu`
-- Pesan yang dikirim hanya akan dapat dibalas oleh pengguna yang juga memiliki izin untuk mengirimkan pesan pengumuman
+- Pesan yang dikirim hanya dapat dibalas oleh pengguna yang juga memiliki izin untuk mengirimkan pesan pengumuman
 
 ## Eligibilitas
 
@@ -44,6 +44,7 @@ Untuk mengirimkan pesan pengumuman, buka [halaman *chat*](https://osu.ppy.sh/com
 - Pesan pengumuman ditujukan sebagai pengganti dari pesan [forum](/wiki/Community/Forum) lawas.
 - [Implementasi dasar](https://github.com/ppy/osu-web/pull/8418) sistem pengumuman ini diterapkan ke situs web pada tanggal 26 Januari 2022. Hal ini meliputi kelompok pengguna Announce dan kemampuan untuk mengirim pesan melalui API. Menu antarmuka pengiriman pesan, beserta dengan perizinan bagi moderator untuk mengirimkan pesan, baru [ditambahkan](https://github.com/ppy/osu-web/pull/8747) setelahnya pada tanggal 1 Juni 2022.
 - The announce user group's ID is 47, it has neither a group badge nor a dedicated colour, and its user listing is private.
+- Kelompok pengguna Announce memiliki nomor ID 47. Kelompok
 
 ## Notes
 
