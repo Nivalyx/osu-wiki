@@ -42,7 +42,7 @@ In order to send a chat announcement, open the [chat page](https://osu.ppy.sh/co
 
 ## Trivia
 
-- Announcement messages are intended to be a direct replacement for old [forum](/wiki/Community/Forum) messages.
+- Pesan pengumuman ditujukan sebagai pengganti dari pesan [forum](/wiki/Community/Forum) lawas.
 - [Basic implementation](https://github.com/ppy/osu-web/pull/8418) of the announcement system was added to the website on January 26th, 2022. This included the announce user group and the ability to send announcement messages through the API. The user interface for sending chat announcements, alongside allowing moderators to send them, was [added](https://github.com/ppy/osu-web/pull/8747) on June 1st, 2022.
 - The announce user group's ID is 47, it has neither a group badge nor a dedicated colour, and its user listing is private.
 
