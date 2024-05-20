@@ -31,7 +31,7 @@ Isi email yang dikirim harus mengandung hal-hal berikut:
 - Nama akun osu! pemohon.
 - Penjelasan yang menguraikan alasan mengapa pengiriman pesan ini dibutuhkan, serta seberapa sering pesan ini akan dikirim.
 
-[Tim dukungan akun](/wiki/People/Account_support_team) kami akan mengkaji permintaan ini dan menginformasikan keputusan mereka kepada pemohon yang bersangkutan.
+[Tim dukungan akun](/wiki/People/Account_support_team) akan mengkaji permintaan ini dan menginformasikan keputusan mereka kepada pemohon yang bersangkutan.
 
 ## Mengirimkan pesan pengumuman
 
@@ -41,7 +41,7 @@ Untuk mengirimkan pesan pengumuman, buka [halaman *chat*](https://osu.ppy.sh/com
 
 ## Trivia
 
-- Pesan pengumuman ditujukan sebagai pengganti dari pesan [forum](/wiki/Community/Forum) lawas.
+- Pesan pengumuman ditujukan untuk menggantikan sistem pesan [forum](/wiki/Community/Forum) lawas.
 - [Basic implementation](https://github.com/ppy/osu-web/pull/8418) of the announcement system was added to the website on January 26th, 2022. This included the announce user group and the ability to send announcement messages through the API. The user interface for sending chat announcements, alongside allowing moderators to send them, was [added](https://github.com/ppy/osu-web/pull/8747) on June 1st, 2022.
 - The announce user group's ID is 47, it has neither a group badge nor a dedicated colour, and its user listing is private.
 
