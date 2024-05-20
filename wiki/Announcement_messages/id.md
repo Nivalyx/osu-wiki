@@ -10,7 +10,7 @@ tags:
 
 ![Notifikasi pengumuman](img/notification.png "Pesan notifikasi pengumuman")
 
-**Pesan pengumuman** merupakan jenis pesan khusus yang ditujukan untuk mengirim pesan yang lebih panjang dan terformat kepada banyak pengguna secara bersamaan. Tidak seperti pesan *chat* biasa, pesan pengumuman memiliki beberapa perbedaan yang antara lainnya meliputi:
+**Pesan pengumuman** merupakan jenis pesan khusus yang ditujukan untuk mengirim pesan yang lebih panjang dan terformat kepada banyak pengguna secara bersamaan. Terdapat beberapa perbedaan inti antara pesan pengumuman dengan pesan *chat* biasa, yang meliputi:
 
 - Batas jumlah 1024 karakter pada pesan (alih-alih 450 karakter)
 - Dukungan sintaks markdown[^note-images] untuk pemformatan teks
@@ -20,7 +20,7 @@ tags:
 
 ## Eligibilitas
 
-Sending and replying to announcement messages through the website requires membership in the [Global Moderation Team](/wiki/People/Global_Moderation_Team), the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), or the announce [user group](/wiki/People/User_group). However, only members of the announce user group are allowed to send chat announcements through the [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
+Untuk dapat mengirim dan membalas pesan pengumuman dari situs web, seorang pengguna harus menjadi bagian dari [Global Moderation Team](/wiki/People/Global_Moderation_Team), [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), atau [kelompok pengguna](/wiki/People/User_group) Announce. Meskipun demikian, hanya para anggota kelompok pengguna Announce yang dapat mengirim pesan pengumuman melalui [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel).
 
 ### Mengajukan permintaan
 
@@ -43,7 +43,7 @@ Untuk mengirimkan pesan pengumuman, buka [halaman *chat*](https://osu.ppy.sh/com
 
 - Pesan pengumuman ditujukan sebagai pengganti dari pesan [forum](/wiki/Community/Forum) lawas.
 - [Basic implementation](https://github.com/ppy/osu-web/pull/8418) of the announcement system was added to the website on January 26th, 2022. This included the announce user group and the ability to send announcement messages through the API. The user interface for sending chat announcements, alongside allowing moderators to send them, was [added](https://github.com/ppy/osu-web/pull/8747) on June 1st, 2022.
-- [Implementasi dasar](https://github.com/ppy/osu-web/pull/8418)
+- [Implementasi dasar](https://github.com/ppy/osu-web/pull/8418) sistem pengumuman ini diberlakukan pada situs web 
 - The announce user group's ID is 47, it has neither a group badge nor a dedicated colour, and its user listing is private.
 
 ## Notes
