@@ -44,7 +44,7 @@ Mocha merupakan maskot osu!taiko. Mocha pada awalnya dirancang sebagai bagian da
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
-> Ryuuta merupakan pemimpin regu pemandu sorak yang sarat akan emosi. Dia memiliki jiwa yang tulus dan gemar membantu orang-orang di sekitarnya yang sedang berada dalam kesulitan dengan mendukung dan berjuang untuk mereka!
+> Ryuuta merupakan pemimpin regu pemandu sorak yang sarat akan emosi. Dia memiliki jiwa yang tulus dan gemar membantu orang-orang di sekitarnya yang sedang berada dalam kesulitan dengan cara mendukung dan berjuang untuk mereka!
 
 一本木龍太 (Ryūta Ippongi) adalah catcher chibi osu!catch yang telah bergabung pada sejak tahun 2008, tetapi digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Dia dirancang oleh [iNis Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web lama. Ryūta juga muncul sebagai NPC pada game [Yandere Simulator](https://yanderesimulator.com).
 
