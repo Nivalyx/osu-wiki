@@ -44,13 +44,11 @@ Mocha merupakan maskot osu!taiko. Mocha pada awalnya dirancang sebagai bagian da
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
-> Ryuuta merupakan pemimpin regu pemandu sorak yang sarat akan emosi. Dia memiliki jiwa yang tulus dan gemar membantu orang-orang di sekitarnya yang sedang berada dalam kesulitan dengan bersorak dan berjuang untuk mereka!
+> Ryuuta merupakan pemimpin regu pemandu sorak yang sarat akan emosi. Dia memiliki jiwa yang tulus dan gemar membantu orang-orang di sekitarnya yang sedang berada dalam kesulitan dengan menyemangati dan berjuang untuk mereka!
 
-一本木龍太 (Ryūta Ippongi) was the osu!catch chibi-fruit catcher that had joined in 2008, but was replaced by [Yuzu](#yuzu) in 2014. He was created by [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) and was once part of the old website. He also appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC.
+一本木龍太 (Ryūta Ippongi) merupakan catcher osu!catch berbentuk chibi yang diperkenalkan pada tahun 2008, yang kemudian digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Ryuuta diciptakan oleh [iNis Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web osu! lawas. Ryuuta juga dapat ditemui sebagai NPC dalam permainan [Yandere Simulator](https://yanderesimulator.com).
 
-一本木龍太 (Ryūta Ippongi) merupakan catcher osu!catch berbentuk chibi yang diperkenalkan pada tahun 2008, yang kemudian digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Ryuuta diciptakan oleh [iNis Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web lama. Ryūta juga muncul sebagai NPC pada permainan [Yandere Simulator](https://yanderesimulator.com).
-
-Ryuuta juga muncul dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
+Di samping itu, Ryuuta juga muncul dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
 
 ### Agent J
 
@@ -58,9 +56,9 @@ Ryuuta juga muncul dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.p
 
 > Piawai dalam berbagi gaya tari mulai dari hip-hop hingga balet, J dapat memikat setiap makhluk hidup.
 
-Agent J, dikenal juga sebagai BA-2 (Beat Agent-2) atau J, adalah salah satu maskot osu! di tahun 2008 tetapi telah pensiun pada tahun 2014. Dia dirancang oleh iNis Corporation dan pernah menjadi bagian dari situs web lama.
+Agent J, atau yang juga dikenal sebagai BA-2 (Beat Agent-2) atau J, merupakan salah satu maskot osu! yang diperkenalkan pada tahun 2008 dan dipensiunkan pada tahun 2014. Agent J dirancang oleh iNis Corporation dan pernah menjadi bagian dari situs web osu! lawas.
 
-Agent J juga ditampilkan di skin milik [LuigiHann](https://osu.ppy.sh/users/1079), bernamakan [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+Di samping itu, Agent J juga muncul dalam skin dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
 
 ### Don
 
@@ -68,7 +66,9 @@ Agent J juga ditampilkan di skin milik [LuigiHann](https://osu.ppy.sh/users/1079
 
 > Don adalah protagonis dari serial [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Dia adalah taiko drum dengan tepian putih yang memiliki empat kaki, wajah merah (yang tampak seperti jingga moly), dan tubuh berwarna biru muda. Mimpi Don adalah membagikan berbagai keindahan Taiko dengan dunia. Tiga tahun telah berlalu sejak dia pindah ke Rumah Wada, dan dia menjadi sangat populer di sekitar kota. Dia memiliki nafsu mengerikan dan kadang-kadang memiliki barang-barang mahal di Rumah Wada yang mungkin adalah hal buruk. Dia biasa mengakhiri kalimatnya dengan "Ta-don", yang berarti "Ba-dum" dalam bahasa Jepang.
 
-和田どん (Wada Don), dikenal juga sebagai Don atau Don-chan, adalah salah satu maskot osu! untuk mode osu!taiko yang bergabung pada bulan Mei 2008. Tingginya 48 cm dengan beratnya yang melebihi 100 kg. Dia muncul di skin osu!taiko. Dia dirancang oleh Yukiko Yokoo (横尾有希子) dan pengisi suaranya Narahashi Miki (楢橋 美紀).
+和田どん (Wada Don), also known as Don or Don-chan, was one of the osu! mascots for osu!taiko that joined in 2008-05. He is 48 centimetres tall and weighs more than 100 kilograms. He appears in the skin for osu!taiko. His art was designed by Yukiko Yokoo (横尾有希子) and was voiced by Narahashi Miki (楢橋 美紀).
+
+和田どん (Wada Don), atau yang juga dikenal sebagai Don atau Don-chan, merupakan salah satu maskot osu!taiko yang diperkenalkan pada bulan Mei 2008. Wada Don memiliki tinggi 48 cm dan bobot yang melebihi 100 kg. Dia muncul di skin osu!taiko. Dia dirancang oleh Yukiko Yokoo (横尾有希子) dan pengisi suaranya Narahashi Miki (楢橋 美紀).
 
 ## Komunitas
 
