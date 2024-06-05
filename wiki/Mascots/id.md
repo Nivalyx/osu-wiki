@@ -54,7 +54,7 @@ Ryuuta juga muncul dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.p
 
 ![Agent J](img/Agent_J.png "Agent J")
 
-> Piawai dalam berbagi gaya tari mulai dari hip-hop hingga balet, J dapat memikat makhluk hidup mana pun juga.
+> Piawai dalam berbagi gaya tari mulai dari hip-hop hingga balet, J dapat memikat setiap makhluk hidup.
 
 Agent J, dikenal juga sebagai BA-2 (Beat Agent-2) atau J, adalah salah satu maskot osu! di tahun 2008 tetapi telah pensiun pada tahun 2014. Dia dirancang oleh iNis Corporation dan pernah menjadi bagian dari situs web lama.
 
