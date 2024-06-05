@@ -46,9 +46,9 @@ Mocha merupakan maskot osu!taiko. Mocha pada awalnya dirancang sebagai bagian da
 
 > Ryuuta merupakan pemimpin regu pemandu sorak yang sarat akan emosi. Dia memiliki jiwa yang tulus dan gemar membantu orang-orang di sekitarnya yang sedang berada dalam kesulitan dengan menyemangati dan berjuang untuk mereka!
 
-一本木龍太 (Ryūta Ippongi) merupakan catcher osu!catch berbentuk chibi yang diperkenalkan pada tahun 2008, yang kemudian digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Ryuuta diciptakan oleh [iNis Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web osu! lawas. Ryuuta juga dapat ditemui sebagai NPC dalam permainan [Yandere Simulator](https://yanderesimulator.com).
+一本木龍太 (Ryūta Ippongi) merupakan catcher osu!catch berbentuk chibi yang diperkenalkan pada tahun 2008, yang kemudian digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Ryuuta diciptakan oleh [iNis Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web osu! lawas. Ryuuta juga muncul sebagai NPC dalam permainan [Yandere Simulator](https://yanderesimulator.com).
 
-Di samping itu, Ryuuta juga muncul dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
+Di samping itu, Ryuuta juga dapat ditemui dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
 
 ### Agent J
 
@@ -56,9 +56,9 @@ Di samping itu, Ryuuta juga muncul dalam skin [Elite Beat osu! HD (1.0 Complete!
 
 > Piawai dalam berbagi gaya tari mulai dari hip-hop hingga balet, J dapat memikat setiap makhluk hidup.
 
-Agent J, atau yang juga dikenal sebagai BA-2 (Beat Agent-2) atau J, merupakan salah satu maskot osu! yang diperkenalkan pada tahun 2008 dan dipensiunkan pada tahun 2014. Agent J dirancang oleh iNis Corporation dan pernah menjadi bagian dari situs web osu! lawas.
+Agent J, atau yang juga dikenal sebagai BA-2 (Beat Agent-2) atau J, merupakan salah satu maskot osu! di tahun 2008 yang kemudian dipensiunkan pada tahun 2014. Agent J dirancang oleh iNis Corporation dan pernah menjadi bagian dari situs web osu! lawas.
 
-Di samping itu, Agent J juga muncul dalam skin dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
+Di samping itu, Agent J juga dapat ditemui dalam skin dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
 
 ### Don
 
@@ -68,7 +68,7 @@ Di samping itu, Agent J juga muncul dalam skin dalam skin [Elite Beat osu! HD (1
 
 > Don merupakan protagonis dari serial [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Dia adalah taiko drum dengan tepian putih yang memiliki empat kaki, wajah merah (yang tampak seperti jingga moly), dan tubuh berwarna biru muda. Mimpi Don adalah membagikan berbagai keindahan Taiko dengan dunia. Tiga tahun telah berlalu sejak dia pindah ke Rumah Wada, dan dia menjadi sangat populer di sekitar kota. Dia memiliki nafsu mengerikan dan kadang-kadang memiliki barang-barang mahal di Rumah Wada yang mungkin adalah hal buruk. Dia biasa mengakhiri kalimatnya dengan "Ta-don", yang berarti "Ba-dum" dalam bahasa Jepang.
 
-和田どん (Wada Don), atau yang juga dikenal sebagai Don atau Don-chan, merupakan salah satu maskot osu!taiko yang diperkenalkan pada bulan Mei 2008. Wada Don memiliki tinggi 48 cm dan bobot yang melebihi 100 kg. Dia muncul di skin osu!taiko. Konsep Wada Don dirancang oleh Yukiko Yokoo (横尾有希子) dan suaranya diisi oleh Narahashi Miki (楢橋 美紀).
+和田どん (Wada Don), atau yang juga dikenal sebagai Don atau Don-chan, merupakan salah satu maskot osu!taiko yang diperkenalkan pada bulan Mei 2008. Wada Don memiliki tinggi 48 cm dan bobot yang melebihi 100 kg. Wada Don muncul di skin mode osu!taiko. Konsep Wada Don dirancang oleh Yukiko Yokoo (横尾有希子) dan suaranya diisi oleh Narahashi Miki (楢橋 美紀).
 
 ## Komunitas
 
