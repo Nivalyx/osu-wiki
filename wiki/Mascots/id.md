@@ -64,11 +64,11 @@ Di samping itu, Agent J juga muncul dalam skin dalam skin [Elite Beat osu! HD (1
 
 ![Don](img/Don.png "Don")
 
-> Don adalah protagonis dari serial [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Dia adalah taiko drum dengan tepian putih yang memiliki empat kaki, wajah merah (yang tampak seperti jingga moly), dan tubuh berwarna biru muda. Mimpi Don adalah membagikan berbagai keindahan Taiko dengan dunia. Tiga tahun telah berlalu sejak dia pindah ke Rumah Wada, dan dia menjadi sangat populer di sekitar kota. Dia memiliki nafsu mengerikan dan kadang-kadang memiliki barang-barang mahal di Rumah Wada yang mungkin adalah hal buruk. Dia biasa mengakhiri kalimatnya dengan "Ta-don", yang berarti "Ba-dum" dalam bahasa Jepang.
+> Don is the protagonist of the [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) series. He is a taiko drum with a white edge and four legs, a red face (which appears to be moly orange), and a light blue body. Don's dream is to share the beauty of Taiko with the world. Three years have passed since he moved into the Wada House, and he's become quite popular around town. He has a monstrous appetite and sometimes has expensive shopping at the Wada House which may take over for the worst. He usually ends his sentences with "Ta-don", meaning "Ba-dum" in Japanese.
 
-和田どん (Wada Don), also known as Don or Don-chan, was one of the osu! mascots for osu!taiko that joined in 2008-05. He is 48 centimetres tall and weighs more than 100 kilograms. He appears in the skin for osu!taiko. His art was designed by Yukiko Yokoo (横尾有希子) and was voiced by Narahashi Miki (楢橋 美紀).
+> Don merupakan protagonis dari serial [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Dia adalah taiko drum dengan tepian putih yang memiliki empat kaki, wajah merah (yang tampak seperti jingga moly), dan tubuh berwarna biru muda. Mimpi Don adalah membagikan berbagai keindahan Taiko dengan dunia. Tiga tahun telah berlalu sejak dia pindah ke Rumah Wada, dan dia menjadi sangat populer di sekitar kota. Dia memiliki nafsu mengerikan dan kadang-kadang memiliki barang-barang mahal di Rumah Wada yang mungkin adalah hal buruk. Dia biasa mengakhiri kalimatnya dengan "Ta-don", yang berarti "Ba-dum" dalam bahasa Jepang.
 
-和田どん (Wada Don), atau yang juga dikenal sebagai Don atau Don-chan, merupakan salah satu maskot osu!taiko yang diperkenalkan pada bulan Mei 2008. Wada Don memiliki tinggi 48 cm dan bobot yang melebihi 100 kg. Dia muncul di skin osu!taiko. Dia dirancang oleh Yukiko Yokoo (横尾有希子) dan pengisi suaranya Narahashi Miki (楢橋 美紀).
+和田どん (Wada Don), atau yang juga dikenal sebagai Don atau Don-chan, merupakan salah satu maskot osu!taiko yang diperkenalkan pada bulan Mei 2008. Wada Don memiliki tinggi 48 cm dan bobot yang melebihi 100 kg. Dia muncul di skin osu!taiko. Konsep Wada Don dirancang oleh Yukiko Yokoo (横尾有希子) dan suaranya diisi oleh Narahashi Miki (楢橋 美紀).
 
 ## Komunitas
 
