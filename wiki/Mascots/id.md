@@ -1,13 +1,8 @@
----
-outdated_translation: true
-outdated_since: 0f49e908882a29c5c4c7f9f08bd97d12cdabd9c6
----
-
 # Maskot
 
 *Lihat juga: [Maskot/Galeri](/wiki/Mascots/Gallery).*
 
-Video di Youtube yang menampilkan maskot osu! dapat dilihat di [Mascot Showcase](https://youtu.be/mJF2cAs_MrI)
+Maskot-maskot osu! berikut juga dapat dilihat pada video YouTube [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
 ## Resmi
 
@@ -15,11 +10,14 @@ Video di Youtube yang menampilkan maskot osu! dapat dilihat di [Mascot Showcase]
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu! yang bergabung pada bulan Juli 2008. Dia juga dikenal sebagai pippidon di mode osu!taiko dan pippi merupakan salah satu NPC di game [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), sprite pippidon dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974), dan konsep pippi yang terkini dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
+pippi, stylised with a lowercase "p", is the osu! game mode mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by [Daru](https://osu.ppy.sh/users/32480).
+
+
+pippi, yang ditulis dengan huruf "p" kecil, merupakan maskot mode permainan osu! yang diperkenalkan pada bulan Juli 2008. Dia juga dikenal sebagai pippidon di osu!taiko dan pippi merupakan salah satu NPC di game [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), *sprite* pippidon dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974), dan konsep pippi yang terkini dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![Ikon osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
-*Untuk postingan beritanya, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) dan [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu).*
+*Untuk postingan berita terkait, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) dan [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu).*
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
