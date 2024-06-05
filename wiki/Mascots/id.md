@@ -18,9 +18,7 @@ pippi (ditulis dengan huruf "p" kecil) merupakan maskot mode permainan osu! yang
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu merupakan maskot osu!catch yang diperkenalkan pada tanggal 22 Juni 2014. Yuzu lahir pada tanggal 10 April 2000, dengan tinggi 172 cm dan berat 65 kg. Desain Yuzu saat ini dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672). Sedangkan konsep awal dan sprite catcher Yuzu dirancang oleh [ztrot](https://osu.ppy.sh/users/6347) lalu Daru membuat comboburst-nya.
-
-Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-10, is 172 centimetres tall, and weighs 65 kilograms. His current art design was designed by [Thievley](https://osu.ppy.sh/users/4717672). Whereas his initial art design and catcher sprites were done by [ztrot](https://osu.ppy.sh/users/6347); Daru created the comboburst art.
+Yuzu merupakan maskot osu!catch yang diperkenalkan pada tanggal 22 Juni 2014. Yuzu lahir pada tanggal 10 April 2000, dengan tinggi badan 172 cm dan berat 65 kg. Desain Yuzu saat ini dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672), yang didasarkan pada konsep awal dan *sprite* catcher yang dirancang oleh [ztrot](https://osu.ppy.sh/users/6347); *comboburst* pippi saat ini dibuat oleh Daru.
 
 ### ![Ikon osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
