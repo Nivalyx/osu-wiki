@@ -26,7 +26,7 @@ Yuzu merupakan maskot osu!catch yang diperkenalkan pada tanggal 22 Juni 2014. Yu
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Mani dan Mari merupakan maskot osu!mania yang dirancang oleh [xiemon](https://osu.ppy.sh/users/5203667) setelah dipilih dari submisi yang masuk pada [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) dan diumumkan secara resmi pada tanggal 18 September 2020. Mani dan Mari merupakan saudara kembar yang saling tidak akur, namun memiliki kemiripan yang enggan untuk mereka akui.
+Mani dan Mari merupakan maskot osu!mania yang dirancang oleh [xiemon](https://osu.ppy.sh/users/5203667) setelah dipilih dari submisi yang masuk pada [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) dan diumumkan secara resmi pada tanggal 18 September 2020. Mereka merupakan saudara kembar yang saling tidak akur, namun memiliki kemiripan yang enggan untuk mereka akui.
 
 Mani merupakan pemuda yang cenderung tampil nyentrik dan selalu mencari berbagai hal serta gaya baru, sedangkan saudaranya Mari (yang sebelumnya dikenal sebagai Maria) merupakan seseorang yang kaku, perfeksionis, dan selalu ingin menjadi pusat perhatian. Mereka berdua tidak pernah saling bersatu bagaikan minyak dan air.
 
@@ -46,7 +46,7 @@ Mocha merupakan maskot osu!taiko. Mocha pada awalnya dirancang sebagai bagian da
 
 > Ryuuta merupakan pemimpin regu pemandu sorak yang sarat akan emosi. Dia memiliki jiwa yang tulus dan gemar membantu orang-orang di sekitarnya yang sedang berada dalam kesulitan dengan cara mendukung dan berjuang untuk mereka!
 
-一本木龍太 (Ryūta Ippongi) merupakan catcher osu!catch berbentuk chibi yang diperkenalkan pada tahun 2008, namun digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Ryuuta dirancang oleh [iNis Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web lama. Ryūta juga muncul sebagai NPC pada game [Yandere Simulator](https://yanderesimulator.com).
+一本木龍太 (Ryūta Ippongi) merupakan catcher osu!catch berbentuk chibi yang diperkenalkan pada tahun 2008, namun digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Ryuuta dirancang oleh [iNis Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web lama. Ryūta juga muncul sebagai NPC pada permainan [Yandere Simulator](https://yanderesimulator.com).
 
 Ryuuta juga muncul dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
 
