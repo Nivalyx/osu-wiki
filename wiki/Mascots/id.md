@@ -30,7 +30,7 @@ Designed by [xiemon](https://osu.ppy.sh/users/5203667) after being scouted from 
 
 Mani is something of a maverick, always looking to explore new styles and things, while his sister Mari (formerly known as Maria) is a rigid, classical perfectionist with a penchant for the spotlight. The two get along like oil and water.
 
-Mani dan Mari merupakan maskot resmi osu!mania yang dirancang oleh [xiemon](https://osu.ppy.sh/users/5203667) setelah diseleksi dari [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) dan diumumkan sebagai maskot resmi osu!mania pada tanggal 18 September 2020. Mani dan Mari merupakan saudara kembar yang tidak dapat akur namun memiliki kemiripan yang tidak mereka akui.
+Mani dan Mari merupakan maskot resmi osu!mania yang dirancang oleh [xiemon](https://osu.ppy.sh/users/5203667) setelah diseleksi dari [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) dan diumumkan pada tanggal 18 September 2020. Mani dan Mari merupakan saudara kembar yang saling tidak akur, namun memiliki kemiripan yang tidak mereka akui.
 
 Mani adalah seorang yang eksentrik, selalu mencari hal-hal dan gaya baru, sedangkan saudaranya Mari (dulunya dikenal sebagai Maria) adalah seorang yang kaku, perfeksionis konservatif dengan kegemaran untuk selalu mendapat perhatian. Mereka berdua hidup bagaikan air dan minyak.
 
