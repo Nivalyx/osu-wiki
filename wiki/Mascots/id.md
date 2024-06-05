@@ -66,7 +66,7 @@ Di samping itu, Agent J juga dapat ditemui dalam skin [Elite Beat osu! HD (1.0 C
 
 > Don merupakan protagonis dari serial [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Dia merupakan sebuah drum taiko yang memiliki tepian putih serta empat kaki, wajah merah (yang tampak seperti warna jingga ikan mas), dan tubuh biru muda. Don bermimpi untuk membagikan keindahan Taiko kepada dunia. Tiga tahun telah berlalu sejak dia berpindah ke Rumah Wada, dan dia telah menjelma sebagai sosok yang populer di seantero kota. Dia memiliki nafsu makan yang luar biasa dan terkadang berbelanja barang-barang mahal di Rumah Wada, yang tidak selalu berakhir baik baginya. Dia biasa mengakhiri kalimatnya dengan "Ta-don", yang berarti "Ba-dum" dalam bahasa Jepang.
 
-和田どん (Wada Don), atau yang juga dikenal sebagai Don atau Don-chan, merupakan salah satu maskot osu!taiko yang diperkenalkan pada bulan Mei 2008. Wada Don memiliki tinggi 48 cm dan bobot yang melebihi 100 kg. Wada Don muncul pada skin mode osu!taiko. Konsep Wada Don dirancang oleh Yukiko Yokoo (横尾有希子) dan suaranya diisi oleh Narahashi Miki (楢橋 美紀).
+和田どん (Wada Don), atau yang juga dikenal sebagai Don atau Don-chan, merupakan salah satu maskot osu!taiko yang diperkenalkan pada bulan Mei 2008. Wada Don memiliki tinggi 48 cm dan bobot yang melebihi 100 kg. Wada Don muncul pada skin mode osu!taiko. Desain Wada Don dirancang oleh Yukiko Yokoo (横尾有希子) dan suaranya diisi oleh Narahashi Miki (楢橋 美紀).
 
 ## Komunitas
 
