@@ -28,7 +28,11 @@ Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-1
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Setelah didesain oleh [xiemon](https://osu.ppy.sh/users/5203667) dan dikembangkan dari [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80), Mani dan Mari diumumkan sebagai maskot resmi osu!mania pada 18 September 2020. Mani dan Mari adalah kembar yang tidak dapat akur namun memiliki kemiripan yang tidak mereka akui.
+Designed by [xiemon](https://osu.ppy.sh/users/5203667) after being scouted from the [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) and announced as the official osu!mania mascots on 2020-09-18, Mani and Mari are twins who can't quite stand each other, but are more similar than they'd care to admit.
+
+Mani is something of a maverick, always looking to explore new styles and things, while his sister Mari (formerly known as Maria) is a rigid, classical perfectionist with a penchant for the spotlight. The two get along like oil and water.
+
+Dirancang oleh [xiemon](https://osu.ppy.sh/users/5203667) setelah secara khusus dipiih dari [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) dan diumumkan sebagai maskot resmi osu!mania pada tanggal 18 September 2020, Mani dan Mari merupakan saudara kembar yang tidak dapat akur namun memiliki kemiripan yang tidak mereka akui.
 
 Mani adalah seorang yang eksentrik, selalu mencari hal-hal dan gaya baru, sedangkan saudaranya Mari (dulunya dikenal sebagai Maria) adalah seorang yang kaku, perfeksionis konservatif dengan kegemaran untuk selalu mendapat perhatian. Mereka berdua hidup bagaikan air dan minyak.
 
