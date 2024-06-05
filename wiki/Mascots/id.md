@@ -30,9 +30,9 @@ Designed by [xiemon](https://osu.ppy.sh/users/5203667) after being scouted from 
 
 Mani is something of a maverick, always looking to explore new styles and things, while his sister Mari (formerly known as Maria) is a rigid, classical perfectionist with a penchant for the spotlight. The two get along like oil and water.
 
-Mani dan Mari merupakan maskot osu!mania yang dirancang oleh [xiemon](https://osu.ppy.sh/users/5203667) setelah dipilih dari [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) dan diumumkan secara resmi pada tanggal 18 September 2020. Mani dan Mari merupakan saudara kembar yang saling tidak akur, namun memiliki kemiripan yang tidak mereka akui.
+Mani dan Mari merupakan maskot osu!mania yang dirancang oleh [xiemon](https://osu.ppy.sh/users/5203667) setelah dipilih dari [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) dan diumumkan secara resmi pada tanggal 18 September 2020. Mani dan Mari merupakan saudara kembar yang saling tidak akur, namun memiliki kemiripan yang enggan untuk mereka akui.
 
-Mani merupakan pemuda yang cenderung bergaya nyentrik, selalu mencari hal-hal dan gaya baru, sedangkan saudaranya Mari (dulunya dikenal sebagai Maria) adalah seorang yang kaku, perfeksionis konservatif dengan kegemaran untuk selalu mendapat perhatian. Mereka berdua hidup bagaikan air dan minyak.
+Mani merupakan pemuda yang cenderung bergaya nyentrik, selalu mencari berbagai hal dan gaya baru, sedangkan saudaranya Mari (dulunya dikenal sebagai Maria) adalah seorang yang kaku, perfeksionis konservatif dengan kegemaran untuk selalu mendapat perhatian. Mereka berdua hidup bagaikan air dan minyak.
 
 ### ![Ikon osu!taiko](/wiki/shared/mode/taiko.png) Mocha
 
