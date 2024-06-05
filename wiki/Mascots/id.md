@@ -13,7 +13,7 @@ Maskot-maskot osu! berikut juga dapat dilihat pada video YouTube [Mascot Showcas
 pippi, stylised with a lowercase "p", is the osu! game mode mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by [Daru](https://osu.ppy.sh/users/32480).
 
 
-pippi, yang ditulis dengan huruf "p" kecil, merupakan maskot mode permainan osu! yang diperkenalkan pada bulan Juli 2008. Dia juga dikenal sebagai pippidon di osu!taiko dan pippi merupakan salah satu NPC di game [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), *sprite* pippidon dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974), dan konsep pippi yang terkini dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
+pippi, yang ditulis dengan huruf "p" kecil, merupakan maskot mode permainan osu! yang diperkenalkan pada bulan Juli 2008. Dia juga dikenal sebagai pippidon di osu!taiko dan muncul pada permainan [Yandere Simulator](https://yanderesimulator.com) sebagai NPC. Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), *sprite* pippidon dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974), dan konsep pippi saat ini dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![Ikon osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
@@ -21,7 +21,9 @@ pippi, yang ditulis dengan huruf "p" kecil, merupakan maskot mode permainan osu!
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu adalah maskot osu!catch yang telah bergabung sejak 22 Juni 2014. Yuzu lahir pada 10 April 2000, tingginya 172 cm, dan beratnya 65 kg. Desain versi terbaru dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672). Sedangkan konsep awal dan sprite catcher Yuzu dirancang oleh [ztrot](https://osu.ppy.sh/users/6347) lalu Daru membuat comboburst-nya.
+Yuzu merupakan maskot osu!catch yang diperkenalkan pada tanggal 22 Juni 2014. Yuzu lahir pada tanggal 10 April 2000, dengan tinggi 172 cm dan berat 65 kg. Desain versi terbaru dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672). Sedangkan konsep awal dan sprite catcher Yuzu dirancang oleh [ztrot](https://osu.ppy.sh/users/6347) lalu Daru membuat comboburst-nya.
+
+Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-10, is 172 centimetres tall, and weighs 65 kilograms. His current art design was designed by [Thievley](https://osu.ppy.sh/users/4717672). Whereas his initial art design and catcher sprites were done by [ztrot](https://osu.ppy.sh/users/6347); Daru created the comboburst art.
 
 ### ![Ikon osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
