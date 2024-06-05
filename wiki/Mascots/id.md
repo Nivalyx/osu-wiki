@@ -10,7 +10,7 @@ Maskot-maskot osu! berikut juga dapat dilihat pada video YouTube [Mascot Showcas
 
 ![pippi](img/pippi.png "pippi")
 
-pippi (ditulis dengan huruf "p" kecil) merupakan maskot mode permainan osu! yang diperkenalkan pada bulan Juli 2008. pippi juga dikenal sebagai pippidon di osu!taiko dan sebagai salah satu karakter NPC pada permainan [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), dengan *sprite* pippidon yang dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974) dan desain saat ini yang dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
+pippi (yangditulis dengan huruf "p" kecil) merupakan maskot mode permainan osu! yang diperkenalkan pada bulan Juli 2008. pippi juga dikenal sebagai pippidon di osu!taiko dan sebagai salah satu karakter NPC pada permainan [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), dengan *sprite* pippidon yang dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974) dan desain saat ini yang dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![Ikon osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
@@ -18,7 +18,7 @@ pippi (ditulis dengan huruf "p" kecil) merupakan maskot mode permainan osu! yang
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu merupakan maskot osu!catch yang diperkenalkan pada tanggal 22 Juni 2014. Yuzu lahir pada tanggal 10 April 2000, dengan tinggi badan 172 cm dan berat 65 kg. Desain Yuzu saat ini dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672), yang didasarkan pada konsep awal dan *sprite* catcher yang dirancang oleh [ztrot](https://osu.ppy.sh/users/6347); *comboburst* pippi saat ini dibuat oleh Daru.
+Yuzu merupakan maskot osu!catch yang diperkenalkan pada tanggal 22 Juni 2014. Yuzu lahir pada tanggal 10 April 2000, dengan tinggi badan 172 cm dan berat 65 kg. Desain Yuzu saat ini dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672), yang didasarkan pada konsep awal dan *sprite* catcher yang dirancang oleh [ztrot](https://osu.ppy.sh/users/6347) serta *comboburst* yang dibuat oleh Daru.
 
 ### ![Ikon osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
@@ -30,7 +30,7 @@ Designed by [xiemon](https://osu.ppy.sh/users/5203667) after being scouted from 
 
 Mani is something of a maverick, always looking to explore new styles and things, while his sister Mari (formerly known as Maria) is a rigid, classical perfectionist with a penchant for the spotlight. The two get along like oil and water.
 
-Mani dan Mari merupakan maskot osu!mania yang dirancang oleh [xiemon](https://osu.ppy.sh/users/5203667) setelah diseleksi dari [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) dan diumumkan secara resmi pada tanggal 18 September 2020. Mani dan Mari merupakan saudara kembar yang saling tidak akur, namun memiliki kemiripan yang tidak mereka akui.
+Mani dan Mari merupakan maskot osu!mania yang dirancang oleh [xiemon](https://osu.ppy.sh/users/5203667) setelah dipilih dari [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) dan diumumkan secara resmi pada tanggal 18 September 2020. Mani dan Mari merupakan saudara kembar yang saling tidak akur, namun memiliki kemiripan yang tidak mereka akui.
 
 Mani adalah seorang yang eksentrik, selalu mencari hal-hal dan gaya baru, sedangkan saudaranya Mari (dulunya dikenal sebagai Maria) adalah seorang yang kaku, perfeksionis konservatif dengan kegemaran untuk selalu mendapat perhatian. Mereka berdua hidup bagaikan air dan minyak.
 
