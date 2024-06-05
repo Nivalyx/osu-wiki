@@ -12,7 +12,7 @@ Maskot-maskot osu! berikut juga dapat dilihat pada video YouTube [Mascot Showcas
 
 pippi, stylised with a lowercase "p", is the osu! game mode mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by [Daru](https://osu.ppy.sh/users/32480).
 
-pippi, yang ditulis dengan huruf "p" kecil, merupakan maskot mode permainan osu! yang diperkenalkan pada bulan Juli 2008. pippi juga dikenal sebagai pippidon di osu!taiko dan sebagai salah satu karakter NPC pada permainan [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), *sprite* pippidon dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974), dan konsep pippi saat ini dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
+pippi, yang ditulis dengan huruf "p" kecil, merupakan maskot mode permainan osu! yang diperkenalkan pada bulan Juli 2008. pippi juga dikenal sebagai pippidon di osu!taiko dan sebagai salah satu karakter NPC pada permainan [Yandere Simulator](https://yanderesimulator.com). Konsep awal pippi dirancang oleh [Sarumaru](https://osu.ppy.sh/users/9427), dengan *sprite* pippidon yang dibuat oleh [crystalsuicune](https://osu.ppy.sh/users/9974) dan konsep pippi saat ini yang dirancang oleh [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![Ikon osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
@@ -42,7 +42,7 @@ Mani adalah seorang yang eksentrik, selalu mencari hal-hal dan gaya baru, sedang
 
 Mocha is the osu!taiko mascot. She was initially designed during the [sixth fanart contest](https://osu.ppy.sh/community/contests/2) by [Crowie](https://osu.ppy.sh/users/6894067), which has been ranked 21st from the polls.
 
-Mocha merupakan maskot osu!taiko. Mocha pada awalnya dirancang sebagai bagian dari [kontes *fan art* ke-6](https://osu.ppy.sh/community/contests/2) oleh [Crowie](https://osu.ppy.sh/users/6894067), yang telah menduduki peringkat 21 dari pemungutan suara.
+Mocha merupakan maskot osu!taiko. Mocha pada awalnya dirancang sebagai bagian dari [kontes *fan art* ke-6](https://osu.ppy.sh/community/contests/2) oleh [Crowie](https://osu.ppy.sh/users/6894067), yang menduduki peringkat ke-21 berdasarkan hasil pemungutan suara.
 
 ## Kameo
 
