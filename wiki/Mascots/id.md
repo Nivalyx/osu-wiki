@@ -40,7 +40,7 @@ Mani merupakan pemuda yang cenderung bergaya nyentrik, selalu mencari hal-hal da
 
 ![Mocha](img/Mocha.png "Mocha")
 
-Mocha merupakan maskot osu!taiko. Mocha pada awalnya dirancang sebagai bagian dari [kontes *fan art* ke-6](https://osu.ppy.sh/community/contests/2) oleh [Crowie](https://osu.ppy.sh/users/6894067), yang menduduki peringkat ke-21 berdasarkan hasil pemungutan suara.
+Mocha merupakan maskot osu!taiko. Mocha pada awalnya dirancang sebagai bagian dari [kontes *fan art* ke-6](https://osu.ppy.sh/community/contests/2) oleh [Crowie](https://osu.ppy.sh/users/6894067), yang menduduki peringkat ke-21 berdasarkan hasil pemungutan suara kala itu.
 
 ## Kameo
 
