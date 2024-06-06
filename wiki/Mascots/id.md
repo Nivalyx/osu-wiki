@@ -18,7 +18,7 @@ pippi, ditulis dengan huruf "p" kecil, merupakan maskot mode permainan osu! yang
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu merupakan maskot osu!catch yang diperkenalkan pada tanggal 22 Juni 2014. Yuzu lahir pada tanggal 10 April 2000, dengan tinggi 172 cm dan berat 65 kg. Desain Yuzu saat ini dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672), sedangkan konsep awal serta *sprite* catcher Yuzu dirancang oleh [ztrot](https://osu.ppy.sh/users/6347). Di sisi lain, *comboburst* Yuzu dirancang oleh Daru.
+Yuzu merupakan maskot osu!catch yang diperkenalkan pada tanggal 22 Juni 2014. Yuzu lahir pada tanggal 10 April 2000, dengan tinggi 172 cm dan berat 65 kg. Desain Yuzu saat ini dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672), sedangkan konsep awal serta *sprite* catcher Yuzu dibuat oleh [ztrot](https://osu.ppy.sh/users/6347). Di sisi lain, *comboburst* Yuzu dirancang oleh Daru.
 
 ### ![Ikon osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
@@ -92,7 +92,7 @@ Dirancang oleh [pyun](https://osu.ppy.sh/users/981534), Chirou merupakan salah s
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Dirancang oleh [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, atau yang juga dikenal sebagai Taikonator 3000, merupakan salah satu entri dalam kontes desain maskot osu!taiko. Taikonator dikenal sebagai bahan candaan antar orang dalam (*inside joke*) dan populer atas alasan yang tidak diketahui. Asal-usulnya masih menjadi misteri; meskipun demikian, Taikonator jauh lebih unik dibanding rancangan maskot osu!taiko milik peserta lainnya dan telah banyak muncul dalam berbagai *fan art* kiriman pengguna.
+Dirancang oleh [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, atau yang juga dikenal sebagai Taikonator 3000, merupakan salah satu entri dalam kontes desain maskot osu!taiko. Taikonator dikenal sebagai bahan candaan antar orang dalam (*inside joke*) dan populer atas alasan yang tidak diketahui. Asal-usulnya masih menjadi misteri; meskipun demikian, Taikonator jauh lebih unik dibanding rancangan maskot osu!taiko milik para peserta lainnya dan telah banyak muncul dalam berbagai *fan art* kiriman pengguna.
 
 ### Tama
 
