@@ -44,7 +44,7 @@ Mocha merupakan maskot osu!taiko. Mocha pada awalnya dirancang sebagai bagian da
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
-> Ryuuta merupakan pemimpin regu pemandu sorak yang sarat akan emosi. Dia memiliki jiwa yang tulus dan gemar membantu orang-orang di sekitarnya yang sedang berada dalam kesulitan dengan menyemangati dan berjuang untuk mereka!
+> Ryuuta merupakan pemimpin regu pemandu sorak yang sarat akan emosi. Dia memiliki jiwa yang tulus dan gemar membantu orang-orang di sekitarnya yang berada dalam kesulitan dengan menyemangati dan berjuang untuk mereka!
 
 一本木龍太 (Ryūta Ippongi) merupakan catcher osu!catch berbentuk chibi yang diperkenalkan pada tahun 2008 sebelum digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Ryuuta diciptakan oleh [iNis Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web osu! lawas. Ryuuta juga muncul sebagai NPC dalam permainan [Yandere Simulator](https://yanderesimulator.com).
 
@@ -86,7 +86,9 @@ Dirancang oleh [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa merupakan
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Didesain oleh [pyun](https://osu.ppy.sh/users/981534), Chirou adalah salah satu peserta dalam kontes perancangan maskot osu!taiko. Dia sangat keras dan menuntut, perfeksionis, dan tidak suka membuat kesalahan — terutama dalam ketukannya di osu!taiko. Tetapi dari penampilan luarnya yang terlihat kuat, jika kamu bisa mencari titik lemahnya, dia bisa menjadi pribadi yang lembut dan imut. Dia berusia 14 tahun, lahir pada tanggal 25 Oktober dengan golongan darah AB. Dia juga memiliki tinggi 4 kaki 11 inci dan berat 100 pon. Hobinya antara lain berlatih drum, selalu ingin hangat dengan jubahnya, dan mengumpulkan permata atau batu. Chirou telah membuat beberapa penampilan di berbagai pengiriman fanart pengguna.
+Designed by [pyun](https://osu.ppy.sh/users/981534), Chirou was one of the entries in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes — especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches and weighs 100 pounds. Her hobbies include practising drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
+
+Dirancang oleh [pyun](https://osu.ppy.sh/users/981534), Chirou merupakan salah satu entri dalam kontes desain maskot osu!taiko. Chirou sangat tegas dan menuntut, perfeksionis, serta tidak suka membuat kesalahan — terutama dalam ketukannya di osu!taiko. Meskipun demikian, di balik penampilan luarnya yang terlihat keras, apabila kamu menemukan titik lemahnya, dia dapat berubah menjadi sosok yang lembut dan imut. Chirou berusia 14 tahun, lahir pada tanggal 25 Oktober dengan golongan darah AB. Dia juga memiliki tinggi 4 kaki 11 inci dan berat 100 pon. Hobi Chirou meliputi antara lain melatih drum, menghangatkan diri di dalam jubahnya, dan mengumpulkan permata atau batu. Chirou telah muncul dalam berbagai *fan art* kiriman pengguna.
 
 ### Taikonator
 
