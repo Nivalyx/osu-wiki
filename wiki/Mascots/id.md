@@ -18,7 +18,7 @@ pippi, ditulis dengan huruf "p" kecil, merupakan maskot mode permainan osu! yang
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu merupakan maskot osu!catch yang diperkenalkan pada tanggal 22 Juni 2014. Yuzu lahir pada tanggal 10 April 2000, dengan tinggi badan 172 cm dan berat 65 kg. Konsep awal serta *sprite* catcher Yuzu dirancang oleh [ztrot](https://osu.ppy.sh/users/6347), yang kemudian dikembangkan menjadi desain Yuzu saat ini oleh [Thievley](https://osu.ppy.sh/users/4717672). Di sisi lain, *comboburst* Yuzu dirancang oleh Daru.
+Yuzu merupakan maskot osu!catch yang diperkenalkan pada tanggal 22 Juni 2014. Yuzu lahir pada tanggal 10 April 2000, dengan tinggi 172 cm dan berat 65 kg. Desain Yuzu saat ini dirancang oleh [Thievley](https://osu.ppy.sh/users/4717672), sedangkan konsep awal serta *sprite* catcher Yuzu dirancang oleh [ztrot](https://osu.ppy.sh/users/6347). Di sisi lain, *comboburst* Yuzu dirancang oleh Daru.
 
 ### ![Ikon osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
@@ -97,7 +97,5 @@ Dirancang oleh [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, atau 
 ### Tama
 
 ![Tama](img/Tama.png "Tama")
-
-Designed by [crystalsuicine](https://osu.ppy.sh/users/9974), Tama was one of the younger entrants in the osu!taiko mascot design contest at only age 15 (or is she?), and has a huge passion for taiko drumming. And thunderstorms. And especially festivals, where she snatches up any takoyaki she can find. Always up for the challenge, Tama hides a particularly mysterious past behind her youthful demeanor.
 
 Dirancang oleh [crystalsuicine](https://osu.ppy.sh/users/9974), Tama merupakan salah satu entri termuda dalam kontes desain maskot osu!taiko dengan usia yang baru menginjak 15 tahun. Tama memiliki ketertarikan yang besar terhadap taiko. Dan badai petir. Dan terutama festival, di mana dia akan merengkuh takoyaki jenis apa pun yang dapat dia temukan. Selalu siap menghadapi tantangan, Tama menyembunyikan masa lalu yang misterius di balik sifat mudanya.
