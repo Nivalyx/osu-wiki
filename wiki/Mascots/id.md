@@ -74,7 +74,7 @@ Di samping itu, Agent J juga dapat ditemui dalam skin [Elite Beat osu! HD (1.0 C
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Dirancang oleh [JMC](https://osu.ppy.sh/users/774010), Aiko merupakan salah satu entri dalam kontes desain maskot osu!taiko. Aiko merupakan gadis yang energik dengan hasrat yang mendalam terhadap osu!taiko, bahkan meskipun dia bukan pemain yang handal sekalipun! Dengan mengenakan sepatu "Tabi" yang modis dan rangkaian aksesoris pippidon, sang maskot osu!taiko zaman dahulu kala seakan-akan hidup dalam gadis gagah ini. Aiko memiliki postur yang cukup pendek dengan tinggi badan hanya 154 cm, dan terlahir pada tanggal 6 April 1999.
+Dirancang oleh [JMC](https://osu.ppy.sh/users/774010), Aiko merupakan salah satu entri dalam kontes desain maskot osu!taiko. Aiko merupakan gadis yang energik dengan ketertarikan yang mendalam terhadap osu!taiko, bahkan meskipun dia bukan pemain yang handal sekalipun! Dengan mengenakan sepatu "Tabi" yang modis dan rangkaian aksesoris pippidon, sang maskot osu!taiko zaman dahulu kala seakan-akan hidup dalam gadis gagah ini. Aiko memiliki postur yang cukup pendek dengan tinggi badan hanya 154 cm, dan terlahir pada tanggal 6 April 1999.
 
 ### Alisa
 
@@ -100,4 +100,4 @@ Dirancang oleh [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, atau 
 
 Designed by [crystalsuicine](https://osu.ppy.sh/users/9974), Tama was one of the younger entrants in the osu!taiko mascot design contest at only age 15 (or is she?), and has a huge passion for taiko drumming. And thunderstorms. And especially festivals, where she snatches up any takoyaki she can find. Always up for the challenge, Tama hides a particularly mysterious past behind her youthful demeanor.
 
-Dirancang oleh [crystalsuicine](https://osu.ppy.sh/users/9974), Tama merupakan salah satu entri termuda dalam kontes desain maskot osu!taiko dengan usia yang baru menginjak 15 tahun, Tama memiliki gairah besar terhadap taiko. Dan badai petir. Dan terutama festival, di mana dia akan merebut takoyaki jenis apa pun yang bisa dia temukan. Selalu siap menghadapi tantangan, Tama menyembunyikan masa lalu yang sangat misterius di balik sikap mudanya.
+Dirancang oleh [crystalsuicine](https://osu.ppy.sh/users/9974), Tama merupakan salah satu entri termuda dalam kontes desain maskot osu!taiko dengan usia yang baru menginjak 15 tahun. Tama memiliki ketertarikan yang besar terhadap taiko. Dan badai petir. Dan terutama festival, di mana dia akan merengkuh takoyaki jenis apa pun yang dapat dia temukan. Selalu siap menghadapi tantangan, Tama menyembunyikan masa lalu yang misterius di balik sikap mudanya.
