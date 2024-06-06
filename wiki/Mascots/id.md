@@ -82,7 +82,7 @@ Dirancang oleh [JMC](https://osu.ppy.sh/users/774010), Aiko merupakan salah satu
 
 Designed by [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa was one of the entries in the osu!taiko mascot design contest. She has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she is not sleeping or eating, she is playing osu!taiko, or playing retro video games for kicks!
 
-Dirancang oleh [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa adalah salah satu entri dalam kontes desain maskot osu!taiko. Dia telah bermain osu!taiko sejak kecil. Gemar memainkan lagu untuk orang lain, dia orang yang sangat berorientasi terhadap musik, dan ketika dia tidak tidur atau makan, dia bermain osu!taiko, atau sekedar iseng bermain video game retro!
+Dirancang oleh [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa merupakan salah satu entri dalam kontes desain maskot osu!taiko. Alisa telah bermain osu!taiko sejak kecil. Dikenal akan kegemarannya untuk memainkan lagu bagi orang lain, Alisa sangat peka terhadap musik, dan ketika dia tidak tidur atau makan, dia bermain osu!taiko atau sekedar iseng bermain video game retro!
 
 ### Chirou
 
