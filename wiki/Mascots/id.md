@@ -92,7 +92,9 @@ Dirancang oleh [pyun](https://osu.ppy.sh/users/981534), Chirou merupakan salah s
 
 ![Taikonator](img/Taikonator.png "Taikonator")
 
-Didesain oleh [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, juga dikenal sebagai Taikonator 3000, adalah salah satu peserta dalam kontes merancang maskot osu!taiko. Dia mendapatkan beberapa daya tarik sebagai lelucon dalam komunitas dan popularitas dengan alasan yang tidak diketahui. Asal-usulnya tetap menjadi misteri, meskipun demikian, ia jauh lebih unik daripada maskot kiriman peserta lainnya dan banyak muncul dalam berbagai kiriman fanart pengguna.
+Designed by [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, also known as Taikonator 3000, was one of the entries in the osu!taiko mascot design contest. He has gained some traction as an inside joke and popularity for unknown reasons. His origins remains a mystery; despite this, he is far more unique than the other osu!taiko mascot design submissions and has made many appearances in various user fanart submissions.
+
+Didesain oleh [Lemia-Chan](https://osu.ppy.sh/users/8506749), Taikonator, atau yang juga dikenal sebagai Taikonator 3000, adalah salah satu peserta dalam kontes merancang maskot osu!taiko. Dia mendapatkan beberapa daya tarik sebagai lelucon dalam komunitas dan popularitas dengan alasan yang tidak diketahui. Asal-usulnya tetap menjadi misteri, meskipun demikian, ia jauh lebih unik daripada maskot kiriman peserta lainnya dan banyak muncul dalam berbagai kiriman fanart pengguna.
 
 ### Tama
 
