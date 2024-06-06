@@ -74,11 +74,13 @@ Di samping itu, Agent J juga dapat ditemui dalam skin [Elite Beat osu! HD (1.0 C
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Dirancang oleh [JMC](https://osu.ppy.sh/users/774010), Aiko merupakan salah satu entri dalam kontes desain maskot osu!taiko. Aiko merupakan gadis yang energik dengan hasrat yang mendalam terhadap osu!taiko, bahkan meskipun dia bukan pemain yang handal sekalipun! Dengan mengenakan sepatu "Tabi" yang modis dan rangkaian aksesoris pippidon, maskot masa lampau hidup dalam gadis gagah ini. Aiko memiliki postur yang cukup pendek dengan tinggi hanya 154 cm, dan terlahir pada tanggal 6 April 1999.
+Dirancang oleh [JMC](https://osu.ppy.sh/users/774010), Aiko merupakan salah satu entri dalam kontes desain maskot osu!taiko. Aiko merupakan gadis yang energik dengan hasrat yang mendalam terhadap osu!taiko, bahkan meskipun dia bukan pemain yang handal sekalipun! Dengan mengenakan sepatu "Tabi" yang modis dan rangkaian aksesoris pippidon, sang maskot osu!taiko zaman dahulu kala seakan-akan hidup dalam gadis gagah ini. Aiko memiliki postur yang cukup pendek dengan tinggi hanya 154 cm, dan terlahir pada tanggal 6 April 1999.
 
 ### Alisa
 
 ![Alisa](img/Alisa.png "Alisa")
+
+Designed by [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa was one of the entries in the osu!taiko mascot design contest. She has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she is not sleeping or eating, she is playing osu!taiko, or playing retro video games for kicks!
 
 Dirancang oleh [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa adalah salah satu entri dalam kontes desain maskot osu!taiko. Dia telah bermain osu!taiko sejak kecil. Gemar memainkan lagu untuk orang lain, dia orang yang sangat berorientasi terhadap musik, dan ketika dia tidak tidur atau makan, dia bermain osu!taiko, atau sekedar iseng bermain video game retro!
 
