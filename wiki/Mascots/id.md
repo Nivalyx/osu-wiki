@@ -74,13 +74,17 @@ Di samping itu, Agent J juga dapat ditemui dalam skin [Elite Beat osu! HD (1.0 C
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Dirancang oleh [JMC](https://osu.ppy.sh/users/774010), Aiko adalah salah satu peserta dalam kontes merancang maskot osu!taiko. Dia adalah gadis yang energik dengan hasrat untuk osu!taiko, bahkan meskipun dia bukan yang terbaik dalam hal itu! Berpenampilan sepasang sepatu olahraga "Tabi" bergaya dan aksesoris pippidon yang banyak, maskot masa lampau hidup dalam gadis gagah ini. Dia cukup pendek dengan tinggi hanya 154 cm, dan lahir pada 6 April 1999.
+Designed by [JMC](https://osu.ppy.sh/users/774010), Aiko was one of the entries in the osu!taiko mascot design contest. She is an energetic girl with a passion for osu!taiko, even if she is not the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She is fairly short at only 154 centimetres, and was born on 1999-04-06.
+
+![Aiko](img/Aiko.png "Aiko")
+
+Dirancang oleh [JMC](https://osu.ppy.sh/users/774010), Aiko merupakan salah satu entri dalam kontes desain maskot osu!taiko. Aiko merupakan gadis yang energik dengan hasrat terhadap osu!taiko, bahkan meskipun dia bukan yang terbaik dalam hal itu! Dengan mengenakan sepatu "Tabi" bergaya dan aksesoris pippidon yang banyak, maskot masa lampau hidup dalam gadis gagah ini. Dia cukup pendek dengan tinggi hanya 154 cm, dan lahir pada 6 April 1999.
 
 ### Alisa
 
 ![Alisa](img/Alisa.png "Alisa")
 
-Dirancang oleh [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa adalah salah satu peserta dalam kontes merancang maskot osu!taiko. Dia telah bermain osu!taiko sejak kecil. Gemar memainkan lagu untuk orang lain, dia orang yang sangat berorientasi terhadap musik, dan ketika dia tidak tidur atau makan, dia bermain osu!taiko, atau sekedar iseng bermain video game retro!
+Dirancang oleh [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa adalah salah satu entri dalam kontes desain maskot osu!taiko. Dia telah bermain osu!taiko sejak kecil. Gemar memainkan lagu untuk orang lain, dia orang yang sangat berorientasi terhadap musik, dan ketika dia tidak tidur atau makan, dia bermain osu!taiko, atau sekedar iseng bermain video game retro!
 
 ### Chirou
 
