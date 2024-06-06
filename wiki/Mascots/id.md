@@ -78,7 +78,7 @@ Designed by [JMC](https://osu.ppy.sh/users/774010), Aiko was one of the entries 
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Dirancang oleh [JMC](https://osu.ppy.sh/users/774010), Aiko merupakan salah satu entri dalam kontes desain maskot osu!taiko. Aiko merupakan gadis yang energik dengan hasrat yang mendalam terhadap osu!taiko, bahkan meskipun dia bukan pemain terbaik sekalipun! Dengan mengenakan sepatu "Tabi" yang modis dan aksesoris pippidon yang banyak, maskot masa lampau hidup dalam gadis gagah ini. Aiko memiliki postur yang cukup pendek dengan tinggi hanya 154 cm, dan lahir pada tanggal 6 April 1999.
+Dirancang oleh [JMC](https://osu.ppy.sh/users/774010), Aiko merupakan salah satu entri dalam kontes desain maskot osu!taiko. Aiko merupakan gadis yang energik dengan hasrat yang mendalam terhadap osu!taiko, bahkan meskipun dia bukan pemain yang handal sekalipun! Dengan mengenakan sepatu "Tabi" yang modis dan rangkaian aksesoris pippidon, maskot masa lampau hidup dalam gadis gagah ini. Aiko memiliki postur yang cukup pendek dengan tinggi hanya 154 cm, dan terlahir pada tanggal 6 April 1999.
 
 ### Alisa
 
