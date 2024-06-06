@@ -46,7 +46,7 @@ Mocha merupakan maskot osu!taiko. Mocha pada awalnya dirancang sebagai bagian da
 
 > Ryuuta merupakan pemimpin regu pemandu sorak yang sarat akan emosi. Dia memiliki jiwa yang tulus dan gemar membantu orang-orang di sekitarnya yang berada dalam kesulitan dengan menyemangati dan berjuang untuk mereka!
 
-一本木龍太 (Ryūta Ippongi) merupakan catcher osu!catch berbentuk chibi yang diperkenalkan pada tahun 2008 sebelum digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Ryuuta diciptakan oleh [iNis Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web osu! lawas. Ryuuta juga muncul sebagai NPC dalam permainan [Yandere Simulator](https://yanderesimulator.com).
+一本木龍太 (Ryūta Ippongi) merupakan catcher osu!catch berbentuk chibi yang diperkenalkan pada tahun 2008 sebelum digantikan oleh [Yuzu](#yuzu) pada tahun 2014. Ryuuta diciptakan oleh [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) dan pernah menjadi bagian dari situs web osu! lawas. Ryuuta juga muncul sebagai NPC dalam permainan [Yandere Simulator](https://yanderesimulator.com).
 
 Di samping itu, Ryuuta juga dapat ditemui dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
 
@@ -56,7 +56,7 @@ Di samping itu, Ryuuta juga dapat ditemui dalam skin [Elite Beat osu! HD (1.0 Co
 
 > Piawai dalam berbagi gaya tari mulai dari hip-hop hingga balet, J dapat memikat setiap makhluk hidup.
 
-Agent J, atau yang juga dikenal sebagai BA-2 (Beat Agent-2) atau J, merupakan salah satu maskot osu! di tahun 2008 yang kemudian dipensiunkan pada tahun 2014. Agent J dirancang oleh iNis Corporation dan pernah menjadi bagian dari situs web osu! lawas.
+Agent J, atau yang juga dikenal sebagai BA-2 (Beat Agent-2) atau J, merupakan salah satu maskot osu! di tahun 2008 yang telah pensiun sejak tahun 2014 silam. Agent J dirancang oleh iNiS Corporation dan pernah menjadi bagian dari situs web osu! lawas.
 
 Di samping itu, Agent J juga dapat ditemui dalam skin [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/) yang dibuat oleh [LuigiHann](https://osu.ppy.sh/users/1079).
 
