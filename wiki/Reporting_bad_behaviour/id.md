@@ -43,12 +43,10 @@ Apabila nama pengguna yang ingin kamu laporkan mengandung spasi, ganti semua spa
 
 ![](img/report-user-2-ID.png "Dialog pelaporan pengguna dalam permainan")
 
-Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang berhadapan secara langsung denganmu sebagai berikut:
-
-This option works if the offending user is in sight:
+Metode ini dapat digunakan apabila pengguna yang melanggar berada tepat di hadapanmu sebagai berikut:
 
 1. Klik nama pengguna yang ingin kamu laporkan dan pilih tombol merah yang bertuliskan `Laporkan Pengguna...`
-2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang terjadi (opsional).
+2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian mengenai pelanggaran yang terjadi (opsional).
 
 ## Situs web osu!
 
