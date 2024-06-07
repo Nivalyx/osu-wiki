@@ -14,17 +14,19 @@ Laporan yang terkirim secara tidak sengaja akan diabaikan. Meskipun demikian, pa
 | Perilaku yang tidak pantas dari anggota [NAT](/wiki/People/Nomination_Assessment_Team) atau [GMT](/wiki/People/Global_Moderation_Team) | [Tim dukungan akun](/wiki/People/Account_support_team) melalui [support@ppy.sh](mailto:support@ppy.sh) |
 | Pelecehan seksual atau perilaku menyimpang yang berlebihan | Mohon rujuk artikel [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) |
 
-Untuk berbagai kasus lainnya, ikuti instruksi di bawah ini.
+Untuk segala bentuk pelanggaran lainnya, mohon ikuti instruksi di bawah ini.
 
 ## In-game chat
 
-### Menggunakan perintah !report
+### Perintah !report
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
-Perilaku buruk dalam *in-game chat* merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkannya, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesan tersebut hanya akan dapat dilihat oleh moderator** tanpa dapat diketahui oleh para pengguna lainnya. Apabila kamu masih belum yakin, kamu dapat kembali melaporkan pelanggaran tersebut melalui [menu dalam permainan](#mengirimkan-laporan-melalui-menu-dalam-permainan) setelahnya.
+Chat misbehaviour is the most common infringement. To report it, use the [`!report`](https://osu.ppy.sh/community/forums/topics/34843) command, preferably in the channel where infringement took place. Don't feel stressed: if your message starts with `!report` and a space, **it is only visible to moderators** and no one else in the chat. You can also use the report function via the [in-game overlay](#in-game-overlay) as depicted below if you are still concerned.
 
-Perintah ini dapat dikirim baik dengan ataupun tanpa penjelasan lebih lanjut sebagai berikut:
+Obrolan yang tidak pantas merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkan hal ini, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesanmu hanya akan dapat dilihat oleh para moderator** tanpa diketahui oleh para pengguna lainnya. Apabila kamu masih belum yakin, kamu dapat kembali melaporkan pelanggaran tersebut melalui [menu dalam permainan](#mengirimkan-laporan-melalui-menu-dalam-permainan) setelahnya.
+
+Perintah ini dapat dikirim baik dengan mau pun tanpa penjelasan lebih lanjut sebagai berikut:
 
 ```
 !report nama_pengguna
