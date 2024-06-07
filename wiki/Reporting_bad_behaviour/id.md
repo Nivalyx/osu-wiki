@@ -22,15 +22,13 @@ Untuk segala bentuk pelanggaran lainnya, mohon ikuti instruksi di bawah ini.
 
 ![](img/report-command.jpg "Contoh penggunaan perintah !report")
 
-Chat misbehaviour is the most common infringement. To report it, use the [`!report`](https://osu.ppy.sh/community/forums/topics/34843) command, preferably in the channel where infringement took place. Don't feel stressed: if your message starts with `!report` and a space, **it is only visible to moderators** and no one else in the chat. You can also use the report function via the [in-game overlay](#in-game-overlay) as depicted below if you are still concerned.
-
-Obrolan yang tidak pantas merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkan hal ini, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesanmu hanya akan dapat dilihat oleh para moderator** tanpa diketahui oleh para pengguna lainnya. Apabila kamu masih belum yakin, kamu dapat kembali melaporkan pelanggaran tersebut melalui [menu dalam permainan](#mengirimkan-laporan-melalui-menu-dalam-permainan) setelahnya.
+Obrolan yang tidak pantas merupakan bentuk pelanggaran yang paling umum dijumpai. Untuk melaporkan hal ini, gunakan perintah [`!report`](https://osu.ppy.sh/community/forums/topics/34843) pada kanal di mana pelanggaran tersebut terjadi. Jangan takut untuk melapor: apabila pesan yang kamu tulis dimulai dengan `!report` dan diikuti oleh spasi, **pesanmu hanya akan dapat dilihat oleh para moderator** tanpa diketahui oleh para pengguna lainnya. Di samping itu, kamu juga dapat melapor melalui [menu dalam permainan](#mengirimkan-laporan-melalui-menu-dalam-permainan) sebagaimana yang dijelaskan di bawah apabila kamu masih risau.
 
 Perintah ini dapat dikirim baik dengan mau pun tanpa penjelasan lebih lanjut sebagai berikut:
 
 ```
 !report nama_pengguna
-!report nama_pengguna (penjelasan singkat seputar pelanggaran yang dilakukan oleh pengguna yang bersangkutan)
+!report nama_pengguna (penjelasan singkat seputar pelanggaran yang terjadi)
 ```
 
 Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, ganti semua spasi yang ada dengan garis bawah (\_) sesuai dengan contoh berikut:
