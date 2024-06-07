@@ -28,10 +28,10 @@ Perintah ini dapat dikirim baik dengan mau pun tanpa penjelasan lebih lanjut seb
 
 ```
 !report nama_pengguna
-!report nama_pengguna (penjelasan singkat seputar pelanggaran yang terjadi)
+!report nama_pengguna (penjelasan singkat mengenai pelanggaran yang terjadi)
 ```
 
-Apabila nama pengguna yang hendak kamu laporkan mengandung spasi, ganti semua spasi yang ada dengan garis bawah (\_) sesuai dengan contoh berikut:
+Apabila nama pengguna yang ingin kamu laporkan mengandung spasi, ganti semua spasi yang ada dengan garis bawah (\_) seperti pada contoh berikut:
 
 ```
 !report pengguna_yang_melanggar mengirimkan spam di #osu
