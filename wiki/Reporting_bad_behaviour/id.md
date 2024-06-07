@@ -39,11 +39,11 @@ Apabila nama pengguna yang ingin kamu laporkan mengandung spasi, ganti semua spa
 
 ### Menu dalam permainan
 
-![](img/report-user-1-ID.png "Menu permainan yang memungkinkan kamu untuk melaporkan pengguna yang berperilaku buruk")
+![](img/report-user-1-ID.png "Menu tindakan pengguna beserta tombol untuk melapor di dalamnya")
 
 ![](img/report-user-2-ID.png "Dialog pelaporan pengguna dalam permainan")
 
-Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang *online* sebagai berikut:
+Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang berhadapan secara langsung denganmu sebagai berikut:
 
 1. Klik nama pengguna yang hendak kamu laporkan dan pilih tombol merah yang bertuliskan `Laporkan Pengguna...`
 2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
