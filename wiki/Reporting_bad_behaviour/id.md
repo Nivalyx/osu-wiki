@@ -37,7 +37,7 @@ Apabila nama pengguna yang ingin kamu laporkan mengandung spasi, ganti semua spa
 !report pengguna_yang_melanggar mengirimkan spam di #osu
 ```
 
-### Mengirimkan laporan melalui menu dalam permainan
+### Menu dalam permainan
 
 ![](img/report-user-1-ID.png "Menu permainan yang memungkinkan kamu untuk melaporkan pengguna yang berperilaku buruk")
 
