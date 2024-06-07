@@ -45,8 +45,10 @@ Apabila nama pengguna yang ingin kamu laporkan mengandung spasi, ganti semua spa
 
 Metode ini dapat digunakan untuk melaporkan para pelanggar yang sedang berhadapan secara langsung denganmu sebagai berikut:
 
-1. Klik nama pengguna yang hendak kamu laporkan dan pilih tombol merah yang bertuliskan `Laporkan Pengguna...`
-2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
+This option works if the offending user is in sight:
+
+1. Klik nama pengguna yang ingin kamu laporkan dan pilih tombol merah yang bertuliskan `Laporkan Pengguna...`
+2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang terjadi (opsional).
 
 ## Situs web osu!
 
