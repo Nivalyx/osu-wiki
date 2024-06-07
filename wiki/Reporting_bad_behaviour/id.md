@@ -2,7 +2,7 @@
 
 osu! has [a team of moderators](/wiki/People/Global_Moderation_Team) that adheres to keeping the game and its ecosystem clean and safe. If you notice rule-breaking behaviour or inappropriate content, report it using one of the methods described below. Alternatively, you may contact any of the moderators online directly if your report wasn't properly handled within a reasonable amount of time — do so only as the last resort.
 
-osu! memiliki [tim moderator](/wiki/People/Global_Moderation_Team) yang berkomitmen untuk menjaga permainan osu! beserta ekosistemnya bersih dan aman. Apabila kamu menemeukan perbuatan yang melanggar peraturan atau konten yang tidak pantas, mohon laporkan hal tersebut melalui salah satu jalur laporan yang tertera di bawah ini. Di samping itu, apabila setelah sekian waktu laporanmu belum ditanggapi, kamu dapat mengontak para moderator yang sedang *online* secara langsung.
+osu! memiliki [tim moderator](/wiki/People/Global_Moderation_Team) yang berkomitmen untuk menjaga permainan osu! beserta ekosistemnya bersih dan aman. Apabila kamu menemukan perbuatan yang melanggar peraturan atau konten yang tidak pantas, mohon laporkan hal tersebut melalui salah satu jalur laporan yang tertera di bawah ini. Di samping itu, kamu juga dapat menghubungi salah satu moderator yang sedang *online* secara langsung apabila laporanmu belum ditanggapi setelah sekian waktu.
 
 Laporan yang terkirim secara tidak sengaja akan diabaikan. Meskipun demikian, para pengguna yang sengaja mengirimkan laporan palsu akan terancam untuk di-*[silence](/wiki/Silence)*.
 
