@@ -92,10 +92,10 @@ Metode ini dapat digunakan apabila pengguna yang melanggar berada tepat di hadap
 
 ![](img/report-score-user-ID.png "Tombol \"Laporkan Skor\" pada skor yang tertera pada laman profil pengguna")
 
-#### Pada laman profil pengguna
+#### Haman profil pengguna
 
-1. Pada laman profil pengguna yang kamu tenggarai telah berbuat curang, tuju bagian `Peringkat` atau `Historis` dan layangkan kursormu ke atas skor yang kamu anggap tidak wajar.
-2. Klik tombol titik tiga yang muncul pada bagian kanan layar dan pilih `Laporkan Skor`.
+1. Tuju bagian `Peringkat` atau `Historis` dan layangkan kursormu ke atas skor yang kamu anggap tidak wajar.
+2. Pada ujung kanan bilah skor, klik tombol titik tiga yang muncul dan pilih `Laporkan Skor`.
 3. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
 #### Papan peringkat beatmap
