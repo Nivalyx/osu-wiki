@@ -46,18 +46,18 @@ Apabila nama pengguna yang ingin kamu laporkan mengandung spasi, ganti semua spa
 Metode ini dapat digunakan apabila pengguna yang melanggar berada tepat di hadapanmu sebagai berikut:
 
 1. Klik nama pengguna yang ingin kamu laporkan dan pilih tombol merah yang bertuliskan `Laporkan Pengguna...`
-2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian mengenai pelanggaran yang terjadi (opsional).
+2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
-## Situs web osu!
+## Situs web
 
-### Melaporkan pengguna lain melalui laman profil mereka
+### Halaman profil
 
 ![](img/report-user-profile-ID.png "Tombol \"Laporkan\" pada laman profil pengguna")
 
 ![](img/report-user-web-ID.png "Dialog pelaporan pengguna pada situs web osu!")
 
 1. Klik tombol titik tiga yang tertera di bawah nama pengguna dan pilih `Laporkan`.
-2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
+2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
 ### Melaporkan postingan forum yang tidak pantas
 
@@ -65,28 +65,28 @@ Metode ini dapat digunakan apabila pengguna yang melanggar berada tepat di hadap
 
 1. Layangkan kursormu ke atas postingan forum yang hendak kamu laporkan.
 2. Dari deretan tombol yang muncul pada pojok kanan atas layar, klik tombol yang memiliki simbol peringatan.
-3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
+3. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
 ### Melaporkan komentar yang tidak pantas
 
 ![](img/report-user-comment-ID.png "Tautan \"laporkan\" pada kolom komentar")
 
 1. Klik tautan `laporkan` yang tertera di bawah komentar.
-2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
+2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
 ### Melaporkan beatmap yang tidak pantas
 
 ![](img/report-beatmap-ID.png "Tombol \"Laporkan\" pada laman info beatmap")
 
 1. Klik tombol titik tiga yang tertera pada laman info beatmap dan pilih `Laporkan`.
-2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
+2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
 ### Melaporkan topik diskusi beatmap yang tidak pantas
 
 ![](img/report-user-discussion-ID.png "Tautan \"laporkan\" pada laman diskusi beatmap")
 
 1. Pada laman diskusi beatmap yang terkait, tuju topik diskusi beatmap yang bermasalah dan klik tautan `laporkan`.
-2. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
+2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
 ### Melaporkan skor yang tidak wajar
 
@@ -96,12 +96,12 @@ Metode ini dapat digunakan apabila pengguna yang melanggar berada tepat di hadap
 
 1. Pada laman profil pengguna yang kamu tenggarai telah berbuat curang, tuju bagian `Peringkat` atau `Historis` dan layangkan kursormu ke atas skor yang kamu anggap tidak wajar.
 2. Klik tombol titik tiga yang muncul pada bagian kanan layar dan pilih `Laporkan Skor`.
-3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
+3. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
-#### Pada papan peringkat (leaderboards) beatmap
+#### Papan peringkat beatmap
 
 ![](img/report-score-beatmap-ID.png "Tombol \"Laporkan Skor\" pada papan peringkat beatmap")
 
 1. Layangkan kursormu ke atas skor yang kamu anggap tidak wajar.
-2. Klik tombol titik tiga yang muncul pada bagian kanan layar dan pilih `Laporkan Skor`.
-3. Pilih kategori pelanggaran yang sesuai dan sertakan sedikit rincian seputar pelanggaran yang bersangkutan (opsional).
+2. Pada ujung kanan bilah skor, klik tombol titik tiga yang muncul dan pilih `Laporkan Skor`.
+3. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
