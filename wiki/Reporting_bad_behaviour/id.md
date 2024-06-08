@@ -52,47 +52,47 @@ Metode ini dapat digunakan apabila pengguna yang melanggar berada tepat di hadap
 
 ### Halaman profil
 
-![](img/report-user-profile-ID.png "Tombol \"Laporkan\" pada laman profil pengguna")
+![](img/report-user-profile-ID.png "Tombol \"Laporkan\" pada halaman profil pengguna")
 
 ![](img/report-user-web-ID.png "Dialog pelaporan pengguna pada situs web osu!")
 
 1. Klik tombol titik tiga yang tertera di bawah nama pengguna dan pilih `Laporkan`.
 2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
-### Melaporkan postingan forum yang tidak pantas
+### Forum
 
 ![](img/report-user-forum-ID.png "Tombol \"Laporkan post\" pada forum")
 
-1. Layangkan kursormu ke atas postingan forum yang hendak kamu laporkan.
-2. Dari deretan tombol yang muncul pada pojok kanan atas layar, klik tombol yang memiliki simbol peringatan.
+1. Layangkan kursormu ke atas postingan forum yang ingin kamu laporkan.
+2. Dari deretan tombol yang muncul pada pojok kanan atas postingan forum, klik tombol yang berlambang simbol peringatan.
 3. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
-### Melaporkan komentar yang tidak pantas
+### Kolom komentar
 
 ![](img/report-user-comment-ID.png "Tautan \"laporkan\" pada kolom komentar")
 
 1. Klik tautan `laporkan` yang tertera di bawah komentar.
 2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
-### Melaporkan beatmap yang tidak pantas
+### Beatmap
 
-![](img/report-beatmap-ID.png "Tombol \"Laporkan\" pada laman info beatmap")
+![](img/report-beatmap-ID.png "Tombol \"Laporkan\" pada halaman beatmap")
 
-1. Klik tombol titik tiga yang tertera pada laman info beatmap dan pilih `Laporkan`.
+1. Klik tombol titik tiga yang tertera pada halaman beatmap dan pilih `Laporkan`.
 2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
-### Melaporkan topik diskusi beatmap yang tidak pantas
+### Topik diskusi beatmap
 
-![](img/report-user-discussion-ID.png "Tautan \"laporkan\" pada laman diskusi beatmap")
+![](img/report-user-discussion-ID.png "Tautan \"laporkan\" pada halaman diskusi beatmap")
 
-1. Pada laman diskusi beatmap yang terkait, tuju topik diskusi beatmap yang bermasalah dan klik tautan `laporkan`.
+1. Klik tautan `laporkan` yang tertera di bawah topik diskusi beatmap.
 2. Pilih kategori pelanggaran yang sesuai dan sertakan rincian seputar pelanggaran yang bersangkutan (opsional).
 
-### Melaporkan skor yang tidak wajar
+### Skor
 
-![](img/report-score-user-ID.png "Tombol \"Laporkan Skor\" pada skor yang tertera pada laman profil pengguna")
+![](img/report-score-user-ID.png "Tombol \"Laporkan Skor\" pada halaman profil pengguna")
 
-#### Haman profil pengguna
+#### Halaman profil pengguna
 
 1. Tuju bagian `Peringkat` atau `Historis` dan layangkan kursormu ke atas skor yang kamu anggap tidak wajar.
 2. Pada ujung kanan bilah skor, klik tombol titik tiga yang muncul dan pilih `Laporkan Skor`.
