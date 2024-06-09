@@ -12,7 +12,7 @@ tags:
 
 Developer merupakan orang-orang yang menjaga agar permainan dan situs web osu! dapat terus hidup dan berkembang dengan memperbaiki *bug-bug* yang ada serta menambah fitur-fitur baru. Kebanyakan dari mereka merupakan karyawan ppy Pty Ltd, yang merupakan badan hukum resmi tempat osu! bernaung. Mereka juga pada umumnya merupakan bagian dari [tim inti osu!](/wiki/People/osu!_team).
 
-Dalam osu!, para developer dapat dikenali dari nama pengguna mereka yang berwarna pink dan gelar "osu!dev" atau "osu!team" yang mereka sandang.
+Para pengembang osu! dapat dikenali dari gelar pengguna "osu!dev" atau "osu!team" yang berwarna merah jambu serta lencana [kelompok pengguna](/wiki/People/User_group) `DEV` yang mereka sandang.
 
 ## Anggota tim
 
@@ -51,9 +51,7 @@ Pengembangan osu! dipimpin oleh ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/use
 
 ### Kontributor
 
-Currently, the main osu! projects are hosted on GitHub and available for anyone to contribute. These are the users who have contributed significantly to these projects and played a vast role in their development.
-
-Saat ini, rangkaian proyek utama osu! di-*host* di Github dan terbuka bagi siapa saja untuk dapat berkontribusi. Berikut merupakan para pengguna yang telah berperan besar dalam mengembangkan proyek-proyek yang osu! miliki.
+Saat ini, rangkaian proyek utama osu! di-*host* di Github dan terbuka bagi siapa saja untuk dapat berkontribusi. Berikut merupakan para pengguna yang telah berkontribusi secara signifikan kepada proyek-proyek ini dan berperan besar dalam pengembangan masing-masing proyek.
 
 #### osu!
 
