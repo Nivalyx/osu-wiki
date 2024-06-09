@@ -10,7 +10,9 @@ tags:
 
 # Pengembang
 
-Developer merupakan orang-orang yang menjaga agar permainan dan situs web osu! dapat terus hidup dan berkembang dengan memperbaiki *bug-bug* yang ada serta menambah fitur-fitur baru. Kebanyakan dari mereka merupakan karyawan ppy Pty Ltd, yang merupakan badan hukum resmi tempat osu! bernaung. Mereka juga pada umumnya merupakan bagian dari [tim inti osu!](/wiki/People/osu!_team).
+The developers of osu! keep the game and website running by fixing bugs and adding new features. Most of them are employees of ppy Pty Ltd, the company that owns osu!. They form most of the [osu! team](/wiki/People/osu!_team).
+
+Developer merupakan orang-orang yang menjaga agar permainan dan situs web osu! dapat terus hidup dan berkembang dengan memperbaiki *bug-bug* yang ada serta menambah fitur-fitur baru. Sebagian besar dari mereka merupakan karyawan dari ppy Pty Ltd, yang merupakan perusahaan yang memiliki osu!. Mereka juga pada umumnya merupakan bagian dari [tim inti osu!](/wiki/People/osu!_team).
 
 Para pengembang osu! dapat dikenali dari gelar pengguna "osu!dev" atau "osu!team" yang berwarna merah jambu serta lencana [kelompok pengguna](/wiki/People/User_group) `DEV` yang mereka sandang.
 
