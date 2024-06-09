@@ -12,7 +12,7 @@ tags:
 
 The developers of osu! keep the game and website running by fixing bugs and adding new features. Most of them are employees of ppy Pty Ltd, the company that owns osu!. They form most of the [osu! team](/wiki/People/osu!_team).
 
-dengan memperbaiki *bug* dan menambahkan berbagai fitur baru. Sebagian besar dari mereka merupakan karyawan dari ppy Pty Ltd, yang merupakan perusahaan yang menaungi osu!. Mereka juga pada umumnya merupakan bagian dari [tim inti osu!](/wiki/People/osu!_team).
+dengan memperbaiki *bug* yang ada dan menambahkan berbagai fitur baru. Sebagian besar dari mereka merupakan karyawan dari ppy Pty Ltd, yang merupakan perusahaan yang menaungi osu!. Mereka juga membentuk sebagian besar anggota [tim inti osu!](/wiki/People/osu!_team).
 
 Para pengembang osu! dapat dikenali dari gelar pengguna "osu!dev" atau "osu!team" yang berwarna merah jambu serta lencana [kelompok pengguna](/wiki/People/User_group) `DEV` yang mereka sandang.
 
