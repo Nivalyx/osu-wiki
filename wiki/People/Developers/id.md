@@ -10,7 +10,7 @@ tags:
 
 # Pengembang
 
-Para pengembang osu! menjaga agar permainan dan situs web osu! tetap berjalan dengan memperbaiki *bug* dan menambahkan berbagai fitur baru. Sebagian besar dari mereka merupakan karyawan dari ppy Pty Ltd, yang merupakan perusahaan yang menaungi osu!. Lebih dari itu, mereka juga membentuk sebagian besar dari [tim osu!](/wiki/People/osu!_team).
+Para pengembang osu! menjaga agar permainan dan situs web ini tetap berjalan dengan memperbaiki *bug* dan menambahkan berbagai fitur baru. Sebagian besar dari mereka merupakan karyawan dari ppy Pty Ltd, yang merupakan perusahaan yang menaungi osu!. Lebih dari itu, mereka juga membentuk sebagian besar dari [tim osu!](/wiki/People/osu!_team).
 
 Para pengembang osu! dapat dikenali dari gelar pengguna "osu!dev" atau "osu!team" yang berwarna merah jambu serta lencana [kelompok pengguna](/wiki/People/User_group) `DEV` yang mereka sandang.
 
