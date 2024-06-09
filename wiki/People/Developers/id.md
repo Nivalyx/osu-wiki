@@ -1,15 +1,14 @@
 ---
-outdated_translation: true
-outdated_since: 0b232d41079cbc4141b26a40be57af0eae4a87ab
 tags:
   - devs
   - osu!dev
   - osu!devs
   - osu! dev
   - osu! devs
+  - pengembang osu!
 ---
 
-# Developer
+# Pengembang
 
 Developer merupakan orang-orang yang menjaga agar permainan dan situs web osu! dapat terus hidup dan berkembang dengan memperbaiki *bug-bug* yang ada serta menambah fitur-fitur baru. Kebanyakan dari mereka merupakan karyawan ppy Pty Ltd, yang merupakan badan hukum resmi tempat osu! bernaung. Mereka juga pada umumnya merupakan bagian dari [tim inti osu!](/wiki/People/osu!_team).
 
@@ -76,7 +75,7 @@ Saat ini, pengembangan osu! dipusatkan di Github yang memungkinkan semua orang u
 
 #### osu!web
 
-*Untuk rincian kontribusi yang telah diberikan terhadap proyek osu!web, lihat: [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)*
+*Untuk informasi terperinci seputar kontribusi yang diberikan terhadap proyek osu!web, lihat: [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)*
 
 - ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350)
 - ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349)
@@ -84,9 +83,9 @@ Saat ini, pengembangan osu! dipusatkan di Github yang memungkinkan semua orang u
 - ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384)
 - ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705)
 
-## Kontributor yang sudah pensiun
+## Kontributor yang telah pensiun
 
-Berikut ini adalah para mantan developer yang kini sudah tidak lagi aktif mengembangkan osu!.
+Berikut ini merupakan para pengguna yang telah berpartisipasi dalam pengembangan osu! pada masanya masing-masing.
 
 | Pengguna | Peran |
 | :-- | :-- |
