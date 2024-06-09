@@ -16,7 +16,7 @@ Dalam osu!, para developer dapat dikenali dari nama pengguna mereka yang berwarn
 
 ## Anggota tim
 
-Daftar para developer selengkapnya juga dapat dilihat pada [laman grup Developer berikut](https://osu.ppy.sh/groups/11).
+Daftar para pengembang selengkapnya juga dapat dilihat pada [laman grup Developer berikut](https://osu.ppy.sh/groups/11).
 
 Pengembangan osu! dipimpin oleh ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)** selaku pencipta osu!.
 
@@ -51,11 +51,13 @@ Pengembangan osu! dipimpin oleh ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/use
 
 ### Kontributor
 
-Saat ini, pengembangan osu! dipusatkan di Github yang memungkinkan semua orang untuk dapat berkontribusi secara bebas. Berikut ini adalah daftar pengguna yang telah berperan besar dalam mengembangkan proyek-proyek yang osu! miliki.
+Currently, the main osu! projects are hosted on GitHub and available for anyone to contribute. These are the users who have contributed significantly to these projects and played a vast role in their development.
+
+Saat ini, rangkaian proyek utama osu! di-*host* di Github dan terbuka bagi siapa saja untuk dapat berkontribusi. Berikut merupakan para pengguna yang telah berperan besar dalam mengembangkan proyek-proyek yang osu! miliki.
 
 #### osu!
 
-*Untuk rincian kontribusi yang telah diberikan terhadap proyek osu!, lihat: [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)*
+*Untuk informasi terperinci seputar kontribusi yang telah diberikan terhadap proyek osu!, lihat: [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)*
 
 - ::{ flag=CA }:: [DrabWeb](https://osu.ppy.sh/users/6946022)
 - ::{ flag=BY }:: [EVAST](https://osu.ppy.sh/users/8195163)
@@ -65,7 +67,7 @@ Saat ini, pengembangan osu! dipusatkan di Github yang memungkinkan semua orang u
 
 #### osu!framework
 
-*Untuk rincian kontribusi yang telah diberikan terhadap proyek osu!framework, lihat: [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)*
+*Untuk informasi terperinci seputar kontribusi yang telah diberikan terhadap proyek osu!framework, lihat: [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)*
 
 - ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732)
@@ -75,7 +77,7 @@ Saat ini, pengembangan osu! dipusatkan di Github yang memungkinkan semua orang u
 
 #### osu!web
 
-*Untuk informasi terperinci seputar kontribusi yang diberikan terhadap proyek osu!web, lihat: [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)*
+*Untuk informasi terperinci seputar kontribusi yang telah diberikan terhadap proyek osu!web, lihat: [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)*
 
 - ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350)
 - ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349)
@@ -85,7 +87,7 @@ Saat ini, pengembangan osu! dipusatkan di Github yang memungkinkan semua orang u
 
 ## Kontributor yang telah pensiun
 
-Berikut ini merupakan para pengguna yang telah berpartisipasi dalam pengembangan osu! pada masanya masing-masing.
+Berikut merupakan para pengguna yang telah berkontribusi terhadap pengembangan aktif osu! pada masanya masing-masing.
 
 | Pengguna | Peran |
 | :-- | :-- |
