@@ -8,7 +8,7 @@ tags:
 
 ![Jogja Fun Cup banner](img/banner.jpg)
 
-The **Jogja Fun Cup*** (***JFC***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) and ::{ flag=ID }:: [centrux](https://osu.ppy.sh/users/5426769) from the [osu! Region Ngayogyakarta](https://instagram.com/oren_jogja) community. The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first event to be held under the Convert Cup Open branding, the tournament was considered an expansion of the previously held [Indonesia Convert Cup](/wiki/Tournaments/ICC) series.
+The **Jogja Fun Cup*** (***JFC***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) and ::{ flag=ID }:: [centrux](https://osu.ppy.sh/users/5426769) from the [osu! Region Ngayogyakarta](https://instagram.com/oren_jogja) (OREN) community in collaboration with the doujin circle [LUMINOZ](https://luminoz.bandcamp.com/). The tournament was open to teams of osu! players with at least one player from Asia or Oceania in their roster. It is the first iteration of the Jogja Fun Cup.
 
 ## Tournament schedule
 
