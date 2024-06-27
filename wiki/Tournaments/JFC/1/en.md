@@ -139,8 +139,8 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
    - This rule does not apply in the Qualifier lobbies.
 2. Each team has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
-3. Each team will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
-   - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to. 
+   - The tiebreaker map is not allowed to be banned.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Excluding the Qualifiers, each stage of the tournament will feature a **MixedMod pool** that goes as follows:
    - The MixedMod pool will be played with FreeMod activated.
    - During a MixedMod pick, one player from each team will have to play the map with the Hidden mod activated, while the other player will have to play with either HardRock or Hidden+HardRock under their belt.
