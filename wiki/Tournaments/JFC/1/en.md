@@ -58,10 +58,14 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 | Team name | Members |
 | :-: | :-- |
+| apa | ::{ flag=ID }:: **[-TwiHD](https://osu.ppy.sh/users/5470299)**, ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/7348744), ::{ flag=ID }:: [araran](https://osu.ppy.sh/users/8937198) |
 | Bakpia Kukus | ::{ flag=ID }:: **[beabadobee](https://osu.ppy.sh/users/8688737)**, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | BAKPIA KUKUS KILLER | ::{ flag=ID }:: **[MejiroMcQueen](https://osu.ppy.sh/users/11320627)**, ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) |
+| Ban HR2 | ::{ flag=ID }:: **[ruruichi](https://osu.ppy.sh/users/6717559)**, ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Azasapag](Azasapag) |
 | Nasi Kuning Pakai Kecap | ::{ flag=ID }:: **[Sirius Symboli](https://osu.ppy.sh/users/11025519)**, ::{ flag=ID }:: [Somay 287](https://osu.ppy.sh/users/4314559), ::{ flag=ID }:: [Zonii](https://osu.ppy.sh/users/6596134) |
+| reto pengkhianat | ::{ flag=ID }:: **[Mashima Himeko](https://osu.ppy.sh/users/10474988)**, ::{ flag=ID }:: [FishStar](https://osu.ppy.sh/users/12563284), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657) |
 | Santoso | ::{ flag=ID }:: **[JSpiriT](https://osu.ppy.sh/users/16804164)**, ::{ flag=ID }:: [NaFish](https://osu.ppy.sh/users/9974314), ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) |
+| Suikambing | ::{ flag=ID }:: **[fnayR](https://osu.ppy.sh/users/2800253)**, ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) |
 
 ## Ruleset
 
