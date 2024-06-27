@@ -79,7 +79,9 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ### General rules
 
-1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
+1. The matches on this tournament will be held under the following room settings:
+   - Team Mode: Team VS (2v2)
+   - Win Condition: [ScoreV2](/wiki/Gameplay/Score#scorev2)
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
