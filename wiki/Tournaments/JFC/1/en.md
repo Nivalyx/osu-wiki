@@ -41,19 +41,16 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 | Playtester | *to be announced* |
 | Streamer | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
 | Commentator | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938),::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [DAMB-](https://osu.ppy.sh/users/14748550), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
-| Referee | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176) |
-| Graphic designer | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
-| Discord and chat moderator | ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536) |
+| Referee | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [dhimas arya](https://osu.ppy.sh/users/7108145), ::{ flag=ID }:: [BeefyNoragami](https://osu.ppy.sh/users/11065629), ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176) |
+| Graphic designer | ::{ flag=ID }:: [hikimaruy](https://osu.ppy.sh/users/9510067) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
-| Sponsor | ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) |
 
 ## Links
 
-- **[Official website](https://wybin.xyz/tournaments/o!c-convert-open-2023/home)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1838266)
-- [Discord server](https://discord.gg/PDVF3tbhY8)
-- [Challonge brackets](https://challonge.com/OCCO2023)
-- [Livestream channel](https://www.twitch.tv/osucatchid)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1hdu0eQKPnA-9y48VV-PWSMDpSDm-Y1e69PoguFraYeE/edit?gid=287204203#gid=287204203)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1936900?n=1)
+- [Discord server](https://discord.com/invite/kQuJAEbnXe)
+- [Livestream channel](https://www.twitch.tv/osuindonesia)
 
 ## Participants
 
