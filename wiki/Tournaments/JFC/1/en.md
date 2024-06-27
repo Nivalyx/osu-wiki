@@ -8,19 +8,16 @@ tags:
 
 ![Jogja Fun Cup banner](img/banner.jpg)
 
-The **Jogja Fun Cup*** (***JFC***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) and ::{ flag=ID }:: [centrux](https://osu.ppy.sh/users/5426769) of the [osu! Region Ngayogyakarta](https://instagram.com/oren_jogja) (OREN) community in collaboration with the doujin circle [LUMINOZ](https://luminoz.bandcamp.com/). The tournament is open to teams of Indonesian players with a global rank of #1,000 or lower. It is the first instalment of the Jogja Fun Cup.
+The **Jogja Fun Cup** (***JFC***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) and ::{ flag=ID }:: [centrux](https://osu.ppy.sh/users/5426769) of the [osu! Region Ngayogyakarta](https://instagram.com/oren_jogja) (OREN) community in collaboration with the doujin circle [LUMINOZ](https://luminoz.bandcamp.com/). The tournament is open to teams of Indonesian players with a global rank of #1,000 or lower. It is the first instalment of the Jogja Fun Cup.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-10-29/2023-11-05 |
-| Screening phase | 2023-11-06/2023-11-19 |
-| Qualifiers | 2023-11-20/2023-11-26 |
-| Round of 32 | 2023-11-27/2023-12-03 |
+| Registration phase | 2024-06-18/2024-06-30 |
+| Qualifiers | 2024-07-01/2024-07-07 |
 | Round of 16 | 2023-12-04/2023-12-10 |
 | Quarterfinals | 2023-12-11/2023-12-17 |
-| *Winter break* | 2023-12-18/2023-12-31 |
 | Semifinals | 2024-01-01/2024-01-07 |
 | Finals (week 1) | 2024-01-08/2024-01-14 |
 | Finals (week 2) | 2024-01-15/2024-01-22 |
