@@ -137,8 +137,8 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each team has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
-   - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
+2. Each team has to ban **one beatmap** (on the Round of 16) or  **two beatmaps** (from the Quarterfinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
+   - Each team **may not ban two maps from the same mod pool**.
    - The tiebreaker map is not allowed to be banned.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Excluding the Qualifiers, each stage of the tournament will feature a **MixedMod pool** that goes as follows:
