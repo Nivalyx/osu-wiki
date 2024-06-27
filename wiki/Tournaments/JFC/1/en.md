@@ -141,9 +141,9 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
    - Each team **may not ban two maps from the same mod pool**.
    - The tiebreaker map is not allowed to be banned.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
-4. Excluding the Qualifiers, each stage of the tournament will feature a **MixedMod pool** that goes as follows:
-   - The MixedMod pool will be played with FreeMod activated.
-   - During a MixedMod pick, one player from each team will have to play the map with the Hidden mod activated, while the other player will have to play with either HardRock or Hidden+HardRock under their belt.
+4. In a FreeMod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, HardRock, Hidden, or any possible combinations of the three mods.
+   - Playing a FreeMod pick without any mods applied is not allowed.
+   - Players opting to play with Easy will have their scores multiplied by `x1.7` up to a maximum of 850,000 points.
 5. When playing a map from the HardRock or DoubleTime pool, the Hidden modification may be optionally used by any player.
 6. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with Hidden, HardRock, or Hidden+HardRock should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
