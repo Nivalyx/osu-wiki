@@ -125,7 +125,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
    - Teams who lose in the lower bracket will be eliminated from the tournament.
    - In the Grand Final, the winner of the the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
 4. Teams who can compete in the next round are determined by:
-   - In the Round of 32 and the Round of 16, each team needs to win 5 points in order to win a match. (Best of 9)
+   - In the Round of 16, each team needs to win 5 points in order to win a match. (Best of 9)
    - In the Quarterfinals and the Semifinals, each team needs to win 6 points in order to win a match. (Best of 11)
    - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best of 13)
    - Whether there are teams who are declared to win the match by default.
