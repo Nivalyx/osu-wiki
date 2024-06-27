@@ -95,9 +95,7 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ### Tournament registration
 
-1. In order to participate, players are required to form a team and register into the tournament as a team through [the tournament's website](https://wybin.xyz/tournaments/o!c-convert-open-2023/home).
-   - Each team is required to have least one player from [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania) in their roster.
-   - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extends to the Asian continent are considered as a part of Asia.
+1. In order to participate, players are required to form a team of 2-3 players and register into the tournament as a team through [this form](https://forms.gle/Pyf4VE5LcfY5FSb76).
 2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
    - Team names may not violate the [osu! community rules](/wiki/Rules#community-rules).
 3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
@@ -113,13 +111,13 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, teams will be ranked based on their average rank combined from each individual Qualifier beatmaps.
-6. 32 teams with the **highest average rank** according to the above criteria will advance to the knock-out stages.
+6. 16 teams with the **highest average rank** according to the above criteria will advance to the knock-out stages.
    - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all eight Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
 
-1. The 32 teams who got through from the Qualifiers will be matched against each other based on their Qualifier seeding (e.g. Seed #1 vs. Seed #32, Seed #2 vs. Seed #31, and so on).
+1. The 16 teams who got through from the Qualifiers will be matched against each other based on their Qualifier seeding (e.g. Seed #1 vs. Seed #16, Seed #2 vs. Seed #15, and so on).
 2. Teams will compete against each other using the double-elimination system.
 3. The double-elimination system works as follows:
    - Teams who lose in the upper bracket can still play again in the lower bracket.
