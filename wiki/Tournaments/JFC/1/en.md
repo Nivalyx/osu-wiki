@@ -16,35 +16,32 @@ The **Jogja Fun Cup** (***JFC***) is a double-elimination 2v2 osu! tournament ho
 | --: | :-- |
 | Registration phase | 2024-06-18/2024-06-30 |
 | Qualifiers | 2024-07-01/2024-07-07 |
-| Round of 16 | 2023-12-04/2023-12-10 |
-| Quarterfinals | 2023-12-11/2023-12-17 |
-| Semifinals | 2024-01-01/2024-01-07 |
-| Finals (week 1) | 2024-01-08/2024-01-14 |
-| Finals (week 2) | 2024-01-15/2024-01-22 |
+| Round of 16 | 2024-07-08/2024-07-14 |
+| Quarterfinals | 2024-07-15/2024-07-21 |
+| Semifinals | 2024-07-22/2024-07-28 |
+| Finals (week 1) | 2024-07-29/2024-08-04 |
+| Finals (week 2) | 2024-08-05/2024-08-11 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter for each team member, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter for each team member |
-
-![](img/badge.jpg "o!cCO 2023 winner badge")
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | €150.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)), 1 month of osu!supporter for each team member, exclusive [LUMINOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive [LUMINOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Custom-made profile banner |
 
 ## Organisation
 
-The osu!catch Convert Cup Open 2023 was run by various osu! community members from the Asia-Pacific region and beyond.
+The Jogja Fun Cup is run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
-| Co-host | ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
-| Mappool selector | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{flag=HK}:: [autofanboy](https://osu.ppy.sh/users/636114), ::{flag=ID}:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{flag=SE}:: [Shameimaru](https://osu.ppy.sh/users/20340480), ::{flag=CL}:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
-| Playtester | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361), ::{ flag=IT }:: [Camme79](https://osu.ppy.sh/users/5220794), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149) |
-| Streamer | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549), ::{ flag=AU }:: [wongwongg](https://osu.ppy.sh/users/16859546), ::{ flag=AU }:: [wangwangg](https://osu.ppy.sh/users/6416920) |
-| Commentator | ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=SG }:: [wongwongg](https://osu.ppy.sh/users/16859546), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=SE }:: [Nellie](https://osu.ppy.sh/users/2037562), ::{ flag=SE }:: [Aceon](https://osu.ppy.sh/users/4452911), ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) |
-| Referee | ::{ flag=VN }:: [-\[SnowFlakes\]-](https://osu.ppy.sh/users/19207842), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469), ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=CL }:: [Des9](https://osu.ppy.sh/users/5404711), ::{ flag=PA }:: [Jafett](https://osu.ppy.sh/users/2317102), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
+| Host | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [centrux](https://osu.ppy.sh/users/5426769) |
+| Mappool selector | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=US }:: [Lifan Li](https://osu.ppy.sh/users/4050359) |
+| Playtester | *to be announced* |
+| Streamer | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
+| Commentator | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938),::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [DAMB-](https://osu.ppy.sh/users/14748550), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
+| Referee | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176) |
 | Graphic designer | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
 | Discord and chat moderator | ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
