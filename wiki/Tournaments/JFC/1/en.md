@@ -54,6 +54,8 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 
 ## Participants
 
+*This list is tentative as of 2024-06-27.*
+
 | Team name | Members |
 | :-: | :-- |
 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | ::{ flag=ID }:: **[Destroid](https://osu.ppy.sh/users/5097844)**, ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) |
