@@ -61,11 +61,18 @@ The Jogja Fun Cup is run by various osu! community members from Indonesia and be
 | apa | ::{ flag=ID }:: **[-TwiHD](https://osu.ppy.sh/users/5470299)**, ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/7348744), ::{ flag=ID }:: [araran](https://osu.ppy.sh/users/8937198) |
 | Bakpia Kukus | ::{ flag=ID }:: **[beabadobee](https://osu.ppy.sh/users/8688737)**, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | BAKPIA KUKUS KILLER | ::{ flag=ID }:: **[MejiroMcQueen](https://osu.ppy.sh/users/11320627)**, ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) |
-| Ban HR2 | ::{ flag=ID }:: **[ruruichi](https://osu.ppy.sh/users/6717559)**, ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Azasapag](Azasapag) |
+| Ban HR2 | ::{ flag=ID }:: **[ruruichi](https://osu.ppy.sh/users/6717559)**, ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) |
+| daan mogot | ::{ flag=ID }:: **[Sunohara Kokona](https://osu.ppy.sh/users/11421465)**, ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Zankur](https://osu.ppy.sh/users/16249373) |
+| Duo Ambatron | ::{ flag=ID }:: **[bramasetio](https://osu.ppy.sh/users/34354002)**, ::{ flag=ID }:: [tempegapakenasi](https://osu.ppy.sh/users/34079628) |
+| Hina Dutro | ::{ flag=ID }:: **[Mipol](https://osu.ppy.sh/users/10954080)**, ::{ flag=ID }:: [Zevonik](https://osu.ppy.sh/users/11753540), ::{ flag=ID }:: [RAKAMILKITA](https://osu.ppy.sh/users/18405313) |
+| Kagamarcchino ﾃﾞﾗｸｽ | ::{ flag=ID }:: **[Xicyte](https://osu.ppy.sh/users/10212581)**, ::{ flag=ID }:: [Zoont](https://osu.ppy.sh/users/7109269), ::{ flag=ID }:: [Anphans](https://osu.ppy.sh/users/14231431) |
+| Mie Ayam Afui | ::{ flag=ID }:: **[-Blue21-](https://osu.ppy.sh/users/12517079)**, ::{ flag=ID }:: [mkoean-](https://osu.ppy.sh/users/11847189), ::{ flag=ID }:: [retot](https://osu.ppy.sh/users/17996877) |
 | Nasi Kuning Pakai Kecap | ::{ flag=ID }:: **[Sirius Symboli](https://osu.ppy.sh/users/11025519)**, ::{ flag=ID }:: [Somay 287](https://osu.ppy.sh/users/4314559), ::{ flag=ID }:: [Zonii](https://osu.ppy.sh/users/6596134) |
 | reto pengkhianat | ::{ flag=ID }:: **[Mashima Himeko](https://osu.ppy.sh/users/10474988)**, ::{ flag=ID }:: [FishStar](https://osu.ppy.sh/users/12563284), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657) |
 | Santoso | ::{ flag=ID }:: **[JSpiriT](https://osu.ppy.sh/users/16804164)**, ::{ flag=ID }:: [NaFish](https://osu.ppy.sh/users/9974314), ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) |
 | Suikambing | ::{ flag=ID }:: **[fnayR](https://osu.ppy.sh/users/2800253)**, ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) |
+| Tahu Sumedang | ::{ flag=ID }:: **[lucidators](https://osu.ppy.sh/users/10154981)**, ::{ flag=ID }:: [controlledHive](https://osu.ppy.sh/users/11182595), ::{ flag=ID }:: [Mank](https://osu.ppy.sh/users/18263974) |
+| YJJA | ::{ flag=ID }:: **[Xenoid](https://osu.ppy.sh/users/26993756)**, ::{ flag=ID }:: [kairazhel](https://osu.ppy.sh/users/32835998), ::{ flag=ID }:: [GranXso](https://osu.ppy.sh/users/32189812) |
 
 ## Ruleset
 
