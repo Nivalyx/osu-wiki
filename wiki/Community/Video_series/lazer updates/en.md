@@ -8,11 +8,11 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 
 ## List of episodes
 
-| No. | Title | Description |
+| No. | Title | Topics covered |
 | :-: | :-- | :-- |
-| 1 | [Lazer installer setup guide](https://www.youtube.com/watch?v=kO5ISAzRbPE) | [ztrot](https://osu.ppy.sh/users/6347) covers the process of installing the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client. |
-| 1 | [osu! Installation/Account Setup/Beatmap Downloads](https://www.youtube.com/watch?v=0V5GwzmMhpU) | [pishifat](https://osu.ppy.sh/users/3178418) explains how to install osu!, create an account, and download new beatmaps. |
-| 2 | [Standard Gameplay/Settings Adjustments](https://www.youtube.com/watch?v=mswLEXK0eDk) | [ztrot](https://osu.ppy.sh/users/6347) goes over the osu! mode, and explains how to adjust gameplay settings. |
+| 1 | [lazer updates - July 23, 2022](https://www.youtube.com/watch?v=67P4LKlAh-0) | The editor, gameplay intricacies, touch control support for osu!taiko, score multiplier for various mods, in-game beatmap updates, menu tooltips |
+| 2 | [lazer updates - July 31, 2022](https://www.youtube.com/watch?v=0V5GwzmMhpU) | Improvements to touch control, score processing, mod presets |
+| 3 | [lazer updates - August 10, 2022](https://www.youtube.com/watch?v=6B53aorZ7aM) | Slider behaviour, osu!mania barline redesign, osu!taiko performance improvements, spectate mode, planned support for multiple renderers |
 | 3 | [Introduction to osu!mania](https://www.youtube.com/watch?v=UAomychlbic) | [LoliFlan](https://osu.ppy.sh/users/447818) covers the basics of the osu!mania mode, including gameplay, keyboard shortcuts, hit objects, and more. |
 | 4 | [Introduction to CtB](https://www.youtube.com/watch?v=6WKZE2HPOK8) | [ztrot](https://osu.ppy.sh/users/6347) goes over the basics of the osu!catch mode, including controls, gameplay, hit objects, and more. |
 | 5 | [Introduction to Taiko mode](https://www.youtube.com/watch?v=f_uSO2ESCRI) | [Tasha](https://osu.ppy.sh/users/1031958) covers the basics of the osu!taiko mode, including gameplay, controls, and more. |
