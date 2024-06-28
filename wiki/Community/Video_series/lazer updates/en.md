@@ -12,7 +12,7 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 | :-: | :-- | :-- |
 | 1 | [lazer updates - July 23, 2022](https://www.youtube.com/watch?v=67P4LKlAh-0) | The editor, gameplay intricacies, touch control support for osu!taiko, score multiplier for various mods, in-game beatmap updates, menu tooltips |
 | 2 | [lazer updates - July 31, 2022](https://www.youtube.com/watch?v=0V5GwzmMhpU) | Improvements to touch control, score processing, mod presets |
-| 3 | [lazer updates - August 10, 2022](https://www.youtube.com/watch?v=6B53aorZ7aM) | Slider behaviour, osu!mania barline redesign, osu!taiko performance improvements, spectate mode, planned support for multiple renderers |
+| 3 | [lazer updates - August 10, 2022](https://www.youtube.com/watch?v=6B53aorZ7aM) | Slider behaviour, osu!mania barline redesign, osu!taiko performance improvements, spectator mode, planned support for multiple renderers |
 | 3 | [Introduction to osu!mania](https://www.youtube.com/watch?v=UAomychlbic) | [LoliFlan](https://osu.ppy.sh/users/447818) covers the basics of the osu!mania mode, including gameplay, keyboard shortcuts, hit objects, and more. |
 | 4 | [Introduction to CtB](https://www.youtube.com/watch?v=6WKZE2HPOK8) | [ztrot](https://osu.ppy.sh/users/6347) goes over the basics of the osu!catch mode, including controls, gameplay, hit objects, and more. |
 | 5 | [Introduction to Taiko mode](https://www.youtube.com/watch?v=f_uSO2ESCRI) | [Tasha](https://osu.ppy.sh/users/1031958) covers the basics of the osu!taiko mode, including gameplay, controls, and more. |
