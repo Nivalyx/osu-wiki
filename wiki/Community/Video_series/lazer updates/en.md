@@ -33,7 +33,7 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 | 21 | [lazer updates - June 21, 2023](https://www.youtube.com/watch?v=QMBmLI8BFcw) | Follow-ups to the implementation of the new scoring system, the Synesthesia mod, adjustments to the "argon" skin, [grid snapping](/wiki/Beatmapping/Grid_snapping) for osu!catch, [time-distance equality](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality) principle in the editor, song selection |
 | 22 | [lazer updates - July 16, 2023](https://www.youtube.com/watch?v=RJwK01SN2lg) | How [accuracy](/wiki/Gameplay/Accuracy) and [combo](/wiki/Beatmapping/Combo) affect scores, in-game hotkeys, new "argon" key counter, [stacking](/wiki/Beatmapping/Mapping_techniques/Stack) between objects, new osu!taiko hitsounds, built-in tablet driver, [osu!framework](https://github.com/ppy/osu-framework) |
 | 23 | [lazer updates - August 11, 2023](https://www.youtube.com/watch?v=JLqhjygGDYI) | The [tournament client](/wiki/osu%21_tournament_client), adjustment for legacy skins, clocks, various editor improvements, backward compatibility for osu!(lazer) beatmaps, user interface improvements |
-| 24 | [path to lazer ranked play](https://www.youtube.com/watch?v=crkT0aaowKQ) | Things that are yet to be done to allow for ranked play in osu!(lazer), [infrastructure](https://github.com/ppy/osu-infrastructure), |
+| 24 | [path to lazer ranked play](https://www.youtube.com/watch?v=crkT0aaowKQ) | The state of play in osu!(lazer), [game infrastructure](https://github.com/ppy/osu-infrastructure), |
 
 ## Related links
 
