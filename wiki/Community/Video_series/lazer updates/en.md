@@ -31,7 +31,7 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 | 19 | [lazer updates - May 11, 2023](https://www.youtube.com/watch?v=GCXaQeFlaBY) | The Bubble mod, cursor ripples, key counters, various editor improvements, [memory leak](https://en.wikipedia.org/wiki/Memory_leak) issues |
 | 20 | [lazer updates - June 5, 2023](https://www.youtube.com/watch?v=iV6IdUcwHLY) | New osu!(lazer) scoring system, various editor improvements, the Accuracy Challenge mod, latency on macOS |
 | 21 | [lazer updates - June 21, 2023](https://www.youtube.com/watch?v=QMBmLI8BFcw) | Follow-ups to the implementation of the new scoring system, the Synesthesia mod, adjustments to the "argon" skin, [grid snapping](/wiki/Beatmapping/Grid_snapping) for osu!catch, [time-distance equality](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality) principle in the editor, song selection |
-| 22 | [lazer updates - July 16, 2023](https://www.youtube.com/watch?v=RJwK01SN2lg) | How [accuracy](/wiki/Gameplay/Accuracy) and [combo](/wiki/Beatmapping/Combo) affect scores,  |
+| 22 | [lazer updates - July 16, 2023](https://www.youtube.com/watch?v=RJwK01SN2lg) | How [accuracy](/wiki/Gameplay/Accuracy) and [combo](/wiki/Beatmapping/Combo) affect scores, in-game hotkeys, new "argon" key counter, [stacking](/wiki/Beatmapping/Mapping_techniques/Stack) between objects, |
 
 ## Related links
 
