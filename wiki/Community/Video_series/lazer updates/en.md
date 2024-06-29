@@ -22,7 +22,8 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 | 10 | [lazer updates - October 31, 2022](https://www.youtube.com/watch?v=1tcE_LaE9gI) | New default osu!catch skin, the Freeze Frame mod, editor performance improvements |
 | 11 | [lazer updates - November 17, 2022](https://www.youtube.com/watch?v=RYLD1CJSBvU) | New default osu!taiko skin, combo colour normalisation, conversion of multi-segment sliders, gameplay performance improvements |
 | 12 | [lazer updates - December 5, 2022](https://www.youtube.com/watch?v=xOXYFfw0KZM) | [Notelock](/wiki/Gameplay/Judgement/Notelock) in osu!mania, the [triangle Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest), new layout for osu!catch touch control, new elements for the skin editor, [source generators](https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/source-generators-overview) |
-| 13 | [lazer updates - December 27, 2022](https://www.youtube.com/watch?v=LgXrhrFFClY) | [Performance points](/wiki/Performance_points) support, new "argon pro" skin variant, data migration, [Featured Artist](https://osu.ppy.sh/beatmaps/artists) beatmaps, documentations on [upgrading to osu!(lazer)](/wiki/Help_centre/Upgrading_to_lazer) |
+| 13 | [lazer updates - December 27, 2022](https://www.youtube.com/watch?v=LgXrhrFFClY) | [Performance points](/wiki/Performance_points) (pp) support, new "argon pro" skin variant, data migration, [Featured Artist](https://osu.ppy.sh/beatmaps/artists) beatmaps, documentations on [upgrading to osu!(lazer)](/wiki/Help_centre/Upgrading_to_lazer) |
+| 14 | [lazer updates - January 21, 2023](https://www.youtube.com/watch?v=P6Y9B1pyIcw) | Feedbacks on pp, osu!taiko screen aspect ratio,  |
 
 ## Related links
 
