@@ -1,6 +1,6 @@
 # lazer updates
 
-![](img/logo.png "osu!academy logo")
+![](img/banner.png "osu!(lazer) updates newspost banner")
 
 **lazer updates** is a video series hosted by the [osu! team](/wiki/People/osu!_team) that aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in between.
 
