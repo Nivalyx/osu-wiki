@@ -13,10 +13,11 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 | 1 | [lazer updates - July 23, 2022](https://www.youtube.com/watch?v=67P4LKlAh-0) | The editor, gameplay intricacies, touch control support for osu!taiko, score multiplier for various mods, in-game beatmap updates, menu tooltips |
 | 2 | [lazer updates - July 31, 2022](https://www.youtube.com/watch?v=0V5GwzmMhpU) | Improvements to touch control, score processing, mod presets |
 | 3 | [lazer updates - August 10, 2022](https://www.youtube.com/watch?v=6B53aorZ7aM) | Slider behaviour, osu!mania barline redesign, osu!taiko performance improvements, spectator mode, planned support for multiple renderers |
-| 4 | [lazer updates - August 21, 2022](https://www.youtube.com/watch?v=RxRwqXmMxd4) | Slider merging, mod multiplier scaling, collections, code quality |
+| 4 | [lazer updates - August 21, 2022](https://www.youtube.com/watch?v=RxRwqXmMxd4) | Slider merging, mod multiplier scaling, collections, code quality improvements |
 | 5 | [lazer updates - September 1, 2022](https://www.youtube.com/watch?v=cYsM1ZDZfko) | Compatibility for [Aspire](/wiki/Contests/Aspire) beatmaps, clocks, notifications. fixes for various crashes |
 | 6 | [lazer updates - September 10, 2022](https://www.youtube.com/watch?v=Qji84byv81k) | Clicks per second counter, the Random mod, touch control support for osu!catch, hit accuracy display, difficulty calculations, data overflow prevention |
-| 7 | [lazer updates - September 23, 2022](https://www.youtube.com/watch?v=_wp352LHuc4) | Clicks per second counter, the Random mod, touch control support for osu!catch, hit accuracy display, difficulty calculations, data overflow prevention |
+| 7 | [lazer updates - September 23, 2022](https://www.youtube.com/watch?v=_wp352LHuc4) | New "argon" skin, in-game leaderboards, notifications, fixes for various editor-related crashes |
+| 8 | [lazer updates - October 8, 2022](https://www.youtube.com/watch?v=7xUnl8lrpCs) | Cursor smoke, hit objects behaviour, new default osu!mania skin, improvements for in-game leaderboards, the Flashlight mod |
 
 ## Related links
 
