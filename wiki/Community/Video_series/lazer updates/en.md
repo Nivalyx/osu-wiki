@@ -1,4 +1,4 @@
-# osu!academy
+# lazer updates
 
 ![](img/logo.png "osu!academy logo")
 
@@ -15,9 +15,14 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 | 3 | [lazer updates - August 10, 2022](https://www.youtube.com/watch?v=6B53aorZ7aM) | Slider behaviour, osu!mania barline redesign, osu!taiko performance improvements, spectator mode, planned support for multiple renderers |
 | 4 | [lazer updates - August 21, 2022](https://www.youtube.com/watch?v=RxRwqXmMxd4) | Slider merging, mod multiplier scaling, collections, code quality improvements |
 | 5 | [lazer updates - September 1, 2022](https://www.youtube.com/watch?v=cYsM1ZDZfko) | Compatibility for [Aspire](/wiki/Contests/Aspire) beatmaps, clocks, notifications. fixes for various crashes |
-| 6 | [lazer updates - September 10, 2022](https://www.youtube.com/watch?v=Qji84byv81k) | Clicks per second counter, the Random mod, touch control support for osu!catch, hit accuracy display, difficulty calculations, data overflow prevention |
+| 6 | [lazer updates - September 10, 2022](https://www.youtube.com/watch?v=Qji84byv81k) | [Clicks per second](https://en.wikipedia.org/wiki/Actions_per_minute) counter, the Random mod, touch control support for osu!catch, hit accuracy display, difficulty calculations, data overflow prevention |
 | 7 | [lazer updates - September 23, 2022](https://www.youtube.com/watch?v=_wp352LHuc4) | New "argon" skin, in-game leaderboards, notifications, fixes for various editor-related crashes |
-| 8 | [lazer updates - October 8, 2022](https://www.youtube.com/watch?v=7xUnl8lrpCs) | Cursor smoke, hit objects behaviour, new default osu!mania skin, improvements for in-game leaderboards, the Flashlight mod |
+| 8 | [lazer updates - October 8, 2022](https://www.youtube.com/watch?v=7xUnl8lrpCs) | Cursor smoke, hit objects behaviour, new default osu!mania skin, the Flashlight mod |
+| 9 | [lazer updates - October 22, 2022](https://www.youtube.com/watch?v=zOJKWJA-vog) | Various minor changes and additions |
+| 10 | [lazer updates - October 31, 2022](https://www.youtube.com/watch?v=1tcE_LaE9gI) | New default osu!catch skin, the Freeze Frame mod, editor performance improvements |
+| 11 | [lazer updates - November 17, 2022](https://www.youtube.com/watch?v=RYLD1CJSBvU) | New default osu!taiko skin, combo colour normalisation, conversion of multi-segment sliders, gameplay performance improvements |
+| 12 | [lazer updates - December 5, 2022](https://www.youtube.com/watch?v=xOXYFfw0KZM) | [Notelock](/wiki/Gameplay/Judgement/Notelock) in osu!mania, the [triangle Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest), new layout for osu!catch touch control, new elements for the skin editor, [source generators](https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/source-generators-overview) |
+| 13 | [lazer updates - December 27, 2022](https://www.youtube.com/watch?v=LgXrhrFFClY) | [Performance points](/wiki/Performance_points) support, new "argon pro" skin variant, data migration, [Featured Artist](https://osu.ppy.sh/beatmaps/artists) beatmaps, documentations on [upgrading to osu!(lazer)](/wiki/Help_centre/Upgrading_to_lazer) |
 
 ## Related links
 
