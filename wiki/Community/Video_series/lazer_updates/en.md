@@ -36,7 +36,9 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 | 24 | [path to lazer ranked play](https://www.youtube.com/watch?v=crkT0aaowKQ) | The state of play in osu!(lazer), [game infrastructure](https://github.com/ppy/osu-infrastructure), game balance, [hit window mechanics](/wiki/en/Gameplay/Judgement/osu!mania) in osu!mania, general user experience, performance optimizations |
 | 25 | [lazer updates - September 24, 2023](https://www.youtube.com/watch?v=SWEE8XlGluI) | Issues yet to be resolved for ranked play in osu!(lazer), [sliderhead](/wiki/Gameplay/Hit_object/Slider/Sliderhead) behaviour, mod select screen, various bug fixes |
 | 26 | [lazer updates - October 8, 2023](https://www.youtube.com/watch?v=pspL5SLs80k) | Rate adjustments for the Double Time mod, spinner mechanics, new elements for the "argon" skin, legacy scoring systems, performance optimizations |
-| 27 | [lazer updates (and some hidden mechanics) - October 26, 2023](https://www.youtube.com/watch?v=SlWKKA-ltZY) | [Slider leniency](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners), |
+| 27 | [lazer updates (and some hidden mechanics) - October 26, 2023](https://www.youtube.com/watch?v=SlWKKA-ltZY) | [Slider leniency](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners), [floating point](https://en.wikipedia.org/wiki/Floating-point_arithmetic) calculation, spinner overhaul, [grid snapping](/wiki/Beatmapping/Grid_snapping) for osu!mania and osu!taiko |
+| 28 | [lazer updates - November 14, 2023](https://www.youtube.com/watch?v=7MYYjseY-Do) | Final preparations for ranked play in osu!(lazer), adjustments to the "argon" skin, touchscreen detection, osu!mania for mobile devices, [audio samples](/wiki/Storyboard/Scripting/Audio) |
+
 
 ## Related links
 
