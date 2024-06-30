@@ -51,6 +51,6 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 
 The following videos are not part of the main "lazer update" series, but are otherwise related to osu!(lazer) or the development of osu! in general.
 
-| No. | Title | Topics covered |
+| No. | Title | Description |
 | :-: | :-- | :-- |
-| 1 | [what is lazer?](https://www.youtube.com/watch?v=ut_SOreClcc) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) briefly deta. Also serves as a channel trailer for the [osu! YouTube channel](https://www.youtube.com/@osugame).|
+| 1 | [what is lazer?](https://www.youtube.com/watch?v=ut_SOreClcc) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) gives a brief introduction as to what osu!(lazer) is, what makes it different with the existing stable version of the game, and what the future holds for the game. Also serves as a channel trailer for the [osu! YouTube channel](https://www.youtube.com/@osugame).|
