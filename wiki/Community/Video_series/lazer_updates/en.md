@@ -49,4 +49,8 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 
 ## Other related videos
 
-The following videos are not part of the main "lazer update" series, but are otherwise relevant to 
+The following videos are not part of the main "lazer update" series, but are otherwise relevant to osu!(lazer) or the development of osu! in general.
+
+| No. | Title | Topics covered |
+| :-: | :-- | :-- |
+| 1 | [lazer updates - July 23, 2022](https://www.youtube.com/watch?v=67P4LKlAh-0) | The editor, gameplay intricacies, touch control support for osu!taiko, score multiplier for various mods, in-game beatmap updates, menu tooltips |
