@@ -43,6 +43,7 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 | 31 | [you can earn pp](https://www.youtube.com/watch?v=D7SZk8mU7Ww) | Introduction of ranked play in osu!(lazer), [database management](https://twitter.com/osustatus/status/1743123910693126256), score multiplier for the Classic mod, miss indicator for [slider ticks](https://osu.ppy.sh/wiki/en/Gameplay/Hit_object/Slider/Slider_tick), in-game offset adjustment, the Depth mod, menu icons, new slider scoring system, replay handling, community feedback, various small quality-of-life changes |
 | 32 | [lazer won't have leaderboard resets](https://www.youtube.com/watch?v=X9fjikgBIPI) | pp calculations for various mods, fixes for various gameplay exploits, new [osu! cookie](/wiki/Client/Interface/Cookie), [game infrastructure]((https://github.com/ppy/osu-infrastructure)) upgrades |
 | 33 | [medals (are in lazer now)](https://www.youtube.com/watch?v=baD6u8QGYN8) | [Medals](/wiki/Medals) support, new default hitsounds for the "argon" skin, various bug fixes and performance improvements |
+| 34 | [deciding what to do with lazer](https://www.youtube.com/watch?v=xUSxEjQQ1UI) | Tweaks to the new [osu! cookie](/wiki/Client/Interface/Cookie), epilepsy warning, hit error meter, pause countdown, [hush-hush](/wiki/Medals#hush-hush) medals, |
 
 ## Related links
 
