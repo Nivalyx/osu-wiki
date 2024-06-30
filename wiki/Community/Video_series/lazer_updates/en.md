@@ -44,11 +44,9 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 | 32 | [lazer won't have leaderboard resets](https://www.youtube.com/watch?v=X9fjikgBIPI) | pp calculations for various mods, fixes for various gameplay exploits, new [osu! cookie](/wiki/Client/Interface/Cookie), [game infrastructure]((https://github.com/ppy/osu-infrastructure)) upgrades |
 | 33 | [medals (are in lazer now)](https://www.youtube.com/watch?v=baD6u8QGYN8) | [Medals](/wiki/Medals) support, new default hitsounds for the "argon" skin, various bug fixes and performance improvements |
 | 34 | [deciding what to do with lazer](https://www.youtube.com/watch?v=xUSxEjQQ1UI) | Tweaks to the new [osu! cookie](/wiki/Client/Interface/Cookie), epilepsy warning, hit error meter, pause countdown, [hush-hush](/wiki/Medals#hush-hush) medals, main menu banners, the new [Direct3D 11](https://learn.microsoft.com/en-us/windows/win32/direct3d11/atoc-dx-graphics-direct3d-11) renderer, multiplayer invites vis [Discord](https://discord.com), custom rulesets, future goals for osu!(lazer) |
-| 35 | [they're adding your ideas to lazer](https://www.youtube.com/watch?v=Y0SWx_n_AeQ) |  |
+| 35 | [they're adding your ideas to lazer](https://www.youtube.com/watch?v=Y0SWx_n_AeQ) | Potential "map of the day" system, skin layout editor, new touch input scheme for osu!mania, song select redesign, new player experience, chat filters, [memory leak](https://en.wikipedia.org/wiki/Memory_leak) issues, score and pp calculation |
+| 36| ["the editor sucks"](https://www.youtube.com/watch?v=BnhcyVT_yrk) | Various quality-of-life changes for the editor, pp support for the Traceable mod, |
 
-## Related links
+## Other related videos
 
-- [Official YouTube channel](https://www.youtube.com/user/osuacademy)
-- [Official thread](https://osu.ppy.sh/community/forums/topics/169707)
-- [Series announcement](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
-- [Series trailer](https://www.youtube.com/watch?v=z5gy34k3RI0)
+The following videos are not part
