@@ -45,8 +45,8 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 | 33 | [medals (are in lazer now)](https://www.youtube.com/watch?v=baD6u8QGYN8) | [Medals](/wiki/Medals) support, new default hitsounds for the "argon" skin, various bug fixes and performance improvements |
 | 34 | [deciding what to do with lazer](https://www.youtube.com/watch?v=xUSxEjQQ1UI) | Tweaks to the new [osu! cookie](/wiki/Client/Interface/Cookie), epilepsy warning, hit error meter, pause countdown, [hush-hush](/wiki/Medals#hush-hush) medals, main menu banners, the new [Direct3D 11](https://learn.microsoft.com/en-us/windows/win32/direct3d11/atoc-dx-graphics-direct3d-11) renderer, multiplayer invites vis [Discord](https://discord.com), custom rulesets, future goals for osu!(lazer) |
 | 35 | [they're adding your ideas to lazer](https://www.youtube.com/watch?v=Y0SWx_n_AeQ) | Potential "daily challenge" system, skin layout editor, new touch input scheme for osu!mania, song select redesign, new player experience, chat filters, [memory leak](https://en.wikipedia.org/wiki/Memory_leak) issues, score and pp calculation |
-| 36| ["the editor sucks"](https://www.youtube.com/watch?v=BnhcyVT_yrk) | Various quality-of-life changes for the editor, pp support for the Traceable mod, tweaks for various mods, playfield border, in-game rank display, [layers in storyboarding](/wiki/Storyboard/Scripting/General_Rules#layers), updates on the "daily challenge" system |
+| 36| ["the editor sucks"](https://www.youtube.com/watch?v=BnhcyVT_yrk) | Various quality-of-life changes for the editor, pp support for the Traceable mod, tweaks for various mods, playfield border, in-game rank display, [layers in storyboarding](/wiki/Storyboard/Scripting/General_Rules#layers), updates on the upcoming "daily challenge" system |
 
 ## Other related videos
 
-The following videos are not part
+The following videos are not part of the main "lazer update" series, but are otherwise relevant to 
