@@ -37,7 +37,7 @@ The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a double-eliminat
 
 ## Organisation
 
-The osu!catch Convert Cup Open 2023 was run by various osu! community members from the Asia-Pacific region and beyond.
+The Donut was run by various osu! community members from all across the world.
 
 | Position | Member(s) |
 | :-- | :-- |
