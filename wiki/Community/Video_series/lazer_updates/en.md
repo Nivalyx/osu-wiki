@@ -10,7 +10,7 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 
 Documentation of osu!(lazer) updates began in the early days of the project in the form of blog posts written on [peppy's personal blog](https://blog.ppy.sh/) and the [osu!next Tumblr page](https://www.tumblr.com/osunext). However, these posts were often overlooked by casual users, and in order to increase public awareness of the ongoing development, consequent updates were later announced in [osu!(lazer)-specific changelog entries](https://osu.ppy.sh/home/changelog/lazer), [peppy's Twitter account](https://twitter.com/ppy/), and finally the "lazer updates" video series.
 
-Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023), all "lazer updates" videos are also accompanied by a corresponding 
+Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023), all "lazer updates" videos are also accompanied by a corresponding newspost dissecting 
 
 ## List of episodes
 
