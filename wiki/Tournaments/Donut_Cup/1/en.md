@@ -37,7 +37,7 @@ The **Donut Cup** is double-elimination 2v2 osu! tournament hosted by ::{ flag=C
 
 ## Organisation
 
-The Donut Cup is run by various osu! community members from all across the world.
+The Donut Cup is run by various osu! community members from all over the world.
 
 | Position | Member(s) |
 | :-- | :-- |
