@@ -8,7 +8,7 @@ tags:
 
 ![Donut Cup banner](img/banner.jpg)
 
-The **Donut Cup** is double-elimination 2v2 osu! tournament hosted by ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573) and ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243). The tournament was open to teams of osu! players with a global rank of #1,000 or lower after [badge-weighted seeding (BWS) calculations](/wiki/Tournaments/Badge-weighted_seeding). Although it was the first to be held under the Donut Cup name, the tournament was considered a spiritual successor to the previously held [Bamboo Cup](https://osu.ppy.sh/community/forums/topics/1274066) and [Crepe Cup](https://osu.ppy.sh/community/forums/topics/1538394).
+The **Donut Cup** is double-elimination 2v2 osu! tournament hosted by ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573) and ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243). The tournament is open to teams of osu! players with a global rank of #1,000 or lower after [badge-weighted seeding (BWS) calculations](/wiki/Tournaments/Badge-weighted_seeding). Although it is the first to be held under the Donut Cup name, the tournament is considered a spiritual successor to the previously held [Bamboo Cup](https://osu.ppy.sh/community/forums/topics/1274066) and [Crepe Cup](https://osu.ppy.sh/community/forums/topics/1538394).
 
 ## Tournament schedule
 
