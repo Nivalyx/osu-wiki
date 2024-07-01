@@ -6,6 +6,10 @@
 
 Throughout the years, osu!academy has been hosted by multiple members of the community, the most prominent of which being [ztrot](https://osu.ppy.sh/users/6347), who has maintained the series for many years and is the face of the project.
 
+## History
+
+a
+
 ## List of episodes
 
 | No. | Title | Topics covered |
