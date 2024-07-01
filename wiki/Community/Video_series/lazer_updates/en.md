@@ -2,7 +2,7 @@
 
 ![](img/banner.png "osu!(lazer) updates newspost banner")
 
-**lazer updates** is a video series hosted by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) that outlines the recent changes to [osu!(lazer)](https://github.com/ppy/osu) as well as its development process. The series is intended to give the general public a better look as to what features are being added or worked on in the latest and upcoming osu!(lazer) releases.
+**lazer updates** is a video series hosted by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) that outlines the recent changes to [osu!(lazer)](https://github.com/ppy/osu) as well as its development process. The series is intended to give the general public a better look as to what features are being added or worked on in the latest and upcoming [osu!(lazer) releases](https://osu.ppy.sh/home/download).
 
 ## History
 
