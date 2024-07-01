@@ -8,7 +8,7 @@ tags:
 
 ![Donut Cup banner](img/banner.jpg)
 
-The **Donut Cup** (***o!cCO 2023***) is double-elimination 2v2 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) in which all the beatmaps were [converts from the osu! game mode](/wiki/Beatmap/Converts). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first event to be held under the Convert Cup Open branding, the tournament was considered an expansion of the previously held [Indonesia Convert Cup](/wiki/Tournaments/ICC) series.
+The **Donut Cup** (***o!cCO 2023***) is double-elimination 2v2 osu!catch tournament hosted by ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573) and ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243). in which all the beatmaps were [converts from the osu! game mode](/wiki/Beatmap/Converts). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first event to be held under the Convert Cup Open branding, the tournament was considered an expansion of the previously held [Indonesia Convert Cup](/wiki/Tournaments/ICC) series.
 
 ## Tournament schedule
 
@@ -50,7 +50,7 @@ The Donut Cup was run by various osu! community members from all across the worl
 | Graphic designer | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
 | Discord and chat moderator | ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
-| Sponsor | ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) |
+| Special thanks | ::{ flag=US }:: [JeZag](https://osu.ppy.sh/users/3087506) |
 
 ## Links
 
