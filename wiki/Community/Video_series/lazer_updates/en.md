@@ -2,7 +2,7 @@
 
 ![](img/banner.png "osu!(lazer) updates newspost banner")
 
-**lazer updates** is a video series hosted by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) that outlines
+**lazer updates** is a video series hosted by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) that outlines what's new 
 
 Throughout the years, osu!academy has been hosted by multiple members of the community, the most prominent of which being [ztrot](https://osu.ppy.sh/users/6347), who has maintained the series for many years and is the face of the project.
 
@@ -61,4 +61,4 @@ The following videos are not part of the main "lazer update" series, but are oth
 | 2 | [talking about last month's osu! featured artists](https://www.youtube.com/watch?v=YXpBTgjD0kY) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) recaps all the new [featured artists](https://osu.ppy.sh/beatmaps/artists) that were announced on the month of November 2022. |
 | 3 | [why you don't play lazer](https://www.youtube.com/watch?v=ZR4ewKxWNKc) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) reflect on the common reasons people are reluctant about migrating to osu!(lazer) while walking across the shores of Japan. |
 | 4 | [talking about osu! world cup's grand finals tiebreakers](https://www.youtube.com/watch?v=0B6TyWML0zg) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) discuss how the [World Cup](/wiki/Tournaments#official-world-cups) tiebreakers and other [osu! originals](/wiki/osu!_originals) are being produced over the years. |
-| 5 | [what's going on with mapping](https://www.youtube.com/watch?v=OM_RBwsqmUY) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) highlights the recent changes around the mapping environment as well as the repurposing of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). |
+| 5 | [what's going on with mapping](https://www.youtube.com/watch?v=OM_RBwsqmUY) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) implores on the recent changes around the mapping environment as well as the repurposing of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). |
