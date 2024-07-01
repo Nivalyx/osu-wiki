@@ -4,13 +4,11 @@
 
 **lazer updates** is a video series hosted by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) that outlines the recent changes to [osu!(lazer)](https://github.com/ppy/osu) as well as its development process. The series is intended to give the general public a better look as to
 
-Throughout the years, osu!academy has been hosted by multiple members of the community, the most prominent of which being [ztrot](https://osu.ppy.sh/users/6347), who has maintained the series for many years and is the face of the project.
-
 ## History
 
 Documentation of osu!(lazer) updates started off in the early days as blog posts written in [peppy's personal blog](https://blog.ppy.sh/) and the [osu!next Tumblr page](https://www.tumblr.com/osunext). However, these posts were often overlooked by casual users, and in order to increase public awareness of the ongoing development, consequent updates were later announced in the [osu!(lazer)-specific changelog entries](https://osu.ppy.sh/home/changelog/lazer), [peppy's Twitter account](https://twitter.com/ppy/), and finally the "lazer updates" video series.
 
-Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023) onwards, all "lazer updates" videos are also accompanied by corresponding "osu!(lazer) updates" newsposts on the home page.
+Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023) onwards, all "lazer updates" videos are also accompanied by corresponding "osu!(lazer) updates" newsposts.
 
 ## List of episodes
 
