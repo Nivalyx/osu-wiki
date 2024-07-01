@@ -8,7 +8,7 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 
 ## History
 
-Ever since [osu!(lazer)](http://www.youtube.com/watch?v=lrWyqpNUwBo) was first teased, updates on the project over time had been covered in [peppy's personal blog](https://blog.ppy.sh/) and the [osu!next Tumblr page](https://www.tumblr.com/osunext). However, these changes
+Documentation of osu!(lazer) updates began in the early days of its development, in the form of blog posts written in [peppy's personal blog](https://blog.ppy.sh/) and the [osu!next Tumblr page](https://www.tumblr.com/osunext). However, these changes
 
 ## List of episodes
 
