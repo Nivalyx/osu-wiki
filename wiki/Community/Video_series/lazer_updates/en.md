@@ -2,7 +2,7 @@
 
 ![](img/banner.png "osu!(lazer) updates newspost banner")
 
-**lazer updates** is a video series hosted by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) that aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in between.
+**lazer updates** is a video series hosted by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) that outlines
 
 Throughout the years, osu!academy has been hosted by multiple members of the community, the most prominent of which being [ztrot](https://osu.ppy.sh/users/6347), who has maintained the series for many years and is the face of the project.
 
