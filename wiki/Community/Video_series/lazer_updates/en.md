@@ -8,7 +8,7 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 
 ## History
 
-a
+Ever since osu!(lazer) was first announced, updates on the project has been gradually
 
 ## List of episodes
 
