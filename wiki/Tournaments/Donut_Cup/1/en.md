@@ -83,39 +83,11 @@ The Donut Cup is run by various osu! community members from all over the world.
 
 ## Mappools
 
-### Grand Finals[^stage-note-2]
+### Finals[^stage-note-1]
 
-- NoMod
-  1. [PinocchioP - Mune Ippai no Dame o (AruOtta) \[DAME\]](https://osu.ppy.sh/beatmapsets/502545#fruits/3747158)
-  2. [Camellia - The King of Lions (AtHeoN) \[Rex Leones\]](https://osu.ppy.sh/beatmapsets/722502#fruits/1525311)
-  3. [BEMANI Sound Team "HuMeR" feat.Fernweh - Sakazuki (Luna Flina) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1682971#fruits/3619184)
-  4. [IZ\*ONE - Secret Story of the Swan (emilia) \[baekjo\]](https://osu.ppy.sh/beatmapsets/1323112#fruits/2740609)
-  5. [Ruby My Dear - A Dada (fergas) \[Release The Quacken!\]](https://osu.ppy.sh/beatmapsets/1846684#fruits/3793488)
-- Hidden
-  1. [Cyte - idk Kagamine Rin well (NekoShabeta) \[idk Neko well (o!CCO Ver.)\]](https://osu.ppy.sh/beatmapsets/1990397#fruits/4135076)
-  2. [KINEMA106 - IMPERIAL PARADE (Deramok) \[Extra\]](https://osu.ppy.sh/beatmapsets/1799280#fruits/3688501)
-  3. [HITOMI SHIMATANI - ANGELUS (TV Size) (Mint) \[AR7\]](https://osu.ppy.sh/beatmapsets/1350825#fruits/2798712)
-- HardRock
-  1. [Siinamota - Young Girl A (N0vl40k) \[zswtr's Janpingu Demo N\]](https://osu.ppy.sh/beatmapsets/1703001#fruits/4272586)
-  2. [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Moecho's Delusional Echo Extra\]](https://osu.ppy.sh/beatmapsets/513731#fruits/1266192)
-  3. [Mr. Saturn - Saturn (Azer) \[Another\]](https://osu.ppy.sh/beatmapsets/1181010#fruits/2462486)
-- DoubleTime
-  1. [Kuraki Mai - Barairo no Jinsei (arronchu1207) \[Scarlet\]](https://osu.ppy.sh/beatmapsets/1705890#fruits/3485691)
-  2. [JUNNA - Dear (Yudragen) \[My beloved\]](https://osu.ppy.sh/beatmapsets/1998896#fruits/4155280)
-  3. [BLANKFIELD - Far From Truth (Hey lululu) \[Isomir's Insane\]](https://osu.ppy.sh/beatmapsets/1171995#fruits/2450799)
-  4. [pazi - Shoujorei (Kawashiro) \[That summer, I was always with you.\]](https://osu.ppy.sh/beatmapsets/1769050#fruits/3733503)
-- MixedMod
-  1. [YURRY CANON - Suicide Parade (kwk) \[ailv's Absurdity\]](https://osu.ppy.sh/beatmapsets/854503#fruits/18570031)
-  2. [II-L - PIONEER-4 (oatm) \[DEVIOUSPANDA'S BEYOND\]](https://osu.ppy.sh/beatmapsets/2100532#fruits/4413454)
-  3. [nui - Mayday (sukii) \[Senseless\]](https://osu.ppy.sh/beatmapsets/2044442#fruits/4267100)  
-- Tiebreaker
-  1. **[Sad Keyboard Guy & Gardens - Waking Shadows feat. eili (pocket-) \[Dawn Chorus\]](https://osu.ppy.sh/beatmapsets/2048051#fruits/4276057)**
-
-### Finals (week 1)
-
-- NoMod
-  1. [the peggies - Highlight Highlight (Vanya2) \[Bloom\]](https://osu.ppy.sh/beatmapsets/1789615#fruits/3666952)
-  2. [mitei - Phosphor (Mir) \[Fluorescence\]](https://osu.ppy.sh/beatmapsets/1508502#fruits/3089379)
+- No Mod
+  1. [Kotone - Flash (captin1) \[Brilliance\]](https://osu.ppy.sh/beatmapsets/1306305#osu/2708442)
+  2. [Lime / Kankitsu - Pixel Princess (KingBaxter) \[rainbow sprinkle deathmachine\]](https://osu.ppy.sh/beatmapsets/1814038#osu/3721497)
   3. [DJ Mass MAD Izm\* - Red. by Full Metal Jacket (Yusomi) \[Another AR9.5\]](https://osu.ppy.sh/beatmapsets/611544#fruits/1290915)
   4. [Ado - Jama (eiri-) \[Annoyance\]](https://osu.ppy.sh/beatmapsets/1291365#fruits/2680455)
   5. [setup - Ypsilon (atlas-) \[\[//\]\]](https://osu.ppy.sh/beatmapsets/1751322#fruits/3582892)
