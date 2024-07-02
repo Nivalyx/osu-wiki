@@ -216,17 +216,18 @@ The Donut Cup is run by various osu! community members from all over the world.
   2. [Cascada - Bad Boy (Nightcore Mix) (winber1) \[Extreme\]](https://osu.ppy.sh/beatmapsets/41095#osu/130030)
   3. [II-L - V804N (BMS Edit) (Not Airwam) \[isca101's 3XTR4\]](https://osu.ppy.sh/beatmapsets/1918888#osu/4065173)
 - Hard Rock
-  1. [Green Day - American Idiot (Sotarks) \[Nymphe's Insane\]](https://osu.ppy.sh/beatmapsets/1818185#fruits/3737442)
-  2. [C-Show - ERROR CODE (Lude) \[0028:C0011E36\]](https://osu.ppy.sh/beatmapsets/1930682#fruits/3988338)
+  1. [AAAA - Hoshizora no Kanransha (Setu) \[Conclusion\]](https://osu.ppy.sh/beatmapsets/2094949#osu/4393494)
+  2. [AAAA - carnation (Mirash) \[Mirashola Fanboy's Expert\]](https://osu.ppy.sh/beatmapsets/1893490#osu/3934268)
+  3. [midwxst - Smile (feat. glaive) (- ascended -) \[Feign\]](https://osu.ppy.sh/beatmapsets/1458846#osu/2997929)
 - Double Time
-  1. [BRIGHT - Ichinen Nikagetsu Hatsuka (wafer) \[Unbreakable Resolve Collab\]](https://osu.ppy.sh/beatmapsets/1652328#fruits/3373029)
-  2. [Avril Lavigne - Hello Heartache (Squirrel) \[Zero's Insane\]](https://osu.ppy.sh/beatmapsets/133492#fruits/420234)
-  3. [Paramore - Decode (Attendant) \[Another\]](https://osu.ppy.sh/beatmapsets/1888967#fruits/4036946)
+  1. [Kurosaki Maon - Rakuen no Tsubasa (Asagi) \[Insane\]](https://osu.ppy.sh/beatmapsets/227041#osu/529108)
+  2. [Hanazono Mei - Kurenai Fubuki (Nao Tomori) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1549881#osu/3167236)
+  3. [lapix - Flamenco House (Luminiscental) \[Insane\]](https://osu.ppy.sh/beatmapsets/1865291#osu/3857255)
 - Free Mod
-  1. [Nowlu - Stuck on you (EdgyKing) \[Heartache\]](https://osu.ppy.sh/beatmapsets/1910970#fruits/3941735)
-  2. [pm04034 - Nonspeed (bob) \[ar8 for psychopaths\]](https://osu.ppy.sh/beatmapsets/1863752#fruits/3832752)
+  1. [PUP - Factories (Sparxo) \[THROUGH THE NIGHT\]](https://osu.ppy.sh/beatmapsets/1239345#osu/2576707)
+  2. [inabakumori - Tokoshizume  (xyperX) \[Kard's Insane\]](https://osu.ppy.sh/beatmapsets/1777533#osu/3657734)
 - Tiebreaker
-  1. **[XS Project vs Hard Bass School - Zakladki (hackSL) \[TLZ02\]](https://osu.ppy.sh/beatmapsets/775287#fruits/1629204)**
+  1. **[JANK - Versace Summer (h i f u) \[Take me away to my holy grail in your bed\]](https://osu.ppy.sh/beatmapsets/1470062#osu/3022399)**
 
 ### Qualifiers
 
