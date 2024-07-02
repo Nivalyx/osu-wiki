@@ -191,7 +191,8 @@ The Donut Cup is run by various osu! community members from all over the world.
   3. [Sota Fujimori - polygon (Sebu) \[-PC's hexagon\]](https://osu.ppy.sh/beatmapsets/422136#osu/1028537)
 - HardRock
   1. [Kano - Kiite (Crysisters) \[Yours\]](https://osu.ppy.sh/beatmapsets/2109902#osu/4428742)
-  2. [Chicala Lpis - Blackest Luxury Car (Ongaku) \[vikala's INSANE\]](https://osu.ppy.sh/beatmapsets/1058850#fruits/2589142)
+  2. [Se-U-Ra - Qlifact -another- (Nao Tomori) \[Icekalt's Extra\]](https://osu.ppy.sh/beatmapsets/1224699#osu/2577517)
+  3. [LV.4 - Burning Star (ktgster) \[Serenhaide's Expert\]](https://osu.ppy.sh/beatmapsets/2095154#osu/4512510)
 - DoubleTime
   1. [Itou Masumi - Yume no Naka no Watashi no Yume (RLC) \[Coda\]](https://osu.ppy.sh/beatmapsets/668664#fruits/1414553)
   2. [FictionJunction - Yakusoku (Maot) \[Awaiting Promise\]](https://osu.ppy.sh/beatmapsets/1928050#fruits/3981702)
