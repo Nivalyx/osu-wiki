@@ -232,8 +232,10 @@ The Donut Cup is run by various osu! community members from all over the world.
 ### Qualifiers
 
 - No Mod
-  1. [nano feat. MY FIRST STORY - SAVIOR OF SONG (Kurashina Asuka) \[OUR FUTURE\]](https://osu.ppy.sh/beatmapsets/1179677#fruits/2459904)
-  2. [lapix - Debug Dance (Super Arrow) \[Livia's Dance\]](https://osu.ppy.sh/beatmapsets/603561#fruits/1274730)
+  1. [Harano Oni - Yomei Senkoku (Dailycare) \[Normal\]](https://osu.ppy.sh/beatmapsets/2031675#osu/4234684)
+  2. [F-777 - Vortex (knowledgeking) \[THREE DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/1543390#osu/3154777)
+  3. [shoujo byou - climactic cry (Crystal) \[dedicated chivalry\]](https://osu.ppy.sh/beatmapsets/1959554#osu/4060450)
+  4. [AJURIKA - BIG som tam (KKipalt) \[:drool:\]](https://osu.ppy.sh/beatmapsets/1833709#osu/3764497)
 - Hidden
   1. [Gorilla Attack - Gorilla Step (hehe) \[Gorilla Map\]](https://osu.ppy.sh/beatmapsets/1876103#fruits/3860846)
   2. [Nanawo Akari - Ai ga Aru You de Nai You de Aru (Suzuaki\_Rin) \[Buzz\]](https://osu.ppy.sh/beatmapsets/1907766#fruits/3934020)
