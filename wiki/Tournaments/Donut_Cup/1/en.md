@@ -16,7 +16,7 @@ The **Donut Cup** is double-elimination 2v2 osu! tournament hosted by ::{ flag=C
 | --: | :-- |
 | Registration phase | 2024-04-14/2024-05-12 |
 | Screening phase | 2024-05-13/2024-05-26 |
-| Qualifiers | 2023-11-20/2023-11-26 |
+| Qualifiers | 2024-05-27/2024-06-02 |
 | Round of 32 | 2023-11-27/2023-12-03 |
 | Round of 16 | 2023-12-04/2023-12-10 |
 | Quarterfinals | 2023-12-11/2023-12-17 |
@@ -29,7 +29,7 @@ The **Donut Cup** is double-elimination 2v2 osu! tournament hosted by ::{ flag=C
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter for each team member, custom-made profile banner, a hearty batch of freshly-baked donuts (conditional according to feasibility of the delivery) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter for each team member, custom-made profile banner, a batch of freshly-baked donuts (conditional according to feasibility of the delivery) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Custom-made profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Custom-made profile banner |
 
