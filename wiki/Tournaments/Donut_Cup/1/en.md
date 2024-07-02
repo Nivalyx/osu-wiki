@@ -1,6 +1,6 @@
 ---
 tags:
-  - Donut Cup 1
+  - Doughnut Cup
   - Donut Cup 2024
 ---
 
@@ -88,7 +88,7 @@ The Donut Cup is run by various osu! community members from all over the world.
 - No Mod
   1. [Kotone - Flash (captin1) \[Brilliance\]](https://osu.ppy.sh/beatmapsets/1306305#osu/2708442)
   2. [Lime / Kankitsu - Pixel Princess (KingBaxter) \[rainbow sprinkle deathmachine\]](https://osu.ppy.sh/beatmapsets/1814038#osu/3721497)
-  3. [DJ Mass MAD Izm\* - Red. by Full Metal Jacket (Yusomi) \[Another AR9.5\]](https://osu.ppy.sh/beatmapsets/611544#fruits/1290915)
+  3. [Sir Mix-A-Lot - Baby Got Back (1103) \[rev03's FOUR BOOTYMENSIONS\]](https://osu.ppy.sh/beatmapsets/2131840#osu/4484078)
   4. [Ado - Jama (eiri-) \[Annoyance\]](https://osu.ppy.sh/beatmapsets/1291365#fruits/2680455)
   5. [setup - Ypsilon (atlas-) \[\[//\]\]](https://osu.ppy.sh/beatmapsets/1751322#fruits/3582892)
 - Hidden
