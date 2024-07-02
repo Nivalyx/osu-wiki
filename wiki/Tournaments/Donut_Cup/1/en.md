@@ -439,27 +439,27 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 | Seed | Team name | Avg. rank |
 | :-: | :-- | --: |
-| #1 | Korean PC | 2.75 |
-| #2 | converts ec | 3.38 |
-| #3 | eurasia mid seed | 4.75 |
-| #4 | Capoo so cute | 5.50 |
-| #5 | CTB RAIMON | 6.00[^qual-note-1] |
-| #6 | DreStarkari | 6.00[^qual-note-1] |
-| #7 | We hate convert | 7.38 |
-| #8 | Polanezja | 10.13 |
-| #9 | 4DIGITS RISE UP | 10.25 |
-| #10 | roflcopter | 10.75 |
-| #11 | Ateshiiii | 11.63 |
-| #12 | draft issue | 11.88 |
-| #13 | kururin spin | 12.88 |
-| #14 | AMQ Player | 13.13 |
-| #15 | flag issue | 15.50 |
-| #16 | TAG4 | 15.75 |
-| #17 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | 16.25 |
-| #18 | plz dont ban DT | 17.25 |
-| #19 | Samurai Team | 17.63 |
-| #20 | SUNBOY | 20.13 |
-| #21 | Degens, truly | 21.75 |
+| #1 | No title | 7.90 |
+| #2 | crying right now | 9.60 |
+| #3 | YOSHIMOBIL | 10.70 |
+| #4 | mooshu | 10.80 |
+| #5 | JustForFun | 11.00 |
+| #6 | Paper Factory | 11.30 |
+| #7 | water tribe | 12.30 |
+| #8 | foreign talent | 13.10 |
+| #9 | groundhog fanclub | 14.90 |
+| #10 | Bakery | 17.00 |
+| #11 | Wait I'm Floated | 17.80 |
+| #12 | arujidonut | 18.60 |
+| #13 | 13UTCDFLT=KIL | 19.00 |
+| #14 | Beesechurger | 19.10 |
+| #15 | old goats | 19.80 |
+| #16 | Dough Getters | 20.30 |
+| #17 | Bagel | 20.40 |
+| #18 | donut | 21.30 |
+| #19 | gwk's team | 21.70 |
+| #20 | Square Hector Berlioz | 22.00[^qual-note-1] |
+| #21 | Oregano State University | 22.00[^qual-note-1] |
 | #22 | Signal Graph | 22.00[^qual-note-2] |
 | #23 | Ban Mods | 22.00[^qual-note-2] |
 | #24 | TATAPCTAH | 25.25 |
