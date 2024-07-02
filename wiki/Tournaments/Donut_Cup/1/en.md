@@ -93,24 +93,24 @@ The Donut Cup is run by various osu! community members from all over the world.
   5. [Broken By The Scream - Raika Raika (Rentai) \[Melancholic\]](https://osu.ppy.sh/beatmapsets/2207009#osu/4673234)
   6. [DJ Mass MAD Izm\* - Red. by Full Metal Jacket (yf\_bmp) \[SCRATCH\]](https://osu.ppy.sh/beatmapsets/1371308#osu/2835277)
 - Hidden
-  1. [kamome sano - Elemental Creation (kamome sano Remix) (DeviousPanda) \[Biometric Polarity\]](https://osu.ppy.sh/beatmapsets/1651040#fruits/3370546)
-  2. [niki x EZFG feat. Reol - WAVE (Sparhten) \[ar8 test\]](https://osu.ppy.sh/beatmapsets/1922218#fruits/3967816)
-  3. [OutKast - B.O.B. (Bombs Over Baghdad) (Cut Ver.) (GRR SNARL GROWL) \[bomb \@mas\]](https://osu.ppy.sh/beatmapsets/1981082#fruits/4113668)
-- HardRock
-  1. [Yasuharu Takanashi - Satan Soul (Ekoro) \[Extra\]](https://osu.ppy.sh/beatmapsets/215326#fruits/507020)
-  2. [AAAA vs. Frums - beepbit \* futures (toybot) \[fast \* forward\]](https://osu.ppy.sh/beatmapsets/1633221#fruits/3333700)
-  3. [BUTAOTOME - In the Black (Luscent) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/1833640#fruits/4240719)
-- DoubleTime
-  1. [nano.RIPE - Kagefumi (Mirash) \[Delisa and Miranda womanitized collab\]](https://osu.ppy.sh/beatmapsets/1633147#fruits/3333570)
-  2. [kors k, Cranky - Phalanx -RS2018 Edit- (Alvearia) \[DT\]](https://osu.ppy.sh/beatmapsets/1169995#fruits/3204736)
-  3. [TUYU - Dorei Janai nara Nan Desu ka? (Woood13) \[Condemned\]](https://osu.ppy.sh/beatmapsets/1519920#fruits/3110914)
-  4. [Dark PHOENiX - Shoujo ga Mita Nihon no Genfuukei (iljaaz) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1889104#fruits/3890682)
-- MixedMod
-  1. [Feryquitous vs. xi - Orca (lcfc) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/1166748#fruits/2565154)
-  2. [Pixel Terror - Millennia (Asphyxia) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/1708547#fruits/3592328)
-  3. [lapix - Flamenco House (Luminiscental) \[Extra\]](https://osu.ppy.sh/beatmapsets/1865291#fruits/3853301)  
+  1. [ALI feat. AKLO - LOST IN PARADISE (fartownik) \[TOKYO PRISON\]](https://osu.ppy.sh/beatmapsets/1545010#osu/3158000)
+  2. [seiya-murai feat. ALT - Sumidagawa Karenka (Satellite) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1981458#osu/4114465)
+  3. [succducc - me & u (Kara edit) (LeCandy) \[drown\]](https://osu.ppy.sh/beatmapsets/1938079#osu/4006415)
+- Hard Rock
+  1. [Reol - Saisaki (cRyo\[iceeicee\]) \[Extra\]](https://osu.ppy.sh/beatmapsets/858075#osu/1793422)
+  2. [KanoeRana - 45323 (Airiesu) \[me/you\]](https://osu.ppy.sh/beatmapsets/1347840#osu/2791200)
+  3. [AVTechNO! - boku-boku SuketchP Remix (feat. Hatsune Miku) (rollpan) \[Extreme - OTST\]](https://osu.ppy.sh/beatmapsets/1829854#osu/3755660)
+- Double Time
+  1. [Ceui - Hoshi Ori Yume Mirai (Hishiro Chizuru) \[Cyndere's Expert\]](https://osu.ppy.sh/beatmapsets/1517513#osu/3136056)
+  2. [senya - Kanjou Chemistry (Drum 'n' Bass Remix) (Skubi) \[PAJWOJ's Vestige of Days Gone By\]](https://osu.ppy.sh/beatmapsets/2084917#osu/4384262)
+  3. [fripSide - only my railgun -Euro Beat Charger Mix- (Nos\_If) \[Insane\]](https://osu.ppy.sh/beatmapsets/1558910#osu/3184307)
+  4. [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/16457#osu/58970)
+- Free Mod
+  1. [Tokyo Jihen - Jusui Negai -The Suicide- (seros) \[Kyouiku\]](https://osu.ppy.sh/beatmapsets/1761649#osu/3605664)
+  2. [Tsukifune Kosho-do - Tabi no Owari to Shukusai no Yoru (vergil chair) \[Journey\]](https://osu.ppy.sh/beatmapsets/1346576#osu/2788659)
+  3. [paraoka - rampage (kiri09) \[9\]](https://osu.ppy.sh/beatmapsets/1545010#osu/3158000)  
 - Tiebreaker
-  1. **[nm-y as "Vanquisher" - Chronodivinity (DeviousPanda) \[Panda & Camo's Chronos\]](https://osu.ppy.sh/beatmapsets/2023031#fruits/4213728)**
+  1. **[Asriel - Raison D'etre (jonathanlfj) \[EXist\]](https://osu.ppy.sh/beatmapsets/1306628#osu/2709097)**
 
 ### Semifinals
 
