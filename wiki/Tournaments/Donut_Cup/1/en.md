@@ -237,14 +237,14 @@ The Donut Cup is run by various osu! community members from all over the world.
   3. [shoujo byou - climactic cry (Crystal) \[dedicated chivalry\]](https://osu.ppy.sh/beatmapsets/1959554#osu/4060450)
   4. [AJURIKA - BIG som tam (KKipalt) \[:drool:\]](https://osu.ppy.sh/beatmapsets/1833709#osu/3764497)
 - Hidden
-  1. [Gorilla Attack - Gorilla Step (hehe) \[Gorilla Map\]](https://osu.ppy.sh/beatmapsets/1876103#fruits/3860846)
-  2. [Nanawo Akari - Ai ga Aru You de Nai You de Aru (Suzuaki\_Rin) \[Buzz\]](https://osu.ppy.sh/beatmapsets/1907766#fruits/3934020)
+  1. [yak\_won - Wind Tales (dakiwii) \[catri\]](https://osu.ppy.sh/beatmapsets/1952375#osu/4042950)
+  2. [I love you orchestra - Coconut Love (funny) \[Nucifera\]](https://osu.ppy.sh/beatmapsets/1665501#osu/3400091)
 - Hard Rock
-  1. [Shiena Nishizawa - Meaning (kowari) \[wkyik's Extra\]](https://osu.ppy.sh/beatmapsets/1755119#fruits/3591718)
-  2. [NeLiME - Snapdragon (Elzix) \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/2074879#fruits/4343235)
+  1. [Oohashi Takuya (from Sukima Switch) - Katamari on the Wings (melon boy) \[OK MR. SUNSHINE\]](https://osu.ppy.sh/beatmapsets/1867650#osu/3841928)
+  2. [Rabbit House - das Leben nach dem Tode (Rentia) \[Unterwelt\]](https://osu.ppy.sh/beatmapsets/1733348#osu/3542916)
 - Double Time
-  1. [LiLA'c Records - Maze of Vapor (Brutal Core mix) (-Kemsyt) \[Mirash's Extra\]](https://osu.ppy.sh/beatmapsets/1752523#fruits/3586373)
-  2. [yanaginagi - landscape (\[Vincent\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/244001#fruits/563370)  
+  1. [ICHIKO - I SAY YES (N a s y a) \[Insane\]](https://osu.ppy.sh/beatmapsets/2179900#osu/4604218)
+  2. [yanaginagi - Sentimental (defiance) \[Insane\]](https://osu.ppy.sh/beatmapsets/1562788#osu/3191336)  
 
 ## Match results
 
