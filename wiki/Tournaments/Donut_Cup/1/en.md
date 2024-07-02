@@ -122,22 +122,24 @@ The Donut Cup is run by various osu! community members from all over the world.
   5. [Sorry about my face - Call me with yo (fergas) \[\[ya otpravlus' za toboi\]\]](https://osu.ppy.sh/beatmapsets/1621877#osu/3311312)
   6. [Silentroom - Aliake (IOException) \[edit\]](https://osu.ppy.sh/beatmapsets/2085977#osu/4659192)
 - Hidden
-  1. [TJ.hangneil - Kamui (Cellina) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/2008761#fruits/4184497)
-  2. [schwarzekugel - \$trange Attraktor (Alvearia) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/2019997#fruits/4206731)
-  3. [KOTOKO - INFINITE SKY (Kurashina Asuka) \[fick dich malvin\]](https://osu.ppy.sh/beatmapsets/1396158#fruits/2881614)
+  1. [Chroma feat. mikanzil - Koi no Kuuchuu Bunkai (toybot) \[AI\]](https://osu.ppy.sh/beatmapsets/1862885#osu/3830615)
+  2. [Nagisa Cosmetic - Cosmetic Happy (vastly) \[yay\]](https://osu.ppy.sh/beatmapsets/2069049#osu/4329122)
+  3. [kopi - Iyan-naruna (Petal) \[Dance\]](https://osu.ppy.sh/beatmapsets/1833718#osu/3764514)
 - Hard Rock
-  1. [UNDEAD CORPORATION - Frozen (Daycore) \[allein's Extreme\]](https://osu.ppy.sh/beatmapsets/1268344#fruits/2635971)
-  2. [BLOOD STAIN CHILD - MOON LIGHT WAVE (Silleth) \[Extra\]](https://osu.ppy.sh/beatmapsets/296543#fruits/1041934)
-  3. [beatMARIO - Night of Knights (Anxient) \[TRUE 2009 STAGE\]](https://osu.ppy.sh/beatmapsets/530702#fruits/1125657)
+  1. [momosumomosu - Esoa (Dailycare) \[Dance\]](https://osu.ppy.sh/beatmapsets/2001099#osu/4160997)
+  2. [Jun.A - The Fairy's Adventurous Tale (KanbeKotori) \[kiddly's Extreme\]](https://osu.ppy.sh/beatmapsets/26480#osu/274236)
+  3. [Sasuke Haraguchi feat. Kasane Teto - HITO Mania (Beige) \[3333\]](https://osu.ppy.sh/beatmapsets/2070848#osu/4333021)
 - Double Time
-  1. [Annabel - Signal Graph (Rizia) \[Insane\]](https://osu.ppy.sh/beatmapsets/310508#fruits/693966)
-  2. [David Guetta - Where Them Girls At feat. Nicki Minaj, Flo Rida (AJT) \[Avena's Insane\]](https://osu.ppy.sh/beatmapsets/1266351#fruits/2632192)
-  3. [Aiko Kayo - Hitomi no Naka no Meikyuu (Reiji Maigo) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1933416#fruits/3994999)
+  1. [Cho Tokimeki Sendenbu - SUKI! \~CHO ver\~ (-karUpA-) \[Beloved\]](https://osu.ppy.sh/beatmapsets/2007742#osu/4176317)
+  2. [Jun.A - Kawaii Daisensou no Refrain (Athanasia-) \[Little Nature Deity\]](https://osu.ppy.sh/beatmapsets/1783165#osu/3651829)
+  3. [Nekomata Master+ - Spiral2005 (Chaoslitz) \[Superstar\]](https://osu.ppy.sh/beatmapsets/2085344#osu/4368636)
+  4. [Epik High - Fly (Aranel) \[Fly! '11\]](https://osu.ppy.sh/beatmapsets/1761846#osu/3606082)
 - Free Mod
-  1. [POLKADOT STINGRAY - Otoshimae (moph) \[Mindmaster's Extra\]](https://osu.ppy.sh/beatmapsets/1301330#fruits/2782643)
-  2. [sakuzyo - Laplace (Hakurei Yoru) \[Vert's Expert\]](https://osu.ppy.sh/beatmapsets/431924#fruits/948386)
+  1. [N2 - STASIS DEMON (JeZag) \[ABLAZE\]](https://osu.ppy.sh/beatmapsets/1880881#osu/3872185)
+  2. [cygnus - Darkness Parade (KnightC0re) \[Dogure Magura\]](https://osu.ppy.sh/beatmapsets/2078577#osu/4352411)
+  3. [xi - Beatrice (Esutarosa) \[esua x moph's Extra\]](https://osu.ppy.sh/beatmapsets/1801967#osu/3698097)
 - Tiebreaker
-  1. **[Alfakyun. - Shinu Toki Shineba Ii (iljaaz) \[Sorrow\]](https://osu.ppy.sh/beatmapsets/1156021#fruits/2412506)**
+  1. **[WAiKURO - Androgynos (Full Phase) (Realazy) \[Golden Embers\]](https://osu.ppy.sh/beatmapsets/2084167#osu/4365545)**
 
 ### Quarterfinals
 
