@@ -180,9 +180,9 @@ The Donut Cup is run by various osu! community members from all over the world.
 ### Round of 16
 
 - NoMod
-  1. [HO-KA-GO CLIMAX GIRLS - Hanasaka Sai Sai (kiddly) \[Ag's Extra\]](https://osu.ppy.sh/beatmapsets/2094935#fruits/4399750)
-  2. [Camellia - Kono Hoshi de.... (Krimek) \[Arbane's Extra\]](https://osu.ppy.sh/beatmapsets/511759#fruits/1116417)
-  3. [Markus Schukowski - What It Feels Like (Zardonic Remix) (kowari) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/2052103#fruits/4286007)
+  1. [Linkin Park - Breaking The Habit (Aakki) \[Aakki & dog food's Expert\]](https://osu.ppy.sh/beatmapsets/1499705#osu/3073370)
+  2. [DUAL ALTER WORLD - Beyond The Sonicwall (Mikelito069) \[Revolving On The Sound Of Despair\]](https://osu.ppy.sh/beatmapsets/2078737#osu/4352803)
+  3. [Sakuzyo - Erlung (itstaipeople) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2151447#osu/4532910)
   4. [Kaskade & Skrillex - Lick It (Cut Ver.) (GRR SNARL GROWL) \[chonk mini\]](https://osu.ppy.sh/beatmapsets/2004289#fruits/4168141)
 - Hidden
   1. [TheFatRat - Unity (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/218274#fruits/511717)
