@@ -89,8 +89,9 @@ The Donut Cup is run by various osu! community members from all over the world.
   1. [Kotone - Flash (captin1) \[Brilliance\]](https://osu.ppy.sh/beatmapsets/1306305#osu/2708442)
   2. [Lime / Kankitsu - Pixel Princess (KingBaxter) \[rainbow sprinkle deathmachine\]](https://osu.ppy.sh/beatmapsets/1814038#osu/3721497)
   3. [Sir Mix-A-Lot - Baby Got Back (1103) \[rev03's FOUR BOOTYMENSIONS\]](https://osu.ppy.sh/beatmapsets/2131840#osu/4484078)
-  4. [Ado - Jama (eiri-) \[Annoyance\]](https://osu.ppy.sh/beatmapsets/1291365#fruits/2680455)
-  5. [setup - Ypsilon (atlas-) \[\[//\]\]](https://osu.ppy.sh/beatmapsets/1751322#fruits/3582892)
+  4. [Ashrount vs polysha - NADIR (Altai) \[Celestial\]](https://osu.ppy.sh/beatmapsets/2024078#osu/4216038)
+  5. [Broken By The Scream - Raika Raika (Rentai) \[Melancholic\]](https://osu.ppy.sh/beatmapsets/2207009#osu/4673234)
+  6. [DJ Mass MAD Izm\* - Red. by Full Metal Jacket (yf\_bmp) \[SCRATCH\]](https://osu.ppy.sh/beatmapsets/1371308#osu/2835277)
 - Hidden
   1. [kamome sano - Elemental Creation (kamome sano Remix) (DeviousPanda) \[Biometric Polarity\]](https://osu.ppy.sh/beatmapsets/1651040#fruits/3370546)
   2. [niki x EZFG feat. Reol - WAVE (Sparhten) \[ar8 test\]](https://osu.ppy.sh/beatmapsets/1922218#fruits/3967816)
