@@ -144,12 +144,14 @@ The Donut Cup is run by various osu! community members from all over the world.
 ### Quarterfinals
 
 - No Mod
-  1. [ESQUARIA - Butterfly Delusion - Nhato remix - (MaridiuS) \[Illusion\]](https://osu.ppy.sh/beatmapsets/907792#fruits/1894426)
-  2. [Rei sirose - Lost umbrella (Tolyan) \[huh?\]](https://osu.ppy.sh/beatmapsets/1165080#fruits/2430014)
-  3. [S3RL feat. Emi - Escape (Zero-Sama) \[Z\]](https://osu.ppy.sh/beatmapsets/1072112#fruits/4307866)
-  4. [sky\_delta - Kreuz (Side) \[Irre's Extra\]](https://osu.ppy.sh/beatmapsets/347551#fruits/832346)
+  1. [GRANRODEO - Can Do (Azunyan-) \[TOMOKA ZONE TURBO\]](https://osu.ppy.sh/beatmapsets/1453514#osu/2988239)
+  2. [Raimukun - Myths Orbis (knowledgeking) \[morphne & Winter's Extra\]](https://osu.ppy.sh/beatmapsets/1889095#osu/4212326)
+  3. [Tsukuyomi - Nekropolis (dkblaze) \[Extra\]](https://osu.ppy.sh/beatmapsets/2057681#osu/4300341)
+  4. [Getty - B WiZ U (Cubby) \[Expert\]](https://osu.ppy.sh/beatmapsets/2054627#osu/4292677)
+  5. [katagiri - Nyan-Nyan Naughty Night (Fisky) \[Catgirls Save Lives\]](https://osu.ppy.sh/beatmapsets/1557297#osu/3181311)
+  6. [Kamisama Club - No. 5 (dsco) \[Capital\]](https://osu.ppy.sh/beatmapsets/1626872#osu/3321406)
 - Hidden
-  1. [Minagu feat. Aitsuki Nakuru - Enamel no Butoukai (iRedi) \[Lustrous Elegance\]](https://osu.ppy.sh/beatmapsets/1929891#fruits/3986513)
+  1. [wotoha - O108ROCKET (feat. Neko Hacker) (Garden) \[Cosmic Extra feat. yf\]](https://osu.ppy.sh/beatmapsets/1510106#osu/3169364)
   2. [Mamonis - The Sampling Paradise (rrtyui) \[Another\]](https://osu.ppy.sh/beatmapsets/61912#fruits/184250)
   3. [Disturbed - Decadence (Shurelia) \[aishiteiru's Extra\]](https://osu.ppy.sh/beatmapsets/1994915#fruits/4166035)
 - Hard Rock
