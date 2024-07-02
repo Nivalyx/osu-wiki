@@ -19,11 +19,10 @@ The **Donut Cup** is double-elimination 2v2 osu! tournament hosted by ::{ flag=C
 | Qualifiers | 2024-05-27/2024-06-02 |
 | Round of 32 | 2024-06-03/2024-06-09 |
 | Round of 16 | 2024-06-10/2024-06-16 |
-| Quarterfinals | 2023-12-11/2023-12-17 |
-| *Winter break* | 2023-12-18/2023-12-31 |
-| Semifinals | 2024-01-01/2024-01-07 |
-| Finals[^stage-note-1] | 2024-01-08/2024-01-14 |
-| Grand Finals[^stage-note-2] | 2024-01-15/2024-01-22 |
+| Quarterfinals | 2024-06-17/2024-06-23 |
+| Semifinals | 2024-06-24/2024-06-30 |
+| Finals[^stage-note-1] | 2024-07-01/2024-07-07 |
+| Grand Finals[^stage-note-2] | 2024-07-08/2024-07-15 |
 
 ## Prizes
 
