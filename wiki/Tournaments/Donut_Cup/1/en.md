@@ -64,6 +64,8 @@ The Donut Cup is run by various osu! community members from all over the world.
 | Team name | Members |
 | :-: | :-- |
 | foreign talent | ::{ flag=SG }:: **[megumic](https://osu.ppy.sh/users/7537133)**, ::{ flag=SG }:: [Tebi](https://osu.ppy.sh/users/5407620), ::{ flag=SG }:: [GSBlank](https://osu.ppy.sh/users/2312106), ::{ flag=SG }:: [Dawnwing](https://osu.ppy.sh/users/5144534), ::{ flag=MY }:: [Zeph2003](https://osu.ppy.sh/users/10343292), ::{ flag=KR }:: [KRZY](https://osu.ppy.sh/users/114017) |
+| old goats | ::{ flag=US }:: **[FlashoFoSho](https://osu.ppy.sh/users/4755314)**, ::{ flag=US }:: [Cuckweezy](https://osu.ppy.sh/users/7154358), ::{ flag=BE }:: [Hanori](https://osu.ppy.sh/users/7078544), ::{ flag=SE }:: [Saika0k1](https://osu.ppy.sh/users/4316633), ::{ flag=SE }:: [\[ Couch \]](https://osu.ppy.sh/users/2854598), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181) |
+| water tribe | ::{ flag=US }:: **[Watr](https://osu.ppy.sh/users/6898948)**, ::{ flag=CA }:: [Bae Suzy](https://osu.ppy.sh/users/3898396), ::{ flag=NO }:: [Hundur](https://osu.ppy.sh/users/3145033), ::{ flag=CA }:: [DarkKarate](https://osu.ppy.sh/users/8666950), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568), ::{ flag=PA }:: [Ramon 2](https://osu.ppy.sh/users/11562243) |
 
 ## Mappools
 
