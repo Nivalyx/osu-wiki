@@ -207,12 +207,14 @@ The Donut Cup is run by various osu! community members from all over the world.
 
 - No Mod
   1. [Harada Hitomi - Kyoumei no True Force (\_kotachi\_) \[i can't map nm1\]](https://osu.ppy.sh/beatmapsets/1922545#osu/3968662)
-  2. [Rina Sawayama - Comme Des Garcons (Like The Boys) (fooders) \[I'm so confident!\]](https://osu.ppy.sh/beatmapsets/1799181#fruits/3688318)
-  3. [Pegboard Nerds - Gunslinga (feat. MC Mota) (Sylas) \[Plaudible's Extra\]](https://osu.ppy.sh/beatmapsets/1234094#fruits/2622409)
-  4. [Marguerite du Pre - Marie Antoinette (CrimmiSkye) \[Black Another\]](https://osu.ppy.sh/beatmapsets/450147#fruits/967923)
+  2. [N.M.S.T. - Snowflakes (Astronic) \[Winter\]](https://osu.ppy.sh/beatmapsets/1862571#osu/3829913)
+  3. [Minami - Kawaki wo Ameku (mnyui) \[hanabyte x seros x subahibi's Expert\]](https://osu.ppy.sh/beatmapsets/1702894#osu/3902022)
+  4. [Street - Hestia (0ppInOsu) \[old\]](https://osu.ppy.sh/beatmapsets/1921953#osu/3967161)
+  5. [MisoilePunch - Mesheer (Anxient) \[Kirigiri's Extra\]](https://osu.ppy.sh/beatmapsets/1862429#osu/3829636)
 - Hidden
-  1. [Arizona Zervas - ROXANNE (wafer) \[Top\]](https://osu.ppy.sh/beatmapsets/1930291#fruits/3987358)
-  2. [boa - Duvet (Aranel) \[Insane\]](https://osu.ppy.sh/beatmapsets/2034265#fruits/4241261)
+  1. [My Chemical Romance - Cemetery Drive (aishiteiru-) \[Mirash's Fall\]](https://osu.ppy.sh/beatmapsets/1081808#osu/2842445)
+  2. [Cascada - Bad Boy (Nightcore Mix) (winber1) \[Extreme\]](https://osu.ppy.sh/beatmapsets/41095#osu/130030)
+  3. [II-L - V804N (BMS Edit) (Not Airwam) \[isca101's 3XTR4\]](https://osu.ppy.sh/beatmapsets/1918888#osu/4065173)
 - Hard Rock
   1. [Green Day - American Idiot (Sotarks) \[Nymphe's Insane\]](https://osu.ppy.sh/beatmapsets/1818185#fruits/3737442)
   2. [C-Show - ERROR CODE (Lude) \[0028:C0011E36\]](https://osu.ppy.sh/beatmapsets/1930682#fruits/3988338)
