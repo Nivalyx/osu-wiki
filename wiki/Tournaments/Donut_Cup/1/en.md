@@ -152,10 +152,10 @@ The Donut Cup is run by various osu! community members from all over the world.
   6. [Kamisama Club - No. 5 (dsco) \[Capital\]](https://osu.ppy.sh/beatmapsets/1626872#osu/3321406)
 - Hidden
   1. [wotoha - O108ROCKET (feat. Neko Hacker) (Garden) \[Cosmic Extra feat. yf\]](https://osu.ppy.sh/beatmapsets/1510106#osu/3169364)
-  2. [Mamonis - The Sampling Paradise (rrtyui) \[Another\]](https://osu.ppy.sh/beatmapsets/61912#fruits/184250)
-  3. [Disturbed - Decadence (Shurelia) \[aishiteiru's Extra\]](https://osu.ppy.sh/beatmapsets/1994915#fruits/4166035)
+  2. [SHIKI - Pure Ruby (Pennek) \[new ar8\]](https://osu.ppy.sh/beatmapsets/1347084#osu/4650726)
+  3. [MK - Irresistible (Cubby) \[Expert\]](https://osu.ppy.sh/beatmapsets/1900852#osu/3918333)
 - Hard Rock
-  1. [Kagamine Rin - Black Rebel (Yudragen) \[Immoral Incarnation\]](https://osu.ppy.sh/beatmapsets/1624743#fruits/3317318)
+  1. [THE ORAL CIGARETTES - Flower (pti) \[Wither\]](https://osu.ppy.sh/beatmapsets/2020993#osu/4208843)
   2. [litmus\* - Good Life (Niva) \[difficulty (convert cup edit)\]](https://osu.ppy.sh/beatmapsets/2102098#fruits/4409954)
   3. [HyuN feat. LyuU - Cross Revolution (Kaguya\_Sama) \[mayle's Extra\]](https://osu.ppy.sh/beatmapsets/1563524#fruits/3342480)
 - Double Time
