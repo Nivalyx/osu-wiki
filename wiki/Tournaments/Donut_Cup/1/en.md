@@ -460,9 +460,9 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 | #19 | gwk's team | 21.70 |
 | #20 | Square Hector Berlioz | 22.00[^qual-note-1] |
 | #21 | Oregano State University | 22.00[^qual-note-1] |
-| #22 | Signal Graph | 22.00[^qual-note-2] |
-| #23 | Ban Mods | 22.00[^qual-note-2] |
-| #24 | TATAPCTAH | 25.25 |
+| #22 | miku couch | 22.90 |
+| #23 | Super Team | 23.10 |
+| #24 | 5 goats and SakaIndy | 24.80 |
 | #25 | CS=convert suck | 25.63 |
 | #26 | NZ gamers | 26.38 |
 | #27 | Rhodes Island | 27.00[^qual-note-3] |
