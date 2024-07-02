@@ -156,17 +156,19 @@ The Donut Cup is run by various osu! community members from all over the world.
   3. [MK - Irresistible (Cubby) \[Expert\]](https://osu.ppy.sh/beatmapsets/1900852#osu/3918333)
 - Hard Rock
   1. [THE ORAL CIGARETTES - Flower (pti) \[Wither\]](https://osu.ppy.sh/beatmapsets/2020993#osu/4208843)
-  2. [litmus\* - Good Life (Niva) \[difficulty (convert cup edit)\]](https://osu.ppy.sh/beatmapsets/2102098#fruits/4409954)
-  3. [HyuN feat. LyuU - Cross Revolution (Kaguya\_Sama) \[mayle's Extra\]](https://osu.ppy.sh/beatmapsets/1563524#fruits/3342480)
+  2. [Shpongle - Levitation Nation (piroshki) \[Welcome to... Brazil?!\]](https://osu.ppy.sh/beatmapsets/1801375#osu/3693390)
+  3. [HyuN - Illusion of Inflict (Icekalt) \[N/A's Extra\]](https://osu.ppy.sh/beatmapsets/968923#osu/2109396)
 - Double Time
-  1. [Hatsuki Yura - Kyokou no Rakuen (KKipalt) \[Calvaria's Insane\]](https://osu.ppy.sh/beatmapsets/1257566#fruits/3377490)
-  2. [Falcom Sound Team jdk - GENESIS BEYOND THE BEGINNING (Mariko Sakuragi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1032441#fruits/2223544)
-  3. [Camellia feat Nanahira - Bassline Yatteru (Flukekiki) \[Insane\]](https://osu.ppy.sh/beatmapsets/1828629#fruits/3758188)
+  1. [WEAVER - Kuchizuke Diamond (Net0) \[Happy Birthday\]](https://osu.ppy.sh/beatmapsets/1103117#osu/2304350)
+  2. [MORE MORE JUMP! x Hatsune Miku - Idol Shin'etai (xidorn) \[BURST\]](https://osu.ppy.sh/beatmapsets/2195379#osu/4645182)
+  3. [fripSide - flower of bravery (ImpurePug) \[Insane\]](https://osu.ppy.sh/beatmapsets/1824641#osu/3744397)
+  4. [RuLu feat. Youi - Xylophone (Irin) \[Fish Rose's Insane\]](https://osu.ppy.sh/beatmapsets/1352063#osu/2892338)
 - Free Mod
-  1. [My Chemical Romance - Dead! (wafer) \[Collab Extra!\]](https://osu.ppy.sh/beatmapsets/1881387#fruits/4052088)
-  2. [II-L - VANGUARD-3 (Feiri) \[Expert\]](https://osu.ppy.sh/beatmapsets/1556539#fruits/3179793)
+  1. [the liquid movement - Love sick (mintIceCream\_) \[tv\]](https://osu.ppy.sh/beatmapsets/2138395#osu/4654833)
+  2. [Kikuo - Yousei no Kiri (Vararaup) \[Damnjelly's Magical\]](https://osu.ppy.sh/beatmapsets/1880072#osu/3870421)  
+  3. [Shiina Ringo - Jinsei wa Yume Darake (melloe) \[Life is Full of Dreams\]](https://osu.ppy.sh/beatmapsets/934179#osu/1950368)
 - Tiebreaker
-  1. **[Aqours - Deep Resonance (Wien Margarete) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/2043278#fruits/4264203)**
+  1. **[PSYQUI - Hysteric Night Girl (feat. Such) (torriru) \[Romance\]](https://osu.ppy.sh/beatmapsets/2100220#osu/4405793)**
 
 ### Round of 16
 
