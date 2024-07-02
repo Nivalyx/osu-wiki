@@ -22,8 +22,8 @@ The **Donut Cup** is double-elimination 2v2 osu! tournament hosted by ::{ flag=C
 | Quarterfinals | 2023-12-11/2023-12-17 |
 | *Winter break* | 2023-12-18/2023-12-31 |
 | Semifinals | 2024-01-01/2024-01-07 |
-| Finals (week 1) | 2024-01-08/2024-01-14 |
-| Finals (week 2) | 2024-01-15/2024-01-22 |
+| Finals[^stage-note-1] | 2024-01-08/2024-01-14 |
+| Grand Finals[^stage-note-2] | 2024-01-15/2024-01-22 |
 
 ## Prizes
 
@@ -67,7 +67,7 @@ The Donut Cup is run by various osu! community members from all over the world.
 
 ## Mappools
 
-### Grand Finals [^stage-note-2]
+### Grand Finals[^stage-note-2]
 
 - NoMod
   1. [PinocchioP - Mune Ippai no Dame o (AruOtta) \[DAME\]](https://osu.ppy.sh/beatmapsets/502545#fruits/3747158)
