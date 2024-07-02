@@ -179,7 +179,7 @@ The Donut Cup is run by various osu! community members from all over the world.
 
 ### Round of 16
 
-- NoMod
+- No Mod
   1. [Linkin Park - Breaking The Habit (Aakki) \[Aakki & dog food's Expert\]](https://osu.ppy.sh/beatmapsets/1499705#osu/3073370)
   2. [DUAL ALTER WORLD - Beyond The Sonicwall (Mikelito069) \[Revolving On The Sound Of Despair\]](https://osu.ppy.sh/beatmapsets/2078737#osu/4352803)
   3. [Sakuzyo - Erlung (itstaipeople) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2151447#osu/4532910)
@@ -189,7 +189,7 @@ The Donut Cup is run by various osu! community members from all over the world.
   1. [FELT - Summer Fever (Camo) \[LeCandy's Extra\]](https://osu.ppy.sh/beatmapsets/1888937#osu/4187402)
   2. [Yi wan re tang P - doctor D (mintIceCream\_) \[whalesong\]](https://osu.ppy.sh/beatmapsets/2195218#osu/4644677)
   3. [Sota Fujimori - polygon (Sebu) \[-PC's hexagon\]](https://osu.ppy.sh/beatmapsets/422136#osu/1028537)
-- HardRock
+- Hard Rock
   1. [Kano - Kiite (Crysisters) \[Yours\]](https://osu.ppy.sh/beatmapsets/2109902#osu/4428742)
   2. [Se-U-Ra - Qlifact -another- (Nao Tomori) \[Icekalt's Extra\]](https://osu.ppy.sh/beatmapsets/1224699#osu/2577517)
   3. [LV.4 - Burning Star (ktgster) \[Serenhaide's Expert\]](https://osu.ppy.sh/beatmapsets/2095154#osu/4512510)
@@ -201,12 +201,12 @@ The Donut Cup is run by various osu! community members from all over the world.
   1. [Tsukimi Eiko (CV: 96neko) - Sakuranbo (Suzuaki\_Rin) \[Cherry\]](https://osu.ppy.sh/beatmapsets/1778030#fruits/3641404)
   2. [James Landino & Akira Complex - Hydra (DreaM117er) \[dahkjdas's Extra\]](https://osu.ppy.sh/beatmapsets/1256865#fruits/3141593)
 - Tiebreaker
-  1. **[Hayakore Tatsumi - Wedding of the Goodbye (\_KcuD) \[Promise\]](https://osu.ppy.sh/beatmapsets/1799402#fruits/3688741)**
+  1. **[Minami - Hollowness (Spy\_RO) \[Duplicity\]](https://osu.ppy.sh/beatmapsets/1611669#osu/3290536)**
 
 ### Round of 32
 
 - No Mod
-  1. [ShinRa-Bansho - Uchouten Dreamers (Kurashina Asuka) \[Extra\]](https://osu.ppy.sh/beatmapsets/1146136#fruits/2445799)
+  1. [Harada Hitomi - Kyoumei no True Force (\_kotachi\_) \[i can't map nm1\]](https://osu.ppy.sh/beatmapsets/1922545#osu/3968662)
   2. [Rina Sawayama - Comme Des Garcons (Like The Boys) (fooders) \[I'm so confident!\]](https://osu.ppy.sh/beatmapsets/1799181#fruits/3688318)
   3. [Pegboard Nerds - Gunslinga (feat. MC Mota) (Sylas) \[Plaudible's Extra\]](https://osu.ppy.sh/beatmapsets/1234094#fruits/2622409)
   4. [Marguerite du Pre - Marie Antoinette (CrimmiSkye) \[Black Another\]](https://osu.ppy.sh/beatmapsets/450147#fruits/967923)
