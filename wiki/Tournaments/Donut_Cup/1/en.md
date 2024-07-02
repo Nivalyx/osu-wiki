@@ -183,12 +183,14 @@ The Donut Cup is run by various osu! community members from all over the world.
   1. [Linkin Park - Breaking The Habit (Aakki) \[Aakki & dog food's Expert\]](https://osu.ppy.sh/beatmapsets/1499705#osu/3073370)
   2. [DUAL ALTER WORLD - Beyond The Sonicwall (Mikelito069) \[Revolving On The Sound Of Despair\]](https://osu.ppy.sh/beatmapsets/2078737#osu/4352803)
   3. [Sakuzyo - Erlung (itstaipeople) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2151447#osu/4532910)
-  4. [Kaskade & Skrillex - Lick It (Cut Ver.) (GRR SNARL GROWL) \[chonk mini\]](https://osu.ppy.sh/beatmapsets/2004289#fruits/4168141)
+  4. [Camellia - extraterrestrial (Cut Ver.) (Mir) \[Nebula\]](https://osu.ppy.sh/beatmapsets/1291299#osu/2680328)
+  5. [Raimukun - Icyxi (MetaBee) \[Dilation of Insanity (Unnerfed)\]](https://osu.ppy.sh/beatmapsets/1992532#osu/4140470)
 - Hidden
-  1. [TheFatRat - Unity (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/218274#fruits/511717)
-  2. [Masque:Rade - Love Destiny (Snow Note) \[MASTER\]](https://osu.ppy.sh/beatmapsets/706004#fruits/1660120)
+  1. [FELT - Summer Fever (Camo) \[LeCandy's Extra\]](https://osu.ppy.sh/beatmapsets/1888937#osu/4187402)
+  2. [Yi wan re tang P - doctor D (mintIceCream\_) \[whalesong\]](https://osu.ppy.sh/beatmapsets/2195218#osu/4644677)
+  3. [Sota Fujimori - polygon (Sebu) \[-PC's hexagon\]](https://osu.ppy.sh/beatmapsets/422136#osu/1028537)
 - HardRock
-  1. [Utsu-P feat. Kagamine Rin - Tokyo Teddy Bear (Dudamesh) \[Insane\]](https://osu.ppy.sh/beatmapsets/1332820#fruits/2845190)
+  1. [Kano - Kiite (Crysisters) \[Yours\]](https://osu.ppy.sh/beatmapsets/2109902#osu/4428742)
   2. [Chicala Lpis - Blackest Luxury Car (Ongaku) \[vikala's INSANE\]](https://osu.ppy.sh/beatmapsets/1058850#fruits/2589142)
 - DoubleTime
   1. [Itou Masumi - Yume no Naka no Watashi no Yume (RLC) \[Coda\]](https://osu.ppy.sh/beatmapsets/668664#fruits/1414553)
