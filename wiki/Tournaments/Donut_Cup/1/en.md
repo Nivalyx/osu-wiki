@@ -115,10 +115,12 @@ The Donut Cup is run by various osu! community members from all over the world.
 ### Semifinals
 
 - No Mod
-  1. [Wagakki Band - Hanabi (toybot) \[Ex\]](https://osu.ppy.sh/beatmapsets/1214150#fruits/2527026)
-  2. [Eliminate - Walk Away (Tanger Remix) (NKMS) \[Full Flavor\]](https://osu.ppy.sh/beatmapsets/2050980#fruits/4282861)
-  3. [Lunatic Sounds - Drop down (Otosaka-Yu) \[new\]](https://osu.ppy.sh/beatmapsets/1260568#fruits/2659442)
-  4. [Andy Gillion - Insert Coin (-Sylvari) \[8-bit Expert\]](https://osu.ppy.sh/beatmapsets/1842568#fruits/3784708)
+  1. [TrySail - Utsuroi (MiyohashKoori) \[Tragedy\]](https://osu.ppy.sh/beatmapsets/1226653#osu/2982131)
+  2. [Adust rain - Nevxxxxerland feat. Michizane (gazimal) \[Nightmare Essence\]](https://osu.ppy.sh/beatmapsets/1551223#osu/3169925)
+  3. [Luschka - Pseudo (defiance) \[I DON'T CARE.\]](https://osu.ppy.sh/beatmapsets/2047522#osu/4274705)
+  4. [Dr.ReB - Second Warning (nooj) \[AMBER Alert ! San Francisco, CA Abducted Children Last Seen 3PM Wednesday\]](https://osu.ppy.sh/beatmapsets/2063401#osu/4315624)
+  5. [Sorry about my face - Call me with yo (fergas) \[\[ya otpravlus' za toboi\]\]](https://osu.ppy.sh/beatmapsets/1621877#osu/3311312)
+  6. [Silentroom - Aliake (IOException) \[edit\]](https://osu.ppy.sh/beatmapsets/2085977#osu/4659192)
 - Hidden
   1. [TJ.hangneil - Kamui (Cellina) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/2008761#fruits/4184497)
   2. [schwarzekugel - \$trange Attraktor (Alvearia) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/2019997#fruits/4206731)
