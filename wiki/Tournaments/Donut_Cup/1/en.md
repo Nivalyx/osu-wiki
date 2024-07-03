@@ -463,20 +463,57 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 | #22 | miku couch | 22.90 |
 | #23 | Super Team | 23.10 |
 | #24 | 5 goats and SakaIndy | 24.80 |
-| #25 | CS=convert suck | 25.63 |
-| #26 | NZ gamers | 26.38 |
-| #27 | Rhodes Island | 27.00[^qual-note-3] |
-| #28 | Ad Matai Bad | 27.00[^qual-note-3] |
-| #29 | 5 digits | 27.75 |
-| #30 | C𝓔LεNG𓃟β∀L4P | 28.50 |
-| #31 | what is convert | 28.75 |
-| #32 | fuit gummy | 28.88 |
-| #33 | Timezone Issue | 31.13 |
-| #34 | The Team | 34.00 |
-| N/A | Ad Matai | *DNP* |
-| N/A | am nyam | *DNP* |
-| N/A | ditinggal ps3 | *DNP* |
-| N/A | ДШРГ Русичи | *DNP* |
+| #25 | G59 | 25.40 |
+| #26 | wingstop | 28.50 |
+| #27 | crickhard housewife | 29.00 |
+| #28 | WolneMiasto Gdańsk | 29.40 |
+| #29 | 我的哈基米观崩溃了 | 29.90 |
+| #30 | Vivace Osu | 30.90 |
+| #31 | I think we gaem | 31.60 |
+| #32 | Dönerbox A | 31.90 |
+| #33 | LAS GANAS DE COMER | 32.20 |
+| #34 | Des gens sérieux | 32.90 |
+| #35 | Ascaveth Airlines | 33.80 |
+| #36 | first | 34.20 |
+| #37 | L Farmers | 34.90 |
+| #38 | LeJohn James | 35.10 |
+| #39 | Ji Bool Son | 36.40 |
+| #40 | skibidi mareto | 38.40 |
+| #41 | Pudding | 38.50 |
+| #42 | sprinkles on top | 38.70 |
+| #43 | dough NUTT | 39.80 |
+| #44 | casa sasoriosu | 40.30 |
+| #45 | Secret Team | 42.00 |
+| #46 | little munchkins | 42.70 |
+| #47 | You Are My Sunshine | 43.40 |
+| #48 | peepoHappy | 44.40 |
+| #49 | Pink Eye Lovers | 45.90 |
+| #50 | \*[redacted\]* | 46.10 |
+| #51 | Sleepy Time | 46.70 |
+| #52 | makaron my beloved | 47.50 |
+| #53 | TEAM AS TURBY | 52.20 |
+| #54 | play priconne | 52.30 |
+| #55 | гойда | 53.30 |
+| #56 | kk glazed donuts | 54.60 |
+| #57 | catpiss | 55.90 |
+| #58 | Thug Aim | 56.30 |
+| #59 | cat band | 56.60 |
+| #60 | Songinator | 57.60 |
+| #61 | MAKCOH | 57.70 |
+| #62 | chlpy na bradavkach | 57.90 |
+| #63 | Gone Mad | 59.10 |
+| #64 | Assalamualaikum | 59.30 |
+| #65 | IIIAIIILb1C | 59.30 |
+| #66 | Hallo? | 59.40 |
+| #67 | whatever zebedee comes up with | 60.20 |
+| #68 | Refugee Camp | 64.70 |
+| #69 | TITANIC HUBERT | 65.70 |
+| #70 | \#bolsonaro2026 | 67.30 |
+| #71 | fanclub de martin | 69.50 |
+| #72 | good luck have fumo | 69.70 |
+| #73 | ochkovo91d0r | 70.50 |
+| #74 | Goku Mondongo | 72.40 |
+| #75 | BARRA BRAVA HUACHIPATO | 74.60 |
 
 ## Ruleset
 
