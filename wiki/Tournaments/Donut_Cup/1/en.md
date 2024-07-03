@@ -488,7 +488,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 | #47 | You Are My Sunshine | 43.40 |
 | #48 | peepoHappy | 44.40 |
 | #49 | Pink Eye Lovers | 45.90 |
-| #50 | \*[redacted\]* | 46.10 |
+| #50 | *\[redacted\]* | 46.10 |
 | #51 | Sleepy Time | 46.70 |
 | #52 | makaron my beloved | 47.50 |
 | #53 | TEAM AS TURBY | 52.20 |
