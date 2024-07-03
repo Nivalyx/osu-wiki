@@ -593,3 +593,4 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 [^stage-note-1]: Also referred to as "Friend" stage on the tournament.
 [^stage-note-2]: Also referred to as "Girl Friend" stage on the tournament.
+[^qual-note-1]: Average score across all ten Qualifier beatmaps: Square Hector Berlioz 1,655,815, Oregono State University 1,624,806.
