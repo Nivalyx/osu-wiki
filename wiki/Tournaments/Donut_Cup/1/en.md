@@ -508,9 +508,12 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 ### General rules
 
-1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
+1. Match lobbies across the tournament will adhere to the following room settings:
+   - Team Mode: `Team VS` (3v3)
+   - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
+   - Reschedules have to be done at least 24 hours before the scheduled match time in order to be considered valid.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a team does not show up or is unable to field in a sizeable 2v2 roster within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
