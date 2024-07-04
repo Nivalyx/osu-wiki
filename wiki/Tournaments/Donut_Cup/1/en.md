@@ -579,10 +579,10 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 3. Each team will be given a chance to pick **one warm-up beatmap** (up to 4:30 max) to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to. 
 4. In a Free Mod pick, each team has to field **at least two different mod combinations** to play the beatmap with.
-   - The MixedMod pool will be played with FreeMod activated.
-   - During a MixedMod pick, one player from each team will have to play the map with the Hidden mod activated, while the other player will have to play with either HardRock or Hidden+HardRock under their belt.
+   - Playing the map with No Mod is allowed, but doing so doesn't add up to the tally of different mod combinations.
+   - Hard Rock and Hidden + Hard Rock counts as the same mod combination.
    - There are no bonus score multipliers for players who are playing with either Easy or Flashlight.
-6. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with Hidden, HardRock, or Hidden+HardRock should they wish to.
+6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
