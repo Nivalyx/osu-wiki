@@ -422,24 +422,25 @@ Sunday, 10 December 2023:
 
 ### Round of 32
 
-Thursday, 30 November 2023:
+Friday, June 7 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **roflcopter** | **5** | 0 | ban mods | [#1](https://osu.ppy.sh/community/matches/111509501) |
+| Upper | **Wait I'm Floated** | **5** | 4 | miku couch | [#1](https://osu.ppy.sh/community/matches/114198130) |
+| Upper | **Bakery** | **5** | 0 | Super Team | [#1](https://osu.ppy.sh/community/matches/114194222) |
 
-Saturday, 2 December 2023:
+Saturday, 8 June 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **kururin spin** | **5** | 0 | SUNBOY | [#1](https://osu.ppy.sh/community/matches/111539753) |
-| Upper | TAG4 | 1 | **5** | **꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂** | [#1](https://osu.ppy.sh/community/matches/111539733) |
-| Upper | **Korean PC** | **5** | 1 | fuit gummy | [#1](https://osu.ppy.sh/community/matches/111538870) |
-| Upper | **DreStarkari** | **5** | 0 | Rhodes Island | [#1](https://osu.ppy.sh/community/matches/111539836) |
-| Upper | **flag issue** | **5** | 0 | plz dont ban DT | [#1](https://osu.ppy.sh/community/matches/111539151) |
-| Upper | **4DIGITS RISE UP** | **5** | 0 | TATAPCTAH | [#1](https://osu.ppy.sh/community/matches/111540713) |
-| Upper | **CTB RAIMON** | **5** | 1 | Ad Matai Bad | [#1](https://osu.ppy.sh/community/matches/111543836) |
-| Upper | **Capoo so cute** | **5** | 0 | 5 digits | [#1](https://osu.ppy.sh/community/matches/111542828) |
+| Upper | water tribe | 4 | **5** | **wingstop** | [#1](https://osu.ppy.sh/community/matches/114209585) |
+| Upper | **No title** | **5** | 0 | Dönerbox A | [#1](https://osu.ppy.sh/community/matches/111538870) |
+| Upper | Dough Getters | 2 | **5** | **Bagel** | [#1](https://osu.ppy.sh/community/matches/114209207) |
+| Upper | **groundhog fanclub** | **5** | 1 | 5 goats and SakaIndy | [#1](https://osu.ppy.sh/community/matches/114208697) |
+| Upper | 13UTCDFLT=KIL | 0 | **5** | **Square Hector Berlioz** | [#1](https://osu.ppy.sh/community/matches/114210327) |
+| Upper | **arujidonut** | **5** | 1 | Oregano State University | [#1](https://osu.ppy.sh/community/matches/114202854) |
+| Upper | **JustForFun** | **5** | 2 | WolneMiasto Gdańsk | [#1](https://osu.ppy.sh/community/matches/114206302) |
+| Upper | **YOSHIMOBIL** | **5** | 0 | Vivace Osu | [#1](https://osu.ppy.sh/community/matches/114212196) |
 
 Sunday, 3 December 2023:
 
