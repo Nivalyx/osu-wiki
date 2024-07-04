@@ -530,7 +530,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 1. In order to participate, players are required to form a team of around 4–6 players and register into the tournament as a team through [this form](https://forms.gle/1EoZ7GF8mrSaQ7pG7).
    - Each player on the team have to be ranked #1,000 or lower globally after [badge-weighted seeding (BWS) calculations](/wiki/Tournaments/Badge-weighted_seeding) at the end of the registration period in order for the team to be eligible.
-   - The tournament s. Details on this system can be found [on this document](https://docs.google.com/document/d/1FWQdDcTbiCzijoE-cU0pj6r--gZzv0N3vD0_a49u6yA/edit#heading=h.fh2l58wew9t8).
+   - The tournament specifically employs a new, modified "badge decay system" that takes into account the age of each badge in its BWS calculations. Details on this system can be found [on this document](https://docs.google.com/document/d/1FWQdDcTbiCzijoE-cU0pj6r--gZzv0N3vD0_a49u6yA/edit#heading=h.fh2l58wew9t8).
 2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
    - Teams are encouraged to choose their names carefully. The tournament management is not responsible for any repercussions that may arise from team names.
 3. Team captains are required to be present at the tournament's [Discord server]((https://discord.gg/Tr9ZC97rwv)) as long as their team are still playing in the tournament.
