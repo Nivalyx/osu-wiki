@@ -577,7 +577,9 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - The bans will be done alternatingly (A–B–A–B) between the two teams.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. Each team will be given a chance to pick **one warm-up beatmap** (up to 4:30 max) to be played in the lobby.
-   - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to. 
+   - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
+3. Teams are expected to exercise common sense in pick time windows.
+   - If a team is unable to come up with a pick within a 90–second time window of their picking turn, the pick will be given to the other team.    
 4. In a Free Mod pick, each team has to field **at least two different mod combinations** to play the beatmap with.
    - No Mod doesn't count as an unique mod combination.
    - Hard Rock and Hidden + Hard Rock counts as the same mod combination.
