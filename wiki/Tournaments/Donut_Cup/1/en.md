@@ -325,6 +325,9 @@ Sunday, 30 June 2024:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | crying right now | 3 | **6** | **YOSHIMOBIL** | [#1](https://osu.ppy.sh/community/matches/114497785) |
+| Lower | mooshu | 5 | **6** | **foreign talent** | [#1](https://osu.ppy.sh/community/matches/114497077) |
+| Lower | arujidonut | 4 | **6** | **gwk's team** | [#1](https://osu.ppy.sh/community/matches/114497678) |
+| Upper | **No title** | **6** | 5 | JustForFun | [#1](https://osu.ppy.sh/community/matches/114498352) |
 
 ### Quarterfinals
 
