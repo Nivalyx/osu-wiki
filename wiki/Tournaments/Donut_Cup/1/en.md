@@ -573,7 +573,8 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each team has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
+2. Each team has to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
+   - The bans will be done alternatingly between the two teams (A–B–A–B).
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. Each team will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to. 
