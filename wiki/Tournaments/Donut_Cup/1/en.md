@@ -574,14 +574,14 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
 2. Each team has to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
-   - The bans will be done alternatingly between the two teams (A–B–A–B).
+   - The bans will be done alternatingly (A–B–A–B) between the two teams.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
-3. Each team will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
+3. Each team will be given a chance to pick **one warm-up beatmap** (up to 4:30 max) to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to. 
-4. Excluding the Qualifiers, each stage of the tournament will feature a **MixedMod pool** that goes as follows:
+4. In a Free Mod pick, each team has to field **at least two different mod combinations** to play the beatmap with.
    - The MixedMod pool will be played with FreeMod activated.
    - During a MixedMod pick, one player from each team will have to play the map with the Hidden mod activated, while the other player will have to play with either HardRock or Hidden+HardRock under their belt.
-5. When playing a map from the HardRock or DoubleTime pool, the Hidden modification may be optionally used by any player.
+   - There are no bonus score multipliers for players who are playing with either Easy or Flashlight.
 6. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with Hidden, HardRock, or Hidden+HardRock should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
