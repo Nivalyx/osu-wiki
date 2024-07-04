@@ -515,7 +515,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
    - Reschedules have to be done at least 24 hours before the scheduled match time in order to be considered valid.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-5. If a team does not show up or is unable to field in a sizeable 2v2 roster within **10 minutes** of the start time, their opponent wins by default.
+5. If a team does not show up or is unable to field in a sizeable 3v3 roster within **15 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap.
@@ -528,7 +528,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 ### Tournament registration
 
-1. In order to participate, players are required to form a team and register into the tournament as a team through [this form](https://forms.gle/1EoZ7GF8mrSaQ7pG7).
+1. In order to participate, players are required to form a team of around 4–6 players and register into the tournament as a team through [this form](https://forms.gle/1EoZ7GF8mrSaQ7pG7).
    - Each team is required to have least one player from [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania) in their roster.
    - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extends to the Asian continent are considered as a part of Asia.
 2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
