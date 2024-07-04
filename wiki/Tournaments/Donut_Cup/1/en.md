@@ -529,7 +529,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 ### Tournament registration
 
 1. In order to participate, players are required to form a team of around 4–6 players and register into the tournament as a team through [this form](https://forms.gle/1EoZ7GF8mrSaQ7pG7).
-   - Each team is required to have least one player from [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania) in their roster.
+   - Each player on the team have to be ranked #1,000 or lower globally after [badge-weighted seeding (BWS) calculations](/wiki/Tournaments/Badge-weighted_seeding) in order for the team to be eligible to play.
    - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extends to the Asian continent are considered as a part of Asia.
 2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
    - Teams are encouraged to choose their names carefully. The tournament management is not responsible for any repercussions that may arise from team names.
