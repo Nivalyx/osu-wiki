@@ -417,7 +417,12 @@ Sunday, 16 June 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Vivace Osu | 0 | **5** | **gwk's team** | [#1](https://osu.ppy.sh/community/matches/114292774) |
+| Lower | Dönerbox A | 1 | **5** | **Dough Getters** | [#1](https://osu.ppy.sh/community/matches/114319520) |
+| Upper | **mooshu** | **5** | 1 | Square Hector Berlioz | [#1](https://osu.ppy.sh/community/matches/114316818) |
+| Lower | **我的哈基米观崩溃了** | **5** | 4 | 13UTCDFLT=KIL | [#1](https://osu.ppy.sh/community/matches/114317675) |
+| Upper | **YOSHIMOBIL** | **5** | 4 | Beesechurgers | [#1](https://osu.ppy.sh/community/matches/114319561) |
+| Upper | wingstop | 0 | **5** | **Bakery** | [#1](https://osu.ppy.sh/community/matches/114314063) |
+| Lower | **WolneMiasto Gdańsk** | **5** | 0 | Oregano State University | *win by default* |
 
 ### Round of 32
 
