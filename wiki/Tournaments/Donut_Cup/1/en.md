@@ -422,7 +422,7 @@ Sunday, 16 June 2024:
 | Lower | **我的哈基米观崩溃了** | **5** | 4 | 13UTCDFLT=KIL | [#1](https://osu.ppy.sh/community/matches/114317675) |
 | Upper | **YOSHIMOBIL** | **5** | 4 | Beesechurgers | [#1](https://osu.ppy.sh/community/matches/114319561) |
 | Upper | wingstop | 0 | **5** | **Bakery** | [#1](https://osu.ppy.sh/community/matches/114314063) |
-| Lower | **WolneMiasto Gdańsk** | **5** | 0 | Oregano State University | *win by default* |
+| Lower | WolneMiasto Gdańsk | 0 | **5** | **Oregano State University** | *win by default* |
 
 ### Round of 32
 
@@ -455,7 +455,7 @@ Sunday, 9 June 2024:
 | Upper | **mooshu** | **5** | 4 | 我的哈基米观崩溃了 | [#1](https://osu.ppy.sh/community/matches/114223160) |
 | Upper | **old goats** | **5** | 3 | donut | [#1](https://osu.ppy.sh/community/matches/114227470) |
 | Upper | **Beesechurger** | **5** | 2 | gwk's team | [#1](https://osu.ppy.sh/community/matches/114224862) |
-| Upper | crying right now | 0 | **5** | **i think we gaem** | *win by default* |
+| Upper | **crying right now** | **5** | 0 | i think we gaem | *win by default* |
 
 ### Qualifiers
 
