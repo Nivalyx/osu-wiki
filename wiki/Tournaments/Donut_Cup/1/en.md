@@ -361,17 +361,19 @@ Monday, 8 January 2024:
 
 ### Quarterfinals
 
-Saturday, 16 December 2023:
+Saturday, 22 June 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **flag issue** | **6** | 0 | Degens, truly | [#1](https://osu.ppy.sh/community/matches/111753136) |
-| Lower | **draft issue** | **6** | 5 | plz dont ban DT | [#1](https://osu.ppy.sh/community/matches/111747366) |
-| Lower | **AMQ Player** | **6** | 1 | TATAPCTAH | [#1](https://osu.ppy.sh/community/matches/111746801) |
-| Lower | **4DIGITS RISE UP** | **6** | 1 | Samurai Team | [#1](https://osu.ppy.sh/community/matches/111749926) |
-| Lower | **kururin spin** | **6** | 0 | NZ Gamers | [#1](https://osu.ppy.sh/community/matches/111748430) |
-| Lower | **Ateshiiii** | **6** | 0 | TAG4 | *win by default* |
-| Lower | **roflcopter** | **6** | 0 | SUNBOY | *win by default* |
+| Upper | **Crying right now** | **6** | 1 | Bakery | [#1](https://osu.ppy.sh/community/matches/114394763) |
+| Lower | groundhog fanclub | 5 | **6** | **gwk's team** | [#1](https://osu.ppy.sh/community/matches/114396164) |
+| Lower | Wait I'm Floated | 4 | **6** | **Dough Getters** | [#1](https://osu.ppy.sh/community/matches/114398072) |
+| Lower | Square Hector Berlioz | 3 | **6** | **water tribe** | [#1](https://osu.ppy.sh/community/matches/114399337) |
+| Lower | Bagel | 4 | **6** | **crickhard housewife** | [#1](https://osu.ppy.sh/community/matches/114394590) |
+| Lower | **arujidonut** | **6** | 1 | donut | [#1](https://osu.ppy.sh/community/matches/114395056) |
+| Lower | wingstop | 4 | **6** | **我的哈基米观崩溃了** | [#1](https://osu.ppy.sh/community/matches/114394568) |
+| Lower | **Beesechurger** | **6** | 1 | 5 goats and SakaIndy | [#1](https://osu.ppy.sh/community/matches/114396726) |
+| Lower | **old goats** | **6** | 0 | Oregano State University | [#1](https://osu.ppy.sh/community/matches/114399273) |
 
 Sunday, 17 December 2023:
 
