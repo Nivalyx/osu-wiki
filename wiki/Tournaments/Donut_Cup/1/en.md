@@ -306,13 +306,19 @@ The Donut Cup is run by various osu! community members from all over the world.
 
 ### Semifinals
 
-Saturday, 6 January 2024:
+Friday, 28 June 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Polanezja | 5 | **6** | **roflcopter** | [#1](https://osu.ppy.sh/community/matches/112080315) |
-| Lower | **We hate convert** | **6** | 4 | 4DIGITS RISE UP | [#1](https://osu.ppy.sh/community/matches/112080291) |
-| Lower | **eurasia mid seed** | **6** | 0 | draft issue | *win by default* |
+| Lower | **foreign talent** | **6** | 0 | old goats | [#1](https://osu.ppy.sh/community/matches/114471897) |
+
+Saturday, 29 June 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Paper Factory | 3 | **6** | **arujidonut** | [#1](https://osu.ppy.sh/community/matches/114485287) |
+| Lower | **mooshu** | **6** | 1 | Beesechurger | [#1](https://osu.ppy.sh/community/matches/114484456) |
+| Lower | Bakery | 0 | **6** | **gwk's team** | *win by default* |
 
 Sunday, 7 January 2024:
 
@@ -322,12 +328,6 @@ Sunday, 7 January 2024:
 | Lower | **Capoo so cute** | **6** | 0 | AMQ Player | [#1](https://osu.ppy.sh/community/matches/112094333) |
 | Upper | **Korean PC** | **6** | 3 | CTB RAIMON | [#1](https://osu.ppy.sh/community/matches/112094244) |
 | Lower | **Capoo so cute** | **6** | 1 | roflcopter | [#1](https://osu.ppy.sh/community/matches/112095497) |
-
-Monday, 8 January 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | eurasia mid seed | 5 | **6** | **We hate convert** | [#1](https://osu.ppy.sh/community/matches/112095513) |
 
 ### Quarterfinals
 
