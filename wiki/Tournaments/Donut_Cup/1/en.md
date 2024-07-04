@@ -442,17 +442,16 @@ Saturday, 8 June 2024:
 | Upper | **JustForFun** | **5** | 2 | WolneMiasto Gdańsk | [#1](https://osu.ppy.sh/community/matches/114206302) |
 | Upper | **YOSHIMOBIL** | **5** | 0 | Vivace Osu | [#1](https://osu.ppy.sh/community/matches/114212196) |
 
-Sunday, 3 December 2023:
+Sunday, 9 June 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **AMQ Player** | **5** | 3 | Samurai Team | [#1](https://osu.ppy.sh/community/matches/111558516) |
-| Upper | **Polanezja** | **5** | 1 | CS=convert suck | [#1](https://osu.ppy.sh/community/matches/111559351) |
-| Upper | **converts ec** | **5** | 0 | what is convert | [#1](https://osu.ppy.sh/community/matches/111559351) |
-| Upper | **Ateshiiii** | **5** | 0 | Signal Graph | [#1](https://osu.ppy.sh/community/matches/111562787) |
-| Upper | **eurasia mid seed** | **5** | 0 | C𝓔LεNG𓃟β∀L4P | [#1](https://osu.ppy.sh/community/matches/111559406) |
-| Upper | **draft issue** | **5** | 0 | Degens, truly | [#1](https://osu.ppy.sh/community/matches/111560269) |
-| Upper | **We hate convert** | **5** | 0 | NZ Gamers | [#1](https://osu.ppy.sh/community/matches/111557287) |
+| Upper | **Paper Factory** | **5** | 4 | crickhard housewife | [#1](https://osu.ppy.sh/community/matches/114228288) |
+| Upper | **foreign talent** | **5** | 0 | G59 | [#1](https://osu.ppy.sh/community/matches/114224052) |
+| Upper | **mooshu** | **5** | 4 | 我的哈基米观崩溃了 | [#1](https://osu.ppy.sh/community/matches/114223160) |
+| Upper | **old goats** | **5** | 3 | donut | [#1](https://osu.ppy.sh/community/matches/114227470) |
+| Upper | **Beesechurger** | **5** | 2 | gwk's team | [#1](https://osu.ppy.sh/community/matches/114224862) |
+| Upper | crying right now | 0 | **5** | **i think we gaem** | *win by default* |
 
 ### Qualifiers
 
