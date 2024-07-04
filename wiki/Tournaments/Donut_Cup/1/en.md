@@ -579,7 +579,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 3. Each team will be given a chance to pick **one warm-up beatmap** (up to 4:30 max) to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to. 
 4. In a Free Mod pick, each team has to field **at least two different mod combinations** to play the beatmap with.
-   - Playing the map with No Mod is allowed, but doing so doesn't add up to the tally of different mod combinations.
+   - No Mod doesn't count as an unique mod combination.
    - Hard Rock and Hidden + Hard Rock counts as the same mod combination.
    - There are no bonus score multipliers for players who are playing with either Easy or Flashlight.
 6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
