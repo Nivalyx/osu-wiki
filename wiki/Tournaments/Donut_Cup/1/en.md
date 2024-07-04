@@ -394,31 +394,30 @@ Monday, 18 December 2023:
 
 ### Round of 16
 
-Saturday, 9 December 2023:
+Friday, 14 June 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | fuit gummy | 1 | **5** | **TAG4** | [#1](https://osu.ppy.sh/community/matches/111642904) |
-| Upper | **Polanezja** | **5** | 0 | 4DIGITS RISE UP | [#1](https://osu.ppy.sh/community/matches/111644023) |
-| Lower | CS=convert suck | 0 | **5** | **TATAPCTAH** | [#1](https://osu.ppy.sh/community/matches/111645018) |
-| Lower | **NZ gamers** | **5** | 1 | ban mods | [#1](https://osu.ppy.sh/community/matches/111639502) |
-| Lower | Ad Matai Bad | 2 | **5** | **Degens, truly** | [#1](https://osu.ppy.sh/community/matches/111642058) |
-| Upper | **Capoo so cute** | **5** | 0 | kururin spin | [#1](https://osu.ppy.sh/community/matches/111644060) |
-| Lower | 5 digits | 0 | **5** | **SUNBOY** | [#1](https://osu.ppy.sh/community/matches/111645003) |
-| Upper | **DreStarkari** | **5** | 1 | Ateshiiii | [#1](https://osu.ppy.sh/community/matches/111642913) |
+| Lower | Vivace Osu | 0 | **5** | **gwk's team** | [#1](https://osu.ppy.sh/community/matches/114292774) |
+| Upper | **No title** | **5** | 4 | Bagel | [#1](https://osu.ppy.sh/community/matches/114288167) |
+| Lower | G59 | 1 | **5** | **5 goats and SakaIndy** | [#1](https://osu.ppy.sh/community/matches/114288838) |
 
-Sunday, 10 December 2023:
+Saturday, 15 June 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Rhodes Island | 0 | **5** | **Signal Graph** | [#1](https://osu.ppy.sh/community/matches/111663743) |
-| Upper | **We hate convert** | **5** | 2 | roflcopter | [#1](https://osu.ppy.sh/community/matches/111660942) |
-| Upper | **eurasia mid seed** | **5** | 2 | AMQ Player | [#1](https://osu.ppy.sh/community/matches/111661744) |
-| Lower | C𝓔LεNG𓃟β∀L4P | 0 | **5** | **Samurai Team** | [#1](https://osu.ppy.sh/community/matches/111659707) |
-| Upper | **CTB RAIMON** | **5** | 2 | draft issue | [#1](https://osu.ppy.sh/community/matches/111658881) |
-| Lower | what is convert | 0 | **5** | **plz dont ban DT** | [#1](https://osu.ppy.sh/community/matches/111659707) |
-| Upper | **Korean PC** | **5** | 0 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | [#1](https://osu.ppy.sh/community/matches/111655306) |
-| Upper | **converts ec** | **5** | 2 | flag issue | [#1](https://osu.ppy.sh/community/matches/111661735) |
+| Lower | **crickhard housewife** | **5** | 4 | miku couch | [#1](https://osu.ppy.sh/community/matches/114303887)) |
+| Upper | **Paper Factory** | **5** | 2 | Wait I'm Floated | [#1](https://osu.ppy.sh/community/matches/114303886) |
+| Upper | **JustForFun** | **5** | 3 | arujidonut | [#1](https://osu.ppy.sh/community/matches/114297392) |
+| Upper | **foreign talent** | **5** | 2 | groundhog fanclub | [#1](https://osu.ppy.sh/community/matches/114301591) |
+| Upper | **crying right now** | **5** | 1 | old goats | [#1](https://osu.ppy.sh/community/matches/114302248) |
+| Lower | **water tribe** | **5** | 1 | Super Team | [#1](https://osu.ppy.sh/community/matches/114300936) |
+
+Sunday, 16 June 2024:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Vivace Osu | 0 | **5** | **gwk's team** | [#1](https://osu.ppy.sh/community/matches/114292774) |
 
 ### Round of 32
 
