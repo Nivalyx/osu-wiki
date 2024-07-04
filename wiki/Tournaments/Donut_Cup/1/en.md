@@ -320,14 +320,11 @@ Saturday, 29 June 2024:
 | Lower | **mooshu** | **6** | 1 | Beesechurger | [#1](https://osu.ppy.sh/community/matches/114484456) |
 | Lower | Bakery | 0 | **6** | **gwk's team** | *win by default* |
 
-Sunday, 7 January 2024:
+Sunday, 30 June 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **converts ec** | **6** | 0 | DreStarkari | [#1](https://osu.ppy.sh/community/matches/112096182) |
-| Lower | **Capoo so cute** | **6** | 0 | AMQ Player | [#1](https://osu.ppy.sh/community/matches/112094333) |
-| Upper | **Korean PC** | **6** | 3 | CTB RAIMON | [#1](https://osu.ppy.sh/community/matches/112094244) |
-| Lower | **Capoo so cute** | **6** | 1 | roflcopter | [#1](https://osu.ppy.sh/community/matches/112095497) |
+| Upper | crying right now | 3 | **6** | **YOSHIMOBIL** | [#1](https://osu.ppy.sh/community/matches/114497785) |
 
 ### Quarterfinals
 
