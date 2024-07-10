@@ -159,7 +159,3 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
 6. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with Hidden, HardRock, or Hidden+HardRock should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
-
-[^qual-note-1]: Average score across all eight Qualifier beatmaps: CTB RAIMON 1,903,488, DreStarkari 1,892,753.
-[^qual-note-2]: Average score across all eight Qualifier beatmaps: Signal Graph 1,613,901, Ban Mods 1,608,756.
-[^qual-note-3]: Average score across all eight Qualifier beatmaps: Rhodes Island 1,516,625, Ad Matai Bad 1,506,365.
