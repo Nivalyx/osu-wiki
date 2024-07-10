@@ -8,30 +8,29 @@ tags:
 
 ![Catch the Beat Indonesia Cup Open 2024 logo](img/logo.png)
 
-The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a double-elimination 2v2 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) in which all the beatmaps were [converts from the osu! game mode](/wiki/Beatmap/Converts). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first event to be held under the Convert Cup Open branding, the tournament was considered an expansion of the previously held [Indonesia Convert Cup](/wiki/Tournaments/ICC) series.
+The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) is a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), and ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157). Despite its name, the tournament is open to all players from Asia and Oceania with a global rank of #100,000 or higher in the osu!catch game mode. It is the twelfth iteration of the Catch the Beat Indonesia Cup, as well as the second one to be held under the "Open" format.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-10-29/2023-11-05 |
-| Screening phase | 2023-11-06/2023-11-19 |
-| Qualifiers | 2023-11-20/2023-11-26 |
-| Round of 32 | 2023-11-27/2023-12-03 |
-| Round of 16 | 2023-12-04/2023-12-10 |
-| Quarterfinals | 2023-12-11/2023-12-17 |
-| *Winter break* | 2023-12-18/2023-12-31 |
-| Semifinals | 2024-01-01/2024-01-07 |
-| Finals (week 1) | 2024-01-08/2024-01-14 |
-| Finals (week 2) | 2024-01-15/2024-01-22 |
+| Registration phase | 2024-06-13/2024-06-26 |
+| Screening phase | 2024-06-27/2024-07-07 |
+| Qualifiers | 2024-07-08/2024-07-14 |
+| Round of 32 | 2024-07-15/2024-07-21 |
+| Round of 16 | 2024-07-22/2024-07-28 |
+| Quarterfinals | 2024-07-29/2024-08-04 |
+| Semifinals | 2024-08-04/2024-08-11 |
+| Finals (week 1) | 2024-08-12/2024-08-18 |
+| Finals (week 2) | 2024-08-19/2024-08-25 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter for each team member, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, *more to be announced* |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *To be announced* |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *To be announced* |
 
 ![](img/badge.jpg "o!cCO 2023 winner badge")
 
