@@ -53,10 +53,10 @@ The Catch the Beat Indonesia Cup Open 2024 is run by various osu! community memb
 
 ## Links
 
-- **[Official website](https://wybin.xyz/tournaments/o!c-convert-open-2023/home)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1838266)
-- [Discord server](https://discord.gg/PDVF3tbhY8)
-- [Challonge brackets](https://challonge.com/OCCO2023)
+- **[Official website](https://wybin.xyz/tournaments/catch-indonesia-cup-open-2024)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1930762)
+- [Discord server](https://discord.gg/YwAYbPa)
+- [Challonge brackets](https://challonge.com/CICO2024)
 - [Livestream channel](https://www.twitch.tv/osucatchid)
 
 ## Participants
