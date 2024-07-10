@@ -106,7 +106,7 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
 ### Tournament registration
 
 1. In order to participate, players are required to register into the tournament through [the tournament's website](https://wybin.xyz/tournaments/catch-indonesia-cup-open-2024/home).
-   - Each player is required to be based in [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania).
+   - Each player is required to be geographically based in the [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania) region.
    - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extends to the Asian continent are considered as a part of Asia.
 2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
    - Team names may not violate the [osu! community rules](/wiki/Rules#community-rules).
