@@ -111,36 +111,36 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
    - Each player is required to be geographically based in or around the [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania) region.
    - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extends to the Asian continent are considered as a part of Asia.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
-3. The list of player who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Round-specific rules
 
 #### Qualifier rules
 
-1. Each team will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
-2. In the lobby, all teams will have to consecutively play all of the eight Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
-3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
-4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, teams will be ranked based on their average rank combined from each individual Qualifier beatmaps.
-6. 32 teams with the **highest average rank** according to the above criteria will advance to the knock-out stages.
-   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all eight Qualifier beatmaps.
+1. Each player will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
+2. In the lobby, all players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> EZ1.
+3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
+4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
+5. Based on their performance in the Qualifier, players will be ranked based on their average rank combined from each individual Qualifier beatmaps.
+6. 32 players with the **highest average rank** according to the above criteria will advance to the knock-out stages.
+   - If there are two (or more) players that share the same average rank, the players will be ordered based on their average score across all eight Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
 
-1. The 32 teams who got through from the Qualifiers will be matched against each other based on their Qualifier seeding (e.g. Seed #1 vs. Seed #32, Seed #2 vs. Seed #31, and so on).
-2. Teams will compete against each other using the double-elimination system.
+1. The 32 players who got through from the Qualifiers will be matched against each other based on their Qualifier seeding (e.g. Seed #1 vs. Seed #32, Seed #2 vs. Seed #31, and so on).
+2. Players will compete against each other using the double-elimination system.
 3. The double-elimination system works as follows:
-   - Teams who lose in the upper bracket can still play again in the lower bracket.
-   - Teams who lose in the lower bracket will be eliminated from the tournament.
+   - Players who lose in the upper bracket can still play again in the lower bracket.
+   - Players who lose in the lower bracket will be eliminated from the tournament.
    - In the Grand Final, the winner of the the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
-4. Teams who can compete in the next round are determined by:
-   - In the Round of 32 and the Round of 16, each team needs to win 5 points in order to win a match. (Best of 9)
-   - In the Quarterfinals and the Semifinals, each team needs to win 6 points in order to win a match. (Best of 11)
-   - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best of 13)
-   - Whether there are teams who are declared to win the match by default.
-   - Whether there are teams who are disqualified from the tournament.
+4. Players who can compete in the next round are determined by:
+   - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
+   - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
+   - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
+   - Whether there are players who are declared to win the match by default.
+   - Whether there are players who are disqualified from the tournament.
 
 ### Match regulations
 
@@ -148,14 +148,13 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each team has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
+2. Each player has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
-3. Each team will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
-   - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to. 
-4. Excluding the Qualifiers, each stage of the tournament will feature a **MixedMod pool** that goes as follows:
-   - The MixedMod pool will be played with FreeMod activated.
-   - During a MixedMod pick, one player from each team will have to play the map with the Hidden mod activated, while the other player will have to play with either HardRock or Hidden+HardRock under their belt.
+3. Each player will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
+   - Playing a warm-up beatmap is not mandatory, and players may elect to skip their warm-up pick should they wish to. 
+4. Maps from the same mod pool **may not be picked twice in a row**.
+   - For example, following a NM1 pick, the next player picking may not pick another map from the No Mod pool.
 5. When playing a map from the HardRock or DoubleTime pool, the Hidden modification may be optionally used by any player.
-6. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with Hidden, HardRock, or Hidden+HardRock should they wish to.
+6. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
