@@ -102,7 +102,7 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
 9. Lag is not a valid reason to nullify a beatmap.
 10. If any problems during the match occur, the tournament management will make a decision based on the referee's report.
 11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
-    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player or their team may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the tournament management.
+    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the tournament management.
     - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
 ### Tournament registration
@@ -144,11 +144,11 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
 
 ### Match regulations
 
-1. Prior to starting the match, representatives from each team must run the `!roll` command in order to determine the banning and picking order.
+1. Prior to starting the match, representatives from each player must run the `!roll` command in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
+2. Each player has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. Each player will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and players may elect to skip their warm-up pick should they wish to. 
