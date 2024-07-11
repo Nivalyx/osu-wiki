@@ -98,7 +98,7 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap.
-   - A beatmap can be replayed for disconnects that occur within a few seconds after it has been started by the referee.
+   - A beatmap can be replayed for disconnects that occur within 30 seconds after it has been started or prior to 25% of its completion.
 9. Lag is not a valid reason to nullify a beatmap.
 10. If any problems during the match occur, the tournament management will make a decision based on the referee's report.
 11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
@@ -123,7 +123,7 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their **total %MAX value** aggregated from each individual Qualifier beatmap.
-   - The %MAX value for a beatmap is calculated according to the following equation: `%MAX = (Player Score / Max. Achievable Score on Map)`
+   - The %MAX value for a beatmap is calculated according to the following equation: `%MAX = (Player Score / Max. Achievable Score)`
 6. 32 players with the **highest total %MAX value** according to the above criteria will advance to the knock-out stages.
    - If there are two (or more) players that share the same total %MAX value, the players will be ordered based on their average score across all ten Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
