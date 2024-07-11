@@ -122,10 +122,10 @@ The complete sign-up list can be found [here](https://wybin.xyz/tournaments/catc
 2. In the lobby, all players will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> EZ1.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their **total %MAX value** aggregated from each individual Qualifier beatmaps.
+5. Based on their performance in the Qualifier, players will be ranked based on their **total %MAX value** aggregated from each individual Qualifier beatmap.
    - The %MAX value for each beatmap is calculated as follows: `%MAX = (Player Score / Max. Achievable Score on Map)`
 6. 32 players with the **highest total %MAX value** according to the above criteria will advance to the knock-out stages.
-   - If there are two (or more) players that share the same total %MAX value, the players will be ordered based on their average score across all eight Qualifier beatmaps.
+   - If there are two (or more) players that share the same total %MAX value, the players will be ordered based on their average score across all ten Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
