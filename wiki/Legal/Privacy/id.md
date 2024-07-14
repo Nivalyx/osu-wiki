@@ -24,7 +24,7 @@ Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan m
 
 ### Saat mendaftarkan akun
 
-Walaupun layanan kami dapat digunakan secara terbatas tanpa akun, sering kalinya para pengguna diharuskan untuk mendaftarkan akun untuk dapat menggunakan layanan tertentu. Pada saat mendaftarkan akun, kami menyimpan
+Walaupun fungsi tertentu dapat digunakan secara terbatas tanpa adanya akun, sering kalinya para pengguna diharuskan untuk mendaftarkan akun demi menggunakan layanan tertentu. Pada saat mendaftarkan akun, kami menyimpan
 
 - Nama pengguna Anda
 - Alamat email Anda
