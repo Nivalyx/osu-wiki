@@ -35,12 +35,12 @@ Kecuali nama pengguna dan negara Anda, informasi pribadi ini tidak akan pernah d
 
 ### Saat memperbarui profil Anda
 
-Pada saat menyusun profil pengguna milik Anda (yang dapat dilihat oleh seluruh pengguna lainnya), Anda dapat menyertakan informasi berikut
+Pada saat menyusun profil pengguna milik Anda (yang dapat dilihat oleh seluruh pengguna lainnya), Anda dapat menyertakan informasi berupa
 
 - Lokasi Anda saat ini
 - Minat Anda
 - Pekerjaan Anda
-- Akun-akun media sosial yang Anda miliki (twitter, discord, skype, situs web)
+- Presensi media sosial Anda (twitter, discord, skype, situs web)
 - Avatar dan sampul profil Anda
 - Tanda tangan Anda
 
