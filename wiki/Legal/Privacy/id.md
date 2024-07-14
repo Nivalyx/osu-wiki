@@ -24,7 +24,7 @@ Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan m
 
 ### Saat mendaftarkan akun
 
-Walaupun fungsi tertentu dapat digunakan secara terbatas tanpa adanya akun, sering kalinya para pengguna diharuskan untuk mendaftarkan akun demi menggunakan layanan tertentu. Pada saat mendaftarkan akun, kami menyimpan
+Walaupun fungsi tertentu dapat digunakan secara terbatas tanpa akun, sering kalinya para pengguna diharuskan untuk mendaftarkan akun demi menggunakan layanan tertentu. Pada saat Anda mendaftarkan akun, kami menyimpan
 
 - Nama pengguna Anda
 - Alamat email Anda
@@ -35,7 +35,7 @@ Kecuali nama pengguna dan negara Anda, informasi pribadi ini tidak akan pernah d
 
 ### Saat memperbarui profil Anda
 
-Pada saat menyusun profil pengguna milik Anda (yang dapat dilihat oleh seluruh pengguna lainnya), Anda dapat menyertakan informasi berupa
+Pada saat Anda menyusun profil pengguna milik Anda (yang dapat dilihat oleh seluruh pengguna lainnya), Anda dapat menyertakan informasi berupa
 
 - Lokasi Anda saat ini
 - Minat Anda
@@ -48,13 +48,13 @@ Seluruh kolom di atas akan dapat dilihat secara publik, namun informasi yang dit
 
 ### Saat mengunggah konten kiriman pengguna
 
-Pada saat menulis postingan forum, mengobrol pada *in-game chat*, atau mengunggah konten (seperti beatmap) ke dalam layanan kami, Anda secara tegas mempublikasikan segala sesuatunya yang Anda kirimkan. Dalam sebagian besar kasus, konten yang telah terkirim akan dapat disunting dan dihapus sesuai dengan keinginan Anda, namun dalam situasi tertentu hak ini dapat dianulir untuk menjaga relevansi dan kontinuitas layanan kepada basis pengguna kami.
+Pada saat Anda menulis postingan forum, mengobrol pada *in-game chat*, atau mengunggah konten (seperti beatmap) ke dalam layanan kami, Anda secara tegas mempublikasikan segala sesuatunya yang Anda kirimkan. Dalam sebagian besar kasus, konten yang telah terkirim akan dapat disunting dan dihapus sesuai dengan keinginan Anda, namun dalam situasi tertentu hak ini dapat dianulir untuk menjaga relevansi dan kontinuitas layanan kepada basis pengguna kami.
 
 Sebagai contoh, apabila Anda mengunggah suatu beatmap dan beatmap tersebut memperoleh status "ranked", beatmap tersebut akan menjadi dasar bagi para pengguna kami untuk dapat menorehkan skor. Pada titik ini, pilihan untuk menghapus kiriman yang bersangkutan tidak lagi akan tersedia.
 
 ### Saat masuk ke dalam permainan
 
-Pada saat menghubungkan diri ke layanan kami melalui klien permainan osu!, sebuah kode *string* khusus akan dikirimkan untuk membantu kami dalam mengidentifikasi lingkungan permainan Anda. Kode *string* tersebut tersusun atas kombinasi nomor pengenal yang diperoleh dari konfigurasi perangkat keras dan perangkat lunak Anda, yang kemudian di-*hash* sedemikian rupa agar tidak lagi mengandung informasi pribadi yang dapat diidentifikasi (namun tetap dapat digunakan untuk melacak akses-akses masuk Anda ke dalam layanan kami).
+Pada saat Anda menghubungkan diri ke layanan kami melalui klien permainan osu!, sebuah kode *string* khusus akan dikirimkan untuk membantu kami dalam mengidentifikasi lingkungan permainan Anda. Kode *string* tersebut tersusun atas kombinasi nomor pengenal yang diperoleh dari konfigurasi perangkat keras dan perangkat lunak Anda, yang kemudian di-*hash* sedemikian rupa agar tidak lagi mengandung informasi pribadi yang dapat diidentifikasi (namun tetap dapat digunakan untuk melacak akses-akses masuk Anda ke dalam layanan kami).
 
 Tujuan utama kami dalam menerapkan sistem ini adalah untuk mewujudkan lingkungan persaingan yang adil dan untuk membantu kami dalam meningkatkan keamanan akun Anda seandainya akun Anda diakses dari lokasi yang tidak dikenal. Demi keamanan Anda, kode *string* ini akan diperlakukan selayaknya dokumen pribadi dan hanya akan kami simpan selama masih digunakan. Di samping itu, kode *string* ini juga tidak dapat dipindahtangankan dan tidak memiliki arti di luar ekosistem osu!.
 
