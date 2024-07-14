@@ -76,7 +76,7 @@ Kami menghormati dan menghargai privasi Anda, dan kami tidak ingin agar keberada
 
 ### Pencatatan informasi
 
-Kami menggunakan sistem pencatatan kesalahan (*error logging*) yang mengumpulkan berbagai informasi teknis dan penggunaan layanan selagi Anda menggunakan layanan kami. Hal ini dapat meliputi alamat IP Anda, nama pengguna Anda, jenis dan versi browser Anda, pengaturan dan lokasi zona waktu Anda, sistem operasi dan *platform* Anda, serta berbagai rincian lainnya seputar perangkat yang Anda gunakan untuk mengakses layanan kami.
+Kami menggunakan sistem pencatatan kesalahan (*error logging*) yang mengumpulkan berbagai informasi teknis dan penggunaan layanan selagi Anda menggunakan layanan kami. Hal ini dapat meliputi alamat IP Anda, nama pengguna Anda, jenis dan versi browser Anda, pengaturan dan lokasi zona waktu Anda, sistem operasi dan *platform* Anda, serta rincian lainnya seputar perangkat yang Anda gunakan untuk mengakses layanan kami.
 
 Data yang terkumpul akan digabungkan dan hanya akan kami simpan selama masih digunakan. Pada umumnya, periode penyimpanan untuk data yang bukan merupakan data gabungan adalah kurang dari satu bulan dengan pengaturan pembersihan otomatis.
 
