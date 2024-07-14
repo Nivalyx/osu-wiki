@@ -24,14 +24,14 @@ Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan m
 
 ### Saat mendaftarkan akun
 
-Walaupun terdapat fitur-fitur tertentu yang dapat diakses tanpa akun yang aktif, para pengguna diharuskan untuk mendaftarkan akun atas nama mereka untuk dapat menggunakan layanan kami sepenuhnya. Pada saat suatu akun didaftarkan, kami menyimpan
+Walaupun terdapat fitur-fitur tertentu yang dapat diakses tanpa akun yang aktif, para pengguna diharuskan untuk mendaftarkan akun atas nama mereka untuk dapat menggunakan layanan kami sepenuhnya. Pada saat mendaftarkan akun, kami menyimpan
 
 - Nama pengguna Anda
 - Alamat email Anda
 - Kata sandi Anda (bcrypt+salt)
 - Alamat IP dan negara Anda
 
-Kecuali nama pengguna dan negara Anda, informasi ini tidak akan pernah dibagikan secara publik.
+Kecuali nama pengguna dan negara Anda, informasi pribadi ini tidak akan pernah dibagikan secara publik.
 
 ### Saat memperbarui profil Anda
 
