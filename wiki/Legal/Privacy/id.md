@@ -12,11 +12,11 @@ Di samping kebijakan ini, pastikan juga untuk membaca dan memahami [Ketentuan La
 
 osu! dijalankan oleh entitas Australia (ppy Pty Ltd) dengan rangkaian server yang sebagian besarnya beroperasi dari Amerika Serikat.
 
-osu! menawarkan berbagai jenis layanan kepada pengguna dari hampir setiap negara di seluruh dunia, dengan komunitas yang dinamis dan memungkinkan para penggunanya untuk dapat saling berbagi kreativitas melalui halaman profil pengguna, beatmap (level permainan), forum, pesan pribadi, *in-game chat*, dan komentar pada tayangan ulang.
+osu! menawarkan berbagai jenis layanan kepada pengguna dari hampir semua negara di seluruh dunia, dengan komunitas yang dinamis dan memungkinkan para penggunanya untuk dapat saling berbagi kreativitas melalui halaman profil pengguna, beatmap (level permainan), forum, pesan pribadi, *in-game chat*, dan komentar pada tayangan ulang.
 
-Untuk dapat menawarkan layanan ini kepada Anda, kami sering kali harus mengumpulkan, menyimpan, dan menyebarluaskan informasi pribadi tertentu. Kami beritikad untuk menjalankan segala sesuatunya yang ada di osu! setransparan mungkin, dan kebijakan privasi ini merupakan salah satu bentuk upaya kami untuk mewujudkan tujuan tersebut.
+Untuk dapat menawarkan layanan ini kepada Anda, kami sering kalinya harus mengumpulkan, menyimpan, dan menyebarluaskan informasi yang bersifat pribadi. Kami beritikad untuk menjalankan segala sesuatunya yang ada di osu! setransparan mungkin, dan kebijakan privasi ini merupakan salah satu bentuk upaya kami untuk mewujudkan tujuan tersebut.
 
-Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan pada jaringan kami serta dalam penggunaan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, dan hal-hal apa saja yang dapat Anda lakukan untuk mengelola informasi pribadi Anda.
+Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan pada jaringan kami dan dalam penggunaan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, serta pilihan apa saja yang kami tawarkan kepada Anda untuk mengelola informasi pribadi Anda.
 
 Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) dan kebijakan privasi ini, termasuk bagaimana dan mengapa kami menggunakan informasi Anda serta bahwa dengan menggunakan layanan kami, Anda akan tunduk pada Ketentuan Layanan dan Kebijakan Privasi yang berlaku. Apabila Anda tidak ingin kami mengumpulkan atau memproses informasi pribadi Anda sebagaimana yang dijelaskan di bawah ini, Anda dapat melakukan beberapa hal seperti menentukan informasi apa saja yang dapat kami kumpulkan dari Anda, menonaktifkan akses ke Jaringan kami, atau membatasi penggunaan Produk dan Layanan kami.
 
