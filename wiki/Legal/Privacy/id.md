@@ -44,7 +44,7 @@ Pada saat Anda menyusun profil pengguna milik Anda (yang dapat dilihat oleh selu
 - Avatar dan sampul profil Anda
 - Tanda tangan Anda
 
-Seluruh kolom di atas akan dapat dilihat secara publik, namun informasi yang diterakan akan dapat segera dihapus secara permanen kapan saja melalui [halaman pengaturan](https://osu.ppy.sh/home/account/edit).
+Seluruh kolom di atas akan dapat dilihat secara publik, namun informasi ini akan dapat segera dihapus secara permanen kapan saja melalui [halaman pengaturan](https://osu.ppy.sh/home/account/edit).
 
 ### Saat mengunggah konten kiriman pengguna
 
