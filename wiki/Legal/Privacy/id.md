@@ -10,9 +10,9 @@ Di samping kebijakan ini, pastikan juga untuk membaca dan memahami [Ketentuan La
 
 ## Pendahuluan
 
-osu! dijalankan oleh entitas Australia (ppy Pty Ltd) dengan rangkaian server yang sebagian besarnya beroperasi dari Amerika Serikat.
+osu! dijalankan oleh entitas asal Australia (ppy Pty Ltd) dengan rangkaian server yang sebagian besarnya beroperasi dari Amerika Serikat.
 
-osu! menawarkan berbagai jenis layanan kepada pengguna dari hampir semua negara di seluruh dunia, dengan komunitas yang dinamis dan memungkinkan para penggunanya untuk dapat saling berbagi kreativitas melalui halaman profil pengguna, beatmap (level permainan), forum, pesan pribadi, *in-game chat*, dan komentar pada tayangan ulang.
+osu! menawarkan berbagai jenis layanan kepada pengguna dari hampir setiap negara di seluruh dunia, dengan komunitas yang dinamis dan memungkinkan para penggunanya untuk dapat saling berbagi kreativitas melalui halaman profil pengguna, beatmap (level permainan), forum, pesan pribadi, *in-game chat*, dan komentar pada tayangan ulang.
 
 Untuk dapat menawarkan layanan ini kepada Anda, kami sering kalinya harus mengumpulkan, menyimpan, dan menyebarluaskan informasi yang bersifat pribadi. Kami beritikad untuk menjalankan segala sesuatunya yang ada di osu! setransparan mungkin, dan kebijakan privasi ini merupakan salah satu bentuk upaya kami untuk mewujudkan tujuan tersebut.
 
