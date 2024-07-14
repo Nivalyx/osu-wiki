@@ -56,7 +56,7 @@ Sebagai contoh, apabila Anda mengunggah suatu beatmap dan beatmap tersebut mempe
 
 Pada saat Anda menghubungkan diri ke layanan kami melalui klien permainan osu!, sebuah kode *string* yang spesifik bagi klien Anda akan dikirimkan untuk membantu kami dalam mengidentifikasi lingkungan permainan Anda. Kode ini dihasilkan berdasarkan kombinasi nomor pengenal yang diperoleh dari konfigurasi perangkat keras dan perangkat lunak Anda, yang kemudian di-*hash* sedemikian rupa agar tidak lagi mengandung informasi pribadi yang dapat diidentifikasi (namun tetap dapat digunakan untuk melacak entri masuk Anda ke dalam layanan kami).
 
-Tujuan utama kami dalam melangsungkan proses ini adalah untuk mewujudkan sistem peringkat yang adil dan untuk membantu kami dalam mengamankan akun Anda apabila akun Anda diakses dari lokasi yang tidak dikenal. Kode ini bersifat pribadi dan hanya akan disimpan selama yang dibutuhkan. Di samping itu, kode ini juga tidak dapat dipindahtangankan dan tidak memiliki arti di luar ekosistem osu!.
+Tujuan utama kami dalam melangsungkan proses ini adalah untuk mewujudkan sistem peringkat yang adil dan untuk membantu kami mengamankan akun Anda apabila akun ini diakses dari lokasi yang tidak dikenal. Kode ini bersifat pribadi dan hanya akan disimpan selama yang dibutuhkan. Di samping itu, kode ini juga tidak dapat dipindahtangankan dan tidak memiliki arti di luar ekosistem osu!.
 
 ### Saat bermain dan mengirimkan skor
 
@@ -64,7 +64,7 @@ Pada saat Anda menyelesaikan suatu sesi permainan (baik berhasil ataupun gagal),
 
 ### Anti-cheat
 
-osu! mengandung kode *executable* khusus yang digunakan untuk mendeteksi penggunaan perangkat lunak illegal (*cheat*). Tujuan dari penerapan sistem *anti-cheat* ini adalah untuk menjaga agar lingkungan permainan kami dapat bersifat adil dan kompetitif bagi semua, namun tanpa memengaruhi performa permainan atau privasi para penggunanya.
+osu! mengandung kode *executable*  yang digunakan untuk mendeteksi penggunaan perangkat lunak illegal (*cheat software*). Tujuan dari sistem *anti-cheat* osu! ini adalah untuk menjaga lingkungan permainan yang adil dan kompetitif bagi semua tanpa memengaruhi performa permainan atau privasi pengguna.
 
 - Pendeteksian *cheat* berlangsung pada perangkat Anda, di mana dalam prosesnya osu! hanya akan mengirimkan data yang dibutuhkan ke dalam server kami.
 - Apabila *anti-cheat* kami menemukan bahwa Anda bertindak curang, maka temuan ini, beserta dengan bukti-bukti dalam bentuk diagnostik dan metadata permainan, akan dikirimkan ke server kami untuk diverifikasi. Apabila Anda tidak bertindak curang, *anti-cheat* kami tidak akan mengirimkan data apapun.
