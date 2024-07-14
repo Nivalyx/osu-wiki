@@ -104,7 +104,7 @@ Kami menerapkan kebijakan satu akun per pengguna (*one-account-per-user*) yang k
 
 ## Cookie
 
-Seperti seisi internet pada umumnya, layanan kami juga menggunakan *cookie*. Kami hanya akan menggunakan *cookie* untuk mempertahankan status sesi dan kredensial entri masuk Anda antar berbagai sesi. Apabila Anda tidak dapat menerima keberadaan *cookie* ini, mohon untuk tidak menggunakan layanan kami.
+Seperti seisi internet pada umumnya, layanan kami juga menggunakan *cookie*. Kami hanya akan menggunakan *cookie* ini untuk mempertahankan status sesi dan kredensial entri masuk Anda antar berbagai sesi. Apabila Anda tidak dapat menerima keberadaan *cookie*, mohon untuk tidak menggunakan layanan kami.
 
 ## Keamanan data
 
