@@ -86,11 +86,11 @@ Kami tidak melakukan tindak pemasaran, pengiklanan, atau pengiriman email yang t
 
 Kami dapat membagikan data pribadi Anda kepada pihak ketiga dalam situasi tertentu yang sangat spesifik sebagai berikut:
 
-- Di mana Anda secara tegas telah menyediakan informasi yang bersangkutan secara publik
+- Pada saat Anda telah secara jelas menyediakan informasi yang bersangkutan secara publik
 - Untuk memenuhi pesanan belanja Anda
-- Untuk memproses pembayaran Anda melalui biro-biro pembayaran seperti Paypal dan Xsolla
+- Untuk memproses pembayaran melalui biro pembayaran seperti Paypal dan Xsolla
 - Untuk memproses tiket layanan dukungan Anda (kami menggunakan [Enchant](https://enchant.com))
-- Untuk meningkatkan layanan kami melalui sistem pencatatan kesalahan (*error logging*) yang berlaku (kami menggunakan [Sentry](https://sentry.io))
+- Untuk meningkatkan layanan kami, melalui sistem pencatatan kesalahan/*error logging* (kami menggunakan [Sentry](https://sentry.io))
 
 ## Hak dan kendali Anda
 
