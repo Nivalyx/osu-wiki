@@ -6,15 +6,15 @@ legal: true
 
 Terakhir diperbarui pada tanggal 16 April 2021. [Lihat riwayat kebijakan ini di sini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
-Di samping kebijakan ini, pastikan juga untuk membaca dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) yang berlaku.
+Di samping kebijakan ini, pastikan juga untuk membaca dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) kami.
 
 ## Pendahuluan
 
-osu! dijalankan oleh sebuah entitas Australia (ppy Pty Ltd) dengan server-server yang sebagian besar beroperasi dari Amerika Serikat.
+osu! dijalankan oleh entitas Australia (ppy Pty Ltd) dengan rangkaian server yang sebagian besarnya beroperasi dari Amerika Serikat.
 
-osu! menawarkan berbagai macam layanan kepada para pengguna yang berasal dari hampir setiap negara di seluruh dunia, dengan komunitas yang memungkinkan para penggunanya untuk dapat saling berbagi karya dan buah pemikiran kepada para pengguna lainnya melalui laman profil pengguna, beatmap (level permainan), forum, pesan pribadi, *in-game chat*, dan kolom komentar.
+osu! menawarkan berbagai jenis layanan kepada pengguna dari hampir setiap negara di seluruh dunia, dengan komunitas yang dinamis dan memungkinkan para penggunanya untuk dapat saling berbagi kreativitas melalui halaman profil pengguna, beatmap (level permainan), forum, pesan pribadi, *in-game chat*, dan komentar pada tayangan ulang.
 
-Untuk dapat menawarkan layanan-layanan ini kepada Anda, kami terkadang harus mengumpulkan, menyimpan, dan mengungkapkan informasi pribadi Anda. Kami beritikad untuk menjalankan segala sesuatunya yang ada di osu! setransparan mungkin, di mana kebijakan privasi ini merupakan salah satu bentuk upaya kami dalam mewujudkan tujuan tersebut.
+Untuk dapat menawarkan layanan ini kepada Anda, kami sering kali harus mengumpulkan, menyimpan, dan menyebarluaskan informasi pribadi tertentu. Kami beritikad untuk menjalankan segala sesuatunya yang ada di osu! setransparan mungkin, dan kebijakan privasi ini merupakan salah satu bentuk upaya kami untuk mewujudkan tujuan tersebut.
 
 Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan pada jaringan kami serta dalam penggunaan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, dan hal-hal apa saja yang dapat Anda lakukan untuk mengelola informasi pribadi Anda.
 
