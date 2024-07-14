@@ -18,7 +18,7 @@ Untuk dapat menawarkan layanan ini kepada Anda, kami sering kalinya harus mengum
 
 Dokumen ini bertujuan untuk menjelaskan informasi apa saja yang kami kumpulkan pada jaringan kami dan dalam penggunaan produk dan layanan kami, bagaimana kami menggunakan informasi tersebut, serta pilihan apa saja yang kami tawarkan kepada Anda untuk mengelola informasi pribadi Anda.
 
-Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) dan kebijakan privasi ini, termasuk bagaimana dan mengapa kami menggunakan informasi Anda serta bahwa dengan menggunakan layanan kami, Anda akan tunduk pada Ketentuan Layanan dan Kebijakan Privasi yang berlaku. Apabila Anda tidak ingin kami mengumpulkan atau memproses informasi pribadi Anda sebagaimana yang dijelaskan di bawah ini, Anda dapat melakukan beberapa hal seperti menentukan informasi apa saja yang dapat kami kumpulkan dari Anda, menonaktifkan akses ke Jaringan kami, atau membatasi penggunaan Produk dan Layanan kami.
+Dengan menggunakan layanan kami, Anda membenarkan bahwa Anda telah membaca dan memahami [Ketentuan Layanan](/wiki/Legal/Terms) dan kebijakan privasi ini, termasuk bagaimana dan mengapa kami menggunakan informasi Anda serta bahwa dengan menggunakan layanan kami, Anda tunduk pada Ketentuan Layanan dan Kebijakan Privasi yang berlaku. Apabila Anda tidak ingin kami mengumpulkan atau memproses informasi pribadi Anda sebagaimana yang dijabarkan pada halaman ini, Anda memiliki beberapa pilihan seperti membatasi informasi apa saja yang dapat kami kumpulkan dari Anda, menonaktifkan akses ke Jaringan kami, atau membatasi penggunaan Produk dan Layanan kami.
 
 ## Informasi yang kami kumpulkan
 
