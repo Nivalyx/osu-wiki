@@ -82,9 +82,9 @@ Data yang terkumpul akan digabungkan dan hanya akan kami simpan selama masih dig
 
 ## Pengungkapan data pribadi Anda
 
-Kami tidak melakukan tindak pemasaran, pengiklanan, atau pengiriman email yang tidak dikehendaki. Seluruh email yang akan Anda terima dari kami murni merupakan bentuk respon atas segala sesuatunya yang Anda lakukan pada layanan kami (seperti meminta otentikasi dua faktor, membeli produk, atau mengaktifkan pemberitahuan pada sebuah topik diskusi).
+Kami tidak melakukan tindak pemasaran, pengiklanan, atau pengiriman email yang tidak dikehendaki. Seluruh email yang akan Anda terima dari kami murni merupakan bentuk respon atas suatu tindakan pada layanan kami (seperti meminta autentikasi dua faktor, membeli produk, atau mengaktifkan notifikasi pada topik diskusi).
 
-Kami dapat membagikan data pribadi Anda kepada pihak ketiga dalam situasi tertentu yang sangat spesifik sebagai berikut:
+Kami dapat membagikan data pribadi Anda kepada pihak ketiga dalam beberapa situasi yang sangat spesifik sebagai berikut:
 
 - Pada saat Anda telah secara jelas menyediakan informasi yang bersangkutan secara publik
 - Untuk memenuhi pesanan belanja Anda
