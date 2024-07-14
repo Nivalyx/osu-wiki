@@ -110,7 +110,7 @@ Seperti halnya seisi internet pada umumnya, layanan kami juga menggunakan *cooki
 
 Keamanan merupakan hal yang sangat penting bagi kami. osu! mengikuti standar keamanan yang baku untuk melindungi data Anda dalam proses pengolahan, pemindahan, dan penyimpanan yang berlangsung. Kami menggunakan protokol HSTS untuk memastikan bahwa seluruh situs pada domain kami terenkripsi dengan sertifikat TLS serta menjaga standar keamanan data yang tinggi perihal akses masuk ke server kami, yang membatasi akses ke data pribadi Anda ketika kami tidak sedang membutuhkan data ini.
 
-Di samping itu, kami juga secara otomatis membersihkan data pengguna yang sudah tidak lagi digunakan dari waktu ke waktu. Kami hanya akan menyimpan data yang dibutuhkan untuk menjalankan kepentingan bisnis kami.
+Di samping itu, kami juga secara rutin dan otomatis menghapus data yang ada agar kami hanya menyimpan rekaman data sebanyak yang diperlukan untuk menjalankan kepentingan bisnis kami.
 
 ## Pengguna di bawah umur
 
