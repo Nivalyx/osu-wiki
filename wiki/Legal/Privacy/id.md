@@ -44,11 +44,11 @@ Pada saat Anda menyusun profil pengguna milik Anda (yang dapat dilihat oleh selu
 - Avatar dan sampul profil Anda
 - Tanda tangan Anda
 
-Seluruh kolom di atas akan dapat dilihat secara publik, namun informasi yang telah dipublikasikan akan dapat segera dihapus secara permanen kapan saja melalui [halaman pengaturan](https://osu.ppy.sh/home/account/edit).
+Seluruh kolom di atas akan terlihat secara publik namun juga akan dapat dihapus secara permanen kapan saja melalui [halaman pengaturan](https://osu.ppy.sh/home/account/edit).
 
 ### Saat mengunggah konten kiriman pengguna
 
-Pada saat Anda menulis postingan forum, mengobrol pada *in-game chat*, atau mengunggah konten (seperti beatmap) ke dalam layanan kami, Anda secara tegas mempublikasikan segala sesuatunya yang Anda kirimkan. Dalam sebagian besar kasus, konten yang telah terkirim akan dapat disunting dan dihapus sesuai dengan keinginan Anda, namun dalam situasi tertentu hak ini dapat dianulir untuk menjaga relevansi dan kontinuitas layanan kepada basis pengguna kami.
+Pada saat Anda menulis postingan forum, mengobrol pada *in-game chat*, atau mengunggah konten (seperti beatmap) ke layanan kami, Anda secara tegas mempublikasikan segala sesuatunya yang Anda kirimkan. Dalam sebagian besar kasus, konten yang telah terkirim akan dapat disunting dan dihapus sesuai dengan keinginan Anda, namun dalam situasi tertentu hak ini dapat dianulir untuk menjaga relevansi dan kontinuitas layanan kepada basis pengguna kami.
 
 Sebagai contoh, apabila Anda mengunggah suatu beatmap dan beatmap tersebut memperoleh status "ranked", beatmap tersebut akan menjadi dasar bagi para pengguna kami untuk dapat menorehkan skor. Pada titik ini, pilihan untuk menghapus kiriman yang bersangkutan tidak lagi akan tersedia.
 
