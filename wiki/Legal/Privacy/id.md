@@ -114,7 +114,7 @@ Di samping itu, kami juga secara rutin dan otomatis menghapus data yang ada agar
 
 ## Pengguna di bawah umur
 
-Layanan osu! tidak diperuntukkan bagi anak-anak yang berusia di bawah 13 tahun. Apabila kami menemukan bahwa seseorang yang berusia di bawah 13 tahun telah mengirimkan informasi pribadinya kepada kami tanpa seizin orang tua/wali mereka, kami akan menghapus informasi tersebut dari sistem kami sesegera mungkin.
+Layanan osu! tidak dirancang bagi anak-anak yang berusia di bawah 13 tahun. Apabila kami menemukan bahwa seseorang yang berusia di bawah 13 tahun telah mengirimkan informasi pribadinya kepada kami tanpa seizin orang tua, kami akan berupaya untuk menghapus informasi ini dari sistem kami sesegera mungkin.
 
 ## Pengelola data
 
