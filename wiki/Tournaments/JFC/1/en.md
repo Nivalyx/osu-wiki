@@ -74,6 +74,16 @@ The Jogja Fun Cup was run by various osu! community members from Indonesia and b
 | Tahu Sumedang | ::{ flag=ID }:: **[lucidators](https://osu.ppy.sh/users/10154981)**, ::{ flag=ID }:: [controlledHive](https://osu.ppy.sh/users/11182595), ::{ flag=ID }:: [Mank](https://osu.ppy.sh/users/18263974) |
 | YJJA | ::{ flag=ID }:: **[Xenoid](https://osu.ppy.sh/users/26993756)**, ::{ flag=ID }:: [kairazhel](https://osu.ppy.sh/users/32835998), ::{ flag=ID }:: [GranXso](https://osu.ppy.sh/users/32189812) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **BAKPIA KUKUS KILLER** (::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Bakpia Kukus** (::{ flag=ID }:: [beabadobee](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Ban HR2** (::{ flag=ID }:: [ruruichi](https://osu.ppy.sh/users/6717559), ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666)) |
+
 ## Mappools
 
 ### Finals (week 2)
