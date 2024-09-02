@@ -42,10 +42,10 @@ Terdapat dua cara untuk menambahkan beatmap, yaitu dengan mengunduh melalui situ
 
 1. Masuk ke akunmu dan kunjungi [halaman daftar beatmap](https://osu.ppy.sh/beatmapsets).
 2. Cari lagu yang ingin kamu mainkan.
-3. Klik `Unduh` untuk menyimpan berkas beatmap ke dalam komputer kamu.
-4. Cari dan buka berkas beatmap yang telah kamu unduh, di mana berkas ini memiliki ekstensi `.osz`.
-   - Kamu juga dapat menempatkan file beatmap yang telah diunduh langsung ke dalam folder `Songs` pada direktori osu! kamu.
-5. osu! akan secara otomatis memuat beatmap yang bersangkutan ke dalam klien permainan.
+3. Klik ikon unduhan untuk menyimpan beatmap ke dalam komputermu.
+4. Cari dan buka berkas beatmap yang telah diunduh. Berkas ini memiliki ekstensi `.osz`.
+   - Kamu juga dapat langsung menempatkan berkas beatmap yang telah diunduh ke dalam folder `Songs` pada direktori osu! kamu.
+5. osu! akan secara otomatis memproses dan memuat beatmap.
    - Apabila beatmap gagal termuat, tekan `F5` pada layar [Song Selection](/wiki/Client/Interface#pemilihan-lagu) agar osu! dapat memproses dan memuat ulang semua beatmap yang kamu miliki.
 
 ### osu!direct
