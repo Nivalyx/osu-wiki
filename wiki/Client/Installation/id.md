@@ -45,7 +45,7 @@ Terdapat dua cara untuk menambahkan beatmap, yaitu dengan mengunduh melalui situ
 3. Klik ikon unduhan untuk menyimpan beatmap ke dalam komputermu.
 4. Cari dan buka berkas beatmap yang telah diunduh. Berkas ini memiliki ekstensi `.osz`.
    - Kamu juga dapat langsung menempatkan berkas beatmap yang telah diunduh ke dalam folder `Songs` pada direktori osu! kamu.
-5. osu! akan secara otomatis memproses dan memuat beatmap.
+5. osu! akan secara otomatis memproses dan memuat beatmap ke dalam permainan untukmu.
    - Apabila kamu tidak melihat beatmap ini karena satu dan lain hal, tekan `F5` pada layar [Song Selection](/wiki/Client/Interface#pemilihan-lagu) untuk memproses ulang seluruh beatmap yang kamu miliki.
 
 ### osu!direct
@@ -54,18 +54,18 @@ Terdapat dua cara untuk menambahkan beatmap, yaitu dengan mengunduh melalui situ
 
 1. Buka osu! dan klik tombol osu!direct yang terletak pada sisi kanan menu utama.
 2. Cari lagu yang kamu ingin mainkan.
-3. Klik dua kali pada lagu yang dipilih atau klik `Download` pada menu yang muncul di sebelah kanan layar untuk mengunduhnya.
-   - Apabila kamu tidak ingin mengunduh video yang disertakan dalam berkas beatmap, klik `DL NoVideo`.
-4. Setelah beatmap selesai terunduh, osu! akan secara otomatis memuat beatmap yang bersangkutan ke dalam klien permainan.
-   - Apabila beatmap gagal termuat, tekan `F5` pada layar [Song Selection](/wiki/Client/Interface#pemilihan-lagu) agar osu! dapat memproses dan memuat ulang semua beatmap yang kamu miliki.
+3. Klik dua kali pada lagu atau klik `Download` pada menu yang muncul di sebelah kanan layar untuk mengunduhnya.
+   - Apabila kamu ingin mengunduh beatmap tanpa berkas video, klik `DL NoVideo`.
+4. Setelah beatmap selesai diunduh, osu! akan secara otomatis memuat beatmap ke dalam permainan.
+   - Apabila kamu tidak melihat beatmap ini karena satu dan lain hal, tekan `F5` pada layar [Song Selection](/wiki/Client/Interface#pemilihan-lagu) untuk memproses ulang seluruh beatmap yang kamu miliki.
 
 ## Menambahkan skin
 
 *Lihat juga: [Skinning](/wiki/Skinning)*
 
-1. Kunjungi [sub-forum skinning](https://osu.ppy.sh/community/forums/15) dan cari skin yang kamu sukai.
-2. Setelah kamu menemukan skin yang kamu sukai, unduh skin tersebut.
-3. Tergantung pada bagaimana skinner menyediakan berkas skin mereka, kamu mungkin perlu melakukan hal yang berbeda.
+1. Kunjungi [sub-forum skinning](https://osu.ppy.sh/community/forums/15) dan cari skin yang kamu gemari.
+2. Setelah kamu menemukan skin yang kamu inginkan, unduh skin tersebut.
+3. Tergantung pada bagaimana pembuat skin menyediakan berkas skin mereka, kamu mungkin perlu melakukan hal yang berbeda.
    - Apabila berkas skin disediakan dalam ekstensi `.osk`:
      1. Buka berkas `.osk` tersebut secara langsung atau lakukan *drag-and-drop* terhadap layar osu! yang sedang aktif.
      2. osu! akan secara otomatis memproses dan memuat skin tersebut untukmu.
