@@ -50,7 +50,7 @@ Terdapat dua cara untuk menambahkan beatmap, yaitu dengan mengunduh melalui situ
 
 ### osu!direct
 
-*Catatan: Kamu harus memiliki osu!supporter tag dan sambungan internet yang aktif untuk dapat menggunakan osu!direct.*
+*Catatan: Kamu harus memiliki tag osu!supporter dan sambungan internet yang aktif untuk menggunakan osu!direct.*
 
 1. Buka osu! dan klik tombol osu!direct yang terletak pada sisi kanan menu utama.
 2. Cari lagu yang kamu ingin mainkan.
