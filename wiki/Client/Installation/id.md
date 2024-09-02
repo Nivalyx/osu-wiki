@@ -46,7 +46,7 @@ Terdapat dua cara untuk menambahkan beatmap, yaitu dengan mengunduh melalui situ
 4. Cari dan buka berkas beatmap yang telah diunduh. Berkas ini memiliki ekstensi `.osz`.
    - Kamu juga dapat langsung menempatkan berkas beatmap yang telah diunduh ke dalam folder `Songs` pada direktori osu! kamu.
 5. osu! akan secara otomatis memproses dan memuat beatmap.
-   - Apabila beatmap gagal termuat, tekan `F5` pada layar [Song Selection](/wiki/Client/Interface#pemilihan-lagu) agar osu! dapat memproses dan memuat ulang semua beatmap yang kamu miliki.
+   - Apabila kamu tidak melihat beatmap ini karena satu dan lain hal, tekan `F5` pada layar [Song Selection](/wiki/Client/Interface#pemilihan-lagu) untuk memproses ulang seluruh beatmap yang kamu miliki.
 
 ### osu!direct
 
