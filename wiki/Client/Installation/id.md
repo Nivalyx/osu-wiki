@@ -30,7 +30,7 @@ Apabila kamu menggunakan Windows 7 64-bit, kamu mungkin akan menemui beberapa ma
 **Apabila installer osu! terus-menerus menampilkan pesan error dalam proses pemasangan, kamu dapat mencoba hal-hal berikut:**
 
 - Cobalah untuk memasang ulang .NET Framework versi terbaru. [Kamu dapat mengunduh .NET Framework versi terbaru di sini.](https://dotnet.microsoft.com/download)
-- Bersihkan PC kamu! Pindai komputermu dengan antivirus dan bersihkan registry-nya. Program yang disarankan untuk melakukan pembersihan adalah CCleaner. Pindai file komputer dan registry kamu. Installer osu! bisa saja gagal dijalankan dikarenakan ada entri registry osu! dari salinan osu! terdahulu yang masih belum terhapus sepenuhnya dalam sistem kamu.
+- Bersihkan PC kamu! Pindai komputermu dengan antivirus dan bersihkan registry-nya. Program yang disarankan untuk membersihkan komputer secara umum adalah CCleaner. Pindai baik berkas komputer dan berkas registry kamu. Installer osu! bisa saja gagal dijalankan dikarenakan ada entri registry osu! dari salinan osu! terdahulu yang masih belum terhapus sepenuhnya dalam sistem kamu.
 
 ## Menambahkan beatmap
 
