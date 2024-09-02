@@ -65,13 +65,13 @@ Terdapat dua cara untuk menambahkan beatmap, yaitu dengan mengunduh melalui situ
 
 1. Kunjungi [sub-forum skinning](https://osu.ppy.sh/community/forums/15) dan cari skin yang kamu gemari.
 2. Setelah kamu menemukan skin yang kamu inginkan, unduh skin tersebut.
-3. Tergantung pada bagaimana pembuat skin menyediakan berkas skin mereka, kamu mungkin perlu melakukan hal yang berbeda.
-   - Apabila berkas skin disediakan dalam ekstensi `.osk`:
-     1. Buka berkas `.osk` tersebut secara langsung atau lakukan *drag-and-drop* terhadap layar osu! yang sedang aktif.
-     2. osu! akan secara otomatis memproses dan memuat skin tersebut untukmu.
-   - Apabila berkas skin disediakan dalam format data yang terkompresi (`.7z`, `.rar`, `.zip`, dll.):
+3. Tergantung pada bagaimana pembuat skin menyediakan berkas skin mereka, kamu mungkin perlu untuk melakukan hal yang berbeda.
+   - Apabila berkas skin disediakan dalam format `.osk`:
+     1. Buka berkas skin yang telah diunduh, atau tarik dan seret (*drag-and-drop*) berkas ini ke dalam layar osu!.
+     2. osu! akan secara otomatis memproses dan memuat skin ini untukmu.
+   - Apabila berkas skin disediakan dalam format yang terkompresi (`.7z`, `.rar`, `.zip`, dll.):
      1. Ekstrak berkas skin yang telah diunduh.
-     2. Pindahkan folder hasil ekstraksi ke dalam folder `Skins` pada direktori osu!.
-     3. Apabila osu! sedang aktif, skin akan muncul dalam daftar skin setelah kamu menekan kombinasi tombol `Ctrl` + `Alt` + `Shift` + `S`.
-     4. Di dalam osu!, pilih menu [Options](/wiki/Client/Options) dan ketik `Skin` pada layar pencarian yang muncul.
+     2. Pindahkan folder yang diekstrak ke dalam direktori `Skins` pada lokasi instalasi osu!.
+     3. Apabila osu! sedang aktif, skin ini akan muncul dalam daftar skin setelah kamu menekan kombinasi tombol `Ctrl` + `Alt` + `Shift` + `S`.
+     4. Di  osu!, pilih menu [Options](/wiki/Client/Options) dan ketik `Skin` pada layar pencarian yang muncul.
      5. Pilih skin yang telah kamu unduh tersebut pada menu `Skin yang dipakai:`.
