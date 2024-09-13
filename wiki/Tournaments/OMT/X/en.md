@@ -181,16 +181,21 @@ Saturday, 7 September 2024:
 
 | Match type | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| R1 | [Snowy5441](https://osu.ppy.sh/users/13865320) ::{ flag=MY }:: | 1 | **5** | ::{ flag=MY }:: **[Racers03](https://osu.ppy.sh/users/11621976)** | [#1](https://osu.ppy.sh/community/matches/115399896) |
-| R1 | **[stumphole145](https://osu.ppy.sh/users/14623152)** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | [#1](https://osu.ppy.sh/community/matches/115400685) |
 | R2 | [Makise Kurisu](https://osu.ppy.sh/users/6996926) ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **[Atomium](https://osu.ppy.sh/users/19186968)** | [#1](https://osu.ppy.sh/community/matches/115401125) |
+| R1 | **[Jolene](https://osu.ppy.sh/users/13626098)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | [#1](https://osu.ppy.sh/community/matches/115414986) |
+| R2 | **[a hotdog](https://osu.ppy.sh/users/8688777)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [W1nter1](https://osu.ppy.sh/users/23185001) | [#1](https://osu.ppy.sh/community/matches/115413637) |
+| R1 | **[stumphole145](https://osu.ppy.sh/users/14623152)** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | [#1](https://osu.ppy.sh/community/matches/115400685) |
 | R1 | **[DuoX](https://osu.ppy.sh/users/9560694)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [Inugami Korone](https://osu.ppy.sh/users/4474918) | [#1](https://osu.ppy.sh/community/matches/115404426) |
+| R1 | [Snowy5441](https://osu.ppy.sh/users/13865320) ::{ flag=MY }:: | 1 | **5** | ::{ flag=MY }:: **[Racers03](https://osu.ppy.sh/users/11621976)** | [#1](https://osu.ppy.sh/community/matches/115399896) |
 
 Sunday, 8 September 2024:
 
 | Match type | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | R3 | [Inugami Korone](https://osu.ppy.sh/users/4474918) ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/115412910) |
+| R3 | **[Addam](https://osu.ppy.sh/users/11716599)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Atomium](https://osu.ppy.sh/users/19186968) | [#1](https://osu.ppy.sh/community/matches/115415362) |
+| R3 | **[Snowy5441](https://osu.ppy.sh/users/13865320)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [a hotdog](https://osu.ppy.sh/users/8688777) | [#1](https://osu.ppy.sh/community/matches/115416992) |
+| R3 | **[Axorite](https://osu.ppy.sh/users/9124278)** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: [MadDdDio](https://osu.ppy.sh/users/15086959) | [#1](https://osu.ppy.sh/community/matches/115416087) |
 
 ## Ruleset
 
