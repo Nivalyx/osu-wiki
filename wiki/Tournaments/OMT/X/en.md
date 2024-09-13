@@ -56,11 +56,11 @@ The osu! Malaysia Tournament X is run by various osu! community members from Mal
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1SmAmVPcwx9DDiTqjOuYT-8wOUNryjX6a-Lg-L6H48d0/edit?gid=0#gid=0)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1910425?n=1)
-- [Discord server](https://discord.gg/Tr9ZC97rwv)
-- [Challonge brackets](https://challonge.com/DonutDisturbMe)
-- [Livestream channel](https://www.twitch.tv/osucrepe)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1tJIry9tAr7wfQGvh071pdKB6QrLIPep8hd444j0UWik/edit?gid=0#gid=0)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1956725)
+- [Discord server](https://discord.gg/nKthrPUahJ)
+- [Challonge brackets](https://challonge.com/omtX)
+- [Livestream channel](https://www.twitch.tv/osumalaysia)
 
 ## Participants
 
