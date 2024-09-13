@@ -252,7 +252,7 @@ Sunday, 8 September 2024:
 ![](img/runoff-scheme.jpg "Runoff brackets scheme")
 
 1. Based on their Qualifier seeding, players will be placed in the runoff brackets according to the above scheme.
-2. Depending on their placement in the brackets, matches in the runoff brackets will be classified as **R1**, **R2**, and **R3** as follows:
+2. Matches in the runoff brackets will be classified into **R1**, **R2**, and **R3** as follows:
 
 #### Knock-out stage rules
 
