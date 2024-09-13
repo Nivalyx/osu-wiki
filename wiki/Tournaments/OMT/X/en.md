@@ -17,7 +17,7 @@ The **osu! Malaysia Tournament X** (OMT X) is a double-elimination 1v1 osu! tour
 | Registration phase | 2024-08-01/2024-08-16 |
 | Screening phase | 2024-08-17/2024-08-25 |
 | Qualifiers | 2024-08-26/2024-09-01 |
-| Runoff bracket | 2024-09-02/2024-09-08 |
+| Runoff brackets | 2024-09-02/2024-09-08 |
 | Round of 16 | 2024-09-09/2024-09-15 |
 | Quarterfinals | 2024-09-16/2024-09-22 |
 | Semifinals | 2024-09-23/2024-09-29 |
@@ -241,11 +241,13 @@ Sunday, 8 September 2024:
 2. In the lobby, all players will have to consecutively play all of the eleven Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their cumulative Z-score value across all eleven Qualifier beatmaps. A brief explanation on the concept of Z-score can be found [here](www.statisticshowto.com/probability-and-statistics/z-score/).
-6. 32 teams with the **highest average rank** according to the above criteria will advance to the knock-out stages.
-   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all ten Qualifier beatmaps.
-   - If the teams are still tied on average score, teams will then be ordered based on the average ranking of their roster after BWS calculations.
+5. Based on their performance in the Qualifier, players will be ranked based on their Z-score value across all eleven Qualifier beatmaps. A brief explanation on the concept of Z-score can be found [here](www.statisticshowto.com/probability-and-statistics/z-score/).
+6. 24 players with the **highest Z-score value** according to the above criteria will advance to the tournament proper as follows:
+   - Players in seeds #1 - #8 will be given an automatic bye to the Round of 16.
+   - Players in seeds #9 - #24 will participate in the runoff brackets.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+
+#### Runoff bracket rules
 
 #### Knock-out stage rules
 
