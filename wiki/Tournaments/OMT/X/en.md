@@ -251,6 +251,9 @@ Sunday, 8 September 2024:
 
 ![](img/runoff-scheme.jpg "Runoff brackets scheme")
 
+1. Based on their Qualifier seeding, players will be placed in the runoff brackets according to the above scheme.
+2. M
+
 #### Knock-out stage rules
 
 1. The 16 remaining players will be matched against each other based on their seeding (e.g. Seed #1 vs. Seed #16, Seed #2 vs. Seed #15, and so on).
