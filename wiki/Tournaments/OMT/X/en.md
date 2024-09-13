@@ -224,26 +224,24 @@ Sunday, 8 September 2024:
 
 ### Tournament registration
 
-1. In order to participate, players are required to form a team of around 4–6 players and register into the tournament as a team through [this form](https://forms.gle/1EoZ7GF8mrSaQ7pG7).
-   - Each player on the team have to be ranked #1,000 or lower globally after [badge-weighted seeding (BWS) calculations](/wiki/Tournaments/Badge-weighted_seeding) at the end of the registration period in order for the team to be eligible.
-   - The tournament specifically employs a new, modified "badge decay system" that takes into account the age of each badge in its BWS calculations. Details on this system can be found [on this document](https://docs.google.com/document/d/1FWQdDcTbiCzijoE-cU0pj6r--gZzv0N3vD0_a49u6yA/edit#heading=h.fh2l58wew9t8).
-2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
-   - Teams are encouraged to choose their names carefully. The tournament management is not responsible for any repercussions that may arise from team names.
-3. Team captains are required to be present at the tournament's [Discord server](https://discord.gg/Tr9ZC97rwv) as long as their team are still playing in the tournament.
-4. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
-5. The list of players and teams who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
-6. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
+1. Players are required to register into the tournament individually through [this form](https://forms.gle/Kmem8cwURuadsZpTA).
+   - In order to be eligible to play in the tournament, a player must:
+     - Have the ::{ flag=MY }:: Malaysian flag displayed on their profile, and
+     - Be ranked #99,999 or higher in the osu! game mode at the time of registration.
+2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
+6. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
    - Eliminated players are free to enlist as replay providers for the later stages of the tournament in accordance to the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff). 
 
 ### Round-specific rules
 
 #### Qualifier rules
 
-1. Each team will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
-2. In the lobby, all teams will have to consecutively play all of the ten Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
-3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
-4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, teams will be ranked based on their average rank combined from each individual Qualifier beatmap.
+1. Each player will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
+2. In the lobby, all players will have to consecutively play all of the eleven Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
+3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
+4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
+5. Based on their performance in the Qualifier, players will be ranked based on their cumulative Z-score value across all eleven Qualifier beatmaps. A brief explanation on the concept of Z-score can be found [here](www.statisticshowto.com/probability-and-statistics/z-score/).
 6. 32 teams with the **highest average rank** according to the above criteria will advance to the knock-out stages.
    - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all ten Qualifier beatmaps.
    - If the teams are still tied on average score, teams will then be ordered based on the average ranking of their roster after BWS calculations.
