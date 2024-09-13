@@ -66,6 +66,30 @@ The osu! Malaysia Tournament X is run by various osu! community members from Mal
 
 ## Mappools
 
+### Runoff brackets
+
+- No Mod
+  1. [Shiino Kotone (CV: Kanako) - Ashita no Koto. (Garden) \[Extra\]](https://osu.ppy.sh/beatmapsets/1902629#osu/3922591)
+  2. [Lime / Kankitsu - Pixel Princess (Wavewy) \[Extra\]](https://osu.ppy.sh/beatmapsets/2129838#osu/4478624)
+  3. [yuikonnu x sana - Fuzzy Future (Aeril) \[Meg's Extra\]](https://osu.ppy.sh/beatmapsets/545956#osu/1652184)
+  4. [PSYQUI - Still in my heart feat. Punipuni Denki (Kyuuchie) \[Moecho & Amateurre's sanaol "Expert"\]](https://osu.ppy.sh/beatmapsets/1698303#osu/3526945)
+- Hidden
+  1. [MYTH & ROID - L.L.L. (Kalibe) \[Lust\]](https://osu.ppy.sh/beatmapsets/908637#osu/1895993)
+  2. [Azari - Black Out (Ryuusei Aika) \[----\]](https://osu.ppy.sh/beatmapsets/1965625#osu/4075902)
+- Hard Rock
+  1. [Shika-bu - Shikairo Days (iljaaz) \[shikanokonokonokokoshitantan\]](https://osu.ppy.sh/beatmapsets/2211791#osu/4685545)
+  2. [Machita Chima - KING (achyoo) \[Hamster Ass\]](https://osu.ppy.sh/beatmapsets/1306528#osu/2708875)
+- Double Time
+  1. [EGOIST - Saigo no Hanabira (The meaning of love) (anna apple) \[kakifly's Insane\]](https://osu.ppy.sh/beatmapsets/1494327#osu/3346524)
+  2. [x0o0x_ - Big Brother (Luscent) \[YOKES' HARD Mix\]](https://osu.ppy.sh/beatmapsets/1120687#osu/2521562)
+- Free Mod
+  1. [cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll (Zoli) \[Extra\]](https://osu.ppy.sh/beatmapsets/1606218#osu/3292028)
+  2. [xi - Caramel Custard (sullywally) \[Extra\]](https://osu.ppy.sh/beatmapsets/1007007#osu/2108885)
+- EX/Special
+  1. [Momohara Natsuki (CV: Murakawa Rie) - Natsuzora Yell (TV Size) (lootk) \[Insane\]](https://osu.ppy.sh/beatmapsets/943522#osu/2014193)
+- Tiebreaker
+  1. **[B-Complex - Acid Trip (Zetera) \[Sepsis\]](https://osu.ppy.sh/beatmapsets/1339332#osu/2774775)**  
+
 ### Qualifiers
 
 - No Mod
@@ -79,7 +103,7 @@ The osu! Malaysia Tournament X is run by various osu! community members from Mal
 - Hard Rock
   1. [Reku Mochizuki - VEZZELiX (Chaoslitz) \[MARCOBROLO'S EXTRA\]](https://osu.ppy.sh/beatmapsets/1871929#osu/3868452)
   2. [School Food Punishment - fiction nonfiction (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1829347#osu/3754547)
-- DoubleTime
+- Double Time
   1. [Uzuki Shimamura (CV: Ayaka Ohashi) - Hanikami days (Setz) \[M\@STER\]](https://osu.ppy.sh/beatmapsets/1585091#osu/3237674)
   2. [Touno Sakura - PRIZM/CIRCUiT (Muchin) \[Summer, Memories, Love Story!\]](https://osu.ppy.sh/beatmapsets/2142220#osu/4509159)
   3. [Tsukuyomi - Moonlight at midday (Seros) \[Setu's Insane\]](https://osu.ppy.sh/beatmapsets/1537310#osu/3185210)
