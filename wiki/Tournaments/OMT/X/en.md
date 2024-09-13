@@ -84,16 +84,16 @@ The complete list of player registrations can be found [here](https://docs.googl
 | 12 | ::{ flag=MY }:: [Snowy5441](https://osu.ppy.sh/users/13865320) | +4.18 |
 | 13 | ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976) | -0.21 |
 | 14 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | -0.50 |
-| 15 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | 17.20 |
-| 16 | ::{ flag=HK }:: [fua](https://osu.ppy.sh/users/21138904) | 19.80 |
-| 17 | ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | 19.90 |
-| 18 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | 21.20 |
-| 19 | ::{ flag=ID }:: [Serestia](https://osu.ppy.sh/users/30511396) | 22.10 |
-| 20 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | 22.40 |
-| 21 | ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | 23.80 |
-| 22 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | 24.40 |
-| 23 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | 25.00 |
-| 24 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | 25.50 |
+| 15 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | -0.70 |
+| 16 | ::{ flag=MY }:: [Inugami Korone](https://osu.ppy.sh/users/4474918) | -0.82 |
+| 17 | ::{ flag=MY }:: [Chiyuu](https://osu.ppy.sh/users/8226107) | -0.88 |
+| 18 | ::{ flag=MY }:: [Makise Kurisu](https://osu.ppy.sh/users/6996926) | -2.01 |
+| 19 | ::{ flag=MY }:: [MadDdDio](https://osu.ppy.sh/users/15086959) | -2.31 |
+| 20 | ::{ flag=MY }:: [a hotdog](https://osu.ppy.sh/users/8688777) | -2.52 |
+| 21 | ::{ flag=MY }:: [W1nter1](https://osu.ppy.sh/users/23185001) | -3.51 |
+| 22 | ::{ flag=MY }:: [-Shiran-](https://osu.ppy.sh/users/9773374) | -4.48 |
+| 23 | ::{ flag=MY }:: [Atomium](https://osu.ppy.sh/users/19186968) | -4.77 |
+| 24 | ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940) | -4.84 |
 
 ## Mappools
 
