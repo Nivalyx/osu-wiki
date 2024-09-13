@@ -64,6 +64,37 @@ The osu! Malaysia Tournament X is run by various osu! community members from Mal
 
 ## Participants
 
+Listed below are the players who managed to qualify into the tournament proper (along with their respective seed number and aggregated Z-score across all eleven Qualifier beatmaps) out of 45 participating players in total.
+
+The complete list of player registrations can be found [here](https://docs.google.com/spreadsheets/d/1tJIry9tAr7wfQGvh071pdKB6QrLIPep8hd444j0UWik/edit?gid=0#gid=0).
+
+| Seed no. | Player | Z-score |
+| :-- | :-- | :-- |
+| 1 | ::{ flag=MY }:: [wuhua](https://osu.ppy.sh/users/2932510) | +21.53 |
+| 2 | ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446) | +21.36 |
+| 3 | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630) | +19.34 |
+| 4 | ::{ flag=MY }:: [AHotDawg](https://osu.ppy.sh/users/15271985) | +14.50 |
+| 5 | ::{ flag=MY }:: [Breast](https://osu.ppy.sh/users/11918602) | +13.88 |
+| 6 | ::{ flag=MY }:: [Auxuelus](https://osu.ppy.sh/users/5414124) | +10.39 |
+| 7 | ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377) | +10.34 |
+| 8 | ::{ flag=MY }:: [ohshitweeb](https://osu.ppy.sh/users/12999285) | +7.75 |
+| 9 | ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694) | +6.83 |
+| 10 | ::{ flag=MY }:: [stumphole145](https://osu.ppy.sh/users/14623152) | +6.43 |
+| 11 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | +5.69 |
+| 12 | ::{ flag=MY }:: [Snowy5441](https://osu.ppy.sh/users/13865320) | +4.18 |
+| 13 | ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976) | -0.21 |
+| 14 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | -0.50 |
+| 15 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | 17.20 |
+| 16 | ::{ flag=HK }:: [fua](https://osu.ppy.sh/users/21138904) | 19.80 |
+| 17 | ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | 19.90 |
+| 18 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | 21.20 |
+| 19 | ::{ flag=ID }:: [Serestia](https://osu.ppy.sh/users/30511396) | 22.10 |
+| 20 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | 22.40 |
+| 21 | ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | 23.80 |
+| 22 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | 24.40 |
+| 23 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | 25.00 |
+| 24 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | 25.50 |
+
 ## Mappools
 
 ### Round of 16
