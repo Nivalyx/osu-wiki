@@ -172,14 +172,14 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 Friday, 6 September 2024:
 
-| Match type | Player 1 |  |  | Player 2 | Match link |
+| Match classification | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | R2 | **[Chiyuu](https://osu.ppy.sh/users/8226107)** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940) | [#1](https://osu.ppy.sh/community/matches/115382928) |
 | R2 | **[MadDdDio](https://osu.ppy.sh/users/15086959)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [-Shiran-](https://osu.ppy.sh/users/9773374) | [#1](https://osu.ppy.sh/community/matches/115385117) |
 
 Saturday, 7 September 2024:
 
-| Match type | Team 1 |  |  | Team 2 | Match link |
+| Match classification | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | R2 | [Makise Kurisu](https://osu.ppy.sh/users/6996926) ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **[Atomium](https://osu.ppy.sh/users/19186968)** | [#1](https://osu.ppy.sh/community/matches/115401125) |
 | R1 | **[Jolene](https://osu.ppy.sh/users/13626098)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | [#1](https://osu.ppy.sh/community/matches/115414986) |
@@ -190,7 +190,7 @@ Saturday, 7 September 2024:
 
 Sunday, 8 September 2024:
 
-| Match type | Team 1 |  |  | Team 2 | Match link |
+| Match classification | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | R3 | [Inugami Korone](https://osu.ppy.sh/users/4474918) ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/115412910) |
 | R3 | **[Addam](https://osu.ppy.sh/users/11716599)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Atomium](https://osu.ppy.sh/users/19186968) | [#1](https://osu.ppy.sh/community/matches/115415362) |
@@ -252,7 +252,7 @@ Sunday, 8 September 2024:
 ![](img/runoff-scheme.jpg "Runoff brackets scheme")
 
 1. Based on their Qualifier seeding, players will be placed in the runoff brackets according to the above scheme.
-2. M
+2. Depending on their placement in the brackets, matches in the runoff brackets will be classified as **R1**, **R2**, and **R3** as follows:
 
 #### Knock-out stage rules
 
