@@ -36,19 +36,20 @@ The **osu! Malaysia Tournament X** (OMT X) is a double-elimination 1v1 osu! tour
 
 ## Organisation
 
-The Donut Cup was run by various osu! community members from all over the world.
+The osu! Malaysia Tournament X is run by various osu! community members from Malaysia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
+| Co-host | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=MY }:: [Amamiya Kokoro](https://osu.ppy.sh/users/9534110) |
 | Mappool selector | ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=US }:: [\_kola](https://osu.ppy.sh/users/12606578), ::{ flag=AU }:: [Secured](https://osu.ppy.sh/users/14648196), ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914) |
 | Custom mapper | ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=US }:: [mintIceCream\_](https://osu.ppy.sh/users/13221589), ::{ flag=AU }:: [itstaipeople](https://osu.ppy.sh/users/8395155), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=AU }:: [-Kirigiri](https://osu.ppy.sh/users/10816653), ::{ flag=PH }:: [Raburauza](https://osu.ppy.sh/users/8648178), ::{ flag=US }:: [IOException](https://osu.ppy.sh/users/2688103), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
 | Playtester and replayer | ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=US }:: [sleeping\_24-7](https://osu.ppy.sh/users/8112433), ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166), ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473), ::{ flag=US }:: [Twilight](https://osu.ppy.sh/users/6327638), ::{ flag=US }:: [modeo](https://osu.ppy.sh/users/4580287), ::{ flag=CL }:: [Siiphs](https://osu.ppy.sh/users/11786864), ::{ flag=DE }:: [mihari](https://osu.ppy.sh/users/5442251), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=US }:: [NoWifi](https://osu.ppy.sh/users/17841979), ::{ flag=US }:: [hr3](https://osu.ppy.sh/users/11962818)[^hr3-note] |
 | Streamer | ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325), ::{ flag=AU }:: [TheTopaz](https://osu.ppy.sh/users/7588992), ::{ flag=US }:: [rety](https://osu.ppy.sh/users/12201636), ::{ flag=US }:: [BlueCrystal004](https://osu.ppy.sh/users/4349974), ::{ flag=US }:: [Kahli](https://osu.ppy.sh/users/10408325) |
 | Commentator | ::{ flag=GB }:: [Rosiee](https://osu.ppy.sh/users/31547675), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348), ::{ flag=AU }:: [unicornlover](https://osu.ppy.sh/users/13179722), ::{ flag=DE }:: [-semi](https://osu.ppy.sh/users/5154946), ::{ flag=US }:: [Mommy](https://osu.ppy.sh/users/7943819) |
 | Referee | ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=GB }:: [Rosiee](https://osu.ppy.sh/users/31547675), ::{ flag=CZ }:: [Dave Seville](https://osu.ppy.sh/users/22122799), ::{ flag=IT }:: [Akahito](https://osu.ppy.sh/users/9448341), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387), ::{ flag=US }:: [Feath3rblade](https://osu.ppy.sh/users/15229801), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=US }:: [-Risu-](https://osu.ppy.sh/users/7047218), ::{ flag=US }:: [fooders](https://osu.ppy.sh/users/7545218), ::{ flag=CA }:: [nanawo](https://osu.ppy.sh/users/5426640) |
-| Graphic designer | ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308) |
-| Spreadsheet manager | ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047) |
+| Graphic designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499) |
+| Spreadsheet manager | ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
 | Character illustrator | ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
