@@ -249,13 +249,15 @@ Sunday, 8 September 2024:
 
 #### Runoff bracket rules
 
+![](img/runoff-scheme.jpg "Runoff brackets scheme")
+
 #### Knock-out stage rules
 
-1. The 32 teams who got through from the Qualifiers will be matched against each other based on their Qualifier seeding (e.g. Seed #1 vs. Seed #32, Seed #2 vs. Seed #31, and so on).
-2. Teams will compete against each other using the double-elimination system.
+1. The 16 remaining players will be matched against each other based on their seeding (e.g. Seed #1 vs. Seed #16, Seed #2 vs. Seed #15, and so on).
+2. Players will compete against each other using the double-elimination system.
 3. The double-elimination system works as follows:
-   - Teams who lose in the upper bracket can still play again in the lower bracket.
-   - Teams who lose in the lower bracket will be eliminated from the tournament.
+   - Players who lose in the upper bracket can still play again in the lower bracket.
+   - Players who lose in the lower bracket will be eliminated from the tournament.
    - In the Grand Final match, the winner of the the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
 4. Teams who can compete in the next round are determined by:
    - In the Round of 32 and the Round of 16, each team needs to win 5 points in order to win a match. (Best of 9)
