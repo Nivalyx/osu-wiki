@@ -206,14 +206,16 @@ Sunday, 8 September 2024:
    - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
-   - Reschedules have to be done at least 24 hours before the scheduled match time in order to be considered valid.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-5. If a team does not show up or is unable to field in a sizeable 3v3 roster within **15 minutes** of the start time, their opponent wins by default.
+5. If a player fails to show up within:
+   - 5 minutes of the scheduled match time: Their opponent wins the `!roll` by default.
+   - 10 minutes of the scheduled match time: The player loses their ban and their opponent gets to ban 2 maps in a row.
+   - 15 minutes of the scheduled match time: Their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
-8. If a player disconnects, it will be treated as if they had abandoned the beatmap.
-   - In such cases, the beatmap result will be given to whichever team had a distinct advantage score-wise up to the disconnection.
-   - Under more unfavorable conditions, the beatmap in question may be replayed under ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), or the referee's discretion (on behalf of the hosts).
+8. If a player disconnects, it will be treated as if they had failed the beatmap.
+   - A beatmap can be replayed for disconnects that occur within 30 seconds after it has been started for a maximum of 2 times per match.
+   - Subsequent disconnections and disconnections that occur after more than 30 seconds into a beatmap will be counted as an automatic loss for the disconnecting player.
 9. Lag is not a valid reason to nullify a beatmap.
 10. If any problems during the match occur, the tournament management will make a decision based on the referee's report.
 11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
