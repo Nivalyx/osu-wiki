@@ -168,104 +168,36 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Match results
 
-### Grand Finals[^stage-note-2]
+### Runoff brackets
 
-Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1q6CsZ5b3WHUTXUXfCpVdsJxgTDvz_Q2hRPdDbswgJFQ/edit).
+Friday, 6 September 2024:
 
-Friday, 12 July 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
+| Match type | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | No title | 1 | **7** | **crying right now** | [#1](https://osu.ppy.sh/community/matches/114644017) |
+| R2 | **[Chiyuu](https://osu.ppy.sh/users/8226107)** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940) | [#1](https://osu.ppy.sh/community/matches/115382928) |
+| R2 | **[MadDdDio](https://osu.ppy.sh/users/15086959)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [-Shiran-](https://osu.ppy.sh/users/9773374) | [#1](https://osu.ppy.sh/community/matches/115385117) |
 
-Sunday, 14 July 2024, Grand Final:
+Saturday, 7 September 2024:
 
-| Bracket | Team 1 |  |  | Team 2 | Match link |
+| Match type | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | YOSHIMOBIL | 6 | **7** | **crying right now** | [#1](https://osu.ppy.sh/community/matches/114669424) |
-| Grand Final (bracket reset) | **crying right now** | **7** | 3 | YOSHIMOBIL | [#1](https://osu.ppy.sh/community/matches/114670678) |
+| R1 | [Snowy5441](https://osu.ppy.sh/users/13865320) ::{ flag=MY }:: | 1 | **5** | ::{ flag=MY }:: **[Racers03](https://osu.ppy.sh/users/11621976)** | [#1](https://osu.ppy.sh/community/matches/115399896) |
+| R1 | **[stumphole145](https://osu.ppy.sh/users/14623152)** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | [#1](https://osu.ppy.sh/community/matches/115400685) |
+| R2 | [Makise Kurisu](https://osu.ppy.sh/users/6996926) ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **[Atomium](https://osu.ppy.sh/users/19186968)** | [#1](https://osu.ppy.sh/community/matches/115401125) |
+| R1 | **[DuoX](https://osu.ppy.sh/users/9560694)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [Inugami Korone](https://osu.ppy.sh/users/4474918) | [#1](https://osu.ppy.sh/community/matches/115404426) |
 
-### Finals[^stage-note-1]
+Sunday, 8 September 2024:
 
-Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1ryloSFoN2jOLlYQP9HH5IY5yyhDid9ppPaD3JZ0gWGI/edit?gid=1237373495#gid=1237373495).
-
-Saturday, 6 July 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
+| Match type | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **crying right now** | **7** | 4 | foreign talent | [#1](https://osu.ppy.sh/community/matches/114568757) |
-| Lower | **JustForFun** | **7** | 5 | gwk's team | [#1](https://osu.ppy.sh/community/matches/114570048) |
-
-Sunday, 7 July 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **crying right now** | **7** | 3 | JustForFun | [#1](https://osu.ppy.sh/community/matches/114582115) |
-| Upper | No title | 3 | **7** | **YOSHIMOBIL** | [#1](https://osu.ppy.sh/community/matches/114584234) |
-
-### Semifinals
-
-Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1lmZEZ5WxtXXi3F-cHqmo5wmc0LbbsJVKl7RY0y9HbRs/edit).
-
-Friday, 28 June 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **foreign talent** | **6** | 0 | old goats | [#1](https://osu.ppy.sh/community/matches/114471897) |
-
-Saturday, 29 June 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Paper Factory | 3 | **6** | **arujidonut** | [#1](https://osu.ppy.sh/community/matches/114485287) |
-| Lower | **mooshu** | **6** | 1 | Beesechurger | [#1](https://osu.ppy.sh/community/matches/114484456) |
-| Lower | Bakery | 0 | **6** | **gwk's team** | *win by default* |
-
-Sunday, 30 June 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | crying right now | 3 | **6** | **YOSHIMOBIL** | [#1](https://osu.ppy.sh/community/matches/114497785) |
-| Lower | mooshu | 5 | **6** | **foreign talent** | [#1](https://osu.ppy.sh/community/matches/114497077) |
-| Lower | arujidonut | 4 | **6** | **gwk's team** | [#1](https://osu.ppy.sh/community/matches/114497678) |
-| Upper | **No title** | **6** | 5 | JustForFun | [#1](https://osu.ppy.sh/community/matches/114498352) |
-
-### Quarterfinals
-
-Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1wzJ_7ElO5HUS4dabqdgew8KBVf73teBZ3bUjjHFy14g/edit?usp=sharing).
-
-Saturday, 22 June 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **Crying right now** | **6** | 1 | Bakery | [#1](https://osu.ppy.sh/community/matches/114394763) |
-| Lower | groundhog fanclub | 5 | **6** | **gwk's team** | [#1](https://osu.ppy.sh/community/matches/114396164) |
-| Lower | Wait I'm Floated | 4 | **6** | **Dough Getters** | [#1](https://osu.ppy.sh/community/matches/114398072) |
-| Lower | Square Hector Berlioz | 3 | **6** | **water tribe** | [#1](https://osu.ppy.sh/community/matches/114399337) |
-| Lower | Bagel | 4 | **6** | **crickhard housewife** | [#1](https://osu.ppy.sh/community/matches/114394590) |
-| Lower | **arujidonut** | **6** | 1 | donut | [#1](https://osu.ppy.sh/community/matches/114395056) |
-| Lower | wingstop | 4 | **6** | **我的哈基米观崩溃了** | [#1](https://osu.ppy.sh/community/matches/114394568) |
-| Lower | **Beesechurger** | **6** | 1 | 5 goats and SakaIndy | [#1](https://osu.ppy.sh/community/matches/114396726) |
-| Lower | **old goats** | **6** | 0 | Oregano State University | [#1](https://osu.ppy.sh/community/matches/114399273) |
-| Upper | **YOSHIMOBIL** | **6** | 4 | Paper Factory | [#1](https://osu.ppy.sh/community/matches/114411158) |
-
-Sunday, 23 June 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **No Title** | **6** | 5 | foreign talent | [#1](https://osu.ppy.sh/community/matches/114394762) |
-| Lower | Dough Getters | 3 | **6** | **Beesechurger** | [#1](https://osu.ppy.sh/community/matches/114411194) |
-| Lower | **gwk's team** | **6** | 1 | crickhard housewife | [#1](https://osu.ppy.sh/community/matches/114411177) |
-| Lower | 我的哈基米观崩溃了 | 3 | **6** | **old goats** | [#1](https://osu.ppy.sh/community/matches/114409745) |
-| Lower | **arujidonut** | **6** | 4 | water tribe | [#1](https://osu.ppy.sh/community/matches/114408891) |
-| Upper | mooshu | 4 | **6** | **JustForFun** | [#1](https://osu.ppy.sh/community/matches/114408897) |
+| R3 | [Inugami Korone](https://osu.ppy.sh/users/4474918) ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/115412910) |
 
 ## Ruleset
 
 ### General rules
 
 1. Match lobbies across the tournament will adhere to the following room settings:
-   - Team Mode: `Team VS` (3v3)
+   - Team Mode: `Head-to-head`
    - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
