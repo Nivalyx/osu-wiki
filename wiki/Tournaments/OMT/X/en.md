@@ -317,7 +317,6 @@ Sunday, 23 June 2024:
 
 ## Notes
 
-[^ex-ro16-1]: This map is an [Aspire](/wiki/Contests/Aspire)-style [2B map](https://www.youtube.com/watch?v=8teIBNQfr7Q).
-[^stage-note-1]: Also referred to as the "Friend" stage throughout the tournament.
-[^stage-note-2]: Also referred to as the "Girlfriend" stage throughout the tournament.
-[^qual-note-1]: Average score across all ten Qualifier beatmaps: Square Hector Berlioz 1,655,815, Oregono State University 1,624,806.
+[^ex-ro16-1]: This map is an [Aspire](/wiki/Contests/Aspire)-styled [2B map](https://www.youtube.com/watch?v=8teIBNQfr7Q).
+[^ex-ro16-2]: This map is to be played with the Flashlight mod enabled.
+[^ex-runoff]: This map is to be played with either No Mod or Hidden.
