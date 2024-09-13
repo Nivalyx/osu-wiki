@@ -66,7 +66,7 @@ The osu! Malaysia Tournament X is run by various osu! community members from Mal
 
 ## Mappools
 
-### Runoff brackets
+### Round of 16
 
 - No Mod
   1. [Shiino Kotone (CV: Kanako) - Ashita no Koto. (Garden) \[Extra\]](https://osu.ppy.sh/beatmapsets/1902629#osu/3922591)
@@ -87,6 +87,30 @@ The osu! Malaysia Tournament X is run by various osu! community members from Mal
   2. [xi - Caramel Custard (sullywally) \[Extra\]](https://osu.ppy.sh/beatmapsets/1007007#osu/2108885)
 - EX/Special
   1. [Momohara Natsuki (CV: Murakawa Rie) - Natsuzora Yell (TV Size) (lootk) \[Insane\]](https://osu.ppy.sh/beatmapsets/943522#osu/2014193)
+- Tiebreaker
+  1. **[B-Complex - Acid Trip (Zetera) \[Sepsis\]](https://osu.ppy.sh/beatmapsets/1339332#osu/2774775)** 
+
+### Runoff brackets
+
+- No Mod
+  1. [Shiino Kotone (CV: Kanako) - Ashita no Koto. (Garden) \[Extra\]](https://osu.ppy.sh/beatmapsets/1902629#osu/3922591)
+  2. [Lime / Kankitsu - Pixel Princess (Wavewy) \[Extra\]](https://osu.ppy.sh/beatmapsets/2129838#osu/4478624)
+  3. [yuikonnu x sana - Fuzzy Future (Aeril) \[Meg's Extra\]](https://osu.ppy.sh/beatmapsets/545956#osu/1652184)
+  4. [PSYQUI - Still in my heart feat. Punipuni Denki (Kyuuchie) \[Moecho & Amateurre's sanaol "Expert"\]](https://osu.ppy.sh/beatmapsets/1698303#osu/3526945)
+- Hidden
+  1. [MYTH & ROID - L.L.L. (Kalibe) \[Lust\]](https://osu.ppy.sh/beatmapsets/908637#osu/1895993)
+  2. [Azari - Black Out (Ryuusei Aika) \[----\]](https://osu.ppy.sh/beatmapsets/1965625#osu/4075902)
+- Hard Rock
+  1. [Shika-bu - Shikairo Days (iljaaz) \[shikanokonokonokokoshitantan\]](https://osu.ppy.sh/beatmapsets/2211791#osu/4685545)
+  2. [Machita Chima - KING (achyoo) \[Hamster Ass\]](https://osu.ppy.sh/beatmapsets/1306528#osu/2708875)
+- Double Time
+  1. [EGOIST - Saigo no Hanabira (The meaning of love) (anna apple) \[kakifly's Insane\]](https://osu.ppy.sh/beatmapsets/1494327#osu/3346524)
+  2. [x0o0x\_ - Big Brother (Luscent) \[YOKES' HARD Mix\]](https://osu.ppy.sh/beatmapsets/1120687#osu/2521562)
+- Free Mod
+  1. [cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll (Zoli) \[Extra\]](https://osu.ppy.sh/beatmapsets/1606218#osu/3292028)
+  2. [xi - Caramel Custard (sullywally) \[Extra\]](https://osu.ppy.sh/beatmapsets/1007007#osu/2108885)
+- EX/Special
+  1. [Momohara Natsuki (CV: Murakawa Rie) - Natsuzora Yell (TV Size) (lootk) \[Insane\]](https://osu.ppy.sh/beatmapsets/943522#osu/2014193)[^ex-runoff]
 - Tiebreaker
   1. **[B-Complex - Acid Trip (Zetera) \[Sepsis\]](https://osu.ppy.sh/beatmapsets/1339332#osu/2774775)**  
 
@@ -201,157 +225,6 @@ Sunday, 23 June 2024:
 | Lower | 我的哈基米观崩溃了 | 3 | **6** | **old goats** | [#1](https://osu.ppy.sh/community/matches/114409745) |
 | Lower | **arujidonut** | **6** | 4 | water tribe | [#1](https://osu.ppy.sh/community/matches/114408891) |
 | Upper | mooshu | 4 | **6** | **JustForFun** | [#1](https://osu.ppy.sh/community/matches/114408897) |
-
-### Round of 16
-
-Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1Akpbk4pf7DSJ9U5k4H1fAxfE7fXg5hY2JTNYSsp8GSI/edit).
-
-Friday, 14 June 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Vivace Osu | 0 | **5** | **gwk's team** | [#1](https://osu.ppy.sh/community/matches/114292774) |
-| Upper | **No title** | **5** | 4 | Bagel | [#1](https://osu.ppy.sh/community/matches/114288167) |
-| Lower | G59 | 1 | **5** | **5 goats and SakaIndy** | [#1](https://osu.ppy.sh/community/matches/114288838) |
-
-Saturday, 15 June 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **crickhard housewife** | **5** | 4 | miku couch | [#1](https://osu.ppy.sh/community/matches/114303887) |
-| Upper | **Paper Factory** | **5** | 2 | Wait I'm Floated | [#1](https://osu.ppy.sh/community/matches/114303886) |
-| Upper | **JustForFun** | **5** | 3 | arujidonut | [#1](https://osu.ppy.sh/community/matches/114297392) |
-| Upper | **foreign talent** | **5** | 2 | groundhog fanclub | [#1](https://osu.ppy.sh/community/matches/114301591) |
-| Upper | **crying right now** | **5** | 1 | old goats | [#1](https://osu.ppy.sh/community/matches/114302248) |
-| Lower | **water tribe** | **5** | 1 | Super Team | [#1](https://osu.ppy.sh/community/matches/114300936) |
-
-Sunday, 16 June 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Dönerbox A | 1 | **5** | **Dough Getters** | [#1](https://osu.ppy.sh/community/matches/114319520) |
-| Upper | **mooshu** | **5** | 1 | Square Hector Berlioz | [#1](https://osu.ppy.sh/community/matches/114316818) |
-| Lower | **我的哈基米观崩溃了** | **5** | 4 | 13UTCDFLT=KIL | [#1](https://osu.ppy.sh/community/matches/114317675) |
-| Upper | **YOSHIMOBIL** | **5** | 4 | Beesechurgers | [#1](https://osu.ppy.sh/community/matches/114319561) |
-| Upper | wingstop | 0 | **5** | **Bakery** | [#1](https://osu.ppy.sh/community/matches/114314063) |
-| Lower | WolneMiasto Gdańsk | 0 | **5** | **Oregano State University** | *win by default* |
-
-### Round of 32
-
-Detailed statistics for this round in [this spreadsheet](https://docs.google.com/spreadsheets/d/1S-GSpDaCQiITVn0GrU8ygHDmA7YOr8aeIqh-X5xbgDI/edit?gid=1237373495#gid=1237373495).
-
-Friday, June 7 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **Wait I'm Floated** | **5** | 4 | miku couch | [#1](https://osu.ppy.sh/community/matches/114198130) |
-| Upper | **Bakery** | **5** | 0 | Super Team | [#1](https://osu.ppy.sh/community/matches/114194222) |
-
-Saturday, 8 June 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | water tribe | 4 | **5** | **wingstop** | [#1](https://osu.ppy.sh/community/matches/114209585) |
-| Upper | **No title** | **5** | 0 | Dönerbox A | [#1](https://osu.ppy.sh/community/matches/114208680) |
-| Upper | Dough Getters | 2 | **5** | **Bagel** | [#1](https://osu.ppy.sh/community/matches/114209207) |
-| Upper | **groundhog fanclub** | **5** | 1 | 5 goats and SakaIndy | [#1](https://osu.ppy.sh/community/matches/114208697) |
-| Upper | 13UTCDFLT=KIL | 0 | **5** | **Square Hector Berlioz** | [#1](https://osu.ppy.sh/community/matches/114210327) |
-| Upper | **arujidonut** | **5** | 1 | Oregano State University | [#1](https://osu.ppy.sh/community/matches/114202854) |
-| Upper | **JustForFun** | **5** | 2 | WolneMiasto Gdańsk | [#1](https://osu.ppy.sh/community/matches/114206302) |
-| Upper | **YOSHIMOBIL** | **5** | 0 | Vivace Osu | [#1](https://osu.ppy.sh/community/matches/114212196) |
-
-Sunday, 9 June 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **Paper Factory** | **5** | 4 | crickhard housewife | [#1](https://osu.ppy.sh/community/matches/114228288) |
-| Upper | **foreign talent** | **5** | 0 | G59 | [#1](https://osu.ppy.sh/community/matches/114224052) |
-| Upper | **mooshu** | **5** | 4 | 我的哈基米观崩溃了 | [#1](https://osu.ppy.sh/community/matches/114223160) |
-| Upper | **old goats** | **5** | 3 | donut | [#1](https://osu.ppy.sh/community/matches/114227470) |
-| Upper | **Beesechurger** | **5** | 2 | gwk's team | [#1](https://osu.ppy.sh/community/matches/114224862) |
-| Upper | **crying right now** | **5** | 0 | i think we gaem | *win by default* |
-
-### Qualifiers
-
-Detailed information on the standings of the Qualifier stage can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1lNW2V9w0c5-CmmlHpXKMJ7cpGd2A4skHFqIU2D9Ukgk/edit?usp=sharing).
-
-| Seed | Team name | Avg. rank |
-| :-: | :-- | --: |
-| #1 | No title | 7.90 |
-| #2 | crying right now | 9.60 |
-| #3 | YOSHIMOBIL | 10.70 |
-| #4 | mooshu | 10.80 |
-| #5 | JustForFun | 11.00 |
-| #6 | Paper Factory | 11.30 |
-| #7 | water tribe | 12.30 |
-| #8 | foreign talent | 13.10 |
-| #9 | groundhog fanclub | 14.90 |
-| #10 | Bakery | 17.00 |
-| #11 | Wait I'm Floated | 17.80 |
-| #12 | arujidonut | 18.60 |
-| #13 | 13UTCDFLT=KIL | 19.00 |
-| #14 | Beesechurger | 19.10 |
-| #15 | old goats | 19.80 |
-| #16 | Dough Getters | 20.30 |
-| #17 | Bagel | 20.40 |
-| #18 | donut | 21.30 |
-| #19 | gwk's team | 21.70 |
-| #20 | Square Hector Berlioz | 22.00[^qual-note-1] |
-| #21 | Oregano State University | 22.00[^qual-note-1] |
-| #22 | miku couch | 22.90 |
-| #23 | Super Team | 23.10 |
-| #24 | 5 goats and SakaIndy | 24.80 |
-| #25 | G59 | 25.40 |
-| #26 | wingstop | 28.50 |
-| #27 | crickhard housewife | 29.00 |
-| #28 | WolneMiasto Gdańsk | 29.40 |
-| #29 | 我的哈基米观崩溃了 | 29.90 |
-| #30 | Vivace Osu | 30.90 |
-| #31 | I think we gaem | 31.60 |
-| #32 | Dönerbox A | 31.90 |
-| #33 | LAS GANAS DE COMER | 32.20 |
-| #34 | Des gens sérieux | 32.90 |
-| #35 | Ascaveth Airlines | 33.80 |
-| #36 | first | 34.20 |
-| #37 | L Farmers | 34.90 |
-| #38 | LeJohn James | 35.10 |
-| #39 | Ji Bool Son | 36.40 |
-| #40 | skibidi mareto | 38.40 |
-| #41 | Pudding | 38.50 |
-| #42 | sprinkles on top | 38.70 |
-| #43 | dough NUTT | 39.80 |
-| #44 | casa sasoriosu | 40.30 |
-| #45 | Secret Team | 42.00 |
-| #46 | little munchkins | 42.70 |
-| #47 | You Are My Sunshine | 43.40 |
-| #48 | peepoHappy | 44.40 |
-| #49 | Pink Eye Lovers | 45.90 |
-| #50 | *\[redacted\]* | 46.10 |
-| #51 | Sleepy Time | 46.70 |
-| #52 | makaron my beloved | 47.50 |
-| #53 | TEAM AS TURBY | 52.20 |
-| #54 | play priconne | 52.30 |
-| #55 | гойда | 53.30 |
-| #56 | kk glazed donuts | 54.60 |
-| #57 | catpiss | 55.90 |
-| #58 | Thug Aim | 56.30 |
-| #59 | cat band | 56.60 |
-| #60 | Songinator | 57.60 |
-| #61 | MAKCOH | 57.70 |
-| #62 | chlpy na bradavkach | 57.90 |
-| #63 | Gone Mad | 59.10 |
-| #64 | Assalamualaikum | 59.30 |
-| #65 | IIIAIIILb1C | 59.30 |
-| #66 | Hallo? | 59.40 |
-| #67 | whatever zebedee comes up with | 60.20 |
-| #68 | Refugee Camp | 64.70 |
-| #69 | TITANIC HUBERT | 65.70 |
-| #70 | \#bolsonaro2026 | 67.30 |
-| #71 | fanclub de martin | 69.50 |
-| #72 | good luck have fumo | 69.70 |
-| #73 | ochkovo91d0r | 70.50 |
-| #74 | Goku Mondongo | 72.40 |
-| #75 | BARRA BRAVA HUACHIPATO | 74.60 |
 
 ## Ruleset
 
