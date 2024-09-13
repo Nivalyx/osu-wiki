@@ -69,26 +69,29 @@ The osu! Malaysia Tournament X is run by various osu! community members from Mal
 ### Round of 16
 
 - No Mod
-  1. [Shiino Kotone (CV: Kanako) - Ashita no Koto. (Garden) \[Extra\]](https://osu.ppy.sh/beatmapsets/1902629#osu/3922591)
-  2. [Lime / Kankitsu - Pixel Princess (Wavewy) \[Extra\]](https://osu.ppy.sh/beatmapsets/2129838#osu/4478624)
-  3. [yuikonnu x sana - Fuzzy Future (Aeril) \[Meg's Extra\]](https://osu.ppy.sh/beatmapsets/545956#osu/1652184)
-  4. [PSYQUI - Still in my heart feat. Punipuni Denki (Kyuuchie) \[Moecho & Amateurre's sanaol "Expert"\]](https://osu.ppy.sh/beatmapsets/1698303#osu/3526945)
+  1. [Hujan - Mencari Konklusi (anjay) \[Ketenangan\]](https://osu.ppy.sh/beatmapsets/2246786#osu/4777025)
+  2. [Sabaton - Twilight Of The Thunder God (-Mack-) \[Your destiny awaits!\]](https://osu.ppy.sh/beatmapsets/1994917#osu/4145857)
+  3. [Sakuzyo - Ultimate Force (Banner) \[Absolution\]](https://osu.ppy.sh/beatmapsets/2246785#osu/4777024)
+  4. [AJURIKA - BIG som tam (KKipalt) \[:drool:\]](https://osu.ppy.sh/beatmapsets/1833709#osu/3764497)
+  5. [yama - Shikisai (Akito) \[bond\]](https://osu.ppy.sh/beatmapsets/1926251#osu/3977485)
 - Hidden
-  1. [MYTH & ROID - L.L.L. (Kalibe) \[Lust\]](https://osu.ppy.sh/beatmapsets/908637#osu/1895993)
-  2. [Azari - Black Out (Ryuusei Aika) \[----\]](https://osu.ppy.sh/beatmapsets/1965625#osu/4075902)
+  1. [PSYQUI - Hype feat. Such (lapix Remix) (Mir) \[Seeing Stars\]](https://osu.ppy.sh/beatmapsets/830537#osu/1740092)
+  2. [Kotoha - Cat Loving (Kotoha) \[bongo's Insane\]](https://osu.ppy.sh/beatmapsets/1809604#osu/3711612)
 - Hard Rock
-  1. [Shika-bu - Shikairo Days (iljaaz) \[shikanokonokonokokoshitantan\]](https://osu.ppy.sh/beatmapsets/2211791#osu/4685545)
-  2. [Machita Chima - KING (achyoo) \[Hamster Ass\]](https://osu.ppy.sh/beatmapsets/1306528#osu/2708875)
+  1. [Hinami Mei - Asu o Asare (gazimal) \[You & I\]](https://osu.ppy.sh/beatmapsets/1704302#osu/3482459)
+  2. [Special Guest - Views (squirrelpascals) \[Tits\]](https://osu.ppy.sh/beatmapsets/556274#osu/1177274)
 - Double Time
-  1. [EGOIST - Saigo no Hanabira (The meaning of love) (anna apple) \[kakifly's Insane\]](https://osu.ppy.sh/beatmapsets/1494327#osu/3346524)
-  2. [x0o0x_ - Big Brother (Luscent) \[YOKES' HARD Mix\]](https://osu.ppy.sh/beatmapsets/1120687#osu/2521562)
+  1. [Yuika - Suki Dakara. (feat. Ren) (Airiesu) \[Won't you stay by my side forever?\]](https://osu.ppy.sh/beatmapsets/1610462#osu/3288202)
+  2. [Aphex Twin - Flim (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/998953#osu/2089279)
+  3. [Giga x TENKOMORI - Netoge Haijin Sprechchor (Cut Ver.) (Ixcors) \[Insane (AR8.5 Edit)\]](https://osu.ppy.sh/beatmapsets/1615815#osu/4024733)
 - Free Mod
-  1. [cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll (Zoli) \[Extra\]](https://osu.ppy.sh/beatmapsets/1606218#osu/3292028)
-  2. [xi - Caramel Custard (sullywally) \[Extra\]](https://osu.ppy.sh/beatmapsets/1007007#osu/2108885)
+  1. [Schwank - OPEN YOUR 3RD EYE (Amamya Kokoro) \[Heartfelt Burst\]](https://osu.ppy.sh/beatmapsets/2040473#osu/4256603)
+  2. [TAG - Theory of Eternity (kiddly) \[Extra\]](https://osu.ppy.sh/beatmapsets/35224#osu/227061)
 - EX/Special
-  1. [Momohara Natsuki (CV: Murakawa Rie) - Natsuzora Yell (TV Size) (lootk) \[Insane\]](https://osu.ppy.sh/beatmapsets/943522#osu/2014193)
+  1. [in love with a ghost - interdimensional portal leading to a cute place feat. snail's house (Voltaeyx) \[[2B] A Dazzling Discovery\]](https://osu.ppy.sh/beatmapsets/1901782#osu/3920710)[^ex-ro16-1]
+  2. [yugurr - Spinner Training (SaintTurk) \[Training\]](https://osu.ppy.sh/beatmapsets/410231#osu/890326)[^ex-ro16-2]
 - Tiebreaker
-  1. **[B-Complex - Acid Trip (Zetera) \[Sepsis\]](https://osu.ppy.sh/beatmapsets/1339332#osu/2774775)** 
+  1. **[E0ri4 - L0V3 4RR0W 5H007 (Strategas) \[H4PP1N355\]](https://osu.ppy.sh/beatmapsets/1889263#osu/3891073)**
 
 ### Runoff brackets
 
@@ -314,7 +317,7 @@ Sunday, 23 June 2024:
 
 ## Notes
 
-[^hr3-note]: ::{ flag=US }:: [hr3](https://osu.ppy.sh/users/11962818) was brought in as a replayer after their team's elimination from the tournament.
+[^ex-ro16-1]: This map is an [Aspire](/wiki/Contests/Aspire)-style [2B map](https://www.youtube.com/watch?v=8teIBNQfr7Q).
 [^stage-note-1]: Also referred to as the "Friend" stage throughout the tournament.
 [^stage-note-2]: Also referred to as the "Girlfriend" stage throughout the tournament.
 [^qual-note-1]: Average score across all ten Qualifier beatmaps: Square Hector Berlioz 1,655,815, Oregono State University 1,624,806.
