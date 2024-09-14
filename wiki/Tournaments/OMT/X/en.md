@@ -286,13 +286,12 @@ Sunday, 8 September 2024:
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
 4. Players are expected to exercise common sense in pick time windows.
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
-5. In a Free Mod pick, each team has to field **at least two different mod combinations** to play the beatmap with.
-   - No Mod does not count as an unique mod combination.
-   - Hard Rock and Hidden + Hard Rock counts as the same mod combination.
-   - There are no bonus score multipliers for players who are playing with either Easy or Flashlight.
-6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
+5. This tournament features a special branded as the **EX/Special** pick.
+6. In a Free Mod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
+   - Playing a FreeMod pick without any mods applied is not allowed.
+7. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
    - Playing the tiebreaker map with a mod is *not* mandatory.
-7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+8. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
 ## Notes
 
