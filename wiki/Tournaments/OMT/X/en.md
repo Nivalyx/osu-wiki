@@ -286,7 +286,7 @@ Sunday, 8 September 2024:
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
 4. Players are expected to exercise common sense in pick time windows.
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
-5. This tournament features a special branded as the **EX/Special** pick.
+5. Unlike other tournaments, OMT X will feature a dedicated mappool slot for off-beat maps in the **EX/Special** pick. Maps or be outright unconventional.
 6. In a Free Mod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
    - Playing a FreeMod pick without any mods applied is not allowed.
 7. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
