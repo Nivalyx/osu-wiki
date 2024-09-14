@@ -253,9 +253,9 @@ Sunday, 8 September 2024:
 
 1. Based on their Qualifier seeding, players in seeds #9 - #24 will be placed in the runoff brackets according to the above scheme.
 2. Matches in the runoff brackets will be classified into **R1**, **R2**, and **R3** as follows:
-   - **R1**: Winning players advance to the Round of 16, while losing players move on to R3.
-   - **R2**: Winning players advance to R3, while losing players are eliminated from the tournament.
-   - **R3**: Winning players advance to the Round of 16, while losing players are eliminated from the tournament.
+   - **R1**: Winning players will advance to the Round of 16, while losing players will move on to R3.
+   - **R2**: Winning players will advance to R3, while losing players will be eliminated from the tournament.
+   - **R3**: Winning players will advance to the Round of 16, while losing players will be eliminated from the tournament.
 
 #### Knock-out stage rules
 
@@ -274,7 +274,7 @@ Sunday, 8 September 2024:
 
 ### Match regulations
 
-1. Prior to starting the match, representatives from each team must run the `!roll` command in order to determine the banning and picking order.
+1. Prior to starting the match, each player must run the `!roll` command in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
