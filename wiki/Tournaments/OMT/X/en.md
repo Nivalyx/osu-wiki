@@ -253,6 +253,9 @@ Sunday, 8 September 2024:
 
 1. Based on their Qualifier seeding, players will be placed in the runoff brackets according to the above scheme.
 2. Matches in the runoff brackets will be classified into **R1**, **R2**, and **R3** as follows:
+   - **R1**: Winning players advance to the Round of 16, while losing players move on to R3.
+   - **R2**: Winning players advance to R3, while losing players are eliminated from the tournament.
+   - **R3**: Winning players advance to the Round of 16, while losing players are eliminated from the tournament.
 
 #### Knock-out stage rules
 
@@ -265,9 +268,9 @@ Sunday, 8 September 2024:
 4. Teams who can compete in the next round are determined by:
    - In the Round of 32 and the Round of 16, each team needs to win 5 points in order to win a match. (Best of 9)
    - In the Quarterfinals and the Semifinals, each team needs to win 6 points in order to win a match. (Best of 11)
-   - In the Finals[^stage-note-1] onwards, each team needs to win 7 points in order to win a match. (Best of 13)
-   - Whether there are teams who are declared to win the match by default.
-   - Whether there are teams who are disqualified from the tournament.
+   - In the Finals onwards, each team needs to win 7 points in order to win a match. (Best of 13)
+   - Whether there are players who are declared to win the match by default.
+   - Whether there are players who are disqualified from the tournament.
 
 ### Match regulations
 
