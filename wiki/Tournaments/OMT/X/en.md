@@ -278,13 +278,14 @@ Sunday, 8 September 2024:
    - The winner of the `!roll` gets to determine who gets the first pick, first protect, and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each team has to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
-   - The bans will be done alternatingly (A–B–A–B) between the two teams.
-   - Barring the tiebreaker, there are no restrictions as to which maps may or may not be banned in a match.
-3. Each team will be given a chance to pick **one warm-up beatmap** (up to 4:30 max) to be played in the lobby.
+2. Each player has to **protect one beatmap** and **ban one beatmap** from the corresponding mappool. This process will be done alternatingly in a snaking manner (A protects -> B protects -> B bans -> A bans) between the two players.
+   - Protected beatmaps will not be allowed to be banned by any players during the banning phase.
+   - Banned beatmaps will not be allowed to be picked by any players during the entire match.
+   - Barring the tiebreaker, there are no restrictions as to which maps may or may not be protected or banned in a match.
+3. Each player will be given a chance to pick **one warm-up beatmap** (up to 3:00 max) to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
-4. Teams are expected to exercise common sense in pick time windows.
-   - If a team is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other team.
+4. Players are expected to exercise common sense in pick time windows.
+   - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
 5. In a Free Mod pick, each team has to field **at least two different mod combinations** to play the beatmap with.
    - No Mod does not count as an unique mod combination.
    - Hard Rock and Hidden + Hard Rock counts as the same mod combination.
