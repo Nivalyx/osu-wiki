@@ -253,9 +253,9 @@ Sunday, 8 September 2024:
 
 1. Based on their Qualifier seeding, players in seeds #9 - #24 will be placed in the runoff brackets according to the above scheme.
 2. Matches in the runoff brackets will be classified into **R1**, **R2**, and **R3** as follows:
-   - **R1**: Winning players will advance to the Round of 16, while losing players will move on to R3.
-   - **R2**: Winning players will advance to R3, while losing players will be eliminated from the tournament.
-   - **R3**: Winning players will advance to the Round of 16, while losing players will be eliminated from the tournament.
+   - **R1**: The winning players will advance to the Round of 16, while the losing players will move on to R3.
+   - **R2**: The winning players will advance to R3, while the losing players will be eliminated from the tournament.
+   - **R3**: The winning players will advance to the Round of 16, while the losing players will be eliminated from the tournament.
 
 #### Knock-out stage rules
 
