@@ -242,7 +242,7 @@ Sunday, 8 September 2024:
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their Z-score value across all eleven Qualifier beatmaps. A brief explanation on the concept of Z-score can be found [here](www.statisticshowto.com/probability-and-statistics/z-score/).
-6. 24 players with the **highest Z-score value** according to the above criteria will advance to the tournament proper as follows:
+6. The 24 players with the **highest Z-score value** according to the above criteria will advance to the tournament proper as follows:
    - Players in seeds #1 - #8 will be given an **automatic bye to the Round of 16**.
    - Players in seeds #9 - #24 will **participate in the runoff brackets**.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
