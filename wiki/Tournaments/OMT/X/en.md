@@ -243,15 +243,15 @@ Sunday, 8 September 2024:
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their Z-score value across all eleven Qualifier beatmaps. A brief explanation on the concept of Z-score can be found [here](www.statisticshowto.com/probability-and-statistics/z-score/).
 6. 24 players with the **highest Z-score value** according to the above criteria will advance to the tournament proper as follows:
-   - Players in seeds #1 - #8 will be given an automatic bye to the Round of 16.
-   - Players in seeds #9 - #24 will participate in the runoff brackets.
+   - Players in seeds #1 - #8 will be given an **automatic bye to the Round of 16**.
+   - Players in seeds #9 - #24 will **participate in the runoff brackets**.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Runoff bracket rules
 
 ![](img/runoff-scheme.jpg "Runoff brackets scheme")
 
-1. Based on their Qualifier seeding, players will be placed in the runoff brackets according to the above scheme.
+1. Based on their Qualifier seeding, players in seeds #9 - #24 will be placed in the runoff brackets according to the above scheme.
 2. Matches in the runoff brackets will be classified into **R1**, **R2**, and **R3** as follows:
    - **R1**: Winning players advance to the Round of 16, while losing players move on to R3.
    - **R2**: Winning players advance to R3, while losing players are eliminated from the tournament.
