@@ -274,8 +274,8 @@ Sunday, 8 September 2024:
 
 ### Match regulations
 
-1. Prior to starting the match, each player must run the `!roll` command in order to determine the banning and picking order.
-   - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
+1. Prior to starting the match, representatives each player must run the `!roll` command in order to determine the protecting, banning, and picking order.
+   - The winner of the `!roll` gets to determine who gets the first pick, first protect, and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
 2. Each team has to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match.
