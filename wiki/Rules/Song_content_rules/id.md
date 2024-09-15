@@ -11,7 +11,7 @@ Mohon diperhatikan bahwa kaidah penggunaan lagu berkonten eksplisit telah diatur
 
 ## Apa saja yang tergolong sebagai konten yang "sangat politis"?
 
-Demi membuat permainan tentang ritme tetap berpusat pada ritme dan sesuai dengan [peraturan komunitas](/wiki/Rules#peraturan-komunitas) #3, konten yang dianggap terlalu politis oleh administrasi dilarang digunakan.
+Demi menjaga agar permainan ritme ini tetap berpusat pada ritme dan sesuai dengan [peraturan komunitas](/wiki/Rules#peraturan-komunitas) #3, konten yang dianggap terlalu politis oleh administrasi dilarang digunakan.
 
 Kami tidak mencondongkan diri kami ke suatu "ujung" spektrum perpolitikan tertentu — osu! sepenuhnya bersifat apolitis, dan kami ingin agar semua orang dapat menikmati waktu mereka alih-alih berseteru atau bertengkar seputar politik.
 
