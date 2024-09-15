@@ -6,12 +6,12 @@ no_native_review: true
 
 Dengan banyaknya variasi lagu yang tersedia di luar sana, sebagian besar lagu akan dapat digunakan di osu! selama lagu tersebut tidak:
 
-- Mengandung hal yang sangat politis
+- Memuat hal yang sangat politis
 - Mempromosikan ketegangan atau perpecahan rasial
-- Memiliki volume lagu yang sangat keras
-- Dimodifikasi hingga menghasilkan efek *clipping* atau distorsi yang tidak diinginkan oleh artis
+- Memiliki volume yang luar biasa bising
+- Dimodifikasi sedemikian rupa untuk mengandung efek *clipping* atau distorsi yang tidak diinginkan oleh pihak pembuat lagu
 
-Harap diperhatikan bahwa lagu dengan konten eksplisit telah memiliki [regulasi konten eksplisit](/wiki/Rules/Explicit_content) terpisah.
+Mohon diperhatikan bahwa lagu dengan konten eksplisit telah memiliki [regulasi konten eksplisit](/wiki/Rules/Explicit_content) terpisah.
 
 ## Apa saja yang tergolong sebagai konten yang "sangat politis"?
 
@@ -19,7 +19,7 @@ Dengan tujuan untuk membuat permainan tentang ritme tetap berpusat pada ritme da
 
 Kami tidak menganut satu perspektif tertentu dari dunia perpolitikan—osu! sangat tidak ingin terlibat dengan hal yang politis dan kami ingin semua orang bersenang-senang di game ini, bukannya memulai perseteruan atau pertengkaran mengenai politik.
 
-## Apa yang akan terjadi jika lagu yang saya gunakan kurang baik digunakan?
+## Apa yang akan terjadi apabila lagu saya tidak layak untuk digunakan?
 
 Beatmap apa pun yang berisikan lagu yang mengandung kategori-kategori di atas akan dihapus dari situs web.
 
