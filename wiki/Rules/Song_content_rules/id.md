@@ -17,7 +17,7 @@ Kami tidak mencondongkan diri kami ke suatu "ujung" spektrum perpolitikan terten
 
 ## Apa yang akan terjadi apabila lagu saya tidak layak untuk digunakan?
 
-Segala beatmap yang mengandung konten yang tidak diizinkan akan dihapus dari situs web.
+Seluruh beatmap yang mengandung konten yang tidak diizinkan akan dihapus dari situs web.
 
 Setiap kali kiriman beatmap kamu dihapus, kamu akan diberikan penjelasan oleh anggota [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) atau [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) yang menghapus kirimanmu seputar alasan di balik penghapusan ini.
 
