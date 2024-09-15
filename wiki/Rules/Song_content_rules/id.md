@@ -1,4 +1,4 @@
-# Aturan konten lagu
+# Peraturan konten lagu
 
 Dengan banyaknya variasi lagu yang tersedia di luar sana, sebagian besar lagu akan dapat digunakan di osu! selama lagu tersebut tidak:
 
