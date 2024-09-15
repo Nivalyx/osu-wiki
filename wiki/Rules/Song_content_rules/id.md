@@ -7,13 +7,13 @@ Dengan banyaknya variasi lagu yang tersedia di luar sana, sebagian besar lagu ak
 - Memiliki volume yang luar biasa bising
 - Dimodifikasi sedemikian rupa untuk mengandung efek *clipping* atau distorsi yang tidak diinginkan oleh pihak pembuat lagu
 
-Mohon diperhatikan bahwa kaidah penggunaan lagu berkonten eksplisit diatur pada [peraturan yang terpisah](/wiki/Rules/Explicit_content).
+Mohon diperhatikan bahwa kaidah penggunaan lagu berkonten eksplisit telah diatur pada [peraturan yang terpisah](/wiki/Rules/Explicit_content).
 
 ## Apa saja yang tergolong sebagai konten yang "sangat politis"?
 
 Demi membuat permainan tentang ritme tetap berpusat pada ritme dan sesuai dengan [peraturan komunitas](/wiki/Rules#peraturan-komunitas) #3, konten yang dianggap terlalu politis oleh administrasi dilarang digunakan.
 
-Kami tidak menganut satu perspektif tertentu dari dunia perpolitikan—osu! sangat tidak ingin terlibat dengan hal yang politis dan kami ingin semua orang bersenang-senang di game ini, bukannya memulai perseteruan atau pertengkaran mengenai politik.
+Kami tidak mencondongkan diri kami ke suatu "ujung" spektrum perpolitikan tertentu — osu! sepenuhnya bersifat apolitis, dan kami ingin agar semua orang dapat menikmati waktu mereka alih-alih berseteru atau bertengkar seputar politik.
 
 ## Apa yang akan terjadi apabila lagu saya tidak layak untuk digunakan?
 
