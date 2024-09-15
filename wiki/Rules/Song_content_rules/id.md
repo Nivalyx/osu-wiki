@@ -5,7 +5,7 @@ Dengan banyaknya variasi lagu yang tersedia di luar sana, sebagian besar lagu ak
 - Memuat konten yang sangat politis
 - Mempromosikan ketegangan atau perpecahan rasial
 - Memiliki volume yang luar biasa bising
-- Dimodifikasi sedemikian rupa untuk mengandung efek *clipping* atau distorsi yang tidak diinginkan oleh pihak pembuat lagu
+- Dimodifikasi sedemikian rupa untuk mengandung efek *clipping* atau distorsi yang tidak diinginkan oleh pihak musisi
 
 Mohon diperhatikan bahwa kaidah penggunaan lagu berkonten eksplisit telah diatur pada [peraturan yang terpisah](/wiki/Rules/Explicit_content).
 
