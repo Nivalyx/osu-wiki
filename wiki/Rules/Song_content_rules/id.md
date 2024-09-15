@@ -2,18 +2,18 @@
 no_native_review: true
 ---
 
-# Aturan konten musik
+# Aturan konten lagu
 
-Dengan banyaknya variasi musik yang tersedia, sebagian besar lagu akan baik-baik saja untuk digunakan di osu!, asalkan tidak:
+Dengan banyaknya variasi lagu yang tersedia di luar sana, sebagian besar lagu akan dapat digunakan di osu! selama lagu tersebut tidak:
 
 - Mengandung hal yang sangat politis
-- Bersifat diskriminatif terhadap suatu ras ataupun kalangan tertentu
+- Mempromosikan ketegangan atau perpecahan rasial
 - Memiliki volume lagu yang sangat keras
-- Dimodifikasi secara sengaja hingga menghasilkan efek *clipping* atau distorsi yang tidak diinginkan oleh artis
+- Dimodifikasi hingga menghasilkan efek *clipping* atau distorsi yang tidak diinginkan oleh artis
 
 Harap diperhatikan bahwa lagu dengan konten eksplisit telah memiliki [regulasi konten eksplisit](/wiki/Rules/Explicit_content) terpisah.
 
-## Apa yang dapat tergolong sebagai konten "sangat politis"?
+## Apa saja yang tergolong sebagai konten yang "sangat politis"?
 
 Dengan tujuan untuk membuat permainan tentang ritme tetap berpusat pada ritme dan sesuai dengan [peraturan komunitas](/wiki/Rules#peraturan-komunitas) #3, konten yang dianggap terlalu politis oleh administrasi dilarang digunakan.
 
