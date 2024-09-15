@@ -6,7 +6,7 @@ no_native_review: true
 
 Dengan banyaknya variasi lagu yang tersedia di luar sana, sebagian besar lagu akan dapat digunakan di osu! selama lagu tersebut tidak:
 
-- Memuat hal yang sangat politis
+- Memuat konten yang sangat politis
 - Mempromosikan ketegangan atau perpecahan rasial
 - Memiliki volume yang luar biasa bising
 - Dimodifikasi sedemikian rupa untuk mengandung efek *clipping* atau distorsi yang tidak diinginkan oleh pihak pembuat lagu
