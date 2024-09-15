@@ -19,7 +19,7 @@ Kami tidak mencondongkan diri kami ke suatu "ujung" spektrum perpolitikan terten
 
 Segala beatmap yang mengandung konten yang tidak diizinkan akan dihapus dari situs web.
 
-Setiap kali kiriman beatmap kamu dihapus, kamu berhak dan akan diberikan penjelasan oleh anggota dari [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) atau [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) yang bertanggung jawab atas penghapusan beatmapmu disertai dengan alasan akan penghapusan tersebut.
+Setiap kali kiriman beatmap kamu dihapus, kamu akan diberikan penjelasan oleh anggota [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) atau [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) yang menghapus kirimanmu beserta dengan alasan mengapa kiriman ini sampai dihapus.
 
 Kamu dapat menggugat dan memberi argumenmu sendiri atas hal ini dengan mereka melalui PM jika kamu benar-benar menginginkannya, atau kamu juga dapat meminta pendapat orang lain untuk mendukung klaim kamu atas kesesuaian lagu tersebut. Jika masih belum bisa menemukan jalan keluar dari permasalahan ini, klaim kamu dapat dinaikkan lagi tingkatannya menjadi pemungutan suara atas mufakat yang dilaksanakan oleh anggota NAT yang saat ini bertugas, mereka secara kolektif akan memutuskan apakah lagu yang kamu gunakan dapat diterima atau tidak.
 
