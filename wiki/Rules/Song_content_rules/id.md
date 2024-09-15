@@ -11,7 +11,7 @@ Dengan banyaknya variasi lagu yang tersedia di luar sana, sebagian besar lagu ak
 - Memiliki volume yang luar biasa bising
 - Dimodifikasi sedemikian rupa untuk mengandung efek *clipping* atau distorsi yang tidak diinginkan oleh pihak pembuat lagu
 
-Mohon diperhatikan bahwa kaidah penggunaan lagu dengan konten eksplisit diatur pada [regulasi yang terpisah](/wiki/Rules/Explicit_content).
+Mohon diperhatikan bahwa kaidah penggunaan lagu dengan konten eksplisit telah diatur pada [peraturan yang terpisah](/wiki/Rules/Explicit_content).
 
 ## Apa saja yang tergolong sebagai konten yang "sangat politis"?
 
