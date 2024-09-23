@@ -97,6 +97,37 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Mappools
 
+### Semifinals
+
+### Quarterfinals
+
+- No Mod
+  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - EGOISTIC HERO (DMK7) \[EGOIST\]](https://osu.ppy.sh/beatmapsets/2118474#osu/4449471)
+  2. [BABYMETAL - Arkadia (ItsWinter) \[kerupt's Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3616426)
+  3. [Matsushita - Hey Darling! (cocona) \[Contrary Love\]](https://osu.ppy.sh/beatmapsets/1517986#osu/3107475)
+  4. [lapix - Outer Space (lcfc) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1544179#osu/3156268)
+  5. [69 de 74 - DESPERATE DEATHPARADE (rollpan) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/1939881#osu/4010877)
+- Hidden
+  1. [DUSTCELL - Kako no Shinkirou (Banner) \[Mirage\]](https://osu.ppy.sh/beatmapsets/2250667#osu/4786529)
+  2. [beignet - Maple Trick (Agagak) \[extrA\]](https://osu.ppy.sh/beatmapsets/2250698#osu/4786597)
+  3. [Polyphia - The Audacity (feat. Anomalie) (Mir) \[Outrageous\]](https://osu.ppy.sh/beatmapsets/1995091#osu/4146216)
+- Hard Rock
+  1. [fulusu - Lachrymal Gland (Heroine) \[Expert\]](https://osu.ppy.sh/beatmapsets/1824223#osu/3743174)
+  2. [Slime Girls - Underwater Prom Queens (Magirhythm) \[Fury\]](https://osu.ppy.sh/beatmapsets/1455879#osu/3004117)
+  3. [Lanndo feat. Eve, suis (from Yorushika) - Uchuu no Kisetsu (Akito) \[bike 2\]](https://osu.ppy.sh/beatmapsets/1531445#osu/3132160)
+- Double Time
+  1. [Yuika - Suki Dakara. (feat. Ren) (Airiesu) \[Won't you stay by my side forever?\]](https://osu.ppy.sh/beatmapsets/1610462#osu/3288202)
+  2. [Aphex Twin - Flim (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/998953#osu/2089279)
+  3. [Giga x TENKOMORI - Netoge Haijin Sprechchor (Cut Ver.) (Ixcors) \[Insane (AR8.5 Edit)\]](https://osu.ppy.sh/beatmapsets/1615815#osu/4024733)
+- Free Mod
+  1. [Schwank - OPEN YOUR 3RD EYE (Amamya Kokoro) \[Heartfelt Burst\]](https://osu.ppy.sh/beatmapsets/2040473#osu/4256603)
+  2. [TAG - Theory of Eternity (kiddly) \[Extra\]](https://osu.ppy.sh/beatmapsets/35224#osu/227061)
+- EX/Special
+  1. [in love with a ghost - interdimensional portal leading to a cute place feat. snail's house (Voltaeyx) \[[2B] A Dazzling Discovery\]](https://osu.ppy.sh/beatmapsets/1901782#osu/3920710)[^ex-ro16-1]
+  2. [yugurr - Spinner Training (SaintTurk) \[Training\]](https://osu.ppy.sh/beatmapsets/410231#osu/890326)[^ex-ro16-2]
+- Tiebreaker
+  1. **[E0ri4 - L0V3 4RR0W 5H007 (Strategas) \[H4PP1N355\]](https://osu.ppy.sh/beatmapsets/1889263#osu/3891073)**
+
 ### Round of 16
 
 - No Mod
