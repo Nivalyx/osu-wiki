@@ -168,6 +168,26 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Match results
 
+### Round of 16
+
+Saturday, 14 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[ohshitweeb](https://osu.ppy.sh/users/12999285)** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/115490279) |
+| Upper | **[Breast](https://osu.ppy.sh/users/11918602)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [Snowy5441](https://osu.ppy.sh/users/13865320) | [#1](https://osu.ppy.sh/community/matches/115490326) |
+| Upper | **[Rampax](https://osu.ppy.sh/users/3995630)** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | [#1](https://osu.ppy.sh/community/matches/115489335) |
+| Upper | **[AHotDawg](https://osu.ppy.sh/users/15271985)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976) | [#1](https://osu.ppy.sh/community/matches/115488463) |
+| Upper | **[Auxuelus](https://osu.ppy.sh/users/5414124)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/115489315) |
+
+Sunday, 15 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [stumphole145](https://osu.ppy.sh/users/14623152) | [#1](https://osu.ppy.sh/community/matches/115504467) |
+| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Chiyuu](https://osu.ppy.sh/users/8226107) | [#1](https://osu.ppy.sh/community/matches/115506210) |
+| Upper | **[Lunasa](https://osu.ppy.sh/users/16436446)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | *win by default* |
+
 ### Runoff brackets
 
 Friday, 6 September 2024:
