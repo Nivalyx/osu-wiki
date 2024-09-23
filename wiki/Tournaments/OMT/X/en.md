@@ -168,6 +168,14 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Match results
 
+### Quarterfinals
+
+Thursday, 19 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Axorite](https://osu.ppy.sh/users/6996926) ::{ flag=MY }:: | 4 | **6** | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/19186968)** | [#1](https://osu.ppy.sh/community/matches/115401125) |
+
 ### Round of 16
 
 Saturday, 14 September 2024:
@@ -276,6 +284,7 @@ Sunday, 8 September 2024:
    - **R1**: Match winners will advance to the Round of 16, while their opponents will move on to R3.
    - **R2**: Match winners will advance to R3, while their opponents will be eliminated from the tournament.
    - **R3**: Match winners will advance to the Round of 16, while their opponents will be eliminated from the tournament.
+   - All runoff bracket matches will be held in a Best of 9 format.
 
 #### Knock-out stage rules
 
