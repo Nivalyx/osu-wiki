@@ -116,17 +116,17 @@ The complete list of player registrations can be found [here](https://docs.googl
   2. [Slime Girls - Underwater Prom Queens (Magirhythm) \[Fury\]](https://osu.ppy.sh/beatmapsets/1455879#osu/3004117)
   3. [Lanndo feat. Eve, suis (from Yorushika) - Uchuu no Kisetsu (Akito) \[bike 2\]](https://osu.ppy.sh/beatmapsets/1531445#osu/3132160)
 - Double Time
-  1. [Yuika - Suki Dakara. (feat. Ren) (Airiesu) \[Won't you stay by my side forever?\]](https://osu.ppy.sh/beatmapsets/1610462#osu/3288202)
-  2. [Aphex Twin - Flim (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/998953#osu/2089279)
-  3. [Giga x TENKOMORI - Netoge Haijin Sprechchor (Cut Ver.) (Ixcors) \[Insane (AR8.5 Edit)\]](https://osu.ppy.sh/beatmapsets/1615815#osu/4024733)
+  1. [Mitsuki Kotono - Fuyu ni Saku Hana (mnyui) \[Suou's Insane\]](https://osu.ppy.sh/beatmapsets/1297024#osu/2696241)
+  2. [-45 - Millarca (Stick2Glue) \[Malice\]](https://osu.ppy.sh/beatmapsets/1833512#osu/3764144)
+  3. [Noisestorm - Crab Rave (GreenHue) \[SOTARKS IS GONE\]](https://osu.ppy.sh/beatmapsets/891596#osu/1906336)
 - Free Mod
-  1. [Schwank - OPEN YOUR 3RD EYE (Amamya Kokoro) \[Heartfelt Burst\]](https://osu.ppy.sh/beatmapsets/2040473#osu/4256603)
-  2. [TAG - Theory of Eternity (kiddly) \[Extra\]](https://osu.ppy.sh/beatmapsets/35224#osu/227061)
+  1. [M2U & NICODE - Myosotis (feat. Guriri & Lucy) (rollpan) \[Himei\]](https://osu.ppy.sh/beatmapsets/1861030#osu/3826131)
+  2. [Hyadain - CRASH!! (Let's Do It) (Aranel) \[CRASH!!\]](https://osu.ppy.sh/beatmapsets/1626624#osu/3322444)
 - EX/Special
-  1. [in love with a ghost - interdimensional portal leading to a cute place feat. snail's house (Voltaeyx) \[[2B] A Dazzling Discovery\]](https://osu.ppy.sh/beatmapsets/1901782#osu/3920710)[^ex-ro16-1]
-  2. [yugurr - Spinner Training (SaintTurk) \[Training\]](https://osu.ppy.sh/beatmapsets/410231#osu/890326)[^ex-ro16-2]
+  1. [tohko - Hatsukoi (Deppyforce) \[Destiny?\]](https://osu.ppy.sh/beatmapsets/1993734#osu/4143140)[^ex-qf-1]
+  2. [KillerBlood - Run Lads Run (Mr HeliX) \[Math Test - Version #4\]](https://osu.ppy.sh/beatmapsets/1492125#osu/3058683)[^ex-qf-2]
 - Tiebreaker
-  1. **[E0ri4 - L0V3 4RR0W 5H007 (Strategas) \[H4PP1N355\]](https://osu.ppy.sh/beatmapsets/1889263#osu/3891073)**
+  1. **[Receptor - Redstar (Raikozen) \[REALITY ECLIPSE\]](https://osu.ppy.sh/beatmapsets/996649#osu/2084661)**
 
 ### Round of 16
 
