@@ -174,7 +174,17 @@ Thursday, 19 September 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Axorite](https://osu.ppy.sh/users/6996926) ::{ flag=MY }:: | 4 | **6** | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/19186968)** | [#1](https://osu.ppy.sh/community/matches/115401125) |
+| Lower | [Axorite](https://osu.ppy.sh/users/9124278) ::{ flag=MY }:: | 4 | **6** | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/13626098)** | [#1](https://osu.ppy.sh/community/matches/115551388) |
+
+Saturday, 21 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: [ohshitweeb](https://osu.ppy.sh/users/12999285) | [#1](https://osu.ppy.sh/community/matches/115577375) |
+| Lower | [Racers03](https://osu.ppy.sh/users/11621976) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Snowy5441](https://osu.ppy.sh/users/13865320)** | [#1](https://osu.ppy.sh/community/matches/115573793) |
+| Upper | **[Rampax](https://osu.ppy.sh/users/3995630)** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: [Auxuelus](https://osu.ppy.sh/users/5414124) | [#1](https://osu.ppy.sh/community/matches/115578132) |
+| Lower | **[Chiyuu](https://osu.ppy.sh/users/8226107)** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694) | *win by default* |
+| Lower | [Addam](https://osu.ppy.sh/users/11716599) ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **[stumphole145](https://osu.ppy.sh/users/1462315214623152)** | *win by default* |
 
 ### Round of 16
 
@@ -284,7 +294,6 @@ Sunday, 8 September 2024:
    - **R1**: Match winners will advance to the Round of 16, while their opponents will move on to R3.
    - **R2**: Match winners will advance to R3, while their opponents will be eliminated from the tournament.
    - **R3**: Match winners will advance to the Round of 16, while their opponents will be eliminated from the tournament.
-   - All runoff bracket matches will be held in a Best of 9 format.
 
 #### Knock-out stage rules
 
