@@ -183,8 +183,15 @@ Saturday, 21 September 2024:
 | Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: [ohshitweeb](https://osu.ppy.sh/users/12999285) | [#1](https://osu.ppy.sh/community/matches/115577375) |
 | Lower | [Racers03](https://osu.ppy.sh/users/11621976) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Snowy5441](https://osu.ppy.sh/users/13865320)** | [#1](https://osu.ppy.sh/community/matches/115573793) |
 | Upper | **[Rampax](https://osu.ppy.sh/users/3995630)** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: [Auxuelus](https://osu.ppy.sh/users/5414124) | [#1](https://osu.ppy.sh/community/matches/115578132) |
+| Upper | **[Lunasa](https://osu.ppy.sh/users/16436446)** ::{ flag=MY }:: | **6** | 3 | ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377) | [#1](https://osu.ppy.sh/community/matches/115579100) |
 | Lower | **[Chiyuu](https://osu.ppy.sh/users/8226107)** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694) | *win by default* |
 | Lower | [Addam](https://osu.ppy.sh/users/11716599) ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **[stumphole145](https://osu.ppy.sh/users/1462315214623152)** | *win by default* |
+
+Sunday, 22 September 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [AHotDawg](https://osu.ppy.sh/users/15271985) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Breast](https://osu.ppy.sh/users/11918602)** | [#1](https://osu.ppy.sh/community/matches/115589176) |
 
 ### Round of 16
 
