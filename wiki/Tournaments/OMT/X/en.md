@@ -124,7 +124,7 @@ The complete list of player registrations can be found [here](https://docs.googl
   2. [Hyadain - CRASH!! (Let's Do It) (Aranel) \[CRASH!!\]](https://osu.ppy.sh/beatmapsets/1626624#osu/3322444)
 - EX/Special
   1. [tohko - Hatsukoi (Deppyforce) \[Destiny?\]](https://osu.ppy.sh/beatmapsets/1993734#osu/4143140)[^ex-qf-1]
-  2. [KillerBlood - Run Lads Run (Mr HeliX) \[Math Test - Version #4\]](https://osu.ppy.sh/beatmapsets/1492125#osu/3058683)[^ex-qf-2]
+  2. [KillerBlood - Run Lads Run (Mr HeliX) \[Math Test\]](https://osu.ppy.sh/beatmapsets/1492125#osu/3058683)[^ex-qf-2]
 - Tiebreaker
   1. **[Receptor - Redstar (Raikozen) \[REALITY ECLIPSE\]](https://osu.ppy.sh/beatmapsets/996649#osu/2084661)**
 
@@ -371,6 +371,8 @@ Sunday, 8 September 2024:
 
 ## Notes
 
+[^ex-qf-1]: This map has to be played with the Easy and Double Time mod enabled.
+[^ex-qf-2]: This map features a special win condition in which the player with the lowest miss count wins the map.
 [^ex-ro16-1]: This map is an [Aspire](/wiki/Contests/Aspire)-styled [2B map](https://www.youtube.com/watch?v=8teIBNQfr7Q).
 [^ex-ro16-2]: This map has to be played with the Flashlight mod enabled.
 [^ex-runoff]: This map has to be played with either No Mod or Hidden.
