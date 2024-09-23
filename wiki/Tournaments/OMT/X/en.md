@@ -372,7 +372,7 @@ Sunday, 8 September 2024:
 ## Notes
 
 [^ex-qf-1]: This map has to be played with the Easy and Double Time mod enabled.
-[^ex-qf-2]: This map features a specific win condition in which the player with the lowest miss count wins the map. Additionally, a `!roll 50` command will be used to determine which version of the map is going to be played.
+[^ex-qf-2]: This map features a special win condition where the player with the lowest miss count wins the map. Additionally, a `!roll 50` command will be used to determine which version of the map is going to be played.
 [^ex-ro16-1]: This map is an [Aspire](/wiki/Contests/Aspire)-styled [2B map](https://www.youtube.com/watch?v=8teIBNQfr7Q).
 [^ex-ro16-2]: This map has to be played with the Flashlight mod enabled.
 [^ex-runoff]: This map has to be played with either No Mod or Hidden.
