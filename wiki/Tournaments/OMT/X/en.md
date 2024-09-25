@@ -99,6 +99,33 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ### Semifinals
 
+- No Mod
+  1. [AliA - impulse (SkyFlame) \[Emotions\]](https://osu.ppy.sh/beatmapsets/1133470#osu/2367231)
+  2. [Aether Realm - Swampwitch (iamtickrate) \[Blood9's Extreme\]](https://osu.ppy.sh/beatmapsets/1556131#osu/3412256)
+  3. [PHOENIX Project - Mayonaka no Fairy Dance - Reflect The Reques (Settia) \[luna child is moe\]](https://osu.ppy.sh/beatmapsets/1809371#osu/3711134)
+  4. [PSYQUI feat. mikanzil - Bye or not (Typ4) \[Typ4 x Aqua-FISH's Final Farewell\]](https://osu.ppy.sh/beatmapsets/1013719#osu/2133938)
+  5. [Sorry about my face - Call me with you (fergas) \[[ya otpravlus' za toboi]\]](https://osu.ppy.sh/beatmapsets/1621877#osu/3311312)
+- Hidden
+  1. [Rita - dorchadas (Raijodo) \[htonrahS\]](https://osu.ppy.sh/beatmapsets/2119488#osu/4470172)
+  2. [paraoka feat. haru*nya - Manimani (Cut ver.) (Cellina) \[Hananoiro\]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280)
+  3. [takehirotei - Finale Battle of the Requiem \~incandescent\~ (Banner) \[\~alea jacta est\~\]](https://osu.ppy.sh/beatmapsets/2254601#osu/4795986)
+- Hard Rock
+  1. [Ouse Akira - Sacrifice (Poyoyo) \[bongo's Milking Extra\]](https://osu.ppy.sh/beatmapsets/1877093#osu/3977159)
+  2. [MYUKKE. - AI[UE]OON (Lavender) \[wyrio's FUTURE\]](https://osu.ppy.sh/beatmapsets/1029473#osu/2936229)
+  3. [Mitsukiyo - Summer Bounce (Ayesha Altugle) \[Summer Vacation\]](https://osu.ppy.sh/beatmapsets/2214677#osu/4692588)
+- Double Time
+  1. [Sasaki Sayaka - Sakura, Reincarnation (Kowari) \[Insane\]](https://osu.ppy.sh/beatmapsets/1022979#osu/2139973)
+  2. [TERRASPEX - AMAZING BREAK (Orkay) \[INSANE\]](https://osu.ppy.sh/beatmapsets/2128375#osu/4474828)
+  3. [Wednesday Campanella - Ikkyu-san (Striderin) \[Insane\]](https://osu.ppy.sh/beatmapsets/1108064#osu/2315806)
+- Free Mod
+  1. [Denkishiki Karen Ongaku Shuudan - Gareki no Yume (Dored) \[LMT's Expert\]](https://osu.ppy.sh/beatmapsets/1037741#osu/2180986)
+  2. [Hoskey - The Purified (dectopia) \[Extra\]](https://osu.ppy.sh/beatmapsets/1809432#osu/3711270)
+- EX/Special
+  1. [Rokudenashi - As you don't know (Stick2Glue) \[Memory Loss\]](https://osu.ppy.sh/beatmapsets/2254978#osu/4796876)[^ex-sf-1]
+  2. [Wobbly - Yo Yo Yo Yoyo Yo, Hey... / Uhh, Hey Eh. Check It Check It (dsco) \[Insane\]](https://osu.ppy.sh/beatmapsets/1689255#osu/3452047)[^ex-sf-2]
+- Tiebreaker
+  1. **[Down - Chosun (Down) \[Dragon\]](https://osu.ppy.sh/beatmapsets/1833547#osu/3764203)**
+
 ### Quarterfinals
 
 - No Mod
