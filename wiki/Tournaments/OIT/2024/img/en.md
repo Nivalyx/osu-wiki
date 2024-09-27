@@ -196,9 +196,3 @@ The complete list of player registrations can be found [here](https://docs.googl
 7. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 8. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
-
-## Notes
-
-[^ex-ro16-1]: This map is an [Aspire](/wiki/Contests/Aspire)-styled [2B map](https://www.youtube.com/watch?v=8teIBNQfr7Q).
-[^ex-ro16-2]: This map has to be played with the Flashlight mod enabled.
-[^ex-runoff]: This map has to be played with either No Mod or Hidden.
