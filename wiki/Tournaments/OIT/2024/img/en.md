@@ -132,7 +132,7 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 1. Players are required to register into the tournament individually through [this form](https://forms.gle/MFZNYKdmZm6YguYa9).
    - In order to be eligible to play in the tournament, a player must have the ::{ flag=ID }:: Indonesian flag displayed on their profile.
-   - Be ranked #99,999 or higher in the osu! game mode at the time of registration.
+   - Although the tournament is open rank, players are advised to be in possession of at least 6,000 pp in the osu! game mode given the relatively high difficulty of the mappool.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
