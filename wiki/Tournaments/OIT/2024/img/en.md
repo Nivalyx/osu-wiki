@@ -178,21 +178,18 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ### Match regulations
 
-1. Prior to starting the match, each player must run the `!roll` command in order to determine the protecting, banning, and picking order.
-   - The winner of the `!roll` gets to determine who gets the first pick, first protect, and the second ban.
+1. Prior to starting the match, each player must run the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order. 
+   - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to **protect one beatmap** and **ban one beatmap** from the corresponding mappool. This process will be done alternatingly in a snaking manner (A protects -> B protects -> B bans -> A bans) between the two players.
-   - Protected beatmaps will not be allowed to be banned by any players during the banning phase.
-   - Banned beatmaps will not be allowed to be picked by any players during the entire match.
-   - Barring the tiebreaker, there are no restrictions as to which maps may or may not be protected or banned in a match.
-3. Each player will be given a chance to pick **one warm-up beatmap** (up to 3:00 max) to be played in the lobby.
-   - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
+2. Each player has to **ban one beatmap** (on the Round of 16) and **two beatmaps** (from the Quarterfinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match. 
+   - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
+   - Banning does not apply in the Qualifier lobbies.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Players are expected to exercise common sense in pick time windows.
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
-5. Unlike in other tournaments, OMT X will feature a dedicated pick for off-beat maps termed as the **EX/Special** pick. Maps in this pick will have a special playing condition attached to them (e.g. "The map has to be played with Easy") or be outright unconventional.
-6. In a Free Mod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
+5. In a Free Mod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
    - Playing a Free Mod pick without any mods applied is not allowed.
-7. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
+6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
    - Playing the tiebreaker map with a mod is *not* mandatory.
-8. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
