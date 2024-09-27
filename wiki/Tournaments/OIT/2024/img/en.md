@@ -89,74 +89,23 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Mappools
 
-### Round of 16
-
-- No Mod
-  1. [Hujan - Mencari Konklusi (anjay) \[Ketenangan\]](https://osu.ppy.sh/beatmapsets/2246786#osu/4777025)
-  2. [Sabaton - Twilight Of The Thunder God (-Mack-) \[Your destiny awaits!\]](https://osu.ppy.sh/beatmapsets/1994917#osu/4145857)
-  3. [Sakuzyo - Ultimate Force (Banner) \[Absolution\]](https://osu.ppy.sh/beatmapsets/2246785#osu/4777024)
-  4. [AJURIKA - BIG som tam (KKipalt) \[:drool:\]](https://osu.ppy.sh/beatmapsets/1833709#osu/3764497)
-  5. [yama - Shikisai (Akito) \[bond\]](https://osu.ppy.sh/beatmapsets/1926251#osu/3977485)
-- Hidden
-  1. [PSYQUI - Hype feat. Such (lapix Remix) (Mir) \[Seeing Stars\]](https://osu.ppy.sh/beatmapsets/830537#osu/1740092)
-  2. [Kotoha - Cat Loving (Kotoha) \[bongo's Insane\]](https://osu.ppy.sh/beatmapsets/1809604#osu/3711612)
-- Hard Rock
-  1. [Hinami Mei - Asu o Asare (gazimal) \[You & I\]](https://osu.ppy.sh/beatmapsets/1704302#osu/3482459)
-  2. [Special Guest - Views (squirrelpascals) \[Tits\]](https://osu.ppy.sh/beatmapsets/556274#osu/1177274)
-- Double Time
-  1. [Yuika - Suki Dakara. (feat. Ren) (Airiesu) \[Won't you stay by my side forever?\]](https://osu.ppy.sh/beatmapsets/1610462#osu/3288202)
-  2. [Aphex Twin - Flim (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/998953#osu/2089279)
-  3. [Giga x TENKOMORI - Netoge Haijin Sprechchor (Cut Ver.) (Ixcors) \[Insane (AR8.5 Edit)\]](https://osu.ppy.sh/beatmapsets/1615815#osu/4024733)
-- Free Mod
-  1. [Schwank - OPEN YOUR 3RD EYE (Amamya Kokoro) \[Heartfelt Burst\]](https://osu.ppy.sh/beatmapsets/2040473#osu/4256603)
-  2. [TAG - Theory of Eternity (kiddly) \[Extra\]](https://osu.ppy.sh/beatmapsets/35224#osu/227061)
-- EX/Special
-  1. [in love with a ghost - interdimensional portal leading to a cute place feat. snail's house (Voltaeyx) \[[2B] A Dazzling Discovery\]](https://osu.ppy.sh/beatmapsets/1901782#osu/3920710)[^ex-ro16-1]
-  2. [yugurr - Spinner Training (SaintTurk) \[Training\]](https://osu.ppy.sh/beatmapsets/410231#osu/890326)[^ex-ro16-2]
-- Tiebreaker
-  1. **[E0ri4 - L0V3 4RR0W 5H007 (Strategas) \[H4PP1N355\]](https://osu.ppy.sh/beatmapsets/1889263#osu/3891073)**
-
-### Runoff brackets
-
-- No Mod
-  1. [Shiino Kotone (CV: Kanako) - Ashita no Koto. (Garden) \[Extra\]](https://osu.ppy.sh/beatmapsets/1902629#osu/3922591)
-  2. [Lime / Kankitsu - Pixel Princess (Wavewy) \[Extra\]](https://osu.ppy.sh/beatmapsets/2129838#osu/4478624)
-  3. [yuikonnu x sana - Fuzzy Future (Aeril) \[Meg's Extra\]](https://osu.ppy.sh/beatmapsets/545956#osu/1652184)
-  4. [PSYQUI - Still in my heart feat. Punipuni Denki (Kyuuchie) \[Moecho & Amateurre's sanaol "Expert"\]](https://osu.ppy.sh/beatmapsets/1698303#osu/3526945)
-- Hidden
-  1. [MYTH & ROID - L.L.L. (Kalibe) \[Lust\]](https://osu.ppy.sh/beatmapsets/908637#osu/1895993)
-  2. [Azari - Black Out (Ryuusei Aika) \[----\]](https://osu.ppy.sh/beatmapsets/1965625#osu/4075902)
-- Hard Rock
-  1. [Shika-bu - Shikairo Days (iljaaz) \[shikanokonokonokokoshitantan\]](https://osu.ppy.sh/beatmapsets/2211791#osu/4685545)
-  2. [Machita Chima - KING (achyoo) \[Hamster Ass\]](https://osu.ppy.sh/beatmapsets/1306528#osu/2708875)
-- Double Time
-  1. [EGOIST - Saigo no Hanabira (The meaning of love) (anna apple) \[kakifly's Insane\]](https://osu.ppy.sh/beatmapsets/1494327#osu/3346524)
-  2. [x0o0x\_ - Big Brother (Luscent) \[YOKES' HARD Mix\]](https://osu.ppy.sh/beatmapsets/1120687#osu/2521562)
-- Free Mod
-  1. [cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll (Zoli) \[Extra\]](https://osu.ppy.sh/beatmapsets/1606218#osu/3292028)
-  2. [xi - Caramel Custard (sullywally) \[Extra\]](https://osu.ppy.sh/beatmapsets/1007007#osu/2108885)
-- EX/Special
-  1. [Momohara Natsuki (CV: Murakawa Rie) - Natsuzora Yell (TV Size) (lootk) \[Insane\]](https://osu.ppy.sh/beatmapsets/943522#osu/2014193)[^ex-runoff]
-- Tiebreaker
-  1. **[B-Complex - Acid Trip (Zetera) \[Sepsis\]](https://osu.ppy.sh/beatmapsets/1339332#osu/2774775)**  
-
 ### Qualifiers
 
 - No Mod
-  1. [MY FIRST STORY - Shuuen Requiem (SkyFlame) \[Expressionless\]](https://osu.ppy.sh/beatmapsets/1296338#osu/2689633)
-  2. [Xi - Youyoumu ~ Run or Dash (OldEclipse) \[CS4\]](https://osu.ppy.sh/beatmapsets/1918615#osu/4005731)
-  3. [NewJeans - ETA (Nidasimno) \[T24:00:00.000Z\]](https://osu.ppy.sh/beatmapsets/2120186#osu/4454352)
-  4. [YOASOBI - Idol (Cocoyu) \[Deception\]](https://osu.ppy.sh/beatmapsets/1975074#osu/4099092)
+  1. [Kakka - lonely pirouette (ponbot) \[twilight doll\]](https://osu.ppy.sh/beatmapsets/1495810#osu/3066431)
+  2. [Raimukun - Isysmonahy (knowledgeking) \[Programmatic\]](https://osu.ppy.sh/beatmapsets/1834194#osu/3765501)
+  3. [peak divide & Rachel Lake - WORN OUT TAPES (ajmosca) \[Musical Rebellion\]](https://osu.ppy.sh/beatmapsets/1789462#osu/3666616)
+  4. [lapix - Flying Castle (acnozei) \[Perennial\]](https://osu.ppy.sh/beatmapsets/2202622#osu/4661930)
 - Hidden
-  1. [Power Of Nature - QuoN (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/1587936#osu/3243179)
-  2. [Hige Driver - ukigumo (Lude) \[ddm & Lude's Extra\]](https://osu.ppy.sh/beatmapsets/1827928#osu/3928631)
+  1. [Hashimoto Miyuki - Yume Miru Mama ni Koi o Shite (Enepoyo) \[Heilia's Extra Koi\]](https://osu.ppy.sh/beatmapsets/1237680#osu/3265614)
+  2. [Tsuzuri - NAME (FAW) \[U main pake glasses\]](https://osu.ppy.sh/beatmapsets/2254384#osu/4795460)
 - Hard Rock
-  1. [Reku Mochizuki - VEZZELiX (Chaoslitz) \[MARCOBROLO'S EXTRA\]](https://osu.ppy.sh/beatmapsets/1871929#osu/3868452)
-  2. [School Food Punishment - fiction nonfiction (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1829347#osu/3754547)
+  1. [Tsukuyomi - Kure ni Akane, Gomi to Hanataba (Miyoshi Takane) \[Lonesomely\]](https://osu.ppy.sh/beatmapsets/2102466#osu/4444787)
+  2. [Demetori - Silent Voyage to Eternity (brikel) \[BMix\]](https://osu.ppy.sh/beatmapsets/14309#osu/115384)
 - Double Time
-  1. [Uzuki Shimamura (CV: Ayaka Ohashi) - Hanikami days (Setz) \[M\@STER\]](https://osu.ppy.sh/beatmapsets/1585091#osu/3237674)
-  2. [Touno Sakura - PRIZM/CIRCUiT (Muchin) \[Summer, Memories, Love Story!\]](https://osu.ppy.sh/beatmapsets/2142220#osu/4509159)
-  3. [Tsukuyomi - Moonlight at midday (Seros) \[Setu's Insane\]](https://osu.ppy.sh/beatmapsets/1537310#osu/3185210)
+  1. [Aimer - StarRingChild (FuJu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1907485#osu/3933602)
+  2. [Ito Kanako - GAME OVER (Deca) \[COLLAB;INSANE\]](https://osu.ppy.sh/beatmapsets/2039590#osu/4254424)
+  3. [Okui Masami - Good-bye crisis (dasdwqdf) \[Insane\]](https://osu.ppy.sh/beatmapsets/1876230#osu/3861094)
 
 ## Match results
 
