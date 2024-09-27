@@ -56,17 +56,17 @@ The osu! Indonesia Tournament #14 (2024) is run by various osu! community member
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1tJIry9tAr7wfQGvh071pdKB6QrLIPep8hd444j0UWik/edit?gid=0#gid=0)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1956725)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1zSjTQYN_9qG_bZTnw89k-H3AV_mhZrVJdTP5_Z9crYE/edit?usp=sharing)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1968598)
 - [Discord server](https://discord.gg/nKthrPUahJ)
-- [Challonge brackets](https://challonge.com/omtX)
+- [Challonge brackets](https://challonge.com/oit14)
 - [Livestream channel](https://www.twitch.tv/osumalaysia)
 
 ## Participants
 
-Listed below are the players who managed to qualify into the tournament proper (along with their respective seed number and aggregated Z-score across all eleven Qualifier beatmaps) out of 45 participating players in total.
+Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and aggregated Z-score across all eleven Qualifier beatmaps) out of 59 participating players in total.
 
-The complete list of player registrations can be found [here](https://docs.google.com/spreadsheets/d/1tJIry9tAr7wfQGvh071pdKB6QrLIPep8hd444j0UWik/edit?gid=0#gid=0).
+The complete list of player registrations can be found [here](https://docs.google.com/spreadsheets/d/1zSjTQYN_9qG_bZTnw89k-H3AV_mhZrVJdTP5_Z9crYE/edit?gid=640571015#gid=640571015).
 
 | Seed no. | Player | Z-score |
 | :-- | :-- | :-- |
@@ -86,14 +86,6 @@ The complete list of player registrations can be found [here](https://docs.googl
 | 14 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | -0.50 |
 | 15 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | -0.70 |
 | 16 | ::{ flag=MY }:: [Inugami Korone](https://osu.ppy.sh/users/4474918) | -0.82 |
-| 17 | ::{ flag=MY }:: [Chiyuu](https://osu.ppy.sh/users/8226107) | -0.88 |
-| 18 | ::{ flag=MY }:: [Makise Kurisu](https://osu.ppy.sh/users/6996926) | -2.01 |
-| 19 | ::{ flag=MY }:: [MadDdDio](https://osu.ppy.sh/users/15086959) | -2.31 |
-| 20 | ::{ flag=MY }:: [a hotdog](https://osu.ppy.sh/users/8688777) | -2.52 |
-| 21 | ::{ flag=MY }:: [W1nter1](https://osu.ppy.sh/users/23185001) | -3.51 |
-| 22 | ::{ flag=MY }:: [-Shiran-](https://osu.ppy.sh/users/9773374) | -4.48 |
-| 23 | ::{ flag=MY }:: [Atomium](https://osu.ppy.sh/users/19186968) | -4.77 |
-| 24 | ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940) | -4.84 |
 
 ## Mappools
 
