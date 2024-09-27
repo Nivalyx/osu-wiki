@@ -33,13 +33,15 @@ The osu! Indonesia Tournament #14 (2024) offers an initial prize pool of 500,000
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, customised profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the accumulated prize pool, customised profile banner |
 
+As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #14 (2024) is not marked for profit. All contributions and expenses made towards the tournament will be publicly logged over at the [Discord server](https://discordapp.com/invite/CHRFffH) for transparency.
+
 ## Organisation
 
-The osu! Malaysia Tournament X is run by various osu! community members from Malaysia and beyond.
+The osu! Indonesia Tournament #14 (2024) is run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
+| Host | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933) |
 | Co-host | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=MY }:: [Amamiya Kokoro](https://osu.ppy.sh/users/9534110) |
 | Mappool selector | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=VN }:: [realshin](https://osu.ppy.sh/users/8006029), ::{ flag=HK }:: [maxbireo](https://osu.ppy.sh/users/4682646) |
 | Custom mapper | ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023), ::{ flag=MY }:: [\[ -Elaina- \]](https://osu.ppy.sh/users/13893348), ::{ flag=MY }:: [Banner](https://osu.ppy.sh/users/14290988), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=MY }:: [anjay](https://osu.ppy.sh/users/15553329), ::{ flag=MY }:: [Stick2Glue](https://osu.ppy.sh/users/6928574), ::{ flag=MY }:: [Kardshark](https://osu.ppy.sh/users/4724315), ::{ flag=MY }:: [\[ Fiz \]](https://osu.ppy.sh/users/6928574) |
