@@ -107,37 +107,6 @@ The complete list of player registrations can be found [here](https://docs.googl
   2. [Ito Kanako - GAME OVER (Deca) \[COLLAB;INSANE\]](https://osu.ppy.sh/beatmapsets/2039590#osu/4254424)
   3. [Okui Masami - Good-bye crisis (dasdwqdf) \[Insane\]](https://osu.ppy.sh/beatmapsets/1876230#osu/3861094)
 
-## Match results
-
-### Runoff brackets
-
-Friday, 6 September 2024:
-
-| Match classification | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| R2 | **[Chiyuu](https://osu.ppy.sh/users/8226107)** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940) | [#1](https://osu.ppy.sh/community/matches/115382928) |
-| R2 | **[MadDdDio](https://osu.ppy.sh/users/15086959)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [-Shiran-](https://osu.ppy.sh/users/9773374) | [#1](https://osu.ppy.sh/community/matches/115385117) |
-
-Saturday, 7 September 2024:
-
-| Match classification | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| R2 | [Makise Kurisu](https://osu.ppy.sh/users/6996926) ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **[Atomium](https://osu.ppy.sh/users/19186968)** | [#1](https://osu.ppy.sh/community/matches/115401125) |
-| R1 | **[Jolene](https://osu.ppy.sh/users/13626098)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | [#1](https://osu.ppy.sh/community/matches/115414986) |
-| R2 | **[a hotdog](https://osu.ppy.sh/users/8688777)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [W1nter1](https://osu.ppy.sh/users/23185001) | [#1](https://osu.ppy.sh/community/matches/115413637) |
-| R1 | **[stumphole145](https://osu.ppy.sh/users/14623152)** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | [#1](https://osu.ppy.sh/community/matches/115400685) |
-| R1 | **[DuoX](https://osu.ppy.sh/users/9560694)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [Inugami Korone](https://osu.ppy.sh/users/4474918) | [#1](https://osu.ppy.sh/community/matches/115404426) |
-| R1 | [Snowy5441](https://osu.ppy.sh/users/13865320) ::{ flag=MY }:: | 1 | **5** | ::{ flag=MY }:: **[Racers03](https://osu.ppy.sh/users/11621976)** | [#1](https://osu.ppy.sh/community/matches/115399896) |
-
-Sunday, 8 September 2024:
-
-| Match classification | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| R3 | [Inugami Korone](https://osu.ppy.sh/users/4474918) ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/115412910) |
-| R3 | **[Addam](https://osu.ppy.sh/users/11716599)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Atomium](https://osu.ppy.sh/users/19186968) | [#1](https://osu.ppy.sh/community/matches/115415362) |
-| R3 | **[Snowy5441](https://osu.ppy.sh/users/13865320)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [a hotdog](https://osu.ppy.sh/users/8688777) | [#1](https://osu.ppy.sh/community/matches/115416992) |
-| R3 | **[Axorite](https://osu.ppy.sh/users/9124278)** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: [MadDdDio](https://osu.ppy.sh/users/15086959) | [#1](https://osu.ppy.sh/community/matches/115416087) |
-
 ## Ruleset
 
 ### General rules
@@ -148,15 +117,11 @@ Sunday, 8 September 2024:
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-5. If a player fails to show up within:
-   - 5 minutes of the scheduled match time: Their opponent wins the `!roll` by default.
-   - 10 minutes of the scheduled match time: The player loses their ban and their opponent gets to ban 2 maps in a row.
-   - 15 minutes of the scheduled match time: Their opponent wins by default.
+5. If a player does not show up within **10 minutes** of the start time, their opponent gets to win by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap.
-   - A beatmap can be replayed for disconnects that occur within 30 seconds after it has been started for a maximum of 2 times per match.
-   - Subsequent disconnections and disconnections that occur after more than 30 seconds into a beatmap will be counted as an automatic loss for the disconnecting player.
+   - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 9. Lag is not a valid reason to nullify a beatmap.
 10. If any problems during the match occur, the tournament management will make a decision based on the referee's report.
 11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
