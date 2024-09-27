@@ -25,7 +25,7 @@ The **osu! Indonesia Tournament #14 (2024)** (OIT 2024) is a double-elimination 
 
 ## Prizes
 
-The osu! Indonesia Tournament #14 (2024) offers an initial prize pool of 500,000 IDR as generously donated by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). This prize pool was further increased from community donations through Saweria and Streamlabs.
+The osu! Indonesia Tournament #14 (2024) offers an initial prize pool of 500,000 IDR as generously donated by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
 
 | Placing | Prize(s) |
 | :-: | :-- |
