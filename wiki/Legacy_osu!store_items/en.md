@@ -27,4 +27,8 @@ The collection featured a range of products such as:
 
 ### Hats and accessories
 
-- 
+- [Mod Hat](https://web.archive.org/web/20120702093250/http://www.cafepress.com/osume.394644859)
+- [Pippi Cap](https://web.archive.org/web/20120702093250/http://www.cafepress.com/osume.394644101)
+- [osu! Stonewashed Cap](https://web.archive.org/web/20120702093250/http://www.cafepress.com/osume.394643336)
+
+### Drinkware
