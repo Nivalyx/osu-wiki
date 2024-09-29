@@ -65,7 +65,11 @@ The collection featured a range of products such as:
 
 ## osu!tablet
 
-*See also: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139?n=1)*
+*See also: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*
+
+The **osu!tablet** was an official osu!-branded graphic tablet 
+
+The product ran for two versions: the original "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", which was sold in 2013, and the [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) in 2016 before it was discontinued in 2017 due to [a shift in development focus](https://twitter.com/ppy/status/846190076853870592).
 
 ## osu! beatmap blueprints
 
