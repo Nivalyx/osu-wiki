@@ -91,7 +91,7 @@ Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/
 *For the news post, see: [osu!weekly #12](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)*
 *For troubleshooting steps related to the product, see: [Store archive § osu!keyboard](/wiki/Help_centre/Store/Store_archive#osu!keyboard)*
 
-The **osu!keyboard**, also known as the **osu!nono**, was a two-buttoned mechanical keyboard specifically designed for osu! play. 
+The **osu!keyboard**, also known as the **osu!nono**, was a two-buttoned mechanical keyboard specifically designed for osu! play. Each purchase of the osu!keyboard came along with [a pair of osu!-branded keycaps](http://puu.sh/jnEsK/1153c92c10.png).
 
 The product was first sold in 2015 before it was discontinued in 2017 citing [a shift in development focus](https://twitter.com/ppy/status/846190076853870592).
 
