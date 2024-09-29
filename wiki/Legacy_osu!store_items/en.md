@@ -63,10 +63,14 @@ The collection featured a range of products such as:
 - [Pippi Sticker](https://web.archive.org/web/20120702093250/http://www.cafepress.com/osume.394644102)
 - [osu! Large Stickers 40-Pack](https://web.archive.org/web/20120702093250/http://www.cafepress.com/osume.288841446)
 
-## osu! Beatmap Blueprints
+## osu! beatmap blueprints
 
 *For the news post, see: [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)*
 
-The **osu! Beatmap Blueprints** was a reusable sticker set featuring various elements of the game such as hitcircles, sliders, apporach circles, [hit judgements](https://osu.ppy.sh/wiki/en/Gameplay/Judgement/osu%21), and the osu! logo itself. The product was sold in 2015 as a mean for users to create a "life-sized beatmap in real life".
+The **osu! beatmap blueprints** was a reusable sticker set featuring various elements of the game such as hitcircles, sliders, apporach circles, [hit judgements](https://osu.ppy.sh/wiki/en/Gameplay/Judgement/osu%21), and the osu! logo itself. The product was sold in 2015 as a mean for users to create "life-sized beatmaps in real life".
 
-Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/community/forums/topics/312138?n=1) was held.
+Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/community/forums/topics/312138?n=1) was briefly held before later abandoned due to the low number of entries.
+
+## Limited edition osu! plushies
+
+*For the news post, see: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies)*
