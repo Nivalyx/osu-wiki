@@ -10,7 +10,7 @@ This article lists various items that were once available at the [osu!store](htt
 
 ## osu! goods
 
-![A snapshot of the osu! goods](img/osu-goods.png)
+![osu! goods CafePress page](img/osu-goods.png)
 
 The **osu! goods** were a collection of official osu!-branded merchandise sold through the online retailer [CafePress](https://en.wikipedia.org/wiki/CafePress) from 2009 – 2012. All items were printed and produced by CafePress, with a portion of the sales being used to [support the development of the game](https://osu.ppy.sh/store/listing).
 
