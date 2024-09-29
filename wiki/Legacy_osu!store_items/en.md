@@ -10,7 +10,7 @@ This article lists various items that were once available at the [osu!store](htt
 
 ## osu! goods
 
-![osu! goods CafePress page](img/osu-goods.png)
+![osu! goods CafePress store front](img/osu-goods.png)
 
 The **osu! goods** were a collection of official osu!-branded merchandise sold through the online retailer [CafePress](https://en.wikipedia.org/wiki/CafePress) from 2009 – 2012. All items were printed and produced by CafePress, with a portion of the sales being used to [support the development of the game](https://osu.ppy.sh/store/listing).
 
@@ -67,7 +67,7 @@ The collection featured a range of products such as:
 
 *For the news post, see: [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)*
 
-The **osu! beatmap blueprints** were a reusable sticker sets featuring various elements of the game such as hitcircles, sliders, apporach circles, [hit judgements](https://osu.ppy.sh/wiki/en/Gameplay/Judgement/osu%21), and the osu! logo itself. The product was sold in 2015 as a mean for users to create "life-sized beatmaps in real life".
+The **osu! beatmap blueprints** were a reusable sticker sets featuring various elements of the game such as hitcircles, sliders, approach circles, [hit judgements](https://osu.ppy.sh/wiki/en/Gameplay/Judgement/osu%21), and the osu! logo itself. The product was sold in 2015 as a mean for users to create "life-sized beatmaps in real life".
 
 Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/community/forums/topics/312138?n=1) was briefly held before later abandoned due to the low number of entries.
 
@@ -75,4 +75,4 @@ Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/
 
 *For the news post, see: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies)*
 
-The **limited edition osu! plushies** were
+The **limited edition osu! plushies** were a trio of plush dolls each featuring [pippi](/wiki/Mascots#pippi), [Taikonator](https://osu.ppy.sh/wiki/en/Mascots#taikonator), and the [osu! cookie](/wiki/Client/Interface/Cookie). The product was sold in early 2024 through pre-orders and was made in partnership with the crowdfunding platform [Makeship](https://www.makeship.com/).
