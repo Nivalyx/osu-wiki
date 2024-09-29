@@ -63,6 +63,10 @@ The collection featured a range of products such as:
 - [Pippi Sticker](https://web.archive.org/web/20120702093250/http://www.cafepress.com/osume.394644102)
 - [osu! Large Stickers 40-Pack](https://web.archive.org/web/20120702093250/http://www.cafepress.com/osume.288841446)
 
+## osu!tablet
+
+*See also: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139?n=1)*
+
 ## osu! beatmap blueprints
 
 ![osu! beatmap blueprints](img/osu-goods.jpg)
