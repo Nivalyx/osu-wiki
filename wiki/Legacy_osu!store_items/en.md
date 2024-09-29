@@ -83,6 +83,20 @@ The **osu! beatmap blueprints** were a reusable sticker sets featuring various e
 
 Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/community/forums/topics/312138?n=1) was briefly held before later abandoned due to the low number of entries.
 
+## osu!go
+
+![osu!go](img/osu-go.jpg)
+
+*For the news post, see: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*
+
+## osu!mug
+
+![osu!mug](img/osu-mug.jpg)
+
+*For the news post, see: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*
+
+The **osu!mug** was a special edition multi-purpose drinkware adorned by illustrations of [pippi](/wiki/Mascots#pippi). The product was sold in 2016.
+
 ## Limited edition osu! plushies
 
 ![Limited edition osu! plushies](img/osu-limited-edition-plushie.jpg)
