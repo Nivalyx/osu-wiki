@@ -76,13 +76,20 @@ The product ran for two versions: the original "[osu!tablet v1](https://www.yout
 
 ## osu! beatmap blueprints
 
-![osu! beatmap blueprints](img/osu-goods.jpg)
+![osu! beatmap blueprints](img/osu-beatmap-blueprints.jpg)
 
 *For the news post, see: [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)*
 
 The **osu! beatmap blueprints** were a reusable sticker sets featuring various elements of the game such as hitcircles, sliders, approach circles, [hit judgements](https://osu.ppy.sh/wiki/en/Gameplay/Judgement/osu%21), and the osu! logo itself. The product was sold in 2015 as a mean for users to create "life-sized beatmaps in real life".
 
 Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/community/forums/topics/312138?n=1) was briefly held before later abandoned due to the low number of entries.
+
+## osu!keyboard
+
+![osu!keyboard](img/osu-keyboard.jpg)
+
+*For the news post, see: [osu!weekly #12](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)*
+*For troubleshooting steps related to the product, see: [Store archive § osu!keyboard](/wiki/Help_centre/Store/Store_archive#osu!keyboard)*
 
 ## osu!go
 
