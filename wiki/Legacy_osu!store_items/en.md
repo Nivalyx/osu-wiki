@@ -91,6 +91,8 @@ Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/
 *For the news post, see: [osu!weekly #12](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)*
 *For troubleshooting steps related to the product, see: [Store archive § osu!keyboard](/wiki/Help_centre/Store/Store_archive#osu!keyboard)*
 
+The **osu!keyboard**, also known as the **osu!nono**, was a 
+
 ## osu!go
 
 ![osu!go](img/osu-go.jpg)
