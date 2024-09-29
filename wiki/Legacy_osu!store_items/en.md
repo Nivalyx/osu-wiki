@@ -65,6 +65,8 @@ The collection featured a range of products such as:
 
 ## osu! beatmap blueprints
 
+![osu! beatmap blueprints](img/osu-goods.png)
+
 *For the news post, see: [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)*
 
 The **osu! beatmap blueprints** were a reusable sticker sets featuring various elements of the game such as hitcircles, sliders, approach circles, [hit judgements](https://osu.ppy.sh/wiki/en/Gameplay/Judgement/osu%21), and the osu! logo itself. The product was sold in 2015 as a mean for users to create "life-sized beatmaps in real life".
