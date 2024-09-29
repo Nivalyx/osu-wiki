@@ -93,6 +93,8 @@ Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/
 
 The **osu!keyboard**, also known as the **osu!nono**, was a 
 
+The product was first sold in 2015 before it was discontinued in 2017 citing [a shift in development focus](https://twitter.com/ppy/status/846190076853870592).
+
 ## osu!go
 
 ![osu!go](img/osu-go.jpg)
