@@ -75,4 +75,4 @@ Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/
 
 *For the news post, see: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies)*
 
-The **limited edition osu! plushies** were a trio of plush dolls each featuring [pippi](/wiki/Mascots#pippi), [Taikonator](https://osu.ppy.sh/wiki/en/Mascots#taikonator), and the [osu! cookie](/wiki/Client/Interface/Cookie). The product was sold in early 2024 through pre-orders and was made in partnership with the crowdfunding platform [Makeship](https://www.makeship.com/).
+The **limited edition osu! plushies** were a trio of plush dolls each featuring [pippi](/wiki/Mascots#pippi), [Taikonator](https://osu.ppy.sh/wiki/en/Mascots#taikonator), and the [osu! cookie](/wiki/Client/Interface/Cookie). The product was sold in early 2023 through pre-orders and was made in partnership with the crowdfunding platform [Makeship](https://www.makeship.com/).
