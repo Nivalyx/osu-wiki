@@ -88,6 +88,7 @@ Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/
 ![osu!go](img/osu-go.jpg)
 
 *For the news post, see: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*
+*For t, see: [Store archive § osu!go](/wiki/Help_centre/Store/Store_archive#osu!go)*
 
 The **osu!go** was a robust USB stick pre-loaded with the osu! client within. It boasted a transfer speed that were close to that of SSDs and was designed for players who wanted to play osu! on-the-go (hence its name).
 
