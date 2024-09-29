@@ -68,6 +68,7 @@ The collection featured a range of products such as:
 ![osu! tablet](img/osu-tablet.jpg)
 
 *See also: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*
+*For troubleshooting steps related to the product, see: [Store archive § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu!tablet)*
 
 The **osu!tablet** was an official osu!-branded graphic tablet made in partnership with the electronics company [HUION](https://www.huion.com/). It was designed by ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) and was released as an affordable alternative for those who simply wanted to buy a graphic tablet to play osu!.
 
@@ -88,7 +89,7 @@ Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/
 ![osu!go](img/osu-go.jpg)
 
 *For the news post, see: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*
-*For t, see: [Store archive § osu!go](/wiki/Help_centre/Store/Store_archive#osu!go)*
+*For troubleshooting steps related to the product, see: [Store archive § osu!go](/wiki/Help_centre/Store/Store_archive#osu!go)*
 
 The **osu!go** was a robust USB stick pre-loaded with the osu! client within. It boasted a transfer speed that were close to that of SSDs and was designed for players who wanted to play osu! on-the-go (hence its name).
 
