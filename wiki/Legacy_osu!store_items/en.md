@@ -89,13 +89,17 @@ Alongside its release, a special [Beatmap Blueprint Contest](https://osu.ppy.sh/
 
 *For the news post, see: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*
 
+The **osu!go** was a robust USB stick pre-loaded with the osu! client within. It boasted a transfer speed that were close to that of SSDs and was designed for players who wanted to play osu! on-the-go (hence its name).
+
+The product was sold in 2016 along with the osu!mug.
+
 ## osu!mug
 
 ![osu!mug](img/osu-mug.jpg)
 
 *For the news post, see: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*
 
-The **osu!mug** was a special edition multi-purpose drinkware adorned by illustrations of [pippi](/wiki/Mascots#pippi). The product was sold in 2016.
+The **osu!mug** was a special edition multi-purpose drinkware adorned by illustrations of [pippi](/wiki/Mascots#pippi). The product was sold in 2016 along with the osu!go.
 
 ## Limited edition osu! plushies
 
