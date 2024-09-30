@@ -64,28 +64,28 @@ The osu! Indonesia Tournament #14 (2024) is run by various osu! community member
 
 ## Participants
 
-Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and aggregated Z-score across all eleven Qualifier beatmaps) out of 59 participating players in total.
+Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and aggregated Z-sum across all eleven Qualifier beatmaps) out of 59 participating players in total.
 
 The complete list of player registrations can be found [here](https://docs.google.com/spreadsheets/d/1zSjTQYN_9qG_bZTnw89k-H3AV_mhZrVJdTP5_Z9crYE/edit?gid=640571015#gid=640571015).
 
-| Seed no. | Player | Z-score |
+| Seed no. | Player | Z-sum |
 | :-- | :-- | :-- |
-| 1 | ::{ flag=MY }:: [wuhua](https://osu.ppy.sh/users/2932510) | +21.53 |
-| 2 | ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446) | +21.36 |
-| 3 | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630) | +19.34 |
-| 4 | ::{ flag=MY }:: [AHotDawg](https://osu.ppy.sh/users/15271985) | +14.50 |
-| 5 | ::{ flag=MY }:: [Breast](https://osu.ppy.sh/users/11918602) | +13.88 |
-| 6 | ::{ flag=MY }:: [Auxuelus](https://osu.ppy.sh/users/5414124) | +10.39 |
-| 7 | ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377) | +10.34 |
-| 8 | ::{ flag=MY }:: [ohshitweeb](https://osu.ppy.sh/users/12999285) | +7.75 |
-| 9 | ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694) | +6.83 |
-| 10 | ::{ flag=MY }:: [stumphole145](https://osu.ppy.sh/users/14623152) | +6.43 |
-| 11 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | +5.69 |
-| 12 | ::{ flag=MY }:: [Snowy5441](https://osu.ppy.sh/users/13865320) | +4.18 |
-| 13 | ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976) | -0.21 |
-| 14 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | -0.50 |
-| 15 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | -0.70 |
-| 16 | ::{ flag=MY }:: [Inugami Korone](https://osu.ppy.sh/users/4474918) | -0.82 |
+| 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | 10.36 |
+| 2 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 9.28 |
+| 3 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 9.27 |
+| 4 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 9.20 |
+| 5 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 9.07 |
+| 6 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | 9.04 |
+| 7 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | 8.53 |
+| 8 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 8.45 |
+| 9 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | 8.28 |
+| 10 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | 8.24 |
+| 11 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 7.78 |
+| 12 | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) | 7.44 |
+| 13 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 7.39 |
+| 14 | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) | 6.53 |
+| 15 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 6.48 |
+| 16 | ::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/4474918) | 6.27 |
 
 ## Mappools
 
