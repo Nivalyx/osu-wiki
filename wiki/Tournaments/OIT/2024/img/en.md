@@ -89,6 +89,30 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Mappools
 
+### Round of 16
+
+- No Mod
+  1. [Raon - BE the HERO (tsundereSam) \[BECOME the HERO!!!\]](https://osu.ppy.sh/beatmapsets/2085679#osu/4369312)
+  2. [lapix - Carry Me Away (Extended Mix) (UrbanBeat) \[Bright Lights\]](https://osu.ppy.sh/beatmapsets/1015335#osu/2124919)
+  3. [Shiggy Jr. - Oteage Psychics (flake) \[Extra!!\]](https://osu.ppy.sh/beatmapsets/1997246#osu/4151120)
+  4. [jioyi - Platinum (09kami) \[tyui's Extra\]](https://osu.ppy.sh/beatmapsets/449225#osu/1093629)
+- Hidden
+  1. [rei sirose - Hakidasu (Lunicia) \[SHOGUN's Extreme\]](https://osu.ppy.sh/beatmapsets/1759673#osu/3615202)
+  2. [HHHxMMxST - Oboro (dj TAKA Remix) (FAW) \[Mirage\]](https://osu.ppy.sh/beatmapsets/2255359#osu/4797821)
+- Hard Rock
+  1. [yuikonnu - Kakushigoto (Kiiwa) \[Pervis\]](https://osu.ppy.sh/beatmapsets/112712#osu/321327)
+  2. [Silver Forest feat. Nano - (9) destiny \~ Zutto Cirno no Turn (Bloxi) \[Nineball\]](https://osu.ppy.sh/beatmapsets/1714809#osu/3524560)
+- Double Time
+  1. [KOTOKO - Oboetete Ii yo (ckharv) \[Kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1838384#osu/3790631)
+  2. [A-One feat. Shihori - Magic Girl !! (lit120) \[captin's Lunatic\]](https://osu.ppy.sh/beatmapsets/2074627#osu/4408956)
+  3. [Suara - Hikari (Iceskulls) \[Extra\]](https://osu.ppy.sh/beatmapsets/1100497#osu/2386523)
+- Free Mod
+  1. [Luna Fozer - Overjoy OVERDOSE!! (Alvearia) \[I'm only yours ;)\]](https://osu.ppy.sh/beatmapsets/2152852#osu/4536190)
+  2. [P-Model - Logic Airforce (nullset) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/29267#osu/100237)
+  3. [Halozy - Kikoku Doukoku Jigokuraku (Hollow Wings) \[Notch Hell\]](https://osu.ppy.sh/beatmapsets/437683#osu/942356)
+- Tiebreaker
+  1. **[Aoi feat. Sennzai - Freezing Rose (gazimal) \[AGTeru's Endless freezing\]](https://osu.ppy.sh/beatmapsets/1474340#osu/3025815)**
+
 ### Qualifiers
 
 - No Mod
@@ -146,9 +170,9 @@ The complete list of player registrations can be found [here](https://docs.googl
 2. In the lobby, all players will have to consecutively play all of the eleven Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total amount of Z-Score across all eleven Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
-6. The 16 players with the **highest Z-score value** will advance to the knock-out stages.
-   - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total raw score will be placed in the higher seed.
+5. Based on their performance in the Qualifier, players will be ranked based on their Z-sum value (which is the total amount of Z-score across all eleven Qualifier beatmaps). A brief explanation on the concept of Z-sum and Z-score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
+6. The 16 players with the **highest Z-sum value** will advance to the knock-out stages.
+   - If there are two (or more) players who share the same Z-sum value, the player that holds the higher total raw score will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Runoff bracket rules
