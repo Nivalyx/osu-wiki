@@ -33,7 +33,7 @@ Apabila kamu menemui masalah dalam membuka osu!, langkah-langkah berikut mungkin
 
 ## osu!(lazer)
 
-[osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan klien osu! masa mendatang yang saat ini sedang berada dalam pengembangan. Untuk memasang klien ini, ikuti langkah-langkah berikut:
+[osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan klien osu! masa depan yang saat ini sedang berada dalam pengembangan. Untuk memasang klien ini, ikuti langkah-langkah berikut:
 
 1. Tuju [halaman unduhan osu!(lazer) berikut](https://github.com/ppy/osu/releases/latest), lalu unduh dan ekstrak `osu!.app.zip`.
 2. Klik dua kali pada osu! dan pilih `Open` untuk membuka aplikasi.
