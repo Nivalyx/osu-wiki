@@ -19,9 +19,9 @@ osu! versi macOS diketahui memiliki beberapa *bug* visual minor dan performa per
 5. Setelah proses pemasangan selesai, osu! akan terbuka secara otomatis. osu!direct akan kemudian mengunduh beberapa beatmap pengantar untukmu.
 6. osu! akan meminta kamu untuk masuk atau membuat akun baru.
    - Apabila kamu sudah memiliki akun, silakan masuk.
-   - Apabila kamu belum memiliki akun, silakan membuat akun baru sesuai dengan panduan yang tertera pada artikel [Pendaftaran](/wiki/Registration) sebelum kamu masuk.
+   - Apabila kamu belum memiliki akun, silakan buat akun baru sesuai dengan panduan yang tertera pada halaman [Pendaftaran](/wiki/Registration) sebelum kamu masuk.
 
-## Penyelesaian masalah (troubleshooting)
+## Penyelesaian masalah
 
 Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti langkah-langkah berikut:
 
