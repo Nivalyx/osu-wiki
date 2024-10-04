@@ -33,9 +33,9 @@ Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti lan
 
 ## osu!(lazer)
 
-[osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan versi osu! masa depan yang saat ini sedang berada dalam pengembangan. Untuk memasang versi osu! ini, ikuti langkah-langkah berikut:
+[osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan versi masa mendatang dari klien osu! yang saat ini sedang berada dalam pengembangan. Untuk memasang versi klien ini, ikuti langkah-langkah berikut:
 
-1. Tuju [laman unduhan osu!(lazer) berikut](https://github.com/ppy/osu/releases/latest) dan unduh `osu!.app.zip`.
+1. Tuju [halaman unduhan osu!(lazer) berikut](https://github.com/ppy/osu/releases/latest), lalu unduh dan ekstrak `osu!.app.zip`.
 2. Ekstrak berkas tersebut dan jalankan osu! melalui menu `Open`.
 3. Apabila kamu menemui kotak dialog yang meminta agar osu! dapat menerima input-input keyboard:
    1. Klik `Open System Preferences` pada kotak dialog yang bersangkutan.
