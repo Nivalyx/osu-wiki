@@ -8,7 +8,7 @@ Halaman ini akan menjelaskan cara untuk memasang osu! pada perangkat macOS milik
 
 ## Instalasi osu!
 
-osu! versi macOS diketahui memiliki beberapa *bug* visual minor dan performa permainan yang tidak seoptimal osu! pada umumnya. Permainan kamu mungkin tidak akan berjalan secara sempurna pada awalnya, dan kamu mungkin akan memerlukan beberapa penyesuaian agar kamu dapat terbiasa. Untuk memasang osu! pada perangkat macOS milikmu, ikuti langkah-langkah berikut:
+osu! versi macOS diketahui memiliki beberapa *bug* visual minor dan performa permainan yang tidak seoptimal osu! pada umumnya. Permainan kamu mungkin tidak akan berjalan secara sempurna pada awalnya, dan kamu mungkin akan memerlukan beberapa penyesuaian agar kamu dapat terbiasa. Untuk memasang osu! pada macOS, ikuti langkah-langkah berikut:
 
 1. Tuju [halaman unduhan Wineskin berikut](https://osu.ppy.sh/community/forums/topics/1106057), lalu unduh dan ekstrak Wineskin versi terbaru yang tersedia.
 2. Unduh [perangkat osu!macOS Agent tidak resmi berikut](https://osu.ppy.sh/community/forums/topics/1036678) dan gunakan perangkat ini untuk memperbaiki berkas `osu.app` yang ada. Sebagai alternatif, kamu juga dapat melakukan hal-hal berikut:
