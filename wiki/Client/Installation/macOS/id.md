@@ -15,11 +15,11 @@ osu! versi macOS diketahui memiliki beberapa *bug* visual minor dan performa per
    1. Pindahkan berkas `osu!.app` ke desktop.
    2. Buka Terminal dan salin perintah berikut: `xattr -c 'Desktop/osu!.app'` yang kemudian diikuti dengan tombol `Return`.
 3. Klik dua kali pada `osu!.app` untuk menjalankan aplikasi.
-4. Proses instalasi akan berlangsung secara otomatis. Lokasi pemasangan ini tidak dapat diubah dan akan menempati berkas `osu!.app` itu sendiri. Apabila kamu memindahkan berkas `osu!.app` ini, seluruh berkas yang kamu miliki (termasuk [beatmap](/wiki/Beatmap) and [skin](/wiki/Skin)) juga akan ikut berpindah. Kamu dapat mengkilk kanan berkas ini dan memilih `Show Package Contents` untuk melihat berkas apa saja yang terdapat di dalam folder.
-5. Setelah proses pemasangan selesai, osu! akan terbuka secara otomatis. osu!direct akan kemudian mengunduh beberapa beatmap pengantar untuk dapat kamu mainkan.
+4. Proses instalasi akan berlangsung secara otomatis. Lokasi pemasangan ini tidak dapat diubah dan akan menempati berkas `osu!.app` itu sendiri. Apabila kamu memindahkan berkas `osu!.app` ini, seluruh berkas yang kamu miliki (termasuk [beatmap](/wiki/Beatmap) and [skin](/wiki/Skin)) juga akan ikut berpindah. Kamu dapat mengkilk kanan berkas ini dan memilih `Show Package Contents` untuk melihat berkas apa saja yang terdapat di dalam folder osu! utama.
+5. Setelah proses pemasangan selesai, osu! akan terbuka secara otomatis. osu!direct akan kemudian mengunduh beberapa beatmap pengantar untukmu.
 6. osu! akan meminta kamu untuk masuk atau membuat akun baru.
    - Apabila kamu sudah memiliki akun, silakan masuk.
-   - Apabila kamu belum memiliki akun, harap untuk terlebih dahulu membuat akun baru sesuai dengan panduan yang tertera pada artikel [Pendaftaran](/wiki/Registration).
+   - Apabila kamu belum memiliki akun, silakan membuat akun baru sesuai dengan panduan yang tertera pada artikel [Pendaftaran](/wiki/Registration) sebelum kamu masuk.
 
 ## Penyelesaian masalah (troubleshooting)
 
