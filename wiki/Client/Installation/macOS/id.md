@@ -1,10 +1,10 @@
-# Instalasi osu! pada perangkat MacOS
+# Instalasi pada macOS
 
-Laman ini akan menjelaskan hal-hal apa saja yang kurang lebihnya harus kamu lakukan untuk dapat menjalankan osu! pada perangkat macOS milikmu.
+Halaman ini akan menjelaskan cara untuk memasang osu! pada perangkat macOS milikmu secara kasar.
 
 ## Persyaratan minimum
 
-- Kamu harus memiliki komputer dengan sistem operasi macOS yang terpasang di dalamnya.
+- Komputer yang memadai dengan sistem operasi macOS.
 
 ## Instalasi osu!
 
