@@ -29,7 +29,7 @@ Apabila kamu menemui masalah dalam membuka osu!, langkah-langkah berikut mungkin
    - Apabila kamu menggunakan macOS Catalina versi 10.15.4 atau lebih lawas, kamu perlu untuk memperbarui versi macOS yang kamu gunakan (disarankan) atau menonaktifkan [System Integrity Protection](https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection).
 2. Gunakan pengekstrak "Archive Utility" yang tersedia secara bawaan pada macOS untuk mengekstrak Wineskin. Aplikasi pengekstrak lainnya bisa saja tidak mengekstrak Wineskin dengan benar.
 3. Apabila kamu memliki antivirus yang terpasang, pastikan antivirus sedang tidak aktif pada saat kamu mengekstrak osu!. Apabila tidak, aplikasi antivirus ini bisa saja mengarantina berkas yang dibutuhkan oleh Wine.
-4. Apabila langkah-langkah ini tidak membantu, kamu dapat membuat postingan baru di [sub-forum Help](https://osu.ppy.sh/community/forums/5).
+4. Apabila langkah-langkah ini tidak membantu, kamu dapat membuat postingan baru pada [sub-forum Help](https://osu.ppy.sh/community/forums/5).
 
 ## osu!(lazer)
 
