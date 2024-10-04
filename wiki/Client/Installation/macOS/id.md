@@ -23,7 +23,7 @@ osu! versi macOS diketahui memiliki beberapa *bug* visual minor dan performa per
 
 ## Penyelesaian masalah
 
-Apabila kamu menemui masalah dalam menjalankan osu!, cobalah untuk mengikuti langkah-langkah berikut:
+Apabila kamu menemui masalah dalam membuka osu!, langkah-langkah berikut mungkin akan dapat membantu kamu:
 
 1. Periksa laporan-laporan error yang dihasilkan oleh *osu!macOS Agent*.
    - Apabila kamu menggunakan macOS Catalina versi 10.15.4 atau lebih lawas, cobalah untuk memperbaharui versi macOS yang kamu gunakan atau menonaktifkan [System Integrity Protection](https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection).
