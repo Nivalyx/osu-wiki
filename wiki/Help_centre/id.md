@@ -14,23 +14,23 @@ tags:
 
 # Pusat bantuan
 
-Apakah kamu menemui suatu masalah? Kami siap untuk membantumu! Pada artikel ini, kamu dapat mempelajari berbagai masalah yang umum dihadapi beserta solusinya. Apabila masalahmu tidak tertera di bawah ini atau semakin menjadi-jadi, harap hubungi kami melalui email pada alamat [support@ppy.sh](mailto:support@ppy.sh). Di samping itu, kamu juga dapat meminta bantuan kepada para pengguna lainnya melalui [sub-forum Help](https://osu.ppy.sh/community/forums/5).
+Mengalami masalah dengan sesuatu? Kami siap untuk membantumu! Pada artikel ini, kamu dapat menemukan solusi dari berbagai masalah yang umum dijumpai. Apabila masalahmu tidak tertera di sini atau terus menjadi-jadi, kirimkan email kepada kami pada alamat [support@ppy.sh](mailto:support@ppy.sh). Di samping itu, kamu juga dapat meminta bantuan kepada para pengguna lainnya melalui [sub-forum Help](https://osu.ppy.sh/community/forums/5).
 
 ## Jenis permasalahan {id=sections}
 
-Harap tentukan jenis permasalahan yang paling menggambarkan masalah yang kamu hadapi dari daftar di bawah ini agar kami dapat membantumu lebih lanjut.
+Silakan pilih jenis permasalahan yang paling menggambarkan masalah yang kamu hadapi untuk menemukan solusi yang sesuai.
 
 | Jenis permasalahan | Topik yang terlingkup |
 | :-- | :-- |
-| [Akun](/wiki/Help_centre/Account) | osu!supporter, proses *login* dan pemulihan akun, penggantian nama pengguna, data profil |
+| [Akun](/wiki/Help_centre/Account) | osu!supporter, entri masuk dan pemulihan akses, perubahan nama pengguna, data profil |
 | [Restriction](/wiki/Help_centre/Account_restrictions) | Segala hal seputar pembatasan akun (*account restriction*): garis besar, proses banding, alasan umum, masa hukuman |
 | [Beatmapping dan Editor](/wiki/Help_centre/Beatmapping) | Pengelolaan beatmap, kepemilikan beatmap, sistem kuota beatmap (*beatmap slots*) |
 | [Klien](/wiki/Help_centre/Client) | *Bug* dan *crash*, permainan, koneksi, performa |
-| [Instalasi dan pendaftaran](/wiki/Help_centre/Installation_and_registration) | Pengunduhan, pembuatan akun |
+| [Instalasi dan pendaftaran](/wiki/Help_centre/Installation_and_registration) | Unduhan permainan, pembuatan akun |
 | [osu!store](/wiki/Help_centre/Store) | Cendera mata |
 | [Larangan turnamen](/wiki/Help_centre/Tournament_bans) | Segala hal seputar larangan turnamen (*tournament ban*): garis besar, alasan umum, masa hukuman |
-| [Beralih ke lazer](/wiki/Help_centre/Upgrading_to_lazer) | Proses migrasi [menuju versi](/wiki/Client/Release_stream/Lazer) osu! utama yang akan datang |
-| [Situs web](/wiki/Help_centre/Website) | Pemblokiran pengguna, layanan dukungan, tampilan situs web |
+| [Beralih ke lazer](/wiki/Help_centre/Upgrading_to_lazer) | Proses migrasi menuju [versi osu! utama yang akan datang](/wiki/Client/Release_stream/Lazer) |
+| [Situs web](/wiki/Help_centre/Website) | Memblokir pengguna, menghubungi layanan dukungan, tampilan situs web |
 
 ## Bantu kami memahami masalahmu {id=diagnostics}
 
