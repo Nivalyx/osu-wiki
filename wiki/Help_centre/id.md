@@ -53,9 +53,9 @@ Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log 
 
 ### Event Viewer {id=event-viewer}
 
-**Event Viewer merupakan komponen bawaan Windows yang dapat digunakan untuk menemukan rekam kejadian suatu *crash* pada saat osu! tidak merekam data apa pun. Rekaman *crash* ini dapat digunakan untuk menentukan hal apa yang menyebabkan masalahmu.**
+**Event Viewer merupakan komponen bawaan Windows yang dapat digunakan untuk menelisik rekam kejadian suatu *crash* pada saat osu! tidak merekam data apa pun. Rekaman *crash* ini dapat digunakan untuk menentukan hal apa yang menyebabkan masalahmu.**
 
-Apabila osu! mengalami *crash* secara tiba-tiba, seringkali osu! tidak memiliki cukup waktu untuk mencatat kronologi *crash* yang bersangkutan dalam berkas log yang dimilikinya. Dalam situasi demikian, berkas *crash log* yang dihasilkan oleh Event Viewer kerap menjadi satu-satunya harapan yang tersisa.
+Pada saat osu! mengalami *crash* secara tiba-tiba, terkadang osu! tidak memiliki cukup waktu untuk mencatat kronologi *crash* yang bersangkutan dalam berkas log yang dimilikinya. Dalam situasi demikian, berkas *crash log* yang dihasilkan oleh Event Viewer kerap menjadi satu-satunya harapan yang tersisa.
 
 Apabila anggota layanan dukungan kami memintamu untuk memberikan berkas *crash log* Event Viewer yang kamu miliki, berikut merupakan langkah-langkah yang hendaknya kamu ikuti:
 
