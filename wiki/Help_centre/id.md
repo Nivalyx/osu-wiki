@@ -81,4 +81,4 @@ Apabila anggota tim layanan dukungan kami memintamu untuk mengambil tangkapan la
 3. Picu atau tunggu hingga masalahmu terjadi.
 4. Ambil tangkapan layar dengan menekan `Shift` + `F12`. Tindakan ini akan secara otomatis mengunggah hasil tangkapan layar ini ke dalam server osu! dan membukanya pada tab *browser*.
 5. Salin dan tempel URL tangkapan layar ini  pada tiket layanan dukungan atau postingan forum yang kamu buat.
-6. Tutup kembali Frame Time Graph dengan cara yang sama seperti kamu membukanya, yaitu dengan menekan `Ctrl` + `F11`.
+6. Tutup kembali Frame Time Graph dengan cara yang sama seperti pada saat kamu membukanya, yaitu dengan menekan `Ctrl` + `F11`.
