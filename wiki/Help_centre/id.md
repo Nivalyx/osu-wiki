@@ -36,7 +36,7 @@ Silakan pilih jenis permasalahan yang paling menggambarkan masalah yang kamu had
 
 ### Berkas log {id=log-files}
 
-**Berkas log (*log files*) merupakan berkas rekaman yang mencatat apa-apa saja yang dilakukan oleh klien permainan dari waktu ke waktu secara terperinci. Kami dapat menggunakan berkas ini untuk membantu mementukan hal apa yang menyebabkan masalahmu.**
+**Berkas log (*log files*) merupakan berkas rekaman yang mencatat apa-apa saja yang dilakukan oleh klien permainan dari waktu ke waktu secara terperinci. Kami dapat menggunakan berkas ini untuk membantu menentukan hal apa yang menyebabkan masalahmu.**
 
 Walaupun terkesan sepele, berkas ini sangat berguna dan dapat membuat masalah yang sangat rumit sekalipun terselesaikan dengan mudah.
 
@@ -49,11 +49,11 @@ Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log 
 5. Apabila pada langkah sebelumnya kamu mengganti versi osu! yang kamu gunakan, nyalakan ulang osu! melalui tombol yang muncul pada sisi bawah layar.
 6. Klik kembali tombol `Options` dan pilih `Buka folder osu!`.
 7. Pada jendela yang terbuka, tuju direktori `Logs`.
-8. Pilih berkas log yang dibutuhkan (tim layanan dukungan kami akan memberitahukanamu berkas mana saja yang harus kamu ambil) dan lampirkan berkas ini pada tiket layanan dukungan (*support ticket*) atau postingan forum yang terkait.
+8. Pilih berkas log yang dibutuhkan (tim layanan dukungan kami akan memberitahukanmu berkas mana saja yang harus kamu ambil) dan lampirkan berkas ini pada tiket layanan dukungan atau postingan forum yang kamu buat.
 
 ### Event Viewer {id=event-viewer}
 
-**Event Viewer merupakan program bawaan Windows yang merekam segala sesuatu yang terjadi ketika suatu program mengalami *crash*. Rekaman ini tersimpan dalam berkas *crash log* yang dapat kami gunakan untuk mengidentifikasi masalah yang kamu hadapi.**
+**Event Viewer merupakan komponen bawaan Windows yang dapat digunakan untuk menemukan rekam kejadian suatu *crash* pada saat osu! tidak merekam data apa pun. Rekaman *crash* ini dapat digunakan untuk menentukan hal apa yang menyebabkan masalahmu.**
 
 Apabila osu! mengalami *crash* secara tiba-tiba, seringkali osu! tidak memiliki cukup waktu untuk mencatat kronologi *crash* yang bersangkutan dalam berkas log yang dimilikinya. Dalam situasi demikian, berkas *crash log* yang dihasilkan oleh Event Viewer kerap menjadi satu-satunya harapan yang tersisa.
 
