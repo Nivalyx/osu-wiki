@@ -14,7 +14,7 @@ tags:
 
 # Pusat bantuan
 
-Mengalami masalah dengan sesuatu? Kami siap untuk membantumu! Pada artikel ini, kamu dapat menemukan solusi dari berbagai masalah yang umum dijumpai. Apabila masalahmu tidak tertera di sini atau terus menjadi-jadi, kirimkan email kepada kami pada alamat [support@ppy.sh](mailto:support@ppy.sh). Di samping itu, kamu juga dapat meminta bantuan kepada para pengguna lainnya melalui [sub-forum Help](https://osu.ppy.sh/community/forums/5).
+Mengalami masalah dengan sesuatu? Kami siap untuk membantumu! Pada halaman ini, kamu dapat menemukan berbagai solusi dari rangkaian masalah yang umum dijumpai. Apabila masalahmu tidak tertera di sini atau terus menjadi-jadi, kirimkan email kepada kami pada alamat [support@ppy.sh](mailto:support@ppy.sh). Di samping itu, kamu juga dapat meminta bantuan kepada para pengguna lainnya melalui [sub-forum Help](https://osu.ppy.sh/community/forums/5).
 
 ## Jenis permasalahan {id=sections}
 
