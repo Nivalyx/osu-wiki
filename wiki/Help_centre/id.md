@@ -14,7 +14,7 @@ tags:
 
 # Pusat bantuan
 
-Mengalami masalah dengan sesuatu? Kami siap untuk membantumu! Pada halaman ini, kamu dapat menemukan berbagai solusi dari rangkaian masalah yang umum dijumpai. Apabila masalahmu tidak tertera di sini atau terus menjadi-jadi, kirimkan email kepada kami pada alamat [support@ppy.sh](mailto:support@ppy.sh). Di samping itu, kamu juga dapat meminta bantuan kepada para pengguna lainnya melalui [sub-forum Help](https://osu.ppy.sh/community/forums/5).
+Mengalami masalah dengan sesuatu? Kami siap untuk membantumu! Pada halaman ini, kamu dapat menemukan berbagai solusi dari rangkaian masalah yang umum dijumpai. Apabila masalahmu tidak terliput di sini atau terus menjadi-jadi seiring waktunya, kirimkan email kepada kami pada alamat [support@ppy.sh](mailto:support@ppy.sh). Di samping itu, kamu juga dapat meminta bantuan kepada para pengguna lainnya melalui [sub-forum Help](https://osu.ppy.sh/community/forums/5).
 
 ## Jenis permasalahan {id=sections}
 
@@ -30,7 +30,7 @@ Silakan pilih jenis permasalahan yang paling menggambarkan masalah yang kamu had
 | [osu!store](/wiki/Help_centre/Store) | Cendera mata |
 | [Larangan turnamen](/wiki/Help_centre/Tournament_bans) | Segala hal seputar larangan turnamen (*tournament ban*): garis besar, alasan umum, masa hukuman |
 | [Beralih ke lazer](/wiki/Help_centre/Upgrading_to_lazer) | Proses migrasi menuju [versi osu! utama yang akan datang](/wiki/Client/Release_stream/Lazer) |
-| [Situs web](/wiki/Help_centre/Website) | Memblokir pengguna, menghubungi layanan dukungan, tampilan situs web |
+| [Situs web](/wiki/Help_centre/Website) | Pemblokiran pengguna, menghubungi layanan dukungan, tampilan situs web |
 
 ## Bantu kami memahami masalahmu {id=diagnostics}
 
