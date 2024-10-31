@@ -40,7 +40,7 @@ Silakan pilih jenis permasalahan yang paling menggambarkan masalah yang kamu had
 
 Walaupun terkesan sepele, berkas ini sangat berguna dan dapat menjadikan masalah yang sangat rumit sekalipun terselesaikan dengan mudah.
 
-Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log ini, berikut merupakan cara untuk memperolehnya:
+Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log ini, berikut merupakan langkah-langkah yang dapat kamu ikuti:
 
 1. Buka osu!.
 2. Klik tombol `Options` yang terdapat pada menu utama atau tekan `CTRL` + `O`.
