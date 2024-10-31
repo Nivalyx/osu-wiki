@@ -43,13 +43,13 @@ Walaupun terkesan sepele, berkas ini sangat berguna dan dapat membuat masalah ya
 Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log ini, berikut merupakan cara untuk memperolehnya:
 
 1. Buka osu!.
-2. Klik tombol `Options` yang terdapat pada menu utama, atau tekan `CTRL` + `O`.
+2. Klik tombol `Options` yang terdapat pada menu utama atau tekan `CTRL` + `O`.
 3. Ketik `release` pada kolom pencarian yang muncul. Kamu akan melihat versi osu! yang sedang kamu gunakan.
 4. Pastikan kamu sedang berada pada osu! versi `Eksperimental (Cutting Edge)`.
 5. Apabila pada langkah sebelumnya kamu mengganti versi osu! yang kamu gunakan, nyalakan ulang osu! melalui tombol yang muncul pada sisi bawah layar.
 6. Klik kembali tombol `Options` dan pilih `Buka folder osu!`.
 7. Pada jendela yang terbuka, tuju direktori `Logs`.
-8. Pilih berkas log yang dibutuhkan (tim layanan dukungan kami akan memberitahukan kamu berkas mana saja), dan lampirkan berkas ini pada tiket layanan dukungan (*support ticket*) atau postingan forum yang terkait.
+8. Pilih berkas log yang dibutuhkan (tim layanan dukungan kami akan memberitahukanamu berkas mana saja yang harus kamu ambil) dan lampirkan berkas ini pada tiket layanan dukungan (*support ticket*) atau postingan forum yang terkait.
 
 ### Event Viewer {id=event-viewer}
 
