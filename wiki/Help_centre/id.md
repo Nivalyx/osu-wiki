@@ -38,9 +38,9 @@ Silakan pilih jenis permasalahan yang paling menggambarkan masalah yang kamu had
 
 **Berkas log (*log files*) merupakan berkas rekaman yang mencatat apa-apa saja yang dilakukan oleh klien permainan dari waktu ke waktu secara terperinci. Kami dapat menggunakan berkas ini untuk membantu mementukan hal apa yang menyebabkan masalahmu.**
 
-Walaupun terkesan sepele, berkas ini dapat membantu kami dalam mencegah dan menuntaskan berbagai masalah yang serupa ke depannya.
+Walaupun terkesan sepele, berkas ini sangat berguna dan dapat membuat masalah yang sangat rumit sekalipun terselesaikan dengan mudah.
 
-Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log ini, berikut merupakan langkah-langkah untuk kamu ikuti:
+Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log ini, berikut merupakan cara untuk memperolehnya:
 
 1. Buka osu!.
 2. Klik tombol `Options` yang terdapat pada menu utama, atau tekan `CTRL` + `O`.
