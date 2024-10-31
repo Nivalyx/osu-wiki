@@ -61,7 +61,7 @@ Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log 
 
 1. Setelah osu! mengalami *crash*, tekan `Win` + `R` untuk membuka kotak dialog Run.
 2. Pada kolom pencarian yang tertera, ketik `eventvwr` dan tekan `Enter`. Hal ini akan membuka Event Viewer.
-3. Pada Event Viewer, tuju sisi kiri layar dan klik `Windows Logs` dan lalu `Application`.
+3. Pada sisi kiri layar Event Viewer, klik `Windows Logs` dan lalu `Application`.
 4. Klik `Filter current log` yang ada pada sisi kanan layar.
 5. Pada jendela filter yang terbuka, pastikan pilihan `Error` telah tercentang dan klik `OK` setelahnya.
 6. Tekan `Ctrl` + `F` dan ketik `osu!` pada kolom pencarian yang tertera. Event Viewer akan mulai mencari berkas *crash log* yang terkait dengan osu!.
