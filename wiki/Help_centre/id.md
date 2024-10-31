@@ -57,7 +57,7 @@ Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log 
 
 Pada saat osu! mengalami *crash* secara tiba-tiba, terkadang osu! tidak memiliki cukup waktu untuk mencatat apa-apa saja yang terjadi. Dalam situasi yang demikian, satu-satunya cara untuk memperoleh berkas rekaman ini adalah melalui Event Viewer.
 
-Apabila anggota layanan dukungan kami memintamu untuk memberikan berkas *crash log* Event Viewer yang kamu miliki, berikut merupakan langkah-langkah yang hendaknya kamu ikuti:
+Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log di Event Viewer, berikut merupakan langkah-langkah yang dapat kamu ikuti:
 
 1. Setelah osu! mengalami *crash*, tekan `Win` + `R` untuk membuka kotak dialog Run.
 2. Pada kolom pencarian yang tertera, ketik `eventvwr` dan tekan `Enter`. Event Viewer akan terbuka.
