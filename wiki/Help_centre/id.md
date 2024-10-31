@@ -36,7 +36,7 @@ Silakan pilih jenis permasalahan yang paling menggambarkan masalah yang kamu had
 
 ### Berkas log {id=log-files}
 
-**Berkas log (*log files*) merupakan sekumpulan teks yang berisikan segala rekam jejak aktivitas yang terjadi di dalam klien permainan dari waktu ke waktu. Kami dapat menggunakan berkas ini untuk mengidentifikasi masalah yang kamu hadapi.**
+**Berkas log (*log files*) merupakan berkas rekaman yang terjadi di dalam klien permainan dari waktu ke waktu secara terperinci. Kami dapat menggunakan rekaman ini untuk membantu mengidentifikasi apa penyebab masalah yang kamu hadapi.**
 
 Walaupun terkesan sepele, berkas ini dapat membantu kami dalam mencegah dan menuntaskan berbagai masalah yang serupa ke depannya.
 
