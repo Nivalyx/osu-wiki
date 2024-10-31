@@ -36,7 +36,7 @@ Silakan pilih jenis permasalahan yang paling menggambarkan masalah yang kamu had
 
 ### Berkas log {id=log-files}
 
-**Berkas log (*log files*) merupakan berkas rekaman yang mencatat apa-apa saja yang dilakukan oleh klien permainan dari waktu ke waktu secara terperinci. Kami dapat menggunakan berkas ini untuk membantu menentukan hal apa yang menyebabkan masalahmu.**
+**Berkas log (*log files*) merupakan berkas rekaman yang mencatat apa-apa saja yang dilakukan oleh klien permainan dari waktu ke waktu secara terperinci. Kami dapat menggunakan berkas ini untuk membantu menentukan apa penyebab dari masalahmu.**
 
 Walaupun terkesan sepele, berkas ini sangat berguna dan dapat menjadikan masalah yang sangat rumit sekalipun terselesaikan dengan mudah.
 
@@ -53,7 +53,7 @@ Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log 
 
 ### Event Viewer {id=event-viewer}
 
-**Event Viewer merupakan komponen bawaan Windows yang dapat digunakan untuk menelisik rekam kejadian suatu *crash* pada saat osu! tidak merekam data apa pun. Rekaman *crash* ini dapat digunakan untuk menentukan hal apa yang menyebabkan masalahmu.**
+**Event Viewer merupakan komponen bawaan Windows yang dapat digunakan untuk menelisik rekam kejadian suatu *crash* pada saat osu! tidak merekam data apa pun. Rekaman *crash* ini dapat digunakan untuk menentukan apa penyebab dari masalahmu.**
 
 Pada saat osu! mengalami *crash* secara tiba-tiba, terkadang osu! tidak memiliki cukup waktu untuk mencatat apa-apa saja yang terjadi. Dalam situasi yang demikian, satu-satunya cara untuk memperoleh berkas rekaman ini adalah melalui Event Viewer.
 
