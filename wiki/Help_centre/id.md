@@ -25,7 +25,7 @@ Silakan pilih jenis permasalahan yang paling menggambarkan masalah yang kamu had
 | [Akun](/wiki/Help_centre/Account) | osu!supporter, entri masuk dan pemulihan akses, perubahan nama pengguna, data profil |
 | [Restriction](/wiki/Help_centre/Account_restrictions) | Segala hal seputar pembatasan akun (*account restriction*): garis besar, proses banding, alasan umum, masa hukuman |
 | [Beatmapping dan Editor](/wiki/Help_centre/Beatmapping) | Pengelolaan beatmap, kepemilikan beatmap, sistem kuota beatmap (*beatmap slots*) |
-| [Klien](/wiki/Help_centre/Client) | *Bug* dan *crash*, permainan, koneksi, performa |
+| [Klien](/wiki/Help_centre/Client) | *Bug* dan *crash*, permainan, koneksi, kinerja |
 | [Instalasi dan pendaftaran](/wiki/Help_centre/Installation_and_registration) | Unduhan permainan, pembuatan akun |
 | [osu!store](/wiki/Help_centre/Store) | Cendera mata |
 | [Larangan turnamen](/wiki/Help_centre/Tournament_bans) | Segala hal seputar larangan turnamen (*tournament ban*): garis besar, alasan umum, masa hukuman |
@@ -70,15 +70,15 @@ Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log 
 
 ### Frame Time Graph {id=frame-time-graph}
 
-**Frame Time Graph merupakan fitur osu! yang memungkinkan kami untuk memperoleh data lebih lanjut seputar berbagai masalah performa yang kamu hadapi.**
+**Frame Time Graph merupakan fitur osu! yang dapat membantu kami untuk memperoleh informasi lebih lanjut seputar masalah kinerja yang kamu hadapi.**
 
-Ketika kamu merasa performa klien osu! milikmu menurun, kamu dapat menggunakan Frame Time Graph untuk mendiagnosa dan memberantas masalah yang bersangkutan.
+Pada saat kamu dihadapkan dengan masalah kinerja yang rumit, Frame Time Graph merupakan alat yang ampuh bagi kami untuk mendiagnosa dan menemukan solusi atas masalahmu.
 
-Apabila tim layanan dukungan kami memintamu untuk memberikan tangkapan layar (*screenshot*) atau video yang mencakup Frame Time Graph di dalamnya, berikut merupakan langkah-langkah yang hendaknya kamu ikuti:
+Apabila anggota tim layanan dukungan kami memintamu untuk mengambil tangkapan layar atau video dengan Frame Time Graph di dalamnya, berikut merupakan langkah-langkah yang dapat kamu ikuti:
 
 1. Buka osu!.
 2. Tekan `Ctrl` + `F11` untuk mengakses Frame Time Graph.
-3. Tunggu hingga masalah performa yang sedang kamu hadapi terjadi.
-4. Ambil tangkapan layar (*screenshot*) dari osu! dengan menekan `Shift` + `F12`. Aksi ini akan secara otomatis mengunggah hasil tangkapan layar yang kamu ambil tersebut ke dalam server osu! dan membukanya pada *browser* yang kamu miliki.
-5. Lampirkan URL dari hasil tangkapan layar tersebut pada tiket layanan dukungan (*support ticket*) atau utas forum yang terkait.
-6. Nonaktifkan Frame Time Graph dengan kembali menekan Ctrl + F11.
+3. Picu atau tunggu hingga masalahmu terjadi.
+4. Ambil tangkapan layar dengan menekan `Shift` + `F12`. Tindakan ini akan secara otomatis mengunggah hasil tangkapan layar ini ke dalam server osu! dan membukanya pada tab *browser*.
+5. Salin dan tempel URL tangkapan layar ini  pada tiket layanan dukungan atau postingan forum yang kamu buat.
+6. Tutup kembali Frame Time Graph dengan cara yang sama seperti kamu membukanya, yaitu dengan menekan `Ctrl` + `F11`.
