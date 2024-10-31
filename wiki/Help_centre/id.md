@@ -49,7 +49,7 @@ Apabila anggota tim layanan dukungan kami memintamu untuk memberikan berkas log 
 5. Apabila pada langkah sebelumnya kamu mengganti versi osu! yang kamu gunakan, nyalakan ulang osu! melalui tombol yang muncul pada sisi bawah layar.
 6. Klik kembali tombol `Options` dan pilih `Buka folder osu!`.
 7. Pada jendela yang terbuka, tuju direktori `Logs`.
-8. Pilih berkas log yang dibutuhkan (tim layanan dukungan kami akan memberitahukan kamu berkas mana saja), dan lampirkan berkas ini pada tiket layanan dukungan (*support ticket*) atau utas forum yang terkait.
+8. Pilih berkas log yang dibutuhkan (tim layanan dukungan kami akan memberitahukan kamu berkas mana saja), dan lampirkan berkas ini pada tiket layanan dukungan (*support ticket*) atau postingan forum yang terkait.
 
 ### Event Viewer {id=event-viewer}
 
