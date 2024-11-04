@@ -251,6 +251,19 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ### Finals (week 2)
 
+Friday, 1 November 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/116045989) |
+
+Sunday, 3 November 2024:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/116068333) |
+| Grand Final (bracket reset) | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/116068688) |
+
 ### Finals (week 1)
 
 Saturday, 26 October 2024:
