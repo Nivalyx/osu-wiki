@@ -8,7 +8,7 @@ tags:
 
 ![osu! Indonesia Tournament #14 (2024) banner](img/banner.png)
 
-The **osu! Indonesia Tournament #14 (2024)** (OIT 2024) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). The tournament is open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It is the fourteenth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #14 (2024)** (OIT 2024) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). The tournament was open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It was the fourteenth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -25,7 +25,7 @@ The **osu! Indonesia Tournament #14 (2024)** (OIT 2024) is a double-elimination 
 
 ## Prizes
 
-The osu! Indonesia Tournament #14 (2024) offers an initial prize pool of 500,000 IDR as generously donated by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
+The osu! Indonesia Tournament #14 (2024) offered an initial prize pool of 500,000 IDR as generously donated by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -33,11 +33,11 @@ The osu! Indonesia Tournament #14 (2024) offers an initial prize pool of 500,000
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, customised profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the accumulated prize pool, customised profile banner |
 
-As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #14 (2024) is not marked for profit. All contributions and expenses made towards the tournament will be publicly logged over at the [Discord server](https://discordapp.com/invite/CHRFffH) for transparency.
+As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #14 (2024) was not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discordapp.com/invite/CHRFffH) for transparency.
 
 ## Organisation
 
-The osu! Indonesia Tournament #14 (2024) is run by various osu! community members from Indonesia and beyond.
+The osu! Indonesia Tournament #14 (2024) was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -409,4 +409,5 @@ Sunday, 6 October 2024:
 
 ## Notes
 
-[^mappool-note-1]: An instrumental track version of the map is used for this tournament.
+[^stixe-note-1]: ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) was brought in as a playtester after their elimination from the tournament.
+[^mappool-note-1]: An instrumental track version of the map was used for this tournament.
