@@ -249,6 +249,8 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Match results
 
+### Finals (week 2)
+
 ### Finals (week 1)
 
 Saturday, 26 October 2024:
