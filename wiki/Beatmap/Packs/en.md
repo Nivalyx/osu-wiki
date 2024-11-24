@@ -40,7 +40,7 @@ Beatmap packs are split into 7 categories with a special letter indicator:
 
 *Caution: osu! cannot guarantee that files from unofficial sources are safe, up to date, or complete.*
 
-It is recommended to directly download beatmap packs from the official beatmap pack listing. However, if you have difficulty downloading packs from there, there are two alternatives.
+It is recommended to download beatmap packs directly from the official beatmap pack listing. However, if you have difficulty in downloading packs from there, there are several alternatives that you can use.
 
 ### Mirrors
 
