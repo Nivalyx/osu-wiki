@@ -6,7 +6,7 @@ On average, beatmap packs are roughly 100 MB in size and contain all available b
 
 ## Naming
 
-The file name of a pack is based on its content, category, and upload order. For example, in the following beatmap pack:
+A beatmap pack is named after its content, category, and upload order. For example, in the following beatmap pack:
 
 ```
 F2 - Rohi Pack.zip
