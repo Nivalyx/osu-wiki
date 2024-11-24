@@ -1,6 +1,6 @@
 # Beatmap packs
 
-A **beatmap pack** is a compressed archive containing [beatmaps](/wiki/Beatmap) organized by a particular criteria. They can be found on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
+A **beatmap pack** is a compressed archive containing [beatmaps](/wiki/Beatmap) organised by a particular criteria. They can be found on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
 
 On average, beatmap packs are roughly 100 MB in size and contain all available beatmap assets, including videos.
 
