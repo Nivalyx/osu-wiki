@@ -1,6 +1,6 @@
 # Beatmap packs
 
-A **beatmap pack** is a compressed archive containing [beatmaps](/wiki/Beatmap) of a particular criteria. They can be found on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
+A **beatmap pack** is a compressed archive containing [beatmaps](/wiki/Beatmap) grouped by a particular criteria. They can be found on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
 
 On average, beatmap packs are roughly 100 MB in size and contain all available beatmap assets, including videos.
 
@@ -24,7 +24,7 @@ Beatmap packs are split into 7 categories with a special letter indicator:
 | :-: | :-- | :-- |
 | **S** | Standard | [Ranked](/wiki/Beatmap/Category#ranked) and [Approved](/wiki/Beatmap/Category#approved) beatmaps |
 | **F** | Featured Artist | Songs from [Featured Artists](/wiki/People/Featured_Artists) |
-| **P** | Tournament | Tournament mappools |
+| **P** | Tournament | [Official tournament](https://osu.ppy.sh/community/tournaments) mappools |
 | **L** | Project Loved | Beatmaps chosen by the community in [Project Loved](/wiki/Community/Project_Loved) |
 | **R** | Spotlights | Seasonal beatmap challenge packs from the [Beatmap Spotlights](/wiki/Beatmap_Spotlights), formerly known as *Charts* |
 | **T** | Theme | Beatmaps based on a particular theme |
@@ -66,4 +66,4 @@ To download beatmap packs in bulk instead of one by one manually, use torrenting
 
 <!-- TODO: new mirrors -->
 
-You will need a lot of space (and bandwidth) to torrent all of these packs.
+Please note that you will need a lot of space (and bandwidth) to torrent all of these packs.
