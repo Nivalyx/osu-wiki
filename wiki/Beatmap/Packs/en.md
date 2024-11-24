@@ -55,11 +55,11 @@ As of now, all beatmap packs are stored internally at the `packs.ppy.sh` server.
 
 ### Torrents
 
-Torrents is an excellent way to download beatmap packs in bulk instead of one by one manually. To do so, use torrenting tools to download them from one of the sites below:
+Torrenting is an excellent way to download beatmap packs in bulk instead of one by one manually. To do so, use your torrenting tools to download them from one of the sites below:
 
 - [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
   - [Resilio Sync torrent file](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) by ::{ flag=RU }:: [glukki](https://osu.ppy.sh/users/14285150)
-- [[Beatmap Packs] All ranked maps](https://osu.ppy.sh/community/forums/topics/330552) (various DL options included)
+- [[Beatmap Packs] All ranked maps](https://osu.ppy.sh/community/forums/topics/330552)
   - [Torrent file](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) by ::{ flag=RE }:: [Elessey](https://osu.ppy.sh/users/4925105)
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
   - [PandoTracker website](https://pandotracker.me) by ::{ flag=IT }:: [- Pandoro](https://osu.ppy.sh/users/2574057)
