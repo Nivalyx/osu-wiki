@@ -1,6 +1,6 @@
 # Beatmap packs
 
-A **beatmap pack** is a compressed archive containing [beatmaps](/wiki/Beatmap) organised by a particular criteria. They can be found on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
+A **beatmap pack** is a compressed archive containing [beatmaps](/wiki/Beatmap) of a particular criteria. They can be found on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
 
 On average, beatmap packs are roughly 100 MB in size and contain all available beatmap assets, including videos.
 
@@ -14,7 +14,7 @@ F2 - Rohi Pack.zip
 
 `F2` indicates that it is the second beatmap pack available under the Featured Artist category, while `Rohi Pack` refers to the pack's name shown on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs/F2). In particular, this pack only includes [Rohi](https://osu.ppy.sh/beatmaps/artists/82)'s songs.
 
-Certain beatmap packs, especially in the Standard category, are also numbered by upload order. For example, [osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) (pack `S1000`) is the 1,000th pack containing [Ranked](/wiki/Beatmap/Category#ranked) beatmaps for the [osu! game mode](/wiki/Game_mode/osu!).
+Certain beatmap packs, especially in the Standard category, are also numbered by upload order. For example, [osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) (pack `S1000`) is the 1,000th pack containing [Ranked](/wiki/Beatmap/Category#ranked) and [Approved](/wiki/Beatmap/Category#approved) beatmaps for the [osu! game mode](/wiki/Game_mode/osu!).
 
 ## Categories
 
@@ -22,7 +22,7 @@ Beatmap packs are split into 7 categories with a special letter indicator:
 
 | Indicator | Category | Beatmap types |
 | :-: | :-- | :-- |
-| **S** | Standard | [Ranked](/wiki/Beatmap/Category#ranked) or [Approved](/wiki/Beatmap/Category#approved) beatmaps |
+| **S** | Standard | [Ranked](/wiki/Beatmap/Category#ranked) and [Approved](/wiki/Beatmap/Category#approved) beatmaps |
 | **F** | Featured Artist | Songs from [Featured Artists](/wiki/People/Featured_Artists) |
 | **P** | Tournament | Tournament mappools |
 | **L** | Project Loved | Beatmaps chosen by the community in [Project Loved](/wiki/Community/Project_Loved) |
