@@ -1,8 +1,8 @@
 # Beatmap packs
 
-A **beatmap pack** is a compressed archive containing [beatmaps](/wiki/Beatmap). They can be found on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
+A **beatmap pack** is a compressed archive containing [beatmaps](/wiki/Beatmap) grouped by a specific criteria. They can be found on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
 
-It is worth noting that packs are roughly 100 MB in size on average and contain all available beatmap assets, including videos.
+On average, beatmap packs are roughly 100 MB in size and contain all available beatmap assets, including videos.
 
 ## Naming
 
@@ -12,7 +12,7 @@ The file name of a pack is based on its content, category, and upload order. For
 F2 - Rohi Pack.zip
 ```
 
-`F2` means the second beatmap pack under the Featured Artist category, while `Rohi Pack` refers to the pack's name shown on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs/F2). This pack only includes [Rohi](https://osu.ppy.sh/beatmaps/artists/82)'s songs.
+`F2` indicates that it is the second beatmap pack available under the Featured Artist category, while `Rohi Pack` refers to the pack's name shown on the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs/F2). This pack only includes [Rohi](https://osu.ppy.sh/beatmaps/artists/82)'s songs.
 
 Some beatmap packs, especially in the Standard category, are also numbered by upload order. For example, [osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) (pack `S1000`) is the 1,000th pack containing [Ranked](/wiki/Beatmap/Category#ranked) beatmaps for the [osu! game mode](/wiki/Game_mode/osu!).
 
