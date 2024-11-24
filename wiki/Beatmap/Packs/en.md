@@ -66,4 +66,4 @@ To download beatmap packs in bulk instead of one by one manually, use torrenting
 
 <!-- TODO: new mirrors -->
 
-Please note that you will need a lot of space (and bandwidth) to torrent all of these packs.
+Please note that a lot of space (and bandwidth) is required to torrent all of the available packs.
