@@ -42,7 +42,7 @@ Beatmap Loved merupakan beatmap yang *dicintai (loved)* oleh komunitas berdasark
 
 ### Approved {id=approved}
 
-Approved merupakan kategori yang digunakan antara tahun 2008 dan 2014 untuk mewadahi beatmap yang durasi dan skor maksimumnya melebihi dari apa yang diperbolehkan pada [kriteria ranking](/wiki/Ranking_criteria) pada saat itu. beserta dengan beberapa beatmap lainnya yang tidak memenuhi peraturan lainnya pada kriteria ranking.
+Approved merupakan kategori yang digunakan antara tahun 2008 dan 2014 untuk mewadahi beatmap yang durasi dan skor maksimumnya melebihi dari apa yang diperbolehkan pada [kriteria ranking](/wiki/Ranking_criteria) pada saat itu. Selain itu, 
 
 Beatmap Approved pada awalnya tidak berpengaruh terhadap total skor pemain hingga osu! berpindah dari sistem *score ranking* menuju sistem [*performance point*](/wiki/Performance_points). Setelah perubahan ini diberlakukan, kategori Approved kemudian dikhususkan untuk mengkategorikan beatmap yang memiliki [*drain time*](/wiki/Beatmap/Drain_time) di atas 6 menit.
 
@@ -54,4 +54,4 @@ Kategori [Qualified](#qualified) pertama kali diperkenalkan pada bulan Agustus 2
 
 ### Statistik beatmap non-Ranked
 
-Per tanggal [7 Agustus 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), beatmap [Graveyard](#graveyard) serta [Work in Progress dan Pending](#wip-and-pending) turut berkontribusi terhadap jumlah permainan dan total skor masing-masing pemain. Seiring dengan perubahan ini, beatmap dalam ketiga kategori ini juga memperoleh statistik permainannya tersendiri (jumlah permainan, tingkat keberhasilan, dan titik-titik kegagalan) pada halamannya masing-masing seperti halnya pada beatmap [Qualified](#qualified) dan [Ranked](#ranked).
+Per tanggal [7 Agustus 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), beatmap [Graveyard](#graveyard), [Work in Progress, dan Pending](#wip-and-pending) mulai berkontribusi terhadap jumlah permainan dan total skor pemain. Seiring dengan perubahan ini, beatmap dalam ketiga kategori ini juga memperoleh statistik permainannya tersendiri (jumlah permainan, tingkat keberhasilan, dan titik-titik kegagalan) pada halamannya masing-masing seperti halnya pada beatmap [Qualified](#qualified) dan [Ranked](#ranked).
