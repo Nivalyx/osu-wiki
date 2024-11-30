@@ -42,11 +42,11 @@ Beatmap Loved merupakan beatmap yang *dicintai (loved)* oleh komunitas berdasark
 
 ### Approved {id=approved}
 
-Approved merupakan kategori beatmap yang digunakan antara tahun 2008 dan 2014 untuk mengelompokkan beatmap yang tidak memenuhi batasan durasi dan skor maksimum yang terdapat pada [kriteria ranking](/wiki/Ranking_criteria) pada saat itu.
+Approved merupakan kategori yang digunakan antara tahun 2008 dan 2014 untuk mewadahi beatmap yang tidak memenuhi batasan durasi dan skor maksimum yang terdapat pada [kriteria ranking](/wiki/Ranking_criteria) pada saat itu, beserta dengan beberapa beatmap lainnya .
 
 Beatmap Approved pada awalnya tidak berpengaruh terhadap total skor masing-masing pemain. Setelah osu! bertransisi dari sistem *score ranking* menuju sistem [*performance point*](/wiki/Performance_points), batasan skor ini pun dihapus dan kategori Approved kemudian dikhususkan untuk menandai beatmap yang memiliki [*drain time*](/wiki/Beatmap/Drain_time) di atas 6 menit.
 
-Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/status/approved.png)) pada layar pemilihan lagu.
+Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/status/approved.png)) pada layar pemilihan lagu dan memiliki fungsi yang sama dengan beatmap Ranked.
 
 ### Kemunculan kategori Qualified
 
