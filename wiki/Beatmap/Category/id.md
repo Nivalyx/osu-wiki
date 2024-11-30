@@ -44,13 +44,13 @@ Beatmap Loved merupakan beatmap yang *dicintai (loved)* oleh komunitas berdasark
 
 Approved merupakan kategori yang digunakan antara tahun 2008 dan 2014 untuk mewadahi beatmap yang durasi dan skor maksimumnya melebihi dari apa yang diizinkan oleh [kriteria ranking](/wiki/Ranking_criteria) pada saat itu. Selain itu, kategori ini juga menampung beberapa beatmap khusus yang tidak memenuhi kriteria ranking tertentu lainnya.
 
-Beatmap Approved pada awalnya tidak berpengaruh terhadap total skor pemain hingga osu! berpindah dari sistem *score ranking* menuju sistem [*performance point*](/wiki/Performance_points). Setelah perubahan ini diberlakukan, kategori Approved kemudian dikhususkan untuk mengkategorikan beatmap yang memiliki [*drain time*](/wiki/Beatmap/Drain_time) di atas 6 menit.
+Beatmap Approved pada awalnya tidak berpengaruh terhadap total skor pemain hingga osu! berpindah  dari sistem *score ranking* ke sistem [*performance point*](/wiki/Performance_points). Setelah perubahan ini diberlakukan, kategori Approved kemudian dikhususkan untuk mengkategorikan beatmap yang memiliki [*drain time*](/wiki/Beatmap/Drain_time) di atas 6 menit.
 
 Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/status/approved.png)) pada layar pemilihan lagu dan memiliki fungsi yang sama dengan beatmap Ranked.
 
 ### Kemunculan kategori Qualified
 
-Kategori [Qualified](#qualified) diperkenalkan pada bulan Agustus 2014 dalam rangka [restrukturisasi BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) untuk membuat beatmap yang baru memasuki Ranked menjadi lebih tersorot. Apabila suatu beatmap Qualified perlu untuk didiskualifikasi dan dikembalikan ke Pending, statistik pemain tidak akan terpengaruh, karena kategori ini sejak awal tidak dirancang untuk mencatat skor secara permanen. Hal ini mengubah pandangan komunitas seputar proses ranking yang ada serta mengurangi sentimen negatif setiap kali terdapat beatmap yang status Ranked-nya dianulir (di-*unrank*).
+Kategori [Qualified](#qualified) diperkenalkan pada bulan Agustus 2014 dalam rangka [restrukturisasi BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) untuk membuat beatmap yang baru memasuki Ranked menjadi lebih tersorot. Apabila suatu beatmap Qualified perlu untuk didiskualifikasi dan dikembalikan ke Pending, statistik pemain tidak akan terpengaruh, karena kategori ini sejak awal tidak dirancang untuk mencatat skor secara permanen. Hal ini mengubah pandangan komunitas seputar proses ranking yang ada serta mengurangi tanggapan negatif setiap kali terdapat beatmap yang status Ranked-nya dianulir (di-*unrank*).
 
 ### Statistik beatmap non-Ranked
 
