@@ -12,4 +12,4 @@ This is usually done by adding unnecessarily large [jumps](/wiki/Beatmap/Pattern
 
 ![Example of overmapping by excessively high slider velocity](img/overmap-slider.gif "Example of overmapping by excessively high slider velocity")
 
-Please note that while overmapping is generally discouraged, this technique remains perfectly acceptable to use when applied under the appropriate context and circumstances.
+Please note that while overmapping is generally discouraged, this technique remains perfectly acceptable to use when applied under an appropriate context.
