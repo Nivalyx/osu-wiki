@@ -11,3 +11,5 @@ This is usually done by adding unnecessarily large [jumps](/wiki/Beatmap/Pattern
 ![Example of overmapping by excessively high object spacing](img/overmap-jump.gif "Example of overmapping by excessively high object spacing")
 
 ![Example of overmapping by excessively high slider velocity](img/overmap-slider.gif "Example of overmapping by excessively high slider velocity")
+
+Please note that while overmapping is generally discouraged upon, 
