@@ -6,4 +6,8 @@ This is usually done by adding unnecessarily large [jumps](/wiki/Beatmap/Pattern
 
 ## Examples
 
-![Screenshot of a beatmap that contains explicit content](img/overmap-jump.gif "An example of a beatmap that is being marked with the 'explicit' tag.")
+![Example of overmapping by excessively high object density](img/overmap-stream.gif "Example of overmapping by excessively high object density")
+
+![Example of overmapping by excessively high object spacing](img/overmap-jump.gif "Example of overmapping by excessively high object spacing")
+
+![Example of overmapping by excessively high slider velocity](img/overmap-slider.gif "Example of overmapping by excessively high slider velocity")
