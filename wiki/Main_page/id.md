@@ -100,9 +100,11 @@ Interaksi sosial merupakan salah satu hal utama yang mengikat para pemain osu! d
 
 Ruang publik: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Server Discord](/wiki/Community/Discord_servers)
 
-[Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_Spotlights) • [Kontes](/wiki/Contests) • [Program Community Mentorship](/wiki/Community/Community_Mentorship_Program)
+Inisiatif: [Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_Spotlights) • [Kontes](/wiki/Contests) • [Program Community Mentorship](/wiki/Community/Community_Mentorship_Program)
 
-[Proyek](/wiki/Community/Projects) • [Featured Artist](/wiki/People/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
+[Proyek](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy)
+
+Media: [Bespoke music](/wiki/Community/Bespoke_music) • [Manga](/wiki/Community/Manga) • [Video series](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
