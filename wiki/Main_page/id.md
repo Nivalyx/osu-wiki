@@ -13,7 +13,7 @@ Selamat datang di osu! wiki, basis pengetahuan open-source yang mengandung berba
 
 # Pendahuluan
 
-Berikut merupakan berbagai artikel dan panduan penting yang akan membantu kamu untuk memulai permainanmu. Apabila kamu menemui masalah atau merasa ragu akan hal tertentu, jangan sungkan untuk mengunjungi [forum Help](https://osu.ppy.sh/forum/5).
+Berikut merupakan berbagai artikel dan panduan penting yang akan membantu kamu untuk mulai bermain osu!. Apabila kamu menemui masalah atau merasa ragu akan hal tertentu, jangan sungkan untuk mengunjungi [forum Help](https://osu.ppy.sh/forum/5).
 
 [Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_centre)
 
@@ -24,7 +24,7 @@ Berikut merupakan berbagai artikel dan panduan penting yang akan membantu kamu u
 
 # Klien permainan
 
-osu! merupakan permainan yang kaya akan fitur. Kenali berbagai fitur yang osu! miliki beserta dengan seluk-beluknya, mulai dari pengaturan yang tersedia, rincian teknisnya, hingga ragam format berkas yang osu! gunakan.
+osu! merupakan permainan yang kaya akan fitur. Kenali seluk-beluk permainan ini lebih jauh, mulai dari pengaturan yang tersedia, rincian teknisnya, hingga ragam format berkas yang osu! gunakan.
 
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas program osu!](/wiki/Client/Program_files)
 
@@ -104,7 +104,7 @@ Inisiatif: [Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_S
 
 [Proyek](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy)
 
-Media: [Bespoke music](/wiki/Community/Bespoke_music) • [Manga](/wiki/Community/Manga) • [Video series](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
+Media: [Lagu yang dirancang khusus](/wiki/Community/Bespoke_music) • [Manga](/wiki/Community/Manga) • [Serial video](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
