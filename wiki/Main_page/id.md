@@ -83,7 +83,7 @@ Peraturan media: [Pedoman penggunaan konten](/wiki/Rules/Content_usage_guideline
 
 # Bantuan
 
-Temukan jawaban atas berbagai pertanyaan umum pada rangkaian artikel di bawah ini.
+Temukan jawaban atas berbagai pertanyaan umum beserta solusinya pada rangkaian artikel di bawah ini.
 
 [Pusat bantuan](/wiki/Help_centre) • [Penyelesaian masalah kinerja](/wiki/Performance_troubleshooting) • [Tim dukungan akun](/wiki/People/Account_support_team) • [Forum Help](https://osu.ppy.sh/forum/5)
 
