@@ -59,7 +59,7 @@ Aktivitas: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Beatmappi
 
 # Submisi dan ranking beatmap
 
-Ranking merupakan proses bagi beatmap untuk memperoleh papan peringkatnya tersendiri, yang akan membuat beatmap ini lebih populer dan dikenal.
+Ranking merupakan proses bagi beatmap untuk memperoleh papan peringkatnya tersendiri, yang akan membuat beatmap ini lebih kondang dan dikenal. Telusuri hal-hal apa saja yang dibutuhkan untuk
 
 [Submisi](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Prosedur ranking](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
