@@ -57,9 +57,9 @@ Aktivitas: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Beatmappi
 </div>
 <div class="wiki-main-page-panel">
 
-# Submisi dan proses ranking beatmap
+# Submisi dan ranking beatmap
 
-Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebut harus melewati proses ranking beatmap yang berlaku di osu!. Ketahui bagaimana proses ini berlangsung dan seperti apa prosedur kontrol kualitas beatmap (*quality control*) yang osu! terapkan.
+Ranking merupakan proses untuk memperoleh papan peringkat,
 
 [Submisi](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Prosedur ranking](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
@@ -96,7 +96,7 @@ Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_he
 
 # Komunitas dan proyek
 
-Interaksi sosial merupakan salah satu hal utama yang mengikat para pemain osu! di seluruh dunia. Telusuri berbagai aktivitas dan kontes yang berlangsung, jalin hubungan dengan pengguna lain, atau jadilah bagian dari event besar selanjutnya!
+Interaksi sosial merupakan salah satu hal utama yang mengikat para pemain osu! di seluruh dunia. Telusuri berbagai aktivitas dan kontes yang berlangsung, jalinlah hubungan dengan pengguna lain, atau jadilah bagian dari event besar selanjutnya!
 
 Ruang publik: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Server Discord](/wiki/Community/Discord_servers)
 
