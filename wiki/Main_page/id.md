@@ -46,7 +46,7 @@ Segalanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, k
 
 # [Editor beatmap](/wiki/Client/Beatmap_editor)
 
-Seluruh beatmap osu! merupakan hasil ciptaan para anggota komunitas. Ingin membuat beatmap dari lagu kesukaanmu, namun belum tahu caranya? Pelajari rangkaian artikel berikut agar kamu dapat menguasai editor osu! dan menjadi mapper yang handal.
+Seluruh beatmap osu! merupakan hasil karya para anggota komunitas. Ingin membuat beatmap dari lagu favoritmu, namun belum tahu caranya? Pelajari rangkaian artikel berikut agar kamu dapat menguasai editor osu! dan menjadi mapper yang handal.
 
 Bagian: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)
 
@@ -96,7 +96,7 @@ Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_he
 
 # Komunitas dan proyek
 
-Interaksi sosial merupakan salah satu hal utama yang mengikat para pemain osu! di seluruh dunia. Telusuri berbagai aktivitas yang berlangsung, mulai dari obrolan, kontes, hingga berbagai event besar!
+Interaksi sosial merupakan salah satu hal utama yang mengikat para pemain osu! di seluruh dunia. Telusuri berbagai aktivitas dan kontes, mulai dari obrolan, kontes, hingga berbagai event besar!
 
 Ruang publik: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Server Discord](/wiki/Community/Discord_servers)
 
