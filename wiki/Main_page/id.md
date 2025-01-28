@@ -133,7 +133,7 @@ Pelajari cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksterna
 
 # Wiki dan halaman meta
 
-Sama seperti hampir segala sesuatunya yang osu!, wiki ini juga ditulis dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide artikel baru untuk ditambahkan ke wiki ini, silakan kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
+Sama seperti hampir segala sesuatunya yang ada di osu!, wiki ini juga ditulis dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide artikel baru untuk ditambahkan ke wiki ini, silakan kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
 
 [Sejarah osu!](/wiki/History_of_osu!) • [Sejarah peringkat online](/wiki/History_of_osu!/Online_rankings) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
