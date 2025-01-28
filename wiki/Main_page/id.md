@@ -96,7 +96,7 @@ Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_he
 
 # Komunitas dan proyek
 
-Interaksi sosial merupakan salah satu hal utama yang mengikat para pemain osu! di seluruh dunia. Telusuri berbagai aktivitas dan kontes yang berlangsung, bergaullah dengan pengguna lain, atau jadilah bagian dari event besar selanjutnya!
+Interaksi sosial merupakan salah satu hal utama yang mengikat para pemain osu! di seluruh dunia. Telusuri berbagai aktivitas dan kontes yang berlangsung, jalin hubungan dengan pengguna lain, atau jadilah bagian dari event besar selanjutnya!
 
 Ruang publik: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Server Discord](/wiki/Community/Discord_servers)
 
