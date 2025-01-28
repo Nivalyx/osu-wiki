@@ -46,7 +46,7 @@ Segalanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, k
 
 # [Editor beatmap](/wiki/Client/Beatmap_editor)
 
-Seluruh beatmap osu! merupakan hasil karya para anggota komunitas. Ingin membuat beatmap dari lagu favoritmu, namun belum tahu caranya? Pelajari berbagai artikel berikut agar kamu dapat menguasai editor osu! dan menjadi mapper yang handal.
+Seluruh beatmap yang ada di osu! merupakan hasil karya dari para anggota komunitas. Ingin membuat beatmap dari lagu favoritmu, namun belum tahu caranya? Pelajari berbagai artikel berikut agar kamu dapat menguasai editor osu! dan menjadi mapper yang handal.
 
 Bagian: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)
 
@@ -59,7 +59,7 @@ Aktivitas: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Beatmappi
 
 # Submisi dan ranking beatmap
 
-Ranking merupakan proses bagi beatmap untuk memperoleh papan peringkat,
+Ranking merupakan proses bagi beatmap untuk memperoleh papan peringkatnya tersendiri, yang akan membuat beatmap ini lebih populer dan dikenal.
 
 [Submisi](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Prosedur ranking](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
