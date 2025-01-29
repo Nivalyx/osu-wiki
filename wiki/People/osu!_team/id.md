@@ -68,7 +68,7 @@ Selain itu, terdapat pula berbagai [tim sukarelawan lainnya](/wiki/People) yang 
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Pengasuh umum, manajer komunitas |
-| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, perancang sistem IRC yang terintegrasi dengan in-game chat, pengelola situs |
+| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, penyedia integrasi IRC untuk chat, pemelihara situs |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Pembawa acara osu! Coffee Hour, penyiar World Cup, pengelola turnamen |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, perancang infrastruktur backend sistem osz2 dan p2p |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Pemimpin [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) |
