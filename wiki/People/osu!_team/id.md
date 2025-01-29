@@ -50,10 +50,10 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Pengasuh umum, dukungan turnamen |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Pengasuh umum, pemoles kode program |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Ketua [GMT](/wiki/People/Global_Moderation_Team), manajer [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Pembina wiki](/wiki/People/osu!_wiki_maintainers), penyunting berita |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Pemelihara wiki](/wiki/People/osu!_wiki_maintainers), penyunting berita |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
-Di samping nama-nama ini, osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu dalam menangani berbagai permasalahan yang bersifat pribadi.
+osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu dalam menangani berbagai permasalahan yang bersifat pribadi.
 
 Selain itu, terdapat pula berbagai [tim sukarelawan lainnya](/wiki/People) yang menjaga osu! tetap berjalan dengan perannya masing-masing.
 
