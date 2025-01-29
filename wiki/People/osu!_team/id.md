@@ -10,8 +10,6 @@ tags:
   - tim osu!
   - staf
 no_native_review: true
-outdated_translation: true
-outdated_since: 39bfc3b2e62b776a1cc99976f72bd0ffcf6f773e
 ---
 
 # Tim osu!
@@ -43,6 +41,7 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Pembawa acara [kanal YouTube osu!](https://www.youtube.com/@osugame), pengelola [Mappers' Guild](/wiki/Community/Mappers_Guild), pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Penasihat bidang modding dan mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [pembina wiki](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Koordinator desain World Cup |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Pengasuh umum |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Pengembang osu!, pecinta osu!mania, penumpas *bug* |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Pengembang osu! |
