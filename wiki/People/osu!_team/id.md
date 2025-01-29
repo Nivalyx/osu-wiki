@@ -87,10 +87,10 @@ Selain itu, terdapat pula berbagai [tim sukarelawan lainnya](/wiki/People) yang 
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Perancang konsep dan desain asli [pippi](/wiki/Mascots#pippi) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masa awal berdirinya osu!, kontributor program Meeting Minutes dan halaman FAQ |
 | ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Pengembang [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan sistem [*performance point*](/wiki/Performance_points) (pp) |
+| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan sistem [performance point](/wiki/Performance_points) |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat bidang moderasi komunitas, pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22), penasihat bidang mapping dan modding |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Pengasuh umum, penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups), [pembina wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Pengembang osu!, pencipta mode osu!mania |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Manajer [osu!store](https://osu.ppy.sh/store/listing) |
-| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Guru besar [osu!academy](/wiki/Community/Video_series/osu!academy), perancang media dan karakter maskot |
+| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Profesor [osu!academy](/wiki/Community/Video_series/osu!academy), perancang media dan karakter |
