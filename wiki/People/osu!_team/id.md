@@ -61,7 +61,7 @@ Selain itu, terdapat pula berbagai [tim sukarelawan lainnya](/wiki/People) yang 
 
 | Nama | Peran |
 | :-- | :-- |
-| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Pengasuh dan asisten umum, ilustrator chibi |
+| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Pengasuh dan asisten umum, artis chibi |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Moderator](/wiki/People/Global_Moderation_Team), penasihat bidang moderasi komunitas |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Penata suara, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Pengembang [storyboard](/wiki/Storyboard) |
