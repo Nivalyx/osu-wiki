@@ -75,7 +75,7 @@ Selain itu, terdapat pula berbagai [tim sukarelawan lainnya](/wiki/People) yang 
 | ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Perancang asli situs, penyedia layanan hosting pada masa awal berdirinya osu! |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups), pemimpin [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders), manajer komunitas |
-| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Perancang skin ulung, kontributor skin dan set ikon bawaan osu! |
+| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Perancang skin ulung, kontributor skin dan set ikon bawaan |
 | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Pemimpin [NAT](/wiki/People/Nomination_Assessment_Team) |
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | Pengembang osu!, perancang algoritma mm slider |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Penasihat bidang modding and mapping |
@@ -83,7 +83,7 @@ Selain itu, terdapat pula berbagai [tim sukarelawan lainnya](/wiki/People) yang 
 | ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Pengembang osu!, pengelola [Mappers' Guild](/wiki/Community/Mappers_Guild) |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Penasihat bidang moderasi komunitas |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Perancang forum |
-| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, sosok perancang serba bisa |
+| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, sosok pencipta serba bisa |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Perancang konsep dan desain asli [pippi](/wiki/Mascots#pippi) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masa awal berdirinya osu!, kontributor program Meeting Minutes dan halaman FAQ |
 | ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Pengembang [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
