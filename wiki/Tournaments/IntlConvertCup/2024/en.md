@@ -37,11 +37,11 @@ The **International Convert Cup 2024** (***ICC 2024***) was a double-elimination
 
 ## Organisation
 
-The osu!catch Convert Cup Open 2023 was run by various osu! community members from the Asia-Pacific region and beyond.
+The International Convert Cup 2024 was run by various community members from all around the world.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
+| Host | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) |
 | Co-host | ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
 | Mappool selector | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{flag=HK}:: [autofanboy](https://osu.ppy.sh/users/636114), ::{flag=ID}:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{flag=SE}:: [Shameimaru](https://osu.ppy.sh/users/20340480), ::{flag=CL}:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | Playtester | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361), ::{ flag=IT }:: [Camme79](https://osu.ppy.sh/users/5220794), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149) |
