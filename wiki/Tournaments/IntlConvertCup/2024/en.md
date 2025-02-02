@@ -81,6 +81,7 @@ The International Convert Cup 2024 was run by various community members from all
 | OldCloudPlayers | ::{ flag=CN }:: **[-Yui](https://osu.ppy.sh/users/6649605)**, ::{ flag=CN }:: [dazzulay](https://osu.ppy.sh/users/1948043), ::{ flag=CN }:: [Murasaki Shion](https://osu.ppy.sh/users/568950), ::{ flag=CN }:: [Nagato](https://osu.ppy.sh/users/260373) |
 | Red Hawk | ::{ flag=AR }:: **[-Story-](https://osu.ppy.sh/users/8172283)**, ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439) | |
 | Steam Happy | ::{ flag=FI }:: **[Leinou](https://osu.ppy.sh/users/7024526)**, ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854), ::{ flag=ES }:: [Eyminz](https://osu.ppy.sh/users/13845399), ::{ flag=FI }:: [Veeti](https://osu.ppy.sh/users/12863098) |
+| you tell me | ::{ flag=MY }:: **[kokomi on osu](https://osu.ppy.sh/users/12382410)**, ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755), ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/16271283), ::{ flag=US }:: [bvyans](https://osu.ppy.sh/users/7789926) |
 
 ## Podium
 
