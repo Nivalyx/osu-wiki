@@ -54,10 +54,10 @@ The International Convert Cup 2024 was run by various community members from all
 
 ## Links
 
-- **[Official website](https://wybin.xyz/tournaments/o!c-convert-open-2023/home)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1838266)
+- **[Official website](https://wybin.xyz/tournaments/icc2024)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1991639)
 - [Discord server](https://discord.gg/PDVF3tbhY8)
-- [Challonge brackets](https://challonge.com/OCCO2023)
+- [Challonge brackets](https://challonge.com/ICC_2024)
 - [Livestream channel](https://www.twitch.tv/osucatchid)
 
 ## Participants
