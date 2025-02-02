@@ -8,7 +8,7 @@ tags:
 
 ![International Convert Cup 2024 banner](img/banner.jpg)
 
-The **International Convert Cup 2024** (***ICC 2024***) was a double-elimination 2v2 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) in which all the beatmaps were [converts from the osu! game mode](/wiki/Beatmap/Converts). Although it was the first tournament to be held under the "International Convert Cup" banner, it was considered an expansion of the previously held [Indonesia Convert Cup](/wiki/Tournaments/ICC) series.
+The **International Convert Cup 2024** (***ICC 2024***) was a double-elimination 2v2 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265), and ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) in which all the beatmaps were [converts from the osu! game mode](/wiki/Beatmap/Converts). Although it was the first tournament to be held under the "International Convert Cup" banner, it was considered an expansion of the previously held [Indonesia Convert Cup](/wiki/Tournaments/ICC) and [osu!catch Convert Cup Open](/wiki/Tournaments/o!cCO) series.
 
 ## Tournament schedule
 
