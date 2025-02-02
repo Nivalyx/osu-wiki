@@ -64,44 +64,7 @@ The International Convert Cup 2024 was run by various community members from all
 
 | Team name | Members |
 | :-: | :-- |
-| ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | ::{ flag=ID }:: **[Destroid](https://osu.ppy.sh/users/5097844)**, ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) |
-| 4DIGITS RISE UP | ::{ flag=TH }:: **[EzyS](https://osu.ppy.sh/users/16271283)**, ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552), ::{ flag=US }:: [Prince Zariel](https://osu.ppy.sh/users/7293637) |
-| 5 digits | ::{ flag=SG }:: **[sukidayo-](https://osu.ppy.sh/users/16870002)**, ::{ flag=US }:: [bvyans](https://osu.ppy.sh/users/7789926), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
-| Ad Matai | ::{ flag=IL }:: **[Nendus](https://osu.ppy.sh/users/22005940)**, ::{ flag=IL }:: [muya-](https://osu.ppy.sh/users/12883611), ::{ flag=IL }:: [gal1](https://osu.ppy.sh/users/9424481) |
-| Ad Matai Bad | ::{ flag=GI }:: **[CirnUwU](https://osu.ppy.sh/users/11713317)**, ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339), ::{ flag=IL }:: [LiL L1ghtMare](https://osu.ppy.sh/users/16782179) |
-| am nyam | ::{ flag=RU }:: **[cosilgam](https://osu.ppy.sh/users/15960747)**, ::{ flag=UA }:: [Shadowbolts1](https://osu.ppy.sh/users/13962882), ::{ flag=RU }:: [1k1](https://osu.ppy.sh/users/10119963) |
-| AMQ Player | ::{ flag=TW }:: **[Tomoriru](https://osu.ppy.sh/users/10457920)**, ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766), ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) |
-| Ateshiiii | ::{ flag=CA }:: **[Boltico](https://osu.ppy.sh/users/5297904)**, ::{ flag=JP }:: [Melu](https://osu.ppy.sh/users/2624179), ::{ flag=JP }:: [S B K](https://osu.ppy.sh/users/29783499) |
-| Ban Mods | ::{ flag=AU }:: **[Maitoo](https://osu.ppy.sh/users/16899553)**, ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768), ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) |
-| capoo so cute | ::{ flag=JP }:: **[Molqus](https://osu.ppy.sh/users/19271930)**, ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/2389481) |
-| C𝓔LεNG𓃟β∀L4P | ::{ flag=ID }:: **[Copano\_Lucky](https://osu.ppy.sh/users/26377086)**, ::{ flag=ID }:: [Kanoponzu](https://osu.ppy.sh/users/11582543), ::{ flag=ID }:: [Nekomiru](https://osu.ppy.sh/users/17514687) |
-| converts ec | ::{ flag=IT }:: **[ArMa79](https://osu.ppy.sh/users/4982799)**, ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) |
-| CS=convert suck | ::{ flag=TW }:: **[VaMePiRe](https://osu.ppy.sh/users/8411195)**, ::{ flag=CN }:: [Nene Sakura](https://osu.ppy.sh/users/6701104), ::{ flag=TW }:: [gensouyume](https://osu.ppy.sh/users/14782787) |
-| CTB RAIMON | ::{ flag=CA }:: **[Katsuragi](https://osu.ppy.sh/users/3616480)**, ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481) |
-| degens, truly | ::{ flag=MY }:: **[kokomi on osu](https://osu.ppy.sh/users/12382410)**, ::{ flag=SE }:: [hypnospirA](https://osu.ppy.sh/users/1352257), ::{ flag=MY }:: [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) |
-| ditinggal ps3 | ::{ flag=ID }:: **[Suikami](https://osu.ppy.sh/users/1929336)**, ::{ flag=PL }:: [-Filow-](https://osu.ppy.sh/users/3157472), ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) |
-| draft issue | ::{ flag=HK }:: **[my angel auto](https://osu.ppy.sh/users/29503627)**, ::{ flag=FI }:: [Leinou](https://osu.ppy.sh/users/7024526), ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) |
-| DreStarkari | ::{ flag=CL }:: **[Stark](https://osu.ppy.sh/users/1565036)**, ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164), ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057) |
-| eurasia mid seed | ::{ flag=RU }:: **[KitsunIvy](https://osu.ppy.sh/users/7055384)**, ::{ flag=IS }:: [Ash Ketchum](https://osu.ppy.sh/users/7297777), ::{ flag=RU }:: [ti gnida](https://osu.ppy.sh/users/14254962) |
-| flag issue | ::{ flag=SG }:: **[Ekseff](https://osu.ppy.sh/users/13966422)**, ::{ flag=ID }:: [Serestia](https://osu.ppy.sh/users/30511396), ::{ flag=PL }:: [Jakkubon](https://osu.ppy.sh/users/3396013) |
-| fuit gummy | ::{ flag=MA }:: **[OSUjanaiKATSURAda](https://osu.ppy.sh/users/13966422)**, ::{ flag=KR }:: [Ruiz](https://osu.ppy.sh/users/10095644), ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865) |
-| Korean PC | ::{ flag=US }:: **[Dahcreeper](https://osu.ppy.sh/users/6926006)**, ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
-| kururin spin | ::{ flag=PL }:: **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)**, ::{ flag=TW }:: [ZX123456](https://osu.ppy.sh/users/489271), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
-| NZ gamers | ::{ flag=NZ }:: **[Wettham77](https://osu.ppy.sh/users/14476098)**, ::{ flag=NZ }:: [CTB Sakamata1](https://osu.ppy.sh/users/11735313), ::{ flag=NZ }:: [Starwide](https://osu.ppy.sh/users/9926856) |
-| plz dont ban DT | ::{ flag=JP }:: **[giru HD](https://osu.ppy.sh/users/707456)**, ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=JP }:: [Snowwind](https://osu.ppy.sh/users/2163585) |
-| Polanezja | ::{ flag=PL }:: **[madcin](https://osu.ppy.sh/users/2957534)**, ::{ flag=ID }:: [Intention](https://osu.ppy.sh/users/3416858), ::{ flag=ID }:: [\[ Mephisto \]](https://osu.ppy.sh/users/3027065) |
-| Rhodes Island | ::{ flag=MY }:: **[Asteristia](https://osu.ppy.sh/users/9434933)**, ::{ flag=MY }:: [leaf89](https://osu.ppy.sh/users/19346652), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270) |
-| roflcopter | ::{ flag=KR }:: **[Syine](https://osu.ppy.sh/users/4795737)**, ::{ flag=IT }:: [Sakhalin79](https://osu.ppy.sh/users/11158870), ::{ flag=KR }:: [Zellen](https://osu.ppy.sh/users/17405762) |
-| Samurai Team | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)**, ::{ flag=JP }:: [eisuke0530](https://osu.ppy.sh/users/9814770), ::{ flag=AR }:: [Naarkz](https://osu.ppy.sh/users/19490380) |
-| Signal Graph | ::{ flag=US }:: **[Liyac](https://osu.ppy.sh/users/4994598)**, ::{ flag=ID }:: [Fisicia](https://osu.ppy.sh/users/6556054), ::{ flag=ID }:: [Cera-](https://osu.ppy.sh/users/1974131) |
-| SUNBOY | ::{ flag=RU }:: **[liquid\_boba](https://osu.ppy.sh/users/11694783)**, ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479), ::{ flag=RU }:: [dark rainbow](https://osu.ppy.sh/users/10557830) |
-| TAG4 | ::{ flag=ID }:: **[Zvenx](https://osu.ppy.sh/users/14613788)**, ::{ flag=IT }:: [Camme79](https://osu.ppy.sh/users/5220794) |
-| TATAPCTAH | ::{ flag=UA }:: **[Morusya](https://osu.ppy.sh/users/13681464)**, ::{ flag=RU }:: [yuinn](https://osu.ppy.sh/users/11239593), ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) |
-| The Team | ::{ flag=AU }:: **[BluBoy](https://osu.ppy.sh/users/21368709)**, ::{ flag=AU }:: [roykey](https://osu.ppy.sh/users/26870032) |
-| Timezone Issue | ::{ flag=SG }:: **[\[Eun\]](https://osu.ppy.sh/users/3788536)**, ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597), ::{ flag=ID }:: [Strict\_Lane](https://osu.ppy.sh/users/24810703) |
-| We hate convert | ::{ flag=KR }:: **[DevilFace](https://osu.ppy.sh/users/2253026)**, ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951) |
-| what is convert | ::{ flag=TW }:: **[Extricate](https://osu.ppy.sh/users/4787989)**, ::{ flag=TW }:: [Ayanory](https://osu.ppy.sh/users/5138760), ::{ flag=TW }:: [Kotoba 0701](https://osu.ppy.sh/users/12598463) |
-| ДШРГ Русичи | ::{ flag=UA }:: **[Metalia](https://osu.ppy.sh/users/15558360)**, ::{ flag=RU }:: [\_Insomnia](https://osu.ppy.sh/users/8928855), ::{ flag=RU }:: [Rebbel](https://osu.ppy.sh/users/4595355) |
+| Steam Happy | ::{ flag=ID }:: **[Destroid](https://osu.ppy.sh/users/5097844)**, ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) |
 
 ## Podium
 
