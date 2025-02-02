@@ -2,4 +2,4 @@
 
 Index page for all of the International Convert Cup tournament series.
 
-- [International Convert Cup](1)
+- [International Convert Cup 2024a](2024)
