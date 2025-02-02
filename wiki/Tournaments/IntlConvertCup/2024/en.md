@@ -64,7 +64,9 @@ The International Convert Cup 2024 was run by various community members from all
 
 | Team name | Members |
 | :-: | :-- |
+| +4 ARAM | ::{ flag=VN }:: **[Stardust Prism](https://osu.ppy.sh/users/8525921)**, ::{ flag=VN }:: [-Miya](https://osu.ppy.sh/users/1942877), ::{ flag=VN }:: [Shu](https://osu.ppy.sh/users/4744615), ::{ flag=VN }:: [S h i g u r e](https://osu.ppy.sh/users/4372552) |
 | Colo-Colo | ::{ flag=ID }:: **[Renessia](https://osu.ppy.sh/users/34606048)**, ::{ flag=ID }:: [Minang](https://osu.ppy.sh/users/30511396), ::{ flag=ID }:: [Reid Hezzel](https://osu.ppy.sh/users/5604201), ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) |
+| D. Continental | ::{ flag=GR }:: **[Nokashi](https://osu.ppy.sh/users/5431196)**, ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552), ::{ flag=GR }:: [[Romanos]](https://osu.ppy.sh/users/4682813) |
 | Enterprise | ::{ flag=PH }:: **[-Steven08-](https://osu.ppy.sh/users/13654885)**, ::{ flag=KR }:: [Perfect Day](https://osu.ppy.sh/users/367756), ::{ flag=ME }:: [Melodieyy-](https://osu.ppy.sh/users/33526381), ::{ flag=SE }:: [DataPata](https://osu.ppy.sh/users/985360) |
 | Haters in Abyss | ::{ flag=NL }:: **[Selo](https://osu.ppy.sh/users/3212806)**, ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=DE }:: [Yoomara](https://osu.ppy.sh/users/3123719), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) |
 | Maid Girl UwU | ::{ flag=ID }:: **[Renessia](https://osu.ppy.sh/users/34606048)**, ::{ flag=ID }:: [Minang](https://osu.ppy.sh/users/30511396), ::{ flag=ID }:: [Reid Hezzel](https://osu.ppy.sh/users/5604201), ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) |
