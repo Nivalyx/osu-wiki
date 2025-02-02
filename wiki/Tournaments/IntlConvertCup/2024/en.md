@@ -64,7 +64,10 @@ The International Convert Cup 2024 was run by various community members from all
 
 | Team name | Members |
 | :-: | :-- |
-| Steam Happy | ::{ flag=ID }:: **[Destroid](https://osu.ppy.sh/users/5097844)**, ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) |
+| Maid Girl UwU | ::{ flag=ID }:: **[Renessia](https://osu.ppy.sh/users/34606048)**, ::{ flag=ID }:: [Minang](https://osu.ppy.sh/users/30511396), ::{ flag=ID }:: [Reid Hezzel](https://osu.ppy.sh/users/5604201), ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) |
+| naruto when | ::{ flag=US }:: **[Secre](https://osu.ppy.sh/users/2306637)**, ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103), ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149) |
+| Red Hawk | ::{ flag=AR }:: **[-Story-](https://osu.ppy.sh/users/8172283)**, ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439) | |
+| Steam Happy | ::{ flag=FI }:: **[Leinou](https://osu.ppy.sh/users/7024526)**, ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854), ::{ flag=ES }:: [Eyminz](https://osu.ppy.sh/users/13845399), ::{ flag=FI }:: [Veeti](https://osu.ppy.sh/users/12863098) |
 
 ## Podium
 
