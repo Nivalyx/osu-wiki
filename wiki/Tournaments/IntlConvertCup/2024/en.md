@@ -435,7 +435,7 @@ Sunday, 3 December 2023:
 
 ### Qualifiers
 
-Detailed information on the standings of the Qualifier stage can be found in [this website](https://wybin.xyz/tournaments/icc2024/stats#qualifier).
+Detailed information on the standings of the Qualifier stage can be found in [the tournament's official website](https://wybin.xyz/tournaments/icc2024/stats#qualifier).
 
 | Seed | Team name | Avg. rank |
 | :-: | :-- | --: |
