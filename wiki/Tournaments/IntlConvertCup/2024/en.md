@@ -270,17 +270,17 @@ This competition has come to an end and resulted in the following podium:
 ### Qualifiers
 
 - NoMod
-  1. [nano feat. MY FIRST STORY - SAVIOR OF SONG (Kurashina Asuka) \[OUR FUTURE\]](https://osu.ppy.sh/beatmapsets/1179677#fruits/2459904)
-  2. [lapix - Debug Dance (Super Arrow) \[Livia's Dance\]](https://osu.ppy.sh/beatmapsets/603561#fruits/1274730)
+  1. [Kano - Yuudachi no Ribbon (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/456237#osu/977770)
+  2. [32ki feat. Hatsune Miku & Kasane Teto - Mesmerizer (Nathan) \[hypnosis\]](https://osu.ppy.sh/beatmapsets/2215986#osu/4695360)
 - Hidden
-  1. [Gorilla Attack - Gorilla Step (hehe) \[Gorilla Map\]](https://osu.ppy.sh/beatmapsets/1876103#fruits/3860846)
-  2. [Nanawo Akari - Ai ga Aru You de Nai You de Aru (Suzuaki\_Rin) \[Buzz\]](https://osu.ppy.sh/beatmapsets/1907766#fruits/3934020)
+  1. [ginkiha - Shadow Castle (JeZag) \[destiny's Opal\]](https://osu.ppy.sh/beatmapsets/1859697#osu/4180832)
+  2. [Kairiki bear feat. Hatsune Miku - BUG (sukii) \[Lost Extra\]](https://osu.ppy.sh/beatmapsets/1796464#osu/4058452)
 - HardRock
-  1. [Shiena Nishizawa - Meaning (kowari) \[wkyik's Extra\]](https://osu.ppy.sh/beatmapsets/1755119#fruits/3591718)
-  2. [NeLiME - Snapdragon (Elzix) \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/2074879#fruits/4343235)
+  1. [BUTAOTOME - Yurara Kamishibai (sstari) \[Expert\]](https://osu.ppy.sh/beatmapsets/2148067#osu/4717103)
+  2. [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (yf\_bmp) \[-Visceral-'s Extreme\]](https://osu.ppy.sh/beatmapsets/714552#osu/2592033)
 - DoubleTime
-  1. [LiLA'c Records - Maze of Vapor (Brutal Core mix) (-Kemsyt) \[Mirash's Extra\]](https://osu.ppy.sh/beatmapsets/1752523#fruits/3586373)
-  2. [yanaginagi - landscape (\[Vincent\]) \[Insane\]](https://osu.ppy.sh/beatmapsets/244001#fruits/563370)  
+  1. [Dark PHOENiX - Taketori Hishou (Heilia) \[diuS' Lunatic\]](https://osu.ppy.sh/beatmapsets/1893810#osu/4008397)
+  2. [Takahashi Yoko - Zankoku na Tenshi no These (Director's Edit. Ver.) (Net0) \[Extra\]](https://osu.ppy.sh/beatmapsets/1164031#osu/2428270)
 
 ## Match results
 
