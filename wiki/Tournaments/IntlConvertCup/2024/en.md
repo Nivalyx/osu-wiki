@@ -402,24 +402,17 @@ Sunday, 10 December 2023:
 
 ### Round of 32
 
-Thursday, 30 November 2023:
+Saturday, 7 December 2023:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **roflcopter** | **5** | 0 | ban mods | [#1](https://osu.ppy.sh/community/matches/111509501) |
-
-Saturday, 2 December 2023:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **kururin spin** | **5** | 0 | SUNBOY | [#1](https://osu.ppy.sh/community/matches/111539753) |
-| Upper | TAG4 | 1 | **5** | **꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂** | [#1](https://osu.ppy.sh/community/matches/111539733) |
-| Upper | **Korean PC** | **5** | 1 | fuit gummy | [#1](https://osu.ppy.sh/community/matches/111538870) |
-| Upper | **DreStarkari** | **5** | 0 | Rhodes Island | [#1](https://osu.ppy.sh/community/matches/111539836) |
-| Upper | **flag issue** | **5** | 0 | plz dont ban DT | [#1](https://osu.ppy.sh/community/matches/111539151) |
-| Upper | **4DIGITS RISE UP** | **5** | 0 | TATAPCTAH | [#1](https://osu.ppy.sh/community/matches/111540713) |
-| Upper | **CTB RAIMON** | **5** | 1 | Ad Matai Bad | [#1](https://osu.ppy.sh/community/matches/111543836) |
-| Upper | **Capoo so cute** | **5** | 0 | 5 digits | [#1](https://osu.ppy.sh/community/matches/111542828) |
+| Upper | **:tac:** | **5** | 2 | Mr. Ladybug | [#1](https://osu.ppy.sh/community/matches/116425376) |
+| Upper | D. Continental | 1 | **5** | **+4 ARAM** | [#1](https://osu.ppy.sh/community/matches/116424056) |
+| Upper | **Red Hawk** | **5** | 0 | Bashame X Osaka | [#1](https://osu.ppy.sh/community/matches/116419992) |
+| Upper | **Haters in Abyss** | **5** | 1 | PICK DT2!!1!!11 | [#1](https://osu.ppy.sh/community/matches/116425358) |
+| Upper | **you tell me** | **5** | 1 | Barely Managing | [#1](https://osu.ppy.sh/community/matches/116426062) |
+| Upper | **common madcin L** | **5** | 0 | Convert noob | [#1](https://osu.ppy.sh/community/matches/116424610) |
+| Upper | **:cat:** | **5** | 3 | NoApple4 | [#1](https://osu.ppy.sh/community/matches/116423556) |
 
 Sunday, 3 December 2023:
 
@@ -432,6 +425,8 @@ Sunday, 3 December 2023:
 | Upper | **eurasia mid seed** | **5** | 0 | C𝓔LεNG𓃟β∀L4P | [#1](https://osu.ppy.sh/community/matches/111559406) |
 | Upper | **draft issue** | **5** | 0 | Degens, truly | [#1](https://osu.ppy.sh/community/matches/111560269) |
 | Upper | **We hate convert** | **5** | 0 | NZ Gamers | [#1](https://osu.ppy.sh/community/matches/111557287) |
+| Upper | **Steam Happy** | **5** | 0 | Ciel Enchanteur | *win by default* |
+| Upper | **Maid Girl UwU** | **5** | 0 | pending | *win by default* |
 
 ### Qualifiers
 
