@@ -64,6 +64,7 @@ The International Convert Cup 2024 was run by various community members from all
 
 | Team name | Members |
 | :-: | :-- |
+| 3difdigits | ::{ flag=US }:: **[ChewyTarTar](https://osu.ppy.sh/users/13978275)**, ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747), ::{ flag=US }:: [DeadFireFly962](https://osu.ppy.sh/users/35067734) |
 | +4 ARAM | ::{ flag=VN }:: **[Stardust Prism](https://osu.ppy.sh/users/8525921)**, ::{ flag=VN }:: [-Miya](https://osu.ppy.sh/users/1942877), ::{ flag=VN }:: [Shu](https://osu.ppy.sh/users/4744615), ::{ flag=VN }:: [S h i g u r e](https://osu.ppy.sh/users/4372552) |
 | :cat: | ::{ flag=TW }:: **[Psc\_IceRain](https://osu.ppy.sh/users/3359485)**, ::{ flag=TW }:: [\_Nanami](https://osu.ppy.sh/users/1929450), ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766), ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) |
 | :tac: | ::{ flag=TW }:: **[DoDoEbi](https://osu.ppy.sh/users/1177233)**, ::{ flag=TW }:: [Sanami](https://osu.ppy.sh/users/1629471), ::{ flag=TW }:: [Formosa\_333](https://osu.ppy.sh/users/1936711), ::{ flag=TW }:: [Saru8na](https://osu.ppy.sh/users/4787989) |
