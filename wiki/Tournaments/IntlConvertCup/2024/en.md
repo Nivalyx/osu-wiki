@@ -378,13 +378,13 @@ Saturday, 14 December 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **OwOgres** | **5** | 0 | :tac: | [#1](https://osu.ppy.sh/community/matches/116494921) |
 | Lower | turu | 0 | **5** | **NoApple4** | [#1](https://osu.ppy.sh/community/matches/116493563) |
 | Upper | **Red Hawk** | **5** | 0 | Jump the Beat | [#1](https://osu.ppy.sh/community/matches/116489733) |
 | Lower | Fate | 0 | **5** | **D. Continental** | [#1](https://osu.ppy.sh/community/matches/116494245) |
 | Lower | Ciel Enchanteur | 3 | **5** | **Seed \#33** | [#1](https://osu.ppy.sh/community/matches/116496454) |
 | Lower | Bashame X Osaka | 3 | **5** | **NSMBW** | [#1](https://osu.ppy.sh/community/matches/116491921) |
 | Lower | Barely Managing | 3 | **5** | **PICK DT2!!1!!11** | [#1](https://osu.ppy.sh/community/matches/116494949) |
-| Upper | **OwOgres** | **5** | 0 | :tac: | [#1](https://osu.ppy.sh/community/matches/116494921) |
 
 Sunday, 15 December 2024:
 
