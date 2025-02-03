@@ -129,16 +129,16 @@ This competition has come to an end and resulted in the following podium:
   3. [Rohi feat. Kagamine Rin - Kakuzetsu Thanatos (YaMaDarknesss) \[Collaboration of The End\]](https://osu.ppy.sh/beatmapsets/2205703#osu/4669813)
 - Hard Rock
   1. [UNDEAD CORPORATION - Everything will freeze (LeCandy) \[Camo's Extra Stage\]](https://osu.ppy.sh/beatmapsets/2128889#osu/4521012)
-  2. [cosMo@Bousou-P - End Mark ni Kibou to Namida wo soete (iljaaz) \[Rising\]](https://osu.ppy.sh/beatmapsets/898712#osu/1877419)
+  2. [cosMo\@Bousou-P - End Mark ni Kibou to Namida wo soete (iljaaz) \[Rising\]](https://osu.ppy.sh/beatmapsets/898712#osu/1877419)
   3. [Thaehan - Help (\_Epreus) \[Nostalgic Reminiscence\]](https://osu.ppy.sh/beatmapsets/977631#osu/2046116)
 - Double Time
   1. [Saiya - Remote Control (Linada) \[Take Control!\]](https://osu.ppy.sh/beatmapsets/530445#osu/1221602)
   2. [Chata - Remind (Patchouli) \[Overdrive!!\]](https://osu.ppy.sh/beatmapsets/37292#osu/120030)
   3. [Lil Uzi Vert feat. Bring Me The Horizon - Werewolf (chests) \[Awoo\]](https://osu.ppy.sh/beatmapsets/2072374#osu/4336970)
-  4. [ZUN - Guuzou ni Sekai o Yudanete ~ Idoratrize World (Halfslashed) \[Shurelia's Heritage\]](https://osu.ppy.sh/beatmapsets/1813899#osu/3929565)
+  4. [ZUN - Guuzou ni Sekai o Yudanete \~ Idoratrize World (Halfslashed) \[Shurelia's Heritage\]](https://osu.ppy.sh/beatmapsets/1813899#osu/3929565)
 - Mixed Mod
   1. [:) feat. KAFU - Ren'ai Heiki! Lethal Weapon-chan (- akiira -) \[0ugi's Ultra\]](https://osu.ppy.sh/beatmapsets/1832014#osu/3889557)
-  2. [Kairiki Bear - Mellomelloid (dectopia) \[:heart_eyes:\]](https://osu.ppy.sh/beatmapsets/2261253#osu/4812838)
+  2. [Kairiki Bear - Mellomelloid (dectopia) \[:heart\_eyes:\]](https://osu.ppy.sh/beatmapsets/2261253#osu/4812838)
   3. [Hino Isuka - Dreamin' attraction!! (Extended) (lahphnya) \[AR9.5\]](https://osu.ppy.sh/beatmapsets/450340#osu/966202)
 - Tiebreaker
   1. **[Camellia - Flamewall (Sotarks) \[ETERNAL SACRED FIRE\]](https://osu.ppy.sh/beatmapsets/1533028#osu/3135149)**
@@ -146,30 +146,30 @@ This competition has come to an end and resulted in the following podium:
 ### Finals (week 1)
 
 - No Mod
-  1. [WAGAMAMA RAKIA - SURVIVE (Alumetri) \[Destroy & Survive\]](https://osu.ppy.sh/beatmapsets/2075863#osu/4346107)
-  2. [Raja Kumari, Stefflon Don & Jarina De Marco - Renegade (We Never Run) (shimni) \[We Never Run\]](https://osu.ppy.sh/beatmapsets/2280277#osu/4860823)
-  3. [beatMARIO - Night of Knights (Camellia's "Once Upon A Night" Remix) (iljaaz) \[World of Nights\]](https://osu.ppy.sh/beatmapsets/2223639#osu/4715384)
-  4. [PhaseOne - Lost (ft. Koven) (Firiiu) \[Extra\]](https://osu.ppy.sh/beatmapsets/2292971#osu/4896078)
-  5. [School Food Punishment - fiction nonfiction (Ternafis) \[refraction\]](https://osu.ppy.sh/beatmapsets/2237576#osu/4754260)
+  1. [WAGAMAMA RAKIA - SURVIVE (Alumetri) \[Destroy & Survive\]](https://osu.ppy.sh/beatmapsets/2075863#fruits/4346107)
+  2. [Raja Kumari, Stefflon Don & Jarina De Marco - Renegade (We Never Run) (shimni) \[We Never Run\]](https://osu.ppy.sh/beatmapsets/2280277#fruits/4860823)
+  3. [beatMARIO - Night of Knights (Camellia's "Once Upon A Night" Remix) (iljaaz) \[World of Nights\]](https://osu.ppy.sh/beatmapsets/2223639#fruits/4715384)
+  4. [PhaseOne - Lost (ft. Koven) (Firiiu) \[Extra\]](https://osu.ppy.sh/beatmapsets/2292971#fruits/4896078)
+  5. [School Food Punishment - fiction nonfiction (Ternafis) \[refraction\]](https://osu.ppy.sh/beatmapsets/2237576#fruits/4754260)
 - Hidden
-  1. [ELFENSJoN - ZENITH (Aeril) \[FATE COLLAB\]](https://osu.ppy.sh/beatmapsets/2300117#osu/4915138)
-  2. [DECO*27 - Cinderella feat. Hatsune Miku (Giga First Night Remix) (SkyFlame) \[Princess\]](https://osu.ppy.sh/beatmapsets/1952097#osu/4042315)
-  3. [Ricky Martin - Maria (Pablo Flores Spanglish Radio Edit) (Raburauza) \[Un dos tres!\]](https://osu.ppy.sh/beatmapsets/2131486#osu/4483322)
+  1. [ELFENSJoN - ZENITH (Aeril) \[FATE COLLAB\]](https://osu.ppy.sh/beatmapsets/2300117#fruits/4915138)
+  2. [DECO\*27 - Cinderella feat. Hatsune Miku (Giga First Night Remix) (SkyFlame) \[Princess\]](https://osu.ppy.sh/beatmapsets/1952097#fruits/4042315)
+  3. [Ricky Martin - Maria (Pablo Flores Spanglish Radio Edit) (Raburauza) \[Un dos tres!\]](https://osu.ppy.sh/beatmapsets/2131486#fruits/4483322)
 - Hard Rock
-  1. [TK from Ling tosite sigure - first death (aishiteiru-) \[raijodo's extreme\]](https://osu.ppy.sh/beatmapsets/2033133#osu/4469976)
-  2. [kagerow - Odore Full Fire (Musty) \[we bombing\]](https://osu.ppy.sh/beatmapsets/1710961#osu/3496001)
-  3. [Expander - Diagram (anna apple) \[Ayaya's 54321\]](https://osu.ppy.sh/beatmapsets/1518937#osu/3109248)
+  1. [TK from Ling tosite sigure - first death (aishiteiru-) \[raijodo's extreme\]](https://osu.ppy.sh/beatmapsets/2033133#fruits/4469976)
+  2. [kagerow - Odore Full Fire (Musty) \[we bombing\]](https://osu.ppy.sh/beatmapsets/1710961#fruits/3496001)
+  3. [Expander - Diagram (anna apple) \[Ayaya's 54321\]](https://osu.ppy.sh/beatmapsets/1518937#fruits/3109248)
 - Double Time
-  1. [Hoshimi Production - Sayonara kara Hajimaru Monogatari (karupa) \[Miracle\]](https://osu.ppy.sh/beatmapsets/2128407#osu/4474914)
-  2. [Dark PHOENiX - Koiiro Master Spark (MaridiuS) \[Magus\]](https://osu.ppy.sh/beatmapsets/855751#osu/1787964)
-  3. [BilliumMoto - Amethyst Aurora (fanzhen0019) \[ajmosca's Expert\]](https://osu.ppy.sh/beatmapsets/2095140#osu/4500092)
-  4. [Susumu Hirasawa - The Secret of The Flowers of Phenomenon (jesse1412) \[Insane\]](https://osu.ppy.sh/beatmapsets/70247#osu/201974)
+  1. [Hoshimi Production - Sayonara kara Hajimaru Monogatari (karupa) \[Miracle\]](https://osu.ppy.sh/beatmapsets/2128407#fruits/4474914)
+  2. [Dark PHOENiX - Koiiro Master Spark (MaridiuS) \[Magus\]](https://osu.ppy.sh/beatmapsets/855751#fruits/1787964)
+  3. [BilliumMoto - Amethyst Aurora (fanzhen0019) \[ajmosca's Expert\]](https://osu.ppy.sh/beatmapsets/2095140#fruits/4500092)
+  4. [Susumu Hirasawa - The Secret of The Flowers of Phenomenon (jesse1412) \[Insane\]](https://osu.ppy.sh/beatmapsets/70247#fruits/201974)
 - Mixed Mod
-  1. [:)  feat. KAFU - Egonomy (Ryuusei Aika) \[0ugi's Ultra\]](https://osu.ppy.sh/beatmapsets/1745150#osu/3595696)
-  2. [inabakumori - Float Play (-Stocking) \[Drifting\]](https://osu.ppy.sh/beatmapsets/1921679#osu/3966597)
-  3. [Morimori Atsushi - Apsaras (Rtyzen) \[Dance\]](https://osu.ppy.sh/beatmapsets/1192309#osu/2484453)
+  1. [:)  feat. KAFU - Egonomy (Ryuusei Aika) \[0ugi's Ultra\]](https://osu.ppy.sh/beatmapsets/1745150#fruits/3595696)
+  2. [inabakumori - Float Play (-Stocking) \[Drifting\]](https://osu.ppy.sh/beatmapsets/1921679#fruits/3966597)
+  3. [Morimori Atsushi - Apsaras (Rtyzen) \[Dance\]](https://osu.ppy.sh/beatmapsets/1192309#fruits/2484453)
 - Tiebreaker
-  1. **[FELT - Lost My Way (Daiyousei) \[i just trimmed the filesize\]](https://osu.ppy.sh/beatmapsets/884404#osu/2020747)**
+  1. **[FELT - Lost My Way (Daiyousei) \[i just trimmed the filesize\]](https://osu.ppy.sh/beatmapsets/884404#fruits/2020747)**
 
 ### Semifinals
 
