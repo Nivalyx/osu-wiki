@@ -379,8 +379,8 @@ Saturday, 14 December 2025:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | turu | 0 | **5** | **NoApple4** | [#1](https://osu.ppy.sh/community/matches/116493563) |
-| Upper | **Polanezja** | **5** | 0 | 4DIGITS RISE UP | [#1](https://osu.ppy.sh/community/matches/111644023) |
-| Lower | CS=convert suck | 0 | **5** | **TATAPCTAH** | [#1](https://osu.ppy.sh/community/matches/111645018) |
+| Upper | **Red Hawk** | **5** | 0 | Jump the Beat | [#1](https://osu.ppy.sh/community/matches/116489733) |
+| Lower | Fate | 0 | **5** | **D. Continental** | [#1](https://osu.ppy.sh/community/matches/116494245) |
 | Lower | **NZ gamers** | **5** | 1 | ban mods | [#1](https://osu.ppy.sh/community/matches/111639502) |
 | Lower | Ad Matai Bad | 2 | **5** | **Degens, truly** | [#1](https://osu.ppy.sh/community/matches/111642058) |
 | Upper | **Capoo so cute** | **5** | 0 | kururin spin | [#1](https://osu.ppy.sh/community/matches/111644060) |
