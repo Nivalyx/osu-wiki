@@ -199,27 +199,27 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 - NoMod
-  1. [Bring Me The Horizon - AmEN! feat. Lil Uzi Vert & Daryl Palumbo of Glassjaw (Eterdesp) \[EpIpHAnY oF HuMaNiTY!\]](https://osu.ppy.sh/beatmapsets/2085178#osu/4482732)
-  2. [HIMEHINA - Mother Drug (Vanya) \[Exalted\]](https://osu.ppy.sh/beatmapsets/2226999#osu/4724370)
-  3. [Laur vs CK - Last Celebration (IAmSnowball) \[Ravalo's Glory Extreme\]](https://osu.ppy.sh/beatmapsets/1639502#osu/3362316)
-  4. [LV.4 - Burning Star (ktgster) \[Nytro's Earthgrazer Extreme\]](https://osu.ppy.sh/beatmapsets/2095154#osu/4452821)
+  1. [Bring Me The Horizon - AmEN! feat. Lil Uzi Vert & Daryl Palumbo of Glassjaw (Eterdesp) \[EpIpHAnY oF HuMaNiTY!\]](https://osu.ppy.sh/beatmapsets/2085178#fruits/4482732)
+  2. [HIMEHINA - Mother Drug (Vanya) \[Exalted\]](https://osu.ppy.sh/beatmapsets/2226999#fruits/4724370)
+  3. [Laur vs CK - Last Celebration (IAmSnowball) \[Ravalo's Glory Extreme\]](https://osu.ppy.sh/beatmapsets/1639502#fruits/3362316)
+  4. [LV.4 - Burning Star (ktgster) \[Nytro's Earthgrazer Extreme\]](https://osu.ppy.sh/beatmapsets/2095154#fruits/4452821)
 - Hidden
-  1. [Toby Fox & ZUN - U.N Owen Was Hero? (Local Hero) \[U.N. Owen Was Local, Shurelia, Yokespai, and Halfslashed?\]](https://osu.ppy.sh/beatmapsets/2164488#osu/4860302)
-  2. [saaa + kei\_iwata + stuv + wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#osu/4622520)
-  3. [Rita - Distant Promise (Hollow Wings) \[Kinomi's Ex\]](https://osu.ppy.sh/beatmapsets/2199286#osu/4709246)
+  1. [Toby Fox & ZUN - U.N Owen Was Hero? (Local Hero) \[U.N. Owen Was Local, Shurelia, Yokespai, and Halfslashed?\]](https://osu.ppy.sh/beatmapsets/2164488#fruits/4860302)
+  2. [saaa + kei\_iwata + stuv + wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#fruits/4622520)
+  3. [Rita - Distant Promise (Hollow Wings) \[Kinomi's Ex\]](https://osu.ppy.sh/beatmapsets/2199286#fruits/4709246)
 - HardRock
-  1. [Ducky Chix - Prayer (Taikuta) \[Specialist\]](https://osu.ppy.sh/beatmapsets/954556#osu/1992818)
-  2. [F-777 - Unsafe Speeds (Nozhomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1311130#osu/2717662)
-  3. [ZUN & ELEMENTAS (A-ONE) - Night Falls \~ Evening Stars (HonoKaze) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/745459#osu/1571567)
+  1. [Ducky Chix - Prayer (Taikuta) \[Specialist\]](https://osu.ppy.sh/beatmapsets/954556#fruits/1992818)
+  2. [F-777 - Unsafe Speeds (Nozhomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1311130#fruits/2717662)
+  3. [ZUN & ELEMENTAS (A-ONE) - Night Falls \~ Evening Stars (HonoKaze) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/745459#fruits/1571567)
 - DoubleTime
-  1. [Mizukara o Enshutsu Suru Otome no Kai - Girlish Lover (- Ex -) \[Insane\]](https://osu.ppy.sh/beatmapsets/1956141#osu/4052224)
-  2. [Yuuyu - Akutagawa Ryuunosuke no Kappa \~ Candid Friend (Halfslashed) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1703912#osu/4042385)
-  3. [AAAA Chazuke - Myosotis no Hanataba (Elcheer) \[Forget Me Not\]](https://osu.ppy.sh/beatmapsets/2170021#osu/4579550)
+  1. [Mizukara o Enshutsu Suru Otome no Kai - Girlish Lover (- Ex -) \[Insane\]](https://osu.ppy.sh/beatmapsets/1956141#fruits/4052224)
+  2. [Yuuyu - Akutagawa Ryuunosuke no Kappa \~ Candid Friend (Halfslashed) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1703912#fruits/4042385)
+  3. [AAAA Chazuke - Myosotis no Hanataba (Elcheer) \[Forget Me Not\]](https://osu.ppy.sh/beatmapsets/2170021#fruits/4579550)
 - MixedMod
-  1. [raito - Beat Eat Nest (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/2137956#osu/4499443)
-  2. [capitaro - Tenshinranman High Collar Hime (dakiwii) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/2160056#osu/4634934)
+  1. [raito - Beat Eat Nest (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/2137956#fruits/4499443)
+  2. [capitaro - Tenshinranman High Collar Hime (dakiwii) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/2160056#fruits/4634934)
 - Tiebreaker
-  1. **[Laur - Sound Chimera (Down) \[Chimera\]](https://osu.ppy.sh/beatmapsets/1910654#osu/3941047)**
+  1. **[Laur - Sound Chimera (Down) \[Chimera\]](https://osu.ppy.sh/beatmapsets/1910654#fruits/3941047)**
 
 ### Round of 16
 
