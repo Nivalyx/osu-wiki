@@ -440,7 +440,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 | Seed | Team name | Avg. rank |
 | :-: | :-- | --: |
 | #1 | naruto when | 2.63 |
-| #2 | converts ec | 3.38 |
+| #2 | common madcin L | 3.00 |
 | #3 | eurasia mid seed | 4.75 |
 | #4 | Capoo so cute | 5.50 |
 | #5 | CTB RAIMON | 6.00[^qual-note-1] |
