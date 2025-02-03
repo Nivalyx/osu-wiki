@@ -199,27 +199,27 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 - NoMod
-  1. [ESQUARIA - Butterfly Delusion - Nhato remix - (MaridiuS) \[Illusion\]](https://osu.ppy.sh/beatmapsets/907792#fruits/1894426)
-  2. [Rei sirose - Lost umbrella (Tolyan) \[huh?\]](https://osu.ppy.sh/beatmapsets/1165080#fruits/2430014)
-  3. [S3RL feat. Emi - Escape (Zero-Sama) \[Z\]](https://osu.ppy.sh/beatmapsets/1072112#fruits/4307866)
-  4. [sky\_delta - Kreuz (Side) \[Irre's Extra\]](https://osu.ppy.sh/beatmapsets/347551#fruits/832346)
+  1. [Bring Me The Horizon - AmEN! feat. Lil Uzi Vert & Daryl Palumbo of Glassjaw (Eterdesp) \[EpIpHAnY oF HuMaNiTY!\]](https://osu.ppy.sh/beatmapsets/2085178#osu/4482732)
+  2. [HIMEHINA - Mother Drug (Vanya) \[Exalted\]](https://osu.ppy.sh/beatmapsets/2226999#osu/4724370)
+  3. [Laur vs CK - Last Celebration (IAmSnowball) \[Ravalo's Glory Extreme\]](https://osu.ppy.sh/beatmapsets/1639502#osu/3362316)
+  4. [LV.4 - Burning Star (ktgster) \[Nytro's Earthgrazer Extreme\]](https://osu.ppy.sh/beatmapsets/2095154#osu/4452821)
 - Hidden
-  1. [Minagu feat. Aitsuki Nakuru - Enamel no Butoukai (iRedi) \[Lustrous Elegance\]](https://osu.ppy.sh/beatmapsets/1929891#fruits/3986513)
-  2. [Mamonis - The Sampling Paradise (rrtyui) \[Another\]](https://osu.ppy.sh/beatmapsets/61912#fruits/184250)
-  3. [Disturbed - Decadence (Shurelia) \[aishiteiru's Extra\]](https://osu.ppy.sh/beatmapsets/1994915#fruits/4166035)
+  1. [Toby Fox & ZUN - U.N Owen Was Hero? (Local Hero) \[U.N. Owen Was Local, Shurelia, Yokespai, and Halfslashed?\]](https://osu.ppy.sh/beatmapsets/2164488#osu/4860302)
+  2. [saaa + kei\_iwata + stuv + wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#osu/4622520)
+  3. [Rita - Distant Promise (Hollow Wings) \[Kinomi's Ex\]](https://osu.ppy.sh/beatmapsets/2199286#osu/4709246)
 - HardRock
-  1. [Kagamine Rin - Black Rebel (Yudragen) \[Immoral Incarnation\]](https://osu.ppy.sh/beatmapsets/1624743#fruits/3317318)
-  2. [litmus\* - Good Life (Niva) \[difficulty (convert cup edit)\]](https://osu.ppy.sh/beatmapsets/2102098#fruits/4409954)
-  3. [HyuN feat. LyuU - Cross Revolution (Kaguya\_Sama) \[mayle's Extra\]](https://osu.ppy.sh/beatmapsets/1563524#fruits/3342480)
+  1. [Ducky Chix - Prayer (Taikuta) \[Specialist\]](https://osu.ppy.sh/beatmapsets/954556#osu/1992818)
+  2. [F-777 - Unsafe Speeds (Nozhomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1311130#osu/2717662)
+  3. [ZUN & ELEMENTAS (A-ONE) - Night Falls \~ Evening Stars (HonoKaze) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/745459#osu/1571567)
 - DoubleTime
-  1. [Hatsuki Yura - Kyokou no Rakuen (KKipalt) \[Calvaria's Insane\]](https://osu.ppy.sh/beatmapsets/1257566#fruits/3377490)
-  2. [Falcom Sound Team jdk - GENESIS BEYOND THE BEGINNING (Mariko Sakuragi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1032441#fruits/2223544)
-  3. [Camellia feat Nanahira - Bassline Yatteru (Flukekiki) \[Insane\]](https://osu.ppy.sh/beatmapsets/1828629#fruits/3758188)
+  1. [Mizukara o Enshutsu Suru Otome no Kai - Girlish Lover (- Ex -) \[Insane\]](https://osu.ppy.sh/beatmapsets/1956141#osu/4052224)
+  2. [Yuuyu - Akutagawa Ryuunosuke no Kappa \~ Candid Friend (Halfslashed) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1703912#osu/4042385)
+  3. [AAAA Chazuke - Myosotis no Hanataba (Elcheer) \[Forget Me Not\]](https://osu.ppy.sh/beatmapsets/2170021#osu/4579550)
 - MixedMod
-  1. [My Chemical Romance - Dead! (wafer) \[Collab Extra!\]](https://osu.ppy.sh/beatmapsets/1881387#fruits/4052088)
-  2. [II-L - VANGUARD-3 (Feiri) \[Expert\]](https://osu.ppy.sh/beatmapsets/1556539#fruits/3179793)
+  1. [raito - Beat Eat Nest (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/2137956#osu/4499443)
+  2. [capitaro - Tenshinranman High Collar Hime (dakiwii) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/2160056#osu/4634934)
 - Tiebreaker
-  1. **[Aqours - Deep Resonance (Wien Margarete) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/2043278#fruits/4264203)**
+  1. **[Laur - Sound Chimera (Down) \[Chimera\]](https://osu.ppy.sh/beatmapsets/1910654#osu/3941047)**
 
 ### Round of 16
 
