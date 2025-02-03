@@ -146,31 +146,31 @@ This competition has come to an end and resulted in the following podium:
 ### Finals (week 1)
 
 - No Mod
-  1. [the peggies - Highlight Highlight (Vanya2) \[Bloom\]](https://osu.ppy.sh/beatmapsets/1789615#fruits/3666952)
-  2. [mitei - Phosphor (Mir) \[Fluorescence\]](https://osu.ppy.sh/beatmapsets/1508502#fruits/3089379)
-  3. [DJ Mass MAD Izm\* - Red. by Full Metal Jacket (Yusomi) \[Another AR9.5\]](https://osu.ppy.sh/beatmapsets/611544#fruits/1290915)
-  4. [Ado - Jama (eiri-) \[Annoyance\]](https://osu.ppy.sh/beatmapsets/1291365#fruits/2680455)
-  5. [setup - Ypsilon (atlas-) \[\[//\]\]](https://osu.ppy.sh/beatmapsets/1751322#fruits/3582892)
+  1. [WAGAMAMA RAKIA - SURVIVE (Alumetri) \[Destroy & Survive\]](https://osu.ppy.sh/beatmapsets/2075863#osu/4346107)
+  2. [Raja Kumari, Stefflon Don & Jarina De Marco - Renegade (We Never Run) (shimni) \[We Never Run\]](https://osu.ppy.sh/beatmapsets/2280277#osu/4860823)
+  3. [beatMARIO - Night of Knights (Camellia's "Once Upon A Night" Remix) (iljaaz) \[World of Nights\]](https://osu.ppy.sh/beatmapsets/2223639#osu/4715384)
+  4. [PhaseOne - Lost (ft. Koven) (Firiiu) \[Extra\]](https://osu.ppy.sh/beatmapsets/2292971#osu/4896078)
+  5. [School Food Punishment - fiction nonfiction (Ternafis) \[refraction\]](https://osu.ppy.sh/beatmapsets/2237576#osu/4754260)
 - Hidden
-  1. [kamome sano - Elemental Creation (kamome sano Remix) (DeviousPanda) \[Biometric Polarity\]](https://osu.ppy.sh/beatmapsets/1651040#fruits/3370546)
-  2. [niki x EZFG feat. Reol - WAVE (Sparhten) \[ar8 test\]](https://osu.ppy.sh/beatmapsets/1922218#fruits/3967816)
-  3. [OutKast - B.O.B. (Bombs Over Baghdad) (Cut Ver.) (GRR SNARL GROWL) \[bomb \@mas\]](https://osu.ppy.sh/beatmapsets/1981082#fruits/4113668)
+  1. [ELFENSJoN - ZENITH (Aeril) \[FATE COLLAB\]](https://osu.ppy.sh/beatmapsets/2300117#osu/4915138)
+  2. [DECO*27 - Cinderella feat. Hatsune Miku (Giga First Night Remix) (SkyFlame) \[Princess\]](https://osu.ppy.sh/beatmapsets/1952097#osu/4042315)
+  3. [Ricky Martin - Maria (Pablo Flores Spanglish Radio Edit) (Raburauza) \[Un dos tres!\]](https://osu.ppy.sh/beatmapsets/2131486#osu/4483322)
 - Hard Rock
-  1. [Yasuharu Takanashi - Satan Soul (Ekoro) \[Extra\]](https://osu.ppy.sh/beatmapsets/215326#fruits/507020)
-  2. [AAAA vs. Frums - beepbit \* futures (toybot) \[fast \* forward\]](https://osu.ppy.sh/beatmapsets/1633221#fruits/3333700)
-  3. [BUTAOTOME - In the Black (Luscent) \[Delis' Extra\]](https://osu.ppy.sh/beatmapsets/1833640#fruits/4240719)
+  1. [TK from Ling tosite sigure - first death (aishiteiru-) \[raijodo's extreme\]](https://osu.ppy.sh/beatmapsets/2033133#osu/4469976)
+  2. [kagerow - Odore Full Fire (Musty) \[we bombing\]](https://osu.ppy.sh/beatmapsets/1710961#osu/3496001)
+  3. [Expander - Diagram (anna apple) \[Ayaya's 54321\]](https://osu.ppy.sh/beatmapsets/1518937#osu/3109248)
 - Double Time
-  1. [nano.RIPE - Kagefumi (Mirash) \[Delisa and Miranda womanitized collab\]](https://osu.ppy.sh/beatmapsets/1633147#fruits/3333570)
-  2. [kors k, Cranky - Phalanx -RS2018 Edit- (Alvearia) \[DT\]](https://osu.ppy.sh/beatmapsets/1169995#fruits/3204736)
-  3. [TUYU - Dorei Janai nara Nan Desu ka? (Woood13) \[Condemned\]](https://osu.ppy.sh/beatmapsets/1519920#fruits/3110914)
-  4. [Dark PHOENiX - Shoujo ga Mita Nihon no Genfuukei (iljaaz) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1889104#fruits/3890682)
+  1. [Hoshimi Production - Sayonara kara Hajimaru Monogatari (karupa) \[Miracle\]](https://osu.ppy.sh/beatmapsets/2128407#osu/4474914)
+  2. [Dark PHOENiX - Koiiro Master Spark (MaridiuS) \[Magus\]](https://osu.ppy.sh/beatmapsets/855751#osu/1787964)
+  3. [BilliumMoto - Amethyst Aurora (fanzhen0019) \[ajmosca's Expert\]](https://osu.ppy.sh/beatmapsets/2095140#osu/4500092)
+  4. [Susumu Hirasawa - The Secret of The Flowers of Phenomenon (jesse1412) \[Insane\]](https://osu.ppy.sh/beatmapsets/70247#osu/201974)
 - Mixed Mod
-  1. [Feryquitous vs. xi - Orca (lcfc) \[Miura's Extra\]](https://osu.ppy.sh/beatmapsets/1166748#fruits/2565154)
-  2. [Pixel Terror - Millennia (Asphyxia) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/1708547#fruits/3592328)
-  3. [lapix - Flamenco House (Luminiscental) \[Extra\]](https://osu.ppy.sh/beatmapsets/1865291#fruits/3853301)  
+  1. [:)  feat. KAFU - Egonomy (Ryuusei Aika) \[0ugi's Ultra\]](https://osu.ppy.sh/beatmapsets/1745150#osu/3595696)
+  2. [inabakumori - Float Play (-Stocking) \[Drifting\]](https://osu.ppy.sh/beatmapsets/1921679#osu/3966597)
+  3. [Morimori Atsushi - Apsaras (Rtyzen) \[Dance\]](https://osu.ppy.sh/beatmapsets/1192309#osu/2484453)
 - Tiebreaker
-  1. **[nm-y as "Vanquisher" - Chronodivinity (DeviousPanda) \[Panda & Camo's Chronos\]](https://osu.ppy.sh/beatmapsets/2023031#fruits/4213728)**
-
+  1. **[FELT - Lost My Way (Daiyousei) \[i just trimmed the filesize\]](https://osu.ppy.sh/beatmapsets/884404#osu/2020747)**
+  
 ### Semifinals
 
 - No Mod
