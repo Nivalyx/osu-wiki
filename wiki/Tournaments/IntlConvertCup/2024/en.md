@@ -374,11 +374,11 @@ Monday, 18 December 2023:
 
 ### Round of 16
 
-Saturday, 9 December 2023:
+Saturday, 14 December 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | fuit gummy | 1 | **5** | **TAG4** | [#1](https://osu.ppy.sh/community/matches/111642904) |
+| Lower | turu | 0 | **5** | **NoApple4** | [#1](https://osu.ppy.sh/community/matches/116493563) |
 | Upper | **Polanezja** | **5** | 0 | 4DIGITS RISE UP | [#1](https://osu.ppy.sh/community/matches/111644023) |
 | Lower | CS=convert suck | 0 | **5** | **TATAPCTAH** | [#1](https://osu.ppy.sh/community/matches/111645018) |
 | Lower | **NZ gamers** | **5** | 1 | ban mods | [#1](https://osu.ppy.sh/community/matches/111639502) |
