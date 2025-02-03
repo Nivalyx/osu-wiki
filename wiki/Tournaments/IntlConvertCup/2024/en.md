@@ -174,27 +174,27 @@ This competition has come to an end and resulted in the following podium:
 ### Semifinals
 
 - NoMod
-  1. [Wagakki Band - Hanabi (toybot) \[Ex\]](https://osu.ppy.sh/beatmapsets/1214150#fruits/2527026)
-  2. [Eliminate - Walk Away (Tanger Remix) (NKMS) \[Full Flavor\]](https://osu.ppy.sh/beatmapsets/2050980#fruits/4282861)
-  3. [Lunatic Sounds - Drop down (Otosaka-Yu) \[new\]](https://osu.ppy.sh/beatmapsets/1260568#fruits/2659442)
-  4. [Andy Gillion - Insert Coin (-Sylvari) \[8-bit Expert\]](https://osu.ppy.sh/beatmapsets/1842568#fruits/3784708)
+  1. [MIYAVI - Running In My Head (Nevo) \[Schizophrenia\]](https://osu.ppy.sh/beatmapsets/2263891#osu/4819368)
+  2. [Akatsuki Records - Rock 'n' Rock 'n' Beat (Villdjack) \[Stacked\]](https://osu.ppy.sh/beatmapsets/2163697#osu/4563330)
+  3. [Getty - METEOR BURST (Extend Mix) (SkyFlame) \[Astral Explosion\]](https://osu.ppy.sh/beatmapsets/2033213#osu/4238597)
+  4. [Umeboshi Chazuke - Dotabata Oikakekko Boy! (syuq) \[Pudding Chase\]](https://osu.ppy.sh/beatmapsets/2061506#osu/4309650)
 - Hidden
-  1. [TJ.hangneil - Kamui (Cellina) \[DeviousPanda's Extra\]](https://osu.ppy.sh/beatmapsets/2008761#fruits/4184497)
-  2. [schwarzekugel - \$trange Attraktor (Alvearia) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/2019997#fruits/4206731)
-  3. [KOTOKO - INFINITE SKY (Kurashina Asuka) \[fick dich malvin\]](https://osu.ppy.sh/beatmapsets/1396158#fruits/2881614)
+  1. [TrySail - adrenaline!!! (Rizia) \[Milan-'s Insane\]](https://osu.ppy.sh/beatmapsets/613347#osu/1355859)
+  2. [Sasuke Haraguchi feat. Kasane Teto - Hontono (Madoka Ayukawa) \[Kagamine Rin's Expert\]](https://osu.ppy.sh/beatmapsets/2306254#osu/4931683)
+  3. [Lon - Yuru Fuwa Jukai Girl (Plasma) \[plambob\]](https://osu.ppy.sh/beatmapsets/2179165#osu/4602542)
 - HardRock
-  1. [UNDEAD CORPORATION - Frozen (Daycore) \[allein's Extreme\]](https://osu.ppy.sh/beatmapsets/1268344#fruits/2635971)
-  2. [BLOOD STAIN CHILD - MOON LIGHT WAVE (Silleth) \[Extra\]](https://osu.ppy.sh/beatmapsets/296543#fruits/1041934)
-  3. [beatMARIO - Night of Knights (Anxient) \[TRUE 2009 STAGE\]](https://osu.ppy.sh/beatmapsets/530702#fruits/1125657)
+  1. [Kaarija x Erika Vikman - Ruoska (Eterdesp) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2134016#osu/4489714)
+  2. [gmtn. (witch's slave) - Daraku no Sono (yf\_bmp) \[SB's Extra\]](https://osu.ppy.sh/beatmapsets/1470956#osu/3302302)
+  3. [Kishida Kyoudan & The Akeboshi Rockets - Maiden's Capriccio (- Sukii -) \[Shrine Maiden\]](https://osu.ppy.sh/beatmapsets/1813324#osu/3719803)
 - DoubleTime
-  1. [Annabel - Signal Graph (Rizia) \[Insane\]](https://osu.ppy.sh/beatmapsets/310508#fruits/693966)
-  2. [David Guetta - Where Them Girls At feat. Nicki Minaj, Flo Rida (AJT) \[Avena's Insane\]](https://osu.ppy.sh/beatmapsets/1266351#fruits/2632192)
-  3. [Aiko Kayo - Hitomi no Naka no Meikyuu (Reiji Maigo) \[Insane+\]](https://osu.ppy.sh/beatmapsets/1933416#fruits/3994999)
+  1. [Masatoshi Ono - departure! (Malphs) \[endless journey!\]](https://osu.ppy.sh/beatmapsets/2149858#osu/4529168)
+  2. [Official HIGE DANdism - Shukumei (alevi) \[Celebration\]](https://osu.ppy.sh/beatmapsets/1773551#osu/3631356)
+  3. [Kawada Mami - FIXED STAR (Reiji Maigo) \[awa\]](https://osu.ppy.sh/beatmapsets/1550367#osu/3168103)
 - MixedMod
-  1. [POLKADOT STINGRAY - Otoshimae (moph) \[Mindmaster's Extra\]](https://osu.ppy.sh/beatmapsets/1301330#fruits/2782643)
-  2. [sakuzyo - Laplace (Hakurei Yoru) \[Vert's Expert\]](https://osu.ppy.sh/beatmapsets/431924#fruits/948386)
+  1. [Haru Nemuri - Narashite (wafer) \[ar edit\]](https://osu.ppy.sh/beatmapsets/2141379#osu/4767855)
+  2. [seleP - Re;2 (P_O) \[This background reminds me of a certain farm map\]](https://osu.ppy.sh/beatmapsets/2238720#osu/4757236)
 - Tiebreaker
-  1. **[Alfakyun. - Shinu Toki Shineba Ii (iljaaz) \[Sorrow\]](https://osu.ppy.sh/beatmapsets/1156021#fruits/2412506)**
+  1. **[Release Hallucination - VANITAS (Mordred) \[The Silent Lament of Broken Wings\]](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066)**
 
 ### Quarterfinals
 
