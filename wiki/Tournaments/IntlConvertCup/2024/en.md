@@ -402,7 +402,7 @@ Sunday, 10 December 2023:
 
 ### Round of 32
 
-Saturday, 7 December 2023:
+Saturday, 7 December 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -414,14 +414,14 @@ Saturday, 7 December 2023:
 | Upper | **common madcin L** | **5** | 0 | Convert noob | [#1](https://osu.ppy.sh/community/matches/116424610) |
 | Upper | **:cat:** | **5** | 3 | NoApple4 | [#1](https://osu.ppy.sh/community/matches/116423556) |
 
-Sunday, 3 December 2023:
+Sunday, 8 December 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **AMQ Player** | **5** | 3 | Samurai Team | [#1](https://osu.ppy.sh/community/matches/111558516) |
-| Upper | **Polanezja** | **5** | 1 | CS=convert suck | [#1](https://osu.ppy.sh/community/matches/111559351) |
-| Upper | **converts ec** | **5** | 0 | what is convert | [#1](https://osu.ppy.sh/community/matches/111559351) |
-| Upper | **Ateshiiii** | **5** | 0 | Signal Graph | [#1](https://osu.ppy.sh/community/matches/111562787) |
+| Upper | **OldCloudPlayers** | **5** | 0 | ctb = danmaku | [#1](https://osu.ppy.sh/community/matches/116437251) |
+| Upper | **GiGiLuNi** | **5** | 2 | Seed \#33 | [#1](https://osu.ppy.sh/community/matches/116438573) |
+| Upper | **naruto when** | **5** | 0 | Fate | [#1](https://osu.ppy.sh/community/matches/116438544) |
+| Upper | **Jump the Beat** | **5** | 2 | NSMBW | [#1](https://osu.ppy.sh/community/matches/116435080) |
 | Upper | **eurasia mid seed** | **5** | 0 | C𝓔LεNG𓃟β∀L4P | [#1](https://osu.ppy.sh/community/matches/111559406) |
 | Upper | **draft issue** | **5** | 0 | Degens, truly | [#1](https://osu.ppy.sh/community/matches/111560269) |
 | Upper | **We hate convert** | **5** | 0 | NZ Gamers | [#1](https://osu.ppy.sh/community/matches/111557287) |
