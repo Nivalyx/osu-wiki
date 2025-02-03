@@ -224,25 +224,25 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 - NoMod
-  1. [HO-KA-GO CLIMAX GIRLS - Hanasaka Sai Sai (kiddly) \[Ag's Extra\]](https://osu.ppy.sh/beatmapsets/2094935#fruits/4399750)
-  2. [Camellia - Kono Hoshi de.... (Krimek) \[Arbane's Extra\]](https://osu.ppy.sh/beatmapsets/511759#fruits/1116417)
-  3. [Markus Schukowski - What It Feels Like (Zardonic Remix) (kowari) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/2052103#fruits/4286007)
-  4. [Kaskade & Skrillex - Lick It (Cut Ver.) (GRR SNARL GROWL) \[chonk mini\]](https://osu.ppy.sh/beatmapsets/2004289#fruits/4168141)
+  1. [kessoku band - Guitar to Kodoku to Aoi Hoshi (Amateurre) \[Spotlight\]](https://osu.ppy.sh/beatmapsets/1922323#osu/3968104)
+  2. [Minamotoya feat. Kuroa\* - Hana Kagerou (Luscent) \[Petals\]](https://osu.ppy.sh/beatmapsets/929130#osu/1963382)
+  3. [Teminite - Ghost Ship (Pandize) \[Jiysea's Expert\]](https://osu.ppy.sh/beatmapsets/1757902#osu/3693544)
+  4. [xaev - GLACIER (dakiwii) \[wafer's Crosswalx\]](https://osu.ppy.sh/beatmapsets/2262898#osu/4817026)
 - Hidden
-  1. [TheFatRat - Unity (galvenize) \[Insane\]](https://osu.ppy.sh/beatmapsets/218274#fruits/511717)
-  2. [Masque:Rade - Love Destiny (Snow Note) \[MASTER\]](https://osu.ppy.sh/beatmapsets/706004#fruits/1660120)
+  1. [Camellia - \*Feels Seasickness...\* (Nakano Itsuki) \[musou no hitotachi\]](https://osu.ppy.sh/beatmapsets/1575350#osu/3216417)
+  2. [Aitsuki Nakuru - FAKE IDOL (Schoki) \[Please love the "real" me\]](https://osu.ppy.sh/beatmapsets/2196073#osu/4646937)
 - HardRock
-  1. [Utsu-P feat. Kagamine Rin - Tokyo Teddy Bear (Dudamesh) \[Insane\]](https://osu.ppy.sh/beatmapsets/1332820#fruits/2845190)
-  2. [Chicala Lpis - Blackest Luxury Car (Ongaku) \[vikala's INSANE\]](https://osu.ppy.sh/beatmapsets/1058850#fruits/2589142)
+  1. [Yuuri - Hikousen (alevi) \[Kirishima-'s Expert\]](https://osu.ppy.sh/beatmapsets/1762468#osu/3642326)
+  2. [lapix - Nexta (Realazy) \[Ayyri's GRAVITY\]](https://osu.ppy.sh/beatmapsets/1050635#osu/2319981)
 - DoubleTime
-  1. [Itou Masumi - Yume no Naka no Watashi no Yume (RLC) \[Coda\]](https://osu.ppy.sh/beatmapsets/668664#fruits/1414553)
-  2. [FictionJunction - Yakusoku (Maot) \[Awaiting Promise\]](https://osu.ppy.sh/beatmapsets/1928050#fruits/3981702)
-  3. [EYE\_RH - The Red Coronation (Parachute) \[Insane\]](https://osu.ppy.sh/beatmapsets/1033460#fruits/2174643)
+  1. [Foreground Eclipse - Forget Me Not (Seni) \[Everlasting Promise Of Our Heartfelt Reunion\]](https://osu.ppy.sh/beatmapsets/843294#osu/2472715)
+  2. [senya - Tamashii no Katari ni Michibikarete (Satellite) \[Djulus' Lunatic\]](https://osu.ppy.sh/beatmapsets/2129313#osu/4487652)
+  3. [inabakumori - Denki Yohou feat. Hatsune Miku (-Stocking) \[Kard's Insane\]](https://osu.ppy.sh/beatmapsets/2072324#osu/4376395)
 - MixedMod
-  1. [Tsukimi Eiko (CV: 96neko) - Sakuranbo (Suzuaki\_Rin) \[Cherry\]](https://osu.ppy.sh/beatmapsets/1778030#fruits/3641404)
-  2. [James Landino & Akira Complex - Hydra (DreaM117er) \[dahkjdas's Extra\]](https://osu.ppy.sh/beatmapsets/1256865#fruits/3141593)
+  1. [Bring Me The Horizon - Dear Diary, (Cut Ver.) (Eterdesp) \[Expert\]](https://osu.ppy.sh/beatmapsets/2206858#osu/4674342)
+  2. [Hige Driver - ukigumo (Lude) \[..- -.- .. --. ..- -- ---\]](https://osu.ppy.sh/beatmapsets/1827928#osu/3751557)
 - Tiebreaker
-  1. **[Hayakore Tatsumi - Wedding of the Goodbye (\_KcuD) \[Promise\]](https://osu.ppy.sh/beatmapsets/1799402#fruits/3688741)**
+  1. **[Nyankovsky - Firmament [feat. blaxervant] (Seiioh) \[V565\]](https://osu.ppy.sh/beatmapsets/1735601#osu/3547292)**
 
 ### Round of 32
 
