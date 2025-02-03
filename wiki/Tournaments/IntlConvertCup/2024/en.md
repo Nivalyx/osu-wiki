@@ -475,7 +475,5 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 | 34 | For fun gamers | 31.38 |
 | 35 | 3 dif digits | 33.63 |
 | 36 | looking for a team name | 35.00 |
-| N/A | Ad Matai | *DNP* |
-| N/A | am nyam | *DNP* |
-| N/A | ditinggal ps3 | *DNP* |
-| N/A | ДШРГ Русичи | *DNP* |
+| N/A | abubeshki | *DNP* |
+| N/A | Albacete x ICC | *DNP* |
