@@ -422,9 +422,9 @@ Sunday, 8 December 2024:
 | Upper | **GiGiLuNi** | **5** | 2 | Seed \#33 | [#1](https://osu.ppy.sh/community/matches/116438573) |
 | Upper | **naruto when** | **5** | 0 | Fate | [#1](https://osu.ppy.sh/community/matches/116438544) |
 | Upper | **Jump the Beat** | **5** | 2 | NSMBW | [#1](https://osu.ppy.sh/community/matches/116435080) |
-| Upper | **eurasia mid seed** | **5** | 0 | C𝓔LεNG𓃟β∀L4P | [#1](https://osu.ppy.sh/community/matches/111559406) |
-| Upper | **draft issue** | **5** | 0 | Degens, truly | [#1](https://osu.ppy.sh/community/matches/111560269) |
-| Upper | **We hate convert** | **5** | 0 | NZ Gamers | [#1](https://osu.ppy.sh/community/matches/111557287) |
+| Upper | **EUphoria** | **5** | 0 | turu | [#1](https://osu.ppy.sh/community/matches/116437381) |
+| Upper | **OwOgres** | **5** | 1 | Colo-Colo | [#1](https://osu.ppy.sh/community/matches/116439131) |
+| Upper | **Capo so cute v3** | **5** | 0 | Sightread Gaming | [#1](https://osu.ppy.sh/community/matches/116435735) |
 | Upper | **Steam Happy** | **5** | 0 | Ciel Enchanteur | *win by default* |
 | Upper | **Maid Girl UwU** | **5** | 0 | pending | *win by default* |
 
