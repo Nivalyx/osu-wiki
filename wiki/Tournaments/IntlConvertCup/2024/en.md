@@ -439,40 +439,42 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 | Seed | Team name | Avg. rank |
 | :-: | :-- | --: |
-| #1 | naruto when | 2.63 |
-| #2 | common madcin L | 3.00 |
-| #3 | eurasia mid seed | 4.75 |
-| #4 | Capoo so cute | 5.50 |
-| #5 | CTB RAIMON | 6.00[^qual-note-1] |
-| #6 | DreStarkari | 6.00[^qual-note-1] |
-| #7 | We hate convert | 7.38 |
-| #8 | Polanezja | 10.13 |
-| #9 | 4DIGITS RISE UP | 10.25 |
-| #10 | roflcopter | 10.75 |
-| #11 | Ateshiiii | 11.63 |
-| #12 | draft issue | 11.88 |
-| #13 | kururin spin | 12.88 |
-| #14 | AMQ Player | 13.13 |
-| #15 | flag issue | 15.50 |
-| #16 | TAG4 | 15.75 |
-| #17 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | 16.25 |
-| #18 | plz dont ban DT | 17.25 |
-| #19 | Samurai Team | 17.63 |
-| #20 | SUNBOY | 20.13 |
-| #21 | Degens, truly | 21.75 |
-| #22 | Signal Graph | 22.00[^qual-note-2] |
-| #23 | Ban Mods | 22.00[^qual-note-2] |
-| #24 | TATAPCTAH | 25.25 |
-| #25 | CS=convert suck | 25.63 |
-| #26 | NZ gamers | 26.38 |
-| #27 | Rhodes Island | 27.00[^qual-note-3] |
-| #28 | Ad Matai Bad | 27.00[^qual-note-3] |
-| #29 | 5 digits | 27.75 |
-| #30 | C𝓔LεNG𓃟β∀L4P | 28.50 |
-| #31 | what is convert | 28.75 |
-| #32 | fuit gummy | 28.88 |
-| #33 | Timezone Issue | 31.13 |
-| #34 | The Team | 34.00 |
+| 1 | naruto when | 2.63 |
+| 2 | common madcin L | 3.00 |
+| 3 | Capo so cute v3 | 4.25 |
+| 4 | Red Hawk | 4.50 |
+| 5 | OwOgres | 5.63 |
+| 6 | Steam Happy | 5.88 |
+| 7 | EUphoria | 7.38 |
+| 8 | you tell me | 8.75 |
+| 9 | Haters in Abyss | 10.75 |
+| 10 | :cat: | 11.75 |
+| 11 | GiGiLuNi | 12.00 |
+| 12 | :tac: | 12.50 |
+| 13 | Jump the Beat | 14.63 |
+| 14 | Maid Girl UwU | 15.63 |
+| 15 | OldCloudPlayers | 16.75 |
+| 16 | D. Continental | 17.25 |
+| 17 | +4 ARAM | 17.50 |
+| 18 | ctb = danmaku | 18.13 |
+| 19 | pending | 18.50 |
+| 20 | NSMBW | 19.13 |
+| 21 | Mr. Ladybug | 20.00 |
+| 22 | Seed #33 | 21.25 |
+| 23 | NoApple4 | 21.75 |
+| 24 | PICK DT2!!1!!11 | 23.50 |
+| 25 | Barely Managing | 23.75 |
+| 26 | turu | 26.38 |
+| 27 | Ciel Enchanteur | 26.63 |
+| 28 | Colo-Colo | 28.38 |
+| 29 | Bashame X Osaka | 28.63 |
+| 30 | Sightread Gaming | 28.75 |
+| 31 | Convert noob | 29.50 |
+| 32 | Fate | 29.75 |
+| 33 | Enterprise | 31.25 |
+| 34 | For fun gamers | 31.38 |
+| 35 | 3 dif digits | 33.63 |
+| 36 | looking for a team name | 35.00 |
 | N/A | Ad Matai | *DNP* |
 | N/A | am nyam | *DNP* |
 | N/A | ditinggal ps3 | *DNP* |
