@@ -390,14 +390,15 @@ Sunday, 15 December 2024:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Rhodes Island | 0 | **5** | **Signal Graph** | [#1](https://osu.ppy.sh/community/matches/111663743) |
-| Upper | **We hate convert** | **5** | 2 | roflcopter | [#1](https://osu.ppy.sh/community/matches/111660942) |
-| Upper | **eurasia mid seed** | **5** | 2 | AMQ Player | [#1](https://osu.ppy.sh/community/matches/111661744) |
-| Lower | C𝓔LεNG𓃟β∀L4P | 0 | **5** | **Samurai Team** | [#1](https://osu.ppy.sh/community/matches/111659707) |
-| Upper | **CTB RAIMON** | **5** | 2 | draft issue | [#1](https://osu.ppy.sh/community/matches/111658881) |
-| Lower | what is convert | 0 | **5** | **plz dont ban DT** | [#1](https://osu.ppy.sh/community/matches/111659707) |
-| Upper | **Korean PC** | **5** | 0 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | [#1](https://osu.ppy.sh/community/matches/111655306) |
-| Upper | **converts ec** | **5** | 2 | flag issue | [#1](https://osu.ppy.sh/community/matches/111661735) |
+| Upper | **Steam Happy** | **5** | 4 | GiGiLuNi | [#1](https://osu.ppy.sh/community/matches/116506004) |
+| Lower | Colo-Colo | 1 | **5** | **Mr. Ladybug** | [#1](https://osu.ppy.sh/community/matches/116507704) |
+| Upper | **you tell me** | **5** | 2 | Haters in Abyss | [#1](https://osu.ppy.sh/community/matches/116507124) |
+| Upper | **Capo so cute v3** | **5** | 1 | Maid Girl UwU | [#1](https://osu.ppy.sh/community/matches/116504973) |
+| Lower | Convert noob | 0 | **5** | **ctb = danmaku** | [#1](https://osu.ppy.sh/community/matches/116504475) |
+| Upper | **naruto when** | **5** | 0 | +4 ARAM | [#1](https://osu.ppy.sh/community/matches/116507119) |
+| Upper | **common madcin L** | **5** | 0 | OldCloudPlayers | [#1](https://osu.ppy.sh/community/matches/116506519) |
+| Upper | **EUphoria** | **5** | 3 | :cat: | [#1](https://osu.ppy.sh/community/matches/116506492) |
+| Lower | Sightread Gaming | 0 | **5** | **pending** | *win by default* |
 
 ### Round of 32
 
