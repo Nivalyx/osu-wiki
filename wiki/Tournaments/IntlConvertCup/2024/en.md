@@ -501,8 +501,9 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 #### Qualifier rules
 
-1. Each player will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
-2. In the lobby, all players will have to consecutively play all of the eleven Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
+1. Each team will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
+2. In the lobby, all teams will have to consecutively play all of the eight Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+   - Eliminated players are free to enlist as 
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their **Z-sum value** (which is the sum of Z-scores across all eleven Qualifier beatmaps fitted to a standard normal cumulative distribution function). A brief explanation on the concept of Z-sum and Z-score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
