@@ -541,8 +541,10 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 4. Teams are expected to exercise common sense in pick time windows.
    - Teams are given 2 minutes to pick a beatmap and 2 minutes to press the Ready button on their client.
    - If a team is unable to come up with a pick within their time window, the pick will be chosen by random by the referee using the `!roll X` command.
-5. Excluding the Qualifiers, each stage of the tournament will feature a **Mixed Mod pool** that goes as follows: 
-   - Playing a Free Mod pick without any mods applied is not allowed.
-6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with Hidden, Hard Rock, or Hidden + Hard Rock should they wish to. 
+5. Not counting the Qualifiers, each stage of the tournament will feature a **Mixed Mod pool** that goes as follows: 
+   - The Mixed Mod pool will be played with FreeMod activated.
+   - During a Mixed Mod pick, one player from each team will have to play the map with the Hidden mod activated, while the other player will have to play with either Hard Rock or Hidden + Hard Rock.
+6. When playing a map from the Hard Rock or Double Time pool, the Hidden modification may additionally be used by any player.
+7. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with Hidden, Hard Rock, or Hidden + Hard Rock should they wish to. 
    - Playing the tiebreaker map with a mod is *not* mandatory.
-7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+8. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
