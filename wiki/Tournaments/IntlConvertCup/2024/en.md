@@ -316,15 +316,16 @@ Sunday, 14 January 2024:
 
 ### Semifinals
 
-Saturday, 6 January 2024:
+Saturday, 11 January 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Polanezja | 5 | **6** | **roflcopter** | [#1](https://osu.ppy.sh/community/matches/112080315) |
-| Lower | **We hate convert** | **6** | 4 | 4DIGITS RISE UP | [#1](https://osu.ppy.sh/community/matches/112080291) |
-| Lower | **eurasia mid seed** | **6** | 0 | draft issue | *win by default* |
+| Lower | **Steam Happy** | **6** | 0 | :tac: | [#1](https://osu.ppy.sh/community/matches/116781650) |
+| Lower | **EUphoria** | **6** | 0 | +4 ARAM | [#1](https://osu.ppy.sh/community/matches/116782780) |
+| Lower | **OwOgres** | **6** | 1 | GiGiLuNi | [#1](https://osu.ppy.sh/community/matches/116784279) |
+| Lower | **you tell me** | **6** | 1 | :cat: | [#1](https://osu.ppy.sh/community/matches/116783427) |
 
-Sunday, 7 January 2024:
+Sunday, 12 January 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
