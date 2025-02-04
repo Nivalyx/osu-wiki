@@ -542,6 +542,6 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
 5. In a Free Mod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
    - Playing a Free Mod pick without any mods applied is not allowed.
-6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
+6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with Hidden, Hard Rock, or Hidden + Hard Rock should they wish to. 
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
