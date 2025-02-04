@@ -346,8 +346,13 @@ Saturday, 4 January 2025:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **:tac:** | **6** | 2 | ctb = danmaku | [#1](https://osu.ppy.sh/community/matches/116708422) |
-| Lower | Maid Girl UwU | 4 | **6** | **DreStarkari** | [#1](https://osu.ppy.sh/community/matches/116710749) |
-| Lower | **:tac:** | **6** | 2 | ctb = danmaku | [#1](https://osu.ppy.sh/community/matches/116708422) |
+| Lower | Maid Girl UwU | 4 | **6** | **PICK DT2!!1!!11** | [#1](https://osu.ppy.sh/community/matches/116710749) |
+| Lower | **Haters in Abyss** | **6** | 0 | pending | [#1](https://osu.ppy.sh/community/matches/116712129) |
+| Lower | **OldCloudPlayers** | **6** | 2 | Mr. Ladybug | [#1](https://osu.ppy.sh/community/matches/116710770) |
+| Lower | **Jump the Beat** | **6** | 0 | NoApple4 | [#1](https://osu.ppy.sh/community/matches/116708762) |
+| Lower | **+4 ARAM** | **6** | 1 | Seed \#33 | [#1](https://osu.ppy.sh/community/matches/116711507) |
+| Lower | **GiGiLuNi** | **6** | 2 | D. Continental | [#1](https://osu.ppy.sh/community/matches/116710794) |
+| Lower | **:cat:** | **6** | 0 | NSMBW | [#1](https://osu.ppy.sh/community/matches/116708138) |
 
 Sunday, 17 December 2023:
 
