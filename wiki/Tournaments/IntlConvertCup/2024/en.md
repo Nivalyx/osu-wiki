@@ -359,14 +359,13 @@ Sunday, 5 January 2025:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **:tac:** | **6** | 1 | Jump the Beat | [#1](https://osu.ppy.sh/community/matches/116720250) |
-| Upper | eurasia mid seed | 2 | **6** | **DreStarkari** | [#1](https://osu.ppy.sh/community/matches/111769489) |
-| Lower | **꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂** | **6** | 3 | Signal Graph | [#1](https://osu.ppy.sh/community/matches/111765871) |
-| Upper | Capoo so cute | 3 | **6** | **CTB RAIMON** | [#1](https://osu.ppy.sh/community/matches/111767629) |
-| Lower | **roflcopter** | **6** | 2 | flag issue | [#1](https://osu.ppy.sh/community/matches/111770266) |
-| Lower | **draft issue** | **6** | 3 | kururin spin | [#1](https://osu.ppy.sh/community/matches/111750869) |
-| Upper | **converts ec** | **6** | 3 | We hate convert | [#1](https://osu.ppy.sh/community/matches/111768251) |
-| Upper | **Korean PC** | **6** | 0 | Polanezja | [#1](https://osu.ppy.sh/community/matches/111769546) |
-| Upper | Ateshiiii | 4 | **6** | **AMQ Player** | [#1](https://osu.ppy.sh/community/matches/111763481) |
+| Lower | Haters in Abyss | 3 | **6** | **+4 ARAM** | [#1](https://osu.ppy.sh/community/matches/116722571) |
+| Upper | **Capo so cute v3** | **6** | 0 | Steam Happy | [#1](https://osu.ppy.sh/community/matches/116720591) |
+| Upper | **Red Hawk** | **6** | 4 | OwOgres | [#1](https://osu.ppy.sh/community/matches/116723132) |
+| Upper | **common madcin L** | **6** | 0 | EUphoria | [#1](https://osu.ppy.sh/community/matches/116721937) |
+| Upper | **naruto when** | **6** | 1 | you tell me | [#1](https://osu.ppy.sh/community/matches/116722561) |
+| Lower | **GiGiLuNi** | **6** | 1 | PICK DT2!!1!!11 | [#1](https://osu.ppy.sh/community/matches/116723704) |
+| Lower | **:cat:** | **6** | 2 | OldCloudPlayers | [#1](https://osu.ppy.sh/community/matches/116721954) |
 
 ### Round of 16
 
