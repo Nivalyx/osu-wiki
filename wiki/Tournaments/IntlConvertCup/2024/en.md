@@ -503,7 +503,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 1. Each team will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
 2. In the lobby, all teams will have to consecutively play all of the eight Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
-   - Teams are given **two attempts** at playing all the Qualifier beatmaps, although the second attempt is completely optional and teams may choose to skip this opportunity if they wish to do so.
+   - Teams are given **two attempts** at playing all the Qualifier beatmaps, although the second attempt is completely optional and teams may choose to skip this opportunity should they wish to.
    - Only **the team's best playthrough for each beatmap** will be used to determine the Qualifier rankings. 
 3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
@@ -536,7 +536,8 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 2. Each team has to **ban one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match. 
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
    - Banning does not apply in the Qualifier lobbies.
-3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
+3. Each team will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
+   - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
 4. Players are expected to exercise common sense in pick time windows.
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
 5. In a Free Mod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
