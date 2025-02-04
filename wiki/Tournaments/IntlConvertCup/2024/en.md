@@ -539,7 +539,8 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 3. Each team will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
 4. Teams are expected to exercise common sense in pick time windows.
-   - If a team is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other team.
+   - Teams are given 2 minutes to pick a beatmap and 2 minutes to press the Ready button on their client.
+   - If a team is unable to come up with a pick within their time window, the pick will be chosen by random by the referee using the `!roll X` command.
 5. Excluding the Qualifiers, each stage of the tournament will feature a **Mixed Mod pool** that goes as follows: 
    - Playing a Free Mod pick without any mods applied is not allowed.
 6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with Hidden, Hard Rock, or Hidden + Hard Rock should they wish to. 
