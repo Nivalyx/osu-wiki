@@ -507,9 +507,9 @@ Detailed information on the standings of the Qualifier stage can be found in [th
    - Only **the team's best playthrough for each beatmap** will be used to determine the Qualifier rankings. 
 3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, teams will be ranked based on their average rank combined from each individual Qualifier beatmaps.
-6. The 32 teams with the **highest average rank** according to the above criteria will advance to the knock-out stages. 
-   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all eight Qualifier beatmaps.
+5. Based on their performance in the Qualifier, teams will be ranked according to their average beatmap rank across all eight Qualifier beatmaps.
+6. The 32 teams with the **highest average beatmap rank** according to the above criteria will advance to the knock-out stages. 
+   - If there are two (or more) teams that share the same average beatmap rank, the teams will be ordered based on their average score across all eight Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an outright elimination from the tournament.
 
 #### Knock-out stage rules
