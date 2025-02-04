@@ -329,10 +329,10 @@ Sunday, 12 January 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **converts ec** | **6** | 0 | DreStarkari | [#1](https://osu.ppy.sh/community/matches/112096182) |
-| Lower | **Capoo so cute** | **6** | 0 | AMQ Player | [#1](https://osu.ppy.sh/community/matches/112094333) |
-| Upper | **Korean PC** | **6** | 3 | CTB RAIMON | [#1](https://osu.ppy.sh/community/matches/112094244) |
-| Lower | **Capoo so cute** | **6** | 1 | roflcopter | [#1](https://osu.ppy.sh/community/matches/112095497) |
+| Upper | **common madcin L** | **6** | 3 | Capo so cute v3 | [#1](https://osu.ppy.sh/community/matches/116794428) |
+| Lower | Steam Happy | 3 | **6** | **EUphoria** | [#1](https://osu.ppy.sh/community/matches/116795201) |
+| Lower | **OwOgres** | **6** | 0 | you tell me | [#1](https://osu.ppy.sh/community/matches/112094244) |
+| Upper | **naruto when** | **6** | 3 | Red Hawk | [#1](https://osu.ppy.sh/community/matches/116796546) |
 
 Monday, 8 January 2024:
 
