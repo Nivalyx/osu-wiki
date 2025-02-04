@@ -503,13 +503,13 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 1. Each team will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
 2. In the lobby, all teams will have to consecutively play all of the eight Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
-   - Eliminated players are free to enlist as 
-3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
-4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their **Z-sum value** (which is the sum of Z-scores across all eleven Qualifier beatmaps fitted to a standard normal cumulative distribution function). A brief explanation on the concept of Z-sum and Z-score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
-6. The 16 players with the **highest Z-sum value** will advance to the knock-out stages.
-   - If there are two (or more) players who share the same Z-sum value, the player that holds the higher total raw score will be placed in the higher seed.
-7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+   - Teams are given **two attempts** at pl
+3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
+4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
+5. Based on their performance in the Qualifier, teams will be ranked based on their average rank combined from each individual Qualifier beatmaps.
+6. The 32 teams with the **highest average rank** according to the above criteria will advance to the knock-out stages. 
+   - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all eight Qualifier beatmaps.
+7. Failure to attend in any of the predetermined Qualifier lobbies will result in an outright elimination from the tournament.
 
 #### Knock-out stage rules
 
