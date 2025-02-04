@@ -503,8 +503,8 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 
 1. Each team will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
 2. In the lobby, all teams will have to consecutively play all of the eight Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
-   - Teams are given **two attempts** at playing all the Qualifier maps, although the second attempt is completely optional and teams may choose to skip this opportunity if they wish to.
-   - Only **the team's best playthrough for each map** will count for the ranking. 
+   - Teams are given **two attempts** at playing all the Qualifier beatmaps, although the second attempt is completely optional and teams may choose to skip this opportunity if they wish to.
+   - Only **the team's best playthrough for each beatmap** will be used to determine the Qualifier rankings. 
 3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, teams will be ranked based on their average rank combined from each individual Qualifier beatmaps.
