@@ -341,17 +341,13 @@ Monday, 8 January 2024:
 
 ### Quarterfinals
 
-Saturday, 16 December 2023:
+Saturday, 4 January 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **flag issue** | **6** | 0 | Degens, truly | [#1](https://osu.ppy.sh/community/matches/111753136) |
-| Lower | **draft issue** | **6** | 5 | plz dont ban DT | [#1](https://osu.ppy.sh/community/matches/111747366) |
-| Lower | **AMQ Player** | **6** | 1 | TATAPCTAH | [#1](https://osu.ppy.sh/community/matches/111746801) |
-| Lower | **4DIGITS RISE UP** | **6** | 1 | Samurai Team | [#1](https://osu.ppy.sh/community/matches/111749926) |
-| Lower | **kururin spin** | **6** | 0 | NZ Gamers | [#1](https://osu.ppy.sh/community/matches/111748430) |
-| Lower | **Ateshiiii** | **6** | 0 | TAG4 | *win by default* |
-| Lower | **roflcopter** | **6** | 0 | SUNBOY | *win by default* |
+| Lower | **:tac:** | **6** | 2 | ctb = danmaku | [#1](https://osu.ppy.sh/community/matches/116708422) |
+| Lower | Maid Girl UwU | 4 | **6** | **DreStarkari** | [#1](https://osu.ppy.sh/community/matches/116710749) |
+| Lower | **:tac:** | **6** | 2 | ctb = danmaku | [#1](https://osu.ppy.sh/community/matches/116708422) |
 
 Sunday, 17 December 2023:
 
