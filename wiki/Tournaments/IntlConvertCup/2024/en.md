@@ -463,3 +463,80 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 | 36 | looking for a team name | 35.00 |
 | N/A | abubeshki | *DNP* |
 | N/A | Albacete x ICC | *DNP* |
+
+## Ruleset
+
+### General rules
+
+1. Match lobbies across the tournament will adhere to the following room settings:
+   - Team Mode: `Head-to-head`
+   - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
+2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
+3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
+4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
+5. If a player does not show up within **10 minutes** of the start time, their opponent gets to win by default.
+6. If no staff or referee is available, the match will be postponed.
+7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+8. If a player disconnects, it will be treated as if they had failed the beatmap.
+   - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
+9. Lag is not a valid reason to nullify a beatmap.
+10. If any problems during the match occur, the tournament management will make a decision based on the referee's report.
+11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
+    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player or their team may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the tournament management.
+    - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
+
+### Tournament registration
+
+1. Players are required to register into the tournament individually through [this form](https://forms.gle/MFZNYKdmZm6YguYa9).
+   - In order to be eligible to play in the tournament, a player must have the ::{ flag=ID }:: Indonesian flag displayed on their profile.
+   - Although the tournament is open rank, players are advised to be in possession of at least 6,000 pp in the osu! game mode given the relatively high difficulty of the mappool.
+2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
+4. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
+   - Eliminated players are free to enlist as replay providers for the later stages of the tournament in accordance to the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff). 
+
+### Round-specific rules
+
+#### Qualifier rules
+
+1. Each player will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
+2. In the lobby, all players will have to consecutively play all of the eleven Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
+3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
+4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
+5. Based on their performance in the Qualifier, players will be ranked based on their **Z-sum value** (which is the sum of Z-scores across all eleven Qualifier beatmaps fitted to a standard normal cumulative distribution function). A brief explanation on the concept of Z-sum and Z-score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
+6. The 16 players with the **highest Z-sum value** will advance to the knock-out stages.
+   - If there are two (or more) players who share the same Z-sum value, the player that holds the higher total raw score will be placed in the higher seed.
+7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+
+#### Knock-out stage rules
+
+1. The 16 remaining players will be matched against each other based on their seeding (e.g. Seed #1 vs. Seed #16, Seed #2 vs. Seed #15, and so on).
+2. Players will compete against each other using the double-elimination system.
+3. The double-elimination system works as follows:
+   - Players who lose in the upper bracket can still play again in the lower bracket.
+   - Players who lose in the lower bracket will be eliminated from the tournament.
+   - In the Grand Final match, the winner of the the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
+4. Players who can compete in the next round are determined by:
+   - In the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
+   - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
+   - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
+   - Whether there are players who are declared to win the match by default.
+   - Whether there are players who are disqualified from the tournament.
+
+### Match regulations
+
+1. Prior to starting the match, each player must run the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order. 
+   - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
+   - The loser of the `!roll` gets the opposite by default.
+   - This rule does not apply in the Qualifier lobbies.
+2. Each player has to **ban one beatmap** (on the Round of 16) and **two beatmaps** (from the Quarterfinals onwards) from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match. 
+   - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
+   - Banning does not apply in the Qualifier lobbies.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
+4. Players are expected to exercise common sense in pick time windows.
+   - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
+5. In a Free Mod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
+   - Playing a Free Mod pick without any mods applied is not allowed.
+6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
+   - Playing the tiebreaker map with a mod is *not* mandatory.
+7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
