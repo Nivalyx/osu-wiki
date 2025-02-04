@@ -300,19 +300,19 @@ Sunday, 21 January 2024, Grand Final:
 
 ### Finals (week 1)
 
-Saturday, 13 January 2024:
+Saturday, 18 January 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **CTB RAIMON** | **7** | 1 | We hate convert | [#1](https://osu.ppy.sh/community/matches/112182424) |
-| Lower | **DreStarkari** | **7** | 3 | Capoo so cute | [#1](https://osu.ppy.sh/community/matches/112180168) |
+| Lower | **Red Hawk** | **7** | 3 | EUphoria | [#1](https://osu.ppy.sh/community/matches/116857578) |
+| Upper | naruto when | 6 | **7** | **common madcin L** | [#1](https://osu.ppy.sh/community/matches/116871945) |
+| Lower | **Capo so cute v3** | **7** | 1 | OwOgres | [#1](https://osu.ppy.sh/community/matches/116858450) |
 
-Sunday, 14 January 2024:
+Sunday, 19 January 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **Korean PC** | **7** | 4 | converts ec | [#1](https://osu.ppy.sh/community/matches/112199683) |
-| Lower | DreStarkari | 4 | **7** | **CTB RAIMON** | [#1](https://osu.ppy.sh/community/matches/112200779) |
+| Lower | Capo so cute v3 | 6 | **7** | **Red Hawk** | [#1](https://osu.ppy.sh/community/matches/116872764) |
 
 ### Semifinals
 
