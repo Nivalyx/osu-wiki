@@ -334,12 +334,6 @@ Sunday, 12 January 2025:
 | Lower | **OwOgres** | **6** | 0 | you tell me | [#1](https://osu.ppy.sh/community/matches/112094244) |
 | Upper | **naruto when** | **6** | 3 | Red Hawk | [#1](https://osu.ppy.sh/community/matches/116796546) |
 
-Monday, 8 January 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | eurasia mid seed | 5 | **6** | **We hate convert** | [#1](https://osu.ppy.sh/community/matches/112095513) |
-
 ### Quarterfinals
 
 Saturday, 4 January 2025:
