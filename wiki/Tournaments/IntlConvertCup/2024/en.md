@@ -110,8 +110,8 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **naruto when** (::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103), ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **common madcin L** (::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799), ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Red Hawk** (::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **common madcin L** (::{ flag=PL }:: [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506), ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462), ::{ flag=PL }:: [madcin](https://osu.ppy.sh/users/2957534)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Red Hawk** (::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283), ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439)) |
 
 ## Mappools
 
