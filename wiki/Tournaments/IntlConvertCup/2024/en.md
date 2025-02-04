@@ -354,10 +354,11 @@ Saturday, 4 January 2025:
 | Lower | **GiGiLuNi** | **6** | 2 | D. Continental | [#1](https://osu.ppy.sh/community/matches/116710794) |
 | Lower | **:cat:** | **6** | 0 | NSMBW | [#1](https://osu.ppy.sh/community/matches/116708138) |
 
-Sunday, 17 December 2023:
+Sunday, 5 January 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **:tac:** | **6** | 1 | Jump the Beat | [#1](https://osu.ppy.sh/community/matches/116720250) |
 | Upper | eurasia mid seed | 2 | **6** | **DreStarkari** | [#1](https://osu.ppy.sh/community/matches/111769489) |
 | Lower | **꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂** | **6** | 3 | Signal Graph | [#1](https://osu.ppy.sh/community/matches/111765871) |
 | Upper | Capoo so cute | 3 | **6** | **CTB RAIMON** | [#1](https://osu.ppy.sh/community/matches/111767629) |
@@ -366,12 +367,6 @@ Sunday, 17 December 2023:
 | Upper | **converts ec** | **6** | 3 | We hate convert | [#1](https://osu.ppy.sh/community/matches/111768251) |
 | Upper | **Korean PC** | **6** | 0 | Polanezja | [#1](https://osu.ppy.sh/community/matches/111769546) |
 | Upper | Ateshiiii | 4 | **6** | **AMQ Player** | [#1](https://osu.ppy.sh/community/matches/111763481) |
-
-Monday, 18 December 2023:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **4DIGITS RISE UP** | **6** | 3 | ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | [#1](https://osu.ppy.sh/community/matches/111772669) |
 
 ### Round of 16
 
