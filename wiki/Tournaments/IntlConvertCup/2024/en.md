@@ -286,17 +286,18 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 2)
 
-Saturday, 20 January 2024:
+Saturday, 1 February 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **converts ec** | **7** | 1 | CTB RAIMON | [#1](https://osu.ppy.sh/community/matches/112292407) |
+| Lower | **naruto when** | **7** | 4 | Red Hawk | [#1](https://osu.ppy.sh/community/matches/117031360) |
 
-Sunday, 21 January 2024, Grand Final:
+Sunday, 2 February 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **Korean PC** | **7** | 4 | converts ec | [#1](https://osu.ppy.sh/community/matches/112308890) |
+| Grand Final | common madcin L | 5 | **7** | **naruto when** | [#1](https://osu.ppy.sh/community/matches/117037050) |
+| Grand Final (bracket reset) | **naruto when** | **7** | 2 | common madcin L | [#1](https://osu.ppy.sh/community/matches/117038512) |
 
 ### Finals (week 1)
 
