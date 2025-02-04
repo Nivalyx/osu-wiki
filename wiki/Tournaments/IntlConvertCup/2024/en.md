@@ -488,7 +488,7 @@ Detailed information on the standings of the Qualifier stage can be found in [th
 ### Tournament registration
 
 1. In order to participate, players are required to form a team and register into the tournament as a team through [the tournament's website](https://wybin.xyz/tournaments/icc2024).
-   - Each team may only have one player ranked #1 - #50 and one player ranked #50 - #100 according to [osupepe.com's convert ranking](osupepe.com) in their roster.
+   - Each team may only enlist one player ranked #1 - #50 and one player ranked #50 - #100 according to [osupepe.com's convert ranking](osupepe.com) at the time of registration in their roster.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
