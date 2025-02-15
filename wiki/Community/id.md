@@ -1,6 +1,6 @@
 # Komunitas
 
-Halaman ini menerakan berbagai macam cara bagi orang-orang dari seluruh penjuru komunitas osu! untuk saling berhubungan satu sama lain. Apabila kamu ingin berkontribusi namun tidak tahu harus memulai dari mana, kunjungi halaman [Bagaimana kamu dapat membantu!](/wiki/Community/How_you_can_help!).
+Halaman ini menerakan berbagai cara bagi orang-orang dari seluruh penjuru komunitas osu! untuk saling berinteraksi satu sama lain. Apabila kamu ingin berkontribusi namun tidak tahu harus memulai dari mana, kunjungi halaman [Bagaimana kamu dapat membantu!](/wiki/Community/How_you_can_help!).
 
 ## Tempat
 
