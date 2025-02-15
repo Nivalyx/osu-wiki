@@ -1,6 +1,6 @@
 # Komunitas
 
-Halaman ini menerakan berbagai cara bagi orang-orang dari seluruh penjuru komunitas osu! untuk saling berinteraksi dengan satu sama lain. Apabila kamu ingin berkontribusi terhadap osu! tetapi tidak tahu harus memulai dari mana, kunjungi halaman [Bagaimana kamu dapat membantu!](/wiki/Community/How_you_can_help!).
+Halaman ini menerakan berbagai macam cara bagi orang-orang dari seluruh penjuru komunitas osu! untuk dapat saling berinteraksi satu sama lain. Apabila kamu ingin berkontribusi namun tidak tahu harus memulai dari mana, kunjungi halaman [Bagaimana kamu dapat membantu!](/wiki/Community/How_you_can_help!).
 
 ## Tempat
 
@@ -12,7 +12,7 @@ Halaman ini menerakan berbagai cara bagi orang-orang dari seluruh penjuru komuni
 
 ## Proyek
 
-*Lihat juga: [Daftar seluruh proyek](/wiki/Community/Projects)*
+*Lihat juga: [Daftar proyek selengkapnya](/wiki/Community/Projects)*
 
 - [Program Community Mentorship](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
