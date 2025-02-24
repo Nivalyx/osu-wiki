@@ -6,7 +6,7 @@ tags:
 outdated: true
 ---
 
-# Diskusi beatmap
+# Diskusi beatmapzzzzzzzzzz
 
 *Lihat juga: [Modding v1](/wiki/Modding/Forum_modding)*
 
