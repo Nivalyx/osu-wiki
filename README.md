@@ -4,6 +4,7 @@
 
 Home of the [osu! wiki](https://osu.ppy.sh/wiki).
 carrot
+carrot2
 
 ## Contributing
 
