@@ -4,7 +4,7 @@
 
 This article lists all the [Tumblr](https://discord.com/) blogs that have been used by osu! to maintain and support the game's operations.
 
-| Avatar | Name | Description |
-| :-: | :-- | :-- |
-| ![](img/avatar_osunews.png) | [osu!news](https://osunews.tumblr.com/) | Content hub feeding news updates to the home page of the osu! website. Discontinued in 2017 in favor of the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki/). |
-| ![](img/osunext.png) | [osu!next](https://osunext.tumblr.com/) | Updates on [osu!(lazer)](/wiki/Client/Release_stream/Lazer) and the osu! website. ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) |
+| Avatar | Name | Manager | Description |
+| :-: | :-- | :-- | :-- |
+| ![](img/avatar_osunews.png) | [osu!news](https://osunews.tumblr.com/) | ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) | Content hub feeding news updates to the main page of the osu! website. Discontinued in 2017 in favor of the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki/). |
+| ![](img/osunext.png) | [osu!next](https://osunext.tumblr.com/) | ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | Updates on [osu!(lazer)](/wiki/Client/Release_stream/Lazer) and the osu! website. |
