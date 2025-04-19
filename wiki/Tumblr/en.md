@@ -6,4 +6,5 @@ This article lists all the [Tumblr](https://discord.com/) blogs that have been u
 
 | Avatar | Name | Description |
 | :-: | :-- | :-- |
-| ![](img/avatar_osunews.png) | [osu!news](https://osunews.tumblr.com/) | A collection point for news contents to be integrated into the main site. Discontinued in 2017 in favor of the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki/). |
+| ![](img/avatar_osunews.png) | [osu!news](https://osunews.tumblr.com/) | Collection point for news contents to later be integrated and displayed into the main site. Discontinued in 2017 in favor of the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki/). |
+| ![](img/osunext.png) || [osu!next](https://osunext.tumblr.com/) |
