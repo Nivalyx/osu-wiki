@@ -2,7 +2,7 @@
 
 *See also: [Twitter](/wiki/en/Twitter) and [Discord servers](/wiki/Community/Discord_servers)*
 
-This article lists all the [Tumblr](https://discord.com/) blogs that have been used by osu! to communicate updates on the game.
+This article lists all the [Tumblr](https://discord.com/) blogs that have been used by osu! to maintain and support the game's operations.
 
 | Avatar | Name | Description |
 | :-: | :-- | :-- |
