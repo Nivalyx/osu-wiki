@@ -51,7 +51,7 @@ Lag ini terjadi apabila terdapat jeda yang terasa antara penekanan tuts keyboard
 
 Lag ini terjadi apabila dalam permainan, satu atau lebih perangkat input yang kamu miliki berhenti merespons. Tampilan layar kamu terlihat normal, namun kamu tidak dapat bermain dengan hingga kontrol ini kembali. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
-- Tekan `Ctrl` + `F11` untuk membuka tampilan Frame Time Graph. Periksa apakah terdapat banyak warna putih pada bagan pada saat hal ini terjadi (yang berarti bahwa terdapat aplikasi atau *driver* lainnya pada sistem kamu yang menggunakan terlalu banyak waktu CPU dan menunda input).
+- Tekan `Ctrl` + `F11` untuk membuka tampilan Frame Time Graph. Periksa apakah terdapat banyak warna putih pada bagan pada saat hal ini terjadi (yang berarti bahwa terdapat aplikasi atau driver pada sistem kamu yang menghabiskan terlalu banyak daya CPU dan menunda input perangkat).
 
 ### FPS yang rendah
 
