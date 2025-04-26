@@ -13,12 +13,12 @@ Sayangnya, dengan sangat banyaknya jenis perangkat keras yang dapat menjalankan 
 - Apakah kamu menggunakan skin? Apabila ya, cobalah untuk mengubah skin yang aktif ke skin Default dan lihat apakah situasimu membaik. Skin tertentu dapat dirancang sedemikian rupa sehingga menyebabkan masalah performa pada sebagian atau seluruh sistem.
 - Apakah batasan FPS kamu diatur ke `Tak Terbatas`? Atur batasan ini ke `Optimal` dan periksa apakah hal ini membantu masalahmu. Lihat [bagian khusus hal ini](#unlimited) untuk informasi lebih lanjut seputar mengapa `Tak Terbatas` pada umumnya bukan pilihan yang terbaik.
 - Apakah kamu menjalankan osu! pada mode Windowed? Beralihlah ke mode Fullscreen.
-- Apakah kamu telah memperbarui drivermu (terutama driver GPU)? Cobalah untuk memperbarui drivermu dan amati apakah masalahmu menjadi lebih baik. Sebagai alternatif, apabila masalah ini muncul setelah kamu baru saja memperbarui drivermu, cobalah untuk mengembalikan driver ini ke versi terdahulu.
-- Apakah PC-mu menggunakan NVIDIA Optimus atau pengaturan grafis hybrid lainnya? Apabila ya, cobalah untuk memaksa permainan untuk berjalan pada masing-masing GPU untuk membandingkan performa yang ada. Bukan merupakan hal yang janggal apabila GPU terintegrasi memberikan performa yang lebih konsisten untuk permainan seperti osu!. Untuk menguji hal ini, cari "Graphics settings" pada pengaturan Windows dan atur osu! ke mode "Power Saving" atau "High Performance".
+- Apakah kamu telah memperbarui drivermu (terutama driver GPU)? Cobalah untuk memperbarui drivermu dan amati apakah masalahmu menjadi lebih baik. Sebagai alternatif, apabila kamu baru saja memperbarui drivermu, cobalah untuk mengembalikan driver ini ke versi terdahulu.
+- Apakah PC kamu menggunakan NVIDIA Optimus atau pengaturan grafis hybrid lainnya? Apabila ya, cobalah untuk memaksa permainan untuk berjalan pada masing-masing GPU untuk membandingkan performa yang ada. Bukan merupakan hal yang janggal apabila GPU terintegrasi memberikan performa yang lebih konsisten untuk permainan seperti osu!. Untuk menguji hal ini, cari "Graphics settings" pada pengaturan Windows dan atur osu! ke mode "Power Saving" atau "High Performance".
 
 ## Jenis-jenis "lag"
 
-Tidak mudah bagi kami untuk memberikan dukungan pada saat seluruh jenis masalah dikategorikan sebagai "*lag*". Oleh karenanya, bagian ini akan terlebih dahulu mendefinisikan beberapa istilah untuk berbagai kejadian *lag* yang spesifik.
+Tidak mudah bagi kami untuk memberikan dukungan pada saat segala jenis masalah dikategorikan sebagai "lag". Oleh karenanya, bagian ini akan terlebih dahulu mendefinisikan berbagai istilah untuk kejadian lag yang spesifik.
 
 ### Audio yang tersendat
 
