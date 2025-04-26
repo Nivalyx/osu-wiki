@@ -41,11 +41,11 @@ Lag ini terjadi apabila dalam permainan, tampilan layar kamu membeku (*spiking*)
 
 ### Jeda input
 
-*Lag* ini terjadi apabila terdapat jeda yang nyata antara penekanan tuts keyboard atau pergerakan mouse/pen tablet dengan hasil tindakan yang terlihat pada layar. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
+Lag ini terjadi apabila terdapat jeda yang terasa antara penekanan tuts keyboard atau pergerakan mouse/pen tablet dengan hasil tindakan yang terlihat pada layar. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
 - Periksa apakah masalah ini terjadi pada seluruh atau hanya pada salah satu perangkat input yang kamu miliki.
-- Cobalah untuk beralih ke *driver* resmi apabila kamu saat ini sedang menggunakan *driver* yang tidak resmi.
-- Pastikan bahwa kamu sedang menjalankan osu! pada mode Fullscreen eksklusif. Menjalankan osu! pada mode Windowed atau Borderless akan menambah jeda input hingga satu *frame*.
+- Cobalah untuk beralih ke driver resmi apabila kamu saat ini sedang menggunakan driver yang tidak resmi.
+- Pastikan bahwa kamu sedang menjalankan osu! pada mode Fullscreen eksklusif. Menjalankan osu! pada mode Windowed atau Borderless akan menambah jeda input hingga satu frame.
 
 ### Hilangnya kendali
 
