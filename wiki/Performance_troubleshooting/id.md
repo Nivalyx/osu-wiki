@@ -18,7 +18,7 @@ Sayangnya, dengan sangat banyaknya jenis perangkat keras yang dapat menjalankan 
 
 ## Jenis-jenis "lag"
 
-Tidak mudah bagi kami untuk memberikan dukungan pada saat segala jenis masalah dikategorikan sebagai "lag". Oleh karenanya, bagian ini akan terlebih dahulu mendefinisikan istilah untuk berbagai kejadian lag yang spesifik.
+Tidak mudah bagi kami untuk memberikan dukungan pada saat segala jenis masalah dikategorikan sebagai "lag". Oleh karenanya, bagian ini akan terlebih dahulu mendefinisikan berbagai kejadian lag yang spesifik.
 
 ### Audio yang tersendat
 
@@ -29,7 +29,7 @@ Lag ini terjadi apabila audio dari beatmap mundur dengan sendirinya atau terdeng
 
 ### Layar yang membeku
 
-Lag ini terjadi apabila dalam permainan, tampilan layar kamu membeku (*spiking*) dalam waktu yang cukup lama untuk mengganggu permainanmu. Hal ini dapat terjadi hingga beberapa kali, baik dalam selang waktu yang acak ataupun teratur. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
+Lag ini terjadi apabila dalam permainan, tampilan layar kamu membeku (*spiking*) dalam waktu yang cukup lama sehingga mengganggu permainan. Hal ini dapat terjadi hingga beberapa kali, baik dalam selang waktu yang acak ataupun teratur. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
 - Hitung secara rata-rata berapa kali masalah ini terjadi dalam suatu sesi permainan.
 - Periksa apakah masalah ini selalu terjadi seiring waktunya.
