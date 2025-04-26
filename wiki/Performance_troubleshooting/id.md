@@ -18,18 +18,18 @@ Sayangnya, dengan sangat banyaknya jenis perangkat keras yang dapat menjalankan 
 
 ## Jenis-jenis "lag"
 
-Tidak mudah bagi kami untuk memberikan dukungan pada saat segala jenis masalah dikategorikan sebagai "lag". Oleh karenanya, bagian ini akan terlebih dahulu mendefinisikan berbagai istilah untuk kejadian lag yang spesifik.
+Tidak mudah bagi kami untuk memberikan dukungan pada saat segala jenis masalah dikategorikan sebagai "lag". Oleh karenanya, bagian ini akan terlebih dahulu mendefinisikan istilah untuk berbagai kejadian lag yang spesifik.
 
 ### Audio yang tersendat
 
-Lag ini terjadi apabila audio dari beatmap mundur dengan sendirinya atau terdengar tersentak-sentak (*stuttering*) seiring waktunya. Singkatnya, pada saat permainan mengalami *lag*, kamu juga dapat mendengar *lag* ini pada audio kamu. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
+Lag ini terjadi apabila audio dari beatmap mundur dengan sendirinya atau terdengar tersentak-sentak (*stuttering*) seiring waktunya. Singkatnya, pada saat permainan mengalami lag, kamu juga dapat mendengar lag ini pada audio kamu. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
-- Periksa apakah masalah ini terjadi pada seluruh perangkat audio yang tersedia. Apabila kamu menggunakan *headset* USB, cobalah untuk menghubungkan *headset* ini melalui colokan analog pada PC milikmu.
-- Periksa apakah masalahmu teratasi dengan mengaktifkan `Audio compatibility mode` pada menu pengaturan.
+- Periksa apakah masalah ini terjadi pada seluruh perangkat audio yang tersedia. Apabila kamu menggunakan headset USB, cobalah untuk menghubungkan headset*ini melalui colokan analog pada PC kamu.
+- Periksa apakah masalahmu teratasi dengan mengaktifkan `Mode kompatibilitas audio` pada menu pengaturan.
 
 ### Layar yang membeku
 
-*Lag* ini terjadi apabila dalam permainan, segala sesuatunya pada layar tampil membeku (*spiking*) dalam waktu yang cukup lama untuk dapat mengganggu permainanmu. Hal ini dapat terjadi hingga beberapa kali, baik pada selang waktu yang acak ataupun teratur. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
+Lag ini terjadi apabila dalam permainan, tampilan layar kamu membeku (*spiking*) dalam waktu yang cukup lama untuk mengganggu permainanmu. Hal ini dapat terjadi hingga beberapa kali, baik dalam selang waktu yang acak ataupun teratur. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
 - Hitung secara rata-rata berapa kali masalah ini terjadi dalam suatu sesi permainan.
 - Periksa apakah masalah ini selalu terjadi seiring waktunya.
