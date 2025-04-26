@@ -97,7 +97,7 @@ Walaupun batasan ini sekilas terlihat seperti pilihan yang terbaik dari semuanya
 - Dengan mendorong CPU dan GPU kamu hingga batas tertingginya, terdapat kemungkinan kedua perangkat ini akan mengalami kelebihan muatan (*throttling*), yang akan menurunkan performa permainan kamu secara umum.
 - GPU pada umumnya tidak ditujukan untuk me-*render* hingga 1000+ *frame* per detiknya. Oleh karenanya, batasan ini dapat menyebabkan perilaku yang tidak diinginkan, seperti performa yang lebih rendah dan jeda yang lebih tinggi dari yang semestinya.
 
-Terlepas dari semua hal ini, apabila panas yang dihasilkan dan beban perangkat yang berlebihan bukan merupakan masalah bagimu, `Unlimited` dapat menjadi pilihan yang memberikan kamu waktu antar *frame* yang paling stabil.
+Terlepas dari semua hal ini, apabila panas yang dihasilkan dan beban perangkat yang berlebihan bukan merupakan masalah bagimu, `Tak Terbatas` dapat menjadi pilihan yang memberikan kamu waktu antar *frame* yang paling stabil.
 
 ### Batasan FPS khusus
 
