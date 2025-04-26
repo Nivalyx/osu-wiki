@@ -83,7 +83,7 @@ Disarankan untuk PC yang telah berumur atau untuk menghemat daya baterai pada la
 
 ### Optimal
 
-Batasan FPS ini akan berupaya untuk menjaga FPS agar setara dengan 8x *refresh rate* monitor hingga maksimal 960 FPS. Batasan ini adalah batasan yang kami rekomendasikan untuk para pengguna yang tidak ingin menjalankan CPU/GPU mereka ke titik maksimalnya, namun tetap ingin menjaga performa yang mumpuni demi memperoleh jeda input yang rendah.
+Batasan FPS ini akan berupaya untuk menjaga FPS agar setara dengan 8x refresh rate monitor hingga maksimal 960 FPS. Batasan ini adalah batasan yang kami rekomendasikan bagi para pengguna yang tidak ingin menjalankan CPU/GPU mereka ke titik maksimalnya, namun tetap ingin menjaga performa yang memadai demi memperoleh jeda input yang rendah.
 
 Dari sudut pandang teknis, batasan ini dapat lebih diutamakan dibanding `Tak Terbatas` untuk mengurangi jumlah *frame* yang di-*render* dan mengurangi potensi terdapatnya *frame* yang hilang akibat proses [*garbage collection*](https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)) (yang dapat membekukan layar selama sepersekian detik).
 
