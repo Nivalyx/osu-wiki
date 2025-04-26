@@ -4,13 +4,13 @@ no_native_review: true
 
 # Penyelesaian masalah kinerja osu!
 
-Pada saat kamu melakukan/menjalankan sesuatu yang dapat menurunkan performa permainanmu, osu! akan berusaha sebisa mungkin untuk berjalan dengan pengaturan bawaan yang layak dan memberikan kamu peringatan yang sesuai.
+Pada saat kamu melakukan/menjalankan sesuatu yang menurunkan performa permainanmu, osu! akan berusaha sebisa mungkin untuk tetap berjalan dengan pengaturan bawaan yang layak dan memberikan kamu peringatan yang sesuai.
 
-Sayangnya, dengan sangat banyaknya jenis perangkat keras yang dapat menjalankan osu!, memastikan performa yang optimal bagi seluruh pengguna merupakan hal yang sangat sulit. Oleh karenanya, halaman ini ditujukan untuk membantumu mendiagnosa masalah performa yang kamu alami secara mandiri serta menjelaskan berbagai istilah (serta metode pemeriksaan yang dapat kamu lakukan) untuk membantu kami pada saat kamu menghubungi layanan dukungan.
+Sayangnya, dengan sangat banyaknya jenis perangkat keras yang dapat menjalankan osu!, memastikan performa yang optimal bagi seluruh pengguna merupakan hal yang sangat sulit. Oleh karenanya, halaman ini ditujukan untuk membantu kamu mendiagnosa masalah performa yang kamu alami secara mandiri serta menjelaskan berbagai istilah (dan metode pemeriksaan yang dapat kamu lakukan) untuk membantu kami pada saat kamu menghubungi layanan dukungan.
 
 ## Hal-hal yang perlu diperiksa
 
-- Apakah kamu menggunakan skin? Apabila ya, cobalah untuk mengubah skin yang aktif ke skin Default dan lihat apakah situasimu membaik. Skin tertentu dapat dibuat sedemikian rupa sehingga menyebabkan masalah performa pada sebagian atau seluruh sistem.
+- Apakah kamu menggunakan skin? Apabila ya, cobalah untuk mengubah skin yang aktif ke skin Default dan lihat apakah situasimu membaik. Skin tertentu dapat dirancang sedemikian rupa yang menyebabkan masalah performa pada sebagian atau seluruh sistem.
 - Apakah batasan FPS-mu diatur ke `Unlimited`? Atur batasan ini ke `Optimal` dan periksa apakah hal ini membantu masalahmu. Lihat [bagian khusus yang membahas hal ini](#unlimited) untuk informasi lebih lanjut seputar mengapa `Unlimited` pada umumnya bukan pilihan yang terbaik.
 - Apakah kamu menjalankan osu! pada mode Windowed? Beralihlah ke mode Fullscreen.
 - Apakah kamu telah memperbarui *driver*-mu (terutama *driver* GPU)? Cobalah untuk melakukan hal ini dan amati apakah masalahmu mulai berangsur pulih. Di sisi lain, apabila kamu belakangan ini baru saja memperbarui *driver*-mu, cobalah untuk mengembalikan *driver* ini ke versi terdahulu.
