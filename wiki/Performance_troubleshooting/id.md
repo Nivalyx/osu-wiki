@@ -18,7 +18,7 @@ Sayangnya, dengan sangat banyaknya jenis perangkat keras yang dapat menjalankan 
 
 ## Jenis-jenis "lag"
 
-Tidak mudah bagi kami untuk memberikan dukungan pada saat segala jenis masalah dikategorikan sebagai "lag". Oleh karenanya, bagian ini akan terlebih dahulu menerangkan berbagai kejadian lag yang spesifik.
+Tidak mudah bagi kami untuk memberikan dukungan pada saat segala jenis masalah dikategorikan sebagai "lag". Oleh karenanya, bagian ini akan menerangkan berbagai kejadian lag yang umum dijumpai secara spesifik.
 
 ### Audio yang tersendat
 
