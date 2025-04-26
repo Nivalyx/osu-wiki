@@ -91,7 +91,7 @@ Batasan ini dapat lebih diutamakan dibanding `Tak Terbatas` untuk mengurangi jum
 
 Batasan FPS ini merupakan batasan yang tidak membatasi FPS yang ada. osu! akan merender gambar secepat yang CPU/GPU kamu mampu.
 
-Walaupun batasan ini sekilas terlihat seperti pilihan yang terbaik dari semuanya (dan memang demikian, apabila kamu memiliki perangkat keras yang mendukung), terdapat beberapa hal yang perlu kamu pertimbangkan seputar batasan ini:
+Walaupun batasan ini sekilas terlihat seperti pilihan yang terbaik (dan memang benar adanya, apabila kamu memiliki perangkat yang mendukung), terdapat beberapa hal yang perlu kamu pertimbangkan sebelum kamu menggunakan batasan ini:
 
 - Dengan me-*render* lebih banyak *frame*, terdapat potensi yang lebih besar akan terdapatnya *frame* yang hilang akibat proses [*garbage collection*](https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)).
 - Dengan mendorong CPU dan GPU kamu hingga batas tertingginya, terdapat kemungkinan kedua perangkat ini akan mengalami kelebihan muatan (*throttling*), yang akan menurunkan performa permainan kamu secara umum.
