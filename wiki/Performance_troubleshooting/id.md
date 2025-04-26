@@ -11,9 +11,9 @@ Sayangnya, dengan sangat banyaknya jenis perangkat keras yang dapat menjalankan 
 ## Hal-hal yang perlu diperiksa
 
 - Apakah kamu menggunakan skin? Apabila ya, cobalah untuk mengubah skin yang aktif ke skin Default dan lihat apakah situasimu membaik. Skin tertentu dapat dirancang sedemikian rupa sehingga menyebabkan masalah performa pada sebagian atau seluruh sistem.
-- Apakah batasan FPS-mu diatur ke `Tak Terbatas`? Atur batasan ini ke `Optimal` dan periksa apakah hal ini membantu masalahmu. Lihat [bagian khusus yang membahas hal ini](#unlimited) untuk informasi lebih lanjut seputar mengapa `Unlimited` pada umumnya bukan pilihan yang terbaik.
+- Apakah batasan FPS kamu diatur ke `Tak Terbatas`? Atur batasan ini ke `Optimal` dan periksa apakah hal ini membantu masalahmu. Lihat [bagian khusus hal ini](#unlimited) untuk informasi lebih lanjut seputar mengapa `Tak Terbatas` pada umumnya bukan pilihan yang terbaik.
 - Apakah kamu menjalankan osu! pada mode Windowed? Beralihlah ke mode Fullscreen.
-- Apakah kamu telah memperbarui *driver*-mu (terutama *driver* GPU)? Cobalah untuk melakukan hal ini dan amati apakah masalahmu mulai berangsur pulih. Di sisi lain, apabila kamu belakangan ini baru saja memperbarui *driver*-mu, cobalah untuk mengembalikan *driver* ini ke versi terdahulu.
+- Apakah kamu telah memperbarui drivermu (terutama driver GPU)? Cobalah untuk melakukan hal ini dan amati apakah masalahmu mulai berangsur pulih. Di sisi lain, apabila kamu belakangan ini baru saja memperbarui drivermu, cobalah untuk mengembalikan driver ini ke versi terdahulu.
 - Apakah PC-mu menggunakan NVIDIA Optimus atau pengaturan grafis *hybrid* lainnya? Apabila ya, cobalah untuk memaksa permainan untuk berjalan pada masing-masing GPU untuk membandingkan performa yang ada. Bukan merupakan hal yang janggal apabila GPU terintegrasi memberikan performa yang lebih konsisten untuk permainan seperti osu!. Untuk menguji hal ini, cari "Graphics settings" pada pengaturan Windows dan atur osu! ke mode "Power Saving" atau "High Performance".
 
 ## Jenis-jenis "lag"
@@ -75,7 +75,7 @@ Batasan FPS ini bekerja dengan mengandalkan mekanisme sinkronisasi vertikal (*ve
 
 Batasan ini pada umumnya tidak disarankan untuk tampilan 60Hz. Walaupun batasan ini dapat lebih berguna pada frekuensi tampilan di atas 120Hz, VSync tidak lagi dibutuhkan untuk menghindari *screen tearing* dengan monitor masa kini yang pada umumnya telah berteknologi GSync dan FreeSync.
 
-### Power Saving
+### Hemat Daya
 
 Batasan FPS ini ditujukan untuk menghemat daya sembari memberikan pengalaman bermain yang konsisten. Batasan ini akan berjalan pada nilai yang setara dengan 2x *refresh rate* monitor dan akan berusaha untuk menjaga laju tampilan *frame* yang konsisten.
 
@@ -85,9 +85,9 @@ Disarankan untuk PC yang telah cukup berumur atau untuk menghemat daya baterai p
 
 Batasan FPS ini akan berupaya untuk menjaga FPS agar setara dengan 8x *refresh rate* monitor hingga maksimal 960 FPS. Batasan ini adalah batasan yang kami rekomendasikan untuk para pengguna yang tidak ingin menjalankan CPU/GPU mereka ke titik maksimalnya, namun tetap ingin menjaga performa yang mumpuni demi memperoleh jeda input yang rendah.
 
-Dari sudut pandang teknis, batasan ini dapat lebih diutamakan dibanding `Unlimited` untuk mengurangi jumlah *frame* yang di-*render* dan mengurangi potensi terdapatnya *frame* yang hilang akibat proses [*garbage collection*](https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)) (yang dapat membekukan layar selama sepersekian detik).
+Dari sudut pandang teknis, batasan ini dapat lebih diutamakan dibanding `Tak Terbatas` untuk mengurangi jumlah *frame* yang di-*render* dan mengurangi potensi terdapatnya *frame* yang hilang akibat proses [*garbage collection*](https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)) (yang dapat membekukan layar selama sepersekian detik).
 
-### Unlimited
+### Tak Terbatas
 
 Batasan FPS ini merupakan batasan yang tidak membatasi FPS yang ada. osu! akan me-*render* gambar secepat yang CPU/GPU kamu mampu.
 
