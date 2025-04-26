@@ -89,7 +89,7 @@ Batasan ini dapat lebih diutamakan dibanding `Tak Terbatas` untuk mengurangi jum
 
 ### Tak Terbatas
 
-Batasan FPS ini merupakan batasan yang tidak membatasi FPS yang ada. osu! akan me-*render* gambar secepat yang CPU/GPU kamu mampu.
+Batasan FPS ini merupakan batasan yang tidak membatasi FPS yang ada. osu! akan merender gambar secepat yang CPU/GPU kamu mampu.
 
 Walaupun batasan ini sekilas terlihat seperti pilihan yang terbaik dari semuanya (dan memang demikian, apabila kamu memiliki perangkat keras yang mendukung), terdapat beberapa hal yang perlu kamu pertimbangkan seputar batasan ini:
 
