@@ -59,7 +59,7 @@ Lag ini terjadi apabila dalam permainan, frekuensi gambar (*frame rate*) yang ad
 
 - Periksa apakah masalah ini masih terjadi segera setelah PC kamu dinyalakan ulang.
 - Cobalah untuk menutup segala aplikasi yang menampilkan overlay di dalam permainan (Discord, Steam, NVIDIA Shadowplay, dll.).
-- Pastikan kamu tidak sedang mengaktifkan VSync secara paksa pada *driver* tampilanmu (pengaturan ini selayaknya diatur ke "nonaktif" atau "preferensi aplikasi").
+- Pastikan kamu tidak sedang mengaktifkan VSync secara paksa pada driver tampilanmu (pengaturan ini seharusnya diatur ke "nonaktif" atau "preferensi aplikasi").
 - Cobalah untuk mengubah nilai batasan FPS dan periksa apakah situasimu membaik.
 - Pastikan bahwa kamu sedang menjalankan osu! pada mode Fullscreen eksklusif (bukan Borderless). Hal ini akan selalu meningkatkan performa yang ada.
 - Pastikan bahwa kamu sedang mengaktifkan pengaturan [*game mode*](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10). Pengaturan ini mengizinkan Windows untuk menyediakan berbagai sarana inti dan sumber daya yang khusus untuk osu!.
