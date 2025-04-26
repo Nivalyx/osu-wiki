@@ -22,7 +22,7 @@ Tidak mudah bagi kami untuk memberikan dukungan pada saat segala jenis masalah d
 
 ### Audio yang tersendat
 
-*Lag* ini terjadi apabila berkas audio milik beatmap memundurkan dirinya sendiri atau tersentak-sentak (*stuttering*) seiring waktunya. Singkatnya, pada saat permainan mengalami *lag*, kamu juga dapat mendengar *lag* ini pada audio kamu. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
+Lag ini terjadi apabila audio dari beatmap mundur dengan sendirinya atau terdengar tersentak-sentak (*stuttering*) seiring waktunya. Singkatnya, pada saat permainan mengalami *lag*, kamu juga dapat mendengar *lag* ini pada audio kamu. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
 - Periksa apakah masalah ini terjadi pada seluruh perangkat audio yang tersedia. Apabila kamu menggunakan *headset* USB, cobalah untuk menghubungkan *headset* ini melalui colokan analog pada PC milikmu.
 - Periksa apakah masalahmu teratasi dengan mengaktifkan `Audio compatibility mode` pada menu pengaturan.
