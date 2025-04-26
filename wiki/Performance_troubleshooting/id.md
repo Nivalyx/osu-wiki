@@ -73,7 +73,7 @@ osu! memiliki berbagai nilai batasan FPS yang masing-masingnya memiliki kelebiha
 
 Batasan FPS ini bekerja dengan mengandalkan mekanisme sinkronisasi vertikal (*vertical synchronising*) yang disediakan oleh driver. Batasan ini menjamin ketiadaan garis sobekan pada layar (*screen tearing*), namun dapat menambah jeda input yang ada hingga 1-2 frame karena setiap frame harus dibuffer terlebih dahulu sebelum ditampilkan.
 
-Batasan ini pada umumnya tidak disarankan untuk monitor 60Hz. Walaupun batasan ini dapat lebih berguna pada monitor di atas 120Hz, VSync tidak lagi dibutuhkan untuk menghindari sobekan pada layar karena monitor zaman sekarang pada umumnya telah dilengkapi dengan teknologi GSync dan FreeSync.
+Batasan ini pada umumnya tidak disarankan untuk monitor 60Hz. Walaupun batasan ini dapat lebih berguna pada monitor di atas 120Hz, VSync tidak lagi dibutuhkan untuk menghindari sobekan pada layar karena monitor zaman sekarang kebanyakan telah dilengkapi dengan teknologi GSync dan FreeSync.
 
 ### Hemat Daya
 
