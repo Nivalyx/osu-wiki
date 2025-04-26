@@ -63,7 +63,7 @@ Lag ini terjadi apabila dalam permainan, frekuensi gambar (*frame rate*) yang ad
 - Cobalah untuk mengubah nilai batasan FPS dan periksa apakah situasimu membaik.
 - Pastikan bahwa kamu sedang menjalankan osu! pada mode Fullscreen eksklusif (bukan Borderless). Mode ini akan selalu memberikan performa yang lebih baik dari mode lainnya.
 - Pastikan bahwa kamu sedang mengaktifkan pengaturan [Game Mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10). Pengaturan ini mengizinkan Windows untuk menyediakan berbagai sarana inti dan sumber daya khusus untuk osu!.
-- Buka Task Manager dan urutkan daftar program yang tertera (pada tab Details) berdasarkan penggunaan CPU. Perhatikan apakah terdapat penggunaan CPU yang tinggi pada saat lonjakan performa ini terjadi, semisal akibat pemindai virus atau malware yang berjalan di belakang layar. Kamu dapat menjalankan osu! pada mode Windowed atau menjalankan Task Manager pada tampilan kedua untuk memeriksa hal ini pada saat kamu memainkan atau menonton beatmap pada mode *autoplay*.
+- Buka Task Manager dan urutkan daftar program yang tertera (pada tab Details) berdasarkan penggunaan CPU. Perhatikan apakah terdapat penggunaan CPU yang tinggi pada saat lonjakan performa ini terjadi, semisal akibat pemindai virus atau malware yang berjalan di belakang layar. Kamu dapat menjalankan osu! pada mode Windowed atau menjalankan Task Manager pada tampilan kedua untuk memeriksa hal ini pada saat kamu memainkan atau menonton beatmap pada mode autoplay.
 
 ## Batasan FPS
 
