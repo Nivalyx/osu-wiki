@@ -77,9 +77,9 @@ Batasan ini pada umumnya tidak disarankan untuk monitor 60Hz. Walaupun batasan i
 
 ### Hemat Daya
 
-Batasan FPS ini ditujukan untuk menghemat daya tanpa mengorbankan permainan yang konsisten. Batasan ini akan berjalan pada nilai yang setara dengan 2x *refresh rate* monitor dan akan berusaha untuk menjaga laju tampilan *frame* yang konsisten.
+Batasan FPS ini ditujukan untuk menghemat daya tanpa mengorbankan permainan yang konsisten. Batasan ini akan berjalan pada nilai yang setara dengan 2x refresh rate monitor dan akan berusaha untuk menjaga laju frame yang konsisten.
 
-Disarankan untuk PC yang telah cukup berumur atau untuk menghemat daya baterai pada laptop.
+Disarankan untuk PC yang telah berumur atau untuk menghemat daya baterai pada laptop.
 
 ### Optimal
 
