@@ -37,7 +37,7 @@ Lag ini terjadi apabila dalam permainan, tampilan layar kamu membeku (*spiking*)
 - Periksa apakah masalah ini masih terjadi segera setelah PC kamu dinyalakan ulang.
 - Cobalah untuk menutup segala aplikasi yang menampilkan menu overlay di dalam permainan (Discord, Steam, NVIDIA Shadowplay, dll.)
 - Pastikan bahwa kamu sedang mengaktifkan pengaturan [Game Mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10). Pengaturan ini mengizinkan Windows untuk menyediakan berbagai sarana inti dan sumber daya khusus untuk osu!.
-- Buka Task Manager dan urutkan daftar program yang tertera (pada tab Details) berdasarkan penggunaan CPU. Perhatikan apakah terdapat penggunaan CPU yang tinggi pada saat *spike* ini terjadi, semisal akibat pemindai virus atau *malware* yang berjalan di belakang layar. Kamu dapat menjalankan osu! pada mode Windowed atau menjalankan Task Manager pada tampilan kedua untuk memeriksa hal ini pada saat kamu memainkan atau menonton beatmap pada mode *autoplay*.
+- Buka Task Manager dan urutkan daftar program yang tertera (pada tab Details) berdasarkan penggunaan CPU. Perhatikan apakah terdapat penggunaan CPU yang tinggi pada saat lonjakan performa ini terjadi, semisal akibat pemindai virus atau malware yang berjalan di belakang layar. Kamu dapat menjalankan osu! pada mode Windowed atau menjalankan Task Manager pada tampilan kedua untuk memeriksa hal ini pada saat kamu memainkan atau menonton beatmap pada mode autoplay.
 
 ### Jeda input
 
