@@ -29,12 +29,12 @@ Lag ini terjadi apabila audio dari beatmap mundur dengan sendirinya atau terdeng
 
 ### Layar yang membeku
 
-Lag ini terjadi apabila dalam permainan, tampilan layar kamu membeku (*spiking*) dalam waktu yang cukup lama sehingga mengganggu permainan. Hal ini dapat terjadi hingga beberapa kali, baik dalam selang waktu yang acak ataupun teratur. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
+Lag ini terjadi apabila dalam permainan, tampilan layar kamu membeku (*spiking*) dalam waktu yang cukup lama untuk dapat mengganggu permainan. Hal ini dapat terjadi hingga beberapa kali, baik dalam selang waktu yang acak ataupun teratur. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
 - Hitung secara rata-rata berapa kali masalah ini terjadi dalam suatu sesi permainan.
 - Periksa apakah masalah ini selalu terjadi seiring waktunya.
 - Periksa seberapa sering masalah ini terjadi dan apakah masalah ini muncul dalam selang waktu yang teratur.
-- Periksa apakah masalah ini masih terjadi segera setelah PC kamu dinyalakan ulang.
+- Periksa apakah masalah ini masih terjadi setelah PC kamu dinyalakan ulang.
 - Cobalah untuk menutup segala aplikasi yang menampilkan *overlay* di dalam permainan (Discord, Steam, NVIDIA Shadowplay, dll.)
 - Pastikan bahwa kamu sedang mengaktifkan pengaturan [*game mode*](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10). Pengaturan ini mengizinkan Windows untuk menyediakan berbagai sarana inti dan sumber daya yang khusus untuk osu!.
 - Buka Task Manager dan urutkan daftar program yang tertera (pada tab Details) berdasarkan penggunaan CPU. Perhatikan apakah terdapat penggunaan CPU yang tinggi pada saat *spike* ini terjadi, semisal akibat pemindai virus atau *malware* yang berjalan di belakang layar. Kamu dapat menjalankan osu! pada mode Windowed atau menjalankan Task Manager pada tampilan kedua untuk memeriksa hal ini pada saat kamu memainkan atau menonton beatmap pada mode *autoplay*.
