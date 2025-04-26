@@ -67,7 +67,7 @@ Lag ini terjadi apabila dalam permainan, frekuensi gambar (*frame rate*) yang ad
 
 ## Batasan FPS
 
-osu! menawarkan berbagai nilai batasan FPS yang dapat dipilih, yang masing-masingnya memiliki kelebihan dan kekurangannya tersendiri. Mohon diperhatikan bahwa terlepas dari pengaturan yang aktif, osu! akan selalu membatasi nilai FPS pada jendela menu untuk menghemat pemakaian CPU.
+osu! memiliki berbagai nilai batasan FPS yang masing-masingnya memiliki kelebihan dan kekurangan. Mohon diperhatikan bahwa terlepas dari pengaturan yang aktif, osu! akan selalu membatasi nilai FPS pada jendela menu untuk menghemat pemakaian CPU.
 
 ### VSync
 
