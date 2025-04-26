@@ -49,7 +49,7 @@ Lag ini terjadi apabila terdapat jeda yang terasa antara penekanan tuts keyboard
 
 ### Hilangnya kendali
 
-Lag ini terjadi apabila dalam permainan, satu atau lebih perangkat input yang kamu miliki berhenti merespons. Tampilan layar kamu terlihat normal, namun kamu tidak dapat bermain dengan hingga kamu memperoleh kembali kendali atas perangkatmu. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
+Lag ini terjadi apabila dalam permainan, satu atau lebih perangkat input yang kamu miliki berhenti merespons. Walaupun tampilan layar kamu terlihat normal, kamu tidak dapat bermain dengan hingga kamu memperoleh kembali kendali atas perangkatmu. Pada saat mendiagnosa atau melaporkan masalah ini, hal-hal berikut mungkin akan dapat membantumu:
 
 - Tekan `Ctrl` + `F11` untuk membuka tampilan Frame Time Graph. Periksa apakah terdapat banyak warna putih pada bagan pada saat hal ini terjadi (yang berarti bahwa terdapat aplikasi atau driver pada sistem kamu yang menghabiskan terlalu banyak daya CPU dan menunda input perangkat).
 
