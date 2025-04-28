@@ -102,7 +102,7 @@ Terlepas dari semua hal ini, apabila suhu dan beban perangkat yang berlebihan bu
 ### Batasan FPS khusus
 
 *Peringatan kepada pengguna Cutting Edge: Mengubah nilai `CustomFrameLimit` ke angka yang lebih besar dari 999 akan secara otomatis menurunkan nilai pengaturan ini ke 999; hal ini tidak berlaku pada Stable, di mana kamu dapat menggunakan nilai yang lebih besar dari 1000 tanpa masalah.*\
-*Perhatian: kamu tidak dapat mengubah pengaturan ini melalui tombol `F7` dari dalam permainan, bahkan apabila kamu mengikuti langkah-langkah di bawah ini; kamu akan perlu untuk mengubah batasan FPS osu! ke `Custom` pada menu pengaturan sebelum kamu meninggalkan permainan agar nilai khusus ini dapat digunakan pada saat osu! dibuka ke depannya. Apabila tidak, kamu akan perlu untuk kembali mengubah nilai `FrameSync` secara manual.*
+*Perhatian: kamu tidak dapat mengubah pengaturan ini melalui tombol `F7` dari dalam permainan, bahkan apabila kamu mengikuti langkah-langkah di bawah ini; kamu akan perlu untuk mengubah batasan FPS osu! ke `Custom` pada menu pengaturan sebelum meninggalkan permainan agar nilai ini dapat digunakan pada saat osu! dibuka ke depannya. Apabila tidak, kamu akan perlu untuk kembali mengubah nilai `FrameSync` secara manual.*
 
 Batasan FPS ini akan berupaya untuk menjaga FPS agar berada pada nilai yang sesuai dengan keinginanmu; meskipun demikian, pengaturan ini tidak dapat diterapkan melalui menu di dalam permainan secara bawaan.
 
