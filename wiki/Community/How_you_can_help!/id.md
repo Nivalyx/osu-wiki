@@ -29,7 +29,7 @@ Apabila kamu menemui seseorang yang mengalami masalah dengan permainan mereka, b
 
 <!-- TODO: add ways to help outside of forums -->
 
-Berikut merupakan bagaimana kamu dapat mulai membantu pengguna lain pada forum secara garis besar:
+Berikut merupakan bagaimana kamu dapat mulai membantu pengguna lain pada forum:
 
 - Pilih forum yang sesuai dengan minatmu, semisal:
   - [Help](https://osu.ppy.sh/community/forums/5)
@@ -44,7 +44,7 @@ Berikut merupakan bagaimana kamu dapat mulai membantu pengguna lain pada forum s
 
 ## Bantu periksa/berikan mod pada beatmap!
 
-osu! memiliki tim peninjau khusus ([Beatmap Nominator](/wiki/People/Beatmap_Nominators)) yang memeriksa apakah [beatmap](/wiki/Beatmap) yang diunggah telah siap untuk di-rank dan dimainkan oleh semua. Meskipun demikian, hal ini tidak berarti bahwa kamu tidak dapat ikut berkontribusi terhadap proses ini:
+osu! memiliki tim peninjau khusus ([Beatmap Nominator](/wiki/People/Beatmap_Nominators)) yang memeriksa apakah [beatmap](/wiki/Beatmap) yang diunggah telah siap untuk di-rank dan dimainkan oleh semua. Meskipun demikian, hal ini tidak berarti bahwa kamu tidak dapat ikut berkontribusi pada proses ini:
 
 - Telusuri atau cari artis atau lagu yang kamu suka dan/atau yang ingin kamu bantu periksa pada [daftar beatmap Pending](https://osu.ppy.sh/beatmapsets?s=pending).
 - Mainkan beatmap yang sedang berstatus [*Pending* atau *Work-in-progress*](/wiki/Beatmap/Category#wip-and-pending) dan tinggalkan tanggapanmu pada halaman diskusi beatmap yang bersangkutan.
