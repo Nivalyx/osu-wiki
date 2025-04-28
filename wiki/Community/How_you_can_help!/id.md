@@ -18,7 +18,7 @@ Apabila ini adalah pertama kalinya kamu di osu! wiki, kamu dapat membaca lebih l
 
 Demi menjaga agar mata rantai komunitas kami tetap aman, osu! memiliki tim moderasi khusus — [Global Moderation Team](/wiki/People/Global_Moderation_Team) — yang memantau forum dan ruang chat online sepanjang waktu.
 
-Untungnya, tidak sulit bagi kamu untuk ikut membantu menjaga segala sesuatunya tetap aman. Berikut merupakan beberapa hal yang dapat kamu lakukan:
+Untungnya, tidak sulit bagi kamu untuk ikut membantu menjaga keamanan ini. Berikut merupakan beberapa hal yang dapat kamu lakukan:
 
 - Ikuti kanal percakapan favoritmu pada [ruang chat](/wiki/Client/Interface/Chat_console) atau ramaikan forum yang ada.
 - Apabila kamu melihat sesuatu yang kamu rasa tidak pantas atau mengganggu dari segi mana pun, gunakan [perintah `!report`](/wiki/Reporting_bad_behaviour) pada kolom chat di dalam permainan untuk memberitahukan hal ini kepada para moderator.
