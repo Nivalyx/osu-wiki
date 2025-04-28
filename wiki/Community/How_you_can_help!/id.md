@@ -10,9 +10,9 @@ Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan 
 
 ## Bantu wiki kami
 
-[osu! wiki](https://github.com/ppy/osu-wiki) merupakan basis pengetahuan resmi kami yang mengandung segala sesuatunya tentang osu!. Oleh karenanya, osu! wiki selalu mencari kontributor untuk membantu menjaga situs web ini tetap mutakhir dengan berbagai pengetahuan atau terjemahan baru.
+[osu! wiki](https://github.com/ppy/osu-wiki) merupakan basis pengetahuan resmi kami yang mengandung segala sesuatunya tentang osu!. Oleh karenanya, osu! wiki selalu terbuka terhadap kontributor baru untuk membantu menjaga situs web ini tetap mutakhir dengan pengetahuan atau terjemahan baru.
 
-Apabila kamu baru di osu! wiki, kamu dapat membaca keterangan lebih lanjut seputar hal ini pada halaman [Panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide).
+Apabila kamu baru di osu! wiki, kamu dapat membaca lebih lanjut seputar wiki ini pada halaman [Panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide).
 
 ## Bantu jaga osu! agar tetap ramah dan aman
 
