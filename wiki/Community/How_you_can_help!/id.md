@@ -14,7 +14,7 @@ Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan 
 
 Apabila ini adalah pertama kalinya kamu di osu! wiki, kamu dapat membaca lebih lanjut seputar wiki ini pada halaman [Panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide).
 
-## Bantu jaga osu! agar tetap ramah dan aman
+## Bantu jaga osu! tetap ramah dan aman
 
 Demi menjaga agar mata rantai komunitas kami tetap aman, osu! memiliki tim moderasi khusus — [Global Moderation Team](/wiki/People/Global_Moderation_Team) — yang memantau forum dan ruang chat online sepanjang waktu.
 
