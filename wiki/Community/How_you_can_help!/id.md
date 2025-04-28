@@ -71,7 +71,7 @@ Berikut merupakan berbagai hal yang dapat kamu lakukan untuk berkontribusi:
 
 ## Berikan kontribusi terhadap masa depan osu!
 
-Pertama dikembangkan pada tahun 2017, proyek [osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan fokus utama dari [tim osu!](/wiki/People/osu!_team) saat ini bersama dengan situs web osu! baru yang kamu lihat saat ini! Apabila kamu ingin membantu menjadikan kedua proyek ini lebih baik lagi dan membawa kami lebih dekat ke masa depan osu!, berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan:
+Dikembangkan sejak tahun 2017, proyek [osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan fokus utama dari [tim osu!](/wiki/People/osu!_team) saat ini bersama dengan situs web osu! baru yang kamu lihat saat ini! Apabila kamu ingin membantu menjadikan kedua proyek ini lebih baik lagi dan membawa kami lebih dekat ke masa depan osu!, berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan:
 
 - Bantu proyek [osu!(lazer)](https://github.com/ppy/osu). Terdapat begitu banyak hal yang dapat diwujudkan pada versi osu! yang baru ini, dan kamu dapat membantu membuat segala sesuatunya menjadi kenyataan!
 - Jadikan [situs web osu!](https://github.com/ppy/osu-web) lebih baik lagi.
