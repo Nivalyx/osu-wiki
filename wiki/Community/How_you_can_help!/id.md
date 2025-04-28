@@ -60,7 +60,7 @@ Semua orang memerlukan masukan dari orang lain untuk dapat menjadi lebih baik. S
 
 Komunitas osu! penuh dengan orang-orang yang berjiwa teknis dan kompetitif. Latar belakangnya bermacam-macam, mulai dari orang yang hobi mengutak-atik hingga pemain game ritme veteran. Terdapat banyak proposal dan proyek yang khusus dibuat untuk osu!, dan kamu dapat membantu mewujudkan proposal/proyek ini atau membentuk masa depan osu! dengan proposal/proyek buatanmu sendiri!
 
-Berikut merupakan berbagai hal yang dapat kamu lakukan untuk berkontribusi:
+Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan untuk memberikan kontribusimu:
 
 - Jelajahi forum [Tournaments](https://osu.ppy.sh/community/forums/55). Turnamen sering kalinya membutuhkan banyak waktu dan tenaga untuk dapat berjalan mulus, dan terkadang kamu dapat membantu turnamen yang ada dengan menjadi juri penonton (*spectator judge*).
 - Cari tahu apa saja yang sedang terjadi pada forum [Development](https://osu.ppy.sh/community/forums/2); forum ini merupakan tempat berlangsungnya berbagai proyek yang paling serius.
