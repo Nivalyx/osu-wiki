@@ -29,7 +29,7 @@ Apabila kamu menemui seseorang yang mengalami masalah dengan permainan mereka, b
 
 <!-- TODO: add ways to help outside of forums -->
 
-Berikut merupakan cara bagimu untuk dapat mulai membantu pengguna lain pada forum secara garis besar:
+Berikut merupakan bagaimana kamu dapat mulai membantu pengguna lain pada forum secara garis besar:
 
 - Pilih forum yang sesuai dengan minatmu, semisal:
   - [Help](https://osu.ppy.sh/community/forums/5)
@@ -37,9 +37,9 @@ Berikut merupakan cara bagimu untuk dapat mulai membantu pengguna lain pada foru
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
   - [Skinning](https://osu.ppy.sh/community/forums/15)
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
-- Baca topik yang tersemat secara seksama untuk mempelajari peraturan masing-masing sub-forum dan segala informasi berguna yang terkandung di dalamnya.
+- Baca topik yang tersemat pada forum untuk mempelajari peraturan masing-masing sub-forum dan segala informasi berguna yang terkandung di dalamnya.
 - Gunakan tombol `Tandai forum ini sebagai telah dibaca` yang terdapat pada bagian atas forum.
-- Ikuti dan baca berbagai utas baru yang muncul, serta bantu jawab berbagai pertanyaan yang muncul ketika kamu bisa membantu — kamu dapat menggunakan ikon belum dibaca (*unread*) untuk memastikan kamu tetap terkini.
+- Ikuti segala utas baru yang muncul dan bantu jawab pertanyaan yang diajukan ketika kamu bisa membantu — kamu dapat menggunakan ikon belum dibaca (*unread*) untuk memastikan kamu tetap terkini.
 - Baca berbagai [panduan yang tersedia](/wiki/Guides) untuk memperdalam pengetahuan osu! kamu. Apabila kamu tidak puas dengan panduan yang telah ada, kamu dapat menambahkan kontribusimu sendiri ke dalam panduan ini!
 
 ## Bantu periksa/berikan mod pada beatmap!
