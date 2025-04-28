@@ -29,7 +29,7 @@ Apabila kamu menemui seseorang yang mengalami masalah dengan permainan mereka, b
 
 <!-- TODO: add ways to help outside of forums -->
 
-Berikut merupakan berbagai cara bagaimana kamu dapat mulai membantu pengguna lain pada forum:
+Berikut merupakan cara bagimu untuk dapat mulai membantu pengguna lain pada forum secara garis besar:
 
 - Pilih forum yang sesuai dengan minatmu, semisal:
   - [Help](https://osu.ppy.sh/community/forums/5)
