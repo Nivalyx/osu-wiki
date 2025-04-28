@@ -40,7 +40,7 @@ Berikut merupakan bagaimana kamu dapat mulai membantu pengguna lain pada forum:
 - Baca topik yang tersemat pada forum untuk mempelajari peraturan masing-masing sub-forum dan segala informasi berguna yang terkandung di dalamnya.
 - Gunakan tombol `Tandai forum ini sebagai telah dibaca` yang terdapat pada bagian atas forum.
 - Ikuti segala utas baru yang muncul dan bantu jawab pertanyaan yang diajukan ketika kamu bisa membantu — kamu dapat menggunakan ikon belum dibaca (*unread*) untuk memastikan kamu tetap terkini.
-- Baca berbagai [panduan yang tersedia](/wiki/Guides) untuk memperdalam pengetahuan osu! kamu. Apabila kamu tidak puas dengan panduan yang telah ada, kamu dapat menambahkan kontribusimu sendiri ke dalam panduan ini!
+- Baca berbagai [panduan yang tersedia](/wiki/Guides) untuk mengasah pengetahuan osu! kamu. Apabila kamu tidak puas dengan panduan yang telah ada, kamu dapat menambahkan kontribusimu sendiri ke dalam panduan ini!
 
 ## Bantu periksa/berikan mod pada beatmap!
 
