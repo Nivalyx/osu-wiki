@@ -84,4 +84,4 @@ Ada pepatah kuno yang mengatakan bahwa kamu harus menjadi bagian dari solusi, bu
 - [Laporkan pemain yang bermain curang pada saat kamu menemukan pemain ini](/wiki/Reporting_bad_behaviour/Handling_foul_play). Mohon untuk tidak mengadukan pengguna ini pada media lainnya, karena satu laporan `!report <username> bermain curang` sudah akan dapat menyelesaikan masalahmu dalam hitungan menit hingga jam.
 - Bergeraklah untuk menengahi situasi yang negatif dan mengubahnya menjadi hal yang positif.
 
-**Walaupun artikel ini tidak dapat mencakup begitu banyaknya cara lain yang dapat kamu lakukan untuk membantu komunitas osu!, kamu sudah dapat membuat osu! menjadi lebih luar biasa hanya dengan bermain!**
+**Walaupun artikel ini hanya dapat mencakup sejumlah kecil cara yang dapat kamu lakukan untuk membantu komunitas osu!, kamu sudah dapat membuat osu! menjadi lebih luar biasa hanya dengan bermain!**
