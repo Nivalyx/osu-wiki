@@ -58,7 +58,7 @@ Semua orang memerlukan masukan dari orang lain untuk dapat menjadi lebih baik. S
 
 ## Bantu atau ikuti proyek komunitas yang dijalankan oleh pengguna
 
-Komunitas osu! penuh dengan orang-orang yang berjiwa teknis dan kompetitif. Latar belakangnya bermacam-macam, mulai dari orang yang hobi mengutak-atik hingga pemain game ritme veteran. Terdapat banyak proposal dan proyek yang khusus dibuat untuk osu!, dan kamu dapat membantu mewujudkan proposal/proyek ini atau membentuk masa depan osu! dengan proposal/proyek buatanmu sendiri!
+Komunitas osu! penuh dengan orang-orang yang berjiwa teknis dan kompetitif. Latar belakangnya bermacam-macam, mulai dari orang yang hobi mengutak-atik hingga pemain game ritme veteran. Terdapat banyak proposal dan proyek yang khusus dibuat untuk osu!, dan kamu dapat membantu mewujudkan semua ini atau membentuk masa depan osu! dengan proposal/proyek buatanmu sendiri!
 
 Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan untuk memberikan kontribusimu:
 
