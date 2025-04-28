@@ -66,7 +66,7 @@ Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan 
 - Cari tahu apa saja yang sedang terjadi pada forum [Development](https://osu.ppy.sh/community/forums/2); forum ini merupakan tempat berlangsungnya berbagai proyek yang paling serius.
   - Bergabunglah ke [server Discord osu](https://discord.gg/ppy)! Bahkan hanya dengan sekadar mengikuti pengembangan dan proyek yang ada di osu! sekalipun, kamu sudah dapat memperoleh berbagai informasi terkini.
 - Ikuti [proyek beatmap](https://osu.ppy.sh/community/forums/53) yang ada dan rasakan seberapa menyenangkannya berkolaborasi dengan pengguna lain!
-- Mulailah proyekmu sendiri atau bergabunglah ke proyek milik pengguna lain! Baik kamu mau menghadirkan kembali pippi yang menari-nari atau sekadar menciptakan sesuatu yang keren untuk osu!, apa saja boleh!
+- Mulailah proyekmu sendiri atau bergabunglah ke proyek milik pengguna lain! Baik itu menghadirkan kembali pippi yang menari-nari atau sekadar menciptakan sesuatu yang keren untuk osu!, apa saja boleh!
   - Telusuri berbagai proyek populer pada [daftar berikut](/wiki/Community/Projects).
 
 ## Berikan kontribusi terhadap masa depan osu!
