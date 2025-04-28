@@ -95,9 +95,9 @@ Walaupun batasan ini sekilas terlihat seperti pilihan yang terbaik (dan memang b
 
 - Dengan merender lebih banyak frame, terdapat potensi yang lebih besar akan terdapatnya frame yang hilang akibat proses [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_\(computer_science\)).
 - Dengan mendorong CPU dan GPU kamu hingga batasnya, kedua perangkat ini akan dapat mengalami kelebihan muatan (*throttling*) yang menurunkan performa permainan kamu secara umum.
-- GPU pada umumnya tidak ditujukan untuk me-render hingga 1000+ *frame* per detiknya. Oleh karenanya, batasan ini dapat menyebabkan perilaku yang tidak diinginkan, seperti performa yang lebih rendah dan jeda input yang lebih tinggi dari yang semestinya.
+- GPU pada umumnya tidak ditujukan untuk me-render hingga 1000+ frame per detiknya. Oleh karenanya, batasan ini dapat menyebabkan perilaku yang tidak diinginkan, seperti performa yang lebih rendah dan jeda input yang lebih tinggi dari yang semestinya.
 
-Terlepas dari semua hal ini, apabila suhu dan beban perangkat yang berlebihan bukan merupakan masalah bagimu, `Tak Terbatas` dapat menjadi pilihan yang memberikan kamu waktu antar *frame* yang paling stabil.
+Terlepas dari semua hal ini, apabila suhu dan beban perangkat yang berlebihan bukan masalah bagi kamu, `Tak Terbatas` dapat menjadi pilihan yang memberikan waktu antar frame yang paling stabil.
 
 ### Batasan FPS khusus
 
