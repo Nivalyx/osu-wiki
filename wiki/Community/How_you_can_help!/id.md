@@ -78,7 +78,7 @@ Pertama dikembangkan pada tahun 2017, proyek [osu!(lazer)](/wiki/Client/Release_
 
 ## Hindari bersikap negatif! Buatlah orang lain bahagia!
 
-Ada pepatah kuno yang mengatakan bahwa kamu harus menjadi bagian dari solusi, bukan bagian dari masalah. Cukup dengan mengikuti pepatah ini, kamu telah membantu komunitas osu! menjadi tempat yang lebih baik. Orang-orang akan selalu mengeluh seiring waktunya, namun terlepas dari hal ini, masih banyak hal yang dapat kamu lakukan untuk mencerahkan komunitas:
+Ada pepatah kuno yang mengatakan bahwa kamu harus menjadi bagian dari solusi, bukan bagian dari masalah. Cukup dengan mengikuti pepatah ini, kamu telah membantu komunitas osu! menjadi tempat yang lebih baik. Orang-orang akan selalu mengeluh seiring waktunya, namun terlepas dari itu, masih banyak hal yang dapat kamu lakukan untuk mencerahkan komunitas:
 
 - Bersikap baiklah antar satu sama lain; hidup ini terlalu pendek untuk diperdebatkan.
 - [Laporkan pemain yang bermain curang pada saat kamu menemukan pemian ini](/wiki/Reporting_bad_behaviour/Handling_foul_play). Mohon untuk tidak mengadukan pengguna ini pada media lainnya, karena satu laporan `!report <username> bermain curang` sudah akan dapat menyelesaikan masalahmu dalam hitungan menit hingga jam.
