@@ -58,7 +58,7 @@ Semua orang memerlukan masukan dari orang lain untuk dapat menjadi lebih baik. S
 
 ## Bantu atau ikuti proyek komunitas yang dijalankan oleh pengguna
 
-Komunitas osu! penuh dengan orang-orang yang berjiwa teknis dan kompetitif. Latar belakangnya bermacam-macam, mulai dari orang yang hobi mengutak-atik hingga pemain game ritme veteran. Terdapat banyak proposal dan proyek yang khusus dibuat untuk osu!, dan kamu dapat membantu mewujudkan gagasan ini atau membentuk masa depan osu! dengan proposal/proyek buatanmu sendiri!
+Komunitas osu! penuh dengan orang-orang yang berjiwa teknis dan kompetitif. Latar belakangnya bermacam-macam, mulai dari orang yang hobi mengutak-atik hingga pemain game ritme veteran. Terdapat banyak proposal dan proyek yang khusus dibuat untuk osu! di luar sana, dan kamu dapat membantu mewujudkan gagasan ini atau membentuk masa depan osu! dengan proposal/proyek buatanmu sendiri!
 
 Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan untuk memberikan kontribusimu:
 
@@ -71,7 +71,7 @@ Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan 
 
 ## Berikan kontribusi terhadap masa depan osu!
 
-Mulai dikembangkan pada tahun 2017, proyek [osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan fokus utama dari [tim osu!](/wiki/People/osu!_team) saat ini bersama dengan situs web osu! baru yang kamu lihat saat ini! Apabila kamu ingin membantu menjadikan kedua proyek ini lebih baik lagi dan membawa kami lebih dekat ke masa depan osu!, berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan:
+Dikembangkan sejak tahun 2017, proyek [osu!(lazer)](/wiki/Client/Release_stream/Lazer) merupakan fokus utama dari [tim osu!](/wiki/People/osu!_team) saat ini bersama dengan situs web osu! baru yang kamu lihat saat ini! Apabila kamu ingin membantu menjadikan kedua proyek ini lebih baik lagi dan membawa kami lebih dekat ke masa depan osu!, berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan:
 
 - Bantu proyek [osu!(lazer)](https://github.com/ppy/osu). Terdapat begitu banyak hal yang dapat diwujudkan pada versi osu! yang baru ini, dan kamu dapat membantu membuat segala sesuatunya menjadi kenyataan!
 - Jadikan [situs web osu!](https://github.com/ppy/osu-web) lebih baik lagi.
