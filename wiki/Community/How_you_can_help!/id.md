@@ -4,9 +4,9 @@ no_native_review: true
 
 # Bagaimana kamu dapat membantu!
 
-osu! memiliki komunitas dinamis yang tersusun atas orang-orang dari seluruh dunia. Siapa pun juga dapat menjadi bagian dari komunitas ini dengan cara mereka sendiri!
+osu! memiliki komunitas dinamis yang terdiri dari orang-orang dari seluruh dunia. Siapa pun juga dapat menjadi bagian dari komunitas ini dengan cara mereka sendiri!
 
-Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu perbuat untuk membantu komunitas:
+Berikut merupakan sebagian kecil dari sekian banyak hal yang dapat kamu lakukan untuk membantu komunitas:
 
 ## Bantu wiki kami
 
