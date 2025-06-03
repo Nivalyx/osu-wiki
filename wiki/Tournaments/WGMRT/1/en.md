@@ -342,7 +342,20 @@ Sunday, 5 January 2025:
 | Upper | gw ngikut aj | 6 | **7** | **santoso gacor** | [#1](https://osu.ppy.sh/community/matches/117993252) |
 | Upper | **5 Melon 1 Korean** | **7** | 2 | Pengawal Mama | [#1](https://osu.ppy.sh/community/matches/117992163) |
 
-### Round of 16
+### Swiss round
+
+#### Overall standings
+
+| Rank | Team name | Points | Wins | Losses | Map difference |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | 5 Melon 1 Korean | 18 | 6 | 0 | +20 |
+| 2 | kisaki motor | 5 |
+| 3 | Tingyun Motor | 5 |
+| 4 | maimai | 4.5 |
+| 5 | geoguessr | 4 |
+| 6 | blind people | 3.5 |
+| 7 | Spacediver | 3 |
+| 8 | Stelle x Trash Can | 3 |
 
 Saturday, 14 December 2025:
 
