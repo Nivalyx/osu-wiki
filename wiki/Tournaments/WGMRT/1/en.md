@@ -364,24 +364,18 @@ Saturday, 26 April 2025:
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | SW3-1 | Pengawal Mama | 2 | **6** | **#PEGAONTOP** | [#1](https://osu.ppy.sh/community/matches/117911240) |
-| SW3-7 | **5 Melon 1 Korean** | **6** | 4 | SpeedBus Pasuruan | [#1](https://osu.ppy.sh/community/matches/117921982) |
 | SW3-8 | apa aja lah bebas | 2 | **6** | **5 Melon 1 Korean** | [#1](https://osu.ppy.sh/community/matches/117909284) |
 | SW3-2 | **最tua & 黒 se世界** | **6** | 0 | Pengawal Mama | [#1](https://osu.ppy.sh/community/matches/117910499) |
 | SW3-4 | SpeedBus Pasuruan | 1 | **6** | **最tua & 黒 se世界** | [#1](https://osu.ppy.sh/community/matches/117909749) |
+| SW3-6 | santoso gacor | 2 | **6** | **apa aja lah bebas** | [#1](https://osu.ppy.sh/community/matches/117910491) |
 
 Sunday, 27 April 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **Steam Happy** | **5** | 4 | GiGiLuNi | [#1](https://osu.ppy.sh/community/matches/116506004) |
-| Lower | Colo-Colo | 1 | **5** | **Mr. Ladybug** | [#1](https://osu.ppy.sh/community/matches/116507704) |
-| Upper | **you tell me** | **5** | 2 | Haters in Abyss | [#1](https://osu.ppy.sh/community/matches/116507124) |
-| Upper | **Capo so cute v3** | **5** | 1 | Maid Girl UwU | [#1](https://osu.ppy.sh/community/matches/116504973) |
-| Lower | Convert noob | 0 | **5** | **ctb = danmaku** | [#1](https://osu.ppy.sh/community/matches/116504475) |
-| Upper | **naruto when** | **5** | 0 | +4 ARAM | [#1](https://osu.ppy.sh/community/matches/116507119) |
-| Upper | **common madcin L** | **5** | 0 | OldCloudPlayers | [#1](https://osu.ppy.sh/community/matches/116506519) |
-| Upper | **EUphoria** | **5** | 3 | :cat: | [#1](https://osu.ppy.sh/community/matches/116506492) |
-| Lower | Sightread Gaming | 0 | **5** | **pending** | *win by default* |
+| SW3-5 | #PEGAONTOP | 4 | **6** | **gw ngikut aj** | [#1](https://osu.ppy.sh/community/matches/117921955) |
+| SW3-7 | **5 Melon 1 Korean** | **6** | 4 | SpeedBus Pasuruan | [#1](https://osu.ppy.sh/community/matches/117921982) |
+| SW3-3 | gw ngikut aj | 3 | **6** | **santoso gacor** | [#1](https://osu.ppy.sh/community/matches/117920440) |
 
 ## Ruleset
 
