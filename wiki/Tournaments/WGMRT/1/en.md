@@ -18,8 +18,8 @@ The **We Go March! retot's Tournament** (***WGMRT***) was a double-elimination 3
 | Screening phase | 2025-03-29/2025-04-05 |
 | Drafting phase | 2025-04-06 |
 | Swiss round (week 1) | 2025-04-07/2025-04-13 |
-| Round of 32 | 2024-12-02/2024-12-08 |
-| Round of 16 | 2024-12-09/2024-12-15 |
+| Swiss round (week 2) | 2025-04-14/2025-04-20 |
+| Swiss round (week 3) | 2025-04-21/2025-04-27 |
 | Quarterfinals | 2024-12-30/2023-01-05 |
 | Semifinals | 2025-01-06/2023-01-12 |
 | Finals (week 1) | 2025-01-13/2025-01-19 |
