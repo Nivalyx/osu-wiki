@@ -502,7 +502,7 @@ Sunday, 13 April 2025:
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Teams are expected to exercise common sense in pick time windows.
-   - Teams are given 90 seconds to pick a beatmap and a further 2 minutes to press the Ready button on their client.
+   - Teams will be given 90 seconds to pick a beatmap and a further 2 minutes to press the Ready button on their client.
    - If a team is unable to come up with a pick within their time window, the pick will be skipped and be given to their opponent as a free pick.
 5. In a Free Mod pick, teams must field at least two unique mod combinations from the list of allowed mods (Easy, Hidden, and Hard Rock). For the remaining players, enabling mods is optional.
    - Playing Easy along with Hidden + Easy and Hard Rock along with Hidden + Hard Rock does not count as an unique mod combination.
