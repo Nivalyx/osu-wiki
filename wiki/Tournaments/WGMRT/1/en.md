@@ -377,6 +377,15 @@ Sunday, 27 April 2025:
 | SW3-7 | **5 Melon 1 Korean** | **6** | 4 | SpeedBus Pasuruan | [#1](https://osu.ppy.sh/community/matches/117921982) |
 | SW3-3 | gw ngikut aj | 3 | **6** | **santoso gacor** | [#1](https://osu.ppy.sh/community/matches/117920440) |
 
+#### Swiss round (week 2)
+
+Saturday, 19 April 2025:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| SW2-8 | **5 Melon 1 Korean** | 6 | 4 | gw ngikut aj | [#1](https://osu.ppy.sh/community/matches/117841171) |
+| SW2-1 | Pengawal Mama | 2 | **6** | **apa aja lah bebas** | [#1](https://osu.ppy.sh/community/matches/117837531) |
+
 ## Ruleset
 
 ### General rules
