@@ -37,7 +37,7 @@ The We Go March! retot's Tournament offered an initial prize pool of 1,000,000 I
 
 ## Organisation
 
-The We Go March! retot's Tournament was run by various Indonesian community members.
+The We Go March! retot's Tournament was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
