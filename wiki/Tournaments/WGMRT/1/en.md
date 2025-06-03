@@ -453,7 +453,7 @@ Sunday, 13 April 2025:
 1. Based on the screening results, the tournament management will pick 8 players at random from the list of accepted players to act as team captains.
    - In order to avoid teams potentially having to deal with the disadvantage of being captained by a player whose skill level is not on par with the tournament's threshold, the captains will always be picked from the list's Top 48 players ranking-wise.
 2. During the drafting phase, team captains will then have to pick five other players to complete their team from the pool of remaining players following the [snaking draft method](https://en.wiktionary.org/wiki/snake_draft) (1st -> 2nd -> 3rd -> 4th -> 5th -> 6th -> 6th -> 5th -> 4th -> (...)).
-3. All teams are required to submit a team name to the tournament management within one week of the drafting phase. 
+3. Teams are required to submit a team name to the tournament management within one week of the drafting phase. 
    - While there are no restrictions as to what team names may and may not be used, teams are encouraged to choose their names carefully. The tournament management is not responsible for any repercussions that may arise from team names.
 4. Players who are not picked to be in any team at the end of the drafting phase are eliminated from the tournament by default.
 
@@ -462,20 +462,33 @@ Sunday, 13 April 2025:
 #### Swiss round rules
 
 1. The Swiss round will be held over the course of three weeks with a different mappool for each week.
-2. During each week, each team will play 2 matches against opponents determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
+2. During each week, teams will play 2 matches against other teams as determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
+3. Team needs to win 6 points in order to win a Swiss round match. (Best of 11)
+4. Based on their performance, teams will be awarded points that go to their Swiss round standings as follows:
+   - Winning a match straight without tiebreaker: +3 points
+   - Winning a match through tiebreaker: +2 points
+   - Losing a match through tiebreaker: 0 points
+   - Losing a match straight without tiebreaker: -1 points
+5. The Swiss round standings are determined by (in order):
+   - Points accumulated
+   - Map difference (`Σ of maps won - Σ of maps lost`)
+   - Head-to-head records between the tied teams
+   - Number of wins
+   - Number of wins of the tied team's opponents
+   - The result of an extra play-off match (if needed)
+6. Forfeiting a match will be treated as an instant loss with a -6 map difference to the forfeiting team's score.
 
 #### Knock-out stage rules
 
-1. The 32 teams who got through from the Qualifiers will be matched against each other based on their Qualifier seeding (e.g. Seed #1 vs. Seed #32, Seed #2 vs. Seed #31, and so on).
+1. Teams will be matched against each other based on their Swiss round standings (e.g. Team #1 vs. Team #8, Team #2 vs. Team #7, and so on).
 2. Teams will compete against each other using the double-elimination system.
 3. The double-elimination system works as follows: 
    - Teams who lose in the upper bracket can still play again in the lower bracket.
    - Teams who lose in the lower bracket will be eliminated from the tournament.
    - In the Grand Final match, the winner of the the upper bracket will only need to win a single match to win the tournament. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to do so.
 4. Teams who can compete in the next round are determined by:
-   - In the Round of 32 and the Round of 16, each team needs to win 5 points in order to win a match. (Best of 9)
-   - In the Quarterfinals and the Semifinals, each team needs to win 6 points in order to win a match. (Best of 11)
-   - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best of 13)
+   - In the Quarterfinals and the Semifinals, each team needs to win 7 points in order to win a match. (Best of 13)
+   - In both of the Finals weeks, each team needs to win 8 points in order to win a match. (Best of 15)
    - Whether there are teams who are declared to win the match by default.
    - Whether there are teams who are disqualified from the tournament.
 
