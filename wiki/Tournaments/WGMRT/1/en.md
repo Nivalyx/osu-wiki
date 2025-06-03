@@ -414,6 +414,7 @@ Sunday, 13 April 2025:
 | SW1-6 | **#PEGAONTOP** | 6 | 4 | 最tua & 黒 se世界 | [#1](https://osu.ppy.sh/community/matches/117783265) |
 | SW1-3 | **5 Melon 1 Korean** | 6 | 2 | santoso gacor | [#1](https://osu.ppy.sh/community/matches/117781497) |
 | SW1-5 | apa aja lah bebas | 2 | **6** | **gw ngikut aj** | [#1](https://osu.ppy.sh/community/matches/117780256) |
+| SW1-7 | **5 Melon 1 Korean** | 6 | 2 | Pengawal Mama | [#1](https://osu.ppy.sh/community/matches/117778574) |
 
 ## Ruleset
 
