@@ -349,8 +349,8 @@ Sunday, 5 January 2025:
 | Rank | Team name | Points | Wins | Losses | Map difference |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | 5 Melon 1 Korean | 18 | 6 | 0 | +20 |
-| 2 | kisaki motor | 5 |
-| 3 | Tingyun Motor | 5 |
+| 2 | 最tua & 黒 se世界 | 14 | 5 | 1 | +20 |
+| 3 | #PEGAONTOP | 10 | 4 | 2 | +5 |
 | 4 | maimai | 4.5 |
 | 5 | geoguessr | 4 |
 | 6 | blind people | 3.5 |
