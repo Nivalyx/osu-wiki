@@ -65,7 +65,7 @@ The We Go March! retot's Tournament was run by various osu! community members fr
 | Team name | Members |
 | :-: | :-- |
 | #PEGAONTOP | ::{ flag=ID }:: **[Seox](https://osu.ppy.sh/users/3793938)**, ::{ flag=ID }:: [ThatNOOBguy](https://osu.ppy.sh/users/11091594), ::{ flag=ID }:: [Somay 287](https://osu.ppy.sh/users/4314559), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [-Blue21-](https://osu.ppy.sh/users/12517079), ::{ flag=ID }:: [Worcester](https://osu.ppy.sh/users/24025848) |
-| 5 Melon 1 Korean | ::{ flag=ID }:: **[-Rizie](https://osu.ppy.sh/users/10423227)**, ::{ flag=ID }:: [salt and honey](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510), ::{ flag=ID }:: [Kozakura-](https://osu.ppy.sh/users/4473506), ::{ flag=ID }:: [RockingSushi](https://osu.ppy.sh/users/19371191), ::{ flag=ID }:: [agato](https://osu.ppy.sh/users/28901730) |
+| 5 Melon 1 Korean | ::{ flag=ID }:: **[-CircleParadox-](https://osu.ppy.sh/users/10423227)**, ::{ flag=ID }:: [salt and honey](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510), ::{ flag=ID }:: [Kozakura-](https://osu.ppy.sh/users/4473506), ::{ flag=ID }:: [RockingSushi](https://osu.ppy.sh/users/19371191), ::{ flag=ID }:: [agato](https://osu.ppy.sh/users/28901730) |
 | apa aja boleh | ::{ flag=ID }:: **[-[ Dreepy ]-](https://osu.ppy.sh/users/17978570)**, ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [elituqinn](https://osu.ppy.sh/users/20315228), ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666), ::{ flag=ID }:: [NovaCrack](https://osu.ppy.sh/users/25781802), ::{ flag=ID }:: [PreDexine](https://osu.ppy.sh/users/12274165) |
 | gw ngikut aj | ::{ flag=ID }:: **[Zoont](https://osu.ppy.sh/users/7109269)**, ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [moyamoyano_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Meyomi](https://osu.ppy.sh/users/20752007), ::{ flag=ID }:: [- D a r r y l -](https://osu.ppy.sh/users/14455082) |
 | Pengawal Mama | ::{ flag=ID }:: **[OTWGE](https://osu.ppy.sh/users/11759284)**, ::{ flag=ID }:: [Zonii](https://osu.ppy.sh/users/6596134), ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809), ::{ flag=ID }:: [Shiiori](https://osu.ppy.sh/users/13799103), ::{ flag=ID }:: [Icun](https://osu.ppy.sh/users/17908427), ::{ flag=ID }:: [Bbriant](https://osu.ppy.sh/users/30074705) |
@@ -81,7 +81,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **最tua & 黒 se世界** (::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450), ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Crownest](https://osu.ppy.sh/users/18135280), ::{ flag=ID }:: [c4w](https://osu.ppy.sh/users/15815159)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **#PEGAONTOP** (::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [ThatNOOBguy](https://osu.ppy.sh/users/11091594), ::{ flag=ID }:: [Somay 287](https://osu.ppy.sh/users/4314559), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [-Blue21-](https://osu.ppy.sh/users/12517079), ::{ flag=ID }:: [Worcester](https://osu.ppy.sh/users/24025848)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **5 Melon 1 Korean** (::{ flag=ID }:: [-Rizie](https://osu.ppy.sh/users/10423227), ::{ flag=ID }:: [salt and honey](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510), ::{ flag=ID }:: [Kozakura-](https://osu.ppy.sh/users/4473506), ::{ flag=ID }:: [RockingSushi](https://osu.ppy.sh/users/19371191), ::{ flag=ID }:: [agato](https://osu.ppy.sh/users/28901730)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **5 Melon 1 Korean** (::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227), ::{ flag=ID }:: [salt and honey](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510), ::{ flag=ID }:: [Kozakura-](https://osu.ppy.sh/users/4473506), ::{ flag=ID }:: [RockingSushi](https://osu.ppy.sh/users/19371191), ::{ flag=ID }:: [agato](https://osu.ppy.sh/users/28901730)) |
 
 ## Mappools
 
@@ -148,27 +148,31 @@ This competition has come to an end and resulted in the following podium:
 ### Semifinals
 
 - No Mod
-  1. [MIYAVI - Running In My Head (Nevo) \[Schizophrenia\]](https://osu.ppy.sh/beatmapsets/2263891#fruits/4819368)
-  2. [Akatsuki Records - Rock 'n' Rock 'n' Beat (Villdjack) \[Stacked\]](https://osu.ppy.sh/beatmapsets/2163697#fruits/4563330)
-  3. [Getty - METEOR BURST (Extend Mix) (SkyFlame) \[Astral Explosion\]](https://osu.ppy.sh/beatmapsets/2033213#fruits/4238597)
-  4. [Umeboshi Chazuke - Dotabata Oikakekko Boy! (syuq) \[Pudding Chase\]](https://osu.ppy.sh/beatmapsets/2061506#fruits/4309650)
+  1. [Origami Angel - Escape Rope (Altai) \[Abandonment\]](https://osu.ppy.sh/beatmapsets/1757733#osu/3597185)
+  2. [xi - ANiMA (FrenZ396) \[Spirit\]](https://osu.ppy.sh/beatmapsets/953032#osu/1989886)
+  3. [TK from Ling tosite sigure - unravel (aishiteiru-) \[heroine's expert\]](https://osu.ppy.sh/beatmapsets/2287914#osu/4881613)
+  4. [cassie - me & u (succducc bootleg) (Kara Edit) (LeCandy) \[sunazuka akira's ex\]](https://osu.ppy.sh/beatmapsets/1938079#osu/4753272)
+  5. [Shoebill - top40kore (fergas) \[oh no wait, shoebill on owc\]](https://osu.ppy.sh/beatmapsets/2278184#osu/4855553)
+  6. [yuri - Heart111 (Shunaa) \[Kojio's Love?\]](https://osu.ppy.sh/beatmapsets/2199972#osu/4745173)
 - Hidden
-  1. [TrySail - adrenaline!!! (Rizia) \[Milan-'s Insane\]](https://osu.ppy.sh/beatmapsets/613347#fruits/1355859)
-  2. [Sasuke Haraguchi feat. Kasane Teto - Hontono (Madoka Ayukawa) \[Kagamine Rin's Expert\]](https://osu.ppy.sh/beatmapsets/2306254#fruits/4931683)
-  3. [Lon - Yuru Fuwa Jukai Girl (Plasma) \[plambob\]](https://osu.ppy.sh/beatmapsets/2179165#fruits/4602542)
+  1. [Hatsune Miku - Atama no Taisou (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/40344#osu/131286)
+  2. [Tsukuyomi - Mayday (Defy) \[lealu's Another\]](https://osu.ppy.sh/beatmapsets/1710570#osu/3509725)
+  3. [SWAN K feat. Asuka M - LOVE B.B.B (Rita Summers) \[subahibi's Atomosphere\]](https://osu.ppy.sh/beatmapsets/1693764#osu/4637234)
 - Hard Rock
-  1. [Kaarija x Erika Vikman - Ruoska (Eterdesp) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2134016#fruits/4489714)
-  2. [gmtn. (witch's slave) - Daraku no Sono (yf\_bmp) \[SB's Extra\]](https://osu.ppy.sh/beatmapsets/1470956#fruits/3302302)
-  3. [Kishida Kyoudan & The Akeboshi Rockets - Maiden's Capriccio (- Sukii -) \[Shrine Maiden\]](https://osu.ppy.sh/beatmapsets/1813324#fruits/3719803)
+  1. [Feryquitous - Strahv (Rumia-) \[RE:STRAHV\]](https://osu.ppy.sh/beatmapsets/634143#osu/4899798)
+  2. [capsule - GO! GO! Fine Day (milr\_) \[Expert\]](https://osu.ppy.sh/beatmapsets/2265532#osu/4823579)
+  3. [Yodare_PF - Knock-Knock (Lince Cosmico) \[play trails\]](https://osu.ppy.sh/beatmapsets/1828589#osu/3752966)
 - Double Time
-  1. [Masatoshi Ono - departure! (Malphs) \[endless journey!\]](https://osu.ppy.sh/beatmapsets/2149858#fruits/4529168)
-  2. [Official HIGE DANdism - Shukumei (alevi) \[Celebration\]](https://osu.ppy.sh/beatmapsets/1773551#fruits/3631356)
-  3. [Kawada Mami - FIXED STAR (Reiji Maigo) \[awa\]](https://osu.ppy.sh/beatmapsets/1550367#fruits/3168103)
+  1. [Akatsuki Records - Aquamarine Eyes (Nessy) \[Mermaid\]](https://osu.ppy.sh/beatmapsets/2325270#osu/4984143)
+  2. [DiGiTAL WiNG - Paranoia (DiGiTAL WiNG 2018 LIVE MIX) (228) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2072915#osu/4338125)
+  3. [sakuzyo feat. Hatsune Miku - ChaiN De/structioN (Shiirn) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/49071#osu/154165)
+  4. [Rina Sawayama - XS (AJT) \[yaspo's XS\]](https://osu.ppy.sh/beatmapsets/1595537#osu/3258973)
 - Free Mod
-  1. [Haru Nemuri - Narashite (wafer) \[ar edit\]](https://osu.ppy.sh/beatmapsets/2141379#fruits/4767855)
-  2. [seleP - Re;2 (P\_O) \[This background reminds me of a certain farm map\]](https://osu.ppy.sh/beatmapsets/2238720#fruits/4757236)
+  1. [onoken feat. Natsukawa Yoko - Sakimori Souka (Crissa) \[a\]](https://osu.ppy.sh/beatmapsets/1562092#osu/3190050)
+  2. [Sound Horizon - Raijin no Hidariude (PaRaDogi) \[Satellite's Extra\]](https://osu.ppy.sh/beatmapsets/2166404#osu/4570593)
+  3. [Ryokuoushoku Shakai - inori (Miy) \[for you\]](https://osu.ppy.sh/beatmapsets/1915271#osu/4458840)
 - Tiebreaker
-  1. **[Release Hallucination - VANITAS (Mordred) \[The Silent Lament of Broken Wings\]](https://osu.ppy.sh/beatmapsets/2095177#fruits/4393066)**
+  1. **[Yooh - MariannE (Camo) \[Labyrinth\]](https://osu.ppy.sh/beatmapsets/1550633#osu/3168656)**
 
 ### Quarterfinals
 
