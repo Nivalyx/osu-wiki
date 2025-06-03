@@ -282,18 +282,17 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 2)
 
-Saturday, 1 February 2025:
+Saturday, 24 May 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **naruto when** | **7** | 4 | Red Hawk | [#1](https://osu.ppy.sh/community/matches/117031360) |
+| Lower | **#PEGAONTOP** | **8** | 3 | 5 Melon 1 Korean | [#1](https://osu.ppy.sh/community/matches/118181969) |
 
-Sunday, 2 February 2025:
+Sunday, 25 May 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | common madcin L | 5 | **7** | **naruto when** | [#1](https://osu.ppy.sh/community/matches/117037050) |
-| Grand Final (bracket reset) | **naruto when** | **7** | 2 | common madcin L | [#1](https://osu.ppy.sh/community/matches/117038512) |
+| Grand Final | **最tua & 黒 se世界** | **8** | 7 | #PEGAONTOP | [#1](https://osu.ppy.sh/community/matches/118195503) |
 
 ### Finals (week 1)
 
