@@ -442,7 +442,7 @@ Sunday, 13 April 2025:
 
 1. Players are required to register individually through [the tournament's Discord server](https://discord.gg/ZRwjx76ZKa).
    - In order to be eligible to play in the tournament, a player must have the ::{ flag=ID }:: Indonesian flag displayed on their profile.
-   - By registering, the player consents that they are able and willing to act as a team captain should the tournament management choose them to be.
+   - By registering, the player consents that they are able and willing to perform as a team captain should the tournament management choose them to be.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
