@@ -407,6 +407,13 @@ Saturday, 12 April 2025:
 | SW1-2 | **最tua & 黒 se世界** | 6 | 3 | gw ngikut aj | [#1](https://osu.ppy.sh/community/matches/117769856) |
 | SW1-4 | **SpeedBus Pasuruan** | 6 | 2 | Pengawal Mama | [#1](https://osu.ppy.sh/community/matches/117769425) |
 
+Sunday, 13 April 2025:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| SW1-6 | **#PEGAONTOP** | 6 | 4 | 最tua & 黒 se世界 | [#1](https://osu.ppy.sh/community/matches/117783265) |
+| SW1-3 | **5 Melon 1 Korean** | 6 | 2 | santoso gacor | [#1](https://osu.ppy.sh/community/matches/117781497) |
+
 ## Ruleset
 
 ### General rules
