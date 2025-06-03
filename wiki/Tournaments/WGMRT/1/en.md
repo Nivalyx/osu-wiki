@@ -352,10 +352,10 @@ Sunday, 5 January 2025:
 | 2 | 最tua & 黒 se世界 | 14 | 5 | 1 | +20 |
 | 3 | #PEGAONTOP | 10 | 4 | 2 | +5 |
 | 4 | gw ngikut aj | 6 | 3 | 3 | +2 |
-| 5 | geoguessr | 4 |
-| 6 | blind people | 3.5 |
-| 7 | Spacediver | 3 |
-| 8 | Stelle x Trash Can | 3 |
+| 5 | santoso gacor | 5 | 3 | 3 | -3 |
+| 6 | apa aja lah bebas | 2 | 2 | 4 | -7 |
+| 7 | SpeedBus Pasuruan | -1 | 1 | 5 | -10 |
+| 8 | Pengawal Mama | -6 | 0 | 6 | -27 |
 
 Saturday, 14 December 2025:
 
