@@ -395,6 +395,14 @@ Sunday, 20 April 2025:
 | SW2-6 | SpeedBus Pasuruan | 4 | **6** | **#PEGAONTOP** | [#1](https://osu.ppy.sh/community/matches/117852314) |
 | SW2-3 | apa aja lah bebas | 2 | **6** | **最tua & 黒 se世界** | [#1](https://osu.ppy.sh/community/matches/117851534) |
 | SW2-7 | **gw ngikut aj** | 6 | 2 | SpeedBus Pasuruan | [#1](https://osu.ppy.sh/community/matches/117853779) |
+| SW2-5 | #PEGAONTOP | 2 | **6** | **5 Melon 1 Korean** | [#1](https://osu.ppy.sh/community/matches/117850095) |
+
+#### Swiss round (week 1)
+
+Saturday, 12 April 2025:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 
 ## Ruleset
 
