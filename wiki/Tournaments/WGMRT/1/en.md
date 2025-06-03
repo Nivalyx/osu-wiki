@@ -383,9 +383,18 @@ Saturday, 19 April 2025:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| SW2-8 | **5 Melon 1 Korean** | **6** | 4 | gw ngikut aj | [#1](https://osu.ppy.sh/community/matches/117841171) |
 | SW2-1 | Pengawal Mama | 2 | **6** | **apa aja lah bebas** | [#1](https://osu.ppy.sh/community/matches/117837531) |
 | SW2-4 | **最tua & 黒 se世界** | 6 | 2 | santoso gacor | [#1](https://osu.ppy.sh/community/matches/117840700) |
+| SW2-8 | **5 Melon 1 Korean** | **6** | 4 | gw ngikut aj | [#1](https://osu.ppy.sh/community/matches/117841171) |
+| SW2-2 | **santoso gacor** | 6 | 1 | Pengawal Mama | [#1](https://osu.ppy.sh/community/matches/117843117) |
+
+Sunday, 20 April 2025:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| SW2-6 | SpeedBus Pasuruan | 4 | **6** | **#PEGAONTOP** | [#1](https://osu.ppy.sh/community/matches/117852314) |
+| SW2-3 | apa aja lah bebas | 2 | **6** | **最tua & 黒 se世界** | [#1](https://osu.ppy.sh/community/matches/117851534) |
+| SW2-7 | **gw ngikut aj** | 6 | 2 | SpeedBus Pasuruan | [#1](https://osu.ppy.sh/community/matches/117853779) |
 
 ## Ruleset
 
