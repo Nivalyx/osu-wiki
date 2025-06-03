@@ -508,6 +508,6 @@ Sunday, 13 April 2025:
    - Playing Easy along with Hidden + Easy and Hard Rock along with Hidden + Hard Rock does not count as an unique mod combination.
    - Easy mod will have a `2x` multiplier flat.
    - Playing a Free Mod pick without any mods applied is not allowed.
-7. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with Hidden, Hard Rock, or Hidden + Hard Rock should they wish to. 
+6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with mods should they wish to. 
    - Playing the tiebreaker map with a mod is *not* mandatory.
-8. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
