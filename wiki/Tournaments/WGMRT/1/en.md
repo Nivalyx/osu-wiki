@@ -55,11 +55,10 @@ The We Go March! retot's Tournament was run by various osu! community members fr
 
 ## Links
 
-- **[Official website](https://wybin.xyz/tournaments/icc2024)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1991639)
-- [Discord server](https://discord.gg/PDVF3tbhY8)
-- [Challonge brackets](https://challonge.com/ICC_2024)
-- [Livestream channel](https://www.twitch.tv/osucatchid)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1tlYiTyjdFNLcOSu9kKjd_gEkOV5mDdXJcr-2r5iXtkE/edit?usp=sharing)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/2053548)
+- [Discord server](https://discord.gg/ZRwjx76ZKa)
+- [Livestream channel](https://www.twitch.tv/rethinkrubix)
 
 ## Participants
 
