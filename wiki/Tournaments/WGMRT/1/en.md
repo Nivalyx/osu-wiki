@@ -8,7 +8,7 @@ tags:
 
 ![We Go March! retot's Tournament banner](img/banner.jpg)
 
-The **We Go March! retot's Tournament** (***WGMRT***) was a double-elimination 3v3 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) (retot). The tournament was held following a [draft format](https://en.wikipedia.org/wiki/Draft_(sports)) and was open to all players from Indonesia without an active tournament ban regardless of rank. It was the first iteration of the We Go March! retot's Tournament.
+The **We Go March! retot's Tournament** (***WGMRT***) was a double-elimination 3v3 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) (retot). The tournament was held following a [draft format](https://en.wikipedia.org/wiki/Draft_(sports)) and was open to all players from Indonesia within the #1,000 - #50,000 rank range in the osu! game mode at the time of registration. It was the first iteration of the We Go March! retot's Tournament.
 
 ## Tournament schedule
 
