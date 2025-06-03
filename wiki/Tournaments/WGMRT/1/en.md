@@ -20,10 +20,10 @@ The **We Go March! retot's Tournament** (***WGMRT***) was a double-elimination 3
 | Swiss round (week 1) | 2025-04-07/2025-04-13 |
 | Swiss round (week 2) | 2025-04-14/2025-04-20 |
 | Swiss round (week 3) | 2025-04-21/2025-04-27 |
-| Quarterfinals | 2024-12-30/2023-01-05 |
-| Semifinals | 2025-01-06/2023-01-12 |
-| Finals (week 1) | 2025-01-13/2025-01-19 |
-| Finals (week 2) | 2025-01-27/2025-02-02 |
+| Quarterfinals | 2025-04-28/2025-05-04 |
+| Semifinals | 2025-05-05/2025-05-11 |
+| Finals (week 1) | 2025-05-12/2025-05-18 |
+| Finals (week 2) | 2025-05-19/2025-05-25 |
 
 ## Prizes
 
