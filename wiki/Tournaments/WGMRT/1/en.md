@@ -307,7 +307,8 @@ Sunday, 19 January 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Capo so cute v3 | 6 | **7** | **Red Hawk** | [#1](https://osu.ppy.sh/community/matches/116872764) |
+| Lower | **5 Melon 1 Korean** | **8** | 6 | apa aja lah bebeas | [#1](https://osu.ppy.sh/community/matches/118128494) |
+| Lower | #PEGAONTOP | 5 | **8** | **最tua & 黒 se世界** | [#1](https://osu.ppy.sh/community/matches/118128299) |
 
 ### Semifinals
 
