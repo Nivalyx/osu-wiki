@@ -498,11 +498,9 @@ Sunday, 13 April 2025:
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each team has to **ban one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match. 
+2. Each team has to **ban two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any team during the entire match. 
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
-   - Banning does not apply in the Qualifier lobbies.
-3. Each team will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
-   - Playing a warm-up beatmap is not mandatory, and teams may elect to skip their warm-up pick should they wish to.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Teams are expected to exercise common sense in pick time windows.
    - Teams are given 2 minutes to pick a beatmap and 2 minutes to press the Ready button on their client.
    - If a team is unable to come up with a pick within their time window, the pick will be chosen by random by the referee using the `!roll X` command.
