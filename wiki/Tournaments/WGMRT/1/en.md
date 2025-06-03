@@ -307,8 +307,8 @@ Sunday, 18 January 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **5 Melon 1 Korean** | **8** | 6 | apa aja lah bebeas | [#1](https://osu.ppy.sh/community/matches/118128494) |
 | Upper | #PEGAONTOP | 5 | **8** | **最tua & 黒 se世界** | [#1](https://osu.ppy.sh/community/matches/118128299) |
+| Lower | **5 Melon 1 Korean** | **8** | 6 | apa aja lah bebeas | [#1](https://osu.ppy.sh/community/matches/118128494) |
 
 ### Semifinals
 
@@ -328,31 +328,19 @@ Sunday, 11 May 2025:
 
 ### Quarterfinals
 
-Saturday, 4 January 2025:
+Saturday, 3 May 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **:tac:** | **6** | 2 | ctb = danmaku | [#1](https://osu.ppy.sh/community/matches/116708422) |
-| Lower | Maid Girl UwU | 4 | **6** | **PICK DT2!!1!!11** | [#1](https://osu.ppy.sh/community/matches/116710749) |
-| Lower | **Haters in Abyss** | **6** | 0 | pending | [#1](https://osu.ppy.sh/community/matches/116712129) |
-| Lower | **OldCloudPlayers** | **6** | 2 | Mr. Ladybug | [#1](https://osu.ppy.sh/community/matches/116710770) |
-| Lower | **Jump the Beat** | **6** | 0 | NoApple4 | [#1](https://osu.ppy.sh/community/matches/116708762) |
-| Lower | **+4 ARAM** | **6** | 1 | Seed \#33 | [#1](https://osu.ppy.sh/community/matches/116711507) |
-| Lower | **GiGiLuNi** | **6** | 2 | D. Continental | [#1](https://osu.ppy.sh/community/matches/116710794) |
-| Lower | **:cat:** | **6** | 0 | NSMBW | [#1](https://osu.ppy.sh/community/matches/116708138) |
+| Upper | **#PEGAONTOP** | **7** | 5 | apa aja lah bebas | [#1](https://osu.ppy.sh/community/matches/117982806) |
 
 Sunday, 5 January 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **:tac:** | **6** | 1 | Jump the Beat | [#1](https://osu.ppy.sh/community/matches/116720250) |
-| Lower | Haters in Abyss | 3 | **6** | **+4 ARAM** | [#1](https://osu.ppy.sh/community/matches/116722571) |
-| Upper | **Capo so cute v3** | **6** | 0 | Steam Happy | [#1](https://osu.ppy.sh/community/matches/116720591) |
-| Upper | **Red Hawk** | **6** | 4 | OwOgres | [#1](https://osu.ppy.sh/community/matches/116723132) |
-| Upper | **common madcin L** | **6** | 0 | EUphoria | [#1](https://osu.ppy.sh/community/matches/116721937) |
-| Upper | **naruto when** | **6** | 1 | you tell me | [#1](https://osu.ppy.sh/community/matches/116722561) |
-| Lower | **GiGiLuNi** | **6** | 1 | PICK DT2!!1!!11 | [#1](https://osu.ppy.sh/community/matches/116723704) |
-| Lower | **:cat:** | **6** | 2 | OldCloudPlayers | [#1](https://osu.ppy.sh/community/matches/116721954) |
+| Upper | **最tua & 黒 se世界** | **7** | 3 | SpeedBus Pasuruan | [#1](https://osu.ppy.sh/community/matches/117993016) |
+| Upper | gw ngikut aj | 6 | **7** | **santoso gacor** | [#1](https://osu.ppy.sh/community/matches/117993252) |
+| Upper | **5 Melon 1 Korean** | **7** | 2 | Pengawal Mama | [#1](https://osu.ppy.sh/community/matches/117992163) |
 
 ### Round of 16
 
