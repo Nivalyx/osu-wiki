@@ -252,25 +252,31 @@ This competition has come to an end and resulted in the following podium:
   3. [Masarada - Outlaws (soncak) \[Hachiko The Good, The Bad Expert\]](https://osu.ppy.sh/beatmapsets/2208906#osu/4812697)
 - Tiebreaker
   1. **[Para Dot. - Hyper banquet (Alvearia) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2009605#osu/4266048)**
+
 ### Swiss round (week 1)
 
 - No Mod
-  1. [Kano - Yuudachi no Ribbon (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/456237#fruits/977770)
-  2. [32ki feat. Hatsune Miku & Kasane Teto - Mesmerizer (Nathan) \[hypnosis\]](https://osu.ppy.sh/beatmapsets/2215986#fruits/4695360)
+  1. [Ryokuoushoku Shakai - Hazukashiika Seishunwa (Ninjaking311) \[Beloved\]](https://osu.ppy.sh/beatmapsets/2216592#osu/4697379)
+  2. [technoplanet - Juvenile (Astronic) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1280204#osu/2826730)
+  3. [Tsukuyomi - Noisy Rainy (Petal) \[Ame\]](https://osu.ppy.sh/beatmapsets/2254451#osu/4795591)
+  4. [osaili - Au (Gancher & Ruin Remix) (evth) \[Azrulk & Ishtiaq's Extreme\]](https://osu.ppy.sh/beatmapsets/2268589#osu/4915942)
+  5. [tv room - Say It Back (wafer) \[for\_a\_dead\_girl\_+\]](https://osu.ppy.sh/beatmapsets/1759488#osu/3601018)
 - Hidden
-  1. [ginkiha - Shadow Castle (JeZag) \[destiny's Opal\]](https://osu.ppy.sh/beatmapsets/1859697#fruits/4180832)
-  2. [Kairiki bear feat. Hatsune Miku - BUG (sukii) \[Lost Extra\]](https://osu.ppy.sh/beatmapsets/1796464#fruits/4058452)
+  1. [Mili - String Theocracy (chests) \[Theater Symphony\]](https://osu.ppy.sh/beatmapsets/1437122#osu/2956889)
+  2. [Shubh Saran - Slip (defiance) \[4/20\]](https://osu.ppy.sh/beatmapsets/1543028#osu/3154009)
 - Hard Rock
-  1. [BUTAOTOME - Yurara Kamishibai (sstari) \[Expert\]](https://osu.ppy.sh/beatmapsets/2148067#fruits/4717103)
-  2. [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- (yf\_bmp) \[-Visceral-'s Extreme\]](https://osu.ppy.sh/beatmapsets/714552#fruits/2592033)
+  1. [Mitei no Hanashi - Yoru wo Koeru Ashioto (nooj) \[dooe x nooj Collab Extra\]](https://osu.ppy.sh/beatmapsets/1795843#osu/3682372)
+  2. [EmoCosine x BEMANI Sound Team "HuMeR" - KOTONOHA feat. Kotoha (SUISEI69) \[Black Another\]](https://osu.ppy.sh/beatmapsets/2266409#osu/4825744)
 - Double Time
-  1. [Dark PHOENiX - Taketori Hishou (Heilia) \[diuS' Lunatic\]](https://osu.ppy.sh/beatmapsets/1893810#fruits/4008397)
-  2. [Takahashi Yoko - Zankoku na Tenshi no These (Director's Edit. Ver.) (Net0) \[Extra\]](https://osu.ppy.sh/beatmapsets/1164031#fruits/2428270)
+  1. [Cartoon - Whatever I Do (feat. Kostja) (TritoBandito) \[Luminescent Night-Sky\]](https://osu.ppy.sh/beatmapsets/2312663#osu/4948415)
+  2. [TK from Ling tosite sigure - first death (aishiteiru-) \[collab insane\]](https://osu.ppy.sh/beatmapsets/2033133#osu/4476512)
+  3. [Paraoka - L9 (Irreversible) \[Hobbes2's Insane\]](https://osu.ppy.sh/beatmapsets/481143#osu/1032570)
 - Free Mod
-  1. [ETIA. feat. Jenga - Say A Vengeance (Foreverends) \[Ends\]](https://osu.ppy.sh/beatmapsets/174470#fruits/421238)
-  2. [glass beach - cold weather (alexiiosu) \[i love the way you make me feel\]](https://osu.ppy.sh/beatmapsets/1512409#fruits/3096787)
+  1. [Yorushika - Hole In The Heart (alevi) \[lando's Extra\]](https://osu.ppy.sh/beatmapsets/1631189#osu/3345471)
+  2. [TOMOSUKE - Macuilxochitl (Raijodo) \[Advanced\]](https://osu.ppy.sh/beatmapsets/1621894#osu/3318980)
+  3. [Diceros Bicornis - ReviveR (Naylicia) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/1560235#osu/3290841)
 - Tiebreaker
-  1. **[meganeko - The Cyber Grind (Icekalt) \[Killing Spree ft. Niva\]](https://osu.ppy.sh/beatmapsets/1663147#fruits/3395033)**  
+  1. **[vally.exe - oyasumination (nooj) \[5.9722 x 10^24 kg\]](https://osu.ppy.sh/beatmapsets/2061188#osu/4308932)**
 
 ## Match results
 
