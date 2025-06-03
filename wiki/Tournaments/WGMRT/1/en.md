@@ -383,8 +383,9 @@ Saturday, 19 April 2025:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| SW2-8 | **5 Melon 1 Korean** | 6 | 4 | gw ngikut aj | [#1](https://osu.ppy.sh/community/matches/117841171) |
+| SW2-8 | **5 Melon 1 Korean** | **6** | 4 | gw ngikut aj | [#1](https://osu.ppy.sh/community/matches/117841171) |
 | SW2-1 | Pengawal Mama | 2 | **6** | **apa aja lah bebas** | [#1](https://osu.ppy.sh/community/matches/117837531) |
+| SW2-4 | **最tua & 黒 se世界** | 6 | 2 | santoso gacor | [#1](https://osu.ppy.sh/community/matches/117840700) |
 
 ## Ruleset
 
