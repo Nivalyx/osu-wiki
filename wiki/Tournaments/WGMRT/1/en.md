@@ -88,30 +88,32 @@ This competition has come to an end and resulted in the following podium:
 ### Finals (week 2)
 
 - No Mod
-  1. [Laur - Afflict (feat. Risa Yuzuki) (R3m) \[FINAL\]](https://osu.ppy.sh/beatmapsets/1618700#fruits/3304843)
-  2. [t+pazolite - Nekosogi Destruction (quantumvortex) \[Firestorm\]](https://osu.ppy.sh/beatmapsets/2199864#fruits/4655647)
-  3. [Freezer - Narcissus At Oasis (Freezer Remix) (EijiKuinbii) \[Master\]](https://osu.ppy.sh/beatmapsets/614615#fruits/1442992)
-  4. [katagiri - Code Name: Romeo (Nozuchi) \[Surreality\]](https://osu.ppy.sh/beatmapsets/2028145#fruits/4226273)
-  5. [P-MODEL - LAB=01 (Starroddkirby86) \[Stealthman\]](https://osu.ppy.sh/beatmapsets/1550895#fruits/3169255)
+  1. [BUTAOTOME - Trauma Recorder (bad boy) \[Pain\]](https://osu.ppy.sh/beatmapsets/2047602#osu/4274997)
+  2. [BilliumMoto - Sentinel (Elcheer) \[Dismay\]](https://osu.ppy.sh/beatmapsets/2238437#osu/4756451)
+  3. [Kuhaku Gokko - Zettai Zetsumei (jiwoas) \[Anguish\]](https://osu.ppy.sh/beatmapsets/2372818#osu/5122631)
+  4. [Vorso - Honx (Xarr) \[Dissidence\]](https://osu.ppy.sh/beatmapsets/1564690#osu/3195227)
+  5. [Blind Stare - Shotgun Symphony+ (awp) \[Impossibly Intense\]](https://osu.ppy.sh/beatmapsets/7671#osu/32570)
+  6. [Nhato - Virus Funk (-kevincela-) \[Zelq's chonk Z\]](https://osu.ppy.sh/beatmapsets/2114086#osu/4876662)
 - Hidden
-  1. [Sasuke Haraguchi - Cubibibibism (Seox) \[seocky collab\]](https://osu.ppy.sh/beatmapsets/2230191#fruits/4732604)
-  2. [GARBAGECAN - Rebellious automaton (Shinjuko) \[Destined Ascension\]](https://osu.ppy.sh/beatmapsets/2273165#fruits/4842619)
-  3. [Rohi feat. Kagamine Rin - Kakuzetsu Thanatos (YaMaDarknesss) \[Collaboration of The End\]](https://osu.ppy.sh/beatmapsets/2205703#fruits/4669813)
+  1. [TERRA - EDEN (Djulus) \[Rakuen\]](https://osu.ppy.sh/beatmapsets/1770934#osu/3625243)
+  2. [saaa + kei_iwata + stuv + *wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#osu/4622520)
+  3. [Franchouchou - Saga Jihen (jiwoas) \[Lust\]](https://osu.ppy.sh/beatmapsets/2358747#osu/5082473)
 - Hard Rock
-  1. [UNDEAD CORPORATION - Everything will freeze (LeCandy) \[Camo's Extra Stage\]](https://osu.ppy.sh/beatmapsets/2128889#fruits/4521012)
-  2. [cosMo\@Bousou-P - End Mark ni Kibou to Namida wo soete (iljaaz) \[Rising\]](https://osu.ppy.sh/beatmapsets/898712#fruits/1877419)
-  3. [Thaehan - Help (\_Epreus) \[Nostalgic Reminiscence\]](https://osu.ppy.sh/beatmapsets/977631#fruits/2046116)
+  1. [Kawada Mami - Serment (Flame Haze) \[the end.\]](https://osu.ppy.sh/beatmapsets/2206912#osu/4673039)
+  2. [P4koo - Crystal Illusion (milr\_) \[Expert\]](https://osu.ppy.sh/beatmapsets/2267934#osu/4829693)
+  3. [ASA - Assault TAXI (Farore) \[Bazuso's Extra\]](https://osu.ppy.sh/beatmapsets/2301619#osu/5028212)
 - Double Time
-  1. [Saiya - Remote Control (Linada) \[Take Control!\]](https://osu.ppy.sh/beatmapsets/530445#fruits/1221602)
-  2. [Chata - Remind (Patchouli) \[Overdrive!!\]](https://osu.ppy.sh/beatmapsets/37292#fruits/120030)
-  3. [Lil Uzi Vert feat. Bring Me The Horizon - Werewolf (chests) \[Awoo\]](https://osu.ppy.sh/beatmapsets/2072374#fruits/4336970)
-  4. [ZUN - Guuzou ni Sekai o Yudanete \~ Idoratrize World (Halfslashed) \[Shurelia's Heritage\]](https://osu.ppy.sh/beatmapsets/1813899#fruits/3929565)
-- Mixed Mod
-  1. [:) feat. KAFU - Ren'ai Heiki! Lethal Weapon-chan (- akiira -) \[0ugi's Ultra\]](https://osu.ppy.sh/beatmapsets/1832014#fruits/3889557)
-  2. [Kairiki Bear - Mellomelloid (dectopia) \[:heart\_eyes:\]](https://osu.ppy.sh/beatmapsets/2261253#fruits/4812838)
-  3. [Hino Isuka - Dreamin' attraction!! (Extended) (lahphnya) \[AR9.5\]](https://osu.ppy.sh/beatmapsets/450340#fruits/966202)
+  1. [Akatsuki Records - KARMANATIONS (papapa213) \[dahkjdas' Insane\]](https://osu.ppy.sh/beatmapsets/2238312#osu/5053783)
+  2. [Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix (My Angel Azusa) \[Satellite's Lunatic\]](https://osu.ppy.sh/beatmapsets/514980#osu/1096903)
+  3. [Reol - +Danshi (Heilia) \[kowari's Insane\]](https://osu.ppy.sh/beatmapsets/1947994#osu/4990977)
+  4. [Lia - Tori no Uta (Luscent) \[Air\]](https://osu.ppy.sh/beatmapsets/1836970#osu/3771851)
+- Free Mod
+  1. [RYO - Shuffle Heaven (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/30682#osu/118971)
+  2. [ARForest - Qesia (Imokora) \[lu^3 carry me\]](https://osu.ppy.sh/beatmapsets/1744946#osu/3568936)
+  3. [Annabel - wormhole (NBA YOUNGBOY) \[adham njegur got\]](https://osu.ppy.sh/beatmapsets/2367621#osu/5107430)
+  4. [NECRY TALKIE - bloom (Jucky) \[VS THE WORLD\]](https://osu.ppy.sh/beatmapsets/2097177#osu/4398238)
 - Tiebreaker
-  1. **[Camellia - Flamewall (Sotarks) \[ETERNAL SACRED FIRE\]](https://osu.ppy.sh/beatmapsets/1533028#fruits/3135149)**
+  1. **[nm-y as "Vanquisher" - Chronodivinity (DeviousPanda) \[Panda & Camo's Chronos\]](https://osu.ppy.sh/beatmapsets/2023031#osu/4213728)**
 
 ### Finals (week 1)
 
