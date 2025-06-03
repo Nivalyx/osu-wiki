@@ -177,27 +177,31 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 - No Mod
-  1. [Bring Me The Horizon - AmEN! feat. Lil Uzi Vert & Daryl Palumbo of Glassjaw (Eterdesp) \[EpIpHAnY oF HuMaNiTY!\]](https://osu.ppy.sh/beatmapsets/2085178#fruits/4482732)
-  2. [HIMEHINA - Mother Drug (Vanya) \[Exalted\]](https://osu.ppy.sh/beatmapsets/2226999#fruits/4724370)
-  3. [Laur vs CK - Last Celebration (IAmSnowball) \[Ravalo's Glory Extreme\]](https://osu.ppy.sh/beatmapsets/1639502#fruits/3362316)
-  4. [LV.4 - Burning Star (ktgster) \[Nytro's Earthgrazer Extreme\]](https://osu.ppy.sh/beatmapsets/2095154#fruits/4452821)
+  1. [Saosin - It's So Simple (Kaifin) \[Sharkie's Ex\]](https://osu.ppy.sh/beatmapsets/424876#osu/917718)
+  2. [t+pazolite - chipscape (Shiirn) \[Ragnarok\]](https://osu.ppy.sh/beatmapsets/27752#osu/95382)
+  3. [Megurimeguru - Hakai (Sakagami Tomoyo) \[Extra\]](https://osu.ppy.sh/beatmapsets/2086133#osu/4370690)
+  4. [Rhode & IMANU - Of Two Minds (Azrulk) \[azrulk & ishtiaq's divergent echoes\]](https://osu.ppy.sh/beatmapsets/2212626#osu/4687858)
+  5. [Down - Down (Down) \[Down\]](https://osu.ppy.sh/beatmapsets/1880545#osu/3871587)
+  6. [Caravan Palace - Lone Digger (Axarious) \[ready set go\]](https://osu.ppy.sh/beatmapsets/417608#osu/904254)
 - Hidden
-  1. [Toby Fox & ZUN - U.N Owen Was Hero? (Local Hero) \[U.N. Owen Was Local, Shurelia, Yokespai, and Halfslashed?\]](https://osu.ppy.sh/beatmapsets/2164488#fruits/4860302)
-  2. [saaa + kei\_iwata + stuv + wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#fruits/4622520)
-  3. [Rita - Distant Promise (Hollow Wings) \[Kinomi's Ex\]](https://osu.ppy.sh/beatmapsets/2199286#fruits/4709246)
+  1. [Ricky Martin - Livin La Vida Loca (Elzix) \[Vida Loca\]](https://osu.ppy.sh/beatmapsets/1999714#osu/4157143)
+  2. [IOSYS - Hinarin no Yakui Kankei (Edit ver.) (Luscent) \[Amateurre's Extra\]](https://osu.ppy.sh/beatmapsets/2088431#osu/4390203)
+  3. [DJ TECHNORCH fw. GUHROOVY - KAMAITACHI (seros) \[-kevincela-'s BLACK ANOTHER\]](https://osu.ppy.sh/beatmapsets/2166351#osu/4605881)
 - Hard Rock
-  1. [Ducky Chix - Prayer (Taikuta) \[Specialist\]](https://osu.ppy.sh/beatmapsets/954556#fruits/1992818)
-  2. [F-777 - Unsafe Speeds (Nozhomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1311130#fruits/2717662)
-  3. [ZUN & ELEMENTAS (A-ONE) - Night Falls \~ Evening Stars (HonoKaze) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/745459#fruits/1571567)
+  1. [ELFENSJoN - Gensou wa Aoki Tsuki to Narite (Heto) \[Vanya's Extra\]](https://osu.ppy.sh/beatmapsets/2270186#osu/4997559)
+  2. [Tatsh - Xepher (Nemis) \[bgm's Extra\]](https://osu.ppy.sh/beatmapsets/101861#osu/4749503)
+  3. [A.SAKA - Nanatsu Momijiakari (xLolicore-) \[Scub's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1618334)
 - Double Time
-  1. [Mizukara o Enshutsu Suru Otome no Kai - Girlish Lover (- Ex -) \[Insane\]](https://osu.ppy.sh/beatmapsets/1956141#fruits/4052224)
-  2. [Yuuyu - Akutagawa Ryuunosuke no Kappa \~ Candid Friend (Halfslashed) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1703912#fruits/4042385)
-  3. [AAAA Chazuke - Myosotis no Hanataba (Elcheer) \[Forget Me Not\]](https://osu.ppy.sh/beatmapsets/2170021#fruits/4579550)
+  1. [KAKO - "if" (fnayR) \[love\]](https://osu.ppy.sh/beatmapsets/2355318#osu/5071440)
+  2. [wotoha - TESHiKANi (Amamya Kokoro) \[Jellyfish\]](https://osu.ppy.sh/beatmapsets/2019216#osu/4204894)
+  3. [Ito Kanako - GAME OVER (Deca) \[COLLAB;INSANE\]](https://osu.ppy.sh/beatmapsets/2039590#osu/4254424)
+  4. [Mili - Lemonade (Astrolis) \[over and over (edit)\]](https://osu.ppy.sh/beatmapsets/2078464#osu/4863472)
 - Free Mod
-  1. [raito - Beat Eat Nest (DeviousPanda) \[Expert\]](https://osu.ppy.sh/beatmapsets/2137956#fruits/4499443)
-  2. [capitaro - Tenshinranman High Collar Hime (dakiwii) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/2160056#fruits/4634934)
+  1. [KANKAN - Aijou Rettousei (SHOGUNMOON00999) \[RIRIKA RIRIKA!!!\]](https://osu.ppy.sh/beatmapsets/1711172#osu/4636292)
+  2. [Tatsuya Kitani - Night Routine (feat. suis from Yorushika) (Rtyzen) \[Remember\]](https://osu.ppy.sh/beatmapsets/2210530#osu/4682422)
+  3. [Chouchou-P feat. Hatsune Miku - White Prism (dkblaze) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1408763#osu/2904852)
 - Tiebreaker
-  1. **[Laur - Sound Chimera (Down) \[Chimera\]](https://osu.ppy.sh/beatmapsets/1910654#fruits/3941047)**
+  1. **[Shimotsuki Haruka - Secret Liqueur (Lasse) \[Collab\]](https://osu.ppy.sh/beatmapsets/751178#osu/1581544)**
 
 ### Swiss round (week 1)
 
