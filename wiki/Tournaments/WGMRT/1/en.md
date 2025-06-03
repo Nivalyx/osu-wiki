@@ -440,15 +440,15 @@ Sunday, 13 April 2025:
 
 ### Tournament registration
 
-1. In order to participate, players are required to register individually through [the tournament's Discord server](https://discord.gg/ZRwjx76ZKa).
-   - Each team may only enlist one player ranked #1 – #50 and one player ranked #50 – #100 according to [osupepe.com's convert ranking](https://osupepe.com) at the time of registration in their roster.
-2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
-   - Additionally, teams may also appoint one or more vice-captains who will be in charge of their team should the captain be unavailable.
-   - Team names may not violate the [osu! community rules](/wiki/Rules#community-rules).
-3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
-4. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
-5. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
-   - Eliminated players are free to enlist as replay providers for the later stages of the tournament in accordance to the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff). 
+1. Players are required to register individually through [the tournament's Discord server](https://discord.gg/ZRwjx76ZKa).
+   - In order to be eligible to play in the tournament, a player must have the ::{ flag=ID }:: Indonesian flag displayed on their profile.
+   - 
+2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
+4. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
+   - Eliminated players are free to enlist as replay providers for the later stages of the tournament in accordance to the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff).
+
+### Team matchmaking
 
 ### Round-specific rules
 
