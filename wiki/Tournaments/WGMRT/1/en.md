@@ -440,7 +440,7 @@ Sunday, 13 April 2025:
 
 ### Tournament registration
 
-1. In order to participate, players are required to form a team and register into the tournament as a team through [the tournament's website](https://wybin.xyz/tournaments/icc2024).
+1. In order to participate, players are required to register individually through [the tournament's Discord server](https://discord.gg/ZRwjx76ZKa).
    - Each team may only enlist one player ranked #1 – #50 and one player ranked #50 – #100 according to [osupepe.com's convert ranking](https://osupepe.com) at the time of registration in their roster.
 2. Each team has to submit a designated team captain and a team name to the tournament management before the end of the screening phase.
    - Additionally, teams may also appoint one or more vice-captains who will be in charge of their team should the captain be unavailable.
