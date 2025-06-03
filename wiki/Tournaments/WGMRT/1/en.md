@@ -506,8 +506,7 @@ Sunday, 13 April 2025:
    - If a team is unable to come up with a pick within their time window, the pick will be skipped and be given to their opponent as a free pick.
 5. In a Free Mod pick, teams must field at least two unique mod combinations from the list of allowed mods (Easy, Hidden, and Hard Rock). For the remaining players, enabling mods is optional.
    - Playing Easy along with Hidden + Easy and Hard Rock along with Hidden + Hard Rock does not count as an unique mod combination.
-   - Easy mod will have a `2x` multiplier flat.
-   - Playing a Free Mod pick without any mods applied is not allowed.
-6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with mods should they wish to. 
+   - Players opting to play with the Easy mod will have a `2x` multiplier flat added to their score.
+6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with any unique combination of the above mods should they wish to. 
    - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
