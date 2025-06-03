@@ -403,6 +403,9 @@ Saturday, 12 April 2025:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| SW1-8 | **santoso gacor** | 6 | 5 | SpeedBus Pasuruan | [#1](https://osu.ppy.sh/community/matches/117770446) |
+| SW1-2 | **最tua & 黒 se世界** | 6 | 3 | gw ngikut aj | [#1](https://osu.ppy.sh/community/matches/117769856) |
+| SW1-4 | **SpeedBus Pasuruan** | 6 | 2 | Pengawal Mama | [#1](https://osu.ppy.sh/community/matches/117769425) |
 
 ## Ruleset
 
