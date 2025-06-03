@@ -27,13 +27,13 @@ The **We Go March! retot's Tournament** (***WGMRT***) was a double-elimination 3
 
 ## Prizes
 
+The We Go March! retot's Tournament offered an initial prize pool of 1,000,000 IDR as generously provided by the tournament's staffs. This prize pool was further increased from community donations.
+
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 16 USD or 6 months of osu!supporter for each team member, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 12 USD or 4 months of osu!supporter for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 8 USD or 2 months of osu!supporter for each team member |
-
-![](img/badge.png "ICC 2024 winner badge")
 
 ## Organisation
 
