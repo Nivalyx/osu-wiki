@@ -351,7 +351,7 @@ Sunday, 5 January 2025:
 | 1 | 5 Melon 1 Korean | 18 | 6 | 0 | +20 |
 | 2 | 最tua & 黒 se世界 | 14 | 5 | 1 | +20 |
 | 3 | #PEGAONTOP | 10 | 4 | 2 | +5 |
-| 4 | maimai | 4.5 |
+| 4 | gw ngikut aj | 6 | 3 | 3 | +2 |
 | 5 | geoguessr | 4 |
 | 6 | blind people | 3.5 |
 | 7 | Spacediver | 3 |
@@ -382,79 +382,6 @@ Sunday, 15 December 2024:
 | Upper | **common madcin L** | **5** | 0 | OldCloudPlayers | [#1](https://osu.ppy.sh/community/matches/116506519) |
 | Upper | **EUphoria** | **5** | 3 | :cat: | [#1](https://osu.ppy.sh/community/matches/116506492) |
 | Lower | Sightread Gaming | 0 | **5** | **pending** | *win by default* |
-
-### Round of 32
-
-Saturday, 7 December 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **:tac:** | **5** | 2 | Mr. Ladybug | [#1](https://osu.ppy.sh/community/matches/116425376) |
-| Upper | D. Continental | 1 | **5** | **+4 ARAM** | [#1](https://osu.ppy.sh/community/matches/116424056) |
-| Upper | **Red Hawk** | **5** | 0 | Bashame X Osaka | [#1](https://osu.ppy.sh/community/matches/116419992) |
-| Upper | **Haters in Abyss** | **5** | 1 | PICK DT2!!1!!11 | [#1](https://osu.ppy.sh/community/matches/116425358) |
-| Upper | **you tell me** | **5** | 1 | Barely Managing | [#1](https://osu.ppy.sh/community/matches/116426062) |
-| Upper | **common madcin L** | **5** | 0 | Convert noob | [#1](https://osu.ppy.sh/community/matches/116424610) |
-| Upper | **:cat:** | **5** | 3 | NoApple4 | [#1](https://osu.ppy.sh/community/matches/116423556) |
-
-Sunday, 8 December 2024:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **OldCloudPlayers** | **5** | 0 | ctb = danmaku | [#1](https://osu.ppy.sh/community/matches/116437251) |
-| Upper | **GiGiLuNi** | **5** | 2 | Seed \#33 | [#1](https://osu.ppy.sh/community/matches/116438573) |
-| Upper | **naruto when** | **5** | 0 | Fate | [#1](https://osu.ppy.sh/community/matches/116438544) |
-| Upper | **Jump the Beat** | **5** | 2 | NSMBW | [#1](https://osu.ppy.sh/community/matches/116435080) |
-| Upper | **EUphoria** | **5** | 0 | turu | [#1](https://osu.ppy.sh/community/matches/116437381) |
-| Upper | **OwOgres** | **5** | 1 | Colo-Colo | [#1](https://osu.ppy.sh/community/matches/116439131) |
-| Upper | **Capo so cute v3** | **5** | 0 | Sightread Gaming | [#1](https://osu.ppy.sh/community/matches/116435735) |
-| Upper | **Steam Happy** | **5** | 0 | Ciel Enchanteur | *win by default* |
-| Upper | **Maid Girl UwU** | **5** | 0 | pending | *win by default* |
-
-### Qualifiers
-
-Detailed information on the standings of the Qualifier stage can be found in [the following spreadsheet](https://docs.google.com/spreadsheets/d/1Fut4e4ABYano1sYGa6wokzx9kqEFaVwyfaufN1YzoZU/edit?usp=sharing).
-
-| Seed | Team name | Avg. rank |
-| :-: | :-- | --: |
-| 1 | naruto when | 2.63 |
-| 2 | common madcin L | 3.00 |
-| 3 | Capo so cute v3 | 4.25 |
-| 4 | Red Hawk | 4.50 |
-| 5 | OwOgres | 5.63 |
-| 6 | Steam Happy | 5.88 |
-| 7 | EUphoria | 7.38 |
-| 8 | you tell me | 8.75 |
-| 9 | Haters in Abyss | 10.75 |
-| 10 | :cat: | 11.75 |
-| 11 | GiGiLuNi | 12.00 |
-| 12 | :tac: | 12.50 |
-| 13 | Jump the Beat | 14.63 |
-| 14 | Maid Girl UwU | 15.63 |
-| 15 | OldCloudPlayers | 16.75 |
-| 16 | D. Continental | 17.25 |
-| 17 | +4 ARAM | 17.50 |
-| 18 | ctb = danmaku | 18.13 |
-| 19 | pending | 18.50 |
-| 20 | NSMBW | 19.13 |
-| 21 | Mr. Ladybug | 20.00 |
-| 22 | Seed #33 | 21.25 |
-| 23 | NoApple4 | 21.75 |
-| 24 | PICK DT2!!1!!11 | 23.50 |
-| 25 | Barely Managing | 23.75 |
-| 26 | turu | 26.38 |
-| 27 | Ciel Enchanteur | 26.63 |
-| 28 | Colo-Colo | 28.38 |
-| 29 | Bashame X Osaka | 28.63 |
-| 30 | Sightread Gaming | 28.75 |
-| 31 | Convert noob | 29.50 |
-| 32 | Fate | 29.75 |
-| 33 | Enterprise | 31.25 |
-| 34 | For fun gamers | 31.38 |
-| 35 | 3 dif digits | 33.63 |
-| 36 | looking for a team name | 35.00 |
-| N/A | abubeshki | *DNP* |
-| N/A | Albacete x ICC | *DNP* |
 
 ## Ruleset
 
