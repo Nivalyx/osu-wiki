@@ -296,13 +296,12 @@ Sunday, 25 May 2025:
 
 ### Finals (week 1)
 
-Saturday, 18 January 2025:
+Saturday, 17 May 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **Red Hawk** | **7** | 3 | EUphoria | [#1](https://osu.ppy.sh/community/matches/116857578) |
-| Upper | naruto when | 6 | **7** | **common madcin L** | [#1](https://osu.ppy.sh/community/matches/116871945) |
-| Lower | **Capo so cute v3** | **7** | 1 | OwOgres | [#1](https://osu.ppy.sh/community/matches/116858450) |
+| Lower | santoso gacor | 2 | **8** | **apa aja lah bebas** | [#1](https://osu.ppy.sh/community/matches/118118275) |
+| Lower | **5 Melon 1 Korean** | **8** | 4 | SpeedBus Pasuruan | [#1](https://osu.ppy.sh/community/matches/118117445) |
 
 Sunday, 19 January 2025:
 
