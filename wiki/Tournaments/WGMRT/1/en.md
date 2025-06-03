@@ -454,23 +454,15 @@ Sunday, 13 April 2025:
    - In order to avoid teams potentially having to deal with the disadvantage of being captained by a player whose skill level is not on par with the tournament's threshold, the captains will always be picked from the list's Top 48 players ranking-wise.
 2. During the drafting phase, team captains will then have to pick five other players to complete their team from the pool of remaining players following the [snaking draft method](https://en.wiktionary.org/wiki/snake_draft) (1st -> 2nd -> 3rd -> 4th -> 5th -> 6th -> 6th -> 5th -> 4th -> (...)).
 3. All teams are required to submit a team name to the tournament management within one week of the drafting phase. 
-   - While there are no restrictions as to what team names amay and may not be used, teams are encouraged to choose their names carefully. The tournament management is not responsible for any repercussions that may arise from team names.
+   - While there are no restrictions as to what team names may and may not be used, teams are encouraged to choose their names carefully. The tournament management is not responsible for any repercussions that may arise from team names.
 4. Players who are not picked to be in any team at the end of the drafting phase are eliminated from the tournament by default.
 
 ### Round-specific rules
 
-#### Qualifier rules
+#### Swiss round rules
 
-1. Each team will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
-2. In the lobby, all teams will have to consecutively play all of the eight Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
-   - Teams are given **two attempts** at playing all the Qualifier beatmaps, although the second attempt is completely optional and teams may choose to skip this opportunity should they wish to.
-   - Only **the team's best playthrough for each beatmap** will be used to determine the Qualifier rankings. 
-3. Teams **are not allowed** to ban any beatmaps in the Qualifiers.
-4. Teams **are not allowed** to join (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, teams will be ranked according to their average beatmap rank across all eight Qualifier beatmaps.
-6. The 32 teams with the **highest average beatmap rank** according to the above criteria will advance to the knock-out stages. 
-   - If there are two (or more) teams that share the same average beatmap rank, the teams will be ordered based on their average score across all eight Qualifier beatmaps.
-7. Failure to attend in any of the predetermined Qualifier lobbies will result in an outright elimination from the tournament.
+1. The Swiss round will be held over the course of three weeks with a different mappool for each week.
+2. During each week, each team will play 2 matches against opponents determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
 
 #### Knock-out stage rules
 
