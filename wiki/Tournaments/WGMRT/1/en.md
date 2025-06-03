@@ -455,6 +455,7 @@ Sunday, 13 April 2025:
 2. During the drafting phase, team captains will then have to pick five other players to complete their team from the pool of remaining players following the [snaking draft method](https://en.wiktionary.org/wiki/snake_draft) (1st -> 2nd -> 3rd -> 4th -> 5th -> 6th -> 6th -> 5th -> 4th -> (...)).
 3. All teams are required to submit a team name to the tournament management within one week of the drafting phase. 
    - While there are no restrictions as to what team names amay and may not be used, teams are encouraged to choose their names carefully. The tournament management is not responsible for any repercussions that may arise from team names.
+4. Players who are not picked to be in any team at the end of the drafting phase are eliminated from the tournament by default.
 
 ### Round-specific rules
 
