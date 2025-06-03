@@ -231,26 +231,27 @@ This competition has come to an end and resulted in the following podium:
 ### Swiss round (week 2)
 
 - No Mod
-  1. [natori - Absolute Zero (AirinCat) \[FuJu x Kyouren's Extra\]](https://osu.ppy.sh/beatmapsets/2161438#fruits/4576281)
-  2. [MIYAVI vs. KenKen - Flashback (Sotarks) \[oko's Extra\]](https://osu.ppy.sh/beatmapsets/2254260#fruits/4803887)
-  3. [Getty vs. DJ DiA - Engage-Rex- (Realazy) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/1336197#fruits/2768157)
-  4. [MiddleIsland - Piano Concerto No.1 "Scream" (PaRaDogi) \[pocket's Extra\]](https://osu.ppy.sh/beatmapsets/2077193#fruits/4349258)
+  1. [Isekaijoucho - Kimi Shousitsu Sekai (Rtyzen) \[The Forgotten World\]](https://osu.ppy.sh/beatmapsets/2230113#osu/4732459)
+  2. [xi - Longinus (Anxient) \[Extra\]](https://osu.ppy.sh/beatmapsets/1902907#osu/4380440)
+  3. [ZUTOMAYO - TAIDADA (Petal) \[GIDZ'S EXTRA\]](https://osu.ppy.sh/beatmapsets/2270896#osu/4924155)
+  4. [N2 - NULL APOPHENIA (pocket-) \[MeowUsername's EXTRA\]](https://osu.ppy.sh/beatmapsets/2051792#osu/4303686)
+  5. [wowaka - Ura-Omote Lovers feat. Hatsune Miku (gazimal) \[Satellite's Special\]](https://osu.ppy.sh/beatmapsets/1872527#osu/3875038)
 - Hidden
-  1. [HaKoniwalily - Kyorikan (climbx3145) \[Insane\]](https://osu.ppy.sh/beatmapsets/1761202#fruits/3604579)
-  2. [ESHIKARA - Fuwari (feat. MIMI, KAFU, Hatsune Miku) (smolship) \[Duet\]](https://osu.ppy.sh/beatmapsets/2274543#fruits/4846389)
+  1. [DECO\*27 - Neverland feat. Hatsune Miku (Syph) \[Chaotic Love Extreme\]](https://osu.ppy.sh/beatmapsets/2282018#osu/4865705)
+  2. [happy30 - As the wind blows (AJT) \[Kyouren x Ascended's Extra\]](https://osu.ppy.sh/beatmapsets/1881739#osu/3893986)
 - Hard Rock
-  1. [TWICE - CRY FOR ME (Nabori) \[Rainfall\]](https://osu.ppy.sh/beatmapsets/1317379#fruits/2729553)
-  2. [A.SAKA - Nanatsu Hiiragisuikou (scenic mix) (Flask) \[Petals\]](https://osu.ppy.sh/beatmapsets/1834104#fruits/3765312)
+  1. [JKT48 - Hissatsu Teleport (tatemae) \[Expert\]](https://osu.ppy.sh/beatmapsets/2222456#osu/4712554)
+  2. [Nekomata Master feat. Misawa Aki - chrono diver -fragment- (Game Ver.) (Aeril) \[LMT's Expert\]](https://osu.ppy.sh/beatmapsets/636513#osu/1377056)
 - Double Time
-  1. [Earth, Wind & Fire - Can't Let Go (quantumvortex) \[Insane\]](https://osu.ppy.sh/beatmapsets/2217735#fruits/4700630)
-  2. [t+pazolite with siromaru - Chambarising (Renumi) \[Insane\]](https://osu.ppy.sh/beatmapsets/1969979#fruits/4089677)
-  3. [yuchaP - Pokerface (Nevo) \[Len's Classic Insane\]](https://osu.ppy.sh/beatmapsets/1703042#fruits/3508522)
+  1. [Shihori - Magic Girl !! (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/53519#osu/163054)
+  2. [Adust Rain - Imperfect Cherry Blossom (Orkay) \[KK's Lunatic\]](https://osu.ppy.sh/beatmapsets/2069184#osu/4460247)
+  3. [Ryokuoushoku Shakai - Zutto Zutto Zutto (Deca) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/1558526#osu/4150232)
 - Free Mod
-  1. [ETIA. feat. Jenga - Say A Vengeance (Foreverends) \[Ends\]](https://osu.ppy.sh/beatmapsets/174470#fruits/421238)
-  2. [glass beach - cold weather (alexiiosu) \[i love the way you make me feel\]](https://osu.ppy.sh/beatmapsets/1512409#fruits/3096787)
+  1. [inabakumori - NON-USE (im cute) \[Visionary's Extra\]](https://osu.ppy.sh/beatmapsets/1945535#osu/4034057)
+  2. [Frog96 - Letter to the Black World (yencis) \[ost edit\]](https://osu.ppy.sh/beatmapsets/1982251#osu/4595113)
+  3. [Masarada - Outlaws (soncak) \[Hachiko The Good, The Bad Expert\]](https://osu.ppy.sh/beatmapsets/2208906#osu/4812697)
 - Tiebreaker
-  1. **[meganeko - The Cyber Grind (Icekalt) \[Killing Spree ft. Niva\]](https://osu.ppy.sh/beatmapsets/1663147#fruits/3395033)**
-
+  1. **[Para Dot. - Hyper banquet (Alvearia) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2009605#osu/4266048)**
 ### Swiss round (week 1)
 
 - No Mod
