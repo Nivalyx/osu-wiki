@@ -357,19 +357,19 @@ Sunday, 5 January 2025:
 | 7 | SpeedBus Pasuruan | -1 | 1 | 5 | -10 |
 | 8 | Pengawal Mama | -6 | 0 | 6 | -27 |
 
-Saturday, 14 December 2025:
+#### Swiss round (week 3)
 
-| Bracket | Team 1 |  |  | Team 2 | Match link |
+Saturday, 26 April 2025:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **OwOgres** | **5** | 0 | :tac: | [#1](https://osu.ppy.sh/community/matches/116494921) |
-| Lower | turu | 0 | **5** | **NoApple4** | [#1](https://osu.ppy.sh/community/matches/116493563) |
-| Upper | **Red Hawk** | **5** | 0 | Jump the Beat | [#1](https://osu.ppy.sh/community/matches/116489733) |
-| Lower | Fate | 0 | **5** | **D. Continental** | [#1](https://osu.ppy.sh/community/matches/116494245) |
-| Lower | Ciel Enchanteur | 3 | **5** | **Seed \#33** | [#1](https://osu.ppy.sh/community/matches/116496454) |
-| Lower | Bashame X Osaka | 3 | **5** | **NSMBW** | [#1](https://osu.ppy.sh/community/matches/116491921) |
-| Lower | Barely Managing | 3 | **5** | **PICK DT2!!1!!11** | [#1](https://osu.ppy.sh/community/matches/116494949) |
+| SW3-1 | Pengawal Mama | 2 | **6** | **#PEGAONTOP** | [#1](https://osu.ppy.sh/community/matches/117911240) |
+| SW3-7 | **5 Melon 1 Korean** | **6** | 4 | SpeedBus Pasuruan | [#1](https://osu.ppy.sh/community/matches/117921982) |
+| SW3-8 | apa aja lah bebas | 2 | **6** | **5 Melon 1 Korean** | [#1](https://osu.ppy.sh/community/matches/117909284) |
+| SW3-2 | **最tua & 黒 se世界** | **6** | 0 | Pengawal Mama | [#1](https://osu.ppy.sh/community/matches/117910499) |
+| SW3-4 | SpeedBus Pasuruan | 1 | **6** | **最tua & 黒 se世界** | [#1](https://osu.ppy.sh/community/matches/117909749) |
 
-Sunday, 15 December 2024:
+Sunday, 27 April 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
