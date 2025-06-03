@@ -303,32 +303,28 @@ Saturday, 17 May 2025:
 | Lower | santoso gacor | 2 | **8** | **apa aja lah bebas** | [#1](https://osu.ppy.sh/community/matches/118118275) |
 | Lower | **5 Melon 1 Korean** | **8** | 4 | SpeedBus Pasuruan | [#1](https://osu.ppy.sh/community/matches/118117445) |
 
-Sunday, 19 January 2025:
+Sunday, 18 January 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **5 Melon 1 Korean** | **8** | 6 | apa aja lah bebeas | [#1](https://osu.ppy.sh/community/matches/118128494) |
-| Lower | #PEGAONTOP | 5 | **8** | **最tua & 黒 se世界** | [#1](https://osu.ppy.sh/community/matches/118128299) |
+| Upper | #PEGAONTOP | 5 | **8** | **最tua & 黒 se世界** | [#1](https://osu.ppy.sh/community/matches/118128299) |
 
 ### Semifinals
 
-Saturday, 11 January 2025:
+Saturday, 10 May 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **Steam Happy** | **6** | 0 | :tac: | [#1](https://osu.ppy.sh/community/matches/116781650) |
-| Lower | **EUphoria** | **6** | 0 | +4 ARAM | [#1](https://osu.ppy.sh/community/matches/116782780) |
-| Lower | **OwOgres** | **6** | 1 | GiGiLuNi | [#1](https://osu.ppy.sh/community/matches/116784279) |
-| Lower | **you tell me** | **6** | 1 | :cat: | [#1](https://osu.ppy.sh/community/matches/116783427) |
+| Upper | 5 Melon 1 Korean | 4 | **7** | **#PEGAONTOP** | [#1](https://osu.ppy.sh/community/matches/118050582) |
 
-Sunday, 12 January 2025:
+Sunday, 11 May 2025:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **common madcin L** | **6** | 3 | Capo so cute v3 | [#1](https://osu.ppy.sh/community/matches/116794428) |
-| Lower | Steam Happy | 3 | **6** | **EUphoria** | [#1](https://osu.ppy.sh/community/matches/116795201) |
-| Lower | **OwOgres** | **6** | 0 | you tell me | [#1](https://osu.ppy.sh/community/matches/112094244) |
-| Upper | **naruto when** | **6** | 3 | Red Hawk | [#1](https://osu.ppy.sh/community/matches/116796546) |
+| Lower | **SpeedBus Pasuruan** | **7** | 4 | gw ngikut aj | [#1](https://osu.ppy.sh/community/matches/118062423) |
+| Lower | Pengawal Mama | 4 | **7** | **apa aja lah bebas** | [#1](https://osu.ppy.sh/community/matches/118062495) |
+| Upper | **最tua & 黒 se世界** | **7** | 1 | santoso gacor | [#1](https://osu.ppy.sh/community/matches/118061222) |
 
 ### Quarterfinals
 
