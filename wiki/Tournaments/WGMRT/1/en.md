@@ -203,28 +203,30 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Shimotsuki Haruka - Secret Liqueur (Lasse) \[Collab\]](https://osu.ppy.sh/beatmapsets/751178#osu/1581544)**
 
-### Swiss round (week 1)
+### Swiss round (week 3)
 
 - No Mod
-  1. [kessoku band - Guitar to Kodoku to Aoi Hoshi (Amateurre) \[Spotlight\]](https://osu.ppy.sh/beatmapsets/1922323#fruits/3968104)
-  2. [Minamotoya feat. Kuroa\* - Hana Kagerou (Luscent) \[Petals\]](https://osu.ppy.sh/beatmapsets/929130#fruits/1963382)
-  3. [Teminite - Ghost Ship (Pandize) \[Jiysea's Expert\]](https://osu.ppy.sh/beatmapsets/1757902#fruits/3693544)
-  4. [xaev - GLACIER (dakiwii) \[wafer's Crosswalx\]](https://osu.ppy.sh/beatmapsets/2262898#fruits/4817026)
+  1. [nao feat. isui - Ukigumo (milkgreen) \[Sunshine After Rain\]](https://osu.ppy.sh/beatmapsets/1946710#osu/4027752)
+  2. [Aether Realm - Tarot (SILENCE PLAYER) \[Final Stand\]](https://osu.ppy.sh/beatmapsets/1291247#osu/2680248)
+  3. [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39 (Petal) \[Sagu's Extra\]](https://osu.ppy.sh/beatmapsets/2091778#osu/4384634)
+  4. [aran - Xperanza (Yusomi) \[Another\]](https://osu.ppy.sh/beatmapsets/1260920#osu/2621145)
+  5. [FREDERIC - Kanashii Ureshii (Faito) \[Ureshii\]](https://osu.ppy.sh/beatmapsets/2186383#osu/4949415)
 - Hidden
-  1. [Camellia - \*Feels Seasickness...\* (Nakano Itsuki) \[musou no hitotachi\]](https://osu.ppy.sh/beatmapsets/1575350#fruits/3216417)
-  2. [Aitsuki Nakuru - FAKE IDOL (Schoki) \[Please love the "real" me\]](https://osu.ppy.sh/beatmapsets/2196073#fruits/4646937)
+  1. [Yousei Teikoku - Paradiso=Inferno (IsomirDiAngelo) \[Net0's Extra\]](https://osu.ppy.sh/beatmapsets/1296273#osu/2750915)
+  2. [Kairiki bear feat. Hatsune Miku - Yamiaka Steroid (vetoed) \[Ix's Extra\]](https://osu.ppy.sh/beatmapsets/2274939#osu/4856577)
 - Hard Rock
-  1. [Yuuri - Hikousen (alevi) \[Kirishima-'s Expert\]](https://osu.ppy.sh/beatmapsets/1762468#fruits/3642326)
-  2. [lapix - Nexta (Realazy) \[Ayyri's GRAVITY\]](https://osu.ppy.sh/beatmapsets/1050635#fruits/2319981)
+  1. [Falcom Sound Team jdk - VALESTEIN CASTLE (Deca) \[YOGURTT'S NIGHTMARE\]](https://osu.ppy.sh/beatmapsets/2145072#osu/4518098)
+  2. [Two Door Cinema Club - Cigarettes in the Theatre (entsetzen) \[please don't stop talking\]](https://osu.ppy.sh/beatmapsets/1598238#osu/3264072)
 - Double Time
-  1. [Foreground Eclipse - Forget Me Not (Seni) \[Everlasting Promise Of Our Heartfelt Reunion\]](https://osu.ppy.sh/beatmapsets/843294#fruits/2472715)
-  2. [senya - Tamashii no Katari ni Michibikarete (Satellite) \[Djulus' Lunatic\]](https://osu.ppy.sh/beatmapsets/2129313#fruits/4487652)
-  3. [inabakumori - Denki Yohou feat. Hatsune Miku (-Stocking) \[Kard's Insane\]](https://osu.ppy.sh/beatmapsets/2072324#fruits/4376395)
+  1. [FELT - Flower Flag (MZC Echoes the Spring Liquid Mix) (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/55945#osu/169450)
+  2. [yanaginagi - Sentimental (defiance) \[Insane\]](https://osu.ppy.sh/beatmapsets/1562788#osu/3191336)
+  3. [zts - worldenddominator (Fall) \[pseudonymous' insane\]](https://osu.ppy.sh/beatmapsets/2136537#osu/4496040)
 - Free Mod
-  1. [Bring Me The Horizon - Dear Diary, (Cut Ver.) (Eterdesp) \[Expert\]](https://osu.ppy.sh/beatmapsets/2206858#fruits/4674342)
-  2. [Hige Driver - ukigumo (Lude) \[..- -.- .. --. ..- -- ---\]](https://osu.ppy.sh/beatmapsets/1827928#fruits/3751557)
+  1. [Ryokuoushoku Shakai - Party!! (kxlman) \[Yummy!!\]](https://osu.ppy.sh/beatmapsets/2136260#osu/4495198)
+  2. [beatMARIO - Night of Knights (Cranky Remix) (Alvearia) \[Expert Collab\]](https://osu.ppy.sh/beatmapsets/2250270#osu/4785531)
+  3. [Yunosuke - Loop (feat. WaMi) (Kotoha) \[Expert\]](https://osu.ppy.sh/beatmapsets/1753970#osu/3589478)
 - Tiebreaker
-  1. **[Nyankovsky - Firmament [feat. blaxervant] (Seiioh) \[V565\]](https://osu.ppy.sh/beatmapsets/1735601#fruits/3547292)**
+  1. **[aran - Ripples (DJ Noriken Remix) (melloe) \[The Horizon\]](https://osu.ppy.sh/beatmapsets/1898876#osu/3913792)**
 
 ### Swiss round (week 2)
 
