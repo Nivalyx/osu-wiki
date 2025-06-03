@@ -31,9 +31,9 @@ The We Go March! retot's Tournament offered an initial prize pool of 1,000,000 I
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 16 USD or 6 months of osu!supporter for each team member, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 12 USD or 4 months of osu!supporter for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 8 USD or 2 months of osu!supporter for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the accumulated prize pool, profile banner, unique profile badge (pending) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the accumulated prize pool |
 
 ## Organisation
 
