@@ -8,7 +8,7 @@ tags:
 
 ![We Go March! retot's Tournament banner](img/banner.jpg)
 
-The **We Go March! retot's Tournament** (***WGMRT***) was a double-elimination 2v2 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265), and ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) in which all the beatmaps were [converts from the osu! game mode](/wiki/Beatmap/Converts). Although it was the first to be held under the "International Convert Cup" banner, the tournament was considered as an expansion of the preceeding [Indonesia Convert Cup](/wiki/Tournaments/ICC) and [osu!catch Convert Cup Open](/wiki/Tournaments/o!cCO) series.
+The **We Go March! retot's Tournament** (***WGMRT***) was a double-elimination 3v3 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) (retot). in which all the beatmaps were [converts from the osu! game mode](/wiki/Beatmap/Converts). It was the first iteration of the We Go March! retot's Tournament.
 
 ## Tournament schedule
 
