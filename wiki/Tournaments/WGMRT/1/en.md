@@ -450,8 +450,8 @@ Sunday, 13 April 2025:
 
 ### Team matchmaking
 
-1. Based on the screening results, the tournament management will pick 8 players at random from the list of accepted players to be team captains.
-   - By registering, the player consents that they are able and willing to perform as a team captain should the tournament management choose them to be.
+1. Based on the screening results, the tournament management will pick 8 players at random from the list of accepted players to act as team captains.
+   - In order to avoid teams having to deal with the disadvantage of being captained by a player whose skill level is not on par with the tournament's expected threshold, the captains will always be picked from the Top 48 players global ranking-wise.
 
 ### Round-specific rules
 
