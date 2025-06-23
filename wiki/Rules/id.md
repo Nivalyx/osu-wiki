@@ -42,7 +42,7 @@ Peraturan berikut berlaku bagi seluruh beatmap yang diunggah melalui [Beatmap Su
 
 1. **Pastikan kamu memiliki izin untuk menggunakan seluruh konten pada beatmap yang kamu unggah.** Hal ini meliputi lagu, video, *hitsound*, elemen grafis, dan konten lainnya yang bukan hasil karyamu sendiri. Apabila kamu tidak yakin ke mana kamu harus mencari konten yang berizin, kunjungi katalog [Featured Artist](https://osu.ppy.sh/beatmaps/artists) kami untuk menemukan berbagai lagu yang telah 100% terlisensi di osu! serta halaman [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) untuk informasi lebih lanjut.
 2. **Jangan membahas hal yang tidak sesuai topik pada [halaman diskusi beatmap](/wiki/Beatmap_discussion).** Halaman ini dikhususkan untuk (dan hanya untuk) diskusi seputar beatmap itu sendiri. Apabila kamu ingin mengangkat isu yang tidak berhubungan dengan beatmap, buatlah topik bahasan baru pada forum yang lebih sesuai.
-3. **Jangan menjiplak atau mencuri karya orang lain.** Lebih dari itu, jangan pula mengunggah atau menggunakan karya orang lain atas nama sendiri tanpa seizin yang bersangkutan (yang termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan milik mapper lain).
+3. **Jangan menjiplak atau mencuri karya orang lain.** Lebih dari itu, jangan pula mengunggah atau menggunakan karya orang lain tanpa seizin mereka (yang termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan milik mapper lain).
 4. **Selalu patuhi [Aturan konten musik](Song_Content_Rules) dan [Pertimbangan konten visual](Visual_Content_Considerations).**
 
 ## Apa yang akan terjadi apabila saya melanggar peraturan?
