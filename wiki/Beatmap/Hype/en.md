@@ -15,7 +15,7 @@ As hypes are an active part of the [ranking process](/wiki/Beatmap_ranking_proce
 
 ## Ranking requirement
 
-In order to be eligible for [nomination](/wiki/Beatmap_ranking_procedure#nominations), a beatmap needs to accumulate at least **5 hypes** (or one complete bar of the hype train) from other users. Additional hypes do not contribute towards the beatmap's eligibility for ranking, although they do help in making the beatmap more visible in the [beatmap listing](https://osu.ppy.sh/beatmapsets) when searching for beatmaps based on their [nomination status](https://osu.ppy.sh/beatmapsets?sort=nominations_desc&s=pending).
+In order to be eligible for [nomination](/wiki/Beatmap_ranking_procedure#nominations), a beatmap needs to accumulate at least **5 hypes** (or one complete bar of the hype train) from other users. Additional hypes do not contribute towards the beatmap's eligibility, although they do help in making the beatmap more visible in the [beatmap listing](https://osu.ppy.sh/beatmapsets) when searching for beatmaps based on their [nomination status](https://osu.ppy.sh/beatmapsets?sort=nominations_desc&s=pending).
 
 ## Limit
 
