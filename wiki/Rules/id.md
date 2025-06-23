@@ -60,9 +60,9 @@ Durasi *[silence](/wiki/Help_centre/Silences)* dan hukuman lainnya yang kamu ter
 
 Pelanggaran tertentu memiliki durasi hukuman *silence* minimal yang lebih panjang (pada umumnya 43 jam atau lebih), yang meliputi antara lain penyebaran konten vulgar serta pelecehan berlebihan terhadap pengguna lain.
 
-Apabila setelah beberapa kali melanggar kamu tetap bersikeras menyalahi peraturan, akunmu dapat langsung [di-*restrict* secara permanen tanpa adanya opsi pengajuan banding](/wiki/Help_centre/Account_restrictions).
+Apabila setelah beberapa kali melanggar kamu tetap bersikeras menyalahi peraturan, akunmu dapat langsung [di-restrict secara permanen tanpa dapat diajukan banding](/wiki/Help_centre/Account_restrictions).
 
-Akun yang di-restrict tidak akan dapat bermain secara online, mencetak skor, mengobrol dengan pengguna lain, dan dalam segala maksud dan tujuan "diasingkan" dari komunitas. Hukuman ini hanya dapat diangkat dengan cara mengajukan banding kepada staf layanan dukungan secepat-cepatnya 3 bulan setelah hukuman tersebut dijatuhkan ([yang dapat berlaku lebih pada situasi tertentu](/wiki/Help_centre/Account_restrictions#reasons)).
+Akun yang di-restrict tidak akan dapat bermain secara online, mencetak skor, mengobrol dengan pengguna lain, dan dalam segala maksud dan tujuan "diasingkan" dari komunitas. Hukuman ini hanya dapat diangkat dengan mengajukan banding kepada staf layanan dukungan secepat-cepatnya 3 bulan setelah hukuman ini dijatuhkan ([yang dapat berlaku lebih pada situasi tertentu](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Pelanggaran berat yang telah jauh melampaui batas peraturan kami dan telah masuk ke ranah konten ilegal sesuai dengan hukum internasional yang berlaku akan berakibat pada penghapusan akun dengan segera. Hukuman ini pada umumnya hanya berlaku bagi pelanggaran yang sangat grafis atau tidak dapat ditoleransi lagi, seperti penyebaran pornografi anak di bawah umur atau konten eksploitatif lainnya.
 
