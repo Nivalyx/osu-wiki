@@ -6,7 +6,7 @@ tags:
 # Hype
 
 ::: Infobox
-![](img/hypetrain.png "Hype train as visible on the beatmap info page")
+![](img/hypetrain.png "Hype train as visible in the beatmap info page")
 :::
 
 In beatmapping terms, a **hype** is a unit that roughly represents how many people are interested in seeing a particular beatmap to be [ranked](/wiki/Beatmap/Category#ranked). Hypes are given by posting and contribute to the beatmap's **hype train**.
@@ -15,7 +15,7 @@ Every [pending](/wiki/Beatmap/Category#wip-and-pending) [beatmap](/wiki/Beatmap)
 
 ## Ranking requirement
 
-In order to be eligible for [nomination](/wiki/Beatmap_ranking_procedure#nominations), a beatmap needs to accumulate at least **5 hypes** (or one complete bar of the hype train) from other users. Additional hypes do not contribute towards the beatmap's [ranking process](/wiki/Beatmap_ranking_procedure), although they do help in making the 
+In order to be eligible for [nomination](/wiki/Beatmap_ranking_procedure#nominations), a beatmap needs to accumulate at least **5 hypes** (or one complete bar of the hype train) from other users. Additional hypes do not contribute towards the beatmap's [ranking process](/wiki/Beatmap_ranking_procedure), although they do help in making the beatmap more visible in the [beatmap listing](https://osu.ppy.sh/beatmapsets) when searching for beatmaps based on their [nomination status](https://osu.ppy.sh/beatmapsets?sort=nominations_desc&s=pending).
 
 ## Limit
 
