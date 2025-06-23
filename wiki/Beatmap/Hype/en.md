@@ -9,9 +9,9 @@ tags:
 ![](img/hypetrain.png "Hype train as visible in the beatmap info page")
 :::
 
-In beatmapping terms, a **hype** is a unit that roughly represents how many people are interested in seeing a particular beatmap to be [ranked](/wiki/Beatmap/Category#ranked). Hypes are given by posting in the beatmap's [discussion page](/wiki/Beatmap_discussion) with the `Hype!` option and contribute to the beatmap's **hype train**.
+In beatmapping terms, a **hype** is a unit that roughly represents how many people are interested in seeing a particular beatmap to be [ranked](/wiki/Beatmap/Category#ranked). Hypes are awarded by posting in the beatmap's [discussion page](/wiki/Beatmap_discussion) with the `Hype!` option and contribute to the beatmap's **hype train**.
 
-As hypes are an active part of the [ranking process](/wiki/Beatmap_ranking_procedure), they can only be given on beatmaps that are either {Pending or Work in Progress}(/wiki/Beatmap/Category#wip-and-pending).
+As hypes are an active part of the [ranking process](/wiki/Beatmap_ranking_procedure), they can only be assigned to beatmaps that are either [Work in Progress or Pending](/wiki/Beatmap/Category#wip-and-pending).
 
 ## Ranking requirement
 
