@@ -11,7 +11,7 @@ tags:
 
 In beatmapping terms, a **hype** is a unit that roughly represents how many people are interested in seeing a particular beatmap to be [ranked](/wiki/Beatmap/Category#ranked). Hypes are awarded by posting in the beatmap's [discussion page](/wiki/Beatmap_discussion) with the `Hype!` option and contribute to the beatmap's **hype train**.
 
-As hypes are an active part of the [ranking process](/wiki/Beatmap_ranking_procedure), they can only be assigned to beatmaps that are either [Work in Progress or Pending](/wiki/Beatmap/Category#wip-and-pending).
+As hypes are an active part of the [ranking process](/wiki/Beatmap_ranking_procedure), they can only be granted to beatmaps that are either [Work in Progress or Pending](/wiki/Beatmap/Category#wip-and-pending).
 
 ## Ranking requirement
 
@@ -19,4 +19,4 @@ In order to be eligible for [nomination](/wiki/Beatmap_ranking_procedure#nominat
 
 ## Limit
 
-Users start with 10 hypes which are consumed upon being used on beatmaps. Each hype takes a week to become available again.
+Users start with 10 hypes which are consumed upon being used on beatmaps. Each used hype takes a week to become available again, .
