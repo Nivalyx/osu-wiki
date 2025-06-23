@@ -1,10 +1,13 @@
 ---
-stub: true
 tags:
   - train
 ---
 
 # Hype
+
+::: Infobox
+![](img/hypetrain.png "Hype train as visible on the beatmap info page")
+:::
 
 Every [pending](/wiki/Beatmap/Category#wip-and-pending) [beatmap](/wiki/Beatmap) has a **hype train** that roughly represents how many people are interested in seeing the map [ranked](/wiki/Beatmap/Category#ranked). Users can post special [beatmap discussions](/wiki/Beatmap_discussion) in the `General (All difficulties)` tab with the `Hype!` option to contribute to a map's hype train.
 
