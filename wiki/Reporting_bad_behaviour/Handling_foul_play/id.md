@@ -57,13 +57,13 @@ Pada halaman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang ada 
 
 ### In-game chat
 
-Jalur pelaporan ini **tidak disarankan** karena jalur ini pada dasarnya lebih dikhususkan untuk berbagai hal yang terkait dengan percakapan.
+Jalur pelaporan ini **tidak disarankan** karena jalur ini pada dasarnya lebih dikhususkan untuk berbagai hal yang terkait dengan obrolan.
 
-Gunakan perintah `!report` pada kanal percakapan publik manapun untuk melapor kepada moderator. Para pemain lainnya tidak akan dapat melihat isi laporan Anda pada layar mereka masing-masing.
+Gunakan perintah `!report` pada kanal percakapan publik mana pun untuk melapor kepada moderator. Para pemain lainnya tidak akan dapat melihat laporan kamu pada konsol chat mereka.
 
 ```
 Format: !report <nama pengguna> <alasan>
-Contoh: !report pengguna_ini berbuat curang
+Contoh: !report pengguna_ini diduga berbuat curang
 ```
 
 Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninjau setiap laporan yang kami terima, hal ini tidak berarti seluruh laporan yang ada akan secara serta-merta ditindaklanjuti lebih lanjut. Kamu dapat mengirim email ke [osu@ppy.sh](mailto:osu@ppy.sh) apabila kamu membutuhkan balasan yang cepat.
