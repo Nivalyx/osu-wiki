@@ -82,8 +82,12 @@ Tim layanan dukungan kami akan mengharapkan kamu untuk menyertakan rekam jejak p
 
 ## Apa yang dapat saya lakukan apabila saya telah melanggar peraturan?
 
-Apabila kamu telah melanggar peraturan dan ingin mengaku, harap hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan jelaskan segala kesalahan yang telah kamu perbuat. Kejujuranmu akan sangat dihargai dan kamu tidak akan dijatuhi hukuman yang bersifat permanen sebagai ganjarannya.
+Apabila kamu telah melanggar peraturan dan ingin mengaku, silakan hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan jelaskan segala kesalahan yang telah kamu perbuat. Kejujuranmu akan sangat dihargai dan kamu tidak akan dijatuhi hukuman yang bersifat permanen sebagai ganjarannya.
 
 ## Bagaimana caranya agar saya tidak sampai di-silence atau di-restrict?
 
-Baca dan pahami [peraturan yang berlaku](/wiki/Rules) secara seksama.
+Baca dan pahami [peraturan yang berlaku](/wiki/Rules) secara seksama. Apabila kamu tidak yakin apakah sesuatu yang ingin kamu lakukan melanggar peraturan atau tidak, hubungi salah satu anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team). Apabila kamu tidak yakin siapa yang harus kamu tanya, [hubungi pengguna ini](https://osu.ppy.sh/users/5999631).
+
+# Catatan
+
+[^restriction-length]: The length of time you will have to wait before appealing depends on the reason for the restriction. If you're not sure how long your restriction lasts, email [accounts@ppy.sh](mailto:accounts@ppy.sh). For more information, see [Account restrictions](/wiki/Help_centre/Account_restrictions).
