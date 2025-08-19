@@ -34,7 +34,7 @@ Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apapun terkait de
 
 ## Saya akan membuat video untuk membuktikan bahwa saya tidak bersalah!
 
-Mohon maaf, namun apabila kamu sampai dibatasi, maka tim layanan dukungan kami telah sepenuhnya yakin bahwa kamu berbuat curang. Rekaman video tidak dapat dijadikan bukti karena rawan untuk dimanipulasi.
+Mohon maaf, namun apabila kamu sampai dibatasi, maka tim layanan dukungan kami telah sepenuhnya yakin bahwa kamu berbuat curang. Rekaman video tidak akan membantu karena bukti ini pun rawan untuk dimanipulasi.
 
 ## Saya menemukan seseorang yang jelas-jelas berbuat curang dari skor/tayangan ulang mereka! Apa yang sebaiknya saya lakukan?
 
