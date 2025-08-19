@@ -53,7 +53,7 @@ Pada halaman profil pengguna yang bersangkutan, klik tombol titik tiga yang terd
 
 Jalur pelaporan ini sama ampuhnya dengan jalur halaman profil — karena segala laporan dari jalur ini juga akan masuk ke pusat aduan yang sama.
 
-Pada halaman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang mencurigakan pada papan peringkat dengan cara mengklik tombol `Laporkan Skor` yang terdapat pada sisi kanan skor mereka.
+Pada halaman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang ada pada papan peringkat dengan cara mengklik tombol `Laporkan Skor` yang terdapat pada sisi kanan skor mereka.
 
 ### In-game chat
 
