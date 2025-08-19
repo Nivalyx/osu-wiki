@@ -47,11 +47,11 @@ Kamu disarankan untuk langsung melaporkan pengguna tersebut tanpa menyebut nama 
 
 Pada halaman profil pengguna yang bersangkutan, klik tombol titik tiga yang terdapat di samping tombol `Kirim pesan` dan pilih `Laporkan`. Pada kotak dialog yang muncul, tulis segala informasi yang dapat membuktikan kecurangan pemain tersebut.
 
-*Jangan lupa untuk menentukan mode permainan sebelum melapor.*
+*Jangan lupa untuk memilih mode permainan sebelum melapor.*
 
 ### Halaman beatmap
 
-Jalur pelaporan ini sama ampuhnya dengan melapor dari halaman profil — karena segala laporan dari jalur ini juga akan diterima .
+Jalur pelaporan ini sama ampuhnya dengan jalur halaman profil — karena segala laporan dari jalur ini juga akan masuk ke titik  .
 
 Pada laman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang mencurigakan pada papan peringkat dengan cara mengklik tombol `Laporkan Skor` yang terdapat pada sisi kanan skor mereka.
 
