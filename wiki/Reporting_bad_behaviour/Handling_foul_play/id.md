@@ -26,7 +26,7 @@ Peraturan ini berlaku tanpa ada kompromi. Para pelanggar akan langsung dibatasi 
 
 ## Saya telah dibatasi karena dianggap berbuat curang, namun saya tidak curang!
 
-Dalam menjatuhkan hukuman, osu! menggunakan berbagai tolok ukur otomatis yang dipadukan dengan konfirmasi manual. Apabila kamu tidak tahu mengapa kamu sampai dibatasi, hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Dalam menjatuhkan hukuman, osu! menggunakan berbagai tolok ukur otomatis yang digabungkan dengan konfirmasi manual. Apabila kamu tidak tahu mengapa kamu sampai dibatasi, hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 ## Buktikan bahwa saya/pengguna lain yang saya kenal telah berbuat curang! Beri tahu kami mengapa kalian sampai bisa tahu!
 
