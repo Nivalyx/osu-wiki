@@ -30,11 +30,11 @@ Dalam menjatuhkan hukuman, osu! menggunakan berbagai tolok ukur otomatis yang di
 
 ## Buktikan bahwa saya/pengguna yang dibatasi ini telah berbuat curang! Beri tahu kami bagaimana kalian bisa tahu!
 
-Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apapun terkait dengan status *restriction* seseorang. Meskipun demikian, seluruh hukuman yang dijatuhkan akan selalu berdasar pada indikasi yang kuat. Kasus di mana kami menjatuhkan hukuman kepada pemain yang tidak berbuat curang sangat jarang terjadi.
+Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apa pun terkait dengan pembatasan seseorang. Meskipun demikian, seluruh hukuman yang dijatuhkan akan selalu berdasar pada indikasi yang kuat. Kejadian di mana kami menjatuhkan hukuman kepada pemain yang tidak berbuat curang sangat jarang terjadi.
 
 ## Saya akan membuat video untuk membuktikan bahwa saya tidak bersalah!
 
-Mohon maaf, namun apabila kamu sampai dibatasi, maka tim layanan dukungan kami telah sepenuhnya yakin bahwa kamu berbuat curang. Rekaman video tidak akan membantu karena bukti ini pun rawan untuk dimanipulasi.
+Mohon maaf, namun apabila kamu sampai dibatasi, maka tim layanan dukungan kami telah sepenuhnya yakin bahwa kamu berbuat curang. Rekaman video tidak akan membantu karena bukti ini sekalipun rawan untuk dimanipulasi.
 
 ## Saya menemukan seseorang yang jelas-jelas berbuat curang dari skor/tayangan ulang mereka! Apa yang sebaiknya saya lakukan?
 
