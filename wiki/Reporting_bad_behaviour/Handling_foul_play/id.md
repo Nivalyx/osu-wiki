@@ -41,17 +41,17 @@ Mohon maaf, namun apabila kamu sampai dibatasi, maka tim layanan dukungan kami t
 Tetap tenang dan **jangan membicarakan permainan mereka pada kanal percakapan publik**. Jangan berikan mereka perhatian yang tidak diinginkan atau meminta orang lain untuk menyaksikan mereka.
 Kamu disarankan untuk langsung melaporkan pengguna tersebut tanpa menyebut nama mereka di manapun juga melalui salah satu jalur pelaporan berikut.
 
-### Laman profil pengguna
+### Halaman profil pengguna
 
 **Jalur ini merupakan jalur pelaporan yang paling utama untuk melaporkan kecurangan, karena jalur ini memberikan tim layanan dukungan kami informasi yang paling lengkap seputar kecurangan yang terjadi.**
 
-Pada laman profil pengguna yang bersangkutan, klik tombol titik tiga yang terdapat di samping tombol `Kirim pesan` dan pilih `Laporkan`. Pada kotak dialog yang muncul, tulis segala informasi yang dapat membuktikan kecurangan pemain tersebut.
+Pada halaman profil pengguna yang bersangkutan, klik tombol titik tiga yang terdapat di samping tombol `Kirim pesan` dan pilih `Laporkan`. Pada kotak dialog yang muncul, tulis segala informasi yang dapat membuktikan kecurangan pemain tersebut.
 
 *Jangan lupa untuk menentukan mode permainan sebelum melapor.*
 
 ### Halaman beatmap
 
-Jalur pelaporan ini juga disarankan untuk digunakan karena segala laporan yang masuk akan turut diterima oleh tim kami secara seksama.
+Jalur pelaporan ini juga disarankan untuk digunakan — karena segala laporan yang masuk akan turut diterima oleh tim kami secara seksama.
 
 Pada laman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang mencurigakan pada papan peringkat dengan cara mengklik tombol `Laporkan Skor` yang terdapat pada sisi kanan skor mereka.
 
