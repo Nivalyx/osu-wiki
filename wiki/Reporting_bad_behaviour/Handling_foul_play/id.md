@@ -66,9 +66,9 @@ Format: !report <nama pengguna> <alasan>
 Contoh: !report pengguna_ini diduga berbuat curang
 ```
 
-Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninjau setiap laporan yang kami terima, hal ini tidak berarti bahwa kami akan menindaklanjuti seluruh laporan yang masuk! Kamu dapat mengirim email ke alamat [osu@ppy.sh](mailto:osu@ppy.sh) apabila kamu membutuhkan balasan yang cepat.
+Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninjau setiap laporan yang kami terima, hal ini tidak berarti bahwa kami akan menindaklanjuti seluruh laporan yang masuk! Kamu dapat mengirim email ke alamat [osu@ppy.sh](mailto:osu@ppy.sh) untuk memperoleh balasan yang cepat.
 
-## Apakah menggunakan perangkat khusus dihitung sebagai perbuatan curang?
+## Apakah menggunakan perangkat khusus dianggap sebagai berbuat curang?
 
 Penggunaan perangkat seperti tablet dan layar sentuh tidak melanggar peraturan. Meskipun demikian, penggunaan perangkat yang dapat mengurangi keterampilan yang dibutuhkan untuk bermain (seperti *fidget spinner* pada tablet) atau menghilangkan efek mod tertentu tidak dibenarkan. Hal ini berarti penggunaan PC ganda, *input splitter*, dan lain sebagainya sangat dilarang.
 
