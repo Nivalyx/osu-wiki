@@ -72,9 +72,9 @@ Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninj
 
 Penggunaan perangkat seperti tablet dan layar sentuh tidak melanggar peraturan. Meskipun demikian, penggunaan perangkat yang dapat mengurangi keterampilan yang dibutuhkan untuk bermain (seperti fidget spinner yang disambungkan ke tablet) atau menghilangkan efek mod tertentu tidak dibenarkan. Hal ini berarti menggunakan lebih dari satu PC, pemisah input (*input splitter*), dan lain sebagainya sangat dilarang.
 
-## Bagaimana saya dapat mengajukan banding terhadap status restriction saya?
+## Bagaimana saya dapat mengajukan banding terhadap pembatasan saya?
 
-Tunggu setidaknya tiga bulan sejak tanggal restriction terakhirmu sebelum mengajukan banding.[^restriction-length] Setelahnya, kirim email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan subjek `Restriction Appeal: <username>`.
+Tunggu setidaknya tiga bulan sejak tanggal pembatasan terakhirmu sebelum mengajukan banding.[^restriction-length] Setelahnya, kirim email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan subjek `Restriction Appeal: <username>`.
 
 Tim layanan dukungan kami akan mengharapkan kamu untuk menyertakan rekam jejak pelanggaran kamu secara utuh beserta dengan alasan mengapa kamu tidak akan lagi melanggar ke depannya.
 
