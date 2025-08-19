@@ -4,9 +4,9 @@ no_native_review: true
 
 # Menangani kecurangan
 
-## Mengapa saya di-restrict?
+## Mengapa saya sampai dibatasi?
 
-Seorang pengguna dapat di-*restrict* apabila mereka melakukan salah satu hal berikut:
+Seorang pengguna dapat dibatasi (di-*restrict*) apabila mereka melakukan salah satu hal berikut:
 
 - Berperilaku buruk secara terus-menerus terlepas dari seberapa banyak pelanggaran yang telah mereka buat.
 - Mengelak dari hukuman dengan membuat akun baru.
@@ -14,11 +14,11 @@ Seorang pengguna dapat di-*restrict* apabila mereka melakukan salah satu hal ber
 - Menggunakan lebih dari satu akun (*multi-accounting*).
 - Berbuat curang (lihat keterangan lebih lanjut di bawah).
 
-## Apa yang dimaksud dengan multi-accounting?
+## Apa yang dianggap sebagai multi-accounting?
 
 Masing-masing pengguna hanya dapat memiliki **satu** akun. Pembuatan akun baru sangat dilarang. Para pengguna yang baru mulai melanggar akan dihukum dengan *silence* yang durasinya bergantung pada jumlah akun yang telah mereka buat. Para pengguna yang telah secara terus-menerus membuat akun baru tanpa mengindahkan peringatan yang telah mereka terima sebelumnya akan di-*restrict* secara langsung.
 
-## Apa yang dimaksud dengan berbuat curang?
+## Apa yang dianggap sebagai perbuatan curang?
 
 [Peraturan osu!](/wiki/Rules) menyatakan segala bentuk manipulasi klien seperti submisi skor ilegal, penggunaan makro, penggunaan program *auto-aim*, dan lain sebagainya sebagai bentuk perbuatan curang.
 
