@@ -36,10 +36,10 @@ Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apa pun terkait d
 
 Mohon maaf, namun apabila kamu sampai dibatasi, maka tim layanan dukungan kami telah sepenuhnya yakin bahwa kamu berbuat curang. Rekaman video tidak akan membantu karena bukti ini sekalipun rawan untuk dimanipulasi.
 
-## Saya menemukan seseorang yang jelas-jelas berbuat curang dari skor/tayangan ulang mereka! Apa yang harus saya lakukan?
+## Saya menemukan seseorang yang jelas-jelas berbuat curang dari tayangan ulang/skor mereka! Apa yang harus saya lakukan?
 
 Tetap tenang dan **jangan bicarakan permainan mereka pada ruang chat publik**. Jangan berikan mereka perhatian yang tidak diinginkan atau meminta orang lain untuk menyaksikan mereka.
-Kamu sebaiknya langsung melaporkan pengguna ini tanpa menyebut nama mereka di manapun juga melalui salah satu jalur pelaporan berikut.
+Laporkanlah pengguna ini tanpa menyebut nama mereka di mana pun juga. Terdapat tiga jalur pelaporan yang dapat kamu gunakan:
 
 ### Halaman profil pengguna
 
