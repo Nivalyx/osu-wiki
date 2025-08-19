@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_since: a7829a7972d112aa1bc8799dd865ef3b5e80a630
-outdated_translation: true
 ---
 
 # Menangani kecurangan
@@ -51,7 +49,7 @@ Pada laman profil pengguna yang bersangkutan, klik tombol titik tiga yang terdap
 
 *Jangan lupa untuk menentukan mode permainan sebelum melapor.*
 
-### Laman beatmap
+### Halaman beatmap
 
 Jalur pelaporan ini juga disarankan untuk digunakan karena segala laporan yang masuk akan turut diterima oleh tim kami secara seksama.
 
@@ -74,11 +72,11 @@ Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninj
 
 Penggunaan perangkat seperti tablet dan layar sentuh tidak melanggar peraturan. Meskipun demikian, penggunaan perangkat yang dapat mengurangi keterampilan yang dibutuhkan untuk bermain (seperti *fidget spinner* pada tablet) atau menghilangkan efek mod tertentu tidak dibenarkan. Hal ini berarti penggunaan PC ganda, *input splitter*, dan lain sebagainya sangat dilarang.
 
-## Bagaimana caranya untuk mengajukan banding terhadap status restriction saya?
+## Bagaimana saya dapat mengajukan banding terhadap status restriction saya?
 
-Tunggu tiga bulan sejak tanggal *restriction* terakhirmu sebelum mengajukan banding. Setelahnya, kirim email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan subjek `Restriction Appeal: <username>`.
+Tunggu setidaknya tiga bulan sejak tanggal restriction terakhirmu sebelum mengajukan banding.[^restriction-length] Setelahnya, kirim email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan subjek `Restriction Appeal: <username>`.
 
-Tim layanan dukungan kami akan mengharapkan mereka yang telah melanggar untuk menyertakan rekam jejak pelanggaran yang telah mereka lakukan secara selengkap-lengkapnya beserta alasan mengapa mereka tidak akan lagi melanggar ke depannya.
+Tim layanan dukungan kami akan mengharapkan kamu untuk menyertakan rekam jejak pelanggaran kamu secara utuh beserta dengan alasan mengapa kamu tidak akan lagi melanggar ke depannya.
 
 *Tim kami dapat memerlukan waktu untuk memproses banding yang kamu ajukan, namun tidak akan ada banding yang diabaikan.*
 
