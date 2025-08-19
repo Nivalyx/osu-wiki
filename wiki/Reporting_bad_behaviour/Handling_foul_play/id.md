@@ -51,7 +51,7 @@ Pada halaman profil pengguna yang bersangkutan, klik tombol titik tiga yang terd
 
 ### Halaman beatmap
 
-Jalur pelaporan ini sama — karena segala laporan dari jalur ini akan  seksama.
+Jalur pelaporan ini sama ampuhnya dengan melapor dari halaman profil — karena segala laporan dari jalur ini juga akan diterima .
 
 Pada laman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang mencurigakan pada papan peringkat dengan cara mengklik tombol `Laporkan Skor` yang terdapat pada sisi kanan skor mereka.
 
