@@ -70,7 +70,7 @@ Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninj
 
 ## Apakah menggunakan perangkat khusus dianggap sebagai berbuat curang?
 
-Penggunaan perangkat seperti tablet dan layar sentuh tidak melanggar peraturan. Meskipun demikian, penggunaan perangkat yang dapat mengurangi keterampilan yang dibutuhkan untuk bermain (seperti *fidget spinner* pada tablet) atau menghilangkan efek mod tertentu tidak dibenarkan. Hal ini berarti penggunaan PC ganda, *input splitter*, dan lain sebagainya sangat dilarang.
+Penggunaan perangkat seperti tablet dan layar sentuh tidak melanggar peraturan. Meskipun demikian, penggunaan perangkat yang dapat mengurangi keterampilan yang dibutuhkan untuk bermain (seperti fidget spinner yang disambungkan ke tablet) atau menghilangkan efek mod tertentu tidak dibenarkan. Hal ini berarti menggunakan lebih dari satu PC, pemisah input (*input splitter*), dan lain sebagainya sangat dilarang.
 
 ## Bagaimana saya dapat mengajukan banding terhadap status restriction saya?
 
