@@ -16,13 +16,13 @@ Seorang pengguna dapat dibatasi (di-*restrict*) apabila mereka melakukan salah s
 
 ## Apa yang dianggap sebagai multi-accounting?
 
-Masing-masing pengguna hanya dapat memiliki **satu** akun. Pembuatan akun baru sangat dilarang. Para pengguna yang baru mulai melanggar akan dihukum dengan *silence* yang durasinya bergantung pada jumlah akun yang telah mereka buat. Para pengguna yang telah secara terus-menerus membuat akun baru tanpa mengindahkan peringatan yang telah mereka terima sebelumnya akan di-*restrict* secara langsung.
+Masing-masing pengguna hanya dapat memiliki **satu** akun. Membuat akun baru sangat dilarang. Para pengguna yang baru mulai melanggar akan dihukum dengan silence yang durasinya bergantung pada jumlah akun yang telah mereka buat. Para pengguna yang telah secara terus-menerus membuat akun baru tanpa mengindahkan peringatan yang telah mereka terima akan langsung dibatasi.
 
 ## Apa yang dianggap sebagai perbuatan curang?
 
 [Peraturan osu!](/wiki/Rules) menyatakan segala bentuk manipulasi klien seperti submisi skor ilegal, penggunaan makro, penggunaan program *auto-aim*, dan lain sebagainya sebagai bentuk perbuatan curang.
 
-Peraturan ini berlaku tanpa ada kompromi. Para pelanggar akan langsung di-*restrict* pada pelanggaran mereka yang pertama hingga jangka waktu yang tidak ditentukan. [Tim layanan dukungan](/wiki/People/Account_support_team) kami dapat mencabut hukuman ini apabila mereka berhasil mengajukan banding yang diterima.
+Peraturan ini berlaku tanpa ada kompromi. Para pelanggar akan langsung dibatasi pada pelanggaran pertama mereka hingga jangka waktu yang tidak ditentukan. [Tim layanan dukungan](/wiki/People/Account_support_team) kami dapat mencabut hukuman ini apabila pihak pelanggar berhasil mengajukan banding.
 
 ## Saya telah di-*restrict* karena dianggap berbuat curang, namun saya tidak melakukan kecurangan apapun!
 
