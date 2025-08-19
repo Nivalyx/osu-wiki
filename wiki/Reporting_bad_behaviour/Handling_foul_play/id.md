@@ -66,7 +66,7 @@ Format: !report <nama pengguna> <alasan>
 Contoh: !report pengguna_ini diduga berbuat curang
 ```
 
-Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninjau setiap laporan yang kami terima, hal ini tidak berarti seluruh laporan yang ada akan secara serta-merta ditindaklanjuti lebih lanjut. Kamu dapat mengirim email ke [osu@ppy.sh](mailto:osu@ppy.sh) apabila kamu membutuhkan balasan yang cepat.
+Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninjau setiap laporan yang kami terima, hal ini tidak berarti bahwa kami akan menindaklanjuti seluruh laporan yang masuk! Kamu dapat mengirim email ke alamat [osu@ppy.sh](mailto:osu@ppy.sh) apabila kamu membutuhkan balasan yang cepat.
 
 ## Apakah menggunakan perangkat khusus dihitung sebagai perbuatan curang?
 
