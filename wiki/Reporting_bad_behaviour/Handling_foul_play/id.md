@@ -78,7 +78,7 @@ Tunggu setidaknya tiga bulan sejak tanggal pembatasan terakhirmu sebelum mengaju
 
 Tim layanan dukungan kami akan mengharapkan kamu untuk menyertakan rekam jejak pelanggaran kamu secara utuh beserta dengan alasan mengapa kamu tidak akan lagi melanggar ke depannya.
 
-*Tim kami dapat memerlukan waktu untuk memproses banding yang kamu ajukan, namun tidak akan ada banding yang diabaikan.*
+*Tim kami dapat memerlukan waktu untuk membalas banding yang kamu ajukan, namun tidak akan ada banding yang sampai diabaikan.*
 
 ## Apa yang dapat saya lakukan apabila saya telah melanggar peraturan?
 
