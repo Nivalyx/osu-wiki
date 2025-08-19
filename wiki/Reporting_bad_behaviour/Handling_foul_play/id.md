@@ -90,4 +90,4 @@ Baca dan pahami [peraturan yang berlaku](/wiki/Rules) secara seksama. Apabila ka
 
 # Catatan
 
-[^restriction-length]: The length of time you will have to wait before appealing depends on the reason for the restriction. If you're not sure how long your restriction lasts, email [accounts@ppy.sh](mailto:accounts@ppy.sh). For more information, see [Account restrictions](/wiki/Help_centre/Account_restrictions).
+[^restriction-length]: Lamanya waktu kamu harus menunggu sebelum kamu dapat mengajukan banding tergantung dari alasan pembatasan yang dijatuhkan kepadamu. Apabila kamu tidak yakin seberapa lama pembatasan kamu berlaku, kirim email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh). Untuk informasi lebih lanjut, lihat [Pembatasan akun](/wiki/Help_centre/Account_restrictions). 
