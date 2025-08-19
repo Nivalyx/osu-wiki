@@ -24,7 +24,7 @@ Masing-masing pengguna hanya dapat memiliki **satu** akun. Membuat akun baru san
 
 Peraturan ini berlaku tanpa ada kompromi. Para pelanggar akan langsung dibatasi pada pelanggaran pertama mereka hingga jangka waktu yang tidak ditentukan. [Tim layanan dukungan](/wiki/People/Account_support_team) kami dapat mencabut hukuman ini apabila pihak pelanggar berhasil mengajukan banding.
 
-## Saya telah dibatasi karena dianggap berbuat curang, namun saya tidak curang!
+## Saya telah dibatasi karena dianggap berbuat curang, namun saya tidak bermain curang!
 
 Dalam menjatuhkan hukuman, osu! menggunakan berbagai tolok ukur otomatis yang digabungkan dengan konfirmasi manual. Apabila kamu tidak tahu mengapa kamu sampai dibatasi, hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
