@@ -82,7 +82,7 @@ Tim layanan dukungan kami akan mengharapkan kamu untuk menyertakan rekam jejak p
 
 ## Apa yang dapat saya lakukan apabila saya telah melanggar peraturan?
 
-Apabila kamu telah melanggar peraturan dan ingin mengaku, silakan hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan jelaskan segala kesalahan yang telah kamu perbuat. Kejujuranmu akan sangat dihargai dan kamu tidak akan dijatuhi hukuman yang bersifat permanen sebagai ganjarannya.
+Apabila kamu telah melanggar peraturan dan ingin mengaku, silakan hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan jelaskan apa yang telah kamu perbuat. Kejujuranmu akan sangat dihargai dan kamu dapat diloloskan dari hukuman yang bersifat permanen.
 
 ## Bagaimana caranya agar saya tidak sampai di-silence atau di-restrict?
 
