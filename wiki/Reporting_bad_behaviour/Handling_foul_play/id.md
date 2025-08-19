@@ -39,15 +39,15 @@ Mohon maaf, namun apabila kamu sampai dibatasi, maka tim layanan dukungan kami t
 ## Saya menemukan seseorang yang jelas-jelas berbuat curang dari tayangan ulang/skor mereka! Apa yang harus saya lakukan?
 
 Tetap tenang dan **jangan bicarakan permainan mereka pada ruang chat publik**. Jangan berikan mereka perhatian yang tidak diinginkan atau meminta orang lain untuk menyaksikan mereka.
-Laporkanlah pengguna ini tanpa menyebut nama mereka di mana pun juga. Terdapat tiga jalur pelaporan yang dapat kamu gunakan:
+Laporkan pengguna ini tanpa menyebut nama mereka di mana pun juga. Terdapat tiga jalur pelaporan yang dapat kamu gunakan:
 
 ### Halaman profil pengguna
 
 **Jalur pelaporan ini merupakan jalur yang paling utama untuk melaporkan kecurangan, karena jalur ini memberikan informasi yang paling lengkap kepada tim layanan dukungan kami.**
 
-Pada halaman profil pengguna yang bersangkutan, klik tombol titik tiga yang terdapat di samping tombol `Kirim pesan` dan pilih `Laporkan`. Pada kotak dialog yang muncul, tulis segala informasi yang dapat membuktikan kecurangan pemain tersebut.
+Pada halaman profil pengguna yang bersangkutan, klik tombol titik tiga yang terdapat di samping tombol `Kirim pesan` dan pilih `Laporkan`. Pada kotak dialog yang muncul, tulis segala informasi yang dapat membuktikan kecurangan pemain ini.
 
-*Jangan lupa untuk memilih mode permainan sebelum melapor.*
+*Pastikan kamu telah memilih mode permainan yang benar sebelum mengirimkan laporan.*
 
 ### Halaman beatmap
 
