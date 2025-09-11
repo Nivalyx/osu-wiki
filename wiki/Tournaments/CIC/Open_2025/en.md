@@ -64,9 +64,9 @@ The Catch the Beat Indonesia Cup Open 2025 was run by various osu! community mem
 
 ## Participants
 
-Listed below are the players who managed to qualify into the Round of 32 (along with their respective seed number and average rank across all ten Qualifier beatmaps) out of 71 participating players in total.
+Listed below are the players who managed to qualify into the Round of 32 (along with their respective seed number and average rank across all ten Qualifier beatmaps) out of 59 participating players in total.
 
-The complete list of player registrations can be found [here](https://wybin.xyz/tournaments/catch-indonesia-cup-open-2024/players).
+The complete list of player registrations can be found [here](https://wybin.xyz/cico2025/players).
 
 | Seed no. | Player | Avg. rank |
 | :-- | :-- | :-- |
