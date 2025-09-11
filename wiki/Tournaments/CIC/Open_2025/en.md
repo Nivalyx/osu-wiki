@@ -143,29 +143,29 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 **[Download the mappack here! (133 MB)](https://www.mediafire.com/file/u9rsusocp6arut1/CICO2025_-_Finals.rar/file)**
 
 - No Mod
-  1. [cosMo\@Bousou-P - Hatsune Miku no Shoushitsu -Real And Repeat- (Sololiquy) \[UNINSTALL\]](https://osu.ppy.sh/beatmapsets/2230758#fruits/4734261)
-  2. [TrinaLydia - Bend The Bullet (Jemzuu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2230740#fruits/4734215)
-  3. [Hino Isuka - ULTRA MEGA HAPPY PARTY!!! (Dika312) \[DELUGE\]](https://osu.ppy.sh/beatmapsets/2230752#fruits/4734249)
-  4. [Frums - 24eeev0-\$ (Bunnrei) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2195835#fruits/4646351)
-  5. [Rahul Sipligunj & Kaala Bhairava - Naatu Naatu (Fsjallink) \[Challenge\]](https://osu.ppy.sh/beatmapsets/2047944#fruits/4275880)
+  1. [Demetori - Natsukashiki Touhou no Chi \~ Sic World (Madoka Ayukawa) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2429034#osu/5289290)
+  2. [DJ-Orca - BLUE RAINBOW (EpanPan) \[ROAD AWAY TO SKY\]](https://osu.ppy.sh/beatmapsets/2429019#osu/5289259)
+  3. [Iyowa - Golden Number (Mniam) \[1.61803398874989484820458683436563811772030917980576286213544862270526046281...\]](https://osu.ppy.sh/beatmapsets/2429021#osu/5289261)
+  4. [Noah - Hurt me plenty (Pepti) \[Eternal Suffering\]](https://osu.ppy.sh/beatmapsets/2429053#osu/5289328)
+  5. [N\_dog feat. Kyoyama Sail - daybreak (Arushii) \[Even if you exist only within a dream\]](https://osu.ppy.sh/beatmapsets/2370829#osu/5116498)
 - Hidden
-  1. [Kikuo - Aishite Aishite Aishite (Mochi -) \[It's painful, it hurts.\]](https://osu.ppy.sh/beatmapsets/2230743#fruits/4734221)
-  2. [-45 - System Zero (fayew) \[The Mysterious Letter (CICO2024 Ver.)\]](https://osu.ppy.sh/beatmapsets/2230783#fruits/4734305)
-  3. [FOLiACETATE - Heterochromia Iridis (Kawaiwkyik) \[Extra\]](https://osu.ppy.sh/beatmapsets/155885#fruits/382239)
+  1. [Kabocha feat. Nanahira - maison de joie (Dika312) \[pleurer seul\]](https://osu.ppy.sh/beatmapsets/2429046#osu/5289311)
+  2. [P-MODEL - Logic Airforce (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2429188#osu/5289681)
+  3. [himmel - Wings of Liberty (Saki) \[Echo\]](https://osu.ppy.sh/beatmapsets/2217823#osu/4793617)
 - Hard Rock
-  1. [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito (Spectator) \[Spec Lumi's Overdose\]](https://osu.ppy.sh/beatmapsets/2111859#fruits/4433498)
-  2. [\{ Camellia \} - \{ eXLIPXe \} (Zileni) \[INFINITE (EDIT)\]](https://osu.ppy.sh/beatmapsets/2230748#fruits/4734242)
-  3. [Maya Abe - Magical Parfait (KnightC0re) \[Euphoria\]](https://osu.ppy.sh/beatmapsets/2102128#fruits/4410062)
+  1. [Sasaki Sayaka - FEEL x ALIVE (Zvenx) \[Alive\]](https://osu.ppy.sh/beatmapsets/1683728#osu/5289327)
+  2. [Lime - Campanella (Zileni) \[Beyond\]](https://osu.ppy.sh/beatmapsets/2429033#osu/5289289)
+  3. [Mitsukiyo - Operation\*DOTABATA (Kyuuchie) \[Ayesha's Extra\]](https://osu.ppy.sh/beatmapsets/1985193#osu/4432365)
 - Double Time
-  1. [ShinRa-Bansho - Netaminity Theatre "666" (Spectator) \[Specuu's Rain\]](https://osu.ppy.sh/beatmapsets/1218948#fruits/2608016)
-  2. [Machico - Mystic Light Quest (-Miya) \[Overdose (CICO2024 Edit)\]](https://osu.ppy.sh/beatmapsets/2230760#fruits/4734264)
-  3. [Kalafina - Hikari no Senritsu (Madoka Ayukawa) \[Sky\]](https://osu.ppy.sh/beatmapsets/2230766#fruits/4734276)
-  4. [Hikarisyuyo - Burn Out (feat. Kagamine Rin) (Reiji Maigo) \[Extra\]](https://osu.ppy.sh/beatmapsets/2152709#fruits/4535794)
+  1. [Annabel - Signal Graph (-Miya) \[CICO F DT1\]](https://osu.ppy.sh/beatmapsets/2429035#osu/5289291)
+  2. [t+pazolite - seedy try (Juansy-) \[CICO 2025 FINALS DT2\]](https://osu.ppy.sh/beatmapsets/2375443#osu/5289304)
+  3. [Kitadani Hiroshi - We Are! (Des9) \[Romance Dawn\]](https://osu.ppy.sh/beatmapsets/2429238#osu/5289809)
+  4. [Nyong Franco - Gemu Fa Mi Re (Nakazawa) \[Maumere (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2429041#osu/5289300)
 - Easy
-  1. [II-L - VANGUARD-1 (Sololiquy) \[1-V\]](https://osu.ppy.sh/beatmapsets/2032087#fruits/4730158)
-  2. [RuLu - Bad End Donuts feat. tug (Nevo) \[Confliction\]](https://osu.ppy.sh/beatmapsets/2110908#fruits/4431252)
+  1. [Attoclef - OVERCLOCK-360 (Spectator) \[ExSpec's Boost\]](https://osu.ppy.sh/beatmapsets/2429186#osu/5289678)
+  2. [NANAOAKARI - Ashita no Watashi ni Sachi Are (Dika312) \[Workday\]](https://osu.ppy.sh/beatmapsets/2429048#osu/5289316)
 - Tiebreaker
-  1. **[FREEDOM CREATORS - Okurina -Inochi o Aoku Mimamori Nemurina- (Daletto) \[Shidarezakura\]](https://osu.ppy.sh/beatmapsets/2230774#fruits/4734290)**
+  1. **[trailmix37 - Pneuma (CLSW) \[Crystal Spec's Spiritual Encounter\]](https://osu.ppy.sh/beatmapsets/2429054#osu/5289329)**
 
 ### Semifinals
 
