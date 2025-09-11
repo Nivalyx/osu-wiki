@@ -500,7 +500,7 @@ Monday, 22 July 2024:
 
 #### Knock-out stage rules
 
-1. The 32 players who got through from the Qualifiers will be matched against each other based on their Qualifier seeding (e.g. Seed #1 vs. Seed #32, Seed #2 vs. Seed #31, and so on).
+1. Players who qualified into the knock-out stage will be matched against each other based on their Qualifier seeding (e.g. Seed #1 vs. Seed #32, Seed #2 vs. Seed #31, and so on).
 2. Players will compete against each other using the double-elimination system.
 3. The double-elimination system works as follows:
    - Players who lose in the upper bracket can still play again in the lower bracket.
