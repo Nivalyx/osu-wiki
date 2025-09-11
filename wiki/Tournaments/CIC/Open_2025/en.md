@@ -94,9 +94,9 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 22 | ::{ flag=SG }:: [McButt](https://osu.ppy.sh/users/18018708) | 7.774 |
 | 23 | ::{ flag=ID }:: [Nomiru](https://osu.ppy.sh/users/17514687) | 7.668 |
 | 24 | ::{ flag=TR }:: [shimu](https://osu.ppy.sh/users/14318796) | 7.661 |
-| 25 | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) | 26.40 |
+| 25 | ::{ flag=KR }:: [log out side](https://osu.ppy.sh/users/11535744) | 7.598 |
 | 26 | ::{ flag=TR }:: [lorem ipsum](https://osu.ppy.sh/users/17130789) | 27.20 |
-| 27 | ::{ flag=TW }:: [Flyer](https://osu.ppy.sh/users/9767342) | 28.70 |
+| 27 | ::{ flag=KR }:: [Flyer](https://osu.ppy.sh/users/9767342) | 28.70 |
 | 28 | ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) | 29.00 |
 | 29 | ::{ flag=TW }:: [\_Tsukiko](https://osu.ppy.sh/users/4787989) | 29.30 |
 | 30 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | 29.60 |
