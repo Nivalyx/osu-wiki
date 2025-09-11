@@ -161,7 +161,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   2. [t+pazolite - seedy try (Juansy-) \[CICO 2025 FINALS DT2\]](https://osu.ppy.sh/beatmapsets/2375443#osu/5289304)
   3. [Kitadani Hiroshi - We Are! (Des9) \[Romance Dawn\]](https://osu.ppy.sh/beatmapsets/2429238#osu/5289809)
   4. [Nyong Franco - Gemu Fa Mi Re (Nakazawa) \[Maumere (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2429041#osu/5289300)
-- Easy
+- Free Mod
   1. [Attoclef - OVERCLOCK-360 (Spectator) \[ExSpec's Boost\]](https://osu.ppy.sh/beatmapsets/2429186#osu/5289678)
   2. [NANAOAKARI - Ashita no Watashi ni Sachi Are (Dika312) \[Workday\]](https://osu.ppy.sh/beatmapsets/2429048#osu/5289316)
 - Tiebreaker
@@ -188,7 +188,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   1. [DIALOGUE+ - Omoide Shiritori (-Luminate) \[Verti's Rain\]](https://osu.ppy.sh/beatmapsets/2092098#fruits/4421064)
   2. [Ricky Martin - Livin' La Vida Loca (Zvenx) \[get shrekt!!\]](https://osu.ppy.sh/beatmapsets/2226732#fruits/4723735)
   3. [zts - the executioner (big snag) \[itay's insane\]](https://osu.ppy.sh/beatmapsets/2155765#fruits/4590821)
-- Easy
+- Free Mod
   1. [siromaru + cranky - conflict (Bunnrei) \[Conquest of the Damned (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2227220#fruits/4724904)
   2. [Rise Against - Injection (pishifat) \[Extreme\]](https://osu.ppy.sh/beatmapsets/214092#fruits/646390)
 - Tiebreaker
@@ -215,7 +215,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   1. [JVKE - golden hour (-Rustyy) \[iridescent\]](https://osu.ppy.sh/beatmapsets/2223504#fruits/4715022)
   2. [Akane Fujita, Yume Miyamoto, Ari Ozawa - Precious You\* (-Miya) \[Please be with me forever!\]](https://osu.ppy.sh/beatmapsets/2223461#fruits/4714933)
   3. [Avril Lavigne - Sk8er Boi (mynt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1840198#fruits/3779532)
-- Easy
+- Free Mod
   1. [Harry Styles - As It Was (BIG H ZONDA KIT) \[Lovesick\]](https://osu.ppy.sh/beatmapsets/2223486#fruits/4714984)
   2. [SEATBELTS - Tank! (Monstrata) \[Bang!\]](https://osu.ppy.sh/beatmapsets/801747#fruits/1922693)
 - Tiebreaker
@@ -242,7 +242,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   1. [Rameses B - Mountains (feat. Veela) (Dapulezatos) \[Is It Worth It?\]](https://osu.ppy.sh/beatmapsets/1809578#fruits/3711550)
   2. [IU feat. Seulong - Nagging (Madoka Ayukawa) \[Persistent\]](https://osu.ppy.sh/beatmapsets/2219115#fruits/4703806)
   3. [Demetori - Strawberry Crisis!! (jonathanlfj) \[Halfslashed's Lunatic\]](https://osu.ppy.sh/beatmapsets/1833730#fruits/3764531)
-- Easy
+- Free Mod
   1. [otetsu - Minamo no Sakura, Yume wa Sakayume (Riven) \[NiNo's Extra\]](https://osu.ppy.sh/beatmapsets/385248#fruits/1053233)
 - Tiebreaker
   1. **[Diao Ye Zong feat. Meramipop - Saifu 'Kamiasobi no Uta' (Morusya) \[Frog\]](https://osu.ppy.sh/beatmapsets/2218881#fruits/4703316)**
@@ -268,7 +268,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   1. [Dormir - Sayonara Trip (Fisicia) \[Let's float to the World of Our Dreams!\]](https://osu.ppy.sh/beatmapsets/2214878#fruits/4692952)
   2. [UNDEAD CORPORATION - Everything will freeze (NyalettOwO x3) \[HexlettOwO's Platter\]](https://osu.ppy.sh/beatmapsets/1293905#fruits/2685022)
   3. [Rise Against - Audience Of One (tieff) \[Hard\]](https://osu.ppy.sh/beatmapsets/44743#fruits/140062)  
-- Easy
+- Free Mod
   1. [penoreri - Sulfur (Realazy) \[Deca's Expert\]](https://osu.ppy.sh/beatmapsets/1252844#fruits/3106504)
 - Tiebreaker
   1. **[Kikuo - Hole Dwelling (Malai) \[Void (CICO2K24 Ver.)\]](https://osu.ppy.sh/beatmapsets/2214844#fruits/4692889)**  
@@ -290,8 +290,6 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 - Double Time
   1. [ONE OK ROCK - Clock Strikes (Sololiquy) \[Rain\]](https://osu.ppy.sh/beatmapsets/2210093#fruits/4681306)
   2. [Red Velvet - Power Up (AJT) \[Another\]](https://osu.ppy.sh/beatmapsets/1997883#fruits/4183275)
-- Easy
-  1. [Hakushi Hasegawa - Doku (zglock) \[Expert\]](https://osu.ppy.sh/beatmapsets/1674871#fruits/3539717)
 
 ## Match results
 
