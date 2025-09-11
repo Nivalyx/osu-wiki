@@ -276,18 +276,18 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 **[Download the mappack here! (75 MB)](https://www.mediafire.com/file/973f5s0jj2jcjt0/CICO2025_-_Qualifier.rar/file)**
 
 - No Mod
-  1. [Yousei Teikoku - Hades: The rise (-Miya) \[CICO2024 QLF NM1\]](https://osu.ppy.sh/beatmapsets/2210040#fruits/4681178)
-  2. [Fractal Dreamers - Whispers from a Distant Star (MILK_16) \[CICO NM 2 QL VER\]](https://osu.ppy.sh/beatmapsets/2210045#fruits/4681185)
-  3. [USAO - Knight Rider (Nakano Itsuki) \[Expert\]](https://osu.ppy.sh/beatmapsets/1550327#fruits/3168036)
+  1. [TOGENASHI TOGEARI - Bleeding Hearts (Fisicia) \[It's so obvious, it's painful.\]](https://osu.ppy.sh/beatmapsets/2410057#osu/5232748)
+  2. [Jakarta Funk Brothers - INSOMNIA (Yoshi\_green) \[INDOMIE AT 3 A.M.\]](https://osu.ppy.sh/beatmapsets/2410100#osu/5232868)
+  3. [ASA - Assault TAXI (Farore) \[kevincela's Extra\]](https://osu.ppy.sh/beatmapsets/2301619#osu/4922768)
 - Hidden
-  1. [la la larks - ego-izm (Zyzyx) \[ego-ism\]](https://osu.ppy.sh/beatmapsets/2210055#fruits/4681205)
-  2. [L.E.D. Vs. Yuuhei Satellite - Torikago no Houou (Okoratu) \[EEEEExtra\]](https://osu.ppy.sh/beatmapsets/1764723#fruits/3612221)
+  1. [Vickeblanka - Black Catcher (Mochi -) \[We can catch the game!\]](https://osu.ppy.sh/beatmapsets/2410047#osu/5232715)
+  2. [muship - Teddy THE Teddy (Herazu) \[Hidden Extra\]](https://osu.ppy.sh/beatmapsets/2251125#osu/4788639)
 - Hard Rock
-  1. [JKT48 - Ponytail dan Shu-Shu (BIG H ZONDA KIT) \[Blue Ponytail\]](https://osu.ppy.sh/beatmapsets/2210062#fruits/4681217)
-  2. [Chanel - SloMo (Eurovision's Dancebreak Edit) (Eterdesp) \[Expert\]](https://osu.ppy.sh/beatmapsets/1948241#fruits/4036414)
+  1. [Yousei Teikoku - Paradiso=Inferno (EpanPan) \[HR 1 Qual\]](https://osu.ppy.sh/beatmapsets/2410059#osu/5232750)
+  2. [Aoi a.k.a. ALFOU - Fluctuate (2020 Remaster) (Realazy) \[Oscillation\]](https://osu.ppy.sh/beatmapsets/1248102#osu/2594030)
 - Double Time
-  1. [ONE OK ROCK - Clock Strikes (Sololiquy) \[Rain\]](https://osu.ppy.sh/beatmapsets/2210093#fruits/4681306)
-  2. [Red Velvet - Power Up (AJT) \[Another\]](https://osu.ppy.sh/beatmapsets/1997883#fruits/4183275)
+  1. [CLIFF EDGE - Sayonara I Love You feat. jyA-Me (Madoka Ayukawa) \[Memories\]](https://osu.ppy.sh/beatmapsets/2410058#osu/5232749)
+  2. [ShinRa-Bansho - Administrator's Logic (Kurashina Asuka) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/2380793#osu/5146555)
 
 ## Match results
 
