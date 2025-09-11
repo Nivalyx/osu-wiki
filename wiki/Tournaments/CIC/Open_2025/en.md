@@ -432,8 +432,8 @@ Saturday, 9 August 2025:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Taskmaster](https://osu.ppy.sh/users/3027065)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | [#1](https://osu.ppy.sh/community/matches/118920909) |
 | Upper | **[dazzulay](https://osu.ppy.sh/users/1948043)** ::{ flag=CN }:: | **5** | 3 | ::{ flag=TR }:: [shimu](https://osu.ppy.sh/users/14318796) | [#1](https://osu.ppy.sh/community/matches/118919483) |
-| Upper | **[Cold Fusion](https://osu.ppy.sh/users/15389158)** ::{ flag=RU }:: | **5** | 3 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | [#1](https://osu.ppy.sh/community/matches/114742431) |
-| Upper | **[Nene Sakura](https://osu.ppy.sh/users/6701104)** ::{ flag=CN }:: | **5** | 0 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | [#1](https://osu.ppy.sh/community/matches/114740523) |
+| Upper | **[Keita](https://osu.ppy.sh/users/3355617)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=SG }:: [McButt](https://osu.ppy.sh/users/18018708) | [#1](https://osu.ppy.sh/community/matches/118920388) |
+| Upper | **[Rells](https://osu.ppy.sh/users/7937519)** ::{ flag=KR }:: | **5** | 0 | ::{ flag=KR }:: [log out side](https://osu.ppy.sh/users/11535744) | [#1](https://osu.ppy.sh/community/matches/118920412) |
 | Upper | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **5** | 1 | ::{ flag=TW }:: [\_Tsukiko](https://osu.ppy.sh/users/4787989) | [#1](https://osu.ppy.sh/community/matches/114742508) |
 | Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) | [#1](https://osu.ppy.sh/community/matches/114743923) |
 | Upper | [OYG](https://osu.ppy.sh/users/7547506) ::{ flag=KR }:: | 0 | **5** | ::{ flag=TW }:: **[Flyer](https://osu.ppy.sh/users/9767342)** | *win by default* |
