@@ -17,12 +17,12 @@ The **Catch the Beat Indonesia Cup Open 2025** (***CICO 2025***) was a double-el
 | Registration phase | 2025-07-03/2025-07-16 |
 | Screening phase | 2025-07-17/2025-07-27 |
 | Qualifiers | 2025-07-28/2025-08-03 |
-| Round of 32 | 2024-07-15/2024-07-21 |
-| Round of 16 | 2024-07-22/2024-07-28 |
-| Quarterfinals | 2024-07-29/2024-08-04 |
-| Semifinals | 2024-08-04/2024-08-11 |
-| Finals (week 1) | 2024-08-12/2024-08-25 |
-| Finals (week 2) | 2024-08-26/2024-09-01 |
+| Round of 32 | 2025-08-04/2025-08-10 |
+| Round of 16 | 2025-08-11/2025-08-17 |
+| Quarterfinals | 2025-08-18/2025-08-24 |
+| Semifinals | 2025-08-25/2025-08-31 |
+| Finals (week 1) | 2025-09-01/2025-09-07 |
+| Finals (week 2) | 2025-09-08/2025-09-14 |
 
 ## Prizes
 
