@@ -274,7 +274,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ### Qualifiers
 
-**[Download the mappack here! (59 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1259536166164893816)**
+**[Download the mappack here! (75 MB)](https://www.mediafire.com/file/973f5s0jj2jcjt0/CICO2025_-_Qualifier.rar/file)**
 
 - No Mod
   1. [Yousei Teikoku - Hades: The rise (-Miya) \[CICO2024 QLF NM1\]](https://osu.ppy.sh/beatmapsets/2210040#fruits/4681178)
