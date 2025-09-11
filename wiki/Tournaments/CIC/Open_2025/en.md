@@ -250,26 +250,26 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 **[Download the mappack here! (86 MB)](https://www.mediafire.com/file/be2wwi4m8w5fk7p/CICO2025_-_RO32.rar/file)**
 
 - No Mod
-  1. [JKT48 - Bersepeda Berdua (Cut Ver.) (Madoka Ayukawa) \[Gowes\]](https://osu.ppy.sh/beatmapsets/2214898#fruits/4692984)
-  2. [ginkiha - EOS (-Miya) \[CICO2024 RO32 NM2\]](https://osu.ppy.sh/beatmapsets/2214813#fruits/4692831)
-  3. [HyuN feat. YURI - Disorder (Verti) \[Jemzuu's Hyper Dysfunction\]](https://osu.ppy.sh/beatmapsets/1636276#fruits/3345954)
-  4. [Linkin Park - Breaking The Habit (Aakki) \[Akayume's Extra\]](https://osu.ppy.sh/beatmapsets/1499705#fruits/3084982)
+  1. [Tayori - Wonder (Fisicia) \[mesmerizing\]](https://osu.ppy.sh/beatmapsets/2414531#osu/5246534)
+  2. [Se-U-Ra - Qlifact -another- (EpanPan) \[RO 32 NM2\]](https://osu.ppy.sh/beatmapsets/2414534#osu/5246539)
+  3. [HOYO-MiX - Soothing of Soul and Sand (Dika312) \[Raden Mbah Ayu Kanjeng Citlali\]](https://osu.ppy.sh/beatmapsets/2414547#osu/5246566)
+  4. [YOASOBI - UNDEAD (My Angel Watame) \[AME'S EXTRA\]](https://osu.ppy.sh/beatmapsets/2207521#osu/4719384)
 - Hidden
-  1. [Another Infinity feat. Mayumi Morinaga - COME BACK TO MY HEART (Ryu\* Remix) (MILK\_16) \[CICO 2K24 RO32 HD 1\]](https://osu.ppy.sh/beatmapsets/2215233#fruits/4693654)
-  2. [capsule - dreamin dreamin (Cowboy) \[CICO2024 RO32 HD2\]](https://osu.ppy.sh/beatmapsets/2215214#fruits/4693614)
-  3. [Miyolophone - Shinigami Line (feat. eris elysia) (DeviousPanda) \[Grand Finale\]](https://osu.ppy.sh/beatmapsets/1930357#fruits/3987557)
+  1. [nakotanmaru - Muddy Midnight (Sololiquy) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/2414529#osu/5246532)
+  2. [movies (moimoi  Xceon  Dai.) - Too Late Snow (Oasix) \[Echo of warmth\]](https://osu.ppy.sh/beatmapsets/2414751#osu/5246997)
+  3. [LOL feat. Kasane Teto SV - Leviteto (MeAqua tete) \[Temporarily Banned\]](https://osu.ppy.sh/beatmapsets/2353458#osu/5130339)
 - Hard Rock
-  1. [sasakure.UK - AMARA (The Great Intelligence) (Mniam) \[Sololiquy x Quix's Rain\]](https://osu.ppy.sh/beatmapsets/1998960#fruits/4520337)
-  2. [Mili - Compass (yuinn) \[Rain\]](https://osu.ppy.sh/beatmapsets/2148993#fruits/4586965)
-  3. [A.SAKA - Nanatsu Myoukakitsubata (Houshou Hari) \[sahuang's Insane\]](https://osu.ppy.sh/beatmapsets/1598631#fruits/3292536)
+  1. [rinkiha - reminiscence (rinkiha) \[rinkiya's past memories\]](https://osu.ppy.sh/beatmapsets/2414536#osu/5246543)
+  2. [Junk - elegante (hiroshiki) \[Rain\]](https://osu.ppy.sh/beatmapsets/2414542#osu/5246556)
+  3. [Nightcore - Solo Tu (Only You) (SakiK) \[Collab\]](https://osu.ppy.sh/beatmapsets/46910#osu/145850)
 - Double Time
-  1. [Dormir - Sayonara Trip (Fisicia) \[Let's float to the World of Our Dreams!\]](https://osu.ppy.sh/beatmapsets/2214878#fruits/4692952)
-  2. [UNDEAD CORPORATION - Everything will freeze (NyalettOwO x3) \[HexlettOwO's Platter\]](https://osu.ppy.sh/beatmapsets/1293905#fruits/2685022)
-  3. [Rise Against - Audience Of One (tieff) \[Hard\]](https://osu.ppy.sh/beatmapsets/44743#fruits/140062)  
+  1. [Tamura Yukari - Fantastic future (-Hex-) \[Mirai\]](https://osu.ppy.sh/beatmapsets/2414562#osu/5246597)
+  2. [Titi Kamal - Jablai (Jarang Dibelai) (Madoka Ayukawa) \[Bapak jipeng dimana?\]](https://osu.ppy.sh/beatmapsets/2414553#osu/5246579)
+  3. [IOSYS - star river (PUNK IT VER) (ent) \[Delis' Lunatic\]](https://osu.ppy.sh/beatmapsets/1726109#osu/4457827)
 - Free Mod
-  1. [penoreri - Sulfur (Realazy) \[Deca's Expert\]](https://osu.ppy.sh/beatmapsets/1252844#fruits/3106504)
+  1. [BotchIBoromaru - TSUYOGARU GIRL feat. Mossa (NECRY TALKIE) (Ekseff) \[Duo Benched Host\]](https://osu.ppy.sh/beatmapsets/2414573#osu/5246612)
 - Tiebreaker
-  1. **[Kikuo - Hole Dwelling (Malai) \[Void (CICO2K24 Ver.)\]](https://osu.ppy.sh/beatmapsets/2214844#fruits/4692889)**  
+  1. **[RD-Sounds feat. Meramipop - Shoot the shrine maiden! (\[ Azu- \]) \["Instant Shot Journalist"!\]](https://osu.ppy.sh/beatmapsets/2414619#osu/5246699)**
 
 ### Qualifiers
 
