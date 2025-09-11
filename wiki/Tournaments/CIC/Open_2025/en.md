@@ -111,36 +111,36 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ### Finals (week 2)
 
-**[Download the mappack here! (173 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1277692769711947807)**
+**[Download the mappack here! (121 MB)](https://www.mediafire.com/file/zcbdn933f65x3p0/CICO2025_-_Grand_Finals.rar/file)**
 
 - No Mod
-  1. [UNDEAD CORPORATION - The Empress (Daletto) \[Daletto & Rustyy's Ripples of 495 Years\]](https://osu.ppy.sh/beatmapsets/2239310#fruits/4758753)
-  2. [USAO - Blows Up Everything (Zyzyx) \[2056\]](https://osu.ppy.sh/beatmapsets/2239584#fruits/4759580)
-  3. [MisoilePunch -Forever- - Bloomin' (Secre) \[Massacre\]](https://osu.ppy.sh/beatmapsets/2239435#fruits/4759059)
-  4. [Lord Snow - Aranea Ienith (BIG H ZONDA KIT) \[clamamus pro nihilo\]](https://osu.ppy.sh/beatmapsets/2239387#fruits/4758973)
-  5. [Iwami Takeshi - anoko dokonoko (melon boy) \[WOAHZA\]](https://osu.ppy.sh/beatmapsets/2051777#fruits/4284780)
+  1. [XADA - Oblimoria (-Ken) \[Unlucken's Final Verdict\]](https://osu.ppy.sh/beatmapsets/2432425#fruits/5299836)
+  2. [t+pazolite vs. Kaneko Chiharu - CHUTEN (Sololiquy) \[RE:MASTER\]](https://osu.ppy.sh/beatmapsets/2432409#fruits/5299662)
+  3. [Coconami - e\_5: guitar, gabber, and rbg waltz (Mniam) \[Whimsical Collaboration\]](https://osu.ppy.sh/beatmapsets/2432422#fruits/5299793)
+  4. [DJ-Orca - Fourth Impact (Vaqu) \[Vaqu & Zileni's Slam Dunk\]](https://osu.ppy.sh/beatmapsets/2432502#fruits/5300050)
+  5. [paraoka feat. haru\*nya - Tyranny (toybot) \[melon's KACHOW\]](https://osu.ppy.sh/beatmapsets/2255589#fruits/4798382)
 - Hidden
-  1. [Kyutatsuki - \_alc.yone (Zyzyx) \[Zyx vs. Zvenx's \_syn.thesis\]](https://osu.ppy.sh/beatmapsets/2239576#fruits/4759557)
-  2. [Coconami - e3\_footkore (Sololiquy) \[Special\]](https://osu.ppy.sh/beatmapsets/2239327#fruits/4758798)
-  3. [toby fox - Hopes and Dreams (Lightin) \[But It Refused\]](https://osu.ppy.sh/beatmapsets/2116013#fruits/4443679)
+  1. [Sampling Masters MEGA - Kattobi KEIKYU Rider (INO) \[MASTER\]](https://osu.ppy.sh/beatmapsets/722359#fruits/1525066)
+  2. [Hyadain - CHOCOBO!! (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2432675#fruits/5300464)
+  3. [Good Kid - Atlas (whalermelon) \[ethan's this is a humanly reference\]](https://osu.ppy.sh/beatmapsets/2354913#fruits/5070290)
 - Hard Rock
-  1. [Synestia, Disembodied Tyrant - I, The Devourer (Daletto) \[Gut and Maim\]](https://osu.ppy.sh/beatmapsets/2239329#fruits/4758813)
-  2. [Feryquitous - Estahv (BIG H ZONDA KIT) \[Colloquial (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2239386#fruits/4758970)
-  3. [Nene Kusanagi & NeneRobo x Mikudayo & Kagamine Len & KAITO - Tokugawa Cup Noodle Kinshirei (Cubby) \[Tonkotsu\]](https://osu.ppy.sh/beatmapsets/1763088#fruits/3608681)
+  1. [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru (Daletto) \[Daletto & Mochi's Rat Wife\]](https://osu.ppy.sh/beatmapsets/2338848#fruits/5299790)
+  2. [Yuma Mizonokuchi feat. Ai Ohsera - Princess Lily (Haruka Akane) \[Nyktos\]](https://osu.ppy.sh/beatmapsets/2432437#fruits/5299904)
+  3. [Toromaru - Deorbit (Wispy) \[Retrograde\]](https://osu.ppy.sh/beatmapsets/2268007#fruits/4829864)
 - Double Time
-  1. [Yosuke\@KG feat. Aitsuki Nakuru - INFINITE DAYS (Dika312) \[SUNSHINE\]](https://osu.ppy.sh/beatmapsets/2239334#fruits/4758826)
-  2. [Alistair Lindsay - Galaxy Trooper (ExGon) \[Cosmic Craggs (derandomized)\]](https://osu.ppy.sh/beatmapsets/2239345#fruits/4758873)
-  3. [Cita Citata - Goyang Dumang (Nightcore Mix) (Zvenx) \[Goyangan Zvenx & Ayukawa\]](https://osu.ppy.sh/beatmapsets/2239339#fruits/4758853)
-  4. [Isekaijoucho - Replica (Live Ver.) (Raijodo) \[tkfkdgo (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2239354#fruits/4758884)
-- Easy
-  1. [Rick Astley - Never Gonna Give You Up (Des9) \[Haven't You Heard? I Rickrolled You\]](https://osu.ppy.sh/beatmapsets/2239346#fruits/4758875)
-  2. [MisomyL - Amnehilesie (Realazy) \[descente aux enfers\]](https://osu.ppy.sh/beatmapsets/1703921#fruits/3481620)
+  1. [ShinRa-Bansho - Tsuki ni Murakumo Hana ni Kaze ShinRa-Bansho Ver (Spectator) \[Greaper's Overdose\]](https://osu.ppy.sh/beatmapsets/1267528#fruits/2635612)
+  2. [Anegasaki Nene - ZENITHALIZE (hiroshiki) \[LUMINOUS\]](https://osu.ppy.sh/beatmapsets/2432430#fruits/5299842)
+  3. [Ricky Martin - Maria (Pablo Flores Spanglish Radio Edit) (Zvenx) \[Ayukawa & Zvenx's Fuego (CICO vers)\]](https://osu.ppy.sh/beatmapsets/2432446#fruits/5299922)
+  4. [Red Velvet - Day 1 (mrow) \[kiss kiss kiss\]](https://osu.ppy.sh/beatmapsets/2415752#fruits/5250464)
+- Free Mod
+  1. [Umeboshi Chazuke - Midnight Trickster (Mrbinking) \[Joker\]](https://osu.ppy.sh/beatmapsets/2282116#fruits/4865933)
+  2. [Grand Thaw - SOLROS (Katsuragi) \[Katsuragi and Yoshi's Fantasia\]](https://osu.ppy.sh/beatmapsets/2432549#fruits/5300141)
 - Tiebreaker
-  1. **[Rukadesu & 5KiLOBYTE - Bootes Void (Mochi -) \[MZZR // \<Mazzerine Exploration\>\]](https://osu.ppy.sh/beatmapsets/2239341#fruits/4758862)**
+  1. **[5KiLOBYTE vs. takehirotei - Aurenox : Order//Chaos (Zvenx) \[Fallen Angel Shimmering in the Dark\]](https://osu.ppy.sh/beatmapsets/2432971#fruits/5301315)**
 
 ### Finals (week 1)
 
-**[Download the mappack here! (164 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1272568440510484520)**
+**[Download the mappack here! (133 MB)](https://www.mediafire.com/file/u9rsusocp6arut1/CICO2025_-_Finals.rar/file)**
 
 - No Mod
   1. [cosMo\@Bousou-P - Hatsune Miku no Shoushitsu -Real And Repeat- (Sololiquy) \[UNINSTALL\]](https://osu.ppy.sh/beatmapsets/2230758#fruits/4734261)
