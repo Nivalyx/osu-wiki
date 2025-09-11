@@ -198,27 +198,26 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 **[Download the mappack here! (99 MB)](https://www.mediafire.com/file/3agzoj9rz209u3f/CICO2025_-_Quarter_Finals.rar/file)**
 
 - No Mod
-  1. [-LostFairy- - Gates of Hades (Zileni) \[Zileni & Zonda's Flames of Judgement\]](https://osu.ppy.sh/beatmapsets/2223446#fruits/4714874)
-  2. [Nor - OST Theme 207 (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2223434#fruits/4714814)
-  3. [w\_tre - Shannon's Theorem (Dika312) \[no thoughts, head empty (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2011536#fruits/4713818)
-  4. [Akatsuki Records - S.A.R.I.E.L. (Mirash) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2091456#fruits/4385666)
+  1. [Krasper2 - In Sight (Zileni) \[Zileni & Des9’s Sightread\]](https://osu.ppy.sh/beatmapsets/2421608#osu/5268339)
+  2. [Frateloz - Suffocating Memory (Dika312) \[Chained Heavens\]](https://osu.ppy.sh/beatmapsets/2421612#osu/5268354)
+  3. [sakuraburst - forest of the spirits (Spectator) \[overdose\]](https://osu.ppy.sh/beatmapsets/2421618#osu/5268384)
+  4. [Camellia feat. Nanahira - HARDBASS FESTA (Slaked) \[AKIBA-STYLE\]](https://osu.ppy.sh/beatmapsets/995139#osu/2081564)
 - Hidden
-  1. [ginkiha - Anemoi (MILK\_16) \[CICO HD 1 QF\]](https://osu.ppy.sh/beatmapsets/2223533#fruits/4715071)
-  2. [HOYO-MiX feat. Robin (VO: Chevy) - Sway to My Beat in Cosmos (Zvenx) \[Kalah 50/50 ya kamu?\]](https://osu.ppy.sh/beatmapsets/2223480#fruits/4714974)
-  3. [Hoshimachi Suisei - BIBBIDIBA (Amateurre) \[Shooting Star\]](https://osu.ppy.sh/beatmapsets/2158562#fruits/4550807)
+  1. [Phadung Songsang (Jazz) - Luang Phee 4G (Zvenx) \[Maa ten kan thue thuk khon\]](https://osu.ppy.sh/beatmapsets/2421645#osu/5268449)
+  2. [Grand Thaw - Aventyr (Kyuare) \[Fiore (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2422903#osu/5272329)
+  3. [Satono Diamond (CV. Tachibana Hina) - winning the soul (Game Size) (Gaia) \[Makitoshi's Diachan\]](https://osu.ppy.sh/beatmapsets/2232316#osu/4739188)
 - Hard Rock
-  1. [ichigo from KISIDA KYODAN & THE AKEBOSI ROCKETS - STONE OCEAN / Eurobeat Remix (-Hex-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1943596#fruits/4020448)
-  2. [Dirty Androids - Midnight Lady (Spectator) \[Overdose (Edit ver.)\]](https://osu.ppy.sh/beatmapsets/2223472#fruits/4714957)
-  3. [pm04034 - sn4pside (bob) \[4 (nerfed)\]](https://osu.ppy.sh/beatmapsets/1933524#fruits/3995628)
+  1. [Kanami (CV: Uchida Maaya) - Beautiful World (Dapulezatos) \[Look How Beautiful the World Is\]](https://osu.ppy.sh/beatmapsets/2421630#osu/5268419)
+  2. [HeavenEGHD - Re:waked from Abyss (Sololiquy) \[Overdose (HR-ver)\]](https://osu.ppy.sh/beatmapsets/2421671#osu/5268529)
+  3. [Kobaryo - FLUFFY FLASH (Syarika) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1984199#osu/4132857)
 - Double Time
-  1. [JVKE - golden hour (-Rustyy) \[iridescent\]](https://osu.ppy.sh/beatmapsets/2223504#fruits/4715022)
-  2. [Akane Fujita, Yume Miyamoto, Ari Ozawa - Precious You\* (-Miya) \[Please be with me forever!\]](https://osu.ppy.sh/beatmapsets/2223461#fruits/4714933)
-  3. [Avril Lavigne - Sk8er Boi (mynt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1840198#fruits/3779532)
+  1. [Chihara Minori - Kyoukai no Kanata (Zvenx) \[Zvenx & -Miya's Beyond the Boundaries\]](https://osu.ppy.sh/beatmapsets/2421648#osu/5268454)
+  2. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Spectator) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/2281583#osu/4879141)
+  3. [Tamura Yukari feat. motsu from m.o.v.e - You & Me (Beomsan) \[Check it out, check it out yo\]](https://osu.ppy.sh/beatmapsets/2268678#osu/4831578)
 - Free Mod
-  1. [Harry Styles - As It Was (BIG H ZONDA KIT) \[Lovesick\]](https://osu.ppy.sh/beatmapsets/2223486#fruits/4714984)
-  2. [SEATBELTS - Tank! (Monstrata) \[Bang!\]](https://osu.ppy.sh/beatmapsets/801747#fruits/1922693)
+  1. [Hoshimachi Suisei - Je t'aime (Katsuragi) \[Comet\]](https://osu.ppy.sh/beatmapsets/2421987#osu/5269559)
 - Tiebreaker
-  1. **[TRakker - Countdown to the Blue (-Miya) \[Fly to the Sky with Zonda\]](https://osu.ppy.sh/beatmapsets/2223475#fruits/4714962)**
+  1. **[Rabbit House - Divine Ordeal (Dedot) \[Final Affliction\]](https://osu.ppy.sh/beatmapsets/2421643#osu/5268446)**
 
 ### Round of 16
 
