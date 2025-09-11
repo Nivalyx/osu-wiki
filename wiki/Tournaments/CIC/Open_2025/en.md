@@ -101,7 +101,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 29 | ::{ flag=JP }:: [giru HD](https://osu.ppy.sh/users/707456) | 7.005 |
 | 30 | ::{ flag=ID }:: [Barry Chopstick](https://osu.ppy.sh/users/9573836) | 6.978 |
 | 31 | ::{ flag=MY }:: [HyPerNekoChan](https://osu.ppy.sh/users/9626549) | 6.941 |
-| 32 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | 31.40 |
+| 32 | ::{ flag=NZ }:: [Kasumizawa-Miyu](https://osu.ppy.sh/users/24345309) | 6.731 |
 
 ## Podium
 
