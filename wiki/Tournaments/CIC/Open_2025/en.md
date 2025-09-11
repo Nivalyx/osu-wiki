@@ -143,81 +143,81 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 **[Download the mappack here! (133 MB)](https://www.mediafire.com/file/u9rsusocp6arut1/CICO2025_-_Finals.rar/file)**
 
 - No Mod
-  1. [Demetori - Natsukashiki Touhou no Chi \~ Sic World (Madoka Ayukawa) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2429034#osu/5289290)
-  2. [DJ-Orca - BLUE RAINBOW (EpanPan) \[ROAD AWAY TO SKY\]](https://osu.ppy.sh/beatmapsets/2429019#osu/5289259)
-  3. [Iyowa - Golden Number (Mniam) \[1.61803398874989484820458683436563811772030917980576286213544862270526046281...\]](https://osu.ppy.sh/beatmapsets/2429021#osu/5289261)
-  4. [Noah - Hurt me plenty (Pepti) \[Eternal Suffering\]](https://osu.ppy.sh/beatmapsets/2429053#osu/5289328)
-  5. [N\_dog feat. Kyoyama Sail - daybreak (Arushii) \[Even if you exist only within a dream\]](https://osu.ppy.sh/beatmapsets/2370829#osu/5116498)
+  1. [Demetori - Natsukashiki Touhou no Chi \~ Sic World (Madoka Ayukawa) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/2429034#fruits/5289290)
+  2. [DJ-Orca - BLUE RAINBOW (EpanPan) \[ROAD AWAY TO SKY\]](https://osu.ppy.sh/beatmapsets/2429019#fruits/5289259)
+  3. [Iyowa - Golden Number (Mniam) \[1.61803398874989484820458683436563811772030917980576286213544862270526046281...\]](https://osu.ppy.sh/beatmapsets/2429021#fruits/5289261)
+  4. [Noah - Hurt me plenty (Pepti) \[Eternal Suffering\]](https://osu.ppy.sh/beatmapsets/2429053#fruits/5289328)
+  5. [N\_dog feat. Kyoyama Sail - daybreak (Arushii) \[Even if you exist only within a dream\]](https://osu.ppy.sh/beatmapsets/2370829#fruits/5116498)
 - Hidden
-  1. [Kabocha feat. Nanahira - maison de joie (Dika312) \[pleurer seul\]](https://osu.ppy.sh/beatmapsets/2429046#osu/5289311)
-  2. [P-MODEL - Logic Airforce (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2429188#osu/5289681)
-  3. [himmel - Wings of Liberty (Saki) \[Echo\]](https://osu.ppy.sh/beatmapsets/2217823#osu/4793617)
+  1. [Kabocha feat. Nanahira - maison de joie (Dika312) \[pleurer seul\]](https://osu.ppy.sh/beatmapsets/2429046#fruits/5289311)
+  2. [P-MODEL - Logic Airforce (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2429188#fruits/5289681)
+  3. [himmel - Wings of Liberty (Saki) \[Echo\]](https://osu.ppy.sh/beatmapsets/2217823#fruits/4793617)
 - Hard Rock
-  1. [Sasaki Sayaka - FEEL x ALIVE (Zvenx) \[Alive\]](https://osu.ppy.sh/beatmapsets/1683728#osu/5289327)
-  2. [Lime - Campanella (Zileni) \[Beyond\]](https://osu.ppy.sh/beatmapsets/2429033#osu/5289289)
-  3. [Mitsukiyo - Operation\*DOTABATA (Kyuuchie) \[Ayesha's Extra\]](https://osu.ppy.sh/beatmapsets/1985193#osu/4432365)
+  1. [Sasaki Sayaka - FEEL x ALIVE (Zvenx) \[Alive\]](https://osu.ppy.sh/beatmapsets/1683728#fruits/5289327)
+  2. [Lime - Campanella (Zileni) \[Beyond\]](https://osu.ppy.sh/beatmapsets/2429033#fruits/5289289)
+  3. [Mitsukiyo - Operation\*DOTABATA (Kyuuchie) \[Ayesha's Extra\]](https://osu.ppy.sh/beatmapsets/1985193#fruits/4432365)
 - Double Time
-  1. [Annabel - Signal Graph (-Miya) \[CICO F DT1\]](https://osu.ppy.sh/beatmapsets/2429035#osu/5289291)
-  2. [t+pazolite - seedy try (Juansy-) \[CICO 2025 FINALS DT2\]](https://osu.ppy.sh/beatmapsets/2375443#osu/5289304)
-  3. [Kitadani Hiroshi - We Are! (Des9) \[Romance Dawn\]](https://osu.ppy.sh/beatmapsets/2429238#osu/5289809)
-  4. [Nyong Franco - Gemu Fa Mi Re (Nakazawa) \[Maumere (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2429041#osu/5289300)
+  1. [Annabel - Signal Graph (-Miya) \[CICO F DT1\]](https://osu.ppy.sh/beatmapsets/2429035#fruits/5289291)
+  2. [t+pazolite - seedy try (Juansy-) \[CICO 2025 FINALS DT2\]](https://osu.ppy.sh/beatmapsets/2375443#fruits/5289304)
+  3. [Kitadani Hiroshi - We Are! (Des9) \[Romance Dawn\]](https://osu.ppy.sh/beatmapsets/2429238#fruits/5289809)
+  4. [Nyong Franco - Gemu Fa Mi Re (Nakazawa) \[Maumere (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2429041#fruits/5289300)
 - Free Mod
-  1. [Attoclef - OVERCLOCK-360 (Spectator) \[ExSpec's Boost\]](https://osu.ppy.sh/beatmapsets/2429186#osu/5289678)
-  2. [NANAOAKARI - Ashita no Watashi ni Sachi Are (Dika312) \[Workday\]](https://osu.ppy.sh/beatmapsets/2429048#osu/5289316)
+  1. [Attoclef - OVERCLOCK-360 (Spectator) \[ExSpec's Boost\]](https://osu.ppy.sh/beatmapsets/2429186#fruits/5289678)
+  2. [NANAOAKARI - Ashita no Watashi ni Sachi Are (Dika312) \[Workday\]](https://osu.ppy.sh/beatmapsets/2429048#fruits/5289316)
 - Tiebreaker
-  1. **[trailmix37 - Pneuma (CLSW) \[Crystal Spec's Spiritual Encounter\]](https://osu.ppy.sh/beatmapsets/2429054#osu/5289329)**
+  1. **[trailmix37 - Pneuma (CLSW) \[Crystal Spec's Spiritual Encounter\]](https://osu.ppy.sh/beatmapsets/2429054#fruits/5289329)**
 
 ### Semifinals
 
 **[Download the mappack here! (109 MB)](https://www.mediafire.com/file/05ul7kuitnnzxmg/CICO2025_-_Semi_Finals.rar/file)**
 
 - No Mod
-  1. [S.S.H. - The Decisive Battle with the Fugitives (hiroshiki) \[Decisive Battle\]](https://osu.ppy.sh/beatmapsets/2425286#osu/5279240)
-  2. [tn-shi - Heart Factorisation (Spectator) \[Prime Love\]](https://osu.ppy.sh/beatmapsets/2425289#osu/5279259)
-  3. [Tipper - Mason (ExGon) \[Normal\]](https://osu.ppy.sh/beatmapsets/2425892#osu/5280776)
-  4. [WhiteSakata - R(eiterat)e: (Wispy) \[Basherman's E(xtrem)e:\]](https://osu.ppy.sh/beatmapsets/2407278#osu/5230097)
+  1. [S.S.H. - The Decisive Battle with the Fugitives (hiroshiki) \[Decisive Battle\]](https://osu.ppy.sh/beatmapsets/2425286#fruits/5279240)
+  2. [tn-shi - Heart Factorisation (Spectator) \[Prime Love\]](https://osu.ppy.sh/beatmapsets/2425289#fruits/5279259)
+  3. [Tipper - Mason (ExGon) \[Normal\]](https://osu.ppy.sh/beatmapsets/2425892#fruits/5280776)
+  4. [WhiteSakata - R(eiterat)e: (Wispy) \[Basherman's E(xtrem)e:\]](https://osu.ppy.sh/beatmapsets/2407278#fruits/5230097)
 - Hidden
-  1. [Various Artists - Bokura no Blue Bird Days (Dapulezatos) \[Together With You\]](https://osu.ppy.sh/beatmapsets/2425304#osu/5279293)
-  2. [Bebe Rexha ft. Travis Barker - Break My Heart Myself (Madoka Ayukawa) \[Guilty\]](https://osu.ppy.sh/beatmapsets/2425297#osu/5279274)
-  3. [Kabocha - Draw me a map, Let me feel the tap (toybot) \[gazimal's Extra\]](https://osu.ppy.sh/beatmapsets/2051856#osu/4608517)
+  1. [Various Artists - Bokura no Blue Bird Days (Dapulezatos) \[Together With You\]](https://osu.ppy.sh/beatmapsets/2425304#fruits/5279293)
+  2. [Bebe Rexha ft. Travis Barker - Break My Heart Myself (Madoka Ayukawa) \[Guilty\]](https://osu.ppy.sh/beatmapsets/2425297#fruits/5279274)
+  3. [Kabocha - Draw me a map, Let me feel the tap (toybot) \[gazimal's Extra\]](https://osu.ppy.sh/beatmapsets/2051856#fruits/4608517)
 - Hard Rock
-  1. [The Black Dahlia Murder - Deathmask Divine (mieldeprairie) \[Miel & Zileni's Deluge\]](https://osu.ppy.sh/beatmapsets/2425401#osu/5279542)
-  2. [DECO\*27 - Telepathy feat. Hatsune Miku ([ Azu- ]) \[Des9 & Azu's XDose (CICO Ver)\]](https://osu.ppy.sh/beatmapsets/2425332#osu/5279397)
-  3. [MIOYAMAZAKI - Noise (Aspheria) \[Death\]](https://osu.ppy.sh/beatmapsets/2204253#osu/4665887)
+  1. [The Black Dahlia Murder - Deathmask Divine (mieldeprairie) \[Miel & Zileni's Deluge\]](https://osu.ppy.sh/beatmapsets/2425401#fruits/5279542)
+  2. [DECO\*27 - Telepathy feat. Hatsune Miku ([ Azu- ]) \[Des9 & Azu's XDose (CICO Ver)\]](https://osu.ppy.sh/beatmapsets/2425332#fruits/5279397)
+  3. [MIOYAMAZAKI - Noise (Aspheria) \[Death\]](https://osu.ppy.sh/beatmapsets/2204253#fruits/4665887)
 - Double Time
-  1. [FROZEN QUALIA - Image Liner (\[ Azu- \]) \[Juansy & Azu's Take of Memories Around this World\]](https://osu.ppy.sh/beatmapsets/2425321#osu/5279380)
-  2. [LukHash - Destroy (hiroshiki) \[Ghost\]](https://osu.ppy.sh/beatmapsets/2425320#osu/5279375)
-  3. [Diskoria, Laleilmanino, Bunga Citra Lestari - Badai Telah Berlalu (Nakazawa) \[Serenity (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2425325#osu/5279389)
+  1. [FROZEN QUALIA - Image Liner (\[ Azu- \]) \[Juansy & Azu's Take of Memories Around this World\]](https://osu.ppy.sh/beatmapsets/2425321#fruits/5279380)
+  2. [LukHash - Destroy (hiroshiki) \[Ghost\]](https://osu.ppy.sh/beatmapsets/2425320#fruits/5279375)
+  3. [Diskoria, Laleilmanino, Bunga Citra Lestari - Badai Telah Berlalu (Nakazawa) \[Serenity (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2425325#fruits/5279389)
 - Free Mod
-  1. [Nunununununununununununununununu - Mimukauwa Nice Try (Sololiquy) \[UNO\]](https://osu.ppy.sh/beatmapsets/2425353#osu/5279445)
+  1. [Nunununununununununununununununu - Mimukauwa Nice Try (Sololiquy) \[UNO\]](https://osu.ppy.sh/beatmapsets/2425353#fruits/5279445)
 - Tiebreaker
-  1. **[Ave Mujica - Symbol I : Fire (Pepti) \[Azu, Du5t & Pepti : Blooming Red Sorrowful Sky\]](https://osu.ppy.sh/beatmapsets/2425340#osu/5279408)**
+  1. **[Ave Mujica - Symbol I : Fire (Pepti) \[Azu, Du5t & Pepti : Blooming Red Sorrowful Sky\]](https://osu.ppy.sh/beatmapsets/2425340#fruits/5279408)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (99 MB)](https://www.mediafire.com/file/3agzoj9rz209u3f/CICO2025_-_Quarter_Finals.rar/file)**
 
 - No Mod
-  1. [Krasper2 - In Sight (Zileni) \[Zileni & Des9’s Sightread\]](https://osu.ppy.sh/beatmapsets/2421608#osu/5268339)
-  2. [Frateloz - Suffocating Memory (Dika312) \[Chained Heavens\]](https://osu.ppy.sh/beatmapsets/2421612#osu/5268354)
-  3. [sakuraburst - forest of the spirits (Spectator) \[overdose\]](https://osu.ppy.sh/beatmapsets/2421618#osu/5268384)
-  4. [Camellia feat. Nanahira - HARDBASS FESTA (Slaked) \[AKIBA-STYLE\]](https://osu.ppy.sh/beatmapsets/995139#osu/2081564)
+  1. [Krasper2 - In Sight (Zileni) \[Zileni & Des9’s Sightread\]](https://osu.ppy.sh/beatmapsets/2421608#fruits/5268339)
+  2. [Frateloz - Suffocating Memory (Dika312) \[Chained Heavens\]](https://osu.ppy.sh/beatmapsets/2421612#fruits/5268354)
+  3. [sakuraburst - forest of the spirits (Spectator) \[overdose\]](https://osu.ppy.sh/beatmapsets/2421618#fruits/5268384)
+  4. [Camellia feat. Nanahira - HARDBASS FESTA (Slaked) \[AKIBA-STYLE\]](https://osu.ppy.sh/beatmapsets/995139#fruits/2081564)
 - Hidden
-  1. [Phadung Songsang (Jazz) - Luang Phee 4G (Zvenx) \[Maa ten kan thue thuk khon\]](https://osu.ppy.sh/beatmapsets/2421645#osu/5268449)
-  2. [Grand Thaw - Aventyr (Kyuare) \[Fiore (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2422903#osu/5272329)
-  3. [Satono Diamond (CV. Tachibana Hina) - winning the soul (Game Size) (Gaia) \[Makitoshi's Diachan\]](https://osu.ppy.sh/beatmapsets/2232316#osu/4739188)
+  1. [Phadung Songsang (Jazz) - Luang Phee 4G (Zvenx) \[Maa ten kan thue thuk khon\]](https://osu.ppy.sh/beatmapsets/2421645#fruits/5268449)
+  2. [Grand Thaw - Aventyr (Kyuare) \[Fiore (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2422903#fruits/5272329)
+  3. [Satono Diamond (CV. Tachibana Hina) - winning the soul (Game Size) (Gaia) \[Makitoshi's Diachan\]](https://osu.ppy.sh/beatmapsets/2232316#fruits/4739188)
 - Hard Rock
-  1. [Kanami (CV: Uchida Maaya) - Beautiful World (Dapulezatos) \[Look How Beautiful the World Is\]](https://osu.ppy.sh/beatmapsets/2421630#osu/5268419)
-  2. [HeavenEGHD - Re:waked from Abyss (Sololiquy) \[Overdose (HR-ver)\]](https://osu.ppy.sh/beatmapsets/2421671#osu/5268529)
-  3. [Kobaryo - FLUFFY FLASH (Syarika) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1984199#osu/4132857)
+  1. [Kanami (CV: Uchida Maaya) - Beautiful World (Dapulezatos) \[Look How Beautiful the World Is\]](https://osu.ppy.sh/beatmapsets/2421630#fruits/5268419)
+  2. [HeavenEGHD - Re:waked from Abyss (Sololiquy) \[Overdose (HR-ver)\]](https://osu.ppy.sh/beatmapsets/2421671#fruits/5268529)
+  3. [Kobaryo - FLUFFY FLASH (Syarika) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1984199#fruits/4132857)
 - Double Time
-  1. [Chihara Minori - Kyoukai no Kanata (Zvenx) \[Zvenx & -Miya's Beyond the Boundaries\]](https://osu.ppy.sh/beatmapsets/2421648#osu/5268454)
-  2. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Spectator) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/2281583#osu/4879141)
-  3. [Tamura Yukari feat. motsu from m.o.v.e - You & Me (Beomsan) \[Check it out, check it out yo\]](https://osu.ppy.sh/beatmapsets/2268678#osu/4831578)
+  1. [Chihara Minori - Kyoukai no Kanata (Zvenx) \[Zvenx & -Miya's Beyond the Boundaries\]](https://osu.ppy.sh/beatmapsets/2421648#fruits/5268454)
+  2. [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Spectator) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/2281583#fruits/4879141)
+  3. [Tamura Yukari feat. motsu from m.o.v.e - You & Me (Beomsan) \[Check it out, check it out yo\]](https://osu.ppy.sh/beatmapsets/2268678#fruits/4831578)
 - Free Mod
-  1. [Hoshimachi Suisei - Je t'aime (Katsuragi) \[Comet\]](https://osu.ppy.sh/beatmapsets/2421987#osu/5269559)
+  1. [Hoshimachi Suisei - Je t'aime (Katsuragi) \[Comet\]](https://osu.ppy.sh/beatmapsets/2421987#fruits/5269559)
 - Tiebreaker
-  1. **[Rabbit House - Divine Ordeal (Dedot) \[Final Affliction\]](https://osu.ppy.sh/beatmapsets/2421643#osu/5268446)**
+  1. **[Rabbit House - Divine Ordeal (Dedot) \[Final Affliction\]](https://osu.ppy.sh/beatmapsets/2421643#fruits/5268446)**
 
 ### Round of 16
 
