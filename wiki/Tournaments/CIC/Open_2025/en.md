@@ -72,9 +72,9 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | :-- | :-- | :-- |
 | 1 | ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) | 8.867 |
 | 2 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | 8.709 |
-| 3 | ::{ flag=TW }:: [Shimoe Koharu](https://osu.ppy.sh/users/2145160) | 8.30 |
-| 4 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | 9.40 |
-| 5 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | 9.50 |
+| 3 | ::{ flag=TW }:: [eauikk](https://osu.ppy.sh/users/1177233) | 8.632 |
+| 4 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | 8.546 |
+| 5 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | 8.541 |
 | 6 | ::{ flag=KR }:: [OYG](https://osu.ppy.sh/users/7547506) | 9.80 |
 | 7 | ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766) | 9.90 |
 | 8 | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | 10.20 |
