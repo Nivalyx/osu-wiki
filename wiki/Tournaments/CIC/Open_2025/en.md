@@ -8,7 +8,7 @@ tags:
 
 ![Catch the Beat Indonesia Cup Open 2025 banner](img/banner.jpg)
 
-The **Catch the Beat Indonesia Cup Open 2025** (***CICO 2025***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788) and ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422). Despite its name, the tournament was open to all osu!catch players from the Asia-Pacific region regardless of rank. It was the thirteenth iteration of the Catch the Beat Indonesia Cup, as well as the third one to be held under the "Open" format.
+The **Catch the Beat Indonesia Cup Open 2025** (***CICO 2025***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788) and ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422). Despite its name, the tournament was open to all osu!catch players from the Asia-Pacific region. It was the thirteenth iteration of the Catch the Beat Indonesia Cup, as well as the third one to be held under the "Open" format.
 
 ## Tournament schedule
 
