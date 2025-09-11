@@ -182,7 +182,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   3. [Kabocha - Draw me a map, Let me feel the tap (toybot) \[gazimal's Extra\]](https://osu.ppy.sh/beatmapsets/2051856#osu/4608517)
 - Hard Rock
   1. [The Black Dahlia Murder - Deathmask Divine (mieldeprairie) \[Miel & Zileni's Deluge\]](https://osu.ppy.sh/beatmapsets/2425401#osu/5279542)
-  2. [DECO*27 - Telepathy feat. Hatsune Miku ([ Azu- ]) \[Des9 & Azu's XDose (CICO Ver)\]](https://osu.ppy.sh/beatmapsets/2425332#osu/5279397)
+  2. [DECO\*27 - Telepathy feat. Hatsune Miku ([ Azu- ]) \[Des9 & Azu's XDose (CICO Ver)\]](https://osu.ppy.sh/beatmapsets/2425332#osu/5279397)
   3. [MIOYAMAZAKI - Noise (Aspheria) \[Death\]](https://osu.ppy.sh/beatmapsets/2204253#osu/4665887)
 - Double Time
   1. [FROZEN QUALIA - Image Liner (\[ Azu- \]) \[Juansy & Azu's Take of Memories Around this World\]](https://osu.ppy.sh/beatmapsets/2425321#osu/5279380)
