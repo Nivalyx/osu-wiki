@@ -99,8 +99,8 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 27 | ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552) | 7.242 |
 | 28 | ::{ flag=MY }:: [Yeury](https://osu.ppy.sh/users/9434933) | 7.067 |
 | 29 | ::{ flag=JP }:: [giru HD](https://osu.ppy.sh/users/707456) | 7.005 |
-| 30 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | 29.60 |
-| 31 | ::{ flag=TW }:: [\_Nanami](https://osu.ppy.sh/users/1929450) | 31.30 |
+| 30 | ::{ flag=ID }:: [Barry Chopstick](https://osu.ppy.sh/users/9573836) | 6.978 |
+| 31 | ::{ flag=MY }:: [HyPerNekoChan](https://osu.ppy.sh/users/9626549) | 6.941 |
 | 32 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | 31.40 |
 
 ## Podium
