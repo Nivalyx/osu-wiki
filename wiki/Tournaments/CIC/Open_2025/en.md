@@ -51,6 +51,7 @@ The Catch the Beat Indonesia Cup Open 2025 was run by various osu! community mem
 | Design coordinator | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991) |
 | GFX/video editor | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=IN }:: [rrex](https://osu.ppy.sh/users/16827064), ::{ flag=IN }:: [Raybean](https://osu.ppy.sh/users/16676388), ::{ flag=AR }:: [Zeth](https://osu.ppy.sh/users/4219488) |
 | Ilustrator | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [RemcoN](https://osu.ppy.sh/users/9823378), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=ID }:: rezukita [(↗)](https://twitter.com/rezukita) |
+| Statisician | ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829), ::{ flag=IN }:: [rrex](https://osu.ppy.sh/users/16827064) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
