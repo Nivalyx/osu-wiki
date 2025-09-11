@@ -75,7 +75,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 3 | ::{ flag=TW }:: [eauikk](https://osu.ppy.sh/users/1177233) | 8.632 |
 | 4 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | 8.546 |
 | 5 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | 8.541 |
-| 6 | ::{ flag=KR }:: [OYG](https://osu.ppy.sh/users/7547506) | 9.80 |
+| 6 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | 8.495 |
 | 7 | ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766) | 9.90 |
 | 8 | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | 10.20 |
 | 9 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | 11.00 |
