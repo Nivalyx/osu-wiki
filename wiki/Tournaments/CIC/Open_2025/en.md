@@ -169,30 +169,29 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ### Semifinals
 
-**[Download the mappack here! (207 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1270027457084391505)**
+**[Download the mappack here! (109 MB)](https://www.mediafire.com/file/05ul7kuitnnzxmg/CICO2025_-_Semi_Finals.rar/file)**
 
 - No Mod
-  1. [Passcode - It's You (Zvenx) \[Traverse Beyond the Sea\]](https://osu.ppy.sh/beatmapsets/2226730#fruits/4723733)
-  2. [Memme - Pandemonium (GiGas) \[Zileni's Master\]](https://osu.ppy.sh/beatmapsets/2152059#fruits/4538677)
-  3. [Down - ddm (Mochi -) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2226652#fruits/4723509)
-  4. [Kagetora. - Aspiration (NekoShabeta) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/2112505#fruits/4435065)
+  1. [S.S.H. - The Decisive Battle with the Fugitives (hiroshiki) \[Decisive Battle\]](https://osu.ppy.sh/beatmapsets/2425286#osu/5279240)
+  2. [tn-shi - Heart Factorisation (Spectator) \[Prime Love\]](https://osu.ppy.sh/beatmapsets/2425289#osu/5279259)
+  3. [Tipper - Mason (ExGon) \[Normal\]](https://osu.ppy.sh/beatmapsets/2425892#osu/5280776)
+  4. [WhiteSakata - R(eiterat)e: (Wispy) \[Basherman's E(xtrem)e:\]](https://osu.ppy.sh/beatmapsets/2407278#osu/5230097)
 - Hidden
-  1. [U2 - Saigetsu (Koko & Satsuki ga Tenkomori's Sagyou Bougai Remix) (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2226658#fruits/4723516)
-  2. [Aitsuki Nakuru - phony (-Miya) \[CICO 2024 SF HD2\]](https://osu.ppy.sh/beatmapsets/2226661#fruits/4723522)
-  3. [otoe - DOLL (AIR) \[Extra\]](https://osu.ppy.sh/beatmapsets/1816605#fruits/3726767)
+  1. [Various Artists - Bokura no Blue Bird Days (Dapulezatos) \[Together With You\]](https://osu.ppy.sh/beatmapsets/2425304#osu/5279293)
+  2. [Bebe Rexha ft. Travis Barker - Break My Heart Myself (Madoka Ayukawa) \[Guilty\]](https://osu.ppy.sh/beatmapsets/2425297#osu/5279274)
+  3. [Kabocha - Draw me a map, Let me feel the tap (toybot) \[gazimal's Extra\]](https://osu.ppy.sh/beatmapsets/2051856#osu/4608517)
 - Hard Rock
-  1. [Kotone - Kagome (Mochi -) \[Mochi & Rustyy's Farewell Ending\]](https://osu.ppy.sh/beatmapsets/2226671#fruits/4723549)
-  2. [Nanatsukaze - Dream Gravity (Sololiquy) \[Overdose (CICO ver.)\]](https://osu.ppy.sh/beatmapsets/2226660#fruits/4723519)
-  3. [Origami Angel - Noah Fence (WashedUp Player) \[squirrelp's Extra\]](https://osu.ppy.sh/beatmapsets/1931702#fruits/3990667)
+  1. [The Black Dahlia Murder - Deathmask Divine (mieldeprairie) \[Miel & Zileni's Deluge\]](https://osu.ppy.sh/beatmapsets/2425401#osu/5279542)
+  2. [DECO*27 - Telepathy feat. Hatsune Miku ([ Azu- ]) \[Des9 & Azu's XDose (CICO Ver)\]](https://osu.ppy.sh/beatmapsets/2425332#osu/5279397)
+  3. [MIOYAMAZAKI - Noise (Aspheria) \[Death\]](https://osu.ppy.sh/beatmapsets/2204253#osu/4665887)
 - Double Time
-  1. [DIALOGUE+ - Omoide Shiritori (-Luminate) \[Verti's Rain\]](https://osu.ppy.sh/beatmapsets/2092098#fruits/4421064)
-  2. [Ricky Martin - Livin' La Vida Loca (Zvenx) \[get shrekt!!\]](https://osu.ppy.sh/beatmapsets/2226732#fruits/4723735)
-  3. [zts - the executioner (big snag) \[itay's insane\]](https://osu.ppy.sh/beatmapsets/2155765#fruits/4590821)
+  1. [FROZEN QUALIA - Image Liner (\[ Azu- \]) \[Juansy & Azu's Take of Memories Around this World\]](https://osu.ppy.sh/beatmapsets/2425321#osu/5279380)
+  2. [LukHash - Destroy (hiroshiki) \[Ghost\]](https://osu.ppy.sh/beatmapsets/2425320#osu/5279375)
+  3. [Diskoria, Laleilmanino, Bunga Citra Lestari - Badai Telah Berlalu (Nakazawa) \[Serenity (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2425325#osu/5279389)
 - Free Mod
-  1. [siromaru + cranky - conflict (Bunnrei) \[Conquest of the Damned (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2227220#fruits/4724904)
-  2. [Rise Against - Injection (pishifat) \[Extreme\]](https://osu.ppy.sh/beatmapsets/214092#fruits/646390)
+  1. [Nunununununununununununununununu - Mimukauwa Nice Try (Sololiquy) \[UNO\]](https://osu.ppy.sh/beatmapsets/2425353#osu/5279445)
 - Tiebreaker
-  1. **[polysha - Endverse (MILK_16) \[Des9 & MILK\_16's Final Annihilation\]](https://osu.ppy.sh/beatmapsets/2226698#fruits/4723636)**
+  1. **[Ave Mujica - Symbol I : Fire (Pepti) \[Azu, Du5t & Pepti : Blooming Red Sorrowful Sky\]](https://osu.ppy.sh/beatmapsets/2425340#osu/5279408)**
 
 ### Quarterfinals
 
