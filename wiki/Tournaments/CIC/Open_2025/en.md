@@ -447,6 +447,8 @@ Sunday, 10 August 2025:
 | Upper | **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** ::{ flag=KR }:: | **5** | 0 | ::{ flag=MY }:: [Yeury](https://osu.ppy.sh/users/9434933) | [#1](https://osu.ppy.sh/community/matches/118929763) |
 | Upper | **[Roido](https://osu.ppy.sh/users/6829103)** ::{ flag=PH }:: | **5** | 0 | ::{ flag=NZ }:: [Kazumisawa-Miyu](https://osu.ppy.sh/users/24345309) | [#1](https://osu.ppy.sh/community/matches/118926880) |
 | Upper | **[Nerris](https://osu.ppy.sh/users/11202866)** ::{ flag=RU }:: | **5** | 2 | ::{ flag=TH }:: [G1ilbert](https://osu.ppy.sh/users/7408055) | [#1](https://osu.ppy.sh/community/matches/118929771) |
+| Upper | **[-Rustyy](https://osu.ppy.sh/users/16355636)** ::{ flag=PH }:: | **5** | 2 | ::{ flag=ID }:: [Nomiru](https://osu.ppy.sh/users/17514687) | [#1](https://osu.ppy.sh/community/matches/118930208) |
+| Upper | **[Nelly](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552) | [#1](https://osu.ppy.sh/community/matches/118927854) |
 
 ## Ruleset
 
