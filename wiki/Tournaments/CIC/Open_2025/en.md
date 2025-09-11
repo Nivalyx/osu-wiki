@@ -443,8 +443,8 @@ Sunday, 10 August 2025:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=JP }:: [giru HD](https://osu.ppy.sh/users/707456) | [#1](https://osu.ppy.sh/community/matches/118928676) |
 | Upper | [Sanami](https://osu.ppy.sh/users/1629471) ::{ flag=ID }:: | 3 | **5** | ::{ flag=AU }:: **[Zakrusta](https://osu.ppy.sh/users/5034270)** | [#1](https://osu.ppy.sh/community/matches/118928969) |
-| Upper | **[Shimoe Koharu](https://osu.ppy.sh/users/2145160)** ::{ flag=TW }:: | **5** | 4 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | [#1](https://osu.ppy.sh/community/matches/114756009) |
-| Upper | **[Minato Yukina](https://osu.ppy.sh/users/4133477)** ::{ flag=TW }:: | **5** | 2 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | [#1](https://osu.ppy.sh/community/matches/114754454) |
+| Upper | **[- N a g i -](https://osu.ppy.sh/users/2956936)** ::{ flag=CN }:: | **5** | 0 | ::{ flag=MY }:: [HyPerNekoChan](https://osu.ppy.sh/users/9626549) | [#1](https://osu.ppy.sh/community/matches/118930742) |
+| Upper | **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** ::{ flag=KR }:: | **5** | 0 | ::{ flag=MY }:: [Yeury](https://osu.ppy.sh/users/9434933) | [#1](https://osu.ppy.sh/community/matches/118929763) |
 | Upper | [littlepiggod](https://osu.ppy.sh/users/12331683) ::{ flag=HK }:: | 4 | **5** | ::{ flag=HK }:: **[my angel auto](https://osu.ppy.sh/users/29503627)** | [#1](https://osu.ppy.sh/community/matches/114756048) |
 | Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) | [#1](https://osu.ppy.sh/community/matches/114756671) |
 
