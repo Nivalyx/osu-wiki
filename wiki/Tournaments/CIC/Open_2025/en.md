@@ -402,7 +402,7 @@ Saturday, 16 August 2025:
 | Lower | [giru HD](https://osu.ppy.sh/users/707456) ::{ flag=JP }:: | 1 | **5** | ::{ flag=TW }:: **[Sanami](https://osu.ppy.sh/users/1629471)** | [#1](https://osu.ppy.sh/community/matches/118985431) |
 | Upper | **[Roido](https://osu.ppy.sh/users/6829103)** ::{ flag=PH }:: | **5** | 0 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | [#1](https://osu.ppy.sh/community/matches/118985779) |
 | Lower | [Barry Chopstick](https://osu.ppy.sh/users/9573836) ::{ flag=ID }:: | 4 | **5** | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)** | [#1](https://osu.ppy.sh/community/matches/118984774) |
-| Lower | **[Nazrin on osu](https://osu.ppy.sh/users/2512267)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) | *win by default* |
+| Lower | **[WOAH0](https://osu.ppy.sh/users/18336339)** ::{ flag=SA }:: | **5** | 3 | ::{ flag=ID }:: [Nomiru](https://osu.ppy.sh/users/17514687) | [#1](https://osu.ppy.sh/community/matches/118987339) |
 
 Sunday, 28 July 2024:
 
