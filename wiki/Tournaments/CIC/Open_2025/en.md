@@ -404,8 +404,10 @@ Saturday, 16 August 2025:
 | Lower | [Barry Chopstick](https://osu.ppy.sh/users/9573836) ::{ flag=ID }:: | 4 | **5** | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)** | [#1](https://osu.ppy.sh/community/matches/118984774) |
 | Lower | **[WOAH0](https://osu.ppy.sh/users/18336339)** ::{ flag=SA }:: | **5** | 3 | ::{ flag=ID }:: [Nomiru](https://osu.ppy.sh/users/17514687) | [#1](https://osu.ppy.sh/community/matches/118987339) |
 | Lower | [HyPerNekoChan](https://osu.ppy.sh/users/9626549) ::{ flag=MY }:: | 2 | **5** | ::{ flag=CN }:: **[-Yui](https://osu.ppy.sh/users/6649605)** | [#1](https://osu.ppy.sh/community/matches/118987298) |
+| Lower | [Yeury](https://osu.ppy.sh/users/9434933) ::{ flag=MY }:: | 4 | **5** | ::{ flag=TH }:: **[G1ilbert](https://osu.ppy.sh/users/7408055)** | [#1](https://osu.ppy.sh/community/matches/118985771) |
+| Lower | [log out side](https://osu.ppy.sh/users/11535744) ::{ flag=KR }:: | 4 | **5** | ::{ flag=TR }:: **[shimu](https://osu.ppy.sh/users/14318796)** | [#1](https://osu.ppy.sh/community/matches/118985048) |
 
-Sunday, 28 July 2024:
+Sunday, 17 August 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
