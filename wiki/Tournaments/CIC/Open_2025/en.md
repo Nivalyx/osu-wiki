@@ -399,10 +399,9 @@ Saturday, 16 August 2025:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[Kuzino](https://osu.ppy.sh/users/158552)** ::{ flag=TW }:: | **5** | 4 | ::{ flag=CN }:: [McButt](https://osu.ppy.sh/users/18018708) | [#1](https://osu.ppy.sh/community/matches/118986196) |
-| Lower | [Psc\_IceRain](https://osu.ppy.sh/users/3359485) ::{ flag=TW }:: | 1 | **5** | ::{ flag=ID }:: **[EpanPan](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/114832262) |
-| Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **5** | 3 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/114845950) |
-| Upper | **[Shimoe Koharu](https://osu.ppy.sh/users/2145160)** ::{ flag=TW }:: | **5** | 3 | ::{ flag=ID }:: [Serestia](https://osu.ppy.sh/users/30511396) | [#1](https://osu.ppy.sh/community/matches/114835044) |
-| Lower | [pandaBear](https://osu.ppy.sh/users/107553) ::{ flag=AU }:: | 4 | **5** | ::{ flag=HK }:: **[fua](https://osu.ppy.sh/users/21138904)** | [#1](https://osu.ppy.sh/community/matches/114832655) |
+| Lower | [giru HD](https://osu.ppy.sh/users/707456) ::{ flag=JP }:: | 1 | **5** | ::{ flag=TW }:: **[Sanami](https://osu.ppy.sh/users/1629471)** | [#1](https://osu.ppy.sh/community/matches/118985431) |
+| Upper | **[Roido](https://osu.ppy.sh/users/6829103)** ::{ flag=PH }:: | **5** | 0 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | [#1](https://osu.ppy.sh/community/matches/118985779) |
+| Lower | [Barry Chopstick](https://osu.ppy.sh/users/9573836) ::{ flag=ID }:: | 4 | **5** | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)** | [#1](https://osu.ppy.sh/community/matches/118984774) |
 | Lower | **[Nazrin on osu](https://osu.ppy.sh/users/2512267)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) | *win by default* |
 
 Sunday, 28 July 2024:
