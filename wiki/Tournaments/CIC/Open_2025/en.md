@@ -224,26 +224,26 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 **[Download the mappack here! (92 MB)](https://www.mediafire.com/file/vkx3swkjq5u5y73/CICO2025_-_RO16.rar/file)**
 
 - No Mod
-  1. [Hyadain - Hyadain's Jojo Yujo (-Hex-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2219094#fruits/4703760)
-  2. [Pegboard Nerds - Try This (Des9) \[Shocking Wave\]](https://osu.ppy.sh/beatmapsets/2219177#fruits/4703906)  
-  3. [DOT96 - MAKE IT FUNKY NOW (Cipse) \[FUNKY jef\]](https://osu.ppy.sh/beatmapsets/2154994#fruits/4541955)
-  4. [Reol,nqrse - Ooedo Ranvu (zhu) \[Expert\]](https://osu.ppy.sh/beatmapsets/703580#fruits/1572141)
+  1. [Utsu-P - Imperfect Animals (Mazuki) \[Gumi's screams\]](https://osu.ppy.sh/beatmapsets/2418159#osu/5257897)
+  2. [maras k - Play Time!! (MILK\_16) \[Let's Play!! A Tribute to Cxlucha.\]](https://osu.ppy.sh/beatmapsets/2418216#osu/5258034)
+  3. [nakinyko - Tactical Execution/Intergalactic (Madoka Ayukawa) \[Planetary\]](https://osu.ppy.sh/beatmapsets/2418131#osu/5257842)
+  4. [MYUKKE. - ViViTAL MONO (Laquarius) \[ExTRA\]](https://osu.ppy.sh/beatmapsets/1753391#osu/3588248)
 - Hidden
-  1. [QUEEN BEE - Mephisto (-Miya) \[CICO 2024 RO16 HD1\]](https://osu.ppy.sh/beatmapsets/2219188#fruits/4703924)
-  2. [YurryCanon feat. RIME - Despair (Yoshi_green) \[De-De-De-De-De-Despair\]](https://osu.ppy.sh/beatmapsets/1951698#fruits/4041414)
-  3. [rei sirose - Lost Umbrella (SMOKELIND) \[FuJu's Insane\]](https://osu.ppy.sh/beatmapsets/1340777#fruits/2828726)
+  1. [Lotus Juice feat. Mayumi Fujita - Pull the Trigger (Madoka Ayukawa) \[Mass Destruction\]](https://osu.ppy.sh/beatmapsets/2418135#osu/5257853)
+  2. [Rin - Chireiden set 05 \~ Kyuu Jigoku Kaidou o Yuku (BoberOfDarkness) \[Path of Overflowing Dismay\]](https://osu.ppy.sh/beatmapsets/2418130#osu/5257839)
+  3. [Kaminose Tsukasa - ruin of opals (Acylica) \[Decaying Memories\]](https://osu.ppy.sh/beatmapsets/1301374#osu/4385366)
 - Hard Rock
-  1. [TAMAONSEN - Saigetsu (Midnight Moon Walker Remix) (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/724793#fruits/1530447)
-  2. [Polyphia - Playing God (Mochi -) \[Egg's Rain\]](https://osu.ppy.sh/beatmapsets/2085333#fruits/4462907)
-  3. [LV.4 - Burning Star (silly catgirl) \[Another\]](https://osu.ppy.sh/beatmapsets/2141220#fruits/4506765)
+  1. [THE ORAL CIGARETTES - ReI (Fisicia) \[Epancia's Ephemerality\]](https://osu.ppy.sh/beatmapsets/2418140#osu/5257859)
+  2. [Mili - Vulnerability (Benita) \[Jeir's Rain\]](https://osu.ppy.sh/beatmapsets/706599#osu/1494075)
+  3. [Rise Against - The Eco-Terrorist In Me (Nymphe) \[Kujinn's Insane\]](https://osu.ppy.sh/beatmapsets/2078778#osu/4812656)
 - Double Time
-  1. [Rameses B - Mountains (feat. Veela) (Dapulezatos) \[Is It Worth It?\]](https://osu.ppy.sh/beatmapsets/1809578#fruits/3711550)
-  2. [IU feat. Seulong - Nagging (Madoka Ayukawa) \[Persistent\]](https://osu.ppy.sh/beatmapsets/2219115#fruits/4703806)
-  3. [Demetori - Strawberry Crisis!! (jonathanlfj) \[Halfslashed's Lunatic\]](https://osu.ppy.sh/beatmapsets/1833730#fruits/3764531)
+  1. [Various Artists - Umapyoi Densetsu (Zvenx) \[Umazing!!!\]](https://osu.ppy.sh/beatmapsets/2418204#osu/5257998)
+  2. [Suzuki Konomi - ALKATALE (-Miya) \[Vestiges of Summer\]](https://osu.ppy.sh/beatmapsets/2418207#osu/5267879)
+  3. [inabakumori - Float Play (-Stocking) \[Kard's Insane\]](https://osu.ppy.sh/beatmapsets/1921679#osu/4335310)
 - Free Mod
-  1. [otetsu - Minamo no Sakura, Yume wa Sakayume (Riven) \[NiNo's Extra\]](https://osu.ppy.sh/beatmapsets/385248#fruits/1053233)
+  1. [Alice Schach and the Magic Orchestra - Give Me a Nightmare (cosilgam) \[Awful dream\]](https://osu.ppy.sh/beatmapsets/2418155#osu/5257893)
 - Tiebreaker
-  1. **[Diao Ye Zong feat. Meramipop - Saifu 'Kamiasobi no Uta' (Morusya) \[Frog\]](https://osu.ppy.sh/beatmapsets/2218881#fruits/4703316)**
+  1. **[Erio o Kamattechan - Os-Uchuujin (Asterisk Makina Remix) (Katsuragi) \[Destiny\]](https://osu.ppy.sh/beatmapsets/2418162#osu/5257909)**
 
 ### Round of 32
 
