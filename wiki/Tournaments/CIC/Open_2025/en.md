@@ -195,7 +195,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ### Quarterfinals
 
-**[Download the mappack here! (146 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1268193477435592821)**
+**[Download the mappack here! (99 MB)](https://www.mediafire.com/file/3agzoj9rz209u3f/CICO2025_-_Quarter_Finals.rar/file)**
 
 - No Mod
   1. [-LostFairy- - Gates of Hades (Zileni) \[Zileni & Zonda's Flames of Judgement\]](https://osu.ppy.sh/beatmapsets/2223446#fruits/4714874)
@@ -222,7 +222,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ### Round of 16
 
-**[Download the mappack here! (114 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1264944048628826112)**
+**[Download the mappack here! (92 MB)](https://www.mediafire.com/file/vkx3swkjq5u5y73/CICO2025_-_RO16.rar/file)**
 
 - No Mod
   1. [Hyadain - Hyadain's Jojo Yujo (-Hex-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2219094#fruits/4703760)
@@ -248,7 +248,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ### Round of 32
 
-**[Download the mappack here! (98 MB)](https://discord.com/channels/612285397875032094/1259518312778305687/1262423028445220977)**
+**[Download the mappack here! (86 MB)](https://www.mediafire.com/file/be2wwi4m8w5fk7p/CICO2025_-_RO32.rar/file)**
 
 - No Mod
   1. [JKT48 - Bersepeda Berdua (Cut Ver.) (Madoka Ayukawa) \[Gowes\]](https://osu.ppy.sh/beatmapsets/2214898#fruits/4692984)
