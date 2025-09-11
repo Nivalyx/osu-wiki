@@ -387,11 +387,12 @@ Monday, 5 August 2024:
 
 ### Round of 16
 
-Friday, 26 July 2024:
+Friday, 15 August 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [lorem ipsum](https://osu.ppy.sh/users/17130789) ::{ flag=TR }:: | 2 | **5** | ::{ flag=SA }:: **[WOAH0](https://osu.ppy.sh/users/18336339)** | [#1](https://osu.ppy.sh/community/matches/114836378) |
+| Lower | [Kazumisawa-Miyu](https://osu.ppy.sh/users/24345309) ::{ flag=NZ }:: | 0 | **5** | ::{ flag=NZ }:: **[Cipse](https://osu.ppy.sh/users/7928880)** | [#1](https://osu.ppy.sh/community/matches/118974166) |
+| Upper | **[eauikk](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **5** | 1 | ::{ flag=CN }:: [Shiina Minatsu](https://osu.ppy.sh/users/3515458) | [#1](https://osu.ppy.sh/community/matches/118976303) |
 
 Saturday, 27 July 2024:
 
