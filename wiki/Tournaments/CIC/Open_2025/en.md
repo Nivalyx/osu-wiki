@@ -394,10 +394,11 @@ Friday, 15 August 2025:
 | Lower | [Kazumisawa-Miyu](https://osu.ppy.sh/users/24345309) ::{ flag=NZ }:: | 0 | **5** | ::{ flag=NZ }:: **[Cipse](https://osu.ppy.sh/users/7928880)** | [#1](https://osu.ppy.sh/community/matches/118974166) |
 | Upper | **[eauikk](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **5** | 1 | ::{ flag=CN }:: [Shiina Minatsu](https://osu.ppy.sh/users/3515458) | [#1](https://osu.ppy.sh/community/matches/118976303) |
 
-Saturday, 27 July 2024:
+Saturday, 16 August 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Kuzino](https://osu.ppy.sh/users/158552)** ::{ flag=TW }:: | **5** | 4 | ::{ flag=CN }:: [McButt](https://osu.ppy.sh/users/18018708) | [#1](https://osu.ppy.sh/community/matches/118986196) |
 | Lower | [Psc\_IceRain](https://osu.ppy.sh/users/3359485) ::{ flag=TW }:: | 1 | **5** | ::{ flag=ID }:: **[EpanPan](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/114832262) |
 | Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **5** | 3 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/114845950) |
 | Upper | **[Shimoe Koharu](https://osu.ppy.sh/users/2145160)** ::{ flag=TW }:: | **5** | 3 | ::{ flag=ID }:: [Serestia](https://osu.ppy.sh/users/30511396) | [#1](https://osu.ppy.sh/community/matches/114835044) |
