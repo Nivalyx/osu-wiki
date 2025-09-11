@@ -78,8 +78,8 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 6 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | 8.495 |
 | 7 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | 8.389 |
 | 8 | ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519) | 8.337 |
-| 9 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | 11.00 |
-| 10 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | 13.00 |
+| 9 | ::{ flag=CN }:: [dazzulay](https://osu.ppy.sh/users/1948043) | 8.275 |
+| 10 | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | 8.250 |
 | 11 | ::{ flag=HK }:: [littlepiggod](https://osu.ppy.sh/users/12331683) | 13.50 |
 | 12 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | 13.70 |
 | 13 | ::{ flag=RU }:: [Cold Fusion](https://osu.ppy.sh/users/15389158) | 15.30 |
