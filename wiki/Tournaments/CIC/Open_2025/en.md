@@ -414,8 +414,8 @@ Sunday, 17 August 2025:
 | Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270) | [#1](https://osu.ppy.sh/community/matches/118997509) |
 | Upper | [Rells](https://osu.ppy.sh/users/7937519) ::{ flag=KR }:: | 4 | **5** | ::{ flag=CN }:: **[dazzulay](https://osu.ppy.sh/users/1948043)** | [#1](https://osu.ppy.sh/community/matches/118996063) |
 | Upper | **[Taskmaster](https://osu.ppy.sh/users/3027065)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | [#1](https://osu.ppy.sh/community/matches/118998727) |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | [#1](https://osu.ppy.sh/community/matches/114846301) |
-| Upper | **[Happiness Fish](https://osu.ppy.sh/users/4586766)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | [#1](https://osu.ppy.sh/community/matches/114847534) |
+| Upper | **[Nelly](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) | [#1](https://osu.ppy.sh/community/matches/118998080) |
+| Upper | **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** ::{ flag=KR }:: | **5** | 2 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | [#1](https://osu.ppy.sh/community/matches/118997537) |
 | Upper | **[- N a g i -](https://osu.ppy.sh/users/7547506)** ::{ flag=CN }:: | **5** | 0 | ::{ flag=VN }:: [Stardust Prism](https://osu.ppy.sh/users/8525921) | *win by default* |
 
 ### Round of 32
