@@ -445,14 +445,8 @@ Sunday, 10 August 2025:
 | Upper | [Sanami](https://osu.ppy.sh/users/1629471) ::{ flag=ID }:: | 3 | **5** | ::{ flag=AU }:: **[Zakrusta](https://osu.ppy.sh/users/5034270)** | [#1](https://osu.ppy.sh/community/matches/118928969) |
 | Upper | **[- N a g i -](https://osu.ppy.sh/users/2956936)** ::{ flag=CN }:: | **5** | 0 | ::{ flag=MY }:: [HyPerNekoChan](https://osu.ppy.sh/users/9626549) | [#1](https://osu.ppy.sh/community/matches/118930742) |
 | Upper | **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** ::{ flag=KR }:: | **5** | 0 | ::{ flag=MY }:: [Yeury](https://osu.ppy.sh/users/9434933) | [#1](https://osu.ppy.sh/community/matches/118929763) |
-| Upper | [littlepiggod](https://osu.ppy.sh/users/12331683) ::{ flag=HK }:: | 4 | **5** | ::{ flag=HK }:: **[my angel auto](https://osu.ppy.sh/users/29503627)** | [#1](https://osu.ppy.sh/community/matches/114756048) |
-| Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) | [#1](https://osu.ppy.sh/community/matches/114756671) |
-
-Monday, 22 July 2024:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Azuria](https://osu.ppy.sh/users/16102533) ::{ flag=TH }:: | 4 | **5** | ::{ flag=ID }:: **[Serestia](https://osu.ppy.sh/users/30511396)** | [#1](https://osu.ppy.sh/community/matches/114767931) |
+| Upper | **[Roido](https://osu.ppy.sh/users/6829103)** ::{ flag=PH }:: | **5** | 0 | ::{ flag=NZ }:: [Kazumisawa-Miyu](https://osu.ppy.sh/users/24345309) | [#1](https://osu.ppy.sh/community/matches/118926880) |
+| Upper | **[Nerris](https://osu.ppy.sh/users/11202866)** ::{ flag=RU }:: | **5** | 2 | ::{ flag=TH }:: [G1ilbert](https://osu.ppy.sh/users/7408055) | [#1](https://osu.ppy.sh/community/matches/118929771) |
 
 ## Ruleset
 
