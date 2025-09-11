@@ -64,14 +64,14 @@ The Catch the Beat Indonesia Cup Open 2025 was run by various osu! community mem
 
 ## Participants
 
-Listed below are the players who managed to qualify into the Round of 32 (along with their respective seed number and `%MAX` sum across all ten Qualifier beatmaps) out of 59 participating players in total.
+Listed below are the players who managed to qualify into the Round of 32 (along with their respective seed number and `%MAX` sum across all nine Qualifier beatmaps) out of 59 participating players in total.
 
 The complete list of player registrations can be found [here](https://wybin.xyz/cico2025/players).
 
 | Seed no. | Player | `%MAX` sum |
 | :-- | :-- | :-- |
-| 1 | ::{ flag=CN }:: [Nene Sakura](https://osu.ppy.sh/users/6701104) | 4.90 |
-| 2 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | 6.00 |
+| 1 | ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) | 8.867 |
+| 2 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | 8.709 |
 | 3 | ::{ flag=TW }:: [Shimoe Koharu](https://osu.ppy.sh/users/2145160) | 8.30 |
 | 4 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | 9.40 |
 | 5 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | 9.50 |
