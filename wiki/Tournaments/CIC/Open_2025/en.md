@@ -329,11 +329,11 @@ Sunday, 25 August 2024:
 
 ### Semifinals
 
-Saturday, 10 August 2024:
+Saturday, 30 August 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) | [#1](https://osu.ppy.sh/community/matches/115023306) |
+| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) | [#1](https://osu.ppy.sh/community/matches/119125369) |
 | Lower | [Happiness Fish](https://osu.ppy.sh/users/4586766) ::{ flag=TW }:: | 4 | **6** | ::{ flag=KR }:: **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** | [#1](https://osu.ppy.sh/community/matches/115022049) |
 | Lower | **[Nene Sakura](https://osu.ppy.sh/users/6701104)** ::{ flag=CN }:: | **6** | 3 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | [#1](https://osu.ppy.sh/community/matches/115021542) |
 | Lower | [my angel auto](https://osu.ppy.sh/users/29503627) ::{ flag=HK }:: | 3 | **6** | ::{ flag=RU }:: **[Cold Fusion](https://osu.ppy.sh/users/15389158)** | [#1](https://osu.ppy.sh/community/matches/115022848) |
