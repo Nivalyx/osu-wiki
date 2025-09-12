@@ -354,19 +354,20 @@ Monday, 12 August 2024:
 
 ### Quarterfinals
 
-Saturday, 3 August 2024:
+Saturday, 23 August 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** ::{ flag=KR }:: | **6** | 0 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | [#1](https://osu.ppy.sh/community/matches/114925296) |
-| Lower | **[Taskmaster](https://osu.ppy.sh/users/3027065)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | [#1](https://osu.ppy.sh/community/matches/114926967) |
-| Lower | [TheTixTop](https://osu.ppy.sh/users/19236870) ::{ flag=AU }:: | 2 | **6** | ::{ flag=HK }:: **[littlepiggod](https://osu.ppy.sh/users/12331683)** | [#1](https://osu.ppy.sh/community/matches/114926468) |
-| Lower | **[Minato Yukina](https://osu.ppy.sh/users/4133477)** ::{ flag=TW }:: | **6** | 3 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/114924853) |
-| Lower | **[Flyer](https://osu.ppy.sh/users/9767342)** ::{ flag=TW }:: | **6** | 1 | ::{ flag=HK }:: [fua](https://osu.ppy.sh/users/21138904) | [#1](https://osu.ppy.sh/community/matches/114925281) |
-| Lower | **[Cold Fusion](https://osu.ppy.sh/users/15389158)** ::{ flag=RU }:: | **6** | 3 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | [#1](https://osu.ppy.sh/community/matches/114928946) |
-| Lower | [Serestia](https://osu.ppy.sh/users/30511396) ::{ flag=ID }:: | 0 | **6** | ::{ flag=SG }:: **[Ekseff](https://osu.ppy.sh/users/13966422)** | *win by default* |
+| Lower | **[Keita](https://osu.ppy.sh/users/3355617)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880) | [#1](https://osu.ppy.sh/community/matches/119053673) |
+| Lower | **[-Rustyy](https://osu.ppy.sh/users/16355636)** ::{ flag=PH }:: | **6** | 0 | ::{ flag=TW }:: [Sanami](https://osu.ppy.sh/users/1629471) | [#1](https://osu.ppy.sh/community/matches/119056637) |
+| Lower | **[Minato Yukina](https://osu.ppy.sh/users/4133477)** ::{ flag=TW }:: | **6** | 4 | ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552) | [#1](https://osu.ppy.sh/community/matches/119054797) |
+| Lower | **[Stardust Prism](https://osu.ppy.sh/users/8525921)** ::{ flag=VN }:: | **6** | 1 | ::{ flag=TH }:: [G1ilbert](https://osu.ppy.sh/users/7408055) | [#1](https://osu.ppy.sh/community/matches/119055315) |
+| Lower | **[Zakrusta](https://osu.ppy.sh/users/5034270)** ::{ flag=MY }:: | **6** | 2 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | [#1](https://osu.ppy.sh/community/matches/119056031) |
+| Lower | **[Nerris](https://osu.ppy.sh/users/11202866)** ::{ flag=RU }:: | **6** | 3 | ::{ flag=CN }:: [-Yui](https://osu.ppy.sh/users/6649605) | [#1](https://osu.ppy.sh/community/matches/119056031) |
+| Lower | **[Shiina Minatsu](https://osu.ppy.sh/users/3515458)** ::{ flag=CN }:: | **6** | 0 | ::{ flag=TR }:: [shimu](https://osu.ppy.sh/users/14318796) | *win by default* |
+| Lower | **[Rells](https://osu.ppy.sh/users/7937519)** ::{ flag=KR }:: | **6** | 0 | ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | *win by default* |
 
-Sunday, 4 August 2024:
+Sunday, 24 August 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
