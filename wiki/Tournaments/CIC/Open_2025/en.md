@@ -319,7 +319,8 @@ Sunday, 7 September 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Nene Sakura](https://osu.ppy.sh/users/6701104) ::{ flag=CN }:: | 4 | **7** | ::{ flag=RU }:: **[Kimitakari](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/115143422) |
+| Upper | **[Roido](https://osu.ppy.sh/users/6829103)** ::{ flag=PH }:: | **7** | 2 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/119204434) |
+| Upper | **[- N a g i -](https://osu.ppy.sh/users/2956936)** ::{ flag=CN }:: | **7** | 4 | ::{ flag=TW }:: [eauikk](https://osu.ppy.sh/users/1177233) | [#1](https://osu.ppy.sh/community/matches/119205454) |
 
 ### Semifinals
 
