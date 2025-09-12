@@ -512,7 +512,9 @@ Sunday, 10 August 2025:
    - Playing a warm-up beatmap is not mandatory, and players may elect to skip their warm-up pick should they wish to.
 4. Maps from the same mod pool **may not be picked by the same player twice in a row**.
    - For example, following a NM1 pick, the player may not pick another map from the No Mod pool on their next turn.
-5. When playing a map from the Hard Rock or Double Time pool, the Hidden mod may be optionally used by any player.
-6. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to.
+5. In a Hard Rock or Double Time pick, the Hidden mod may optionally be used by any player on top of the respective mods.
+6. In a Free Mod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods.
+   - Playing a Free Mod pick without any mods applied is not allowed.
+7. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
-7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+8. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
