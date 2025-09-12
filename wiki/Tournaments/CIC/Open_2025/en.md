@@ -478,7 +478,7 @@ Sunday, 10 August 2025:
 
 ![%MAX sum formula](img/formula.png)
 
-   where
+   - Where:
    - `Si` = score achieved by player `i` on the map
    - `Smax` = highest score achieved by any player on that map
 6. The 32 players with the **highest `%MAX` sum** according to the above criteria will advance to the knock-out stages.
@@ -510,8 +510,8 @@ Sunday, 10 August 2025:
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
 3. Each player will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and players may elect to skip their warm-up pick should they wish to.
-4. Maps from the same mod pool **may not be picked twice in a row**.
-   - For example, following a NM1 pick, the next player picking may not pick another map from the No Mod pool.
+4. Maps from the same mod pool **may not be picked by the same player twice in a row**.
+   - For example, following a NM1 pick, the player may not pick another map from the No Mod pool on their next turn.
 5. When playing a map from the Hard Rock or Double Time pool, the Hidden mod may be optionally used by any player.
 6. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
