@@ -308,24 +308,18 @@ Sunday, 1 September 2024:
 
 ### Finals (week 1)
 
-Sunday, 18 August 2024:
+Saturday, 6 September 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **7** | 3 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/115131157) |
-| Lower | [Shimoe Koharu](https://osu.ppy.sh/users/2145160) ::{ flag=TW }:: | 0 | **7** | ::{ flag=CN }:: **[Nene Sakura](https://osu.ppy.sh/users/6701104)** | *win by default* |
+| Lower | [\[Amazing\]](https://osu.ppy.sh/users/1391036) ::{ flag=KR }:: | 3 | **7** | ::{ flag=TW }:: **[eauikk](https://osu.ppy.sh/users/1177233)** | [#1](https://osu.ppy.sh/community/matches/119192811) |
+| Lower | **[- N a g i -](https://osu.ppy.sh/users/2956936)** ::{ flag=CN }:: | **7** | 2 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/119193825) |
 
-Monday, 19 August 2024:
+Sunday, 7 September 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [Nene Sakura](https://osu.ppy.sh/users/6701104) ::{ flag=CN }:: | 4 | **7** | ::{ flag=RU }:: **[Kimitakari](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/115143422) |
-
-Sunday, 25 August 2024:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **7** | 0 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | *win by default* |
 
 ### Semifinals
 
