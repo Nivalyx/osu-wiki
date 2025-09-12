@@ -336,8 +336,10 @@ Saturday, 30 August 2025:
 | Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) | [#1](https://osu.ppy.sh/community/matches/119125369) |
 | Lower | **[dazzulay](https://osu.ppy.sh/users/1948043)** ::{ flag=CN }:: | **6** | 4 | ::{ flag=VN }:: [Stardust Prism](https://osu.ppy.sh/users/8525921) | [#1](https://osu.ppy.sh/community/matches/119125971) |
 | Upper | [- N a g i -](https://osu.ppy.sh/users/2956936) ::{ flag=CN }:: | 5 | **6** | ::{ flag=RU }:: **[Nelly](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/119126648) |
+| Lower | **[eauikk](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **6** | 1 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | [#1](https://osu.ppy.sh/community/matches/119126151) |
+| Lower | **[Taskmaster](https://osu.ppy.sh/users/3027065)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519) | *win by default* |
 
-Sunday, 11 August 2024:
+Sunday, 31 August 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
