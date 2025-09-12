@@ -475,7 +475,7 @@ Sunday, 10 August 2025:
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their `%MAX` sum combined from each individual Qualifier beatmap.
-   - The `%MAX` sum calculation works as follows : `%MAX sum = Σ
+   - The `%MAX` sum calculation works as follows : `%MAX sum = Σ (score achieved on map/max score of all players on map)`
 6. The 32 players with the **highest `%MAX` sum** according to the above criteria will advance to the knock-out stages.
    - If there are two (or more) teams that share the same `%MAX` sum, the teams will be ordered based on their average score across all nine Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
