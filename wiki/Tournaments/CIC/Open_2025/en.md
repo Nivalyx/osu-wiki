@@ -373,18 +373,12 @@ Sunday, 24 August 2025:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[Keita](https://osu.ppy.sh/users/3355617)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=CN }:: [Shiina Minatsu](https://osu.ppy.sh/users/3515458) | [#1](https://osu.ppy.sh/community/matches/119066757) |
 | Upper | [Chroneko](https://osu.ppy.sh/users/5472877) ::{ flag=ID }:: | 3 | **6** | ::{ flag=KR }:: **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** | [#1](https://osu.ppy.sh/community/matches/119066508) |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766) | [#1](https://osu.ppy.sh/community/matches/114939817) |
-| Lower | **[Taskmaster](https://osu.ppy.sh/users/3027065)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | [#1](https://osu.ppy.sh/community/matches/114941737) |
-| Upper | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **6** | 3 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/114940976) |
-| Upper | **[Shimoe Koharu](https://osu.ppy.sh/users/2145160)** ::{ flag=TW }:: | **6** | 5 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | [#1](https://osu.ppy.sh/community/matches/114941623) |
-| Lower | **[KWYJIBO](https://osu.ppy.sh/users/7178386)** ::{ flag=AU }:: | **6** | 0 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | *win by default* |
-| Lower | [Flyer](https://osu.ppy.sh/users/9767342) ::{ flag=TW }:: | 0 | **6** | ::{ flag=SG }:: **[Ekseff](https://osu.ppy.sh/users/13966422)** | *win by default* |
-
-Monday, 5 August 2024:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [KWYJIBO](https://osu.ppy.sh/users/7178386) ::{ flag=AU }:: | 2 | **6** | ::{ flag=RU }:: **[Cold Fusion](https://osu.ppy.sh/users/15389158)** | [#1](https://osu.ppy.sh/community/matches/114939539) |
+| Lower | **[Rells](https://osu.ppy.sh/users/7937519)** ::{ flag=KR }:: | **6** | 3 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | [#1](https://osu.ppy.sh/community/matches/119067760) |
+| Upper | **[Roido](https://osu.ppy.sh/users/6829103)** ::{ flag=PH }:: | **6** | 1 | ::{ flag=CN }:: [dazzulay](https://osu.ppy.sh/users/1948043) | [#1](https://osu.ppy.sh/community/matches/119065809) |
+| Lower | [-Rustyy](https://osu.ppy.sh/users/16355636) ::{ flag=PH }:: | 5 | **6** | ::{ flag=VN }:: **[Stardust Prism](https://osu.ppy.sh/users/8525921)** | [#1](https://osu.ppy.sh/community/matches/119068050) |
+| Upper | **[- N a g i -](https://osu.ppy.sh/users/2956936)** ::{ flag=CN }:: | **6** | 1 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | [#1](https://osu.ppy.sh/community/matches/119066859) |
+| Lower | **[Nerris](https://osu.ppy.sh/users/11202866)** ::{ flag=RU }:: | **6** | 1 | ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270) | [#1](https://osu.ppy.sh/community/matches/119066767) |
+| Upper | [eauikk](https://osu.ppy.sh/users/1177233) ::{ flag=TW }:: | 5 | **6** | ::{ flag=RU }:: **[Nelly](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/119067480) |
 
 ### Round of 16
 
