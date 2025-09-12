@@ -343,9 +343,9 @@ Sunday, 31 August 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=TW }:: [Shimoe Koharu](https://osu.ppy.sh/users/2145160) | [#1](https://osu.ppy.sh/community/matches/115037221) |
-| Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **6** | 3 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/115036426) |
-| Lower | [Cold Fusion](https://osu.ppy.sh/users/15389158) ::{ flag=RU }:: | 2 | **6** | ::{ flag=KR }:: **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** | [#1](https://osu.ppy.sh/community/matches/115037880) |
+| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=CN }:: [dazzulay](https://osu.ppy.sh/users/1948043) | [#1](https://osu.ppy.sh/community/matches/119137411) |
+| Upper | **[Roido](https://osu.ppy.sh/users/6829103)** ::{ flag=PH }:: | **6** | 0 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/119137847) |
+| Lower | **[eauikk](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **6** | 2 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | [#1](https://osu.ppy.sh/community/matches/119138512) |
 
 Monday, 12 August 2024:
 
