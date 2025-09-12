@@ -459,8 +459,8 @@ Sunday, 10 August 2025:
 
 ### Tournament registration
 
-1. In order to participate, players are required to register into the tournament through [the tournament's website](https://wybin.xyz/tournaments/catch-indonesia-cup-open-2024/home).
-   - Each player is required to be geographically based in or around the regions of [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania).
+1. In order to participate, players are required to register into the tournament through [the tournament's website](https://wybin.xyz/cico2025).
+   - Each player is required to be geographically based in or around the Asia-Pacific region, namely the continents of [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania).
    - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extend to the Asian continent are considered as a part of Asia.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
