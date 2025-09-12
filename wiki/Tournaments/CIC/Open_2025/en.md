@@ -347,12 +347,6 @@ Sunday, 31 August 2025:
 | Upper | **[Roido](https://osu.ppy.sh/users/6829103)** ::{ flag=PH }:: | **6** | 0 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/119137847) |
 | Lower | **[eauikk](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **6** | 2 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | [#1](https://osu.ppy.sh/community/matches/119138512) |
 
-Monday, 12 August 2024:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Chroneko](https://osu.ppy.sh/users/5472877) ::{ flag=ID }:: | 5 | **6** | ::{ flag=CN }:: **[Nene Sakura](https://osu.ppy.sh/users/6701104)** | [#1](https://osu.ppy.sh/community/matches/115035156) |
-
 ### Quarterfinals
 
 Saturday, 23 August 2025:
