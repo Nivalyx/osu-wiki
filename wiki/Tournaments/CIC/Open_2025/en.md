@@ -49,7 +49,7 @@ The Catch the Beat Indonesia Cup Open 2025 was run by various osu! community mem
 | Commentator | ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=IN }:: [Pilot\_BFFRI](https://osu.ppy.sh/users/27266540), ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=SE }:: [-Anchor-](https://osu.ppy.sh/users/1352257), ::{ flag=PR }:: [SuprRooster](https://osu.ppy.sh/users/20905205) |
 | Referee | ::{ flag=PH }:: [Kyonkichi](https://osu.ppy.sh/users/7585544), ::{ flag=TH }:: [-TANAKITO-](https://osu.ppy.sh/users/6037121), ::{ flag=JP }:: [hiroshiki](https://osu.ppy.sh/users/2667256), ::{ flag=IN }:: [Pilot\_BFFRI](https://osu.ppy.sh/users/27266540), ::{ flag=US }:: [Senkon](https://osu.ppy.sh/users/23313862) |
 | Design coordinator | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991) |
-| GFX/video editor | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=IN }:: [rrex](https://osu.ppy.sh/users/16827064), ::{ flag=IN }:: [Raybean](https://osu.ppy.sh/users/16676388), ::{ flag=AR }:: [Zeth](https://osu.ppy.sh/users/4219488) |
+| GFX/video editor | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=IN }:: [rrex](https://osu.ppy.sh/users/16827064), ::{ flag=IN }:: [Raybean](https://osu.ppy.sh/users/16676388) |
 | Illustrator | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [RemcoN](https://osu.ppy.sh/users/9823378), ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=ID }:: kyansatan [(↗)](https://twitter.com/kyansatan), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=ID }:: 7s [(↗)](https://twitter.com/7sdesu), ::{ flag=ID }:: rezukita [(↗)](https://twitter.com/rezukita) |
 | Statisician | ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829), ::{ flag=IN }:: [rrex](https://osu.ppy.sh/users/16827064) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
@@ -264,7 +264,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   3. [Nightcore - Solo Tu (Only You) (SakiK) \[Collab\]](https://osu.ppy.sh/beatmapsets/46910#fruits/145850)
 - Double Time
   1. [Tamura Yukari - Fantastic future (-Hex-) \[Mirai\]](https://osu.ppy.sh/beatmapsets/2414562#fruits/5246597)
-  2. [Titi Kamal - Jablai (Jarang Dibelai) (Madoka Ayukawa) \[Bapak jipeng dimana?\]](https://osu.ppy.sh/beatmapsets/2414553#fruits/5246579)
+  2. [Titi Kamal - Jarang Dibelai (Madoka Ayukawa) \[Bapak jipeng dimana?\]](https://osu.ppy.sh/beatmapsets/2414553#fruits/5246579)
   3. [IOSYS - star river (PUNK IT VER) (ent) \[Delis' Lunatic\]](https://osu.ppy.sh/beatmapsets/1726109#fruits/4457827)
 - Free Mod
   1. [BotchIBoromaru - TSUYOGARU GIRL feat. Mossa (NECRY TALKIE) (Ekseff) \[Duo Benched Host\]](https://osu.ppy.sh/beatmapsets/2414573#fruits/5246612)
