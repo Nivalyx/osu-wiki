@@ -305,7 +305,7 @@ Saturday, 13 September 2025:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [Nelly](https://osu.ppy.sh/users/4741164) ::{ flag=RU }:: | 3 | **7** | ::{ flag=CN }:: **[- N a g i -](https://osu.ppy.sh/users/2956936)** | [#1](https://osu.ppy.sh/community/matches/119270658) |
 
-Sunday, 1 September 2024:
+Sunday, 14 September 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
