@@ -105,7 +105,13 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Podium
 
-![](img/podium.png "CICO 2024 podium")
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: **[- N a g i -](https://osu.ppy.sh/users/2956936)** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: **[Roido](https://osu.ppy.sh/users/6829103)** |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RU }:: **[Nelly](https://osu.ppy.sh/users/4741164)** |
 
 ## Mappools
 
