@@ -28,9 +28,9 @@ The **Catch the Beat Indonesia Cup Open 2025** (***CICO 2025***) was a double-el
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $40 USD or 18 months of osu! supporter, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $20 USD or 8 months of osu! supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $10 USD or 2 months of osu! supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $26 USD or 12 months of osu! supporter, customised profile banner, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $16 USD or 6 months of osu! supporter, customised profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $12 USD or 4 months of osu! supporter, customised profile banner |
 
 ![](img/badge.png "CICO 2024 winner badge")
 
