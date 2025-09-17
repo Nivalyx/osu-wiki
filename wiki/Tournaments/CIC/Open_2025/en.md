@@ -109,8 +109,8 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: **[- N a g i -](https://osu.ppy.sh/users/2956936)** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: **[Roido](https://osu.ppy.sh/users/6829103)** |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: **[Roido](https://osu.ppy.sh/users/6829103)** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: **[- N a g i -](https://osu.ppy.sh/users/2956936)** |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RU }:: **[Nelly](https://osu.ppy.sh/users/4741164)** |
 
 ## Mappools
@@ -299,18 +299,17 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 2)
 
-Saturday, 31 August 2024:
+Saturday, 13 September 2025:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/115309494) |
+| Lower | [Nelly](https://osu.ppy.sh/users/4741164) ::{ flag=RU }:: | 3 | **7** | ::{ flag=CN }:: **[- N a g i -](https://osu.ppy.sh/users/2956936)** | [#1](https://osu.ppy.sh/community/matches/119270658) |
 
 Sunday, 1 September 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | [DoDoEbi](https://osu.ppy.sh/users/1177233) ::{ flag=TW }:: | 4 | **7** | ::{ flag=ID }:: **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/115324254) |
-| Grand Final (bracket reset) | **[Nekuro](https://osu.ppy.sh/users/4741164)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/115325088) |
+| Grand Final | **[Roido](https://osu.ppy.sh/users/6829103)** ::{ flag=PH }:: | **7** | 3 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | [#1](https://osu.ppy.sh/community/matches/119270658) |
 
 ### Finals (week 1)
 
