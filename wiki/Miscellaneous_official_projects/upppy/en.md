@@ -15,6 +15,6 @@ tags:
 
 ## Service
 
-upppy was first built as an alternative 
+upppy was created as a free, lightweight alternative to proprietary image hosting services such as Rapidshare or ImageShack.
 
 ## Decommissioning
