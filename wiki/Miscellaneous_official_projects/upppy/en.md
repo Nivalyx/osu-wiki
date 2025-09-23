@@ -18,3 +18,5 @@ tags:
 upppy was created as a free, lightweight alternative to proprietary image hosting services such as Rapidshare or ImageShack.
 
 ## Decommissioning
+
+As upppy relied upon [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Flash_Player) to upload user files, the entire upppy website was effectively rendered read-only when [Adobe Flash Player was officially shut down](https://www.adobe.com/id_en/products/flashplayer/end-of-life-alternative.html) in December 31, 2020. 
