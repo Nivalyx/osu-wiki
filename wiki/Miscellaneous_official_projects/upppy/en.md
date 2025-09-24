@@ -30,7 +30,7 @@ The service didn't require any registration and allowed for everyone to upload a
    - `#video`
    - `#wallpaper`
 
-Once a file was uploaded to the website, it became a permanent part of the platform and couldn't be removed by the user. 
+Once a file was uploaded to the website, it became a permanent part of the platform and couldn't be removed manually by the user. 
 
 Files that have been uploaded can be commented and upvoted/downvoted by other users, but can never be deleted from the website.
 
