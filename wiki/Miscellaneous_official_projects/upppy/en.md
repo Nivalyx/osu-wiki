@@ -17,7 +17,7 @@ tags:
 
 upppy was created as a free, lightweight alternative to proprietary image hosting services such as Rapidshare or ImageShack.
 
-The service didn't require any registration and allowed for everyone to upload any file (within its Terms of Service) either anonymously or not. Upon uploading a file, users were given a choice
+The service didn't require any registration and allowed for everyone to upload any file (within its Terms of Service) either anonymously or not. Similar to certain [imageboard sites](https://en.wikipedia.org/wiki/Imageboard), upon uploading a file, users were given a choice as to which channel the file should be uploaded into — while `#random` was the default working channel, 
 
 ## Decommissioning
 
