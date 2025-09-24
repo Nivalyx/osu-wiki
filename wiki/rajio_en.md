@@ -12,4 +12,4 @@ tags:
 
 ## Service
 
-The way rajio functioned mirrors that of a contemporary Discord music bots such as [Ayana](https://ayana.io/) and [FredBoat](https://fredboat.com/). 
+The way rajio functioned mirrors that of a contemporary Discord music bots such as [Ayana](https://ayana.io/) and [FredBoat](https://fredboat.com/). Upon visiting the website,
