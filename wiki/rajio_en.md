@@ -8,8 +8,8 @@ tags:
 
 ![rajio logo](img/logo.png)
 
-**rajio.ppy.sh**, often referred to as **rajio**, was a request-based online radio service ran and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) in 2008. It allowed
+**rajio.ppy.sh**, often referred to as **rajio**, was a request-based online radio service ran and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) in 2008. It allowed people to queue up songs of their choice
 
 ## Service
 
-rajio functioned
+The way rajio functioned mirrors that of a contemporary Discord music bots such as [FredBoat](http://fredboat.com/). 
