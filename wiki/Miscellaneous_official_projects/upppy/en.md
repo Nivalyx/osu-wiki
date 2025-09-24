@@ -11,7 +11,7 @@ tags:
 ![Snapshot of the up.ppy.sh page](img/upppyScreenshot.png "Snapshot of the upppy website, as taken in 2023 by the Internet Archive")
 :::
 
-**up.ppy.sh**, often referred to as **upppy**, was a file uploading service ran and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). It was first established in March 2007, predating osu! itself, and was mainly used to share images and files within the osu! community.
+**up.ppy.sh**, often referred to as **upppy**, was a file uploading service ran and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). It was first established in March 2007, predating osu! itself[^upppy-launch-date-ref], and was mainly used to share images and files within the osu! community.
 
 ## Service
 
@@ -35,3 +35,7 @@ Once a file was posted into the website, it became a permanent part of the platf
 ## Decommissioning
 
 As upppy relied upon [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Flash_Player) to upload user files, the upppy website was effectively rendered read-only starting from December 31, 2020 when [Adobe Flash Player was officially shut down](https://www.adobe.com/id_en/products/flashplayer/end-of-life-alternative.html). Sometime in early 2025, the entire website was taken down completely, leaving only an error page when accessed.
+
+## References
+
+[^upppy-launch-date-ref]: [Tweet by peppy (2014-10-21)](https://twitter.com/ppy/status/524379301731237888): "*@ohshititstechno osu!. although upppy came earlier than osu! (march 2007 according to http://archive.org)*"
