@@ -15,7 +15,7 @@ tags:
 
 ## Service
 
-upppy was created as a free, lightweight alternative to proprietary image hosting services such as Rapidshare or ImageShack.
+upppy was created as a free, lightweight alternative to proprietary image hosting services such as Rapidshare or ImageShack.[^upppy-image-hosting-ref]
 
 The service didn't require any registration and allowed for everyone to upload any file (within its Terms of Service) either anonymously or not. Similar to certain [imageboard sites](https://en.wikipedia.org/wiki/Imageboard), upon uploading a file, users were given a choice as to whether to post their file in the default, catch-all working channel (`#random`) or in the one of the more specific channels as follows:
 
@@ -38,4 +38,5 @@ As upppy relied upon [Adobe Flash Player](https://en.wikipedia.org/wiki/Adobe_Fl
 
 ## References
 
-[^upppy-launch-date-ref]: [Tweet by peppy (2014-10-21)](https://twitter.com/ppy/status/524379301731237888): "*@ohshititstechno osu!. although upppy came earlier than osu! (march 2007 according to http://archive.org)*"
+[^upppy-launch-date-ref]: [Tweet by peppy (2014-10-21)](https://twitter.com/ppy/status/524379301731237888): "@ohshititstechno osu!. although upppy came earlier than osu! (march 2007 according to http://archive.org)"
+[^upppy-launch-date-ref]: 
