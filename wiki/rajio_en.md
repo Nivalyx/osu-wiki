@@ -6,4 +6,6 @@ tags:
 
 # rajio
 
-![rajio logo](img/banner.jpg)
+![rajio logo](img/logo.png)
+
+**rajio.ppy.sh**, often referred to as **rajio**, was a 
