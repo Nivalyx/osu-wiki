@@ -30,7 +30,7 @@ The service didn't require any registration and allowed for everyone to upload a
    - `#video`
    - `#wallpaper`
 
-Once a file was uploaded to the website, it became a permanent part of the platform and couldn't be removed manually by the user. These files however can be commented and upvoted/downvoted by other users a la Reddit.
+Once a file was uploaded to the website, it became a permanent part of the platform and couldn't be removed manually by the user. However, other users could comment on and upvote/downvote them like on Reddit.
 
 ## Decommissioning
 
