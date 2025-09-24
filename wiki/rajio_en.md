@@ -8,4 +8,8 @@ tags:
 
 ![rajio logo](img/logo.png)
 
-**rajio.ppy.sh**, often referred to as **rajio**, was a 
+**rajio.ppy.sh**, often referred to as **rajio**, was a request-based online radio service ran and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) in 2008. It allowed
+
+## Service
+
+rajio functioned
