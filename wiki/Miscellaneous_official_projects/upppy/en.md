@@ -30,7 +30,7 @@ The service didn't require any registration and allowed for everyone to upload a
    - `#video`
    - `#wallpaper`
 
-a
+Files that have been uploaded can then be
 
 ## Decommissioning
 
