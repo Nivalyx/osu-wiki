@@ -12,10 +12,14 @@ tags:
 
 ## Service
 
-The way rajio functioned mirrors that of a contemporary Discord music bots such as [Ayana](https://ayana.io/) and [FredBoat](https://fredboat.com/). Upon visiting the website, users could search for songs from peppy's personal music database to be added into the radio's queue — this database was estimated to be around ~400 GB in size, mostly comprising of J-pop/anime/video game songs.
+The way rajio functioned mirrors that of a contemporary Discord music bots such as [Ayana](https://ayana.io/) and [FredBoat](https://fredboat.com/). Upon visiting the website, users could search for songs from peppy's personal music database to be added into the radio's queue — this database was estimated to be around ~400 GB in size, mostly comprising of J-pop/anime/video game songs. [^rajio-database-ref]
 
 As rajio didn't support fetching songs from external sources such as [YouTube](https://www.youtube.com/), it was not possible to add songs that were not in the database into the queue. Due to its technical limitations, the service was only able to handle 6 concurrent users at a time.
 
 ## Decommissioning and brief revival
 
+rajio initially ran for a couple of years before being shut down in 2010. A year later, due to increased community interest, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) brought back 
 
+## References
+
+[^ajio-database-ref]: [Blog post by peppy (2008-10-08)](https://pe.ppy.sh/2008/10/229/): "*rajio ahoy*"
