@@ -1,6 +1,5 @@
 ---
 tags:
-  - rajio
   - rajio.ppy.sh
 ---
 
