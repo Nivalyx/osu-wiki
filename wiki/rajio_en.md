@@ -16,5 +16,6 @@ The way rajio functioned mirrors that of a contemporary Discord music bots such 
 
 As rajio didn't support fetching songs from external sources such as [YouTube](https://www.youtube.com/), it was not possible to add songs that were not in the database into the queue. Due to its technical limitations, the service was only able to handle 6 concurrent users at a time.
 
-## osu! integration
+## Decommissioning and brief revival
+
 
