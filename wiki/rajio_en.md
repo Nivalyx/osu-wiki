@@ -18,8 +18,8 @@ As rajio didn't support fetching songs from external sources such as [YouTube](h
 
 ## Decommissioning and brief revival
 
-rajio initially ran for a couple of years before being shut down in 2010. A year later, due to increased community interest, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) brought back 
+rajio initially ran for a couple of years before being shut down in 2010. A year later, due to increased community interest, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) brought the rajio website back to life along with a new, dedicated `#rajio` channel in the [osu! chat](/wiki/Community/Internet_Relay_Chat).
 
 ## References
 
-[^ajio-database-ref]: [Blog post by peppy (2008-10-08)](https://pe.ppy.sh/2008/10/229/): "*rajio ahoy*"
+[^rajio-database-ref]: [Blog post by peppy (2008-10-08)](https://pe.ppy.sh/2008/10/229/): "*rajio ahoy*"
