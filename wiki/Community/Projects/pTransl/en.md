@@ -8,4 +8,4 @@ tags:
 
 ## Service
 
-pTransl was launched in July 2009 and functioned 
+pTransl was launched in July 2009 and functioned similarly to that of localisation platforms such as [Crowdin](https://crowdin.com/).
