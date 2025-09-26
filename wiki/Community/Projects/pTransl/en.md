@@ -14,9 +14,9 @@ Suggestions were approved or denied into the game based on their vote count. Upo
 
 ## Decommissioning
 
-Following the successful use of [Google Docs](docs.google.com) for the localisation of [osu!stream](/wiki/osu!stream), ptransl was decommissioned in November 2012 to avoid redundancy as community localisation efforts were shifted over to the new service.
+Following the successful use of [Google Docs](docs.google.com) for the localisation of [osu!stream](/wiki/osu!stream), ptransl was decommissioned in November 2012 to avoid redundancy as community localisation efforts were shifted over to the new service.[^ptransl-decommissioning-ref]
 
 ## References
 
 [^ptransl-workflow-ref]: [Forum thread by peppy (2009-07-27)](https://osu.ppy.sh/community/forums/topics/15603): "*pTransl - community translation*"
-[^ptransl-workflow-ref]:
+[^ptransl-decommissioning-ref]: [Forum thread by peppy (2012-11-04)](https://osu.ppy.sh/community/forums/topics/104342): "*osu! Community Localisation Project*"
