@@ -8,6 +8,6 @@ tags:
 
 ## Service
 
-pTransl was launched in July 2009 and functioned similarly to that of localisation platforms such as [Crowdin](https://crowdin.com/). Upon registration, users could suggest translations of the game's [strings](https://localazy.com/dictionary/strings) into their native language or vote on existing suggestions from other users.
+pTransl was launched in July 2009 and functioned similarly to that of localisation platforms such as [Crowdin](https://crowdin.com/). Upon registering, users could suggest translations of the game's [strings](https://localazy.com/dictionary/strings) into their native language or vote on existing suggestions from other users.
 
-However, unlike contemporary localisation platforms that often a "language lead"
+However, unlike contemporary localisation platforms that often enlists a "language lead"
