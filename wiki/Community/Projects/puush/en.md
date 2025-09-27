@@ -17,7 +17,7 @@ tags:
 
 ## Subscription
 
-While puush is available to everyone free of charge, in order to keep the service self-sufficient, users 
+While puush is available to everyone free of charge, in order to keep the service self-sufficient, puush offers a "Pro" plan 
 
 ## Downscaling
 
