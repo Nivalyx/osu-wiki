@@ -21,7 +21,7 @@ A core feature of puush is its ability to capture and share screenshots instantl
 
 ## Subscription
 
-While puush is available to everyone free of charge, in order to keep the service self-sufficient, puush offers a "Pro" plan that users can subscribe to for US$15/year. This plan comes with a couple of extra benefits for the subscribing user, namely:
+While puush is available to everyone free of charge, in order to keep the service self-sufficient, puush offers a "Pro" plan that users can subscribe to for US$15/year.[^puush-pro-plan-ref] This plan comes with a couple of extra benefits for the subscribing user, namely:
 
 - Increased maximum filesize limit (20 MB for Free users vs. 250 MB for Pro users)
 - Increased file retention period (1 months since last access for Free users vs. 6 months since last access for Pro users)
@@ -30,10 +30,10 @@ Similar to osu!, all puush users are not subjected to any ads regardless of thei
 
 ## Downscaling
 
-Beginning in May 2014, puush no longer accepts registrations for the Pro plan as PayPal suspended puush's wire account due to a suspected Terms of Service breach. This prompted ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) to concurrently pay out $500+ per month out of his own pocket to keep the service running, as puush's financials are independent from osu! and not tied to [supporter tag](/wiki/osu!supporter) purchases.
+Beginning in May 2014, puush no longer accepts registrations for the Pro plan as PayPal suspended puush's wire account due to a suspected Terms of Service breach.[^puush-paypal-suspension-ref] This prompted ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) to concurrently pay out $500+ per month out of his own pocket to keep the service running, as puush's financials are independent from osu! and not tied to [supporter tag](/wiki/osu!supporter) purchases.
 
 Later that year, in order to further make the service sustainable with minimal income revenue, puush disabled registrations for all new accounts altogether — although existing users may continue to use the service as usual.
 
 ## References
 
-
+[^puush-pro-plan-ref]: [puush's FAQ page](https://puush.me/faq): "*What are the differences between the free and pro accounts?*"
