@@ -22,7 +22,7 @@ While puush is available to everyone free of charge, in order to keep the servic
 - Increased maximum filesize limit (20 MB for Free users vs. 250 MB for Pro users)
 - Increased file retention period (1 months since last access for Free users vs. 6 months since last access for Pro users)
 
-Just like osu!, all users are not subjected to any ads regardless of their subscription status.
+Similar to osu!, all puush users are not subjected to any ads regardless of their subscription status.
 
 ## Downscaling
 
