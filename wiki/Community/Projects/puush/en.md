@@ -17,7 +17,7 @@ tags:
 
 ## Subscription
 
-puush is 
+While puush is available to everyone free of charge, in order to keep the service self-sufficient, users 
 
 ## Downscaling
 
