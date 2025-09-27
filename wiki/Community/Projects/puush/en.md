@@ -15,7 +15,7 @@ tags:
 
 ## Service
 
-puush allows for users to upload files and screenshots to their personal accounts using a dedicated [Windows](https://puush.me/dl/puush-installer.exe), [Mac OS](https://puush.me/dl/puush.zip), or [iOS](https://itunes.apple.com/au/app/puush/id386524126?mt=8) application. Once uploaded, these files can then be managed from the puush.me website, put into "pools" (photo albums), or shared  
+puush allows for users to upload files and screenshots to their personal accounts using a dedicated [Windows](https://puush.me/dl/puush-installer.exe), [Mac OS](https://puush.me/dl/puush.zip), or [iOS](https://itunes.apple.com/au/app/puush/id386524126?mt=8) application. Once uploaded, these files can then be managed from the puush.me website, put into "pools" (photo albums), or shared elsewhere using an easily shareable `puu.sh` link.
 
 ## Subscription
 
