@@ -8,5 +8,5 @@ tags:
 # upppy
 
 ::: Infobox
-![Snapshot of the up.ppy.sh page](img/upppyScreenshot.png "Snapshot of the upppy website, as taken in 2023 by the Internet Archive")
+![Screenshot of puush's iOS interface](img/upppyScreenshot.png "Screenshot of puush's iOS interface, as taken from the [CNET's coverage of the app](https://www.cnet.com/culture/use-puush-to-share-images-and-screenshots-quickly/)")
 :::
