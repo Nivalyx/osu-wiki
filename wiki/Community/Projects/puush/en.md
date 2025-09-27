@@ -19,7 +19,7 @@ tags:
 
 puush allows for users to upload files and screenshots to their personal accounts using a dedicated [Windows](https://puush.me/dl/puush-installer.exe), [Mac OS](https://puush.me/dl/puush.zip), or [iOS](https://itunes.apple.com/au/app/puush/id386524126?mt=8) application. Once uploaded, these files can then be managed from the puush.me website, put into "pools" (photo albums), or shared elsewhere using an easily shareable `puu.sh` link.
 
-A core feature of puush is its ability to capture and share screenshots instantly from the user's device. As
+A core feature of puush is its ability to capture and share screenshots instantly, which makes it particularly popular among [modders](/wiki/Modding). As
 
 ## Subscription
 
