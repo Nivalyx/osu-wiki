@@ -17,4 +17,6 @@ tags:
 
 ## Downscaling
 
-Beginning in May 2014, puush no longer accepts registrations for Pro accounts as PayPal blocked puush's wire account due to a suspected Terms of Service breach. This prompted ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) to concurrently pay out $500+ per month out of his own pocket to keep the service running, as puush's financing is independent and not supported from the income from osu!.
+Beginning in May 2014, puush no longer accepts registrations for Pro accounts as PayPal suspended puush's wire account due to a suspected Terms of Service breach. This prompted ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) to concurrently pay out $500+ per month out of his own pocket to keep the service running, as puush's financing is independent from osu! altogether and not tied to [supporter tag](/wiki/osu!supporter) purchases.
+
+Later that year, in order to 
