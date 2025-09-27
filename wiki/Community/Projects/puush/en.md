@@ -17,3 +17,4 @@ tags:
 
 ## Downscaling
 
+Starting in May 2024, puush disabled registrations for pro accounts as PayPal blocked 
