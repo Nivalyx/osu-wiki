@@ -15,6 +15,8 @@ tags:
 
 ## Service
 
+puush allows for users to upload files and screenshots to their personal accounts using a dedicated [Windows](https://puush.me/dl/puush-installer.exe), [Mac OS](https://puush.me/dl/puush.zip), or [iOS]
+
 ## Subscription
 
 While puush is available to everyone free of charge, in order to keep the service self-sufficient, puush offers a "Pro" plan that users can subscribe to for US$15/year. This plan comes with a couple of extra benefits for the subscribing user, namely:
