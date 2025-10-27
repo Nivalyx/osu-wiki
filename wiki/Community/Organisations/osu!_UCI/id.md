@@ -27,7 +27,7 @@ Daftar acara-acara LAN yang telah diselenggarakan oleh osu! UCI dapat dilihat pa
 
 ## Pengurus
 
-### Petahana
+### Saat ini
 
 - ::{ flag=US }:: Frederick "[freddiiieeee](https://osu.ppy.sh/users/7112839)" Vo (*Presiden*)
 - ::{ flag=US }:: Adrien "[R34pling](https://osu.ppy.sh/users/7662172)" Huynh Huu
