@@ -6,6 +6,7 @@ tags:
   - college
   - Irvine
   - university
+  - kampus
   - universitas
   - klub
 ---

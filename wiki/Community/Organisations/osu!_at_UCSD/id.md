@@ -8,6 +8,7 @@ tags:
   - school
   - university
   - sekolah
+  - kampus
   - universitas
   - klub
 ---
