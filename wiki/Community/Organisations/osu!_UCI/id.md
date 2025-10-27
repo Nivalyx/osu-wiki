@@ -29,13 +29,13 @@ Daftar acara-acara LAN yang telah diselenggarakan oleh osu! UCI dapat dilihat pa
 
 ### Aktif
 
-- ::{ flag=US }:: Frederick "[freddiiieeee](https://osu.ppy.sh/users/7112839)" Vo (*President*)
+- ::{ flag=US }:: Frederick "[freddiiieeee](https://osu.ppy.sh/users/7112839)" Vo (*Presiden*)
 - ::{ flag=US }:: Adrien "[R34pling](https://osu.ppy.sh/users/7662172)" Huynh Huu
 - ::{ flag=US }:: Jason "[jlin_02](https://osu.ppy.sh/users/13192092)" Lin
 - ::{ flag=US }:: Khiem "[PingusKhan](https://osu.ppy.sh/users/9648050)" Dinh
 - ::{ flag=US }:: Nicholas "[[Nick]](https://osu.ppy.sh/users/9726582)" Budding
 
-### Non-aktif/Alumni
+### Alumni
 
 - ::{ flag=US }:: Max "[S2VX](https://osu.ppy.sh/users/1472763)" Chung (*Founder*)
 - ::{ flag=US }:: Aaron "[Xenocidel](https://osu.ppy.sh/users/2913126)" Liao
