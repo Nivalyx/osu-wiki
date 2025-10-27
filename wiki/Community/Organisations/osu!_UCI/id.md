@@ -13,9 +13,9 @@ tags:
 
 # osu! UCI
 
-**osu! UCI** merupakan klub osu! asal University of California, Irvine (*UCI*) yang mewadahi para anggotanya dalam mendiskusikan dan mengembangkan berbagai hal yang terkait dengan osu!. Klub ini rutin menyelenggarakan berbagai acara dari waktu ke waktu, mulai dari pertemuan mingguan, turnamen LAN musiman, dan lain sebagainya.
+**osu! UCI** merupakan klub osu! asal University of California, Irvine (*UCI*) yang berfokus pada permainan dan diskusi seputar osu!. Klub ini rutin menyelenggarakan berbagai acara seiring waktu, yang terutamanya meliputi antara lain turnamen LAN musiman dan temu jumpa mingguan.
 
-Daftar acara-acara LAN yang telah diselenggarakan oleh osu! UCI dapat dilihat pada laman [indeks turnamen osu! UCI](/wiki/Tournaments/osu!_UCI).
+Untuk informasi lebih lanjut seputar sebagian dari turnamen LAN ini, lihat [halaman indeks turnamen osu! UCI](/wiki/Tournaments/osu!_UCI).
 
 ## Daftar tautan
 
@@ -37,7 +37,7 @@ Daftar acara-acara LAN yang telah diselenggarakan oleh osu! UCI dapat dilihat pa
 
 ### Alumni
 
-- ::{ flag=US }:: Max "[S2VX](https://osu.ppy.sh/users/1472763)" Chung (*Founder*)
+- ::{ flag=US }:: Max "[S2VX](https://osu.ppy.sh/users/1472763)" Chung (*Pendiri*)
 - ::{ flag=US }:: Aaron "[Xenocidel](https://osu.ppy.sh/users/2913126)" Liao
 - ::{ flag=US }:: Alex "[Giraffle](https://osu.ppy.sh/users/5344769)" Luu
 - ::{ flag=US }:: Alex "[Riku on osu](https://osu.ppy.sh/users/3071659)" Liu
