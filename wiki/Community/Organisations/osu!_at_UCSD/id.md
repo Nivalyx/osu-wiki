@@ -14,9 +14,9 @@ tags:
 
 # osu! at UCSD
 
-**osu! at UCSD** merupakan klub osu! yang berjalan selaku divisi dari *Triton Gaming* di University of California, San Diego (*UCSD*). Organisasi ini bertujuan untuk memberikan ruang bagi para pemain osu! yang berkegiatan atau berada di sekitar UCSD agar dapat saling terhubung dan membangun komunitas lokal. Organisasi ini rutin mengadakan pertemuan rutin baik secara langsung ataupun offline,  serta berbagai turnamen osu! yang bersifat *online* maupun LAN.
+**osu! at UCSD** merupakan klub osu! yang berjalan selaku divisi dari *Triton Gaming* di University of California, San Diego (*UCSD*). Organisasi ini bertujuan untuk memberikan ruang bagi para pemain osu! yang berkegiatan atau berada di sekitar UCSD agar dapat saling terhubung dan membangun komunitas lokal. Organisasi ini rutin mengadakan pertemuan baik secara langsung ataupun offline,  serta berbagai turnamen osu! yang bersifat *online* maupun LAN.
 
-Daftar acara yang telah diselenggarakan oleh osu! at UCSD dapat dilihat pada laman [indeks turnamen osu! at UCSD](/wiki/Tournaments/osu!_at_UCSD).
+Untuk informasi lebih lanjut seputar turnamen yang diselenggarakan oleh osu! at UCSD, lihat halaman [indeks turnamen osu! at UCSD](/wiki/Tournaments/osu!_at_UCSD).
 
 ## Daftar tautan
 
