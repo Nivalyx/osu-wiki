@@ -16,7 +16,7 @@ no_native_review: true
 
 :::
 
-**cavoe's osu! event** (***COE***) merupakan konvensi osu! tahunan yang diadakan di Belanda dan dipelopori oleh ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). Konvensi ini menghadirkan berbagai turnamen serta area *bring-your-own computer* (BYOC) khusus yang dapat direservasi, gerai permainan, acara panggung yang berhubungan dengan osu!, dan aneka aktivitas lain di dalamnya.
+**cavoe's osu! event** (***COE***) merupakan konvensi osu! tahunan yang diadakan di Belanda dan dipelopori oleh ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). Acara ini merupakan tempat diselenggarakannya berbagai turnamen serta menghadirkan area *bring-your-own computer* (BYOC) khusus yang dapat direservasi, gerai permainan, acara panggung seputar osu!, dan aneka aktivitas lainnya.
 
 ## Iterasi
 
