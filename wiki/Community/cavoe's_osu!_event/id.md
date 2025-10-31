@@ -41,8 +41,8 @@ COE bermula pada tahun 2017 sebagai kegiatan yang hanya dikenal sebagai "osu!eve
 
 Konvensi ini kemudian dikembangkan pada tahun 2018 dengan lebih dari 300 peserta selama 10 hari, yang menghadirkan pemain kenamaan seperti ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) (Cookiezi), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) (BeasttrollMC), dan ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828).
 
-COE berpindah lokasi ke Brabanthallen di 's-Hertogenbosch (Den Bosch) pada tahun 2019. Dengan gedung yang lebih luas dan panggung yang lebih besar, COE tahun ini menampung lebih dari 500 peserta serta menawarkan lebih banyak gerai VR, acara panggung, dan area VIP khusus.
+Pada tahun 2019, COE berpindah lokasi ke Brabanthallen di 's-Hertogenbosch (Den Bosch). Dengan gedung yang lebih luas dan panggung yang lebih besar, COE tahun ini menampung lebih dari 500 peserta serta menawarkan lebih banyak gerai VR, acara panggung, dan area VIP khusus.
 
-Baik COE 2020 dan 2021 batal diselenggarakan akibat [pandemi COVID-19](https://en.wikipedia.org/wiki/COVID-19_pandemic).
+COE 2020 dan 2021 batal diselenggarakan akibat [pandemi COVID-19](https://en.wikipedia.org/wiki/COVID-19_pandemic).
 
 Memasuki tahun 2022, COE semakin bertambah besar dengan kehadiran 750 peserta, *arcade* khusus permainan ritme, lebih banyak mitra, lebih banyak acara panggung, dan "gua gamer"/"*gamer cave*" yang merupakan ruang pribadi yang dapat disewa di muka oleh pengunjung. COE tahun ini juga menghadirkan turnamen osu! dengan pundi hadiah yang totalnya mencapai 3.000 Euro.
