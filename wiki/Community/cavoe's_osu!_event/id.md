@@ -43,6 +43,6 @@ Konvensi ini kemudian dikembangkan pada tahun 2018 dengan lebih dari 300 peserta
 
 Pada tahun 2019, COE berpindah lokasi ke Brabanthallen di 's-Hertogenbosch (Den Bosch). Dengan gedung yang lebih luas dan panggung yang lebih besar, COE tahun ini dihadiri oleh lebih dari 500 peserta dan menghadirkan lebih banyak gerai VR, acara panggung, serta area VIP khusus.
 
-COE 2020 dan 2021 batal diselenggarakan akibat [pandemi COVID-19](https://en.wikipedia.org/wiki/COVID-19_pandemic).
+Baik COE 2020 dan 2021 batal diselenggarakan akibat [pandemi COVID-19](https://en.wikipedia.org/wiki/COVID-19_pandemic).
 
-Memasuki tahun 2022, COE semakin bertambah besar dengan kehadiran 750 peserta, *arcade* khusus permainan ritme, lebih banyak mitra, lebih banyak acara panggung, dan "gua gamer"/"*gamer cave*" yang merupakan ruang pribadi yang dapat disewa di muka oleh pengunjung. COE tahun ini juga menghadirkan turnamen osu! dengan pundi hadiah yang totalnya mencapai 3.000 Euro.
+Memasuki tahun 2022, COE semakin bertambah besar dengan kehadiran 750 peserta, arcade khusus permainan ritme, lebih banyak mitra, lebih banyak acara panggung, dan atraksi "gua gamer" (*gamer cave*) yang merupakan ruang pribadi yang dapat disewa di muka oleh pengunjung. COE tahun ini juga menghadirkan turnamen osu! dengan pundi hadiah yang totalnya mencapai 3.000 Euro.
