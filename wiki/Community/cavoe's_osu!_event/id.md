@@ -37,7 +37,7 @@ no_native_review: true
 
 ## Sejarah
 
-COE pertama kali digelar pada tahun 2017 sebagai kegiatan yang hanya dikenal sebagai "osu!event" dengan hanya dihadiri oleh 35 peserta selama 3 hari. Pada saat itu, acara ini diawali sebagai "acara kopi darat nasional Belanda dengan beberapa pemain tamu dari negara lain" yang bertempat di kafe De Hangar, Eindhoven.
+COE pertama kali digelar pada tahun 2017 sebagai kegiatan yang semata-mata dikenal sebagai "osu!event" dengan hanya dihadiri oleh 35 peserta selama 3 hari. Pada saat itu, acara ini diawali sebagai "acara kopi darat nasional Belanda dengan beberapa pemain tamu dari negara lain" yang bertempat di kafe De Hangar, Eindhoven.
 
 Konvensi ini kemudian dikembangkan pada tahun 2018 dengan lebih dari 300 peserta selama 10 hari, yang menghadirkan berbagai pemain kenamaan seperti ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) (Cookiezi), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) (BeasttrollMC), dan ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828).
 
