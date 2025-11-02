@@ -23,7 +23,7 @@ Beatmap yang telah dinominasikan oleh kapten  akan kemudian dimasukkan ke [forum
 
 Pembuat beatmap yang telah di-Loved **tidak** dapat meminta agar beatmap mereka dicabut dari Loved. Di samping itu, tingkat kesulitan yang telah di-Loved tidak dapat digunakan ulang secara langsung pada beatmap Ranked.
 
-Beatmap yang telah di-Loved masih dapat dicabut dari Loved secara sementara apabila ditemukan masalah yang mengganggu permainan tidak lama setelah beatmap ini diangkat ke Loved. Masalah ini dapat dilaporkan dengan menghubungi anggota [tim Project Loved](https://osu.ppy.sh/groups/31) atau memposting pada kanal `#osu-loved` di [server Discord osu!](https://discord.gg/ppy).
+Beatmap yang telah di-Loved masih akan dapat dicabut dari Loved secara sementara apabila ditemukan masalah yang mengganggu permainan tidak lama setelah beatmap ini diangkat ke Loved. Masalah ini dapat dilaporkan dengan menghubungi anggota [tim Project Loved](https://osu.ppy.sh/groups/31) atau memposting pada kanal `#osu-loved` di [server Discord osu!](https://discord.gg/ppy).
 
 ## Persyaratan
 
