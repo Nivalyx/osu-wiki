@@ -37,9 +37,9 @@ Agar suatu beatmap dapat dinominasikan ke Loved, terdapat beberapa persyaratan y
 - Memiliki setidaknya satu tingkat kesulitan yang dapat diselesaikan
 - Memiliki [drain time](/wiki/Beatmap/Drain_time) setidaknya 20 detik pada setiap tingkat kesulitan yang dinominasikan
 
-Walaupun terdapat banyak beatmap Unranked yang memenuhi kriteria ini, hanya sedikit dari beatmap ini yang akan dinominasikan ke Loved setiap bulannya. Hal ini disebabkan oleh proses pemilihan yang selektif oleh para kapten serta tingginya ambang suara yang dibutuhkan pada proses pemungutan suara.
+Walaupun terdapat banyak beatmap Unranked di luar sana yang memenuhi kriteria ini, hanya segelintir dari beatmap ini yang akan dinominasikan ke Loved setiap bulannya. Hal ini dikarenakan oleh proses pemilihan yang selektif oleh para kapten serta tingginya ambang suara yang dibutuhkan pada proses pemungutan suara.
 
-### Memperbarui beatmap sebelum Loved
+### Memperbarui beatmap sebelum di-Loved
 
 Dalam beberapa kasus, beatmap yang melanggar persyaratan Loved tertentu dapat dinominasikan selama mapper yang bersangkutan dapat memperbarui beatmap ini sebelum diangkat ke Loved. Sebagai contoh, beatmap dengan gambar latar yang tidak pantas dapat dinominasikan ke Loved selama gambar latar ini dihapus atau diganti. Pada umumnya, salah satu kontributor aktif Project Loved akan mengirimkan postingan pada [halaman diskusi beatmap](/wiki/Beatmap_discussion) apabila terdapat sesuatu yang perlu diubah.
 
