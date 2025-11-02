@@ -65,7 +65,7 @@ Setiap bulannya, beatmap Loved dipilih berdasarkan 9 kategori berbeda untuk mema
 | Second Shots | Beatmap yang sebelumnya pernah ditolak pada pemungutan suara Loved dan diberikan kesempatan kedua. |
 | Chill Champions | Beatmap yang cocok untuk dimainkan secara santai tanpa tingkat kesulitan di atas 5 bintang. |
 
-Selain itu, terdapat juga hingga tiga beatmap pilihan bebas (*wildcard*) yang dapat diambill dari kategori mana pun, yang menambah jumlah beatmap ini menjadi 12 beatmap per bulannya.
+Selain itu, terdapat juga hingga tiga beatmap pilihan bebas (*wildcard*) yang dapat diambil dari kategori mana pun, yang menambah jumlah beatmap ini menjadi 12 beatmap per bulannya.
 
 Untuk pertanyaan lebih lanjut seputar apa-apa saja yang tergolong ke masing-masing kategori, silakan hubungi [kapten Loved mode osu!](https://osu.ppy.sh/groups/31?mode=osu).
 
