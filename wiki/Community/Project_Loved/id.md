@@ -19,11 +19,11 @@ Untuk mengirimkan beatmap untuk diangkat ke Loved, silakan kunjungi [halaman sub
 - [Daftar submisi osu!catch](https://loved.sh/submissions/fruits)
 - [Daftar submisi osu!mania](https://loved.sh/submissions/mania)
 
-Beatmap yang telah dinominasikan oleh kapten kemudian akan dimasukkan ke [forum Project Loved](https://osu.ppy.sh/community/forums/120), di mana para anggota komunitas akan dapat memberikan suara mereka terkait apakah beatmap ini layak berada di Loved atau tidak. Beatmap yang meraih 80% suara "Ya" pada masa akhir pemungutan suara mereka akan kemudian dipindahkan ke Loved.
+Beatmap yang telah dinominasikan oleh kapten  akan kemudian dimasukkan ke [forum Project Loved](https://osu.ppy.sh/community/forums/120), di mana para anggota komunitas dapat memberikan suara mereka terkait apakah beatmap ini layak berada di Loved atau tidak. Beatmap yang meraih 80% suara "Ya" pada masa akhir pemungutan suara mereka akan kemudian dipindahkan ke Loved.
 
 Pembuat beatmap yang telah di-Loved **tidak** dapat meminta agar beatmap mereka dicabut dari Loved. Di samping itu, tingkat kesulitan yang telah di-Loved tidak dapat digunakan ulang secara langsung pada beatmap Ranked.
 
-Beatmap yang telah di-Loved masih akan dapat dicabut dari Loved secara sementara apabila ditemukan masalah yang mengganggu permainan tidak lama setelah beatmap ini diangkat ke Loved. Masalah ini dapat dilaporkan dengan menghubungi anggota [tim Project Loved](https://osu.ppy.sh/groups/31) atau memposting pada kanal `#osu-loved` di [server Discord osu!](https://discord.gg/ppy).
+Beatmap yang telah di-Loved masih dapat dicabut dari Loved secara sementara apabila ditemukan masalah yang mengganggu permainan tidak lama setelah beatmap ini diangkat ke Loved. Masalah ini dapat dilaporkan dengan menghubungi anggota [tim Project Loved](https://osu.ppy.sh/groups/31) atau memposting pada kanal `#osu-loved` di [server Discord osu!](https://discord.gg/ppy).
 
 ## Persyaratan
 
