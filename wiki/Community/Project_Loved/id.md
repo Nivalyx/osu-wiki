@@ -27,7 +27,7 @@ Beatmap yang telah di-Loved masih akan dapat dicabut dari Loved secara sementara
 
 ## Persyaratan
 
-Agar suatu beatmap dapat dinominasikan ke Loved, terdapat beberapa persyaratan yang sangat minimal yang harus dipenuhi oleh beatmap ini. Masing-masing mode permainan memiliki kriterianya tersendiri untuk menentukan nominasi dan prioritas beatmap yang dipilih, namun setiap beatmap yang dipilih ini akan selalu harus:
+Agar suatu beatmap dapat dinominasikan ke Loved, terdapat beberapa persyaratan yang sangat minimal yang harus diikuti oleh beatmap ini. Masing-masing mode permainan memiliki kriterianya tersendiri untuk menentukan nominasi dan prioritas beatmap yang dipilih, namun beatmap yang dipilih ini akan selalu harus:
 
 - Tunduk pada [peraturan pengunggahan beatmap](/wiki/Rules#peraturan-pengunggahan-beatmap)
 - Tidak berada pada kategori [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), atau [Qualified](/wiki/Beatmap/Category#qualified)
