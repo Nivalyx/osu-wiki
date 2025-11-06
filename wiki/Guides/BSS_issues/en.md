@@ -4,6 +4,10 @@ tags:
   - beatmap submission system issues
 ---
 
+::: Infobox
+![Screenshot of the error message](img/errormessage.png "The song's tempo, equal to 187, can be seen on the top corner of the beatmap information page")
+:::
+
 # How to resolve BSS issues
 
 If the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) won't let you submit your own beatmap because it says that you do not own the map then do the following:
