@@ -5,12 +5,12 @@ tags:
 ---
 
 ::: Infobox
-![Screenshot of the error message](img/errormessage.png "The error message as shown in the editor")
+![Screenshot of the warning message](img/errormessage.png "The warning message as shown in the editor")
 :::
 
 # How to resolve BSS issues
 
-When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) may occasionally prevent you from submitting your own beatmap by warning that `This beatmap you're trying to submit isn't yours!`. This is most commonly caused by a or a bugged submission cache, and can be fixed by the following steps:
+When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) may occasionally prevent you from submitting your own beatmap by warning that `This beatmap you're trying to submit isn't yours!`. This is most commonly caused by a in the [.osu file](wiki/Client/File_formats/osu_(file_format)) or a bugged submission cache, and can be fixed by the following steps:
 
 1. Go to the beatmap's folder.
    - You can get there easily by going to `File` then `Open Song Folder` in the [beatmap editor](/wiki/Client/Beatmap_editor).
