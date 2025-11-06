@@ -39,4 +39,4 @@ You should be able to submit your beatmap by now. If you are still having issues
 11. Rename this `.zip` file back to `.osz`.
 12. Import it into osu! and try uploading it again.
 
-If this also fails, please create a new topic in the [Help forum](https://osu.ppy.sh/community/forums/5) with details on your issue to get further help.
+If this also fails, please create a new topic in the [Help forum](https://osu.ppy.sh/community/forums/5) with details on your issue so that others can help you.
