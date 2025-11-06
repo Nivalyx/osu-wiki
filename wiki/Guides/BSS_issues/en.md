@@ -16,10 +16,10 @@ When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/B
    - You can get there easily by going to `File` and then `Open Song Folder` in the [beatmap editor](/wiki/Client/Beatmap_editor).
 2. Exit osu!. This is to make sure that all the changes are going to be applied properly.
 3. Open the `.osu` difficulty files with any plain text editor (e.g. Notepad).
-4. Make sure that your username is correctly written in the `Creator` field. If it isn't, update this field with your current username.
+4. Make sure that your username has been  written correctly in the `Creator` field. If it hasn't, update this field with your current username.
 5. Set the `BeatmapID` field to `0`.
 6. Set the `BeatmapSetID` field to `-1`.
-7. Make sure the beatmap's folder name does not start with a string of numbers.
+7. Make sure that the beatmap's folder name does not start with a string of numbers.
    - For example, `1000 - Song Name` should be `Song Name`.
 8. Delete all the files in the `SubmissionCache` folder. This folder can be found in the osu! installation folder.
 9. Open osu! again and try to upload your beatmap.
