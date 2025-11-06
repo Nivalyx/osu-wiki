@@ -32,9 +32,9 @@ You should be able to submit your beatmap by now. If you are still having issues
 4. Go to the exported beatmap and change the extension from `.osz` to `.zip` (you will need file extensions to be visible from the windows folder options to do this).
 5. Extract this `.zip` file.
 6. Open the `.osu` difficulty files with any plain text editor (e.g. Notepad).
-7. Enter anything as username for the `Creator`, but do not use your username.
-8. Set the `BeatmapID` to `0`.
-9. Set the `BeatmapSetID` to `-1`.
+7. Fill in the `Creator` field with anything you like, but do **not** use your username.
+8. Set the `BeatmapID` field to `0`.
+9. Set the `BeatmapSetID` field to `-1`.
 10. Once you are done, zip the files back into the `.zip` file.
 11. Rename this `.zip` file back to `.osz`.
 12. Import it into osu! and try uploading it again.
