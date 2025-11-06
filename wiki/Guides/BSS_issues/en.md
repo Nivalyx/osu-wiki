@@ -10,7 +10,7 @@ tags:
 
 # How to resolve BSS issues
 
-When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) may sometimes occasionally prevent you from submitting your own map by saying that `This beatmap you're trying to submit isn't yours!`. A
+When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) may occasionally prevent you from submitting your own beatmap by saying that `This beatmap you're trying to submit isn't yours!`. This is commonly caused 
 
 1. Go to the beatmap's folder.
    - You can get there easily by going to `File` then `Open Song Folder` in the [beatmap editor](/wiki/Client/Beatmap_editor).
