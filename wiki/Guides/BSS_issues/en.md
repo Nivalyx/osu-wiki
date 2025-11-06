@@ -5,12 +5,12 @@ tags:
 ---
 
 ::: Infobox
-![Screenshot of the error message](img/errormessage.png "The song's tempo, equal to 187, can be seen on the top corner of the beatmap information page")
+![Screenshot of the error message](img/errormessage.png "The error message as shown in the editor")
 :::
 
 # How to resolve BSS issues
 
-If the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) won't let you submit your own beatmap because it says that you do not own the map then do the following:
+When uploading a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) may sometimes erroneously won't let you submit your own beatmap because it says that you do not own the map then do the following:
 
 1. Go to the beatmap's folder.
    - You can get there easily by going to `File` then `Open Song Folder` in the [beatmap editor](/wiki/Client/Beatmap_editor).
