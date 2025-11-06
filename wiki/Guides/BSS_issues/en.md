@@ -10,19 +10,18 @@ tags:
 
 # How to resolve BSS issues
 
-When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) may occasionally prevent you from submitting your own beatmap by warning that `This beatmap you're trying to submit isn't yours!`. This is most commonly caused by an incorrectly set value in the [.osu file](wiki/Client/File_formats/osu_(file_format)) or a bugged submission cache, and can be fixed by the following steps:
+When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) may occasionally prevent you from submitting your own beatmap by warning that `This beatmap you're trying to submit isn't yours!`. This is most commonly caused by an incorrect value in the [.osu file](wiki/Client/File_formats/osu_(file_format)) or a bugged submission cache, and can be fixed by the following steps:
 
 1. Go to the beatmap's folder.
-   - You can get there easily by going to `File` then `Open Song Folder` in the [beatmap editor](/wiki/Client/Beatmap_editor).
+   - You can get there easily by going to `File` and then `Open Song Folder` in the [beatmap editor](/wiki/Client/Beatmap_editor).
 2. Exit osu!. This is to make sure that the changes are applied properly.
 3. Open the `.osu` difficulty files with any plain text editor (e.g. Notepad).
-4. Enter your username for the `Creator`. If your name has spaces, then use spaces.
-   - For ex.
-5. Set the `BeatmapID` to `0`.
-6. Set the `BeatmapSetID` to `-1`.
-7. Make sure the beatmap folder name does not start with a string of numbers.
-   - E.g. `1000 - Song Name` should be `Song Name`.
-8. Delete the file(s) in the `SubmissionCache` folder. This is located in the osu! installation folder.
+4. Make sure that your username has been written correctly in the `Creator` field.
+5. Set the `BeatmapID` field to `0`.
+6. Set the `BeatmapSetID` field to `-1`.
+7. Make sure the beatmap's folder name does not start with a string of numbers.
+   - For example, `1000 - Song Name` should be `Song Name`.
+8. Delete all the files in the `SubmissionCache` folder. This folder can be found in the osu! installation folder.
 9. Open osu! again and try to upload your beatmap.
 
 If you are still having issues, follow these steps:
