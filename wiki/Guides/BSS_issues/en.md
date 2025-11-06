@@ -10,7 +10,7 @@ tags:
 
 # How to resolve BSS issues
 
-When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) may occasionally prevent you from submitting your own beatmap by warning that `This beatmap you're trying to submit isn't yours!`. This is most often caused by an incorrectly set parameter in the [.osu file](wiki/Client/File_formats/osu_(file_format)) or a bugged submission cache, and can be fixed by the following steps:
+When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) may occasionally prevent you from submitting your own beatmap by warning that `This beatmap you're trying to submit isn't yours!`. This is most often caused by an incorrectly set parameter in the [.osu file](wiki/Client/File_formats/osu_(file_format)) or a bugged submission cache, and can be resolved by  following these steps:
 
 1. Go to the beatmap's folder.
    - You can get there easily by going to `File` and then `Open Song Folder` in the [beatmap editor](/wiki/Client/Beatmap_editor).
@@ -24,7 +24,7 @@ When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/B
 8. Delete all the files in the `SubmissionCache` folder. This folder can be found in your osu! installation directory.
 9. Open osu! again and try to upload your beatmap.
 
-If you are still having issues, follow these steps:
+If you are still not able to upload your beatmap, follow these steps:
 
 1. Export the beatmap from inside the beatmap editor by going to `File` and then `Export Package`.
 2. Exit the beatmap editor and then delete the beatmap in osu!.
@@ -38,4 +38,5 @@ If you are still having issues, follow these steps:
 10. Once you are done, zip the files back into the `.zip` file.
 11. Rename this `.zip` file back to `.osz`.
 12. Import it into osu! and try uploading it again.
-13. If this fails, you may want to create a new topic thread in the [Help subforums](https://osu.ppy.sh/community/forums/5) to seek further help.
+
+If this fails, you may want to create a new topic thread in the [Help subforums](https://osu.ppy.sh/community/forums/5) to seek further help.
