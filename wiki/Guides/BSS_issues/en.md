@@ -24,7 +24,7 @@ When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/B
 8. Delete all the files in the `SubmissionCache` folder. This folder can be found in your osu! installation directory.
 9. Open osu! again and try to upload your beatmap.
 
-If you are still having issues submitting your beatmap, follow these steps:
+If you are still having issues in submitting your beatmap, follow these steps:
 
 1. Export the beatmap from inside the beatmap editor by going to `File` and then `Export Package`.
 2. Exit the beatmap editor and then delete the beatmap in osu!.
@@ -39,4 +39,4 @@ If you are still having issues submitting your beatmap, follow these steps:
 11. Rename this `.zip` file back to `.osz`.
 12. Import it into osu! and try uploading it again.
 
-If this fails, you may want to create a new topic thread in the [Help subforums](https://osu.ppy.sh/community/forums/5) to seek further help.
+If this also fails, you may want to create a new topic thread in the [Help forum](https://osu.ppy.sh/community/forums/5) to seek further help.
