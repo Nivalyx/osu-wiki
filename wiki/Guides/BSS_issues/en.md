@@ -26,8 +26,7 @@ When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/B
 
 If you are still having issues, follow these steps:
 
-1. Export the beatmap using the beatmap editor.
-   - `File` then `Export Package`.
+1. Export the beatmap from inside the beatmap editor by going to `File` and then `Export Package`.
 2. Exit the beatmap editor and then delete the beatmap in osu!.
 3. Exit osu!
 4. Go to the exported beatmap and change the extension from `.osz` to `.zip` (you will need file extensions to be visible from the windows folder options to do this).
