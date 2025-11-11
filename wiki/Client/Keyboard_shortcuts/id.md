@@ -214,8 +214,8 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
-| `Klik Kiri` dua kali | Berpindah secara cepat ke posisi objek yang dipilih. (osu!, osu!taiko, dan osu!catch) |
-| `Klik Kanan` | Mengaktifkan/menonaktifkan penerapan New Combo (pada saat hendak menempatkan objek baru) atau menghapus objek (pada saat memilih objek). |
+| `Klik Kiri` dua kali | Memindahkan posisi linimasa ke circle atau akhir slider yang diklik dua kali secara cepat. (osu!, osu!taiko, dan osu!catch) |
+| `Klik Kanan` | Mengaktifkan kombo baru (pada saat hendak menempatkan objek permainan baru) atau menghapus objek (pada saat memilih). |
 
 #### Area permainan
 
