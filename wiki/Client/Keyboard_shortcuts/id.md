@@ -61,7 +61,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `J` atau `F6` | Membuka menu "Loncat Ke...". |
 | `R` | Memainkan lagu lain secara acak. |
 
-## Layar pemilihan lagu
+## Pemilihan lagu
 
 *Catatan: Tidak semua tombol pintasan berikut dapat digunakan pada layar pemilihan lagu di mode Multi.*
 
@@ -90,9 +90,9 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `Shift` + `Panah Kiri/Kanan` | Memasuki grup sebelumnya/berikutnya. |
 | `Shift` + `Enter` | Membuka/menutup grup yang dipilih. |
 
-## Game modifier
+## Mod
 
-*Laman utama: [Game modifier](/wiki/Gameplay/Game_modifier)*\
+*Halaman utama: [Mod permainan](/wiki/Gameplay/Game_modifier)*\
 *Catatan: Tombol-tombol shortcut berikut hanya dapat digunakan untuk mengaktifkan/menonaktifkan mod-mod yang bersangkutan pada menu game modifier.*\
 *Catatan: Mod-mod target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak memiliki tombol shortcut-nya tersendiri.*
 
