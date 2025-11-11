@@ -83,9 +83,9 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `Ctrl` + `F3` atau `Ctrl` + `+` | Meningkatkan kecepatan gulir not osu!mania (pada saat berada di mode osu!mania). |
 | `Ctrl` + `F4` atau `Ctrl` + `-` | Menurunkan kecepatan gulir not osu!mania (pada saat berada di mode osu!mania) |
 | `Ctrl` + `Backspace` | Menghapus kata terakhir dari kolom pencarian. |
-| `Panah Atas/Bawah` | Memilih beatmap sebelumnya/berikutnya. |
-| `Panah Kiri/Kanan` | Memilih set beatmap sebelumnya/berikutnya. |
-| `Page Up/Down` | Memutar roda lagu (*song wheel*) ke atas/bawah. |
+| `Panah Atas/Bawah` | Memilih tingkat kesulitan sebelumnya/berikutnya. |
+| `Panah Kiri/Kanan` | Memilih beatmap sebelumnya/berikutnya. |
+| `Page Up/Down` | Memutar roda lagu ke atas/bawah. |
 | `Enter` | Memasuki grup/set beatmap yang dipilih atau memainkan beatmap yang dipilih. |
 | `Shift` + `Panah Kiri/Kanan` | Memasuki grup sebelumnya/berikutnya. |
 | `Shift` + `Enter` | Membuka/menutup grup yang dipilih. |
