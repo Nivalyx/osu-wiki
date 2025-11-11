@@ -93,7 +93,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 ## Mod
 
 *Halaman utama: [Mod permainan](/wiki/Gameplay/Game_modifier)*\
-*Catatan: Tombol pintasan berikut hanya dapat digunakan untuk memasang mod pada saat kamu berada pada menu pemilihan mod.*\
+*Catatan: Tombol pintasan berikut hanya dapat digunakan untuk memasang mod pada saat kamu berada pada layar pemilihan mod.*\
 *Catatan: Mod target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak memiliki tombol pintasan.*
 
 | Tombol pintasan | Mod |
@@ -121,7 +121,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
-| `+` atau `-` | Mengatur *offset* lokal (tahan `Alt` untuk mengatur *offset* dalam rentang yang lebih presisi). |
+| `+` atau `-` | Mengatur offset lokal (tahan `Alt` untuk mengubah rentang ketepatan). |
 | `Esc` | Menjeda permainan, atau mengembalikan osu! ke layar pemilihan lagu apabila kamu sedang menonton tayangan ulang atau memainkan beatmap dengan menggunakan mod Auto atau Cinema. |
 | `Spasi` | Melewatkan intro beatmap. |
 | `Tab` | Menampilkan/menyembunyikan papan skor. |
