@@ -63,7 +63,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 ## Layar pemilihan lagu
 
-*Catatan: Tidak semua tombol shortcut berikut dapat digunakan dalam ruang pertandingan multiplayer.*
+*Catatan: Tidak semua tombol pintasan berikut dapat digunakan di dalam ruang pertandingan multiplayer.*
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
