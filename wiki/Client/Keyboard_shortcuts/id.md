@@ -177,7 +177,7 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | `F6` | Membuka kotak dialog Timing and Control Points. |
 | `Ctrl` + `P` | Menambahkan timing point induk (*uninherited timing point*) pada keterangan waktu saat ini. Apabila pintasan ini digunakan di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
 | `Ctrl` + `Shift` + `P` | Menambahkan timing point turunan (*inherited timing point*) pada keterangan waktu saat ini. Apabila pintasan ini digunakan di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
-| `Ctrl` + `I` | Menghapus timing point saat ini (baik yang bersifat induk ataupun turunan). Tidak dapat digunakan untuk menghapus timing point induk pertama. |
+| `Ctrl` + `I` | Menghapus timing point saat ini (baik yang bersifat induk ataupun turunan). Pintasan ini tidak dapat digunakan untuk menghapus timing point induk yang paling pertama. |
 
 #### Mouse
 
