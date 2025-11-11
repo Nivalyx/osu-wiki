@@ -23,11 +23,11 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `Alt` + `Panah Atas/Bawah` | Mengatur volume utama. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
 | `Ctrl` + `Alt` + `Shift` + `S` | Memuat ulang skin saat ini. Apabila pintasan ini digunakan di dalam permainan atau pada layar hasil, skin ini baru akan termuat ulang setelah osu! kembali ke menu pemilihan lagu. |
 | `Ctrl` + `F11` | Menampilkan grafik Frame Time Graph. Menekan `Ctrl` akan membekukan grafik ini. |
-| `F7` | Mengubah batasan FPS. |
-| `F8` | Menampilkan/menyembunyikan jendela obrolan. |
-| `F9` | Menampilkan/menyembunyikan jendela obrolan dan daftar pengguna. |
-| `F10` | Mengaktifkan/menonaktifkan tombol-tombol mouse (kecuali roda mouse, yang akan selalu aktif sepanjang waktu). |
-| `F12` | Mengambil tangkapan layar (*screenshot*). Klik pada dialog yang muncul untuk membuka folder Screenshots. |
+| `F7` | Mengubah batasan FPS yang aktif. |
+| `F8` | Menampilkan konsol chat. |
+| `F9` | Menampilkan konsol chat yang diperluas. |
+| `F10` | Menonaktifkan seluruh tombol mouse (kecuali roda mouse, yang akan selalu aktif). |
+| `F12` | Mengambil tangkapan layar. Klik dialog yang muncul untuk membuka folder Screenshots. |
 | `Shift` + `F12` | Mengambil tangkapan layar (*screenshot*) untuk kemudian diunggah ke server osu!. Perintah ini akan menyimpan tangkapan layar (*screenshot*) secara lokal pada folder Screenshots, mengunggahnya, dan menampilkannya pada *browser*. |
 | `Insert` | Tombol ini merupakan [tombol bos (*boss key*)](https://en.wikipedia.org/wiki/Boss_key). Pada saat ditekan, tombol ini akan meminimalkan osu! akan ke area notifikasi dan mematikan suara lagu. |
 | `Shift` + `F1` | Membuka laman [osu!status](https://twitter.com/osustatus) pada *browser*. (Hanya dapat digunakan pada saat osu! gagal terhubung.) |
