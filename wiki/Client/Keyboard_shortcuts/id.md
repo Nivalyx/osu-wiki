@@ -266,9 +266,9 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Mengubah nilai [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9. |
-| `Shift` (pada saat menyeret objek pada linimasa) | Memindahkan objek yang dipilih tanpa bergantung pada nilai Beat Snap Divisor tertentu. |
-| `J` | Memundurkan pilihan sebanyak satu derik ketukan (*divisor*) pada *timeline*. |
-| `K` | Memajukan pilihan sebanyak satu derik ketukan (*divisor*) pada *timeline*. |
+| `Shift` (pada saat menyeret objek pada linimasa) | Memindahkan objek tanpa menghiraukan derik ketukan pada linimasa. |
+| `J` | Memundurkan pilihan sejauh 1 ketukan. |
+| `K` | Memajukan pilihan sejauh 1 ketukan. |
 
 ### Tab Design
 
