@@ -162,8 +162,8 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | `Ctrl` + `B` | Membubuhkan markah pada keterangan waktu saat ini. |
 | `Ctrl` + `Shift` + `B` | Menghapus markah pada keterangan waktu saat ini. |
 | `Ctrl` + `Panah Kiri/Kanan` | Memajukan/memundurkan lagu antar markah. |
-| `Ctrl` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last save state*) secara parsial. Hal ini akan memuat ulang berkas `.osu` dan `.osb` milik beatmap. |
-| `Ctrl` + `Shift` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last save state*) secara menyeluruh. Hal ini akan memuat ulang seluruh berkas milik beatmap. |
+| `Ctrl` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last saved state*) secara parsial. Hal ini akan memuat ulang berkas `.osu` dan `.osb` milik beatmap. |
+| `Ctrl` + `Shift` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last saved state*) secara menyeluruh. Hal ini akan memuat ulang seluruh berkas milik beatmap. |
 | `Ctrl` + `O` | Membuka jendela pemilihan tingkat kesulitan. |
 | `Ctrl` + `S` | Menyimpan beatmap. |
 | `Ctrl` + `N` | Menampilkan pilihan untuk menghapus semua objek yang ada. |
