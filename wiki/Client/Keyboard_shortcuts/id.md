@@ -7,7 +7,7 @@ tags:
   - pintasan
 ---
 
-# Daftar pintasan keyboard
+# Daftar tombol pintasan
 
 osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam permainan maupun di tempat-tempat lainnya. Pada artikel ini, kamu akan dapat menemukan berbagai tombol *shortcut* yang ada di osu! beserta fungsinya masing-masing.
 
@@ -17,7 +17,7 @@ osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam perm
 
 Tombol pintasan berikut dapat digunakan di mana pun:
 
-| Tombol pintasan | Tindakan |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Alt` + `F4` | Menutup klien permainan (tanpa menampilkan layar konfirmasi). Apabila pintasan ini digunakan di dalam permainan, beatmap editor, atau osu!direct, osu! akan kembali ke menu pemilihan lagu (atau ke menu utama untuk osu!direct). |
 | `Alt` + `Panah Atas/Bawah` | Mengatur volume utama. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
@@ -35,7 +35,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 ## Menu utama
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Alt` + `Enter` | Mengaktifkan/menonaktifkan mode *fullscreen*. |
 | `Panah Atas/Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
@@ -51,7 +51,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 ### Pemutar lagu (jukebox)
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Z` atau `F1` | Memainkan lagu sebelumnya. |
 | `X` atau `F2` | Memutar lagu. Apabila sudah ada lagu yang diputar, lagu tersebut akan diulang dari awal. |
@@ -65,7 +65,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 *Catatan: Tidak semua tombol shortcut berikut dapat digunakan dalam ruang pertandingan multiplayer.*
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `F1` | Membuka menu pemilihan [mod](/wiki/Gameplay/Game_modifier). |
 | `F2` | Memilih beatmap secara acak. |
@@ -96,7 +96,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 *Catatan: Tombol-tombol shortcut berikut hanya dapat digunakan untuk mengaktifkan/menonaktifkan mod-mod yang bersangkutan pada menu game modifier.*\
 *Catatan: Mod-mod target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak memiliki tombol shortcut-nya tersendiri.*
 
-| Tombol *shortcut* | Mod |
+| Tombol pintasan | Mod |
 | :-- | :-- |
 | `Q` | Easy |
 | `W` | No Fail |
@@ -119,7 +119,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 ## Permainan
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `+` atau `-` | Mengatur *offset* lokal (tahan `Alt` untuk mengatur *offset* dalam rentang yang lebih presisi). |
 | `Esc` | Menjeda permainan, atau mengembalikan osu! ke layar pemilihan lagu apabila kamu sedang menonton tayangan ulang atau memainkan beatmap dengan menggunakan mod Auto atau Cinema. |
@@ -134,7 +134,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 *Catatan: Tombol-tombol shortcut berikut hanya dapat digunakan pada osu! versi Cutting Edge.*
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `5` | Menjeda pemutaran tayangan ulang. |
 | `6` atau `0` | Melanjutkan pemutaran tayangan ulang atau mengubah kecepatan pemutaran tayangan ulang menjadi 1x. |
@@ -150,7 +150,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab beatmap editor manapun:
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Z` | Beralih secara cepat ke awal lagu atau objek pertama pada beatmap. |
 | `V` | Beralih secara cepat ke akhir lagu atau objek terakhir pada beatmap. |
@@ -181,7 +181,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 #### Mouse
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu. |
 | `Shift` + `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu dalam rentang (4 x nilai Beat Snap Divisor yang aktif). |
@@ -193,7 +193,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 #### Umum
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Alt` + `F4` atau `Esc` | Mengembalikan osu! ke menu pemilihan lagu. |
 | `Ctrl` + `Z` | Mengurungkan tindakan. |
@@ -212,14 +212,14 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 #### Mouse
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Klik Kiri` dua kali | Berpindah secara cepat ke posisi objek yang dipilih. (osu!, osu!taiko, dan osu!catch) |
 | `Klik Kanan` | Mengaktifkan/menonaktifkan penerapan New Combo (pada saat hendak menempatkan objek baru) atau menghapus objek (pada saat memilih objek). |
 
 #### Playfield
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Alt` | Mengaktifkan/menonaktifkan [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap) untuk sementara waktu. |
 | `Y` | Mengaktifkan/menonaktifkan Distance Snap. |
@@ -234,7 +234,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 #### Manipulasi objek
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Q` | Menerapkan New Combo. |
 | `Ctrl` + `,` | Memutar pilihan 90 derajat berlawanan arah jarum jam. |
@@ -252,7 +252,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 #### Hitsounding
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `W` | Menerapkan *hitsound* Whistle pada objek-objek yang dipilih. |
 | `E` | Menerapkan *hitsound* Finish pada objek-objek yang dipilih. |
@@ -263,7 +263,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 #### Timeline
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Shift` + (`1`, `2`, `3`, `4`, `5,`, `6`, `7`, `8`, atau `9`) | Mengubah nilai [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) ke 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 dan 1/9. |
 | `Shift` (pada saat menyeret suatu objek pada *timeline*) | Memindahkan objek yang dipilih tanpa bergantung pada nilai Beat Snap Divisor tertentu. |
@@ -272,7 +272,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 ### Tab Design
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `I` | Membuka jendela Sprite Library. |
 | `Ctrl` + `Z` | Mengurungkan tindakan. |
@@ -285,7 +285,7 @@ Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab be
 
 ### Tab Timing
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `T` | Mengubah nilai BPM dan *offset* sesuai dengan input yang diberikan. |
 | `Shift` pada saat mengatur BPM atau *offset* | Mengubah nilai BPM dalam rentang 5 BPM atau nilai *offset* dalam rentang 10ms. |
