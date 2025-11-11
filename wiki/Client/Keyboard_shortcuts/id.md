@@ -94,7 +94,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 *Halaman utama: [Mod permainan](/wiki/Gameplay/Game_modifier)*\
 *Catatan: Tombol-tombol shortcut berikut hanya dapat digunakan untuk mengaktifkan/menonaktifkan mod-mod yang bersangkutan pada menu game modifier.*\
-*Catatan: Mod-mod target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak memiliki tombol shortcut-nya tersendiri.*
+*Catatan: Mod target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak memiliki tombol pintasan.*
 
 | Tombol pintasan | Mod |
 | :-- | :-- |
