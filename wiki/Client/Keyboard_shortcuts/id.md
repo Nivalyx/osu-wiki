@@ -49,7 +49,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `Esc` | Menampilkan pilihan untuk keluar dari permainan. (Hanya pada saat menu Play dan Options sedang tidak aktif) |
 | `F` | Menampilkan indikator FPS. |
 
-### Pemutar lagu (jukebox)
+### Pemutar lagu
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
