@@ -186,8 +186,8 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu. |
 | `Shift` + `Roda Mouse ke Atas/Bawah` | Memajukan/memundurkan lagu dengan kecepatan 4 kali lipat.. |
 | `Ctrl` + `Roda Mouse ke Atas/Bawah` | Mengubah nilai Beat Snap Divisor. |
-| `Alt` + `Roda Mouse ke Atas/Bawah` | Mengubah nilai Distance Snap pada saat kursor berada di area permainan atau mengubah perbesaran *timeline* pada saat kursor berada di area *timeline*. |
-| `Alt` + `Shift` + `Roda Mouse ke Atas/Bawah` | Mengubah nilai Distance Snap dalam rentang yang lebih presisi. |
+| `Alt` + `Roda Mouse ke Atas/Bawah` | Mengubah nilai Distance Snap (pada saat kursor dibentangkan di area permainan), atau mengubah perbesaran linimasa (pada saat kursor dibentangkan di area linimasa). |
+| `Alt` + `Shift` + `Roda Mouse ke Atas/Bawah` | Mengubah nilai Distance Snap secara lebih presisi (pada saat kursor dibentangkan di area permainan). |
 
 ### Tab Compose
 
