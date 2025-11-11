@@ -288,7 +288,7 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `T` | Mengatur BPM dan offset pada saat tombol ini ditekan mengikuti irama lagu. |
-| `Shift` pada saat mengatur BPM atau offset | Mengubah nilai BPM dalam rentang 5 BPM atau nilai *offset* dalam rentang 10ms. |
-| `Ctrl` pada saat mengatur BPM | Mengubah nilai BPM dalam rentang 0.25 BPM. |
-| `Ctrl` pada saat mengatur offset | Mengubah nilai *offset* dalam rentang 1ms. |
-| `Ctrl` pada saat mengatur kecepatan slider | Mengubah nilai *slider velocity* dalam rentang 0.1x. |
+| `Shift` pada saat menyesuaikan BPM atau offset | Mengubah nilai BPM dalam rentang 5 BPM atau nilai *offset* dalam rentang 10ms. |
+| `Ctrl` pada saat menyesuaikan BPM | Mengubah nilai BPM dalam rentang 0.25 BPM. |
+| `Ctrl` pada saat menyesuaikan offset | Mengubah nilai *offset* dalam rentang 1ms. |
+| `Ctrl` pada saat menyesuaikan kecepatan slider | Mengubah nilai *slider velocity* dalam rentang 0.1x. |
