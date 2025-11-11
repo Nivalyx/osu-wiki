@@ -19,16 +19,16 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
-| `Alt` + `F4` | Menutup klien permainan (tanpa meminta konfirmasi). Apabila pintasan ini digunakan di dalam permainan, beatmap editor, atau osu!direct, osu! akan kembali ke menu pemilihan lagu (atau ke menu utama untuk osu!direct). |
+| `Alt` + `F4` | Menutup klien permainan (tanpa meminta konfirmasi). Apabila pintasan ini digunakan di dalam permainan, editor beatmap, atau osu!direct, osu! akan kembali ke layar pemilihan lagu (atau ke menu utama untuk osu!direct). |
 | `Alt` + `Panah Atas/Bawah` | Mengatur volume utama. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
-| `Ctrl` + `Alt` + `Shift` + `S` | Memuat ulang skin saat ini. Apabila pintasan ini digunakan di dalam permainan atau pada layar hasil, skin ini baru akan termuat ulang setelah osu! kembali ke menu pemilihan lagu. |
+| `Ctrl` + `Alt` + `Shift` + `S` | Memuat ulang skin saat ini. Apabila pintasan ini digunakan di dalam permainan atau pada layar hasil, skin ini baru akan termuat ulang setelah osu! kembali ke layar pemilihan lagu. |
 | `Ctrl` + `F11` | Menampilkan grafik Frame Time Graph. Menekan `Ctrl` akan membekukan grafik ini. |
 | `F7` | Mengubah batasan FPS yang aktif. |
 | `F8` | Menampilkan konsol chat. |
 | `F9` | Menampilkan konsol chat yang diperluas. |
 | `F10` | Menonaktifkan seluruh tombol mouse (kecuali roda mouse, yang akan selalu aktif). |
 | `F12` | Mengambil tangkapan layar. Klik menu dialog yang muncul untuk membuka folder Screenshots. |
-| `Shift` + `F12` | Mengambil tangkapan layar untuk diunggah ke server osu! (yang juga akan disimpan secara lokal). Pintasan ini akan menampilkan tangkapan layar ini pada browser. |
+| `Shift` + `F12` | Mengambil tangkapan layar untuk diunggah ke server osu! (yang juga akan disimpan secara lokal). Tindakan ini akan menampilkan tangkapan layar yang dicuplik pada browser. |
 | `Insert` | Tombol ini merupakan [tombol bos (*boss key*)](https://en.wikipedia.org/wiki/Boss_key). Pada saat ditekan, tombol ini akan meminimalkan osu! ke area notifikasi dan mematikan suara permainan. |
 | `Shift` + `F1` | Membuka halaman [osu!status](https://twitter.com/osustatus) pada browser. (Hanya dapat digunakan pada saat terdapat masalah koneksi.) |
 | `Ctrl` + `O` | Membuka menu Options. Kamu tidak dapat mengakses [wisaya offset](/wiki/Client/Options/Offset_Wizard) melalui pintasan ini apabila kamu tidak berada di menu utama. |
