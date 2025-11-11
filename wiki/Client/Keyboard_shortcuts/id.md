@@ -159,11 +159,11 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | `Panah Kiri/Kanan` | Memajukan/memundurkan lagu. |
 | `Panah Atas/Bawah` | Memajukan/memundurkan lagu antar timing point. |
 | `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan/memundurkan lagu dengan kecepatan 4 kali lipat. |
-| `Ctrl` + `B` | Membubuhkan penanda (*bookmark*) pada waktu yang ditentukan. |
-| `Ctrl` + `Shift` + `B` | Menghapus penanda (*bookmark*) pada waktu yang ditentukan. |
-| `Ctrl` + `Panah Kiri/Kanan` | Beralih secara cepat dari satu *bookmark* ke *bookmark* lainnya. |
-| `Ctrl` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last save state*) secara parsial, di mana osu! akan memuat ulang berkas `.osu` dan `.osb` yang sedang dibuka. |
-| `Ctrl` + `Shift` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last save state*) secara menyeluruh, di mana osu! akan memuat ulang seluruh berkas yang ada pada folder beatmap tanpa terkecuali. |
+| `Ctrl` + `B` | Membubuhkan markah pada keterangan waktu saat ini. |
+| `Ctrl` + `Shift` + `B` | Menghapus markah pada keterangan waktu saat ini. |
+| `Ctrl` + `Panah Kiri/Kanan` | Memajukan/memundurkan lagu antar markah. |
+| `Ctrl` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last save state*) secara parsial. Hal ini akan memuat ulang berkas `.osu` dan `.osb` milik beatmap. |
+| `Ctrl` + `Shift` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last save state*) secara menyeluruh. Hal ini akan memuat ulang seluruh berkas milik beatmap. |
 | `Ctrl` + `O` | Membuka jendela pemilihan tingkat kesulitan. |
 | `Ctrl` + `S` | Menyimpan beatmap. |
 | `Ctrl` + `N` | Menampilkan pilihan untuk menghapus semua objek yang ada. |
