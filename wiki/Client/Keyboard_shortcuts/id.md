@@ -54,12 +54,12 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Z` atau `F1` | Memainkan lagu sebelumnya. |
-| `X` atau `F2` | Memutar lagu. Apabila sudah ada lagu yang diputar, lagu tersebut akan diulang dari awal. |
+| `X` atau `F2` | Memainkan lagu. Apabila sudah ada lagu yang diputar, lagu ini akan diulang dari awal. |
 | `C` | Menjeda atau melanjutkan pemutaran lagu. |
 | `F4` | Menghentikan pemutaran lagu. |
 | `V` atau `F5` | Memainkan lagu berikutnya. |
 | `J` atau `F6` | Membuka menu "Loncat Ke...". |
-| `R` | Memainkan lagu secara acak. |
+| `R` | Memainkan lagu lain secara acak. |
 
 ## Layar pemilihan lagu
 
