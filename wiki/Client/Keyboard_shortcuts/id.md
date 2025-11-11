@@ -254,12 +254,12 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
-| `W` | Menerapkan *hitsound* Whistle pada objek-objek yang dipilih. |
-| `E` | Menerapkan *hitsound* Finish pada objek-objek yang dipilih. |
-| `R` | Menerapkan *hitsound* Clap pada objek-objek yang dipilih. |
-| `Shift` + (`Q`, `W`, `E`, atau `R`) | Menerapkan *sampleset* Auto, Normal, Soft, dan Drum pada objek-objek yang dipilih. |
-| `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Menerapkan *addition* Auto, Normal, Soft, dan Drum pada objek-objek yang dipilih. |
-| `Ctrl` + `Shift` + `I` | Membuka kotak dialog Sample Import. |
+| `W` | Menerapkan hitsound Whistle pada objek yang dipilih. |
+| `E` | Menerapkan hitsound Finish pada objek yang dipilih. |
+| `R` | Menerapkan hitsound Clap pada objek yang dipilih. |
+| `Shift` + (`Q`, `W`, `E`, atau `R`) | Menerapkan set sampel (*sampleset*) Auto, Normal, Soft, dan Drum pada objek yang dipilih. |
+| `Ctrl` + (`Q`, `W`, `E`, atau `R`) | Menerapkan set tambahan (*addition*) Auto, Normal, Soft, dan Drum pada objek yang dipilih. |
+| `Ctrl` + `Shift` + `I` | Membuka dialog Sample Import. |
 
 #### Timeline
 
