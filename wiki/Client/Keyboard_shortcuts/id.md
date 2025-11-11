@@ -215,7 +215,7 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Klik Kiri` dua kali | Memindahkan posisi linimasa ke circle atau akhir slider yang diklik dua kali secara cepat. (osu!, osu!taiko, dan osu!catch) |
-| `Klik Kanan` | Mengaktifkan kombo baru (pada saat hendak menempatkan objek permainan baru) atau menghapus objek (pada saat memilih). |
+| `Klik Kanan` | Memasang kombo baru (pada saat hendak menempatkan objek permainan baru) atau menghapus objek (pada saat memilih). |
 
 #### Area permainan
 
@@ -236,7 +236,7 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
-| `Q` | Menerapkan New Combo. |
+| `Q` | Memasang kombo baru. |
 | `Ctrl` + `,` | Memutar pilihan 90 derajat berlawanan arah jarum jam. |
 | `Ctrl` + `.` | Memutar pilihan 90 derajat searah jarum jam. |
 | `Ctrl` + `H` | Mencerminkan pilihan secara horizontal. |
