@@ -128,7 +128,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `Shift` + `Tab` | Menyembunyikan tampilan antarmuka permainan. |
 | `H` | Menyembunyikan papan skor dan tampilan antarmuka permainan (pada saat sedang memutar tayangan ulang atau menonton pemain lain). |
 | `F3` atau `F4` | Mengatur kecepatan gulir not osu!mania (hanya dapat digunakan pada sekitar awal permainan). |
-| `Ctrl` + `R` atau `` ` `` | Harus ditahan selama beberapa detik. Mengulang beatmap yang sedang dimainkan secara langsung (tanpa memutar intro beatmap). |
+| `Ctrl` + `R` atau `` ` `` | Harus ditahan selama beberapa detik. Mengulang beatmap yang sedang dimainkan secara langsung (tanpa memainkan intro beatmap). |
 
 ## Tayangan ulang
 
