@@ -7,7 +7,7 @@ tags:
   - pintasan
 ---
 
-# Tombol-tombol shortcut
+# Daftar pintasan keyboard
 
 osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam permainan maupun di tempat-tempat lainnya. Pada artikel ini, kamu akan dapat menemukan berbagai tombol *shortcut* yang ada di osu! beserta fungsinya masing-masing.
 
@@ -15,9 +15,9 @@ osu! memiliki berbagai tombol *shortcut* yang dapat digunakan baik di dalam perm
 
 ## Umum
 
-Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab manapun:
+Tombol pintasan berikut dapat digunakan di mana pun:
 
-| Tombol *shortcut* | Fungsi |
+| Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Alt` + `F4` | Menutup klien permainan. Apabila *shortcut* ini digunakan di dalam permainan, beatmap editor, atau layar osu!direct, osu! akan kembali ke menu pemilihan lagu (atau menu utama untuk layar osu!direct). |
 | `Alt` + `Panah Atas/Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
