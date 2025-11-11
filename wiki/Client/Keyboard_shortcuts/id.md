@@ -167,8 +167,8 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | `Ctrl` + `O` | Membuka jendela pemilihan tingkat kesulitan. |
 | `Ctrl` + `S` | Menyimpan beatmap. |
 | `Ctrl` + `N` | Menampilkan pilihan untuk menghapus seluruh objek permainan. |
-| `Ctrl` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan pemutaran lagu sebesar 25%. |
-| `Ctrl` + `Shift` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan pemutaran lagu sebesar 5%. |
+| `Ctrl` + `Panah Atas/Bawah` | Meningkatkan/menurunkan kecepatan pemutaran lagu sebesar 25%. |
+| `Ctrl` + `Shift` + `Panah Atas/Bawah` | Meningkatkan/menurunkan kecepatan pemutaran lagu sebesar 5%. |
 | `F1` | Beralih ke tab [Compose](/wiki/Client/Beatmap_editor/Compose). |
 | `F2` | Beralih ke tab [Design](/wiki/Client/Beatmap_editor/Design). |
 | `F3` | Beralih ke tab [Timing](/wiki/Client/Beatmap_editor/Timing). |
