@@ -152,8 +152,8 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
-| `Z` | Beralih secara cepat ke awal lagu atau objek pertama pada beatmap. |
-| `V` | Beralih secara cepat ke akhir lagu atau objek terakhir pada beatmap. |
+| `Z` | Beralih ke awal lagu atau objek pertama pada beatmap secara cepat. |
+| `V` | Beralih ke akhir lagu atau objek terakhir pada beatmap secara cepat. |
 | `X` | Memainkan beatmap dari awal. |
 | `C` atau `Spasi` | Menjeda/melanjutkan pemutaran lagu. |
 | `Panah Kiri/Kanan` | Memajukan/memundurkan lagu. |
