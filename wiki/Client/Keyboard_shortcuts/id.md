@@ -198,11 +198,11 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | `Alt` + `F4` atau `Esc` | Mengembalikan osu! ke menu pemilihan lagu. |
 | `Ctrl` + `Z` | Mengurungkan tindakan. |
 | `Ctrl` + `Y` | Membatalkan pengurungan tindakan. |
-| `Ctrl` + `A` | Memilih seluruh objek yang ada. |
+| `Ctrl` + `A` | Memilih seluruh objek permainan. |
 | `Ctrl` + `X` | Memotong. |
 | `Ctrl` + `C` | Menyalin. |
 | `Ctrl` + `V` | Menempel. |
-| `Ctrl` + `D` | Menggandakan objek-objek yang dipilih pada birama (*measure*) berikutnya. |
+| `Ctrl` + `D` | Menggandakan objek yang dipilih. Duplikat objek ini akan muncul pada 1 birama setelah objek terakhir yang dipilih. |
 | `Ctrl` + `M` | Mengubah nilai Beat Snap Divisor. |
 | `Delete` | Menghapus pilihan. |
 | `1`, `2`, `3`, atau `4` | Mengaktifkan mode Select, Circle, Slider, dan Spinner (osu!, osu!taiko, dan osu!catch). |
