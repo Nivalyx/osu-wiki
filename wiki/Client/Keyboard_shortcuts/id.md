@@ -152,12 +152,12 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
-| `Z` | Beralih ke awal lagu atau objek pertama pada beatmap secara cepat. |
-| `V` | Beralih ke akhir lagu atau objek terakhir pada beatmap secara cepat. |
+| `Z` | Beralih ke awal lagu atau objek pertama beatmap secara cepat. |
+| `V` | Beralih ke akhir lagu atau objek terakhir beatmap secara cepat. |
 | `X` | Memainkan beatmap dari awal. |
 | `C` atau `Spasi` | Menjeda/melanjutkan pemutaran lagu. |
 | `Panah Kiri/Kanan` | Memajukan/memundurkan lagu. |
-| `Panah Atas/Bawah` | Beralih secara cepat dari satu *timing point* ke *timing point* lainnya. |
+| `Panah Atas/Bawah` | Memajukan/memundurkan lagu antar timing point. |
 | `Shift` + `Panah Kiri` atau `Shift` + `Panah Kanan` | Memajukan/memundurkan lagu dalam rentang (4 x nilai Beat Snap Divisor yang aktif). |
 | `Ctrl` + `B` | Membubuhkan penanda (*bookmark*) pada waktu yang ditentukan. |
 | `Ctrl` + `Shift` + `B` | Menghapus penanda (*bookmark*) pada waktu yang ditentukan. |
