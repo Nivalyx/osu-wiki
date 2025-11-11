@@ -241,14 +241,14 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | `Ctrl` + `.` | Memutar pilihan 90 derajat searah jarum jam. |
 | `Ctrl` + `H` | Mencerminkan pilihan secara horizontal. |
 | `Ctrl` + `J` | Mencerminkan pilihan secara vertikal. |
-| `Ctrl` + `G` | Membalik urutan objek-objek yang dipilih, di mana objek pertama akan menjadi objek terakhir dan seterusnya. |
-| `Ctrl` + `Shift` + `R` | Memutar pilihan pada sudut rotasi tertentu (melalui kotak dialog yang terbuka). |
-| `Ctrl` + `Shift` + `S` | Memperbesar/memperkecil jarak antar objek-objek yang dipilih berdasarkan skala tertentu (melalui kotak dialog yang terbuka). |
+| `Ctrl` + `G` | Membalik urutan objek yang dipilih, di mana objek pertama akan menjadi objek terakhir dan seterusnya. |
+| `Ctrl` + `Shift` + `R` | Memutar pilihan sejauh sudut tertentu (melalui kotak dialog yang terbuka). |
+| `Ctrl` + `Shift` + `S` | Mengubah skala objek yang dipilih (melalui kotak dialog yang terbuka). |
 | `Ctrl` + `Shift` + `D` | Menghasilkan poligon dengan jumlah titik sudut tertentu (melalui kotak dialog yang terbuka). |
-| `Ctrl` + `Shift` + `F` | Mengubah slider yang dipilih menjadi seuntai stream (melalui kotak dialog yang terbuka). |
-| `Ctrl` + `Panah Kiri/Kanan/Atas/Bawah` | Menggeser pilihan ke arah yang ditentukan. (osu!, osu!taiko, osu!catch) |
-| `Ctrl` + `Panah Kiri/Kanan` | Menggeser pilihan satu kolom ke kiri atau kanan. (osu!mania) |
-| `Ctrl` + `Panah Atas/Bawah` | Memajukan/memundurkan pilihan sebanyak satu derik ketukan (*divisor*) pada timeline. (osu!mania) |
+| `Ctrl` + `Shift` + `F` | Mengubah slider yang dipilih menjadi stream (melalui kotak dialog yang terbuka). |
+| `Ctrl` + `Panah Kiri/Kanan/Atas/Bawah` | Menggeser objek yang dipilih ke arah yang ditentukan. (osu!, osu!taiko, osu!catch) |
+| `Ctrl` + `Panah Kiri/Kanan` | Menggeser objek yang dipilih satu kolom ke kiri atau kanan. (osu!mania) |
+| `Ctrl` + `Panah Atas/Bawah` | Memajukan/memundurkan pilihan sejauh 1 ketukan pada linimasa. (osu!mania) |
 
 #### Hitsounding
 
