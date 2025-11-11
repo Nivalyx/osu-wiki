@@ -27,10 +27,10 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `F8` | Menampilkan konsol chat. |
 | `F9` | Menampilkan konsol chat yang diperluas. |
 | `F10` | Menonaktifkan seluruh tombol mouse (kecuali roda mouse, yang akan selalu aktif). |
-| `F12` | Mengambil tangkapan layar. Klik dialog yang muncul untuk membuka folder Screenshots. |
-| `Shift` + `F12` | Mengambil tangkapan layar (*screenshot*) untuk kemudian diunggah ke server osu!. Perintah ini akan menyimpan tangkapan layar (*screenshot*) secara lokal pada folder Screenshots, mengunggahnya, dan menampilkannya pada *browser*. |
+| `F12` | Mengambil tangkapan layar. Klik menu dialog yang muncul untuk membuka folder Screenshots. |
+| `Shift` + `F12` | Mengambil tangkapan layar untuk diunggah ke server osu! (yang juga akan disimpan secara lokal). Pintasan ini akan menampilkan tangkapan layar ini pada browser. |
 | `Insert` | Tombol ini merupakan [tombol bos (*boss key*)](https://en.wikipedia.org/wiki/Boss_key). Pada saat ditekan, tombol ini akan meminimalkan osu! akan ke area notifikasi dan mematikan suara lagu. |
-| `Shift` + `F1` | Membuka laman [osu!status](https://twitter.com/osustatus) pada *browser*. (Hanya dapat digunakan pada saat osu! gagal terhubung.) |
+| `Shift` + `F1` | Membuka halaman [osu!status](https://twitter.com/osustatus) pada browser. (Hanya dapat digunakan pada saat terdapat masalah koneksi.) |
 | `Ctrl` + `O` | Membuka menu Options. Harap diperhatikan bahwa pengaturan *offset* melalui Offset Wizard tidak akan dapat dilangsungkan apabila osu! tidak sedang berada pada menu utama. |
 
 ## Menu utama
