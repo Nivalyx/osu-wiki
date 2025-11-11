@@ -86,7 +86,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `Panah Atas/Bawah` | Memilih tingkat kesulitan sebelumnya/berikutnya. |
 | `Panah Kiri/Kanan` | Memilih beatmap sebelumnya/berikutnya. |
 | `Page Up/Down` | Memutar roda lagu ke atas/bawah. |
-| `Enter` | Memasuki grup/set beatmap yang dipilih atau memainkan beatmap yang dipilih. |
+| `Enter` | Memasuki grup yang dipilih (pada saat) atau memainkan beatmap yang dipilih (pada saat memilih beatmap). |
 | `Shift` + `Panah Kiri/Kanan` | Memasuki grup sebelumnya/berikutnya. |
 | `Shift` + `Enter` | Membuka/menutup grup yang dipilih. |
 
