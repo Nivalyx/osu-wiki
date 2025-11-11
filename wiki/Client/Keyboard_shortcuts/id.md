@@ -166,9 +166,9 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | `Ctrl` + `Shift` + `L` | Mengembalikan beatmap ke kondisi penyimpanan terakhirnya (*last saved state*) secara menyeluruh. Hal ini akan memuat ulang seluruh berkas milik beatmap. |
 | `Ctrl` + `O` | Membuka jendela pemilihan tingkat kesulitan. |
 | `Ctrl` + `S` | Menyimpan beatmap. |
-| `Ctrl` + `N` | Menampilkan pilihan untuk menghapus semua objek yang ada. |
-| `Ctrl` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan pemutaran lagu (*playback speed*) sebesar 25%. |
-| `Ctrl` + `Shift` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan pemutaran lagu (*playback speed*) sebesar 5%. |
+| `Ctrl` + `N` | Menampilkan pilihan untuk menghapus seluruh objek permainan. |
+| `Ctrl` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan pemutaran lagu sebesar 25%. |
+| `Ctrl` + `Shift` + `Panah Atas/Bawah` | Menambah/mengurangi kecepatan pemutaran lagu sebesar 5%. |
 | `F1` | Beralih ke tab [Compose](/wiki/Client/Beatmap_editor/Compose). |
 | `F2` | Beralih ke tab [Design](/wiki/Client/Beatmap_editor/Design). |
 | `F3` | Beralih ke tab [Timing](/wiki/Client/Beatmap_editor/Timing). |
