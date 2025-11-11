@@ -20,8 +20,8 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | Tombol pintasan | Tindakan |
 | :-- | :-- |
 | `Alt` + `F4` | Menutup klien permainan (tanpa menampilkan layar konfirmasi). Apabila pintasan ini digunakan di dalam permainan, beatmap editor, atau osu!direct, osu! akan kembali ke menu pemilihan lagu (atau ke menu utama untuk osu!direct). |
-| `Alt` + `Panah Atas/Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
-| `Ctrl` + `Alt` + `Shift` + `S` | Memuat ulang skin. Apabila *shortcut* ini digunakan di dalam permainan atau layar hasil, skin baru akan termuat ulang setelah osu! kembali ke menu pemilihan lagu. |
+| `Alt` + `Panah Atas/Bawah` | Mengatur volume utama. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
+| `Ctrl` + `Alt` + `Shift` + `S` | Memuat ulang skin saat ini. Apabila pintasan ini digunakan di dalam permainan atau pada layar hasil, skin ini baru akan termuat ulang setelah osu! kembali ke menu pemilihan lagu. |
 | `Ctrl` + `F11` | Menampilkan/menyembunyikan grafik *frame time*. Menekan `Ctrl` akan membekukan grafik. |
 | `F7` | Mengubah batasan FPS. |
 | `F8` | Menampilkan/menyembunyikan jendela obrolan. |
