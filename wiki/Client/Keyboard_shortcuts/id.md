@@ -175,9 +175,9 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | `F4` | Membuka dialog [Song Setup](/wiki/Client/Beatmap_editor/Song_setup). |
 | `F5` | Memasuki mode uji coba. |
 | `F6` | Membuka kotak dialog Timing and Control Points. |
-| `Ctrl` + `P` | Menambahkan *uninherited timing point* pada waktu yang ditentukan. Apabila *shortcut* ini dipanggil di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
-| `Ctrl` + `Shift` + `P` | Menambahkan *inherited timing point* pada waktu yang ditentukan. Apabila *shortcut* ini digunakan di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
-| `Ctrl` + `I` | Menghapus *timing point* (baik yang bersifat *uninherited* maupun *inherited*) yang sedang aktif. *Shortcut* ini tidak dapat digunakan untuk menghapus *uninherited timing point* yang pertama. |
+| `Ctrl` + `P` | Menambahkan timing point induk (*uninherited timing point*) pada keterangan waktu saat ini. Apabila pintasan ini digunakan di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
+| `Ctrl` + `Shift` + `P` | Menambahkan timing point turunan (*inherited timing point*) pada keterangan waktu saat ini. Apabila pintasan ini digunakan di luar tab Timing, kotak dialog Timing and Control Points akan ikut terbuka. |
+| `Ctrl` + `I` | Menghapus timing point saat ini (baik yang bersifat induk ataupun turunan). *Shortcut* ini tidak dapat digunakan untuk menghapus *uninherited timing point* yang pertama. |
 
 #### Mouse
 
