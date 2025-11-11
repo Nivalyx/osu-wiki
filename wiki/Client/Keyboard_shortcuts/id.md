@@ -93,7 +93,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 ## Mod
 
 *Halaman utama: [Mod permainan](/wiki/Gameplay/Game_modifier)*\
-*Catatan: Tombol-tombol shortcut berikut hanya dapat digunakan untuk mengaktifkan/menonaktifkan mod-mod yang bersangkutan pada menu game modifier.*\
+*Catatan: Tombol pintasan berikut hanya dapat digunakan untuk mengaktifkan mod yang bersangkutan pada menu game modifier.*\
 *Catatan: Mod target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak memiliki tombol pintasan.*
 
 | Tombol pintasan | Mod |
@@ -109,7 +109,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `F` | Hidden (osu!, osu!taiko, and osu!catch) atau Fade In (osu!mania) |
 | `F` dua kali | Hidden (osu!mania) |
 | `G` | Flashlight |
-| `Z` | Relax (osu!, osu!taiko, and osu!catch) atau mod-mod xK (osu!mania) |
+| `Z` | Relax (osu!, osu!taiko, and osu!catch) atau mod xK (osu!mania) |
 | `X` | Auto Pilot (osu!) atau Random (osu!mania) |
 | `C` | Spun Out (osu!) |
 | `V` | Auto |
