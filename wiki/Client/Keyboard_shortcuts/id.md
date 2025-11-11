@@ -72,16 +72,16 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `Shift` + `F2` | Kembali ke beatmap yang sebelumnya terpilih secara acak. |
 | `F3` | Membuka menu pengaturan beatmap. |
 | `F5` | Memproses ulang beatmap. (Kamu mungkin akan dimintai konfirmasi sebelum melangsungkan tidakan ini) |
-| `Shift` + `Delete` | Membuka jendela penghapusan beatmap. Setelah *shortcut* ini digunakan, osu! akan memintamu untuk menentukan apakah kamu ingin menghapus tingkat kesulitan yang dipilih, beatmap yang dipilih, atau seluruh beatmap yang kamu miliki. |
-| `Ctrl` + `1` | Mengubah mode permainan ke [osu!](/wiki/Game_mode/osu!). |
-| `Ctrl` + `2` | Mengubah mode permainan ke [osu!taiko](/wiki/Game_mode/osu!taiko). |
-| `Ctrl` + `3` | Mengubah mode permainan ke [osu!catch](/wiki/Game_mode/osu!catch). |
-| `Ctrl` + `4` | Mengubah mode permainan ke [osu!mania](/wiki/Game_mode/osu!mania). |
+| `Shift` + `Delete` | Membuka dialog penghapusan beatmap. Pintasan ini akan menanyakan apakah kamu ingin menghapus beatmap yang dipilih (beserta dengan seluruh tingkat kesulitannya), tingkat kesulitan yang dipilih, atau seluruh beatmap yang kamu miliki. |
+| `Ctrl` + `1` | Mengubah mode permainan ke mode [osu!](/wiki/Game_mode/osu!). |
+| `Ctrl` + `2` | Mengubah mode permainan ke mode [osu!taiko](/wiki/Game_mode/osu!taiko). |
+| `Ctrl` + `3` | Mengubah mode permainan ke mode [osu!catch](/wiki/Game_mode/osu!catch). |
+| `Ctrl` + `4` | Mengubah mode permainan ke mode [osu!mania](/wiki/Game_mode/osu!mania). |
 | `Ctrl` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Auto](/wiki/Gameplay/Game_modifier/Auto). |
 | `Ctrl` + `Shift` + `Enter` | Memainkan beatmap yang dipilih dengan [mod Cinema](/wiki/Gameplay/Game_modifier/Cinema). |
-| `Ctrl` + `A` | Mengaktifkan/menonaktifkan mod Auto. |
-| `Ctrl` + `F3` atau `Ctrl` + `+` | Meningkatkan *scroll speed* osu!mania (untuk beatmap-beatmap osu!mania). |
-| `Ctrl` + `F4` atau `Ctrl` + `-` | Mengurangi *scroll speed* osu!mania (untuk beatmap-beatmap osu!mania). |
+| `Ctrl` + `A` | Mengaktifkan mod Auto. |
+| `Ctrl` + `F3` atau `Ctrl` + `+` | Meningkatkan kecepatan gulir not osu!mania (pada saat berada di mode osu!mania). |
+| `Ctrl` + `F4` atau `Ctrl` + `-` | Menurunkan kecepatan gulir not osu!mania (pada saat berada di mode osu!mania) |
 | `Ctrl` + `Backspace` | Menghapus kata terakhir dari kolom pencarian. |
 | `Panah Atas/Bawah` | Memilih beatmap sebelumnya/berikutnya. |
 | `Panah Kiri/Kanan` | Memilih set beatmap sebelumnya/berikutnya. |
