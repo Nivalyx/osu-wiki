@@ -217,7 +217,7 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | `Klik Kiri` dua kali | Berpindah secara cepat ke posisi objek yang dipilih. (osu!, osu!taiko, dan osu!catch) |
 | `Klik Kanan` | Mengaktifkan/menonaktifkan penerapan New Combo (pada saat hendak menempatkan objek baru) atau menghapus objek (pada saat memilih objek). |
 
-#### Playfield
+#### Area permainan
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
