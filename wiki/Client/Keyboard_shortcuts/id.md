@@ -136,19 +136,19 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
-| `5` | Menjeda pemutaran tayangan ulang. |
-| `6` atau `0` | Melanjutkan pemutaran tayangan ulang atau mengubah kecepatan pemutaran tayangan ulang menjadi 1x. |
-| `7` | Mengubah kecepatan pemutaran tayangan ulang menjadi 2x. |
-| `8` | Mengubah kecepatan pemutaran tayangan ulang menjadi 3x. |
-| `9` | Mengubah kecepatan pemutaran tayangan ulang menjadi 4x. |
+| `5` | Menjeda tayangan ulang. |
+| `6` atau `0` | Melanjutkan tayangan ulang atau mengubah kecepatan tayangan ulang menjadi 1x. |
+| `7` | Mengubah kecepatan tayangan ulang menjadi 2x. |
+| `8` | Mengubah kecepatan tayangan ulang menjadi 3x. |
+| `9` | Mengubah kecepatan tayangan ulang menjadi 4x. |
 
-## Beatmap editor
+## Editor beatmap
 
-*Laman utama: [Beatmap editor](/wiki/Client/Beatmap_editor)*
+*Halaman utama: [Editor beatmap](/wiki/Client/Beatmap_editor)*
 
 ### Umum
 
-Tombol-tombol *shortcut* berikut dapat digunakan pada jendela, menu, atau tab beatmap editor manapun:
+Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
