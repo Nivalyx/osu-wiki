@@ -281,7 +281,7 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 | `Ctrl` + `C` | Menyalin elemen storyboard (*sprite*) yang dipilih. |
 | `Ctrl` + `V` | Menempelkan elemen storyboard (*sprite*) pada waktu saat ini. *Catatan: Sprite yang ditempel baru akan terlihat pada daftar layar setelah beatmap disimpan dan dimuat ulang.* |
 | `Delete` | Menghapus elemen storyboard (*sprite*) yang dipilih dari layar yang aktif. |
-| `W`, `A`, `S`, `D` | Menggeser elemen storyboard (*sprite*) yang dipilih ke atas, kiri, bawah, atau kanan sejauh satu [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel). |
+| `W`, `A`, `S`, `D` | Menggeser elemen storyboard (*sprite*) yang dipilih ke atas, kiri, bawah, atau kanan sejauh 1 [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel). |
 
 ### Tab Timing
 
