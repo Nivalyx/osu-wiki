@@ -132,7 +132,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 ## Tayangan ulang
 
-*Catatan: Tombol-tombol shortcut berikut hanya dapat digunakan pada osu! versi Cutting Edge.*
+*Catatan: Kamu harus berada pada osu! versi Cutting Edge untuk dapat menggunakan tombol pintasan ini.*
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
