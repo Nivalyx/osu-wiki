@@ -121,8 +121,8 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
-| `+` atau `-` | Mengatur offset lokal (tahan `Alt` untuk mengubah rentang ketepatan). |
-| `Esc` | Menjeda permainan, atau mengembalikan osu! ke layar pemilihan lagu apabila kamu sedang menonton tayangan ulang atau memainkan beatmap dengan menggunakan mod Auto atau Cinema. |
+| `+` atau `-` | Mengatur offset lokal (tahan `Alt` untuk mengubah offset secara lebih presisi). |
+| `Esc` | Menjeda permainan, atau mengembalikan osu! ke layar pemilihan lagu apabila kamu sedang menonton tayangan ulang atau memainkan beatmap dengan  mod Auto atau Cinema. |
 | `Spasi` | Melewatkan intro beatmap. |
 | `Tab` | Menampilkan/menyembunyikan papan skor. |
 | `Shift` + `Tab` | Menampilkan/menyembunyikan tampilan antarmuka permainan. |
