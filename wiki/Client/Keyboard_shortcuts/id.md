@@ -274,7 +274,7 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
-| `I` | Membuka jendela Sprite Library. |
+| `I` | Membuka hamparan Sprite Library. |
 | `Ctrl` + `Z` | Mengurungkan tindakan. |
 | `Ctrl` + `Y` | Membatalkan pengurungan tindakan. |
 | `Ctrl` + `X` | Memotong elemen storyboard (*sprite*) yang dipilih. |
