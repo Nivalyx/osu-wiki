@@ -93,7 +93,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 ## Mod
 
 *Halaman utama: [Mod permainan](/wiki/Gameplay/Game_modifier)*\
-*Catatan: Tombol pintasan berikut hanya dapat digunakan untuk mengaktifkan mod yang bersangkutan pada menu game modifier.*\
+*Catatan: Tombol pintasan berikut hanya dapat digunakan untuk memasang mod pada saat kamu berada pada menu pemilihan mod.*\
 *Catatan: Mod target practice (osu!), 1K dan 2K (osu!mania), Co-op (osu!mania), dan Mirror (osu!mania) tidak memiliki tombol pintasan.*
 
 | Tombol pintasan | Mod |
