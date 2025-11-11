@@ -221,11 +221,11 @@ Tombol pintasan berikut dapat digunakan di mana pun di dalam editor beatmap:
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
-| `Alt` | Mengaktifkan/menonaktifkan [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap) untuk sementara waktu. |
-| `Y` | Mengaktifkan/menonaktifkan Distance Snap. |
-| `Shift` | Mengaktifkan/menonaktifkan Grid Snap untuk sementara waktu. |
-| `T` | Mengaktifkan/menonaktifkan Grid Snap. |
-| `G` | Mengubah ukuran *grid*. |
+| `Alt` | Mengaktifkan [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap) untuk sementara waktu selama tombol ini ditahan. |
+| `Y` | Mengaktifkan Distance Snap. |
+| `Shift` | Mengaktifkan Grid Snap untuk sementara waktu selama tombol ini ditahan. |
+| `T` | Mengaktifkan Grid Snap. |
+| `G` | Mengubah ukuran grid. |
 | `Ctrl` + `1` | Mengubah ukuran *grid* menjadi mungil. |
 | `Ctrl` + `2` | Mengubah ukuran *grid* menjadi kecil. |
 | `Ctrl` + `3` | Mengubah ukuran *grid* menjadi sedang. |
