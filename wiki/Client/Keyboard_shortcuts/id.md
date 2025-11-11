@@ -29,16 +29,16 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `F10` | Menonaktifkan seluruh tombol mouse (kecuali roda mouse, yang akan selalu aktif). |
 | `F12` | Mengambil tangkapan layar. Klik menu dialog yang muncul untuk membuka folder Screenshots. |
 | `Shift` + `F12` | Mengambil tangkapan layar untuk diunggah ke server osu! (yang juga akan disimpan secara lokal). Pintasan ini akan menampilkan tangkapan layar ini pada browser. |
-| `Insert` | Tombol ini merupakan [tombol bos (*boss key*)](https://en.wikipedia.org/wiki/Boss_key). Pada saat ditekan, tombol ini akan meminimalkan osu! ke area notifikasi dan mematikan suara dari permainan. |
+| `Insert` | Tombol ini merupakan [tombol bos (*boss key*)](https://en.wikipedia.org/wiki/Boss_key). Pada saat ditekan, tombol ini akan meminimalkan osu! ke area notifikasi dan mematikan suara permainan. |
 | `Shift` + `F1` | Membuka halaman [osu!status](https://twitter.com/osustatus) pada browser. (Hanya dapat digunakan pada saat terdapat masalah koneksi.) |
-| `Ctrl` + `O` | Membuka panel samping Options. Kamu tidak dapat memasuki jendela Offset Wizard melalui pintasan ini apabila kamu tidak berada di menu utama. |
+| `Ctrl` + `O` | Membuka menu Options. Kamu tidak dapat mengakses [wisaya offset](/wiki/Client/Options/Offset_Wizard) melalui pintasan ini apabila kamu tidak berada di menu utama. |
 
 ## Menu utama
 
 | Tombol pintasan | Fungsi |
 | :-- | :-- |
 | `Alt` + `Enter` | Mengaktifkan mode fullscreen. |
-| `Panah Atas/Bawah` | Mengatur volume. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
+| `Panah Atas/Bawah` | Mengatur volume utama. Gunakan panah kiri dan kanan untuk mengatur volume efek dan musik. |
 | `Esc` | Mengembalikan osu! ke layar sebelumnya atau membatalkan pilihan. |
 | `P`, `E`, atau `O` | Membuka menu Play. |
 | `P` tiga kali | Masuk ke mode Solo. |
