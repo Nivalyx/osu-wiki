@@ -70,8 +70,8 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `F1` | Membuka menu pemilihan [mod](/wiki/Gameplay/Game_modifier). |
 | `F2` | Memilih beatmap secara acak. |
 | `Shift` + `F2` | Kembali ke beatmap yang sebelumnya terpilih secara acak. |
-| `F3` | Membuka jendela pengaturan beatmap. |
-| `F5` | Memproses ulang beatmap (yang akan memunculkan layar konfirmasi setelahnya). |
+| `F3` | Membuka menu pengaturan beatmap. |
+| `F5` | Memproses ulang beatmap. (Kamu mungkin akan dimintai konfirmasi sebelum melangsungkan tidakan ini) |
 | `Shift` + `Delete` | Membuka jendela penghapusan beatmap. Setelah *shortcut* ini digunakan, osu! akan memintamu untuk menentukan apakah kamu ingin menghapus tingkat kesulitan yang dipilih, beatmap yang dipilih, atau seluruh beatmap yang kamu miliki. |
 | `Ctrl` + `1` | Mengubah mode permainan ke [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Mengubah mode permainan ke [osu!taiko](/wiki/Game_mode/osu!taiko). |
