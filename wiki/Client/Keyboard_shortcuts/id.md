@@ -31,7 +31,7 @@ Tombol pintasan berikut dapat digunakan di mana pun:
 | `Shift` + `F12` | Mengambil tangkapan layar untuk diunggah ke server osu! (yang juga akan disimpan secara lokal). Pintasan ini akan menampilkan tangkapan layar ini pada browser. |
 | `Insert` | Tombol ini merupakan [tombol bos (*boss key*)](https://en.wikipedia.org/wiki/Boss_key). Pada saat ditekan, tombol ini akan meminimalkan osu! ke area notifikasi dan mematikan suara dari permainan. |
 | `Shift` + `F1` | Membuka halaman [osu!status](https://twitter.com/osustatus) pada browser. (Hanya dapat digunakan pada saat terdapat masalah koneksi.) |
-| `Ctrl` + `O` | Membuka panel samping Options. Kamu tidak dapat membuka apabila kamu tidak berada di menu utama. |
+| `Ctrl` + `O` | Membuka panel samping Options. Kamu tidak dapat memasuki jendela Offset Wizard melalui pintasan ini apabila kamu tidak berada di menu utama. |
 
 ## Menu utama
 
