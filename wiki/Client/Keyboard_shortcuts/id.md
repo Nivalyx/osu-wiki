@@ -9,7 +9,7 @@ tags:
 
 # Daftar tombol pintasan
 
-osu! memiliki berbagai tombol pintasan yang dapat digunakan baik di dalam permainan maupun pada saat senggang di layar mana pun. Pada artikel ini, kamu akan dapat menemukan berbagai tombol *shortcut* yang ada di osu! beserta fungsinya masing-masing.
+osu! memiliki banyak tombol pintasan yang dapat digunakan baik di dalam permainan maupun pada saat senggang di layar mana pun. Artikel ini akan menerakan berbagai tombol pintasan ini beserta dengan fungsinya masing-masing.
 
 *Catatan: Artikel ini hanya akan menerakan kombinasi tombol-tombol shortcut bawaan/default. Kamu dapat mengubah kombinasi tombol-tombol shortcut yang ada melalui [menu Options](/wiki/Client/Options)*.
 
