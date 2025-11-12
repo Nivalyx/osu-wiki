@@ -11,7 +11,7 @@ tags:
 
 osu! memiliki banyak tombol pintasan yang dapat digunakan baik di dalam permainan maupun pada saat senggang di layar mana pun. Artikel ini akan menerakan berbagai tombol pintasan ini beserta dengan fungsinya masing-masing.
 
-*Catatan: Artikel ini hanya akan menerakan kombinasi tombol pintasan bawaan. Kamu dapat mengubah sebagian tombol pintasan ini melalui [menu Options](/wiki/Client/Options)*.
+*Catatan: Tombol pintasan yang tertera pada halaman ini merupakan tombol pintasan bawaan. Kamu dapat mengubah sebagian tombol pintasan ini melalui [menu Options](/wiki/Client/Options)*.
 
 ## Umum
 
