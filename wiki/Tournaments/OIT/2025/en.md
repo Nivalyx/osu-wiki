@@ -50,16 +50,17 @@ The osu! Indonesia Tournament #15 (2025) is run by various osu! community member
 | Streamer | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [cxyren](https://osu.ppy.sh/users/2151493), ::{ flag=ID }:: [Ren245](https://osu.ppy.sh/users/9048690), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=VN }:: [- Fubukiii](https://osu.ppy.sh/users/9931217) |
 | Commentator | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Luci](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656), ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [\[Aero\]](https://osu.ppy.sh/users/24396418) |
 | Referee | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [-\[ Shinraa \]-](https://osu.ppy.sh/users/26942053), ::{ flag=ID }:: [Kurami\_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950),  ::{ flag=ID }:: [nabirra](https://osu.ppy.sh/users/16053739), ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495) |
-| Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Zaald](https://osu.ppy.sh/users/12088808), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
-| Spreadsheet manager | ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656) |
+| Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
+| Character design | ::{ flag=ID }:: Reza F. [(↗)](https://web.facebook.com/rrezalfa) |
+| Spreadsheet manager | ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1zSjTQYN_9qG_bZTnw89k-H3AV_mhZrVJdTP5_Z9crYE/edit?usp=sharing)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1968598)
-- [Discord server](https://discord.gg/FJgtKEqypY)
-- [Challonge brackets](https://challonge.com/oit14)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1g5lVCzQjG00Ss9QkOBvYzt0ACTbI7fPOBkYIhNMCq9Q/edit?usp=sharing)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/2157759)
+- [Discord server](https://discord.gg/rv6BgCtdvk)
+- [Challonge brackets](https://challonge.com/oit2025)
 - [Livestream channel](https://www.twitch.tv/osuIndonesia)
 
 ## Ruleset
