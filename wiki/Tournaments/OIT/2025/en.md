@@ -43,7 +43,7 @@ The osu! Indonesia Tournament #15 (2025) is run by various osu! community member
 | :-- | :-- |
 | Host | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548) |
 | Admin | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Shiiori](https://osu.ppy.sh/users/13799103) |
-| Mappool selector | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Luci](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988) |
+| Mappool selector | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988) |
 | Custom mapper | *to be announced* |
 | Custom map quality assurance | ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) |
 | Playtester | ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223), ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160)[^stixe-note-1], ::{ flag=KR }:: [fragranceofpage](https://osu.ppy.sh/users/11399348) |
