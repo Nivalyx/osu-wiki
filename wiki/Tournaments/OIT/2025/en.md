@@ -4,11 +4,11 @@ tags:
   - OIT 2025
 ---
 
-# osu! Indonesia Tournament #15 (2025)
+# osu! Indonesia Tournament #15 (2025) ft. Stella
 
-![osu! Indonesia Tournament #15 (2025) banner](img/banner.png)
+![osu! Indonesia Tournament #15 (2025) ft. Stella banner](img/banner.png)
 
-The **osu! Indonesia Tournament #15 (2025)** (OIT 2025) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548). The tournament is open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It is the fifteenth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548). The tournament is open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It is the fifteenth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -16,12 +16,12 @@ The **osu! Indonesia Tournament #15 (2025)** (OIT 2025) is a double-elimination 
 | --: | :-- |
 | Registration phase | 2025-11-30/2025-12-21 |
 | Screening phase | 2025-12-21/2025-12-28 |
-| Qualifiers | 2024-09-23/2024-09-29 |
-| Round of 16 | 2024-09-30/2024-10-06 |
-| Quarterfinals | 2024-10-07/2024-10-13 |
-| Semifinals | 2024-10-14/2024-10-21 |
-| Finals (week 1) | 2024-10-22/2024-10-28 |
-| Finals (week 2) | 2024-10-29/2024-11-03 |
+| Qualifiers | 2025-12-29/2026-01-04 |
+| Round of 16 | 2026-01-05/2026-01-11 |
+| Quarterfinals | 2026-01-12/2026-01-18 |
+| Semifinals | 2026-01-19/2026-01-25 |
+| Finals (week 1) | 2026-01-26/2026-02-01 |
+| Finals (week 2) | 2026-02-02/2026-02-08 |
 
 ## Prizes
 
