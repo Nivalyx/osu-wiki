@@ -134,7 +134,7 @@ The osu! Indonesia Tournament #15 (2025) is run by various osu! community member
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Players are expected to exercise common sense in pick time windows.
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
-5. **There will be no Free Mod pick in any stage of the tournament**. However, In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
+5. **There will be no dedicated Free Mod pick in any stage of the tournament**. However, In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
    - Playing the tiebreaker map with a mod is *not* mandatory.
    - Should any player wish to play the tiebreaker map with mods, allowed mods are Easy, Hard Rock, Hidden, or any possible combination of the three.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
