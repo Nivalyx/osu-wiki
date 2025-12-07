@@ -71,7 +71,7 @@ The osu! Indonesia Tournament #15 (2025) is run by various osu! community member
    - Team Mode: `Head-to-head`
    - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent gets to win by default.
 6. If no staff or referee is available, the match will be postponed.
@@ -86,9 +86,9 @@ The osu! Indonesia Tournament #15 (2025) is run by various osu! community member
 
 ### Tournament registration
 
-1. Players are required to register into the tournament individually through [this form](https://forms.gle/MFZNYKdmZm6YguYa9).
+1. Players are required to register into the tournament individually through [the Discord server](https://discord.gg/rv6BgCtdvk).
    - In order to be eligible to play in the tournament, a player must have the ::{ flag=ID }:: Indonesian flag displayed on their profile.
-   - Although the tournament is open rank, players are advised to be in possession of at least 6,000 pp in the osu! game mode given the relatively high difficulty of the mappool.
+   - Although the tournament is open rank, players are advised to be in a reasonable rank in the osu! game mode given the relatively high difficulty of the mappool.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
