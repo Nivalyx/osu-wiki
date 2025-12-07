@@ -25,26 +25,24 @@ The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) is a double-e
 
 ## Prizes
 
-The osu! Indonesia Tournament #14 (2024) offered an initial prize pool of 500,000 IDR as generously donated by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
+The osu! Indonesia Tournament #15 (2025) offers an initial prize pool of 1,750,000 IDR as generously donated by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737). This prize pool may be further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 60% of the accumulated prize pool, customised profile banner, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, customised profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the accumulated prize pool, customised profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 60% of the accumulated prize pool, physical trophy, customised profile banner, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, physical trophy, customised profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the accumulated prize pool, physical trophy, customised profile banner |
 
-![](img/badge.png "OIT 2024 winner badge")
-
-As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #14 (2024) was not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discord.com/invite/CHRFffH) for transparency.
+As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #15 (2025) is not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discord.gg/rv6BgCtdvk) for transparency.
 
 ## Organisation
 
-The osu! Indonesia Tournament #14 (2024) was run by various osu! community members from Indonesia and beyond.
+The osu! Indonesia Tournament #15 (2025) is run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933) |
-| Co-host | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Luci](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656) |
+| Host | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548) |
+| Admin | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Shiiori](https://osu.ppy.sh/users/13799103) |
 | Mappool selector | ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933), ::{ flag=ID }:: [Luci](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988) |
 | Custom mapper | ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Saturnalize](https://osu.ppy.sh/users/762487), ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [Azrulk](https://osu.ppy.sh/users/12046612), ::{ flag=ID }:: [Satono Crown](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [AncuL](https://osu.ppy.sh/users/2449200), ::{ flag=ID }:: [Ciyus Miapah](https://osu.ppy.sh/users/2805457), ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=US }:: [Sparhten](https://osu.ppy.sh/users/7601720) |
 | Custom map quality assurance | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
