@@ -14,8 +14,8 @@ The **osu! Indonesia Tournament #15 (2025)** (OIT 2025) is a double-elimination 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2024-08-25/2024-09-08 |
-| Screening phase | 2024-09-09/2024-09-22 |
+| Registration phase | 2025-11-30/2025-12-21 |
+| Screening phase | 2025-12-21/2025-12-28 |
 | Qualifiers | 2024-09-23/2024-09-29 |
 | Round of 16 | 2024-09-30/2024-10-06 |
 | Quarterfinals | 2024-10-07/2024-10-13 |
