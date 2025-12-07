@@ -8,7 +8,7 @@ tags:
 
 ![osu! Indonesia Tournament #15 (2025) banner](img/banner.png)
 
-The **osu! Indonesia Tournament #14 (2024)** (OIT 2024) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Chokecomint](https://osu.ppy.sh/users/20308933). The tournament was open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It was the fifteenth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #15 (2025)** (OIT 2025) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548). The tournament is open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It is the fifteenth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
