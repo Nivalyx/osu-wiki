@@ -99,7 +99,7 @@ The osu! Indonesia Tournament #15 (2025) is run by various osu! community member
 #### Qualifier rules
 
 1. Each player will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
-2. In the lobby, all players will have to consecutively play all of the eleven Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
+2. In the lobby, all players will have to consecutively play all of the twelve Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> NM5 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their **Z-sum value** (which is the sum of Z-scores across all eleven Qualifier beatmaps fitted to a standard normal cumulative distribution function). A brief explanation on the concept of Z-sum and Z-score can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
@@ -134,8 +134,7 @@ The osu! Indonesia Tournament #15 (2025) is run by various osu! community member
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Players are expected to exercise common sense in pick time windows.
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
-5. In a Free Mod pick, each player has to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
-   - Playing a Free Mod pick without any mods applied is not allowed.
-6. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
+5. **There will be no Free Mod pick in any stage of the tournament**. However, In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
    - Playing the tiebreaker map with a mod is *not* mandatory.
-7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+   - Should any player wish to play the tiebreaker map with mods, allowed mods are Easy, Hard Rock, Hidden, or any possible combination of the three.
+6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
