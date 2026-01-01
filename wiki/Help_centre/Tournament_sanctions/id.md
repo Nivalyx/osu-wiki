@@ -51,7 +51,7 @@ Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat di
 | Akun yang status pembatasannya baru dicabut dengan ketentuan banding standar | 1-2 tahun | Dapat berlaku lebih sesuai dengan kebijaksanaan tim dukungan akun |
 | Bermain pada lebih dari satu akun atau saling berbagi akun dalam turnamen yang didukung secara resmi | Tidak terbatas waktu | Akan disertai dengan pembatasan akun |
 | Menggunakan sarana pihak ketiga atau alat bermain curang lainnya dalam turnamen yang didukung secara resmi | Tidak terbatas waktu | Akan disertai dengan pembatasan akun |
-| Menggunakan informasi turnamen yang bersifat pribadi/rahasia untuk memperoleh atau memberikan keuntungan yang tidak adil | Tidak terbatas waktu | Dapat disertai dengan pembatasan akun |
+| Menggunakan informasi turnamen yang bersifat pribadi/rahasia untuk memperoleh atau membagikan keuntungan yang tidak adil | Tidak terbatas waktu | Dapat disertai dengan pembatasan akun |
 | Tindak pelecehan atau penghinaan yang berlebihan terhadap penyelenggara/staf/peserta turnamen | Tidak terbatas waktu | Dapat disertai dengan pembatasan akun |
 
 ## Apakah saya dapat mengajukan banding terhadap sanksi turnamen saya? {id=appeal}
