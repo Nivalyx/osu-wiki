@@ -56,8 +56,10 @@ Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat di
 
 ## Apakah saya dapat mengajukan banding terhadap larangan turnamen saya? {id=appeal}
 
+Tournament sanctions as applied via means other than standard appeal terms include a 72-hour appeal window before the sanction goes into effect. After the appeal window passes, these sanctions, excluding indefinite tournament bans, may not be appealed.
+
 Larangan turnamen yang tidak terbatas waktu dapat dibanding setelah setidaknya **dua tahun** (24 bulan) terhitung dari tanggal pertama larangan ini dijatuhkan. Pengguna yang mengajukan banding terhadap larangan ini akan diharapkan untuk berkontribusi secara positif terhadap komunitas osu! secara luas, baik itu di dalam atau di luar turnamen, serta memiliki rekam jejak perilaku yang sempurna dalam rentang waktu ini. Apabila banding kamu ditolak, kamu harus menunggu setidaknya **satu tahun** (12 bulan) dari tanggal banding terakhirmu sebelum kamu dapat mengajukan banding baru.
 
-Walaupun larangan turnamen yang tidak terbatas waktu ini dapat dibanding, perlu ditekankan bahwa selain dari banding itu sendiri, usaha kamu untuk memperbaiki diri di lingkungan komunitas ini sangat diutamakan agar banding kamu dapat diterima. Daftar seluruh pengguna yang telah berhasil mengajukan banding untuk larangan turnamen ini dapat ditemukan pada [utas forum ini](https://osu.ppy.sh/community/forums/topics/1798871).
+Walaupun larangan turnamen yang tidak terbatas waktu ini dapat dibanding, perlu ditekankan bahwa selain dari banding itu sendiri, usaha kamu untuk memperbaiki diri di hadapan komunitas sangat diutamakan agar banding kamu dapat diterima. Daftar seluruh pengguna yang telah berhasil mengajukan banding untuk larangan turnamen ini dapat ditemukan pada [utas forum ini](https://osu.ppy.sh/community/forums/topics/1798871).
 
 Dalam kasus langka tertentu, [tim dukungan akun](/wiki/People/Account_support_team) dapat meninjau ulang suatu kasus sesuai dengan kebijaksanan mereka dan mengangkat atau menerapkan ulang hukuman yang sesuai untuk memastikan agar hukuman ini sejalan dengan hukuman yang telah ada sebelumnya.
