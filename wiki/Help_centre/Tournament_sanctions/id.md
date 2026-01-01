@@ -54,7 +54,7 @@ Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat di
 | Menggunakan informasi turnamen yang bersifat pribadi/rahasia untuk memperoleh atau membagikan keuntungan yang tidak adil | Tidak terbatas waktu | Dapat disertai dengan pembatasan akun |
 | Tindak pelecehan atau penghinaan yang berlebihan terhadap penyelenggara/staf/peserta turnamen | Tidak terbatas waktu | Dapat disertai dengan pembatasan akun |
 
-## Apakah saya dapat mengajukan banding terhadap sanksi turnamen saya? {id=appeal}
+## Apakah saya dapat mengajukan banding terhadap sanksi turnamen? {id=appeal}
 
 Sanksi turnamen yang dijatuhkan di luar dari ketentuan banding standar memiliki rentang waktu 72 jam untuk dapat dibanding sebelum sanksi ini diberlakukan. Setelah rentang waktu banding ini berakhir, segala sanksi yang ada (termasuk larangan turnamen yang tidak terbatas waktu) tidak lagi dapat dibanding.
 
