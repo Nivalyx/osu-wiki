@@ -1,12 +1,8 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 2941ae4c0ffe9389d066b26533ba79a3ef7d9ed9
----
-
-# Larangan turnamen
+# Sanksi turnamen
 
 *Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
+
+## Larangan turnamen
 
 Larangan turnamen (*tournament ban*) merupakan hukuman yang mencegah pemain untuk bermain di dalam turnamen resmi atau yang didukung secara resmi. Hukuman ini juga membatasi sejauh mana pemain ini dapat membantu atau berpartisipasi sebagai staf dalam rangkaian turnamen ini.
 
@@ -14,15 +10,15 @@ Larangan turnamen biasanya tidak dijatuhkan secara terpisah, namun pada umumnya 
 
 Berhubung pertandingan turnamen merupakan hal yang serius, seluruh hukuman larangan turnamen akan ditegakkan secara tegas tanpa adanya kelonggaran lebih lanjut.
 
-## Hal apa saja yang menyebabkan seseorang menerima larangan turnamen yang bersifat sementara? {id=why-temporary}
+### Hal apa saja yang menyebabkan seseorang menerima larangan turnamen yang bersifat sementara? {id=why-temporary}
 
-Segala bentuk pelanggaran berat terhadap [peraturan komunitas](/wiki/Rules) yang terjadi di dalam [turnamen yang didukung secara resmi](/wiki/Tournaments/Official_support) pada umumnya akan berakibat pada larangan turnamen, bahkan apabila pelanggaran ini terjadi di luar lingkungan turnamen sekalipun.
+Segala bentuk pelanggaran berat terhadap [peraturan komunitas](/wiki/Rules) yang terjadi di dalam [turnamen yang didukung secara resmi](/wiki/Tournaments/Official_support) sering kalinya akan berakibat pada larangan turnamen, bahkan apabila pelanggaran ini pada umumnya hanya akan dijatuhi hukuman yang lebih ringan di luar lingkungan kompetitif sekalipun.
 
-Mengacu pada kasus yang pernah terjadi, salah satu contoh pelanggaran ini adalah menggambar atau menulis simbol/ujaran kebencian (seperti logo swastika) dengan menggunakan asap kursor (*cursor smoke*) pada pertandingan yang disiarkan secara langsung.
+Mengacu pada kasus yang pernah terjadi, salah satu contoh pelanggaran yang demikian adalah menggambar atau menulis simbol/ujaran kebencian (seperti logo swastika) dengan menggunakan asap kursor (*cursor smoke*) pada pertandingan yang disiarkan secara langsung.
 
 Pengguna yang pembatasan akunnya baru saja dicabut dengan ketentuan banding standar juga akan dihadapkan dengan [larangan turnamen selama minimal 1 tahun](/wiki/Help_centre/Account_restrictions#reasons), yang dapat berlaku lebih sesuai dengan kebijaksanaan [tim dukungan akun](/wiki/People/Account_support_team).
 
-## Hal apa saja yang menyebabkan seseorang menerima larangan turnamen yang tidak terbatas waktu? {id=why-permanent}
+### Hal apa saja yang menyebabkan seseorang menerima larangan turnamen yang tidak terbatas waktu? {id=why-permanent}
 
 Penggunaan sarana pihak ketiga mana pun untuk bermain curang atau metode lainnya untuk memperoleh keuntungan yang tidak adil terhadap peserta lainnya dalam turnamen yang didukung secara resmi akan berakibat pada larangan turnamen yang tidak terbatas waktu (*indefinite*). Dalam situasi tertentu, tindak pelecehan yang berlebihan juga dapat dihukum dengan larangan ini sesuai dengan kebijaksanaan tim dukungan akun.
 
