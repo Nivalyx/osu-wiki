@@ -54,9 +54,9 @@ Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat di
 | Menggunakan informasi turnamen yang bersifat pribadi/rahasia untuk memperoleh atau memberikan keuntungan yang tidak adil | Tidak terbatas waktu | Dapat disertai dengan pembatasan akun |
 | Tindak pelecehan atau penghinaan yang berlebihan terhadap penyelenggara/staf/peserta turnamen | Tidak terbatas waktu | Dapat disertai dengan pembatasan akun |
 
-## Apakah saya dapat mengajukan banding terhadap larangan turnamen saya? {id=appeal}
+## Apakah saya dapat mengajukan banding terhadap sanksi turnamen? {id=appeal}
 
-Tournament sanctions as applied via means other than standard appeal terms include a 72-hour appeal window before the sanction goes into effect. After the appeal window passes, these sanctions, excluding indefinite tournament bans, may not be appealed.
+Sanksi turnamen yang dijatuhkan di luar dari ketentuan banding standar memiliki rentang waktu 72 jam untuk dapat dibanding sebelum sanksi ini diberlakukan. Setelah rentang waktu banding ini berakhir, segala sanksi yang ada (termasuk larangan turnamen yang tidak terbatas waktu) tidak lagi dapat dibanding.
 
 Larangan turnamen yang tidak terbatas waktu dapat dibanding setelah setidaknya **dua tahun** (24 bulan) terhitung dari tanggal pertama larangan ini dijatuhkan. Pengguna yang mengajukan banding terhadap larangan ini akan diharapkan untuk berkontribusi secara positif terhadap komunitas osu! secara luas, baik itu di dalam atau di luar turnamen, serta memiliki rekam jejak perilaku yang sempurna dalam rentang waktu ini. Apabila banding kamu ditolak, kamu harus menunggu setidaknya **satu tahun** (12 bulan) dari tanggal banding terakhirmu sebelum kamu dapat mengajukan banding baru.
 
