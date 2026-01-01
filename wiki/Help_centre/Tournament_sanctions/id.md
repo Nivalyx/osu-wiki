@@ -32,17 +32,7 @@ Hal ini meliputi situasi seperti:
 - Menyalahgunakan posisi kekuasaan untuk memperoleh atau memberikan keuntungan yang tidak adil (semisal memanipulasi jadwal, mengubah komposisi tim secara sepihak, atau mendiskualifikasi peserta tanpa alasan)
 - Mengorganisir kampanye pelecehan terhadap peserta atau penyelenggara turnamen dalam konteks yang tidak dapat dianggap sebagai kritik
 
-## Apakah saya dapat mengajukan banding terhadap larangan turnamen saya? {id=appeal}
-
-Kamu tidak dapat mengajukan banding terhadap larangan turnamen yang bersifat sementara, baik itu yang dijatuhkan sebagai bagian dari ketentuan banding standar kamu atau hukuman lainnya.
-
-Larangan turnamen yang tidak terbatas waktu dapat dibanding setelah setidaknya **dua tahun** (24 bulan) terhitung dari tanggal pertama larangan ini dijatuhkan. Pengguna yang mengajukan banding terhadap larangan ini akan diharapkan untuk berkontribusi secara positif terhadap komunitas osu! secara luas, baik itu di dalam atau di luar turnamen, serta memiliki rekam jejak perilaku yang sempurna dalam rentang waktu ini. Apabila banding kamu ditolak, kamu harus menunggu setidaknya **satu tahun** (12 bulan) dari tanggal banding terakhirmu sebelum kamu dapat mengajukan banding baru.
-
-Walaupun larangan turnamen yang tidak terbatas waktu ini dapat dibanding, perlu ditekankan bahwa selain dari banding itu sendiri, usaha kamu untuk memperbaiki diri di lingkungan komunitas ini sangat diutamakan agar banding kamu dapat diterima.
-
-Dalam kasus langka tertentu, [tim dukungan akun](/wiki/People/Account_support_team) dapat meninjau ulang suatu kasus sesuai dengan kebijaksanan mereka dan mengangkat atau menerapkan kembali hukuman yang sesuai untuk memastikan agar hukuman ini sejalan dengan hukuman yang telah ada sebelumnya.
-
-## Apa saja yang dapat saya lakukan selama saya berada dalam masa larangan? {id=while-banned}
+### Apa saja yang dapat saya lakukan selama saya berada dalam masa larangan? {id=while-banned}
 
 Kamu dapat tetap bermain pada turnamen komunitas yang tidak didukung secara resmi atau yang tidak melibatkan proses penyaringan peserta (*screening*) sesuai dengan kebijakan panitia masing-masing turnamen.
 
@@ -50,7 +40,7 @@ Kamu juga dapat berperan sebagai penyiar, komentator, atau desainer grafis dalam
 
 Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat diberikan kepada panitia turnamen yang kamu ikuti, terlepas dari apakah turnamen ini didukung secara resmi ataupun tidak.
 
-## Alasan larangan turnamen umum beserta durasinya {id=reasons}
+### Alasan larangan turnamen umum beserta durasinya {id=reasons}
 
 | Alasan larangan turnamen | Durasi | Catatan |
 | :-- | :-- | :-- |
@@ -63,3 +53,11 @@ Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat di
 | Menggunakan sarana pihak ketiga atau alat bermain curang lainnya dalam turnamen yang didukung secara resmi | Tidak terbatas waktu | Akan disertai dengan pembatasan akun |
 | Menggunakan informasi turnamen yang bersifat pribadi/rahasia untuk memperoleh atau memberikan keuntungan yang tidak adil | Tidak terbatas waktu | Dapat disertai dengan pembatasan akun |
 | Tindak pelecehan atau penghinaan yang berlebihan terhadap penyelenggara/staf/peserta turnamen | Tidak terbatas waktu | Dapat disertai dengan pembatasan akun |
+
+## Apakah saya dapat mengajukan banding terhadap larangan turnamen saya? {id=appeal}
+
+Larangan turnamen yang tidak terbatas waktu dapat dibanding setelah setidaknya **dua tahun** (24 bulan) terhitung dari tanggal pertama larangan ini dijatuhkan. Pengguna yang mengajukan banding terhadap larangan ini akan diharapkan untuk berkontribusi secara positif terhadap komunitas osu! secara luas, baik itu di dalam atau di luar turnamen, serta memiliki rekam jejak perilaku yang sempurna dalam rentang waktu ini. Apabila banding kamu ditolak, kamu harus menunggu setidaknya **satu tahun** (12 bulan) dari tanggal banding terakhirmu sebelum kamu dapat mengajukan banding baru.
+
+Walaupun larangan turnamen yang tidak terbatas waktu ini dapat dibanding, perlu ditekankan bahwa selain dari banding itu sendiri, usaha kamu untuk memperbaiki diri di lingkungan komunitas ini sangat diutamakan agar banding kamu dapat diterima. Daftar seluruh pengguna yang telah berhasil mengajukan banding untuk larangan turnamen ini dapat ditemukan pada [utas forum ini](https://osu.ppy.sh/community/forums/topics/1798871).
+
+Dalam kasus langka tertentu, [tim dukungan akun](/wiki/People/Account_support_team) dapat meninjau ulang suatu kasus sesuai dengan kebijaksanan mereka dan mengangkat atau menerapkan ulang hukuman yang sesuai untuk memastikan agar hukuman ini sejalan dengan hukuman yang telah ada sebelumnya.
