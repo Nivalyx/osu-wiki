@@ -54,6 +54,31 @@ Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat di
 | Menggunakan informasi turnamen yang bersifat pribadi/rahasia untuk memperoleh atau membagikan keuntungan yang tidak adil | Tidak terbatas waktu | Dapat disertai dengan pembatasan akun |
 | Tindak pelecehan atau penghinaan yang berlebihan terhadap penyelenggara/staf/peserta turnamen | Tidak terbatas waktu | Dapat disertai dengan pembatasan akun |
 
+## Pembatasan penyelenggaraan turnamen bersyarat
+
+Pembatasan penyelenggaraan turnamen bersyarat (*hosting probation*) merupakan sanksi yang dijatuhkan kepada host turnamen sebagai dampak dari pelanggaran [peraturan dukungan resmi turnamen](/wiki/Tournaments/Official_support) yang tidak dapat diselesaikan secara kekeluargaan setelah turnamen ini selesai dilangsungkan. Pada saat pembatasan ini diberlakukan kepada pengguna, turnamen selanjutnya milik pengguna ini yang diajukan untuk didukung secara resmi akan diperiksa secara ketat oleh Komite Turnamen baik pada saat dan setelah turnamen ini terlaksana. Masa pembatasan ini dapat diperpanjang apabila terdapat masalah kecil pada turnamen yang pada umumnya perlu diselesaikan melalui komunikasi email. Di sisi lain, pembatasan ini langsung dapat diubah menjadi [larangan penyelenggaraan turnamen](#hosting-bans) atau hukuman yang lebih berat (sebagaimana yang ditentukan oleh Komite Turnamen) apabila pengguna yang sedang dibatasi diketahui melakukan pelanggaran berat terhadap peraturan dukungan resmi yang berlaku.
+
+Pembatasan bersyarat yang ada dapat dicabut dengan menyelenggarakan turnamen yang **tidak** melanggar peraturan [dukungan resmi](/wiki/Tournaments/Official_support) mana pun, termasuk berbagai masalah kecil yang memerlukan email untuk diselesaikan. Contoh masalah kecil ini meliputi antara lain:
+
+- Tidak menuliskan anggota staf tertentu pada postingan forum
+- Tidak merilis hasil Kualifikasi turnamen secara publik
+- Tidak memperbarui informasi pertandingan yang bersifat publik (seperti bagan pertandingan)
+- Kesalahan dasar lainnya yang bersifat serupa
+
+Pengguna yang berulang kali melakukan kesalahan kecil yang perlu dikoreksi oleh Komite Turnamen melalui email akan terus berada dalam masa percobaan hingga batas waktu yang tidak ditentukan. Di sisi lain, pengguna yang tidak berusaha untuk meningkatkan kualitas turnamen mereka pada saat mereka sedang dibatasi dapat dijatuhkan dengan hukuman yang lebih berat sebagaimana yang ditentukan oleh Komite Turnamen.
+
+ Sanksi ini tidak kedaluwarsa secara otomatis. Apabila pengguna yang telah dibatasi sebelumnya dijatuhkan dengan hukuman yang lebih berat (seperti larangan penyelenggaraan turnamen), masa pembatasan bersyarat mereka akan ikut kedaluwarsa seiring dengan diangkatnya larangan ini.
+
+## Larangan penyelenggaraan turnamen
+
+Larangan penyelenggaraan turnamen (*hosting ban*) merupakan sanksi yang mencegah pengguna untuk menjadi penyelenggara atau admin utama pada turnamen mana pun yang didukung secara resmi. Meskipun demikian, sanksi ini tidak membatasi pengguna untuk mengambil peran yang tidak berkaitan dengan organisasi turnamen.
+
+Komite Turnamen berhak untuk mengesampingkan hukuman [pembatasan bersyarat](#pembatasan-penyelenggaraan-turnamen-bersyarat) pada saat terdapat pelanggaran berat terhadap [peraturan dukungan resmi](/wiki/Tournaments/Official_support) yang berlaku, terutama dalam kasus yang menyangkut integritas permainan.
+
+## Larangan menjabat sebagai staf
+
+Larangan menjabat sebagai staf (*staffing ban*) merupakan sanksi yang mencegah pengguna untuk dapat berperan sebagai staf pada turnamen yang didukung secara resmi, kecuali untuk posisi streamer, komentator, atau desainer grafis.
+
 ## Apakah saya dapat mengajukan banding terhadap sanksi turnamen? {id=appeal}
 
 Sanksi turnamen yang dijatuhkan di luar dari ketentuan banding standar memiliki rentang waktu 72 jam untuk dapat dibanding sebelum sanksi ini diberlakukan. Setelah rentang waktu banding ini berakhir, segala sanksi yang ada (termasuk larangan turnamen yang tidak terbatas waktu) tidak lagi dapat dibanding.
