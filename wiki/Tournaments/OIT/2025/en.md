@@ -65,6 +65,25 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 
 ## Mappools
 
+### Round of 16
+
+- No Mod
+  1. [KOKO - Watashi o Matou (Dailycare) \[Vernal\]](https://osu.ppy.sh/beatmapsets/2272223#osu/4840263)
+  2. [Kevin Sherwood - 115 (Cut Ver.) (fieryrage) \[Aetherium\]](https://osu.ppy.sh/beatmapsets/1457103#osu/2994682)
+  3. [Tsukuyomi - Noisy Rainy (Petal) \[Ame\]](https://osu.ppy.sh/beatmapsets/2254451#osu/4795591)
+  4. [Nanahira - Twinkle.Password (tukamoto7km) \[xbopost & tukamoto7km\]](https://osu.ppy.sh/beatmapsets/1184159#osu/2468593)
+  5. [Pastel\*Palettes - Happy Synthesizer (ktgster) \[Shizuku's Expert\]](https://osu.ppy.sh/beatmapsets/932654#osu/1989990)
+- Hidden
+  1. [Dua Lipa - Levitating (Axarious) \[AR9\]](https://osu.ppy.sh/beatmapsets/1688321#osu/3450301)
+  2. [Nor - RE Aoharu (FAW) \[The Blue Spring REturns\]](https://osu.ppy.sh/beatmapsets/2155302#osu/4542964)
+- Hard Rock
+  1. [marasy feat. Hatsune Miku - SnowMix (Tuffiii) \[AuroraFantasy\]](https://osu.ppy.sh/beatmapsets/1910869#osu/4886589)
+  2. [Ryokuoushoku Shakai - inori (Miy) \[pray\]](https://osu.ppy.sh/beatmapsets/1915271#osu/4428001)
+- Double Time
+  1. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Cappuchino\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3162593)
+  2. [ZUN - Romantic Children (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2287801#osu/4881371)
+  3. [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
+
 ### Qualifiers
 
 - No Mod
