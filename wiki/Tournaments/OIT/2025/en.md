@@ -82,9 +82,12 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
   2. [Dormir - Cookie Bouquets (dsco) \[Fanzhen's Extra\]](https://osu.ppy.sh/beatmapsets/675125#osu/1453416)
   3. [dj MAX STEROID - Arabian Rave Night (Kojio) \[Axarious' ANOTHER\]](https://osu.ppy.sh/beatmapsets/2312645#osu/5054490)
 - Double Time
-  1. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Cappuchino\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3162593)
-  2. [ZUN - Romantic Children (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2287801#osu/4881371)
-  3. [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
+  1. [Elaine Celestia feat. Ayunda Risu - Cat Loving (revemayuzumi Remix) (ArXe) \[Icikiwir Aselole\]](https://osu.ppy.sh/beatmapsets/2488623#osu/5465242)
+  2. [-45 - Millarca (228) \[Insane\]](https://osu.ppy.sh/beatmapsets/1978407#osu/4108775)
+  3. [Boom Kitty - Deo Volente (Ralsricat) \[Pisapou's Insane\]](https://osu.ppy.sh/beatmapsets/1733078#osu/3843920)
+  4. [Krimek - HyperColor (nik) \[Insane\]](https://osu.ppy.sh/beatmapsets/2248565#osu/4781121)
+- Tiebreaker
+  1. **[Imperial Circus Dead Decadence - Uta (Kite) \[Himei\]](https://osu.ppy.sh/beatmapsets/410162#osu/890190)**
 
 ### Qualifiers
 
