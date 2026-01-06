@@ -74,11 +74,13 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
   4. [Nanahira - Twinkle.Password (tukamoto7km) \[xbopost & tukamoto7km\]](https://osu.ppy.sh/beatmapsets/1184159#osu/2468593)
   5. [Pastel\*Palettes - Happy Synthesizer (ktgster) \[Shizuku's Expert\]](https://osu.ppy.sh/beatmapsets/932654#osu/1989990)
 - Hidden
-  1. [Dua Lipa - Levitating (Axarious) \[AR9\]](https://osu.ppy.sh/beatmapsets/1688321#osu/3450301)
-  2. [Nor - RE Aoharu (FAW) \[The Blue Spring REturns\]](https://osu.ppy.sh/beatmapsets/2155302#osu/4542964)
+  1. [Kinoko Teikoku - Kokudou Slope (3y3s) \[January\]](https://osu.ppy.sh/beatmapsets/1989175#osu/5393040)
+  2. [paraoka feat. haru\*nya - Manimani (Cut ver.) (Cellina) \[Hananoiro\]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280)
+  3. [REDALiCE feat. MONICO - Breakin' Chain (Heilia) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/1863044#osu/3947753)
 - Hard Rock
-  1. [marasy feat. Hatsune Miku - SnowMix (Tuffiii) \[AuroraFantasy\]](https://osu.ppy.sh/beatmapsets/1910869#osu/4886589)
-  2. [Ryokuoushoku Shakai - inori (Miy) \[pray\]](https://osu.ppy.sh/beatmapsets/1915271#osu/4428001)
+  1. [sheirara - -ERROR (Nakazawa) \[404 (Tournament Edit)\]](https://osu.ppy.sh/beatmapsets/2488667#osu/5465321)
+  2. [Dormir - Cookie Bouquets (dsco) \[Fanzhen's Extra\]](https://osu.ppy.sh/beatmapsets/675125#osu/1453416)
+  3. [dj MAX STEROID - Arabian Rave Night (Kojio) \[Axarious' ANOTHER\]](https://osu.ppy.sh/beatmapsets/2312645#osu/5054490)
 - Double Time
   1. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Cappuchino\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3162593)
   2. [ZUN - Romantic Children (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2287801#osu/4881371)
