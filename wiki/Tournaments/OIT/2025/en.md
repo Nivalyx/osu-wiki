@@ -78,7 +78,7 @@ The complete list of player registrations can be found [here](https://docs.googl
 | 5 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 10.62 |
 | 6 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 10.36 |
 | 7 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 10.27 |
-| 8 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 8.45 |
+| 8 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | 9.67 |
 | 9 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | 8.28 |
 | 10 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | 8.24 |
 | 11 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 7.78 |
