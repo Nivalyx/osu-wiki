@@ -63,6 +63,31 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 - [Challonge brackets](https://challonge.com/oit2025)
 - [Livestream channel](https://www.twitch.tv/osuIndonesia)
 
+## Participants
+
+Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and aggregated Z-sum across all twelve Qualifier beatmaps) out of 70 participating players in total.
+
+The complete list of player registrations can be found [here](https://docs.google.com/spreadsheets/d/1XrNWNociftOmxXhE0jkwVytql5B9AOJ2la9V4xK2dsc/edit?gid=1495602475#gid=1495602475).
+
+| Seed no. | Player | Z-sum |
+| :-- | :-- | :-- |
+| 1 | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | 11.32 |
+| 2 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 11.23 |
+| 3 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | 10.92 |
+| 4 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 9.20 |
+| 5 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 9.07 |
+| 6 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | 9.04 |
+| 7 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | 8.53 |
+| 8 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 8.45 |
+| 9 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | 8.28 |
+| 10 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | 8.24 |
+| 11 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 7.78 |
+| 12 | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) | 7.44 |
+| 13 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 7.39 |
+| 14 | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) | 6.53 |
+| 15 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 6.48 |
+| 16 | ::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227) | 6.27 |
+
 ## Mappools
 
 ### Round of 16
