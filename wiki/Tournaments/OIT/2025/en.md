@@ -92,6 +92,8 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ### Quarterfinals
 
+**[Download the mappack here! (131 MB)](https://mappack.sah.moe/download/i7FvzcV5)**
+
 - No Mod
   1. [sweet ARMS - Trust in you (CXu) \[Zafkiel\]](https://osu.ppy.sh/beatmapsets/346218#osu/764310)
   2. [Starkill - Until We Fall (Roupus) \[Uri's Extreme\]](https://osu.ppy.sh/beatmapsets/1956762#osu/4119388)
@@ -116,6 +118,8 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ### Round of 16
 
+**[Download the mappack here! (114 MB)](https://mappack.sah.moe/download/QkyjFAPW)**
+
 - No Mod
   1. [KOKO - Watashi o Matou (Dailycare) \[Vernal\]](https://osu.ppy.sh/beatmapsets/2272223#osu/4840263)
   2. [Kevin Sherwood - 115 (Cut Ver.) (fieryrage) \[Aetherium\]](https://osu.ppy.sh/beatmapsets/1457103#osu/2994682)
@@ -139,6 +143,8 @@ The complete list of player registrations can be found [here](https://docs.googl
   1. **[Imperial Circus Dead Decadence - Uta (Kite) \[Himei\]](https://osu.ppy.sh/beatmapsets/410162#osu/890190)**
 
 ### Qualifiers
+
+**[Download the mappack here! (90 MB)](https://mappack.sah.moe/download/XuoBxj3Z)**
 
 - No Mod
   1. [ELFENSJoN - Hyousou wa Hakuen wo Matoite (Yusomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1312064#osu/2719302)
