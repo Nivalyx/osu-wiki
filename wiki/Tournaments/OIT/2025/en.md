@@ -47,7 +47,7 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 | Custom mapper | ::{ flag=ID }:: [Nakazawa](https://osu.ppy.sh/users/6220419), ::{ flag=ID }:: [Yamanin Zephyr](https://osu.ppy.sh/users/9148291), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), *more to be announced* |
 | Custom map quality assurance | ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) |
 | Playtester | ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [sho](https://osu.ppy.sh/users/6625422), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
-| Streamer | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Xentaaa](https://osu.ppy.sh/users/16998672), ::{ flag=ID }:: [\[ZencroX\]](https://osu.ppy.sh/users/12839268), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
+| Streamer | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Xentaaa](https://osu.ppy.sh/users/16998672), ::{ flag=ID }:: [\[ZencroX\]](https://osu.ppy.sh/users/12839268), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
 | Commentator | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [Raddie](https://osu.ppy.sh/users/27491379), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | Referee | ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299), ::{ flag=ID }:: [lortAro](https://osu.ppy.sh/users/28854272), ::{ flag=ID }:: [-\[ Shinraa \]-](https://osu.ppy.sh/users/26942053), ::{ flag=SG }:: [Fuwub](https://osu.ppy.sh/users/14238097) |
 | Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
@@ -89,6 +89,30 @@ The complete list of player registrations can be found [here](https://docs.googl
 | 16 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.16 |
 
 ## Mappools
+
+### Quarterfinals
+
+- No Mod
+  1. [sweet ARMS - Trust in you (CXu) \[Zafkiel\]](https://osu.ppy.sh/beatmapsets/346218#osu/764310)
+  2. [Starkill - Until We Fall (Roupus) \[Uri's Extreme\]](https://osu.ppy.sh/beatmapsets/1956762#osu/4119388)
+  3. [Kabocha - Draw me a map, Let me feel the tap (toybot) \[gazimal's Extra\]](https://osu.ppy.sh/beatmapsets/2051856#osu/4608517)
+  4. [TWICE - Alcohol-Free (Halgoh) \[For Eli\]](https://osu.ppy.sh/beatmapsets/2031370#osu/4233972)
+  5. [Jun Ishikawa - Green Greens (Fatfan Kolek) \[emilia's Kirby Super Star Ultra\]](https://osu.ppy.sh/beatmapsets/2341780#osu/5037176)
+- Hidden
+  1. [Mizuki Nana x T.M.Revolution - Kakumei Dualism (Dailycare) \[Fujirin's Expert\]](https://osu.ppy.sh/beatmapsets/2008892#osu/4723219)
+  2. [muship - Teddy THE Teddy (Herazu) \[Hidden Extra\]](https://osu.ppy.sh/beatmapsets/2251125#osu/4788639)
+  3. [Xceon - Fuyutsubaki feat. Kanae Asaba (yf\_bmp) \[+Leggendaria\]](https://osu.ppy.sh/beatmapsets/1022180#osu/2138603)
+- Hard Rock
+  1. [Ayaka Ohashi - Wagamama MIRROR HEART (Amamya) \[Revenge\]](https://osu.ppy.sh/beatmapsets/2052377#osu/4286644)
+  2. [Dark PHOENiX - Hiroari Kechou o Iru Koto (Camo) \[Shurelia's Expert\]](https://osu.ppy.sh/beatmapsets/2128728#osu/4620902)
+  3. [USAO - Extra Mode (Otosaka-Yu) \[Rhythm Technique\]](https://osu.ppy.sh/beatmapsets/811948#osu/1703048)
+- Double Time
+  1. [Nakamura Meiko - revolution (LandoriK) \[Space\]](https://osu.ppy.sh/beatmapsets/1687781#osu/3457130)
+  2. [Shoji Meguro - The Battle for Everyone's Souls (Wekkl) \[Battle Hymn\]](https://osu.ppy.sh/beatmapsets/2196805#osu/4648514)
+  3. [AVTechNO! x Treow - boku-boku II feat. Hatsune Miku (Chaoslitz) \[Laurier's Insane\]](https://osu.ppy.sh/beatmapsets/2271970#osu/4839686)
+  4. [-45 - Ena (allein) \[Insane\]](https://osu.ppy.sh/beatmapsets/1882400#osu/3875572)
+- Tiebreaker
+  1. **[King Gizzard & The Lizard Wizard - Robot Stop (olc) \[REDLIGHT (VIP)\]](https://osu.ppy.sh/beatmapsets/1610231#osu/3287767)**
 
 ### Round of 16
 
