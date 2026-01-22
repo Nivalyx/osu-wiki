@@ -60,7 +60,7 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 - **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1g5lVCzQjG00Ss9QkOBvYzt0ACTbI7fPOBkYIhNMCq9Q/edit?usp=sharing)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/2157759)
 - [Discord server](https://discord.gg/rv6BgCtdvk)
-- [Challonge brackets](https://challonge.com/oit2025)
+- [Challonge brackets](https://challonge.com/oit_2025)
 - [Livestream channel](https://www.twitch.tv/osuIndonesia)
 
 ## Participants
@@ -89,6 +89,36 @@ The complete list of player registrations can be found [here](https://docs.googl
 | 16 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.16 |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (155 MB)](https://mappack.sah.moe/download/tyQDSeFe )**
+
+- No Mod
+  1. [fhana - Genzaichi (Speed Up Ver.) (apoq) \[Kyou's Dusk\]](https://osu.ppy.sh/beatmapsets/2331210#osu/5021333)
+  2. [Raimukun - Akagami Setsuwa (Vermasium) \[Echoes of the Ocean\]](https://osu.ppy.sh/beatmapsets/2194990#osu/4644208)
+  3. [Various Artists - Menishuki \<3 Rush-sshu! (lushifer) \[Keep Looking at Me!\]](https://osu.ppy.sh/beatmapsets/2458263#osu/5375518)
+  4. [Getty vs. DJ DiA - Fox4-Raize- (Raids) \[VULPES LAGOPUS\]](https://osu.ppy.sh/beatmapsets/2042026#osu/4260904)
+  5. [Aether Realm - Lean Into the Wind (ravensong) \[LMT's Doomking Resurgence\]](https://osu.ppy.sh/beatmapsets/2289840#osu/4886921)
+  6. [Polyphia - O.D. (Mir) \[Overflow\]](https://osu.ppy.sh/beatmapsets/1378026#osu/2847746)
+- Hidden
+  1. [Simon Safhalter - Always a cycle (Hyper) (tatemae) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2330718#osu/4999545)
+  2. [Mili - Peach Pit and Cyanide (vetoed) \[Sweet Cyanide\]](https://osu.ppy.sh/beatmapsets/2468654#osu/5405912)
+  3. [himmel - Empyrean (\_\_Ag) \[Mimiliaa's Extreme\]](https://osu.ppy.sh/beatmapsets/1854021#osu/3827948)
+  4. [EmoCosine - Midnight Challenge (Azrulk) \[roach class collab\]](https://osu.ppy.sh/beatmapsets/2418820#osu/5260070)
+- Hard Rock
+  1. [Wakeshima Kanon - the BEAST can't BE STOpped (-Kirigiri) \[Despair\]](https://osu.ppy.sh/beatmapsets/1774046#osu/3632423)
+  2. [onoken - Alexandrite (Kloyd) \[Goryeojang\]](https://osu.ppy.sh/beatmapsets/1567511#osu/3200574)
+  3. [goreshit - looming shadow of a tree long gone (Hobbes2) \[greenhobbes' extreme\]](https://osu.ppy.sh/beatmapsets/1072094#osu/2972038)
+  4. [BiSH - innocent arrogance (3y3s) \[Heroine's Expert\]](https://osu.ppy.sh/beatmapsets/2197411#osu/5082780)
+- Double Time
+  1. [TRUE - DREAM SOLISTER (Kibbleru) \[Melody\]](https://osu.ppy.sh/beatmapsets/359501#osu/790415)
+  2. [-45 - yoshikawa45 vs. siesta45 Battle of HongKong (Dada) \[Para Bellum\]](https://osu.ppy.sh/beatmapsets/1889111#osu/3890692)
+  3. [NANORAY - DESKTOP BUDDY (Elcheer) \[TOURNEY VERSION\]](https://osu.ppy.sh/beatmapsets/1884650#osu/3880353)
+  4. [Nanahoshi Kangengakudan - Too young to beer. (Nattu) \[LMT's Expert\]](https://osu.ppy.sh/beatmapsets/2064584#osu/4872629)
+  5. [Harumaki Gohan - Zero Talking (Okoayu) \[Insane\]](https://osu.ppy.sh/beatmapsets/2254715#osu/4805944)
+- Tiebreaker
+  1. **[FELT - Lies in Reality (tatemae) \[Maldorora\]](https://osu.ppy.sh/beatmapsets/1703947#osu/3481674)**
 
 ### Quarterfinals
 
@@ -163,7 +193,7 @@ The complete list of player registrations can be found [here](https://docs.googl
   2. [ZUN - Romantic Children (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2287801#osu/4881371)
   3. [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
 
-## Match Results
+## Match results
 
 ### Round of 16
 
