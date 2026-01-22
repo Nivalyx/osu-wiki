@@ -211,6 +211,19 @@ Saturday, 17 January 2026:
 
 Sunday, 18 January 2026:
 
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Caruma](https://osu.ppy.sh/users/13187450) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[VtuberVoiceASMR](https://osu.ppy.sh/users/8780223)** | [#1](https://osu.ppy.sh/community/matches/120336147) |
+| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/120337119) |
+| Lower | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | [#1](https://osu.ppy.sh/community/matches/120336088) |
+| Lower | **[Oguri Cap](https://osu.ppy.sh/users/11025519)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | *win by default* |
+
+Monday, 19 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | [#1](https://osu.ppy.sh/community/matches/120344246) |
+| Upper | **[GNX](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | [#1](https://osu.ppy.sh/community/matches/120343896) |
 
 ### Round of 16
 
