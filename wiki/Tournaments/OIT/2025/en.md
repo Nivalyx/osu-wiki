@@ -90,6 +90,36 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Mappools
 
+### Finals (week 1)
+
+**[Download the mappack here! (155 MB)](https://mappack.sah.moe/download/tyQDSeFe )**
+
+- No Mod
+  1. [Adust Rain - Eleven Stud (Toumei Dragon) \[Subterranean Rose\]](https://osu.ppy.sh/beatmapsets/2284459#osu/4872301)
+  2. [xi - Ascension to Heaven (Kroytz) \[Before the Final Moment\]](https://osu.ppy.sh/beatmapsets/1301360#osu/2699196)
+  3. [Yousei Teikoku - IRON ROSE (Civafu) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/2145999#osu/5052392)
+  4. [Tatsuya Kitani - Tell Me About You (William K) \[Slidershapes\]](https://osu.ppy.sh/beatmapsets/2457841#osu/5374134)
+  5. [AAAA - reach for your victory!!! (toybot) \[astronomic!!!\]](https://osu.ppy.sh/beatmapsets/2227145#osu/4724781)
+  6. [jojofans community tulungagung - Rubmle (ft. Rapzone) (Shinjuko) \[dawg ini bukan nm6 :wilted\_flower:\]](https://osu.ppy.sh/beatmapsets/2498137#osu/5493201)
+- Hidden
+  1. [LOLUET x yoei. - roots (seros) \[raijodo's extra\]](https://osu.ppy.sh/beatmapsets/2139515#osu/4707333)
+  2. [saaa + kei_iwata + stuv + *wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#osu/4622520)
+  3. [Children Of Bodom - If You Want Peace... Prepare for War (The Cube) \[Extremity\]](https://osu.ppy.sh/beatmapsets/1511463#osu/3094900)
+  4. [A? - ENERGY INFLATION (nik) \[LCFC's XXTREME\]](https://osu.ppy.sh/beatmapsets/2211300#osu/4684338)
+- Hard Rock
+  1. [GET IN THE RING - Moonscraper (olsonn) \[Rhapsody\]](https://osu.ppy.sh/beatmapsets/2352938#osu/5064824)
+  2. [Sampling Masters MEGA - Rotter Tarmination (Luscent) \[allein's WTF Extra\]](https://osu.ppy.sh/beatmapsets/2099784#osu/4492687)
+  3. [Krewella x Diskord - Beggars (Consouls Remix) (NeilPerry) \[Neil x Ameth's Conflux\]](https://osu.ppy.sh/beatmapsets/881753#osu/1843575)
+  4. [DJ TOTTO - Crystalia (Hysteria) \[Xenok Sakaki's Extreme\]](https://osu.ppy.sh/beatmapsets/691220#osu/1549739)
+- Double Time
+  1. [Sasaki Sayaka - Yume to Iro de Dekiteiru (Akari Hoshizaki) \[my kisah\]](https://osu.ppy.sh/beatmapsets/2498097#osu/5493064)
+  2. [-45 - Crimsonic dimension (Sanch-KK) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/2125044#osu/4466556)
+  3. [3L - Sympathy take me to darkness (Trust) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/2234458#osu/4746040)
+  4. [nobodyknows+ - Imaike Samba (Deca) \[iljaaz's Insane\]](https://osu.ppy.sh/beatmapsets/2243785#osu/4830145)
+  5. [tsunamix_underground - Period. \~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.) (bob) \[chai's insane.\]](https://osu.ppy.sh/beatmapsets/1594769#osu/3311067)
+- Tiebreaker
+  1. **[Laur - Sound Chimera (Raids) \[ThatGNXAlmondFumDiver Collab\]](https://osu.ppy.sh/beatmapsets/2498055#osu/5492956)**
+
 ### Semifinals
 
 **[Download the mappack here! (155 MB)](https://mappack.sah.moe/download/tyQDSeFe )**
