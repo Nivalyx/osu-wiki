@@ -245,6 +245,10 @@ Sunday, 25 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/120384930) |
+| Lower | [MejiroMcQueen](https://osu.ppy.sh/users/11320627) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** | [#1](https://osu.ppy.sh/community/matches/120385390) |
+| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) | [#1](https://osu.ppy.sh/community/matches/120385103) |
+| Upper | [MineFrostID](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/120385053) |
 
 ### Quarterfinals
 
