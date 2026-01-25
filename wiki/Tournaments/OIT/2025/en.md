@@ -92,7 +92,7 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ### Finals (week 1)
 
-**[Download the mappack here! (155 MB)](https://mappack.sah.moe/download/tyQDSeFe )**
+**[Download the mappack here! (152 MB)](https://mappack.sah.moe/download/tm7oMSbu)**
 
 - No Mod
   1. [Adust Rain - Eleven Stud (Toumei Dragon) \[Subterranean Rose\]](https://osu.ppy.sh/beatmapsets/2284459#osu/4872301)
@@ -122,7 +122,7 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ### Semifinals
 
-**[Download the mappack here! (155 MB)](https://mappack.sah.moe/download/tyQDSeFe )**
+**[Download the mappack here! (155 MB)](https://mappack.sah.moe/download/tyQDSeFe)**
 
 - No Mod
   1. [fhana - Genzaichi (Speed Up Ver.) (apoq) \[Kyou's Dusk\]](https://osu.ppy.sh/beatmapsets/2331210#osu/5021333)
