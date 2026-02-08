@@ -21,7 +21,8 @@ The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) is a double-e
 | Quarterfinals | 2026-01-12/2026-01-18 |
 | Semifinals | 2026-01-19/2026-01-25 |
 | Finals (week 1) | 2026-01-26/2026-02-01 |
-| Finals (week 2) | 2026-02-02/2026-02-08 |
+| *break* | 2026-02-02/2026-02-08 |
+| Finals (week 2) | 2026-02-09/2026-02-15 |
 
 ## Prizes
 
