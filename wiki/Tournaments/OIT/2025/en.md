@@ -95,30 +95,30 @@ The complete list of player registrations can be found [here](https://docs.googl
 **[Download the mappack here! (165 MB)](https://mappack.sah.moe/download/ncej6s7P)**
 
 - No Mod
-  1. [Adust Rain - Eleven Stud (Toumei Dragon) \[Subterranean Rose\]](https://osu.ppy.sh/beatmapsets/2284459#osu/4872301)
-  2. [xi - Ascension to Heaven (Kroytz) \[Before the Final Moment\]](https://osu.ppy.sh/beatmapsets/1301360#osu/2699196)
-  3. [Yousei Teikoku - IRON ROSE (Civafu) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/2145999#osu/5052392)
-  4. [Tatsuya Kitani - Tell Me About You (William K) \[Slidershapes\]](https://osu.ppy.sh/beatmapsets/2457841#osu/5374134)
-  5. [AAAA - reach for your victory!!! (toybot) \[astronomic!!!\]](https://osu.ppy.sh/beatmapsets/2227145#osu/4724781)
-  6. [jojofans community tulungagung - Rubmle (ft. Rapzone) (Shinjuko) \[dawg ini bukan nm6 :wilted\_flower:\]](https://osu.ppy.sh/beatmapsets/2498137#osu/5493201)
+  1. [Tsukuyomi - Hana ni Ame o, Kimi ni Uta o (jiwoas) \[Melachony\]](https://osu.ppy.sh/beatmapsets/2501601#osu/5503905)
+  2. [USAO - Interstellar Travel (Aeril) \[40,208,000,000,000 km\]](https://osu.ppy.sh/beatmapsets/2238749#osu/4757408)
+  3. [PinocchioP - Reincarnation Apple feat. Hatsune Miku (ajmosca) \[Horsace's Favorite Apple\]](https://osu.ppy.sh/beatmapsets/1976954#osu/4103881)
+  4. [Ludicin - Signal (Ishtiaq) \[Azrulk x Ishtiaq\]](https://osu.ppy.sh/beatmapsets/2410737#osu/5234641)
+  5. [First Fragment - Le Serment De Tsion (LMT) \[Kneel\]](https://osu.ppy.sh/beatmapsets/2287985#osu/4881760)
+  6. [Reol - +Danshi (44444444444444) \[komachi's tribute\]](https://osu.ppy.sh/beatmapsets/2305858#osu/5225753)
 - Hidden
-  1. [LOLUET x yoei. - roots (seros) \[raijodo's extra\]](https://osu.ppy.sh/beatmapsets/2139515#osu/4707333)
-  2. [saaa + kei_iwata + stuv + *wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#osu/4622520)
-  3. [Children Of Bodom - If You Want Peace... Prepare for War (The Cube) \[Extremity\]](https://osu.ppy.sh/beatmapsets/1511463#osu/3094900)
-  4. [A? - ENERGY INFLATION (nik) \[LCFC's XXTREME\]](https://osu.ppy.sh/beatmapsets/2211300#osu/4684338)
+  1. [bbno\$ & Rich Brian - edamame (Nijika Ijichi) \[low-hanging fruit\]](https://osu.ppy.sh/beatmapsets/1589180#osu/4009923)
+  2. [Grand Thaw - Aventyr (FAW) \[AVENTJIR (Original)\]](https://osu.ppy.sh/beatmapsets/2505069#osu/5515258)
+  3. [Sheena Ringo - TOKYO (olc) \[Tension and Release\]](https://osu.ppy.sh/beatmapsets/1813876#osu/3721150)
+  4. [satella - Sentheris (Kuro Fuyusaki) \[Core\]](https://osu.ppy.sh/beatmapsets/2488669#osu/5465324)
 - Hard Rock
-  1. [GET IN THE RING - Moonscraper (olsonn) \[Rhapsody\]](https://osu.ppy.sh/beatmapsets/2352938#osu/5064824)
-  2. [Sampling Masters MEGA - Rotter Tarmination (Luscent) \[allein's WTF Extra\]](https://osu.ppy.sh/beatmapsets/2099784#osu/4492687)
-  3. [Krewella x Diskord - Beggars (Consouls Remix) (NeilPerry) \[Neil x Ameth's Conflux\]](https://osu.ppy.sh/beatmapsets/881753#osu/1843575)
-  4. [DJ TOTTO - Crystalia (Hysteria) \[Xenok Sakaki's Extreme\]](https://osu.ppy.sh/beatmapsets/691220#osu/1549739)
+  1. [Yousei Teikoku - Baptize (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1739984#osu/3557042)
+  2. [Qrispy Joybox - licca (AJT) \[Jycool's Extra\]](https://osu.ppy.sh/beatmapsets/2340295#osu/5028587)
+  3. [Mili - String Theocracy (Aeril) \[Lascia ch'io pianga\]](https://osu.ppy.sh/beatmapsets/2234457#osu/4746039)
+  4. [FELT - Summer Fever (Camo) \[Shimmering Sky\]](https://osu.ppy.sh/beatmapsets/1888937#osu/4133726)
 - Double Time
-  1. [Sasaki Sayaka - Yume to Iro de Dekiteiru (Akari Hoshizaki) \[my kisah\]](https://osu.ppy.sh/beatmapsets/2498097#osu/5493064)
-  2. [-45 - Crimsonic dimension (Sanch-KK) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/2125044#osu/4466556)
-  3. [3L - Sympathy take me to darkness (Trust) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/2234458#osu/4746040)
-  4. [nobodyknows+ - Imaike Samba (Deca) \[iljaaz's Insane\]](https://osu.ppy.sh/beatmapsets/2243785#osu/4830145)
-  5. [tsunamix_underground - Period. \~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.) (bob) \[chai's insane.\]](https://osu.ppy.sh/beatmapsets/1594769#osu/3311067)
+  1. [KyoKa - Aitoki*Cherishing (fnayR) \[SayuMana x fnayR's Collab Extra\]](https://osu.ppy.sh/beatmapsets/2505066#osu/5515249)
+  2. [-45 - Sankarea (Radiownd) \[Valtiel\]](https://osu.ppy.sh/beatmapsets/2392143#osu/5178950)
+  3. [Fei Zao Jun - Ying Zhi Gui Ji (Muziyami) \[Expert\]](https://osu.ppy.sh/beatmapsets/1840959#osu/3781184)
+  4. [BUGCORE - Creepy Crawlers (feat. Golemm) (Gordon) \[chonk: DT deBUG\]](https://osu.ppy.sh/beatmapsets/2234336#osu/4745651)
+  5. [Eiko Shimamiya - Higurashi no Naku Koro ni (Osu Mapman) \[Caspar's Insane\]](https://osu.ppy.sh/beatmapsets/2173462#osu/4718206)
 - Tiebreaker
-  1. **[Laur - Sound Chimera (Raids) \[ThatGNXAlmondFumDiver Collab\]](https://osu.ppy.sh/beatmapsets/2498055#osu/5492956)**
+  1. **[LUMiNOZ - Scorched Garden (Shinjuko) \[The Journey of Me Adventuring with Stella my kisah\]](https://osu.ppy.sh/beatmapsets/2505108#osu/5515392)**
 
 ### Finals (week 1)
 
@@ -133,7 +133,7 @@ The complete list of player registrations can be found [here](https://docs.googl
   6. [jojofans community tulungagung - Rubmle (ft. Rapzone) (Shinjuko) \[dawg ini bukan nm6 :wilted\_flower:\]](https://osu.ppy.sh/beatmapsets/2498137#osu/5493201)
 - Hidden
   1. [LOLUET x yoei. - roots (seros) \[raijodo's extra\]](https://osu.ppy.sh/beatmapsets/2139515#osu/4707333)
-  2. [saaa + kei_iwata + stuv + *wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#osu/4622520)
+  2. [saaa + kei\_iwata + stuv + \*wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#osu/4622520)
   3. [Children Of Bodom - If You Want Peace... Prepare for War (The Cube) \[Extremity\]](https://osu.ppy.sh/beatmapsets/1511463#osu/3094900)
   4. [A? - ENERGY INFLATION (nik) \[LCFC's XXTREME\]](https://osu.ppy.sh/beatmapsets/2211300#osu/4684338)
 - Hard Rock
