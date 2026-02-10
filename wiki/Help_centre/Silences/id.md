@@ -14,7 +14,7 @@ no_native_review: true
 
 Pengguna yang sedang di-silence tidak dapat melakukan hal-hal berikut:
 
-- Menggunakan fasilitas [chat](/wiki/Client/Interface/Chat_console) (publik dan privat) baik itu di dalam permainan atau pada situs web.
+- Menggunakan fasilitas [chat](/wiki/Client/Interface/Chat_console) (publik dan privat), baik itu di dalam permainan atau pada situs web.
 - Menulis postingan pada forum osu! mana pun.
 - Menulis komentar pada halaman situs web mana pun (baik itu halaman beatmap, riwayat perubahan, atau berita).
 - Berpartisipasi dalam [diskusi beatmap](/wiki/Beatmap_discussion).
@@ -23,21 +23,21 @@ Pengguna yang sedang di-silence tidak dapat melakukan hal-hal berikut:
 - Ikut serta dalam pertandingan [multiplayer](/wiki/Client/Interface/Multiplayer).
 
 :::Infobox
-![](img/silence-ingame.png "Peringatan silence di dalam kolom chat")
+![](img/silence-ingame.png "Peringatan silence di dalam chat")
 :::
 
 Sekalinya suatu pengguna di-silence, seluruh pesan chat mereka akan dihapus dan kolom input chat mereka akan menampilkan pesan peringatan yang memberitahukan durasi silence ini.[^chat-cleanup]
 
 ## Durasi
 
-Durasi awal silence bermula dari 5 menit, yang pada umumnya akan berlipat ganda seiring dengan pelanggaran selanjutnya yang diperbuat (hingga maksimal 28 hari). Meskipun demikian, durasi awal ini dapat bervariasi tergantung dari jenis pelanggaran dan riwayat pengguna yang melanggar. Berbagai faktor yang menjadi pertimbangan pada saat menentukan durasi suatu silence meliputi:
+Durasi awal silence bermula dari 5 menit, yang pada umumnya akan berlipat ganda seiring dengan pelanggaran selanjutnya yang diperbuat (hingga maksimal 28 hari). Meski begitu, durasi awal ini dapat bervariasi tergantung dari jenis pelanggaran dan riwayat pengguna yang melanggar. Faktor-faktor yang menjadi pertimbangan pada saat menentukan durasi silence meliputi:
 
 - **Suasana:** Seperti apa keadaan lingkungan chat pada saat pelanggaran ini terjadi.
 - **Frekuensi:** Seberapa sering pengguna ini telah melanggar terlepas dari silence yang telah dijatuhkan sebelumnya.
 - **Riwayat:** Seperti apa rekam jejak pelanggaran dari pengguna yang melanggar.
 - **Tingkat keparahan:** Seberapa serius tingkat pelanggaran yang dilakukan.
 
-Dalam kasus tertentu, pengguna yang melanggar akan dapat diberikan peringatan terakhir (*final warning*) sebelum [akun mereka dibatasi](/wiki/Help_centre/Account_restrictions) agar mereka dapat segera merasa jera.
+Dalam kasus tertentu, pengguna yang melanggar dapat diberikan peringatan terakhir (*final warning*) sebelum [akun mereka dibatasi](/wiki/Help_centre/Account_restrictions), agar mereka dapat segera merasa jera.
 
 ## Alasan silence umum
 
