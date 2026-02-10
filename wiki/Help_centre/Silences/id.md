@@ -35,7 +35,7 @@ Durasi awal silence bermula dari 5 menit, yang pada umumnya akan berlipat ganda 
 - **Suasana:** Seperti apa keadaan lingkungan chat pada saat pelanggaran ini terjadi.
 - **Frekuensi:** Seberapa sering pengguna ini telah melanggar terlepas dari silence yang telah dijatuhkan sebelumnya.
 - **Riwayat:** Seperti apa rekam jejak pelanggaran dari pengguna yang melanggar.
-- **Tingkat keparahan:** Seberapa serius tingkat pelanggaran yang dilakukan.
+- **Tingkat keparahan:** Seberapa serius pelanggaran yang dilakukan.
 
 Dalam kasus tertentu, pengguna yang melanggar dapat diberikan peringatan terakhir (*final warning*) sebelum [akun mereka dibatasi](/wiki/Help_centre/Account_restrictions), agar mereka dapat segera merasa jera.
 
