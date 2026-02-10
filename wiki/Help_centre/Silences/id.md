@@ -43,7 +43,7 @@ Dalam kasus tertentu, pengguna yang melanggar dapat diberikan peringatan terakhi
 
 Beberapa alasan umum yang dapat menyebabkan suatu pengguna terkena silence pada ruang chat publik meliputi (namun tidak terbatas pada):
 
-- **Mengirimkan spam atau pesan yang membanjiri layar dengan teks (*flooding*):** Cukup jelas.
+- **Mengirimkan spam atau pesan yang membanjiri layar (*flooding*):** Cukup jelas.
 - **Penyalahgunaan caps lock:** Mengobrol dengan huruf kapital sepenuhnya.
 - **Perilaku/percakapan yang tidak pantas:** Ruang chat publik bukan tempat bagi obrolan yang tidak aman untuk segala usia atau topik yang menghasut.
 - **Rasisme:** Meliputi diskriminasi atau ujaran kebencian yang berdasar pada ras, agama, jenis kelamin, orientasi seksual, dan lain sebagainya.
@@ -58,7 +58,7 @@ Silence juga dapat dijatuhkan kepada pengguna karena alasan lainnya yang meliput
 
 ## Mengajukan banding
 
-Walaupun hukuman silence diberlakukan demi menjaga lingkungan komunitas yang positif, hukuman ini terkadang dapat dijatuhkan secara keliru. Apabila kamu merasa hukuman silence kamu merupakan suatu kesalahan atau diberikan secara tidak adil, silakan hubungi [tim dukungan akun](/wiki/People/Account_support_team#accounts@ppy.sh) di [accounts@ppy.sh](mailto:accounts@ppy.sh) dan jelaskan duduk perkaramu.
+Walaupun hukuman silence diberlakukan demi menjaga lingkungan komunitas yang positif, hukuman ini terkadang dapat dijatuhkan secara keliru. Apabila kamu merasa silence kamu hukuman salah sasaran atau diberikan secara tidak adil, silakan hubungi [tim dukungan akun](/wiki/People/Account_support_team#accounts@ppy.sh) di [accounts@ppy.sh](mailto:accounts@ppy.sh) dan jelaskan duduk perkaramu.
 
 Mohon diperhatikan bahwa kamu harus menggunakan alamat email yang terhubung dengan akun osu! kamu dan menyebutkan nama penggunamu untuk memastikan bahwa email ini berasal dari kamu.
 
