@@ -43,14 +43,14 @@ Dalam kasus tertentu, pengguna yang melanggar dapat diberikan peringatan terakhi
 
 Beberapa alasan umum yang dapat menyebabkan suatu pengguna terkena silence pada ruang chat publik meliputi (namun tidak terbatas pada):
 
-- **Pesan spam atau pesan yang membanjiri layar dengan teks (*flooding*):** Cukup jelas.
+- **Mengirimkan spam atau pesan yang membanjiri layar dengan teks (*flooding*):** Cukup jelas.
 - **Penyalahgunaan caps lock:** Mengobrol dengan huruf kapital sepenuhnya.
 - **Perilaku/percakapan yang tidak pantas:** Ruang chat publik bukan tempat bagi obrolan yang tidak aman untuk segala usia atau topik yang menghasut.
 - **Rasisme:** Meliputi diskriminasi atau ujaran kebencian yang berdasar pada ras, agama, jenis kelamin, orientasi seksual, dan lain sebagainya.
 - **Iklan:** Mengacu pada promosi produk atau layanan. Hal ini meliputi tautan undangan Discord dan tautan siaran langsung seperti Twitch dan YouTube.
-- **Konten yang tidak diinginkan:** Meliputi situs web yang mengandung material bajakan, konten yang membuat kaget pada saat diklik (*screamer*), undangan rujukan (*referral*), dan lain sebagainya.
+- **Konten yang tidak diinginkan:** Meliputi situs web yang berisikan konten bajakan, muatan yang membuat kaget (*screamer*), undangan rujukan (*referral*), dan lain sebagainya.
 
-Silence juga dapat dijatuhkan kepada pengguna atas alasan lainnya yang meliputi (namun tidak terbatas pada):
+Silence juga dapat dijatuhkan kepada pengguna karena beberapa alasan lainnya, yang meliputi (namun tidak terbatas pada):
 
 - **Submisi beatmap yang tidak pantas:** Meliputi rincian seperti metadata, tag, nama tingkat kesulitan, dan gambar latar.
 - **Perbuatan yang tidak pantas:** Meliputi tempat kejadian seperti forum, diskusi beatmap, dan kolom komentar.
