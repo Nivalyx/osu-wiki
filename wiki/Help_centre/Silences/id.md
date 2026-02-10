@@ -4,15 +4,15 @@ no_native_review: true
 
 # Silence
 
-**Silence** (pembungkaman) merupakan hukuman yang membatasi bagaimana seseorang dapat berkomunikasi di dalam komunitas osu!. Pada umumnya, hukuman ini dijatuhkan oleh para anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) dan [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) demi menjaga lingkungan situs web dan permainan yang bersih.
+**Silence** (pembungkaman) adalah hukuman yang membatasi bagaimana seseorang dapat berkomunikasi di dalam komunitas osu!. Pada umumnya, hukuman ini dijatuhkan oleh para anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) dan [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) demi menjaga lingkungan situs web dan permainan yang bersih.
 
 ## Batasan
 
 :::Infobox
-![](img/silence-profile.png "Rekam jejak silence pada halaman profil")
+![](img/silence-profile.png "Rekaman silence pada halaman profil")
 :::
 
-Pengguna yang sedang di-silence tidak akan dapat melakukan hal-hal berikut:
+Pengguna yang sedang di-silence tidak dapat melakukan hal-hal berikut:
 
 - Menggunakan fasilitas [chat](/wiki/Client/Interface/Chat_console) (publik dan privat) baik itu di dalam permainan atau pada situs web.
 - Menulis postingan pada forum osu! mana pun.
