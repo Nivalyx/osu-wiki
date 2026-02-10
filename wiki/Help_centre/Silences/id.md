@@ -32,7 +32,7 @@ Sekalinya suatu pengguna di-silence, seluruh pesan chat mereka akan dihapus dan 
 
 Durasi awal silence bermula dari 5 menit, yang pada umumnya akan berlipat ganda seiring dengan pelanggaran selanjutnya yang diperbuat (hingga maksimal 28 hari). Meskipun demikian, durasi awal ini dapat bervariasi tergantung dari jenis pelanggaran dan riwayat pengguna yang melanggar. Berbagai faktor yang menjadi pertimbangan pada saat menentukan durasi suatu silence meliputi:
 
-- **Atmosfer:** Seperti apa suasana lingkungan chat pada saat pelanggaran ini terjadi.
+- **Suasana:** Seperti apa keadaan lingkungan chat pada saat pelanggaran ini terjadi.
 - **Frekuensi:** Seberapa sering pengguna ini telah melanggar terlepas dari silence yang telah dijatuhkan sebelumnya.
 - **Riwayat:** Seperti apa rekam jejak pelanggaran dari pengguna yang melanggar.
 - **Tingkat keparahan:** Seberapa serius tingkat pelanggaran yang dilakukan.
