@@ -89,6 +89,16 @@ The complete list of player registrations can be found [here](https://docs.googl
 | 15 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | 8.19 |
 | 16 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.16 |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) |
+
 ## Mappools
 
 ### Finals (week 2)
