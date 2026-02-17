@@ -8,7 +8,7 @@ tags:
 
 ![osu! Indonesia Tournament #15 (2025) ft. Stella banner](img/banner.png)
 
-The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548). The tournament is open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It is the fifteenth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548). The tournament was open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It was the fifteenth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) is a double-e
 
 ## Prizes
 
-The osu! Indonesia Tournament #15 (2025) ft. Stella offers an initial prize pool of 1,750,000 IDR as generously donated by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737). This prize pool may be further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
+The osu! Indonesia Tournament #15 (2025) ft. Stella offered an initial prize pool of 1,750,000 IDR as generously donated by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -34,11 +34,11 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella offers an initial prize pool
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, physical trophy, customised profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the accumulated prize pool, physical trophy, customised profile banner |
 
-As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #15 (2025) is not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discord.gg/rv6BgCtdvk) for transparency.
+As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #15 (2025) was not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discord.gg/rv6BgCtdvk) for transparency.
 
 ## Organisation
 
-The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! community members from Indonesia and beyond.
+The osu! Indonesia Tournament #15 (2025) ft. Stella was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -51,7 +51,7 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 | Streamer | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Xentaaa](https://osu.ppy.sh/users/16998672), ::{ flag=ID }:: [\[ZencroX\]](https://osu.ppy.sh/users/12839268), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
 | Commentator | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [Raddie](https://osu.ppy.sh/users/27491379), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | Referee | ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299), ::{ flag=ID }:: [lortAro](https://osu.ppy.sh/users/28854272), ::{ flag=ID }:: [-\[ Shinraa \]-](https://osu.ppy.sh/users/26942053), ::{ flag=SG }:: [Fuwub](https://osu.ppy.sh/users/14238097) |
-| Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
+| Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 | Character designer | ::{ flag=ID }:: Reza F. [(↗)](https://web.facebook.com/rrezalfa) |
 | Spreadsheet manager | ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
