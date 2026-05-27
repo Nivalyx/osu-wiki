@@ -34,7 +34,7 @@ Peraturan-peraturan di bawah ini adalah pedoman dasar kami dalam mewujudkan komu
 6. **Jangan mengirimkan iklan, tautan rujukan, atau konten intrusif lainnya dalam bentuk apa pun.** Postingan yang tidak diinginkan hanya akan mengganggu pengguna lain. Peraturan ini juga meliputi konten dapat termuat atau terputar dengan sendirinya.
 7. **Jangan mengirimkan tautan yang tertuju pada aplikasi atau program yang mencurigakan.** Sederhananya, apabila kamu ragu akan legalitas suatu aplikasi, maka aplikasi ini tidak layak untuk ditautkan.
 
-## Peraturan unggahan beatmap
+## Peraturan pengunggahan beatmap
 
 *Catatan: Peraturan berikut berlaku untuk **seluruh beatmap yang diunggah** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk peraturan yang lebih spesifik mengenai beatmap Ranked, kunjungi [Kriteria ranking](/wiki/Ranking_criteria).*
 
