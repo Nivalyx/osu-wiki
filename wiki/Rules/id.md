@@ -14,7 +14,7 @@ Peraturan-peraturan di bawah ini adalah pedoman dasar kami dalam mewujudkan komu
 
 ## Peraturan obrolan
 
-1. **Hormatilah pengguna lain di dalam kanal obrolan, dan hindari mengirimkan pesan yang membanjiri layar *(flooding)* atau yang bertubi-tubi *(spamming)*.** Obrolan yang menghabiskan hingga separuh layar tentunya akan membuat pengguna lain merasa terganggu. Orang lain juga ingin mengobrol!
+1. **Hormatilah pengguna lain di dalam kanal obrolan, dan hindari mengirimkan pesan yang membanjiri layar *(flooding)* atau yang bertubi-tubi *(spamming)*.** Satu orang yang obrolannya menghabiskan hingga separuh layar tentunya akan membuat pengguna lain merasa terganggu. Orang lain juga ingin mengobrol!
 2. **Biarkan masalah yang ada di dalam obrolan ditangani oleh para moderator.** Gunakan [perintah `!report`](/wiki/Reporting_bad_behaviour) untuk melapor kepada para moderator dan biarkan mereka menyelesaikan masalah yang ada.
 3. **Apabila seseorang di-silence atau dibatasi, abaikan mereka dan jangan mulai membicarakannya.** Apabila seseorang dibatasi, kasus mereka akan langsung jatuh pada ranah yang hanya melibatkan pihak administrasi osu! dan diri mereka sendiri.
 4. **Terus junjung sportivitas dan jangan indahkan para pemain yang berbuat curang atau dengan sengaja memicu keributan.** Sayangnya, orang-orang seperti ini akan selalu ada, dan semakin mereka diperhatikan, semakin pula mereka akan menjadi-jadi. Laporkan mereka melalui perintah `!report` atau tombol laporan pada halaman profil mereka dan lanjutkan kegiatanmu seperti biasa.
