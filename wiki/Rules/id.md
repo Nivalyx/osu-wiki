@@ -34,7 +34,7 @@ Peraturan-peraturan di bawah ini adalah pedoman dasar kami dalam mewujudkan komu
 6. **Jangan mengirimkan iklan, tautan rujukan, atau konten intrusif lainnya dalam bentuk apa pun.** Postingan yang tidak diinginkan hanya akan mengganggu pengguna lain. Peraturan ini juga meliputi konten dapat termuat atau terputar dengan sendirinya.
 7. **Jangan mengirimkan tautan yang tertuju pada aplikasi atau program yang mencurigakan.** Sederhananya, apabila kamu ragu akan legalitas suatu aplikasi, maka aplikasi ini tidak layak untuk ditautkan.
 
-## Peraturan pengunggahan beatmap
+## Peraturan unggahan beatmap
 
 *Catatan: Peraturan berikut berlaku untuk **seluruh beatmap yang diunggah** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk peraturan yang lebih spesifik mengenai beatmap Ranked, kunjungi [Kriteria ranking](/wiki/Ranking_criteria).*
 
@@ -45,7 +45,7 @@ Peraturan berikut berlaku bagi seluruh beatmap yang diunggah melalui [Beatmap Su
 3. **Jangan menjiplak atau mencuri karya orang lain.** Lebih dari itu, jangan pula mengunggah atau menggunakan karya orang lain tanpa seizin yang bersangkutan (yang termasuk, namun tidak terbatas pada, skin dan tingkat kesulitan milik mapper lain).
 4. **Selalu patuhi [Aturan konten musik](Song_Content_Rules) dan [Pertimbangan konten visual](Visual_Content_Considerations).**
 
-## Apa yang akan terjadi apabila saya melanggar peraturan?
+## Apa yang terjadi apabila saya melanggar peraturan?
 
 Apabila kamu melanggar peraturan, kamu akan dihadapkan dengan berbagai macam hukuman.
 
