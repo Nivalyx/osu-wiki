@@ -54,7 +54,7 @@ Hukuman-hukuman ini dapat meliputi (*namun tidak terbatas pada*):
 - Hilangnya hak untuk mengobrol di dalam permainan dalam jangka waktu tertentu (yang dikenal dengan istilah [silence](/wiki/Help_centre/Silences)).
 - Penghapusan konten yang dianggap melanggar dari halaman pengguna, halaman profil, atau beatmap yang kamu unggah.
 - Hilangnya hak untuk menyunting atau mengubah halaman pengguna atau rincian profilmu.
-- Hilangnya hak untuk bermain atau berpartisipasi pada turnamen yang diselenggarakan secara resmi.
+- Hilangnya hak untuk bermain atau berpartisipasi pada turnamen yang diselenggarakan secara resmi (yang dikenal dengan istilah [larangan turnamen](/wiki/Help_centre/Tournament_sanctions#tournament-bans)).
 
 Durasi [silence](/wiki/Help_centre/Silences) dan hukuman lainnya yang kamu terima akan **secara otomatis** berlipat ganda untuk setiap pelanggaran yang kamu lakukan. Para pengguna yang sudah berulang kali melanggar akan  dengan semakin mereka melanggar.
 
