@@ -56,9 +56,9 @@ Hukuman-hukuman ini dapat meliputi (*namun tidak terbatas pada*):
 - Hilangnya hak untuk menyunting atau mengubah halaman pengguna atau rincian profilmu.
 - Hilangnya hak untuk bermain atau berpartisipasi pada turnamen yang diselenggarakan secara resmi.
 
-Durasi [silence](/wiki/Help_centre/Silences) dan hukuman lainnya yang kamu terima akan **secara otomatis** berlipat ganda untuk setiap pelanggaran yang kamu lakukan. Para pengguna yang sudah berulang kali melanggar akan dengan semakin mereka melanggar.
+Durasi [silence](/wiki/Help_centre/Silences) dan hukuman lainnya yang kamu terima akan **secara otomatis** berlipat ganda untuk setiap pelanggaran yang kamu lakukan. Para pengguna yang sudah berulang kali melanggar akan  dengan semakin mereka melanggar.
 
-Pelanggaran tertentu yang lebih berat memiliki durasi hukuman silence minimal yang lebih panjang (pada umumnya 43 jam atau lebih), yang meliputi antara lain penyebaran konten vulgar serta pelecehan berlebihan terhadap pengguna lain.
+Pelanggaran tertentu memiliki durasi hukuman silence minimal yang lebih panjang (pada umumnya 43 jam atau lebih), yang pada umumnya hanya berlaku bagi pelanggaran yang sangat berat seperti penyebaran konten vulgar serta pelecehan berlebihan terhadap pengguna lain.
 
 Apabila setelah beberapa kali melanggar kamu tetap bersikeras menyalahi peraturan, akunmu dapat langsung [di-restrict secara permanen tanpa dapat diganggu gugat](/wiki/Help_centre/Account_restrictions).
 
