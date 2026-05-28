@@ -64,7 +64,7 @@ Apabila setelah beberapa kali melanggar kamu tetap bersikeras menyalahi peratura
 
 Akun yang dibatasi tidak akan bisa bermain secara online, mencetak skor, atau mengobrol dengan pengguna lain, dan dengan segala maksud dan tujuan akan "diasingkan" dari komunitas. Hukuman ini hanya bisa diangkat dengan mengajukan banding kepada staf layanan dukungan secepat-cepatnya 3 bulan setelah hukuman ini dijatuhkan ([yang bisa berlaku lebih pada situasi tertentu](/wiki/Help_centre/Account_restrictions#reasons)).
 
-Pelanggaran berat yang sudah jauh melampaui ruang lingkup peraturan kami dan masuk ke ranah konten ilegal sesuai dengan hukum internasional umum yang berlaku akan berakibat pada penghapusan akun dengan segera. Hukuman ini hampir selalu hanya dijatuhkan bagi pelanggaran yang sangat grafis atau keji, seperti penyebaran pornografi anak di bawah umur atau konten penyalahgunaan lainnya.
+Pelanggaran berat yang sudah jauh melampaui ruang lingkup peraturan kami dan masuk ke ranah konten ilegal sesuai dengan hukum internasional umum yang berlaku akan berakibat pada penghapusan akun dengan segera. Hukuman ini hampir selalu hanya dijatuhkan bagi pelanggaran yang sangat gamblang atau keji, seperti penyebaran pornografi anak di bawah umur atau konten penyalahgunaan lainnya.
 
 ## Catatan
 
