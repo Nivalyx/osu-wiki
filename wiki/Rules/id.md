@@ -49,7 +49,7 @@ Peraturan berikut berlaku bagi seluruh beatmap yang diunggah melalui [Beatmap Su
 
 Apabila kamu melanggar peraturan, kamu akan dihadapkan dengan berbagai macam hukuman.
 
-Hukuman-hukuman ini akan bisa meliputi (*namun tidak terbatas pada*):
+Hukuman-hukuman ini bisa meliputi (*namun tidak terbatas pada*):
 
 - Hilangnya hak untuk mengobrol di dalam permainan dalam jangka waktu tertentu (yang dikenal dengan istilah [silence](/wiki/Help_centre/Silences)).
 - Penghapusan konten yang dianggap melanggar dari halaman pengguna, halaman profil, atau beatmap yang kamu unggah.
