@@ -27,7 +27,7 @@ Peraturan-peraturan di bawah ini adalah pedoman dasar kami dalam mewujudkan komu
 ## Peraturan forum
 
 1. **Kirimkanlah topik/konten yang berbobot, menarik, atau menggugah.** Inti penting dalam berforum adalah tentang diskusi yang dihasilkan, jadi pastikan kamu tidak sampai menyia-nyiakan waktu pengguna lain.
-2. **Jaga agar postingan dan balasan kamu aman bagi segala usia.** Gunakanlah pesan pribadi apabila kamu ingin membahas sesuatu yang menjurus ke arah NSFW dengan pengguna lain.
+2. **Jagalah agar postingan dan balasan kamu aman bagi segala usia.** Konten NSFW tidak sesuai untuk komunitas segala usia. Gunakanlah pesan pribadi apabila kamu ingin membahas hal yang demikian dengan pengguna lain.
 3. **Dalam mengkritisi sesuatu, berikanlah kritik yang membangun tanpa menyinggung hal yang bersifat pribadi.** Kritik adalah hal yang baik ketika disampaikan secara pantas. Meskipun demikian, apabila kamu sampai menyinggung hal pribadi untuk mendukung argumenmu, maka kamu sudah salah dalam berkritik.
 4. **Pastikan topik yang kamu buat sesuai dengan tajuk forum, dan usahakan untuk tidak mengirim balasan baru pada topik yang telah terbengkalai.** Apabila suatu topik telah tidak tersentuh selama bertahun-tahun, maka topik tersebut sudah tidak relevan dan sebaiknya tidak diungkit kembali. Buatlah topik baru atau telusuri apakah pertanyaanmu telah terjawab oleh pengguna lain.
 5. **Pergunakanlah tanda tangan *(signature)* dan avatar yang tidak berlebihan.** Apabila kamu menggunakan gambar yang beranimasi, pastikan agar animasi yang ada tidak memicu epilepsi. Gunakanlah berkas gambar yang tidak berukuran terlalu besar (di bawah 500 KB apabila memungkinkan) agar kamu tidak sampai membebani pengguna lain.
