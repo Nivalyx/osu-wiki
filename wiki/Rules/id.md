@@ -36,7 +36,7 @@ Peraturan-peraturan di bawah ini adalah pedoman dasar kami dalam mewujudkan komu
 
 ## Peraturan pengunggahan beatmap
 
-*Catatan: Peraturan berikut berlaku untuk **seluruh beatmap yang diunggah** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk peraturan yang lebih spesifik mengenai beatmap Ranked, kunjungi [Kriteria ranking](/wiki/Ranking_criteria).*
+*Catatan: Peraturan-peraturan di bawah ini berlaku untuk **seluruh beatmap yang diunggah** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk peraturan yang lebih spesifik mengenai beatmap Ranked, kunjungi [Kriteria ranking](/wiki/Ranking_criteria).*
 
 Peraturan berikut berlaku bagi seluruh beatmap yang diunggah melalui [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Pada saat suatu beatmap diunggah di [editor](/wiki/Client/Beatmap_editor), osu! akan secara otomatis membuat halaman diskusi baru untuk beatmap ini.
 
