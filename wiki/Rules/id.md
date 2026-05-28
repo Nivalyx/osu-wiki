@@ -62,7 +62,7 @@ Pelanggaran tertentu memiliki durasi hukuman silence minimal yang lebih panjang 
 
 Apabila setelah beberapa kali melanggar kamu tetap bersikeras menyalahi peraturan, atau apabila kamu (seperti dengan berbuat curang), akunmu akan dapat langsung [dibatasi secara permanen tanpa bisa diganggu gugat](/wiki/Help_centre/Account_restrictions).
 
-Akun yang di-restrict tidak akan dapat bermain secara online, mencetak skor, mengobrol dengan pengguna lain, dan dalam segala maksud dan tujuan "diasingkan" dari komunitas. Hukuman ini hanya dapat diangkat dengan mengajukan banding kepada staf layanan dukungan secepat-cepatnya 3 bulan setelah hukuman ini dijatuhkan ([yang dapat berlaku lebih pada situasi tertentu](/wiki/Help_centre/Account_restrictions#reasons)).
+Akun yang dibatasi tidak akan dapat bermain secara online, mencetak skor, mengobrol dengan pengguna lain, dan dalam segala maksud dan tujuan "diasingkan" dari komunitas. Hukuman ini hanya dapat diangkat dengan mengajukan banding kepada staf layanan dukungan secepat-cepatnya 3 bulan setelah hukuman ini dijatuhkan ([yang dapat berlaku lebih pada situasi tertentu](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Pelanggaran berat yang telah jauh melampaui batas peraturan kami dan telah masuk ke ranah konten ilegal sesuai dengan hukum internasional yang berlaku akan berakibat pada penghapusan akun dengan segera. Hukuman ini pada umumnya hanya berlaku bagi pelanggaran yang sangat grafis atau tidak dapat ditoleransi lagi, seperti penyebaran pornografi anak di bawah umur atau konten penyalahgunaan lainnya.
 
