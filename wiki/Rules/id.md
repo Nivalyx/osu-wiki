@@ -26,7 +26,7 @@ Peraturan-peraturan di bawah ini adalah pedoman dasar kami dalam mewujudkan komu
 
 ## Peraturan forum
 
-1. **Pastikan postingan yang kamu kirim mengandung konten/bahan diskusi yang menarik atau berbobot.** Inti penting dalam berforum terletak pada diskusi itu sendiri, jadi pastikan kamu tidak menyia-nyiakan waktu orang lain.
+1. **Pastikan postingan yang kamu kirim mengandung konten/bahan diskusi yang menarik atau berbobot.** Inti penting dalam berforum terletak pada diskusi itu sendiri, jadi pastikan kamu tidak menyia-nyiakan waktu pengguna lain dengan mengangkat topik yang tidak berguna.
 2. **Jaga agar postingan dan balasan kamu aman bagi segala usia.** Gunakanlah pesan pribadi apabila kamu ingin membahas sesuatu yang menjurus ke arah NSFW dengan pengguna lain.
 3. **Dalam mengkritisi sesuatu, berikanlah kritik yang membangun tanpa menyinggung hal yang bersifat pribadi.** Kritik yang baik bisa digunakan sebagai bahan evaluasi yang bermanfaat. Meskipun demikian, apabila kamu sampai menyinggung hal yang bersifat pribadi untuk mendukung argumenmu, maka kamu telah menyalahi norma dan etika dalam berdialog.
 4. **Pastikan topik yang kamu buat sesuai dengan tajuk forum, dan usahakan untuk tidak mengirim balasan baru pada topik yang telah terbengkalai.** Apabila suatu topik telah tidak tersentuh selama bertahun-tahun, maka topik tersebut sudah tidak relevan dan sebaiknya tidak diungkit kembali. Buatlah topik baru atau telusuri apakah pertanyaanmu telah terjawab oleh pengguna lain.
@@ -38,7 +38,7 @@ Peraturan-peraturan di bawah ini adalah pedoman dasar kami dalam mewujudkan komu
 
 *Catatan: Peraturan-peraturan di bawah ini berlaku untuk **semua beatmap yang diunggah** tanpa terbatas hanya pada beatmap yang berstatus Ranked. Untuk peraturan yang lebih spesifik mengenai beatmap Ranked, kunjungi [Kriteria ranking](/wiki/Ranking_criteria).*
 
-Peraturan berikut berlaku bagi seluruh beatmap yang diunggah melalui [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Pada saat suatu beatmap diunggah di [editor](/wiki/Client/Beatmap_editor), osu! akan secara otomatis membuat halaman diskusi baru untuk beatmap ini.
+Peraturan berikut berlaku bagi seluruh beatmap yang diunggah melalui [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Pada saat suatu beatmap diunggah melalui [editor](/wiki/Client/Beatmap_editor), osu! akan secara otomatis membuat topik/halaman diskusi baru untuk beatmap ini.
 
 1. **Pastikan kamu memiliki izin untuk menggunakan seluruh konten pada beatmap yang kamu unggah.** Hal ini meliputi lagu, video, *hitsound*, elemen grafis, dan konten lainnya yang bukan hasil karyamu sendiri. Apabila kamu tidak yakin ke mana kamu harus mencari konten yang berizin, kunjungi katalog [Featured Artist](https://osu.ppy.sh/beatmaps/artists) kami untuk menemukan berbagai lagu yang telah 100% terlisensi di osu! serta halaman [Pedoman Penggunaan Konten](/wiki/Rules/Content_usage_guidelines) untuk informasi lebih lanjut.
 2. **Jangan membahas hal yang tidak sesuai topik pada [halaman diskusi beatmap](/wiki/Beatmap_discussion).** Halaman/utas ini dikhususkan untuk (dan hanya untuk) diskusi seputar beatmap itu sendiri. Apabila kamu ingin membahas masalah yang tidak berhubungan dengan beatmap, buatlah topik bahasan baru pada forum yang lebih sesuai.
