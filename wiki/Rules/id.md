@@ -32,7 +32,7 @@ Peraturan-peraturan di bawah ini adalah pedoman dasar kami dalam mewujudkan komu
 4. **Jagalah utas yang ada agar tetap relevan, dan usahakan untuk tidak mengirim balasan baru pada topik yang sudah terbengkalai.** Apabila suatu topik sudah tidak tersentuh selama bertahun-tahun, maka topik ini sudah tidak relevan dan sebaiknya tidak diungkit kembali. Buatlah topik baru atau telusuri apakah pertanyaanmu sudah dijawab oleh pengguna lain.
 5. **Pergunakanlah tanda tangan *(signature)* dan avatar yang tidak berlebihan.** Apabila kamu menggunakan gambar yang beranimasi, pastikan agar gambar ini tidak berkilat secara berlebihan. Gunakanlah berkas gambar yang tidak berukuran terlalu besar (di bawah 500 KB apabila memungkinkan) agar kamu tidak sampai membebani pengguna lain dengan koneksi internet yang lebih lambat.
 6. **Jangan mengirimkan iklan, tautan rujukan, atau konten lainnya yang bersifat mengganggu.** Postingan yang tidak diinginkan hanya akan mengganggu pengguna lain. Peraturan ini juga meliputi konten yang bisa termuat atau terputar dengan sendirinya.
-7. **Jangan mengirimkan tautan yang tertuju pada aplikasi atau program yang mencurigakan.** Sederhananya, apabila kamu ragu akan legalitas suatu aplikasi, maka aplikasi ini tidak layak untuk ditautkan.
+7. **Jangan mengirimkan tautan yang tertuju kepada aplikasi atau program yang mencurigakan.** Sederhananya, apabila kamu ragu akan legalitas suatu aplikasi, maka aplikasi ini tidak layak untuk ditautkan.
 
 ## Peraturan pengunggahan beatmap
 
