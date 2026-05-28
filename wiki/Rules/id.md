@@ -60,11 +60,11 @@ Durasi [silence](/wiki/Help_centre/Silences) dan hukuman lainnya yang kamu terim
 
 Pelanggaran tertentu memiliki durasi hukuman silence minimal yang lebih panjang (pada umumnya 43 jam atau lebih), yang pada umumnya hanya dijatuhkan bagi pelanggaran yang sangat berat seperti penyebaran konten vulgar serta pelecehan berlebihan terhadap pengguna lain.
 
-Apabila setelah beberapa kali melanggar kamu tetap bersikeras menyalahi peraturan, atau apabila kamu melakukan pelanggaran yang sangat serius (seperti berbuat curang), akunmu akan dapat langsung [dibatasi secara permanen tanpa bisa diganggu gugat](/wiki/Help_centre/Account_restrictions).
+Apabila setelah beberapa kali melanggar kamu tetap bersikeras menyalahi peraturan, atau apabila kamu melakukan pelanggaran yang sangat serius (seperti berbuat curang), akunmu akan bisa langsung [dibatasi secara permanen tanpa dapat diganggu gugat](/wiki/Help_centre/Account_restrictions).
 
-Akun yang dibatasi tidak akan dapat bermain secara online, mencetak skor, mengobrol dengan pengguna lain, dan dalam segala maksud dan tujuan "diasingkan" dari komunitas. Hukuman ini hanya dapat diangkat dengan mengajukan banding kepada staf layanan dukungan secepat-cepatnya 3 bulan setelah hukuman ini dijatuhkan ([yang dapat berlaku lebih pada situasi tertentu](/wiki/Help_centre/Account_restrictions#reasons)).
+Akun yang dibatasi tidak akan bisa bermain secara online, mencetak skor, atau mengobrol dengan pengguna lain, dan dengan segala maksud dan tujuan akan "diasingkan" dari komunitas. Hukuman ini hanya bisa diangkat dengan mengajukan banding kepada staf layanan dukungan secepat-cepatnya 3 bulan setelah hukuman ini dijatuhkan ([yang bisa berlaku lebih pada situasi tertentu](/wiki/Help_centre/Account_restrictions#reasons)).
 
-Pelanggaran berat yang telah jauh melampaui batas peraturan kami dan telah masuk ke ranah konten ilegal sesuai dengan hukum internasional yang berlaku akan berakibat pada penghapusan akun dengan segera. Hukuman ini pada umumnya hanya berlaku bagi pelanggaran yang sangat grafis atau tidak dapat ditoleransi lagi, seperti penyebaran pornografi anak di bawah umur atau konten penyalahgunaan lainnya.
+Pelanggaran berat yang sudah jauh melampaui batas peraturan kami dan telah masuk ke ranah konten ilegal sesuai dengan hukum internasional yang berlaku akan berakibat pada penghapusan akun dengan segera. Hukuman ini pada umumnya hanya berlaku bagi pelanggaran yang sangat grafis atau tidak dapat ditoleransi lagi, seperti penyebaran pornografi anak di bawah umur atau konten penyalahgunaan lainnya.
 
 ## Catatan
 
