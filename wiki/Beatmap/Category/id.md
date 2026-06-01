@@ -8,7 +8,7 @@
 
 Graveyard adalah tempat peristirahatan bagi beatmap yang sudah diabaikan oleh [pembuatnya](/wiki/Beatmap/Beatmap_host). Beatmap Graveyard tidak memiliki papan peringkat, namun tetap bisa diunduh, dimainkan, dan memengaruhi [statistik permainan](#statistik-beatmap-non-ranked). Beatmap dalam kategori ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) pada [layar pemilihan lagu](/wiki/Client/Interface#song-select).
 
-Suatu beatmap akan berpindah dari [Work in Progress dan Pending](#wip-and-pending) ke Graveyard secara otomatis setelah tidak diperbarui selama 4 minggu. Beatmap ini dapat "dipulihkan" (dipindahkan ke [Pending](#wip-and-pending)) kembali oleh pembuatnya apabila diperbarui melalui [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Beatmap yang menghuni Graveyard tidak akan dihitung terhadap [batas jumlah unggahan pengguna](/wiki/osu!supporter#increased-limits), namun untuk memulihkan beatmap ini, pemilik beatmap yang bersangkutan harus memiliki ruang Pending yang kosong.
+Suatu beatmap akan berpindah dari [Work in Progress dan Pending](#wip-and-pending) ke Graveyard secara otomatis setelah tidak diperbarui selama 4 minggu. Pemilik beatmap ini bisa "memulihkan" beatmap ini (atau memindahkannya kembali ke [Pending](#wip-and-pending)) dengan cara memperbarui beatmap melalui [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Beatmap yang ada di Graveyard tidak akan dihitung terhadap [batas jumlah unggahan pengguna](/wiki/osu!supporter#increased-limits), namun untuk memulihkan beatmap ini, pemilik beatmap yang bersangkutan harus memiliki ruang Pending yang kosong.
 
 ### Work in Progress dan Pending {id=wip-and-pending}
 
