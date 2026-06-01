@@ -20,7 +20,7 @@ Beatmap Work in Progress dan Pending yang sudah tidak aktif selama 4 minggu akan
 
 Qualified adalah tahapan terakhir dalam [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure). Beatmap dalam kategori ini sudah dinominasikan oleh para anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators) yang memastikan bahwa beatmap ini sudah memenuhi standar [kriteria ranking](/wiki/Ranking_criteria). Beatmap yang memasuki kategori Qualified akan ditempatkan pada [antrean ranking](/wiki/Beatmap_ranking_procedure/Ranking_queue), dan akan berubah status menjadi [Ranked](#ranked) seiring waktu apabila beatmap ini tidak [didiskualifikasi](/wiki/Beatmap_ranking_procedure#penganuliran-nominasi) dari antrean. Oleh karenanya, masa antrean ini berfungsi sebagai ujung tombak terakhir yang menjaga agar segala kesalahan yang masih lolos pada beatmap bisa diperbaiki sebelum terlambat.
 
-Beatmap Qualified memiliki papan peringkat, namun tidak akan memberikan [performance point](/wiki/Performance_points) dan semua skor akan dihapus pada saat beatmap ini keluar dari Qualified. Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/status/qualified.png)) pada layar pemilihan lagu.
+Beatmap Qualified memiliki papan peringkat, namun tidak memberikan [performance point](/wiki/Performance_points) dan semua skor yang ada akan dihapus pada saat beatmap ini keluar dari Qualified. Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/status/qualified.png)) pada layar pemilihan lagu.
 
 ### Ranked {id=ranked}
 
