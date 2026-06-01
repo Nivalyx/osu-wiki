@@ -1,12 +1,6 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: d4570db54d702a658533de09df41a391035da453
----
-
 # Kategori beatmap
 
-[Beatmap](/wiki/Beatmap) yang diunggah secara *online* terbagi menjadi beberapa kategori berdasarkan aktivitas terkininya, status [nominasinya](/wiki/Beatmap_ranking_procedure#nominasi), dan popularitasnya.
+[Beatmap](/wiki/Beatmap) yang diunggah secara online terbagi ke dalam beberapa kategori berdasarkan aktivitas terkininya, status [nominasinya](/wiki/Beatmap_ranking_procedure#nominasi), dan popularitasnya.
 
 ## Kategori yang ada saat ini
 
