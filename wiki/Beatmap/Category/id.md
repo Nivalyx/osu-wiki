@@ -8,13 +8,13 @@
 
 Graveyard adalah tempat peristirahatan bagi beatmap yang sudah diabaikan oleh [pembuatnya](/wiki/Beatmap/Beatmap_host). Beatmap Graveyard tidak memiliki papan peringkat, namun akan tetap bisa diunduh, dimainkan, dan berkontribusi ke [statistik permainan](#statistik-beatmap-non-ranked) yang ada. Beatmap dalam kategori ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) pada [layar pemilihan lagu](/wiki/Client/Interface#song-select).
 
-Suatu beatmap akan secara otomatis berpindah dari [Work in Progress dan Pending](#wip-and-pending) ke Graveyard setelah tidak diperbarui selama 4 minggu. Pemilik beatmap ini bisa "memulihkan" beatmap ini (memindahkannya kembali ke [Pending](#wip-and-pending)) dengan cara memperbarui beatmap melalui [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Beatmap yang ada di Graveyard tidak akan dihitung terhadap [batas jumlah unggahan pengguna](/wiki/osu!supporter#increased-limits), namun agar beatmap ini bisa dipulihkan, pemilik beatmap ini harus memiliki ruang Pending yang kosong.
+Suatu beatmap akan secara otomatis dipindahkan dari [Work in Progress dan Pending](#wip-and-pending) ke Graveyard setelah tidak diperbarui selama 4 minggu. Pemilik beatmap ini bisa "memulihkan" beatmap ini (memindahkannya kembali ke [Pending](#wip-and-pending)) dengan cara memperbarui beatmap melalui [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Beatmap yang ada di Graveyard tidak akan dihitung terhadap [batas jumlah unggahan pengguna](/wiki/osu!supporter#increased-limits), namun agar beatmap ini bisa dipulihkan, pemilik beatmap ini harus memiliki ruang Pending yang kosong.
 
 ### Work in Progress dan Pending {id=wip-and-pending}
 
 Work in Progress (*WIP*) dan Pending adalah dua kategori yang diberikan kepada beatmap pada saat pertama kali diunggah. Beatmap dalam kedua kategori ini bisa berpindah ke kategori [Qualified](#qualified) apabila beatmap ini [dinominasikan](/wiki/Beatmap_ranking_procedure#nominasi) oleh setidaknya dua orang anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators). Proses ini pada umumnya meliputi pengkajian secara mendalam oleh para [modder](/wiki/Modding/Modder) melalui tahapan [*modding*](/wiki/Modding). Beatmap Work in Progress dan Pending tidak memiliki papan peringkat, namun akan tetap berkontribusi ke [statistik permainan](#statistik-beatmap-non-ranked) yang ada. Beatmap dalam kedua kategori ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) pada layar pemilihan lagu.
 
-Beatmap Work in Progress dan Pending yang sudah tidak aktif selama 4 minggu akan secara otomatis berpindah ke kategori [Graveyard](#graveyard).
+Beatmap Work in Progress dan Pending yang sudah tidak aktif selama 4 minggu akan secara otomatis dipindahkan ke kategori [Graveyard](#graveyard).
 
 ### Qualified {id=qualified}
 
