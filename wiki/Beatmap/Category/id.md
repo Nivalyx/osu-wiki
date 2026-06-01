@@ -42,7 +42,7 @@ Approved merupakan kategori yang digunakan antara tahun 2008 dan 2014 untuk mewa
 
 Beatmap Approved pada awalnya tidak berpengaruh terhadap total skor pemain hingga osu! berpindah dari sistem *score ranking* ke sistem [*performance point*](/wiki/Performance_points). Setelah perubahan ini diberlakukan, kategori Approved kemudian dikhususkan untuk mengkategorikan beatmap yang memiliki [*drain time*](/wiki/Beatmap/Drain_time) di atas 6 menit.
 
-Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/status/approved.png)) pada layar pemilihan lagu dan memiliki fungsi yang sama dengan beatmap Ranked.
+Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/status/approved.png)) pada layar pemilihan lagu dan berfungsi selayaknya beatmap Ranked pada umumnya.
 
 ### Kemunculan kategori Qualified
 
