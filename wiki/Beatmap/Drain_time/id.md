@@ -2,14 +2,15 @@
 stub: true
 tags:
   - drain length
-outdated_translation: true
-outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
+  - waktu bersih
 ---
 
-# Drain time
+# Waktu permainan bersih
 
-**Drain time** mengacu pada total durasi sebuah [beatmap](/wiki/Beatmap) yang mengharuskan pemain untuk aktif. Ini dimulai dari awal [hit object](/wiki/Gameplay/Hit_object), berhenti sampai hit object yang terakhir, dan tidak ada [putus](/wiki/Beatmap/Break). Kata *drain* berasal dari [osu!](/wiki/Game_mode/osu!) dan sistem [health drain](/wiki/Gameplay/Health) mode [osu!catch](/wiki/Game_mode/osu!catch), dimana health pemain terus menurun ketika mereka bermain sebuah map.
+**Waktu permainan bersih** (*drain time*) adalah istilah yang mengacu pada
 
-Beatmap dengan durasi drain time yang sangat panjang adalah tipe *[marathons](/wiki/Beatmap/Marathon)* yang di mana harus memiliki kesabaran untuk menyelesaikannya.
+refers to the total duration of a [beatmap](/wiki/Beatmap) that requires the player to be active. It begins at the first [hit object](/wiki/Gameplay/Hit_object), ends at the end of the last hit object, and does not include [breaks](/wiki/Beatmap/Break). The word *drain* originates from [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch)'s [health drain](/wiki/Gameplay/Health) system, where the player's health is constantly decreasing as they play the map.
 
-Laman info Beatmap pada situs web yang berfungsi menghitung drain time (berlabel `Drain length`) berdasarkan waktu mulai hit objects saja, jadi jika object terakhir pada map adalah [slider](/wiki/Gameplay/Hit_object/Slider) atau [spinner](/wiki/Gameplay/Hit_object/Spinner), drain time tidak akan ditampilkan dengan benar.
+Beatmaps with very long drain times are typically referred to as *[marathons](/wiki/Beatmap/Marathon)* due to requiring endurance beyond the norm in order to be completed.
+
+The [beatmap info page](/wiki/Beatmap_information) on the website calculates drain time (labelled `Drain length`) based on only hit objects' start times, so if the last object of the map is a [slider](/wiki/Gameplay/Hit_object/Slider) or [spinner](/wiki/Gameplay/Hit_object/Spinner), the drain time will be displayed incorrectly.
