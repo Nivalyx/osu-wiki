@@ -11,4 +11,4 @@ tags:
 
 Beatmap dengan waktu permainan bersih yang sangat panjang pada umumnya disebut sebagai beatmap *[maraton](/wiki/Beatmap/Marathon)*, karena beatmap-beatmap ini memerlukan daya tahan yang lebih untuk bisa diselesaikan.
 
-[Halaman informasi beatmap](/wiki/Beatmap_information) yang ada di situs web osu! menghitung waktu permainan bersih (atau `Durasi bersih`) hanya berdasarkan waktu awal objek permainan. Oleh karenanya, apabila objek terakhir pada suatu beatmap adalah [slider](/wiki/Gameplay/Hit_object/Slider) atau [spinner](/wiki/Gameplay/Hit_object/Spinner), waktu permainan bersih ini tidak akan ditampilkan secara akurat.
+[Halaman informasi beatmap](/wiki/Beatmap_information) yang ada di situs web osu! menghitung waktu permainan bersih (atau `Durasi bersih`) hanya berdasarkan waktu awal objek permainan. Oleh karenanya, apabila objek terakhir pada suatu beatmap adalah [slider](/wiki/Gameplay/Hit_object/Slider) atau [spinner](/wiki/Gameplay/Hit_object/Spinner), waktu bersih ini tidak akan ditampilkan secara akurat.
