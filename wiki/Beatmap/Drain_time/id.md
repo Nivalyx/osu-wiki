@@ -15,6 +15,6 @@ Beatmap dengan waktu permainan bersih yang sangat lama pada umumnya disebut seba
 
 Beatmaps with very long drain times are typically referred to as *[marathons](/wiki/Beatmap/Marathon)* due to requiring endurance beyond the norm in order to be completed.
 
-[Halaman informasi beatmap](/wiki/Beatmap_information) pada situs web osu! menghitung waktu permainan bersih (atau `Durasi bersih`) hanya berdasarkan
+[Halaman informasi beatmap](/wiki/Beatmap_information) yang ada di situs web osu! menghitung waktu permainan bersih (atau `Durasi bersih`) hanya berdasarkan waktu awal objek permainan. Oleh
 
 The [beatmap info page](/wiki/Beatmap_information) on the website calculates drain time (labelled `Drain length`) based on only hit objects' start times, so if the last object of the map is a [slider](/wiki/Gameplay/Hit_object/Slider) or [spinner](/wiki/Gameplay/Hit_object/Spinner), the drain time will be displayed incorrectly.
