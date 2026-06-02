@@ -11,7 +11,7 @@ tags:
 
 refers to the total duration of a [beatmap](/wiki/Beatmap) that requires the player to be active. It begins at the first [hit object](/wiki/Gameplay/Hit_object), ends at the end of the last hit object, and does not include [breaks](/wiki/Beatmap/Break). The word *drain* originates from [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch)'s [health drain](/wiki/Gameplay/Health) system, where the player's health is constantly decreasing as they play the map.
 
-Beatmap dengan waktu permainan bersih yang sangat lama pada umumnya disebut sebagai beatmap *[maraton](/wiki/Beatmap/Marathon)*, karena untuk bisa diselesaikan.
+Beatmap dengan waktu permainan bersih yang sangat lama pada umumnya disebut sebagai beatmap *[maraton](/wiki/Beatmap/Marathon)*, karena beatmap ini memerlukan daya tahan yang lebih untuk bisa diselesaikan.
 
 Beatmaps with very long drain times are typically referred to as *[marathons](/wiki/Beatmap/Marathon)* due to requiring endurance beyond the norm in order to be completed.
 
