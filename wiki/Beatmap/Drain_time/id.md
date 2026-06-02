@@ -7,7 +7,7 @@ tags:
 
 # Waktu permainan bersih
 
-**Waktu permainan bersih** (*drain time*) adalah istilah yang mengacu pada total durasi [beatmap](/wiki/Beatmap) yang mengharuskan pemain untuk aktif bermain.
+**Waktu permainan bersih** (*drain time*) adalah istilah yang mengacu pada total durasi [beatmap](/wiki/Beatmap) yang mengharuskan pemain untuk aktif bermain. Waktu ini dihitung dimulai dari [objek permainan](/wiki/Gameplay/Hit_object) pertama, berakhir pada ujung objek permainan terakhir, dan tidak me
 
 refers to the total duration of a [beatmap](/wiki/Beatmap) that requires the player to be active. It begins at the first [hit object](/wiki/Gameplay/Hit_object), ends at the end of the last hit object, and does not include [breaks](/wiki/Beatmap/Break). The word *drain* originates from [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch)'s [health drain](/wiki/Gameplay/Health) system, where the player's health is constantly decreasing as they play the map.
 
