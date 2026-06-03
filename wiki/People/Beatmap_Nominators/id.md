@@ -8,15 +8,13 @@ tags:
 
 **Beatmap Nominator** (***BN***) adalah kelompok yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Kelompok ini dikenali dari gelar pengguna mereka yang berwarna ungu dan lencana [kelompok pengguna](/wiki/People/User_groups) mereka yang bertuliskan `BN`.
 
- is a group in charge of [beatmap nomination](/wiki/Beatmap_ranking_procedure). They are distinguished by their purple user title and [user group](/wiki/People/User_groups) badge that reads `BN`.
-
 ## Artikel terkait
 
 - [Peraturan Beatmap Nominator](Rules)
 - [Ekspektasi bagi Beatmap Nominator](Expectations)
 - [Informasi umum untuk Beatmap Nominator](General_Information)
 - [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)
-- [Beatmap Nominator events](/wiki/Community/Beatmap_Nominator_events)
+- [Kegiatan Beatmap Nominator](/wiki/Community/Beatmap_Nominator_events)
 
 ## Peran dan tanggung jawab
 
@@ -24,7 +22,7 @@ Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/
 
 In addition, all Beatmap Nominators are expected to adhere to a loose set of ideals focused around service to the greater community by directing their attention to a wide variety of maps and mappers, and striving to constantly improve their craft, as outlined in [the Expectations for Beatmap Nominators article](Expectations).
 
-Members of the Beatmap Nominators are divided into two groups: full members and probationary members.
+Anggota Beatmap Nominator terbagi ke dalam dua grup: anggota penuh (*full member*) dan anggota percobaan (*probationary member*).
 
 ### Full Beatmap Nominators
 
