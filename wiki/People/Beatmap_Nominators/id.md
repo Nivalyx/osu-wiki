@@ -24,7 +24,7 @@ Para anggota Beatmap Nominator pada utamanya bertanggung jawab untuk memberikan 
 
 In addition, all Beatmap Nominators are expected to adhere to a loose set of ideals focused around service to the greater community by directing their attention to a wide variety of maps and mappers, and striving to constantly improve their craft, as outlined in [the Expectations for Beatmap Nominators article](Expectations).
 
-Di samping itu, semua anggota Beatmap Nominator juga diharapkan untuk tunduk kepada
+Di samping itu, semua anggota Beatmap Nominator juga diharapkan untuk tunduk kepada nilai-nilai keteladanan yang tidak mengikat 
 
 Anggota Beatmap Nominator terbagi ke dalam dua grup: anggota penuh (*full member*) dan anggota percobaan (*probationary member*).
 
