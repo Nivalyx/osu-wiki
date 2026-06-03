@@ -26,6 +26,8 @@ Anggota Beatmap Nominator terbagi ke dalam dua grup: anggota penuh (*full member
 
 ### Beatmap Nominator penuh
 
+Beatmap Nominator penuh adalah para anggota Beatmap Nominator yang, di samping dari tu, juga bertanggung jawab untuk mendiskualifikasikan beatmap Qualified yang ditemukan bermasalah.
+
 In addition to regular beatmap modding and ranking, full members of the Beatmap Nominators are responsible for disqualifying beatmaps in the qualified section that are found to have issues. Full Beatmap Nominators may also participate in occasional Beatmap Nominator application assessment if they are interested in joining the Nomination Assessment Team in the future.
 
 Approximately every three months, full Beatmap Nominators have their behaviour and nomination activity/quality [evaluated](/wiki/People/Nomination_Assessment_Team/Evaluations) by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). If their nominations are frequently reset for notable reasons or their behaviour is unacceptable, they may either be issued a warning or be removed from the group, depending on the severity and frequency.
