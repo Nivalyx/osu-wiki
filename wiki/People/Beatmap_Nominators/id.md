@@ -18,13 +18,11 @@ tags:
 
 ## Peran dan tanggung jawab
 
-Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) [pending beatmaps](/wiki/Beatmap/Category#wip-and-pending) and approving them into the ranking cycle. Beatmap Nominators are the people to go to for advice or requests about anything mapping or modding related. Any beatmap nominator can place a [beatmap veto](Beatmap_Veto) if they feel a nominated map has issues that must be fixed which are not direct violations of the Ranking Criteria.
-
 Para anggota Beatmap Nominator pada utamanya bertanggung jawab untuk memberikan [mod](/wiki/Modding) kepada [beatmap Pending](/wiki/Beatmap/Category#wip-and-pending) dan menyetujui beatmap-beatmap ini untuk memasuki antrean ranking. Mereka adalah tempat bertanya bagi orang-orang yang ingin meminta saran atau permohonan tentang apa pun yang berhubungan dengan mapping atau modding. Anggota Beatmap Nominator mana pun berhak menempatkan [veto beatmap](Beatmap_Veto) apabila mereka merasa kalau beatmap yang sudah dinominasikan memiliki masalah yang harus diperbaiki di luar dari apa yang tertulis pada Kriteria Ranking.
 
 In addition, all Beatmap Nominators are expected to adhere to a loose set of ideals focused around service to the greater community by directing their attention to a wide variety of maps and mappers, and striving to constantly improve their craft, as outlined in [the Expectations for Beatmap Nominators article](Expectations).
 
-Di samping itu, semua anggota Beatmap Nominator juga diharapkan untuk tunduk kepada nilai-nilai keteladanan yang tidak mengikat 
+Di samping itu, semua anggota Beatmap Nominator juga diharapkan untuk tunduk kepada nilai-nilai keteladanan yang tidak mengikat, sebagaimana yang diterangkan pada artikel  [Harapan bagi Beatmap Nominator](Expectations).
 
 Anggota Beatmap Nominator terbagi ke dalam dua grup: anggota penuh (*full member*) dan anggota percobaan (*probationary member*).
 
