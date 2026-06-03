@@ -44,9 +44,9 @@ New members of the Beatmap Nominators will be assigned an NAT buddy who they are
 
 A Beatmap Nominator cannot be demoted to probation. If concerns are raised regarding their performance, they would either be issued a warning or be removed from the group.
 
-## Benefits
+## Keutamaan
 
-Beatmap Nominators are granted the following benefits:
+Para anggota Beatmap Nominator akan memiliki berbagai keutamaan berikut:
 
 - **[osu!supporter](/wiki/osu!supporter)**: An osu!supporter tag that lasts for the duration of their group membership.
 - **Tenure badge**: A [profile badge](/wiki/Community/Profile_badge) that displays the number of years they have been a BN.
