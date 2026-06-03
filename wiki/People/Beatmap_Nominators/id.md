@@ -24,7 +24,7 @@ In addition, all Beatmap Nominators are expected to adhere to a loose set of ide
 
 Anggota Beatmap Nominator terbagi ke dalam dua grup: anggota penuh (*full member*) dan anggota percobaan (*probationary member*).
 
-### Full Beatmap Nominators
+### Beatmap Nominator penuh
 
 In addition to regular beatmap modding and ranking, full members of the Beatmap Nominators are responsible for disqualifying beatmaps in the qualified section that are found to have issues. Full Beatmap Nominators may also participate in occasional Beatmap Nominator application assessment if they are interested in joining the Nomination Assessment Team in the future.
 
@@ -61,7 +61,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 <!-- NOTE: This section is automatically generated using a tool in https://bn.mappersguild.com/users -->
 
-### Beatmap Nominator Penuh
+### Beatmap Nominator penuh
 
 #### osu!
 
@@ -83,7 +83,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 
-### Beatmap Nominator Percobaan
+### Beatmap Nominator percobaan
 
 #### osu!
 
