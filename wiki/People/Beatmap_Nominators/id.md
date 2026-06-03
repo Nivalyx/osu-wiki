@@ -53,11 +53,11 @@ Para anggota Beatmap Nominator akan memiliki berbagai keutamaan berikut:
   ![100 nominations badge](https://assets.ppy.sh/profile-badges/100_noms.png "100 nominations badge") ![200 nominations badge](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 nominations badge") ![400 nominations badge](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 nominations badge") ![600 nominations badge](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 nominations badge") ![800 nominations badge](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 nominations badge") ![1000 nominations badge](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 nominations badge") ![1500 nominations badge](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 nominations badge") ![2000 nominations badge](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 nominations badge")
 - **[Elite Nominator](/wiki/People/Elite_Nominators) eligibility**: Beatmap Nominators who perform exceptionally at their craft are eligible to be awarded the yearly Elite Nominator [user title](/wiki/Community/User_title).
 
-## Team members
+## Anggota Tim
 
 The [Beatmap Nominators](https://osu.ppy.sh/groups/28) and [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) group pages list all of the team members.
 
-The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate. *Catatan: Kecuali diterangkan lebih lanjut, semua anggota Beatmap Nomintar bisa berbicara Bahasa Inggris selain dari bahasa-bahasa tambahan yang tertera di bawah ini.*
+The tables listed below indicate the game mode(s) in which each Beatmap Nominator is formally qualified to nominate. *Catatan: Kecuali diterangkan lebih lanjut, semua anggota Beatmap Nominator bisa berbicara Bahasa Inggris selain dari bahasa-bahasa tambahan yang tertera di bawah ini.*
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
