@@ -11,7 +11,7 @@ tags:
 ## Artikel terkait
 
 - [Peraturan Beatmap Nominator](Rules)
-- [Ekspektasi bagi Beatmap Nominator](Expectations)
+- [Harapan bagi Beatmap Nominator](Expectations)
 - [Informasi umum untuk Beatmap Nominator](General_Information)
 - [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)
 - [Ajang-ajang Beatmap Nominator](/wiki/Community/Beatmap_Nominator_events)
@@ -23,6 +23,8 @@ Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/
 Para anggota Beatmap Nominator pada utamanya bertanggung jawab untuk memberikan [mod](/wiki/Modding) kepada [pending beatmaps](/wiki/Beatmap/Category#wip-and-pending) dan menyetujui beatmap-beatmap ini untuk memasuki siklus ranking. 
 
 In addition, all Beatmap Nominators are expected to adhere to a loose set of ideals focused around service to the greater community by directing their attention to a wide variety of maps and mappers, and striving to constantly improve their craft, as outlined in [the Expectations for Beatmap Nominators article](Expectations).
+
+Di samping itu, semua anggota Beatmap Nomiator
 
 Anggota Beatmap Nominator terbagi ke dalam dua grup: anggota penuh (*full member*) dan anggota percobaan (*probationary member*).
 
