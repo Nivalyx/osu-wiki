@@ -14,7 +14,7 @@ tags:
 - [Ekspektasi bagi Beatmap Nominator](Expectations)
 - [Informasi umum untuk Beatmap Nominator](General_Information)
 - [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)
-- [Kegiatan Beatmap Nominator](/wiki/Community/Beatmap_Nominator_events)
+- [Ajang-ajang Beatmap Nominator](/wiki/Community/Beatmap_Nominator_events)
 
 ## Peran dan tanggung jawab
 
