@@ -65,46 +65,46 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 #### osu!
 
-| Name | Additional languages |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 
 #### osu!taiko
 
-| Name | Additional languages |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 
 #### osu!catch
 
-| Name | Additional languages |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 
 #### osu!mania
 
-| Name | Additional languages |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 
-### Probationary Beatmap Nominators
+### Beatmap Nominator Percobaan
 
 #### osu!
 
-| Name | Additional languages |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 
 #### osu!taiko
 
-No members at this time.
+Tidak ada anggota untuk saat ini.
 
 #### osu!catch
 
-No members at this time.
+Tidak ada anggota untuk saat ini.
 
 #### osu!mania
 
-| Name | Bahasa tambahan |
+| Nama | Bahasa tambahan |
 | :-- | :-- |
 
 ## History
 
-- The Beatmap Nominators were previously called the [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (BAT).
+- Beatmap Nominator sebelumnya dikenal dengan nama [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (BAT).
 - On the 22nd of August, 2014, the BAT were no longer considered a part of the staff team. This revoked their chat moderation ability in-game and their red name in-game and on the forums.
 - On the 1st of February, 2015, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nomination Group*, later adjusted to the Beatmap Nominators that we know today.
