@@ -20,7 +20,7 @@ tags:
 
 Para anggota Beatmap Nominator pada utamanya bertanggung jawab untuk memberikan [mod](/wiki/Modding) kepada [beatmap Pending](/wiki/Beatmap/Category#wip-and-pending) dan menyetujui beatmap-beatmap ini untuk memasuki antrean ranking. Mereka adalah tempat bertanya bagi orang-orang yang ingin meminta saran atau permohonan tentang apa pun yang berhubungan dengan mapping atau modding. Anggota Beatmap Nominator mana pun berhak menempatkan [veto beatmap](Beatmap_Veto) apabila mereka merasa kalau beatmap yang sudah dinominasikan memiliki masalah yang harus diperbaiki di luar dari apa yang tertulis pada Kriteria Ranking.
 
-Di samping itu, semua anggota Beatmap Nominator juga diharapkan untuk bisa menjadi teladan kepada seisi komunitas secara luas dengan cara tidak hanya melayani beatmap dan mapper yang itu-itu saja, serta untuk terus mengasah keahlian mereka, sebagaimana yang diterangkan pada artikel [Harapan bagi Beatmap Nominator](Expectations).
+Di samping itu, semua anggota Beatmap Nominator juga diharapkan untuk bisa menjadi teladan kepada seisi komunitas secara luas dengan cara tidak hanya mengurusi beatmap dan mapper yang itu-itu saja, serta untuk terus mengasah keahlian mereka, sebagaimana yang diterangkan pada artikel [Harapan bagi Beatmap Nominator](Expectations).
 
 Anggota Beatmap Nominator terbagi ke dalam dua grup: anggota penuh (*full member*) dan anggota percobaan (*probationary member*).
 
@@ -30,7 +30,7 @@ In addition to regular beatmap modding and ranking, full members of the Beatmap 
 
 Approximately every three months, full Beatmap Nominators have their behaviour and nomination activity/quality [evaluated](/wiki/People/Nomination_Assessment_Team/Evaluations) by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). If their nominations are frequently reset for notable reasons or their behaviour is unacceptable, they may either be issued a warning or be removed from the group, depending on the severity and frequency.
 
-### Probationary Beatmap Nominators
+### Beatmap Nominator percobaan
 
 Probation is used to monitor new Beatmap Nominators more closely. The main role for probationary Beatmap Nominators is to establish a foundation as a Beatmap Nominator through exclusively promoting beatmaps in the ranking process. At least one full nominator must be involved in the ranking process for each game mode of a beatmap, so probationary members cannot give the final nomination to a beatmap which has only received nominations from other probationary members for their game mode.
 
