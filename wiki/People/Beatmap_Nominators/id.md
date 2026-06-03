@@ -6,17 +6,19 @@ tags:
 
 # Beatmap Nominator
 
-**Beatmap Nominator** (***BN***) is a group in charge of [beatmap nomination](/wiki/Beatmap_ranking_procedure). They are distinguished by their purple user title and [user group](/wiki/People/User_groups) badge that reads `BN`.
+**Beatmap Nominator** (***BN***) adalah kelompok yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Kelompok ini dikenali dari gelar pengguna mereka yang berwarna ungu dan lencana [kelompok pengguna](/wiki/People/User_groups) mereka yang bertuliskan `BN`.
 
-## Related articles
+ is a group in charge of [beatmap nomination](/wiki/Beatmap_ranking_procedure). They are distinguished by their purple user title and [user group](/wiki/People/User_groups) badge that reads `BN`.
 
-- [Beatmap Nominator Rules](Rules)
-- [Expectations for Beatmap Nominators](Expectations)
-- [General Information for Beatmap Nominators](General_Information)
-- [Becoming a Beatmap Nominator](Becoming_a_Beatmap_Nominator)
+## Artikel terkait
+
+- [Peraturan Beatmap Nominator](Rules)
+- [Ekspektasi bagi Beatmap Nominator](Expectations)
+- [Informasi umum untuk Beatmap Nominator](General_Information)
+- [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)
 - [Beatmap Nominator events](/wiki/Community/Beatmap_Nominator_events)
 
-## Roles and responsibilities
+## Peran dan tanggung jawab
 
 Members of the Beatmap Nominators are responsible primarily for [modding](/wiki/Modding) [pending beatmaps](/wiki/Beatmap/Category#wip-and-pending) and approving them into the ranking cycle. Beatmap Nominators are the people to go to for advice or requests about anything mapping or modding related. Any beatmap nominator can place a [beatmap veto](Beatmap_Veto) if they feel a nominated map has issues that must be fixed which are not direct violations of the Ranking Criteria.
 
