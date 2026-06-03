@@ -11,7 +11,7 @@ tags:
 ## Artikel terkait
 
 - [Peraturan Beatmap Nominator](Rules)
-- [Harapan untuk Beatmap Nominator](Expectations)
+- [Tuntutan untuk Beatmap Nominator](Expectations)
 - [Informasi umum untuk Beatmap Nominator](General_Information)
 - [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)
 - [Ajang-ajang Beatmap Nominator](/wiki/Community/Beatmap_Nominator_events)
