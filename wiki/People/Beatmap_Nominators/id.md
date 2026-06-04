@@ -36,7 +36,7 @@ Beatmap Nominator percobaan adalah para anggota Beatmap Nominator yang masih bar
 
 Para anggota Beatmap Nominator percobaan diharuskan untuk memiliki setidaknya **3** nominasi yang berhasil mencapai Ranked. Beatmap-beatmap ini kemudian akan kemudian [dievaluasi](/wiki/People/Nomination_Assessment_Team/Evaluations) setelah satu bulan, yang bisa datang lebih cepat apabila mereka sudah memliki **6** nominasi yang Ranked di awal bulan.
 
-Anggota Beatmap Nominator yang baru bergabung akan ditemani oleh satu orang mitra NAT (*NAT buddy*), yang
+Anggota Beatmap Nominator yang baru bergabung akan ditemani oleh satu orang mitra NAT (*NAT buddy*), yang bisa langsung mereka hubungi apabila mereka punya pertanyaan atau butuh bantuan. Setelah evaluasi pertamanya, 
 
 New members of the Beatmap Nominators will be assigned an NAT buddy who they are encouraged to directly contact for questions or guidance. After their first evaluation, they will be either promoted to the full Beatmap Nominators following a positive evaluation, or removed from the Beatmap Nominators.
 
