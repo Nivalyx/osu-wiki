@@ -36,11 +36,9 @@ Beatmap Nominator percobaan adalah para anggota Beatmap Nominator yang masih bar
 
 Para anggota Beatmap Nominator percobaan diharuskan untuk memiliki setidaknya **3** nominasi yang berhasil mencapai Ranked. Beatmap-beatmap ini kemudian akan kemudian [dievaluasi](/wiki/People/Nomination_Assessment_Team/Evaluations) setelah satu bulan, yang bisa datang lebih cepat apabila mereka sudah memliki **6** nominasi yang Ranked di awal bulan.
 
-Anggota Beatmap Nominator yang baru bergabung akan ditemani oleh satu orang mitra NAT (*NAT buddy*), yang bisa langsung mereka hubungi apabila mereka punya pertanyaan atau butuh bantuan. Setelah evaluasi pertamanya, anggota baru ini akan dipromosikan menjadi Beatmap Nominator penuh (apabila hasil evaluasinya positif) atau dikeluarkan dari Beatmap Nominator.
+Anggota Beatmap Nominator yang baru bergabung akan ditemani oleh satu orang mitra NAT (*NAT buddy*), yang bisa langsung mereka hubungi apabila mereka punya pertanyaan atau butuh bantuan. Setelah evaluasi pertamanya, anggota baru ini akan dipromosikan menjadi Beatmap Nominator penuh (apabila hasil evaluasinya memuaskan) atau dikeluarkan dari Beatmap Nominator.
 
-Beatmap Nominator penuh tidak bisa diturunkan menjadi Beatmap Nominator percobaan. Apabila performa mereka dianggap mengkhawatirkan, mereka akan atau dikeluarkan dari BN.
-
-A Beatmap Nominator cannot be demoted to probation. If concerns are raised regarding their performance, they would either be issued a warning or be removed from the group.
+Beatmap Nominator penuh tidak bisa diturunkan menjadi Beatmap Nominator percobaan. Apabila performa mereka dianggap mengkhawatirkan, mereka akan diperingatkan atau dikeluarkan dari kelompok ini.
 
 ## Keutamaan
 
