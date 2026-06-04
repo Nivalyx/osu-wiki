@@ -32,9 +32,7 @@ Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nomina
 
 ### Beatmap Nominator percobaan
 
-Beatmap Nominator percobaan adalah para anggota Beatmap Nominator yang masih baru dan masih perlu dipantau lebih dekat. Tugas utama mereka adalah untuk memahami dasar-dasar seorang Beatmap Nominator dengan cara hanya menominasikan beatmap dalam proses ranking tanpa ada kewajiban lainnya. Dalam menominasikan beatmap, setidaknya satu orang nominator penuh harus terlibat dalam proses ranking untuk masing-masing mode permainannya, dan oleh karenanya, anggota Beatmap Nominator percobaan tidak bisa memberikan nominasi terakhir kepada beatmap yang 
-
-Probation is used to monitor new Beatmap Nominators more closely. The main role for probationary Beatmap Nominators is to establish a foundation as a Beatmap Nominator through exclusively promoting beatmaps in the ranking process. At least one full nominator must be involved in the ranking process for each game mode of a beatmap, so probationary members cannot give the final nomination to a beatmap which has only received nominations from other probationary members for their game mode.
+Beatmap Nominator percobaan adalah para anggota Beatmap Nominator yang masih baru dan masih perlu dipantau lebih dekat. Tugas utama mereka adalah untuk memahami dasar-dasar seorang Beatmap Nominator dengan cara hanya menominasikan beatmap dalam proses ranking tanpa ada kewajiban lainnya. Karena dalam menominasikan beatmap setidaknya harus ada satu orang nominator penuh yang terlibat untuk masing-masing mode permainannya, anggota Beatmap Nominator percobaan tidak bisa memberikan nominasi terakhir kepada beatmap yang nominasi-nominasi sebelumnya juga diberikan oleh anggota-anggota percobaan lainnya.
 
 Para anggota Beatmap Nominator percobaan diharuskan untuk memiliki setidaknya **3** nominasi yang berhasil mencapai Ranked. Beatmap-beatmap ini kemudian akan [dievaluasi](/wiki/People/Nomination_Assessment_Team/Evaluations) setelah satu bulan
 
