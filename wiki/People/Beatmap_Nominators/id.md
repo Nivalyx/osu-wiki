@@ -26,7 +26,7 @@ Anggota Beatmap Nominator terbagi ke dalam dua grup: anggota penuh (*full member
 
 ### Beatmap Nominator penuh
 
-Beatmap Nominator penuh adalah para anggota Beatmap Nominator yang, di samping dari memberikan mod dan menominasikan beatmap, juga bertanggung jawab untuk mendiskualifikasikan beatmap Qualified yang ditemukan bermasalah. Mereka juga bisa mengikuti penilaian aplikasi Beatmap Nominator yang apabila ke depannya mereka tertarik untuk bergabung ke dalam Nomination Assessment Team.
+Beatmap Nominator penuh adalah para anggota Beatmap Nominator yang, di samping dari memberikan mod dan menominasikan beatmap, juga bertanggung jawab untuk mendiskualifikasikan beatmap Qualified yang ditemukan bermasalah. Mereka juga bisa mengikuti penilaian aplikasi Beatmap Nominator (*Beatmap Nominator application assessment*) yang diadakan dari waktu ke watku apabila ke depannya mereka tertarik untuk bergabung ke dalam Nomination Assessment Team.
 
 In addition to regular beatmap modding and ranking, full members of the Beatmap Nominators are responsible for disqualifying beatmaps in the qualified section that are found to have issues. Full Beatmap Nominators may also participate in occasional Beatmap Nominator application assessment if they are interested in joining the Nomination Assessment Team in the future.
 
