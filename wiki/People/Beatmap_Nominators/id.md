@@ -18,7 +18,7 @@ tags:
 
 ## Peran dan tanggung jawab
 
-Para anggota Beatmap Nominator pada utamanya bertanggung jawab untuk memberikan [mod](/wiki/Modding) kepada [beatmap Pending](/wiki/Beatmap/Category#wip-and-pending) dan menyetujui beatmap-beatmap ini untuk memasuki antrean ranking. Mereka adalah tempat bertanya bagi orang-orang yang ingin meminta saran atau permohonan tentang apa pun yang berhubungan dengan mapping atau modding. Anggota Beatmap Nominator mana pun berhak menempatkan [veto beatmap](Beatmap_Veto) apabila mereka merasa kalau beatmap yang sudah dinominasikan memiliki masalah yang harus diperbaiki di luar dari apa yang tertulis pada [kriteria ranking](Ranking_criteria).
+Para anggota Beatmap Nominator pada utamanya bertanggung jawab untuk memberikan [mod](/wiki/Modding) kepada [beatmap Pending](/wiki/Beatmap/Category#wip-and-pending) dan menyetujui beatmap-beatmap ini untuk memasuki antrean ranking. Mereka adalah tempat bertanya bagi orang-orang yang ingin meminta saran atau permohonan tentang apa pun yang berhubungan dengan mapping atau modding. Anggota Beatmap Nominator mana pun berhak menempatkan [veto beatmap](Beatmap_Veto) apabila mereka merasa kalau beatmap tertentu yang sudah dinominasikan memiliki masalah yang harus diperbaiki di luar dari apa yang tertulis pada [kriteria ranking](Ranking_criteria).
 
 Di samping itu, para anggota Beatmap Nominator juga diharapkan untuk bisa menjadi teladan kepada seisi komunitas secara luas dengan cara tidak hanya mengurusi beatmap dan mapper yang itu-itu saja, serta untuk terus mengasah keahlian mereka, sebagaimana yang diterangkan pada artikel [Harapan bagi Beatmap Nominator](Expectations).
 
@@ -27,8 +27,6 @@ Anggota Beatmap Nominator terbagi ke dalam dua grup: anggota penuh (*full member
 ### Beatmap Nominator penuh
 
 Beatmap Nominator penuh adalah para anggota Beatmap Nominator yang, di samping dari memberikan mod dan menominasikan beatmap, juga bertanggung jawab untuk mendiskualifikasikan beatmap Qualified yang ditemukan bermasalah. Mereka juga bisa mengikuti penilaian aplikasi Beatmap Nominator (*Beatmap Nominator application assessment*) yang diadakan dari waktu ke watku apabila ke depannya mereka tertarik untuk bergabung ke dalam Nomination Assessment Team.
-
-In addition to regular beatmap modding and ranking, full members of the Beatmap Nominators are responsible for disqualifying beatmaps in the qualified section that are found to have issues. Full Beatmap Nominators may also participate in occasional Beatmap Nominator application assessment if they are interested in joining the Nomination Assessment Team in the future.
 
 Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nominasi para anggota Beatmap Nominator penuh ini akan [dievaluasi](/wiki/People/Nomination_Assessment_Team/Evaluations) oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Apabila nominasi-nominasi mereka sering kalinya dianulir karena alasan yang penting, atau apabila perilaku mereka sudah melewati batas, mereka akan bisa diperingati atau dikeluarkan dari BN tergantung dari seberapa parah dan sering pelanggaran ini dilakukan.
 
