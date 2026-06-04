@@ -32,7 +32,7 @@ Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nomina
 
 ### Beatmap Nominator percobaan
 
-Beatmap Nominator percobaan adalah para anggota Beatmap Nominator yang masih baru dan masih perlu dipantau lebih dekat. Tugas utama mereka adalah untuk memahami dasar-dasar seorang Beatmap Nominator dengan cara hanya menominasikan beatmap dalam proses ranking tanpa ada kewajiban lainnya. Karena dalam menominasikan beatmap setidaknya harus ada satu orang nominator penuh yang terlibat untuk masing-masing mode permainannya, anggota Beatmap Nominator percobaan tidak bisa memberikan nominasi terakhir kepada beatmap yang nominasi-nominasi sebelumnya juga diberikan oleh anggota-anggota percobaan lainnya.
+Beatmap Nominator percobaan adalah para anggota Beatmap Nominator yang masih baru dan masih perlu dipantau lebih dekat. Tugas utama mereka adalah untuk memahami dasar-dasar seorang Beatmap Nominator dengan cara hanya menominasikan beatmap dalam proses ranking tanpa ada kewajiban lainnya. Karena dalam menominasikan beatmap setidaknya harus ada satu orang nominator penuh yang terlibat dalam masing-masing mode permainannya, anggota Beatmap Nominator percobaan tidak bisa memberikan nominasi terakhir kepada beatmap yang nominasi-nominasi sebelumnya juga diberikan oleh anggota-anggota percobaan lainnya.
 
 Para anggota Beatmap Nominator percobaan diharuskan untuk memiliki setidaknya **3** nominasi yang berhasil mencapai Ranked. Beatmap-beatmap ini kemudian akan kemudian [dievaluasi](/wiki/People/Nomination_Assessment_Team/Evaluations) setelah satu bulan, yang bisa datang lebih cepat apabila mereka sudah memliki **6** nominasi yang Ranked di awal bulan.
 
