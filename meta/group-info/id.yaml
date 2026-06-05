@@ -3,14 +3,14 @@ separator: ", "
 alumni:
   roles:
     academy: pendiri osu!academy
-    admin: administration
+    admin: administrasi
     chat: Chat Moderator
     dev: osu!dev
     media: osu!media creation
     support: Support Team
     tournaments: tournament management
 gmt:
-  all_mods: all moderators
+  all_mods: semua moderators
   areas:
     beatmap: beatmap moderation
     chat: chat moderation
