@@ -4,11 +4,11 @@ alumni:
   roles:
     academy: pendiri osu!academy
     admin: administrasi
-    chat: Chat Moderator
+    chat: Moderator Obrolan
     dev: osu!dev
-    media: osu!media creation
-    support: Support Team
-    tournaments: tournament management
+    media: pembuatan osu!media
+    support: Tim Dukungan
+    tournaments: manajemen turnamen
 gmt:
   all_mods: semua moderator
   areas:
