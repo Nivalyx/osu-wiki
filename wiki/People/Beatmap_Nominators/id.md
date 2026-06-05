@@ -107,4 +107,4 @@ Tidak ada anggota untuk saat ini.
 
 - Beatmap Nominator sebelumnya dikenal dengan nama [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (BAT).
 - Pada tanggal 22 Agustus 2014, BAT tidak lagi dianggap sebagai bagian dari staf. Hal ini membuat BAT kehilangan kemampuannya untuk memoderasi permainan dan juga nama merah mereka di dalam permainan dan forum.
-- On the 1st of February, 2015, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nomination Group*, later adjusted to the Beatmap Nominators that we know today.
+- Pada tanggal 1 Februari 2015, nama kelompok ini diubah dari *Beatmap Appreciation Team* menjadi *Beatmap Nomination Group*, yang kemudian disesuaikan menjadi Beatmap Nominator sebagaimana yang kita kenal sekarang.
