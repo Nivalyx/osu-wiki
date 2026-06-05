@@ -53,7 +53,7 @@ Para anggota Beatmap Nominator akan mendapatkan berbagai keutamaan berikut:
 
 ## Anggota tim
 
-Berikut adalah daftar semua anggota Beatmap Nominator beserta dengan mode permainanmya masing-masing. Selain pada tabel di bawah ini, daftar anggota Beatmap Nominator selengkapnya juga dapat dilihat pada halaman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
+Berikut adalah daftar anggota Beatmap Nominator beserta dengan mode permainanmya masing-masing. Selain pada tabel di bawah ini, daftar anggota Beatmap Nominator selengkapnya juga dapat dilihat pada halaman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
 *Catatan: Kecuali diterangkan lebih lanjut, semua anggota Beatmap Nominator bisa berbicara dalam Bahasa Inggris di samping dari bahasa-bahasa tambahan yang tertera di bawah ini.*
 
