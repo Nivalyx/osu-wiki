@@ -34,18 +34,18 @@ languages:
   partial: sedikit <language>
   # Note for translators: The following language names do *not* need to be included in your translation of group-info. The program will use language names from CLDR. However, you may include languages as you see fit if you want to override what the program normally does.
   af: Afrikaans
-  ar: Arabic
-  be: Belarusian
-  bg: Bulgarian
-  bn: Bengali
-  bs: Bosnian
-  ca: Catalan
-  da: Danish
-  de: German
-  el: Greek
-  es: Spanish
-  et: Estonian
-  fi: Finnish
+  ar: Arab
+  be: Belarus
+  bg: Bulgaria
+  bn: Bengal
+  bs: Bosnia
+  ca: Katalan
+  da: Denmark
+  de: Jerman
+  el: Yunani
+  es: Spanyol
+  et: Estonia
+  fi: Finlandia
   fil: Filipino
   fr: French
   gl: Galician
