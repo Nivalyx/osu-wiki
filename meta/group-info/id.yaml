@@ -10,9 +10,9 @@ alumni:
     support: Support Team
     tournaments: tournament management
 gmt:
-  all_mods: semua moderators
+  all_mods: semua moderator
   areas:
-    beatmap: beatmap moderation
+    beatmap: moderasi beatmap
     chat: chat moderation
     forum: forum moderation
     general: general moderation
@@ -27,11 +27,11 @@ gmt:
     leadership: team leadership
 nat:
   subgroups:
-    structural: structural
-    evaluation: evaluation
-    leadership: leadership
+    structural: struktural
+    evaluation: evaluasi
+    leadership: kepemimpinan
 languages:
-  partial: some <language>
+  partial: sedikit <language>
   # Note for translators: The following language names do *not* need to be included in your translation of group-info. The program will use language names from CLDR. However, you may include languages as you see fit if you want to override what the program normally does.
   af: Afrikaans
   ar: Arabic
