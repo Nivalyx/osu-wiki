@@ -51,7 +51,7 @@ Para anggota Beatmap Nominator akan mendapatkan berbagai keutamaan berikut:
   ![Lencana 100 nominasi](https://assets.ppy.sh/profile-badges/100_noms.png "Lencana 100 nominasi") ![Lencana 200 nominasi](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Lencana 200 nominasi") ![Lencana 400 nominasi](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Lencana 400 nominasi") ![Lencana 600 nominasi](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Lencana 600 nominasi") ![Lencana 800 nominasi](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Lencana 800 nominasi") ![Lencana 1000 nominasi](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Lencana 1000 nominasi") ![Lencana 1500 nominasi](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Lencana 1500 nominasi") ![Lencana 2000 nominasi](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Lencana 2000 nominasi")
 - **Hak untuk mendapatkan gelar [Elite Nominator](/wiki/People/Elite_Nominators)**: Para anggota Beatmap Nominator yang memiliki kinerja yang sangat baik akan berhak untuk dianugerahkan [gelar pengguna](/wiki/Community/User_title) Elite Nominator tahunan.
 
-## Anggota Tim
+## Anggota tim
 
 The [Beatmap Nominators](https://osu.ppy.sh/groups/28) and [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) group pages list all of the team members.
 
