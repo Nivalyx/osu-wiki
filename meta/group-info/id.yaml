@@ -13,18 +13,18 @@ gmt:
   all_mods: semua moderator
   areas:
     beatmap: moderasi beatmap
-    chat: chat moderation
-    forum: forum moderation
-    general: general moderation
+    chat: moderasi obrolan
+    forum: moderasi forum
+    general: moderasi umum
     team: official team presence
-    dev: osu! development
-    player: player support
-    support: technical support
-    tournaments: tournament management
+    dev: pengembangan osu!
+    player: dukungan pemain
+    support: dukungan teknis
+    tournaments: dukungan turnamen
     wiki: wiki administration
     mapping: mapping/modding community moderation
     skinning: skinning community moderation
-    leadership: team leadership
+    leadership: kepemimpinan tim
 nat:
   subgroups:
     structural: struktural
