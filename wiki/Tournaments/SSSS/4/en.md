@@ -53,11 +53,11 @@ The SEA Summer Suiji Showdown 4 was run by various osu! community members from S
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1g5lVCzQjG00Ss9QkOBvYzt0ACTbI7fPOBkYIhNMCq9Q/edit?usp=sharing)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/2157759)
-- [Discord server](https://discord.gg/rv6BgCtdvk)
-- [Challonge brackets](https://challonge.com/oit_2025)
-- [Livestream channel](https://www.twitch.tv/osuIndonesia)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/17iy1kshVWXtzJM9pY9p410hDtbOwg1UN5ez2v_QUpTo/edit?usp=sharing)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/2208344)
+- [Discord server](https://discord.gg/9jA9r3bd7N)
+- [Challonge brackets](https://challonge.com/hapb2jmd)
+- [Livestream channel](https://www.twitch.tv/osusea)
 
 ## Participants
 
