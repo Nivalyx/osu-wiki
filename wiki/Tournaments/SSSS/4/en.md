@@ -8,7 +8,7 @@ tags:
 
 ![SEA Summer Suiji Showdown 4 banner](img/banner.png)
 
-The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548). The tournament was open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It was the fifteenth iteration of the osu! Indonesia Tournament.
+The **SEA Summer Suiji Showdown 4** (***SSSS 4***) was a South East Asian team-based (3v3) osu! tournament hosted by ::{ flag=VN }:: [Meowscarada](https://osu.ppy.sh/users/12048072). The tournament featured a [Suiji-style team matchmaking system](https://osu.ppy.sh/community/forums/topics/1305570), in which players were assigned to a team at random prior to the start of the tournament based on each other's [BWS rank](/wiki/Tournaments/Badge-weighted_seeding) and Qualifier results. It was open to all players from all [ASEAN member states](https://asean.org/member-states/) (::{ flag=BN }::/::{ flag=KH }::/::{ flag=ID }::/::{ flag=LA }::/::{ flag=MM }::/::{ flag=PH }::/::{ flag=SG }::/::{ flag=TL }::/::{ flag=TH }::/::{ flag=VN }::) regardless of rank, and was the fourth iteration of the SEA Summer Suiji Showdown.
 
 ## Tournament schedule
 
