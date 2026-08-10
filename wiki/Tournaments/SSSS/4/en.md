@@ -19,11 +19,10 @@ The **SEA Summer Suiji Showdown 4** (***SSSS 4***) was a South East Asian team-b
 | Qualifiers | 2026-06-15/2026-06-21 |
 | Swiss round (week 1) | 2026-06-22/2026-06-28 |
 | Swiss round (week 2) | 2026-06-29/2026-07-05 |
-| Round of 16 | 2026-01-05/2026-01-11 |
-| Quarterfinals | 2026-01-12/2026-01-18 |
-| Semifinals | 2026-01-19/2026-01-25 |
-| Finals (week 1) | 2026-01-26/2026-02-01 |
-| *break* | 2026-02-02/2026-02-08 |
+| Quarterfinals | 2026-07-06/2026-07-13 |
+| Semifinals | 2026-07-14/2026-07-21 |
+| Finals (week 1) | 2026-07-22/2026-07-28 |
+| *Break* | 2026-07-22/2026-07-28 |
 | Finals (week 2) | 2026-02-09/2026-02-15 |
 
 ## Prizes
