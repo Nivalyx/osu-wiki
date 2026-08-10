@@ -94,7 +94,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Paper Rex** (::{ flag=ID }:: [tsunagite](https://osu.ppy.sh/users/10069909), ::{ flag=VN }:: [Another Guy](https://osu.ppy.sh/users/4540667), ::{ flag=MY }:: [MadDdDio](https://osu.ppy.sh/users/15086959), ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877), ::{ flag=PH }:: [GuardiaN](https://osu.ppy.sh/users/11001039), ::{ flag=SG }:: [Moltenfury](https://osu.ppy.sh/users/3395820)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Matagi Snipers** (::{ flag=TH }:: [-Kedama](https://osu.ppy.sh/users/12147277), ::{ flag=PH }:: [Impowster](https://osu.ppy.sh/users/13484596), ::{ flag=VN }:: [25 FPS](https://osu.ppy.sh/users/31659938), ::{ flag=SG }:: [moosepi](https://osu.ppy.sh/users/1868745), ::{ flag=PH }:: [Xyphox](https://osu.ppy.sh/users/8315885), ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Leviatán** (::{ flag=TH }:: [fuzzyu](https://osu.ppy.sh/users/21958501), ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594), ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377) , ::{ flag=PH }:: [- Ciel -](https://osu.ppy.sh/users/10166961) , ::{ flag=PH }:: [JayAreEee](https://osu.ppy.sh/users/10852557) , ::{ flag=VN }:: [aiyern](https://osu.ppy.sh/users/13826244)) |
 
 ## Mappools
 
