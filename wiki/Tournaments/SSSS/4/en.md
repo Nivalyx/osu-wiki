@@ -27,19 +27,15 @@ The **SEA Summer Suiji Showdown 4** (***SSSS 4***) was a South East Asian team-b
 
 ## Prizes
 
-The osu! Indonesia Tournament #15 (2025) ft. Stella offered an initial prize pool of 1,750,000 IDR as generously donated by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 60% of the accumulated prize pool, physical trophy, customised profile banner, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, physical trophy, customised profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the accumulated prize pool, physical trophy, customised profile banner |
-
-As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #15 (2025) was not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discord.gg/rv6BgCtdvk) for transparency.
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter for each team member |
 
 ## Organisation
 
-The osu! Indonesia Tournament #15 (2025) ft. Stella was run by various osu! community members from Indonesia and beyond.
+The SEA Summer Suiji Showdown 4 was run by various osu! community members from South East Asia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
