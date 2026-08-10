@@ -40,8 +40,7 @@ The SEA Summer Suiji Showdown 4 was run by various osu! community members from S
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548) |
-| Admin | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Shiiori](https://osu.ppy.sh/users/13799103) |
+| Host | ::{ flag=VN }:: [Meowscarada](https://osu.ppy.sh/users/12048072) |
 | Mappool selector | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988) |
 | Custom mapper | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [Nakazawa](https://osu.ppy.sh/users/6220419), ::{ flag=ID }:: [Yamanin Zephyr](https://osu.ppy.sh/users/9148291), ::{ flag=ID }:: [SayuMana](https://osu.ppy.sh/users/12602650), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=ID }:: [ecclesia](https://osu.ppy.sh/users/3545579), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [Pukoo](https://osu.ppy.sh/users/11239237), ::{ flag=ID }:: [Shinjuko](https://osu.ppy.sh/users/10558466), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) |
 | Custom map quality assurance | ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) |
