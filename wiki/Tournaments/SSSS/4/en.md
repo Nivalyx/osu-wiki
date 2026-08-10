@@ -100,25 +100,23 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 2)
 
-**[Download the mappack here! (165 MB)](https://mappack.sah.moe/download/ncej6s7P)**
+**[Download the mappack here! (125 MB)](https://drive.google.com/file/d/1n6fI8tO1Su_xiaRdv2ygo8Cx28pwi0z_/view?usp=sharing)**
 
 - No Mod
-  1. [Tsukuyomi - Hana ni Ame o, Kimi ni Uta o (jiwoas) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/2501601#osu/5503905)
-  2. [USAO - Interstellar Travel (Aeril) \[40,208,000,000,000 km\]](https://osu.ppy.sh/beatmapsets/2238749#osu/4757408)
-  3. [PinocchioP - Reincarnation Apple feat. Hatsune Miku (ajmosca) \[Horsace's Favorite Apple\]](https://osu.ppy.sh/beatmapsets/1976954#osu/4103881)
-  4. [Ludicin - Signal (Ishtiaq) \[Azrulk x Ishtiaq\]](https://osu.ppy.sh/beatmapsets/2410737#osu/5234641)
-  5. [First Fragment - Le Serment De Tsion (LMT) \[Kneel\]](https://osu.ppy.sh/beatmapsets/2287985#osu/4881760)
-  6. [Reol - +Danshi (44444444444444) \[komachi's tribute\]](https://osu.ppy.sh/beatmapsets/2305858#osu/5225753)
+  1. [USAO - BACK COVER (Nuvolina) \[Expert\]](https://osu.ppy.sh/beatmapsets/2530634#osu/5593531)
+  2. [AAAA - 8bit Shooting Star\* (1D\_M0n) \[Stella\]](https://osu.ppy.sh/beatmapsets/2593656#osu/5791683)
+  3. [ZUTOMAYO - TAIDADA (Petal) \[RESONATION\]](https://osu.ppy.sh/beatmapsets/2270896#osu/4836943)
+  4. [Teminite & Boom Kitty - The Master (ralsricat) \[Expert (SEA Suiji Showdown Nerf)\]](https://osu.ppy.sh/beatmapsets/2593978#osu/5792828)
+  5. [Into Infernus - Shimmy (Mazzerin) \[Perplexed Dementia\]](https://osu.ppy.sh/beatmapsets/1568026#osu/3201572)
+  6. [TM - Shinseikatsu (Deppyforce) \[Extra\]](https://osu.ppy.sh/beatmapsets/2466542#osu/5400185)
 - Hidden
-  1. [bbno\$ & Rich Brian - edamame (Nijika Ijichi) \[low-hanging fruit\]](https://osu.ppy.sh/beatmapsets/1589180#osu/4009923)
-  2. [Grand Thaw - Aventyr (FAW) \[Republic of France Super Extreme Blunt Rotation Collab\]](https://osu.ppy.sh/beatmapsets/2505069#osu/5515258)
-  3. [Sheena Ringo - TOKYO (olc) \[Tension and Release\]](https://osu.ppy.sh/beatmapsets/1813876#osu/3721150)
-  4. [satella - Sentheris (Kuro Fuyusaki) \[Core\]](https://osu.ppy.sh/beatmapsets/2488669#osu/5465324)
+  1. [Pitcher56 - Your Name (Rebo) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/2510045#osu/5530108)
+  2. [Mili - Peach Pit and Cyanide (vetoed) \[Sweet Cyanide\]](https://osu.ppy.sh/beatmapsets/2468654#osu/5405912)
+  3. [MIDORI - YUKIKO san (Mangie\_) \[total annihilation\]](https://osu.ppy.sh/beatmapsets/2368685#osu/5110158)
 - Hard Rock
-  1. [Yousei Teikoku - Baptize (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1739984#osu/3557042)
-  2. [Qrispy Joybox - licca (AJT) \[Jycool's Extra\]](https://osu.ppy.sh/beatmapsets/2340295#osu/5028587)
-  3. [Mili - String Theocracy (Aeril) \[Lascia ch'io pianga\]](https://osu.ppy.sh/beatmapsets/2234457#osu/4746039)
-  4. [FELT - Summer Fever (Camo) \[Shimmering Sky\]](https://osu.ppy.sh/beatmapsets/1888937#osu/4133726)
+  1. [agu - unbound (bob) \[collab expert\]](https://osu.ppy.sh/beatmapsets/2412346#osu/5238884)
+  2. [Black Crown Initiate - Death Comes in Reverse (ravensong) \[Time is Worthless\]](https://osu.ppy.sh/beatmapsets/2594291#osu/5793900)
+  3. [mafumafu - I wanna be a girl (Night Mare) \[Can I Become One, Please?\]](https://osu.ppy.sh/beatmapsets/1069248#osu/2238336)
 - Double Time
   1. [KyoKa - Aitoki\*Cherishing (fnayR) \[SayuMana x fnayR's Collab Extra\]](https://osu.ppy.sh/beatmapsets/2505066#osu/5515249)
   2. [-45 - Sankarea (Radiownd) \[Valtiel\]](https://osu.ppy.sh/beatmapsets/2392143#osu/5178950)
