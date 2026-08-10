@@ -66,6 +66,7 @@ Listed below are the teams participating in SSSS 4 and their respective team mem
 | Team name | Seed S player | Seed A player | Seed B player #1 | Seed B player #2 | Seed C player #1 | Seed C player #2 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | FURIA | ::{ flag=ID }:: **[Stixe](https://osu.ppy.sh/users/18351160)**, ::{ flag=VN }:: [[ReiKo_Relax]](https://osu.ppy.sh/users/12609743) | ::{ flag=VN }:: [larper2](https://osu.ppy.sh/users/10953457) | ::{ flag=SG }:: [Galahad80](https://osu.ppy.sh/users/13986379) | ::{ flag=SG }:: [m0fum0fu](https://osu.ppy.sh/users/5143605) | ::{ flag=SG }:: [LycaonMyHusband](https://osu.ppy.sh/users/14436770) |
+| Koyori MBG (My Bini Gue) | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)**, ::{ flag=ID }:: [Such](https://osu.ppy.sh/users/11844371) | ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) | ::{ flag=VN }:: [-UniRain-](https://osu.ppy.sh/users/9389164) | ::{ flag=SG }:: [Anderwear](https://osu.ppy.sh/users/14429830) | ::{ flag=SG }:: [fixie kia](https://osu.ppy.sh/users/9343056) |
 
 ## Podium
 
