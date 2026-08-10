@@ -61,28 +61,11 @@ The SEA Summer Suiji Showdown 4 was run by various osu! community members from S
 
 ## Participants
 
-Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and aggregated Z-sum across all twelve Qualifier beatmaps) out of 70 participating players in total.
+Listed below are the teams participating in SSSS 4 and their respective team members, with players in **bold** acting as team captains.
 
-The complete list of player registrations can be found [here](https://docs.google.com/spreadsheets/d/1g5lVCzQjG00Ss9QkOBvYzt0ACTbI7fPOBkYIhNMCq9Q/edit?gid=1137664518#gid=1137664518).
-
-| Seed no. | Player | Z-sum |
-| :-- | :-- | :-- |
-| 1 | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | 11.32 |
-| 2 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 11.23 |
-| 3 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | 10.92 |
-| 4 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.70 |
-| 5 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 10.62 |
-| 6 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 10.36 |
-| 7 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 10.27 |
-| 8 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | 9.67 |
-| 9 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 9.03 |
-| 10 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | 8.91 |
-| 11 | ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) | 8.73 |
-| 12 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | 8.59 |
-| 13 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 8.40 |
-| 14 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 8.27 |
-| 15 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | 8.19 |
-| 16 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.16 |
+| Team name | Seed S player | Seed A player | Seed B player #1 | Seed B player #2 | Seed C player #1 | Seed C player #2 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| FURIA | ::{ flag=ID }:: **[Stixe](https://osu.ppy.sh/users/18351160)**, ::{ flag=VN }:: [[ReiKo_Relax]](https://osu.ppy.sh/users/12609743) | ::{ flag=VN }:: [larper2](https://osu.ppy.sh/users/10953457) | ::{ flag=SG }:: [Galahad80](https://osu.ppy.sh/users/13986379) | ::{ flag=SG }:: [m0fum0fu](https://osu.ppy.sh/users/5143605) | ::{ flag=SG }:: [LycaonMyHusband](https://osu.ppy.sh/users/14436770) |
 
 ## Podium
 
