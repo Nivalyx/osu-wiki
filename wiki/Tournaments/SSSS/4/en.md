@@ -92,7 +92,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Paper Rex** (::{ flag=ID }:: [tsunagite](https://osu.ppy.sh/users/10069909), ::{ flag=VN }:: [Another Guy](https://osu.ppy.sh/users/4540667), ::{ flag=MY }:: [MadDdDio](https://osu.ppy.sh/users/15086959), ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877), ::{ flag=PH }:: [GuardiaN](https://osu.ppy.sh/users/11001039), ::{ flag=SG }:: [Moltenfury](https://osu.ppy.sh/users/3395820)) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) |
 
