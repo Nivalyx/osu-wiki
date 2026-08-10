@@ -118,13 +118,14 @@ This competition has come to an end and resulted in the following podium:
   2. [Black Crown Initiate - Death Comes in Reverse (ravensong) \[Time is Worthless\]](https://osu.ppy.sh/beatmapsets/2594291#osu/5793900)
   3. [mafumafu - I wanna be a girl (Night Mare) \[Can I Become One, Please?\]](https://osu.ppy.sh/beatmapsets/1069248#osu/2238336)
 - Double Time
-  1. [KyoKa - Aitoki\*Cherishing (fnayR) \[SayuMana x fnayR's Collab Extra\]](https://osu.ppy.sh/beatmapsets/2505066#osu/5515249)
-  2. [-45 - Sankarea (Radiownd) \[Valtiel\]](https://osu.ppy.sh/beatmapsets/2392143#osu/5178950)
-  3. [Fei Zao Jun - Ying Zhi Gui Ji (Muziyami) \[Expert\]](https://osu.ppy.sh/beatmapsets/1840959#osu/3781184)
-  4. [BUGCORE - Creepy Crawlers (feat. Golemm) (Gordon) \[chonk: DT deBUG\]](https://osu.ppy.sh/beatmapsets/2234336#osu/4745651)
-  5. [Eiko Shimamiya - Higurashi no Naku Koro ni (Osu Mapman) \[Caspar's Insane\]](https://osu.ppy.sh/beatmapsets/2173462#osu/4718206)
-- Tiebreaker
-  1. **[LUMiNOZ - Scorched Garden (Shinjuko) \[The Journey of Me Adventuring with Stella my kisah\]](https://osu.ppy.sh/beatmapsets/2505108#osu/5515392)**
+  1. [LAIKA - Dao Nuea (GalaxySkys) \[Wistful at the day I let you go.\]](https://osu.ppy.sh/beatmapsets/1915504#osu/3951746)
+  2. [-45 - XXX multiply (YokesPai) \[Insane\]](https://osu.ppy.sh/beatmapsets/1941772#osu/4016365)
+  3. [Archspire - Remote Tumour Seeker (quantumvortex) \[Insane\]](https://osu.ppy.sh/beatmapsets/2459027#osu/5377803)
+  4. [Gesu no Kiwami Otome. - Jinsei no Hari (eiri-) \[Rewind\]](https://osu.ppy.sh/beatmapsets/1307420#osu/2710582)
+- Free Mod
+  1. [Project Pop - Metal vs Dugem (Shurelia) \[Joget Maut Scub dan Shurelia\]](https://osu.ppy.sh/beatmapsets/2183079#osu/4613136)
+  2. [Coaltar of the Deepers - Cell (Azer) \[The Trip\]](https://osu.ppy.sh/beatmapsets/2281525#osu/4864380)
+  3. [Jamie Paige - Machine Love (Ducky-) \[Is this real?\]](https://osu.ppy.sh/beatmapsets/2593676#osu/5791741)
 
 ### Finals (week 1)
 
