@@ -29,9 +29,9 @@ The **SEA Summer Suiji Showdown 4** (***SSSS 4***) was a South East Asian team-b
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter for each team member, 3 months of [o!rdr Premium subscription](https://ordr.issou.best/) for each team member, customised profile banner, profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter for each team member, 3 months of [o!rdr subscription](https://ordr.issou.best/) for each team member, customised profile banner, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member, 2 months of [o!rdr subscription](https://ordr.issou.best/) for each team member, customised profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member, 1 month of [o!rdr subscription](https://ordr.issou.best/) for each team member, customised profile banner |
 | 4th place | Customised profile banner |
 
 ## Organisation
