@@ -411,9 +411,9 @@ Monday, 12 January 2026:
 | 5 | Brazil | 2.0 | 1 | 2 | 1 | 14 | 0 |
 | 6 | NAVI | 2.0 | 1 | 2 | 1 | 14 | -1[^two-way-tie-note] |
 | 7 | Astralis | 2.0 | 1 | 2 | 1 | 14 | -1[^two-way-tie-note] |
-| 8 | Stelle x Trash Can | 3 | 3 | 0 | 3 | +3 |
-| 9 | Rumah Makan Padang | 3 | 2 | 2 | 2 | +3 |
-| 10 | Fuuka Motor | 3 | 3 | 0 | 3 | +1 |
+| 8 | T1 | 2.0 | 2 | 0 | 2 | 12 | -2 |
+| 9 | The Mongolz | 1.0 | 1 | 0 | 3 | 7 | -11 |
+| 10 | Edward Gaming | 0.0 | 0 | 0 | 4 | 9 | -11 |
 
 | 11 | ryowari da | 3 | 2 | 2 | 2 | +1 |
 | 12 | hina motor | 3 | 2 | 2 | 2 | 0 |
