@@ -371,17 +371,13 @@ Monday, 19 January 2026:
 | Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | [#1](https://osu.ppy.sh/community/matches/120344246) |
 | Upper | **[GNX](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | [#1](https://osu.ppy.sh/community/matches/120343896) |
 
-### Round of 16
+### Quarterfinals
 
-Saturday, 10 January 2026:
+Saturday, 11 July 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[MejiroMcQueen](https://osu.ppy.sh/users/11320627)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) | [#1](https://osu.ppy.sh/community/matches/120277659) |
-| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | [#1](https://osu.ppy.sh/community/matches/120277604) |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | [#1](https://osu.ppy.sh/community/matches/120278054) |
-| Upper | **[GNX](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/120278102) |
-| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/120278972) |
+| Play=in[^two-way-tie-note] | **NAVI** | **6** | 5 | Astralis | [#1](https://osu.ppy.sh/community/matches/121492666) |
 
 Sunday, 11 January 2026:
 
