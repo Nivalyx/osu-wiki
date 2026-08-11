@@ -212,29 +212,51 @@ This competition has come to an end and resulted in the following podium:
 
 ### Swiss round (week 2)
 
-**[Download the mappack here! (114 MB)](https://mappack.sah.moe/download/QkyjFAPW)**
+**[Download the mappack here! (94 MB)](https://drive.google.com/file/d/1asgYrYWgP8hgfvsu9W8xqnGOS6l3yvob/view?usp=sharing)**
 
 - No Mod
-  1. [KOKO - Watashi o Matou (Dailycare) \[Vernal\]](https://osu.ppy.sh/beatmapsets/2272223#osu/4840263)
-  2. [Kevin Sherwood - 115 (Cut Ver.) (fieryrage) \[Aetherium\]](https://osu.ppy.sh/beatmapsets/1457103#osu/2994682)
-  3. [Tsukuyomi - Noisy Rainy (Petal) \[Ame\]](https://osu.ppy.sh/beatmapsets/2254451#osu/4795591)
-  4. [Nanahira - Twinkle.Password (tukamoto7km) \[xbopost & tukamoto7km\]](https://osu.ppy.sh/beatmapsets/1184159#osu/2468593)
-  5. [Pastel\*Palettes - Happy Synthesizer (ktgster) \[Shizuku's Expert\]](https://osu.ppy.sh/beatmapsets/932654#osu/1989990)
+  1. [My Chemical Romance - Thank You for the Venom (2025 Mix) (SupaV) \[Revenge\]](https://osu.ppy.sh/beatmapsets/2382290#osu/5437487)
+  2. [Street - Sakura Fubuki (Ata Remix) (TWEEKER) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/2039767#osu/4254840)
+  3. [DJKurara - Japanese Transformation (wjddjs) \[HyperPigeon's Extreme\]](https://osu.ppy.sh/beatmapsets/2310987#osu/5715082)
+  4. [onumi X Fluff Pink & Belak - TRAUMA (Wispy) \[Ksardas' ORACLE EXTRA feat. Sharu\]](https://osu.ppy.sh/beatmapsets/2408890#osu/5269080)
+  5. [mimizu - Everything will be broken. (iBell) \[extresque's Extra\]](https://osu.ppy.sh/beatmapsets/2492045#osu/5487088)
 - Hidden
-  1. [Kinoko Teikoku - Kokudou Slope (3y3s) \[January\]](https://osu.ppy.sh/beatmapsets/1989175#osu/5393040)
-  2. [paraoka feat. haru\*nya - Manimani (Cut ver.) (Cellina) \[Hananoiro\]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280)
-  3. [REDALiCE feat. MONICO - Breakin' Chain (Heilia) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/1863044#osu/3947753)
+  1. [F9 - Kagaribito (captin1) \[Fragments\]](https://osu.ppy.sh/beatmapsets/1087452#osu/2274038)
+  2. [A.SAKA - Kannagi (Buster) \[YeLing's Extra\]](https://osu.ppy.sh/beatmapsets/2530218#osu/5603409)
 - Hard Rock
-  1. [sheirara - -ERROR (Nakazawa) \[404 (Tournament Edit)\]](https://osu.ppy.sh/beatmapsets/2488667#osu/5465321)
-  2. [Dormir - Cookie Bouquets (dsco) \[Fanzhen's Extra\]](https://osu.ppy.sh/beatmapsets/675125#osu/1453416)
-  3. [dj MAX STEROID - Arabian Rave Night (Kojio) \[Axarious' ANOTHER\]](https://osu.ppy.sh/beatmapsets/2312645#osu/5054490)
+  1. [Marmalade butcher - Open Scar Unending (revoh) \[Wispy's Extra\]](https://osu.ppy.sh/beatmapsets/2471983#osu/5416140)
+  2. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Spork Lover's Scorched\]](https://osu.ppy.sh/beatmapsets/710329#osu/1502636)
 - Double Time
-  1. [Elaine Celestia feat. Ayunda Risu - Cat Loving (revemayuzumi Remix) (ArXe) \[Icikiwir Aselole\]](https://osu.ppy.sh/beatmapsets/2488623#osu/5465242)
-  2. [-45 - Millarca (228) \[Insane\]](https://osu.ppy.sh/beatmapsets/1978407#osu/4108775)
-  3. [Boom Kitty - Deo Volente (Ralsricat) \[Pisapou's Insane\]](https://osu.ppy.sh/beatmapsets/1733078#osu/3843920)
-  4. [Krimek - HyperColor (nik) \[Insane\]](https://osu.ppy.sh/beatmapsets/2248565#osu/4781121)
-- Tiebreaker
-  1. **[Imperial Circus Dead Decadence - Uta (Kite) \[Himei\]](https://osu.ppy.sh/beatmapsets/410162#osu/890190)**
+  1. [NOMELON NOLEMON - Midnight Reflection (Takusa\_) \[Shady's STABILIZER FAULT: INSANE Alert\]](https://osu.ppy.sh/beatmapsets/2382583#osu/5312638)
+  2. [-45 - Kurenaikakei (Okoratu) \[allein's Insane\]](https://osu.ppy.sh/beatmapsets/1893565#osu/3982739)
+  3. [Shibayan feat. yana - Oznei Haman wa Mou Iranai (itay) \[Selfish Desire\]](https://osu.ppy.sh/beatmapsets/1778687#osu/3642792)
+- Fre Mod
+  1. [TK from Ling tosite sigure - Bonnou (melwoine) \[Vell's Extra\]](https://osu.ppy.sh/beatmapsets/2043955#osu/4452323)
+  2. [P-Model - Logic Airforce (nullset) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/29267#osu/100237)
+
+### Swiss round (week 1)
+
+**[Download the mappack here! (94 MB)](https://drive.google.com/file/d/1asgYrYWgP8hgfvsu9W8xqnGOS6l3yvob/view?usp=sharing)**
+
+- No Mod
+  1. [My Chemical Romance - Thank You for the Venom (2025 Mix) (SupaV) \[Revenge\]](https://osu.ppy.sh/beatmapsets/2382290#osu/5437487)
+  2. [Street - Sakura Fubuki (Ata Remix) (TWEEKER) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/2039767#osu/4254840)
+  3. [DJKurara - Japanese Transformation (wjddjs) \[HyperPigeon's Extreme\]](https://osu.ppy.sh/beatmapsets/2310987#osu/5715082)
+  4. [onumi X Fluff Pink & Belak - TRAUMA (Wispy) \[Ksardas' ORACLE EXTRA feat. Sharu\]](https://osu.ppy.sh/beatmapsets/2408890#osu/5269080)
+  5. [mimizu - Everything will be broken. (iBell) \[extresque's Extra\]](https://osu.ppy.sh/beatmapsets/2492045#osu/5487088)
+- Hidden
+  1. [F9 - Kagaribito (captin1) \[Fragments\]](https://osu.ppy.sh/beatmapsets/1087452#osu/2274038)
+  2. [A.SAKA - Kannagi (Buster) \[YeLing's Extra\]](https://osu.ppy.sh/beatmapsets/2530218#osu/5603409)
+- Hard Rock
+  1. [Marmalade butcher - Open Scar Unending (revoh) \[Wispy's Extra\]](https://osu.ppy.sh/beatmapsets/2471983#osu/5416140)
+  2. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Spork Lover's Scorched\]](https://osu.ppy.sh/beatmapsets/710329#osu/1502636)
+- Double Time
+  1. [NOMELON NOLEMON - Midnight Reflection (Takusa\_) \[Shady's STABILIZER FAULT: INSANE Alert\]](https://osu.ppy.sh/beatmapsets/2382583#osu/5312638)
+  2. [-45 - Kurenaikakei (Okoratu) \[allein's Insane\]](https://osu.ppy.sh/beatmapsets/1893565#osu/3982739)
+  3. [Shibayan feat. yana - Oznei Haman wa Mou Iranai (itay) \[Selfish Desire\]](https://osu.ppy.sh/beatmapsets/1778687#osu/3642792)
+- Fre Mod
+  1. [TK from Ling tosite sigure - Bonnou (melwoine) \[Vell's Extra\]](https://osu.ppy.sh/beatmapsets/2043955#osu/4452323)
+  2. [P-Model - Logic Airforce (nullset) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/29267#osu/100237)
 
 ### Qualifiers
 
