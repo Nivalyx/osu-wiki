@@ -435,7 +435,10 @@ Saturday, 4 July 2026:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| 2-1 | Vitality | 3 | **5** | **Falcons** | [#1](https://osu.ppy.sh/community/matches/121449779) |
+| 2-8 | Matagi Snipers  | 4 | 4 | FURIA | [#1](https://osu.ppy.sh/community/matches/121449736) |
 | 2-14 | **T1** | **5** | 2 | The Mongolz | [#1](https://osu.ppy.sh/community/matches/121449757) |
+| 2-6 | **Paper Rex** | **5** | 2 | Smart Falcon | [#1](https://osu.ppy.sh/community/matches/121449827) |
 
 #### Week 1
 
