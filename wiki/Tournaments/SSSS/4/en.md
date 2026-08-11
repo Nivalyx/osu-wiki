@@ -511,17 +511,17 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | 47 | ::{ flag=ID }:: [WhiteCab](https://osu.ppy.sh/users/11849244) | 0.261 |
 | 48 | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | 0.255 |
 | 49 | ::{ flag=MY }:: [Sagume Kishin](https://osu.ppy.sh/users/14053835) | 0.248 |
-| 50 | Cygni           | 0.246 |
-| 51 | [-Hoshino-]     | 0.242 |
-| 52 | ashwa           | 0.237 |
-| 53 | -wakumi         | 0.233 |
-| 54 | Nabari Anju     | 0.228 |
-| 55 | k4r1cow         | 0.221 |
-| 56 | zacfr           | 0.218 |
-| 57 | JinPots         | 0.203 |
-| 58 | seoster         | 0.202 |
-| 59 | IceKori         | 0.199 |
-| 60 | Makise Kurisu   | 0.194 |
+| 50 | ::{ flag=ID }:: [Cygni](https://osu.ppy.sh/users/12517079) | 0.246 |
+| 51 | ::{ flag=VN }:: [\[-Hoshino-\]](https://osu.ppy.sh/users/33899498) | 0.242 |
+| 52 | ::{ flag=PH }:: [ashwa](https://osu.ppy.sh/users/9834366) | 0.237 |
+| 53 | ::{ flag=SG }:: [-wakumi](https://osu.ppy.sh/users/10619454) | 0.233 |
+| 54 | ::{ flag=MY }:: [Nabari Anju](https://osu.ppy.sh/users/9773374) | 0.228 |
+| 55 | ::{ flag=VN }:: [k4r1cow](https://osu.ppy.sh/users/16087001) | 0.221 |
+| 56 | ::{ flag=SG }:: [zacfr](https://osu.ppy.sh/users/19094096) | 0.218 |
+| 57 | ::{ flag=VN }:: [JinPots](https://osu.ppy.sh/users/12790525) | 0.203 |
+| 58 | ::{ flag=MY }:: [seoster](https://osu.ppy.sh/users/12841949) | 0.202 |
+| 59 | ::{ flag=VN }:: [IceKori](https://osu.ppy.sh/users/19366323) | 0.199 |
+| 60 | ::{ flag=MY }:: [Makise Kurisu](https://osu.ppy.sh/users/6996926) | 0.194 |
 | 61 | kropto          | 0.189 |
 | 62 | LDerpy          | 0.177 |
 | 63 | tiurla          | 0.154 |
