@@ -578,4 +578,4 @@ Sunday, 28 June 2026:
 
 ## Notes
 
-[^two-way-tie-note]: Due to NAVI and Astralis being tied in all the tiebreaker criteria, it was decided that the two teams 
+[^two-way-tie-note]: Both NAVI and Astralis were tied in all the tiebreaker criteria. As such, the two teams to determine the final qualifying spot from Group A.
