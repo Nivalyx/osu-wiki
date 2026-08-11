@@ -484,14 +484,14 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | 20 | ::{ flag=PH }:: [zSidd](https://osu.ppy.sh/users/14146602) | 0.414 |
 | 21 | ::{ flag=MY }:: [Ramizel](https://osu.ppy.sh/users/9560694) | 0.388 |
 | 22 | ::{ flag=ID }:: [Crownest](https://osu.ppy.sh/users/18135280) | 0.376 |
-| 23 | fixie kia       | 0.371 |
-| 24 | Quy An Keo      | 0.365 |
-| 25 | CopyPasted      | 0.359 |
-| 26 | Axiqn           | 0.354 |
-| 27 | CelestiaKT      | 0.351 |
-| 28 | Nyz             | 0.339 |
-| 29 | Fuwub           | 0.337 |
-| 30 | squidstain      | 0.337 |
+| 23 | ::{ flag=SG }:: [fixie kia](https://osu.ppy.sh/users/9343056) | 0.371 |
+| 24 | ::{ flag=VN }:: [Quy An Keo](https://osu.ppy.sh/users/16480465) | 0.365 |
+| 25 | ::{ flag=SG }:: [CopyPasted](https://osu.ppy.sh/users/9341983) | 0.359 |
+| 26 | ::{ flag=SG }:: [Axiqn](https://osu.ppy.sh/users/21130016) | 0.354 |
+| 27 | ::{ flag=MY }:: [CelestiaKT](https://osu.ppy.sh/users/26357728) | 0.351 |
+| 28 | ::{ flag=TH }:: [Nyz](https://osu.ppy.sh/users/5408255) | 0.339 |
+| 29 | ::{ flag=SG }:: [Fuwub](https://osu.ppy.sh/users/14238097) | 0.337 |
+| 30 | ::{ flag=MY }:: [squidstain](https://osu.ppy.sh/users/11073207) | 0.337 |
 | 31 | aiyern          | 0.334 |
 | 32 | callyfour       | 0.333 |
 | 33 | Sorasaki Hina   | 0.321 |
