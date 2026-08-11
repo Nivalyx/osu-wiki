@@ -458,8 +458,6 @@ Sunday, 28 June 2026:
 
 ### Qualifiers
 
-Listed below are the players who managed to qualify into the tournaments as C out of 70 participating players in total.
-
 The complete list of Qualifier results can be found [here](https://docs.google.com/spreadsheets/d/17iy1kshVWXtzJM9pY9p410hDtbOwg1UN5ez2v_QUpTo/edit?gid=1162863454#gid=1162863454).
 
 | Seed no. | Player | %MAX avg. |
