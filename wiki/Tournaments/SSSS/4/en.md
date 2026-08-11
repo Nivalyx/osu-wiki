@@ -63,8 +63,6 @@ The SEA Summer Suiji Showdown 4 was run by various osu! community members from S
 
 Listed below are the teams participating in SSSS 4 and their respective team members, with players in **bold** acting as team captains.
 
-of player registrations can be found [here](https://docs.google.com/spreadsheets/d/17iy1kshVWXtzJM9pY9p410hDtbOwg1UN5ez2v_QUpTo/edit?gid=1305557226#gid=1305557226).
-
 | Team name | Seed S player | Seed A player | Seed B player #1 | Seed B player #2 | Seed C player #1 | Seed C player #2 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | **Astralis** | ::{ flag=VN }:: [Tonnisdk](https://osu.ppy.sh/users/10890712) | ::{ flag=PH }:: [francisqueso](https://osu.ppy.sh/users/20840121) | ::{ flag=VN }:: [ThuNguyen Grape](https://osu.ppy.sh/users/20864743) | ::{ flag=SG }:: **[Hecatia](https://osu.ppy.sh/users/8244635)** | ::{ flag=ID }:: [Crownest](https://osu.ppy.sh/users/18135280) | ::{ flag=SG }:: [Axiqn](https://osu.ppy.sh/users/21130016) |
@@ -462,7 +460,7 @@ Sunday, 28 June 2026:
 
 Listed below are the players who managed to qualify into the tournaments as C out of 70 participating players in total.
 
-The complete list of Qualifier results can be found [on this following spreadsheet](https://docs.google.com/spreadsheets/d/17iy1kshVWXtzJM9pY9p410hDtbOwg1UN5ez2v_QUpTo/edit?gid=1162863454#gid=1162863454).
+The complete list of Qualifier results can be found [here](https://docs.google.com/spreadsheets/d/17iy1kshVWXtzJM9pY9p410hDtbOwg1UN5ez2v_QUpTo/edit?gid=1162863454#gid=1162863454).
 
 | Seed no. | Player | %MAX avg. |
 | :-- | :-- | :-- |
