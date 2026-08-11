@@ -562,7 +562,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 
 1. Players are required to register into the tournament individually through [this form](https://forms.gle/qJqVwgBSkumg3zg9A).
    - In order to be eligible to play in the tournament, a player must:
-     - Have the flag of any of the ASEAN member states (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TL }:: Timor-Leste, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) displayed on their profile, ***or***
+     - Have the flag of any of the ASEAN member states (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TL }:: Timor-Leste, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) on their profile, ***or***
      - Be in possession of a valid national identity document (i.e. passport or ID card) issued by one of the aforementioned countries.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
