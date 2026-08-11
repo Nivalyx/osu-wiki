@@ -480,10 +480,10 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | 16 | ::{ flag=SG }:: [Anderwear](https://osu.ppy.sh/users/14429830) | 0.426 |
 | 17 | ::{ flag=ID }:: [AlpiAz](https://osu.ppy.sh/users/26321771) | 0.426 |
 | 18 | ::{ flag=PH }:: [Ksorchou](https://osu.ppy.sh/users/18549932) | 0.424 |
-| 19 | Junkmaniac      | 0.420 |
-| 20 | zSidd           | 0.414 |
-| 21 | Ramizel         | 0.388 |
-| 22 | Crownest        | 0.376 |
+| 19 | ::{ flag=SG }:: [Junkmaniac](https://osu.ppy.sh/users/5909569) | 0.420 |
+| 20 | ::{ flag=PH }:: [zSidd](https://osu.ppy.sh/users/14146602) | 0.414 |
+| 21 | ::{ flag=MY }:: [Ramizel](https://osu.ppy.sh/users/9560694) | 0.388 |
+| 22 | ::{ flag=ID }:: [Crownest](https://osu.ppy.sh/users/18135280) | 0.376 |
 | 23 | fixie kia       | 0.371 |
 | 24 | Quy An Keo      | 0.365 |
 | 25 | CopyPasted      | 0.359 |
