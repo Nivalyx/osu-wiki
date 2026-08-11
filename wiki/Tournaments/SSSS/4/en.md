@@ -545,7 +545,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
    - Team Mode: `Team Vs`
    - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#schedule` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a team does not able to show up with at least 3 players within **10 minutes** of the start time, their opponent gets to win by default.
 6. If no staff or referee is available, the match will be postponed.
