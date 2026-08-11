@@ -446,6 +446,17 @@ Saturday, 4 July 2026:
 | 2-3 | **Team Spirit** | **5** | 1 | T1 | [#1](https://osu.ppy.sh/community/matches/121450217) |
 | 2-18 | Smart Falcon | 4 | 4 | Koyori MBG (My Bini Gue) | [#1](https://osu.ppy.sh/community/matches/121450173) |
 
+Sunday, 5 July 2026:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 2-19 | FaZe Clan | 1 | **5** | **Bad News Eagles** | [#1](https://osu.ppy.sh/community/matches/121456142) |
+| 2-5 | **The Mongolz** | **5** | 3 | Edward Gaming | [#1](https://osu.ppy.sh/community/matches/121456139) |
+| 2-13 | Team Spirit | 2 | **5** | **Astralis** | [#1](https://osu.ppy.sh/community/matches/121456398) |
+| 2-17 | Matagi Snipers | 4 | 4 | Leviatán | [#1](https://osu.ppy.sh/community/matches/121456603) |
+| 2-15 | Edward Gaming | 2 | **5** | **NAVI** | [#1](https://osu.ppy.sh/community/matches/121455653) |
+| 2-11 | Vitality | 4 | 4 | Brazil | [#1](https://osu.ppy.sh/community/matches/121456780) |
+
 #### Week 1
 
 Friday, 26 June 2026:
