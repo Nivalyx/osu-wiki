@@ -499,9 +499,9 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | 35 | ::{ flag=VN }:: [JerryJumbo](https://osu.ppy.sh/users/27634475) | 0.312 |
 | 36 | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) | 0.308 |
 | 37 | ::{ flag=SG }:: [kiraze](https://osu.ppy.sh/users/7290359) | 0.306 |
-| 38 | Moltenfury      | 0.305 |
-| 39 | LeivanTZH       | 0.294 |
-| 40 | m0fum0fu        | 0.293 |
+| 38 | ::{ flag=SG }:: [Moltenfury](https://osu.ppy.sh/users/3395820) | 0.305 |
+| 39 | ::{ flag=MY }:: [LeivanTZH](https://osu.ppy.sh/users/20586695) | 0.294 |
+| 40 | ::{ flag=SG }:: [m0fum0fu](https://osu.ppy.sh/users/5143605) | 0.293 |
 | 41 | Definition      | 0.287 |
 | 42 | noskaia         | 0.286 |
 | 43 | Wubip           | 0.283 |
