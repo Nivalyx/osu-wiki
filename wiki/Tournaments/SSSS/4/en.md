@@ -469,13 +469,13 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | 5 | ::{ flag=PH }:: [EViLseeeen11l1](https://osu.ppy.sh/users/18047706) | 0.549 |
 | 6 | ::{ flag=PH }:: [Xyphox](https://osu.ppy.sh/users/8315885) | 0.546 |
 | 7 | ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152) | 0.529 |
-| 8 | electrostrike   | 0.522 |
-| 9 | SoPqnda         | 0.489 |
-| 10 | goo fling       | 0.458 |
-| 11 | LycaonMyHusband | 0.454 |
-| 12 | Lumish264       | 0.452 |
-| 13 | not_aweeb       | 0.447 |
-| 14 | JayAreEee       | 0.443 |
+| 8 | ::{ flag=VN }:: [electrostrike](https://osu.ppy.sh/users/11538640) | 0.522 |
+| 9 | ::{ flag=SG }:: [SoPqnda](https://osu.ppy.sh/users/15751922) | 0.489 |
+| 10 | ::{ flag=SG }:: [goo fling](https://osu.ppy.sh/users/17689709) | 0.458 |
+| 11 | ::{ flag=SG }:: [LycaonMyHusband](https://osu.ppy.sh/users/14436770) | 0.454 |
+| 12 | ::{ flag=SG }:: [Lumish264](https://osu.ppy.sh/users/20212225) | 0.452 |
+| 13 | ::{ flag=MY }:: [not_aweeb](https://osu.ppy.sh/users/9375317) | 0.447 |
+| 14 | ::{ flag=PH }:: [JayAreEee](https://osu.ppy.sh/users/10852557) | 0.443 |
 | 15 | AlmondMal       | 0.427 |
 | 16 | Anderwear       | 0.426 |
 | 17 | AlpiAz          | 0.426 |
