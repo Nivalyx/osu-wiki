@@ -530,12 +530,12 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | 66 | ::{ flag=MY }:: [IzH3Re](https://osu.ppy.sh/users/25016898) | 0.132 |
 | 67 | ::{ flag=SG }:: [OyaOya](https://osu.ppy.sh/users/23301694) | 0.129 |
 | 68 | ::{ flag=PH }:: [FinanceRyugu](https://osu.ppy.sh/users/31134597) | 0.128 |
-| 69 | PolarPowah      | 0.113 |
-| 70 | Yanoish         | 0.109 |
-| 71 | Ch3rryL         | 0.103 |
-| 72 | zreiF           | 0.097 |
-| 73 | WanHigh         | 0.060 |
-| 74 | JackGamerCYT    | 0.028 |
+| 69 | ::{ flag=VN }:: [PolarPowah](https://osu.ppy.sh/users/13229498) | 0.113 |
+| 70 | ::{ flag=PH }:: [Yanoish](https://osu.ppy.sh/users/22712749) | 0.109 |
+| 71 | ::{ flag=MY }:: [Ch3rryL](https://osu.ppy.sh/users/20272150) | 0.103 |
+| 72 | ::{ flag=ID }:: [zreiF](https://osu.ppy.sh/users/16587039) | 0.097 |
+| 73 | ::{ flag=MY }:: [WanHigh](https://osu.ppy.sh/users/24265798) | 0.060 |
+| 74 | ::{ flag=VN }:: [JackGamerCYT](https://osu.ppy.sh/users/29909606) | 0.028 |
 
 ## Ruleset
 
