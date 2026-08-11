@@ -84,7 +84,7 @@ Listed below are the teams participating in SSSS 4 and their respective team mem
 | **T1** | ::{ flag=ID }:: **[elituqinn](https://osu.ppy.sh/users/20315228)** | ::{ flag=SG }:: [GSBlank](https://osu.ppy.sh/users/2312106) | ::{ flag=VN }:: [-Kiyoko-](https://osu.ppy.sh/users/10542491) | ::{ flag=VN }:: [hotcat190](https://osu.ppy.sh/users/10143086) | ::{ flag=SG }:: [Lumish264](https://osu.ppy.sh/users/20212225) | ::{ flag=SG }:: [AlmondMal](https://osu.ppy.sh/users/12831353) |
 | **Team Spirit** | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630) | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) | ::{ flag=ID }:: [Patto](https://osu.ppy.sh/users/10613132) | ::{ flag=SG }:: [CopyPasted](https://osu.ppy.sh/users/9341983) | ::{ flag=SG }:: **[JokThree](https://osu.ppy.sh/users/7713152)** |
 | **The Mongolz** | ::{ flag=SG }:: **[Mekeyo](https://osu.ppy.sh/users/10270787)** | ::{ flag=PH }:: [Akiyama-Mizuki](https://osu.ppy.sh/users/11865009) | ::{ flag=PH }:: [Geanyl](https://osu.ppy.sh/users/10038631) | ::{ flag=SG }:: [wick](https://osu.ppy.sh/users/8004317) | ::{ flag=MY }:: [not_aweeb](https://osu.ppy.sh/users/9375317) | ::{ flag=SG }:: [Sorasaki Hina](https://osu.ppy.sh/users/17493320) |
-| **Vitality** | ::{ flag=VN }:: [MumeiLover](https://osu.ppy.sh/users/12068522) | ::{ flag=ID }:: [Bouquetdor](https://osu.ppy.sh/users/11320627) | ::{ flag=VN }:: [realshin](https://osu.ppy.sh/users/8006029) | ::{ flag=PH }:: **[Seija Kijin](https://osu.ppy.sh/users/22690359)** | ::{ flag=VN }:: [Quy An Keo](https://osu.ppy.sh/users/16480465) | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) |
+| **Vitality** | ::{ flag=VN }:: [MumeiLover](https://osu.ppy.sh/users/12068522) | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | ::{ flag=VN }:: [realshin](https://osu.ppy.sh/users/8006029) | ::{ flag=PH }:: **[Seija Kijin](https://osu.ppy.sh/users/22690359)** | ::{ flag=VN }:: [Quy An Keo](https://osu.ppy.sh/users/16480465) | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) |
 
 ## Podium
 
@@ -443,7 +443,7 @@ Saturday, 27 June 2026:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 1-20 | **G2 Esports** | **5** | 3 | GAM Esports | [#1](https://osu.ppy.sh/community/matches/121409007) |
+| 1-20 | **G2 Esports** | **5** | 1 | GAM Esports | [#1](https://osu.ppy.sh/community/matches/121409007) |
 | 1-7 | **Paper Rex** | **5** | 0 | FaZe Clan | [#1](https://osu.ppy.sh/community/matches/121407769) |
 | 1-11 | NAVI | 4 | 4 | Team Spirit | [#1](https://osu.ppy.sh/community/matches/121407688) |
 | 1-8 | **Leviatán** | **5** | 2 | FURIA | [#1](https://osu.ppy.sh/community/matches/121408114) |
@@ -456,6 +456,10 @@ Sunday, 28 June 2026:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| 1-9 | **Smart Falcon** | **5** | 1 | GAM Esports | [#1](https://osu.ppy.sh/community/matches/121414196) |
+| 1-3 | The Mongolz | 0 | **5** | **Falcons** | [#1](https://osu.ppy.sh/community/matches/121414193) |
+| 1-1 | NAVI | 1 | **5** | **Vitality** | [#1](https://osu.ppy.sh/community/matches/121414130) |
+| 1-18 | **Leviatán** | **5** | 2 | Koyori MBG (My Bini Gue) | [#1](https://osu.ppy.sh/community/matches/121414200) |
 
 ## Ruleset
 
