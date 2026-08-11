@@ -560,7 +560,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 
 ### Tournament registration
 
-1. Players are required to register into the tournament individually through [the Discord server](https://discord.gg/rv6BgCtdvk).
+1. Players are required to register into the tournament individually through [this form](https://forms.gle/qJqVwgBSkumg3zg9A).
    - In order to be eligible to play in the tournament, a player must have the ::{ flag=ID }:: Indonesian flag displayed on their profile.
    - Although the tournament is open rank, players are advised to be in a reasonable rank in the osu! game mode given the relatively high difficulty of the mappool.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
