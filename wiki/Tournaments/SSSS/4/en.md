@@ -320,17 +320,12 @@ Monday, 2 February 2026:
 
 ### Semifinals
 
-Friday, 16 January 2026:
+Saturday, 18 July 2026:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/120319285) |
-
-Saturday, 17 January 2026:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Azasapag](https://osu.ppy.sh/users/18347666) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/120329594) |
+| Lower | Smart Falcon | 4 | **6** | ::{ flag=ID }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/121534588) |
+| Lower | **Team Spirit** | **6** | 1 | Bad News Eagles | [#1](https://osu.ppy.sh/community/matches/121534590) |
 
 Sunday, 18 January 2026:
 
