@@ -419,8 +419,8 @@ Monday, 12 January 2026:
 
 | Rank | Team name | Score | Wins | Draws | Losses | Maps won | Map difference |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1 | Falcons | 3.5 | 3 | 1 | 0 | 19 | +10 |
-| 2 | Rex Regum Qeon | 3.0 | 2 | 2 | 0 | 18 | +8 |
+| 1 | Paper Rex | 4.0 | 4 | 0 | 0 | 20 | +15 |
+| 2 | Leviatán | 3.0 | 2 | 2 | 0 | 18 | +6 |
 | 3 | Vitality | 2.5 | 2 | 1 | 1 | 17 | +7 |
 | 4 | Team Spirit | 2.0 | 1 | 2 | 1 | 15 | +1 |
 | 5 | Brazil | 2.0 | 1 | 2 | 1 | 14 | 0 |
@@ -451,8 +451,8 @@ Saturday, 4 July 2026:
 | 2-6 | **Paper Rex** | **5** | 2 | Smart Falcon | [#1](https://osu.ppy.sh/community/matches/121449827) |
 | 2-4 | NAVI | 4 | 4 | Astralis | [#1](https://osu.ppy.sh/community/matches/121450543) |
 | 2-3 | **Team Spirit** | **5** | 1 | T1 | [#1](https://osu.ppy.sh/community/matches/121450217) |
-| 2-18 | Smart Falcon | 4 | 4 | Koyori MBG (My Bini Gue) | [#1](https://osu.ppy.sh/community/matches/121450173) |
 | 2-10 | GAM Esports | 0 | **5** | **Bad News Eagles** | [#1](https://osu.ppy.sh/community/matches/121457108) |
+| 2-18 | Smart Falcon | 4 | 4 | Koyori MBG (My Bini Gue) | [#1](https://osu.ppy.sh/community/matches/121450173) |
 
 Sunday, 5 July 2026:
 
