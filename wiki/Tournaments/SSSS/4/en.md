@@ -352,7 +352,7 @@ Saturday, 11 July 2026:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Play=in[^two-way-tie-note] | **NAVI** | **6** | 5 | Astralis | [#1](https://osu.ppy.sh/community/matches/121492666) |
+| Play-in[^two-way-tie-note] | **NAVI** | **6** | 5 | Astralis | [#1](https://osu.ppy.sh/community/matches/121492666) |
 
 Sunday, 12 July 2026:
 
