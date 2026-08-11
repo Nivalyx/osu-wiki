@@ -456,6 +456,8 @@ Sunday, 5 July 2026:
 | 2-13 | Team Spirit | 2 | **5** | **Astralis** | [#1](https://osu.ppy.sh/community/matches/121456398) |
 | 2-17 | Matagi Snipers | 4 | 4 | Leviatán | [#1](https://osu.ppy.sh/community/matches/121456603) |
 | 2-15 | Edward Gaming | 2 | **5** | **NAVI** | [#1](https://osu.ppy.sh/community/matches/121455653) |
+| 2-11 | GAM Esports | 4 | 4 | Furia | [#1](https://osu.ppy.sh/community/matches/121456786) |
+| 2-12 | Falcons | 4 | 4 | Rex Regum Qeon | [#1](https://osu.ppy.sh/community/matches/121456706) |
 | 2-11 | Vitality | 4 | 4 | Brazil | [#1](https://osu.ppy.sh/community/matches/121456780) |
 
 #### Week 1
