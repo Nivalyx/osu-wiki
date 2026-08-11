@@ -230,33 +230,33 @@ This competition has come to an end and resulted in the following podium:
   1. [NOMELON NOLEMON - Midnight Reflection (Takusa\_) \[Shady's STABILIZER FAULT: INSANE Alert\]](https://osu.ppy.sh/beatmapsets/2382583#osu/5312638)
   2. [-45 - Kurenaikakei (Okoratu) \[allein's Insane\]](https://osu.ppy.sh/beatmapsets/1893565#osu/3982739)
   3. [Shibayan feat. yana - Oznei Haman wa Mou Iranai (itay) \[Selfish Desire\]](https://osu.ppy.sh/beatmapsets/1778687#osu/3642792)
-- Fre Mod
+- Free Mod
   1. [TK from Ling tosite sigure - Bonnou (melwoine) \[Vell's Extra\]](https://osu.ppy.sh/beatmapsets/2043955#osu/4452323)
   2. [P-Model - Logic Airforce (nullset) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/29267#osu/100237)
 
 ### Swiss round (week 1)
 
-**[Download the mappack here! (94 MB)](https://drive.google.com/file/d/1asgYrYWgP8hgfvsu9W8xqnGOS6l3yvob/view?usp=sharing)**
+**[Download the mappack here! (98 MB)](https://drive.google.com/file/d/1FK99VCQty0LQoQz5qmdZrgfSmUEgIa5T/view?usp=sharing)**
 
 - No Mod
-  1. [My Chemical Romance - Thank You for the Venom (2025 Mix) (SupaV) \[Revenge\]](https://osu.ppy.sh/beatmapsets/2382290#osu/5437487)
-  2. [Street - Sakura Fubuki (Ata Remix) (TWEEKER) \[Cherry Blossom\]](https://osu.ppy.sh/beatmapsets/2039767#osu/4254840)
-  3. [DJKurara - Japanese Transformation (wjddjs) \[HyperPigeon's Extreme\]](https://osu.ppy.sh/beatmapsets/2310987#osu/5715082)
-  4. [onumi X Fluff Pink & Belak - TRAUMA (Wispy) \[Ksardas' ORACLE EXTRA feat. Sharu\]](https://osu.ppy.sh/beatmapsets/2408890#osu/5269080)
-  5. [mimizu - Everything will be broken. (iBell) \[extresque's Extra\]](https://osu.ppy.sh/beatmapsets/2492045#osu/5487088)
+  1. [ZUTOMAYO - SHADE (xLolicore-) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/2376632#osu/5133893)
+  2. [DJ SHARPNEL - CYBER INDUCTANCE (mithew) \[FINAL\]](https://osu.ppy.sh/beatmapsets/2342474#osu/5034823)
+  3. [HIMEHINA - Senkou Hanabi (pnky) \[Farewell\]](https://osu.ppy.sh/beatmapsets/2053545#osu/4289564)
+  4. [N2 - NULL APOPHENIA (Kardshark) \[~\]](https://osu.ppy.sh/beatmapsets/2003956#osu/4167396)
+  5. [DECO\*27 - Monitoring (Best Friend Remix) feat. Hatsune Miku (MeAqua tete) \[Len's Not Classic Extra\]](https://osu.ppy.sh/beatmapsets/2431107#osu/5312665)
 - Hidden
-  1. [F9 - Kagaribito (captin1) \[Fragments\]](https://osu.ppy.sh/beatmapsets/1087452#osu/2274038)
-  2. [A.SAKA - Kannagi (Buster) \[YeLing's Extra\]](https://osu.ppy.sh/beatmapsets/2530218#osu/5603409)
+  1. [M2U - Dual Fractal (Hailie) \[Icekalt's Extra\]](https://osu.ppy.sh/beatmapsets/865577#osu/1823007)
+  2. [Porter Robinson - Everything To Me (quila) \[soft mind\]](https://osu.ppy.sh/beatmapsets/2506004#osu/5517688)
 - Hard Rock
-  1. [Marmalade butcher - Open Scar Unending (revoh) \[Wispy's Extra\]](https://osu.ppy.sh/beatmapsets/2471983#osu/5416140)
-  2. [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (Alphabet) \[Spork Lover's Scorched\]](https://osu.ppy.sh/beatmapsets/710329#osu/1502636)
+  1. [CQ - Emil (App) \[Appzki\]](https://osu.ppy.sh/beatmapsets/2426226#osu/5437666)
+  2. [Kingyo kousen - Tobenai Shinkai gyo (Phten02) \[ar5\]](https://osu.ppy.sh/beatmapsets/2388078#osu/5167863)
 - Double Time
-  1. [NOMELON NOLEMON - Midnight Reflection (Takusa\_) \[Shady's STABILIZER FAULT: INSANE Alert\]](https://osu.ppy.sh/beatmapsets/2382583#osu/5312638)
-  2. [-45 - Kurenaikakei (Okoratu) \[allein's Insane\]](https://osu.ppy.sh/beatmapsets/1893565#osu/3982739)
-  3. [Shibayan feat. yana - Oznei Haman wa Mou Iranai (itay) \[Selfish Desire\]](https://osu.ppy.sh/beatmapsets/1778687#osu/3642792)
-- Fre Mod
-  1. [TK from Ling tosite sigure - Bonnou (melwoine) \[Vell's Extra\]](https://osu.ppy.sh/beatmapsets/2043955#osu/4452323)
-  2. [P-Model - Logic Airforce (nullset) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/29267#osu/100237)
+  1. [SHIKI - Himitsu (Yugu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1707540#osu/3559941)
+  2. [underscores - Music (blixys) \[quantumvortex's Insane\]](https://osu.ppy.sh/beatmapsets/2542651#osu/5647257)
+  3. [Mili - Space Colony (plork) \[Kepler-62e/f (981 light-years away)\]](https://osu.ppy.sh/beatmapsets/2090448#osu/5653796)
+- Free Mod
+  1. [AAAA - reach for your victory!!! (toybot) \[-tynamo's extra!!!\]](https://osu.ppy.sh/beatmapsets/2227145#osu/4883806)
+  2. [Hatsune Miku - Hatsune Miku no Bunretsu->Hakai (DoraX) \[Destroy\]](https://osu.ppy.sh/beatmapsets/33815#osu/110082)
 
 ### Qualifiers
 
