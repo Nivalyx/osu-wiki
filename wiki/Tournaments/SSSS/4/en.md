@@ -375,22 +375,18 @@ Monday, 19 January 2026:
 
 Saturday, 11 July 2026:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Play=in[^two-way-tie-note] | **NAVI** | **6** | 5 | Astralis | [#1](https://osu.ppy.sh/community/matches/121492666) |
 
-Sunday, 11 January 2026:
+Sunday, 12 July 2026:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Stixe](https://osu.ppy.sh/users/18351160) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/120286574) |
-| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | [#1](https://osu.ppy.sh/community/matches/120287756) |
-
-Monday, 12 January 2026:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/120294772) |
+| Upper | **Rex Regum Qeon** | **6** | 2 | Astralis | [#1](https://osu.ppy.sh/community/matches/121498962) |
+| Upper | **Leviatán** | **6** | 1 | Vitality | [#1](https://osu.ppy.sh/community/matches/121499265) |
+| Upper | **Falcons** | **6** | 5 | G2 Esports | [#1](https://osu.ppy.sh/community/matches/121505365) |
+| Upper | **Paper Rex** | **6** | 3 | Team Spirit | [#1](https://osu.ppy.sh/community/matches/121499331) |
 
 ### Swiss round
 
