@@ -415,16 +415,20 @@ Monday, 12 January 2026:
 | 9 | The Mongolz | 1.0 | 1 | 0 | 3 | 7 | -11 |
 | 10 | Edward Gaming | 0.0 | 0 | 0 | 4 | 9 | -11 |
 
-| 11 | ryowari da | 3 | 2 | 2 | 2 | +1 |
-| 12 | hina motor | 3 | 2 | 2 | 2 | 0 |
-| 13 | Banana | 2.5 | 1 | 3 | 2 | -3 |
-| 14 | Kageno | 2.5 | 1 | 3 | 2 | -5 |
-| 15 | TTzida | 2 | 1 | 2 | 3 | -11[^three-way-tie-note] |
-| 16 | Ang Pogi mo Oodriin | 2 | 1 | 2 | 3 | -11[^three-way-tie-note] |
-| 17 | kedama milk | 2 | 2 | 0 | 4 | -11[^three-way-tie-note] |
-| 18 | Mica Motor | 1.5 | 1 | 1 | 4 | -8 |
-| 19 | Chicken Rice | 1.5 | 1 | 1 | 4 | -11 |
-| 20 | Team | 1 | 1 | 0 | 5 | -16 |
+**Group B:**
+
+| Rank | Team name | Score | Wins | Draws | Losses | Maps won | Map difference |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | Falcons | 3.5 | 3 | 1 | 0 | 19 | +10 |
+| 2 | Rex Regum Qeon | 3.0 | 2 | 2 | 0 | 18 | +8 |
+| 3 | Vitality | 2.5 | 2 | 1 | 1 | 17 | +7 |
+| 4 | Team Spirit | 2.0 | 1 | 2 | 1 | 15 | +1 |
+| 5 | Brazil | 2.0 | 1 | 2 | 1 | 14 | 0 |
+| 6 | NAVI | 2.0 | 1 | 2 | 1 | 14 | -1[^two-way-tie-note] |
+| 7 | Astralis | 2.0 | 1 | 2 | 1 | 14 | -1[^two-way-tie-note] |
+| 8 | T1 | 2.0 | 2 | 0 | 2 | 12 | -2 |
+| 9 | The Mongolz | 1.0 | 1 | 0 | 3 | 7 | -11 |
+| 10 | Edward Gaming | 0.0 | 0 | 0 | 4 | 9 | -11 |
 
 #### Week 2
 
@@ -481,8 +485,8 @@ Saturday, 27 June 2026:
 | 1-8 | **Leviatán** | **5** | 2 | FURIA | [#1](https://osu.ppy.sh/community/matches/121408114) |
 | 1-5 | Brazil | 4 | 4 | Astralis | [#1](https://osu.ppy.sh/community/matches/121408061) |
 | 1-4 | Edward Gaming | 2 | **5** | **T1** | [#1](https://osu.ppy.sh/community/matches/121408449) |
-| 1-2 | Rex Regum Qeon | 4 | 4 | Team Spirit | [#1](https://osu.ppy.sh/community/matches/121408113) |
 | 1-10 | **G2 Esports** | **5** | 3 | Bad News Eagles | [#1](https://osu.ppy.sh/community/matches/121408478) |
+| 1-2 | Rex Regum Qeon | 4 | 4 | Team Spirit | [#1](https://osu.ppy.sh/community/matches/121408113) |
 
 Sunday, 28 June 2026:
 
