@@ -458,12 +458,12 @@ Sunday, 28 June 2026:
 
 ### Qualifiers
 
-The full details of all the Qualifier results can be found [here](https://docs.google.com/spreadsheets/d/17iy1kshVWXtzJM9pY9p410hDtbOwg1UN5ez2v_QUpTo/edit?gid=1162863454#gid=1162863454).
+The full detailed breakdown of the Qualifier results can be found [here](https://docs.google.com/spreadsheets/d/17iy1kshVWXtzJM9pY9p410hDtbOwg1UN5ez2v_QUpTo/edit?gid=1162863454#gid=1162863454).
 
-| Seed no. | Player | %MAX avg. |
+| Seed no. | Player | `%MAX` avg. |
 | :-- | :-- | :-- |
-| 1 | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | 11.32 |
-| 2 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 11.23 |
+| 1 | ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299) | 0.758 |
+| 2 | ::{ flag=SG }:: [Tapses](https://osu.ppy.sh/users/8852426) | 0.721 |
 | 3 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | 10.92 |
 | 4 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.70 |
 | 5 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 10.62 |
