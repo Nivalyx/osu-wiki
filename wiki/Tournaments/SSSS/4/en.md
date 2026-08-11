@@ -451,8 +451,8 @@ Saturday, 4 July 2026:
 | 2-6 | **Paper Rex** | **5** | 2 | Smart Falcon | [#1](https://osu.ppy.sh/community/matches/121449827) |
 | 2-4 | NAVI | 4 | 4 | Astralis | [#1](https://osu.ppy.sh/community/matches/121450543) |
 | 2-3 | **Team Spirit** | **5** | 1 | T1 | [#1](https://osu.ppy.sh/community/matches/121450217) |
-| 2-10 | GAM Esports | 0 | **5** | **Bad News Eagles** | [#1](https://osu.ppy.sh/community/matches/121457108) |
 | 2-18 | Smart Falcon | 4 | 4 | Koyori MBG (My Bini Gue) | [#1](https://osu.ppy.sh/community/matches/121450173) |
+| 2-10 | GAM Esports | 0 | **5** | **Bad News Eagles** | [#1](https://osu.ppy.sh/community/matches/121457108) |
 
 Sunday, 5 July 2026:
 
