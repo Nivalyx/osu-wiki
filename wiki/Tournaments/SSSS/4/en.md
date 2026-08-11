@@ -464,8 +464,8 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | :-- | :-- | :-- |
 | 1 | ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299) | 0.758 |
 | 2 | ::{ flag=SG }:: [Tapses](https://osu.ppy.sh/users/8852426) | 0.721 |
-| 3 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | 10.92 |
-| 4 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.70 |
+| 3 | ::{ flag=PH }:: [GuardiaN](https://osu.ppy.sh/users/11001039) | 0.578 |
+| 4 | ::{ flag=VN }:: [VenomPuffs](https://osu.ppy.sh/users/8715313) | 0.561 |
 | 5 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 10.62 |
 | 6 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 10.36 |
 | 7 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 10.27 |
