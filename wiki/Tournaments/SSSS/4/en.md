@@ -542,7 +542,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 ### General rules
 
 1. Match lobbies across the tournament will adhere to the following room settings:
-   - Team Mode: `Head-to-head`
+   - Team Mode: `Team Vs`
    - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#reschedule` channel in the tournament's Discord server.
