@@ -443,10 +443,19 @@ Saturday, 27 June 2026:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| 1-20 | **G2 Esports** | **5** | 3 | GAM Esports | [#1](https://osu.ppy.sh/community/matches/121409007) |
 | 1-7 | **Paper Rex** | **5** | 0 | FaZe Clan | [#1](https://osu.ppy.sh/community/matches/121407769) |
 | 1-11 | NAVI | 4 | 4 | Team Spirit | [#1](https://osu.ppy.sh/community/matches/121407688) |
 | 1-8 | **Leviatán** | **5** | 2 | FURIA | [#1](https://osu.ppy.sh/community/matches/121408114) |
 | 1-5 | Brazil | 4 | 4 | Astralis | [#1](https://osu.ppy.sh/community/matches/121408061) |
+| 1-4 | Edward Gaming | 2 | **5** | **T1** | [#1](https://osu.ppy.sh/community/matches/121408449) |
+| 1-2 | Rex Regum Qeon | 4 | 4 | Team Spirit | [#1](https://osu.ppy.sh/community/matches/121408113) |
+| 1-10 | **G2 Esports** | **5** | 3 | Bad News Eagles | [#1](https://osu.ppy.sh/community/matches/121408478) |
+
+Sunday, 28 June 2026:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 
 ## Ruleset
 
