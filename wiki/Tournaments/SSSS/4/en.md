@@ -476,10 +476,10 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | 12 | ::{ flag=SG }:: [Lumish264](https://osu.ppy.sh/users/20212225) | 0.452 |
 | 13 | ::{ flag=MY }:: [not_aweeb](https://osu.ppy.sh/users/9375317) | 0.447 |
 | 14 | ::{ flag=PH }:: [JayAreEee](https://osu.ppy.sh/users/10852557) | 0.443 |
-| 15 | AlmondMal       | 0.427 |
-| 16 | Anderwear       | 0.426 |
-| 17 | AlpiAz          | 0.426 |
-| 18 | Ksorchou        | 0.424 |
+| 15 | ::{ flag=SG }:: [AlmondMal](https://osu.ppy.sh/users/12831353) | 0.427 |
+| 16 | ::{ flag=SG }:: [Anderwear](https://osu.ppy.sh/users/14429830) | 0.426 |
+| 17 | ::{ flag=ID }:: [AlpiAz](https://osu.ppy.sh/users/26321771) | 0.426 |
+| 18 | ::{ flag=PH }:: [Ksorchou](https://osu.ppy.sh/users/18549932) | 0.424 |
 | 19 | Junkmaniac      | 0.420 |
 | 20 | zSidd           | 0.414 |
 | 21 | Ramizel         | 0.388 |
