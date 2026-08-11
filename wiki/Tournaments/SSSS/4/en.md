@@ -435,10 +435,16 @@ Saturday, 4 July 2026:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| 2-9 | **Koyori MBG (My Bini Gue)** | **5** | 3 | FaZe Clan | [#1](https://osu.ppy.sh/community/matches/121449829) |
 | 2-1 | Vitality | 3 | **5** | **Falcons** | [#1](https://osu.ppy.sh/community/matches/121449779) |
-| 2-8 | Matagi Snipers  | 4 | 4 | FURIA | [#1](https://osu.ppy.sh/community/matches/121449736) |
+| 2-16 | **Paper Rex** | **5** | 1 | G2 Esports | [#1](https://osu.ppy.sh/community/matches/121450152) |
+| 2-8 | Matagi Snipers | 4 | 4 | FURIA | [#1](https://osu.ppy.sh/community/matches/121449736) |
 | 2-14 | **T1** | **5** | 2 | The Mongolz | [#1](https://osu.ppy.sh/community/matches/121449757) |
+| 2-2 | **Rex Regum Qeon** | **5** | 1 | Brazil | [#1](https://osu.ppy.sh/community/matches/121450156) |
 | 2-6 | **Paper Rex** | **5** | 2 | Smart Falcon | [#1](https://osu.ppy.sh/community/matches/121449827) |
+| 2-4 | NAVI | 4 | 4 | Astralis | [#1](https://osu.ppy.sh/community/matches/121450543) |
+| 2-3 | **Team Spirit** | **5** | 1 | T1 | [#1](https://osu.ppy.sh/community/matches/121450217) |
+| 2-18 | Smart Falcon | 4 | 4 | Koyori MBG (My Bini Gue) | [#1](https://osu.ppy.sh/community/matches/121450173) |
 
 #### Week 1
 
