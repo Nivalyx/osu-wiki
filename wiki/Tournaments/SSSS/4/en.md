@@ -370,7 +370,7 @@ Sunday, 12 July 2026:
 **Group A:**
 
 | Rank | Team name | Score | Wins | Draws | Losses | Maps won | Map difference |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | Falcons | 3.5 | 3 | 1 | 0 | 19 | +10 |
 | 2 | Rex Regum Qeon | 3.0 | 2 | 2 | 0 | 18 | +8 |
 | 3 | Vitality | 2.5 | 2 | 1 | 1 | 17 | +7 |
@@ -385,7 +385,7 @@ Sunday, 12 July 2026:
 **Group B:**
 
 | Rank | Team name | Score | Wins | Draws | Losses | Maps won | Map difference |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | Paper Rex | 4.0 | 4 | 0 | 0 | 20 | +15 |
 | 2 | Leviatán | 3.0 | 2 | 2 | 0 | 18 | +6 |
 | 3 | Smart Falcon | 2.5 | 2 | 1 | 1 | 16 | +4 |
