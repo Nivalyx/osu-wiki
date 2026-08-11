@@ -522,14 +522,14 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | 58 | ::{ flag=MY }:: [seoster](https://osu.ppy.sh/users/12841949) | 0.202 |
 | 59 | ::{ flag=VN }:: [IceKori](https://osu.ppy.sh/users/19366323) | 0.199 |
 | 60 | ::{ flag=MY }:: [Makise Kurisu](https://osu.ppy.sh/users/6996926) | 0.194 |
-| 61 | kropto          | 0.189 |
-| 62 | LDerpy          | 0.177 |
-| 63 | tiurla          | 0.154 |
-| 64 | stupidcheesecat | 0.141 |
-| 65 | Macho_          | 0.140 |
-| 66 | IzH3Re          | 0.132 |
-| 67 | OyaOya          | 0.129 |
-| 68 | FinanceRyugu    | 0.128 |
+| 61 | ::{ flag=ID }:: [kropto](https://osu.ppy.sh/users/34828325) | 0.189 |
+| 62 | ::{ flag=SG }:: [LDerpy](https://osu.ppy.sh/users/3100799) | 0.177 |
+| 63 | ::{ flag=VN }:: [tiurla](https://osu.ppy.sh/users/16847092) | 0.154 |
+| 64 | ::{ flag=SG }:: [stupidcheesecat](https://osu.ppy.sh/users/13216382) | 0.141 |
+| 65 | ::{ flag=MM }:: [Macho\_](https://osu.ppy.sh/users/28788334) | 0.140 |
+| 66 | ::{ flag=MY }:: [IzH3Re](https://osu.ppy.sh/users/25016898) | 0.132 |
+| 67 | ::{ flag=SG }:: [OyaOya](https://osu.ppy.sh/users/23301694) | 0.129 |
+| 68 | ::{ flag=PH }:: [FinanceRyugu](https://osu.ppy.sh/users/31134597) | 0.128 |
 | 69 | PolarPowah      | 0.113 |
 | 70 | Yanoish         | 0.109 |
 | 71 | Ch3rryL         | 0.103 |
