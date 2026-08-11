@@ -22,7 +22,7 @@ The **SEA Summer Suiji Showdown 4** (***SSSS 4***) was a South East Asian team-b
 | Quarterfinals | 2026-07-06/2026-07-12 |
 | Semifinals | 2026-07-13/2026-07-19 |
 | Finals (week 1) | 2026-07-20/2026-07-26 |
-| *break* | 2026-07-27/2026-08-02 |
+| *Break* | 2026-07-27/2026-08-02 |
 | Finals (week 2) | 2026-08-03/2026-08-09 |
 
 ## Prizes
