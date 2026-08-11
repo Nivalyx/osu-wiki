@@ -581,7 +581,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 5. Based on their performance in the Qualifier, players will be ranked based on their **`%MAX` value**, which is the percentage of their score relative to the highest achieved score of all players in a map.
 6. The 16 players with the **highest average `%MAX` value** out of all the twelve Qualifier beatmaps will advance to the team matchmaking phase.
    - If there are two (or more) players who share the same `%MAX` value, the player that holds the higher total raw score will be placed in the higher seed.
-7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+7. Failure to attend in any of the predetermined Qualifier lobbies will result in an outright elimination.
 
 #### Team matchmaking
 
