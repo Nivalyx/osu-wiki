@@ -425,11 +425,17 @@ Monday, 12 January 2026:
 
 #### Week 2
 
-Thursday, 22 June 2023:
+Friday, 3 July 2026:
 
 | Match code | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 3-19 | Chicken Rice | 3 | **5** | **Team** | [#1](https://osu.ppy.sh/community/matches/109146573) |
+| 2-7 | Leviatán | 4 | 4 | G2 Esports | [#1](https://osu.ppy.sh/community/matches/121444113) |
+
+Saturday, 4 July 2026:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 2-14 | **T1** | **5** | 2 | The Mongolz | [#1](https://osu.ppy.sh/community/matches/121449757) |
 
 #### Week 1
 
