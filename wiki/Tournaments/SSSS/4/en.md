@@ -158,7 +158,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (126 MB)](https://drive.google.com/file/d/12TmLV8jm7m2phU3MghSq9R_F2SsdEgyQ/view)**
+**[Download the mappack here! (126 MB)](https://drive.google.com/file/d/12TmLV8jm7m2phU3MghSq9R_F2SsdEgyQ/view?usp=sharing)**
 
 - No Mod
   1. [Sayuri - Heikousen (Liyuu) \[Meg's Taboo\]](https://osu.ppy.sh/beatmapsets/2456909#osu/5370968)
@@ -260,24 +260,24 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (90 MB)](https://mappack.sah.moe/download/XuoBxj3Z)**
+**[Download the mappack here! (75 MB)](https://drive.google.com/file/d/13d6zVyZmpkGKQ6Top2v1e8S0lx4hIm-l/view?usp=sharing)**
 
 - No Mod
-  1. [ELFENSJoN - Hyousou wa Hakuen wo Matoite (Yusomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1312064#osu/2719302)
-  2. [xi - over the top (Rino Inosaki) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/2298941#osu/4912108)
-  3. [hitorie - Nichijou to Chikyuu no Gakubuchi (wowaka x Hatsune Miku Edit) (flake) \[take care.\]](https://osu.ppy.sh/beatmapsets/1985060#osu/4122999)
-  4. [seatrus - ILLEGAL LEGACY (IntegerTempest) \[colicen's EXPERT\]](https://osu.ppy.sh/beatmapsets/1932951#osu/4057648)
-  5. [Annabel - wormhole (NBA YOUNGBOY) \[adham njegur got\]](https://osu.ppy.sh/beatmapsets/2367621#osu/5107430)
+  1. [Aqours - Aozora Jumping Heart (SkyFlame) \[Sunburst\]](https://osu.ppy.sh/beatmapsets/588620#osu/3361023)
+  2. [Various Artists - Ms. VICTORIA (Game Size) (lushifer) \[#freeiloveuma\]](https://osu.ppy.sh/beatmapsets/1897432#osu/3910634)
+  3. [GOHOBI - Boku no Rimokon Kaeshite (emilia) \[ar9.4 for the babies\]](https://osu.ppy.sh/beatmapsets/1900684#osu/3928035)
+  4. [Getty - B WiZ U (Cubby) \[Me & U\]](https://osu.ppy.sh/beatmapsets/2054627#osu/4292677)
+  5. [yuri - Heart111 (Ekoro) \[11\]](https://osu.ppy.sh/beatmapsets/2513719#osu/5547663)
 - Hidden
-  1. [Dua Lipa - Levitating (Axarious) \[AR9\]](https://osu.ppy.sh/beatmapsets/1688321#osu/3450301)
-  2. [Nor - RE Aoharu (FAW) \[The Blue Spring REturns\]](https://osu.ppy.sh/beatmapsets/2155302#osu/4542964)
+  1. [PSYQUI - Multicoloured (yaspo) \[chonk\]](https://osu.ppy.sh/beatmapsets/1262413#osu/2623955)
+  2. [P-MODEL - Go for it! Halycon (an3) \[I'll gift 1x supporter for fcing this mid match\]](https://osu.ppy.sh/beatmapsets/2134745#osu/4491576)
 - Hard Rock
-  1. [marasy feat. Hatsune Miku - SnowMix (Tuffiii) \[AuroraFantasy\]](https://osu.ppy.sh/beatmapsets/1910869#osu/4886589)
-  2. [Ryokuoushoku Shakai - inori (Miy) \[pray\]](https://osu.ppy.sh/beatmapsets/1915271#osu/4428001)
+  1. [Apink - NoNoNo (Ascended) \[baka\]](https://osu.ppy.sh/beatmapsets/2142931#osu/4511063)
+  2. [Two Door Cinema Club - Cigarettes in the Theatre (entsetzen) \[please don't stop talking\]](https://osu.ppy.sh/beatmapsets/1598238#osu/3264072)
 - Double Time
-  1. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Cappuchino\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3162593)
-  2. [ZUN - Romantic Children (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2287801#osu/4881371)
-  3. [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
+  1. [paraoka - Manima ni (Sandpig) \[('(oo)')\]](https://osu.ppy.sh/beatmapsets/43107#osu/135396)
+  2. [Sasaki Sayaka - Never the Fever!! (Respirte) \[Insane\]](https://osu.ppy.sh/beatmapsets/2202864#osu/4662384)
+  3. [sasanomaly - Onomatopoeia Glasses (Sagu) \[o-o-.\]](https://osu.ppy.sh/beatmapsets/1439058#osu/2960994)
 
 ## Match results
 
