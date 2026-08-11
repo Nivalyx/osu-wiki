@@ -492,13 +492,13 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | 28 | ::{ flag=TH }:: [Nyz](https://osu.ppy.sh/users/5408255) | 0.339 |
 | 29 | ::{ flag=SG }:: [Fuwub](https://osu.ppy.sh/users/14238097) | 0.337 |
 | 30 | ::{ flag=MY }:: [squidstain](https://osu.ppy.sh/users/11073207) | 0.337 |
-| 31 | aiyern          | 0.334 |
-| 32 | callyfour       | 0.333 |
-| 33 | Sorasaki Hina   | 0.321 |
-| 34 | xidorn          | 0.320 |
-| 35 | JerryJumbo      | 0.312 |
-| 36 | Ascaveth        | 0.308 |
-| 37 | kiraze          | 0.306 |
+| 31 | ::{ flag=VN }:: [aiyern](https://osu.ppy.sh/users/13826244) | 0.334 |
+| 32 | ::{ flag=PH }:: [callyfour](https://osu.ppy.sh/users/17290521) | 0.333 |
+| 33 | ::{ flag=SG }:: [Sorasaki Hina](https://osu.ppy.sh/users/17493320) | 0.321 |
+| 34 | ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667) | 0.320 |
+| 35 | ::{ flag=VN }:: [JerryJumbo](https://osu.ppy.sh/users/27634475) | 0.312 |
+| 36 | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) | 0.308 |
+| 37 | ::{ flag=SG }:: [kiraze](https://osu.ppy.sh/users/7290359) | 0.306 |
 | 38 | Moltenfury      | 0.305 |
 | 39 | LeivanTZH       | 0.294 |
 | 40 | m0fum0fu        | 0.293 |
