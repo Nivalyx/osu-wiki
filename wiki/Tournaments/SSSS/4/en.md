@@ -460,6 +460,29 @@ Sunday, 28 June 2026:
 
 ### Qualifiers
 
+Listed below are the players who managed to qualify into the tournaments as C out of 70 participating players in total.
+
+The complete list of Qualifier results can be found [on this following spreadsheet](https://docs.google.com/spreadsheets/d/17iy1kshVWXtzJM9pY9p410hDtbOwg1UN5ez2v_QUpTo/edit?gid=1162863454#gid=1162863454).
+
+| Seed no. | Player | %MAX avg. |
+| :-- | :-- | :-- |
+| 1 | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | 11.32 |
+| 2 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 11.23 |
+| 3 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | 10.92 |
+| 4 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.70 |
+| 5 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 10.62 |
+| 6 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 10.36 |
+| 7 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 10.27 |
+| 8 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | 9.67 |
+| 9 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 9.03 |
+| 10 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | 8.91 |
+| 11 | ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) | 8.73 |
+| 12 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | 8.59 |
+| 13 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 8.40 |
+| 14 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 8.27 |
+| 15 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | 8.19 |
+| 16 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.16 |
+
 ## Ruleset
 
 ### General rules
