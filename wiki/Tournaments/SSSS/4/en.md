@@ -396,6 +396,58 @@ Monday, 12 January 2026:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/120294772) |
 
+### Swiss round
+
+#### Overall standings
+
+| Rank | Team name | Points | Wins | Draws | Losses | Map difference |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | Schale | 5 | 5 | 0 | 1 | +17 |
+| 2 | kisaki motor | 5 | 5 | 0 | 1 | +16 |
+| 3 | Tingyun Motor | 5 | 5 | 0 | 1 | +10 |
+| 4 | maimai | 4.5 | 4 | 1 | 1 | +12 |
+| 5 | geoguessr | 4 | 4 | 0 | 2 | +6 |
+| 6 | blind people | 3.5 | 3 | 1 | 2 | +3 |
+| 7 | Spacediver | 3 | 3 | 0 | 3 | +4 |
+| 8 | Stelle x Trash Can | 3 | 3 | 0 | 3 | +3 |
+| 9 | Rumah Makan Padang | 3 | 2 | 2 | 2 | +3 |
+| 10 | Fuuka Motor | 3 | 3 | 0 | 3 | +1 |
+| 11 | ryowari da | 3 | 2 | 2 | 2 | +1 |
+| 12 | hina motor | 3 | 2 | 2 | 2 | 0 |
+| 13 | Banana | 2.5 | 1 | 3 | 2 | -3 |
+| 14 | Kageno | 2.5 | 1 | 3 | 2 | -5 |
+| 15 | TTzida | 2 | 1 | 2 | 3 | -11[^three-way-tie-note] |
+| 16 | Ang Pogi mo Oodriin | 2 | 1 | 2 | 3 | -11[^three-way-tie-note] |
+| 17 | kedama milk | 2 | 2 | 0 | 4 | -11[^three-way-tie-note] |
+| 18 | Mica Motor | 1.5 | 1 | 1 | 4 | -8 |
+| 19 | Chicken Rice | 1.5 | 1 | 1 | 4 | -11 |
+| 20 | Team | 1 | 1 | 0 | 5 | -16 |
+
+#### Week 2
+
+Thursday, 22 June 2023:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 3-19 | Chicken Rice | 3 | **5** | **Team** | [#1](https://osu.ppy.sh/community/matches/109146573) |
+
+#### Week 1
+
+Friday, 26 June 2026:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 1-15 | **Brazil** | **5** | 1 | T1 | [#1](https://osu.ppy.sh/community/matches/121402453) |
+
+Saturday, 27 June 2026:
+
+| Match code | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| 1-7 | **Paper Rex** | **5** | 0 | FaZe Clan | [#1](https://osu.ppy.sh/community/matches/121407769) |
+| 1-11 | NAVI | 4 | 4 | Team Spirit | [#1](https://osu.ppy.sh/community/matches/121407688) |
+| 1-8 | **Leviatán** | **5** | 2 | FURIA | [#1](https://osu.ppy.sh/community/matches/121408114) |
+| 1-5 | Brazil | 4 | 4 | Astralis | [#1](https://osu.ppy.sh/community/matches/121408061) |
+
 ## Ruleset
 
 ### General rules
