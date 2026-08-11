@@ -181,35 +181,36 @@ This competition has come to an end and resulted in the following podium:
 - Free Mod
   1. [Louis Cole - Park Your Car on My Face (boifrosty) \[gurl\]](https://osu.ppy.sh/beatmapsets/2332641#osu/5005352)
   2. [UNDEAD CORPORATION - Karakurenai feat. Ranko (Cris-) \[Yumerios' Extra Stage\]](https://osu.ppy.sh/beatmapsets/2415448#osu/5283846)
-  3. [Kobaryo - northern_limit [feat. Sennzai] (Kojio) \[Respirte's Extreme\]](https://osu.ppy.sh/beatmapsets/1983007#osu/4728105)
+  3. [Kobaryo - northern\_limit [feat. Sennzai] (Kojio) \[Respirte's Extreme\]](https://osu.ppy.sh/beatmapsets/1983007#osu/4728105)
 
 ### Quarterfinals
 
-**[Download the mappack here! (131 MB)](https://mappack.sah.moe/download/i7FvzcV5)**
+**[Download the mappack here! (134 MB)](https://drive.google.com/file/d/15PKmra6SJvIxdNWfzt-AUhWNqYPdD_s7/view?usp=sharing)**
 
 - No Mod
-  1. [sweet ARMS - Trust in you (CXu) \[Zafkiel\]](https://osu.ppy.sh/beatmapsets/346218#osu/764310)
-  2. [Starkill - Until We Fall (Roupus) \[Uri's Extreme\]](https://osu.ppy.sh/beatmapsets/1956762#osu/4119388)
-  3. [Kabocha - Draw me a map, Let me feel the tap (toybot) \[gazimal's Extra\]](https://osu.ppy.sh/beatmapsets/2051856#osu/4608517)
-  4. [TWICE - Alcohol-Free (Halgoh) \[For Eli\]](https://osu.ppy.sh/beatmapsets/2031370#osu/4233972)
-  5. [Jun Ishikawa - Green Greens (Fatfan Kolek) \[emilia's Kirby Super Star Ultra\]](https://osu.ppy.sh/beatmapsets/2341780#osu/5037176)
+  1. [hasu - Lightning Strike (luxSal) \[ELECTRON DISCHARGE\]](https://osu.ppy.sh/beatmapsets/2417220#osu/5255306)
+  2. [Victorius - Twilight Skies (YEYHA) \[Running to the Stars\]](https://osu.ppy.sh/beatmapsets/2477642#osu/5432931)
+  3. [Nekomata Master+ - AFRO KNUCKLE (UniUniverse) \[Un(li)mited Flavor\]](https://osu.ppy.sh/beatmapsets/2580961#osu/5752682)
+  4. [Demiurge Zero - Eynohr (KChronoZ) \[Expert\]](https://osu.ppy.sh/beatmapsets/2412250#osu/5238538)
+  5. [HARU NEMURI - lostplanet (Orkay) \[myownuniverse\]](https://osu.ppy.sh/beatmapsets/2261862#osu/4814345)
 - Hidden
-  1. [Mizuki Nana x T.M.Revolution - Kakumei Dualism (Dailycare) \[Fujirin's Expert\]](https://osu.ppy.sh/beatmapsets/2008892#osu/4723219)
-  2. [muship - Teddy THE Teddy (Herazu) \[Hidden Extra\]](https://osu.ppy.sh/beatmapsets/2251125#osu/4788639)
-  3. [Xceon - Fuyutsubaki feat. Kanae Asaba (yf\_bmp) \[+Leggendaria\]](https://osu.ppy.sh/beatmapsets/1022180#osu/2138603)
+  1. [KOTOKO - Tobiuo (Lasse) \[Extra\]](https://osu.ppy.sh/beatmapsets/2533749#osu/5602360)
+  2. [Inabakumori - Rainy Boots (_necroplasma) \[Monsoon\]](https://osu.ppy.sh/beatmapsets/2061527#osu/4309678)
+  3. [UNDEAD CORPORATION - and Say Good Bye... (Halfslashed) \[cob's Extra\]](https://osu.ppy.sh/beatmapsets/1779479#osu/5426171)
 - Hard Rock
-  1. [Ayaka Ohashi - Wagamama MIRROR HEART (Amamya) \[Revenge\]](https://osu.ppy.sh/beatmapsets/2052377#osu/4286644)
-  2. [Dark PHOENiX - Hiroari Kechou o Iru Koto (Camo) \[Shurelia's Expert\]](https://osu.ppy.sh/beatmapsets/2128728#osu/4620902)
-  3. [USAO - Extra Mode (Otosaka-Yu) \[Rhythm Technique\]](https://osu.ppy.sh/beatmapsets/811948#osu/1703048)
+  1. [Origami Angel - The Title Track (an3) \[Irgendwo Stadt\]](https://osu.ppy.sh/beatmapsets/2196057#osu/4646916)
+  2. [chouchou merged syrups. - Hakuchuumu wa Shiisai no Nai (PandaHero) \[App's Expert\]](https://osu.ppy.sh/beatmapsets/2463069#osu/5395390)
+  3. [MYUKKE. - Fete of Fate (CMeFly) \[Kismet\]](https://osu.ppy.sh/beatmapsets/2580830#osu/5752261)
 - Double Time
-  1. [Nakamura Meiko - revolution (LandoriK) \[Space\]](https://osu.ppy.sh/beatmapsets/1687781#osu/3457130)
-  2. [Shoji Meguro - The Battle for Everyone's Souls (Wekkl) \[Battle Hymn\]](https://osu.ppy.sh/beatmapsets/2196805#osu/4648514)
-  3. [AVTechNO! x Treow - boku-boku II feat. Hatsune Miku (Chaoslitz) \[Laurier's Insane\]](https://osu.ppy.sh/beatmapsets/2271970#osu/4839686)
-  4. [-45 - Ena (allein) \[Insane\]](https://osu.ppy.sh/beatmapsets/1882400#osu/3875572)
-- Tiebreaker
-  1. **[King Gizzard & The Lizard Wizard - Robot Stop (olc) \[REDLIGHT (VIP)\]](https://osu.ppy.sh/beatmapsets/1610231#osu/3287767)**
+  1. [Sasaki Sayaka - Atlantico Blue (believer\_i) \[Collab Insane\]](https://osu.ppy.sh/beatmapsets/2317331#osu/5424291)
+  2. [TAMAONSEN - Gensou Kappa Koushinkyoku feat. ytr (Suicune3) \[Lunatic Kappa\]](https://osu.ppy.sh/beatmapsets/2239541#osu/4762076)
+  3. [Charli xcx - Club classics (Delta\_) \[Alty's insane\]](https://osu.ppy.sh/beatmapsets/2215605#osu/4866889)
+- Free Mod
+  1. [minato feat. Hatsune Miku, Megurine Luka - magnet (muya-) \[h1dron & enri's extreme yuri ship\]](https://osu.ppy.sh/beatmapsets/2134600#osu/4977435)
+  2. [Rissyuu feat. Choko - Bamboo (JeZag) \[KKip's Take\]](https://osu.ppy.sh/beatmapsets/1303843#osu/2725951)
+  3. [Shikata Akiko - Arcadia (Scub) \[Turaida\]](https://osu.ppy.sh/beatmapsets/1882896#osu/3876648)
 
-### Round of 16
+### Swiss round (week 2)
 
 **[Download the mappack here! (114 MB)](https://mappack.sah.moe/download/QkyjFAPW)**
 
