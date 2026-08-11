@@ -502,15 +502,15 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | 38 | ::{ flag=SG }:: [Moltenfury](https://osu.ppy.sh/users/3395820) | 0.305 |
 | 39 | ::{ flag=MY }:: [LeivanTZH](https://osu.ppy.sh/users/20586695) | 0.294 |
 | 40 | ::{ flag=SG }:: [m0fum0fu](https://osu.ppy.sh/users/5143605) | 0.293 |
-| 41 | Definition      | 0.287 |
-| 42 | noskaia         | 0.286 |
-| 43 | Wubip           | 0.283 |
-| 44 | - Tojio -       | 0.279 |
-| 45 | anhnhatbui      | 0.273 |
-| 46 | Zygody          | 0.264 |
-| 47 | WhiteCab        | 0.261 |
-| 48 | SDKO            | 0.255 |
-| 49 | Sagume Kishin   | 0.248 |
+| 41 | ::{ flag=SG }:: [Definition](https://osu.ppy.sh/users/7819055) | 0.287 |
+| 42 | ::{ flag=PH }:: [noskaia](https://osu.ppy.sh/users/19494789) | 0.286 |
+| 43 | ::{ flag=VN }:: [Wubip](https://osu.ppy.sh/users/17469191) | 0.283 |
+| 44 | ::{ flag=VN }:: [- Tojio -](https://osu.ppy.sh/users/11864454) | 0.279 |
+| 45 | ::{ flag=VN }:: [anhnhatbui](https://osu.ppy.sh/users/16346970) | 0.273 |
+| 46 | ::{ flag=MY }:: [Zygody](https://osu.ppy.sh/users/3677251) | 0.264 |
+| 47 | ::{ flag=ID }:: [WhiteCab](https://osu.ppy.sh/users/11849244) | 0.261 |
+| 48 | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | 0.255 |
+| 49 | ::{ flag=MY }:: [Sagume Kishin](https://osu.ppy.sh/users/14053835) | 0.248 |
 | 50 | Cygni           | 0.246 |
 | 51 | [-Hoshino-]     | 0.242 |
 | 52 | ashwa           | 0.237 |
