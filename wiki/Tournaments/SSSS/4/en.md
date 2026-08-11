@@ -285,30 +285,30 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals (week 2)
 
-Saturday, 14 February 2026:
+Saturday, 8 August 2026:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Leviatán | 1 | **7** | **Matagi Snipers** | [#1](https://osu.ppy.sh/community/matches/121655530) |
+
+Sunday, 9 August 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 4 | **7** | ::{ flag=ID }:: **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/120523414) |
-
-Sunday, 15 February 2026:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/120532089) |
+| Grand Final | **Paper Rex** | **7** | 3 | Matagi Snipers | [#1](https://osu.ppy.sh/community/matches/121662541) |
 
 ### Finals (week 1)
 
 Saturday, 25 July 2026:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | Rex Regum Qeon | 3 | **7** | **Matagi Snipers** | [#1](https://osu.ppy.sh/community/matches/121577096) |
 | Lower | **Falcons** | **7** | 0 | Brazil | [#1](https://osu.ppy.sh/community/matches/121576533) |
 
 Sunday, 26 July 2026:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **Paper Rex** | **7** | 6 | Leviatán | [#1](https://osu.ppy.sh/community/matches/121582937) |
 | Lower | **Matagi Snipers** | **7** | 6 | Falcons | [#1](https://osu.ppy.sh/community/matches/121582941) |
