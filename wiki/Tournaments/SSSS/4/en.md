@@ -458,8 +458,15 @@ Sunday, 28 June 2026:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | 1-9 | **Smart Falcon** | **5** | 1 | GAM Esports | [#1](https://osu.ppy.sh/community/matches/121414196) |
 | 1-3 | The Mongolz | 0 | **5** | **Falcons** | [#1](https://osu.ppy.sh/community/matches/121414193) |
+| 1-12 | **Rex Regum Qeon** | **5** | 1 | Astralis | [#1](https://osu.ppy.sh/community/matches/121414542) |
 | 1-1 | NAVI | 1 | **5** | **Vitality** | [#1](https://osu.ppy.sh/community/matches/121414130) |
 | 1-18 | **Leviatán** | **5** | 2 | Koyori MBG (My Bini Gue) | [#1](https://osu.ppy.sh/community/matches/121414200) |
+| 1-16 | Matagi Snipers | 4 | 4 | FaZe Clan | [#1](https://osu.ppy.sh/community/matches/121414198) |
+| 1-19 | **Smart Falcon** | **5** | 2 | FURIA | [#1](https://osu.ppy.sh/community/matches/121414493) |
+| 1-14 | Edward Gaming | 2 | **5** | **Falcons** | [#1](https://osu.ppy.sh/community/matches/121414543) |
+| 1-17 | **Paper Rex** | **5** | 2 | Bad News Eagles | [#1](https://osu.ppy.sh/community/matches/121414929) |
+| 1-13 | The Mongolz | 0 | **5** | **Vitality** | [#1](https://osu.ppy.sh/community/matches/121414738) |
+| 1-6 | Matagi Snipers | 4 | 4 | Koyori MBG (My Bini Gue) | [#1](https://osu.ppy.sh/community/matches/121414531) |
 
 ## Ruleset
 
