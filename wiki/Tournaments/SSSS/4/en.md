@@ -582,6 +582,8 @@ The full details of the Qualifier results can be found [here](https://docs.googl
    - If there are two (or more) players who share the same Z-sum value, the player that holds the higher total raw score will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
+### Team matchmaking
+
 #### Knock-out stage rules
 
 1. The 16 remaining players will be matched against each other based on their seeding (e.g. Seed #1 vs. Seed #16, Seed #2 vs. Seed #15, and so on).
