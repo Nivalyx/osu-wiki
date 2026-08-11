@@ -369,7 +369,7 @@ Sunday, 12 July 2026:
 
 #### Overall standings
 
-**Group A:**
+**Group A**
 
 | Rank | Team name | Score | Wins | Draws | Losses | Maps won | Map difference |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -384,7 +384,7 @@ Sunday, 12 July 2026:
 | 9 | The Mongolz | 1.0 | 1 | 0 | 3 | 7 | -11 |
 | 10 | Edward Gaming | 0.0 | 0 | 0 | 4 | 9 | -11 |
 
-**Group B:**
+**Group B**
 
 | Rank | Team name | Score | Wins | Draws | Losses | Maps won | Map difference |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -472,6 +472,8 @@ Sunday, 28 June 2026:
 | 1-17 | **Paper Rex** | **5** | 2 | Bad News Eagles | [#1](https://osu.ppy.sh/community/matches/121414929) |
 | 1-13 | The Mongolz | 0 | **5** | **Vitality** | [#1](https://osu.ppy.sh/community/matches/121414738) |
 | 1-6 | Matagi Snipers | 4 | 4 | Koyori MBG (My Bini Gue) | [#1](https://osu.ppy.sh/community/matches/121414531) |
+
+### Qualifiers
 
 ## Ruleset
 
