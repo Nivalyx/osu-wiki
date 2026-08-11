@@ -299,24 +299,19 @@ Sunday, 15 February 2026:
 
 ### Finals (week 1)
 
-Saturday, 31 January 2026:
+Saturday, 25 July 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | [#1](https://osu.ppy.sh/community/matches/120425197) |
-| Lower | **[GNX](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/120426479) |
+| Lower | Rex Regum Qeon | 3 | **7** | **Matagi Snipers** | [#1](https://osu.ppy.sh/community/matches/121577096) |
+| Lower | **Falcons** | **7** | 0 | Brazil | [#1](https://osu.ppy.sh/community/matches/121576533) |
 
-Sunday, 1 February 2026:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/120433776) |
-
-Monday, 2 February 2026:
+Sunday, 26 July 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/120441478) |
+| Upper | **Paper Rex** | **7** | 6 | Leviatán | [#1](https://osu.ppy.sh/community/matches/121582937) |
+| Lower | **Matagi Snipers** | **7** | 6 | Falcons | [#1](https://osu.ppy.sh/community/matches/121582941) |
 
 ### Semifinals
 
@@ -324,24 +319,19 @@ Saturday, 18 July 2026:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Smart Falcon | 4 | **6** | ::{ flag=ID }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/121534588) |
+| Lower | Smart Falcon | 4 | **6** | **Brazil** | [#1](https://osu.ppy.sh/community/matches/121534588) |
 | Lower | **Team Spirit** | **6** | 1 | Bad News Eagles | [#1](https://osu.ppy.sh/community/matches/121534590) |
+| Lower | Vitality | 4 | **6** | **Matagi Snipers** | [#1](https://osu.ppy.sh/community/matches/121534708) |
 
-Sunday, 18 January 2026:
-
-| Bracket | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Caruma](https://osu.ppy.sh/users/13187450) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[VtuberVoiceASMR](https://osu.ppy.sh/users/8780223)** | [#1](https://osu.ppy.sh/community/matches/120336147) |
-| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/120337119) |
-| Lower | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | [#1](https://osu.ppy.sh/community/matches/120336088) |
-| Lower | **[Oguri Cap](https://osu.ppy.sh/users/11025519)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | *win by default* |
-
-Monday, 19 January 2026:
+Sunday, 19 July 2026:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | [#1](https://osu.ppy.sh/community/matches/120344246) |
-| Upper | **[GNX](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | [#1](https://osu.ppy.sh/community/matches/120343896) |
+| Lower | **G2 Esports** | **6** | 2 | NAVI | [#1](https://osu.ppy.sh/community/matches/121540725) |
+| Upper | Falcons | 1 | **6** | **Leviatán** | [#1](https://osu.ppy.sh/community/matches/121542092) |
+| Lower | **Brazil** | **6** | 2 | Team Spirit | [#1](https://osu.ppy.sh/community/matches/121542394) |
+| Upper | **Paper Rex** | **6** | 3 | Rex Regum Qeon | [#1](https://osu.ppy.sh/community/matches/121542063) |
+| Lower | **Matagi Snipers** | **6** | 3 | G2 Esports | [#1](https://osu.ppy.sh/community/matches/121541806) |
 
 ### Quarterfinals
 
