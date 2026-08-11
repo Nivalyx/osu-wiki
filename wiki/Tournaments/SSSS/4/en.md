@@ -400,18 +400,21 @@ Monday, 12 January 2026:
 
 #### Overall standings
 
-| Rank | Team name | Points | Wins | Draws | Losses | Map difference |
+**Group A:**
+
+| Rank | Team name | Score | Wins | Draws | Losses | Maps won | Map difference |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1 | Schale | 5 | 5 | 0 | 1 | +17 |
-| 2 | kisaki motor | 5 | 5 | 0 | 1 | +16 |
-| 3 | Tingyun Motor | 5 | 5 | 0 | 1 | +10 |
-| 4 | maimai | 4.5 | 4 | 1 | 1 | +12 |
-| 5 | geoguessr | 4 | 4 | 0 | 2 | +6 |
-| 6 | blind people | 3.5 | 3 | 1 | 2 | +3 |
-| 7 | Spacediver | 3 | 3 | 0 | 3 | +4 |
+| 1 | Falcons | 3.5 | 3 | 1 | 0 | 19 | +10 |
+| 2 | Rex Regum Qeon | 3.0 | 2 | 2 | 0 | 18 | +8 |
+| 3 | Vitality | 2.5 | 2 | 1 | 1 | 17 | +7 |
+| 4 | Team Spirit | 2.0 | 1 | 2 | 1 | 15 | +1 |
+| 5 | Brazil | 2.0 | 1 | 2 | 1 | 14 | 0 |
+| 6 | NAVI | 2.0 | 1 | 2 | 1 | 14 | -1[^two-way-tie-note] |
+| 7 | Astralis | 2.0 | 1 | 2 | 1 | 14 | -1[^two-way-tie-note] |
 | 8 | Stelle x Trash Can | 3 | 3 | 0 | 3 | +3 |
 | 9 | Rumah Makan Padang | 3 | 2 | 2 | 2 | +3 |
 | 10 | Fuuka Motor | 3 | 3 | 0 | 3 | +1 |
+
 | 11 | ryowari da | 3 | 2 | 2 | 2 | +1 |
 | 12 | hina motor | 3 | 2 | 2 | 2 | 0 |
 | 13 | Banana | 2.5 | 1 | 3 | 2 | -3 |
@@ -572,3 +575,7 @@ Sunday, 28 June 2026:
    - Playing the tiebreaker map with mods is *not* mandatory.
    - Should any player wish to play the tiebreaker map with mods, allowed mods are Easy, Hard Rock, Hidden, or any possible combination of the three.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+
+## Notes
+
+[^two-way-tie-note]: Due to NAVI and Astralis being tied in all the tiebreaker criteria, it was decided that the two teams 
