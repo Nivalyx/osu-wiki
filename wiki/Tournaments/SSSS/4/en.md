@@ -424,11 +424,11 @@ Monday, 12 January 2026:
 | 3 | Smart Falcon | 2.5 | 2 | 1 | 1 | 16 | +4 |
 | 4 | G2 Esports | 2.5 | 2 | 1 | 1 | 15 | +2 |
 | 5 | Matagi Snipers | 2.0 | 0 | 4 | 0 | 16 | 0 |
-| 6 | NAVI | 2.0 | 1 | 2 | 1 | 14 | -1[^two-way-tie-note] |
-| 7 | Astralis | 2.0 | 1 | 2 | 1 | 14 | -1[^two-way-tie-note] |
-| 8 | T1 | 2.0 | 2 | 0 | 2 | 12 | -2 |
-| 9 | The Mongolz | 1.0 | 1 | 0 | 3 | 7 | -11 |
-| 10 | Edward Gaming | 0.0 | 0 | 0 | 4 | 9 | -11 |
+| 6 | Bad News Eagles | 2.0 | 2 | 0 | 2 | 15 | +4 |
+| 7 | Koyori MBG (My Bini Gue) | 2.0 | 1 | 2 | 1 | 15 | -1 |
+| 8 | FURIA | 1.0 | 0 | 2 | 2 | 12 | -6 |
+| 9 | FaZe Clan | 0.5 | 0 | 1 | 3 | 8 | -11 |
+| 10 | GAM Esports | 0.5 | 0 | 1 | 3 | 6 | -13 |
 
 #### Week 2
 
