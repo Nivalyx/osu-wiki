@@ -466,18 +466,76 @@ The full detailed breakdown of the Qualifier results can be found [here](https:/
 | 2 | ::{ flag=SG }:: [Tapses](https://osu.ppy.sh/users/8852426) | 0.721 |
 | 3 | ::{ flag=PH }:: [GuardiaN](https://osu.ppy.sh/users/11001039) | 0.578 |
 | 4 | ::{ flag=VN }:: [VenomPuffs](https://osu.ppy.sh/users/8715313) | 0.561 |
-| 5 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 10.62 |
-| 6 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 10.36 |
-| 7 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 10.27 |
-| 8 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | 9.67 |
-| 9 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 9.03 |
-| 10 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | 8.91 |
-| 11 | ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) | 8.73 |
-| 12 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | 8.59 |
-| 13 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 8.40 |
-| 14 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 8.27 |
-| 15 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | 8.19 |
-| 16 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.16 |
+| 5 | ::{ flag=PH }:: [EViLseeeen11l1](https://osu.ppy.sh/users/18047706) | 0.549 |
+| 6 | ::{ flag=PH }:: [Xyphox](https://osu.ppy.sh/users/8315885) | 0.546 |
+| 7 | ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152) | 0.529 |
+| 8 | electrostrike   | 0.522 |
+| 9 | SoPqnda         | 0.489 |
+| 10 | goo fling       | 0.458 |
+| 11 | LycaonMyHusband | 0.454 |
+| 12 | Lumish264       | 0.452 |
+| 13 | not_aweeb       | 0.447 |
+| 14 | JayAreEee       | 0.443 |
+| 15 | AlmondMal       | 0.427 |
+| 16 | Anderwear       | 0.426 |
+| 17 | AlpiAz          | 0.426 |
+| 18 | Ksorchou        | 0.424 |
+| 19 | Junkmaniac      | 0.420 |
+| 20 | zSidd           | 0.414 |
+| 21 | Ramizel         | 0.388 |
+| 22 | Crownest        | 0.376 |
+| 23 | fixie kia       | 0.371 |
+| 24 | Quy An Keo      | 0.365 |
+| 25 | CopyPasted      | 0.359 |
+| 26 | Axiqn           | 0.354 |
+| 27 | CelestiaKT      | 0.351 |
+| 28 | Nyz             | 0.339 |
+| 29 | Fuwub           | 0.337 |
+| 30 | squidstain      | 0.337 |
+| 31 | aiyern          | 0.334 |
+| 32 | callyfour       | 0.333 |
+| 33 | Sorasaki Hina   | 0.321 |
+| 34 | xidorn          | 0.320 |
+| 35 | JerryJumbo      | 0.312 |
+| 36 | Ascaveth        | 0.308 |
+| 37 | kiraze          | 0.306 |
+| 38 | Moltenfury      | 0.305 |
+| 39 | LeivanTZH       | 0.294 |
+| 40 | m0fum0fu        | 0.293 |
+| 41 | Definition      | 0.287 |
+| 42 | noskaia         | 0.286 |
+| 43 | Wubip           | 0.283 |
+| 44 | - Tojio -       | 0.279 |
+| 45 | anhnhatbui      | 0.273 |
+| 46 | Zygody          | 0.264 |
+| 47 | WhiteCab        | 0.261 |
+| 48 | SDKO            | 0.255 |
+| 49 | Sagume Kishin   | 0.248 |
+| 50 | Cygni           | 0.246 |
+| 51 | [-Hoshino-]     | 0.242 |
+| 52 | ashwa           | 0.237 |
+| 53 | -wakumi         | 0.233 |
+| 54 | Nabari Anju     | 0.228 |
+| 55 | k4r1cow         | 0.221 |
+| 56 | zacfr           | 0.218 |
+| 57 | JinPots         | 0.203 |
+| 58 | seoster         | 0.202 |
+| 59 | IceKori         | 0.199 |
+| 60 | Makise Kurisu   | 0.194 |
+| 61 | kropto          | 0.189 |
+| 62 | LDerpy          | 0.177 |
+| 63 | tiurla          | 0.154 |
+| 64 | stupidcheesecat | 0.141 |
+| 65 | Macho_          | 0.140 |
+| 66 | IzH3Re          | 0.132 |
+| 67 | OyaOya          | 0.129 |
+| 68 | FinanceRyugu    | 0.128 |
+| 69 | PolarPowah      | 0.113 |
+| 70 | Yanoish         | 0.109 |
+| 71 | Ch3rryL         | 0.103 |
+| 72 | zreiF           | 0.097 |
+| 73 | WanHigh         | 0.060 |
+| 74 | JackGamerCYT    | 0.028 |
 
 ## Ruleset
 
