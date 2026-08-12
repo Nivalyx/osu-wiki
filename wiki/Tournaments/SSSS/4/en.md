@@ -598,7 +598,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 
 1. The Swiss round will be held over the course of two weeks with a different mappool for each week.
 2. Teams will be divided into two Swiss groups of ten teams each.
-   -Group drawings will be done based on each team's average player ranks.
+   - Group drawings will be done based on each team's average player ranks.
 3. During each week, teams will play two matches against opponents in their group as determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
 4. Matches in the Swiss round will run until either team scores five points or total of eight maps have been played (whichever comes first) with **no tiebreakers**.
    - When a match reaches the 4-4 score, it will be considered as a *draw*.
