@@ -547,7 +547,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#schedule` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-5. If a team does not able to show up with at least 3 players within **10 minutes** of the start time, their opponent gets to win by default.
+5. If a team does not able to show up with at least three players within **ten minutes** of the start time, their opponent gets to win by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap.
@@ -615,6 +615,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
    - The result of an extra play-in match (if required)
 7. Forfeiting a match will be treated as an outright loss with a -5 map difference to the forfeiting team.
 8. The top 6 teams from each group based on the Swiss round standings will advance into the knock-out stage.
+   - The top two teams will advance to the upper bracket directly, while the other four will advance to the lower bracket.
 
 #### Knock-out stage rules
 
