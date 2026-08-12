@@ -600,7 +600,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 2. Teams will be divided into two Swiss groups of ten teams each.
    - Group drawings will be done based on each team's average player ranks.
 3. During each week, teams will play two matches against opponents in their group as determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
-4. Matches in the Swiss round will run until either team scores five points or total of eight maps have been played (whichever comes first) with **no tiebreakers**.
+4. Matches in the Swiss round will run until either team scores five points or total of eight beatmaps have been played (whichever comes first) with **no tiebreakers**.
    - When a match reaches the 4-4 score, it will be considered as a *draw*.
 5. Based on their match results, teams will be awarded points that go to their Swiss round standings as follows:
    - Winning a match: +1 point
@@ -608,9 +608,9 @@ The full details of the Qualifier results can be found [here](https://docs.googl
    - Losing a match: 0 points
 6. The Swiss round standings are determined by (in order):
    - Points accumulated
-   - Total number of maps won
-   - Map difference (`# of maps won` - `# of maps lost`)
-   - [Median Buchholz](https://en.wikipedia.org/wiki/Buchholz_system) coefficient
+   - Total number of beatmaps won
+   - Beatmap difference (`# of beatmaps won` - `# of beatmaps lost`)
+   - [Median Buchholz](https://en.wikipedia.org/wiki/Buchholz_system) score
    - Head-to-head records between the tied teams   
    - The result of an extra play-in match (if required)
 7. Forfeiting a match will be treated as an outright loss with a -5 map difference to the forfeiting team.
@@ -646,8 +646,8 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 5. In a FreeMod pick, teams have to play the beatmap with at least two unique mod combinations. Allowed mods are NoMod, Easy, HardRock, Hidden, Flashlight, or any possible combinations of the four.
    - For more information as to which mod combinations are considered unique, refer to [this screenshot](https://leopard.hosting.pecon.us/dl/knylq).
 6. The tiebreaking system works as follows:
-   - As the mappools are designed so that the tiebreak occurs when there are exactly three maps left, team captains will be asked separately by the referee to ban one of the three remaining maps from the mappool in a private channel. The one map that ends up not being banned will be played as the tiebreaker.
-   - If both team captains end up banning the same map, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining maps will be played as the tiebreaker.
+   - As the mappools are designed so that the tiebreak occurs when there are exactly three beatmaps left, team captains will be asked separately by the referee to ban one of the three remaining beatmaps from the mappool in a private channel. The one beatmap that ends up not being banned will be played as the tiebreaker.
+   - If both team captains end up banning the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining beatmaps will be played as the tiebreaker.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
 ## Notes
