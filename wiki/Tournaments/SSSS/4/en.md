@@ -590,16 +590,17 @@ The full details of the Qualifier results can be found [here](https://docs.googl
    - #21 – #40: Seed A
    - #41 – #80: Seed B
    - Qualifier winners: Seed C
-2. During the team matchmaking stream, players will be assigned into twenty different teams at random with each team consisting of one seed S player, one seed A player, two seed B players, and two seed C players respectively.
+2. During the team matchmaking stream, players will be assigned into 20 different teams at random with each team consisting of one seed S player, one seed A player, two seed B players, and two seed C players respectively.
 3. All teams are required to nominate a player as their captain and submit a team name to the tournament management within one week of the team matchmaking stream.
    - Choosing an inappropriate team name is not allowed.
 
 #### Swiss round rules
 
 1. The Swiss round will be held over the course of two weeks with a different mappool for each week.
-2. 
-3. During each week, teams will play 2 matches against opponents as determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
-4. Matches in the Swiss round will run until either team scores 5 points or total of eight maps have been played (whichever comes first) with **no tiebreakers**.
+2. Teams will be divided into two Swiss groups of ten teams each.
+   - Group drawings will be done in regards to each team's average player ranks.
+3. During each week, teams will play two matches against opponents in their group as determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
+4. Matches in the Swiss round will run until either team scores five points or total of eight maps have been played (whichever comes first) with **no tiebreakers**.
    - When a match reaches the 4-4 score, it will be considered as a *draw*.
 5. Based on their match results, teams will be awarded points that go to their Swiss round standings as follows:
    - Winning a match: +1 point
