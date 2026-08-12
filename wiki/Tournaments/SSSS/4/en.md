@@ -619,22 +619,21 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 
 #### Knock-out stage rules
 
-1. The 16 remaining players will be matched against each other based on their seeding (e.g. Seed #1 vs. Seed #16, Seed #2 vs. Seed #15, and so on).
-2. Players will compete against each other using the double-elimination system.
+1. Teams will be matched against each other based on their Swiss round standings.
+2. Teams will compete against each other using the double-elimination system.
 3. The double-elimination system works as follows:
-   - Players who lose in the upper bracket can still play again in the lower bracket.
-   - Players who lose in the lower bracket will be eliminated from the tournament.
+   - Teams that lose in the upper bracket can still play again in the lower bracket.
+   - Teams that lose in the lower bracket will be eliminated from the tournament.
    - In the Grand Final match, the winner of the the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
-4. Players who can compete in the next round are determined by:
-   - In the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
-   - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
-   - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
-   - Whether there are players who are declared to win the match by default.
-   - Whether there are players who are disqualified from the tournament.
+4. Teams that can compete in the next round are determined by:
+   - In the Quarterfinals and the Semifinals, each team needs to win 6 points in order to win a match. (Best of 11)
+   - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best of 13)
+   - Whether there are teams that are declared to win the match by default.
+   - Whether there are teams that are disqualified from the tournament.
 
 ### Match regulations
 
-1. Prior to starting the match, each player must run the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order. 
+1. Prior to starting the match, team captains must run the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order. 
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
