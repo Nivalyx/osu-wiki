@@ -354,7 +354,7 @@ Sunday, 12 July 2026:
 
 **Group A**
 
-| Rank | Team name | Score | Wins | Draws | Losses | Maps won | Map difference |
+| Rank | Team name | Score | Wins | Draws | Losses | Beatmaps won | Beatmap difference |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | Falcons | 3.5 | 3 | 1 | 0 | 19 | +10 |
 | 2 | Rex Regum Qeon | 3.0 | 2 | 2 | 0 | 18 | +8 |
@@ -369,7 +369,7 @@ Sunday, 12 July 2026:
 
 **Group B**
 
-| Rank | Team name | Score | Wins | Draws | Losses | Maps won | Map difference |
+| Rank | Team name | Score | Wins | Draws | Losses | Beataps won | Beatmap difference |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | Paper Rex | 4.0 | 4 | 0 | 0 | 20 | +15 |
 | 2 | Leviatán | 3.0 | 2 | 2 | 0 | 18 | +6 |
@@ -638,7 +638,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
 2. Teams will have to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match. 
-   - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
+   - Barring the tiebreaker, there are no restrictions as to which beatmaps may and may not be banned in a match.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Players are expected to exercise common sense in pick time windows.
