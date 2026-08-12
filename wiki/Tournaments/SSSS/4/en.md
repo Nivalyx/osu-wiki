@@ -644,7 +644,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 4. Players are expected to exercise common sense in pick time windows.
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
 5. In a FreeMod pick, teams have to play the beatmap with at least two unique mod combinations. Allowed mods are NoMod, Easy, HardRock, Hidden, Flashlight, or any possible combinations of the four.
-   - For more information as to what mod combinations are allowed or not, refer to [this screenshot](https://leopard.hosting.pecon.us/dl/knylq).
+   - For more details as to which mod combinations are allowed, refer to [this screenshot](https://leopard.hosting.pecon.us/dl/knylq).
 6. The tiebreaking system works as follows:
    - As the mappool for each stage is tailored so that the tiebreak occurs when there is exactly three maps left available to pick, during the tiebreaker, both team captains will be discreetly asked by the referee to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker.
    - If both team captains ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining possible maps will be played as the tiebreaker.
