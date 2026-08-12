@@ -608,13 +608,14 @@ The full details of the Qualifier results can be found [here](https://docs.googl
    - Losing a match: 0 points
 6. The Swiss round standings are determined by (in order):
    - Points accumulated
+   - Total number of maps won
    - Map difference (`# of maps won` - `# of maps lost`)
    - Head-to-head records between the tied teams
    - Number of wins
    - Sum of wins of the tied team's opponents
-   - The result of an extra play-off match (if needed)
-7. Forfeiting a match will be treated as an instant loss with a -5 map difference to the forfeiting team's name.
-8. The top 16 teams based on the Swiss round standings will advance into the knock-out stage.   
+   - The result of an extra play-in match (if required)
+7. Forfeiting a match will be treated as an outright loss with a -5 map difference to the forfeiting team.
+8. The top 12 teams based on the Swiss round standings will advance into the knock-out stage.   
 
 #### Knock-out stage rules
 
