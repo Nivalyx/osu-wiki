@@ -647,7 +647,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
    - For more information as to which mod combinations are considered unique, refer to [this screenshot](https://leopard.hosting.pecon.us/dl/knylq).
 6. The tiebreaking system works as follows:
    - As the mappools are designed so that the tiebreak occurs when there are exactly three maps left, team captains will be prompted by the referee to discreetly ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker.
-   - If both team captains ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining possible maps will be played as the tiebreaker.
+   - If both team captains choose to ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining beatmaps will be played as the tiebreaker.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
 ## Notes
