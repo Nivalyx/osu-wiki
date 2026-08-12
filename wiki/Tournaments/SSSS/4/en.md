@@ -596,17 +596,17 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 
 #### Swiss round rules
 
-1. The Swiss round will be held over the course of three weeks with a different mappool for each week.
-2. During each week, each team will play 2 matches against opponents determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
-3. Matches in the Swiss round will only be played until either team scores 5 points or that a total of eight maps have been contested (whichever comes first) with **no tiebreakers**.
-   - When a match extends to the 4-4 mark, it will be considered as a *draw*.
-4. Based on their performance in a match, each team will be awarded points that go to their Swiss round standings as follows:
+1. The Swiss round will be held over the course of two weeks with a different mappool for each week.
+2. During each week, teams will play 2 matches against opponents as determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
+3. Matches in the Swiss round will run until either team scores 5 points or total of eight maps have been played (whichever comes first) with **no tiebreakers**.
+   - When a match reaches the 4-4 score line, it will be considered as a *draw*.
+4. Based on their performance in a match, teams will be awarded points that go to their Swiss round standings as follows:
    - Winning a match: +1 point
    - Drawing a match: +0.5 points
    - Losing a match: 0 points
 5. The Swiss round standings are determined by (in order):
    - Points accumulated
-   - Map difference (# of maps won - # of maps lost)
+   - Map difference (`# of maps won` - `# of maps lost`)
    - Head-to-head records between the tied teams
    - Number of wins
    - Sum of wins of the tied team's opponents
