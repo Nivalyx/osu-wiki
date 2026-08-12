@@ -585,6 +585,15 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 
 #### Team matchmaking
 
+1. The top 80 players who made it through the registration process will be divided into four seeds based on their [BWS rank](/wiki/Tournaments/Badge-weighted_seeding) as follows:
+   - #1 – #20: Seed S
+   - #21 – #40: Seed A
+   - #41 – #80: Seed B
+   - Qualifier winners: Seed C
+2. During the team matchmaking stream, players will be assigned into twenty different teams at random with each team consisting of one seed S player, one seed A player, two seed B players, and two seed C players respectively.
+3. All teams are required to nominate a player as their captain and submit a team name to the tournament management within one week of the team matchmaking stream.
+   - Choosing an inappropriate team name is not allowed.
+
 #### Knock-out stage rules
 
 1. The 16 remaining players will be matched against each other based on their seeding (e.g. Seed #1 vs. Seed #16, Seed #2 vs. Seed #15, and so on).
