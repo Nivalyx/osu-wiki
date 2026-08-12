@@ -585,7 +585,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 
 #### Team matchmaking
 
-1. The top 80 [BWS-ranked](/wiki/Tournaments/Badge-weighted_seeding) players, along with the 40 qualifying players, will be divided into four seeds as follows:
+1. The top 80 [BWS-ranked](/wiki/Tournaments/Badge-weighted_seeding) players, along with the 40 qualifier winners, will be divided into four seeds as follows:
    - #1 – #20: Seed S
    - #21 – #40: Seed A
    - #41 – #80: Seed B
@@ -593,6 +593,26 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 2. During the team matchmaking stream, players will be assigned into twenty different teams at random with each team consisting of one seed S player, one seed A player, two seed B players, and two seed C players respectively.
 3. All teams are required to nominate a player as their captain and submit a team name to the tournament management within one week of the team matchmaking stream.
    - Choosing an inappropriate team name is not allowed.
+
+#### Swiss round rules
+
+1. The Swiss round will be held over the course of three weeks with a different mappool for each week.
+2. During each week, each team will play 2 matches against opponents determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
+3. Matches in the Swiss round will only be played until either team scores 5 points or that a total of eight maps have been contested (whichever comes first) with **no tiebreakers**.
+   - When a match extends to the 4-4 mark, it will be considered as a *draw*.
+4. Based on their performance in a match, each team will be awarded points that go to their Swiss round standings as follows:
+   - Winning a match: +1 point
+   - Drawing a match: +0.5 points
+   - Losing a match: 0 points
+5. The Swiss round standings are determined by (in order):
+   - Points accumulated
+   - Map difference (# of maps won - # of maps lost)
+   - Head-to-head records between the tied teams
+   - Number of wins
+   - Sum of wins of the tied team's opponents
+   - The result of an extra play-off match (if needed)
+6. Forfeiting a match will be treated as an instant loss with a -5 map difference to the forfeiting team's name.
+7. The top 16 teams based on the Swiss round standings will advance into the knock-out stage.   
 
 #### Knock-out stage rules
 
