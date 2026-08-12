@@ -585,7 +585,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 
 #### Team matchmaking
 
-1. The top 80 [BWS-ranked](/wiki/Tournaments/Badge-weighted_seeding) players, along with the 40 qualifier winners, will be divided into four seeds as follows:
+1. The top 80 [BWS-ranked](/wiki/Tournaments/Badge-weighted_seeding) players (along with the 40 qualifier winners) will be divided into four seeds as follows:
    - #1 – #20: Seed S
    - #21 – #40: Seed A
    - #41 – #80: Seed B
