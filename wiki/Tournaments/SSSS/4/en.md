@@ -643,10 +643,12 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Players are expected to exercise common sense in pick time windows.
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
-5. **There will be no dedicated Free Mod pick at any stage of the tournament**. However, in the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
-   - Playing the tiebreaker map with mods is *not* mandatory.
-   - Should any player wish to play the tiebreaker map with mods, allowed mods are Easy, Hard Rock, Hidden, or any possible combination of the three.
-6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+5. In a FreeMod pick, teams have to play the beatmap with at least two unique mod combinations. Allowed mods are NoMod, Easy, HardRock, Hidden, Flashlight, or any possible combinations of the four.
+   - For balancing reasons, HardRock along with Hidden + HardRock as well as Easy along with Easy + Hidden are not considered as a unique combination.
+6. The tiebreaking system works as follows:
+   - As the mappool for each stage is tailored so that the tiebreak occurs when there is exactly three maps left available to pick, during the tiebreaker, both team captains will be discreetly asked by the referee to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker.
+   - If both team captains ban the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining possible maps will be played as the tiebreaker.
+7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
 ## Notes
 
