@@ -597,22 +597,23 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 #### Swiss round rules
 
 1. The Swiss round will be held over the course of two weeks with a different mappool for each week.
-2. During each week, teams will play 2 matches against opponents as determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
-3. Matches in the Swiss round will run until either team scores 5 points or total of eight maps have been played (whichever comes first) with **no tiebreakers**.
+2. 
+3. During each week, teams will play 2 matches against opponents as determined by the [Swiss algorithm](https://help.start.gg/en/articles/2679435-start-gg-s-swiss-algorithm-and-additional-swiss-info).
+4. Matches in the Swiss round will run until either team scores 5 points or total of eight maps have been played (whichever comes first) with **no tiebreakers**.
    - When a match reaches the 4-4 score, it will be considered as a *draw*.
-4. Based on their performance in a match, teams will be awarded points that go to their Swiss round standings as follows:
+5. Based on their match results, teams will be awarded points that go to their Swiss round standings as follows:
    - Winning a match: +1 point
    - Drawing a match: +0.5 points
    - Losing a match: 0 points
-5. The Swiss round standings are determined by (in order):
+6. The Swiss round standings are determined by (in order):
    - Points accumulated
    - Map difference (`# of maps won` - `# of maps lost`)
    - Head-to-head records between the tied teams
    - Number of wins
    - Sum of wins of the tied team's opponents
    - The result of an extra play-off match (if needed)
-6. Forfeiting a match will be treated as an instant loss with a -5 map difference to the forfeiting team's name.
-7. The top 16 teams based on the Swiss round standings will advance into the knock-out stage.   
+7. Forfeiting a match will be treated as an instant loss with a -5 map difference to the forfeiting team's name.
+8. The top 16 teams based on the Swiss round standings will advance into the knock-out stage.   
 
 #### Knock-out stage rules
 
