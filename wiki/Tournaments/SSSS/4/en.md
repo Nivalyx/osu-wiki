@@ -610,9 +610,8 @@ The full details of the Qualifier results can be found [here](https://docs.googl
    - Points accumulated
    - Total number of maps won
    - Map difference (`# of maps won` - `# of maps lost`)
-   - Head-to-head records between the tied teams
-   - Number of wins
-   - Sum of wins of the tied team's opponents
+   - [Median Buchholz](https://en.wikipedia.org/wiki/Buchholz_system) coefficient
+   - Head-to-head records between the tied teams   
    - The result of an extra play-in match (if required)
 7. Forfeiting a match will be treated as an outright loss with a -5 map difference to the forfeiting team.
 8. The top 6 teams from each group based on the Swiss round standings will advance into the knock-out stage.
