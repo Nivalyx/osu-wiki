@@ -369,7 +369,7 @@ Sunday, 12 July 2026:
 
 **Group B**
 
-| Rank | Team name | Score | Wins | Draws | Losses | Beataps won | Beatmap difference |
+| Rank | Team name | Score | Wins | Draws | Losses | Beatmaps won | Beatmap difference |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | Paper Rex | 4.0 | 4 | 0 | 0 | 20 | +15 |
 | 2 | Leviatán | 3.0 | 2 | 2 | 0 | 18 | +6 |
