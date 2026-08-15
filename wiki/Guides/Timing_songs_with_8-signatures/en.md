@@ -1,6 +1,6 @@
 # Timing songs with #/8 time signatures
 
-Certain songs may have time signatures that are not divided into quarter notes (e.g. `3/4`, `4/4`, `7/4`, ...), but rather into eighth-notes (e.g. `6/8`, `7/8`, ...). While the current editor does not support these `#/8` [time signatures](/wiki/Music_theory/Time_signature), there are ways to properly incorporate this timing into osu!.
+Certain songs have time signatures that are not divided into quarter notes (e.g. `3/4`, `4/4`, `7/4`, ...), but rather into eighth-notes (e.g. `6/8`, `7/8`, ...). While the current editor does not support these `#/8` [time signatures](/wiki/Music_theory/Time_signature), there are ways to properly incorporate this timing into osu!.
 
 This guide will now explain a bit of the relevant music theory behind this, and give examples of how it translates into osu!. To illustrate this, the following three songs will be used as references:
 
