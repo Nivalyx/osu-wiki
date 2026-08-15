@@ -18,7 +18,7 @@ In theory, this is how things work for songs with `#/4` time signatures. In song
 
 As an use case example in osu!, consider the song Leonard Bernstein's "America". In this song, everything is timed in `3/4-signature`, meaning that every measure is divided into three beats by white ticks. Setting the snap divisor to `1/2` will make every beat to be split into two by the red ticks in the timeline (as in all the red ticks will be representing an eighth note). This would work perfectly fine for a typical `3/4` song, but upon listening closely the song actually reveals something more: While the overall tempo stays (approximately) the same, the rhythmical grouping of `♪`s switches almost every measure. 
 
-The first measure of the mapped part at `00:03:662` is split into `[3+3]`, as it has only one more accentuation on the red tick at `00:04:232`. The second measure, which starts at `00:04:801` is grouped into `[2+2+2]`, as it has two more accentuations on the white ticks at `00:05:181` and `00:05:561`. In other words, all measures are equally long (6 `♪`s), but half of them only have two beats (-> `6/8-measure`) while the other half has three beats (-> `3/4-measure`), making this a mixed meter.
+The first measure of the song is split into `[3+3]`, as it has only one more accentuation on the red tick at around four seconds in. The second measure is grouped into `[2+2+2]`, as it has two more accentuations on the white ticks. In other words, all measures are equally long (6 `♪`s), but half of them only have two beats (-> `6/8-measure`) while the other half has three beats (-> `3/4-measure`), making this a mixed meter.
 
 ![two measures of "America", the first is in 6/8, the second in 3/4](/wiki/shared/timing/I_like_to_be_in_america.png)
 
