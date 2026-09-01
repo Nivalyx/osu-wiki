@@ -60,3 +60,8 @@ The Catch the Beat Indonesia Cup Open 2025 was run by various osu! community mem
 - [Discord server](https://discord.gg/YwAYbPa)
 - [Challonge brackets](https://challonge.com/CICO2026)
 - [Livestream channel](https://www.twitch.tv/osucatchid)
+
+## Participants
+
+To be announced.
+
