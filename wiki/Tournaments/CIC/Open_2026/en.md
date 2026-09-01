@@ -82,7 +82,7 @@ To be announced.
    - A match can be rematched for disconnects that occur within at most 30 seconds after it has been started or 25% of the beatmap's length, whichever happens first.
 9. Lag is not a valid reason to nullify a beatmap.
 10. If any problems during the match occur, the tournament management will make a decision based on the referee's report.
-11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
+11. It is expected that players be polite and respectful to each other. Penalties will be given upon violation.
     - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the tournament management.
     - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be reported to the [Tournament Committee](/wiki/People/Tournament_Committee).
 12. The tournament management reservers the right to request for liveplays or recordings of individual players at any point, as well to modify any of the rules (withn reason) which will be announced in advance.
