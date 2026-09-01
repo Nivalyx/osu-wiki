@@ -85,4 +85,4 @@ To be announced.
 11. It is expected that players be polite and respectful to each other. Penalties will be given upon violation.
     - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the tournament management.
     - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be reported to the [Tournament Committee](/wiki/People/Tournament_Committee).
-12. The tournament management reservers the right to request for liveplays or recordings of individual players at any point, as well to modify any of the rules (withn reason) which will be announced in advance.
+12. The tournament management reservers the right to request for liveplays or recordings of individual players, as well to modify the rules (within reason) at any point which will be announced in advance.
