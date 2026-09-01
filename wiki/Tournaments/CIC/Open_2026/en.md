@@ -65,3 +65,24 @@ The Catch the Beat Indonesia Cup Open 2025 was run by various osu! community mem
 
 To be announced.
 
+## Ruleset
+
+### General rules
+
+1. Match lobbies across the tournament will adhere to the following room settings:
+   - Team Mode: `Head-to-head`
+   - Win Condition: [`ScoreV2`](/wiki/Gameplay/Score#scorev2)
+2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
+3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#reschedule-request` channel in the tournament's Discord server.
+4. A referee will create a multiplayer room ten minutes in advance and will start to send out invites.
+5. If a player does not show up within **fifteen minutes** of the start time, their opponent gets to win by default.
+6. If no staff or referee is available, the match will be postponed.
+7. **No Fail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+8. If a player disconnects, it will be treated as if they had failed the beatmap.
+   - A match can be rematched for disconnects that occur within at most 30 seconds or 25% of the beatmap length (whichever happens first) after the beatmap has been started by the referee.
+9. Lag is not a valid reason to nullify a beatmap.
+10. If any problems during the match occur, the tournament management will make a decision based on the referee's report.
+11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
+    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the tournament management.
+    - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be reported to the [Tournament Committee](/wiki/People/Tournament_Committee).
+12. The tournament management reservers the right to request for liveplays 
