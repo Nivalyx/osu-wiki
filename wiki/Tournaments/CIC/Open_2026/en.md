@@ -14,9 +14,9 @@ The **Catch the Beat Indonesia Cup Open 2026** (***CICO 2026***) is a double-eli
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2025-07-03/2025-07-16 |
-| Screening phase | 2025-07-17/2025-07-27 |
-| Qualifiers | 2025-07-28/2025-08-03 |
+| Registration phase | 2026-09-17/2026-09-30 |
+| Screening phase | 2026-10-01/2026-10-18 |
+| Qualifiers | 2026-10-19/2026-10-25 |
 | Round of 32 | 2025-08-04/2025-08-10 |
 | Round of 16 | 2025-08-11/2025-08-17 |
 | Quarterfinals | 2025-08-18/2025-08-24 |
