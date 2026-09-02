@@ -131,3 +131,23 @@ To be announced.
    - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
    - Whether there are players that are declared to win the match by default.
    - Whether there are players that are disqualified from the tournament.
+
+### Match regulations
+
+1. Prior to starting the match, players must run the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order. 
+   - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
+   - The loser of the `!roll` gets the opposite by default.
+   - This rule does not apply in the Qualifier lobbies.
+2. Players will have to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match. 
+   - Barring the tiebreaker, there are no restrictions as to which beatmaps may and may not be banned in a match.
+   - Banning does not apply in the Qualifier lobbies.
+3. Players will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
+   - Playing a warm-up beatmap is not mandatory, and players may elect to skip their warm-up pick should they wish to.
+4. Players are expected to exercise common sense in the pick time and ready time windows.
+   - Depending on the severity and frequency, players will be punished for misdemeanours during these time windows. For the list of all possible punishments, please refer to [this table](https://leopard.hosting.pecon.us/dl/hzlkt).
+5. In a Free Mod pick, teams have to play the beatmap with at least two unique mod combinations. Allowed mods are No Mod, Easy, Hard Rock, Hidden, Flashlight, or any possible combinations of the four.
+   - For more information as to which mod combinations are considered unique, refer to [this screenshot](https://leopard.hosting.pecon.us/dl/knylq).
+6. The tiebreaking system works as follows:
+   - As the mappools are designed so that the tiebreak occurs when there are exactly three beatmaps left, team captains will be asked separately by the referee in a private channel to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker.
+   - If both team captains end up banning the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining beatmaps will be played as the tiebreaker.
+7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
