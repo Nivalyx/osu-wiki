@@ -116,3 +116,17 @@ To be announced.
 6. The 32 players with the **highest `%MAX` sum** across all the Qualifier beatmaps will advance to the knock-out stages.
    - If there are two (or more) players who share the same `%MAX` sum, the player that holds the higher total raw score will be placed in the higher seed.
 7. Failure to attend in any of the Qualifier lobbies will result in immediate elimination.
+
+#### Knock-out stage rules
+
+1. Teams will be matched against each other based on their Swiss round standings.
+2. Teams will compete against each other using the double-elimination system.
+3. The double-elimination system works as follows:
+   - Teams that lose in the upper bracket can still play again in the lower bracket.
+   - Teams that lose in the lower bracket will be eliminated from the tournament.
+   - In the Grand Final match, the winner of the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
+4. Teams that can compete in the next round are determined by:
+   - In the Quarterfinals and the Semifinals, each team needs to win 6 points in order to win a match. (Best of 11)
+   - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best of 13)
+   - Whether there are teams that are declared to win the match by default.
+   - Whether there are teams that are disqualified from the tournament.
