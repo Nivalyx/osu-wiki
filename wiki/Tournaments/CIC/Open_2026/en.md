@@ -90,7 +90,7 @@ To be announced.
 ### Tournament registration
 
 1. Players are required to register into the tournament individually through [the tournament's official website](https://wybin.xyz/cico2026).
-   - As the tournament is open to anyone, there are no rank or geographical location restrictions that apply upon entry. However, given the tournament's difficulty, players are recommended to have a strong proficiency in the osu!catch game mode.
+   - While the tournament is open to anyone, given the tournament's difficulty, players are recommended to have a strong proficiency in the osu!catch game mode upon entry.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, custom mappers, mappool selectors, and replayers may not participate as players in the tournament.
