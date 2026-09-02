@@ -144,10 +144,12 @@ To be announced.
 3. Players will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and players may elect to skip their warm-up pick should they wish to.
 4. Players are expected to exercise common sense in the pick time and ready time windows.
-   - Depending on the severity and frequency, players will be punished for misdemeanours during these time windows. For the list of all possible punishments, please refer to [this table](https://leopard.hosting.pecon.us/dl/hzlkt).
-5. In a Free Mod pick, teams have to play the beatmap with at least two unique mod combinations. Allowed mods are No Mod, Easy, Hard Rock, Hidden, Flashlight, or any possible combinations of the four.
-   - For more information as to which mod combinations are considered unique, refer to [this screenshot](https://leopard.hosting.pecon.us/dl/knylq).
-6. The tiebreaking system works as follows:
-   - As the mappools are designed so that the tiebreak occurs when there are exactly three beatmaps left, team captains will be asked separately by the referee in a private channel to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker.
-   - If both team captains end up banning the same beatmap, the referee will run the `!roll 2` command in the lobby to determine which of the two remaining beatmaps will be played as the tiebreaker.
+   - Depending on the severity and frequency, players will be punished for misdemeanours during these time windows. For the list of all possible punishments, please refer to [this screenshot](https://leopard.hosting.pecon.us/dl/hzlkt).
+5. Maps from the same mod pool **may not be picked by the same player twice in a row**.
+   - For example, following a NM1 pick, the same player may not pick another map from the No Mod pool on their next picking turn.   
+6. In a Hard Rock or Double Time pick, the Hidden mod may optionally be used by players on top of the respective mods.   
+7. In a Free Mod pick, players have to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
+   - Playing a Free Mod pick without any mods applied is not allowed.
+8. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to. 
+   - Playing the tiebreaker map with a mod is *not* mandatory.
 7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
