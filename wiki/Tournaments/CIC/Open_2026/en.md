@@ -100,12 +100,19 @@ To be announced.
 
 #### Qualifier rules
 
-1. The Qualifier will only be contested by players whose [BWS-adjusted rankings](/wiki/Tournaments/Badge-weighted_seeding) are outside of the top 80 out of all players by the end of the registration. **The top 80 players do not have to play in the Qualifier.**
-2. Players will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
-3. In the lobby, players will have to consecutively play all of the Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> NM5 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
-4. Players **are not allowed** to ban any beatmaps in the Qualifiers.
-5. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
-6. Based on their performance in the Qualifier, players will be ranked based on their **`%MAX` value**, which is the percentage of their score relative to the highest achieved score of all players in a map.
-7. The 40 players with the **highest average `%MAX` value** across all the Qualifier beatmaps will advance to the team matchmaking phase.
-   - If there are two (or more) players who share the same `%MAX` value, the player that holds the higher total raw score will be placed in the higher seed.
-8. Failure to attend in any of the Qualifier lobbies will result in immediate elimination.
+1. Players will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
+2. In the lobby, players will have to consecutively play all of the Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 twice for a total of two playthroughs.
+   - An optional three minute break will be offered between the first and second playthrough of the mappool.
+3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
+4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
+5. Based on their performance in the Qualifier, players will be ranked based on their `%MAX` sum combined from each individual Qualifier beatmap as follows:
+
+![%MAX sum formula](img/formula.png)
+
+   - Where:
+   - `Si` = score achieved by player `i` on the map
+   - `Smax` = highest score achieved by any player on that map
+
+6. The 32 players with the **highest `%MAX` sum** across all the Qualifier beatmaps will advance to the knock-out stages.
+   - If there are two (or more) players who share the same `%MAX` sum, the player that holds the higher total raw score will be placed in the higher seed.
+7. Failure to attend in any of the Qualifier lobbies will result in immediate elimination.
