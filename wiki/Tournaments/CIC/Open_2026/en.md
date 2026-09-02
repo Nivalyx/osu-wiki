@@ -86,3 +86,12 @@ To be announced.
     - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the tournament management.
     - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be reported to the [Tournament Committee](/wiki/People/Tournament_Committee).
 12. The tournament management reservers the right to request for liveplays or recordings of individual players, as well to modify the rules (within reason) at any point which will be announced in advance.
+
+### Tournament registration
+
+1. Players are required to register into the tournament individually through [the tournament's official website](https://wybin.xyz/cico2026).
+   - As the tournament is open to anyone, there are no rank or geographical location limits that apply upon registration. However, pl
+2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
+4. Testplayers, referees, custom mappers, mappool selectors, and replayers may not participate as players in the tournament.
+   - Eliminated players are free to enlist in any of these roles for the later stages of the tournament in accordance with the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff). 
