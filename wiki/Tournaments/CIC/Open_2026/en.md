@@ -144,7 +144,7 @@ To be announced.
 3. Players will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
    - Playing a warm-up beatmap is not mandatory, and players may elect to skip their warm-up pick should they wish to.
 4. Players are expected to exercise common sense in the pick time and ready time windows.
-   - Depending on the severity and frequency, players will be punished for misdemeanours during these time windows. For the list of all possible punishments, please refer to [this screenshot](https://leopard.hosting.pecon.us/dl/hzlkt).
+   - Depending on the severity and frequency, players will be punished for their misdemeanours during these time windows. For the list of all possible punishments, please refer to [this screenshot](https://leopard.hosting.pecon.us/dl/hzlkt).
 5. Maps from the same mod pool **may not be picked by the same player twice in a row**.
    - For example, following a NM1 pick, the same player may not pick another map from the No Mod pool on their next picking turn.   
 6. In a Hard Rock or Double Time pick, the Hidden mod may optionally be used by players on top of the respective mods.   
