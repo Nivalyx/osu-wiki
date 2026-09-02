@@ -119,14 +119,15 @@ To be announced.
 
 #### Knock-out stage rules
 
-1. Teams will be matched against each other based on their Swiss round standings.
-2. Teams will compete against each other using the double-elimination system.
+1. Players will be matched against each other based on their Qualifier seedings.
+2. Players will compete against each other using the double-elimination system.
 3. The double-elimination system works as follows:
-   - Teams that lose in the upper bracket can still play again in the lower bracket.
-   - Teams that lose in the lower bracket will be eliminated from the tournament.
+   - Players that lose in the upper bracket can still play again in the lower bracket.
+   - Players that lose in the lower bracket will be eliminated from the tournament.
    - In the Grand Final match, the winner of the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
-4. Teams that can compete in the next round are determined by:
-   - In the Quarterfinals and the Semifinals, each team needs to win 6 points in order to win a match. (Best of 11)
-   - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best of 13)
-   - Whether there are teams that are declared to win the match by default.
-   - Whether there are teams that are disqualified from the tournament.
+4. Players that can compete in the next round are determined by:
+   - In the Round of 32 and the Round of 16, each player needs to win 5 points in order to win a match. (Best of 9)
+   - In the Quarterfinals and the Semifinals, each player needs to win 6 points in order to win a match. (Best of 11)
+   - In both of the Finals weeks, each player needs to win 7 points in order to win a match. (Best of 13)
+   - Whether there are players that are declared to win the match by default.
+   - Whether there are players that are disqualified from the tournament.
