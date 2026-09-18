@@ -71,22 +71,24 @@ Ikon-ikon berikut (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) menun
 - [Auto (AT)](/wiki/Gameplay/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
   - [Cinema (CM)](/wiki/Gameplay/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [ScoreV2 (SV2)](/wiki/Gameplay/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice) ![][osu!] **hanya tersedia pada Cutting Edge (Experimental)**
+- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice) ![][osu!] **khusus Cutting Edge (Experimental)**
 
-### Other
+### Mod lawas
 
 ::: alert-notice
 **Notice**
-These mods were used and available some time ago, but are now unavailable.
+Mod-mod berikut saat ini sudah tidak lagi tersedia.
 :::
 
 - [10K](/wiki/Gameplay/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Gameplay/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Related terms
+### Istilah terkait
 
 #### No Mod
+
+Dalam pertandingan [turnamen](/wiki/Tournaments), **No Mod** (***NM***) mengacu pada beatmap yang tidak dimainkan dengan mod mana pun. s
 
 In [tournament](/wiki/Tournaments) matches, **No Mod** (***NM***) refers to not using any mods. Many tournaments require some mods to be used by default as part of their rules or format, such as [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) or [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), which become exceptions to this notion.
 
