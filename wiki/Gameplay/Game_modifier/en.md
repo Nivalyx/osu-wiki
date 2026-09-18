@@ -26,7 +26,7 @@ tags:
 **Catatan:** Untuk penggunaan lainnya dari istilah "mod", lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod)
 :::
 
-![Mod selection screen](img/mod-selection-screen.jpg "comparison between the mod selection screens of osu!(top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right) game modes")
+![Layar pemilihan mod](img/mod-selection-screen.jpg "perbandingan antara layar pemilihan mod pada mode permainan osu! (kiri atas), osu!taiko (kanan atas), osu!catch (kiri bawah), dan osu!mania (kanan bawah)")
 
 **Game modifiers** (or "mod" for short) are optional modifications to a [beatmap](/wiki/Beatmap)'s elements and settings that players can enable from the `Mod Selection Screen` (above). Mods can make beatmaps easier, harder, or just plain fun.
 
