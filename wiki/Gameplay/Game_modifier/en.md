@@ -28,9 +28,7 @@ tags:
 
 ![Layar pemilihan mod](img/mod-selection-screen.jpg "perbandingan antara layar pemilihan mod di mode permainan osu! (kiri atas), osu!taiko (kanan atas), osu!catch (kiri bawah), dan osu!mania (kanan bawah)")
 
-**Modifikator permainan** (atau yang disingkat sebagai "mod") adalah pengubah permainan yang bisa diaktifkan oleh pemain secara opsional dari `Layar Pemilihan Mod` (gambar atas). Mod-mod ini bisa membuat beatmap menjadi lebih mudah, lebih sulit, atau sekadar untuk seru-seruan.
-
-optional modifications to a [beatmap](/wiki/Beatmap)'s elements and settings that players can enable from the `Mod Selection Screen` (above). Mods can make beatmaps easier, harder, or just plain fun.
+**Modifikator permainan** (atau yang disingkat sebagai "mod") adalah pengubah permainan yang bisa diaktifkan oleh pemain secara opsional dari `Layar Pemilihan Mod` (gambar atas). Mod-mod ini bisa membuat beatmap menjadi lebih mudah, lebih sulit, atau sekadar untuk hiburan semata.
 
 Players can access the `Mod Selection Screen` in the song selection screen by clicking the `Mods` button near the lower left corner of the screen or by pressing `F1` on their keyboard. Once in the `Mod Selection Screen`, there are also keyboard shortcuts that can be used to select specific mods. These shortcuts may be changed in the Options.
 
