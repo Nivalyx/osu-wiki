@@ -8,20 +8,22 @@ tags:
   - No Mod
   - FreeMod
   - Free Mod
+  - ikhtisar
+  - daftar mod
 ---
 
 <!-- READ BEFORE EDITING:
 - Mods under "List of Mods" are listed by order of appearance on the Mod Selection Screen; same order as /Summary
 - Updates to this article should be accompanied with appropriate updates to /Summary -->
 
-# Game modifier
+# Modifikator permainan
 
 ::: alert-note
-**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+**Catatan:** Untuk versi [lazer](/wiki/Client/Release_stream/Lazer) dari artikel ini, lihat [Modifikator permainan (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
 ::: alert-note
-**Note:** For other uses of "mod", see [Mod (disambiguation)](/wiki/Disambiguation/Mod)
+**Catatan:** Untuk penggunaan lainnya dari istilah "mod", lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod)
 :::
 
 ![Mod selection screen](img/mod-selection-screen.jpg "comparison between the mod selection screens of osu!(top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right) game modes")
