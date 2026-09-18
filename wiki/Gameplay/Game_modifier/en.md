@@ -40,15 +40,15 @@ Pada layar ini, mod terbagi ke dalam tiga kategori: `Pengurang Kesulitan`, `Peni
 **Lihat juga:** [Ringkasan modifikator permainan](/wiki/Gameplay/Game_modifier/Summary)
 :::
 
-Each of the mods below listed will have their compatible game modes' icon (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) next to it.
+Ikon-ikon berikut (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) menunjukkan pada [mode permainan](/wiki/Game_mode) mana saja mod-mod berikut ini bisa digunakan.
 
-### Difficulty reduction
+### Pengurang kesulitan
 
 - [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Difficulty increase
+### Peningkat kesulitan
 
 - [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -59,7 +59,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
   - [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In) ![][osu!mania]
 - [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Special
+### Lainnya
 
 - [Relax (RL)](/wiki/Gameplay/Game_modifier/Relax) ![][osu!] ![][osu!taiko] ![][osu!catch]
 - [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot) ![][osu!]
@@ -71,7 +71,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [Auto (AT)](/wiki/Gameplay/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
   - [Cinema (CM)](/wiki/Gameplay/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [ScoreV2 (SV2)](/wiki/Gameplay/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice) ![][osu!] **Cutting Edge (Experimental) only**
+- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice) ![][osu!] **hanya tersedia pada Cutting Edge (Experimental)**
 
 ### Other
 
