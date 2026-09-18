@@ -30,9 +30,9 @@ tags:
 
 **Modifikator permainan** (atau yang disingkat sebagai "mod") adalah pengubah permainan yang bisa diaktifkan oleh pemain secara opsional dari `Layar Pemilihan Mod` (gambar atas). Mod-mod ini bisa membuat beatmap menjadi lebih mudah, lebih sulit, atau sekadar untuk hiburan semata.
 
-Players can access the `Mod Selection Screen` in the song selection screen by clicking the `Mods` button near the lower left corner of the screen or by pressing `F1` on their keyboard. Once in the `Mod Selection Screen`, there are also keyboard shortcuts that can be used to select specific mods. These shortcuts may be changed in the Options.
+Para pemain bisa mengakses `Layar Pemilihan Mod` dari layar pemilihan lagu dengan mengeklik tombol `Mods` yang terletak pada pojok kiri bawah layar ini atau dengan menekan `F1` pada keyboard. Sekalinya pemain sudah berada di `Layar Pemilihan Mod`, terdapat tombol-tombol pintasan yang bisa digunakan untuk memasang mod tertentu, yang masing-masingnya bisa diubah pada menu Options.
 
-Pada layar ini, mod terbagi ke dalam tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Lainnya`, yang mana they can either reduce, increase, or remove the [`Score Multiplier`](/wiki/Gameplay/Game_modifier/Mod_multiplier). When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., `1.06x * 1.12x = 1.1872x`).
+Pada layar ini, mod terbagi ke dalam tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Lainnya`, yang mana mod-mod ini bisa mengurangi, meningkatkan, atau menonaktifkan [`Pengali Skor`](/wiki/Gameplay/Game_modifier/Mod_multiplier) yang aktif. Pada saat dua mod dipasang secara bersamaan, pengali skor milik kedua mod ini akan saling dikalikan satu sama lain (mis. `1.06x * 1.12x = 1.1872x`).
 
 ## Daftar mod
 
