@@ -26,18 +26,18 @@ tags:
 **Catatan:** Untuk penggunaan lainnya dari istilah "mod", lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod)
 :::
 
-![Layar pemilihan mod](img/mod-selection-screen.jpg "perbandingan antara layar pemilihan mod di mode permainan osu! (kiri atas), osu!taiko (kanan atas), osu!catch (kiri bawah), dan osu!mania (kanan bawah)")
+![Layar pemilihan mod](img/mod-selection-screen-ID.jpg "perbandingan antara layar pemilihan mod di mode permainan osu! (kiri atas), osu!taiko (kanan atas), osu!catch (kiri bawah), dan osu!mania (kanan bawah)")
 
 **Modifikator permainan** (atau yang disingkat sebagai "mod") adalah pengubah permainan yang bisa diaktifkan oleh pemain secara opsional dari `Layar Pemilihan Mod` (gambar atas). Mod-mod ini bisa membuat beatmap menjadi lebih mudah, lebih sulit, atau sekadar untuk hiburan semata.
 
 Players can access the `Mod Selection Screen` in the song selection screen by clicking the `Mods` button near the lower left corner of the screen or by pressing `F1` on their keyboard. Once in the `Mod Selection Screen`, there are also keyboard shortcuts that can be used to select specific mods. These shortcuts may be changed in the Options.
 
-On the selection screen, mods are separated into three categories: `Difficulty Reduction`, `Difficulty Increase`, and `Special`, and they can either reduce, increase, or remove the [`Score Multiplier`](/wiki/Gameplay/Game_modifier/Mod_multiplier). When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., `1.06x * 1.12x = 1.1872x`).
+Pada layar ini, mod terbagi ke dalam tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Lainnya`, yang mana they can either reduce, increase, or remove the [`Score Multiplier`](/wiki/Gameplay/Game_modifier/Mod_multiplier). When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., `1.06x * 1.12x = 1.1872x`).
 
-## List of mods
+## Daftar mod
 
 ::: alert-note
-**See also:** [Summary (Game Modifier)](/wiki/Gameplay/Game_modifier/Summary)
+**Lihat juga:** [Ringkasan modifikator permainan](/wiki/Gameplay/Game_modifier/Summary)
 :::
 
 Each of the mods below listed will have their compatible game modes' icon (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) next to it.
