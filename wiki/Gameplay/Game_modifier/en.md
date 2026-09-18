@@ -88,11 +88,11 @@ Mod-mod berikut saat ini sudah tidak lagi tersedia.
 
 #### No Mod
 
-Dalam pertandingan [turnamen](/wiki/Tournaments), **No Mod** (***NM***) mengacu pada beatmap yang tidak dimainkan dengan mod mana pun. Istilah ini sering kalinya tidak mengikutsertakan mod-mod seperti [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) or [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), yang dipersyaratkan oleh banyak turnamen sebagai bagian dari peraturan atau format dasar mereka.
+Dalam pertandingan [turnamen](/wiki/Tournaments), **No Mod** (***NM***) mengacu pada beatmap yang tidak dimainkan dengan mod mana pun. Istilah ini sering kalinya tidak mengikutsertakan mod-mod seperti [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) or [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), yang wajib dipasang oleh banyak turnamen sebagai bagian dari peraturan atau format dasar mereka.
 
 #### Free Mod
 
-Dalam pertandingan [turnamen](/wiki/Tournaments), **Free Mod** (***FM***)
+Dalam pertandingan [turnamen](/wiki/Tournaments), **Free Mod** (***FM***) mengacu pada beatmap yang bebas dimainkan dengan mod atau kombinasi mod mana pun. Turnamen terentu 
 
 In [tournament](/wiki/Tournaments) matches, **Free Mod** (***FM***) refers to being free to choose any mod or mod combination. Some tournaments also provide rules that specify additional criteria such as what mods are allowed and in what combinations, or whether having no mods is allowed when Free Mod is specified.
 
