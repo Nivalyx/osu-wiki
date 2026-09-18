@@ -26,9 +26,9 @@ tags:
 **Catatan:** Untuk penggunaan lainnya dari istilah "mod", lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod)
 :::
 
-![Layar pemilihan mod](img/mod-selection-screen.jpg "perbandingan antara layar pemilihan mod pada mode permainan osu! (kiri atas), osu!taiko (kanan atas), osu!catch (kiri bawah), dan osu!mania (kanan bawah)")
+![Layar pemilihan mod](img/mod-selection-screen.jpg "perbandingan antara layar pemilihan mod di mode permainan osu! (kiri atas), osu!taiko (kanan atas), osu!catch (kiri bawah), dan osu!mania (kanan bawah)")
 
-**Game modifiers** (or "mod" for short) are optional modifications to a [beatmap](/wiki/Beatmap)'s elements and settings that players can enable from the `Mod Selection Screen` (above). Mods can make beatmaps easier, harder, or just plain fun.
+**Modifikator permainan** (atau disingkat "mod") are optional modifications to a [beatmap](/wiki/Beatmap)'s elements and settings that players can enable from the `Mod Selection Screen` (above). Mods can make beatmaps easier, harder, or just plain fun.
 
 Players can access the `Mod Selection Screen` in the song selection screen by clicking the `Mods` button near the lower left corner of the screen or by pressing `F1` on their keyboard. Once in the `Mod Selection Screen`, there are also keyboard shortcuts that can be used to select specific mods. These shortcuts may be changed in the Options.
 
