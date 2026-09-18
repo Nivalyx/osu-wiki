@@ -92,7 +92,7 @@ Dalam pertandingan [turnamen](/wiki/Tournaments), **No Mod** (***NM***) mengacu 
 
 #### Free Mod
 
-Dalam pertandingan [turnamen](/wiki/Tournaments), **Free Mod** (***FM***) mengacu pada beatmap yang bebas dimainkan dengan mod atau kombinasi mod mana pun. Turnamen terentu 
+Dalam pertandingan [turnamen](/wiki/Tournaments), **Free Mod** (***FM***) mengacu pada beatmap yang bebas dimainkan dengan mod atau kombinasi mod mana pun. Turnamen tertentu terkadang juga menetapkan berbagai kriteria khusus seperti mod apa yang boleh digunakan, atau apakah suatu beatmap boleh dimainkan tanpa mod pada saat pengaturan Free Mod sedang aktif.
 
 In [tournament](/wiki/Tournaments) matches, **Free Mod** (***FM***) refers to being free to choose any mod or mod combination. Some tournaments also provide rules that specify additional criteria such as what mods are allowed and in what combinations, or whether having no mods is allowed when Free Mod is specified.
 
