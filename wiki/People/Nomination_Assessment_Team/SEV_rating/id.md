@@ -26,7 +26,7 @@ Penganuliran nominasi yang dilakukan untuk memperbaiki hal-hal yang dianggap tid
 | 0 | Sepele | Tidak memengaruhi atau hanya sedikit memengaruhi permainan. |
 | 1 | Patut diperhatikan | Memengaruhi permainan secara negatif, namun tidak signifikan. |
 | 2 | Cela desain sedang | Harms gameplay to the point where it is typically also noticeable to a regular user, e.g. a big jump in a low difficulty. In practice, this is often a combination of multiple notable reasons, such as being both too difficult to read and an unwarranted difficulty spike. |
-| 3 | Cela desain  | Harms gameplay to the point where the issue is considered game-breaking, e.g. concurrent hit objects. |
+| 3 | Cela desain fatal | Harms gameplay to the point where the issue is considered game-breaking, e.g. concurrent hit objects. |
 
 Below are examples of SEV ratings and how they are roughly interpreted by evaluators:
 
@@ -58,14 +58,14 @@ This list does not cover every possible reset reason, and the NAT may rate reset
 
 ### Metadata
 
-*Makes up 22% of all >0/0 resets, 30% of all resets.*
+*Mencakup 22% dari semua penganuliran 0/0, dan 30% dari semua penganuliran yang ada.*
 
-Metadata resets *never* have a severity above 0, as they do not affect gameplay.
+Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena tidak memengaruhi permainan.
 
 - **0/0:** (70%)
-  - Adding tags for a new Featured Artist
-  - Adding guest mappers to tags due to a username change
-  - Adding tags that are more descriptive but are not required by the ranking criteria
+  - Menambahkan tag untuk Featured Artist yang baru diumumkan
+  - Menambahkan nama pemilik tingkat kesulitan tamu ke daftar tag karena perubahan nama pengguna
+  - Menambahkan tag yang lebih rinci tapi tidak diwajibkan oleh kriteria ranking
   - Resets due to the addition of a new rule
   - Difficulty name changes
 - **1/0:** (23%)
