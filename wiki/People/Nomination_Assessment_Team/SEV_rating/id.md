@@ -2,26 +2,30 @@
 
 SEV is an internal measurement system used by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the nominating [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). This measurement is split up into two values and displayed as *Obviousness/Severity*. Obviousness ranges from 0 to 2 and severity ranges from 0 to 3, making it a quick-to-use system.
 
+SEV adalah sistem pengukuran internal yang digunakan oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) untuk menilai seberapa relevan suatu [penganuliran nominasi](/wiki/Beatmap_ranking_procedure#nomination-resets) terhadap hasil evaluasi dari [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) yang bersangkutan. Sistem ini terbagi ke dalam dua nilai, yang masing-masingnya ditampilkan sebagai *Obviousness* (kejelasan) dan *Severity* (keparahan). Kejelasan memiliki rentang nilai dari 0 ke 2 dan keparahan dari 0 ke 3, yang membuat sistem ini ringkas untuk digunakan.
+
 SEV ratings are only visible to NAT members given they only serve as internal documentation and reference for the evaluations of the nominating BNs.
 
-## Obviousness and severity
+Berhubung sistem ini hanya digunakan untuk keperluan dokumentasi internal dan sebagai acuan bagi hasil evaluasi dari BN yang bersangkutan, nilai SEV hanya bisa dilihat oleh anggota NAT.
+
+## Kejelasan dan keparahan
 
 ::: alert-notice
-**Notice**
+**Pengumuman**
 A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).
 :::
 
-**Obviousness** relates to how easy it is to spot the issue.
+**Kejelasan** mengacu kepada seberapa mudah suatu masalah bisa ditemukan.
 
-| Rating | Definition | Explanation |
+| Nilai | Arti | Penjelasa |
 | :-: | :-- | :-- |
 | 0 | Not obvious | Applies if the issue is obscure or too granular to consistently catch on to. |
 | 1 | Can be found with experience | Requires knowledge/experience/attentiveness to catch. Can typically not be found by tools or regular users, e.g. timing/metadata issues. |
 | 2 | Can be found at a glance | Likely something that could be spotted by a regular user, or that would not have been missed when checking and using tools properly. |
 
-**Severity** relates to how much the issue impacts gameplay.
+**Keparahan** mengacu kepada seberapa berpengaruh suatu masalah terhadap permainan.
 
-| Rating | Definition | Explanation |
+| Nilai | Arti | Penjelasan |
 | :-: | :-- | :-- |
 | 0 | Negligible | Does not or hardly affects gameplay. |
 | 1 | Worth noting | Impacts gameplay negatively but not significantly. |
