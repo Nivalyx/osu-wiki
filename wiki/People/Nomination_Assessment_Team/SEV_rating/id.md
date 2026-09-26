@@ -8,7 +8,7 @@ Berhubung nilai SEV hanya dipakai untuk dokumentasi dan acuan internal bagi hasi
 
 ::: alert-notice
 **Pemberitahuan**
-Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap sepele apabila tidak diperbaiki akan selalu diberikan nilai 0/0. Hal ini dilakukan agar orang-orang tidak merasa berkecil hati untuk memberikan mod dan menerapkan perbaikan di kategori [Qualified](/wiki/Beatmap/Category#qualified).
+Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap tidak bermasalah apabila tidak diperbaiki akan selalu diberikan nilai 0/0. Hal ini dilakukan agar orang-orang tidak merasa berkecil hati untuk memberikan mod dan menerapkan perbaikan di kategori [Qualified](/wiki/Beatmap/Category#qualified).
 :::
 
 **Kejelasan** mengacu kepada seberapa mudah suatu masalah bisa ditemukan.
