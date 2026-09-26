@@ -52,7 +52,7 @@ Mistakes happen and a healthy amount will help with learning, but if they happen
 
 ## Alasan penganuliran umum
 
-*Data ini tersusun atas 90% dari semua penganuliran nominasi yang ada.*
+*Data ini mencakup 90% dari semua penganuliran nominasi yang terjadi.*
 
 Here is an exhaustive list of reasons nominations have been reset for with their respective SEV rating. These are based on stats of all SEV ratings set in the osu! game mode from February 2020 to April 2021, with percentages to show how common issues are.
 
