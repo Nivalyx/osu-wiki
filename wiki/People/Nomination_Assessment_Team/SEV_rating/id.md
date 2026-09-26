@@ -27,8 +27,8 @@ Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap ti
 | :-: | :-- | :-- |
 | 0 | Sepele | Tidak memengaruhi atau hanya sedikit memengaruhi permainan. |
 | 1 | Patut diperhatikan | Memengaruhi permainan secara negatif, namun tidak signifikan. |
-| 2 | Moderate design flaw | Harms gameplay to the point where it is typically also noticeable to a regular user, e.g. a big jump in a low difficulty. In practice, this is often a combination of multiple notable reasons, such as being both too difficult to read and an unwarranted difficulty spike. |
-| 3 | Severe design flaw | Harms gameplay to the point where the issue is considered game-breaking, e.g. concurrent hit objects. |
+| 2 | Cela desain sedang | Harms gameplay to the point where it is typically also noticeable to a regular user, e.g. a big jump in a low difficulty. In practice, this is often a combination of multiple notable reasons, such as being both too difficult to read and an unwarranted difficulty spike. |
+| 3 | Cela desain  | Harms gameplay to the point where the issue is considered game-breaking, e.g. concurrent hit objects. |
 
 Below are examples of SEV ratings and how they are roughly interpreted by evaluators:
 
@@ -50,9 +50,9 @@ SEV ratings are used in the [evaluations of Beatmap Nominators](/wiki/People/Nom
 
 Mistakes happen and a healthy amount will help with learning, but if they happen too frequently or the same mistakes repeat, then that is a problem. This is why evaluations do not focus on individual SEV ratings, but take the entire picture into account on a case-by-case basis.
 
-## Common reset reasons
+## Alasan penganuliran umum
 
-*This data comprises 90% of all resets.*
+*Data ini tersusun atas 90% dari semua penganuliran nominasi yang ada.*
 
 Here is an exhaustive list of reasons nominations have been reset for with their respective SEV rating. These are based on stats of all SEV ratings set in the osu! game mode from February 2020 to April 2021, with percentages to show how common issues are.
 
