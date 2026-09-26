@@ -34,8 +34,8 @@ Berikut ini adalah contoh dari masing-masing nilai SEV dan bagaimana nilai ini k
 | :-- | :-- |
 | 0/0 | Penganuliran ini tidak signifikan dan diabaikan dalam evaluasi. |
 | 0/1 | Terjadi kesalahan, tapi karena kesalahan ini tidak mudah untuk ditemukan, sulit untuk menyalahkan BN atas kesalahan ini. |
-| 1/0 | Bisa diperbaiki apabila BN yang bersangkutan lebih teliti, tapi bukan masalah yang berarti. |
-| 1/1 | Something went wrong that could have been fixed if the BNs were more attentive. |
+| 1/0 | Bukan masalah yang berarti, meskipun bisa diperbaiki apabila BN yang bersangkutan lebih teliti. |
+| 1/1 | Terjadi kesalahan yang bisa diperbaiki apabila BN yang bersangkutan lebih teliti. |
 | 1/2 | Often means many things went wrong, but all require experience to spot easily. |
 | 2/0 | Some glaring issue in the map's settings, like metadata, was somehow missed. |
 | 2/1 | Some glaring issue in the map's gameplay, like no hitsounding, was missed. |
