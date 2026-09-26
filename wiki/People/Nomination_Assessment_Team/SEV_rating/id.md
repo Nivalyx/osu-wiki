@@ -32,8 +32,8 @@ Berikut ini adalah contoh dari masing-masing nilai SEV dan bagaimana nilai ini d
 
 | SEV | Penjelasan |
 | :-- | :-- |
-| 0/0 | Penganuliran ini tidak signifikan dan tidak diikutsertakan dalam evaluasi. |
-| 0/1 | Something went wrong but it is hard to blame the BNs, as it was difficult to spot. |
+| 0/0 | Penganuliran ini tidak signifikan dan diabaikan dalam evaluasi. |
+| 0/1 | Terjadi kesalahan, Something went wrong but it is hard to blame the BNs, as it was difficult to spot. |
 | 1/0 | Could have been fixed if the BNs had been more attentive, but is not a significant issue. |
 | 1/1 | Something went wrong that could have been fixed if the BNs were more attentive. |
 | 1/2 | Often means many things went wrong, but all require experience to spot easily. |
