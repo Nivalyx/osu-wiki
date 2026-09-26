@@ -10,7 +10,7 @@ Nilai SEV hanya bisa dilihat oleh anggota NAT, berhubung nilai ini hanya dipakai
 **Pemberitahuan**
 A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).
 
-Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap tidak bermasalah apabila tidak diperbaiki akan selalu diberikan nilai 0/0. Hal ini dilakukan agar
+Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap tidak bermasalah apabila tidak diperbaiki akan selalu diberikan nilai 0/0. Hal ini dilakukan agar orang-orang tidak berkecil hati untuk bisa terus memberikan mod dan  
 :::
 
 **Kejelasan** mengacu kepada seberapa mudah suatu masalah bisa ditemukan.
@@ -19,7 +19,7 @@ Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap ti
 | :-: | :-- | :-- |
 | 0 | Tidak kentara | Applies if the issue is obscure or too granular to consistently catch on to. |
 | 1 | Bisa ditemukan dengan pengalaman | Requires knowledge/experience/attentiveness to catch. Can typically not be found by tools or regular users, e.g. timing/metadata issues. |
-| 2 | Bisa ditemukan dengan sekilas mata Can be found at a glance | Likely something that could be spotted by a regular user, or that would not have been missed when checking and using tools properly. |
+| 2 | Bisa ditemukan dalam sekejap | Likely something that could be spotted by a regular user, or that would not have been missed when checking and using tools properly. |
 
 **Keparahan** mengacu kepada seberapa berpengaruh suatu masalah terhadap permainan.
 
