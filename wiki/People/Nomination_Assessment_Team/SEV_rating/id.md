@@ -2,9 +2,7 @@
 
 SEV adalah sistem pengukuran internal yang digunakan oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) untuk menilai seberapa relevan suatu [penganuliran nominasi](/wiki/Beatmap_ranking_procedure#nomination-resets) terhadap hasil evaluasi dari [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) yang bersangkutan. Sistem ini terbagi ke dalam dua nilai, yang masing-masingnya ditampilkan sebagai *Obviousness* (kejelasan) dan *Severity* (keparahan). Agar sistem ini ringkas untuk digunakan, kejelasan memiliki rentang nilai dari 0 ke 2 dan keparahan dari 0 ke 3.
 
-SEV ratings are only visible to NAT members given they only serve as internal documentation and reference for the evaluations of the nominating BNs.
-
-Nilai SEV hanya bisa dilihat oleh anggota NAT, hanya dipakai untuk dokumentasi acuan internal bagi hasil evaluasi dari BN yang bersangkutan
+Nilai SEV hanya bisa dilihat oleh anggota NAT, berhubung nilai ini hanya dipakai untuk dokumentasi acuan internal bagi hasil evaluasi dari BN yang bersangkutan
 
 ## Kejelasan dan keparahan
 
@@ -17,18 +15,18 @@ Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap ti
 
 **Kejelasan** mengacu kepada seberapa mudah suatu masalah bisa ditemukan.
 
-| Nilai | Arti | Penjelasa |
+| Nilai | Arti | Penjelasan |
 | :-: | :-- | :-- |
-| 0 | Not obvious | Applies if the issue is obscure or too granular to consistently catch on to. |
-| 1 | Can be found with experience | Requires knowledge/experience/attentiveness to catch. Can typically not be found by tools or regular users, e.g. timing/metadata issues. |
-| 2 | Can be found at a glance | Likely something that could be spotted by a regular user, or that would not have been missed when checking and using tools properly. |
+| 0 | Tidak kentara | Applies if the issue is obscure or too granular to consistently catch on to. |
+| 1 | Bisa ditemukan dengan pengalaman | Requires knowledge/experience/attentiveness to catch. Can typically not be found by tools or regular users, e.g. timing/metadata issues. |
+| 2 | Bisa ditemukan dengan sekilas mata Can be found at a glance | Likely something that could be spotted by a regular user, or that would not have been missed when checking and using tools properly. |
 
 **Keparahan** mengacu kepada seberapa berpengaruh suatu masalah terhadap permainan.
 
 | Nilai | Arti | Penjelasan |
 | :-: | :-- | :-- |
-| 0 | Negligible | Does not or hardly affects gameplay. |
-| 1 | Worth noting | Impacts gameplay negatively but not significantly. |
+| 0 | Sepele | Tidak memengaruhi atau hanya sedikit memengaruhi permainan. |
+| 1 | Patut diperhatikan | Memengaruhi permainan secara negatif, namun tidak signifikan. |
 | 2 | Moderate design flaw | Harms gameplay to the point where it is typically also noticeable to a regular user, e.g. a big jump in a low difficulty. In practice, this is often a combination of multiple notable reasons, such as being both too difficult to read and an unwarranted difficulty spike. |
 | 3 | Severe design flaw | Harms gameplay to the point where the issue is considered game-breaking, e.g. concurrent hit objects. |
 
