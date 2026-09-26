@@ -17,7 +17,7 @@ Penganuliran nominasi yang dilakukan untuk memperbaiki hal-hal yang dianggap tid
 | :-: | :-- | :-- |
 | 0 | Tidak kentara | Berlaku apabila suatu masalah terlalu samar atau rinci untuk bisa terus-menerus ditemukan. |
 | 1 | Bisa ditemukan dengan pengalaman | Memerlukan pengetahuan/pengalaman/ketelitian untuk bisa ditemukan. Pada umumnya tidak bisa ditemukan oleh pengecekan alat atau pengguna biasa, mis. masalah timing/metadata. |
-| 2 | Bisa ditemukan dalam sekejap mata | Sesuatu yang kemungkinan akan bisa ditemukan oleh pengguna biasa, atau yang tidak luput dari hasil pengecekan alat. |
+| 2 | Bisa ditemukan dalam sekejap mata | Sesuatu yang kemungkinan akan bisa ditemukan oleh pengguna biasa, atau yang tidak akan terlewat dari hasil pengecekan alat. |
 
 **Keparahan** mengacu kepada seberapa berpengaruh suatu masalah terhadap permainan.
 
