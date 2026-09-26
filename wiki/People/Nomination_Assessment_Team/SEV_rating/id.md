@@ -2,7 +2,7 @@
 
 SEV adalah sistem pengukuran internal yang digunakan oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) untuk menilai seberapa relevan suatu [penganuliran nominasi](/wiki/Beatmap_ranking_procedure#nomination-resets) terhadap hasil evaluasi dari [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) yang bersangkutan. Pengukuran ini terbagi ke dalam dua nilai, yang masing-masingnya ditampilkan sebagai *Obviousness* (kejelasan) dan *Severity* (keparahan). Kejelasan memiliki rentang nilai dari 0 ke 2 dan keparahan dari 0 ke 3, yang membuat sistem ini praktis untuk digunakan.
 
-Berhubung nilai SEV hanya dipakai untuk dokumentasi dan acuan internal bagi hasil evaluasi BN, nilai ini hanya bisa dilihat oleh anggota NAT.
+Berhubung nilai SEV hanya dipakai sebagai dokumentasi dan acuan internal bagi hasil evaluasi BN, nilai ini hanya bisa dilihat oleh anggota NAT.
 
 ## Kejelasan dan keparahan
 
@@ -25,7 +25,7 @@ Penganuliran nominasi yang dilakukan untuk memperbaiki hal-hal yang dianggap tid
 | :-: | :-- | :-- |
 | 0 | Sepele | Tidak memengaruhi atau hanya sedikit memengaruhi permainan. |
 | 1 | Patut diperhatikan | Memengaruhi permainan secara negatif, namun tidak signifikan. |
-| 2 | Cela desain sedang | Harms gameplay to the point where it is typically also noticeable to a regular user, e.g. a big jump in a low difficulty. In practice, this is often a combination of multiple notable reasons, such as being both too difficult to read and an unwarranted difficulty spike. |
+| 2 | Cela desain sedang | Memengaruhi permainan pada tingkatan yang pada umumnya bisa dirasakan oleh pengguna biasa, mis. jump yang besar di tingkat kesulitan yang rendah. Dalam prakteknya, hal ini sering disebabkan oleh gabungan dari beberapa alasan yang kentara, seperti suatu pola yang terlalu sulit untuk dibaca atau lonjakan tingkat kesulitan (*difficulty spike*) yang berlebihan. |
 | 3 | Cela desain fatal | Harms gameplay to the point where the issue is considered game-breaking, e.g. concurrent hit objects. |
 
 Below are examples of SEV ratings and how they are roughly interpreted by evaluators:
