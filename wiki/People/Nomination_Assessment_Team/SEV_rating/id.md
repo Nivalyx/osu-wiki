@@ -42,7 +42,7 @@ Berikut ini adalah contoh dari masing-masing nilai SEV dan bagaimana nilai ini k
 | 2/2 | Terdapat masalah fatal yang mencakup sebagian besar beatmap, seperti jump yang besar di tingkat kesulitan yang rendah, yang terlewatkan. |
 | 2/3 | Terdapat masalah yang sangat fatal yang sulit untuk dilewatkan, seperti dua objek permainan di waktu yang bersamaan, yang terlewatkan. |
 
-## Penggunaan
+## Kegunaan
 
 Nilai SEV digunakan dalam [proses evaluasi Beatmap Nominator](/wiki/People/Nomination_Assessment_Team/Evaluations), yang dibobotkan terhadap jumlah nominasi yang diberikan.
 
