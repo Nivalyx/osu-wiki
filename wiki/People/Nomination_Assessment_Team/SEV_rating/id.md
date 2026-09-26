@@ -2,7 +2,7 @@
 
 SEV adalah sistem pengukuran internal yang digunakan oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) untuk menilai seberapa relevan suatu [penganuliran nominasi](/wiki/Beatmap_ranking_procedure#nomination-resets) terhadap hasil evaluasi dari [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) yang bersangkutan. Sistem ini terbagi ke dalam dua nilai, yang masing-masingnya ditampilkan sebagai *Obviousness* (kejelasan) dan *Severity* (keparahan). Agar sistem ini ringkas untuk digunakan, kejelasan memiliki rentang nilai dari 0 ke 2 dan keparahan dari 0 ke 3.
 
-Nilai SEV hanya bisa dilihat oleh anggota NAT, berhubung nilai ini hanya dipakai untuk dokumentasi acuan internal bagi hasil evaluasi dari BN yang bersangkutan
+Nilai SEV hanya bisa dilihat oleh anggota NAT, berhubung nilai ini hanya dipakai untuk dokumentasi dan acuan internal bagi hasil evaluasi dari BN yang bersangkutan.
 
 ## Kejelasan dan keparahan
 
@@ -10,7 +10,7 @@ Nilai SEV hanya bisa dilihat oleh anggota NAT, berhubung nilai ini hanya dipakai
 **Pemberitahuan**
 A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).
 
-Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap tidak bermasalah apabila tidak dibetulkan akan selalu diberikan nilai 0/0. Hal ini dilakukan agar
+Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap tidak bermasalah apabila tidak diperbaiki akan selalu diberikan nilai 0/0. Hal ini dilakukan agar
 :::
 
 **Kejelasan** mengacu kepada seberapa mudah suatu masalah bisa ditemukan.
