@@ -37,10 +37,12 @@ Berikut ini adalah contoh dari masing-masing nilai SEV dan bagaimana nilai ini k
 | 1/0 | Bukan masalah yang berarti, walau bisa diperbaiki apabila BN yang bersangkutan lebih teliti. |
 | 1/1 | Terjadi kesalahan yang bisa diperbaiki apabila BN yang bersangkutan lebih teliti. |
 | 1/2 | Sering kalinya berarti bahwa ada banyak hal yang salah, walau semuanya butuh pengalaman untuk bisa ditemukan dengan mudah. |
-| 2/0 | Terdapat beberapa kesalahan yang gamblang pada pengaturan map, seperti metadata, yang karena satu dan lain hal sampai terlewatkan. |
-| 2/1 | Terdapat beberapa kesalahan yang gamblang pada permainan map itu sendiri, seperti hitsound yang hilang, yang terlewatkan. |
-| 2/2 | A severe issue that spans the majority of the map, like a big jump in a low difficulty, was missed. |
-| 2/3 | An issue so severe that it is difficult not to spot, like concurrent hit objects, was missed. |
+| 2/0 | Terdapat beberapa kesalahan yang gamblang pada pengaturan beatmap, seperti metadata, yang karena satu dan lain hal sampai terlewatkan. |
+| 2/1 | Terdapat beberapa kesalahan yang gamblang pada permainan beatmap itu sendiri, seperti hitsound yang hilang, yang terlewatkan. |
+| 2/2 | Terdapat masalah fatal yang mencakup sebagian besar beatmap, seperti jump yang besar di tingkat kesulitan yang rendah, yang terlewatkan. |
+| 2/3 | Terdapat masalah yang sangat fatal yang s, seperti dua objek permainan di waktu yang bersamaan, yang terlewatkan.
+
+An issue so severe that it is difficult not to spot, like concurrent hit objects, was missed. |
 
 ## Penggunaan
 
