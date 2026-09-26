@@ -40,9 +40,7 @@ Berikut ini adalah contoh dari masing-masing nilai SEV dan bagaimana nilai ini k
 | 2/0 | Terdapat beberapa kesalahan yang gamblang pada pengaturan beatmap, seperti metadata, yang karena satu dan lain hal sampai terlewatkan. |
 | 2/1 | Terdapat beberapa kesalahan yang gamblang pada permainan beatmap itu sendiri, seperti hitsound yang hilang, yang terlewatkan. |
 | 2/2 | Terdapat masalah fatal yang mencakup sebagian besar beatmap, seperti jump yang besar di tingkat kesulitan yang rendah, yang terlewatkan. |
-| 2/3 | Terdapat masalah yang sangat fatal yang s, seperti dua objek permainan di waktu yang bersamaan, yang terlewatkan.
-
-An issue so severe that it is difficult not to spot, like concurrent hit objects, was missed. |
+| 2/3 | Terdapat masalah yang sangat fatal yang sulit untuk dilewatkan, seperti dua objek permainan di waktu yang bersamaan, yang terlewatkan. |
 
 ## Penggunaan
 
