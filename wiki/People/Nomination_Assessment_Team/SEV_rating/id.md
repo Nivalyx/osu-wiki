@@ -60,7 +60,7 @@ This list does not cover every possible reset reason, and the NAT may rate reset
 
 *Mencakup 22% dari semua penganuliran 0/0, dan 30% dari semua penganuliran yang ada.*
 
-Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena tidak memengaruhi permainan.
+Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena kesalahan ini tidak memengaruhi permainan.
 
 - **0/0:** (70%)
   - Menambahkan tag untuk Featured Artist yang baru diumumkan
