@@ -46,6 +46,8 @@ Berikut ini adalah contoh dari masing-masing nilai SEV dan bagaimana nilai ini k
 
 Nilai SEV digunakan dalam [proses evaluasi Beatmap Nominator](/wiki/People/Nomination_Assessment_Team/Evaluations), yang dibobotkan terhadap jumlah nominasi yang diberikan.
 
+Kesalahan adalah hal yang lumrah, dan satu atau dua kesalahan akan membantu seseorang dalam belajar.
+
 Mistakes happen and a healthy amount will help with learning, but if they happen too frequently or the same mistakes repeat, then that is a problem. This is why evaluations do not focus on individual SEV ratings, but take the entire picture into account on a case-by-case basis.
 
 ## Alasan penganuliran umum
