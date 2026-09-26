@@ -26,7 +26,7 @@ Penganuliran nominasi yang dilakukan untuk memperbaiki hal-hal yang dianggap tid
 | 0 | Sepele | Tidak memengaruhi atau hanya sedikit memengaruhi permainan. |
 | 1 | Patut diperhatikan | Memengaruhi permainan secara negatif, namun tidak signifikan. |
 | 2 | Cela desain sedang | Memengaruhi permainan pada tingkatan yang pada umumnya bisa dirasakan oleh pengguna biasa, mis. jump yang besar di tingkat kesulitan yang rendah. Dalam prakteknya, hal ini sering kalinya disebabkan oleh kombinasi dari beberapa hal yang kentara, seperti suatu pola yang terlalu sulit untuk dibaca atau lonjakan tingkat kesulitan (*difficulty spike*) yang berlebihan. |
-| 3 | Cela desain fatal | Harms gameplay to the point where the issue is considered game-breaking, e.g. concurrent hit objects. |
+| 3 | Cela desain fatal | Memengaruhi permainan hingga pada tingkatan yang dianggap mengacaukan, mis. dua objek permainan di waktu yang bersamaan. |
 
 Below are examples of SEV ratings and how they are roughly interpreted by evaluators:
 
