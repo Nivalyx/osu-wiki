@@ -42,7 +42,7 @@ Berikut ini adalah contoh dari masing-masing nilai SEV dan bagaimana nilai ini k
 | 2/2 | A severe issue that spans the majority of the map, like a big jump in a low difficulty, was missed. |
 | 2/3 | An issue so severe that it is difficult not to spot, like concurrent hit objects, was missed. |
 
-## Usage
+## Penggunaan
 
 SEV ratings are used in the [evaluations of Beatmap Nominators](/wiki/People/Nomination_Assessment_Team/Evaluations), weighed against how many nominations they have done.
 
