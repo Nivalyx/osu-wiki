@@ -66,8 +66,8 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
   - Menambahkan tag untuk Featured Artist yang baru diumumkan
   - Menambahkan nama pemilik tingkat kesulitan tamu ke daftar tag karena perubahan nama pengguna
   - Menambahkan tag yang lebih rinci tapi tidak diwajibkan oleh kriteria ranking
-  - Resets due to the addition of a new rule
-  - Difficulty name changes
+  - Penganuliran yang disebabkan oleh adanya peraturan baru
+  - Perubahan nama tingkat kesulitan
 - **1/0:** (23%)
   - Romanised artist name order
   - Small romanisation and capitalisation errors
