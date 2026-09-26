@@ -1,18 +1,18 @@
 # Nilai SEV
 
-SEV is an internal measurement system used by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the nominating [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). This measurement is split up into two values and displayed as *Obviousness/Severity*. Obviousness ranges from 0 to 2 and severity ranges from 0 to 3, making it a quick-to-use system.
-
-SEV adalah sistem pengukuran internal yang digunakan oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) untuk menilai seberapa relevan suatu [penganuliran nominasi](/wiki/Beatmap_ranking_procedure#nomination-resets) terhadap hasil evaluasi dari [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) yang bersangkutan. Sistem ini terbagi ke dalam dua nilai, yang masing-masingnya ditampilkan sebagai *Obviousness* (kejelasan) dan *Severity* (keparahan). Kejelasan memiliki rentang nilai dari 0 ke 2 dan keparahan dari 0 ke 3, yang membuat sistem ini ringkas untuk digunakan.
+SEV adalah sistem pengukuran internal yang digunakan oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) untuk menilai seberapa relevan suatu [penganuliran nominasi](/wiki/Beatmap_ranking_procedure#nomination-resets) terhadap hasil evaluasi dari [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) yang bersangkutan. Sistem ini terbagi ke dalam dua nilai, yang masing-masingnya ditampilkan sebagai *Obviousness* (kejelasan) dan *Severity* (keparahan). Agar sistem ini ringkas untuk digunakan, kejelasan memiliki rentang nilai dari 0 ke 2 dan keparahan dari 0 ke 3.
 
 SEV ratings are only visible to NAT members given they only serve as internal documentation and reference for the evaluations of the nominating BNs.
 
-Berhubung sistem ini hanya digunakan untuk keperluan dokumentasi internal dan sebagai acuan bagi hasil evaluasi dari BN yang bersangkutan, nilai SEV hanya bisa dilihat oleh anggota NAT.
+Nilai SEV hanya bisa dilihat oleh anggota NAT, hanya dipakai untuk dokumentasi acuan internal bagi hasil evaluasi dari BN yang bersangkutan
 
 ## Kejelasan dan keparahan
 
 ::: alert-notice
-**Pengumuman**
+**Pemberitahuan**
 A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).
+
+Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap tidak bermasalah apabila tidak dibetulkan akan selalu diberikan nilai 0/0. Hal ini dilakukan agar
 :::
 
 **Kejelasan** mengacu kepada seberapa mudah suatu masalah bisa ditemukan.
