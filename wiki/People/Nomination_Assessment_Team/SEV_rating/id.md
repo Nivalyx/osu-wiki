@@ -1,6 +1,6 @@
 # Nilai SEV
 
-SEV adalah sistem pengukuran internal yang digunakan oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) untuk menilai seberapa relevan suatu [penganuliran nominasi](/wiki/Beatmap_ranking_procedure#nomination-resets) terhadap hasil evaluasi dari [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) yang bersangkutan. Pengukuran ini terbagi ke dalam dua nilai, yang masing-masingnya ditampilkan sebagai *Obviousness* (kejelasan) dan *Severity* (keparahan). Agar sistem ini praktis untuk digunakan, kejelasan memiliki rentang nilai dari 0 ke 2 dan keparahan dari 0 ke 3.
+SEV adalah sistem pengukuran internal yang digunakan oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) untuk menilai seberapa relevan suatu [penganuliran nominasi](/wiki/Beatmap_ranking_procedure#nomination-resets) terhadap hasil evaluasi dari [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) yang bersangkutan. Pengukuran ini terbagi ke dalam dua nilai, yang masing-masingnya ditampilkan sebagai *Obviousness* (kejelasan) dan *Severity* (keparahan). Kejelasan memiliki rentang nilai dari 0 ke 2 dan keparahan dari 0 ke 3, yang membuat sistem ini praktis untuk digunakan.
 
 Berhubung nilai SEV hanya dipakai untuk dokumentasi dan acuan internal bagi hasil evaluasi BN, nilai ini hanya bisa dilihat oleh anggota NAT.
 
@@ -8,7 +8,7 @@ Berhubung nilai SEV hanya dipakai untuk dokumentasi dan acuan internal bagi hasi
 
 ::: alert-notice
 **Pemberitahuan**
-Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap tidak bermasalah apabila tidak diperbaiki akan selalu diberikan nilai 0/0. Hal ini dilakukan agar orang-orang tidak merasa berkecil hati untuk memberikan mod dan menerapkan perbaikan di kategori [Qualified](/wiki/Beatmap/Category#qualified).
+Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap tidak bermasalah apabila tidak diperbaiki akan selalu diberikan nilai 0/0. Hal ini dilakukan agar orang-orang tidak merasa berkecil hati untuk memberikan mod dan memperbaiki di kategori [Qualified](/wiki/Beatmap/Category#qualified).
 :::
 
 **Kejelasan** mengacu kepada seberapa mudah suatu masalah bisa ditemukan.
@@ -16,7 +16,7 @@ Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap ti
 | Nilai | Arti | Penjelasan |
 | :-: | :-- | :-- |
 | 0 | Tidak kentara | Berlaku apabila suatu masalah terlalu samar atau rinci untuk bisa terus-menerus ditemukan. |
-| 1 | Bisa ditemukan dengan pengalaman | Memerlukan pengetahuan/pengalaman/ketelitian untuk bisa ditemukan. Pada umumnya tidak bisa ditemukan oleh alat-alat atau pengguna biasa, mis. masalah timing/metadata. |
+| 1 | Bisa ditemukan dengan pengalaman | Memerlukan pengetahuan/pengalaman/ketelitian untuk bisa ditemukan. Pada umumnya tidak bisa ditemukan oleh pengecekan alat atau pengguna biasa, mis. masalah timing/metadata. |
 | 2 | Bisa ditemukan dalam sekejap mata | Sesuatu yang kemungkinan akan bisa ditemukan oleh pengguna biasa, atau yang tidak luput dari hasil pengecekan alat. |
 
 **Keparahan** mengacu kepada seberapa berpengaruh suatu masalah terhadap permainan.
