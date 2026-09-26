@@ -1,6 +1,6 @@
 # Nilai SEV
 
-SEV adalah sistem pengukuran internal yang digunakan oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) untuk menilai seberapa relevan suatu [penganuliran nominasi](/wiki/Beatmap_ranking_procedure#nomination-resets) terhadap hasil evaluasi dari [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) yang bersangkutan. Sistem ini terbagi ke dalam dua nilai, yang masing-masingnya ditampilkan sebagai *Obviousness* (kejelasan) dan *Severity* (keparahan). Agar sistem ini ringkas untuk digunakan, kejelasan memiliki rentang nilai dari 0 ke 2 dan keparahan dari 0 ke 3.
+SEV adalah sistem pengukuran internal yang digunakan oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) untuk menilai seberapa relevan suatu [penganuliran nominasi](/wiki/Beatmap_ranking_procedure#nomination-resets) terhadap hasil evaluasi dari [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) yang bersangkutan. Sistem ini terbagi ke dalam dua nilai, yang masing-masingnya ditampilkan sebagai *Obviousness* (kejelasan) dan *Severity* (keparahan). Agar sistem ini praktis untuk digunakan, kejelasan memiliki rentang nilai dari 0 ke 2 dan keparahan dari 0 ke 3.
 
 Berhubung nilai SEV hanya dipakai untuk dokumentasi dan acuan internal bagi hasil evaluasi BN, nilai ini hanya bisa dilihat oleh anggota NAT.
 
@@ -15,7 +15,7 @@ Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap ti
 
 | Nilai | Arti | Penjelasan |
 | :-: | :-- | :-- |
-| 0 | Tidak kentara | Applies if the issue is obscure or too granular to consistently catch on to. |
+| 0 | Tidak kentara | Berlaku apabila suatu masalah terlalu samar atau rinci untuk bisa terus-menerus ditemukan. |
 | 1 | Bisa ditemukan dengan pengalaman | Requires knowledge/experience/attentiveness to catch. Can typically not be found by tools or regular users, e.g. timing/metadata issues. |
 | 2 | Bisa ditemukan dalam sekejap | Likely something that could be spotted by a regular user, or that would not have been missed when checking and using tools properly. |
 
