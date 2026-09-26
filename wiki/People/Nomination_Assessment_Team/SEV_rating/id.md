@@ -28,9 +28,9 @@ Penganuliran nominasi yang dilakukan untuk memperbaiki hal-hal yang dianggap tid
 | 2 | Cela desain sedang | Memengaruhi permainan pada tingkatan yang pada umumnya bisa dirasakan oleh pengguna biasa, mis. jump yang besar di tingkat kesulitan yang rendah. Dalam prakteknya, hal ini sering kalinya disebabkan oleh kombinasi dari beberapa hal yang kentara, seperti suatu pola yang terlalu sulit untuk dibaca atau lonjakan tingkat kesulitan (*difficulty spike*) yang berlebihan. |
 | 3 | Cela desain fatal | Memengaruhi permainan hingga pada tingkatan yang dianggap mengacaukan, mis. dua objek permainan di waktu yang bersamaan. |
 
-Below are examples of SEV ratings and how they are roughly interpreted by evaluators:
+Berikut ini adalah contoh dari masing-masing nilai SEV dan bagaimana nilai ini diartikan oleh para evaluator:
 
-| SEV | Description |
+| SEV | Penjelasan |
 | :-- | :-- |
 | 0/0 | This reset is insignificant and ignored for the purpose of evaluations. |
 | 0/1 | Something went wrong but it is hard to blame the BNs, as it was difficult to spot. |
