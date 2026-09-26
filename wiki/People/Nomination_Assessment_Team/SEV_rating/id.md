@@ -10,7 +10,7 @@ Nilai SEV hanya bisa dilihat oleh anggota NAT, berhubung nilai ini hanya dipakai
 **Pemberitahuan**
 A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).
 
-Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap tidak bermasalah apabila tidak diperbaiki akan selalu diberikan nilai 0/0. Hal ini dilakukan agar orang-orang tidak berkecil hati untuk bisa terus memberikan mod dan  
+Penganuliran nominasi yang dilakukan untuk menyesuaikan hal-hal yang dianggap tidak bermasalah apabila tidak diperbaiki akan selalu diberikan nilai 0/0. Hal ini dilakukan agar orang-orang tidak merasa berkecil hati untuk memberikan mod dan 
 :::
 
 **Kejelasan** mengacu kepada seberapa mudah suatu masalah bisa ditemukan.
