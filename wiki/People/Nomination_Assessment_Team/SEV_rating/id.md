@@ -52,9 +52,7 @@ Kesalahan adalah hal yang lumrah, dan satu atau dua kesalahan akan membantu sese
 
 *Data ini mencakup 90% dari semua penganuliran nominasi yang terjadi.*
 
-Here is an exhaustive list of reasons nominations have been reset for with their respective SEV rating. These are based on stats of all SEV ratings set in the osu! game mode from February 2020 to April 2021, with percentages to show how common issues are.
-
-Berikut ini adalah daftar lengkap dari berbagai alasan di balik dianulirnya suatu nominasi beserta dengan nilai SEV-nya masing-masing. 
+Berikut ini adalah daftar lengkap dari berbagai alasan di balik dianulirkannya suatu nominasi beserta dengan nilai SEV-nya masing-masing. Daftar ini didasarkan pada statistik semua nilai SEV yang tercatat untuk mode permainan osu! antara bulan Februari 2020 hingga April 2021, dengan disertai persentase yang menunjukkan seberapa sering suatu masalah terjadi.
 
 This list does not cover every possible reset reason, and the NAT may rate resets for the same reasons listed differently, depending on the specific context.
 
