@@ -82,10 +82,10 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
 
 *Mencakup 23% dari semua penganuliran >0/0, dan 10% dari semua penganuliran yang ada.*
 
-Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai kejelasan 2, karena kesalahan mapping yang fatal seharusnya akan dapat dilihat dengan mudah oleh orang-orang yang pahalm mapping/modding.
+Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai kejelasan 2, karena kesalahan mapping yang sudah sangat fatal seperti ini seharusnya akan dapat dilihat dengan mudah oleh orang-orang yang paham mapping/modding.
 
 - **0/0:** (46%)
-  - Any changes from a state that was already acceptable, regardless of amount of changes:
+  - Segala perubahan dari sesuatu yang sebelumnya sudah dinilai tidak bermasalah, terlepas dari jumlah perubahan yang dilakukan:
     - Fixing a broken stack (that does not affect readability)
     - Adjusting a few patterns to improve a buildup
     - Remapping an acceptable difficulty entirely because the mapper was unsatisfied with it
