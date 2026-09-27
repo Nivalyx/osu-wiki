@@ -86,7 +86,7 @@ Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai k
 
 - **0/0:** (46%)
   - Segala perubahan dari sesuatu yang sebelumnya sudah dinilai tidak bermasalah, terlepas dari jumlah perubahan yang dilakukan:
-    - Memperbaiki stack yang tidak tertumpuk sempurna (yang tidak memengaruhi keterbacaan suatu map)
+    - Memperbaiki stack yang tidak sempurna (yang tidak memengaruhi keterbacaan suatu map)
     - Menyesuaikan beberapa pattern untuk memperbaiki bagian buildup
     - Remapping an acceptable difficulty entirely because the mapper was unsatisfied with it
 - **1/1:** (28%)
