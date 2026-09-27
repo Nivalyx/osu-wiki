@@ -88,7 +88,7 @@ Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai k
   - Segala perubahan dari sesuatu yang sebelumnya sudah dinilai tidak bermasalah, terlepas dari jumlah perubahan yang dilakukan:
     - Memperbaiki stack yang tidak sempurna (yang tidak memengaruhi keterbacaan suatu map)
     - Menyesuaikan beberapa pattern untuk memperbaiki bagian buildup
-    - Remapping an acceptable difficulty entirely because the mapper was unsatisfied with it
+    - Membuat ulang tingkat kesulitan yang tidak bermasalah dari awal, karena mapper yang bersangkutan tidak puas dengan tingkat kesulitan ini
 - **1/1:** (28%)
   - Common mapping mistakes that negatively impact the map to a notable degree
     - Unwarranted difficulty spikes (as in not fitting the song)
