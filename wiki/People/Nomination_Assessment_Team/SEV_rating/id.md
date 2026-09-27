@@ -77,7 +77,7 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
   - Tag genre/bahasa yang tidak ditulis
 - **2/0:** (5%)
   - Nama pemilik tingkat kesulitan tamu yang tidak ditulis dalam tag
-  - Kolom Unicode yang tidak ditulis
+  - Kolom Unicode yang tidak diisi
   - Nama artis/judul/sumber lagu yang salah
 
 ### Mapping
@@ -102,21 +102,21 @@ Resets due to mapping issues rarely have 2 in obviousness, as they require good 
 
 ### Timing
 
-*Makes up 15% of all >0/0 resets, 8% of all resets.*
+*Mencakup 15% dari semua penganuliran >0/0, dan 8% dari semua penganuliran yang ada.*
 
 - **0/0:** (20%)
-  - Adjusting the preview point/kiai time
-  - Adding a red line to account for the Nightcore mod
-  - Using double/half BPM
-  - Slightly wrong offset
-    - For simple timing, < 6 ms off
-    - For complex timing, < 10 ms off
+  - Menyesuaikan titik pratinjau/waktu kiai
+  - Menambahkan timing point untuk mengakomodir mod Nightcore
+  - Menggunakan BPM yang digandakan/setengahnya
+  - Offset yang sedikit salah
+    - Untuk timing yang sederhana, batas kesalahan < 6 ms
+    - Untuk timing yang kompleks, batas kesalahan < 10 ms
 - **1/0:** (11%)
-  - Wrong time signature
+  - Birama ketukan yang salah
 - **1/1:** (49%)
-  - Wrong offset
-    - For simple timing, ~6–12 ms off
-    - For complex timing, ~10+ ms off
+  - Offset yang salah
+    - Untuk timing yang sederhana, batas kesalahan ~6–12 ms
+    - Untuk timing yang kompleks, batas kesalahan ~10+ ms
 
 ### Files
 
