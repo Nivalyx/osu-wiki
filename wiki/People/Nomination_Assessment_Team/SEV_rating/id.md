@@ -54,9 +54,7 @@ Kesalahan adalah hal yang lumrah, dan satu atau dua kesalahan akan membantu sese
 
 Berikut ini adalah daftar lengkap dari berbagai alasan di balik dianulirkannya suatu nominasi beserta dengan nilai SEV-nya masing-masing. Data ini didasarkan pada statistik semua nilai SEV yang tercatat di mode permainan osu! antara bulan Februari 2020 hingga April 2021, dengan disertai persentase yang menunjukkan seberapa sering suatu masalah terjadi.
 
-This list does not cover every possible reset reason, and the NAT may rate resets for the same reasons listed differently, depending on the specific context.
-
-Daftar ini tidak mencakup semua alasan penganuliran yang ada, dan para anggota NAT bisa jadi menilai satu alasan penganuliran yang sama dengan nilai yang berbeda, tergantung dari konteksnya.
+Daftar ini tidak mencakup semua alasan penganuliran yang ada, dan para anggota NAT bisa jadi menilai nominasi yang dianulir dengan alasan yang sama dengan nilai yang berbeda, tergantung dari konteksnya.
 
 ### Metadata
 
