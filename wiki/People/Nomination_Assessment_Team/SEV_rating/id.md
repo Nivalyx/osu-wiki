@@ -73,8 +73,8 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
 - **1/0:** (23%)
   - Kesalahan pengurutan nama artis teromanisasi
   - Kesalahan romanisasi dan kapitalisasi kecil
-  - 1 wrong character, spelling mistakes, etc.
-  - Missing genre/language tags
+  - 1 karakter yang salah, kesalahan eja, dll.
+  - Tag genre/bahasa yang tidak diisi
 - **2/0:** (5%)
   - Nama pemilik tingkat kesulitan tamu yang tidak ditulis dalam tag
   - Kolom Unicode yang tidak diisi
