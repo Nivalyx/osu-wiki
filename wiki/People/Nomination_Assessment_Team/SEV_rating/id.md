@@ -60,18 +60,18 @@ Daftar ini tidak mencakup semua alasan penganuliran yang ada, dan para anggota N
 
 *Mencakup 22% dari semua penganuliran >0/0, dan 30% dari semua penganuliran yang ada.*
 
-Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena penganuliran ini tidak memengaruhi permainan sedikit pun.
+Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena kesalahan metadata tidak memengaruhi permainan yang ada sedikit pun.
 
 - **0/0:** (70%)
   - Menambahkan tag untuk Featured Artist yang baru diumumkan
   - Menambahkan nama pemilik tingkat kesulitan tamu ke daftar tag karena perubahan nama pengguna
   - Menambahkan tag yang lebih rinci tapi tidak diwajibkan oleh kriteria ranking
-  - Penganuliran yang disebabkan oleh adanya peraturan baru
+  - Penganuliran yang disebabkan oleh diterapkannya peraturan baru
   - Perubahan nama tingkat kesulitan
 - **1/0:** (23%)
   - Kesalahan pengurutan nama artis teromanisasi
   - Kesalahan romanisasi dan kapitalisasi kecil
-  - 1 karakter yang salah, kesalahan eja, dll.
+  - Perbaikan 1 karakter yang salah tulis, salah eja, dll.
   - Tag genre/bahasa yang tidak ditulis
 - **2/0:** (5%)
   - Nama pemilik tingkat kesulitan tamu yang tidak ditulis dalam tag
@@ -84,7 +84,7 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
 
 Resets due to mapping issues rarely have 2 in obviousness, as they require good mapping/modding knowledge to identify easily.
 
-Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai kejelasan 2, karena 
+Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai kejelasan 2, karena penganuliran yang demikian 
 
 - **0/0:** (46%)
   - Any changes from a state that was already acceptable, regardless of amount of changes:
