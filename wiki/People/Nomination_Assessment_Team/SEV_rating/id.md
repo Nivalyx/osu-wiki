@@ -44,7 +44,7 @@ Berikut ini adalah contoh dari masing-masing nilai SEV dan bagaimana nilai ini k
 
 ## Kegunaan
 
-Nilai SEV digunakan dalam [proses evaluasi Beatmap Nominator](/wiki/People/Nomination_Assessment_Team/Evaluations), yang dibobotkan terhadap jumlah nominasi yang diberikan.
+Nilai SEV digunakan dalam [proses evaluasi Beatmap Nominator](/wiki/People/Nomination_Assessment_Team/Evaluations), yang dibobotkan terhadap jumlah nominasi yang diberikan oleh masing-masing BN.
 
 Kesalahan adalah hal yang lumrah, dan satu atau dua kesalahan akan membantu seseorang untuk belajar. Meski begitu, apabila kesalahan ini terlalu sering terjadi, atau apabila kesalahan yang sama terus diulang-ulang, maka hal ini adalah suatu masalah. Inilah mengapa evaluasi yang diberikan tidak terpaku kepada nilai-nilai SEV secara individu, tetapi lebih melihat situasi yang ada secara garis besar dari kasus per kasus.
 
@@ -53,6 +53,8 @@ Kesalahan adalah hal yang lumrah, dan satu atau dua kesalahan akan membantu sese
 *Data ini mencakup 90% dari semua penganuliran nominasi yang terjadi.*
 
 Here is an exhaustive list of reasons nominations have been reset for with their respective SEV rating. These are based on stats of all SEV ratings set in the osu! game mode from February 2020 to April 2021, with percentages to show how common issues are.
+
+Berikut ini adalah daftar lengkap dari berbagai alasan di balik dianulirnya suatu nominasi beserta dengan nilai SEV-nya masing-masing. 
 
 This list does not cover every possible reset reason, and the NAT may rate resets for the same reasons listed differently, depending on the specific context.
 
