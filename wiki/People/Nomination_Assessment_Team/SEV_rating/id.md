@@ -167,7 +167,7 @@ Resets related to beatmap files almost never have a severity above 0, as they us
 - **1/1:** (6%)
   - Silenced active objects
 
-## History
+## Sejarah
 
 - SEV ratings were introduced in 20 May 2020 and were publicly visible.<!-- internal reference: https://discord.com/channels/316154420591067136/316586967171203075/712448434770018424 -->
 - In 16 December 2023, SEV ratings were deprecated in favor of a simpler impact system that assigned a "minor", "notable" or "severe" label to each reset.<!-- internal reference: https://discord.com/channels/90072389919997952/299846395031060480/1184280021448273930 -->
