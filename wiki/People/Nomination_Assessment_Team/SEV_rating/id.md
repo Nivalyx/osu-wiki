@@ -71,8 +71,8 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
   - Penganuliran yang disebabkan oleh adanya peraturan baru
   - Perubahan nama tingkat kesulitan
 - **1/0:** (23%)
-  - Romanised artist name order
-  - Small romanisation and capitalisation errors
+  - Kesalahan pengurutan nama artis teromanisasi
+  - Kesalahan romanisasi dan kapitalisasi kecil
   - 1 wrong character, spelling mistakes, etc.
   - Missing genre/language tags
 - **2/0:** (5%)
