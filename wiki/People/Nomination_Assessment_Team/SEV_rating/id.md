@@ -74,7 +74,7 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
   - Perbaikan 1 karakter yang salah tulis, salah eja, dll.
   - Tag genre/bahasa yang tidak ditulis
 - **2/0:** (5%)
-  - Nama pemilik tingkat kesulitan tamu yang tidak ditulis dalam tag
+  - Nama pemilik tingkat kesulitan tamu yang tidak ditulis di dalam tag
   - Kolom Unicode yang tidak diisi
   - Nama artis/judul/sumber lagu yang salah
 
