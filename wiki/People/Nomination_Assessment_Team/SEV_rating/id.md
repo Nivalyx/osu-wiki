@@ -74,15 +74,15 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
   - Kesalahan pengurutan nama artis teromanisasi
   - Kesalahan romanisasi dan kapitalisasi kecil
   - 1 karakter yang salah, kesalahan eja, dll.
-  - Tag genre/bahasa yang tidak diisi
+  - Tag genre/bahasa yang tidak ditulis
 - **2/0:** (5%)
   - Nama pemilik tingkat kesulitan tamu yang tidak ditulis dalam tag
-  - Kolom Unicode yang tidak diisi
+  - Kolom Unicode yang tidak ditulis
   - Nama artis/judul/sumber lagu yang salah
 
 ### Mapping
 
-*Makes up 23% of all >0/0 resets, 18% of all resets.*
+*Mecakup 23% dari semua penganuliran >0/0, dan 10% dari semua penganuliran yang ada.*
 
 Resets due to mapping issues rarely have 2 in obviousness, as they require good mapping/modding knowledge to identify easily.
 
