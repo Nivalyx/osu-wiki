@@ -56,7 +56,7 @@ Berikut ini adalah daftar lengkap dari berbagai alasan di balik dianulirkannya s
 
 This list does not cover every possible reset reason, and the NAT may rate resets for the same reasons listed differently, depending on the specific context.
 
-Daftar ini tidak mencakup semua alasan penganuliran yang ada, dan para anggota NAT bisa menilai dua penganuliran dengan alasan yang sama dengan nilai yang berbeda, tergantung dari konteksnya.
+Daftar ini tidak mencakup semua alasan penganuliran yang ada, dan para anggota NAT bisa menilai suatu alasan penganuliran yang sama dengan nilai yang berbeda, tergantung dari konteksnya.
 
 ### Metadata
 
