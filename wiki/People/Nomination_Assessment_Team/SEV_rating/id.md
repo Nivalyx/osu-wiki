@@ -40,7 +40,7 @@ Berikut ini adalah contoh dari masing-masing nilai SEV dan bagaimana nilai ini k
 | 2/0 | Terdapat beberapa kesalahan yang gamblang pada pengaturan beatmap, seperti metadata, yang karena satu dan lain hal sampai terlewatkan. |
 | 2/1 | Terdapat beberapa kesalahan yang gamblang pada permainan beatmap itu sendiri, seperti hitsound yang hilang, yang terlewatkan. |
 | 2/2 | Terdapat masalah fatal yang mencakup sebagian besar beatmap, seperti jump yang besar di tingkat kesulitan yang rendah, yang terlewatkan. |
-| 2/3 | Terdapat masalah yang sangat fatal yang sulit untuk dilewatkan, seperti dua objek permainan di waktu yang bersamaan, yang terlewatkan. |
+| 2/3 | Terdapat masalah sangat fatal yang sulit untuk dilewatkan, seperti dua objek permainan di waktu yang bersamaan, yang terlewatkan. |
 
 ## Kegunaan
 
@@ -82,9 +82,7 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
 
 *Mencakup 23% dari semua penganuliran >0/0, dan 10% dari semua penganuliran yang ada.*
 
-Resets due to mapping issues rarely have 2 in obviousness, as they require good mapping/modding knowledge to identify easily.
-
-Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai kejelasan 2, karena penganuliran yang demikian 
+Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai kejelasan 2, karena kesalahan mapping yang fatal seharusnya akan dapat dilihat dengan mudah oleh orang-orang yang pahalm mapping/modding.
 
 - **0/0:** (46%)
   - Any changes from a state that was already acceptable, regardless of amount of changes:
