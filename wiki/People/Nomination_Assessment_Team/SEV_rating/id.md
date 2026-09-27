@@ -137,7 +137,7 @@ Resets related to beatmap files almost never have a severity above 0, as they us
 
 ### Snapping
 
-*Makes up 9% of all >0/0 resets, 4% of all resets.*
+*Mencakup 9% dari semua penganuliran >0/0, dan 4% dari semua penganuliran yang ada.*
 
 - **0/0:** (11%)
   - AiMod incorrectly detecting an object less than 2 ms off as unsnapped
@@ -156,7 +156,7 @@ Resets related to beatmap files almost never have a severity above 0, as they us
 
 ### Hitsounding
 
-*Makes up 7% of all >0/0 resets, 11% of all resets.*
+*Mencakup 7% dari semua penganuliran >0/0, dan 11% dari semua penganuliran yang ada.*
 
 - **0/0:** (73%)
   - Adding a few missing hitsounds
