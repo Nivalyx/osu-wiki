@@ -60,7 +60,7 @@ This list does not cover every possible reset reason, and the NAT may rate reset
 
 ### Metadata
 
-*Mencakup 22% dari semua penganuliran 0/0, dan 30% dari semua penganuliran yang ada.*
+*Mencakup 22% dari semua penganuliran >0/0, dan 30% dari semua penganuliran yang ada.*
 
 Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena kesalahan ini tidak memengaruhi permainan sedikit pun.
 
@@ -82,7 +82,7 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
 
 ### Mapping
 
-*Mecakup 23% dari semua penganuliran >0/0, dan 10% dari semua penganuliran yang ada.*
+*Mencakup 23% dari semua penganuliran >0/0, dan 10% dari semua penganuliran yang ada.*
 
 Resets due to mapping issues rarely have 2 in obviousness, as they require good mapping/modding knowledge to identify easily.
 
