@@ -76,9 +76,9 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
   - 1 wrong character, spelling mistakes, etc.
   - Missing genre/language tags
 - **2/0:** (5%)
-  - Missing guest mappers in tags
-  - Missing Unicode field
-  - Wrong artist/title/source
+  - Nama pemilik tingkat kesulitan tamu yang tidak ditulis dalam tag
+  - Kolom Unicode yang tidak diisi
+  - Nama artis/judul/sumber lagu yang salah
 
 ### Mapping
 
