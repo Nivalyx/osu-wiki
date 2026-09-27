@@ -60,7 +60,7 @@ Daftar ini tidak mencakup semua alasan penganuliran yang ada, dan para anggota N
 
 *Mencakup 22% dari semua penganuliran >0/0, dan 30% dari semua penganuliran yang ada.*
 
-Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena kesalahan metadata tidak memengaruhi permainan yang ada sedikit pun.
+Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena kesalahan metadata tidak memengaruhi permainan sedikit pun.
 
 - **0/0:** (70%)
   - Menambahkan tag untuk Featured Artist yang baru diumumkan
@@ -82,7 +82,7 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
 
 *Mencakup 23% dari semua penganuliran >0/0, dan 10% dari semua penganuliran yang ada.*
 
-Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai kejelasan 2, karena kesalahan yang sangat gamblang seperti ini seharusnya akan bisa dilihat dengan mudah oleh para mapper/modder berpengalaman.
+Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai kejelasan 2, karena kesalahan mapping memerlukan pengetahuan mapping/modding yang baik untuk bisa dikenali dengan mudah.
 
 - **0/0:** (46%)
   - Segala perubahan dari sesuatu yang sebelumnya sudah dinilai tidak bermasalah, terlepas dari jumlah perubahan yang dilakukan:
