@@ -60,7 +60,7 @@ Daftar ini tidak mencakup semua alasan penganuliran yang ada, dan para anggota N
 
 *Mencakup 22% dari semua penganuliran >0/0, dan 30% dari semua penganuliran yang ada.*
 
-Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena kesalahan ini tidak memengaruhi permainan sedikit pun.
+Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena penganuliran ini tidak memengaruhi permainan sedikit pun.
 
 - **0/0:** (70%)
   - Menambahkan tag untuk Featured Artist yang baru diumumkan
@@ -83,6 +83,8 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
 *Mencakup 23% dari semua penganuliran >0/0, dan 10% dari semua penganuliran yang ada.*
 
 Resets due to mapping issues rarely have 2 in obviousness, as they require good mapping/modding knowledge to identify easily.
+
+Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai kejelasan 2, karena 
 
 - **0/0:** (46%)
   - Any changes from a state that was already acceptable, regardless of amount of changes:
@@ -116,9 +118,9 @@ Resets due to mapping issues rarely have 2 in obviousness, as they require good 
     - Untuk timing yang sederhana, batas kesalahan ~6–12 ms
     - Untuk timing yang kompleks, batas kesalahan ~10+ ms
 
-### Files
+### Berkas
 
-*Makes up 13% of all >0/0 resets, 16% of all resets.*
+*Mencakup 13% dari semua penganuliran >0/0, dan 10% dari semua penganuliran yang ada.*
 
 Resets related to beatmap files almost never have a severity above 0, as they usually do not affect gameplay. An exception is using storyboarded hitsounds as replacement for active ones.
 
