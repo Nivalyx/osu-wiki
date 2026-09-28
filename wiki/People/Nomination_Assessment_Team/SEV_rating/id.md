@@ -126,22 +126,26 @@ Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki
   - Segala perubahan yang dibuat dari sesuatu yang sebelumnya sudah memadai/layak rank, semisal: 
     - Meningkatkan kualitas audio dari 128 kbps menjadi 192 kbps
     - Segala perubahan pada gambar latar, storyboard, atau skin yang tidak merusak beatmap
-    - Mengganti gambar latar yang tidak layak (pada kasus di mana ketidaklayakan ini tidak terpampang jelas)
+    - Mengganti gambar latar yang tidak layak (pada kasus di mana ketidaklayakan ini tidak terlihat jelas)
 - **1/0:** (19%)
   - Menggunakan audio yang dienkode ke bitrate yang lebih tinggi (*upcoded*) dari bitrate yang lebih rendah
   - Menggunakan sampel hitsound yang memengaruhi permainan secara negatif pada skin default
 - **2/0:** (6%)
-  - Unused file(s)
-  - Missing video on some difficulties
-  - Content that is obviously inappropriate
+  - Berkas-berkas yang tidak digunakan
+  - Video yang hilang dari sebagian tingkat kesulitan
+  - Konten yang jelas-jelas tidak layak
 
 ### Snapping
 
 *Mencakup 9% dari semua penganuliran >0/0, dan 4% dari semua penganuliran yang ada.*
 
 - **0/0:** (11%)
-  - AiMod incorrectly detecting an object less than 2 ms off as unsnapped
-  - Slightly mis-snapped slider end that tools cannot detect
+  - AiMod yang salah mendeteksi objek yang berjarak kurang dari 2 ms 
+  
+  incorrectly detecting an object less than 2 ms off as unsnapped
+  - Akhir slider yang sedikit
+  
+   Slightly mis-snapped slider end that tools cannot detect
 - **1/0:** (21%)
   - Mis-snaps that hardly affect gameplay
     - Slightly mis-snapped slider end that tools could help find
@@ -159,13 +163,13 @@ Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki
 *Mencakup 7% dari semua penganuliran >0/0, dan 11% dari semua penganuliran yang ada.*
 
 - **0/0:** (73%)
-  - Adding a few missing hitsounds
-  - Removing a few misplaced hitsounds
+  - Menambahkan sedikit hitsound yang hilang
+  - Menghapus sebagian hitsound yang salah pasang
 - **1/0:** (14%)
   - Generally lacking hitsounds
-  - Bad hitsounding, e.g. unwarranted claps/snares/cymbals on every beat or similar
+  - Hitsounding yang buruk, mis. memasang suara clap/snare/simbal di setiap ketukan atau yang semacamnya
 - **1/1:** (6%)
-  - Silenced active objects
+  - Objek permainan aktif yang terbisukan
 
 ## Sejarah
 
