@@ -145,12 +145,12 @@ Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki
 - **1/0:** (21%)
   - Kesalahan snapping yang hampir tidak memengaruhi permainan
     - Akhir slider yang sedikit melenceng dari waktu yang seharusnya yang bisa dibantu ditemukan oleh alat
-    - Objek permainan yang hanya tergeser sepersekian milidetik
+    - Objek permainan yang tergeser hanya sepersekian milidetik
 - **1/1:** (42%)
   - Kesalahan snapping yang sulit ditemukan pada saat bermain, tapi terkadang bisa mengakibatkan 100
 - **1/2:** (8%)
-  - Mis-snaps that notably affect gameplay
-    - Mis-snaps that always cause 100s, sometimes 50s, or even note locks
+  - Kesalahan snapping yang memengaruhi permainan dengan jelas
+    - Kesalahan snapping yang selalu mengakibatkan 100 atau terkadang 50, atau bahkan note lock
     - Mis-snaps causing abnormal spacing to following/previous notes
     - A mis-snap part of a stream, burst, or triple (that cannot be a simplification)
 
