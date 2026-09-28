@@ -60,7 +60,7 @@ Daftar ini tidak mencakup semua alasan penganuliran yang ada, dan para anggota N
 
 *Mencakup 22% dari semua penganuliran >0/0, dan 30% dari semua penganuliran yang ada.*
 
-Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena kesalahan metadata tidak memengaruhi permainan sedikit pun.
+Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena kesalahan ini tidak memengaruhi permainan sedikit pun.
 
 - **0/0:** (70%)
   - Menambahkan tag untuk Featured Artist yang baru diumumkan
@@ -82,7 +82,7 @@ Penganuliran metadata *tidak pernah* memiliki nilai keparahan di atas 0, karena 
 
 *Mencakup 23% dari semua penganuliran >0/0, dan 10% dari semua penganuliran yang ada.*
 
-Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai kejelasan 2, karena kesalahan mapping memerlukan pengetahuan mapping/modding yang baik untuk bisa dikenali dengan mudah.
+Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai kejelasan 2, karena kesalahan ini memerlukan pengetahuan mapping/modding yang baik untuk bisa dikenali dengan mudah.
 
 - **0/0:** (46%)
   - Segala perubahan dari sesuatu yang sebelumnya sudah dinilai tidak bermasalah, terlepas dari jumlah perubahan yang dilakukan:
@@ -91,7 +91,7 @@ Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai k
     - Membuat ulang tingkat kesulitan yang tidak bermasalah dari awal, karena mapper yang bersangkutan tidak puas dengan tingkat kesulitan ini
 - **1/1:** (28%)
   - Kesalahan mapping umum yang berdampak cukup besar
-    - Lonjakan tingkat kesulitan yang berlebihan (sampai-sampai tidak sesuai dengan lagu)
+    - Lonjakan tingkat kesulitan yang berlebihan (yang sampai-sampai tidak sesuai dengan lagu)
     - Ritme yang padat/spacing yang tinggi di bagian yang tenang
     - Overmapping yang diperkenalkan/dieksekusi secara buruk
     - Menggunakan stream yang panjang untuk mewakilkan beberapa [layar](/wiki/Music_theory/Layer) dan suara yang berbeda
@@ -120,7 +120,7 @@ Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai k
 
 *Mencakup 13% dari semua penganuliran >0/0, dan 10% dari semua penganuliran yang ada.*
 
-Resets related to beatmap files almost never have a severity above 0, as they usually do not affect gameplay. An exception is using storyboarded hitsounds as replacement for active ones.
+Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki nilai keparahan di atas 0, karena kesalahan ini pada umumnya tidak memengaruhi permainan. Pengecualian untuk hal ini berlaku pada hitsound storyboard yang digunakan untuk menggantikan hitsound yang aktif dari beatmap itu sendiri.
 
 - **0/0:** (64%)
   - Any change made from an already acceptable/rankable state, for example:
