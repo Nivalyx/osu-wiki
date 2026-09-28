@@ -140,12 +140,8 @@ Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki
 *Mencakup 9% dari semua penganuliran >0/0, dan 4% dari semua penganuliran yang ada.*
 
 - **0/0:** (11%)
-  - AiMod yang salah mendeteksi objek yang berjarak kurang dari 2 ms 
-  
-  incorrectly detecting an object less than 2 ms off as unsnapped
-  - Akhir slider yang sedikit
-  
-   Slightly mis-snapped slider end that tools cannot detect
+  - AiMod yang salah mendeteksi objek yang berjarak kurang dari 2 ms dari waktu yang seharusnya sebagai tidak terjentik (*unsnapped*)
+  - Akhir slider yang sedikit melenceng dari waktu yang seharusnya yang tidak bisa dideteksi oleh alat
 - **1/0:** (21%)
   - Mis-snaps that hardly affect gameplay
     - Slightly mis-snapped slider end that tools could help find
