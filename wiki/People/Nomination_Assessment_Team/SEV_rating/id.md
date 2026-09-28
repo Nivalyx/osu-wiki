@@ -92,11 +92,11 @@ Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai k
 - **1/1:** (28%)
   - Kesalahan mapping umum yang berdampak cukup besar
     - Lonjakan tingkat kesulitan yang berlebihan (sampai-sampai tidak sesuai dengan lagu)
-    - Dense rhythms/high spacing in calm sections
+    - Ritme yang padat/spacing yang tinggi di bagian yang tenang
     - Overmapping in a way that is introduced/executed poorly
     - Mapping a big stream over multiple distinct [layers](/wiki/Music_theory/Layer) and sounds
 - **1/2:** (14%)
-  - Same reasons as for 1/1, but more severe; typically a combination
+  - Sama dengan 1/1, tapi pada tingkatan yang lebih parah; pada umumnya disebabkan oleh gabungan dua atau lebih alasan di atas
 
 ### Timing
 
