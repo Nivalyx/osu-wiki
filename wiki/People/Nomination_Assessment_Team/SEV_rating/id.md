@@ -120,11 +120,11 @@ Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai k
 
 *Mencakup 13% dari semua penganuliran >0/0, dan 10% dari semua penganuliran yang ada.*
 
-Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki nilai keparahan di atas 0, karena kesalahan ini pada umumnya tidak memengaruhi permainan. Pengecualian untuk hal ini berlaku pada hitsound storyboard yang digunakan untuk menggantikan hitsound yang aktif dari beatmap itu sendiri.
+Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki nilai keparahan di atas 0, karena kesalahan ini pada umumnya tidak memengaruhi permainan. Pengecualian untuk hal ini berlaku bagi hitsound storyboard yang digunakan untuk menggantikan hitsound yang aktif dari beatmap itu sendiri.
 
 - **0/0:** (64%)
-  - Any change made from an already acceptable/rankable state, for example:
-    - Improving the audio from 128 kbps to 192 kbps
+  - Segala perubahan yang dibuat dari sesuatu yang sebelumnya sudah memadai/layak rank, semisal: 
+    - Meningkatkan kualitas audio dari 128 kbps menjadi 192 kbps
     - Any harmless changes to the background, storyboard, or skin
     - Inappropriate background(s) (where it is not obvious)
 - **1/0:** (19%)
