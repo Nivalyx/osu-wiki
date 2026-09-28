@@ -90,8 +90,8 @@ Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai k
     - Menyesuaikan beberapa pattern untuk memperbaiki bagian buildup
     - Membuat ulang tingkat kesulitan yang tidak bermasalah dari awal, karena mapper yang bersangkutan tidak puas dengan tingkat kesulitan ini
 - **1/1:** (28%)
-  - Common mapping mistakes that negatively impact the map to a notable degree
-    - Unwarranted difficulty spikes (as in not fitting the song)
+  - Kesalahan mapping umum yang berdampak cukup besar
+    - Lonjakan tingkat kesulitan yang berlebihan (sampai-sampai tidak sesuai dengan lagu)
     - Dense rhythms/high spacing in calm sections
     - Overmapping in a way that is introduced/executed poorly
     - Mapping a big stream over multiple distinct [layers](/wiki/Music_theory/Layer) and sounds
