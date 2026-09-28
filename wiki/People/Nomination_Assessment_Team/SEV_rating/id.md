@@ -128,8 +128,8 @@ Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki
     - Segala perubahan pada gambar latar, storyboard, atau skin yang tidak merusak beatmap
     - Mengganti gambar latar yang tidak layak (pada kasus di mana ketidaklayakan ini tidak terpampang jelas)
 - **1/0:** (19%)
-  - Menggunakan audio yang dienkode pada bitrate yang lebih tinggi (*upcoded*) dari bitrate aslinya yang lebih rendah
-  - Using hitsound samples that affect gameplay negatively in the default skin
+  - Menggunakan audio yang dienkode ke bitrate yang lebih tinggi (*upcoded*) dari bitrate yang lebih rendah
+  - Menggunakan sampel hitsound yang memengaruhi permainan secara negatif pada skin default
 - **2/0:** (6%)
   - Unused file(s)
   - Missing video on some difficulties
