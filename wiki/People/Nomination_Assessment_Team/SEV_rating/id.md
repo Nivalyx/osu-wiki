@@ -143,11 +143,11 @@ Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki
   - AiMod yang salah mendeteksi objek yang berjarak kurang dari 2 ms dari waktu yang seharusnya sebagai tidak terjentik (*unsnapped*)
   - Akhir slider yang sedikit melenceng dari waktu yang seharusnya yang tidak bisa dideteksi oleh alat
 - **1/0:** (21%)
-  - Mis-snaps that hardly affect gameplay
-    - Slightly mis-snapped slider end that tools could help find
-    - An object being off by only a few milliseconds
+  - Kesalahan snapping yang hampir tidak memengaruhi permainan
+    - Akhir slider yang sedikit melenceng dari waktu yang seharusnya yang bisa dibantu ditemukan oleh alat
+    - Objek permainan yang hanya tergeser sepersekian milidetik
 - **1/1:** (42%)
-  - Mis-snaps that are difficult to notice when playing, but sometimes cause 100s
+  - Kesalahan snapping yang sulit ditemukan pada saat bermain, tapi terkadang bisa mengakibatkan 100
 - **1/2:** (8%)
   - Mis-snaps that notably affect gameplay
     - Mis-snaps that always cause 100s, sometimes 50s, or even note locks
