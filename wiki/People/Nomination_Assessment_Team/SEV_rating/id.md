@@ -151,8 +151,8 @@ Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki
 - **1/2:** (8%)
   - Kesalahan snapping yang memengaruhi permainan dengan jelas
     - Kesalahan snapping yang selalu mengakibatkan 100 atau terkadang 50, atau bahkan note lock
-    - Mis-snaps causing abnormal spacing to following/previous notes
-    - A mis-snap part of a stream, burst, or triple (that cannot be a simplification)
+    - Kesalahan snapping yang mengakibatkan spacing yang tidak wajar antara suatu objek dengan objek sebelum/setelahnya
+    - Kesalahan snapping pada bagian stream, burst, atau triple (yang tidak bisa dianggap sebagai penyederhanaan)
 
 ### Hitsounding
 
