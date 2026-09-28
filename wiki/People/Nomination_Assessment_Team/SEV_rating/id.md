@@ -162,8 +162,8 @@ Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki
   - Menambahkan sedikit hitsound yang hilang
   - Menghapus sebagian hitsound yang salah pasang
 - **1/0:** (14%)
-  - Generally lacking hitsounds
-  - Hitsounding yang buruk, mis. memasang suara clap/snare/simbal di setiap ketukan atau yang semacamnya
+  - Penggunaan hitsound yang kurang secara umum
+  - Penggunaan hitsound yang buruk, mis. memasang suara clap/snare/simbal di setiap ketukan atau yang semacamnya
 - **1/1:** (6%)
   - Objek permainan aktif yang terbisukan
 
