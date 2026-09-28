@@ -125,8 +125,8 @@ Penganuliran yang berhubungan dengan berkas beatmap hampir tidak pernah memiliki
 - **0/0:** (64%)
   - Segala perubahan yang dibuat dari sesuatu yang sebelumnya sudah memadai/layak rank, semisal: 
     - Meningkatkan kualitas audio dari 128 kbps menjadi 192 kbps
-    - Any harmless changes to the background, storyboard, or skin
-    - Inappropriate background(s) (where it is not obvious)
+    - Segala perubahan pada gambar latar, storyboard, atau skin yang tidak merusak beatmap
+    - Mengganti gambar latar yang tidak layak (pada kasus di mana ketidaklayakan ini tidak jelas)
 - **1/0:** (19%)
   - Using audio that has been encoded upwards from a lower bitrate
   - Using hitsound samples that affect gameplay negatively in the default skin
