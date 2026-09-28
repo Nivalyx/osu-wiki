@@ -94,7 +94,7 @@ Penganuliran yang disebabkan oleh masalah mapping sangat jarang memiliki nilai k
     - Lonjakan tingkat kesulitan yang berlebihan (sampai-sampai tidak sesuai dengan lagu)
     - Ritme yang padat/spacing yang tinggi di bagian yang tenang
     - Overmapping yang diperkenalkan/dieksekusi secara buruk
-    - Menggunakan stream yang panjang Mapping a big stream over multiple distinct [layers](/wiki/Music_theory/Layer) and sounds
+    - Menggunakan stream yang panjang untuk mewakilkan beberapa [layar](/wiki/Music_theory/Layer) dan suara yang berbeda
 - **1/2:** (14%)
   - Sama dengan 1/1, tapi pada tingkatan yang lebih parah; pada umumnya disebabkan oleh gabungan dua atau lebih alasan di atas
 
