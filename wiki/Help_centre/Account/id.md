@@ -141,7 +141,7 @@ Terakhir, kami juga mengetahui bahwa terdapat beberapa layanan email yang tidak 
 
 ## Perubahan nama {id=name-changes}
 
-### Apakah saya dapat mengubah nama pengguna milik akun saya? {id=change-username}
+### Apakah saya bisa mengubah nama pengguna akun saya? {id=change-username}
 
 **Tentu saja bisa!**
 
