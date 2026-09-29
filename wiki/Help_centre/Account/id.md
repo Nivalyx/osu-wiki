@@ -20,21 +20,21 @@ tags:
   - perangkat
   - nama pengguna
   - penghapusan
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Akun
 
-*Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
+::: alert-note
+**Halaman utama:** [Pusat bantuan](/wiki/Help_centre)
+:::
 
-Segala sesuatunya yang berhubungan dengan akun osu! milikmu. Simak penjelasan di bawah ini untuk mencari tahu apakah terdapat solusi atas masalahmu.
+Segala sesuatunya yang berhubungan dengan akun osu! milikmu. Simak penjelasan di bawah ini untuk mencari tahu apakah terdapat solusi yang sesuai untuk masalahmu.
 
 ## Supporter {id=supporter}
 
-### Saya telah membayar untuk tag supporter saya, namun saya masih belum menerima tag ini! {id=missing-supporter}
+### Saya sudah membayar tag supporter saya, tapi saya masih belum menerima tag ini! {id=missing-supporter}
 
-**Tergantung dari layanan pembayaran yang kamu gunakan (PayPal atau Xsolla), kamu mungkin akan menemui sedikit jeda sebelum pembayaran kamu dapat sampai ke kami.**
+**Tergantung dari layanan pembayaran yang kamu gunakan (PayPal atau Xsolla), kamu mungkin akan menemui sedikit jeda sebelum pembayaran ini bisa sampai ke kami.**
 
 Pada umumnya, masalah ini akan terselesaikan dengan sendirinya dalam beberapa jam, dan sistem kami akan menerapkan tag ini secara otomatis ke dalam akunmu setelahnya.
 
