@@ -151,11 +151,11 @@ Setelahnya, kamu bisa membeli [perubahan nama pengguna](https://osu.ppy.sh/store
 
 Mohon diperhatikan bahwa nama pengguna yang dipilih harus tunduk pada [peraturan komunitas](/wiki/Rules#peraturan-komunitas) kami, dalam artian nama ini tidak boleh menyinggung pengguna lain, terlalu provokatif, atau menghasut dalam maksud apa pun. Selain itu, nama pengguna yang meniru atau menggunakan identitas tokoh publik terkemuka (seperti artis, politisi, dll.) juga tidak diizinkan dan akan digulirkan balik secara paksa pada saat kami menemukan nama ini.
 
-Apabila kamu hanya ingin sedikit mengubah penggunaan huruf kapital atau tata bahasa/ejaan pada namamu, kamu dapat mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta perubahan ini secara cuma-cuma. Kami tidak akan menagihmu untuk perubahan nama yang demikian, namun kamu **HARUS** meminta perubahan ini melalui email dukungan. Mohon diperhatikan bahwa kami hanya akan mengabulkan permintaan ini hingga beberapa kali, jadi pastikan kamu benar-benar menginginkan perubahan ini!
+Apabila kamu hanya ingin sedikit mengubah huruf kapital atau tata bahasa/ejaan pada namamu, kamu bisa mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta perubahan ini secara cuma-cuma. Kami tidak akan menagihmu untuk perubahan nama yang seperti ini, namun kamu **HARUS** meminta perubahan ini melalui email dukungan. Mohon diperhatikan bahwa kami hanya akan mengabulkan permintaan ini hingga beberapa kali, jadi pastikan kamu benar-benar menginginkan perubahan ini!
 
-### Apakah saya dapat mengambil nama pengguna milik pemain lain? {id=take-existing-username}
+### Apakah saya bisa mengambil nama pengguna milik pemain lain? {id=take-existing-username}
 
-**Ya, namun hanya dalam situasi tertentu.**
+**Ya, namun hanya pada situasi tertentu.**
 
 Apabila seorang pemain telah tidak terhubung masuk ke osu! selama sekurang-kurangnya 6 bulan dan tidak pernah bermain sama sekali, nama pengguna mereka akan dapat diambil melalui halaman [perubahan nama pengguna](https://osu.ppy.sh/store/products/32) dengan harga yang sesuai dengan harga perubahan nama pengguna pada umumnya.
 
