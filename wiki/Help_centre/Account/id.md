@@ -66,16 +66,16 @@ Silakan rujuk halaman [Sanksi turnamen](/wiki/Help_centre/Tournament_sanctions) 
 
 ### Saya sudah tidak ingat nama pengguna dan kata sandi saya! {id=lost-access}
 
-**Apabila kamu masih memiliki akses ke alamat email yang kamu gunakan untuk mendaftar, silakan gunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk mengklaim kembali akunmu secara otomatis.**
+**Apabila kamu masih punya akses ke alamat email yang kamu gunakan untuk mendaftar, silakan gunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk mengklaim kembali akunmu secara otomatis.**
 
-Apabila hal ini tidak membantumu (atau apabila kamu tidak lagi memiliki akses ke alamat email pendaftaranmu), silakan kirimkan email ke [tim layanan dukungan kami](mailto:accounts@ppy.sh) dengan informasi yang selengkap-lengkapnya untuk membantu kami mengenali dirimu sebagai pemilik akun yang bersangkutan.
+Apabila hal ini tidak membantumu (atau apabila kamu tidak lagi memiliki akses ke alamat email pendaftaranmu), silakan kirimkan email ke [tim layanan dukungan kami](mailto:accounts@ppy.sh) dengan informasi yang selengkap-lengkapnya untuk membantu kami mengenali dirimu sebagai pemilik akun ini.
 
 Beberapa contoh informasi yang baik untuk dicantumkan pada email ini meliputi antara lain:
 
 - Alamat email yang kamu gunakan untuk mendaftar, atau alamat email lain mana pun yang pernah terhubung dengan akunmu sejak pertama kali didaftarkan
-- Resi pembelian tag osu!supporter atau item lainnya dari osu!store
-- Tanggal terakhir di mana kamu ingat kamu masih dapat mengakses akunmu secara normal
-- Segala informasi pengenal lainnya yang kamu yakini dapat berguna (kecuali skor dan tayangan ulang, karena kedua hal ini tidak akan dapat banyak membantu kami!)
+- Resi pembelian tag osu!supporter mana pun atau item lainnya dari osu!store
+- Tanggal terakhir di mana kamu ingat kamu masih bisa mengakses akunmu secara normal
+- Segala informasi pengenal lainnya yang kamu yakini bisa berguna (kecuali skor dan tayangan ulang, karena kedua hal ini tidak banyak membantu kami!)
 
 ### Akun saya telah dicuri! {id=account-theft}
 
