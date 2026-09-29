@@ -36,9 +36,9 @@ Segala sesuatunya yang berhubungan dengan akun osu! milikmu. Simak penjelasan di
 
 **Tergantung dari layanan pembayaran yang kamu gunakan (PayPal atau Xsolla), kamu mungkin akan menemui sedikit jeda sebelum pembayaran ini bisa sampai ke kami.**
 
-Pada umumnya, masalah ini akan terselesaikan dengan sendirinya dalam beberapa jam, dan sistem kami akan menerapkan tag ini secara otomatis ke dalam akunmu setelahnya.
+Pada umumnya, masalah ini akan terselesaikan dengan sendirinya dalam beberapa jam, dan sistem kami akan menerapkan tag ini secara otomatis ke dalam akunmu.
 
-Apabila 24 jam telah berlalu dan kamu masih juga belum menerima tag supporter yang kamu pesan, silakan kirimkan email ke alamat [support@ppy.sh](mailto:support@ppy.sh) dan beri tahu kami seputar masalahmu.
+Apabila setelah 24 jam kamu masih juga belum menerima tag supporter ini, silakan kirimkan email ke [support@ppy.sh](mailto:support@ppy.sh) dan beri tahu kami seputar masalahmu.
 
 Pastikan untuk menyertakan segala resi yang kamu terima dalam proses ini (ID transaksi PayPal, bukti pembayaran Xsolla, dll.) — resi ini akan sangat membantu kami dalam menelusuri apa yang terjadi dengan pembayaranmu!
 
