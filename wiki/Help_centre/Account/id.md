@@ -77,13 +77,13 @@ Beberapa contoh informasi yang baik untuk dicantumkan pada email ini meliputi an
 - Tanggal terakhir di mana kamu ingat kamu masih bisa mengakses akunmu secara normal
 - Segala informasi pengenal lainnya yang kamu yakini bisa berguna (kecuali skor dan tayangan ulang, karena kedua hal ini tidak banyak membantu kami!)
 
-### Akun saya telah dicuri! {id=account-theft}
+### Akun saya sudah dicuri! {id=account-theft}
 
-**Coba gunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk memeriksa apakah alamat email akunmu masih valid.**
+**Coba gunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk memeriksa apakah alamat email milik akunmu masih valid.**
 
-Apabila cara ini berhasil, kamu akan dapat mengatur ulang kata sandimu tanpa bantuan dari staf layanan dukungan.
+Apabila cara ini berhasil, kamu akan bisa mengatur ulang kata sandimu tanpa bantuan dari staf layanan dukungan.
 
-Apabila hal ini tidak membantumu, silakan kirimkan kami tiket layanan dukungan (*support ticket*) sesegera mungkin ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan sebanyak-banyaknya informasi pengenal yang dapat membantu kami mengenali dirimu sebagai pemilik akun yang bersangkutan.
+Apabila cara ini tidak membantumu, silakan kirimkan tiket layanan dukungan (*support ticket*) kepada kami sesegera mungkin ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan sebanyak-banyaknya informasi pengenal yang bisa membantu kami mengenali dirimu sebagai pemilik akun ini.
 
 Kamu akan sangat terbantu apabila kamu mengirimkan email dari alamat email pendaftaranmu, serta apabila kamu mencantumkan sebanyak-banyaknya informasi yang hanya dapat diketahui oleh kamu selaku pemilik akun.
 
