@@ -58,13 +58,13 @@ Silakan rujuk halaman [Pembatasan akun](/wiki/Help_centre/Account_restrictions) 
 
 ### Apa itu larangan turnamen? {id=what-is-tournament-ban}
 
-Sesuai dengan namanya, larangan turnamen (*tournament ban*) merupakan larangan bagi pengguna untuk dapat berpartisipasi dalam seluruh turnamen yang didukung secara resmi.
+Sesuai dengan namanya, larangan turnamen (*tournament ban*) adalah larangan bagi pengguna untuk bisa ikut serta pada seluruh turnamen yang didukung secara resmi.
 
 Silakan rujuk halaman [Sanksi turnamen](/wiki/Help_centre/Tournament_sanctions) untuk informasi lebih lanjut seputar topik ini.
 
 ## Entri masuk {id=sign-in}
 
-### Saya tidak ingat nama pengguna dan kata sandi saya! {id=lost-access}
+### Saya sudah tidak ingat nama pengguna dan kata sandi saya! {id=lost-access}
 
 **Apabila kamu masih memiliki akses ke alamat email yang kamu gunakan untuk mendaftar, silakan gunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk mengklaim kembali akunmu secara otomatis.**
 
