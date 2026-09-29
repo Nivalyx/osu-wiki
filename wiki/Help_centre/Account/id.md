@@ -28,7 +28,7 @@ tags:
 **Halaman utama:** [Pusat bantuan](/wiki/Help_centre)
 :::
 
-Segala sesuatunya yang berhubungan dengan akun osu! milikmu. Simak penjelasan di bawah ini untuk mencari tahu apakah terdapat solusi yang sesuai untuk masalahmu.
+Segala sesuatunya yang berhubungan dengan akun osu! milikmu. Simak penjelasan di bawah ini untuk mencari tahu apakah terdapat solusi yang sesuai atas masalahmu.
 
 ## Supporter {id=supporter}
 
@@ -38,21 +38,21 @@ Segala sesuatunya yang berhubungan dengan akun osu! milikmu. Simak penjelasan di
 
 Pada umumnya, masalah ini akan terselesaikan dengan sendirinya dalam beberapa jam, dan sistem kami akan menerapkan tag ini secara otomatis ke dalam akunmu.
 
-Apabila setelah 24 jam kamu masih juga belum menerima tag supporter ini, silakan kirimkan email ke [support@ppy.sh](mailto:support@ppy.sh) dan beri tahu kami seputar masalahmu.
+Apabila setelah 24 jam kamu masih juga belum menerima tag supporter milikmu, silakan kirimkan email ke [support@ppy.sh](mailto:support@ppy.sh) dan beri tahu kami seputar masalahmu.
 
-Pastikan untuk menyertakan segala resi yang kamu terima dalam proses ini (ID transaksi PayPal, bukti pembayaran Xsolla, dll.) — resi ini akan sangat membantu kami dalam menelusuri apa yang terjadi dengan pembayaranmu!
+Pastikan untuk menyertakan segala resi yang kamu terima dalam proses ini (ID transaksi PayPal, bukti pembayaran Xsolla, dll.) — bukti-bukti ini akan sangat membantu kami untuk menelusuri apa yang terjadi dengan pembayaranmu!
 
 ## Pembatasan akun {id=restriction}
 
 ### Apa itu mode "restricted"? {id=what-is-restriction}
 
-**Pengguna dengan akun yang dibatasi (*restricted*) akan dilarang untuk dapat berinteraksi dengan komunitas dalam segala artian, baik itu secara sementara maupun permanen — yang di antaranya meliputi mengobrol, bermain multiplayer, dan mencetak skor pada papan peringkat.**
+**Seseorang dengan akun yang dibatasi (*restricted*) akan dilarang untuk bisa berinteraksi dengan komunitas dalam segala artian, baik itu secara sementara ataupun permanen, yang di antaranya meliputi mengobrol, bermain multiplayer, dan mencetak skor pada papan peringkat.**
 
-Apabila akunmu telah dibatasi, kamu akan dapat mengetahui alasannya setelah kamu berbicara dengan tim layanan dukungan kami.
+Apabila akunmu dibatasi, kamu kemungkinan akan bisa mengetahui alasannya setelah kamu berbicara dengan tim layanan dukungan kami.
 
-Dalam situasi di mana kami benar-benar yakin bahwa kamu terlibat dalam tindak kecurangan atau penyalahgunaan, kami akan meminta kamu untuk menunggu selama **tiga (3) bulan** terhitung dari tanggal pelanggaran terakhirmu sebelum kami dapat mempertimbangkan banding yang kamu ajukan.
+Dalam situasi di mana kami benar-benar yakin bahwa kamu terlibat dalam tindak kecurangan atau penyalahgunaan, kami akan meminta kamu untuk menunggu selama **tiga (3) bulan** terhitung dari tanggal pelanggaran terakhirmu sebelum kami bisa mempertimbangkan banding yang kamu ajukan.
 
-Silakan rujuk halaman [Pembatasan akun](/wiki/Help_centre/Account_restrictions) untuk informasi lebih lanjut seputar pembatasan ini dan proses banding yang berlaku.
+Silakan rujuk halaman [Pembatasan akun](/wiki/Help_centre/Account_restrictions) untuk informasi lebih lanjut seputar pembatasan akun dan proses banding yang berlaku.
 
 ## Larangan turnamen {id=tournament-bans}
 
