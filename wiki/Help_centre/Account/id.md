@@ -113,7 +113,7 @@ Untuk informasi lebih lanjut seputar cara memperoleh berkas `network.log` untuk 
 
 Dalam situasi langka tertentu, kamu mungkin akan perlu menghubungi penyedia layanan internet (ISP) kamu untuk menanyakan seputar hal ini. ISP tertentu diketahui memiliki masalah untuk bisa terhubung ke osu!, yang pada umumnya disebabkan oleh perutean jaringan (*routing*) yang buruk.
 
-### Situs web osu! memberi tahu saya bahwa saya telah terlalu sering mencoba masuk! {id=sign-in-throttling}
+### Situs web osu! memberi tahu saya kalau saya telah terlalu sering mencoba masuk! {id=sign-in-throttling}
 
 **Hal ini adalah langkah perlindungan sementara yang berlaku setelah adanya upaya masuk yang berulang kali gagal ke dalam akunmu. Cobalah untuk masuk kembali setelah 10-20 menit.**
 
