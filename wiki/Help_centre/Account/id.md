@@ -79,7 +79,7 @@ Beberapa contoh informasi yang baik untuk dicantumkan pada email ini meliputi an
 
 ### Akun saya sudah dicuri! {id=account-theft}
 
-**Coba gunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk memeriksa apakah alamat email milik akunmu masih valid.**
+**Coba gunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk memeriksa apakah alamat email akunmu masih valid.**
 
 Apabila cara ini berhasil, kamu akan bisa mengatur ulang kata sandimu tanpa bantuan dari staf layanan dukungan.
 
@@ -111,19 +111,19 @@ Layanan VPN dan server proxy tertentu tidak bisa digunakan untuk terhubung ke os
 
 Untuk informasi lebih lanjut seputar cara memperoleh berkas `network.log` untuk dikirimkan kepada kami, lihat [Pusat bantuan § Berkas log](/wiki/Help_centre#log-files).
 
-Dalam situasi langka tertentu, kamu mungkin akan perlu menghubungi penyedia layanan internet (ISP) kamu untuk menanyakan seputar masalah ini. ISP tertentu diketahui memiliki masalah untuk bisa terhubung ke osu!, yang pada umumnya disebabkan oleh perutean jaringan (*routing*) yang buruk.
+Dalam situasi langka tertentu, kamu mungkin akan perlu menghubungi penyedia layanan internet (ISP) kamu untuk menanyakan seputar hal ini. ISP tertentu diketahui memiliki masalah untuk bisa terhubung ke osu!, yang pada umumnya disebabkan oleh perutean jaringan (*routing*) yang buruk.
 
 ### Situs web osu! memberi tahu saya bahwa saya telah terlalu sering mencoba masuk! {id=sign-in-throttling}
 
-**Hal ini merupakan langkah perlindungan sementara yang diterapkan oleh sistem kami setelah upaya masuk yang berulang kali gagal ke dalam akunmu. Cobalah untuk masuk kembali setelah 10-20 menit.**
+**Hal ini adalah langkah perlindungan sementara yang berlaku setelah adanya upaya masuk yang berulang kali gagal ke dalam akunmu. Cobalah untuk masuk kembali setelah 10-20 menit.**
 
-Apabila hal ini terjadi kepadamu, cukup tunggu sejenak dan coba untuk masuk kembali di kemudian waktu.
+Apabila hal ini terjadi kepadamu, cukup tunggu sejenak dan coba untuk masuk kembali setelah sekian waktu.
 
-Selambat-lambatnya, peringatan ini akan berakhir setelah beberapa jam, di mana kamu akan dapat masuk kembali ke akunmu setelahnya.
+Selambat-lambatnya, peringatan ini akan berakhir setelah beberapa jam untuk sebagian besar orang dan kamu akan bisa masuk kembali ke akunmu setelahnya.
 
 ### Saya tidak menerima email apa pun dari osu!/Saya lupa alamat email saya! {id=email-issues}
 
-**Ada kemungkinan alamat email milik akunmu saat ini sedang bermasalah.**
+**Ada kemungkinan alamat email akunmu saat ini sedang bermasalah.**
 
 Apabila kamu masih ingat alamat email yang terhubung ke akunmu, atau apabila kamu setidaknya masih merasa ingat, cobalah untuk mengunjungi bagian Email pada [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit) untuk mengubah alamat emailmu. Isi seluruh kolom yang diperlukan dan klik `Perbarui` setelah kamu selesai.
 
