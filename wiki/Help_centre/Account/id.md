@@ -85,9 +85,9 @@ Apabila cara ini berhasil, kamu akan bisa mengatur ulang kata sandimu tanpa bant
 
 Apabila cara ini tidak membantumu, silakan kirimkan tiket layanan dukungan (*support ticket*) kepada kami sesegera mungkin ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan sebanyak-banyaknya informasi pengenal yang bisa membantu kami mengenali dirimu sebagai pemilik akun ini.
 
-Kamu akan sangat terbantu apabila kamu mengirimkan email dari alamat email pendaftaranmu, serta apabila kamu mencantumkan sebanyak-banyaknya informasi yang hanya dapat diketahui oleh kamu selaku pemilik akun.
+Kamu akan sangat terbantu apabila kamu mengirimkan email dari alamat email pendaftaranmu, serta apabila kamu mencantumkan sebanyak-banyaknya informasi yang hanya bisa diketahui oleh kamu selaku pemilik akun.
 
-Mohon untuk tidak melampirkan data tayangan ulang atau skor di dalam tiketmu — kami tidak dapat menggunakan kedua hal ini untuk memverifikasi kepemilikan akunmu.
+Mohon untuk tidak melampirkan data tayangan ulang atau skor di dalam tiketmu — kami tidak bisa menggunakan kedua hal ini untuk memverifikasi kepemilikan akunmu.
 
 ### Apa arti pesan 'Bancho authentication error' yang terus-menerus saya terima? {id=authentication-error}
 
