@@ -64,7 +64,7 @@ Silakan rujuk halaman [Sanksi turnamen](/wiki/Help_centre/Tournament_sanctions) 
 
 ## Entri masuk {id=sign-in}
 
-### Saya sudah tidak ingat nama pengguna dan kata sandi saya! {id=lost-access}
+### Saya sudah lupa nama pengguna dan kata sandi saya! {id=lost-access}
 
 **Apabila kamu masih punya akses ke alamat email yang kamu gunakan untuk mendaftar, silakan gunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk mengklaim kembali akunmu secara otomatis.**
 
@@ -91,19 +91,19 @@ Mohon untuk tidak melampirkan data tayangan ulang atau skor di dalam tiketmu —
 
 ### Apa arti pesan 'Bancho authentication error' yang terus-menerus saya terima? {id=authentication-error}
 
-**Pesan ini pada umumnya menandakan bahwa terdapat masalah jaringan antara kamu dan server kami.**
+**Pesan ini pada umumnya muncul pada saat terdapat masalah jaringan antara kamu dan server kami.**
 
-Terdapat beberapa hal yang dapat kamu coba untuk menyelesaikan masalah ini:
+Terdapat beberapa hal yang bisa kamu coba untuk menyelesaikan masalah ini:
 
-#### Apakah kamu telah memasukkan kata sandimu dengan benar? {id=authentication-wrong-password}
+#### Apakah kamu sudah memasukkan kata sandimu dengan benar? {id=authentication-wrong-password}
 
-Apabila kamu telah lupa kata sandimu, kamu dapat menggunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk memulihkan akses menuju akunmu.
+Apabila kamu sudah lupa kata sandimu, kamu bisa menggunakan [halaman pemulihan kata sandi](https://osu.ppy.sh/home/password-reset) untuk memulihkan akses menuju akunmu.
 
 #### Apakah kamu sedang menggunakan server proxy atau VPN? {id=authentication-vpn}
 
 **Menonaktifkan hal ini sebelum mencoba untuk menghubungkan ulang kemungkinan besar akan menyelesaikan masalahmu.**
 
-Layanan VPN dan server proxy tertentu tidak dapat terhubung ke osu! karena satu dan lain hal.
+Layanan VPN dan server proxy tertentu tidak bisa digunakan untuk terhubung ke osu! karena satu dan lain hal.
 
 ### Saya masih menerima pesan kesalahan ini! {id=authentication-unknown-cause}
 
