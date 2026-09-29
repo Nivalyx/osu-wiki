@@ -109,9 +109,9 @@ Layanan VPN dan server proxy tertentu tidak bisa digunakan untuk terhubung ke os
 
 **Kami akan membutuhkan berkas `network.log` darimu untuk mengetahui apa yang terjadi apabila kedua solusi di atas tidak membantu.**
 
-Untuk informasi lebih lanjut seputar cara memperoleh berkas `network.log` ini untuk dikirimkan kepada kami, lihat [Pusat bantuan § Berkas log](/wiki/Help_centre#log-files).
+Untuk informasi lebih lanjut seputar cara memperoleh berkas `network.log` untuk dikirimkan kepada kami, lihat [Pusat bantuan § Berkas log](/wiki/Help_centre#log-files).
 
-Dalam situasi langka tertentu, kamu mungkin akan perlu menghubungi penyedia layanan internet (ISP) kamu untuk menanyakan seputar masalah ini. ISP tertentu dikenal memiliki kendala dalam menghubungkan diri mereka ke osu!, yang pada umumnya disebabkan oleh pemetaan rute jaringan (*routing*) yang buruk.
+Dalam situasi langka tertentu, kamu mungkin akan perlu menghubungi penyedia layanan internet (ISP) kamu untuk menanyakan seputar masalah ini. ISP tertentu diketahui memiliki masalah untuk bisa terhubung ke osu!, yang pada umumnya disebabkan oleh perutean jaringan (*routing*) yang buruk.
 
 ### Situs web osu! memberi tahu saya bahwa saya telah terlalu sering mencoba masuk! {id=sign-in-throttling}
 
