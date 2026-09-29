@@ -113,7 +113,7 @@ Untuk informasi lebih lanjut seputar cara memperoleh berkas `network.log` untuk 
 
 Dalam situasi langka tertentu, kamu mungkin akan perlu menghubungi penyedia layanan internet (ISP) kamu untuk menanyakan seputar hal ini. ISP tertentu diketahui memiliki masalah untuk bisa terhubung ke osu!, yang pada umumnya disebabkan oleh perutean jaringan (*routing*) yang buruk.
 
-### Situs web osu! memberi tahu saya kalau saya telah terlalu sering mencoba masuk! {id=sign-in-throttling}
+### Situs web osu! memberi tahu saya bahwa saya telah terlalu sering mencoba masuk! {id=sign-in-throttling}
 
 **Hal ini adalah langkah perlindungan sementara yang berlaku setelah adanya upaya masuk yang berulang kali gagal ke dalam akunmu. Cobalah untuk masuk kembali setelah 10-20 menit.**
 
@@ -127,9 +127,9 @@ Selambat-lambatnya, peringatan ini akan berakhir setelah beberapa jam untuk seba
 
 Apabila kamu masih ingat alamat email yang terhubung ke akunmu, atau apabila kamu setidaknya masih merasa ingat, cobalah untuk mengunjungi bagian Email pada [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit) untuk mengubah alamat emailmu. Isi seluruh kolom yang diperlukan dan klik `Perbarui` setelah kamu selesai.
 
-Apabila kamu telah kehilangan kata sandi akunmu dan tidak menerima email pengaturan ulang kata sandi mana pun, atau apabila kamu benar-benar sudah tidak ingat alamat email yang kamu gunakan, silakan hubungi kami pada [accounts@ppy.sh](mailto:accounts@ppy.sh). Segala informasi yang kamu miliki seputar akunmu (nama penggunamu, tangkapan layar mana pun yang menampilkan kamu sedang terhubung masuk ke klien permainan, rekaman transaksi osu!store atau pembayaran supporter, dll.) akan sangat membantumu di sini!
+Apabila kamu sudah lupa kata sandi akunmu dan tidak menerima email pengaturan ulang kata sandi mana pun, atau apabila kamu benar-benar sudah tidak ingat alamat email yang kamu gunakan, silakan hubungi kami pada [accounts@ppy.sh](mailto:accounts@ppy.sh). Segala informasi yang kamu miliki seputar akunmu (nama penggunamu, tangkapan layar mana pun yang menampilkan kamu sedang terhubung masuk ke klien permainan, rekaman transaksi osu!store atau pembayaran supporter, dll.) akan sangat membantumu di sini!
 
-Terakhir, kami juga mengetahui bahwa terdapat beberapa layanan email yang menolak email otomatis dari kami. Apabila kamu menggunakan salah satu layanan email di bawah ini, silakan hubungi kami melalui email dan kami akan mengubah alamat email kamu untukmu:
+Terakhir, kami juga mengetahui bahwa terdapat beberapa layanan email yang tidak menerima email otomatis dari kami. Apabila kamu menggunakan salah satu layanan di bawah ini, silakan hubungi kami melalui email dan kami akan mengubah alamat email kamu untukmu:
 
 - `att.net`
 - `bellsouth.net`
