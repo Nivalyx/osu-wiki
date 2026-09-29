@@ -157,7 +157,7 @@ Apabila kamu hanya ingin sedikit mengubah huruf kapital atau tata bahasa/ejaan p
 
 **Ya, namun hanya pada situasi tertentu.**
 
-Apabila seorang pemain telah tidak terhubung masuk ke osu! selama sekurang-kurangnya 6 bulan dan tidak pernah bermain sama sekali, nama pengguna mereka akan dapat diambil melalui halaman [perubahan nama pengguna](https://osu.ppy.sh/store/products/32) dengan harga yang sesuai dengan harga perubahan nama pengguna pada umumnya.
+Apabila seorang pemain sudah tidak terhubung masuk ke osu! selama setidaknya 6 bulan dan tidak punya rekam jejak permainan sama sekali, nama pengguna mereka akan bisa diambil melalui halaman [perubahan nama pengguna](https://osu.ppy.sh/store/products/32) dengan harga yang sesuai dengan harga perubahan nama pengguna biasa.
 
 Di sisi lain, apabila pengguna ini tercatat **pernah bermain** dalam mode permainan mana pun, waktu yang dibutuhkan untuk dapat mengambil nama pengguna ini akan bertambah mengikuti [fungsi non-linier berikut](https://www.desmos.com/calculator/b89siyv9j8). Hal ini diberlakukan demi mencegah orang-orang untuk dapat mencuri nama pengguna milik pemain yang masih aktif atau baru saja pensiun.
 
