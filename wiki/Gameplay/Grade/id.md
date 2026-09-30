@@ -6,6 +6,8 @@ tags:
   - silver ss
   - sh
   - xh
+  - s perak
+  - ss perak
   - peringkat
   - nilai
 ---
