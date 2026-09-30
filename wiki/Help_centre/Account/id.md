@@ -251,6 +251,6 @@ Apabila kamu bermain dari tempat umum, pastikan kamu menjaga keamanan akunmu den
 
 **Kamu bisa melihat semua map yang pernah kamu mainkan pada situs web osu!.**
 
-**Apabila kamu memiliki tag supporter yang aktif**, kamu dapat melihat seluruh map yang memiliki skormu dengan mengunjungi [halaman daftar beatmap](https://osu.ppy.sh/beatmapsets), mengeklik `Pilihan Pencarian Lebih Lanjut`, dan memilih filter `Riwayat Permainan`. Sebagai alternatif, kamu dapat mengakses filter ini secara langsung dengan [mengeklik tautan ini](https://osu.ppy.sh/beatmapsets?played=played).
+**Apabila kamu memiliki tag supporter yang aktif**, kamu bisa melihat semua map yang memiliki skormu dengan mengunjungi [halaman daftar beatmap](https://osu.ppy.sh/beatmapsets), mengeklik `Pilihan Pencarian Lebih Lanjut`, dan memilih filter `Riwayat Permainan`. Sebagai alternatif, kamu bisa mengakses filter ini secara langsung dengan [mengeklik tautan ini](https://osu.ppy.sh/beatmapsets?played=played).
 
-Sayangnya, kami tidak mencatat beatmap mana saja yang pernah diunduh oleh pengguna. Sekurang-kurangnya, kamu dapat memanfaatkan filter di atas untuk memulihkan beatmap yang pernah kamu mainkan.
+Sayangnya, kami tidak mencatat beatmap mana saja yang pernah diunduh oleh pengguna. Setidak-tidaknya, kamu bisa memanfaatkan filter di atas untuk memulihkan beatmap yang pernah kamu mainkan.
