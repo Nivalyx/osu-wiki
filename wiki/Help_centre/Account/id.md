@@ -245,7 +245,7 @@ Kamu bisa mengunci akunmu sendiri dengan cara mengubah alamat email dan kata san
 
 **Selama kamu hanya bermain pada akunmu sendiri**, kamu bisa bermain osu! dari mana saja!
 
-Apabila kamu bermain dari tempat umum, pastikan kamu menjaga keamanan akunmu dengan seksama. Komputer yang digunakan secara bersama pada umumnya adalah target ancaman oleh perangkat lunak berbahaya.
+Apabila kamu bermain dari tempat umum, pastikan kamu menjaga keamanan akunmu dengan seksama. Komputer yang digunakan secara bersama pada umumnya adalah target yang sering disasar oleh perangkat lunak berbahaya.
 
 ### Apakah saya dapat memperoleh daftar seluruh map yang pernah saya mainkan atau unduh? {id=all-played-beatmaps}
 
