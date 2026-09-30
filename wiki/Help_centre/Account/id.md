@@ -239,7 +239,7 @@ Untuk membuka kunci akun ini, kirimkan email ke [accounts@ppy.sh](mailto:account
 
 Kamu bisa mengunci akunmu sendiri dengan cara mengubah alamat email dan kata sandimu ke kumpulan kata atau angka acak yang tidak akan bisa diingat, dan lalu keluar dari akun. Hal ini sama adanya dengan proses penguncian di atas. Setelah kamu siap untuk kembali ke komunitas, kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) yang meminta pengaturan ulang kata sandi. Pastikan kamu menggunakan alamat email yang sebelumnya digunakan oleh akunmu.
 
-### Apakah saya dapat bermain pada komputer yang pernah digunakan oleh pengguna lain sebelumnya untuk bermain osu!? {id=shared-pc}
+### Apakah saya bisa bermain pada komputer yang sebelumya pernah digunakan oleh pengguna osu! lain? {id=shared-pc}
 
 **Ya, tentu saja. Hal ini meliputi PC yang digunakan secara bersama, seperti yang terdapat pada warnet atau game center.**
 
