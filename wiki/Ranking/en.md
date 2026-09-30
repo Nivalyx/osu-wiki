@@ -9,7 +9,7 @@ tags:
 # Ranking
 
 ::: alert-note
-**Note:** [Rank (disambiguation)](/wiki/Disambiguation/Rank).
+**See also:** [Rank (disambiguation)](/wiki/Disambiguation/Rank).
 :::
 
 **Ranking** (alternatively called "leaderboards") is a list that sorts members of the osu! community according to certain criteria.

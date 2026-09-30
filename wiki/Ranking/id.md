@@ -4,42 +4,44 @@ tags:
   - pp
   - leaderboards
   - ranking
-  - peringkat
   - papan peringkat
-outdated_translation: true
-outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
+  - peringkat
 ---
 
-# Peringkat
+# Ranking
 
-*Untuk penggunaan lainnya, lihat [Rank (disambiguasi)](/wiki/Disambiguation/Rank).*
+::: alert-note
+**Lihat juga:** [Rank (disambiguasi)](/wiki/Disambiguation/Rank).
+:::
 
-**Peringkat** (atau "papan peringkat") adalah sebuah daftar yang mengurutkan anggota komunitas osu! berdasarkan kriteria tertentu.
+**Ranking** (alternatively called "leaderboards") is a list that sorts members of the osu! community according to certain criteria.
 
-Semua peringkat kecuali peringkat seseorang pada sebuah beatmap dapat dilihat di menu `peringkat` di header situs osu!. Untuk peringkat seseorang pada sebuah beatmap, dapat dilihat di laman info beatmap.
+All but the individual beatmap rankings can be navigated to by hovering over the `rankings` menu on the website header. For the individual beatmap ranking, they can be found on their [beatmap info page](/wiki/Beatmap_information).
 
-## Peringkat performance point
+## Performance points ranking
 
-*Lihat juga: [Performance point](/wiki/Performance_points)*
+::: alert-note
+**See also:** [Performance points](/wiki/Performance_points)
+:::
 
-Peringkat performance point mendeskripsikan tingkat keahlian pemain sebagai perbandingan dengan pemain lainnya. Papan peringkat ini ditentukan berdasarkan total dari performance point yang dimiliki oleh seorang pemain, dan dapat dilihat di profil pemain tersebut dan di [papan peringkat performa](https://osu.ppy.sh/rankings/osu/performance).
+The performance points ranking describes a player's skill-level in comparison to other players. This leaderboard is determined by the total number of performance points an individual player has, and can be seen on a player's profile and on the [performance leaderboards](https://osu.ppy.sh/rankings/osu/performance).
 
-## Peringkat skor
+## Score ranking
 
-Peringkat skor digunakan untuk membandingkan total skor pemain dan mengurutkannya. Untuk mendapatkan peringkat yang tinggi pada papan peringkat membutuhkan waktu dan komitmen yang besar, tetapi membutuhkan sedikit keahlian mekanis dibandingkan dengan peringkat performance point.
+The score ranking compares players' total score and lists them accordingly. Ranking highly on this leaderboard requires a large time commitment, but requires relatively less mechanical skill than the performance points ranking.
 
-## Peringkat Kudosu
+## Kudosu ranking
 
-Peringkat Kudosu digunakan untuk membandingkan [Kudosu](/wiki/Modding/Kudosu) yang telah dikumpulkan oleh pengguna dan mengurutkannya. Peringkat ini tidak membutuhkan keahlian bermain, karena Kudosu diperoleh dari [proses modding](/wiki/Modding).
+The Kudosu ranking compares users' accumulated [Kudosu](/wiki/Modding/Kudosu) and lists them accordingly. This ranking requires no playing skills, as Kudosu is gained as a part of the [modding process](/wiki/Modding).
 
-## Peringkat Spotlights
+## Spotlights ranking
 
-Peringkat Spotlights adalah papan peringkat dengan waktu terbatas yang membandingkan keahlian para pemain berdasarkan sekumpulan beatmap tertentu pada setiap musim [Spotlights](/wiki/Beatmap_Spotlights). Pemain yang memiliki peringkat yang tinggi pada peringkat Spotlights akan menerima penghargaan khusus sebagai hasil dari kerja keras mereka.
+The Spotlights rankings are time-limited leaderboards that compare players' skill on a specific set of beatmaps each [Spotlights](/wiki/Beatmap_Spotlights) season. Players who rank highly on Spotlights rankings will receive specific awards as a result of their hard work.
 
-## Peringkat beatmap
+## Beatmap ranking
 
-Peringkat beatmap digunakan untuk membandingkan skor para pemain pada suatu beatmap. Peringkat tersebut akan muncul setelah beatmap [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), atau Loved. Posisi delapan teratas ditampilkan tanpa harus menggulir kebawah, dan jika pemain memiliki skor dengan posisi 50 teratas, secara otomatis akan masuk ke daftar peringkat. Peringkat dengan posisi pertama dapat dilihat di halaman profil pengguna.
+The beatmap rankings compare players' scores against each other on individual beatmaps. They appear once a beatmap has been [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), or Loved. The top eight are shown without having to scroll, and if the player has a top 50 score, it will automatically scroll to their score. First place ranks can be seen on a user's profile page.
 
-## Peringkat negara
+## Country ranking
 
-Peringkat negara didasarkan pada performance point para pemain dari suatu negara.
+The country rankings are based on performance points of players from a country.
