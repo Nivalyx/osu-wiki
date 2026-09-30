@@ -215,10 +215,15 @@ Kami sedang mempertimbangkan pembelian pengaturan ulang skor ("*score reset*") b
 
 Hal ini tidak berarti bahwa kamu dapat membuat akun baru untuk melakukan hal ini! Memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas), dan kami tidak akan segan untuk menonaktifkan akun baru mana pun yang kami temukan.
 
-### Apakah saya dapat menghapus akun saya? {id=account-deletion}
+### Apakah saya bisa menghapus akun saya? {id=account-deletion}
 
-*Untuk informasi lebih lanjut seputar penghapusan akun, lihat: [Kebijakan privasi osu! § Hak dan kendali Anda](/wiki/Legal/Privacy#hak-dan-kendali-anda).*\
-*Catatan: Penghapusan akun bersifat permanen dan tidak dapat diurungkan!*
+::: alert-note
+**Catatan:** Untuk informasi lebih lanjut seputar penghapusan akun, lihat: [Kebijakan privasi osu! § Hak dan kendali Anda](/wiki/Legal/Privacy#hak-dan-kendali-anda)
+:::
+
+::: alert-caution
+**Peringatan:** Penghapusan akun bersifat permanen dan tidak bisa diurungkan!
+:::
 
 Ya, setiap pengguna dapat meminta akun mereka untuk dihapus dengan mengirimkan email ke [privacy@ppy.sh](mailto:privacy@ppy.sh). Mohon diperhatikan bahwa penghapusan akun ini bersifat **final**, yang berarti bahwa sekalinya akunmu dihapus, segala sesuatunya tidak akan dapat dikembalikan atau diurungkan. Menghapus akunmu tidak serta-merta berarti bahwa kamu dapat membuat akun baru, karena memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas). Dengan menghapus akunmu, kamu tidak akan lagi dapat menggunakan fitur online osu! mana pun juga.
 
