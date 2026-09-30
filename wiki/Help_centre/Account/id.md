@@ -179,9 +179,9 @@ Pengembalian nama ini terbatas hanya pada satu kali per tahunnya, jadi pastikan 
 
 Apabila kamu menemukan bahwa nama pengguna baru kamu sudah dikembalikan, mungkin saja nama ini bersifat melecehkan, tidak pantas, atau menyinggung. Kami tidak akan menganulir pengembalian ini bahkan apabila diminta, namun apabila kamu membeli perubahan nama ini melalui osu!store, kami akan memberikan kamu satu kali kesempatan untuk memilih nama pengguna yang baru.
 
-Apabila perubahan ini dilangsungkan dengan menggunakan perubahan nama gratis dari pembelian tag supporter, kami tidak akan menawarkan kesempatan ini.
+Apabila perubahan ini dilakukan dengan menggunakan perubahan nama gratis dari pembelian tag supporter, kami tidak akan menawarkan kesempatan ini.
 
-### Apakah saya dapat menghapus nama pengguna saya terdahulu/riwayat nama pengguna saya? {id=hide-username-history}
+### Apakah saya bisa menghapus nama-nama pengguna lama/riwayat nama pengguna saya? {id=hide-username-history}
 
 **Dalam situasi tertentu.**
 
