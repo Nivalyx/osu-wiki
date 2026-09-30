@@ -13,8 +13,12 @@ tags:
 # Peringkat (grade)
 
 ::: alert-note
-**Untuk penggunaan lainnya, lihat:** [Rank (disambiguasi)](/wiki/Disambiguation/Rank).
+**Lihat juga:** [Rank (disambiguasi)](/wiki/Disambiguation/Rank).
 :::
+
+**Grades** are a set of letters representing a player's performance on a given [beatmap](/wiki/Beatmap). They accompany the total [score](/wiki/Gameplay/Score) on the result screen and appear in all lists alongside scores.
+
+From lowest to highest, the possible grades are D, C, B, A, S, and SS. Silver S and SS grades are only achievable when using the [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), or [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) game modifiers.
 
 **Grade (penilaian)**, di osu!, adalah sekumpulan huruf yang mewakili performa pemain dalam memainkan [beatmap](/wiki/Beatmap). Grade menyertai total [skor](/wiki/Gameplay/Score) yang diperoleh di layar hasil bermain (result screen) dan muncul di semua daftar beatmap di samping skor.
 
@@ -22,7 +26,7 @@ Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa di
 
 ## osu!
 
-| Nilai | Kondisi |
+| Nilai | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% |
 | S | Perolehan 300 di atas 90%, perolehan 50 di bawah 1%, dan tidak ada miss |
@@ -33,32 +37,32 @@ Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa di
 
 ## osu!taiko
 
-| Nilai | Kondisi |
+| Nilai | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% |
 | S | Perolehan GREAT di atas 90% dan tidak ada miss |
 | A | Perolehan GREAT di atas 80% dan tidak ada miss, **ATAU** perolehan GREAT di atas 90% |
 | B | Perolehan GREAT di atas 70% dan tidak ada miss, **ATAU** perolehan GREAT di atas 80%. |
 | C | Perolehan GREAT di atas 60% |
-| D | Lainnya |
+| D | Skor pass lainnya |
 
 ## osu!catch
 
-| Nilai | Kondisi |
+| Nilai | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% |
-| S | Akurasi di antara 98.01% sampai 99.99% (nilai S bisa diperoleh meskipun terdapat beberapa miss, seperti di osu!mania) |
+| S | Akurasi di antara 98.01% sampai 99.99% (nilai S bisa diperoleh bahkan dengan beberapa miss, seperti di osu!mania) |
 | A | Akurasi di antara 94.01% sampai 98.00% |
 | B | Akurasi di antara 90.01% sampai 94.00% |
 | C | Akurasi di antara 85.01% sampai 90.00% |
-| D | Akurasi di bawah 85.00% |
+| D | Akurasi lainnya di bawah 85.00% |
 
 ## osu!mania
 
-| Nilai | Kondisi |
+| Nilai | Persyaratan |
 | :-: | :-- |
 | SS | Akurasi 100% |
-| S | Akurasi di atas 95% (nilai S bisa diperoleh meskipun terdapat beberapa miss, seperti di osu!catch) |
+| S | Akurasi di atas 95% (nilai S bisa diperoleh bahkan dengan beberapa miss, seperti di osu!catch) |
 | A | Akurasi di atas 90% |
 | B | Akurasi di atas 80% |
 | C | Akurasi di atas 70% |
