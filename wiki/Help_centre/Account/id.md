@@ -185,7 +185,7 @@ Apabila perubahan ini dilakukan dengan menggunakan perubahan nama gratis dari pe
 
 **Dalam situasi tertentu.**
 
-Halaman profil kamu akan selalu menampilkan riwayat nama pengguna yang pernah kamu gunakan. Meskipun demikian, kami dapat menghapus nama tertentu yang dapat mendatangkan masalah bagimu. Apabila salah satu nama ini membahayakan privasimu (mis. karena nama ini mengandung nama aslimu) atau dapat membuat privasimu berada dalam bahaya (melalui situs web lain), hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta agar nama ini dihapus.
+Halaman profil kamu akan menampilkan riwayat nama pengguna yang pernah kamu gunakan. Meski begitu, kami bisa menghapus nama tertentu yang bisa mendatangkan masalah bagimu. Apabila salah satu nama ini melanggar privasimu (mis. karena nama ini mengandung nama aslimu) atau bisa membuat privasimu berada dalam bahaya (melalui situs web lain), hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meminta agar nama ini dihapus.
 
 ## Masalah lainnya {id=other}
 
