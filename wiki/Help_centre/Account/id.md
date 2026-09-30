@@ -195,15 +195,15 @@ Halaman profil kamu akan menampilkan riwayat nama pengguna yang pernah kamu guna
 
 Apabila kamu sudah secara konsisten terhubung ke osu! dari negara yang berbeda dengan negara akunmu dalam jangka waktu yang lama, kamu akan diberikan pilihan untuk mengubah negara akunmu pada [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit).
 
-### Apakah saya dapat membuat lebih dari satu akun? {id=no-multiaccounting}
+### Apakah saya bisa membuat lebih dari satu akun? {id=no-multiaccounting}
 
 **Sayangnya kamu tidak bisa.**
 
 Apabila kami mengizinkan semua orang untuk membuat dan bermain pada lebih dari satu akun, papan peringkat Ranked yang ada akan menjadi hampir tidak bernilai!
 
-Fenomena ini banyak dijumpai pada permainan lain dengan istilah "smurf" — di mana akun yang sebelumnya tidak pernah bermain tiba-tiba memenuhi papan peringkat dan mencegah pengguna lain untuk dapat bermain secara kompetitif.
+Fenomena ini banyak dijumpai pada permainan lain dengan istilah "smurf" — di mana akun-akun yang sebelumnya tidak pernah bermain tiba-tiba memenuhi papan peringkat dan mencegah pengguna lain untuk bisa bermain secara kompetitif.
 
-Di osu!, kami sangat menentang pengguna yang memiliki banyak akun, dan kami menegakkan peraturan satu akun per pengguna kami dengan sangat ketat. Kamu hanya dapat bermain dengan akun pertama yang kamu daftarkan tanpa ada kata kecuali!
+Di osu!, kami sangat menentang pengguna yang memiliki banyak akun, dan kami menegakkan peraturan satu akun per pengguna kami dengan sangat ketat. Kamu hanya bisa bermain dengan akun pertama yang kamu daftarkan, tanpa ada kata kecuali!
 
 Apabila kamu saat ini memiliki lebih dari satu akun, silakan hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meluruskan situasi ini.
 
