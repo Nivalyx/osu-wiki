@@ -171,7 +171,7 @@ Kami menerima permintaan untuk mengembalikan nama pengguna ke nama yang paling t
 
 Pengembalian ke nama lainnya selain dari yang paling terakhir harus [dibeli dari osu!store](https://osu.ppy.sh/store/products/32).
 
-Pengembalian nama ini terbatas hanya pada satu kali per tahunnya, jadi pastikan kamu memikirkan keputusan ini secara matang sebelumnya!
+Pengembalian nama ini terbatas hanya pada satu kali per tahunnya, jadi pastikan kamu memikirkan hal ini secara matang-matang sebelum meminta!
 
 ### Nama pengguna saya telah dikembalikan ke nama sebelumnya! {id=why-username-reverted}
 
