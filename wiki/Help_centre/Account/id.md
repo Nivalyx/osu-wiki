@@ -147,7 +147,7 @@ Terakhir, kami juga mengetahui bahwa terdapat beberapa layanan email yang tidak 
 
 Apabila kamu sudah pernah membeli (atau dihadiahkan) [tag supporter](https://osu.ppy.sh/home/support), kamu akan bisa mengubah nama penggunamu **sebanyak satu kali** secara cuma-cuma. Perubahan nama pengguna ini bisa diklaim pada halaman [osu!store](https://osu.ppy.sh/store/products/32).
 
-Setelahnya, kamu bisa membeli [perubahan nama pengguna](https://osu.ppy.sh/store/products/32) untuk mengubah kembali nama penggunamu sebagaimana yang kamu mau. Meski begitu, setiap perubahan yang kamu beli akan semakin mahal seiring waktunya — perubahan nama kamu yang kedua akan dikenakan biaya $8 USD, yang ketiga $16 USD, dan seterusnya hingga batas $100 USD. Kami menerapkan hal ini demi mencegah orang-orang menyalahgunakan sistem ini untuk terus-menerus mengubah nama pengguna mereka secara cepat.
+Setelahnya, kamu bisa membeli [perubahan nama pengguna](https://osu.ppy.sh/store/products/32) untuk mengubah kembali nama penggunamu sebagaimana yang kamu mau. Meski begitu, setiap perubahan yang kamu beli akan semakin mahal seiring waktunya — perubahan nama kamu yang kedua akan dikenakan biaya $8 USD, yang ketiga $16 USD, dan seterusnya hingga batas $100 USD. Kami menerapkan hal ini demi mencegah orang-orang menyalahgunakan sistem ini untuk terus-menerus mengubah nama pengguna mereka.
 
 Mohon diperhatikan bahwa nama pengguna yang dipilih harus tunduk pada [peraturan komunitas](/wiki/Rules#peraturan-komunitas) kami, dalam artian nama ini tidak boleh menyinggung pengguna lain, terlalu provokatif, atau menghasut dalam maksud apa pun. Selain itu, nama pengguna yang meniru atau menggunakan identitas tokoh publik terkemuka (seperti artis, politisi, dll.) juga tidak diizinkan dan akan digulirkan balik secara paksa pada saat kami menemukan nama ini.
 
@@ -159,11 +159,11 @@ Apabila kamu hanya ingin sedikit mengubah huruf kapital atau tata bahasa/ejaan p
 
 Apabila seorang pemain sudah tidak terhubung masuk ke osu! selama setidaknya 6 bulan dan tidak punya rekam jejak permainan sama sekali, nama pengguna mereka akan bisa diambil melalui halaman [perubahan nama pengguna](https://osu.ppy.sh/store/products/32) dengan harga yang sesuai dengan harga perubahan nama pengguna biasa.
 
-Di sisi lain, apabila pengguna ini tercatat **pernah bermain** dalam mode permainan mana pun, waktu yang dibutuhkan untuk dapat mengambil nama pengguna ini akan bertambah mengikuti [fungsi non-linier berikut](https://www.desmos.com/calculator/b89siyv9j8). Hal ini diberlakukan demi mencegah orang-orang untuk dapat mencuri nama pengguna milik pemain yang masih aktif atau baru saja pensiun.
+Di sisi lain, apabila pemain ini tercatat **pernah bermain** pada mode permainan mana pun, waktu yang dibutuhkan untuk bisa mengambil nama pengguna ini akan bertambah mengikuti [fungsi non-linier berikut](https://www.desmos.com/calculator/b89siyv9j8). Sistem ini diterapkan demi mencegah orang-orang untuk bisa mencuri nama pengguna milik pemain yang masih aktif atau yang baru saja pensiun.
 
-Di samping itu, nama pengguna milik pemain yang telah memiliki [beatmap Ranked](/wiki/Beatmap/Category#ranked) atau [lencana profil](/wiki/Community/Profile_badge) juga tidak dapat diambil.
+Selain itu, nama pengguna milik pemain yang memiliki [beatmap Ranked](/wiki/Beatmap/Category#ranked) atau [lencana profil](/wiki/Community/Profile_badge) juga tidak dapat diambil.
 
-### Apakah saya dapat mengurungkan perubahan nama ini atau kembali ke nama lama saya? {id=revert-username}
+### Apakah saya bisa mengurungkan perubahan nama ini atau kembali ke nama lama saya? {id=revert-username}
 
 **Ya, namun hanya dalam situasi tertentu.**
 
