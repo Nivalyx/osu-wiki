@@ -20,9 +20,9 @@ tags:
 
 From lowest to highest, the possible grades are D, C, B, A, S, and SS. Silver S and SS grades are only achievable when using the [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), or [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) game modifiers.
 
-**Grade (penilaian)**, di osu!, adalah sekumpulan huruf yang mewakili performa pemain dalam memainkan [beatmap](/wiki/Beatmap). Grade menyertai total [skor](/wiki/Gameplay/Score) yang diperoleh di layar hasil bermain (result screen) dan muncul di semua daftar beatmap di samping skor.
+**Peringkat** (*grade*) adalah serangkaian huruf yang mewakilkan performa pemain pada suatu [beatmap](/wiki/Beatmap). Peringkat ini menyertai [skor](/wiki/Gameplay/Score) total yang diperoleh di layar hasil bermain (result screen) dan muncul di semua daftar beatmap di samping skor.
 
-Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa didapat antara lain D, C, B, A, S, S Silver, SS, dan SS Silver. Nilai silver hanya dapat dicapai jika menggunakan *[game modifier](/wiki/Gameplay/Game_modifier)* [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), atau [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
+Dari yang terendah hingga tertinggi, kemungkinan nilai yang bisa didapat antara lain D, C, B, A, S, S Silver, SS, dan SS Silver. Nilai silver hanya dapat dicapai jika menggunakan *[game modifier](/wiki/Gameplay/Game_modifier)* [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), atau [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
 
 ## osu!
 
