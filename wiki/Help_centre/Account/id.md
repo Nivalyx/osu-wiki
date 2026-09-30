@@ -237,7 +237,7 @@ Untuk membuka kunci akun ini, kirimkan email ke [accounts@ppy.sh](mailto:account
 
 *Fitur ini tidak dibuat untuk disalahgunakan.* Penguncian akun sepatutnya menjadi salah satu solusi terakhir bagi para pemain yang tidak ingin meninggalkan osu! untuk selama-lamanya, namun **butuh waktu** untuk menjauh dari osu! karena alasan yang jelas.
 
-Kamu bisa mengunci akunmu sendiri dengan cara mengubah alamat email dan kata sandimu ke kumpulan kata atau angka acak yang tidak akan bisa kamu ingat, dan lalu keluar dari akun. Hal ini sama adanya dengan proses penguncian di atas. Setelah kamu siap untuk kembali ke komunitas, kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) yang meminta pengaturan ulang kata sandi. Pastikan kamu menggunakan alamat email yang sebelumnya digunakan oleh akunmu.
+Kamu bisa mengunci akunmu sendiri dengan cara mengubah alamat email dan kata sandimu ke kumpulan kata atau angka acak yang tidak akan bisa diingat, dan lalu keluar dari akun. Hal ini sama adanya dengan proses penguncian di atas. Setelah kamu siap untuk kembali ke komunitas, kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) yang meminta pengaturan ulang kata sandi. Pastikan kamu menggunakan alamat email yang sebelumnya digunakan oleh akunmu.
 
 ### Apakah saya dapat bermain pada komputer yang pernah digunakan oleh pengguna lain sebelumnya untuk bermain osu!? {id=shared-pc}
 
