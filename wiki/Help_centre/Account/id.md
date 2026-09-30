@@ -211,9 +211,9 @@ Apabila kamu saat ini memiliki lebih dari satu akun, silakan hubungi [accounts@p
 
 **Tidak untuk saat ini.**
 
-Kami saat ini tengah mempertimbangkan pembelian pengaturan ulang skor ("*score reset*") bagi para pemain garis keras yang benar-benar hanya mengincar kesempurnaan, namun untuk saat ini, kami tidak dapat menghapus statistik akunmu.
+Kami sedang mempertimbangkan pembelian pengaturan ulang skor ("*score reset*") bagi para pemain garis keras yang benar-benar hanya menginginkan kesempurnaan, namun untuk saat ini, kami tidak bisa menghapus statistik akunmu.
 
-Hal ini tidak berarti bahwa kamu dapat membuat akun baru untuk melakukan hal ini! Memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas), dan kami tidak akan segan untuk menonaktifkan akun baru mana pun yang ditemukan oleh tim kami.
+Hal ini tidak berarti bahwa kamu dapat membuat akun baru untuk melakukan hal ini! Memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas), dan kami tidak akan segan untuk menonaktifkan akun baru mana pun yang kami temukan.
 
 ### Apakah saya dapat menghapus akun saya? {id=account-deletion}
 
