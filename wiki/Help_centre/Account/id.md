@@ -165,13 +165,13 @@ Selain itu, nama pengguna milik pemain yang memiliki [beatmap Ranked](/wiki/Beat
 
 ### Apakah saya bisa mengurungkan perubahan nama ini atau kembali ke nama lama saya? {id=revert-username}
 
-**Ya, namun hanya dalam situasi tertentu.**
+**Ya, namun hanya pada situasi tertentu.**
 
-Kami menerima permintaan untuk mengembalikan nama pengguna ke nama yang paling terakhir dipakai tanpa dipungut biaya. Cukup hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan ajukan permintaan agar namamu dapat dikembalikan.
+Kami menerima permintaan untuk mengembalikan nama pengguna ke nama yang paling terakhir dipakai secara cuma-cuma. Cukup hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan ajukan permintaan untuk mengembalikan namamu.
 
 Pengembalian ke nama lainnya selain dari yang paling terakhir harus [dibeli dari osu!store](https://osu.ppy.sh/store/products/32).
 
-Pengembalian nama ini terbatas hanya pada satu kali per tahunnya, jadi pastikan kamu telah memikirkan keputusan ini secara matang sebelumnya!
+Pengembalian nama ini terbatas hanya pada satu kali per tahunnya, jadi pastikan kamu memikirkan keputusan ini secara matang sebelumnya!
 
 ### Nama pengguna saya telah dikembalikan ke nama sebelumnya! {id=why-username-reverted}
 
