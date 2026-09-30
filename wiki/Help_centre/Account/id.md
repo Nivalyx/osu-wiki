@@ -177,7 +177,7 @@ Pengembalian nama ini terbatas hanya pada satu kali per tahunnya, jadi pastikan 
 
 **Kami hanya memaksakan pengembalian nama pengguna bagi nama-nama yang kami anggap tidak pantas atau melecehkan.**
 
-Apabila kamu menemukan bahwa nama pengguna baru kamu telah dikembalikan, mungkin saja nama pengguna baru ini bersifat melecehkan, tidak pantas, atau menyinggung. Kami tidak akan menganulir pengembalian ini dalam situasi apa pun bahkan apabila diminta, namun apabila kamu membeli perubahan nama ini melalui osu!store, kami akan memberikan satu kali kesempatan bagi kamu untuk memilih nama pengguna yang baru.
+Apabila kamu menemukan bahwa nama pengguna baru kamu sudah dikembalikan, mungkin saja nama ini bersifat melecehkan, tidak pantas, atau menyinggung. Kami tidak akan menganulir pengembalian ini bahkan apabila diminta, namun apabila kamu membeli perubahan nama ini melalui osu!store, kami akan memberikan kamu satu kali kesempatan untuk memilih nama pengguna yang baru.
 
 Apabila perubahan ini dilangsungkan dengan menggunakan perubahan nama gratis dari pembelian tag supporter, kami tidak akan menawarkan kesempatan ini.
 
