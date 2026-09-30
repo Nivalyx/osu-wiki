@@ -225,11 +225,11 @@ Hal ini tidak berarti bahwa kamu dapat membuat akun baru untuk melakukan hal ini
 **Peringatan:** Penghapusan akun bersifat permanen dan tidak bisa diurungkan!
 :::
 
-Ya, setiap pengguna dapat meminta akun mereka untuk dihapus dengan mengirimkan email ke [privacy@ppy.sh](mailto:privacy@ppy.sh). Mohon diperhatikan bahwa penghapusan akun ini bersifat **final**, yang berarti bahwa sekalinya akunmu dihapus, segala sesuatunya tidak akan dapat dikembalikan atau diurungkan. Menghapus akunmu tidak serta-merta berarti bahwa kamu dapat membuat akun baru, karena memiliki lebih dari satu akun merupakan tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas). Dengan menghapus akunmu, kamu tidak akan lagi dapat menggunakan fitur online osu! mana pun juga.
+Ya, pengguna mana pun bisa meminta akun mereka untuk dihapus dengan mengirimkan email ke [privacy@ppy.sh](mailto:privacy@ppy.sh). Mohon diperhatikan bahwa penghapusan akun ini bersifat **final**, yang berarti bahwa sekalinya akunmu dihapus, tindakan ini tidak bisa dikembalikan atau diurungkan. Menghapus akunmu tidak serta-merta berarti bahwa kamu bisa membuat akun baru, karena memiliki lebih dari satu akun adalah tindakan yang [melanggar peraturan](/wiki/Rules#peraturan-komunitas). Dengan menghapus akunmu, kamu tidak lagi akan bisa menggunakan fitur online osu! mana pun juga.
 
 ### Saya tidak lagi ingin bermain, namun saya tidak ingin akun saya dihapus! {id=account-lock}
 
-Setiap pengguna dapat meminta akun mereka untuk **dikunci** dengan mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh). Setelah akun ini dikunci, kata sandi milik akun kemudian akan diacak dan alamat email yang ada juga akan dikosongkan, yang mengunci pengguna tersebut dari akun mereka. Demi mencegah penyalahgunaan, terdapat masa tenggang selama satu minggu sebelum kunci ini dapat dibuka kembali.
+Pengguna mana pun bisa meminta akun mereka untuk **dikunci** dengan mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh). Setelah akun ini dikunci, kata sandi milik akun kemudian akan diacak dan alamat email yang ada juga akan dikosongkan, yang mengunci pengguna tersebut dari akun mereka. Demi mencegah penyalahgunaan, terdapat masa tenggang selama satu minggu sebelum kunci ini dapat dibuka kembali.
 
 Akun yang dikunci akan tetap dapat dilihat secara publik tanpa ada informasi apa pun dalam profilnya yang menunjukkan bahwa akun ini telah dikunci.
 
