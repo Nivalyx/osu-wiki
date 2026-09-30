@@ -205,9 +205,9 @@ Fenomena ini banyak dijumpai pada permainan lain dengan istilah "smurf" — di m
 
 Di osu!, kami sangat menentang pengguna yang memiliki banyak akun, dan kami menegakkan peraturan satu akun per pengguna kami dengan sangat ketat. Kamu hanya bisa bermain dengan akun pertama yang kamu daftarkan, tanpa ada kata kecuali!
 
-Apabila kamu saat ini memiliki lebih dari satu akun, silakan hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meluruskan situasi ini.
+Apabila kamu saat ini memiliki lebih dari satu akun, silakan hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) untuk meluruskan masalah ini.
 
-### Apakah saya dapat memulai ulang segala sesuatunya dari awal atau menghapus statistik akun saya? {id=statistics-reset}
+### Apakah saya bisa memulai ulang segala sesuatunya dari awal atau menghapus statistik akun saya? {id=statistics-reset}
 
 **Tidak untuk saat ini.**
 
