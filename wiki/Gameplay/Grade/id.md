@@ -10,10 +10,10 @@ tags:
   - nilai
 ---
 
-# Grade
+# Peringkat (grade)
 
 ::: alert-note
-**Untuk penggunaan lain, lihat:** [Rank (disambiguasi)](/wiki/Disambiguation/Rank).
+**Untuk penggunaan lainnya, lihat:** [Rank (disambiguasi)](/wiki/Disambiguation/Rank).
 :::
 
 **Grade (penilaian)**, di osu!, adalah sekumpulan huruf yang mewakili performa pemain dalam memainkan [beatmap](/wiki/Beatmap). Grade menyertai total [skor](/wiki/Gameplay/Score) yang diperoleh di layar hasil bermain (result screen) dan muncul di semua daftar beatmap di samping skor.
@@ -47,7 +47,7 @@ Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa di
 | Nilai | Kondisi |
 | :-: | :-- |
 | SS | Akurasi 100% |
-| S | Akurasi di antara 98.01% sampai 99.99% (nilai S dapat diperoleh meskipun terdapat beberapa miss, seperti di osu!mania) |
+| S | Akurasi di antara 98.01% sampai 99.99% (nilai S bisa diperoleh meskipun terdapat beberapa miss, seperti di osu!mania) |
 | A | Akurasi di antara 94.01% sampai 98.00% |
 | B | Akurasi di antara 90.01% sampai 94.00% |
 | C | Akurasi di antara 85.01% sampai 90.00% |
@@ -58,7 +58,7 @@ Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa di
 | Nilai | Kondisi |
 | :-: | :-- |
 | SS | Akurasi 100% |
-| S | Akurasi di atas 95% (nilai S dapat diperoleh meskipun terdapat beberapa miss, seperti di osu!catch) |
+| S | Akurasi di atas 95% (nilai S bisa diperoleh meskipun terdapat beberapa miss, seperti di osu!catch) |
 | A | Akurasi di atas 90% |
 | B | Akurasi di atas 80% |
 | C | Akurasi di atas 70% |
