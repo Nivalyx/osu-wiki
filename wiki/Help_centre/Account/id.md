@@ -58,7 +58,7 @@ Silakan rujuk halaman [Pembatasan akun](/wiki/Help_centre/Account_restrictions) 
 
 ### Apa itu larangan turnamen? {id=what-is-tournament-ban}
 
-Sesuai dengan namanya, larangan turnamen (*tournament ban*) adalah larangan bagi pengguna untuk bisa ikut serta pada seluruh turnamen yang didukung secara resmi.
+Sesuai dengan namanya, larangan turnamen (*tournament ban*) adalah larangan bagi pengguna untuk bisa ikut serta pada semua turnamen yang didukung secara resmi.
 
 Silakan rujuk halaman [Sanksi turnamen](/wiki/Help_centre/Tournament_sanctions) untuk informasi lebih lanjut seputar topik ini.
 
@@ -125,7 +125,7 @@ Selambat-lambatnya, peringatan ini akan berakhir setelah beberapa jam untuk seba
 
 **Ada kemungkinan alamat email akunmu saat ini sedang bermasalah.**
 
-Apabila kamu masih ingat alamat email yang terhubung ke akunmu, atau apabila kamu setidaknya masih merasa ingat, cobalah untuk mengunjungi bagian Email pada [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit) untuk mengubah alamat emailmu. Isi seluruh kolom yang diperlukan dan klik `Perbarui` setelah kamu selesai.
+Apabila kamu masih ingat alamat email yang terhubung ke akunmu, atau apabila kamu setidaknya masih merasa ingat, cobalah untuk mengunjungi bagian Email pada [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit) untuk mengubah alamat emailmu. Isi semua kolom yang diperlukan, dan klik `Perbarui` setelah kamu selesai.
 
 Apabila kamu sudah lupa kata sandi akunmu dan tidak menerima email pengaturan ulang kata sandi mana pun, atau apabila kamu benar-benar sudah tidak ingat alamat email yang kamu gunakan, silakan hubungi kami pada [accounts@ppy.sh](mailto:accounts@ppy.sh). Segala informasi yang kamu miliki seputar akunmu (nama penggunamu, tangkapan layar mana pun yang menampilkan kamu sedang terhubung masuk ke klien permainan, rekaman transaksi osu!store atau pembayaran supporter, dll.) akan sangat membantumu di sini!
 
@@ -245,11 +245,11 @@ Kamu bisa mengunci akunmu sendiri dengan cara mengubah alamat email dan kata san
 
 **Selama kamu hanya bermain pada akunmu sendiri**, kamu bisa bermain osu! dari mana saja!
 
-Apabila kamu bermain dari tempat umum, pastikan kamu menjaga keamanan akunmu dengan seksama. Komputer yang digunakan secara bersama pada umumnya adalah target yang sering disasar oleh perangkat lunak berbahaya.
+Apabila kamu bermain dari tempat umum, pastikan kamu menjaga keamanan akunmu dengan seksama. Komputer yang digunakan secara bersama pada umumnya adalah target yang sering disasar oleh perangkat lunak yang berbahaya.
 
-### Apakah saya dapat memperoleh daftar seluruh map yang pernah saya mainkan atau unduh? {id=all-played-beatmaps}
+### Apakah saya bisa memperoleh daftar semua map yang pernah saya mainkan atau unduh? {id=all-played-beatmaps}
 
-**Kamu dapat melihat seluruh map yang pernah kamu mainkan pada situs web osu!.**
+**Kamu bisa melihat semua map yang pernah kamu mainkan pada situs web osu!.**
 
 **Apabila kamu memiliki tag supporter yang aktif**, kamu dapat melihat seluruh map yang memiliki skormu dengan mengunjungi [halaman daftar beatmap](https://osu.ppy.sh/beatmapsets), mengeklik `Pilihan Pencarian Lebih Lanjut`, dan memilih filter `Riwayat Permainan`. Sebagai alternatif, kamu dapat mengakses filter ini secara langsung dengan [mengeklik tautan ini](https://osu.ppy.sh/beatmapsets?played=played).
 
