@@ -18,11 +18,9 @@ tags:
 
 **Grades** are a set of letters representing a player's performance on a given [beatmap](/wiki/Beatmap). They accompany the total [score](/wiki/Gameplay/Score) on the result screen and appear in all lists alongside scores.
 
-From lowest to highest, the possible grades are D, C, B, A, S, and SS. Silver S and SS grades are only achievable when using the [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), or [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) game modifiers.
-
 **Peringkat** (*grade*) adalah serangkaian huruf yang mewakilkan performa pemain pada suatu [beatmap](/wiki/Beatmap). Peringkat ini menyertai [skor](/wiki/Gameplay/Score) total pemain di layar hasil permainan dan muncul di semua daftar beatmap di samping skor.
 
-Dari yang terendah hingga tertinggi, daftar peringkat yang tersedia adalah D, C, B, A, S, dan SS. Peringkat S dan SS perak hanya bisa diraih pada saat menggunakan [modifikator permainan](/wiki/Gameplay/Game_modifier)* [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), atau [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
+Dari yang terendah hingga tertinggi, daftar peringkat yang tersedia untuk diraih adalah D, C, B, A, S, dan SS. Peringkat S dan SS perak hanya bisa diperoleh pada saat menggunakan [modifikator permainan](/wiki/Gameplay/Game_modifier)* [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), atau [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
 
 ## osu!
 
