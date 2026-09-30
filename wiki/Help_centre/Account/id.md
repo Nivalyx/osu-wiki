@@ -229,11 +229,11 @@ Ya, pengguna mana pun bisa meminta akun mereka untuk dihapus dengan mengirimkan 
 
 ### Saya tidak lagi ingin bermain, namun saya tidak ingin akun saya dihapus! {id=account-lock}
 
-Pengguna mana pun bisa meminta akun mereka untuk **dikunci** dengan mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh). Setelah akun ini dikunci, kata sandi milik akun kemudian akan diacak dan alamat email yang ada juga akan dikosongkan, yang mengunci pengguna tersebut dari akun mereka. Demi mencegah penyalahgunaan, terdapat masa tenggang selama satu minggu sebelum kunci ini dapat dibuka kembali.
+Pengguna mana pun bisa meminta akun mereka untuk **dikunci** dengan mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh). Setelah akun ini dikunci, kata sandi yang terhubung dengan akun ini kemudian akan diacak dan alamat email yang ada juga akan dikosongkan, yang mengunci pengguna ini dari akun mereka. Demi mencegah penyalahgunaan, terdapat masa tenggang selama satu minggu sebelum kunci ini bisa dibuka kembali.
 
-Akun yang dikunci akan tetap dapat dilihat secara publik tanpa ada informasi apa pun dalam profilnya yang menunjukkan bahwa akun ini telah dikunci.
+Akun yang dikunci akan tetap dapat dilihat secara publik tanpa ada perubahan informasi apa pun pada halaman profilnya.
 
-Untuk membuka kunci akun ini kembali, kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dari alamat email yang sama yang menyatakan bahwa kamu ingin untuk membuka kunci akunmu.
+Untuk membuka kunci akun ini, kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dari alamat email yang sama yang digunakan untuk mengunci akun, yang menyatakan bahwa kamu ingin membuka kunci akunmu.
 
 *Fitur ini tidak dibuat untuk disalahgunakan.* Penguncian akun seyogyanya menjadi solusi terakhir bagi para pemain yang tidak ingin meninggalkan osu! untuk selama-lamanya, namun memerlukan waktu untuk menjauh dari osu! karena alasan yang jelas.
 
