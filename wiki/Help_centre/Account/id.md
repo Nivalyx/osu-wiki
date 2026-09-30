@@ -113,7 +113,7 @@ Untuk informasi lebih lanjut seputar cara memperoleh berkas `network.log` untuk 
 
 Dalam situasi langka tertentu, kamu mungkin akan perlu menghubungi penyedia layanan internet (ISP) kamu untuk menanyakan seputar hal ini. ISP tertentu diketahui memiliki masalah untuk bisa terhubung ke osu!, yang pada umumnya disebabkan oleh perutean jaringan (*routing*) yang buruk.
 
-### Situs web osu! memberi tahu saya bahwa saya telah terlalu sering mencoba masuk! {id=sign-in-throttling}
+### Situs web osu! memberi tahu saya bahwa saya sudah terlalu sering mencoba masuk! {id=sign-in-throttling}
 
 **Hal ini adalah langkah perlindungan sementara yang berlaku setelah adanya upaya masuk yang berulang kali gagal ke dalam akunmu. Cobalah untuk masuk kembali setelah 10-20 menit.**
 
@@ -173,9 +173,9 @@ Pengembalian ke nama lainnya selain dari yang paling terakhir harus [dibeli dari
 
 Pengembalian nama ini terbatas hanya pada satu kali per tahunnya, jadi pastikan kamu memikirkan hal ini secara matang-matang sebelum meminta!
 
-### Nama pengguna saya telah dikembalikan ke nama sebelumnya! {id=why-username-reverted}
+### Nama pengguna saya dikembalikan ke nama sebelumnya! {id=why-username-reverted}
 
-**Kami hanya memaksakan pengembalian nama pengguna bagi nama yang kami anggap tidak pantas atau melecehkan.**
+**Kami hanya memaksakan pengembalian nama pengguna bagi nama-nama yang kami anggap tidak pantas atau melecehkan.**
 
 Apabila kamu menemukan bahwa nama pengguna baru kamu telah dikembalikan, mungkin saja nama pengguna baru ini bersifat melecehkan, tidak pantas, atau menyinggung. Kami tidak akan menganulir pengembalian ini dalam situasi apa pun bahkan apabila diminta, namun apabila kamu membeli perubahan nama ini melalui osu!store, kami akan memberikan satu kali kesempatan bagi kamu untuk memilih nama pengguna yang baru.
 
