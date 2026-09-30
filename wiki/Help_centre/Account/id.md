@@ -189,11 +189,11 @@ Halaman profil kamu akan menampilkan riwayat nama pengguna yang pernah kamu guna
 
 ## Masalah lainnya {id=other}
 
-### Apakah saya dapat mengubah bendera/negara yang terdapat pada profil akun saya? {id=wrong-flag}
+### Apakah saya bisa mengubah bendera/negara pada profil akun saya? {id=wrong-flag}
 
 **Ya, dalam situasi tertentu.**
 
-Apabila kamu telah cukup lama terhubung ke osu! dari negara yang berbeda dengan negara akunmu, kamu akan diberikan pilihan untuk mengubah negara akunmu pada [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit).
+Apabila kamu sudah secara konsisten terhubung ke osu! dari negara yang berbeda dengan negara akunmu dalam jangka waktu yang lama, kamu akan diberikan pilihan untuk mengubah negara akunmu pada [halaman pengaturan akun](https://osu.ppy.sh/home/account/edit).
 
 ### Apakah saya dapat membuat lebih dari satu akun? {id=no-multiaccounting}
 
