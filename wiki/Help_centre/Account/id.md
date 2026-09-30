@@ -231,13 +231,13 @@ Ya, pengguna mana pun bisa meminta akun mereka untuk dihapus dengan mengirimkan 
 
 Pengguna mana pun bisa meminta akun mereka untuk **dikunci** dengan mengirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh). Setelah akun ini dikunci, kata sandi yang terhubung dengan akun ini kemudian akan diacak dan alamat email yang ada juga akan dikosongkan, yang mengunci pengguna ini dari akun mereka. Demi mencegah penyalahgunaan, terdapat masa tenggang selama satu minggu sebelum kunci ini bisa dibuka kembali.
 
-Akun yang dikunci akan tetap dapat dilihat secara publik tanpa ada perubahan informasi apa pun pada halaman profilnya.
+Akun yang dikunci akan tetap bisa dilihat secara publik tanpa ada perubahan informasi apa pun pada halaman profilnya.
 
 Untuk membuka kunci akun ini, kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dari alamat email yang sama yang digunakan untuk mengunci akun, yang menyatakan bahwa kamu ingin membuka kunci akunmu.
 
-*Fitur ini tidak dibuat untuk disalahgunakan.* Penguncian akun seyogyanya menjadi solusi terakhir bagi para pemain yang tidak ingin meninggalkan osu! untuk selama-lamanya, namun memerlukan waktu untuk menjauh dari osu! karena alasan yang jelas.
+*Fitur ini tidak dibuat untuk disalahgunakan.* Penguncian akun sepatutnya menjadi salah satu solusi terakhir bagi para pemain yang tidak ingin meninggalkan osu! untuk selama-lamanya, namun **butuh waktu** untuk menjauh dari osu! karena alasan yang jelas.
 
-Kamu dapat mengunci dirimu sendiri dengan cara mengubah alamat email dan kata sandimu ke kumpulan kata atau angka acak yang tidak akan pernah dapat kamu ingat, dan lalu keluar dari akunmu. Hal ini sama adanya dengan proses penguncian di atas. Setelah kamu siap untuk kembali ke komunitas, kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) yang berisi permintaan pengaturan ulang kata sandi. Pastikan kamu menggunakan alamat email yang sebelumnya pernah digunakan oleh akunmu.
+Kamu bisa mengunci akunmu sendiri dengan cara mengubah alamat email dan kata sandimu ke kumpulan kata atau angka acak yang tidak akan bisa kamu ingat, dan lalu keluar dari akun. Hal ini sama adanya dengan proses penguncian di atas. Setelah kamu siap untuk kembali ke komunitas, kirimkan email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) yang meminta pengaturan ulang kata sandi. Pastikan kamu menggunakan alamat email yang sebelumnya digunakan oleh akunmu.
 
 ### Apakah saya dapat bermain pada komputer yang pernah digunakan oleh pengguna lain sebelumnya untuk bermain osu!? {id=shared-pc}
 
