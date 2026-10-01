@@ -24,7 +24,7 @@ All but the individual beatmap rankings can be navigated to by hovering over the
 **Lihat juga:** [Performance point](/wiki/Performance_points)
 :::
 
-Peringkat performance point membandingkan kemampuan seorang pemain dibanding dengan para pemain lainnya. Papan peringkat ini ditentukan oleh jumlah performance point yang dimiliki oleh masing-masing pemain, dan bisa dilihat pada halaman profil pemain atau pada [papan peringkat performa](https://osu.ppy.sh/rankings/osu/performance).
+Peringkat performance point membandingkan kemampuan seorang pemain dibandingkan dengan para pemain lainnya. Papan peringkat ini ditentukan oleh jumlah performance point yang dimiliki oleh masing-masing pemain, dan bisa dilihat pada halaman profil pemain atau pada [papan peringkat performa](https://osu.ppy.sh/rankings/osu/performance).
 
 ## Peringkat skor
 
@@ -40,7 +40,9 @@ Peringkat Spotlights adalah papan peringkat musiman yang membandingkan kemampuan
 
 ## Peringkat beatmap
 
-The beatmap rankings compare players' scores against each other on individual beatmaps. They appear once a beatmap has been [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), or Loved. The top eight are shown without having to scroll, and if the player has a top 50 score, it will automatically scroll to their score. First place ranks can be seen on a user's profile page.
+Peringkat beatmap membandingkan skor para pemain pada suatu beatmap. Peringkat ini 
+
+The beatmap rankings compare players' scores against each other on individual beatmaps. They appear once a beatmap has been [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), or [Loved](/wiki/Beatmap/Category#loved). The top eight are shown without having to scroll, and if the player has a top 50 score, it will automatically scroll to their score. First place ranks can be seen on a user's profile page.
 
 ## Peringkat negara
 
