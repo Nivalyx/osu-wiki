@@ -30,7 +30,7 @@ The score ranking compares players' total score and lists them accordingly. Rank
 
 ## Kudosu ranking
 
-The Kudosu ranking compares users' accumulated [Kudosu](/wiki/Modding/Kudosu) and lists them accordingly. This ranking requires no playing skills, as Kudosu is gained as a part of the [modding process](/wiki/Modding).
+The kudosu ranking compares users' accumulated [kudosu](/wiki/Modding/Kudosu) and lists them accordingly. This ranking requires no playing skills, as kudosu is gained as a part of the [modding process](/wiki/Modding).
 
 ## Spotlights ranking
 
