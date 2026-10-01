@@ -24,7 +24,7 @@ All but the individual beatmap rankings can be navigated to by hovering over the
 **Lihat juga:** [Performance point](/wiki/Performance_points)
 :::
 
-The performance points ranking describes a player's skill-level in comparison to other players. This leaderboard is determined by the total number of performance points an individual player has, and can be seen on a player's profile and on the [performance leaderboards](https://osu.ppy.sh/rankings/osu/performance).
+Peringkat performance point membandingkan kemampuan seorang pemain dibanding dengan para pemain lainnya. Papan peringkat ini ditentukan oleh jumlah performance point yang dimiliki oleh masing-masing pemain, dan bisa dilihat pada halaman profil pemain atau pada [papan penringkat performa](https://osu.ppy.sh/rankings/osu/performance).
 
 ## Score ranking
 
