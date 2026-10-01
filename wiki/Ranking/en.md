@@ -34,7 +34,7 @@ The Kudosu ranking compares users' accumulated [Kudosu](/wiki/Modding/Kudosu) an
 
 ## Spotlights ranking
 
-The Spotlights rankings are seasonal leaderboards that compare players' skill on a specific set of beatmaps that are active in the corresponding [Spotlights](/wiki/Beatmap_Spotlights) season. Players who rank highly on Spotlights rankings will receive specific awards as a result of their hard work.
+The Spotlights rankings are seasonal leaderboards that compare players' skill on a set of beatmaps that are active in the corresponding [Spotlights](/wiki/Beatmap_Spotlights) season. Players who rank highly on Spotlights rankings will receive specific awards as a result of their hard work.
 
 ## Beatmap ranking
 
