@@ -42,6 +42,6 @@ The Spotlights rankings are time-limited leaderboards that compare players' skil
 
 The beatmap rankings compare players' scores against each other on individual beatmaps. They appear once a beatmap has been [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), or Loved. The top eight are shown without having to scroll, and if the player has a top 50 score, it will automatically scroll to their score. First place ranks can be seen on a user's profile page.
 
-## Country ranking
+## Peringkat negara
 
-The country rankings are based on performance points of players from a country.
+Peringkat negara didasarkan pada performance point pemain-pemain dari suatu negara.
