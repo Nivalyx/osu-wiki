@@ -32,15 +32,15 @@ Peringkat skor membandingkan total skor pemain dan mengurutkannya dari yang terb
 
 ## Peringkat kudosu
 
-Peringkat kudosu membandingkan total perolehan [kudosu](/wiki/Modding/Kudosu) pengguna dan mengurutkannya dari yang terbesar hingga terkecil. Papan peringkat ini tidak membutuhkan kemahiran bermain apa pun, karena kudosu adalah bagian dari [proses modding](/wiki/Modding).
+Peringkat kudosu membandingkan total perolehan [kudosu](/wiki/Modding/Kudosu) pengguna dan mengurutkannya dari yang terbesar hingga terkecil. Papan peringkat ini tidak membutuhkan kemampuan bermain apa pun, karena kudosu adalah bagian dari [proses modding](/wiki/Modding).
 
 ## Peringkat Spotlights
 
-Peringkat Spotlights adalah papan peringkat musiman yang membandingkan kemampuan pemain pada set beatmap tertentu yang aktif di masing-masing musim [Spotlights](/wiki/Beatmap_Spotlights) yang bersangkutan. Para pemain yang berhasil mencapai posisi yang tinggi pada papan peringkat Spotlights akan mendapatkan hadiah tertentu sebagai imbalan dari kerja keras mereka.
+Peringkat Spotlights adalah papan peringkat musiman yang membandingkan kemampuan pemain pada set beatmap yang aktif di masing-masing musim [Spotlights](/wiki/Beatmap_Spotlights). Para pemain yang berhasil mencapai posisi yang tinggi pada papan peringkat Spotlights akan mendapatkan hadiah tertentu sebagai imbalan dari kerja keras mereka.
 
 ## Peringkat beatmap
 
-Peringkat beatmap membandingkan skor para pemain antar satu sama lain pada suatu beatmap. Papan peringkat ini akan muncul sekalinya suatu beatmap memasuki kategori [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), atau [Loved](/wiki/Beatmap/Category#loved).
+Peringkat beatmap membandingkan skor para pemain antar satu sama lain pada suatu beatmap. Papan peringkat ini akan muncul sekalinya suatu beatmap memasuki kategori [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), atau [Loved](/wiki/Beatmap/Category#loved). Posisi delapan teratas 
 
 The beatmap rankings compare players' scores against each other on individual beatmaps. They appear once a beatmap has been [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved), or [Loved](/wiki/Beatmap/Category#loved). The top eight are shown without having to scroll, and if the player has a top 50 score, it will automatically scroll to their score. First place ranks can be seen on a user's profile page.
 
