@@ -24,13 +24,13 @@ All but the individual beatmap rankings can be navigated to by hovering over the
 **Lihat juga:** [Performance point](/wiki/Performance_points)
 :::
 
-Peringkat performance point membandingkan kemampuan seorang pemain dibanding dengan para pemain lainnya. Papan peringkat ini ditentukan oleh jumlah performance point yang dimiliki oleh masing-masing pemain, dan bisa dilihat pada halaman profil pemain atau pada [papan penringkat performa](https://osu.ppy.sh/rankings/osu/performance).
+Peringkat performance point membandingkan kemampuan seorang pemain dibanding dengan para pemain lainnya. Papan peringkat ini ditentukan oleh jumlah performance point yang dimiliki oleh masing-masing pemain, dan bisa dilihat pada halaman profil pemain atau pada [papan peringkat performa](https://osu.ppy.sh/rankings/osu/performance).
 
-## Score ranking
+## Peringkat skor
 
-The score ranking compares players' total score and lists them accordingly. Ranking highly on this leaderboard requires a large time commitment, but requires relatively less mechanical skill than the performance points ranking.
+Papan peringkat skor membandingkan total skor masing-masing pemain dan mengurutkannya dari yang terbesar hingga terkecil. Papan peringkat ini memerlukan banyak waktu untuk bisa didaki, namun cenderung butuh kemampuan mekanik yang lebih sedikit dibanding papan peringkat performance point.
 
-## Kudosu ranking
+## Peingkat kudosu
 
 The Kudosu ranking compares users' accumulated [Kudosu](/wiki/Modding/Kudosu) and lists them accordingly. This ranking requires no playing skills, as Kudosu is gained as a part of the [modding process](/wiki/Modding).
 
