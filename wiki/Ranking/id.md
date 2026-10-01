@@ -16,9 +16,7 @@ tags:
 
 **Peringkat** (*ranking*, atau yang juga disebut sebagai "leaderboard"/"papan peringkat") adalah daftar yang mengurutkan para anggota komunitas osu! berdasarkan kriteria tertentu.
 
-Semua peringkat di bawah ini (kecuali peringkat untuk masing-masing beatmap) bisa diakses dengan melayangkan kursor ke atas menu `rankings` pada header situs web. 
-
-All but the individual beatmap rankings can be navigated to by hovering over the `rankings` menu on the website header. For the individual beatmap ranking, they can be found on their [beatmap info page](/wiki/Beatmap_information).
+Semua peringkat di bawah ini (kecuali peringkat beatmap) bisa diakses dengan melayangkan kursor ke atas menu `rankings` pada header situs web. Untuk papan peringkat beatmap, peringkat ini bisa ditemukan pada [halaman informasi](/wiki/Beatmap_information) masing-masing beatmap.
 
 ## Peringkat performance point
 
