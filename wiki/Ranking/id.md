@@ -28,7 +28,7 @@ Peringkat performance point membandingkan kemampuan seorang pemain dibanding den
 
 ## Peringkat skor
 
-Peringkat skor membandingkan total skor pemain dan mengurutkannya dari yang terbesar hingga terkecil. Papan peringkat ini memerlukan banyak waktu untuk bisa didaki, namun cenderung memerlukan kemampuan mekanik yang lebih sedikit dibanding papan peringkat performance point.
+Peringkat skor membandingkan total skor pemain dan mengurutkannya dari yang terbesar hingga terkecil. Papan peringkat ini memerlukan banyak waktu untuk bisa didaki, namun cenderung memerlukan kemampuan mekanik yang lebih rendah dibanding papan peringkat performance point.
 
 ## Peringkat kudosu
 
