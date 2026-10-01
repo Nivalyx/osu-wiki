@@ -8,13 +8,13 @@ tags:
   - peringkat
 ---
 
-# Ranking
+# Peringkat (rank)
 
 ::: alert-note
 **Lihat juga:** [Rank (disambiguasi)](/wiki/Disambiguation/Rank).
 :::
 
-**Ranking** (alternatively called "leaderboards") is a list that sorts members of the osu! community according to certain criteria.
+**Peringkat** (*ranking*, atau yang juga disebut sebagai "leaderboard"/"papan peringkat") adalah daftar yang mengurutkan para anggota komunitas osu! berdasarkan kriteria tertentu.
 
 All but the individual beatmap rankings can be navigated to by hovering over the `rankings` menu on the website header. For the individual beatmap ranking, they can be found on their [beatmap info page](/wiki/Beatmap_information).
 
