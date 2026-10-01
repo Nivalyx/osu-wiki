@@ -42,4 +42,4 @@ The beatmap rankings compare players' scores against each other on individual be
 
 ## Country ranking
 
-The country rankings compare the total performance points earned by all active players from each country.
+The country rankings compare the total performance points earned cumulatively by all active players from each country.

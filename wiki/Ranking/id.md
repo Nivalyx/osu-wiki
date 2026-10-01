@@ -44,4 +44,4 @@ Peringkat beatmap membandingkan skor pemain antar satu sama lain pada suatu beat
 
 ## Peringkat negara
 
-Peringkat negara membandingkan total performance point yang dikumpulkan oleh semua pemain yang aktif dari masing-masing negara.
+Peringkat negara membandingkan total performance point yang dikumpulkan oleh semua pemain yang aktif secara kumulatif dari masing-masing negara.
