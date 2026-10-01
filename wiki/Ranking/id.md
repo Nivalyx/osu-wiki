@@ -28,13 +28,13 @@ Peringkat performance point membandingkan kemampuan seorang pemain dibanding den
 
 ## Peringkat skor
 
-Papan peringkat skor membandingkan total skor masing-masing pemain dan mengurutkannya dari yang terbesar hingga terkecil. Papan peringkat ini memerlukan banyak waktu untuk bisa didaki, namun cenderung memerlukan kemampuan mekanik yang lebih sedikit dibanding papan peringkat performance point.
+Peringkat skor membandingkan total skor masing-masing pemain dan mengurutkannya dari yang terbesar hingga terkecil. Papan peringkat ini memerlukan banyak waktu untuk bisa didaki, namun cenderung memerlukan kemampuan mekanik yang lebih sedikit dibanding papan peringkat performance point.
 
-## Peingkat kudosu
+## Peringkat kudosu
 
-The Kudosu ranking compares users' accumulated [Kudosu](/wiki/Modding/Kudosu) and lists them accordingly. This ranking requires no playing skills, as Kudosu is gained as a part of the [modding process](/wiki/Modding).
+Peringkat kudosu membandingkan total perolehan [kudosu](/wiki/Modding/Kudosu) masing-masing pengguna dan mengurutkannya dari yang terbesar hingga terkecil. Papan peringkat ini tidak membutuhkan kemahiran bermain apa pun, karena kudosu adalah bagian dari [proses modding](/wiki/Modding).
 
-## Spotlights ranking
+## Peringkat Spotlights
 
 The Spotlights rankings are time-limited leaderboards that compare players' skill on a specific set of beatmaps each [Spotlights](/wiki/Beatmap_Spotlights) season. Players who rank highly on Spotlights rankings will receive specific awards as a result of their hard work.
 
