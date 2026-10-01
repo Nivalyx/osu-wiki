@@ -36,7 +36,7 @@ Peringkat kudosu membandingkan total perolehan [kudosu](/wiki/Modding/Kudosu) pe
 
 ## Peringkat Spotlights
 
-Peringkat Spotlights adalah papan peringkat musiman yang membandingkan kemampuan pemain pada set beatmap [Spotlights](/wiki/Beatmap_Spotlights) yang aktif di masing-masing musimnya. Para pemain yang berhasil mencapai posisi yang tinggi pada papan peringkat Spotlights akan mendapatkan hadiah tertentu sebagai imbalan dari kerja keras mereka.
+Peringkat Spotlights adalah papan peringkat musiman yang membandingkan kemampuan pemain pada set beatmap [Spotlights](/wiki/Beatmap_Spotlights) tertentu yang aktif di masing-masing musimnya. Para pemain yang berhasil mencapai posisi yang tinggi pada papan peringkat Spotlights akan mendapatkan hadiah tertentu sebagai imbalan dari kerja keras mereka.
 
 ## Peringkat beatmap
 
