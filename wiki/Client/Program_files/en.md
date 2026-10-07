@@ -6,7 +6,7 @@
 
 ![The file structure of osu!'s installation folder, on Windows and macOS](img/file_structure.jpg "The file structure of osu!'s installation folder, on Windows and macOS")
 
-The **osu! program files** are a set of files that osu! uses to operate the game and keep track of different user activities. These files come prepackaged with osu!'s installation and are crucial
+The **osu! program files** are a set of files that osu! uses to run the game and keep track of different user activities. These files come prepackaged with osu!'s installation and are crucial for the game's routine operations.
 
 ## Location
 
