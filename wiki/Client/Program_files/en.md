@@ -35,13 +35,13 @@ The Exports folder stores the beatmaps and skins the player has exported from th
 
 ### Localisation
 
-The Localisation folder stores the text files that are used to replace the game's English text based on the user's selected localisation. This folder will only appear once the player has switched their language in the options at least once.
+The Localisation folder stores the text files that are used to replace the game's English texts to the user's selected language. This folder will only appear once the player has switched their language in the options at least once.
 
 ### Replays
 
 ::: alert-notice
 **Notice**
-Older replay files may not play as smoothly as the newer ones, as they were recorded at a lower sample rate.
+Older replay files may suffer from playback issues as they were recorded at a lower sample rate.
 :::
 
 The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only).
