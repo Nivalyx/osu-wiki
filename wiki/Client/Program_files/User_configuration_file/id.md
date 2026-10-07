@@ -51,7 +51,7 @@ Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<n
 | `ScoreMeter` | String | Jenis meteran skor |
 | `ScoreMeterScale` | Desimal | Ukuran meteran skor |
 | `KeyOverlay` | 0 atau 1 | Selalu tampilkan overlay input |
-| `HiddenShowFirstApproach` | 0 atau 1 | Tampilkan approach circle pada objek pertama di mod "Hidden" |
+| `HiddenShowFirstApproach` | 0 atau 1 | Tampilkan approach circle pada objek "Hidden" pertama |
 | `ManiaSpeedBPMScale` | 0 atau 1 | Sesuaikan kecepatan gulir osu!mania dengan BPM lagu |
 | `UsePerBeatmapManiaSpeed` | 0 atau 1 | Ingat kecepatan gulir osu!mania per beatmap |
 | `DisplayStarsMinimum` | Desimal | Tampilkan beatmap mulai dari |
