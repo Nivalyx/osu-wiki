@@ -20,9 +20,9 @@ All of osu!'s program files are present in the game's [installation folder](/wik
 
 ### Chat
 
-The Chat folder stores the chatlogs that have been saved by the user. This folder will only appear if the player has the `Automatically log private messages` options enabled, or if they have run the `/savelog` command in the [chat console](/wiki/Client/Interface/Chat_console) at least once.
+The Chat folder stores the logs of chats that have been saved by the user. This folder will only appear if the player has the `Automatically log private messages` options enabled, or if they have run the `/savelog` command in the [chat console](/wiki/Client/Interface/Chat_console) at least once.
 
-These chatlogs are named following the `{Tab_name}-{YYYYMMDD}-{HHMMSS}` format, and are saved in a plain text (`.txt`) format that can be opened in any text editor. An example of this is shown below:
+These logs are named following the `{Tab_name}-{YYYYMMDD}-{HHMMSS}` format, and are saved in a plain text (`.txt`) format that can be opened in any text editor. An example of this is shown below:
 
 ``#multiplayer-20121115-040845`` (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs).
 
