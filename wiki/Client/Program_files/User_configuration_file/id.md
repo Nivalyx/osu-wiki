@@ -265,18 +265,18 @@ Pengaturan tata letak osu!mania lebih lanjut bisa ditemukan pada berkas [skin.in
 | `CustomFrameLimit` | Integer | Pilihan batasan FPS ketiga yang tersedia di dalam permainan |
 | `Display` | Integer | Nomor indeks monitor yang digunakan untuk membuka osu! |
 | `EditorTip` | Integer | Nomor indeks [tips editor](/wiki/Client/Menu_tips#editor) yang akan dimunculkan selanjutnya |
-| `GuideTips` | String | Melacak tips yang sudah muncul agar tips ini tidak muncul lagi ke depannya |
+| `GuideTips` | String | Melacak tips yang sudah muncul agar tips ini tidak dimunculkan lagi ke depannya |
 | `HighResolution` | 0 atau 1 | Memaksa dukungan elemen skin dengan resolusi HD |
 | `IgnoreBarline` | 0 atau 1 | Apakah barline osu!mania akan disembunyikan |
 | `LastVersion` | String | Versi klien saat ini |
-| `LastVersionPermissionsFailed` | String | Versi klien terakhir yang memerlukan perizinan admininstrator untuk menyelesaikan pembaruan |
-| `LowResolution` | 0 atau 1 | Memaksa elemen skin dengan resolusi SD untuk digunakan (yang akan menimpa pengaturan `HighResolution`) |
+| `LastVersionPermissionsFailed` | String | Versi klien terakhir yang memerlukan izin admininstrator untuk menyelesaikan pembaruan |
+| `LowResolution` | 0 atau 1 | Memaksa elemen skin dengan resolusi SD untuk digunakan (menimpa pengaturan `HighResolution`) |
 | `MenuTip` | Integer | Nomor indeks [tips menu](/wiki/Client/Menu_tips#main-menu) yang akan dimunculkan selanjutnya |
 | `MyPcSucks` | 0 atau 1 | Menonaktifkan semua pengaturan grafis canggih |
 | OverrideRefreshRate\` | 0 atau 1 | Apakah parameter `RefreshRate` akan digunakan |
 | `RefreshRate` | Integer | Refresh rate khusus |
-| `ScaleMode` | String | Ukuran skala sprite bawaan yang menutupi seisi layar |
-| `ScreenshotId` | Integer | Nomor ID tangkapan layar selanjutnya |
+| `ScaleMode` | String | Ukuran skala sprite bawaan yang mengisi seluruh layar |
+| `ScreenshotId` | Integer | ID tangkapan layar selanjutnya |
 | `SkipTablet` | 0 atau 1 | Menonaktifkan kode khusus yang digunakan oleh osu! untuk menangani input tablet |
 | `UpdatePending` | 0 atau 1 | Apakah terdapat pembaruan yang menunggu untuk dipasang |
 
