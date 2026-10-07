@@ -41,7 +41,7 @@ The Localisation folder stores the text files that are used to replace the game'
 
 ::: alert-notice
 **Notice**
-Replays were used to be run at a lower sample rate, but are now more optimised of a better experience.
+Older replay files may not play as smoothly as the newer ones, as they were recorded at a lower sample rate.
 :::
 
 The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only).
