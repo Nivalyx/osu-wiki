@@ -44,9 +44,9 @@ The Localisation folder stores the files that are used to replace the game's Eng
 Certain older replay files may not play as smoothly in the newer versions of the game as they were recorded at a lower sample rate.
 :::
 
-The Replays folder stores the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only).
+The Replays folder stores the player's replay files, which contains the pla's results data and the player's cursor movement during gameplay. 
 
-*For players who interested in uploading their replay to YouTube, see: [Osr2mp4 public release. Automatically convert replay file to video.](https://osu.ppy.sh/community/forums/topics/1104243)
+A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only).
 
 The file name structure is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`. An example of this is shown below:
 
