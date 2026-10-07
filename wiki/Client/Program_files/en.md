@@ -20,15 +20,15 @@ By default, all of osu!'s program files are present in the game's [installation 
 
 ### Chat
 
-The Chat folder stores the logs of that have been saved by the user. This folder will only appear if the player has the `Automatically log private messages` options enabled, or if they have run the `/savelog` command in the [chat console](/wiki/Client/Interface/Chat_console) at least once.
+The Chat folder stores the chatlogs that have been saved by the user. This folder will only appear if the player has the `Automatically log private messages` options enabled, or if they have run the `/savelog` command in the [chat console](/wiki/Client/Interface/Chat_console) at least once.
 
-The name structure of the files is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor. An example of this is shown below:
+These chatlogs name structure of the files is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor. An example of this is shown below:
 
 ``#multiplayer-20121115-040845`` (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs).
 
 ### Downloads
 
-The Downloads folder holds the beatmaps being downloaded by osu!direct (requires [osu!supporter](/wiki/osu!supporter)). They get transferred to the Songs folder upon completion.
+The Downloads folder stores the beatmap files that are in the process of being downloaded by [osu!direct](/wiki/osu!supporter#osu!direct) (requires [osu!supporter](/wiki/osu!supporter)). These beatmap files will be transferred to the Songs folder upon completion.
 
 ### Exports
 
