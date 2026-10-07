@@ -95,7 +95,7 @@ Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<n
 | `AutoSendNowPlaying` | 0 atau 1 | Tautkan beatmap secara otomatis kepada penonton |
 | `PopupDuringGameplay` | 0 atau 1 | Tampilkan popup notifikasi secara langsung ketika bermain |
 | `NotifyFriends` | 0 atau 1 | Tampilkan popup notifikasi ketika teman berganti status |
-| `AllowPublicInvites` | 0 atau 1 | Izinkan undangan permainan multiplayer dari seluruh pengguna |
+| `AllowPublicInvites` | 0 atau 1 | Izinkan undangan permainan multiplayer dari semua pengguna |
 | `DiscordRichPresence` | 0 atau 1 | Discord Rich Presence |
 | `YahooIntegration` | 0 atau 1 | Integrasikan dengan tampilan status Yahoo! |
 | `MsnIntegration` | 0 atau 1 | Integrasikan dengan tampilan status MSN Live |
@@ -103,7 +103,7 @@ Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<n
 | `AutomaticDownloadNoVideo` | 0 atau 1 | Utamakan unduhan tanpa video |
 | `ChatFilter` | 0 atau 1 | Saring kata-kata kasar |
 | `ChatRemoveForeign` | 0 atau 1 | Saring karakter asing |
-| `LogPrivateMessages` | 0 atau 1 | Simpan catatan pesan pribadi |
+| `LogPrivateMessages` | 0 atau 1 | Simpan rekaman pesan pribadi |
 | `BlockNonFriendPM` | 0 atau 1 | Blokir pesan pribadi dari pengguna yang tidak ditambahkan sebagai teman |
 | `IgnoreList` | Daftar string yang terpisah oleh spasi | Daftar abai chat |
 | `HighlightWords` | Daftar string yang terpisah oleh spasi | Daftar kata yang [disorot](/wiki/Client/Interface/Chat_console/Highlight) pada chat |
@@ -185,9 +185,9 @@ Masing-masing mode permainan osu!mania (per jumlah tombol yang digunakan) memili
 | `ManiaLayouts#K` | Daftar nama tombol (keyboard) yang dipisahkan oleh spasi | Menentukan tata letak keyboard untuk mode #K |
 | `ManiaLayouts#KSplit` | Daftar nama tombol (keyboard) yang dipisahkan oleh spasi | Menentukan tata letak keyboard untuk mode co-op `#/2`K |
 
-Pengaturan tata letak osu!mania lebih lanjut dapat ditemukan pada berkas [skin.ini](/wiki/Skinning/skin.ini) yang sedang digunakan.
+Pengaturan tata letak osu!mania lebih lanjut bisa ditemukan pada berkas [skin.ini](/wiki/Skinning/skin.ini) milik skin yang sedang digunakan.
 
-## Dapat diubah melalui tindakan lainnya di dalam permainan
+## Bisa diubah melalui tindakan lainnya di dalam permainan
 
 ### Chat
 
@@ -254,7 +254,7 @@ Pengaturan tata letak osu!mania lebih lanjut dapat ditemukan pada berkas [skin.i
 | `LastPlayMode` | String | Mode permainan yang dipilih |
 | `RankType` | String | Mode papan peringkat yang aktif |
 
-## Tidak dapat diubah dari dalam permainan
+## Tidak bisa diubah dari dalam permainan
 
 | Pengaturan | Jenis nilai | Keterangan |
 | :-- | :-- | :-- |
@@ -272,7 +272,7 @@ Pengaturan tata letak osu!mania lebih lanjut dapat ditemukan pada berkas [skin.i
 | `LastVersionPermissionsFailed` | String | Versi klien terakhir yang memerlukan perizinan admininstrator untuk menyelesaikan pembaruan |
 | `LowResolution` | 0 atau 1 | Memaksa elemen skin dengan resolusi SD untuk digunakan (yang akan menimpa pengaturan `HighResolution`) |
 | `MenuTip` | Integer | Nomor indeks [tips menu](/wiki/Client/Menu_tips#main-menu) yang akan dimunculkan selanjutnya |
-| `MyPcSucks` | 0 atau 1 | Menonaktifkan seluruh pengaturan grafis canggih |
+| `MyPcSucks` | 0 atau 1 | Menonaktifkan semua pengaturan grafis canggih |
 | OverrideRefreshRate\` | 0 atau 1 | Apakah parameter `RefreshRate` akan digunakan |
 | `RefreshRate` | Integer | Refresh rate khusus |
 | `ScaleMode` | String | Ukuran skala sprite bawaan yang menutupi seisi layar |
