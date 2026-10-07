@@ -26,7 +26,7 @@ Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<n
 | `Height` | Integer | Resolusi (pada saat `Fullscreen` bernilai `0`) |
 | `WidthFullscreen` | Integer | Resolusi (pada saat `Fullscreen` bernilai `1`) |
 | `HeightFullscreen` | Integer | Resolusi (pada saat `Fullscreen` bernilai `1`) |
-| `Fullscreen` | 0 atau 1 | Mode fullscreen |
+| `Fullscreen` | 0 atau 1 | Mode layar penuh |
 | `Letterboxing` | 0 atau 1 | Letterboxing |
 | `LetterboxPositionX` | Integer | Offset horizontal |
 | `LetterboxPositionY` | Integer | Offset vertikal |
