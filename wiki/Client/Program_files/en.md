@@ -28,7 +28,7 @@ These chatlogs name structure of the files is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, 
 
 ### Downloads
 
-The Downloads folder stores the beatmap files that are in the process of being downloaded by [osu!direct](/wiki/osu!supporter#osu!direct) (requires [osu!supporter](/wiki/osu!supporter)). These beatmap files will be transferred to the Songs folder upon completion.
+The Downloads folder stores the beatmap files that are in the process of being downloaded by [osu!direct](/wiki/osu!supporter#osu!direct) (requires [osu!supporter](/wiki/osu!supporter)). These beatmap files will be transferred to the Songs folder once the download is finished.
 
 ### Exports
 
