@@ -223,7 +223,7 @@ Pengaturan tata letak osu!mania lebih lanjut bisa ditemukan pada berkas [skin.in
 
 | Pengaturan | Jenis nilai | Keterangan |
 | :-- | :-- | :-- |
-| `LobbyPlayMode` | Integer | Tab mode permainan yang dipiilh (`-1` = Semua, `0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) |
+| `LobbyPlayMode` | Integer | Tab mode permainan yang dipilih (`-1` = Semua, `0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) |
 | `LobbyShowExistingOnly` | 0 atau 1 | Mengaktifkan filter `Ruangan dengan Beatmap yang Dimiliki` |
 | `LobbyShowFriendsOnly` | 0 atau 1 | Mengaktifkan filter `Ruangan dengan Teman` |
 | `LobbyShowFull` | 0 atau 1 | Mengaktifkan filter `Ruangan yang Penuh` |
@@ -260,12 +260,12 @@ Pengaturan tata letak osu!mania lebih lanjut bisa ditemukan pada berkas [skin.in
 | :-- | :-- | :-- |
 | `BeatmapDirectory` | String | Folder tempat osu! menyimpan beatmap |
 | `BossKeyFirstActivation` | 0 atau 1 | Apakah boss key telah ditekan sebelumnya |
-| `CanForceOptimusCompatibility` | 0 atau 1 | Apakah osu! dapat melangsungkan tindakan optimisasi pada GPU NVIDIA tertentu |
+| `CanForceOptimusCompatibility` | 0 atau 1 | Apakah osu! bisa melangsungkan tindakan optimisasi pada GPU NVIDIA tertentu |
 | `ConfirmExit` | 0 atau 1 | Apakah osu! akan meminta konfirmasi sebelum keluar dari permainan |
 | `CustomFrameLimit` | Integer | Pilihan batasan FPS ketiga yang tersedia di dalam permainan |
-| `Display` | Integer | Nomor indeks monitor yang akan digunakan untuk membuka osu! |
+| `Display` | Integer | Nomor indeks monitor yang digunakan untuk membuka osu! |
 | `EditorTip` | Integer | Nomor indeks [tips editor](/wiki/Client/Menu_tips#editor) yang akan dimunculkan selanjutnya |
-| `GuideTips` | String | Melacak tips yang telah dimunculkan agar tips ini tidak kembali muncul ke depannya |
+| `GuideTips` | String | Melacak tips yang sudah muncul agar tips ini tidak muncul lagi ke depannya |
 | `HighResolution` | 0 atau 1 | Memaksa dukungan elemen skin dengan resolusi HD |
 | `IgnoreBarline` | 0 atau 1 | Apakah barline osu!mania akan disembunyikan |
 | `LastVersion` | String | Versi klien saat ini |
