@@ -10,7 +10,7 @@ The **osu! program files** are a set of files that osu! uses to run the game and
 
 ## Location
 
-By default, all of osu!'s program files are present in the game's [installation folder](/wiki/Client/Installation), which can be found in the following locations:
+All of osu!'s program files are present in the game's [installation folder](/wiki/Client/Installation), which by default can be found in the following locations:
 
 | Windows | macOS |
 | :-- | :-- |
