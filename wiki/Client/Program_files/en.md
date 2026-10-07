@@ -24,7 +24,7 @@ The Chat folder stores the logs of chats that have been saved by the user. This 
 
 These logs are named following the `{Tab_name}-{YYYYMMDD}-{HHMMSS}` format, and are saved in a plain text (`.txt`) format that can be opened in any text editor. An example of this is shown below:
 
-``#multiplayer-20121115-040845`` (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs).
+``#multiplayer-20121115-040845.txt`` (/savelog at #multiplayer tab in 15th November 2012 at 04hrs, 08mins, and 45secs).
 
 ### Downloads
 
@@ -32,7 +32,7 @@ The Downloads folder stores the beatmap files that are in the process of being d
 
 ### Exports
 
-The Exports folder appears if the player uses the [Skin Selector's "Export as .osk"](/wiki/Client/Options) or [Beatmap Editor's "Export Package"](/wiki/Client/Beatmap_editor/Menu). It will hold the beatmaps and skins the player has exported from osu!.
+The Exports folder stores the beatmaps and skins the player has exported from the game client. This folder will only appear once the player has used the [skin selector's "Export as .osk"](/wiki/Client/Options) or [beatmap editor's "Export Package"](/wiki/Client/Beatmap_editor/Menu) option at least once.
 
 ### Localisation
 
