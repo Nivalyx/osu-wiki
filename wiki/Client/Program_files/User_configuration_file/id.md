@@ -209,14 +209,14 @@ Pengaturan tata letak osu!mania lebih lanjut bisa ditemukan pada berkas [skin.in
 | `EditorBeatDivisor` | Integer | Nilai pembagi ketukan yang terakhir digunakan |
 | `DistanceSpacing` | Desimal | Nilai pengali distance snap yang terakhir digunakan |
 | `DistanceSpacingEnabled` | 0 atau 1 | Apakah distance snap akan diaktifkan |
-| `NotifySubmittedThread` | 0 atau 1 | Mencentang pilihan `Terima email notifikasi pada saat terdapat balasan` pada saat mengunggah beatmap melalui BSS secara otomatis |
-| `LoadSubmittedThread` | 0 atau 1 | Mencentang pilihan `Muat beatmap di browser setelah diunggah` pada saat mengunggah beatmap melalui BSS secara otomatis |
+| `NotifySubmittedThread` | 0 atau 1 | Mencentang pilihan `Terima email notifikasi pada saat terdapat balasan` secara otomatis pada saat mengunggah beatmap melalui BSS |
+| `LoadSubmittedThread` | 0 atau 1 | Mencentang pilihan `Muat beatmap di browser setelah diunggah` secara otomatis pada saat mengunggah beatmap melalui BSS |
 
 ### Menu utama
 
 | Pengaturan | Jenis nilai | Keterangan |
 | :-- | :-- | :-- |
-| `FrameTimeDisplay` | 0 atau 1 | Apakah grafik frame time akan dimunculkan |
+| `FrameTimeDisplay` | 0 atau 1 | Apakah tampilan frame time akan dimunculkan |
 | `PermanentSongInfo` | 0 atau 1 | Apakah informasi seputar lagu yang sedang diputar akan dimunculkan secara permanen |
 
 ### Multiplayer
