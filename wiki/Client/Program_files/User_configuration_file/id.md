@@ -16,7 +16,7 @@ Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<n
 | `SavePassword` | 0 atau 1 | Ingat kata sandi |
 | `Language` | String | Pilih bahasa |
 | `ShowUnicode` | 0 atau 1 | Utamakan metadata dalam bahasa aslinya |
-| `AlternativeChatFont` | 0 atau 1 | Gunakan font alternatif untuk tampilan chat |
+| `AlternativeChatFont` | 0 atau 1 | Gunakan font alternatif untuk tampilan obrolan |
 | `FrameSync` | String | Batasan FPS |
 | `FpsCounter` | 0 atau 1 | Tampilkan batasan FPS |
 | `CompatibilityContext` | 0 atau 1 | Mode kompatibilitas |
@@ -85,10 +85,10 @@ Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<n
 | `EditorHitAnimations` | 0 atau 1 | Animasi hit |
 | `EditorFollowPoints` | 0 atau 1 | Follow point |
 | `EditorStacking` | 0 atau 1 | Stacking |
-| `Ticker` | 0 atau 1 | Ticker chat |
-| `AutoChatHide` | 0 atau 1 | Sembunyikan chat secara otomatis ketika bermain |
+| `Ticker` | 0 atau 1 | Pesan kilat (ticker) obrolan |
+| `AutoChatHide` | 0 atau 1 | Sembunyikan obrolan secara otomatis ketika bermain |
 | `ChatHighlightName` | 0 atau 1 | Tampilkan notifikasi pada saat seseorang [menyebutkan namamu](/wiki/Client/Interface/Chat_console/Highlight) |
-| `ChatMessageNotification` | 0 atau 1 | Tampilkan notifikasi pesan chat |
+| `ChatMessageNotification` | 0 atau 1 | Tampilkan notifikasi pesan obrolan |
 | `ChatAudibleHighlight` | 0 atau 1 | Putar suara pada saat seseorang [menyebutkan namamu](/wiki/Client/Interface/Chat_console/Highlight) |
 | DisplayCityLocation` | 0 atau 1 | Bagikan lokasi kotamu dengan pengguna lain |
 | `ShowSpectators` | 0 atau 1 | Tampilkan daftar penonton |
@@ -105,8 +105,8 @@ Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<n
 | `ChatRemoveForeign` | 0 atau 1 | Saring karakter asing |
 | `LogPrivateMessages` | 0 atau 1 | Simpan rekaman pesan pribadi |
 | `BlockNonFriendPM` | 0 atau 1 | Blokir pesan pribadi dari pengguna yang tidak ditambahkan sebagai teman |
-| `IgnoreList` | Daftar string yang terpisah oleh spasi | Daftar abai chat |
-| `HighlightWords` | Daftar string yang terpisah oleh spasi | Daftar kata yang [disorot](/wiki/Client/Interface/Chat_console/Highlight) pada chat |
+| `IgnoreList` | Daftar string yang terpisah oleh spasi | Daftar abai obrolan |
+| `HighlightWords` | Daftar string yang terpisah oleh spasi | Daftar kata yang [disorot](/wiki/Client/Interface/Chat_console/Highlight) pada obrolan |
 
 ### Kaitan tombol
 
@@ -133,8 +133,8 @@ Pengaturan kaitan tombol menggunakan nama masing-masing tombol sebagai variabel 
 | `keyDecreaseAudioOffset` | Turunkan offset lokal lagu |
 | `keyQuickRetry` | Ulangi beatmap dari awal |
 | `keyToggleFrameLimiter` | Ubah pengaturan batasan FPS |
-| `keyToggleChat` | Buka chat |
-| `keyToggleExtendedChat` | Buka chat dengan daftar pengguna |
+| `keyToggleChat` | Buka jendela obrolan |
+| `keyToggleExtendedChat` | Buka jendela obrolan dengan daftar pengguna |
 | `keyScreenshot` | Simpan tangkapan layar |
 | `keyVolumeIncrease` | Tingkatkan volume universal |
 | `keyVolumeDecrease` | Turunkan volume universal |
@@ -189,14 +189,14 @@ Pengaturan tata letak osu!mania lebih lanjut bisa ditemukan pada berkas [skin.in
 
 ## Bisa diubah melalui tindakan lainnya di dalam permainan
 
-### Chat
+### Obrolan
 
 | Pengaturan | Jenis nilai | Keterangan |
 | :-- | :-- | :-- |
-| `ChatSortMode` | String | Mode urutan daftar pengguna pada konsol chat yang diperluas |
-| `ChatLastChannel` | String | Kanal percakapan yang terakhir digunakan |
-| `ChatChannels` | String | Daftar kanal percakapan yang terbuka |
-| `UserFilter` | String | Filter daftar pengguna yang aktif pada konsol chat yang diperluas |
+| `ChatSortMode` | String | Mode urutan daftar pengguna pada konsol obrolan yang diperluas |
+| `ChatLastChannel` | String | Kanal obrolan yang terakhir digunakan |
+| `ChatChannels` | String | Daftar kanal obrolan yang terbuka |
+| `UserFilter` | String | Filter daftar pengguna yang aktif pada konsol obrolan yang diperluas |
 
 ### Editor
 
