@@ -4,7 +4,7 @@ no_native_review: true
 
 # Berkas konfigurasi pengguna
 
-Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<nama akun PC kamu>.cfg`. Sebagian besar dari pengaturan ini bisa diubah dari dalam permainan melalui [menu pengaturan](/wiki/Client/Options), dan kamu disarankan untuk mengubah pengaturan kamu langsung dari permainanmu. Mohon untuk hanya mengubah nilai-nilai ini secara manual apabila kamu benar-benar harus.
+Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<nama akun PC kamu>.cfg`. Sebagian besar dari pengaturan ini bisa diakses melalui [menu pengaturan](/wiki/Client/Options), dan kamu disarankan untuk mengubah pengaturan kamu langsung dari permainanmu. Mohon untuk hanya mengubah nilai-nilai ini secara manual apabila kamu benar-benar harus.
 
 ## Bisa diubah melalui menu pengaturan
 
