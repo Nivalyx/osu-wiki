@@ -41,7 +41,7 @@ The Localisation folder stores the files that are used to replace the game's Eng
 
 ::: alert-notice
 **Notice**
-Certain older replay files may not play as smoothly, as they were recorded at a lower sample rate.
+Certain older replay files may not play as smoothly during playback, as they were recorded at a lower sample rate.
 :::
 
 The Replays folder stores the player's replay files, which contains the pla's results data and the player's cursor movement during gameplay. 
