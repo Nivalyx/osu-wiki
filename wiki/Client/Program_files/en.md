@@ -6,11 +6,11 @@
 
 ![The file structure of osu!'s installation folder, on Windows and macOS](img/file_structure.jpg "The file structure of osu!'s installation folder, on Windows and macOS")
 
-The **osu! program files** are a set of files that run osu! uses to run the game and keep track of different user activities. These files come prepackaged with osu!'s installation and
+The **osu! program files** are a set of files that osu! uses to operate the game and keep track of different user activities. These files come prepackaged with osu!'s installation and are crucial
 
 ## Location
 
-By default, all of osu!'s program files are present in the [installation](/wiki/Client/Installation) is installed in the following locations:
+By default, all of osu!'s program files are present in the game's [installation folder](/wiki/Client/Installation), which can be found in the following locations:
 
 | Windows | macOS |
 | :-- | :-- |
@@ -20,7 +20,7 @@ By default, all of osu!'s program files are present in the [installation](/wiki/
 
 ### Chat
 
-The Chat folder only appears if the player has "Automatically log private messages" enabled in Options, or the player runs the "/savelog" command in the [Chat Console](/wiki/Client/Interface/Chat_console).
+The Chat folder stores the logs of ponly appears if the player has "Automatically log private messages" enabled in Options, or the player runs the "/savelog" command in the [Chat Console](/wiki/Client/Interface/Chat_console).
 
 The name structure of the files is `{Tab_name}-{YYYYMMDD}-{HHMMSS}`, and can be opened in any text editor. An example of this is shown below:
 
