@@ -4,14 +4,14 @@ no_native_review: true
 
 # Berkas konfigurasi pengguna
 
-Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<nama akun PC kamu>.cfg`. Sebagian besar dari pengaturan ini bisa diubah dari dalam permainan melalui [menu pengaturan](/wiki/Client/Options), dan kamu disarankan untuk mengubah pengaturan kamu langsung dari permainanmu. Mohon untuk hanya mengubah nilai ini secara manual apabila kamu benar-benar harus.
+Berikut adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<nama akun PC kamu>.cfg`. Sebagian besar dari pengaturan ini bisa diubah dari dalam permainan melalui [menu pengaturan](/wiki/Client/Options), dan kamu disarankan untuk mengubah pengaturan ini langsung dari permainanmu. Mohon untuk hanya mengubah nilai-nilai ini secara manual apabila kamu benar-benar harus.
 
-## Dapat diubah melalui menu pengaturan
+## Bisa diubah melalui menu pengaturan
 
 | Pengaturan | Jenis nilai | Pengaturan di dalam permainan |
 | :-- | :-- | :-- |
 | `Username` | String | Nama pengguna |
-| `Password` | String | Kata sandi (dalam bentuk teks yang di-hash — **jangan bagikan informasi ini kepada siapa pun!**) |
+| `Password` | String | Kata sandi (dalam bentuk teks yang di-hash, **jangan bagikan informasi ini kepada siapa pun!**) |
 | `SaveUsername` | 0 atau 1 | Ingat nama pengguna |
 | `SavePassword` | 0 atau 1 | Ingat kata sandi |
 | `Language` | String | Pilih bahasa |
