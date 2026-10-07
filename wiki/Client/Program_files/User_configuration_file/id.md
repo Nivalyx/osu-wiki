@@ -63,7 +63,7 @@ Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<n
 | `IgnoreBeatmapSamples` | 0 atau 1 | Abaikan hitsound bawaan beatmap |
 | `Offset` | Integer | Offset universal |
 | `Skin` | String | Skin saat ini |
-| `IgnoreBeatmapSkins` | 0 atau 1 | Abaikan skin bawaan beatmap |
+| `IgnoreBeatmapSkins` | 0 atau 1 | Abaikan semua skin beatmap |
 | `SkinSamples` | 0 atau 1 | Gunakan sampel suara bawaan skin |
 | `UseTaikoSkin` | 0 atau 1 | Gunakan skin Taiko untuk mode osu!taiko |
 | `UseSkinCursor` | 0 atau 1 | Selalu gunakan kursor bawaan skin |
