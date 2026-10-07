@@ -108,9 +108,9 @@ Berikut ini adalah daftar berbagai pengaturan yang terdapat pada berkas `osu!.<n
 | `IgnoreList` | Daftar string yang terpisah oleh spasi | Daftar abai chat |
 | `HighlightWords` | Daftar string yang terpisah oleh spasi | Daftar kata yang [disorot](/wiki/Client/Interface/Chat_console/Highlight) pada chat |
 
-### Konfigurasi tombol
+### Kaitan tombol
 
-Pengaturan konfigurasi tombol menggunakan nama tombol sebagai variabel nilai.
+Pengaturan kaitan tombol menggunakan nama masing-masing tombol sebagai variabel nilai.
 
 | Pengaturan | Tindakan |
 | :-- | :-- |
