@@ -60,13 +60,13 @@ Screenshots are named following the `screenshot###` format, where "###" is the s
 **See also:** [Skinning](/wiki/Skinning)
 :::
 
-The Skins folder stores user-created skins, which can be used to customise the in-game interface. Players can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15) and install them by double-clicking on the skin from a file manager application.
+The Skins folder stores user-created skins, which can be used to customise the in-game interface. Players can download skins as `.osk` files from the [Skinning subforum](https://osu.ppy.sh/community/forums/15) and install them by double-clicking on it from a file manager application.
 
-Please note that the default skin that comes with the game, "osu! by peppy", does not have its own dedicated folder and cannot be deleted.
+Please note that the default skin that comes with the game, "osu! by peppy", does not have its own folder and cannot be deleted.
 
 ### Songs
 
-The Songs folder holds the player's osu! beatmaps. Usually contains `.osu` (difficulties), `.mp3`/`.ogg` (music files), `.jpg`/`.png`/`.gif` (background images), `.osb` (storyboard files) and `.mp4`/`.flv` (video files). May also contain `.wav`/`.ogg` (hitsound files) and folders (storyboard sprites and/or skin folders).
+The Songs folder stores the player's osu! beatmaps, which by itself contains `.osu` (difficulties), `.mp3`/`.ogg` (music), and `.jpg`/`.png`/`.gif` (background) files at the very least. Certain beatmaps may also include `.wav`/`.ogg` (additional hitsounds), `.osb` (storyboard assets), and `.mp4`/`.flv` (video) files, as well as some additional sub-folders for storyboard sprites and/or custom beatmap skins.
 
 The file name structure is `{Beatmap number} {Artist} - {Song Title}`.
 **Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
@@ -79,7 +79,7 @@ These folders are hidden because any modifications to them could prevent osu! fr
 
 ### Data
 
-The Data folder stores some of osu!'s most important system files. It also contains some of osu!'s cache, such as the beatmap background cache and the avatar caches. These files should **not** be deleted while osu! is running, as they may be in use by osu! at any point.
+The Data folder stores some of osu!'s most important system files. It also contains some of osu!'s cache files, such as the beatmap background cache and the avatar caches. These files should **not** be deleted while osu! is running, as they may be in use by osu! at any point.
 
 ## Files
 
