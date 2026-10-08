@@ -91,7 +91,7 @@ Database files are databases that osu! requires to function properly. These file
 
 - `collections.db`: Stores the player's beatmap collections in-game.
 - `osu!.db`: Stores osu!'s database of beatmaps.
-- `presence.db`: Stores a cache of players logged into the chat console.
+- `presence.db`: Stores the list of players logged into the chat console in a form of a cache.
 - `scores.db`: Stores the player's local leaderboards.
 
 ### .cfg (Configuration files)
@@ -115,3 +115,5 @@ osu!.exe (Start-up osu!)
 - `avcodec-51.dll`: Allows osu! to encode/decode audio and video files.
 - `avformat-52.dll`: Allows osu! to read different audio and video formats.
 - `avutil-49.dll`: Provides core utilities for osu! to handle the processing of multimedia files.
+- `bass.dll`: Allows osu! to play and record `.mp3` and `.ogg` audio files.
+- `bass_fx.dll`: An add-on for the `bass.dll` that allows for signal processing functions such as determining [tempo](/wiki/Music_theory/Tempo) and reverse playback.
