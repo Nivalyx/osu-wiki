@@ -110,4 +110,4 @@ osu!.exe (Start-up osu!)
 
 ### .dll (Application extension)
 
-.dll files, or [dynamic link-library](https://en.wikipedia.org/wiki/Dynamic-link_library) files, are files that constitute osu!'s components and dependencies.
+.dll files, or [dynamic link-library](https://en.wikipedia.org/wiki/Dynamic-link_library) files, are files that constitute osu!'s components and dependencies. Except for the .dll files that are attributed to osu!, these files all come from a third party source that 
