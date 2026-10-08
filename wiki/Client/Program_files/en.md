@@ -82,7 +82,7 @@ The Data folder stores some of osu!'s most important system files. It also conta
 
 ::: alert-caution
 **Caution**
-Be careful with these files, you might break osu! if you are not careful.
+Be careful when dealing with these files manually, as you might break osu! if you are not careful.
 :::
 
 ### Database files (.db)
