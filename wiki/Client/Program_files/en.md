@@ -68,7 +68,7 @@ Please note that the default skin that comes with the game, "osu! by peppy", doe
 
 The Songs folder stores the player's osu! beatmaps, which by itself contains `.osu` (difficulties), `.mp3`/`.ogg` (audio), and `.jpg`/`.png`/`.gif` (background) files at the very least. Certain beatmaps may also include `.wav`/`.ogg` (hitsound), `.osb` (storyboard), and `.mp4`/`.flv` (video) files as well as some additional sub-folders for storyboard assets and/or custom beatmap skins.
 
-By default, beatmap folders are named following the `{Beatmap number} {Artist} - {Song Title}` format. For example, a beatmap folder with the name `57950 SOUND HOLIC - Drive My Life` indicates that it is belongs to the beatmap "[SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)". Please note that some very old beatmaps (such as "[Kenji Ninuma - DISCO PRINCE](https://osu.ppy.sh/beatmapsets/1)"), as well as unsubmitted beatmaps, do not follow the format.
+By default, beatmap folders are named following the `{Beatmap number} {Artist} - {Song Title}` format. For example, a beatmap folder with the name `57950 SOUND HOLIC - Drive My Life` indicates that it is belongs to the beatmap "[SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)". Please note that certain very old beatmaps as well as unsubmitted beatmaps do not necessarily follow this format.
 
 ## Hidden folders
 
@@ -87,16 +87,16 @@ Be careful when dealing with these files manually, as you might break osu! if yo
 
 ### Database files (.db)
 
-The database files are databases that osu! requires to function properly. The files contain vital information that osu! requires, such as saved scores, and the cached list of beatmaps saved on the player's device.
+Database files are databases that osu! requires to function properly. The files contain vital information that are necessary for the game, such as saved scores and the cached list of beatmaps saved on the player's device.
 
-- `collections.db`: Stores the player's "Collections" in-game.
+- `collections.db`: Stores the player's beatmap collections in-game.
 - `osu!.db`: Stores osu!'s database of beatmaps.
-- `presence.db`: Stores a cache of osu!players logged in the Chat Console.
-- `scores.db`: Stores the local leaderboards.
+- `presence.db`: Stores a cache of players logged into the chat console.
+- `scores.db`: Stores the player's local leaderboards.
 
 ### .cfg (Configuration files)
 
-Configuration files configure the initial settings for osu! to work. The files can be opened with a text editor.
+Configuration files are files that regulate the initial settings for osu! upon launch. The files can be opened with a text editor.
 
 - `osu!.cfg`: Stores security information about the osu! application files and current release stream. This should never be modified manually.
 - `osu!.<operating system username>.cfg`: Stores [Options](/wiki/Client/Options) data and other game settings. See [User Configuration File](/wiki/Client/Program_files/User_configuration_file).
