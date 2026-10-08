@@ -73,11 +73,11 @@ Please note that some very old beatmaps (for example, [Kenji Ninuma - DISCO PRIN
 
 ## Hidden folders
 
-These folders are hidden because any modifications to them could prevent osu! from starting correctly, or at all.
+These folders are hidden because any modifications to them could prevent osu! from starting correctly (or at all).
 
 ### Data
 
-osu! data files. Contains some of osu!'s cache, like beatmap background cache and avatar caches. They should not be deleted, because they may be in use by osu!.
+The Data folder stores some of osu!'s most important system files. It also contains some of osu!'s cache, such as the beatmap background cache and the avatar caches. They should not be deleted, because they may be in use by osu!.
 
 ## Files
 
