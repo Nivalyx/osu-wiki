@@ -117,5 +117,5 @@ osu!.exe (Start-up osu!)
 - `avutil-49.dll`: Provides core utilities for osu! to handle the processing of multimedia files.
 - `bass.dll`: Allows osu! to play and record `.mp3` and `.ogg` audio files.
 - `bass_fx.dll`: An add-on for the `bass.dll` that allows osu! to do signal processing functions, such [tempo](/wiki/Music_theory/Tempo) quantisation and reverse playback.
-- `d3dcompiler_47.dll`: Allows osu!'s shader codes to be processed by GPU/graphics card.
-
+- `d3dcompiler_47.dll`: Allows osu!'s shader codes to be processed by the player's GPU/graphics card.
+- `libEGL.dll`: Connects osu!'s graphics APIs over different operating systems.
