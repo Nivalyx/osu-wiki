@@ -116,4 +116,4 @@ osu!.exe (Start-up osu!)
 - `avformat-52.dll`: Allows osu! to read different audio and video formats.
 - `avutil-49.dll`: Provides core utilities for osu! to handle the processing of multimedia files.
 - `bass.dll`: Allows osu! to play and record `.mp3` and `.ogg` audio files.
-- `bass_fx.dll`: An add-on for the `bass.dll` that allows for signal processing functions such as determining [tempo](/wiki/Music_theory/Tempo) and reverse playback.
+- `bass_fx.dll`: An add-on for the `bass.dll` that allows osu! to do signal processing functions, such [tempo](/wiki/Music_theory/Tempo) quantisation and reverse playback.
