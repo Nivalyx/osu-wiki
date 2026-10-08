@@ -52,7 +52,7 @@ Replays are named following the `{Local player name} - {Artist} - {Title} {[Diff
 
 The Screenshots folder stores the screenshots the player has created in osu!. These screenshots can be taken in-game at any window by pressing the screenshot key (F12 by default).
 
-Screenshots are named following the `screenshot###`, where "###" is the screenshot number count. By default, the saved screenshot's file extension is `.jpg`, however this can be changed to `.png` in the Options menu.
+Screenshots are named following the `screenshot###` format, where "###" is the screenshot number count. By default, the saved screenshot's file extension is `.jpg`, however this can be changed to `.png` in the Options menu.
 
 ### Skins
 
