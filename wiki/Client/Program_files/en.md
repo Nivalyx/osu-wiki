@@ -77,7 +77,7 @@ These folders are hidden because any modifications to them could prevent osu! fr
 
 ### Data
 
-The Data folder stores some of osu!'s most important system files. It also contains some of osu!'s cache, such as the beatmap background cache and the avatar caches. They should not be deleted, because they may be in use by osu!.
+The Data folder stores some of osu!'s most important system files. It also contains some of osu!'s cache, such as the beatmap background cache and the avatar caches. These files should **not** be deleted while osu! is running, as they may be in use by osu! at any point.
 
 ## Files
 
