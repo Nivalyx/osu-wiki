@@ -60,7 +60,7 @@ Screenshots are named following the `screenshot###` format, where "###" is the s
 **See also:** [Skinning](/wiki/Skinning)
 :::
 
-The Skins folder stores user-created skins, which can be used to customise the in-game interface. Players can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15) and install them to the game by double-clicking on the skin from a file manager application.
+The Skins folder stores user-created skins, which can be used to customise the in-game interface. Players can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15) and install them by double-clicking on the skin from a file manager application.
 
 Please note that the default skin that comes with the game, "osu! by peppy", does not have its own dedicated folder and cannot be deleted.
 
