@@ -110,7 +110,7 @@ osu!.exe (Start-up osu!)
 
 ### .dll (Application extension)
 
-.dll files, or [dynamic link-library](https://en.wikipedia.org/wiki/Dynamic-link_library) files, are files that constitute osu!'s components and dependencies. Except for the .dll files that are attributed to osu!, these files all originated from a third-party source and were subsequently integrated into the game.
+.dll files, or [dynamic link-library](https://en.wikipedia.org/wiki/Dynamic-link_library) files, are files that constitute osu!'s components and dependencies. Except for the .dll files that are attributed to osu!, these files all originated from a third-party source and were subsequently integrated into the game's framework.
 
 - `avcodec-51.dll`: Allows osu! to encode/decode audio and video files.
 - `avformat-52.dll`: Allows osu! to read different audio and video formats.
