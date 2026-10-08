@@ -118,4 +118,4 @@ osu!.exe (Start-up osu!)
 - `bass.dll`: Allows osu! to play and record `.mp3` and `.ogg` audio files.
 - `bass_fx.dll`: An add-on for the `bass.dll` that allows osu! to do signal processing functions, such [tempo](/wiki/Music_theory/Tempo) quantisation and reverse playback.
 - `d3dcompiler_47.dll`: Allows osu!'s shader codes to be processed by the player's GPU/graphics card.
-- `libEGL.dll`: Connects osu!'s graphics APIs over different operating systems.
+- `libEGL.dll`: Allows osu! to be natively rendered over different operating systems.
