@@ -108,6 +108,6 @@ The main component. Click on it to start-up (only applies to Windows). The .exe 
 
 osu!.exe (Start-up osu!)
 
-### .dll (application extension)
+### .dll (Application extension)
 
-These .dll files are osu!'s components and dependencies.
+.dll files, or [dynamic link-library](https://en.wikipedia.org/wiki/Dynamic-link_library) files, are files that constitute osu!'s components and dependencies.
