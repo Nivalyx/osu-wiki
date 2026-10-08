@@ -96,7 +96,7 @@ Database files are databases that osu! requires to function properly. The files 
 
 ### .cfg (Configuration files)
 
-Configuration files are files that regulate the initial settings for osu! upon launch. The files can be opened with a text editor.
+Configuration files are files that regulate the initial settings for osu! upon launch. Unlike other program files, the files are human-readable and can be opened (and modified) with a text editor.
 
 - `osu!.cfg`: Stores security information about the osu! application files and current release stream. This should never be modified manually.
 - `osu!.<operating system username>.cfg`: Stores [Options](/wiki/Client/Options) data and other game settings. See [User Configuration File](/wiki/Client/Program_files/User_configuration_file).
