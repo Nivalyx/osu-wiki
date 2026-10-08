@@ -68,10 +68,7 @@ Please note that the default skin that comes with the game, "osu! by peppy", doe
 
 The Songs folder stores the player's osu! beatmaps, which by itself contains `.osu` (difficulties), `.mp3`/`.ogg` (audio), and `.jpg`/`.png`/`.gif` (background) files at the very least. Certain beatmaps may also include `.wav`/`.ogg` (hitsound), `.osb` (storyboard asset), and `.mp4`/`.flv` (video) files as well as some additional sub-folders for storyboard sprites and/or custom beatmap skins.
 
-Beatmap folders are named following the `{Beatmap number} {Artist} - {Song Title}` format.
-**Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
-
-Please note that some very old beatmaps (for example, [Kenji Ninuma - DISCO PRINCE](https://osu.ppy.sh/beatmapsets/1) or [Dudelstudios - Angry Video Game Nerd Theme [MATURE CONTENT]](https://osu.ppy.sh/beatmapsets/66)), as well as unsubmitted beatmaps, do not follow the format.
+By default, beatmap folders are named following the `{Beatmap number} {Artist} - {Song Title}` format. For example, a beatmap folder with the name `57950 SOUND HOLIC - Drive My Life` indicates that it is belongs to the beatmap "[SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)". Please note that some very old beatmaps, such as "[Kenji Ninuma - DISCO PRINCE](https://osu.ppy.sh/beatmapsets/1)" as well as unsubmitted beatmaps, do not follow the format.
 
 ## Hidden folders
 
