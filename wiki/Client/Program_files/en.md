@@ -96,7 +96,7 @@ Database files are databases that osu! requires to function properly. These file
 
 ### .cfg (Configuration files)
 
-Configuration files are files that regulate the initial settings for osu! upon launch. Unlike other program files, these files are human-readable and can be opened (and modified) by using a text editor.
+Configuration files are files that regulate the initial settings for osu! upon launch. Unlike the other program files, these files are human-readable and can be opened (and modified) by using a text editor.
 
 - `osu!.cfg`: Stores security information about the osu! application files and the current release stream. The contents of this file should never be modified manually unless absolutely necessary.
 - `osu!.<operating system username>.cfg`: Stores [Options](/wiki/Client/Options) data and other game settings. See also [User configuration file](/wiki/Client/Program_files/User_configuration_file).
@@ -110,4 +110,6 @@ osu!.exe (Start-up osu!)
 
 ### .dll (Application extension)
 
-.dll files, or [dynamic link-library](https://en.wikipedia.org/wiki/Dynamic-link_library) files, are files that constitute osu!'s components and dependencies. Except for the .dll files that are attributed to osu!, these files all come from a third party source that 
+.dll files, or [dynamic link-library](https://en.wikipedia.org/wiki/Dynamic-link_library) files, are files that constitute osu!'s components and dependencies. Except for the .dll files that are attributed to osu!, these files all came from a third party source which were later integrated into the game.
+
+- `avcodec-51.dll`: Stores security information about the osu! application files and the current release stream. The contents of this file should never be modified manually unless absolutely necessary.
