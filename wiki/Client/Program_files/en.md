@@ -100,6 +100,7 @@ Configuration files are files that regulate the initial settings for osu! upon l
 
 - `osu!.cfg`: Stores security information about the osu! application files and the current release stream. The contents of this file should never be modified manually unless absolutely necessary.
 - `osu!.<operating system username>.cfg`: Stores [Options](/wiki/Client/Options) data and other game settings. See also [User configuration file](/wiki/Client/Program_files/User_configuration_file).
+- `tournament.cfg`: Stores data related to [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) and the [osu! tournament client](/wiki/osu!_tournament_client).
 
 ### .exe (Application)
 
