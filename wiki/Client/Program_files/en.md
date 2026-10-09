@@ -135,4 +135,4 @@ Application files are osu!'s main user-facing components. These files are safe t
 | `osu!gameplay.dll` | Various modules related to osu!'s gameplay features |
 | `osu!seasonal.dll` | Stores information related to osu!'s seasonal backgrounds |
 | `osu!ui.dll` | Various modules related to osu!'s user interface display |
-| `pthreadgc2.dll`: Allows osu! to use [multi-threading support](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)) |
+| `pthreadgc2.dll`: Allows osu! to use [multithreading support](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)) |
