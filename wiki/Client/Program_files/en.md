@@ -108,7 +108,7 @@ Configuration files are files that regulate the initial settings for osu! upon l
 
 ### .exe (Application)
 
-The main component. Click on it to start-up (only applies to Windows). The .exe files are safe to open assuming the player used the osu!installer downloaded from the official website to install osu!.
+Application files are osu!'s main user-facing component. These files are executables meant to be run by the user and are safe to open assuming the player used the osu!installer downloaded from the official website to install osu!.
 
 osu!.exe (Start-up osu!)
 
