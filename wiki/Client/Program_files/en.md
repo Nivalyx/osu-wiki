@@ -89,10 +89,12 @@ Be careful when dealing with these files manually, as you might break osu! if yo
 
 Database files are databases that osu! requires to function properly. These files contain vital information that are necessary for the game, such as saved scores and the cached list of beatmaps saved on the player's device.
 
-- `collections.db`: Stores the player's beatmap collections in-game.
-- `osu!.db`: Stores osu!'s database of beatmaps.
-- `presence.db`: Stores the list of players logged into the chat console in a form of a cache.
-- `scores.db`: Stores the player's local leaderboards.
+| Name | Function |
+| --: | :-- |
+| `collections.db` | Stores the player's beatmap collections in-game |
+| `osu!.db` | Stores osu!'s database of beatmaps |
+| `presence.db` | Stores the list of players logged into the chat console in a form of a cache |
+| `scores.db` | Stores the player's local leaderboards |
 
 ### .cfg (Configuration files)
 
