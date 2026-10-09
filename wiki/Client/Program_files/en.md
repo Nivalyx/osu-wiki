@@ -89,7 +89,7 @@ Be careful when dealing with these files manually, as you might break osu! if yo
 
 Database files are databases that osu! requires to function properly. These files contain vital information that are necessary for the game, such as saved scores and the cached list of beatmaps saved on the player's device.
 
-| Name | Function |
+| File name | Function |
 | --: | :-- |
 | `collections.db` | Stores the player's beatmap collections in-game |
 | `osu!.db` | Stores osu!'s database of beatmaps |
@@ -99,6 +99,9 @@ Database files are databases that osu! requires to function properly. These file
 ### .cfg (Configuration files)
 
 Configuration files are files that regulate the initial settings for osu! upon launch. Unlike the other program files, these files are human-readable and can be opened (and modified) by using a text editor.
+
+| File name | Function |
+| --: | :-- |
 
 - `osu!.cfg`: Stores security information about the osu! application files and the current release stream. The contents of this file should never be modified manually unless absolutely necessary.
 - `osu!.<operating system username>.cfg`: Stores [Options](/wiki/Client/Options) data and other game settings. See also [User configuration file](/wiki/Client/Program_files/User_configuration_file).
