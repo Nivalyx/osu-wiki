@@ -108,7 +108,7 @@ Configuration files are files that regulate the initial settings for osu! upon l
 
 ### .exe (Application)
 
-Application files are osu!'s main user-facing components. These files are safe to run assuming the player downloaded the game from the official [download page](https://osu.ppy.sh/home/download).
+Application files are osu!'s main user-facing components. These files are safe to run assuming the player obtained the game from the official [download page](https://osu.ppy.sh/home/download).
 
 | File name | Function |
 | --: | :-- |
@@ -119,8 +119,10 @@ Application files are osu!'s main user-facing components. These files are safe t
 
 .dll files, or [dynamic link-library](https://en.wikipedia.org/wiki/Dynamic-link_library) files, are files that constitute osu!'s components and dependencies. Except for the .dll files that are attributed to osu!, these files all originated from a third-party source and were subsequently integrated into the game's framework.
 
-- `avcodec-51.dll`: Allows osu! to encode/decode audio and video files.
-- `avformat-52.dll`: Allows osu! to read different audio and video formats.
+| File name | Function |
+| --: | :-- |
+| `avcodec-51.dll` | Allows osu! to encode/decode audio and video files |
+| `avformat-52.dll` | Allows osu! to read different audio and video formats |
 - `avutil-49.dll`: Provides core utilities for osu! to handle the processing of multimedia files.
 - `bass.dll`: Allows osu! to play and record `.mp3` and `.ogg` audio files.
 - `bass_fx.dll`: An add-on for the `bass.dll` that allows osu! to do signal processing functions, such [tempo](/wiki/Music_theory/Tempo) quantisation and reverse playback.
