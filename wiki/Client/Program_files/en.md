@@ -132,5 +132,7 @@ Application files are osu!'s main user-facing components. These files are safe t
 | `Microsoft.lnk.dll` | Shared code module that osu! uses to perform certain system tasks parallel with other applications |
 | `OpenTK.dll` | Allows osu! to utilize various [OpenGL](https://en.wikipedia.org/wiki/OpenGL) functions such as keyboard and mouse tracking |
 | `osu!auth.dll` | Handles osu!'s client-side player authorisation |
-| `osu!gameplay.dll` | |
+| `osu!gameplay.dll` | Various modules related to osu!'s gameplay features |
+| `osu!seasonal.dll` | Stores information related to osu!'s seasonal backgrounds |
+| `osu!ui.dll` | Various modules related to osu!'s user interface display |
 | `pthreadgc2.dll`: Allows osu! to use [multi-threading support](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)) |
