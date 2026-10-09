@@ -119,5 +119,7 @@ osu!.exe (Start-up osu!)
 - `bass_fx.dll`: An add-on for the `bass.dll` that allows osu! to do signal processing functions, such [tempo](/wiki/Music_theory/Tempo) quantisation and reverse playback.
 - `d3dcompiler_47.dll`: Allows osu!'s shader codes to be processed by the player's GPU/graphics card.
 - `libEGL.dll`: Allows osu!'s display to be natively rendered over different operating systems.
-- `libEGLESv2.dll`: Helps osu! in hardware-accelerated 3D graphics rendering.
-- `Microsoft.lnk.dll`: Helps osu! in hardware-accelerated 3D graphics rendering.
+- `libEGLESv2.dll`: Helps osu! in processing hardware-accelerated 3D graphics rendering.
+- `Microsoft.lnk.dll`: Shared code module that osu! uses to perform certain system tasks parallel with other applications.
+- `OpenTK.dll`: Allows osu! to utilize various [OpenGL](https://en.wikipedia.org/wiki/OpenGL) functions such as keyboard and mouse tracking.
+- `pthreadgc2.dll`: Allows osu! to use [multi-threading support](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
