@@ -102,7 +102,7 @@ Configuration files are files that regulate the initial settings for osu! upon l
 
 | File name | Function |
 | --: | :-- |
-| `osu!.cfg`| Stores security information about the osu! application files and the current release stream (*Note : the contents of this file should never be modified manually unless absolutely necessary*) |
+| `osu!.cfg`| Stores security information about the osu! application files and the current release stream (*Note: The contents of this file should never be modified manually unless absolutely necessary*) |
 | `osu!.<operating system username>.cfg` | Stores [Options](/wiki/Client/Options) data and other game settings (*See also: [User configuration file](/wiki/Client/Program_files/User_configuration_file)*) |
 | `tournament.cfg` | Stores data related to [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) and the [osu! tournament client](/wiki/osu!_tournament_client) |
 
@@ -123,12 +123,12 @@ Application files are osu!'s main user-facing components. These files are safe t
 | --: | :-- |
 | `avcodec-51.dll` | Allows osu! to encode/decode audio and video files |
 | `avformat-52.dll` | Allows osu! to read different audio and video formats |
-- `avutil-49.dll`: Provides core utilities for osu! to handle the processing of multimedia files.
-- `bass.dll`: Allows osu! to play and record `.mp3` and `.ogg` audio files.
-- `bass_fx.dll`: An add-on for the `bass.dll` that allows osu! to do signal processing functions, such [tempo](/wiki/Music_theory/Tempo) quantisation and reverse playback.
-- `d3dcompiler_47.dll`: Allows osu!'s shader codes to be processed by the player's GPU/graphics card.
-- `libEGL.dll`: Allows osu!'s display to be natively rendered over different operating systems.
-- `libEGLESv2.dll`: Helps osu! in processing hardware-accelerated 3D graphics rendering.
-- `Microsoft.lnk.dll`: Shared code module that osu! uses to perform certain system tasks parallel with other applications.
-- `OpenTK.dll`: Allows osu! to utilize various [OpenGL](https://en.wikipedia.org/wiki/OpenGL) functions such as keyboard and mouse tracking.
-- `pthreadgc2.dll`: Allows osu! to use [multi-threading support](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture))
+| `avutil-49.dll` | Provides core utilities for osu! to handle the processing of multimedia files |
+| `bass.dll` | Allows osu! to play and record `.mp3` and `.ogg` audio files |
+| `bass_fx.dll` | An add-on for the `bass.dll` that allows osu! to do signal processing functions, such [tempo](/wiki/Music_theory/Tempo) quantisation and reverse playback |
+| `d3dcompiler_47.dll` | Allows osu!'s shader codes to be processed by the player's GPU/graphics card |
+| `libEGL.dll` | Allows osu!'s display to be natively rendered over different operating systems |
+| `libEGLESv2.dll` | Helps osu! in processing hardware-accelerated 3D graphics rendering |
+| `Microsoft.lnk.dll` | Shared code module that osu! uses to perform certain system tasks parallel with other applications |
+| `OpenTK.dll` | Allows osu! to utilize various [OpenGL](https://en.wikipedia.org/wiki/OpenGL) functions such as keyboard and mouse tracking |
+| `pthreadgc2.dll`: Allows osu! to use [multi-threading support](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)) |
