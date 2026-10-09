@@ -131,7 +131,7 @@ By default, beatmap folders are named following the `{Beatmap number} {Artist} -
 
 ## Hidden folders
 
-These folders are hidden because any modifications to them could prevent osu! from starting correctly (or at all).
+The following folder is hidden because any modifications made to it could prevent osu! from starting correctly (or at all).
 
 ### Data
 
