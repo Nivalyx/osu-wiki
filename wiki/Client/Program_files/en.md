@@ -108,9 +108,12 @@ Configuration files are files that regulate the initial settings for osu! upon l
 
 ### .exe (Application)
 
-Application files are osu!'s main user-facing component. These files are executables meant to be run by the user and are safe to open assuming the player used the osu!installer downloaded from the official website to install osu!.
+Application files are osu!'s main user-facing components. These files are safe to run assuming the player downloaded the game from the official [download page](https://osu.ppy.sh/home/download).
 
-osu!.exe (Start-up osu!)
+| File name | Function |
+| --: | :-- |
+| `osu!.exe` | Boots up osu! |
+| `osume.exe` | Allows players to update and repair osu! installations manually (*Note: Has been deprecated in favor of the automatic updater that are embedded into the game*) |
 
 ### .dll (Application extension)
 
