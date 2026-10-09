@@ -23,17 +23,6 @@ All of osu!'s program files are present in the game's [installation folder](/wik
 Be careful when dealing with these files manually, as you might break osu! if you are not careful.
 :::
 
-### Database files (.db)
-
-Database files are databases that osu! requires to function properly. These files contain vital information that are necessary for the game, such as saved scores and the cached list of beatmaps saved on the player's device.
-
-| File name | Function |
-| --: | :-- |
-| `collections.db` | Stores the player's beatmap collections in-game |
-| `osu!.db` | Stores osu!'s database of beatmaps |
-| `presence.db` | Stores the list of players logged into the chat console in a form of a cache |
-| `scores.db` | Stores the player's local leaderboards |
-
 ### .cfg (Configuration files)
 
 Configuration files are files that regulate the initial settings for osu! upon launch. Unlike the other program files, these files are human-readable and can be opened (and modified) by using a text editor.
@@ -44,14 +33,16 @@ Configuration files are files that regulate the initial settings for osu! upon l
 | `osu!.<operating system username>.cfg` | Stores [Options](/wiki/Client/Options) data and other game settings (*See also: [User configuration file](/wiki/Client/Program_files/User_configuration_file)*) |
 | `tournament.cfg` | Stores data related to [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) and the [osu! tournament client](/wiki/osu!_tournament_client) |
 
-### .exe (Application)
+### .db (Database files)
 
-Application files are osu!'s main user-facing components. These files are safe to run assuming the player obtained the game from the official [download page](https://osu.ppy.sh/home/download).
+Database files are databases that osu! requires to function properly. These files contain vital information that are necessary for the game, such as saved scores and the cached list of beatmaps saved on the player's device.
 
 | File name | Function |
 | --: | :-- |
-| `osu!.exe` | Boots up osu! |
-| `osume.exe` | Allows players to update and repair osu! installations manually (*Note: Has been deprecated in favor of the automatic updater that are embedded into the game*) |
+| `collections.db` | Stores the player's beatmap collections in-game |
+| `osu!.db` | Stores osu!'s database of beatmaps |
+| `presence.db` | Stores the list of players logged into the chat console in a form of a cache |
+| `scores.db` | Stores the player's local leaderboards |
 
 ### .dll (Application extension)
 
@@ -74,6 +65,15 @@ Application files are osu!'s main user-facing components. These files are safe t
 | `osu!seasonal.dll` | Stores information related to osu!'s seasonal backgrounds |
 | `osu!ui.dll` | Various modules related to osu!'s user interface display |
 | `pthreadgc2.dll`: Allows osu! to use [multithreading support](https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)) |
+
+### .exe (Application files)
+
+Application files are osu!'s main user-facing components. These files are safe to run assuming the player obtained the game from the official [download page](https://osu.ppy.sh/home/download).
+
+| File name | Function |
+| --: | :-- |
+| `osu!.exe` | Boots up osu! |
+| `osume.exe` | Allows players to update and repair osu! installations manually (*Note: Has been deprecated in favor of the automatic updater that are embedded into the game*) |
 
 ## Folders
 
