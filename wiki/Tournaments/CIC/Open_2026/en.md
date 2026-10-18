@@ -44,8 +44,8 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 | Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
 | Custom mapper | *TBA* |
 | Playtester | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
-| Streamer | *TBA* |
-| Commentator | *TBA* |
+| Streamer | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), *more TBA* |
+| Commentator | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), *TBA* |
 | Referee | *TBA* |
 | Design coordinator | ::{ flag=MY }:: [mochasan\_](https://osu.ppy.sh/users/23804364) |
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [smsrdzc](https://osu.ppy.sh/users/38505034), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=CA }:: [Aquatic\_3](https://osu.ppy.sh/users/22711091) |
