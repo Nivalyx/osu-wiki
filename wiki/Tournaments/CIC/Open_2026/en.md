@@ -69,21 +69,19 @@ To be announced.
 
 ### Qualifiers
 
-**[Download the mappack here! (75 MB)](https://www.mediafire.com/file/973f5s0jj2jcjt0/CICO2025_-_Qualifier.rar/file)**
-
 - No Mod
-  1. [TOGENASHI TOGEARI - Bleeding Hearts (Fisicia) \[It's so obvious, it's painful.\]](https://osu.ppy.sh/beatmapsets/2410057#fruits/5232748)
-  2. [Jakarta Funk Brothers - INSOMNIA (Yoshi\_green) \[INDOMIE AT 3 A.M.\]](https://osu.ppy.sh/beatmapsets/2410100#fruits/5232868)
-  3. [ASA - Assault TAXI (-kevincela-) \[Xtra\]](https://osu.ppy.sh/beatmapsets/2269846#fruits/4834496)
+  1. [LV.4 feat. Yuu Ikeba - Sentimental Surge (Mojotax) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2599185#osu/5809669)
+  2. [ARForest - Final Resonance (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2639271#osu/5948755)
+  3. [Shounen Radio - neu (AnApple7) \[smile and cry; you and me!\]](https://osu.ppy.sh/beatmapsets/2337190#osu/5018067)
 - Hidden
-  1. [Vickeblanka - Black Catcher (Mochi -) \[We can catch the game!\]](https://osu.ppy.sh/beatmapsets/2410047#fruits/5232715)
-  2. [muship - Teddy THE Teddy (Herazu) \[Hidden Extra\]](https://osu.ppy.sh/beatmapsets/2251125#fruits/4788639)
+  1. [Mitsukiyo - Mikansei Romantic (feat. kotono) (sawarabi) \[Dramatic Love\]](https://osu.ppy.sh/beatmapsets/2464646#osu/5394778)
+  2. [Tanchiky - TouchDown (autofanboy) \[KickOff (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2639255#osu/5948698)
 - Hard Rock
-  1. [Yousei Teikoku - Paradiso=Inferno (EpanPan) \[HR 1 Qual\]](https://osu.ppy.sh/beatmapsets/2410059#fruits/5232750)
-  2. [Aoi a.k.a. ALFOU - Fluctuate (2020 Remaster) (Realazy) \[Oscillation\]](https://osu.ppy.sh/beatmapsets/1248102#fruits/2594030)
+  1. [Imy - Countdown (EpanPan) \[Eternal Time\]](https://osu.ppy.sh/beatmapsets/2639244#osu/5948656)
+  2. [NewJeans - Right Now (Spectator) \[Overdose (CICO Ver.)\]](https://osu.ppy.sh/beatmapsets/1248102#fruits/2594030)
 - Double Time
-  1. [CLIFF EDGE - Sayonara I Love You feat. jyA-Me (Madoka Ayukawa) \[Memories\]](https://osu.ppy.sh/beatmapsets/2410058#fruits/5232749)
-  2. [ShinRa-Bansho - Administrator's Logic (Kurashina Asuka) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/2380793#fruits/5146555)
+  1. [yanaginagi - Outsider (Spectator) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/2271671#osu/4882744)
+  2. [YUC'e - Cappuchino (Dika312) \[Cozy Rain\]](https://osu.ppy.sh/beatmapsets/2639250#osu/5948691)
 
 ## Ruleset
 
