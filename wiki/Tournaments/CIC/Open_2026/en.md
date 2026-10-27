@@ -90,7 +90,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 17 | ::{ flag=ES }:: [Sprint](https://osu.ppy.sh/users/13845399) | 8.224 |
 | 18 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | 8.214 |
 | 19 | ::{ flag=HR }:: [doddo](https://osu.ppy.sh/users/5166056) | 8.182 |
-| 20 | ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270) | 7.833 |
+| 20 | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) | 8.181 |
 | 21 | ::{ flag=TH }:: [G1ilbert](https://osu.ppy.sh/users/7408055) | 7.829 |
 | 22 | ::{ flag=SG }:: [McButt](https://osu.ppy.sh/users/18018708) | 7.774 |
 | 23 | ::{ flag=ID }:: [Nomiru](https://osu.ppy.sh/users/17514687) | 7.668 |
