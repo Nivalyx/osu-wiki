@@ -65,7 +65,44 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 
 ## Participants
 
-To be announced.
+Listed below are the players who managed to qualify into the Round of 32 (along with their respective seed number and `%MAX` sum across all nine Qualifier beatmaps) out of 96 participating players in total.
+
+The complete list of player registrations can be found [here](https://wybin.xyz/cico2026/players).
+
+| Seed no. | Player | `%MAX` sum |
+| :-- | :-- | :-- |
+| 1 | ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439) | 8.887 |
+| 2 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 8.807 |
+| 3 | ::{ flag=TW }:: [eauikk](https://osu.ppy.sh/users/1177233) | 8.632 |
+| 4 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | 8.546 |
+| 5 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | 8.541 |
+| 6 | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | 8.495 |
+| 7 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | 8.389 |
+| 8 | ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519) | 8.337 |
+| 9 | ::{ flag=CN }:: [dazzulay](https://osu.ppy.sh/users/1948043) | 8.275 |
+| 10 | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | 8.250 |
+| 11 | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) | 8.123 |
+| 12 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | 8.098 |
+| 13 | ::{ flag=TW }:: [Sanami](https://osu.ppy.sh/users/1629471) | 8.092 |
+| 14 | ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | 8.065 |
+| 15 | ::{ flag=VN }:: [Stardust Prism](https://osu.ppy.sh/users/8525921) | 8.021 |
+| 16 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | 8.006 |
+| 17 | ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880) | 7.966 |
+| 18 | ::{ flag=CN }:: [-Yui](https://osu.ppy.sh/users/6649605) | 7.942 |
+| 19 | ::{ flag=CN }:: [Shiina Minatsu](https://osu.ppy.sh/users/3515458) | 7.930 |
+| 20 | ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270) | 7.833 |
+| 21 | ::{ flag=TH }:: [G1ilbert](https://osu.ppy.sh/users/7408055) | 7.829 |
+| 22 | ::{ flag=SG }:: [McButt](https://osu.ppy.sh/users/18018708) | 7.774 |
+| 23 | ::{ flag=ID }:: [Nomiru](https://osu.ppy.sh/users/17514687) | 7.668 |
+| 24 | ::{ flag=TR }:: [shimu](https://osu.ppy.sh/users/14318796) | 7.661 |
+| 25 | ::{ flag=KR }:: [log out side](https://osu.ppy.sh/users/11535744) | 7.598 |
+| 26 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | 7.402 |
+| 27 | ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552) | 7.242 |
+| 28 | ::{ flag=MY }:: [Yeury](https://osu.ppy.sh/users/9434933) | 7.067 |
+| 29 | ::{ flag=JP }:: [giru HD](https://osu.ppy.sh/users/707456) | 7.005 |
+| 30 | ::{ flag=ID }:: [Barry Chopstick](https://osu.ppy.sh/users/9573836) | 6.978 |
+| 31 | ::{ flag=MY }:: [HyPerNekoChan](https://osu.ppy.sh/users/9626549) | 6.941 |
+| 32 | ::{ flag=NZ }:: [Kasumizawa-Miyu](https://osu.ppy.sh/users/24345309) | 6.731 |
 
 ## Mappools
 
