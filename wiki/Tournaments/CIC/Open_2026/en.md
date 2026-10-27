@@ -100,9 +100,9 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 27 | ::{ flag=CN }:: [Cornet](https://osu.ppy.sh/users/18468376) | 7.958[^qualifiers-tie-note] |
 | 28 | ::{ flag=TR }:: [shimu](https://osu.ppy.sh/users/14318796) | 7.958[^qualifiers-tie-note] |
 | 29 | ::{ flag=ES }:: [MusicDropZ](https://osu.ppy.sh/users/12759554) | 7.944 |
-| 30 | ::{ flag=ID }:: [Barry Chopstick](https://osu.ppy.sh/users/9573836) | 6.978 |
-| 31 | ::{ flag=MY }:: [HyPerNekoChan](https://osu.ppy.sh/users/9626549) | 6.941 |
-| 32 | ::{ flag=NZ }:: [Kasumizawa-Miyu](https://osu.ppy.sh/users/24345309) | 6.731 |
+| 30 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | 7.881 |
+| 31 | ::{ flag=FI }:: [ES Jonne](https://osu.ppy.sh/users/7024526) | 7.839 |
+| 32 | ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880) | 7.811 |
 
 ## Mappools
 
