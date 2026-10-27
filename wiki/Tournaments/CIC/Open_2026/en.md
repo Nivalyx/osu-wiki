@@ -88,8 +88,8 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 15 | ::{ flag=PE }:: [Lunati1kid](https://osu.ppy.sh/users/25723773) | 8.268 |
 | 16 | ::{ flag=MX }:: [Firu](https://osu.ppy.sh/users/10516547) | 8.243 |
 | 17 | ::{ flag=ES }:: [Sprint](https://osu.ppy.sh/users/13845399) | 8.224 |
-| 18 | ::{ flag=CN }:: [-Yui](https://osu.ppy.sh/users/6649605) | 7.942 |
-| 19 | ::{ flag=CN }:: [Shiina Minatsu](https://osu.ppy.sh/users/3515458) | 7.930 |
+| 18 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | 8.214 |
+| 19 | ::{ flag=HR }:: [doddo](https://osu.ppy.sh/users/5166056) | 8.182 |
 | 20 | ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270) | 7.833 |
 | 21 | ::{ flag=TH }:: [G1ilbert](https://osu.ppy.sh/users/7408055) | 7.829 |
 | 22 | ::{ flag=SG }:: [McButt](https://osu.ppy.sh/users/18018708) | 7.774 |
