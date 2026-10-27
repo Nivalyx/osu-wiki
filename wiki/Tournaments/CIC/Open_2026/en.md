@@ -97,9 +97,9 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 24 | ::{ flag=BG }:: [Azakriel](https://osu.ppy.sh/users/30653081) | 8.038 |
 | 25 | ::{ flag=RU }:: [smelly DVD box](https://osu.ppy.sh/users/6647589) | 8.001 |
 | 26 | ::{ flag=MX }:: [Niisan](https://osu.ppy.sh/users/19515018) | 7.965 |
-| 27 | ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552) | 7.242 |
-| 28 | ::{ flag=MY }:: [Yeury](https://osu.ppy.sh/users/9434933) | 7.067 |
-| 29 | ::{ flag=JP }:: [giru HD](https://osu.ppy.sh/users/707456) | 7.005 |
+| 27 | ::{ flag=CN }:: [Cornet](https://osu.ppy.sh/users/18468376) | 7.958[^qualifiers-tie-note] |
+| 28 | ::{ flag=TR }:: [shimu](https://osu.ppy.sh/users/14318796) | 7.958[^qualifiers-tie-note] |
+| 29 | ::{ flag=ES }:: [MusicDropZ](https://osu.ppy.sh/users/12759554) | 7.944 |
 | 30 | ::{ flag=ID }:: [Barry Chopstick](https://osu.ppy.sh/users/9573836) | 6.978 |
 | 31 | ::{ flag=MY }:: [HyPerNekoChan](https://osu.ppy.sh/users/9626549) | 6.941 |
 | 32 | ::{ flag=NZ }:: [Kasumizawa-Miyu](https://osu.ppy.sh/users/24345309) | 6.731 |
@@ -212,3 +212,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 8. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to. 
    - Playing the tiebreaker map with a mod is *not* mandatory.
 9. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+
+## Notes
+
+[^qualifiers-tie-note]: Average score: ::{ flag=CN }:: [Cornet](https://osu.ppy.sh/users/18468376) 892,098, ::{ flag=TR }:: [shimu](https://osu.ppy.sh/users/14318796) 891,703.
