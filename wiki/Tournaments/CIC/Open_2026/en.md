@@ -84,9 +84,9 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 11 | ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136) | 8.362 |
 | 12 | ::{ flag=GR }:: [\[Romanos\]](https://osu.ppy.sh/users/4682813) | 8.360 |
 | 13 | ::{ flag=PL }:: [madcin](https://osu.ppy.sh/users/2957534) | 8.349 |
-| 14 | ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | 8.065 |
-| 15 | ::{ flag=VN }:: [Stardust Prism](https://osu.ppy.sh/users/8525921) | 8.021 |
-| 16 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | 8.006 |
+| 14 | ::{ flag=CN }:: [dazzulay](https://osu.ppy.sh/users/1948043) | 8.277 |
+| 15 | ::{ flag=PE }:: [Lunati1kid](https://osu.ppy.sh/users/25723773) | 8.268 |
+| 16 | ::{ flag=MX }:: [Firu](https://osu.ppy.sh/users/10516547) | 8.243 |
 | 17 | ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880) | 7.966 |
 | 18 | ::{ flag=CN }:: [-Yui](https://osu.ppy.sh/users/6649605) | 7.942 |
 | 19 | ::{ flag=CN }:: [Shiina Minatsu](https://osu.ppy.sh/users/3515458) | 7.930 |
