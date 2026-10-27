@@ -106,6 +106,28 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (113 MB)](https://drive.google.com/file/d/1CYfPV4hVFKiQUiZf6EXFYkx2f8CT2fXX/view)**
+
+- No Mod
+  1. [LV.4 feat. Yuu Ikeba - Sentimental Surge (Mojotax) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2599185#osu/5809669)
+  2. [ARForest - Final Resonance (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2639271#osu/5948755)
+  3. [Shounen Radio - neu (AnApple7) \[smile and cry; you and me!\]](https://osu.ppy.sh/beatmapsets/2337190#osu/5018067)
+- Hidden
+  1. [Mitsukiyo - Mikansei Romantic (feat. kotono) (sawarabi) \[Dramatic Love\]](https://osu.ppy.sh/beatmapsets/2464646#osu/5394778)
+  2. [Tanchiky - TouchDown (autofanboy) \[KickOff (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2639255#osu/5948698)
+- Hard Rock
+  1. [Imy - Countdown (EpanPan) \[Eternal Time\]](https://osu.ppy.sh/beatmapsets/2639244#osu/5948656)
+  2. [NewJeans - Right Now (Spectator) \[Overdose (CICO Ver.)\]](https://osu.ppy.sh/beatmapsets/2639588#fruits/5951344)
+- Double Time
+  1. [yanaginagi - Outsider (Spectator) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/2271671#osu/4882744)
+  2. [YUC'e - Cappuchino (Dika312) \[Cozy Rain\]](https://osu.ppy.sh/beatmapsets/2639250#osu/5948691)
+- Free Mod
+  1. [yanaginagi - Outsider (Spectator) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/2271671#osu/4882744)
+  2. [YUC'e - Cappuchino (Dika312) \[Cozy Rain\]](https://osu.ppy.sh/beatmapsets/2639250#osu/5948691)
+- Tiebreaker
+
 ### Qualifiers
 
 **[Download the mappack here! (58 MB)](https://drive.google.com/file/d/18kD4tjWmEOHe_n5uKoANbueoUGZfnm3M/view)**
