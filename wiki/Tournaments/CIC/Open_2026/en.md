@@ -233,7 +233,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 5. Maps from the same mod pool **may not be picked by the same player twice in a row**.
    - For example, following a NM1 pick, the same player may not pick another map from the No Mod pool on their next picking turn.
 6. In a Hard Rock or Double Time pick, the Hidden mod may optionally be used by players on top of the respective mods.
-7. In a Free Mod pick, players have to apply at least one mod to play the beatmap with. Allowed mods are Hidden, Hard Rock, or a combination of the two.
+7. In a Free Mod pick, players have to apply at least one mod to play the beatmap with. Allowed mods include Hidden, Hard Rock, or both.
    - Playing a Free Mod pick without any mods applied is not allowed.
 8. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
