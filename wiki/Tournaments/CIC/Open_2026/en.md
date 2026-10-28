@@ -6,7 +6,7 @@ tags:
 
 # Catch Indonesia Cup Open 2026
 
-![Catch Indonesia Cup Open 2026 banner](img/banner.jpg)
+![Catch Indonesia Cup Open 2026 banner](img/banner_new.png)
 
 The **Catch Indonesia Cup Open 2026** (***CICO 2026***) is a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), and ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898). Despite its name, the tournament is open to all osu!catch players from the around the world regardless of geographical location. It is the fourteenth iteration of the Catch the Beat Indonesia Cup, as well as the fourth one to be held under the "Open" format.
 
@@ -62,6 +62,7 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 - [Discord server](https://discord.gg/YwAYbPa)
 - [Challonge brackets](https://challonge.com/CICO2026)
 - [Livestream channel](https://www.twitch.tv/osucatchid)
+- [Pick'ems page](https://pickem.hoaq.works/tournament/19) hosted by ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512)
 
 ## Participants
 
