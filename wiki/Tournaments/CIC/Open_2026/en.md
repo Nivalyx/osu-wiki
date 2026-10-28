@@ -231,11 +231,11 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 4. Players are expected to exercise common sense in the pick time and ready time windows.
    - Depending on the severity and frequency, players will be punished for their misdemeanours during these time windows. For the list of all the possible punishments, please refer to [this screenshot](https://leopard.hosting.pecon.us/dl/hzlkt).
 5. Maps from the same mod pool **may not be picked by the same player twice in a row**.
-   - For example, following a NM1 pick, the same player may not pick another map from the No Mod pool on their next picking turn.   
-6. In a Hard Rock or Double Time pick, the Hidden mod may optionally be used by players on top of the respective mods.   
-7. In a Free Mod pick, players have to apply at least one mod to play the beatmap with. Allowed mods are Easy, Hard Rock, Hidden, or any possible combinations of the three mods. 
+   - For example, following a NM1 pick, the same player may not pick another map from the No Mod pool on their next picking turn.
+6. In a Hard Rock or Double Time pick, the Hidden mod may optionally be used by players on top of the respective mods.
+7. In a Free Mod pick, players have to apply at least one mod to play the beatmap with. Allowed mods are Hidden, Hard Rock, or a combination of the two.
    - Playing a Free Mod pick without any mods applied is not allowed.
-8. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to. 
+8. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 9. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
 
