@@ -174,6 +174,8 @@ Sunday, 1 November 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[HelpMePleasee](https://osu.ppy.sh/users/10835397)** ::{ flag=CO }:: | **5** | 3 | ::{ flag=CN }:: [Cornet](https://osu.ppy.sh/users/18468376) | [#1](https://osu.ppy.sh/community/matches/122099442) |
+| Upper | **[eauikk]https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **5** | 1 | ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459) | [#1](https://osu.ppy.sh/community/matches/122099593) |
 
 ## Ruleset
 
