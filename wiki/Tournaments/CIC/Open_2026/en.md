@@ -161,7 +161,10 @@ Saturday, 31 October 2026:
 | Upper | [dazzulay](https://osu.ppy.sh/users/1948043) ::{ flag=CN }:: | 0 | **5** | ::{ flag=HR }:: **[doddo](https://osu.ppy.sh/users/5166056)** | [#1](https://osu.ppy.sh/community/matches/122095956) |
 | Upper | **[Juansy-](https://osu.ppy.sh/users/12588215)** ::{ flag=CO }:: | **5** | 0 | ::{ flag=TR }:: [shimu](https://osu.ppy.sh/users/14318796) | [#1](https://osu.ppy.sh/community/matches/122095955) |
 | Upper | [ElSkeffe](https://osu.ppy.sh/users/6283136) ::{ flag=BE }:: | 1 | **5** | ::{ flag=TW }:: **[- S H -](https://osu.ppy.sh/users/2548278)** | [#1](https://osu.ppy.sh/community/matches/122094485) |
-
+| Upper | **[Boltico](https://osu.ppy.sh/users/5297904)** ::{ flag=PE }:: | **5** | 0 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | [#1](https://osu.ppy.sh/community/matches/122096271) |
+| Upper | [Lunati1kid](https://osu.ppy.sh/users/25723773) ::{ flag=PE }:: | 1 | **5** | ::{ flag=RU }:: **[Nerris](https://osu.ppy.sh/users/11202866)** | [#1](https://osu.ppy.sh/community/matches/122096597) |
+| Upper | **[-Rustyy](https://osu.ppy.sh/users/16355636)** ::{ flag=PH }:: | **5** | 4 | ::{ flag=BG }:: [Azakriel](https://osu.ppy.sh/users/30653081) | [#1](https://osu.ppy.sh/community/matches/122096263) |
+| Upper | [madcin](https://osu.ppy.sh/users/2957534) ::{ flag=PL }:: | 0 | **5** | ::{ flag=ID }:: **[Keita](https://osu.ppy.sh/users/3355617)** | *win by default* |
 
 ## Ruleset
 
