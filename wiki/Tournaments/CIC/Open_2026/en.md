@@ -41,7 +41,7 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) |
-| Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
+| Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
 | Custom mapper | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=CO }:: [\[ Azu- \]](https://osu.ppy.sh/users/8290364), *more TBA* |
 | Hitsounder | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=IT }:: [Leomine](https://osu.ppy.sh/users/13277919) |
 | Playtester | ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=FR }:: [Nelys](https://osu.ppy.sh/users/8422828), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FI }:: [Veeti](https://osu.ppy.sh/users/12863098), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
@@ -75,7 +75,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 1 | ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439) | 8.887 |
 | 2 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 8.807 |
 | 3 | ::{ flag=PE }:: [Boltico](https://osu.ppy.sh/users/5297904) | 8.743 |
-| 4 | ::{ flag=ID }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | 8.706 |
+| 4 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | 8.706 |
 | 5 | ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215) | 8.691 |
 | 6 | ::{ flag=CO }:: [HelpMePleasee](https://osu.ppy.sh/users/10835397) | 8.532 |
 | 7 | ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036) | 8.530 |
@@ -148,7 +148,13 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
   2. [NewJeans - Right Now (Spectator) \[Overdose (CICO Ver.)\]](https://osu.ppy.sh/beatmapsets/2639588#fruits/5951344)
 - Double Time
   1. [yanaginagi - Outsider (Spectator) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/2271671#osu/4882744)
-  2. [YUC'e - Cappuchino (Dika312) \[Cozy Rain\]](https://osu.ppy.sh/beatmapsets/2639250#osu/5948691)
+  2. [YUC'e - Cappuchino (dika312) \[Cozy Rain\]](https://osu.ppy.sh/beatmapsets/2639250#osu/5948691)
+
+## Match results
+
+### Round of 32
+
+Saturday, 31 October 2026:
 
 ## Ruleset
 
