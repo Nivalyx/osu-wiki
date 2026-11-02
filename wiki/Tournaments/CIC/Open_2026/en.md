@@ -159,12 +159,21 @@ Saturday, 31 October 2026:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | [dazzulay](https://osu.ppy.sh/users/1948043) ::{ flag=CN }:: | 0 | **5** | ::{ flag=HR }:: **[doddo](https://osu.ppy.sh/users/5166056)** | [#1](https://osu.ppy.sh/community/matches/122095956) |
+| Upper | **[Firu](https://osu.ppy.sh/users/10516547)** ::{ flag=MX }:: | **5** | 3 | ::{ flag=ES }:: [Sprint](https://osu.ppy.sh/users/13845399) | [#1](https://osu.ppy.sh/community/matches/122096977) |
+| Upper | [\[Romanos\]](https://osu.ppy.sh/users/4682813) ::{ flag=GR }:: | 3 | **5** | ::{ flag=CL }:: **[Smukur](https://osu.ppy.sh/users/6434318)** | [#1](https://osu.ppy.sh/community/matches/122097332) |
 | Upper | **[Juansy-](https://osu.ppy.sh/users/12588215)** ::{ flag=CO }:: | **5** | 0 | ::{ flag=TR }:: [shimu](https://osu.ppy.sh/users/14318796) | [#1](https://osu.ppy.sh/community/matches/122095955) |
 | Upper | [ElSkeffe](https://osu.ppy.sh/users/6283136) ::{ flag=BE }:: | 1 | **5** | ::{ flag=TW }:: **[- S H -](https://osu.ppy.sh/users/2548278)** | [#1](https://osu.ppy.sh/community/matches/122094485) |
 | Upper | **[Boltico](https://osu.ppy.sh/users/5297904)** ::{ flag=PE }:: | **5** | 0 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | [#1](https://osu.ppy.sh/community/matches/122096271) |
+| Upper | **[SirGonzaxz](https://osu.ppy.sh/users/17309439)** ::{ flag=AR }:: | **5** | 0 | ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880) | [#1](https://osu.ppy.sh/community/matches/122098676) |
 | Upper | [Lunati1kid](https://osu.ppy.sh/users/25723773) ::{ flag=PE }:: | 1 | **5** | ::{ flag=RU }:: **[Nerris](https://osu.ppy.sh/users/11202866)** | [#1](https://osu.ppy.sh/community/matches/122096597) |
 | Upper | **[-Rustyy](https://osu.ppy.sh/users/16355636)** ::{ flag=PH }:: | **5** | 4 | ::{ flag=BG }:: [Azakriel](https://osu.ppy.sh/users/30653081) | [#1](https://osu.ppy.sh/community/matches/122096263) |
+| Upper | **[Aryssiel](https://osu.ppy.sh/users/2389481)** ::{ flag=CL }:: | **5** | 3 | ::{ flag=RU }:: [smelly DVD box](https://osu.ppy.sh/users/6647589) | [#1](https://osu.ppy.sh/community/matches/122097330) |
 | Upper | [madcin](https://osu.ppy.sh/users/2957534) ::{ flag=PL }:: | 0 | **5** | ::{ flag=ID }:: **[Keita](https://osu.ppy.sh/users/3355617)** | *win by default* |
+
+Sunday, 1 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
 
 ## Ruleset
 
