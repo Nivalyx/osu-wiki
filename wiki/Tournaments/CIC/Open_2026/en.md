@@ -156,6 +156,13 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 Saturday, 31 October 2026:
 
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [dazzulay](https://osu.ppy.sh/users/1948043) ::{ flag=CN }:: | 0 | **5** | ::{ flag=HR }:: **[doddo](https://osu.ppy.sh/users/5166056)** | [#1](https://osu.ppy.sh/community/matches/122095956) |
+| Upper | **[Juansy-](https://osu.ppy.sh/users/12588215)** ::{ flag=CO }:: | **5** | 0 | ::{ flag=TR }:: [shimu](https://osu.ppy.sh/users/14318796) | [#1](https://osu.ppy.sh/community/matches/122095955) |
+| Upper | [ElSkeffe](https://osu.ppy.sh/users/6283136) ::{ flag=BE }:: | 1 | **5** | ::{ flag=TW }:: **[- S H -](https://osu.ppy.sh/users/2548278)** | [#1](https://osu.ppy.sh/community/matches/122094485) |
+
+
 ## Ruleset
 
 ### General rules
