@@ -109,7 +109,7 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ### Round of 16
 
-**[Download the mappack here! (113 MB)](https://drive.google.com/file/d/1CYfPV4hVFKiQUiZf6EXFYkx2f8CT2fXX/view)**
+**[Download the mappack here! (116 MB)](https://drive.google.com/file/d/1-UsReW-fkHN2qT9tewkiweRoBvU12lrD/view)**
 
 - No Mod
   1. [void - Dedication (Beepu) \[Hollow Vow\]](https://osu.ppy.sh/beatmapsets/2647441#fruits/5979022)
