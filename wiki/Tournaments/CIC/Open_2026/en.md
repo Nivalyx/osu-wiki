@@ -107,48 +107,75 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (113 MB)](https://drive.google.com/file/d/1CYfPV4hVFKiQUiZf6EXFYkx2f8CT2fXX/view)**
+
+- No Mod
+  1. [void - Dedication (Beepu) \[Hollow Vow\]](https://osu.ppy.sh/beatmapsets/2647441#fruits/5979022)
+  2. [DJ Raisei - ReDIVE NEURON (Jemzuu) \[Unlucky\_w's Overdose\]](https://osu.ppy.sh/beatmapsets/2321611#fruits/5017095)
+  3. [meganeko - Moonflowers (DizzyOracel) \[fall into the night\]](https://osu.ppy.sh/beatmapsets/2647443#fruits/5979024)
+  4. [bibuko - Homework Crisis (Spectator) \[Let's Dash!!\]](https://osu.ppy.sh/beatmapsets/2647648#fruits/5979752)
+- Hidden
+  1. [YOASOBI - UNDEAD (Spectator) \[Crowley's Overdose\]](https://osu.ppy.sh/beatmapsets/2243054#fruits/4950436)
+  2. [Shikata Akiko - METHOD\_METAFALICA/. (Madoka Ayukawa) \[Mir\]](https://osu.ppy.sh/beatmapsets/2647422#fruits/5978979)
+  3. [YUC'e - POISON -KO3 Remix- (My Angel RangE) \[POISON -5- (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2647408#fruits/5978926)
+- Hard Rock
+  1. [Mimori Suzuko - Light for Knight (-Miya) \[White Knight (HR Edit)\]](https://osu.ppy.sh/beatmapsets/2647424#fruits/5978981)
+  2. [Nanatsukaze - Sakura Rain (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2647428#fruits/5978992)
+  3. [seatrus - Ataraxia (2020 Rework) (EpanPan) \[Eudaimonia\]](https://osu.ppy.sh/beatmapsets/2647427#fruits/5978988)
+- Double Time
+  1. [kessoku band - Re:Re: (Yumeno Himiko) \[atomic's Rain\]](https://osu.ppy.sh/beatmapsets/2330599#fruits/5002103)
+  2. [EmoCosine - Love Pills (Zvenx) \[Addiction\]](https://osu.ppy.sh/beatmapsets/2647438#fruits/5979014)
+  3. [Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) (Constantine) \[rinkiha & Bober's Enchanted Love (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2647862#fruits/5981269)
+- Free Mod
+  1. [My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na) (Zvenx) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2647440#fruits/5979020)
+  2. [*wakadori - NightTheater (Yoshi\_green) \[WinterRain\]](https://osu.ppy.sh/beatmapsets/2647442#fruits/5979023)
+- Tiebreaker
+  1. **[Helblinde - The Solace of Oblivion (Daletto) \[Daletto & Spec's Salvation in Bloodshed\]](https://osu.ppy.sh/beatmapsets/2647537#fruits/5979309)**
+
 ### Round of 32
 
 **[Download the mappack here! (113 MB)](https://drive.google.com/file/d/1CYfPV4hVFKiQUiZf6EXFYkx2f8CT2fXX/view)**
 
 - No Mod
-  1. [sheirara - RARARA (EpanPan) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2643612#osu/5966053)
-  2. [ak+q - Excelsia (EpanPan) \[Elysium\]](https://osu.ppy.sh/beatmapsets/2643620#osu/5966078)
-  3. [XL Project - THE DAMNED STALKERS (hy1hy1hy) \[Steven's ctb\]](https://osu.ppy.sh/beatmapsets/22037#osu/77930)
-  4. [yanaginagi - landscape (Spectator) \[overdose\]](https://osu.ppy.sh/beatmapsets/2644065#osu/5967481)
+  1. [sheirara - RARARA (EpanPan) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2643612#fruits/5966053)
+  2. [ak+q - Excelsia (EpanPan) \[Elysium\]](https://osu.ppy.sh/beatmapsets/2643620#fruits/5966078)
+  3. [XL Project - THE DAMNED STALKERS (hy1hy1hy) \[Steven's ctb\]](https://osu.ppy.sh/beatmapsets/22037#fruits/77930)
+  4. [yanaginagi - landscape (Spectator) \[overdose\]](https://osu.ppy.sh/beatmapsets/2644065#fruits/5967481)
 - Hidden
-  1. [Isekaijoucho - To the endless sky (Sololiquy) \[Memories\]](https://osu.ppy.sh/beatmapsets/2643627#osu/5966096)
-  2. [Boom Kitty - Cord Cutter (Zvenx) \[Epan say this is easy\]](https://osu.ppy.sh/beatmapsets/2643902#osu/5967007)
+  1. [Isekaijoucho - To the endless sky (Sololiquy) \[Memories\]](https://osu.ppy.sh/beatmapsets/2643627#fruits/5966096)
+  2. [Boom Kitty - Cord Cutter (Zvenx) \[Epan say this is easy\]](https://osu.ppy.sh/beatmapsets/2643902#fruits/5967007)
 - Hard Rock
-  1. [solfa feat. Ceui - Natsuiro Yakimochi Koi Moyou (ItzFfas) \[Precious Feeling\]](https://osu.ppy.sh/beatmapsets/2611984#osu/5850788)
-  2. [DOT96 - MAKE IT FUNKY NOW (hiroshiki) \[MAKE IT CATCH NOW\]](https://osu.ppy.sh/beatmapsets/2469196#osu/5407397)
+  1. [solfa feat. Ceui - Natsuiro Yakimochi Koi Moyou (ItzFfas) \[Precious Feeling\]](https://osu.ppy.sh/beatmapsets/2611984#fruits/5850788)
+  2. [DOT96 - MAKE IT FUNKY NOW (hiroshiki) \[MAKE IT CATCH NOW\]](https://osu.ppy.sh/beatmapsets/2469196#fruits/5407397)
 - Double Time
-  1. [ClariS - Colorful -season 03- (Fisicia) \[Vibrant Colors\]](https://osu.ppy.sh/beatmapsets/2643757#osu/5966484)
-  2. [Frums - the end of this world, and the girl who crossed the moon's oceans. (Cut Ver.) (fayew) \[rain\]](https://osu.ppy.sh/beatmapsets/2154917#osu/4541816)
-  3. [-45 - Guinevere (Madoka Ayukawa) \[Crystal Violet\]](https://osu.ppy.sh/beatmapsets/2643915#osu/5967036)
+  1. [ClariS - Colorful -season 03- (Fisicia) \[Vibrant Colors\]](https://osu.ppy.sh/beatmapsets/2643757#fruits/5966484)
+  2. [Frums - the end of this world, and the girl who crossed the moon's oceans. (Cut Ver.) (fayew) \[rain\]](https://osu.ppy.sh/beatmapsets/2154917#fruits/4541816)
+  3. [-45 - Guinevere (Madoka Ayukawa) \[Crystal Violet\]](https://osu.ppy.sh/beatmapsets/2643915#fruits/5967036)
 - Free Mod
-  1. [Tokyo Jihen - Sounan (Dedot) \[Lost\]](https://osu.ppy.sh/beatmapsets/2067609#osu/4325523)
-  2. [Mitsukiyo - Luminous Memory (Sololiquy) \[Memory [CICO edit]\]](https://osu.ppy.sh/beatmapsets/1927452#osu/5966129)
+  1. [Tokyo Jihen - Sounan (Dedot) \[Lost\]](https://osu.ppy.sh/beatmapsets/2067609#fruits/4325523)
+  2. [Mitsukiyo - Luminous Memory (Sololiquy) \[Memory [CICO edit]\]](https://osu.ppy.sh/beatmapsets/1927452#fruits/5966129)
 - Tiebreaker
-  1. **[Pratanallis feat. KOKOMI - Black Berserker (\[ Azu- \]) \[Darkness in Grace\]](https://osu.ppy.sh/beatmapsets/2643642#osu/5966131)**
+  1. **[Pratanallis feat. KOKOMI - Black Berserker (\[ Azu- \]) \[Darkness in Grace\]](https://osu.ppy.sh/beatmapsets/2643642#fruits/5966131)**
 
 ### Qualifiers
 
 **[Download the mappack here! (58 MB)](https://drive.google.com/file/d/18kD4tjWmEOHe_n5uKoANbueoUGZfnm3M/view)**
 
 - No Mod
-  1. [LV.4 feat. Yuu Ikeba - Sentimental Surge (Mojotax) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2599185#osu/5809669)
-  2. [ARForest - Final Resonance (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2639271#osu/5948755)
-  3. [Shounen Radio - neu (AnApple7) \[smile and cry; you and me!\]](https://osu.ppy.sh/beatmapsets/2337190#osu/5018067)
+  1. [LV.4 feat. Yuu Ikeba - Sentimental Surge (Mojotax) \[Sensation\]](https://osu.ppy.sh/beatmapsets/2599185#fruits/5809669)
+  2. [ARForest - Final Resonance (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2639271#fruits/5948755)
+  3. [Shounen Radio - neu (AnApple7) \[smile and cry; you and me!\]](https://osu.ppy.sh/beatmapsets/2337190#fruits/5018067)
 - Hidden
-  1. [Mitsukiyo - Mikansei Romantic (feat. kotono) (sawarabi) \[Dramatic Love\]](https://osu.ppy.sh/beatmapsets/2464646#osu/5394778)
-  2. [Tanchiky - TouchDown (autofanboy) \[KickOff (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2639255#osu/5948698)
+  1. [Mitsukiyo - Mikansei Romantic (feat. kotono) (sawarabi) \[Dramatic Love\]](https://osu.ppy.sh/beatmapsets/2464646#fruits/5394778)
+  2. [Tanchiky - TouchDown (autofanboy) \[KickOff (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2639255#fruits/5948698)
 - Hard Rock
-  1. [Imy - Countdown (EpanPan) \[Eternal Time\]](https://osu.ppy.sh/beatmapsets/2639244#osu/5948656)
+  1. [Imy - Countdown (EpanPan) \[Eternal Time\]](https://osu.ppy.sh/beatmapsets/2639244#fruits/5948656)
   2. [NewJeans - Right Now (Spectator) \[Overdose (CICO Ver.)\]](https://osu.ppy.sh/beatmapsets/2639588#fruits/5951344)
 - Double Time
-  1. [yanaginagi - Outsider (Spectator) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/2271671#osu/4882744)
-  2. [YUC'e - Cappuchino (dika312) \[Cozy Rain\]](https://osu.ppy.sh/beatmapsets/2639250#osu/5948691)
+  1. [yanaginagi - Outsider (Spectator) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/2271671#fruits/4882744)
+  2. [YUC'e - Cappuchino (dika312) \[Cozy Rain\]](https://osu.ppy.sh/beatmapsets/2639250#fruits/5948691)
 
 ## Match results
 
