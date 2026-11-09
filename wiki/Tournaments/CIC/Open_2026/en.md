@@ -188,6 +188,8 @@ Saturday, 7 November 2026:
 | Upper | **[qwhj79](https://osu.ppy.sh/users/7547506)** ::{ flag=KR }:: | **6** | 0 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | [#1](https://osu.ppy.sh/community/matches/122127519) |
 | Lower | [Cipse](https://osu.ppy.sh/users/7928880) ::{ flag=NZ }:: | 4 | **6** | ::{ flag=ES }:: **[Sprint](https://osu.ppy.sh/users/13845399)** | [#1](https://osu.ppy.sh/community/matches/122127751) |
 | Upper | [Stark](https://osu.ppy.sh/users/1565036) ::{ flag=CL }:: | 4 | **6** | ::{ flag=TW }:: **[eauikk](https://osu.ppy.sh/users/1177233)** | [#1](https://osu.ppy.sh/community/matches/122129108) |
+| Lower | [MusicDropZ](https://osu.ppy.sh/users/12759554) ::{ flag=ES }:: | 1 | **6** | ::{ flag=PL }:: **[madcin](https://osu.ppy.sh/users/2957534)** | [#1](https://osu.ppy.sh/community/matches/122129804) |
+| Upper | **[Boltico](https://osu.ppy.sh/users/5297904)** ::{ flag=PE }:: | **6** | 2 | ::{ flag=HR }:: [doddo](https://osu.ppy.sh/users/5166056) | [#1](https://osu.ppy.sh/community/matches/122130475) |
 | Upper | **[Aryssiel](https://osu.ppy.sh/users/7547506)** ::{ flag=CL }:: | **6** | 0 | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | *win by default* |
 
 ### Round of 32
