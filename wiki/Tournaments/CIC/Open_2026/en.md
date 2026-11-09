@@ -202,6 +202,7 @@ Sunday, 8 November 2026:
 | Lower | [my angel auto](https://osu.ppy.sh/users/29503627) ::{ flag=HK }:: | 1 | **6** | ::{ flag=CN }:: **[dazzulay](https://osu.ppy.sh/users/1948043)** | [#1](https://osu.ppy.sh/community/matches/122130464) |
 | Upper | **[- N a g i -](https://osu.ppy.sh/users/2956936)** ::{ flag=CN }:: | **6** | 1 | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) | [#1](https://osu.ppy.sh/community/matches/122134179) |
 | Lower | [Cornet](https://osu.ppy.sh/users/18468376) ::{ flag=CN }:: | 3 | **6** | ::{ flag=BE }:: **[ElSkeffe](https://osu.ppy.sh/users/6283136)** | [#1](https://osu.ppy.sh/community/matches/122134514) |
+| Lower | **[smelly DVD box](https://osu.ppy.sh/users/6647589)** ::{ flag=RU }:: | **6** | 5 | ::{ flag=BG }:: [Azakriel](https://osu.ppy.sh/users/30653081) | [#1](https://osu.ppy.sh/community/matches/122135115) |
 
 ### Round of 32
 
