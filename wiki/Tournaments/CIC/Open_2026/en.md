@@ -198,6 +198,8 @@ Sunday, 8 November 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[HelpMePleasee](https://osu.ppy.sh/users/10835397)** ::{ flag=CO }:: | **6** | 1 | ::{ flag=TW }:: [- S H -](https://osu.ppy.sh/users/2548278) | [#1](https://osu.ppy.sh/community/matches/122132291) |
+| Lower | [my angel auto](https://osu.ppy.sh/users/29503627) ::{ flag=HK }:: | 1 | **6** | ::{ flag=CN }:: **[dazzulay](https://osu.ppy.sh/users/1948043)** | [#1](https://osu.ppy.sh/community/matches/122130464) |
 
 ### Round of 32
 
