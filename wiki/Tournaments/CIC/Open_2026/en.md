@@ -187,6 +187,7 @@ Saturday, 7 November 2026:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Upper | **[qwhj79](https://osu.ppy.sh/users/7547506)** ::{ flag=KR }:: | **6** | 0 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | [#1](https://osu.ppy.sh/community/matches/122127519) |
 | Lower | [Cipse](https://osu.ppy.sh/users/7928880) ::{ flag=NZ }:: | 4 | **6** | ::{ flag=ES }:: **[Sprint](https://osu.ppy.sh/users/13845399)** | [#1](https://osu.ppy.sh/community/matches/122127751) |
+| Upper | [Stark](https://osu.ppy.sh/users/1565036) ::{ flag=CL }:: | 4 | **6** | ::{ flag=TW }:: **[eauikk](https://osu.ppy.sh/users/1177233)** | [#1](https://osu.ppy.sh/community/matches/122129108) |
 
 ### Round of 32
 
