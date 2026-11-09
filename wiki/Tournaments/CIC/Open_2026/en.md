@@ -179,6 +179,15 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Match results
 
+### Round of 16
+
+Saturday, 7 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[qwhj79](https://osu.ppy.sh/users/7547506)** ::{ flag=KR }:: | **6** | 0 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | [#1](https://osu.ppy.sh/community/matches/122127519) |
+| Lower | [Cipse](https://osu.ppy.sh/users/7928880) ::{ flag=NZ }:: | 4 | **6** | ::{ flag=ES }:: **[Sprint](https://osu.ppy.sh/users/13845399)** | [#1](https://osu.ppy.sh/community/matches/122127751) |
+
 ### Round of 32
 
 Saturday, 31 October 2026:
