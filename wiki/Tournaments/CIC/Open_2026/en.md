@@ -194,6 +194,11 @@ Saturday, 7 November 2026:
 | Upper | **[Boltico](https://osu.ppy.sh/users/5297904)** ::{ flag=PE }:: | **6** | 2 | ::{ flag=HR }:: [doddo](https://osu.ppy.sh/users/5166056) | [#1](https://osu.ppy.sh/community/matches/122130475) |
 | Upper | **[Aryssiel](https://osu.ppy.sh/users/7547506)** ::{ flag=CL }:: | **6** | 0 | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | *win by default* |
 
+Sunday, 8 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+
 ### Round of 32
 
 Saturday, 31 October 2026:
