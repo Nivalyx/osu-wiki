@@ -204,6 +204,7 @@ Sunday, 8 November 2026:
 | Lower | [Cornet](https://osu.ppy.sh/users/18468376) ::{ flag=CN }:: | 3 | **6** | ::{ flag=BE }:: **[ElSkeffe](https://osu.ppy.sh/users/6283136)** | [#1](https://osu.ppy.sh/community/matches/122134514) |
 | Upper | **[SirGonzaxz](https://osu.ppy.sh/users/17309439)** ::{ flag=AR }:: | **6** | 0 | ::{ flag=MX }:: [Firu](https://osu.ppy.sh/users/10516547) | [#1](https://osu.ppy.sh/community/matches/122135734) |
 | Lower | **[smelly DVD box](https://osu.ppy.sh/users/6647589)** ::{ flag=RU }:: | **6** | 5 | ::{ flag=BG }:: [Azakriel](https://osu.ppy.sh/users/30653081) | [#1](https://osu.ppy.sh/community/matches/122135115) |
+| Lower | [shimu](https://osu.ppy.sh/users/14318796) ::{ flag=TR }:: | 0 | **6** | ::{ flag=GR }:: **[\[Romanos\]](https://osu.ppy.sh/users/4682813)** | *win by default* |
 
 ### Round of 32
 
