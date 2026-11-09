@@ -283,8 +283,7 @@ Sunday, 1 November 2026:
 2. Players will have to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match. 
    - Barring the tiebreaker, there are no restrictions as to which beatmaps may and may not be banned in a match.
    - Banning does not apply in the Qualifier lobbies.
-3. Players will be given a chance to pick **one warm-up beatmap** to be played in the lobby.
-   - Playing a warm-up beatmap is not mandatory, and players may elect to skip their warm-up pick should they wish to.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Players are expected to exercise common sense in the pick time and ready time windows.
    - Depending on the severity and frequency, players will be punished for their misdemeanours during these time windows. For the list of all the possible punishments, please refer to [this screenshot](https://leopard.hosting.pecon.us/dl/hzlkt).
 5. Maps from the same mod pool **may not be picked by the same player twice in a row**.
