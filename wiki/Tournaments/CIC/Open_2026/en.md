@@ -112,27 +112,27 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 **[Download the mappack here! (139 MB)](https://drive.google.com/file/d/1I7OJEjr1MSRNploPF1UnU5_2AZj-DeK2/view)**
 
 - No Mod
-  1. [void - Dedication (Beepu) \[Hollow Vow\]](https://osu.ppy.sh/beatmapsets/2647441#fruits/5979022)
-  2. [DJ Raisei - ReDIVE NEURON (Jemzuu) \[Unlucky\_w's Overdose\]](https://osu.ppy.sh/beatmapsets/2321611#fruits/5017095)
-  3. [meganeko - Moonflowers (DizzyOracel) \[fall into the night\]](https://osu.ppy.sh/beatmapsets/2647443#fruits/5979024)
-  4. [bibuko - Homework Crisis (Spectator) \[Let's Dash!!\]](https://osu.ppy.sh/beatmapsets/2647648#fruits/5979752)
+  1. [m108 - Shining Stella (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2651463#osu/5993909)
+  2. [DJ Noriken vs. MASAKI - QiXiN MAdN3ss 2153 (Jemzuu) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/1784525#osu/3654761)
+  3. [The Flashbulb - Coinage (Alepe) \[Numismatics\]](https://osu.ppy.sh/beatmapsets/2651330#osu/5993597)
+  4. [solfa feat. KOTOKO - affection (Madoka Ayukawa) \[Harmonious\]](https://osu.ppy.sh/beatmapsets/2651308#osu/5993529)
 - Hidden
-  1. [YOASOBI - UNDEAD (Spectator) \[Crowley's Overdose\]](https://osu.ppy.sh/beatmapsets/2243054#fruits/4950436)
-  2. [Shikata Akiko - METHOD\_METAFALICA/. (Madoka Ayukawa) \[Mir\]](https://osu.ppy.sh/beatmapsets/2647422#fruits/5978979)
-  3. [YUC'e - POISON -KO3 Remix- (My Angel RangE) \[POISON -5- (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2647408#fruits/5978926)
+  1. [Rigel Theatre - ECLIPSE (F D Flourite) \[I prefer VSCode\]](https://osu.ppy.sh/beatmapsets/2000364#osu/4158940)
+  2. [KAKU P-MODEL - Sore ike! Halycon (Deif) \[Go for it!\]](https://osu.ppy.sh/beatmapsets/1463986#osu/3007125)
+  3. [Primbe - Caelion (Race-) \[Race & Alepe's Heavenly Battle\]](https://osu.ppy.sh/beatmapsets/2651306#osu/5993527)
 - Hard Rock
-  1. [Mimori Suzuko - Light for Knight (-Miya) \[White Knight (HR Edit)\]](https://osu.ppy.sh/beatmapsets/2647424#fruits/5978981)
-  2. [Nanatsukaze - Sakura Rain (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2647428#fruits/5978992)
-  3. [seatrus - Ataraxia (2020 Rework) (EpanPan) \[Eudaimonia\]](https://osu.ppy.sh/beatmapsets/2647427#fruits/5978988)
+  1. [Fuki - Zinger Ringer Gang Love (-Luminate) \[Zvenx's Deluge\]](https://osu.ppy.sh/beatmapsets/2320439#osu/5031230)
+  2. [Fractal Dreamers - Ex Nihilo (wonjae) \[Genesis\]](https://osu.ppy.sh/beatmapsets/1254879#osu/2607991)
+  3. [trung-nova - Prism of Chroma (Natsuko) \[Metamorphopsia\]](https://osu.ppy.sh/beatmapsets/2651310#osu/5993532)
 - Double Time
-  1. [kessoku band - Re:Re: (Yumeno Himiko) \[atomic's Rain\]](https://osu.ppy.sh/beatmapsets/2330599#fruits/5002103)
-  2. [EmoCosine - Love Pills (Zvenx) \[Addiction\]](https://osu.ppy.sh/beatmapsets/2647438#fruits/5979014)
-  3. [Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) (BoberOfDarkness) \[rinkiha & Bober's Enchanted Love (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2647862#fruits/5981269)
+  1. [MYTH & ROID - shadowgraph (DizzyOracel) \[can you see the meaning inside yourself?\]](https://osu.ppy.sh/beatmapsets/2651847#osu/5995389)
+  2. [DJ Genki - RAVE BUSTERS (Zvenx) \[Nagi ask for Nilou bg in dt\]](https://osu.ppy.sh/beatmapsets/2651438#osu/5993862)
+  3. [u's - LOVELESS WORLD (Wyuuji) \[Rain (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2651752#osu/5995127)
 - Free Mod
-  1. [My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na) (Zvenx) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2647440#fruits/5979020)
-  2. [\*wakadori - NightTheater (Yoshi\_green) \[WinterRain\]](https://osu.ppy.sh/beatmapsets/2647442#fruits/5979023)
+  1. [FARUCO - Oshikatsu Angel Miss Vivian (feat. Mustard and beatMARIO) (Sololiquy) \[VIVIAN\]](https://osu.ppy.sh/beatmapsets/2651301#osu/5993517)
+  2. [Dictate - Militant (DizzyOracel) \[\_/-\\\_/\>0\<\\_/-\\\_\]](https://osu.ppy.sh/beatmapsets/2651321#osu/5993576)
 - Tiebreaker
-  1. **[Helblinde - The Solace of Oblivion (Daletto) \[Daletto & Spec's Salvation in Bloodshed\]](https://osu.ppy.sh/beatmapsets/2647537#fruits/5979309)**
+  1. **[trailmix37 - Achamoth (Zvenx) \[Divine Light\]](https://osu.ppy.sh/beatmapsets/2651476#osu/5993943)**
 
 ### Round of 16
 
