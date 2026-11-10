@@ -51,7 +51,7 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 | Design coordinator | ::{ flag=MY }:: [mochasan\_](https://osu.ppy.sh/users/23804364) |
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [smsrdzc](https://osu.ppy.sh/users/38505034), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=IN }:: [rrex](https://osu.ppy.sh/users/16827064), ::{ flag=CA }:: [Aquatic\_3](https://osu.ppy.sh/users/22711091) |
 | Illustrator | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [Rezukitazu](https://osu.ppy.sh/users/2499880), ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=ID }:: Minato [(↗)](https://twitter.com/minato28507), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=ID }:: Ueha10 [(↗)](https://twitter.com/Ueha10), ::{ flag=VN }:: Utopia [(↗)](https://twitter.com/_Utopia_Hope) |
-| Musician | ::{ flag=ID }:: sheirara [(↗)](https://twitter.com/sheirara), *more TBA* |
+| Musician | ::{ flag=ID }:: sheirara [(↗)](https://twitter.com/sheirara), ::{ flag=ES }:: Primbe [(↗)](https://soundcloud.com/primbe), ::{ flag=XX }:: trailmix37 [(↗)](https://twitter.com/trailmix37), *more TBA* |
 | Statistician | ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829), ::{ flag=PH }:: [MapleSyrup12](https://osu.ppy.sh/users/34222047) |
 | Wiki and newspost | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) |
 
@@ -106,6 +106,33 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 | 32 | ::{ flag=NZ }:: [Cipse](https://osu.ppy.sh/users/7928880) | 7.811 |
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (139 MB)](https://drive.google.com/file/d/1I7OJEjr1MSRNploPF1UnU5_2AZj-DeK2/view)**
+
+- No Mod
+  1. [void - Dedication (Beepu) \[Hollow Vow\]](https://osu.ppy.sh/beatmapsets/2647441#fruits/5979022)
+  2. [DJ Raisei - ReDIVE NEURON (Jemzuu) \[Unlucky\_w's Overdose\]](https://osu.ppy.sh/beatmapsets/2321611#fruits/5017095)
+  3. [meganeko - Moonflowers (DizzyOracel) \[fall into the night\]](https://osu.ppy.sh/beatmapsets/2647443#fruits/5979024)
+  4. [bibuko - Homework Crisis (Spectator) \[Let's Dash!!\]](https://osu.ppy.sh/beatmapsets/2647648#fruits/5979752)
+- Hidden
+  1. [YOASOBI - UNDEAD (Spectator) \[Crowley's Overdose\]](https://osu.ppy.sh/beatmapsets/2243054#fruits/4950436)
+  2. [Shikata Akiko - METHOD\_METAFALICA/. (Madoka Ayukawa) \[Mir\]](https://osu.ppy.sh/beatmapsets/2647422#fruits/5978979)
+  3. [YUC'e - POISON -KO3 Remix- (My Angel RangE) \[POISON -5- (CICO edit)\]](https://osu.ppy.sh/beatmapsets/2647408#fruits/5978926)
+- Hard Rock
+  1. [Mimori Suzuko - Light for Knight (-Miya) \[White Knight (HR Edit)\]](https://osu.ppy.sh/beatmapsets/2647424#fruits/5978981)
+  2. [Nanatsukaze - Sakura Rain (Sololiquy) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2647428#fruits/5978992)
+  3. [seatrus - Ataraxia (2020 Rework) (EpanPan) \[Eudaimonia\]](https://osu.ppy.sh/beatmapsets/2647427#fruits/5978988)
+- Double Time
+  1. [kessoku band - Re:Re: (Yumeno Himiko) \[atomic's Rain\]](https://osu.ppy.sh/beatmapsets/2330599#fruits/5002103)
+  2. [EmoCosine - Love Pills (Zvenx) \[Addiction\]](https://osu.ppy.sh/beatmapsets/2647438#fruits/5979014)
+  3. [Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) (BoberOfDarkness) \[rinkiha & Bober's Enchanted Love (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2647862#fruits/5981269)
+- Free Mod
+  1. [My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na) (Zvenx) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2647440#fruits/5979020)
+  2. [\*wakadori - NightTheater (Yoshi\_green) \[WinterRain\]](https://osu.ppy.sh/beatmapsets/2647442#fruits/5979023)
+- Tiebreaker
+  1. **[Helblinde - The Solace of Oblivion (Daletto) \[Daletto & Spec's Salvation in Bloodshed\]](https://osu.ppy.sh/beatmapsets/2647537#fruits/5979309)**
 
 ### Round of 16
 
