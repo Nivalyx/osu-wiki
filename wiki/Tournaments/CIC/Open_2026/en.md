@@ -208,6 +208,19 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ### Quarterfinals
 
+Friday, 13 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Stark](https://osu.ppy.sh/users/1565036)** ::{ flag=CL }:: | **6** | 0 | ::{ flag=PL }:: [madcin](https://osu.ppy.sh/users/2957534) | [#1](https://osu.ppy.sh/community/matches/122157972) |
+| Lower | [Firu](https://osu.ppy.sh/users/10516547) ::{ flag=MX }:: | 2 | **6** | ::{ flag=BE }:: **[ElSkeffe](https://osu.ppy.sh/users/6283136)** | [#1](https://osu.ppy.sh/community/matches/122157118) |
+| Lower | [-Rustyy](https://osu.ppy.sh/users/16355636) ::{ flag=PH }:: | 0 | **6** | ::{ flag=CN }:: **[dazzulay](https://osu.ppy.sh/users/1948043)** | *win by default* |
+
+Saturday, 14 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+
 ### Round of 16
 
 Saturday, 7 November 2026:
