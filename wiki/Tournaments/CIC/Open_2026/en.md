@@ -212,11 +212,19 @@ Friday, 13 November 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Stark](https://osu.ppy.sh/users/1565036)** ::{ flag=CL }:: | **6** | 0 | ::{ flag=PL }:: [madcin](https://osu.ppy.sh/users/2957534) | [#1](https://osu.ppy.sh/community/matches/122157972) |
+| Lower | **[Keita](https://osu.ppy.sh/users/3355617)** ::{ flag=CL }:: | **6** | 1 | ::{ flag=MX }:: [Niisan](https://osu.ppy.sh/users/19515018) | [#1](https://osu.ppy.sh/community/matches/122159674) |
 | Lower | [Firu](https://osu.ppy.sh/users/10516547) ::{ flag=MX }:: | 2 | **6** | ::{ flag=BE }:: **[ElSkeffe](https://osu.ppy.sh/users/6283136)** | [#1](https://osu.ppy.sh/community/matches/122157118) |
 | Lower | [-Rustyy](https://osu.ppy.sh/users/16355636) ::{ flag=PH }:: | 0 | **6** | ::{ flag=CN }:: **[dazzulay](https://osu.ppy.sh/users/1948043)** | *win by default* |
 
 Saturday, 14 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Nerris](https://osu.ppy.sh/users/11202866) ::{ flag=RU }:: | 2 | **6** | ::{ flag=GR }:: **[\[Romanos\]](https://osu.ppy.sh/users/4682813)** | [#1](https://osu.ppy.sh/community/matches/122162293) |
+| Lower | **[Stark](https://osu.ppy.sh/users/1565036)** ::{ flag=CL }:: | **6** | 0 | ::{ flag=PL }:: [madcin](https://osu.ppy.sh/users/2957534) | [#1](https://osu.ppy.sh/community/matches/122157972) |
+| Lower | **[Juansy-](hhttps://osu.ppy.sh/users/12588215)** ::{ flag=CO }:: | **6** | 5 | ::{ flag=PE }:: [Lunati1kid](https://osu.ppy.sh/users/25723773) | [#1](https://osu.ppy.sh/community/matches/122163781) |
+
+Sunday, 15 November 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
