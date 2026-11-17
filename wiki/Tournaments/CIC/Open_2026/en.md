@@ -206,6 +206,8 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Match results
 
+### Quarterfinals
+
 ### Round of 16
 
 Saturday, 7 November 2026:
@@ -232,6 +234,12 @@ Sunday, 8 November 2026:
 | Upper | **[SirGonzaxz](https://osu.ppy.sh/users/17309439)** ::{ flag=AR }:: | **6** | 0 | ::{ flag=MX }:: [Firu](https://osu.ppy.sh/users/10516547) | [#1](https://osu.ppy.sh/community/matches/122135734) |
 | Lower | **[smelly DVD box](https://osu.ppy.sh/users/6647589)** ::{ flag=RU }:: | **6** | 5 | ::{ flag=BG }:: [Azakriel](https://osu.ppy.sh/users/30653081) | [#1](https://osu.ppy.sh/community/matches/122135115) |
 | Lower | [shimu](https://osu.ppy.sh/users/14318796) ::{ flag=TR }:: | 0 | **6** | ::{ flag=GR }:: **[\[Romanos\]](https://osu.ppy.sh/users/4682813)** | *win by default* |
+
+Monday, 9 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Juansy-](https://osu.ppy.sh/users/12588215) ::{ flag=CO }:: | 5 | **6** | ::{ flag=CL }:: **[Smukur](https://osu.ppy.sh/users/6434318)** | [#1](https://osu.ppy.sh/community/matches/122141188) |
 
 ### Round of 32
 
