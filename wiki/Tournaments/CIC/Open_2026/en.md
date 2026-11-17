@@ -222,12 +222,14 @@ Saturday, 14 November 2026:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [Nerris](https://osu.ppy.sh/users/11202866) ::{ flag=RU }:: | 2 | **6** | ::{ flag=GR }:: **[\[Romanos\]](https://osu.ppy.sh/users/4682813)** | [#1](https://osu.ppy.sh/community/matches/122162293) |
 | Lower | **[Stark](https://osu.ppy.sh/users/1565036)** ::{ flag=CL }:: | **6** | 0 | ::{ flag=PL }:: [madcin](https://osu.ppy.sh/users/2957534) | [#1](https://osu.ppy.sh/community/matches/122157972) |
-| Lower | **[Juansy-](hhttps://osu.ppy.sh/users/12588215)** ::{ flag=CO }:: | **6** | 5 | ::{ flag=PE }:: [Lunati1kid](https://osu.ppy.sh/users/25723773) | [#1](https://osu.ppy.sh/community/matches/122163781) |
+| Lower | **[Juansy-](https://osu.ppy.sh/users/12588215)** ::{ flag=CO }:: | **6** | 5 | ::{ flag=PE }:: [Lunati1kid](https://osu.ppy.sh/users/25723773) | [#1](https://osu.ppy.sh/community/matches/122163781) |
 
 Sunday, 15 November 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[doddo](https://osu.ppy.sh/users/5166056)** ::{ flag=HR }:: | **6** | 3 | ::{ flag=RU }:: [smelly DVD box](https://osu.ppy.sh/users/6647589) | [#1](https://osu.ppy.sh/community/matches/122166172) |
+| Lower | **[- S H -](https://osu.ppy.sh/users/2548278)** ::{ flag=TW }:: | **6** | 4 | ::{ flag=ES }:: [Sprint](https://osu.ppy.sh/users/13845399) | [#1](https://osu.ppy.sh/community/matches/122166169) |
 
 ### Round of 16
 
