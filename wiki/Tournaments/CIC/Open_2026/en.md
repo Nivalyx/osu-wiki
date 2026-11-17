@@ -229,11 +229,14 @@ Sunday, 15 November 2026:
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | [dazzulay](https://osu.ppy.sh/users/1948043) ::{ flag=CN }:: | 3 | **6** | ::{ flag=BE }:: **[ElSkeffe](https://osu.ppy.sh/users/6283136)** | [#1](https://osu.ppy.sh/community/matches/122167111) |
+| Upper | **[SirGonzaxz](https://osu.ppy.sh/users/17309439)** ::{ flag=AR }:: | **6** | 4 | ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481) | [#1](https://osu.ppy.sh/community/matches/122168673) |
 | Lower | **[doddo](https://osu.ppy.sh/users/5166056)** ::{ flag=HR }:: | **6** | 3 | ::{ flag=RU }:: [smelly DVD box](https://osu.ppy.sh/users/6647589) | [#1](https://osu.ppy.sh/community/matches/122166172) |
 | Lower | **[- S H -](https://osu.ppy.sh/users/2548278)** ::{ flag=TW }:: | **6** | 4 | ::{ flag=ES }:: [Sprint](https://osu.ppy.sh/users/13845399) | [#1](https://osu.ppy.sh/community/matches/122166169) |
 | Upper | **[qwhj79](https://osu.ppy.sh/users/7547506)** ::{ flag=HR }:: | **6** | 2 | ::{ flag=TW }:: [eauikk](https://osu.ppy.sh/users/1177233) | [#1](https://osu.ppy.sh/community/matches/122166568) |
 | Upper | **[- N a g i -](https://osu.ppy.sh/users/2956936)** ::{ flag=CN }:: | **6** | 1 | ::{ flag=CL }:: [Smukur](https://osu.ppy.sh/users/6434318) | [#1](https://osu.ppy.sh/community/matches/122167106) |
 | Lower | [- S H -](https://osu.ppy.sh/users/2548278) ::{ flag=TW }:: | 2 | **6** | ::{ flag=HR }:: **[doddo](https://osu.ppy.sh/users/5166056)** | [#1](https://osu.ppy.sh/community/matches/122166449) |
+| Upper | **[Stark](https://osu.ppy.sh/users/1565036)** ::{ flag=CL }:: | **6** | 4 | ::{ flag=GR }:: [\[Romanos\]](https://osu.ppy.sh/users/4682813) | [#1](https://osu.ppy.sh/community/matches/122168398) |
+| Lower | [Juansy-](https://osu.ppy.sh/users/12588215) ::{ flag=CO }:: | 0 | **6** | ::{ flag=ID }:: **[Keita](https://osu.ppy.sh/users/3355617)** | *win by default* |
 
 ### Round of 16
 
