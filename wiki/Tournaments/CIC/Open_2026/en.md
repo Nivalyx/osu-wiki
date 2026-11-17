@@ -107,32 +107,61 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (128 MB)](https://drive.google.com/file/d/1OKgYsthYpJHCYZzqdwe1mJ9brR2_xnq2/view?usp=sharing)**
+
+- No Mod
+  1. [Ado - Vivarium (\[ Azu- \]) \[Trust Myself\]](https://osu.ppy.sh/beatmapsets/2654980#fruits/6006623)
+  2. [A? - ENERGY INFLATION (yeeeter) \[OVERCHARGE\]](https://osu.ppy.sh/beatmapsets/2655048#fruits/6006756)
+  3. [onoken - F-mine (Nidoking) \[Tragedy of the Star-Crossed\]](https://osu.ppy.sh/beatmapsets/2655224#fruits/6007258)
+  4. [sumika - Fanfare (Madoka Ayukawa) \[Farewell\]](https://osu.ppy.sh/beatmapsets/2654999#fruits/6006653)
+  5. [NIWASHI - T\_ritama Breaker (EpanPan) \[Speed Breaker\]](https://osu.ppy.sh/beatmapsets/2654987#fruits/6006634)
+- Hidden
+  1. [Risa Yuzuki - Black Winged Variation (EpanPan) \[Raven's Waltz\]](https://osu.ppy.sh/beatmapsets/2654989#fruits/6006640)
+  2. [Mili - world.execute(me); (-Miya) \[cico.mappool(SF-HD-2);\]](https://osu.ppy.sh/beatmapsets/2654990#fruits/6006641)
+  3. [Feryquitous vs. Laur - Arghena (Jemzuu) \[Aeterna\]](https://osu.ppy.sh/beatmapsets/2655266#fruits/6007352)
+- Hard Rock
+  1. [ELFENSJoN - AshVeit (-Luminate) \[Smouldering Determination\]](https://osu.ppy.sh/beatmapsets/2655003#fruits/6006660)
+  2. [Risa Yuzuki (Prod. Feryquitous) - EtE (-Miya) \[from eternity to the beyond (CICO Ver.)\]](https://osu.ppy.sh/beatmapsets/2654995#fruits/6006648)
+  3. [1zm8 - SO H\*PPY!! (Vaqu) \[ULTIMATE ACCELERATION!!\]](https://osu.ppy.sh/beatmapsets/2655067#fruits/6006795)
+- Double Time
+  1. [Camellia feat. Nanahira - Animal Land (My Angel RangE) \[Nya Chan\]](https://osu.ppy.sh/beatmapsets/2655002#fruits/6006659)
+  2. [F-777 - Deadlocked (Yoshi\_green) \[It would seem we have reached an impasse.\]](https://osu.ppy.sh/beatmapsets/2395290#fruits/5188096)
+  3. [Nanahoshi Kangengakudan - Rubik's Cube (Spectator) \[Aku's Rain\]](https://osu.ppy.sh/beatmapsets/2238952#fruits/4869770)
+  4. [Getter Jaani - Rockefeller Street (hiroshiki) \[Let's keep movin' on!\]](https://osu.ppy.sh/beatmapsets/2655054#fruits/6006768)
+- Free Mod
+  1. [Pirendora - Pyroclastic Flow (Bunnrei) \[Hellfire\]](https://osu.ppy.sh/beatmapsets/2655008#fruits/6006666)
+  2. [M2U - White Rose (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2655295#fruits/6007434)
+- Tiebreaker
+  1. **[XADA - The Purge (EpanPan) \[Tri-Protocol: Purge\]](https://osu.ppy.sh/beatmapsets/2655018#fruits/6006678)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (139 MB)](https://drive.google.com/file/d/1I7OJEjr1MSRNploPF1UnU5_2AZj-DeK2/view)**
 
 - No Mod
-  1. [m108 - Shining Stella (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2651463#osu/5993909)
-  2. [DJ Noriken vs. MASAKI - QiXiN MAdN3ss 2153 (Jemzuu) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/1784525#osu/3654761)
-  3. [The Flashbulb - Coinage (Alepe) \[Numismatics\]](https://osu.ppy.sh/beatmapsets/2651330#osu/5993597)
-  4. [solfa feat. KOTOKO - affection (Madoka Ayukawa) \[Harmonious\]](https://osu.ppy.sh/beatmapsets/2651308#osu/5993529)
+  1. [m108 - Shining Stella (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2651463#fruits/5993909)
+  2. [DJ Noriken vs. MASAKI - QiXiN MAdN3ss 2153 (Jemzuu) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/1784525#fruits/3654761)
+  3. [The Flashbulb - Coinage (Alepe) \[Numismatics\]](https://osu.ppy.sh/beatmapsets/2651330#fruits/5993597)
+  4. [solfa feat. KOTOKO - affection (Madoka Ayukawa) \[Harmonious\]](https://osu.ppy.sh/beatmapsets/2651308#fruits/5993529)
 - Hidden
-  1. [Rigel Theatre - ECLIPSE (F D Flourite) \[I prefer VSCode\]](https://osu.ppy.sh/beatmapsets/2000364#osu/4158940)
-  2. [KAKU P-MODEL - Sore ike! Halycon (Deif) \[Go for it!\]](https://osu.ppy.sh/beatmapsets/1463986#osu/3007125)
-  3. [Primbe - Caelion (Race-) \[Race & Alepe's Heavenly Battle\]](https://osu.ppy.sh/beatmapsets/2651306#osu/5993527)
+  1. [Rigel Theatre - ECLIPSE (F D Flourite) \[I prefer VSCode\]](https://osu.ppy.sh/beatmapsets/2000364#fruits/4158940)
+  2. [KAKU P-MODEL - Sore ike! Halycon (Deif) \[Go for it!\]](https://osu.ppy.sh/beatmapsets/1463986#fruits/3007125)
+  3. [Primbe - Caelion (Race-) \[Race & Alepe's Heavenly Battle\]](https://osu.ppy.sh/beatmapsets/2651306#fruits/5993527)
 - Hard Rock
-  1. [Fuki - Zinger Ringer Gang Love (-Luminate) \[Zvenx's Deluge\]](https://osu.ppy.sh/beatmapsets/2320439#osu/5031230)
-  2. [Fractal Dreamers - Ex Nihilo (wonjae) \[Genesis\]](https://osu.ppy.sh/beatmapsets/1254879#osu/2607991)
-  3. [trung-nova - Prism of Chroma (Natsuko) \[Metamorphopsia\]](https://osu.ppy.sh/beatmapsets/2651310#osu/5993532)
+  1. [Fuki - Zinger Ringer Gang Love (-Luminate) \[Zvenx's Deluge\]](https://osu.ppy.sh/beatmapsets/2320439#fruits/5031230)
+  2. [Fractal Dreamers - Ex Nihilo (wonjae) \[Genesis\]](https://osu.ppy.sh/beatmapsets/1254879#fruits/2607991)
+  3. [trung-nova - Prism of Chroma (Natsuko) \[Metamorphopsia\]](https://osu.ppy.sh/beatmapsets/2651310#fruits/5993532)
 - Double Time
-  1. [MYTH & ROID - shadowgraph (DizzyOracel) \[can you see the meaning inside yourself?\]](https://osu.ppy.sh/beatmapsets/2651847#osu/5995389)
-  2. [DJ Genki - RAVE BUSTERS (Zvenx) \[Nagi ask for Nilou bg in dt\]](https://osu.ppy.sh/beatmapsets/2651438#osu/5993862)
-  3. [u's - LOVELESS WORLD (Wyuuji) \[Rain (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2651752#osu/5995127)
+  1. [MYTH & ROID - shadowgraph (DizzyOracel) \[can you see the meaning inside yourself?\]](https://osu.ppy.sh/beatmapsets/2651847#fruits/5995389)
+  2. [DJ Genki - RAVE BUSTERS (Zvenx) \[Nagi ask for Nilou bg in dt\]](https://osu.ppy.sh/beatmapsets/2651438#fruits/5993862)
+  3. [u's - LOVELESS WORLD (Wyuuji) \[Rain (CICO Edit)\]](https://osu.ppy.sh/beatmapsets/2651752#fruits/5995127)
 - Free Mod
-  1. [FARUCO - Oshikatsu Angel Miss Vivian (feat. Mustard and beatMARIO) (Sololiquy) \[VIVIAN\]](https://osu.ppy.sh/beatmapsets/2651301#osu/5993517)
-  2. [Dictate - Militant (DizzyOracel) \[\_/-\\\_/\>0\<\\_/-\\\_\]](https://osu.ppy.sh/beatmapsets/2651321#osu/5993576)
+  1. [FARUCO - Oshikatsu Angel Miss Vivian (feat. Mustard and beatMARIO) (Sololiquy) \[VIVIAN\]](https://osu.ppy.sh/beatmapsets/2651301#fruits/5993517)
+  2. [Dictate - Militant (DizzyOracel) \[\_/-\\\_/\>0\<\\_/-\\\_\]](https://osu.ppy.sh/beatmapsets/2651321#fruits/5993576)
 - Tiebreaker
-  1. **[trailmix37 - Achamoth (Zvenx) \[Divine Light\]](https://osu.ppy.sh/beatmapsets/2651476#osu/5993943)**
+  1. **[trailmix37 - Achamoth (Zvenx) \[Divine Light\]](https://osu.ppy.sh/beatmapsets/2651476#fruits/5993943)**
 
 ### Round of 16
 
