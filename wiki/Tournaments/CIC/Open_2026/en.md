@@ -230,6 +230,7 @@ Sunday, 15 November 2026:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **[doddo](https://osu.ppy.sh/users/5166056)** ::{ flag=HR }:: | **6** | 3 | ::{ flag=RU }:: [smelly DVD box](https://osu.ppy.sh/users/6647589) | [#1](https://osu.ppy.sh/community/matches/122166172) |
 | Lower | **[- S H -](https://osu.ppy.sh/users/2548278)** ::{ flag=TW }:: | **6** | 4 | ::{ flag=ES }:: [Sprint](https://osu.ppy.sh/users/13845399) | [#1](https://osu.ppy.sh/community/matches/122166169) |
+| Upper | **[qwhj79](https://osu.ppy.sh/users/7547506)** ::{ flag=HR }:: | **6** | 2 | ::{ flag=TW }:: [eauikk](https://osu.ppy.sh/users/1177233) | [#1](https://osu.ppy.sh/community/matches/122166568) |
 | Lower | [- S H -](https://osu.ppy.sh/users/2548278) ::{ flag=TW }:: | 2 | **6** | ::{ flag=HR }:: **[doddo](https://osu.ppy.sh/users/5166056)** | [#1](https://osu.ppy.sh/community/matches/122166449) |
 
 ### Round of 16
