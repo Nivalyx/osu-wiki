@@ -428,7 +428,7 @@ Sunday, 1 November 2026:
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
 2. Players will have to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match. 
-   - Barring the tiebreaker, there are no restrictions as to which beatmaps may and may not be banned in a match.
+   - Maps from the same mod pool may not be banned by a player in a match.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Players are expected to exercise common sense in the pick time and ready time windows.
