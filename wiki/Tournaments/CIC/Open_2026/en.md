@@ -253,6 +253,13 @@ Saturday, 21 November 2026:
 
 Sunday, 22 November 2026:
 
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[qwhj79](https://osu.ppy.sh/users/7547506)** ::{ flag=KR }:: | **7** | 3 | ::{ flag=PE }:: [Boltico](https://osu.ppy.sh/users/5297904) | [#1](https://osu.ppy.sh/community/matches/122199871) |
+| Lower | [doddo](https://osu.ppy.sh/users/5166056) ::{ flag=HR }:: | 6 | **7** | ::{ flag=CL }:: **[Aryssiel](https://osu.ppy.sh/users/2389481)** | [#1](https://osu.ppy.sh/community/matches/122201087) |
+| Upper | **[SirGonzaxz](https://osu.ppy.sh/users/17309439)** ::{ flag=AR }:: | **7** | 6 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | [#1](https://osu.ppy.sh/community/matches/122199578) |
+| Lower | [Keita](https://osu.ppy.sh/users/3355617) ::{ flag=ID }:: | 2 | **7** | ::{ flag=TW }:: **[eauikk](https://osu.ppy.sh/users/1177233)** | [#1](https://osu.ppy.sh/community/matches/122199050) |
+
 ### Quarterfinals
 
 Friday, 13 November 2026:
