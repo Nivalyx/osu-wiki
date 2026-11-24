@@ -235,6 +235,24 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 ## Match results
 
+### Semifinals
+
+Friday, 20 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Aryssiel](https://osu.ppy.sh/users/2389481)** ::{ flag=CL }:: | **7** | 5 | ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036) | [#1](https://osu.ppy.sh/community/matches/122195605) |
+
+Saturday, 21 November 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Smukur](https://osu.ppy.sh/users/6434318) ::{ flag=CL }:: | 6 | **7** | ::{ flag=HR }:: **[doddo](https://osu.ppy.sh/users/5166056)** | [#1](https://osu.ppy.sh/community/matches/122194981) |
+| Lower | **[eauikk](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **7** | 5 | ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136) | [#1](https://osu.ppy.sh/community/matches/122189249) |
+| Lower | **[Keita](https://osu.ppy.sh/users/3355617)** ::{ flag=CO }:: | **7** | 0 | ::{ flag=CO }:: [HelpMePleasee](https://osu.ppy.sh/users/10835397) | *win by default* |
+
+Sunday, 22 November 2026:
+
 ### Quarterfinals
 
 Friday, 13 November 2026:
